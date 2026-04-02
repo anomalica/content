@@ -1,7 +1,6 @@
 ---
 title: "Privacy Policy"
 description: "How Anomalica handles visitor data and protects privacy."
-url: /privacy/
 directives:
   - "Use formal tone throughout"
   - "Reference legislation by full name on each use"

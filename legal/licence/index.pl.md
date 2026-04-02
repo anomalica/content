@@ -1,7 +1,6 @@
 ---
 title: "Licencjonowanie"
 description: "Jak licencjonowane są treści i kod Anomalica."
-url: /licence/
 directives:
   - "Stosuj formalny ton w całym tekście"
   - "Przy każdym użyciu odwołuj się do typów licencji pełną nazwą z linkami"

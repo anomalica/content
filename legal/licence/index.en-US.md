@@ -1,7 +1,6 @@
 ---
 title: "Licensing"
 description: "How Anomalica's content and code are licensed."
-url: /licence/
 directives:
   - "Use formal tone throughout"
   - "Reference license types by full name with links on each use"

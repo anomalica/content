@@ -1,7 +1,6 @@
 ---
 title: "Kullanim Kosullari"
 description: "Anomalica platformunun kullanimini duzenleyen kosullar."
-url: /terms/
 directives:
   - "Bastan sona resmi bir uslup kullanilacak"
   - "Lisans turleri her kullanilda tam adiyla ve baglantilarla belirtilecek"

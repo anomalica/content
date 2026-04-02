@@ -1,7 +1,6 @@
 ---
 title: "利用規約"
 description: "Anomalicaプラットフォームの利用に関する規約。"
-url: /terms/
 directives:
   - "全文を通して正式な文体を使用すること"
   - "ライセンスの種類はリンク付きの正式名称で参照すること"

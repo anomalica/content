@@ -1,7 +1,6 @@
 ---
 title: "Litsenziyalash"
 description: "Anomalica kontenti va kodi qanday litsenziyalanganligi."
-url: /licence/
 directives:
   - "Butun matn davomida rasmiy ohangdan foydalaning"
   - "Har bir ishlatilishida litsenziya turlariga toʻliq nomi va havolalar bilan murojaat qiling"

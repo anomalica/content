@@ -1,7 +1,6 @@
 ---
 title: "Chính sách bảo mật"
 description: "Cách Anomalica xử lý dữ liệu khách truy cập và bảo vệ quyền riêng tư."
-url: /privacy/
 directives:
   - "Sử dụng giọng văn trang trọng xuyên suốt"
   - "Trích dẫn tên đầy đủ của luật pháp mỗi khi sử dụng"

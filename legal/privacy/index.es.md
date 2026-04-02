@@ -1,7 +1,6 @@
 ---
 title: "Política de privacidad"
 description: "Cómo Anomalica gestiona los datos de los visitantes y protege la privacidad."
-url: /privacy/
 directives:
   - "Utilizar tono formal en todo el documento"
   - "Hacer referencia a la legislación por su nombre completo en cada mención"

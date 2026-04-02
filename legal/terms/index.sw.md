@@ -1,7 +1,6 @@
 ---
 title: "Masharti ya Matumizi"
 description: "Masharti yanayosimamia matumizi ya jukwaa la Anomalica."
-url: /terms/
 directives:
   - "Tumia lugha rasmi katika maandishi yote"
   - "Rejelea aina za leseni kwa jina kamili pamoja na viungo"

@@ -1,7 +1,6 @@
 ---
 title: "Licenciamento"
 description: "Como o conteúdo e o código do Anomalica são licenciados."
-url: /licence/
 directives:
   - "Utilizar tom formal em todo o documento"
   - "Referenciar os tipos de licença pelo nome completo com ligações em cada menção"

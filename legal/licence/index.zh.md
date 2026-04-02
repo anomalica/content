@@ -1,7 +1,6 @@
 ---
 title: "许可授权"
 description: "Anomalica 的内容和代码如何获得许可授权。"
-url: /licence/
 directives:
   - "全文使用正式语气"
   - "每次引用许可证类型时使用全称并附带链接"

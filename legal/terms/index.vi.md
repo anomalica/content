@@ -1,7 +1,6 @@
 ---
 title: "Điều khoản sử dụng"
 description: "Các điều khoản quản lý việc sử dụng nền tảng Anomalica."
-url: /terms/
 directives:
   - "Sử dụng giọng văn trang trọng xuyên suốt"
   - "Trích dẫn các loại giấy phép bằng tên đầy đủ kèm liên kết"

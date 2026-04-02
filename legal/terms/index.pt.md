@@ -1,7 +1,6 @@
 ---
 title: "Termos de Utilização"
 description: "Termos que regem a utilização da plataforma Anomalica."
-url: /terms/
 directives:
   - "Utilizar tom formal em todo o documento"
   - "Referenciar os tipos de licença pelo nome completo com ligações"

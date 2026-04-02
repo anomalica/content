@@ -1,7 +1,6 @@
 ---
 title: "개인정보 처리방침"
 description: "Anomalica가 방문자 데이터를 처리하고 개인정보를 보호하는 방법."
-url: /privacy/
 directives:
   - "전체적으로 격식체를 사용할 것"
   - "법률은 매번 정식 명칭으로 표기할 것"

@@ -1,7 +1,6 @@
 ---
 title: "使用条款"
 description: "管理 Anomalica 平台使用的条款。"
-url: /terms/
 directives:
   - "全文使用正式语气"
   - "引用许可证类型时使用全称并附带链接"

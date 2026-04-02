@@ -1,7 +1,6 @@
 ---
 title: "Warunki korzystania"
 description: "Warunki regulujące korzystanie z platformy Anomalica."
-url: /terms/
 directives:
   - "Stosuj formalny ton w całym tekście"
   - "Odwołuj się do typów licencji pełną nazwą z linkami"

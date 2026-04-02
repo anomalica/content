@@ -1,7 +1,6 @@
 ---
 title: "授權條款"
 description: "Anomalica 的內容和程式碼如何獲得授權。"
-url: /licence/
 directives:
   - "全文使用正式語氣"
   - "每次引用授權條款類型時使用全稱並附帶連結"

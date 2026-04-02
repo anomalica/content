@@ -1,7 +1,6 @@
 ---
 title: "Foydalanish shartlari"
 description: "Anomalica platformasidan foydalanishni tartibga soluvchi shartlar."
-url: /terms/
 directives:
   - "Butun matn davomida rasmiy ohangdan foydalaning"
   - "Litsenziya turlariga toʻliq nomi va havolalar bilan murojaat qiling"

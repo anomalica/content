@@ -1,7 +1,6 @@
 ---
 title: "隐私政策"
 description: "Anomalica 如何处理访客数据并保护隐私。"
-url: /privacy/
 directives:
   - "全文使用正式语气"
   - "每次引用时使用法规全称"

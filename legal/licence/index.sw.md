@@ -1,7 +1,6 @@
 ---
 title: "Leseni"
 description: "Jinsi maudhui na msimbo wa Anomalica unavyoliseniwa."
-url: /licence/
 directives:
   - "Tumia lugha rasmi katika maandishi yote"
   - "Rejelea aina za leseni kwa jina kamili pamoja na viungo kila zinapotumika"

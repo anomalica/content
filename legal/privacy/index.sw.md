@@ -1,7 +1,6 @@
 ---
 title: "Sera ya Faragha"
 description: "Jinsi Anomalica inavyoshughulikia data ya wageni na kulinda faragha."
-url: /privacy/
 directives:
   - "Tumia lugha rasmi katika maandishi yote"
   - "Rejelea sheria kwa jina kamili kila inapotumika"

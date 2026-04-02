@@ -1,7 +1,6 @@
 ---
 title: "Condiciones de uso"
 description: "Condiciones que rigen el uso de la plataforma Anomalica."
-url: /terms/
 directives:
   - "Utilizar tono formal en todo el documento"
   - "Hacer referencia a los tipos de licencia por su nombre completo con enlaces"

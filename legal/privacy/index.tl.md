@@ -1,7 +1,6 @@
 ---
 title: "Patakaran sa Pagkapribado"
 description: "Kung paano pinangangasiwaan ng Anomalica ang datos ng bisita at pinoprotektahan ang pagkapribado."
-url: /privacy/
 directives:
   - "Gumamit ng pormal na tono sa buong teksto"
   - "Banggitin ang batas sa buong pangalan sa bawat paggamit"

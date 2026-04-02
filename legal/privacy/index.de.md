@@ -1,7 +1,6 @@
 ---
 title: "Datenschutzrichtlinie"
 description: "Wie Anomalica mit Besucherdaten umgeht und die Privatsphare schutzt."
-url: /privacy/
 directives:
   - "Durchgehend formellen Ton verwenden"
   - "Gesetze bei jeder Verwendung mit vollstandigem Namen angeben"

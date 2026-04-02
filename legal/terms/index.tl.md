@@ -1,7 +1,6 @@
 ---
 title: "Mga Tuntunin ng Paggamit"
 description: "Mga tuntuning namamahala sa paggamit ng plataporma ng Anomalica."
-url: /terms/
 directives:
   - "Gumamit ng pormal na tono sa buong teksto"
   - "Banggitin ang mga uri ng lisensya sa buong pangalan na may mga link"

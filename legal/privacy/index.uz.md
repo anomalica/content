@@ -1,7 +1,6 @@
 ---
 title: "Maxfiylik siyosati"
 description: "Anomalica tashrif buyuruvchilar maʼlumotlarini qanday boshqaradi va maxfiylikni qanday himoya qiladi."
-url: /privacy/
 directives:
   - "Butun matn davomida rasmiy ohangdan foydalaning"
   - "Har bir ishlatilishida qonunchilikka toʻliq nomi bilan murojaat qiling"

@@ -1,7 +1,6 @@
 ---
 title: "Lizenzierung"
 description: "Wie Anomalicas Inhalte und Code lizenziert sind."
-url: /licence/
 directives:
   - "Durchgehend formellen Ton verwenden"
   - "Lizenztypen bei jeder Verwendung mit vollstandigem Namen und Links angeben"

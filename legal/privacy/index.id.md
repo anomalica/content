@@ -1,7 +1,6 @@
 ---
 title: "Kebijakan Privasi"
 description: "Bagaimana Anomalica menangani data pengunjung dan melindungi privasi."
-url: /privacy/
 directives:
   - "Gunakan nada formal di seluruh teks"
   - "Rujuk undang-undang dengan nama lengkap pada setiap penggunaan"

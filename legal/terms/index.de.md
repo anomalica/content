@@ -1,7 +1,6 @@
 ---
 title: "Nutzungsbedingungen"
 description: "Bedingungen fur die Nutzung der Anomalica-Plattform."
-url: /terms/
 directives:
   - "Durchgehend formellen Ton verwenden"
   - "Lizenztypen bei jeder Verwendung mit vollstandigem Namen und Links angeben"

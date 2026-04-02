@@ -1,7 +1,6 @@
 ---
 title: "Licences"
 description: "Comment le contenu et le code d'Anomalica sont licenciés."
-url: /licence/
 directives:
   - "Utiliser un ton formel tout au long du texte"
   - "Citer les types de licences par leur nom complet avec des liens à chaque mention"

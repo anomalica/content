@@ -1,7 +1,6 @@
 ---
 title: "Ketentuan Penggunaan"
 description: "Ketentuan yang mengatur penggunaan platform Anomalica."
-url: /terms/
 directives:
   - "Gunakan nada formal di seluruh teks"
   - "Rujuk jenis lisensi dengan nama lengkap beserta tautan"

@@ -1,7 +1,6 @@
 ---
 title: "Terms of Use"
 description: "Terms governing use of the Anomalica platform."
-url: /terms/
 directives:
   - "Use formal tone throughout"
   - "Reference license types by full name with links"

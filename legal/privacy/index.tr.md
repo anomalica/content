@@ -1,7 +1,6 @@
 ---
 title: "Gizlilik Politikasi"
 description: "Anomalica'nin ziyaretci verilerini nasil isledigi ve gizliligi nasil korudugu."
-url: /privacy/
 directives:
   - "Bastan sona resmi bir uslup kullanilacak"
   - "Mevzuata her kullanilda tam adiyla atifta bulunulacak"

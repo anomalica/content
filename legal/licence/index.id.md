@@ -1,7 +1,6 @@
 ---
 title: "Lisensi"
 description: "Bagaimana konten dan kode Anomalica dilisensikan."
-url: /licence/
 directives:
   - "Gunakan nada formal di seluruh teks"
   - "Rujuk jenis lisensi dengan nama lengkap beserta tautan pada setiap penggunaan"

@@ -1,7 +1,6 @@
 ---
 title: "Cấp phép"
 description: "Cách nội dung và mã nguồn của Anomalica được cấp phép."
-url: /licence/
 directives:
   - "Sử dụng giọng văn trang trọng xuyên suốt"
   - "Trích dẫn các loại giấy phép bằng tên đầy đủ kèm liên kết mỗi khi sử dụng"

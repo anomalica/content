@@ -1,7 +1,6 @@
 ---
 title: "Paglilisensya"
 description: "Kung paano nililisensyahan ang nilalaman at code ng Anomalica."
-url: /licence/
 directives:
   - "Gumamit ng pormal na tono sa buong teksto"
   - "Banggitin ang mga uri ng lisensya sa buong pangalan na may mga link sa bawat paggamit"

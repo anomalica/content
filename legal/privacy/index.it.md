@@ -1,7 +1,6 @@
 ---
 title: "Informativa sulla privacy"
 description: "Come Anomalica gestisce i dati dei visitatori e protegge la privacy."
-url: /privacy/
 directives:
   - "Utilizzare un tono formale in tutto il documento"
   - "Fare riferimento alla legislazione con il nome completo ad ogni utilizzo"

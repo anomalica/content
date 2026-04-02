@@ -1,7 +1,6 @@
 ---
 title: "이용약관"
 description: "Anomalica 플랫폼 이용에 관한 약관."
-url: /terms/
 directives:
   - "전체적으로 격식체를 사용할 것"
   - "라이선스 유형은 매번 정식 명칭과 링크를 포함할 것"
