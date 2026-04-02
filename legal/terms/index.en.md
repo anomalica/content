@@ -7,8 +7,6 @@ directives:
 reviewed: false
 ---
 
-By using Anomalica, you agree to these terms.
-
 ## Content licence
 
 All encyclopaedia content on Anomalica is released under Creative Commons Zero 1.0 Universal (CC0 1.0). This includes articles, claims, the knowledge graph, and assembled translations. You may copy, modify, and distribute this content for any purpose without permission or attribution.
