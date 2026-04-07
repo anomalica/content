@@ -26,6 +26,30 @@ One language is added:
 
 ## Translation quality
 
-High-resource languages (roughly the top 20) produce reliable output from current AI models. Lower-resource languages may produce lower-quality output that is expected to improve as models advance.
+AI translation quality varies measurably by language. The WMT24 shared task (the standard academic benchmark for machine translation) found that large language models now outperform conventional translation systems across all 55 languages tested, but with a clear quality gradient.
+
+WMT24 CometKiwi scores for English-to-target translation (higher is better, scale 0 to 1):
+
+| Language pair | Best LLM score | Quality |
+|---|---|---|
+| English to Japanese | 0.762 | Strong |
+| English to Spanish | 0.745 | Strong |
+| English to Russian | 0.742 | Strong |
+| English to Ukrainian | 0.732 | Strong |
+| English to German | 0.723 | Strong |
+| English to Chinese | 0.726 | Strong |
+| English to Hindi | 0.657 | Moderate |
+
+Hindi, the highest-resourced language in the Indic family, scores 0.06 to 0.10 lower than European and CJK languages. Languages with less training data (Burmese, Uzbek, Marathi) can be expected to show a larger gap, though published benchmark data for these specific languages is limited.
+
+Based on available benchmarks, the 28 translated languages fall into three tiers:
+
+- **Strong** (11 languages): French, German, Spanish, Portuguese, Russian, Chinese, Japanese, Italian, Polish, Korean, Ukrainian
+- **Moderate** (14 languages): Arabic, Hindi, Turkish, Vietnamese, Indonesian, Thai, Bengali, Urdu, Persian, Swahili, Tamil, Telugu, Tagalog, Marathi
+- **Limited data** (3 languages): Burmese, Uzbek, Tamil
+
+For the third tier, published translation benchmarks are sparse. Meta's NLLB-200 model scores Burmese lowest of all 28 languages on the FLORES benchmark (chrF++ 30.9 vs French at 69.6), though larger models perform substantially better than NLLB.
 
 Translation corrections can be submitted through the content repository. Corrections are extracted as durable directives that persist across future article regeneration.
+
+Sources: [WMT24 General MT Ranking](https://arxiv.org/abs/2407.19884), [WMT24++ 55-language expansion](https://arxiv.org/abs/2502.12404), [NLLB-200 FLORES metrics](https://dl.fbaipublicfiles.com/nllb/nllb200_3b_metrics.csv).
