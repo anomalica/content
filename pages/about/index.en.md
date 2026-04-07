@@ -30,3 +30,11 @@ Anomalica was founded by an independent researcher based in Japan. The project h
 The project is currently self-funded. As the platform grows, funding will be accepted through transparent channels with public accounting of all income and expenditure. Relying solely on a single founder's ability to pay is itself a risk to the platform's survival, and transparent community funding strengthens independence rather than weakening it.
 
 The architecture is designed so that accumulated data survives even if the platform itself does not. All code is open source, all content is public domain, and the complete knowledge graph is available for download.
+
+## Vision
+
+The aspiration is to become a credible, independent reference - the kind of resource that a journalist, researcher, or curious person in any country can consult and trust to present what is known without an agenda. The model is the editorial independence and jurisdictional neutrality that organisations like Reuters represent in the news world. Not a comparison in scale, but an aspiration for those qualities.
+
+Trust is built through transparency. The source code is public. The methodology is published. The scoring algorithm is open to scrutiny. Financial accounts will be public. Every factual claim on the platform links to its source. There is nothing behind a paywall and nothing gated by membership. The information is available to everyone, in their own language, for free.
+
+This subject has historically suffered from gatekeeping, sensationalism, and institutional secrecy. Anomalica exists to offer the opposite: an open, professional, and verifiable record of what has been reported, by whom, and how strong the evidence is. What people conclude from that record is up to them.
