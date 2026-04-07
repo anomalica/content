@@ -46,7 +46,7 @@ Based on available benchmarks, the 28 translated languages fall into three tiers
 
 - **Strong** (11 languages): French, German, Spanish, Portuguese, Russian, Chinese, Japanese, Italian, Polish, Korean, Ukrainian
 - **Moderate** (14 languages): Arabic, Hindi, Turkish, Vietnamese, Indonesian, Thai, Bengali, Urdu, Persian, Swahili, Tamil, Telugu, Tagalog, Marathi
-- **Limited data** (3 languages): Burmese, Uzbek, Tamil
+- **Limited data** (2 languages): Burmese, Uzbek
 
 For the third tier, published translation benchmarks are sparse. Meta's NLLB-200 model scores Burmese lowest of all 28 languages on the FLORES benchmark (chrF++ 30.9 vs French at 69.6), though larger models perform substantially better than NLLB.
 
