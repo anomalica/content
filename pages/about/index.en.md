@@ -1,22 +1,32 @@
 ---
 title: "About Anomalica"
-description: "An international, jurisdiction-independent reference platform for documenting anomalous phenomena."
+description: "An international, jurisdiction-independent reference platform for anomalous phenomena."
 ---
 
-Anomalica is a structured reference platform for anomalous phenomena. Every factual claim on the site traces to a specific source document, with evidence strength computed algorithmically rather than editorially.
+## The problem
 
-## What this is
+Information about anomalous phenomena is scattered across incompatible databases, locked in podcast audio, buried in government reports, and spread across thousands of hours of testimony. For someone encountering the subject for the first time, there is no clear place to start. For someone already familiar with it, there is no single resource that brings the information together objectively.
 
-An encyclopaedia assembled from primary sources. Documents are ingested, claims are extracted, and articles are generated from a knowledge graph. The process is transparent and auditable.
+The platforms and channels that do exist range from serious investigative journalism to unverified speculation, with no reliable way for a newcomer to distinguish between them. Most resources are US-based, US-funded, and English-only. There is no structured, multilingual reference that presents what is known, who reported it, and how strong the evidence is.
 
-## What this is not
+## What Anomalica does
 
-This is not an opinion site, a news aggregator, or a community forum. Content is not editorialised. Evidence is scored by algorithm, not by editorial judgement. The platform does not take positions on the nature or origin of the phenomena it documents.
+Anomalica is a reference platform. It reads publicly available material - government reports, congressional testimony, court documents, academic papers, news articles, books, podcasts, documentaries, interviews, and recorded presentations - and extracts individual factual claims from them. Those claims are stored in a knowledge graph and used to assemble articles where every statement traces back to the specific document it came from. Evidence strength is computed algorithmically rather than editorially. How the algorithm scores evidence will be tuned and adjusted as the platform grows, but all code is open source and the methodology is published, so anyone can review how it works. The corpus grows organically from a set of seed sources, branching outward as new material references or corroborates existing claims. Once material is in the system, no editorial judgement is applied to how it is scored or presented. The platform does not take positions on the nature or origin of what it documents.
 
-## Independence
+The platform treats all jurisdictions, languages, and sources equally. American congressional testimony receives the same treatment as Japanese parliamentary activity, French GEIPAN case files, or Brazilian military archives. No country's perspective is centred and no country's institutions are treated as more authoritative by default.
 
-Anomalica is not aligned with any national interest, government agency, or corporate sponsor. It is self-funded, open-source, and designed to survive institutional pressure. The hosting architecture is built for resilience across jurisdictions.
+Anomalica publishes in 30 languages covering approximately 80% of the world's literate population.
 
-## Open source
+## Approach
 
-All code is MIT-licenced. All content is CC0 public domain. The complete knowledge graph is available for download as a SQLite file.
+The platform is designed to be a bridge between the world of these phenomena and everyday life. The tone is professional and objective. The presentation is restrained. Where scientific analysis is available, it is cited. Where it is not, the platform reports what was observed and by whom, without speculation.
+
+The goal is to be useful to someone encountering this subject for the first time, without requiring them to accept any particular worldview as a starting point.
+
+## Founding
+
+Anomalica was founded by an independent researcher based in Japan. The project has no advertising, sponsorship, or data monetisation. It is not aligned with any national interest, government agency, or corporate sponsor.
+
+The project is currently self-funded. As the platform grows, funding will be accepted through transparent channels with public accounting of all income and expenditure. Relying solely on a single founder's ability to pay is itself a risk to the platform's survival, and transparent community funding strengthens independence rather than weakening it.
+
+The architecture is designed so that accumulated data survives even if the platform itself does not. All code is open source, all content is public domain, and the complete knowledge graph is available for download.
