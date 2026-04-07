@@ -42,7 +42,7 @@ WMT24 CometKiwi scores for English-to-target translation (higher is better, scal
 
 Hindi, the highest-resourced language in the Indic family, scores 0.06 to 0.10 lower than European and CJK languages. Languages with less training data (Burmese, Uzbek, Marathi) can be expected to show a larger gap, though published benchmark data for these specific languages is limited.
 
-Based on available benchmarks, the 28 translated languages fall into three tiers:
+Based on available benchmarks, the 27 languages translated from English fall into three tiers:
 
 - **Strong** (11 languages): French, German, Spanish, Portuguese, Russian, Chinese, Japanese, Italian, Polish, Korean, Ukrainian
 - **Moderate** (14 languages): Arabic, Hindi, Turkish, Vietnamese, Indonesian, Thai, Bengali, Urdu, Persian, Swahili, Tamil, Telugu, Tagalog, Marathi
