@@ -1,0 +1,51 @@
+{
+  "schema": "anomalica/matter-triage/1",
+  "model": "claude-sonnet-4-6",
+  "total": 157,
+  "completed": 3,
+  "proposals": [
+    {
+      "id": "3bf78e2b-1d2c-4706-a89e-2d73021720a9",
+      "name": "Air Force Office of Special Investigations UAP Disinformation",
+      "current_type": "matter",
+      "claim_count": 1,
+      "related_types": ["organisation", "person"],
+      "sample_claims": [
+        "Richard Doty, an officer with the US Air Force's Office of Special Investigations, fed disinformation to Gabe Valdez and Paul Bennewitz, claiming he was under orders to lie to them to distract from secret US Air Force projects he was ordered to misidentify as extra-terrestrial."
+      ],
+      "proposed_type": "programme",
+      "confidence": 0.62,
+      "reasoning": "The claim describes a sustained, directive-driven deception operation run by AFOSI using multiple operatives against multiple targets over time, which fits the programme definition (operational structure, named sponsor, ongoing work). It is not a single dated event, nor a cross-case pattern, nor an investigation with a concluding report.",
+      "notes_for_reviewer": "Could also be classified as \"pattern\" if the corpus contains multiple independent AFOSI disinformation instances beyond the Doty/Valdez/Bennewitz case - in which case the individual operations would be events and the cross-case recurring behaviour the pattern. Worth checking for additional AFOSI disinformation claims before settling on programme."
+    },
+    {
+      "id": "ffd3adce-217a-4a6e-b645-190a12d12352",
+      "name": "Al Worden Moon UAP Sighting",
+      "current_type": "matter",
+      "claim_count": 1,
+      "related_types": ["person"],
+      "sample_claims": [
+        "The Spaceman told Ross Coulthart that Apollo 15 command module pilot Al Worden matter-of-factly said he saw bright white lights in craters on the Moon during his three days in orbit."
+      ],
+      "proposed_type": "event",
+      "confidence": 0.88,
+      "reasoning": "The name explicitly labels this a \"sighting\" - a discrete perceptual occurrence - by a named individual during Apollo 15's lunar orbit. The sole claim describes a specific observation (bright white lights in craters) made over a bounded three-day period, not a recurring pattern or ongoing programme. It fits the event type: a dated occurrence tied to a specific mission window.",
+      "notes_for_reviewer": "Confidence is not 1.0 because the claim is second-hand (hearsay via Ross Coulthart), so the sighting's factual status is uncertain - though that doesn't change the classification. If multiple Apollo astronauts reported similar lunar anomalies, this could eventually contribute to a pattern node instead."
+    },
+    {
+      "id": "d853efce-7b0d-4f14-853c-b90576f355d4",
+      "name": "All-Domain Anomaly Resolution Office (AARO) UAP Disclosure Study Finding",
+      "current_type": "matter",
+      "claim_count": 2,
+      "related_types": ["concept", "organisation"],
+      "sample_claims": [
+        "Interviewees claimed that between 2004 and 2007 the White House requested a research institute in Virginia to study the theoretical societal impacts of disclosing that unidentified anomalous phenomena (UAP) are extraterrestrial in origin; the All-Domain Anomaly Resolution Office (AARO) confirmed the study was conducted but found it was not requested by the White House.",
+        "AARO has not discovered any empirical evidence that any sighting of a UAP represented off-world technology or the existence of a classified programme that had not been properly reported to Congress."
+      ],
+      "proposed_type": "investigation",
+      "confidence": 0.75,
+      "reasoning": "The name explicitly includes \"Finding\", indicating a concluding output, and both claims describe AARO examining a specific allegation (White House-requested disclosure study) and reaching a determination. That structure - defined question, formal inquiry, reported conclusion - fits investigation over programme or event.",
+      "notes_for_reviewer": "The matter is a sub-finding within AARO's broader Historical Record investigation rather than a standalone investigation; it could reasonably be an event (the publication of that specific finding) or collapsed into the parent AARO Historical Record investigation node. Worth checking whether a parent investigation node already exists."
+    }
+  ]
+}
