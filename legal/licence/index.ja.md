@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalicaリポジトリのすべてのソースコードは、[MITライセンス（MIT Licence）](https://opensource.org/licenses/MIT)の下で公開されています。対象範囲：
 
-- 静的サイト（anomalica-site）
+- 静的サイト（site）
 - インジェスター、ダイジェスター、アセンブラーのパイプライン
 - サポートツールとスクリプト
 

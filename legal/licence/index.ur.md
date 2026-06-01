@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalica ریپوزٹریز کا تمام سورس کوڈ [MIT لائسنس (MIT Licence)](https://opensource.org/licenses/MIT) کے تحت جاری کیا گیا ہے۔ اس کا دائرہ:
 
-- جامد سائٹ (anomalica-site)
+- جامد سائٹ (site)
 - انجیسٹر، ڈائجیسٹر، اور اسمبلر پائپ لائنز
 - معاون ٹولز اور اسکرپٹس
 

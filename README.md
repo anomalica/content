@@ -1,4 +1,4 @@
-# anomalica-content
+# content
 
 Assembled content for the Anomalica encyclopaedia. This repository is the output of the assembly pipeline and the input to the static site.
 

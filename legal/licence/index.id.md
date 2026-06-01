@@ -26,7 +26,7 @@ Siapa pun dapat menggunakan, menyalin, memodifikasi, dan mendistribusikan konten
 
 Semua kode sumber di seluruh repositori Anomalica dirilis di bawah [Lisensi MIT (MIT Licence)](https://opensource.org/licenses/MIT). Ini mencakup:
 
-- Situs statis (anomalica-site)
+- Situs statis (site)
 - Pipeline ingester, digester, dan assembler
 - Alat bantu dan skrip pendukung
 

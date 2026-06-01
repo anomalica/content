@@ -26,7 +26,7 @@ Chiunque puo utilizzare, copiare, modificare e ridistribuire questi contenuti pe
 
 Tutto il codice sorgente nei repository di Anomalica e rilasciato sotto la [Licenza MIT](https://opensource.org/licenses/MIT). Sono compresi:
 
-- Il sito statico (anomalica-site)
+- Il sito statico (site)
 - Le pipeline di acquisizione, elaborazione e assemblaggio
 - Strumenti e script di supporto
 

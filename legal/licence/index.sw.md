@@ -26,7 +26,7 @@ Mtu yeyote anaweza kutumia, kunakili, kurekebisha, na kusambaza tena maudhui hay
 
 Msimbo wote wa chanzo katika hazina za Anomalica umetolewa chini ya [Leseni ya MIT (MIT Licence)](https://opensource.org/licenses/MIT). Hii inashughulikia:
 
-- Tovuti tuli (anomalica-site)
+- Tovuti tuli (site)
 - Mabomba ya ingester, digester, na assembler
 - Zana na hati za msaada
 

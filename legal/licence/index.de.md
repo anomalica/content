@@ -26,7 +26,7 @@ Jeder darf diese Inhalte ohne Genehmigung oder Namensnennung fur jeden Zweck ver
 
 Der gesamte Quellcode in den Anomalica-Repositories wird unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) veroffentlicht. Dies umfasst:
 
-- Die statische Website (anomalica-site)
+- Die statische Website (site)
 - Die Aufnahme-, Verarbeitungs- und Zusammenstellungspipelines
 - Unterstutzende Werkzeuge und Skripte
 

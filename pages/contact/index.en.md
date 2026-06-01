@@ -5,11 +5,11 @@ description: "How to get in touch with the Anomalica project."
 
 ## Report a problem
 
-If something on the site is wrong, missing, or broken, open an issue on the [anomalica-content](https://github.com/anomalica/anomalica-content/issues) repository. Content issues are tracked there so they are visible to everyone and can be discussed openly.
+If something on the site is wrong, missing, or broken, open an issue on the [content](https://github.com/anomalica/content/issues) repository. Content issues are tracked there so they are visible to everyone and can be discussed openly.
 
 ## Propose a change
 
-To suggest a new feature, challenge a decision, or propose a change to how the platform works, open an issue on the [anomalica](https://github.com/anomalica/anomalica/issues) repository. Technical issues with the website itself go to [anomalica-site](https://github.com/anomalica/anomalica-site/issues).
+To suggest a new feature, challenge a decision, or propose a change to how the platform works, open an issue on the [anomalica](https://github.com/anomalica/anomalica/issues) repository. Technical issues with the website itself go to [site](https://github.com/anomalica/site/issues).
 
 ## Contribute
 

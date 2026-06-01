@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalica 仓库中的所有源代码均在 [MIT 许可证](https://opensource.org/licenses/MIT)下发布。涵盖范围：
 
-- 静态网站（anomalica-site）
+- 静态网站（site）
 - 摄取器、消化器和组装器管道
 - 辅助工具和脚本
 

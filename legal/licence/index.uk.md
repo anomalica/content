@@ -26,7 +26,7 @@ reviewed: false
 
 Увесь вихідний код у репозиторіях Anomalica випущений під [ліцензією MIT](https://opensource.org/licenses/MIT). Це охоплює:
 
-- Статичний сайт (anomalica-site)
+- Статичний сайт (site)
 - Конвеєри ingester, digester та assembler
 - Допоміжні інструменти та скрипти
 

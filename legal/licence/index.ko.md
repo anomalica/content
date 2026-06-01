@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalica 저장소의 모든 소스 코드는 [MIT 라이선스](https://opensource.org/licenses/MIT)로 배포됩니다. 이에 해당하는 항목:
 
-- 정적 사이트(anomalica-site)
+- 정적 사이트(site)
 - 수집기, 분석기 및 조합기 파이프라인
 - 보조 도구 및 스크립트
 

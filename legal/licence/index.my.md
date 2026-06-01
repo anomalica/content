@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalica repository များရှိ ရင်းမြစ်ကုဒ်အားလုံးကို [MIT လိုင်စင်](https://opensource.org/licenses/MIT) အောက်တွင် ထုတ်ဝေထားပါသည်။ ဤတွင် အကျုံးဝင်သည်:
 
-- static ဝက်ဘ်ဆိုက် (anomalica-site)
+- static ဝက်ဘ်ဆိုက် (site)
 - အဝင်၊ အချေ နှင့် စုစည်းရေး pipeline များ
 - ပံ့ပိုးကိရိယာများနှင့် script များ
 

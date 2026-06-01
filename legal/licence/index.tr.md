@@ -26,7 +26,7 @@ Herhangi biri bu icerigi izin istemeden veya atif vermeden herhangi bir amacla k
 
 Anomalica depolarindaki tum kaynak kodu [MIT Lisansi](https://opensource.org/licenses/MIT) kapsaminda yayinlanmaktadir. Bu kapsam sunlari icerir:
 
-- Statik site (anomalica-site)
+- Statik site (site)
 - Alici, isleyici ve derleyici hatlari
 - Destekleyici araclar ve betikler
 

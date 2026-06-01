@@ -26,7 +26,7 @@ Anyone can use, copy, modify, and redistribute this content for any purpose with
 
 All source code across the Anomalica repositories is released under the [MIT Licence](https://opensource.org/licenses/MIT). This covers:
 
-- The static site (anomalica-site)
+- The static site (site)
 - The ingester, digester, and assembler pipelines
 - Supporting tools and scripts
 

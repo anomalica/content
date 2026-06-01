@@ -26,7 +26,7 @@ Każdy może używać, kopiować, modyfikować i redystrybuować te treści w do
 
 Cały kod źródłowy w repozytoriach Anomalica jest udostępniony na [licencji MIT](https://opensource.org/licenses/MIT). Obejmuje to:
 
-- Witrynę statyczną (anomalica-site)
+- Witrynę statyczną (site)
 - Potoki ingester, digester i assembler
 - Narzędzia pomocnicze i skrypty
 

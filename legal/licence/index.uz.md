@@ -26,7 +26,7 @@ Har kim ushbu kontentni ruxsat soʻramasdan yoki atribut koʻrsatmasdan istalgan
 
 Anomalica omborlaridagi barcha manba kodi [MIT litsenziyasi](https://opensource.org/licenses/MIT) ostida chiqarilgan. Bunga quyidagilar kiradi:
 
-- Statik sayt (anomalica-site)
+- Statik sayt (site)
 - Kirituvchi, hazm qiluvchi va yigʻuvchi quvurlari
 - Yordamchi vositalar va skriptlar
 

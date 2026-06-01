@@ -26,7 +26,7 @@ Bất kỳ ai cũng có thể sử dụng, sao chép, chỉnh sửa và phân ph
 
 Tất cả mã nguồn trong các kho lưu trữ Anomalica được phát hành theo [Giấy phép MIT (MIT Licence)](https://opensource.org/licenses/MIT). Bao gồm:
 
-- Trang web tĩnh (anomalica-site)
+- Trang web tĩnh (site)
 - Các quy trình ingester, digester và assembler
 - Công cụ và tập lệnh hỗ trợ
 

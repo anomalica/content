@@ -26,7 +26,7 @@ Cualquier persona puede usar, copiar, modificar y redistribuir este contenido pa
 
 Todo el código fuente de los repositorios de Anomalica se publica bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Esto abarca:
 
-- El sitio estático (anomalica-site)
+- El sitio estático (site)
 - Los procesos de ingestión, digestión y ensamblaje
 - Herramientas y scripts de apoyo
 

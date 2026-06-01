@@ -26,7 +26,7 @@ Toute personne peut utiliser, copier, modifier et redistribuer ce contenu à tou
 
 Tout le code source des dépôts Anomalica est publié sous la [Licence MIT (MIT Licence)](https://opensource.org/licenses/MIT). Cela couvre :
 
-- Le site statique (anomalica-site)
+- Le site statique (site)
 - Les pipelines d'ingestion, de digestion et d'assemblage
 - Les outils et scripts de support
 

@@ -26,7 +26,7 @@ reviewed: false
 
 Anomalica 儲存庫中的所有原始碼均在 [MIT 授權條款](https://opensource.org/licenses/MIT)下發佈。涵蓋範圍：
 
-- 靜態網站（anomalica-site）
+- 靜態網站（site）
 - 攝取器、消化器和組裝器管線
 - 輔助工具和指令碼
 
