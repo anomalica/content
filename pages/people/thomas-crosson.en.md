@@ -1,5 +1,6 @@
 ---
 title: Thomas Crosson
+tags: [official]
 description: Pentagon spokesman who provided an official statement on the closure
   of the Pentagon's Advanced Aerospace Threat Identification Program (AATIP) in December
   2017.

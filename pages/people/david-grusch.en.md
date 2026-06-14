@@ -1,5 +1,6 @@
 ---
 title: David Grusch
+tags: [air-force, politician, official, intelligence]
 description: David Charles Grusch is a former US Air Force officer and senior intelligence
   official who became a prominent UAP whistleblower after filing a complaint with
   the Intelligence Community Inspector General in 2022 alleging that the US government

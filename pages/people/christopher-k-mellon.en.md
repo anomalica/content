@@ -1,5 +1,6 @@
 ---
 title: Christopher K. Mellon
+tags: [official, intelligence, government]
 description: Former US Deputy Assistant Secretary of Defense for Intelligence and
   Senate Intelligence Committee staffer who became a prominent advocate for government
   transparency on unidentified anomalous phenomena.

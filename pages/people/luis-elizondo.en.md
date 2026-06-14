@@ -1,5 +1,6 @@
 ---
 title: Luis Elizondo
+tags: [official, intelligence, government]
 description: Luis Elizondo is a former US defence intelligence officer who claims
   to have directed the Pentagon's Advanced Aerospace Threat Identification Program
   (AATIP) and subsequently became a prominent public advocate for UAP disclosure.

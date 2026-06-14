@@ -1,5 +1,6 @@
 ---
 title: Tom DeLonge
+tags: [researcher, businessman, musician]
 description: Tom DeLonge is an American musician, co-founder and chief executive of
   To the Stars Academy of Arts and Science, and a prominent figure in efforts to bring
   UAP research into mainstream public discourse.

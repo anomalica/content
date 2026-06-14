@@ -1,5 +1,6 @@
 ---
 title: Advanced Aerospace Threat Identification Program
+tags: [government, military, intelligence, agency]
 description: A classified United States Department of Defense programme that investigated
   unidentified aerial phenomena, funded between 2008 and 2012 and administered by
   the Defense Intelligence Agency.

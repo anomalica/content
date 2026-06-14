@@ -1,5 +1,6 @@
 ---
 title: Robert Bigelow
+tags: [researcher, businessman, contractor]
 description: American billionaire entrepreneur and UFO researcher who funded private
   paranormal investigations and served as prime contractor for the Pentagon's classified
   UAP research programme.

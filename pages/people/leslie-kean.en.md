@@ -1,5 +1,6 @@
 ---
 title: Leslie Kean
+tags: [journalist, author]
 description: American investigative journalist best known for co-authoring the December
   2017 New York Times article that disclosed the existence of a secret Pentagon programme
   investigating unidentified anomalous phenomena.

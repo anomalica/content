@@ -1,5 +1,6 @@
 ---
 title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+tags: [government, military, intelligence, agency]
 description: A classified US Department of Defense programme, managed by the Defense
   Intelligence Agency, that investigated advanced aerospace technologies and unidentified
   anomalous phenomena between 2009 and 2012.

@@ -1,5 +1,6 @@
 ---
 title: Defense Intelligence Agency (DIA)
+tags: [government, military, intelligence, agency]
 description: The Defense Intelligence Agency is a United States Department of Defense
   combat support agency that served as the primary administrative home of the Advanced
   Aerospace Weapon System Applications Program (AAWSAP) and the Advanced Aerospace

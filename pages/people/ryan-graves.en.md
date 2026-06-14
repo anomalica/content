@@ -1,5 +1,6 @@
 ---
 title: Ryan Graves
+tags: [navy, pilot, official, whistleblower]
 description: Former US Navy F-18 pilot and UAP whistleblower who founded Americans
   for Safe Aerospace after witnessing and reporting unidentified aerial phenomena
   during operational deployments.

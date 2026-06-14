@@ -1,5 +1,6 @@
 ---
 title: Ross Coulthart
+tags: [researcher, journalist, author]
 description: Australian investigative journalist and author who has conducted extensive
   research into UAP phenomena, documenting cases in Australia and the United States.
 metadata:

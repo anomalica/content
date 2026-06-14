@@ -1,5 +1,6 @@
 ---
 title: CIA
+tags: [government, intelligence, agency, research]
 description: The Central Intelligence Agency (CIA) is the primary civilian foreign
   intelligence service of the United States federal government, which has intersected
   with UAP research, policy, and personnel at numerous points since the early 1950s.

@@ -1,5 +1,6 @@
 ---
 title: Kevin Day
+tags: [navy, official, nimitz]
 description: Retired US Navy chief petty officer and radar specialist who served as
   a TOPGUN air intercept controller aboard USS Princeton during the 2004 Nimitz UAP
   encounter.

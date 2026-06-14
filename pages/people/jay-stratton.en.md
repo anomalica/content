@@ -1,5 +1,6 @@
 ---
 title: Jay Stratton
+tags: [navy, official, intelligence, government]
 description: Jay Stratton is a former US government intelligence officer and UAP investigator
   who served as the first director of the UAP Task Force and played a central role
   in shaping official American UAP policy.

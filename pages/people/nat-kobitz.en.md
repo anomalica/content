@@ -1,5 +1,6 @@
 ---
 title: Nat Kobitz
+tags: [navy, official]
 description: Former Director of Science and Technology Development for the US Navy
   who went public with claims of being briefed into programmes involving retrieved
   non-human craft.

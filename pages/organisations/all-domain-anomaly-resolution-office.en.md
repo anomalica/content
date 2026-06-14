@@ -1,5 +1,6 @@
 ---
 title: All-Domain Anomaly Resolution Office
+tags: [government, military, agency]
 description: A United States Department of Defense office established in 2022 to coordinate
   detection, identification, and investigation of unidentified anomalous phenomena
   across all domains.

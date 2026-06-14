@@ -1,5 +1,6 @@
 ---
 title: To the Stars Academy of Arts and Science
+tags: [research, private]
 description: A US public-benefit corporation founded in 2017 by Tom DeLonge to conduct
   research into unidentified anomalous phenomena, produce related entertainment content,
   and engage the public on the UAP topic.

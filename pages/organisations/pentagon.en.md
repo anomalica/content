@@ -1,5 +1,6 @@
 ---
 title: Pentagon
+tags: [government, military]
 description: The headquarters of the United States Department of Defense, which has
   played a central role in the investigation and official acknowledgement of unidentified
   anomalous phenomena (UAP).

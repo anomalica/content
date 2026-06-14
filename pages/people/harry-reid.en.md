@@ -1,5 +1,6 @@
 ---
 title: Harry Reid
+tags: [politician, intelligence]
 description: United States Senator (1987–2017) and Senate Majority Leader who was
   the primary congressional sponsor of the Pentagon's Advanced Aerospace Threat Identification
   Program (AATIP).

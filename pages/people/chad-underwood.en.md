@@ -1,5 +1,6 @@
 ---
 title: Chad Underwood
+tags: [navy, pilot, official, witness]
 description: US Navy Lieutenant and weapons and sensors officer who filmed the 2004
   Tic Tac UAP using an ATFLIR targeting pod during the Nimitz UAP Incident.
 metadata:

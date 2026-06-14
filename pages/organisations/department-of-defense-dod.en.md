@@ -1,5 +1,6 @@
 ---
 title: Department of Defense (DoD)
+tags: [government, military]
 description: The United States Department of Defense is the federal executive department
   responsible for coordinating and supervising all agencies and functions of the government
   directly related to national security and the armed forces, and has played a central

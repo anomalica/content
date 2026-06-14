@@ -1,5 +1,6 @@
 ---
 title: The New York Times
+tags: [government, programme, media]
 description: An American daily newspaper that played a pivotal role in the public
   disclosure of US government UAP programmes through its December 2017 reporting.
 metadata:

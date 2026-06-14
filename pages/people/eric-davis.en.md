@@ -1,5 +1,6 @@
 ---
 title: Eric Davis
+tags: [scientist, researcher, author, contractor]
 description: American physicist and UAP researcher who worked with AATIP and is widely
   known as the alleged author of the Wilson/Davis memo.
 metadata:

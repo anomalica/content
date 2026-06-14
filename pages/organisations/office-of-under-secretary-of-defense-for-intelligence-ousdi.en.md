@@ -1,5 +1,6 @@
 ---
 title: Office of Under Secretary of Defense for Intelligence (OUSD(I))
+tags: [government, military, intelligence, agency]
 description: A senior office within the US Department of Defense responsible for overseeing
   defence intelligence activities, which became a focus of public scrutiny in relation
   to claims made by Luis Elizondo about his role in UAP research.

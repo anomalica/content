@@ -1,5 +1,6 @@
 ---
 title: US Air Force
+tags: [military]
 description: The United States Air Force is the aerial warfare branch of the US Armed
   Forces and has played a central role in the history of official UAP investigation.
 metadata:

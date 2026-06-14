@@ -1,5 +1,6 @@
 ---
 title: Harold E. Puthoff
+tags: [scientist, researcher, contractor, government]
 description: American physicist and engineer who conducted CIA-sponsored remote-viewing
   research and later served as chief scientist and contractor for US government UAP
   programmes including AAWSAP and AATIP.

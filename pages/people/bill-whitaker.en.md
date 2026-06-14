@@ -1,5 +1,6 @@
 ---
 title: Bill Whitaker
+tags: [journalist]
 description: American television journalist and CBS News correspondent who produced
   a landmark 60 Minutes segment on UAP in 2021.
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: David Fravor
+tags: [navy, pilot, official, witness]
 description: Retired United States Navy Commander and naval aviator best known as
   the primary eyewitness to the 2004 Nimitz Anomalous Aerial Vehicle encounter.
 metadata:

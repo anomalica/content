@@ -1,5 +1,6 @@
 ---
 title: Annie Farinaccio
+tags: [witness, civilian]
 description: Australian civilian who reported a UAP sighting near the Harold Holt
   Naval Communications Station in Exmouth, Western Australia, in late 1991, and was
   subsequently subjected to military interrogation.
