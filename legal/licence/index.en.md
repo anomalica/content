@@ -1,6 +1,6 @@
 ---
-title: "Licencing"
-description: "How Anomalica's content and code are licenced."
+title: "Licensing"
+description: "How Anomalica's content and code are licensed."
 directives:
   - "Use formal tone throughout"
   - "Reference licence types by full name with links on each use"

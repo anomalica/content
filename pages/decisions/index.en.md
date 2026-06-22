@@ -3,7 +3,7 @@ title: "Decisions"
 description: "How and why significant decisions are made, and where to find the full record."
 ---
 
-Anomalica records every significant decision as a numbered Architecture Decision Record. Each record captures the context behind the choice, what was decided, and the consequences. Once accepted, records are immutable - to change a decision, a new record supersedes the old one.
+Anomalica records every significant decision as a numbered Architecture Decision Record. Each record captures the context behind the choice, what was decided, and the consequences. Records are maintained rather than frozen: they are kept current for upkeep, and a material change of direction is recorded as a dated amendment or a new record that supersedes the old one.
 
 ## Why record decisions
 
