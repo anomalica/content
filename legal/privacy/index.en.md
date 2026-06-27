@@ -28,13 +28,22 @@ GoatCounter is self-hosted on European Union infrastructure. No analytics data i
 
 Anomalica does not set cookies. A visitor's dark mode and unit preferences are stored in the browser's local storage. This data never leaves the visitor's device and is not accessible to Anomalica.
 
+## Contact form
+
+The contact form relies on two third-party services, both based in the United States:
+
+- **Cloudflare Turnstile** provides spam protection. When the contact page loads, Turnstile receives your IP address and signals about your browser and how you interact with the page, and uses them to tell human visitors from automated traffic. Cloudflare states that Turnstile does not use this data for cross-site advertising or tracking. Turnstile runs only on the contact page.
+- **Resend** delivers the message. When you submit the form, the name, email address, and message you enter are sent to Resend, which transmits them as an email to the project. Your email address is set as the reply address so the project can respond.
+
+No contact-form data is stored on the site itself; these services process it only to provide spam protection and email delivery. If you would prefer not to use them, you can reach the project through the GitHub routes listed on the contact page instead.
+
 ## Consent
 
 Because Anomalica does not use cookies and does not collect personal data, no consent banner is required under the General Data Protection Regulation (GDPR) or the ePrivacy Directive. Visitors are not tracked, identified, or profiled.
 
 ## Fonts
 
-Typefaces are loaded from Google Fonts, which may log requests according to its own privacy policy. No other third-party services are loaded on the page.
+Typefaces are loaded from Google Fonts, which may log requests according to its own privacy policy. Apart from Google Fonts, no third-party services are loaded on any page, with one exception: the contact form page loads Cloudflare Turnstile (see Contact form below).
 
 ## Knowledge graph
 
