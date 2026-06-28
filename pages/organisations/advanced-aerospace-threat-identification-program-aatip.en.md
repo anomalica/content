@@ -1,14 +1,17 @@
 ---
-title: Advanced Aerospace Threat Identification Program
-description: A classified US Department of Defense programme that ran from 2007 to
-  2012, funded at approximately $22 million, to investigate reports of unidentified
-  aerial phenomena encountered by military personnel.
+title: Advanced Aerospace Threat Identification Program (AATIP)
+description: A covert United States Department of Defense programme that investigated
+  reports of unidentified aerial phenomena from 2007 to 2012, originally administered
+  by the Defense Intelligence Agency and funded at the request of Senate Majority
+  Leader Harry Reid.
 metadata:
   founded: 2007
-  terminated: 2012
+  terminated: 2012 (formal funding); informal continuation until 2017
   headquartered: The Pentagon, C Ring, fifth floor
-  administered_by: Defense Intelligence Agency (DIA)
-  funding: approximately US$22 million
+  administered_by: Defense Intelligence Agency (DIA); later Office of the Under Secretary
+    of Defense for Intelligence
+  budget: approximately US$22 million (congressional appropriation beginning late
+    2008 through 2011)
 built_from:
   brief_hash: 0fe46b98dbdf6ae821277fda7d1760e26d24da7599551d88692aef0643e31f77
   claims:
@@ -413,8 +416,8 @@ built_from:
   - id: 7381fe1b-3e02-43f0-b461-acdadf81fc36
     hash: 84939e019bb3ca313515bf97e81fad1f3e76cc464a9dd6a3a563b67d90e409f5
 references:
-- text: AATIP investigated reports of unidentified flying objects and was run by Luis
-    Elizondo on the fifth floor of the Pentagon's C Ring
+- text: AATIP investigated reports of unidentified flying objects and was run on the
+    fifth floor of the Pentagon's C Ring
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 19
@@ -423,6 +426,7 @@ references:
   claim_id: b3363826-cac2-4275-a0b3-2aedee454331
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-b3363826-cac2-4275-a0b3-2aedee454331
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b3363826-cac2-4275-a0b3-2aedee454331
 - text: AATIP began in 2007, with parts of it remaining classified
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -431,6 +435,7 @@ references:
   claim_id: b7356397-3594-4aea-bc29-50e13ec5a08f
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-b7356397-3594-4aea-bc29-50e13ec5a08f
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b7356397-3594-4aea-bc29-50e13ec5a08f
 - text: AATIP began as part of the Defense Intelligence Agency
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -441,6 +446,7 @@ references:
   claim_id: d2b3e39a-9540-4c8f-b66d-b5e6596f462a
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-d2b3e39a-9540-4c8f-b66d-b5e6596f462a
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-d2b3e39a-9540-4c8f-b66d-b5e6596f462a
 - text: AATIP was initially largely funded at the request of Harry Reid, then Senate
     majority leader
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -452,26 +458,7 @@ references:
   claim_id: 052bc6d0-11e3-41df-afe3-44dbf32a1b0b
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-052bc6d0-11e3-41df-afe3-44dbf32a1b0b
-- text: Contracts show a congressional appropriation of just under $22 million for
-    AATIP beginning in late 2008 through 2011
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 79
-  quote: Contracts obtained by The Times show a congressional appropriation of just
-    under $22 million beginning in late 2008 through 2011.
-  claim_id: 43c29ac1-535d-44d0-a477-b0caf3a25914
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-43c29ac1-535d-44d0-a477-b0caf3a25914
-- text: Most of the AATIP money went to an aerospace research company run by Robert
-    Bigelow
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 23
-  quote: Most of the money went to an aerospace research company run by a billionaire
-    entrepreneur and longtime friend of Mr. Reid's, Robert Bigelow
-  claim_id: 98608a66-ffac-4633-9461-8fc2a47f6754
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-98608a66-ffac-4633-9461-8fc2a47f6754
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-052bc6d0-11e3-41df-afe3-44dbf32a1b0b
 - text: Two former senators, Ted Stevens and Daniel K. Inouye, also supported AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -482,8 +469,42 @@ references:
   claim_id: 26a3e328-41db-4e0c-a820-4a3d9b2fcc95
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-26a3e328-41db-4e0c-a820-4a3d9b2fcc95
-- text: The DoD had never before acknowledged AATIP's existence and says it shut the
-    programme down in 2012
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-26a3e328-41db-4e0c-a820-4a3d9b2fcc95
+- text: Congressional appropriation of just under US$22 million for AATIP beginning
+    in late 2008 through 2011, per contracts obtained by The New York Times
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 79
+  quote: Contracts obtained by The Times show a congressional appropriation of just
+    under $22 million beginning in late 2008 through 2011.
+  claim_id: 43c29ac1-535d-44d0-a477-b0caf3a25914
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-43c29ac1-535d-44d0-a477-b0caf3a25914
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-43c29ac1-535d-44d0-a477-b0caf3a25914
+- text: Most AATIP money went to an aerospace research company run by Robert Bigelow,
+    a longtime friend of Harry Reid
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 23
+  quote: Most of the money went to an aerospace research company run by a billionaire
+    entrepreneur and longtime friend of Mr. Reid's, Robert Bigelow
+  claim_id: 98608a66-ffac-4633-9461-8fc2a47f6754
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-98608a66-ffac-4633-9461-8fc2a47f6754
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-98608a66-ffac-4633-9461-8fc2a47f6754
+- text: AATIP funding went to Bigelow Aerospace, which hired subcontractors and solicited
+    research
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 81
+  quote: The funding went to Mr. Bigelow's company, Bigelow Aerospace, which hired
+    subcontractors and solicited research for the program.
+  claim_id: 4b5d0dd7-7e5f-49f9-b597-d710cae6beb6
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-4b5d0dd7-7e5f-49f9-b597-d710cae6beb6
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-4b5d0dd7-7e5f-49f9-b597-d710cae6beb6
+- text: The DoD said it shut the programme down in 2012 and had never before acknowledged
+    its existence
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 20
@@ -492,6 +513,19 @@ references:
   claim_id: a09a24ff-6fa4-47d7-9441-49eac23caeea
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-a09a24ff-6fa4-47d7-9441-49eac23caeea
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a09a24ff-6fa4-47d7-9441-49eac23caeea
+- text: After funding ended in 2012, officials continued to investigate episodes brought
+    to them by service members
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 21
+  quote: For the past five years, they say, officials with the program have continued
+    to investigate episodes brought to them by service members, while also carrying
+    out their other Defense Department duties.
+  claim_id: 1b5c8f68-a263-43e9-9542-efb971b5026d
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-1b5c8f68-a263-43e9-9542-efb971b5026d
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1b5c8f68-a263-43e9-9542-efb971b5026d
 - text: The DIA administered AATIP
   source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -501,17 +535,9 @@ references:
   claim_id: 29a58888-f1a2-456b-8904-249fd2137694
   record_hash: cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd
   workbench_url: http://localhost:5173/cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd#claim-29a58888-f1a2-456b-8904-249fd2137694
-- text: AATIP contracted work began in 2008 at the DIA; funding was cut entirely in
-    2012
-  source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
-    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
-  location: Line 47
-  quote: AAWSAP/AATIP contracted work [began in 2008] at DIA
-  claim_id: 1ec71afa-6a6f-4d88-91fd-496c37f9bb26
-  record_hash: cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd
-  workbench_url: http://localhost:5173/cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd#claim-1ec71afa-6a6f-4d88-91fd-496c37f9bb26
-- text: AATIP produced documents describing aircraft hovering with no apparent means
-    of lift
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-29a58888-f1a2-456b-8904-249fd2137694
+- text: AATIP produced documents describing aircraft that hovered with no apparent
+    means of lift
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 31
@@ -520,8 +546,9 @@ references:
   claim_id: 14fe3bbd-b4f3-4a0d-8d50-4a30eb5e600e
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-14fe3bbd-b4f3-4a0d-8d50-4a30eb5e600e
-- text: AATIP produced documents describing aircraft moving at very high velocities
-    with no visible signs of propulsion
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-14fe3bbd-b4f3-4a0d-8d50-4a30eb5e600e
+- text: AATIP produced documents describing aircraft moving at high velocities with
+    no visible signs of propulsion
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 31
@@ -531,18 +558,9 @@ references:
   claim_id: 991890d3-0f3d-4c03-a70e-7195b0ef29a8
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-991890d3-0f3d-4c03-a70e-7195b0ef29a8
-- text: AATIP officials studied videos of encounters between unknown objects and American
-    military aircraft
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 33
-  quote: Officials with the program have also studied videos of encounters between
-    unknown objects and American military aircraft
-  claim_id: 8b6b5421-0f53-4e2c-8f3d-ae6e77ecb684
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-8b6b5421-0f53-4e2c-8f3d-ae6e77ecb684
-- text: AATIP collected video and audio recordings including footage from a Navy F/A-18
-    Super Hornet showing an aircraft surrounded by a glowing aura
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-991890d3-0f3d-4c03-a70e-7195b0ef29a8
+- text: AATIP collected video and audio recordings of UFO incidents, including footage
+    from a Navy F/A-18 Super Hornet
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 87
@@ -552,7 +570,8 @@ references:
   claim_id: dae44222-d7b2-4ebf-b96a-f6c8ac005206
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-dae44222-d7b2-4ebf-b96a-f6c8ac005206
-- text: Researchers studied people who reported physical effects from UAP encounters
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-dae44222-d7b2-4ebf-b96a-f6c8ac005206
+- text: Researchers studied people reporting physical effects from UAP encounters
     and examined them for physiological changes
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -562,6 +581,53 @@ references:
   claim_id: 3980e251-7e85-4e77-972d-7d4beb0fca38
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-3980e251-7e85-4e77-972d-7d4beb0fca38
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-3980e251-7e85-4e77-972d-7d4beb0fca38
+- text: Harold E. Puthoff, who had conducted research on extrasensory perception for
+    the CIA, later worked as an AATIP contractor
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 85
+  quote: said Harold E. Puthoff, an engineer who has conducted research on extrasensory
+    perception for the C.I.A. and later worked as a contractor for the program.
+  claim_id: 8b0d11c4-3c08-4ecd-ba20-ca5905039f2b
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-8b0d11c4-3c08-4ecd-ba20-ca5905039f2b
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-8b0d11c4-3c08-4ecd-ba20-ca5905039f2b
+- text: In June 2009 Harry Reid wrote to the Secretary of Defense requesting AATIP
+    be given Special Access Program status, citing 'substantial progress' and 'highly
+    sensitive, unconventional aerospace-related findings'
+  source: In Plain Sight
+  location: Chapter 12, paragraph 18
+  quote: in June 2009, then Senator Harry Reid wrote to the US Secretary of Defense
+    requesting the Advanced Aerospace Threat Identification Program (AATIP) be given
+    the status of a Special Access Program (SAP). The Senator's letter gave clues
+    as to why such strict classification was now necessary, asserting that 'substantial
+    progress' had been made with the identification of 'several highly sensitive,
+    unconventional aerospace-related findings.'
+  claim_id: 1132bb35-9205-41a5-aa25-f6b08c94c6ff
+  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1132bb35-9205-41a5-aa25-f6b08c94c6ff
+- text: Reid's request for Special Access Program status was rejected by the Pentagon
+  source: In Plain Sight
+  location: Chapter 12, paragraph 19
+  quote: Reid said, 'Yeah, that's why I wanted them to take a look at it. But they
+    wouldn't give me the clearance.'
+  claim_id: b56fdf48-cac2-4779-bc7c-d3ad72722b3c
+  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-b56fdf48-cac2-4779-bc7c-d3ad72722b3c
+- text: A 2009 Pentagon briefing summary asserted the US was incapable of defending
+    itself against some of the technologies discovered
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 93
+  quote: A 2009 Pentagon briefing summary of the program prepared by its director
+    at the time asserted that "what was considered science fiction is now science
+    fact," and that the United States was incapable of defending itself against some
+    of the technologies discovered.
+  claim_id: 2494499a-1599-4e96-bed6-14cd00108c0d
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-2494499a-1599-4e96-bed6-14cd00108c0d
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2494499a-1599-4e96-bed6-14cd00108c0d
 - text: The mission of AATIP was to collect and analyse information involving anomalous
     aerial vehicles
   source: Navy pilots describe encounters with UFOs
@@ -572,8 +638,19 @@ references:
   claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
+- text: AATIP was a loose-knit mix of scientists, electro-optical engineers, avionics
+    and intelligence experts, often working part-time
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:37.0-00:02:47.7
+  quote: Elizondo tells us AATIP was a loose-knit mix of scientists, electro-optical
+    engineers, avionics, and intelligence experts, often working part-time.
+  claim_id: 5058774c-de36-4491-94ec-754cf17b7c1b
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-5058774c-de36-4491-94ec-754cf17b7c1b
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-5058774c-de36-4491-94ec-754cf17b7c1b
 - text: AATIP identified five primary performance characteristics observable in UAP,
-    which they called 'the observables'
+    called 'the observables'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 12, paragraph 18
   quote: We realized all the advanced capabilities observed can be categorized according
@@ -582,7 +659,7 @@ references:
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-c5d5c9d3-b6be-406b-9b35-20c852301d1e
 - text: The first observable is hypersonic velocity, defined as Mach 5 or approximately
-    6,100 to 6,400 kilometres per hour
+    6,100 to 6,400 km/h
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 12, paragraphs 19-20
   quote: The first observable is hypersonic velocity... Hypersonic means Mach 5, five
@@ -612,7 +689,7 @@ references:
   claim_id: fa1ca5c2-8819-4245-bd58-5783ea221ca5
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-fa1ca5c2-8819-4245-bd58-5783ea221ca5
-- text: The fourth observable is transmedium travel — operating equally in space,
+- text: The fourth observable is transmedium travel — the ability to operate in space,
     atmosphere, and underwater
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 12, paragraphs 34-35
@@ -634,8 +711,9 @@ references:
   claim_id: c52321c6-c829-4b25-a337-ff2063681067
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-c52321c6-c829-4b25-a337-ff2063681067
-- text: Elizondo identified a sixth observable — biological effects — including radiation
-    burns and internal organ damage suffered by personnel following UAP encounters
+- text: A sixth observable — biological effects including radiation burns and internal
+    organ damage — had not been publicly discussed by the US government at time of
+    writing
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 12, paragraphs 40-41
   quote: The sixth observable is not a flight characteristic and has not yet been
@@ -646,101 +724,6 @@ references:
   claim_id: 3fea6520-f70d-472c-864f-8eedd7b8e019
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-3fea6520-f70d-472c-864f-8eedd7b8e019
-- text: After funding ended in 2012, AATIP officials continued for five years to investigate
-    episodes brought to them by service members
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 21
-  quote: For the past five years, they say, officials with the program have continued
-    to investigate episodes brought to them by service members, while also carrying
-    out their other Defense Department duties.
-  claim_id: 1b5c8f68-a263-43e9-9542-efb971b5026d
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-1b5c8f68-a263-43e9-9542-efb971b5026d
-- text: In 2009, Reid wrote to the US Secretary of Defense requesting AATIP be given
-    Special Access Program status, citing 'substantial progress'
-  source: In Plain Sight
-  location: Chapter 12, paragraph 18
-  quote: in June 2009, then Senator Harry Reid wrote to the US Secretary of Defense
-    requesting the Advanced Aerospace Threat Identification Program (AATIP) be given
-    the status of a Special Access Program (SAP). The Senator's letter gave clues
-    as to why such strict classification was now necessary, asserting that 'substantial
-    progress' had been made with the identification of 'several highly sensitive,
-    unconventional aerospace-related findings.'
-  claim_id: 1132bb35-9205-41a5-aa25-f6b08c94c6ff
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1132bb35-9205-41a5-aa25-f6b08c94c6ff
-- text: Reid's request for Special Access Program status for AATIP was rejected by
-    the Pentagon
-  source: In Plain Sight
-  location: Chapter 12, paragraph 19
-  quote: Reid said, 'Yeah, that's why I wanted them to take a look at it. But they
-    wouldn't give me the clearance.'
-  claim_id: b56fdf48-cac2-4779-bc7c-d3ad72722b3c
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-b56fdf48-cac2-4779-bc7c-d3ad72722b3c
-- text: A 2009 Pentagon briefing summary asserted the US was incapable of defending
-    itself against some of the technologies discovered
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 93
-  quote: A 2009 Pentagon briefing summary of the program prepared by its director
-    at the time asserted that "what was considered science fiction is now science
-    fact," and that the United States was incapable of defending itself against some
-    of the technologies discovered.
-  claim_id: 2494499a-1599-4e96-bed6-14cd00108c0d
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-2494499a-1599-4e96-bed6-14cd00108c0d
-- text: The New York Times published its AATIP story on 16 December 2017, followed
-    by Politico and the Washington Post
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 21, news publication paragraph
-  quote: The news exploded that afternoon. The New York Times broke the news online
-    and was followed seconds later by Politico, then the Washington Post. Then every
-    news platform in the world seemed to pick it up.
-  claim_id: 2e863652-df1f-4690-9aa5-4c493c0f07b4
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-2e863652-df1f-4690-9aa5-4c493c0f07b4
-- text: Pentagon spokesperson Dana White confirmed AATIP existed and was run by Luis
-    Elizondo
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: Line 47
-  quote: “Pentagon spokeswoman Dana White confirmed to Politico that the program existed
-    and was run by Elizondo,” Bryan Bender wrote in December 2017.
-  claim_id: dbaf2ab0-73ae-411d-8f29-d81a23fd7858
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-dbaf2ab0-73ae-411d-8f29-d81a23fd7858
-- text: Pentagon spokesperson Christopher Sherwood stated that Elizondo had no responsibilities
-    with regard to AATIP
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: Line 13
-  quote: “Mr. Elizondo had no responsibilities with regard to the AATIP program while
-    he worked in OUSDI [the Office of Under Secretary of Defense for Intelligence],
-    up until the time he resigned effective 10/4/2017.”
-  claim_id: 3265e4c4-9dbe-4e08-9493-df071d339805
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-3265e4c4-9dbe-4e08-9493-df071d339805
-- text: Pentagon press confirmed AATIP existed and did pursue research and investigation
-    into unidentified aerial phenomena
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: Line 13
-  quote: Yes, AATIP existed, and it “did pursue research and investigation into unidentified
-    aerial phenomena,” Pentagon spokesperson Christopher Sherwood told me.
-  claim_id: 730b830c-8da5-48cd-8ecf-d6cc754a275e
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-730b830c-8da5-48cd-8ecf-d6cc754a275e
-- text: In August 2020, the Pentagon resurrected the work under a new entity called
-    the UAP Task Force
-  source: Navy pilots describe encounters with UFOs
-  location: 00:12:07.2-00:12:20.1
-  quote: This past August, the Pentagon resurrected AATIP. It's now called the UAP
-    Task Force. Service members now are encouraged to report strange encounters.
-  claim_id: cd599503-e40f-4737-890a-59f14dae3809
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-cd599503-e40f-4737-890a-59f14dae3809
 - text: Jay Stratton acknowledged he changed the official acronym from UFO to UAP
     while working at Skinwalker Ranch with the AATIP team
   source: In Plain Sight
@@ -751,15 +734,54 @@ references:
   claim_id: c1deee0f-60a5-457c-90d5-0f2dedc73b38
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c1deee0f-60a5-457c-90d5-0f2dedc73b38
-- text: Harold Puthoff worked as a contractor for AATIP
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 85
-  quote: said Harold E. Puthoff, an engineer who has conducted research on extrasensory
-    perception for the C.I.A. and later worked as a contractor for the program.
-  claim_id: 8b0d11c4-3c08-4ecd-ba20-ca5905039f2b
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-8b0d11c4-3c08-4ecd-ba20-ca5905039f2b
+- text: The New York Times broke the AATIP story online on 16 December 2017, followed
+    by Politico and the Washington Post
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 21, news publication paragraph
+  quote: The news exploded that afternoon. The New York Times broke the news online
+    and was followed seconds later by Politico, then the Washington Post. Then every
+    news platform in the world seemed to pick it up.
+  claim_id: 2e863652-df1f-4690-9aa5-4c493c0f07b4
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-2e863652-df1f-4690-9aa5-4c493c0f07b4
+- text: Pentagon spokesperson Christopher Sherwood denied that Luis Elizondo had any
+    involvement in AATIP
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 22, paragraph 13
+  quote: The Pentagon's spokesperson at the time, Christopher Sherwood, suddenly denied
+    I had any involvement in AATIP.
+  claim_id: b15ca86f-f52d-4e5d-9da4-bcb09e04b888
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-b15ca86f-f52d-4e5d-9da4-bcb09e04b888
+- text: Pentagon spokesperson Susan Gough stated the DIA administered AATIP and that
+    Elizondo interacted with the DIA office managing it but did not lead it
+  source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: Line 21
+  quote: Elizondo did interact with the DIA office managing the program while the
+    program was still ongoing, but he did not lead it.
+  claim_id: 940c9cbe-c2a5-4f2d-883b-e8c5ebaf8abb
+  record_hash: cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd
+  workbench_url: http://localhost:5173/cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd#claim-940c9cbe-c2a5-4f2d-883b-e8c5ebaf8abb
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-940c9cbe-c2a5-4f2d-883b-e8c5ebaf8abb
+- text: An email between Neill Tipton and Luis Elizondo documents the transfer of
+    Elizondo's AATIP responsibilities to Tipton in 2017, released after a FOIA appeal
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Appendix, Documents section
+  quote: this email was finally released after a FOIA appeal was won
+  claim_id: ac9ce061-153a-473f-b763-2ff4ad540435
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-ac9ce061-153a-473f-b763-2ff4ad540435
+- text: In August 2020, the Pentagon resurrected the mission under a new UAP Task
+    Force, encouraging service members to report encounters
+  source: Navy pilots describe encounters with UFOs
+  location: 00:12:07.2-00:12:20.1
+  quote: This past August, the Pentagon resurrected AATIP. It's now called the UAP
+    Task Force. Service members now are encouraged to report strange encounters.
+  claim_id: cd599503-e40f-4737-890a-59f14dae3809
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-cd599503-e40f-4737-890a-59f14dae3809
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-cd599503-e40f-4737-890a-59f14dae3809
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -820,20 +842,20 @@ ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
-    input: 44474
-    output: 4445
-  notional_cost_usd: 0.3137
+    input: 44644
+    output: 4831
+  notional_cost_usd: 0.3205
   price_basis: anthropic-list-2026-06
 ---
 
-The Advanced Aerospace Threat Identification Program (AATIP) was a classified programme of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) established in 2007 to investigate reports of unidentified aerial phenomena encountered by military personnel.<sup>2</sup> It began as part of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia),<sup>3</sup> with contracted work commencing in 2008.<sup>10</sup> The programme was operated from the fifth floor of [the Pentagon](/organisations/the-pentagon)'s C Ring and was run by [Luis Elizondo](/people/luis-elizondo), a military intelligence official.<sup>1</sup> Its stated mission was to collect and analyse information involving anomalous aerial vehicles (AAV), known in common parlance as unidentified flying objects (UFOs).<sup>16</sup>
+The Advanced Aerospace Threat Identification Program (AATIP) was a covert programme within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) that investigated reports of unidentified aerial phenomena encountered by military personnel. According to the 2017 reporting that first disclosed its existence, AATIP was operated from [the Pentagon](/organisations/the-pentagon)'s C Ring, fifth floor.<sup>1</sup> It began in 2007 with parts of it remaining classified,<sup>2</sup> and was originally administered by the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>3</sup> Funding for the programme was secured largely at the request of [Harry Reid](/people/harry-reid), then Senate majority leader for Nevada, who was joined in his support by senators Ted Stevens of Alaska and Daniel K. Inouye of Hawaii.<sup>4,5</sup> Contracts obtained by [The New York Times](/organisations/the-new-york-times) showed a congressional appropriation of just under US$22 million beginning in late 2008 through 2011.<sup>6</sup> The bulk of that funding was directed to an aerospace research company operated by [Robert Bigelow](/people/robert-bigelow), a longtime associate of Reid, whose firm Bigelow Aerospace hired subcontractors and solicited research on behalf of the programme.<sup>7,8</sup>
 
-The programme was funded primarily at the initiative of [Harry Reid](/people/harry-reid), the Nevada Democrat who was Senate majority leader at the time,<sup>4</sup> who approached senators [Daniel K. Inouye and Ted Stevens](/organisations/the-pentagon) to secure the appropriation.<sup>7</sup> Contracts obtained by [The New York Times](/organisations/the-new-york-times) showed a congressional appropriation of just under US$22 million beginning in late 2008 through 2011.<sup>5</sup> The majority of that funding passed to an aerospace research company operated by [Robert Bigelow](/people/robert-bigelow), a billionaire entrepreneur and longtime associate of Reid,<sup>6</sup> whose firm hired subcontractors and solicited research on behalf of the programme. The programme was administered throughout by the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>9</sup> The [DoD](/organisations/united-states-department-of-defense-dod) formally terminated AATIP in 2012, citing higher-priority demands on available funding.<sup>8</sup>
+The DoD publicly acknowledged in December 2017 that AATIP had existed, stating it had been shut down in 2012, and noted it had never before confirmed its existence.<sup>9</sup> Programme backers maintained, however, that while government funding ceased in 2012, informal investigation of [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) continued as officials pursued the work alongside other DoD duties.<sup>10</sup> The DIA is confirmed to have administered the programme throughout its funded life.<sup>11</sup> Working with [Robert Bigelow](/people/robert-bigelow)'s Las Vegas-based company, AATIP produced documents describing craft that hovered with no apparent means of lift<sup>12</sup> and moved at high velocities with no visible signs of propulsion.<sup>13</sup> The programme collected video and audio recordings of reported incidents, including footage from a Navy F/A-18 Super Hornet depicting an object surrounded by a glowing aura rotating as it travelled at high speed.<sup>14</sup> Researchers also examined individuals who reported physical effects from close encounters with unknown objects, looking for physiological changes.<sup>15</sup> Contractors included [Harold E. Puthoff](/people/harold-e-puthoff), an engineer who had previously conducted research on extrasensory perception for the Central Intelligence Agency (CIA).<sup>16</sup>
 
-During its operational period, AATIP produced documents describing sightings of aircraft that hovered with no apparent means of lift<sup>11</sup> and that appeared to move at very high velocities with no visible signs of propulsion.<sup>12</sup> Officials studied video footage of encounters between unknown objects and American military aircraft,<sup>13</sup> including footage from a Navy F/A-18 Super Hornet showing an object surrounded by a glowing aura travelling at high speed and rotating.<sup>14</sup> Researchers also interviewed military service members who had reported sightings and examined individuals who reported physical effects from close encounters.<sup>15</sup> Working with contractors including [Harold E. Puthoff](/people/harold-e-puthoff), an engineer who had previously conducted research on extrasensory perception for the Central Intelligence Agency (CIA),<sup>33</sup> the programme's analysis encompassed aerospace engineering, flight characteristics, witness accounts, and medical questions. [Jay Stratton](/people/jay-stratton) also worked within the AATIP team and has acknowledged changing the official acronym describing the phenomenon from UFO to UAP (unidentified aerial phenomena) while working with the team.<sup>33b</sup>
+In June 2009, Reid wrote to the Secretary of Defense requesting that AATIP be granted Special Access Program status, citing substantial progress and several highly sensitive, unconventional aerospace-related findings.<sup>17</sup> That request was rejected by the Pentagon.<sup>18</sup> A 2009 Pentagon briefing summary prepared by the programme's director at the time asserted that the United States was incapable of defending itself against some of the technologies encountered.<sup>19</sup> AATIP's stated mission was to collect and analyse information involving anomalous aerial vehicles (AAV), known in common parlance as UFOs.<sup>20</sup> Its personnel comprised a loose-knit group of scientists, electro-optical engineers, avionics specialists, and intelligence experts, many of whom worked on the programme part-time.<sup>21</sup> [Jay Stratton](/people/jay-stratton) has stated that he helped create the related [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap), which was closely associated with AATIP, and acknowledged that he changed the official acronym used to describe the phenomenon from UFO to UAP while working with the AATIP team at Skinwalker Ranch.<sup>27</sup>
 
-AATIP researchers formalised their findings into a [UAP Observables Framework](/matters/uap-observables-framework), identifying five primary performance characteristics observed in [Unidentified Anomalous Phenomena (UAP)](/concepts/unidentified-anomalous-phenomena).<sup>17</sup> These were: hypersonic velocity, defined as Mach 5 or approximately 6,100 to 6,400 kilometres per hour;<sup>18</sup> instantaneous acceleration, including abrupt changes of direction;<sup>19</sup> low observability, leaving no sonic booms, atmospheric ionisation, heat ablation, or contrails;<sup>20</sup> transmedium travel, meaning operation equally in space, atmosphere, and underwater;<sup>21</sup> and anti-gravity, the apparent defiance of gravitational pull without wings, rotors, propellers, or control surfaces.<sup>22</sup> Elizondo subsequently identified a sixth observable comprising [UAP Biological Effects](/matters/uap-biological-effects) — radiation burns, internal organ damage, and other documented medical conditions reported by service personnel following UAP encounters — which had not been publicly discussed by the US government at time of his writing.<sup>23</sup>
+AATIP is credited with formalising a framework of observable performance characteristics used to assess [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena). The programme identified five primary observables:<sup>22</sup> hypersonic velocity, defined as Mach 5 or approximately 6,100 to 6,400 kilometres per hour;<sup>23</sup> instantaneous acceleration, including abrupt right-angle turns that would require a conventional aircraft many kilometres to execute;<sup>24</sup> low observability, characterised by the absence of sonic booms, atmospheric ionisation, heat ablation, and contrails;<sup>25</sup> transmedium travel, encompassing the ability to operate in space, atmosphere, and underwater without degraded performance;<sup>26</sup> and anti-gravity, defined as defying gravitational pull with no wings, rotors, propellers, or control surfaces.<sup>27</sup> A sixth observable — biological effects on personnel, including radiation burns and internal organ damage suffered following UAP encounters — was subsequently identified but had not been publicly discussed by the US government at the time it was described by [Luis Elizondo](/people/luis-elizondo).<sup>28</sup> Research into [UAP Biological Effects](/matters/uap-biological-effects) formed a distinct strand of the programme's investigative work. [Eric Davis](/people/eric-davis), [Harold E. Puthoff](/people/harold-e-puthoff), [Christopher K. Mellon](/people/christopher-k-mellon), and [John Robert](/people/john-robert) are among the individuals identified as having worked with or supported the programme. The [UAP Observables Framework](/matters/uap-observables-framework) that emerged from this analytical work informed subsequent government UAP assessment efforts.
 
-In 2009, Reid wrote to the US Secretary of Defense requesting that AATIP be granted Special Access Program status, citing substantial progress and several highly sensitive, unconventional aerospace-related findings.<sup>24</sup> That request was rejected by [the Pentagon](/organisations/the-pentagon).<sup>25</sup> A Pentagon briefing summary prepared by the programme's director at the time asserted that what was once considered science fiction was now science fact and that the United States was incapable of defending itself against some of the technologies encountered.<sup>26</sup> After government funding ceased in 2012, a small number of officials, including Elizondo, continued to investigate episodes brought to them by service members as a secondary duty alongside their other DoD responsibilities.<sup>24b</sup> [Christopher K. Mellon](/people/christopher-k-mellon) later joined the team after being briefed by Elizondo and pledging his support to the programme's efforts. [Eric Davis](/people/eric-davis) and [John Robert](/people/john-robert) also had roles in or around the programme.
+The public disclosure of AATIP's existence came on 16 December 2017, when [The New York Times](/organisations/the-new-york-times) broke the story online, followed within seconds by [Politico](/organisations/politico) and then the Washington Post.<sup>29</sup> The reporting, co-authored by [Leslie Kean](/people/leslie-kean) among others and constituting what became known as the [2017 NYT Pentagon UAP Article](/documents/2017-nyt-pentagon-uap-article), described the programme's history, its funding, and its investigations. Following the disclosure, the Pentagon's handling of questions about the programme's leadership became contested. Pentagon spokesperson [Christopher Sherwood](/people/christopher-sherwood) stated publicly that [Luis Elizondo](/people/luis-elizondo) had no responsibilities with regard to AATIP while working in the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi).<sup>30</sup> A separate Pentagon spokesperson, Susan Gough, confirmed that the DIA administered AATIP and that Elizondo had interacted with the DIA office managing it, but stated he did not lead it.<sup>31</sup> Elizondo and his supporters dispute these characterisations; a document released after a Freedom of Information Act appeal shows an email between [Neill Tipton](/people/neill-tipton) and Elizondo recording the transfer of AATIP responsibilities from Elizondo to Tipton in 2017, which Elizondo cites as evidence of his role.<sup>32</sup> The [Pentagon Advanced Aerospace Threat Identification Program (AATIP) Denial Campaign](/matters/pentagon-advanced-aerospace-threat-identification-program-aatip-denial-campaign) refers to the broader pattern of official statements disputing Elizondo's claimed leadership.
 
-Public disclosure came on 2017-12-16, when [The New York Times](/organisations/the-new-york-times) broke the AATIP story online,<sup>27</sup> followed by [Politico](/organisations/politico) and other outlets. The article was co-authored by [Leslie Kean](/people/leslie-kean), Ralph Blumenthal, and Helene Cooper. Pentagon spokesperson Dana White subsequently confirmed to Politico that AATIP had existed and had been run by Elizondo;<sup>28</sup> a separate Pentagon spokesperson, [Christopher Sherwood](/people/christopher-sherwood), stated that Elizondo had held no responsibilities with regard to AATIP while assigned to the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi).<sup>29</sup> The Pentagon did, however, confirm through its spokesperson that AATIP existed and had pursued research and investigation into [unidentified aerial phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap).<sup>30</sup> In August 2020, the DoD established a successor entity, the UAP Task Force, and service members were encouraged to report strange encounters.<sup>31</sup> The [Advanced Aerospace Weapon System Applications Program](/matters/advanced-aerospace-weapon-system-applications-program), an associated effort sometimes referred to interchangeably with AATIP, ran under the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) designation and formed the contractual vehicle through which much of the research was conducted, a distinction that Elizondo has noted was inadequately explained in initial press coverage.
+In August 2020, the DoD established a successor body, the UAP Task Force, to continue the mission that AATIP had pursued, and encouraged service members to report unusual encounters.<sup>33</sup> At a congressional hearing in May 2022, the Pentagon's head of intelligence, when asked about other UAP research programmes, named only AATIP and Project Blue Book. The [Advanced Aerospace Weapon System Applications Program](/matters/advanced-aerospace-weapon-system-applications-program) remains closely associated with AATIP in the historical record, and the precise relationship and overlap between the two programmes has been a persistent source of ambiguity in public accounts of the period.

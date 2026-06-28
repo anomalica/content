@@ -1,15 +1,15 @@
 ---
-title: To the Stars Academy of Arts and Science
+title: To the Stars Academy of Arts and Science (TTSA)
 description: To the Stars Academy of Arts and Science (TTSA) is a US public benefit
-  corporation co-founded by Tom DeLonge in 2017 to research unidentified anomalous
-  phenomena through science, entertainment, and government collaboration.
+  corporation and entertainment company co-founded in 2017 by Tom DeLonge to research
+  unidentified anomalous phenomena and produce related media content.
 metadata:
   founded: 2017-10-11
-  headquartered: Encinitas, California
+  headquartered: Encinitas, California, USA
   type: Public benefit corporation
-  status: Restructured (entertainment focus, from 2020)
+  status: Restructured (entertainment focus from 2020)
 built_from:
-  brief_hash: 6d0e9dc56ba2e7cd6c413ffc764fad860649a62a126238690607ec3ba1b1d1c0
+  brief_hash: fbf4710b7f895702aa0bb03323f87f9894266c8260521b7a4c23da8f80db76ba
   claims:
   - id: 5939c481-8324-4550-ae4b-232e6ad4d5a9
     hash: 02b67ba33f21635a89c30ad13987cbb3f862c34dea19b67ce60b4db88e4641a1
@@ -145,6 +145,10 @@ built_from:
     hash: 817b2be6a5da866f3cea748e9ac6ac23a9e2f4b226303ea4f3ea24be6daae545
   - id: dca1eb09-ed81-49ba-9dad-90763fd97205
     hash: af86e5dbc8ceb70f9aa60c798be0b5826b22975a98bffa78f936f232e0a6afa7
+  - id: f3be3b51-1dfa-42f1-8c7e-7eb95c957c17
+    hash: e70a57634ca77a754dcda896c72abc698d49c785b3af326eaa5d31077836a2c8
+  - id: dffe2ea0-a965-433a-9f97-5849902cf9c3
+    hash: c1c4c167ba29ec8f0827177fddf4064b65e9a323b5910bd002e89456f2baa42b
   - id: 79312dc1-05bc-40fa-81ca-d95936f173d7
     hash: 6d859d6c28247137e116267e5a12b254f3803a381ba7737eec0d1017632819e5
   - id: d39f4abe-afce-433a-9e54-5e5cebd01d69
@@ -194,7 +198,8 @@ built_from:
   - id: d87fbe7c-7ce4-408d-b829-1ff927c6546c
     hash: 2184530a9ab88b1a578e21deda487b5047081c583f89105fae4bf20c8f65a124
 references:
-- text: TTSA launched on 11 October 2017 with a press release through Cision PR Newswire
+- text: TTSA launched on 11 October 2017 with a press release issued through Cision
+    PR Newswire
   source: In Plain Sight
   location: Chapter 16, endnote 4
   quote: News Release, 'To The Stars Academy of Arts & Sciences Launches Today', Cision
@@ -202,7 +207,8 @@ references:
   claim_id: 1545b738-503a-4d38-bad0-b4611e15cb74
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1545b738-503a-4d38-bad0-b4611e15cb74
-- text: Tom DeLonge announced as president and CEO on a Seattle stage
+- text: Tom DeLonge announced as president and CEO the formation of TTSA on a Seattle
+    stage
   source: In Plain Sight
   location: Chapter 16, paragraph 1
   quote: On 11 October 2017, Tom DeLonge took to a Seattle stage to officially announce,
@@ -211,8 +217,8 @@ references:
   claim_id: 676db77a-5986-41ce-927c-4abce3874e40
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-676db77a-5986-41ce-927c-4abce3874e40
-- text: Jim Semivan was a co-founder who had recently retired from the CIA's Directorate
-    of Operations after 25 years
+- text: Jim Semivan was one of two co-founders of TTSA, having retired from the CIA's
+    Directorate of Operations after 25 years
   source: In Plain Sight
   location: Chapter 16, paragraph 2
   quote: The undeniably impressive line-up of former spooks and defence insiders included
@@ -222,8 +228,8 @@ references:
   claim_id: 40dc5622-5490-4e80-ac5c-62965c7d277b
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-40dc5622-5490-4e80-ac5c-62965c7d277b
-- text: Harold E. Puthoff was a co-founder and theoretical physicist who had led CIA
-    and Defence Department remote viewing research
+- text: Harold E. Puthoff was the third co-founder of TTSA, a theoretical physicist
+    who had led CIA and Defence Department research into remote viewing
   source: In Plain Sight
   location: Chapter 16, paragraph 2
   quote: There was also the third co-founder of TTSA, Dr Hal Puthoff, a theoretical
@@ -233,7 +239,8 @@ references:
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-a0ea4d6a-44d5-4064-bc6f-77803d97d30c
 - text: Steve Justice had just finished as director of advanced systems at Lockheed
-    Martin Skunk Works and was heading TTSA's aerospace division
+    Martin Skunk Works one month before the TTSA launch and was heading TTSA's aerospace
+    division
   source: In Plain Sight
   location: Chapter 16, paragraph 2
   quote: Another team member on stage, heading TTSA's aerospace division, was Steve
@@ -242,7 +249,7 @@ references:
   claim_id: 7d6e2d09-5f0d-4c56-850e-f77e09719e7a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-7d6e2d09-5f0d-4c56-850e-f77e09719e7a
-- text: TTSA's triple directive was fresh approaches to UAP science and engineering,
+- text: TTSA's triple directive described as fresh approaches to UAP science and engineering,
     educating laymen and journalists, and generating film, TV, and publishing content
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 21, TTSA introduction paragraph
@@ -256,7 +263,7 @@ references:
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-8f8dc709-87a8-4d39-81af-194dd2b327ed
 - text: TTSA was structured as a public benefit corporation with investors funding
-    the entertainment piece to in turn fund the research component
+    the entertainment and publishing piece to fund the research component
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 21, TTSA structure paragraph
   quote: His organization would be a 'public benefit' corporation, structured exactly
@@ -266,17 +273,7 @@ references:
   claim_id: 9fe6efb9-3703-4675-a7a3-d6b5d7a4e017
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-9fe6efb9-3703-4675-a7a3-d6b5d7a4e017
-- text: TTSA raised more than $2 million from investors and was originally hyped as
-    exploring the outer edges of science
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: Line 71
-  quote: To the Stars, which raised more than $2 million from investors, was originally
-    hyped as a UFO research company that would explore the “outer edges of science,”
-  claim_id: 5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-- text: TTSA's SEC filing identifies it as a Motion Picture & Video Tape Production
+- text: TTSA's SEC filing identifies it as a 'Motion Picture & Video Tape Production'
     concern
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -286,16 +283,17 @@ references:
   claim_id: b31a9391-00bb-4142-912d-f3196caa6fdf
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
   workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
-- text: Luis Elizondo resigned from the Department of Defense weeks before the TTSA
-    launch in protest at excessive secrecy
-  source: In Plain Sight
-  location: Chapter 16, paragraph 12
-  quote: Luis Elizondo who was to join TTSA, revealed he had resigned from the Department
-    of Defence just weeks before in protest at the excessive secrecy and internal
-    opposition about the UAP issue inside the government.
-  claim_id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
+- text: TTSA raised more than $2 million from investors
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: Line 71
+  quote: To the Stars, which raised more than $2 million from investors, was originally
+    hyped as a UFO research company that would explore the “outer edges of science,”
+  claim_id: 5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
+  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
+  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
 - text: Luis Elizondo joined TTSA in October 2017, several days after resigning from
     the Department of Defense
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -306,8 +304,19 @@ references:
   claim_id: 45f43393-7999-4411-b499-b8fb521bbf9d
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
   workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-45f43393-7999-4411-b499-b8fb521bbf9d
-- text: Christopher Mellon held the title of national security affairs adviser at
-    TTSA
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-45f43393-7999-4411-b499-b8fb521bbf9d
+- text: Luis Elizondo resigned from the Department of Defense weeks before the TTSA
+    launch in protest at excessive secrecy and internal opposition about the UAP issue
+  source: In Plain Sight
+  location: Chapter 16, paragraph 12
+  quote: Luis Elizondo who was to join TTSA, revealed he had resigned from the Department
+    of Defence just weeks before in protest at the excessive secrecy and internal
+    opposition about the UAP issue inside the government.
+  claim_id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
+  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
+- text: Chris Mellon holds the title of national security affairs adviser at TTSA
+    according to the company's website
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: Line 37
@@ -316,7 +325,9 @@ references:
   claim_id: e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
   workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
-- text: Norm Kahn was a 33-year CIA veteran on the TTSA advisory board
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
+- text: Norm Kahn, a TTSA advisory board member, is a 33-year CIA veteran decorated
+    with the CIA's Intelligence Medal
   source: In Plain Sight
   location: paragraph 3
   quote: Norm Kahn, also on the advisory board, is a 33-year CIA veteran decorated
@@ -324,8 +335,20 @@ references:
   claim_id: 9082cde6-d6b7-4e8d-9b26-83d08a330573
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9082cde6-d6b7-4e8d-9b26-83d08a330573
-- text: At the TTSA launch, Steve Justice stated TTSA was working on an Advanced Electromagnetic
-    Vehicle to alter the space-time metric
+- text: Tom DeLonge claimed TTSA had a 60 per cent chance within approximately 36
+    months of demonstrating a major breakthrough in anti-gravity propulsion
+  source: In Plain Sight
+  location: Chapter 16, paragraph 9
+  quote: '''We think we have a 60 per cent chance within 36 months or so we will be
+    able to demonstrate something pretty kickass. Within eight years we will be able
+    to demonstrate something. One big name aerospace company is offering its material
+    sciences division,'' DeLonge claimed.'
+  claim_id: 08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
+  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
+- text: Steve Justice stated TTSA was working on a revolutionary Advanced Electromagnetic
+    Vehicle that would mimic UAP capabilities by employing a drive system that alters
+    the space-time metric
   source: In Plain Sight
   location: paragraph 2
   quote: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed
@@ -337,19 +360,8 @@ references:
   claim_id: f9aa1f74-26d9-4b32-9efa-73e03279e77e
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f9aa1f74-26d9-4b32-9efa-73e03279e77e
-- text: Tom DeLonge claimed a 60 per cent chance within approximately 36 months of
-    demonstrating a major anti-gravity propulsion breakthrough
-  source: In Plain Sight
-  location: Chapter 16, paragraph 9
-  quote: '''We think we have a 60 per cent chance within 36 months or so we will be
-    able to demonstrate something pretty kickass. Within eight years we will be able
-    to demonstrate something. One big name aerospace company is offering its material
-    sciences division,'' DeLonge claimed.'
-  claim_id: 08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
-- text: TTSA posted the FLIR1 Tic Tac video and a 34-second Gimbal video on its website
-    in mid-December 2017
+- text: TTSA posted the 76-second FLIR1 Tic Tac video and a 34-second Gimbal video
+    on its website in mid-December 2017
   source: In Plain Sight
   location: Chapter 16, paragraph 19
   quote: One of those videos was the 76-second so-called FLIR1 video, depicting the
@@ -359,7 +371,8 @@ references:
   claim_id: c0866653-1e90-4a99-8034-6becb1a494e0
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c0866653-1e90-4a99-8034-6becb1a494e0
-- text: In March 2018, TTSA posted the Go-Fast video, captured by a US Navy FA-18
+- text: In March 2018, TTSA posted the Go-Fast video, a 34-second clip captured by
+    a US Navy FA-18
   source: In Plain Sight
   location: Chapter 16, paragraph 20
   quote: Three months later, in March 2018, TTSA posted another Defence Department
@@ -370,8 +383,8 @@ references:
   claim_id: 76b955e9-a20f-4048-bdef-d682dfd5ee6a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-76b955e9-a20f-4048-bdef-d682dfd5ee6a
-- text: TTSA announced a CRADA with the US Army Combat Capabilities Development Command
-    on 17 October 2019
+- text: TTSA announced a Cooperative Research and Development Agreement (CRADA) with
+    the US Army Combat Capabilities Development Command on 17 October 2019
   source: In Plain Sight
   location: Chapter 18, endnote 11
   quote: TTSA, 'TTSA Announces CRADA with The U.S. Army Combat Capabilities Development
@@ -379,16 +392,17 @@ references:
   claim_id: 72ee6d5b-a88e-4739-9a14-6944ba3bb6f5
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-72ee6d5b-a88e-4739-9a14-6944ba3bb6f5
-- text: TTSA partnered with the US Army to research alleged metamaterials claimed
-    to have come from crashed craft
+- text: TTSA US Army CRADA stipulates army researchers will work with TTSA to develop
+    advanced materials for space-time metric engineering, active camouflage, quantum
+    physics, and beamed energy propulsion
   source: In Plain Sight
-  location: Chapter 18, paragraph 13
-  quote: in October 2019, it was announced that To The Stars Academy of Arts & Sciences
-    was partnering with the US Army to research alleged metamaterials that TTSA's
-    sources claimed to have obtained from crashed craft.
-  claim_id: 8aa38b85-3d1a-466b-8783-600e5ff2b48a
+  location: Chapter 18, paragraph 16
+  quote: The CRADA stipulates army researchers will work with TTSA to develop advanced
+    materials for the purposes of 'space-time metric engineering', 'active camouflage',
+    'quantum physics' and 'beamed energy propulsion'.
+  claim_id: 3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-8aa38b85-3d1a-466b-8783-600e5ff2b48a
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
 - text: Tom DeLonge sold the six Art's Parts samples to TTSA for US$35,000 in 2019,
     as disclosed to the SEC
   source: In Plain Sight
@@ -399,19 +413,22 @@ references:
   claim_id: 9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
-- text: The TTSA US Army CRADA stipulates army researchers will work with TTSA on
-    space-time metric engineering, active camouflage, quantum physics, and beamed
-    energy propulsion
+- text: The TTSA SEC disclosure described the purchased Art's Parts assets including
+    one piece of micron-layered bismuth/magnesium-zinc metal approximately 44mm by
+    32mm by 6mm
   source: In Plain Sight
-  location: Chapter 18, paragraph 16
-  quote: The CRADA stipulates army researchers will work with TTSA to develop advanced
-    materials for the purposes of 'space-time metric engineering', 'active camouflage',
-    'quantum physics' and 'beamed energy propulsion'.
-  claim_id: 3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
+  location: Chapter 18, paragraph 14
+  quote: the SEC declaration stated that the purchased assets were '(i) One 1.75"
+    x 1.25" x 0.25" piece of micron-layered Bismuth/Magnesium-Zinc metal; (ii) six
+    pieces of Bismuth/Magnesium-Zinc metal; (iii) one piece of Aluminum that TTSA
+    physicist Hal Puthoff already had in his possession that was on loan from Seller;
+    and (iv) one round black and silver metal flake'
+  claim_id: dbd40ba4-1c63-4240-b4f4-d84511dd2745
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
-- text: TTSA announced on Twitter in 2019 it had acquired multiple pieces of metamaterials
-    reported to have come from an advanced aerospace vehicle of unknown origin
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-dbd40ba4-1c63-4240-b4f4-d84511dd2745
+- text: TTSA announced on Twitter in 2019 that it had acquired multiple pieces of
+    metamaterials reported to have come from an advanced aerospace vehicle of unknown
+    origin
   source: In Plain Sight
   location: paragraph 4
   quote: it had acquired multiple pieces of metamaterials that 'are reported to have
@@ -420,18 +437,19 @@ references:
   claim_id: c256a3cf-6573-4631-9531-80508f9d9f47
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c256a3cf-6573-4631-9531-80508f9d9f47
-- text: The photograph TTSA used on Twitter to promote metamaterials claims was identified
-    as a commercial stock image of malachite
-  source: In Plain Sight
-  location: paragraph 4
-  quote: the photograph used by TTSA to support its dramatic Twitter claims about
-    these purported metamaterials was, in fact, a downloadable commercial stock image
-    of a natural layered stone called malachite
-  claim_id: a427e945-7997-4f95-b895-752e6ddeb320
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-a427e945-7997-4f95-b895-752e6ddeb320
-- text: In late 2020 TTSA imploded with the departure of Christopher Mellon, Luis
-    Elizondo, Steve Justice, and Harold E. Puthoff
+- text: The History Channel wanted to produce a show with the TTSA team that would
+    put seasoned investigators in the field interviewing ex-military personnel about
+    their UAP encounters
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 22, paragraph 2
+  quote: The History Channel wanted to do a show with the TTSA team that would put
+    seasoned investigators in the field, interviewing ex-military personnel about
+    their UAP encounters.
+  claim_id: 0632f291-c405-453d-b907-32d442687b03
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-0632f291-c405-453d-b907-32d442687b03
+- text: In late 2020, TTSA imploded with the departure of Christopher Mellon, Luis
+    Elizondo, Steve Justice, and subsequently Harold E. Puthoff
   source: In Plain Sight
   location: Chapter 16, paragraph 21
   quote: in late 2020, TTSA imploded. Speculation had mounted for months that former
@@ -442,8 +460,9 @@ references:
   claim_id: 9e8d8d4f-70b4-444b-8bf9-64d87dea1d5d
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9e8d8d4f-70b4-444b-8bf9-64d87dea1d5d
-- text: Tom DeLonge announced he had refocused TTSA to scale back science and technology
-    and place greater emphasis on entertainment
+- text: Tom DeLonge announced he had refocused TTSA's operations to scale back science
+    and technology commercialisation and place greater emphasis on its entertainment
+    business
   source: In Plain Sight
   location: Chapter 16, paragraph 21
   quote: DeLonge announced he had 'recently taken steps to refocus [TTSA's] operations
@@ -452,28 +471,24 @@ references:
   claim_id: cb199c86-26fc-4145-96c4-f03cb2a768c8
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-cb199c86-26fc-4145-96c4-f03cb2a768c8
-- text: TTSA's founding mission was to treat unidentified aerial phenomena as technology
-    and use physics-based knowledge to reverse-engineer how the objects operate
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 03:31:59.5-03:32:19.9
-  quote: their mission was to try and don't look at this as little green men, but
-    let's look at this as a technology and let's try and almost reverse engineer and
-    figure out how these things operate and how can we explain this from using our
-    knowledge, physics-based knowledge
-  claim_id: fb6fe4db-6bad-42b6-bb7e-8d07df81f49c
-  record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
-  workbench_url: http://localhost:5173/14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9#claim-fb6fe4db-6bad-42b6-bb7e-8d07df81f49c
-- text: Tom DeLonge acknowledged TTSA provides the government an opportunity for plausible
-    deniability to release information publicly
-  source: In Plain Sight
-  location: paragraph 18
-  quote: Tom DeLonge has acknowledged that his TTSA company provides the government
-    with an opportunity for plausible deniability, to get what it knows out to the
-    public without blowback.
-  claim_id: 1260610c-7f56-451b-8b2d-e9cd1f59e504
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1260610c-7f56-451b-8b2d-e9cd1f59e504
+- text: Tom DeLonge called Luis Elizondo just before Christmas to end their business
+    relationship, saying TTSA had not brought in the money he expected or needed
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 22, paragraph 28
+  quote: Just a few days before Christmas, I got a call from Tom, who was friendly
+    but blunt. Our business relationship was over. Despite all our successes, the
+    business had not brought in the money he expected or needed.
+  claim_id: 53ef19a4-2506-403d-90cb-08d397edd67d
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-53ef19a4-2506-403d-90cb-08d397edd67d
+- text: Christopher Mellon, Harold Puthoff, and Steve Justice also left TTSA after
+    Luis Elizondo departed
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 22, paragraph 30
+  quote: Chris, Hal, and Steve Justice also soon moved on from TTSA.
+  claim_id: d87fbe7c-7ce4-408d-b829-1ff927c6546c
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d87fbe7c-7ce4-408d-b829-1ff927c6546c
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -503,21 +518,35 @@ ai_usage:
     output: 18076
   notional_cost_usd: 2.0815
   price_basis: anthropic-list-2026-06
+- stage: digest
+  model: claude-opus-4-8
+  tokens:
+    input: 870474
+    output: 88688
+  notional_cost_usd: 8.1959
+  price_basis: anthropic-list-2026-06
+- stage: digest
+  model: claude-opus-4-8
+  tokens:
+    input: 186865
+    output: 12232
+  notional_cost_usd: 2.1719
+  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
-    input: 32977
-    output: 3448
-  notional_cost_usd: 0.2297
+    input: 99753
+    output: 12184
+  notional_cost_usd: 0.5522
   price_basis: anthropic-list-2026-06
 ---
 
-To the Stars Academy of Arts and Science (TTSA) is a US public benefit corporation launched on 2017-10-11,<sup>1</sup> when [Tom DeLonge](/people/tom-delonge) announced the organisation's formation as its president and chief executive officer on a stage in Seattle.<sup>2</sup> Its founding cohort included [Jim Semivan](/people/jim-semivan), a career operations officer who had served 25 years in the [CIA](/organisations/cia)'s Directorate of Operations;<sup>3</sup> [Harold E. Puthoff](/people/harold-e-puthoff), a theoretical physicist who had previously led CIA and Department of Defense research into remote viewing;<sup>4</sup> and [Steve Justice](/people/steve-justice), who had just completed his tenure as director of advanced systems at [Lockheed Martin Skunk Works](/organisations/lockheed-martin-skunk-works) and assumed leadership of TTSA's aerospace division.<sup>5</sup> The organisation described its directive in three parts: developing fresh approaches to [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) science and engineering, educating journalists and the public, and generating film, television, and publishing content about UAP.<sup>6</sup> It was structured as a public benefit corporation in which investors funded the entertainment and publishing operation, with those revenues intended in turn to fund the research component.<sup>7</sup>
+To the Stars Academy of Arts and Science (TTSA) is a US public benefit corporation launched on 2017-10-11,<sup>1</sup> when musician and entrepreneur [Tom DeLonge](/people/tom-delonge) officially announced its formation as president and chief executive officer on a stage in Seattle.<sup>2</sup> The organisation was structured so that revenue from its entertainment and publishing activities would fund a parallel research programme into [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena),<sup>7</sup> though its [Securities and Exchange Commission (SEC)](/organisations/securities-and-exchange-commission-sec) filing classified it formally as a "Motion Picture & Video Tape Production" concern.<sup>8</sup> TTSA raised more than US$2 million from investors following its launch.<sup>9</sup> Its planned headquarters was in Encinitas, California, approximately 30 minutes north of San Diego.<sup>6</sup>
 
-TTSA raised more than US$2 million from investors and was promoted as a venture that would explore the outer edges of science.<sup>8</sup> Its filing with the [Securities and Exchange Commission (SEC)](/organisations/securities-and-exchange-commission-sec) classified the company as a "Motion Picture & Video Tape Production" concern.<sup>9</sup> [Luis Elizondo](/people/luis-elizondo) joined the organisation in October 2017, several days after resigning from the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) in protest at what he characterised as excessive secrecy and internal opposition regarding UAP.<sup>10,11</sup> [Christopher K. Mellon](/people/christopher-k-mellon) joined as national security affairs adviser.<sup>12</sup> Advisory board members included [Norm Kahn](/people/norm-kahn), a 33-year CIA veteran decorated with the CIA's Intelligence Medal.<sup>13</sup> At the launch event, Justice described TTSA as working on a revolutionary Advanced Electromagnetic Vehicle that would employ a drive system altering the space-time metric to mimic observed UAP capabilities,<sup>14</sup> while DeLonge asserted a 60 per cent probability of demonstrating a major breakthrough in anti-gravity propulsion within approximately 36 months.<sup>15</sup>
+The founding team drew heavily on individuals with intelligence and advanced aerospace backgrounds. [Jim Semivan](/people/jim-semivan) was a co-founder who had retired from the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia)'s Directorate of Operations after 25 years as an operations officer.<sup>3</sup> [Harold E. Puthoff](/people/harold-e-puthoff) was the third co-founder, a theoretical physicist who had previously led CIA and US Department of Defense research into remote viewing.<sup>4</sup> [Steve Justice](/people/steve-justice), who had just concluded his tenure as director of advanced systems at [Lockheed Martin Skunk Works](/organisations/lockheed-martin-skunk-works) one month before the launch, joined as head of TTSA's aerospace division.<sup>5</sup> TTSA described its mandate to [Luis Elizondo](/people/luis-elizondo) as a triple directive: fresh approaches to [UFO](/topics/ufo) science and engineering, educating journalists and the public, and generating film, television, and publishing content about UAP.<sup>6</sup> [Christopher K. Mellon](/people/christopher-k-mellon) joined as national security affairs adviser,<sup>12</sup> and the advisory board included [Norm Kahn](/people/norm-kahn), a 33-year CIA veteran decorated with the CIA's Intelligence Medal.<sup>13</sup>
 
-In mid-December 2017, TTSA posted the [FLIR1 Video](/documents/flir1-video) (the so-called Tic Tac video) and a 34-second [Gimbal video](/documents/gimbal-video) on its website.<sup>16</sup> The [Go-Fast Video](/documents/go-fast-video) followed in March 2018, a 34-second clip captured by a US Navy FA-18 showing a white oval shape moving at apparent high speed very low over the water.<sup>17</sup> The FLIR1 and Gimbal footage had also appeared alongside a New York Times report in December 2017, with links to TTSA's own YouTube page. [David Fravor](/people/david-fravor), the naval aviator central to the 2004 USS Nimitz encounter, was not a formal member of TTSA but stated he spoke with its founders frequently.<sup>20</sup> TTSA's stated founding mission, as described by those with knowledge of its internal aims, was to treat observed phenomena as technology rather than extraterrestrial phenomena and to use physics-based knowledge to attempt to understand how the objects operate.<sup>26</sup>
+[Elizondo, Luis (Lou)](/people/luis-lou-elizondo) joined TTSA in October 2017, several days after resigning from the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) in protest at what he described as excessive secrecy and internal opposition over the UAP issue.<sup>10,11</sup> At the [TTSA Launch Seattle 2017](/events/ttsa-launch-seattle-2017), [Chris Mellon](/people/chris-mellon) stated that the US government could verify events involving the USS Nimitz encounter. DeLonge publicly claimed TTSA had a 60 per cent chance of demonstrating a major breakthrough in anti-gravity propulsion within approximately 36 months, and a definite propulsion breakthrough within eight years.<sup>14</sup> Justice announced that TTSA was developing a revolutionary Advanced Electromagnetic Vehicle that would employ a drive system altering the space-time metric in order to mimic observed UAP capabilities.<sup>15</sup> [David Fravor](/people/david-fravor) has described the organisation's founding mission as treating unidentified aerial phenomena as technology rather than extraterrestrial in origin, with the aim of using physics-based knowledge to reverse-engineer and explain how such objects operate.
 
-In October 2019, TTSA announced a Cooperative Research and Development Agreement (CRADA) with the [Army Combat Capabilities Development Command](/organisations/army-combat-capabilities-development-command) of the US Army.<sup>18</sup> The partnership centred on alleged metamaterials that TTSA's sources claimed had been obtained from crashed craft.<sup>19</sup> As part of the arrangement, DeLonge sold six [Art's Parts Samples](/objects/arts-parts-samples) to TTSA for US$35,000, as disclosed to the [Securities and Exchange Commission (SEC)](/organisations/securities-and-exchange-commission-sec).<sup>20</sup> Under the CRADA, army researchers were to work with TTSA on advanced materials for space-time metric engineering, active camouflage, quantum physics, and beamed energy propulsion.<sup>21</sup> Also in 2019, TTSA announced via Twitter that it had acquired multiple pieces of metamaterials reportedly from an advanced aerospace vehicle of unknown origin;<sup>22</sup> that announcement attracted scrutiny when the photograph used to illustrate the claim was identified as a commercially available stock image of a naturally occurring layered stone.<sup>23</sup> At a Scientific Coalition for UAP Studies lecture the same year, Elizondo stated the materials "do remarkable and extraordinary things" and that TTSA had not been able to replicate them.
+TTSA played a central role in bringing several declassified US Navy sensor recordings into the public domain. In mid-December 2017 the organisation posted both the 76-second [FLIR1 Video](/documents/flir1-video) — the so-called Tic Tac footage — and a 34-second [Gimbal video](/documents/gimbal-video) on its website, with TTSA characterising the Gimbal object as exhibiting low observability, no distinguishable flight surfaces, no obvious propulsion system, and previously unseen flight capabilities.<sup>16</sup> In March 2018, TTSA released the [Go-Fast Video](/documents/go-fast-video), a 34-second clip captured by a US Navy FA-18 showing a white oval shape moving at apparent high speed very low over the water.<sup>17</sup> In October 2019, TTSA announced a [TTSA US Army CRADA](/matters/ttsa-us-army-crada) — a Cooperative Research and Development Agreement — with the [Army Combat Capabilities Development Command](/organisations/army-combat-capabilities-development-command),<sup>18</sup> under which army researchers would collaborate with TTSA on advanced materials research for space-time metric engineering, active camouflage, quantum physics, and beamed energy propulsion.<sup>19</sup> That same year, DeLonge sold six [Art's Parts Samples](/objects/arts-parts-samples) to TTSA for US$35,000, as disclosed to the SEC,<sup>20</sup> with the acquisition including one piece of micron-layered bismuth/magnesium-zinc metal approximately 44 millimetres by 32 millimetres by 6 millimetres, among other fragments.<sup>21</sup> TTSA separately announced on social media that it had acquired multiple pieces of metamaterials reported to have come from an advanced aerospace vehicle of unknown origin.<sup>22</sup> A 2018 SEC disclosure revealed that TTSA had retained Puthoff's company EarthTech International to prepare plans on materials analysis and beamed energy propulsion launch systems. The [History Channel](/organisations/history-channel) entered into discussions with the TTSA team to produce a programme placing seasoned investigators in the field to interview former military personnel about their UAP encounters.<sup>23</sup>
 
-In late 2020, TTSA underwent a significant contraction. [Christopher K. Mellon](/people/christopher-k-mellon), [Luis Elizondo](/people/luis-elizondo), [Steve Justice](/people/steve-justice), and subsequently [Harold E. Puthoff](/people/harold-e-puthoff) all departed the organisation.<sup>24</sup> DeLonge announced that TTSA would scale back its science and technology commercialisation activities and redirect its focus towards its entertainment business.<sup>25</sup> Elizondo later wrote that DeLonge ended their business relationship just before Christmas 2020, citing insufficient revenue. Elizondo, Puthoff, Mellon, and Justice each confirmed departing the company around the same period. DeLonge had previously acknowledged that TTSA provided the government with an avenue for what he described as plausible deniability in releasing information about UAP publicly without institutional blowback.<sup>27</sup>
+By late 2020 TTSA had shed most of its senior personnel. [Christopher K. Mellon](/people/christopher-k-mellon), Elizondo, [Steve Justice](/people/steve-justice), and subsequently [Harold E. Puthoff](/people/harold-e-puthoff) all departed the organisation.<sup>24</sup> DeLonge announced he was refocusing TTSA's operations, scaling back science and technology commercialisation and placing greater emphasis on its entertainment business.<sup>25</sup> Shortly before Christmas 2020, DeLonge ended his business relationship with Elizondo, citing the organisation's failure to generate the revenue he had expected.<sup>26</sup> [Luis Elizondo](/people/luis-elizondo) later stated that he had joined TTSA because he believed he needed its platform to advance the UAP issue alongside [Harold E. Puthoff](/people/harold-e-puthoff), [Jim Semivan](/people/jim-semivan), and [Christopher K. Mellon](/people/christopher-k-mellon); following his departure, [Chris Mellon](/people/chris-mellon), Puthoff, and [Steve Justice](/people/steve-justice) also left the organisation.<sup>27</sup> [Kari DeLonge](/people/kari-delonge), Tom DeLonge's sister, had served as a TTSA spokesperson during its operational period. [George Knapp](/people/george-knapp), the investigative journalist, purchased 400 shares of TTSA stock in 2018, which he subsequently placed in a trust for charitable donation, and publicly acknowledged the purchase to his employer at KLAS-TV in Las Vegas. The [Australian Department of Defence](/organisations/australian-department-of-defence) and [The Pentagon](/organisations/the-pentagon) were among government bodies whose relationship to TTSA was examined in contemporary reporting and congressional testimony. [Fox News](/organisations/fox-news) featured TTSA personnel in coverage that critics noted did not always disclose the subjects' connection to the company.

@@ -1,9 +1,16 @@
 ---
-title: Unidentified Aerial Phenomena (UAP)
-description: Unidentified Aerial Phenomena (UAP) is the official United States government
-  designation for observed objects or events in the air, sea, or space that cannot
-  be immediately identified, formerly referred to colloquially as unidentified flying
-  objects (UFOs).
+title: Unidentified Anomalous Phenomena (UAP)
+description: Unidentified Anomalous Phenomena (UAP) is the official United States
+  government term for observed aerial or transmedium objects that cannot be identified
+  as known aircraft, natural phenomena, or other conventional explanations, and which
+  have become the subject of significant military, intelligence, and congressional
+  scrutiny since the late 2010s.
+metadata:
+  type: topic
+  also_known_as: Unidentified Flying Objects (UFO), Unidentified Aerial Phenomena
+    (UAP), Anomalous Aerial Vehicles (AAV)
+  official_designation: Unidentified Anomalous Phenomena (UAP) — terminology standardised
+    in the FY2023 National Defense Authorization Act
 built_from:
   brief_hash: 19668572ffd360d4e1ceb76f619bce3d4bf4665006564df6aaec676d01a36e07
   claims:
@@ -408,8 +415,20 @@ built_from:
   - id: eb848aa4-8d75-40e7-aded-1665df05e434
     hash: 19c8ea93ef1df0df57c4c0ab332643b85f232a90611b1a46fc4ce54342088180
 references:
-- text: The US government had publicly ignored UFOs since closing Project Blue Book
-    in 1969
+- text: The Unidentified Aerial Phenomena Task Force was established to investigate
+    objects once called UFOs, now officially called unidentified anomalous phenomena
+    (UAP).
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: line 17
+  quote: The task force was established to investigate what were once called “unidentified
+    flying objects,” or UFOs, and are now officially called “unidentified anomalous
+    phenomena,” or UAP.
+  claim_id: a578a803-30df-4ff1-b2f5-4279326a98cb
+  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a578a803-30df-4ff1-b2f5-4279326a98cb
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a578a803-30df-4ff1-b2f5-4279326a98cb
+- text: The US government had publicly ignored UFOs since closing its Project Blue
+    Book investigation in 1969.
   source: Navy pilots describe encounters with UFOs
   location: 00:06:23.4-00:06:30.3
   quote: The government has ignored it, at least publicly, since closing its Project
@@ -417,8 +436,9 @@ references:
   claim_id: 695f0bb3-62ec-4b71-aa31-1957139276b8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
 - text: For decades, the US Air Force, FBI and CIA all had a policy of denial towards
-    UFOs
+    UFOs, denying, dispelling and debunking the subject.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:06:01.5-00:06:16.6
   quote: for decades, the Air Force, FBI, CIA, all the official agencies had a policy
@@ -426,125 +446,9 @@ references:
   claim_id: 7b575d39-e3d8-46ff-99db-d0a44d345a76
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-7b575d39-e3d8-46ff-99db-d0a44d345a76
-- text: For 50 years there has been a taboo, deliberate stigma and ridicule attached
-    to the subject of UFOs
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:04:37.7-00:04:49.4
-  quote: for 50 years there's been a taboo, a deliberate stigma, ridicule attached
-    to the subject of UFOs.
-  claim_id: a89e7117-1706-4c32-a456-70f29d2e7705
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-a89e7117-1706-4c32-a456-70f29d2e7705
-- text: A secret programme within the Pentagon studying unidentified objects started
-    in 2007 and ran for 10 years
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:13:24.5-00:13:36.8
-  quote: there was a secret program within the Pentagon that had started in 2007 that
-    had been studying these objects. So this had been for 10 years, secretly being
-    studied.
-  claim_id: 32824b45-3ef8-4326-a359-1c20a5e23196
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-32824b45-3ef8-4326-a359-1c20a5e23196
-- text: The AATIP was part of a $22 million programme sponsored by Harry Reid to investigate
-    UFOs
-  source: Navy pilots describe encounters with UFOs
-  location: 00:01:50.3-00:02:01.6
-  quote: Buried away in the Pentagon, AATIP was part of a $22 million program sponsored
-    by then Senate Majority Leader Harry Reid to investigate UFOs.
-  claim_id: fd9a7030-681a-442c-b360-e6762d7e3e41
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-fd9a7030-681a-442c-b360-e6762d7e3e41
-- text: The mission of AATIP was to collect and analyse information involving anomalous
-    aerial vehicles, known in the vernacular as UFOs
-  source: Navy pilots describe encounters with UFOs
-  location: 00:01:24.1-00:01:34.3
-  quote: The mission of AATIP was quite simple. It was to collect and analyze information
-    involving anomalous aerial vehicles, what I guess in the vernacular you call them
-    UFOs. We call them UAPs.
-  claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
-- text: Luis Elizondo took over AATIP in 2010 and focused on national security implications
-    of UAP
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:01.6-00:02:10.8
-  quote: When Elizondo took over in 2010, he focused on the national security implications
-    of unidentified aerial phenomena documented by U.S. service members.
-  claim_id: 34c859a3-7579-4c7e-a137-d44a304ea832
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-34c859a3-7579-4c7e-a137-d44a304ea832
-- text: AATIP investigated alternative explanations for UAP before concluding the
-    phenomenon was real and in US airspace
-  source: Navy pilots describe encounters with UFOs
-  location: 00:03:42.7-00:04:04.0
-  quote: Is it some sort of new type of cruise missile technology that China has developed?
-    Is it some sort of high-altitude balloon that's conducting reconnaissance? Ultimately,
-    when you have exhausted all those what-ifs and you're still left with the fact
-    that this is in our airspace and it's real, that's when it becomes compelling
-    and that's when it becomes problematic.
-  claim_id: d35667fe-2b23-4a1f-b213-9c53b1f1ba58
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-d35667fe-2b23-4a1f-b213-9c53b1f1ba58
-- text: Luis Elizondo and colleagues determined the phenomena did not seem to originate
-    from any country
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 99
-  quote: Mr. Elizondo said he and his government colleagues had determined that the
-    phenomena they had studied did not seem to originate from any country.
-  claim_id: f058a3c6-3d68-42a7-80e8-932bbb2621c3
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-f058a3c6-3d68-42a7-80e8-932bbb2621c3
-- text: AATIP found pilots' UAP sightings compelling because they were backed up by
-    electro-optical and radar data
-  source: Navy pilots describe encounters with UFOs
-  location: 00:10:13.2-00:10:27.7
-  quote: We spend millions of dollars in training these pilots, and they are seeing
-    something that they can't explain. Furthermore, that information's being backed
-    up on electro-optical data, like gun camera footage, and by radar data. Now, to
-    me, that's compelling.
-  claim_id: 8c284a42-5514-4be8-802e-051915e643d4
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-8c284a42-5514-4be8-802e-051915e643d4
-- text: Inside the Pentagon, Elizondo's findings on UAP were met with scepticism
-  source: Navy pilots describe encounters with UFOs
-  location: 00:10:27.7-00:10:31.7
-  quote: Inside the Pentagon, his findings were met with skepticism.
-  claim_id: 6908b846-9710-4215-ab7c-2b39b34ba3ab
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-6908b846-9710-4215-ab7c-2b39b34ba3ab
-- text: In April 2020, the US Department of Defense made an unprecedented admission
-    acknowledging that videos taken by fighter pilots of unidentified objects are
-    real
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:09:00.9-00:09:09.0
-  quote: In April last year, here at the Pentagon, the US Department of Defense made
-    an unprecedented admission. It acknowledged that the videos taken by their fighter
-    pilots of unidentified objects are real.
-  claim_id: df31f142-37dc-4b90-ae72-d8ec27e950ab
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-df31f142-37dc-4b90-ae72-d8ec27e950ab
-- text: The DoD authorised the release of three unclassified US Navy videos of unidentified
-    aerial phenomena
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: line 5
-  quote: The Department of Defense has authorized the release of three unclassified
-    Navy videos
-  claim_id: ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
-- text: The aerial phenomena observed in the three released US Navy videos remain
-    characterised as unidentified
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: line 5
-  quote: The aerial phenomena observed in the videos remain characterized as "unidentified."
-  claim_id: 65562542-1bb3-452f-bcb8-17225fd377d3
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-65562542-1bb3-452f-bcb8-17225fd377d3
-- text: The US government has grudgingly acknowledged the existence of UAP after decades
-    of public denial
+  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-7b575d39-e3d8-46ff-99db-d0a44d345a76
+- text: The United States government has grudgingly acknowledged the existence of
+    UAP after decades of public denial.
   source: Navy pilots describe encounters with UFOs
   location: 00:00:07.6-00:00:14.9
   quote: It's the story of the U.S. government's grudging acknowledgement of Unidentified
@@ -553,8 +457,72 @@ references:
   claim_id: 380e6b56-4fea-4167-a1e5-99984f3741b8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-380e6b56-4fea-4167-a1e5-99984f3741b8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-380e6b56-4fea-4167-a1e5-99984f3741b8
+- text: AATIP existed and did pursue research and investigation into unidentified
+    aerial phenomena.
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: Line 13
+  quote: Yes, AATIP existed, and it “did pursue research and investigation into unidentified
+    aerial phenomena,” Pentagon spokesperson Christopher Sherwood told me.
+  claim_id: 730b830c-8da5-48cd-8ecf-d6cc754a275e
+  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
+  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-730b830c-8da5-48cd-8ecf-d6cc754a275e
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-730b830c-8da5-48cd-8ecf-d6cc754a275e
+- text: The mission of AATIP was to collect and analyse information involving anomalous
+    aerial vehicles (AAV), known in the vernacular as UFOs.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:01:24.1-00:01:34.3
+  quote: The mission of AATIP was quite simple. It was to collect and analyze information
+    involving anomalous aerial vehicles, what I guess in the vernacular you call them
+    UFOs. We call them UAPs.
+  claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
+- text: AATIP was part of a $22 million programme sponsored by then Senate Majority
+    Leader Harry Reid to investigate UFOs.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:01:50.3-00:02:01.6
+  quote: Buried away in the Pentagon, AATIP was part of a $22 million program sponsored
+    by then Senate Majority Leader Harry Reid to investigate UFOs.
+  claim_id: fd9a7030-681a-442c-b360-e6762d7e3e41
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-fd9a7030-681a-442c-b360-e6762d7e3e41
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-fd9a7030-681a-442c-b360-e6762d7e3e41
+- text: Luis Elizondo took over AATIP in 2010 and focused on the national security
+    implications of UAP documented by US service members.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:01.6-00:02:10.8
+  quote: When Elizondo took over in 2010, he focused on the national security implications
+    of unidentified aerial phenomena documented by U.S. service members.
+  claim_id: 34c859a3-7579-4c7e-a137-d44a304ea832
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-34c859a3-7579-4c7e-a137-d44a304ea832
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-34c859a3-7579-4c7e-a137-d44a304ea832
+- text: The DoD authorised the release of three unclassified US Navy videos of unidentified
+    aerial phenomena on 2020-04-27.
+  source: Statement by the Department of Defense on the Release of Historical Navy
+    Videos
+  location: line 5
+  quote: The Department of Defense has authorized the release of three unclassified
+    Navy videos
+  claim_id: ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
+  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
+  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
+- text: The aerial phenomena observed in the three released Navy videos remain characterised
+    as unidentified.
+  source: Statement by the Department of Defense on the Release of Historical Navy
+    Videos
+  location: line 5
+  quote: The aerial phenomena observed in the videos remain characterized as "unidentified."
+  claim_id: 65562542-1bb3-452f-bcb8-17225fd377d3
+  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
+  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-65562542-1bb3-452f-bcb8-17225fd377d3
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-65562542-1bb3-452f-bcb8-17225fd377d3
 - text: Ryan Graves's F/A-18 squadron began seeing UAP hovering over restricted airspace
-    southeast of Virginia Beach in 2014
+    southeast of Virginia Beach in 2014, after their jet's radar was updated.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:12.9-00:04:29.7
   quote: He told us his F-18 squadron began seeing UAPs hovering over restricted airspace
@@ -563,8 +531,9 @@ references:
   claim_id: b1af4475-0624-42c0-a610-14f0ffbe42a3
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-b1af4475-0624-42c0-a610-14f0ffbe42a3
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-b1af4475-0624-42c0-a610-14f0ffbe42a3
 - text: Pilots training off the Atlantic coast saw UAP every day for at least a couple
-    of years
+    of years.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:48.2-00:04:56.6
   quote: 'Bill Whitaker: Lieutenant Graves told us pilots training off the Atlantic
@@ -573,15 +542,64 @@ references:
   claim_id: 3ed5c698-bcec-4830-b1a2-0db573ffd500
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-3ed5c698-bcec-4830-b1a2-0db573ffd500
-- text: Ryan Graves observed no exhaust plume on the UAP seen off the Atlantic coast
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-3ed5c698-bcec-4830-b1a2-0db573ffd500
+- text: The UAP under investigation can perform manoeuvres of 600 to 700 G-forces.
   source: Navy pilots describe encounters with UFOs
-  location: '00:05:02.5'
-  quote: You know, I don't see an exhaust plume.
-  claim_id: bae9f42c-5a31-4c58-af48-d8184c79f2f6
+  location: 00:02:12.6-00:02:35.2
+  quote: Imagine a technology that can do 600 to 700 G-forces
+  claim_id: 0e26e972-1d95-4f60-96fa-76acff8bf53b
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-bae9f42c-5a31-4c58-af48-d8184c79f2f6
-- text: UAP objects off the East Coast were observed at zero airspeed, staying stationary
-    in category four hurricane winds
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-0e26e972-1d95-4f60-96fa-76acff8bf53b
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-0e26e972-1d95-4f60-96fa-76acff8bf53b
+- text: The UAP under investigation can fly at approximately 21,000 kilometres per
+    hour.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:12.6-00:02:35.2
+  quote: that can fly at 13,000 miles an hour
+  claim_id: 9841df2b-135c-42e0-ba9e-0bd42650ebed
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-9841df2b-135c-42e0-ba9e-0bd42650ebed
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-9841df2b-135c-42e0-ba9e-0bd42650ebed
+- text: The UAP under investigation have no obvious signs of propulsion, no wings,
+    and no control surfaces.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:12.6-00:02:35.2
+  quote: has no obvious signs of propulsion, no wings, no control surfaces
+  claim_id: db4d6436-ab7a-41eb-98fd-e1537d39f4e0
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-db4d6436-ab7a-41eb-98fd-e1537d39f4e0
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-db4d6436-ab7a-41eb-98fd-e1537d39f4e0
+- text: The UAP under investigation can fly through air and water and possibly space.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:12.6-00:02:35.2
+  quote: that can fly through air and water and possibly space
+  claim_id: 1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
+- text: The UAP observed during the 2004 USS Nimitz incident appeared smooth and white,
+    with a Tic Tac shape, no wings, no visible propulsion, no windows, and no visible
+    probes.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 02:00:37.0-02:00:53.0
+  quote: Smooth, white. tic-tac you know we don't you don't see there's no no wings
+    no visible propulsion no windows no probes that we could see
+  claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
+  record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
+  workbench_url: http://localhost:5173/14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
+- text: Kevin Day observed on radar that the unidentified object went from approximately
+    8,500 metres to the surface of the ocean in 0.78 seconds during the 2004 USS Nimitz
+    encounter.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:16:21.4-00:16:27.2
+  quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
+  claim_id: 9506ac06-f851-438d-9709-c21fe380b81b
+  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
+  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-9506ac06-f851-438d-9709-c21fe380b81b
+  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-9506ac06-f851-438d-9709-c21fe380b81b
+- text: UAP objects off the East Coast were observed at zero airspeed, staying completely
+    stationary in category four hurricane winds.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: file_page 23
@@ -591,8 +609,9 @@ references:
   claim_id: d1713089-0491-498d-87c6-91c634682bd3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d1713089-0491-498d-87c6-91c634682bd3
-- text: The same stationary UAP objects would accelerate to supersonic speeds of Mach
-    1.1 to 1.2 in erratic and quick behaviours
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d1713089-0491-498d-87c6-91c634682bd3
+- text: The same stationary UAP objects off the East Coast would accelerate to supersonic
+    speeds of Mach 1.1 to 1.2 in very erratic and quick behaviours.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: file_page 23
@@ -602,59 +621,9 @@ references:
   claim_id: dffba956-1633-4f08-9d2c-be07526002d5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-dffba956-1633-4f08-9d2c-be07526002d5
-- text: The dual detection of UAP with both radar and infrared is hard to spoof
-  source: Navy pilots describe encounters with UFOs
-  location: 00:04:29.7-00:04:37.1
-  quote: 'Bill Whitaker: So you''re seeing it both with the radar and with the infrared,
-    and that tells you that there is something out there. Ryan Graves: Pretty hard
-    to spoof that.'
-  claim_id: aa714d53-4154-461e-a336-8841aa4c8d10
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-aa714d53-4154-461e-a336-8841aa4c8d10
-- text: UAP under investigation can perform manoeuvres of 600 to 700 G-forces and
-    fly at approximately 21,000 kilometres per hour
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:12.6-00:02:35.2
-  quote: Imagine a technology that can do 600 to 700 G-forces
-  claim_id: 0e26e972-1d95-4f60-96fa-76acff8bf53b
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-0e26e972-1d95-4f60-96fa-76acff8bf53b
-- text: UAP under investigation have no obvious signs of propulsion, no wings, and
-    no control surfaces
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:12.6-00:02:35.2
-  quote: has no obvious signs of propulsion, no wings, no control surfaces
-  claim_id: db4d6436-ab7a-41eb-98fd-e1537d39f4e0
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-db4d6436-ab7a-41eb-98fd-e1537d39f4e0
-- text: UAP under investigation can fly through air, water and possibly space
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:12.6-00:02:35.2
-  quote: that can fly through air and water and possibly space
-  claim_id: 1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
-- text: The UAP observed during the 2004 USS Nimitz incident appeared smooth and white,
-    Tic Tac-shaped, with no wings, no visible propulsion, no windows, and no visible
-    probes
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:37.0-02:00:53.0
-  quote: Smooth, white. tic-tac you know we don't you don't see there's no no wings
-    no visible propulsion no windows no probes that we could see
-  claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
-  record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
-  workbench_url: http://localhost:5173/14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
-- text: Kevin Day observed on radar that the object went from approximately 8,500
-    metres to the ocean surface in 0.78 seconds
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:16:21.4-00:16:27.2
-  quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
-  claim_id: 9506ac06-f851-438d-9709-c21fe380b81b
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-9506ac06-f851-438d-9709-c21fe380b81b
-- text: The US Senate Select Committee on Intelligence ordered the ODNI and Secretary
-    of Defense to deliver a report on UAP sightings
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-dffba956-1633-4f08-9d2c-be07526002d5
+- text: The US Senate Select Committee on Intelligence ordered the ODNI and the Secretary
+    of Defense to deliver a report on UAP sightings.
   source: Navy pilots describe encounters with UFOs
   location: 00:00:09.1-00:00:44.4
   quote: the u.s senate wants to know what it is the intelligence committee has ordered
@@ -663,26 +632,30 @@ references:
   claim_id: 5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
-- text: In May 2022, the first open Congressional hearing on UAP since 1968 was held
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
+- text: With two public hearings and many classified briefings completed, Congress
+    is pressing for answers on UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 142
-  quote: In May 2022, Carson presided over the first open Congressional hearing on
-    UAP since 1968.
-  claim_id: a948c52f-97ab-49a2-b86f-bc38bc526dd3
+  location: line 27
+  quote: Now, with two public hearings and many classified briefings under its belt,
+    Congress is pressing for answers.
+  claim_id: 4d2e00fd-c4f0-403a-a026-aad371e42ae0
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
-- text: The All-Domain Anomaly Resolution Office (AARO) and the Unidentified Aerial
-    Phenomena Task Force have been established to investigate UAP
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-4d2e00fd-c4f0-403a-a026-aad371e42ae0
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d2e00fd-c4f0-403a-a026-aad371e42ae0
+- text: The FY2023 National Defense Authorization Act asks for reporting on material
+    retrieval, analysis, reverse engineering, and development involving UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 17
-  quote: The task force was established to investigate what were once called “unidentified
-    flying objects,” or UFOs, and are now officially called “unidentified anomalous
-    phenomena,” or UAP.
-  claim_id: a578a803-30df-4ff1-b2f5-4279326a98cb
+  location: line 128
+  quote: In addition, the legislation asks for reporting on “material retrieval, material
+    analysis, reverse engineering, research, and development” involving unidentified
+    anomalous phenomena currently and going back decades.
+  claim_id: 17aaa392-8955-46b9-a761-0b17871cd57c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a578a803-30df-4ff1-b2f5-4279326a98cb
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-17aaa392-8955-46b9-a761-0b17871cd57c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-17aaa392-8955-46b9-a761-0b17871cd57c
 - text: David Grusch believes the US government is in possession of UAP, based on
-    interviewing over 40 witnesses over four years
+    interviewing over 40 witnesses over four years.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: file_page 23
@@ -691,8 +664,10 @@ references:
   claim_id: 11018e3d-56cf-40a8-afdd-8f00023fca1e
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-11018e3d-56cf-40a8-afdd-8f00023fca1e
-- text: UFO legacy programmes have long been concealed within multiple agencies without
-    appropriate reporting to oversight authorities
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-11018e3d-56cf-40a8-afdd-8f00023fca1e
+- text: UFO legacy programmes have long been concealed within multiple agencies nesting
+    UAP activities in conventional secret access programmes without appropriate reporting
+    to oversight authorities.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 57
   quote: Grusch asserted that UFO “legacy programs” have long been concealed within
@@ -701,72 +676,35 @@ references:
   claim_id: dc900632-1c36-465d-90f0-02ebf410fa67
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-dc900632-1c36-465d-90f0-02ebf410fa67
-- text: There has been a decades-long Cold War for recovered and exploited physical
-    UAP material
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-dc900632-1c36-465d-90f0-02ebf410fa67
+- text: UAP-related classified information has been withheld and/or concealed from
+    Congress by elements of the intelligence community to purposely thwart congressional
+    oversight.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 59
-  quote: He said he reported to Congress on the existence of a decades-long “publicly
-    unknown Cold War for recovered and exploited physical material – a competition
-    with near-peer adversaries over the years to identify UAP crashes/landings and
-    retrieve the material for exploitation/reverse engineering to garner asymmetric
-    national defense advantages.”
-  claim_id: c61ebaf2-8990-48b2-987a-245b92fe1aa8
+  location: line 82
+  quote: An unclassified version of the complaint provided to us states that Grusch
+    has direct knowledge that UAP-related classified information has been withheld
+    and/or concealed from Congress by “elements” of the intelligence community “to
+    purposely and intentionally thwart legitimate Congressional oversight of the UAP
+    Program.”
+  claim_id: 96c2db33-c74f-4cd3-9a77-280a0656eb2c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c61ebaf2-8990-48b2-987a-245b92fe1aa8
-- text: Ryan Graves considers UAP a security risk and recommends a centralised reporting
-    location
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 21
-  quote: Identifying friend from foe is very important to us, and so when we have
-    unidentified targets, and we continue to ignore those due to a stigma or fear
-    of what it could be that is an opening that our adversaries can take advantage
-    of.
-  claim_id: 0d9ab19a-57bc-42e7-9db5-4cbe97d8edaa
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0d9ab19a-57bc-42e7-9db5-4cbe97d8edaa
-- text: Commercial pilots have reached out to Americans for Safe Aerospace because
-    they have no way to report UAP
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 22
-  quote: the commercial pilots that have reached out to me through Americans for Safe
-    Aerospace are doing so because they do not feel there is another way for them
-    to report this safety issue.
-  claim_id: dd044107-f14c-43a9-aef4-76aad8f5e4b9
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-dd044107-f14c-43a9-aef4-76aad8f5e4b9
-- text: There is a stigma on Capitol Hill around the UAP topic
-  source: Navy pilots describe encounters with UFOs
-  location: 00:12:59.0-00:13:06.9
-  quote: there's a stigma on Capitol Hill. I mean, some of my colleagues are very
-    interested in this topic and some kind of, you know, giggle when you bring it
-    up.
-  claim_id: 325096ef-6227-4870-9fb9-b20be14143af
-  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-325096ef-6227-4870-9fb9-b20be14143af
-- text: A taboo around the UFO subject has eased since the Pentagon and DoD admitted
-    UAP are real
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
+- text: Joy Clarke described the Westall object's movement as incredible, going straight
+    up, side, up, down, all over the place, with a hump on top like a silvery thing
+    with little lights around it.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 01:10:50.4-01:11:05.9
-  quote: I think there's a taboo that's existed in relation to this subject for so
-    many years. And I think when people saw that the Pentagon, even the US Department
-    of Defense is now admitting this is real, I think people realised, well, I can
-    talk about this.
-  claim_id: 443b72e2-e1f3-4237-9090-cf5dcae90ea2
+  location: 00:48:14.6-00:48:22.2
+  quote: The movement was incredible, straight up, side, up, down, all over the place....
+    It's sort of like a hump on the top. It's like a silvery thing, like this, and
+    it had like little lights around it.
+  claim_id: 32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-443b72e2-e1f3-4237-9090-cf5dcae90ea2
-- text: The Westall sighting saw students, teachers and residents observe a UAP
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:49:33.3-00:49:49.3
-  quote: just down the road from this suburban RSL, 55 years ago, students, teachers,
-    local residents looked up into the sky and saw what can only be described as a
-    UFO, a flying saucer.
-  claim_id: d2f58107-6226-46b4-b334-538c0180c67c
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-d2f58107-6226-46b4-b334-538c0180c67c
-- text: Annie Farinaccio saw a diamond-shaped craft hovering above her vehicle during
-    the 1991 Exmouth encounter
+  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
+  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
+- text: Annie Farinaccio saw a diamond-shaped craft with lights at the bottom hovering
+    straight above the vehicle during her 1991 Exmouth encounter.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:25:01.3-00:25:12.3
   quote: I see a craft. I see a diamond-shaped craft hovering literally straight above
@@ -774,15 +712,39 @@ references:
   claim_id: b15f0fc8-7aae-44b6-8375-e78f27c10daa
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-b15f0fc8-7aae-44b6-8375-e78f27c10daa
-- text: There is a strong correlation between nuclear weapons, nuclear storage sites,
-    and UFOs
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:36:49.8-00:36:54.1
-  quote: there seems to be a strong correlation between nuclear weapons, nuclear storage
-    sites and UFOs.
-  claim_id: e9e7d9bb-57cf-42a0-938a-e0b914f65cd4
-  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-e9e7d9bb-57cf-42a0-938a-e0b914f65cd4
+  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-b15f0fc8-7aae-44b6-8375-e78f27c10daa
+- text: Ryan Graves considers UAP off the Atlantic coast a security risk.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:04:06.2-00:04:12.9
+  quote: Former Navy pilot Lieutenant Ryan Graves calls whatever is out there a security
+    risk.
+  claim_id: ed0d4af7-7d91-4640-a8dd-1b30bd58a606
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ed0d4af7-7d91-4640-a8dd-1b30bd58a606
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ed0d4af7-7d91-4640-a8dd-1b30bd58a606
+- text: David Fravor considers UAP a potential threat to US national security because
+    the technology encountered was far superior to anything the US possessed.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: file_page 21
+  quote: Mr. Grothman. ... do you believe UAPs pose a potential threat to our national
+    security? Commander Fravor. Yes, and here is why. The technology that we faced
+    was far superior than anything that we had, and you could put that anywhere.
+  claim_id: 1920153e-e9a9-4fd3-8a81-5223fb2b30aa
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1920153e-e9a9-4fd3-8a81-5223fb2b30aa
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1920153e-e9a9-4fd3-8a81-5223fb2b30aa
+- text: There is a stigma attached to the UAP subject within the scientific community.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:50:16.7-01:50:30.0
+  quote: it feels like there's some stigma to the subject from the scientific community.
+    A lot of people, especially when they hear your story are like, wow, this is really
+    interesting. but you don't even know, one, you're afraid to talk about it, and
+    two, you don't know what the next steps are
+  claim_id: aba0bab9-5ed8-4886-917f-89e8a8743ce9
+  record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
+  workbench_url: http://localhost:5173/14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9#claim-aba0bab9-5ed8-4886-917f-89e8a8743ce9
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -836,20 +798,20 @@ ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
-    input: 43757
-    output: 5363
-  notional_cost_usd: 0.3231
+    input: 43927
+    output: 5016
+  notional_cost_usd: 0.3189
   price_basis: anthropic-list-2026-06
 ---
 
-Unidentified Aerial Phenomena (UAP) is the term adopted by the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) and related agencies to describe observed objects or events in the atmosphere, sea, or near-space that cannot be readily identified or explained. The designation formally replaced the colloquial term unidentified flying object (UFO) in official usage. For much of the latter half of the twentieth century, the subject was treated with institutional scepticism: the US government had publicly set aside the matter following the closure of Project Blue Book in 1969,<sup>1</sup> and for decades the US Air Force, FBI, and CIA maintained a policy of denial, dispelling and debunking reported sightings.<sup>2</sup> Researchers and observers documented a consequent social stigma that persisted for roughly fifty years, during which public discussion of the subject invited ridicule.<sup>3</sup>
+Unidentified Anomalous Phenomena (UAP) is the official designation adopted by the United States government for observed objects or phenomena — aerial, transmedium, or otherwise — that cannot be attributed to known aircraft, natural occurrences, or other conventional explanations. The term superseded the older "Unidentified Flying Object (UFO)" and its intermediate form "Unidentified Aerial Phenomena (UAP)" as part of a terminological standardisation included in legislation; the Unidentified Aerial Phenomena Task Force was established explicitly to investigate what were once called UFOs and are now officially called unidentified anomalous phenomena.<sup>1</sup> The subject carries a long institutional history of official dismissal: the US government had publicly sidelined UFO investigation since closing its Project Blue Book programme in 1969,<sup>2</sup> and for decades the US Air Force, FBI and CIA maintained a posture of denial — dispelling and debunking reported sightings.<sup>3</sup> This posture shifted materially from 2017 onwards, when the [United States government acknowledged the existence of UAP](/organisations/united-states-department-of-defense-dod) after decades of public denial.<sup>4</sup>
 
-Interest within the US defence and intelligence apparatus was never entirely dormant. A secret programme within the Pentagon tasked with studying unidentified objects began in 2007.<sup>4</sup> This programme, the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP), was part of a $22 million initiative sponsored by then Senate Majority Leader Harry Reid to investigate UAP.<sup>5</sup> Its stated mission was to collect and analyse information involving anomalous aerial vehicles (AAV), known in common parlance as UFOs.<sup>6</sup> [Luis Elizondo](/people/luis-elizondo) took over the AATIP in 2010 and directed its focus toward the national security implications of UAP documented by US service members.<sup>7</sup> The programme investigated alternative explanations for observed phenomena, including novel Chinese cruise-missile technology and high-altitude reconnaissance balloons, before concluding that the phenomenon was real and present in US airspace.<sup>8</sup> Elizondo and his colleagues determined that the phenomena they studied did not appear to originate from any known country.<sup>9</sup> Despite this, the AATIP's findings were met with scepticism inside the Pentagon,<sup>11</sup> and the programme found pilots' sightings compelling precisely because they were corroborated by electro-optical gun-camera footage and radar data rather than resting on testimony alone.<sup>10</sup>
+The most significant institutional programme of the modern era was the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip), confirmed to have existed and to have pursued research into unidentified aerial phenomena.<sup>5</sup> Its stated mission was to collect and analyse information involving anomalous aerial vehicles (AAV), known in the vernacular as UFOs.<sup>6</sup> AATIP was part of a $22 million programme sponsored by then Senate Majority Leader Harry Reid.<sup>7</sup> [Luis Elizondo](/people/luis-elizondo) took over the programme in 2010 and concentrated on the national security implications of UAP documented by US service members.<sup>8</sup> Following his departure from the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), Elizondo became a public advocate for disclosure, describing UAP exhibiting characteristics including anti-gravity, hypersonic velocities, instantaneous acceleration, low observability, and transmedium travel. In April 2020 the DoD authorised the release of three unclassified [United States Navy (USN)](/organisations/united-states-navy-usn) videos of UAP,<sup>9</sup> with the phenomena in those videos remaining officially characterised as unidentified.<sup>10</sup>
 
-The institutional posture of the DoD shifted markedly in 2020. In April of that year, the department made what observers described as an unprecedented public admission, acknowledging that videos filmed by its fighter pilots of unidentified objects were genuine.<sup>12</sup> On 2020-04-27 the DoD authorised the formal release of three unclassified [United States Navy](/organisations/united-states-navy) videos,<sup>13</sup> noting that the aerial phenomena depicted in those recordings remained characterised as unidentified.<sup>14</sup> This acknowledgement followed years of public denial and marked what was widely described as the US government grudgingly admitting the existence of UAP after decades of dismissal.<sup>15</sup> The [2004 USS Nimitz Unidentified Aerial Phenomena (UAP) encounter](/events/2004-uss-nimitz-unidentified-aerial-phenomena-uap-encounter) became the most prominent publicly discussed case: [David Fravor](/people/david-fravor) reported observing a smooth, white, Tic Tac-shaped object with no wings,<sup>25</sup> no visible propulsion,<sup>25</sup> no windows, and no visible probes.<sup>25</sup> Radar operator Kevin Day observed the object descend from approximately 8,500 metres to the ocean surface in 0.78 seconds.<sup>26</sup>
+Military encounters drove much of the renewed institutional attention. [Ryan Graves](/people/ryan-graves), a US Navy aviator, reported that his [F/A-18](/objects/fa-18) squadron began detecting UAP hovering over restricted airspace south-east of Virginia Beach in 2014, following an upgrade to their radar systems.<sup>11</sup> Pilots in that area reported observing such objects every day for at least a couple of years.<sup>12</sup> The [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) remains the most extensively documented individual military case: [David Fravor](/people/david-fravor) described the observed object as smooth and white, Tic Tac-shaped, with no wings, no visible propulsion, no windows, and no visible probes.<sup>17</sup> Radar data from that encounter recorded the object descending from approximately 8,500 metres to the ocean surface in 0.78 seconds.<sup>18</sup> Similarly, objects observed off the Eastern Seaboard by Graves's colleagues were detected at zero airspeed — completely stationary in category four hurricane winds<sup>19</sup> — before accelerating to supersonic speeds of Mach 1.1 to 1.2 in rapid, erratic manoeuvres.<sup>20</sup> Elizondo described UAP capable of manoeuvres of 600 to 700 G-forces,<sup>13</sup> speeds of approximately 21,000 kilometres per hour,<sup>14</sup> with no obvious propulsion, no wings, and no control surfaces,<sup>15</sup> and apparent transmedium capability through air, water, and possibly space.<sup>16</sup> The [2014 Virginia Beach UAP encounter](/events/2014-virginia-beach-uap-encounter) and the [Late 2025 test range Unidentified Aerial Phenomena (UAP) helicopter encounter](/events/late-2025-test-range-unidentified-aerial-phenomena-uap-helicopter-encounter) are among other documented events associated with this body of evidence.
 
-A sustained pattern of encounters by [United States Navy](/organisations/united-states-navy) aviators operating off the US Eastern Seaboard was documented separately. Beginning in 2014, [Ryan Graves](/people/ryan-graves) and his [F/A-18](/objects/fa-18) squadron detected UAP hovering over restricted airspace south-east of Virginia Beach following an upgrade to their aircraft's radar systems.<sup>16</sup> Pilots in the area reported seeing UAP every day for at least a couple of years,<sup>17</sup> with [Ryan Graves](/people/ryan-graves) noting the absence of any exhaust plume on the observed objects.<sup>18</sup> Observed objects were recorded at zero airspeed, remaining stationary in conditions equivalent to category four hurricane winds,<sup>19</sup> then accelerating to supersonic speeds of Mach 1.1 to 1.2 in erratic and rapid manoeuvres.<sup>20</sup> Graves considered dual detection by both radar and infrared sensors hard to spoof.<sup>21</sup> Elizondo characterised UAP under investigation as capable of manoeuvring at 600 to 700 G-forces<sup>22</sup> and flying at approximately 21,000 kilometres per hour,<sup>22</sup> with no obvious signs of propulsion, no wings, and no control surfaces,<sup>23</sup> and with the ability to travel through air, water, and possibly space.<sup>24</sup> The [2014 Virginia Beach UAP encounter](/events/2014-virginia-beach-uap-encounter) and related incidents eventually contributed to the [Late 2025 test range Unidentified Aerial Phenomena (UAP) helicopter encounter](/events/late-2025-test-range-unidentified-aerial-phenomena-uap-helicopter-encounter) in a broader pattern of military sightings documented across years.
+Congressional engagement intensified over the same period. The [United States Senate Select Committee on Intelligence](/organisations/united-states-congress) ordered the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Secretary of Defense to deliver a report on UAP sightings,<sup>21</sup> and [United States Congress](/organisations/united-states-congress) pressed for answers through multiple public hearings and classified briefings.<sup>22</sup> The FY2023 National Defense Authorization Act called for reporting on material retrieval, analysis, [reverse engineering](/topics/reverse-engineering-of-recovered-craft-of-non-human-origin), and development involving UAP going back decades.<sup>23</sup> [Christopher K. Mellon](/people/christopher-k-mellon), a former Deputy Assistant Secretary of Defense for Intelligence, was instrumental in arranging classified briefings for congressional members and worked alongside [Luis Elizondo](/people/luis-elizondo) to bring the issue before Congress and the public. [David Charles Grusch](/people/david-charles-grusch), who served as the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga)'s co-lead for UAP analysis, testified that he believed the US government is in possession of UAP, based on interviewing over 40 witnesses across four years.<sup>24</sup> He further alleged that UAP legacy programmes had long been concealed within multiple agencies without appropriate reporting to oversight authorities,<sup>25</sup> and that UAP-related classified information had been withheld from Congress to thwart legitimate oversight.<sup>26</sup> [Jonathan Grey](/people/jonathan-grey), an intelligence officer at the National Air and Space Intelligence Center, stated that multiple agencies had deployed sophisticated sensor platforms in triplicate to observe and characterise anomalous machines determined not to be of earthly origin. The [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) was subsequently established to consolidate and formalise the US government's investigative function. [Marco Senator Rubio](/people/marco-rubio) publicly called for a systematic process to catalogue and analyse UAP data, while [Matt Congressman Gaetz](/people/matt-gaetz) was among legislators who sought hearings on the subject.
 
-Civilian sightings have also formed part of the evidentiary record. The [Westall Unidentified Flying Object (UFO) sighting 1966](/events/westall-unidentified-flying-object-ufo-sighting-1966) involved students, teachers, and local residents who reported observing an unidentified object,<sup>37</sup> with witnesses including [Andrew Greenwood](/people/andrew-greenwood) providing independent descriptions. The [1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)](/events/1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio) saw [Annie Farinaccio](/people/annie-farinaccio) report a diamond-shaped craft with lights at the bottom hovering directly above her vehicle.<sup>38</sup> Researchers including [David Marler](/people/david-marler) have documented a pattern in UAP reports noting a correlation between nuclear weapons facilities, nuclear storage sites, and reported sightings.<sup>39</sup> Former Air Force officer [Robert Salas](/people/robert-salas) reported a related incident at a missile facility. The [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) and incidents in Australia, including those near Exmouth, were among cases examined in public documentary coverage.
+Beyond the US military context, UAP sightings have been reported globally and across many decades. The [Westall Unidentified Flying Object (UFO) sighting 1966](/events/westall-unidentified-flying-object-ufo-sighting-1966) in Australia involved students, teachers, and local residents, with [Andrew Greenwood](/people/andrew-greenwood) describing a grey, cigar- or cylindrical-shaped object that moved with precision,<sup>27</sup> and independent witnesses independently producing consistent drawings of the object. The [1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)](/events/1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio) involved [Annie Farinaccio](/people/annie-farinaccio) observing a diamond-shaped craft with lights at the bottom hovering directly above a moving vehicle,<sup>28</sup> exhibiting instantaneous high-speed departure and complete silence. [Ross Coulthart](/people/ross-coulthart) has reported that the Australian government holds thousands of UFO sighting reports going back decades, many once classified. [David Marler](/people/david-marler), a researcher who has spent years compiling files on UAP, noted that accounts are now coming from credible senior-level government and military officials, and that official admissions by the US government represented a significant shift in public perception of the subject. [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace), an organisation founded by [Ryan Graves](/people/ryan-graves), has worked to establish reporting pathways for commercial aviators who encounter UAP but lack a formal mechanism to report the safety issue.
 
-Congressional and legislative engagement with the UAP issue intensified through the early 2020s. The [United States Congress](/organisations/united-states-congress) ordered the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Secretary of Defense to deliver a report on UAP sightings,<sup>27</sup> and in May 2022 held the first open Congressional hearing on the subject since 1968.<sup>28</sup> The Unidentified Aerial Phenomena Task Force, and subsequently the [All-Domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro), were established to formally investigate what had been called UFOs and were now officially designated unidentified anomalous phenomena.<sup>29</sup> Whistleblower [David Charles Grusch](/people/david-charles-grusch) testified before Congress that he believed the US government was in possession of UAP, based on interviews with over 40 witnesses conducted over four years,<sup>30</sup> and that UAP legacy programmes had long been concealed within multiple agencies without appropriate reporting to oversight authorities.<sup>31</sup> Grusch further testified to what he characterised as a decades-long effort to recover and exploit physical material from UAP crashes and landings.<sup>32</sup> Senator [Marco Rubio](/people/marco-rubio) described a persisting stigma on Capitol Hill around the subject,<sup>35</sup> though observers noted that a broader public taboo had begun to ease following the DoD's official acknowledgements.<sup>36</sup> [Christopher K. Mellon](/people/christopher-k-mellon), a former Deputy Assistant Secretary of Defense for Intelligence,<sup>36</sup> worked with Congress on UAP briefings and sought to elevate the issue within the DoD. [Ryan Graves](/people/ryan-graves), through [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace), reported that commercial pilots were also reaching out because they lacked any official channel through which to report UAP encounters.<sup>34</sup> Intelligence community figures including [Jonathan Grey](/people/jonathan-grey), working at the National Air and Space Intelligence Center, stated that sophisticated multi-agency sensor arrays, including space-based platforms, had been used to observe and characterise anomalous machines, and that classified briefings on UAP had been made available to intelligence personnel on a need-to-know basis. [NASA](/organisations/nasa) and the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga) have also been cited in connection with UAP analysis and oversight activities. The origin, nature, and intent of the observed phenomena remained officially unresolved as of the period covered by the available record, with [Ross Coulthart](/people/ross-coulthart) and other journalists noting that the easing of institutional stigma had begun to allow broader public and professional engagement with the question.<sup>36</sup>
+The question of origin remains unresolved within official channels. Elizondo and his government colleagues determined that the phenomena they studied did not appear to originate from any known country.<sup>4</sup> The [DoD](/organisations/united-states-department-of-defense-dod) has acknowledged it does not know what the objects in released imagery are.<sup>10</sup> [David Fravor](/people/david-fravor) assessed UAP as a potential national security threat because the technology encountered was far superior to anything the United States possessed and could be deployed anywhere.<sup>29</sup> [Ryan Graves](/people/ryan-graves) considered the sustained presence of unidentified targets in military airspace a security risk, noting that the inability to identify friend from foe creates openings for adversaries to exploit.<sup>30</sup> [NASA](/organisations/nasa) has also engaged with the subject, reflecting broader acknowledgement that UAP warrant systematic scientific attention. A persistent institutional and social stigma has historically suppressed reporting, with the subject long treated with scepticism or ridicule in scientific, military, and political contexts;<sup>31</sup> that stigma has been widely noted to have eased since the formal admissions by the [DoD](/organisations/united-states-department-of-defense-dod), though the fundamental questions of what UAP are, where they originate, and whether they represent [non-human intelligence](/topics/non-human-intelligence) remain matters of active investigation and substantial public and governmental debate.
