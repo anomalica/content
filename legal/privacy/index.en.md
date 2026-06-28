@@ -11,7 +11,7 @@ Anomalica is designed to respect visitor privacy. This page explains what data i
 
 ## Analytics
 
-Anomalica uses GoatCounter, a privacy-respecting, open-source web analytics tool. GoatCounter does not use cookies, does not collect personal data, and does not fingerprint devices.
+Anomalica uses Umami, a privacy-respecting, open-source web analytics tool. Umami does not use cookies, does not collect personal data, and does not fingerprint devices.
 
 The following aggregate data is collected:
 
@@ -22,7 +22,7 @@ The following aggregate data is collected:
 
 This data is used to understand how the site is used and to prioritise content. It cannot be used to identify individual visitors.
 
-GoatCounter is self-hosted on European Union infrastructure. No analytics data is shared with third parties.
+Umami is self-hosted - the project runs its own instance and reaches it through Anomalica's own domain, rather than handing data to a third-party analytics service. No analytics data is shared with third parties.
 
 ## Cookies
 
