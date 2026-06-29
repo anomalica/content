@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 description: The United States Congress is the bicameral legislature of the federal
-  government of the United States, which has played a central role in overseeing and
-  legislating on unidentified anomalous phenomena (UAP) since the early 2000s.
+  government, which has played a central role in mandating, funding, and overseeing
+  official investigations into unidentified anomalous phenomena (UAP).
 metadata:
-  type: Legislature
+  type: Legislative body
   jurisdiction: United States of America
   chambers: Senate and House of Representatives
 built_from:
@@ -149,20 +149,18 @@ built_from:
   - id: b8da44e3-0c88-4d3f-8ffb-b6f215b835ee
     hash: d3c55e91e168c69051437a4b329ac09ecacaba38ce0fb5dd3e47e9ce47b1043c
 references:
-- text: Congressional members funded the Advanced Aerospace Weapon Systems Applications
-    Program under the Defense Intelligence Agency from mid-2000
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: printed_page 1, Historical Background
-  quote: The DoD did not officially look at UAP again until mid-2000, when select
-    members of Congress initiated and funded a program to study UAP, called the Advanced
-    Aerospace Weapon Systems Applications program, under the direction of the Defense
-    Intelligence Agency.
-  claim_id: 113011f5-4f79-4c34-9f97-a563066a0289
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-113011f5-4f79-4c34-9f97-a563066a0289
-- text: Congressional appropriation of just under 22 million US dollars for AATIP
-    beginning in late 2008 through 2011
+- text: Harry Reid retired from Congress in 2017, having sponsored the Advanced Aerospace
+    Threat Identification Program (AATIP) as Senate Majority Leader.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: line 35
+  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
+  claim_id: b61a9019-0edd-44f2-ad9d-3fb766566c2b
+  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-b61a9019-0edd-44f2-ad9d-3fb766566c2b
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b61a9019-0edd-44f2-ad9d-3fb766566c2b
+- text: Congressional appropriations of just under 22 million US dollars funded AATIP
+    beginning in late 2008 through 2011.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 79
@@ -171,48 +169,31 @@ references:
   claim_id: 43c29ac1-535d-44d0-a477-b0caf3a25914
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-43c29ac1-535d-44d0-a477-b0caf3a25914
-- text: Harry Reid was Senate Majority Leader when he sponsored AATIP
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-43c29ac1-535d-44d0-a477-b0caf3a25914
+- text: Harry Reid was Senate Majority Leader when AATIP was sponsored.
   source: Navy pilots describe encounters with UFOs
   location: 00:01:50.3-00:02:01.6
   quote: a $22 million program sponsored by then Senate Majority Leader Harry Reid
   claim_id: 70bb7052-d25b-4fbf-a311-13caccdfb034
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-70bb7052-d25b-4fbf-a311-13caccdfb034
-- text: Harry Reid retired from Congress in 2017
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 35
-  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
-  claim_id: b61a9019-0edd-44f2-ad9d-3fb766566c2b
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-b61a9019-0edd-44f2-ad9d-3fb766566c2b
-- text: Congressional committees included UAP language in the Fiscal Years 2019 through
-    2023 National Defense Authorization Acts and a Senate Select Committee on Intelligence
-    Report
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: printed_page 2, Senate Armed Services Committee Fiscal Year Reports
-  quote: Congressional committees included language about their UAP concerns in the
-    FYs 2019 through 2023 NDAAs and a Senate Select Committee on Intelligence Report
-    on the FY 2021 Intelligence Authorization Act.
-  claim_id: 7f2f57df-0c16-4223-a192-c9c2890274d5
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-70bb7052-d25b-4fbf-a311-13caccdfb034
+- text: Select members of Congress initiated and funded the Advanced Aerospace Weapon
+    Systems Applications Program (AAWSAP) under the direction of the Defense Intelligence
+    Agency.
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: printed_page 1, Historical Background
+  quote: The DoD did not officially look at UAP again until mid-2000, when select
+    members of Congress initiated and funded a program to study UAP, called the Advanced
+    Aerospace Weapon Systems Applications program, under the direction of the Defense
+    Intelligence Agency.
+  claim_id: 113011f5-4f79-4c34-9f97-a563066a0289
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7f2f57df-0c16-4223-a192-c9c2890274d5
-- text: In Fiscal Year 2019 and 2020, Congress required an interagency task force
-    and plan to investigate unidentified airborne activity in sensitive areas
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: printed_page 2, Senate Armed Services Committee Fiscal Year Reports
-  quote: In FY 2019 and FY 2020, Congress noted its concern regarding unidentified
-    and unexplained airborne activity in sensitive areas and required the Office of
-    the Under Secretary of Defense for Intelligence and Security (OUSD[I&S]) and the
-    intelligence community (IC) to establish an interagency task force and develop
-    a plan to investigate and address the activity.
-  claim_id: 4be554b7-7f29-4c8c-bf08-74aad1762f17
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4be554b7-7f29-4c8c-bf08-74aad1762f17
-- text: In December 2020, Marco Rubio asked ODNI and the Pentagon to present Congress
-    with an unclassified UAP report
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-113011f5-4f79-4c34-9f97-a563066a0289
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-113011f5-4f79-4c34-9f97-a563066a0289
+- text: Marco Rubio, as head of the Senate Select Committee on Intelligence, asked
+    ODNI and the Pentagon to present Congress an unclassified report on UAP in December
+    2020.
   source: Navy pilots describe encounters with UFOs
   location: 00:12:34.0-00:12:46.3
   quote: This past December, while he was still head of the Intelligence Committee,
@@ -221,10 +202,51 @@ references:
   claim_id: 4217d492-9abd-4ea8-b305-34545d682bcc
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-4217d492-9abd-4ea8-b305-34545d682bcc
-- text: In 2020, Congress directed the DoD through the FY2022 NDAA to develop a formal
-    interagency entity to study and report on UAP
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-4217d492-9abd-4ea8-b305-34545d682bcc
+- text: Marco Rubio noted a stigma on Capitol Hill around the UAP topic, with some
+    members giggling when it is raised.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:12:59.0-00:13:06.9
+  quote: there's a stigma on Capitol Hill. I mean, some of my colleagues are very
+    interested in this topic and some kind of, you know, giggle when you bring it
+    up.
+  claim_id: 325096ef-6227-4870-9fb9-b20be14143af
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-325096ef-6227-4870-9fb9-b20be14143af
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-325096ef-6227-4870-9fb9-b20be14143af
+- text: In May 2022, Andre Carson presided over the first open Congressional hearing
+    on UAP since 1968.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: line 142
+  quote: In May 2022, Carson presided over the first open Congressional hearing on
+    UAP since 1968.
+  claim_id: a948c52f-97ab-49a2-b86f-bc38bc526dd3
+  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
+- text: Congress established the All-domain Anomaly Resolution Office (AARO).
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: line 37
+  quote: the leadership of the All-domain Anomaly Resolution Office established by
+    Congress.
+  claim_id: 34c7e532-661c-4b40-b697-ba5e5efbd49c
+  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-34c7e532-661c-4b40-b697-ba5e5efbd49c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-34c7e532-661c-4b40-b697-ba5e5efbd49c
+- text: Congressional committees included UAP-related language in National Defense
+    Authorization Acts for Fiscal Years 2019 through 2023.
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: printed_page 2, Senate Armed Services Committee Fiscal Year Reports
+  quote: Congressional committees included language about their UAP concerns in the
+    FYs 2019 through 2023 NDAAs and a Senate Select Committee on Intelligence Report
+    on the FY 2021 Intelligence Authorization Act.
+  claim_id: 7f2f57df-0c16-4223-a192-c9c2890274d5
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7f2f57df-0c16-4223-a192-c9c2890274d5
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7f2f57df-0c16-4223-a192-c9c2890274d5
+- text: Congress directed the DoD, through the FY2022 National Defense Authorization
+    Act, to develop a formal interagency entity to study and report on UAP.
+  source: Unclassified Summary of Report No. DODIG-2023-109
   location: printed_page 1, Historical Background
   quote: In 2020, as a result of increased concerns of flight crew safety, national
     security, and adversary technology advances, Congress directed the DoD, through
@@ -233,25 +255,10 @@ references:
   claim_id: 031e5f03-e48a-4917-8dc5-ff193b3c262e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-031e5f03-e48a-4917-8dc5-ff193b3c262e
-- text: AARO was established by Congress
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 37
-  quote: the leadership of the All-Domain Anomaly Resolution Office established by
-    Congress.
-  claim_id: 34c7e532-661c-4b40-b697-ba5e5efbd49c
-  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-34c7e532-661c-4b40-b697-ba5e5efbd49c
-- text: In May 2022, Andre Carson presided over the first open Congressional hearing
-    on UAP since 1968
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 142
-  quote: In May 2022, Carson presided over the first open Congressional hearing on
-    UAP since 1968.
-  claim_id: a948c52f-97ab-49a2-b86f-bc38bc526dd3
-  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
-- text: The FY2023 NDAA provision states that any person with relevant UAP information
-    can inform Congress without retaliation
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-031e5f03-e48a-4917-8dc5-ff193b3c262e
+- text: The FY2023 National Defense Authorization Act provision states that any person
+    with relevant UAP information can inform Congress without retaliation, regardless
+    of prior non-disclosure agreements.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 55
   quote: The provision states that any person with relevant UAP information can inform
@@ -259,8 +266,9 @@ references:
   claim_id: 849fccd6-7d02-4e97-b831-ea229e34ace9
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-849fccd6-7d02-4e97-b831-ea229e34ace9
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-849fccd6-7d02-4e97-b831-ea229e34ace9
 - text: David Charles Grusch helped draft the UAP language for the FY2023 National
-    Defense Authorization Act
+    Defense Authorization Act.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 55
   quote: Grusch prepared many briefs on unidentified aerial phenomena for Congress
@@ -269,8 +277,10 @@ references:
   claim_id: fdf1d9b0-dae4-4267-95e6-7b5317c30e79
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-fdf1d9b0-dae4-4267-95e6-7b5317c30e79
-- text: David Charles Grusch gave Congress and the ICIG extensive classified information
-    about covert programmes allegedly possessing craft of non-human origin
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fdf1d9b0-dae4-4267-95e6-7b5317c30e79
+- text: David Charles Grusch gave Congress and the Intelligence Community Inspector
+    General extensive classified information about covert programmes he said possessed
+    retrieved craft of non-human origin.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 5
   quote: A former intelligence official turned whistleblower has given Congress and
@@ -280,8 +290,9 @@ references:
   claim_id: e539e289-0b45-4cca-ab77-73d1824cb201
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-e539e289-0b45-4cca-ab77-73d1824cb201
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e539e289-0b45-4cca-ab77-73d1824cb201
 - text: Beginning in 2022, Grusch provided Congress with hours of recorded classified
-    information transcribed into hundreds of pages
+    information transcribed into hundreds of pages about a materials recovery programme.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 61
   quote: Beginning in 2022, Grusch provided Congress with hours of recorded classified
@@ -290,27 +301,33 @@ references:
   claim_id: 5a440478-821a-4a2f-8cdb-2905ba5403a9
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-5a440478-821a-4a2f-8cdb-2905ba5403a9
-- text: Congress has not been provided with any physical materials related to wreckage
-    or other non-human objects
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5a440478-821a-4a2f-8cdb-2905ba5403a9
+- text: Grusch alleges the craft-recovery operation was illegally shielded from proper
+    Congressional oversight.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 61
-  quote: Congress has not been provided with any physical materials related to wreckage
-    or other non-human objects.
-  claim_id: c9c5e87b-d23c-43b1-8ee7-df1bb281e318
+  location: line 63
+  quote: He says the operation was illegally shielded from proper Congressional oversight
+    and that he was targeted and harassed because of his investigation.
+  claim_id: 087e0170-f64b-4994-82c0-51c3a4abcaa2
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c9c5e87b-d23c-43b1-8ee7-df1bb281e318
-- text: Grusch alleged that classified information about covert craft-retrieval programmes
-    had been illegally withheld from Congress
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-087e0170-f64b-4994-82c0-51c3a4abcaa2
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-087e0170-f64b-4994-82c0-51c3a4abcaa2
+- text: Grusch's complaint states that UAP-related classified information was withheld
+    and/or concealed from Congress to thwart legitimate oversight.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 7
-  quote: The information, he says, has been illegally withheld from Congress, and
-    he filed a complaint alleging that he suffered illegal retaliation for his confidential
-    disclosures, reported here for the first time.
-  claim_id: 8471579c-cbbe-423b-b0b6-644f684f52bc
+  location: line 82
+  quote: An unclassified version of the complaint provided to us states that Grusch
+    has direct knowledge that UAP-related classified information has been withheld
+    and/or concealed from Congress by “elements” of the intelligence community “to
+    purposely and intentionally thwart legitimate Congressional oversight of the UAP
+    Program.”
+  claim_id: 96c2db33-c74f-4cd3-9a77-280a0656eb2c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-8471579c-cbbe-423b-b0b6-644f684f52bc
-- text: The ICIG found Grusch's assertion that UFO-related information was concealed
-    from Congress to be urgent and credible
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
+- text: The Office of the Intelligence Community Inspector General found Grusch's
+    assertion that UFO-related information was concealed from Congress to be 'urgent
+    and credible'.
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
   location: line 9
@@ -320,18 +337,19 @@ references:
   claim_id: 257eca50-ca79-4e84-8fe8-b6ee65658827
   record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
   workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-257eca50-ca79-4e84-8fe8-b6ee65658827
-- text: Grusch spent 11.5 hours with both intelligence committees and provided specific
-    corporations and divisions involved in the programmes
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: file_page 35
-  quote: The specific corporations I did provide to the committees in specific divisions
-    and I spent 11.5 hours with both intel committees.
-  claim_id: d611eb00-f0c9-4c5a-831d-d4b7fd519f83
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d611eb00-f0c9-4c5a-831d-d4b7fd519f83
-- text: Members of Congress were denied access to a SCIF to discuss matters related
-    to the UAP testimony
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-257eca50-ca79-4e84-8fe8-b6ee65658827
+- text: Congress has not been provided with any physical materials related to wreckage
+    or other non-human objects.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: line 61
+  quote: Congress has not been provided with any physical materials related to wreckage
+    or other non-human objects.
+  claim_id: c9c5e87b-d23c-43b1-8ee7-df1bb281e318
+  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c9c5e87b-d23c-43b1-8ee7-df1bb281e318
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c9c5e87b-d23c-43b1-8ee7-df1bb281e318
+- text: Members of Congress were denied access to a Sensitive Compartmented Information
+    Facility to discuss matters related to UAP testimony.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: file_page 24-25
@@ -341,20 +359,46 @@ references:
   claim_id: 73333171-11df-4a79-b802-8387b1c0ea28
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-73333171-11df-4a79-b802-8387b1c0ea28
-- text: Sean Kirkpatrick testified before Congress that AARO had found no credible
-    evidence of extraterrestrial activity or off-world technology
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-73333171-11df-4a79-b802-8387b1c0ea28
+- text: Grusch testified that under 10 US Code Section 119 the congressional Gang
+    of Eight is at least supposed to be notified if a waived unacknowledged Special
+    Access Program is created.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: file_page 32
-  quote: Dr. Sean Kirkpatrick, the Director of AARO, previously testified before Congress
-    that there has been, and I quote, "no credible evidence thus far of extraterrestrial
-    activity" or of, quote, "off-world technology brought to the attention of the
-    office."
-  claim_id: e92d8ab1-9461-4d94-bccc-c34cc339b42c
+  location: file_page 30
+  quote: 10 U.S. Code Section 119 discusses congressional oversight of SAPs, discusses
+    the DEP/SecDef's ability to waive congressional reporting. However, the Gang of
+    8 is at least supposed to be notified if a - you know, a waived or a waive bigoted
+    unacknowledged SAP is created and that is public law.
+  claim_id: 332f520a-3f2c-4e8c-89d1-3f6fd8cd39d2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e92d8ab1-9461-4d94-bccc-c34cc339b42c
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-332f520a-3f2c-4e8c-89d1-3f6fd8cd39d2
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-332f520a-3f2c-4e8c-89d1-3f6fd8cd39d2
+- text: Grusch provided specific corporations and divisions involved in the programmes
+    to the intelligence committees and spent 11.5 hours with both committees.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: file_page 35
+  quote: The specific corporations I did provide to the committees in specific divisions
+    and I spent 11.5 hours with both intel committees.
+  claim_id: d611eb00-f0c9-4c5a-831d-d4b7fd519f83
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d611eb00-f0c9-4c5a-831d-d4b7fd519f83
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d611eb00-f0c9-4c5a-831d-d4b7fd519f83
+- text: David Fravor is concerned that there is no oversight from elected officials
+    on anything associated with the US Government possessing or working on craft believed
+    not to be from this world.
+  source: David Fravor Statement for the House Oversight Committee
+  location: page 3, paragraph 2
+  quote: What concerns me is that there is no "Oversight" from our elected officials
+    on anything associated with our government possessing or working on craft that
+    we believe are not from this world.
+  claim_id: 3b4ff5fe-203a-4307-9662-4fecc1b8b58e
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-3b4ff5fe-203a-4307-9662-4fecc1b8b58e
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-3b4ff5fe-203a-4307-9662-4fecc1b8b58e
 - text: AARO provides quarterly reports, semiannual briefings, and an annual report
-    to Congress in coordination with ODNI
+    to Congress in coordination with ODNI.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 275
@@ -364,8 +408,9 @@ references:
   claim_id: 23d31376-c10d-4f57-9a42-b7c6a040a202
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-23d31376-c10d-4f57-9a42-b7c6a040a202
-- text: On 2023-01-12, ODNI submitted the 2022 Annual Report on UAP to Congress, drafted
-    in partnership with AARO
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-23d31376-c10d-4f57-9a42-b7c6a040a202
+- text: On 2023-01-12, ODNI submitted the 2022 Annual Report on Unidentified Aerial
+    Phenomena to Congress, drafted in partnership with AARO.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 275
@@ -375,8 +420,33 @@ references:
   claim_id: 42907b02-2b5c-4c50-9908-86d98ae650dd
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-42907b02-2b5c-4c50-9908-86d98ae650dd
-- text: The HR2 was provided by DoD in response to a requirement established in the
-    FY2023 NDAA, Section 6802(j)
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-42907b02-2b5c-4c50-9908-86d98ae650dd
+- text: AARO assessed that all authentic programmes it examined were appropriately
+    reported to the congressional defence and intelligence committees.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: Section VI Summary, printed_page 34
+  quote: All the programs assessed to be authentic were or - if still active - continue
+    to be, appropriately reported to either or both the congressional defense and
+    intelligence committees.
+  claim_id: 3fea6461-0e23-4625-a342-50cdf4d02f61
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3fea6461-0e23-4625-a342-50cdf4d02f61
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3fea6461-0e23-4625-a342-50cdf4d02f61
+- text: AARO has not discovered any empirical evidence that any UAP sighting represented
+    off-world technology or a classified programme not properly reported to Congress.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: file_page 45, Section IX Conclusion
+  quote: To date, AARO has not discovered any empirical evidence that any sighting
+    of a UAP represented off-world technology or the existence a classified program
+    that had not been properly reported to Congress.
+  claim_id: dfeebf8e-dd0b-449d-a637-01acdeaf5449
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dfeebf8e-dd0b-449d-a637-01acdeaf5449
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-dfeebf8e-dd0b-449d-a637-01acdeaf5449
+- text: The HR2 was provided by DoD in response to a requirement in the National Defense
+    Authorization Act for Fiscal Year 2023, Section 6802(j).
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: file_page 11, Section III
@@ -390,19 +460,35 @@ references:
   claim_id: f62d69aa-502d-4878-bdaa-3b5795213895
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f62d69aa-502d-4878-bdaa-3b5795213895
-- text: AARO has not discovered empirical evidence that any UAP sighting represented
-    off-world technology or any classified programme not properly reported to Congress
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: file_page 45, Section IX Conclusion
-  quote: To date, AARO has not discovered any empirical evidence that any sighting
-    of a UAP represented off-world technology or the existence a classified program
-    that had not been properly reported to Congress.
-  claim_id: dfeebf8e-dd0b-449d-a637-01acdeaf5449
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dfeebf8e-dd0b-449d-a637-01acdeaf5449
-- text: Grusch alleged elements of the US government had thwarted Congressional oversight
-    and withheld information from proper Executive Branch officials
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f62d69aa-502d-4878-bdaa-3b5795213895
+- text: Luis Elizondo testified that certain UAP programmes were operating without
+    a watchful Congress over the last decade and a half.
+  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
+    the Truth'
+  location: p2
+  quote: Over the last decade and a half, I learned that certain UAP programs were,
+    and are, operating without any of these elements.
+  claim_id: 2c6e04ad-7e6b-4609-a25e-868a18fe4db7
+  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
+  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-2c6e04ad-7e6b-4609-a25e-868a18fe4db7
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-2c6e04ad-7e6b-4609-a25e-868a18fe4db7
+- text: Elizondo recommended Congress create a protected environment for whistleblowers
+    and wield subpoena power against hostile witnesses.
+  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
+    the Truth'
+  location: p3
+  quote: Congress should create a protected environment so whistleblowers, desperate
+    to do the right thing, can come forward without fear... it is up to the Members
+    of this Committee and other lawmakers to wield their subpoena power against hostile
+    witnesses and prevent additional Government funding to those UAP efforts that
+    remain hidden from Congressional oversight.
+  claim_id: 0b8b1789-e1db-4803-85b6-e5449211897a
+  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
+  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-0b8b1789-e1db-4803-85b6-e5449211897a
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-0b8b1789-e1db-4803-85b6-e5449211897a
+- text: In 2023, David Grusch testified before Congress, alleging that elements of
+    the US government had thwarted Congressional oversight and withheld information
+    from proper Executive Branch officials.
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
   location: paragraph 3 (line 9)
@@ -412,6 +498,7 @@ references:
   claim_id: 46cfaf88-0bc1-45b8-9b00-b79dbbfa668e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-46cfaf88-0bc1-45b8-9b00-b79dbbfa668e
+  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-46cfaf88-0bc1-45b8-9b00-b79dbbfa668e
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -479,18 +566,20 @@ ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
-    input: 32186
-    output: 4112
-  notional_cost_usd: 0.2349
+    input: 32364
+    output: 4612
+  notional_cost_usd: 0.2435
   price_basis: anthropic-list-2026-06
 ---
 
-The United States Congress has engaged with the question of [unidentified anomalous phenomena](/concepts/unidentified-anomalous-phenomena) through a sequence of legislative mandates, appropriations, and oversight hearings stretching from the early 2000s to the present. The earliest modern Congressional involvement in UAP research came when select members of Congress initiated and funded a programme to study [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) known as the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap), operated under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) from around the mid-2000s.<sup>1</sup> Subsequently, contracts obtained by [The New York Times](/organisations/the-new-york-times) revealed a Congressional appropriation of just under 22 million US dollars for the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP), beginning in late 2008 and running through 2011.<sup>2</sup> [Harry Reid](/people/harry-reid), then Senate Majority Leader, was the sponsor of that programme,<sup>3</sup> and he retired from Congress in 2017.<sup>4</sup>
+The United States Congress has served as the primary legislative body shaping official US government engagement with [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap). Congressional interest in the subject traces back at least to the early 2000s, when select members initiated and funded the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>4</sup> Subsequently, [Harry Reid](/people/harry-reid), serving as Senate Majority Leader, sponsored the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip), which received a congressional appropriation of just under 22 million US dollars beginning in late 2008 through 2011.<sup>2</sup> Reid retired from Congress in 2017.<sup>1</sup> Congressional committees included language addressing UAP concerns in the [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) and in National Defense Authorization Acts for fiscal years 2019 through 2023, as well as in a [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence) report on the Fiscal Year 2021 Intelligence Authorization Act.<sup>9</sup>
 
-Legislative pressure intensified in the late 2010s and early 2020s. Congressional committees included language about their UAP concerns in the National Defense Authorization Acts for Fiscal Years 2019 through 2023, as well as in a [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence) report on the Fiscal Year 2021 Intelligence Authorization Act.<sup>5</sup> In Fiscal Years 2019 and 2020, Congress formally required the establishment of an interagency task force and the development of a plan to investigate unidentified airborne activity in sensitive areas.<sup>6</sup> In December 2020, [Marco Rubio](/people/marco-rubio), then head of the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence), asked the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) to present Congress with an unclassified report on UAP.<sup>7</sup> In 2020, Congress also directed the DoD, through the Fiscal Year 2022 National Defense Authorization Act, to develop, fund, and staff a formal interagency entity to study, collect data, and report on UAP.<sup>8</sup> The [All-Domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) was subsequently established by Congress as that entity.<sup>9</sup>
+In December 2020, [Marco Rubio](/people/marco-rubio), then head of the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence), asked the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Pentagon to present Congress with an unclassified report on UAP.<sup>5</sup> Rubio has noted that a stigma exists on Capitol Hill around the subject, with some members very interested and others dismissive.<sup>6</sup> In 2020, Congress directed the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), through the Fiscal Year 2022 National Defense Authorization Act, to develop, fund, and staff a formal interagency entity to study, collect data on, and report on UAP.<sup>10</sup> Congress subsequently established the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro).<sup>8</sup> In May 2022, [Andre Carson](/people/andre-carson) presided over the first open Congressional hearing on [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) since 1968.<sup>7</sup>
 
-Congressional oversight activity became more visible from 2022 onwards. In May 2022, [Andre Carson](/people/andre-carson) presided over the first open Congressional hearing on UAP since 1968.<sup>10</sup> The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) included a provision stating that any person with relevant UAP information could inform Congress without retaliation, regardless of any previous non-disclosure agreements.<sup>11</sup> [David Charles Grusch](/people/david-charles-grusch), a former intelligence official, assisted in drafting that UAP language for the legislation.<sup>12</sup> In June 2023, Grusch gave Congress and the [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig) extensive classified information about what he alleged were deeply covert programmes possessing retrieved craft of non-human origin.<sup>13</sup> Beginning in 2022, he had provided Congress with hours of recorded classified information transcribed into hundreds of pages, including specific data about materials recovery programmes.<sup>14</sup> Congress has stated that it has not itself been provided with any physical materials related to wreckage or other non-human objects.<sup>15</sup>
+The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) included a provision stating that any person with relevant UAP information can inform Congress without retaliation, regardless of any previous non-disclosure agreements.<sup>11</sup> [David Charles Grusch](/people/david-charles-grusch), a former intelligence official who became a whistleblower, helped draft the UAP language for that Act<sup>12</sup> and subsequently provided Congress and the [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig) with extensive classified information about covert programmes he alleged possessed retrieved craft of non-human origin.<sup>13</sup> Beginning in 2022, Grusch provided Congress with hours of recorded classified information transcribed into hundreds of pages, including specific data about an alleged materials recovery programme.<sup>14</sup> Grusch also alleged that the craft-recovery operation was illegally shielded from proper Congressional oversight<sup>15</sup> and that UAP-related classified information had been withheld and concealed from Congress to purposely thwart legitimate oversight of UAP programmes.<sup>16</sup> The [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig) found Grusch's assertion that UFO-related information was inappropriately concealed from Congress to be "urgent and credible".<sup>17</sup>
 
-Central to the period's controversy were allegations of improper concealment. Grusch alleged that classified information about covert craft-retrieval programmes had been illegally withheld from Congress.<sup>16</sup> The [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig) found his assertion that [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo)-related information had been inappropriately concealed from Congress to be "urgent and credible".<sup>17</sup> At the public hearing of 2023-07-26, [David Grusch](/people/david-grusch) stated he had spent 11.5 hours with both intelligence committees, providing them with specific corporations and divisions involved in the alleged programmes.<sup>18</sup> [Tim Burchett](/people/tim-burchett) testified at that same hearing that members of Congress had been denied access to a Sensitive Compartmented Information Facility to discuss matters related to the UAP testimony.<sup>19</sup> During the proceedings, the position of Sean Kirkpatrick, Director of [AARO](/organisations/all-domain-anomaly-resolution-office-aaro), was quoted to the effect that AARO had found no credible evidence of extraterrestrial activity or off-world technology brought to the office's attention.<sup>20</sup> [David Fravor](/people/david-fravor) submitted a statement expressing concern that there was no oversight from elected officials on anything associated with the US Government possessing or working on craft believed not to be from this world, and considered that even unacknowledged waived programmes should carry some level of Congressional oversight.
+At the July 2023 open hearing titled "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency", Congress heard testimony from Grusch alongside Navy pilots [David Fravor](/people/david-fravor) and [David Grusch](/people/david-grusch). [Tim Burchett](/people/tim-burchett) noted that members of Congress had been denied access to a Sensitive Compartmented Information Facility to discuss matters related to the UAP testimony.<sup>19</sup> Grusch testified that under 10 United States Code Section 119, the congressional Gang of Eight is at a minimum supposed to be notified when a waived unacknowledged Special Access Program is created, as a matter of public law.<sup>20</sup> Grusch further stated that he provided specific corporations and divisions involved in the alleged programmes to the intelligence committees and spent 11.5 hours with both committees.<sup>21</sup> Congress has not, however, been provided with any physical materials related to wreckage or other non-human objects.<sup>18</sup> [David Fravor](/people/david-fravor) expressed concern that there is no oversight from elected officials on anything associated with the US Government possessing or working on craft believed not to be from this world.<sup>22</sup> [Christopher K. Mellon](/people/christopher-k-mellon) had earlier been instrumental in arranging classified briefings for members of Congress about UAP, including references to exotic retrieved materials, and has argued that Congressional leaders with sufficient will are positioned to determine the truth once adequately briefed.
 
-The oversight framework continued to develop through formal reporting requirements. AARO provides quarterly reports, semiannual briefings, and an annual report to Congress in coordination with the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni).<sup>21</sup> On 2023-01-12, ODNI submitted the [2022 Annual Report on Unidentified Aerial Phenomena](/documents/2022-annual-report-on-unidentified-aerial-phenomena) to Congress, drafted in partnership with AARO.<sup>22</sup> The [All-Domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)](/projects/all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2) was itself produced in response to a requirement established in the National Defense Authorization Act for Fiscal Year 2023, Section 6802(j), which mandated a written report on the historical record of US Government involvement with UAP to be submitted to the congressional defence committees, the congressional intelligence committees, and congressional leadership.<sup>23</sup> AARO's assessment, as of that report, was that it had not discovered any empirical evidence that any UAP sighting represented off-world technology or the existence of a classified programme not properly reported to Congress.<sup>24</sup> [Christopher K. Mellon](/people/christopher-k-mellon), who had arranged classified briefings for members of Congress about UAP, expressed the view that once members gained greater awareness of the information provided to their staff and the Inspector General, they would be in a position to determine the truth. In 2023, [David Grusch](/people/david-grusch) testified before Congress alleging that elements of the US government had thwarted Congressional oversight and withheld information from proper Executive Branch officials,<sup>25</sup> and subsequently stated an intention to help Congress restore full oversight and hold accountable those he alleged had broken the law and lied to Congress, the Executive Office of the President, the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni), and the [United States Intelligence Community](/organisations/united-states-intelligence-community).
+The [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) provides quarterly reports, semiannual briefings, and an annual report to Congress in coordination with the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni).<sup>23</sup> On 2023-01-12, ODNI submitted the [2022 Annual Report on Unidentified Aerial Phenomena](/documents/2022-annual-report-on-unidentified-aerial-phenomena) to Congress, drafted in partnership with AARO.<sup>24</sup> The [All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)](/projects/all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2) was produced in response to a requirement in Section 6802(j) of the [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023), which required AARO to submit a written report on the historical record of US government involvement with UAP to the congressional defence committees, the congressional intelligence committees, and congressional leadership within 540 days of enactment.<sup>27</sup> AARO assessed that all authentic programmes it examined were appropriately reported to either or both the congressional defence and intelligence committees,<sup>25</sup> and as of the report's publication had not discovered any empirical evidence that any UAP sighting represented off-world technology or a classified programme not properly reported to Congress.<sup>26</sup>
+
+Broader questions about the adequacy of Congressional oversight have continued to be raised in testimony. Luis Elizondo stated in 2024 that certain UAP programmes had been operating without a watchful Congress over the preceding decade and a half,<sup>28</sup> and recommended that Congress create a protected environment for whistleblowers and wield subpoena power against hostile witnesses.<sup>29</sup> In his [2023 Congressional testimony](/documents/david-grusch-2023-congressional-testimony-on-unidentified-anomalous-phenomena-uap), [David Grusch](/people/david-grusch) alleged that elements of the US government had thwarted Congressional oversight and withheld information from proper Executive Branch officials.<sup>30</sup> The [United States Intelligence Community](/organisations/united-states-intelligence-community) and the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) have each figured in the testimony and documentation presented to Congress in connection with these claims, as has the [Department of Defense Inspector General](/organisations/department-of-defense-inspector-general), whose office received classified disclosures from Grusch in July 2021 concerning the alleged withholding of UAP-related information from Congress.

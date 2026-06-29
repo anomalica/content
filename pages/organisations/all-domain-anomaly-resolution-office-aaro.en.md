@@ -1,7 +1,7 @@
 ---
 title: All-domain Anomaly Resolution Office (AARO)
 description: The All-domain Anomaly Resolution Office (AARO) is the United States
-  Department of Defense's primary office for detecting, identifying, and characterising
+  Department of Defense's principal office for detecting, identifying, and characterising
   unidentified anomalous phenomena across all domains, established on 20 July 2022.
 metadata:
   founded: '2022-07-20'
@@ -312,8 +312,10 @@ built_from:
   - id: cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
     hash: a0e2c2d0bc458b620793fb5e250d0dbb1cd0897f6d42df9ee04f5ed130157a8b
 references:
-- text: AARO was established on 20 July 2022 by the Department of Defense
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: The DoD established AARO on 20 July 2022 as the formal interagency entity
+    to study, collect data, and report on UAP.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
   quote: On July 20, 2022, the DoD established the All-domain Anomaly Resolution Office
     (AARO) to be that entity.
@@ -321,8 +323,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a0a097aa-1a41-4412-a702-5f3178d595f7
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a0a097aa-1a41-4412-a702-5f3178d595f7
-- text: The FY2022 NDAA established AARO to conduct or coordinate efforts across the
-    DoD and other federal agencies to detect, identify, and investigate UAP
+- text: The FY2022 NDAA established AARO to conduct or coordinate efforts across DoD
+    and other federal agencies to detect, identify, and investigate UAP.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: page 2
@@ -334,8 +336,19 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cc2f9a38-d01c-491b-9972-65ee5d191c23
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cc2f9a38-d01c-491b-9972-65ee5d191c23
-- text: AARO replaced AOIMSG, which had not achieved initial operating capability
-    before the FY2022 NDAA resulted in it being renamed
+- text: In July 2022, the DoD established AARO to implement the duties previously
+    assigned to the AOIMSG.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: printed_page 3
+  quote: In July 2022, the DoD established the All-domain Anomaly Resolution Office
+    (AARO) to implement the duties previously assigned to the AOIMSG.
+  claim_id: 9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
+- text: AOIMSG had not achieved initial operating capability before FY2022 NDAA legislation
+    renamed it AARO with an expanded mission set.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 263
@@ -346,8 +359,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2579035d-b84d-49b0-9822-07361892fa8c
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-2579035d-b84d-49b0-9822-07361892fa8c
-- text: The Deputy Secretary of Defense directed OUSDI to rename AOIMSG as AARO, effective
-    2022-07-15
+- text: The Deputy Secretary of Defense directed the OUSD(I&S) to rename AOIMSG as
+    AARO and expand its scope and mission, effective 2022-07-15.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 271-273
@@ -358,9 +371,11 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8b550312-e9aa-4ef4-8117-e5b99486fed2
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8b550312-e9aa-4ef4-8117-e5b99486fed2
-- text: AARO's mission is to synchronise efforts across the DoD and other federal
-    departments and agencies to detect, identify, and characterise objects of interest
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: AARO's mission is to synchronise efforts across DoD and other federal departments
+    and agencies to detect, identify, and characterise objects of interest in, on,
+    or near military installations, operating areas, and other areas of interest.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 3
   quote: The mission of AARO is to "synchronize efforts across the Department and
     with other Federal departments and agencies to detect, identify, and characterize
@@ -371,9 +386,10 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-aa7b350f-eccc-4d6a-b7a0-d22ad308109a
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-aa7b350f-eccc-4d6a-b7a0-d22ad308109a
-- text: The FY2022 NDAA placed AARO under the Office of the Under Secretary of Defense
-    for Intelligence and Security
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: The FY2022 NDAA assigns AARO, under the OUSD(I&S), responsibility for synchronising
+    and standardising the collection, analysis, and identification of UAP incidents.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 6
   quote: The FY 2022 NDAA assigns AARO, under the OUSD(I&S), responsibility for synchronizing
     and standardizing the collection, analysis, and identification of UAP incidents.
@@ -381,29 +397,10 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-23b4b1bd-a5ec-4aa9-8cb0-8bf6a8dde5d5
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-23b4b1bd-a5ec-4aa9-8cb0-8bf6a8dde5d5
-- text: AARO also took on duties previously assigned to AOIMSG
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 3
-  quote: In July 2022, the DoD established the All-domain Anomaly Resolution Office
-    (AARO) to implement the duties previously assigned to the AOIMSG.
-  claim_id: 9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
-- text: 'AARO organised itself around four functions: analysis, operations, science
-    and technology, and strategic communications'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: lines 273
-  quote: AARO organized itself around four functions (analysis, operations, science
-    & technology (S&T), and strategic communications).
-  claim_id: b5075f49-1279-4c07-9f5b-76b89e63a914
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5075f49-1279-4c07-9f5b-76b89e63a914
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5075f49-1279-4c07-9f5b-76b89e63a914
-- text: The FY2022 NDAA required AARO to synchronise and standardise collection, analysis,
-    and identification of UAP incidents and develop a centralised database
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: The FY2022 NDAA required AARO to develop processes to ensure UAP incidents
+    are reported in a centralised database and to coordinate with allies and partners.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 3
   quote: 'required AARO to: synchronize and standardize efforts across the DoD to
     collect, report, and analyze UAP incidents; develop processes and procedures to
@@ -415,9 +412,22 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-ee4ffb42-aecd-4e07-9a70-d0a9930733c8
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-ee4ffb42-aecd-4e07-9a70-d0a9930733c8
-- text: The FY2023 NDAA required AARO to establish a secure reporting mechanism free
-    from nondisclosure agreement constraints
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: 'AARO organised itself around four functions: analysis, operations, science
+    and technology, and strategic communications.'
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: lines 273
+  quote: AARO organized itself around four functions (analysis, operations, science
+    & technology (S&T), and strategic communications).
+  claim_id: b5075f49-1279-4c07-9f5b-76b89e63a914
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5075f49-1279-4c07-9f5b-76b89e63a914
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5075f49-1279-4c07-9f5b-76b89e63a914
+- text: The FY2023 NDAA contained additional requirements for AARO to establish a
+    secure way for persons to report a UAP incident without being subject to a nondisclosure
+    agreement or reprisal.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 3
   quote: The FY 2023 NDAA contained additional requirements for AARO to establish
     a secure way for persons to report a UAP incident without being subject to a nondisclosure
@@ -427,7 +437,7 @@ references:
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0f7c2b21-8127-4505-bf0b-2a333c29806c
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0f7c2b21-8127-4505-bf0b-2a333c29806c
 - text: AARO provides quarterly reports, semiannual briefings, and an annual report
-    to Congress in coordination with the ODNI
+    to Congress in coordination with the ODNI.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 275
@@ -438,8 +448,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-23d31376-c10d-4f57-9a42-b7c6a040a202
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-23d31376-c10d-4f57-9a42-b7c6a040a202
-- text: The ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena
-    to Congress on 2023-01-12, drafted in partnership with AARO
+- text: On 2023-01-12, the ODNI submitted the 2022 Annual Report on Unidentified Aerial
+    Phenomena to Congress, drafted in partnership with AARO.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: lines 275
@@ -450,18 +460,40 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-42907b02-2b5c-4c50-9908-86d98ae650dd
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-42907b02-2b5c-4c50-9908-86d98ae650dd
-- text: Sean Kirkpatrick took over AARO in July 2022
+- text: The Unidentified Aerial Phenomena Task Force was reorganised and expanded
+    into AARO to include investigations of objects operating underwater.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: line 17
+  quote: It has since been reorganized and expanded into the All-domain Anomaly Resolution
+    Office to include investigations of objects operating underwater.
+  claim_id: 6d48bae5-0d60-43a1-8f32-0dae6aff5801
+  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
+  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-6d48bae5-0d60-43a1-8f32-0dae6aff5801
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-6d48bae5-0d60-43a1-8f32-0dae6aff5801
+- text: AARO was announced in July 2022 as a new permanent UAP office required to
+    report to Congress.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 23, paragraph 61
+  quote: In July 2022, AARO—the All-domain Anomaly Resolution Office—was announced.
+    This new permanent UAP office had to report to Congress.
+  claim_id: bc1f944b-426b-41c8-95e8-9012be616131
+  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-bc1f944b-426b-41c8-95e8-9012be616131
+- text: Sean Kirkpatrick, Director of AARO, testified before the Senate in 2023 that
+    his unit had found no evidence of extraterrestrial activity.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: file_page 27
-  quote: Him and I had a classified conversation in April 2022 before he took over
-    AARO in July 2022 and I provided him some concerns I had.
-  claim_id: e3e46b15-602d-445d-967d-586dbcf46212
+  location: page 7
+  quote: Mr. Sean Kirkpatrick, Director of the All-domain Anomaly Resolution Office,
+    the component of the DoD office that investigates UAP data, has testified before
+    the Senate this year that his unit has found no evidence of extraterrestrial activity.
+  claim_id: b40d817a-1293-4d6c-b0d7-2b4ec0fbf0a5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e3e46b15-602d-445d-967d-586dbcf46212
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-e3e46b15-602d-445d-967d-586dbcf46212
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b40d817a-1293-4d6c-b0d7-2b4ec0fbf0a5
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b40d817a-1293-4d6c-b0d7-2b4ec0fbf0a5
 - text: Kirkpatrick testified before Congress that there has been no credible evidence
-    of extraterrestrial activity or off-world technology brought to AARO's attention
+    of extraterrestrial activity or off-world technology brought to the attention
+    of the office.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: file_page 32
@@ -473,21 +505,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e92d8ab1-9461-4d94-bccc-c34cc339b42c
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-e92d8ab1-9461-4d94-bccc-c34cc339b42c
-- text: The DoD released a statement that AARO had not discovered verifiable information
-    to substantiate claims about possession or reverse-engineering of extraterrestrial
-    materials
-  source: Claims that UFO information was inappropriately withheld from Congress deemed
-    'credible,' 'urgent'
-  location: line 35
-  quote: the Pentagon’s new UFO office “has not discovered any verifiable information
-    to substantiate claims that any programs regarding the possession or reverse-engineering
-    of extraterrestrial materials have existed in the past or exist currently.”
-  claim_id: c30c67ed-dabd-4498-b330-52526037387f
-  record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
-  workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-c30c67ed-dabd-4498-b330-52526037387f
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-c30c67ed-dabd-4498-b330-52526037387f
-- text: An initial analysis reported 171 uncharacterised UAP reports with unusual
-    flight characteristics or performance capabilities
+- text: An initial AARO analysis reported 171 uncharacterised UAP reports that appear
+    to have demonstrated unusual flight characteristics or performance capabilities.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: page 9
@@ -498,9 +517,104 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-87e799cf-79aa-476d-9ae1-c6fa1f1cabe2
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-87e799cf-79aa-476d-9ae1-c6fa1f1cabe2
+- text: The DoD released a statement that AARO 'has not discovered any verifiable
+    information to substantiate claims that any programs regarding the possession
+    or reverse-engineering of extraterrestrial materials have existed in the past
+    or exist currently.'
+  source: Claims that UFO information was inappropriately withheld from Congress deemed
+    'credible,' 'urgent'
+  location: line 35
+  quote: the Pentagon’s new UFO office “has not discovered any verifiable information
+    to substantiate claims that any programs regarding the possession or reverse-engineering
+    of extraterrestrial materials have existed in the past or exist currently.”
+  claim_id: c30c67ed-dabd-4498-b330-52526037387f
+  record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
+  workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-c30c67ed-dabd-4498-b330-52526037387f
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-c30c67ed-dabd-4498-b330-52526037387f
+- text: The DoD denied that AARO has uncovered the sort of activity alleged by David
+    Grusch.
+  source: Claims that UFO information was inappropriately withheld from Congress deemed
+    'credible,' 'urgent'
+  location: line 23
+  quote: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s
+    new UFO office has uncovered the sort of activity alleged by Grusch.
+  claim_id: a38fe41f-e693-4382-b9a0-8afd839ed744
+  record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
+  workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-a38fe41f-e693-4382-b9a0-8afd839ed744
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-a38fe41f-e693-4382-b9a0-8afd839ed744
+- text: Marco Rubio expressed concern that the Defense Department had not been sharing
+    information on hundreds of UAPs with the investigators and scientists at AARO.
+  source: In Plain Sight
+  location: Chapter 25
+  quote: The Senator also expressed his concern that the Defense Department had not
+    been sharing information on these hundreds of UAPs with the investigators and
+    scientists on the Pentagon's UAP investigations agency, AARO – the All Domain
+    Anomaly Resolution Office.
+  claim_id: fa6b52bb-36c0-4a85-9fd6-07c41a8ffbd0
+  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-fa6b52bb-36c0-4a85-9fd6-07c41a8ffbd0
+- text: The budget of AARO remains classified, prohibiting meaningful oversight from
+    Congress.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: page 2
+  quote: However, AARO's budget remains classified, prohibiting meaningful oversight
+    from Congress.
+  claim_id: f1a84a1a-08ea-4427-b819-6067579ce65e
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f1a84a1a-08ea-4427-b819-6067579ce65e
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-f1a84a1a-08ea-4427-b819-6067579ce65e
+- text: David Grusch had a classified conversation with Sean Kirkpatrick in April
+    2022, before Kirkpatrick took over AARO in July 2022.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: file_page 27
+  quote: Him and I had a classified conversation in April 2022 before he took over
+    AARO in July 2022 and I provided him some concerns I had.
+  claim_id: e3e46b15-602d-445d-967d-586dbcf46212
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e3e46b15-602d-445d-967d-586dbcf46212
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-e3e46b15-602d-445d-967d-586dbcf46212
+- text: Grusch considers Kirkpatrick's statement of no credible evidence inaccurate,
+    noting that a few of the roughly 30 individuals who came to AARO were also interviewed
+    by Grusch.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: file_page 32
+  quote: It is not accurate. I believe Dr. Kirkpatrick mentioned he had about 30 individuals
+    that have come to AARO thus far. A few of those individuals have also come to
+    AARO that I also interviewed. ... And I know what they provided Dr. Kirkpatrick
+    and their team. ... I was able to evaluate that information.
+  claim_id: 05943bc3-4207-482d-9296-d07b23906bdc
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-05943bc3-4207-482d-9296-d07b23906bdc
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-05943bc3-4207-482d-9296-d07b23906bdc
+- text: Volume I of AARO's Historical Record Report (HR2) reviews the record of the
+    US Government pertaining to UAP, published 2024-02-01.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: file_page 6, Section I
+  quote: This report represents Volume I of the All-domain Anomaly Resolution Office's
+    (AARO) Historical Record Report (HR2) which reviews the record of the United States
+    Government (USG) pertaining to unidentified anomalous phenomena (UAP).
+  claim_id: de5a3a29-4585-4495-bdc1-b10eb29d9fa4
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-de5a3a29-4585-4495-bdc1-b10eb29d9fa4
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-de5a3a29-4585-4495-bdc1-b10eb29d9fa4
+- text: AARO reviewed official US Government efforts involving UFOs/UAP since 1945
+    and found approximately two dozen separate official investigative efforts.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: lines 4
+  quote: This research revealed the existence of approximately two dozen separate
+    investigative efforts, depending on how they are counted.
+  claim_id: cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
 - text: AARO found no empirical evidence that any UAP investigatory effort since 1945
-    has uncovered verifiable information regarding recovery or existence of extraterrestrial
-    beings or craft
+    has ever uncovered verifiable information regarding the recovery or existence
+    of extraterrestrial beings or craft.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: Nexus of Proponents, printed_page 35-36
@@ -512,22 +626,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0378c2cd-587d-4461-88a2-b5725c973d93
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-0378c2cd-587d-4461-88a2-b5725c973d93
-- text: AARO concluded the alleged 1961 Special National Intelligence Estimate on
-    UFOs is not authentic, following consultations with the CIA Center for the Study
-    of Intelligence
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: 1961 SNIE Assessed Not Authentic, printed_page 32
-  quote: After discussions with the CIA's Center for the Study of Intelligence (CSI),
-    the NSA Scientific Studies Board (one of the alleged authors), and research comparing
-    this document to a number of known SNIEs and National Intelligence Estimates,
-    AARO concluded the document is not authentic.
-  claim_id: 8d222331-567d-44a6-8b7c-947578c2f646
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d222331-567d-44a6-8b7c-947578c2f646
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8d222331-567d-44a6-8b7c-947578c2f646
-- text: AARO concluded the alleged extraterrestrial material sample is a metallic
-    alloy, terrestrial in nature, and possibly of USAF origin
+- text: AARO concluded that the alleged extraterrestrial material is a metallic alloy,
+    terrestrial in nature, and possibly of USAF origin.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: Sample is Ordinary Metal Alloy, printed_page 33
@@ -538,22 +638,22 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9faa8d56-b926-44e8-9e49-35110f8a9581
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9faa8d56-b926-44e8-9e49-35110f8a9581
-- text: AARO confirmed one Intelligence Community Controlled Access Program was unnecessarily
-    expanded in 2021 to include a UAP reverse-engineering mission without evidence
-    or mission need
+- text: AARO assessed that the classification of prior US Government investigations
+    fuelled speculation that the government was hiding knowledge of extraterrestrials.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
-  location: Unnecessary IC Program Expansion, printed_page 35
-  quote: AARO confirmed the existence of one IC CAP that was unnecessarily expanded
-    in 2021 to include a UAP reverse-engineering mission. This program was expanded
-    despite the lack of any evidence or mission need to justify the expansion.
-  claim_id: a3ec49cf-fe2d-410e-a791-20465783664b
+  location: Secrecy, printed_page 37
+  quote: AARO assesses that the classification of prior USG investigations have fueled
+    speculation that the government was hiding knowledge of extraterrestrials, when,
+    in fact, secrecy was and still is intended to deliberately and thoughtfully protect
+    sensitive military and intelligence community programs, capabilities, sources,
+    and methods.
+  claim_id: 7c2a96c5-3fea-450a-a3ea-1e6e3c835a07
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a3ec49cf-fe2d-410e-a791-20465783664b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a3ec49cf-fe2d-410e-a791-20465783664b
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7c2a96c5-3fea-450a-a3ea-1e6e3c835a07
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7c2a96c5-3fea-450a-a3ea-1e6e3c835a07
 - text: AARO assessed that modern allegations of hidden off-world technology largely
-    originate from a consistent group of individuals tied to the cancelled AAWSAP/AATIP
-    programme
+    originate from the same group of individuals with ties to the cancelled AAWSAP/AATIP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: Nexus of Proponents, printed_page 36
@@ -566,38 +666,32 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13fb1a35-4636-4908-b102-0cbb7ba09d82
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-13fb1a35-4636-4908-b102-0cbb7ba09d82
-- text: Rubio expressed concern that the Defense Department had not been sharing information
-    on hundreds of UAPs with AARO's investigators and scientists
-  source: In Plain Sight
-  location: Chapter 25
-  quote: The Senator also expressed his concern that the Defense Department had not
-    been sharing information on these hundreds of UAPs with the investigators and
-    scientists on the Pentagon's UAP investigations agency, AARO – the All Domain
-    Anomaly Resolution Office.
-  claim_id: fa6b52bb-36c0-4a85-9fd6-07c41a8ffbd0
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-fa6b52bb-36c0-4a85-9fd6-07c41a8ffbd0
-- text: The DoIG determined combatant commands would be the logical organisations
-    to detect, report, collect, and identify UAP incidents to AARO
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 1, Historical Background
-  quote: we determined that, while the Services and Components have an important role
-    to play, the combatant commands would be the logical organizations to detect,
-    report, collect, and identify UAP incidents to AARO.
-  claim_id: 82da8575-4ae2-407c-8b70-991e35f7a7db
+- text: The DoD Inspector General recommended that the Under Secretary of Defense
+    for Intelligence and Security issue a DoD policy to integrate UAP roles and responsibilities
+    into existing intelligence and counterintelligence policies.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: printed_page 7, Recommendation 1
+  quote: We recommend that the Under Secretary of Defense for Intelligence and Security,
+    in coordination with the All-domain Anomaly Resolution Office Director, issue
+    a Department of Defense policy to integrate unidentified anomalous phenomena roles,
+    responsibilities, requirements, and coordination procedures into existing intelligence,
+    counterintelligence, and force protection policies and procedures.
+  claim_id: bfeb1b1a-3cc4-4984-a09d-839265927b5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-82da8575-4ae2-407c-8b70-991e35f7a7db
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-82da8575-4ae2-407c-8b70-991e35f7a7db
-- text: AARO's budget remains classified, prohibiting meaningful oversight from Congress
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: page 2
-  quote: However, AARO's budget remains classified, prohibiting meaningful oversight
-    from Congress.
-  claim_id: f1a84a1a-08ea-4427-b819-6067579ce65e
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f1a84a1a-08ea-4427-b819-6067579ce65e
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-f1a84a1a-08ea-4427-b819-6067579ce65e
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-bfeb1b1a-3cc4-4984-a09d-839265927b5f
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-bfeb1b1a-3cc4-4984-a09d-839265927b5f
+- text: AARO will achieve full operational capability using the resources provided
+    in the Future Year Defense Plan beginning in Fiscal Year 2024.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: printed_page 7
+  quote: The Under Secretary stated that AARO will achieve full operational capability
+    using the resources provided in the Future Year Defense Plan beginning in FY 2024.
+  claim_id: 851b015e-c74a-44f3-95d6-a4f1a555e1f6
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-851b015e-c74a-44f3-95d6-a4f1a555e1f6
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-851b015e-c74a-44f3-95d6-a4f1a555e1f6
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -638,17 +732,17 @@ ai_usage:
   model: claude-sonnet-4-6
   tokens:
     input: 43301
-    output: 4538
-  notional_cost_usd: 0.308
+    output: 5599
+  notional_cost_usd: 0.3239
   price_basis: anthropic-list-2026-06
 ---
 
-The All-domain Anomaly Resolution Office (AARO) is the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod)'s primary office for the detection, identification, and characterisation of [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena). It was formally established on 2022-07-20<sup>1</sup> in response to the [National Defense Authorization Act for Fiscal Year 2022](/documents/national-defense-authorization-act-for-fiscal-year-2022), which directed the DoD to conduct or coordinate efforts across its components and other federal agencies to detect, identify, and investigate UAP.<sup>2</sup> AARO replaced the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg), which had not achieved initial operating capability before the legislation resulted in it being renamed and given an expanded mission.<sup>3</sup> The renaming and expansion were directed by the Deputy Secretary of Defense in coordination with the Director of National Intelligence, effective 2022-07-15, with the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) tasked to implement the change.<sup>4</sup>
+The All-domain Anomaly Resolution Office (AARO) is an office within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) responsible for detecting, identifying, and characterising [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) (UAP) across all domains, including air, space, subsurface, and transmedium environments. The office was formally established on 2022-07-20,<sup>1</sup> replacing and expanding upon the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg), which had not achieved initial operating capability before being superseded.<sup>4</sup> The [National Defense Authorization Act for Fiscal Year 2022](/documents/national-defense-authorization-act-for-fiscal-year-2022) provided the legislative basis for AARO's creation,<sup>2</sup> and the Deputy Secretary of Defense, acting in coordination with the Director of National Intelligence, directed the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) to rename AOIMSG as AARO and expand its scope, effective 2022-07-15.<sup>5</sup> The office also absorbed the investigation remit previously held by the Unidentified Aerial Phenomena Task Force, extending coverage to objects operating underwater.<sup>13</sup>
 
-AARO's formal mission is to synchronise efforts across the DoD and with other federal departments and agencies to detect, identify, and characterise objects of interest in, on, or near military installations, operating areas, training areas, special use airspace, and other areas of interest, and as necessary to mitigate associated threats to safety of operations and national security.<sup>5</sup> The office sits under the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi).<sup>6</sup> It also absorbed duties previously assigned to AOIMSG.<sup>7</sup> Internally, AARO organised itself around four functions: analysis, operations, science and technology, and strategic communications.<sup>8</sup> The [National Defense Authorization Act for Fiscal Year 2022](/documents/national-defense-authorization-act-for-fiscal-year-2022) further required AARO to standardise the collection, analysis, and identification of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) incidents and to develop a centralised database.<sup>9</sup> The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) added the requirement that AARO establish a secure mechanism allowing persons to report UAP incidents without being subject to a nondisclosure agreement or reprisal.<sup>10</sup> AARO provides quarterly reports, semiannual briefings, and an annual report to [United States Congress](/organisations/united-states-congress) in coordination with the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni);<sup>11</sup> on 2023-01-12, the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) submitted the [2022 Annual Report on Unidentified Aerial Phenomena](/documents/2022-annual-report-on-unidentified-aerial-phenomena) to Congress, drafted in partnership with AARO and based on AARO's data.<sup>12</sup>
+AARO sits under the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) and is charged with synchronising efforts across the DoD and with other federal departments and agencies to detect, identify, and characterise objects of interest in, on, or near military installations, operating areas, training areas, special use airspace, and other areas of interest, and, as necessary, to mitigate any associated threats to safety of operations and national security.<sup>6</sup> The [National Defense Authorization Act for Fiscal Year 2022](/documents/national-defense-authorization-act-for-fiscal-year-2022) assigned AARO responsibility for synchronising and standardising the collection, analysis, and identification of UAP incidents,<sup>7</sup> including developing processes to ensure incidents are reported in a centralised database and coordinating with allies and partners.<sup>8</sup> AARO organised itself around four internal functions: analysis, operations, science and technology, and strategic communications.<sup>9</sup> The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) added a requirement for AARO to establish a secure reporting mechanism through which individuals could report UAP incidents without being subject to a nondisclosure agreement or reprisal.<sup>10</sup> AARO provides quarterly reports, semiannual briefings, and an annual report to [United States Congress](/organisations/united-states-congress) in coordination with the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni);<sup>11</sup> on 2023-01-12, the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) submitted the [2022 Annual Report on Unidentified Aerial Phenomena](/documents/2022-annual-report-on-unidentified-aerial-phenomena) to Congress, drafted in partnership with AARO and based on AARO's data.<sup>12</sup>
 
-[Sean Kirkpatrick](/people/sean-kirkpatrick) became AARO's first director in July 2022.<sup>13</sup> Kirkpatrick subsequently testified before Congress that AARO had found no credible evidence of extraterrestrial activity or off-world technology.<sup>14</sup> The [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) also issued a formal statement that AARO had not discovered any verifiable information to substantiate claims that programmes involving the possession or [reverse-engineering of extraterrestrial technology](/topics/reverse-engineering-of-extraterrestrial-technology) had ever existed.<sup>15</sup> An initial AARO analysis reported 171 uncharacterised [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) reports that appeared to have demonstrated unusual flight characteristics or performance capabilities.<sup>16</sup> [David Charles Grusch](/people/david-charles-grusch) disputed Kirkpatrick's assessment, stating he considered it inaccurate and noting that some of the roughly 30 individuals who had approached AARO were also interviewed by Grusch, who was able to evaluate what they had provided.<sup>13</sup> Senator [Marco Rubio](/people/marco-rubio) separately expressed concern that the DoD had not been sharing information on hundreds of UAPs with the investigators and scientists at AARO.<sup>22</sup>
+[Sean Kirkpatrick](/people/sean-kirkpatrick) served as the first Director of AARO, taking up the position in July 2022. [David Charles Grusch](/people/david-charles-grusch), who had served as his agency's co-lead in [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) and trans-medium object analysis reporting to the Unidentified Anomalous Phenomena Task Force and later to AARO, held a classified conversation with Kirkpatrick in April 2022, prior to Kirkpatrick assuming the directorship, in which Grusch provided national-security concerns.<sup>22</sup> Kirkpatrick subsequently testified before the Senate in 2023 that AARO had found no evidence of extraterrestrial activity,<sup>15</sup> and testified before Congress that there had been no credible evidence of extraterrestrial activity or off-world technology brought to the attention of the office.<sup>16</sup> Grusch publicly disputed this assessment, stating that some of the roughly 30 individuals who had come to AARO were also interviewed by him, and that he was able to evaluate what they had provided.<sup>23</sup> [Marco Rubio](/people/marco-rubio) separately expressed concern that the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) had not been sharing information on hundreds of UAP with the investigators and scientists at AARO.<sup>20</sup> An initial AARO analysis reported 171 uncharacterised UAP reports that appeared to have demonstrated unusual flight characteristics or performance capabilities.<sup>17</sup> AARO's budget remained classified, which observers noted prohibited meaningful oversight from [United States Congress](/organisations/united-states-congress).<sup>21</sup>
 
-AARO produced the [All-Domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)](/projects/all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2), the [Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I](/documents/volume-i-report-on-the-historical-record-of-us-government-involvement-with-unidentified-anomalous-phenomena-uap) of which was published on 2024-02-01 and covered US Government UAP investigatory efforts from 1945 to 2023-10-31. In completing the report, AARO reviewed classified and unclassified archives, conducted approximately 30 interviews, and partnered with [United States Intelligence Community](/organisations/united-states-intelligence-community) and DoD officials responsible for controlled and special access programme oversight. Among its findings, AARO concluded there was no empirical evidence that any UAP investigatory effort since 1945 had uncovered verifiable information regarding the recovery or existence of extraterrestrial beings or craft.<sup>17</sup> AARO also used consultation with the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) Center for the Study of Intelligence and other bodies to assess an alleged 1961 Special National Intelligence Estimate on [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo)s as inauthentic.<sup>18</sup> A physical sample claimed to originate from an extraterrestrial spacecraft, acquired in coordination with the [United States Army](/organisations/united-states-army), was assessed by AARO and a leading science laboratory to be a metallic alloy, terrestrial in nature, and possibly of [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) origin.<sup>19</sup> AARO also confirmed that one [United States Intelligence Community](/organisations/united-states-intelligence-community) Controlled Access Program had been unnecessarily expanded in 2021 to include a UAP reverse-engineering mission despite a lack of evidence or mission need.<sup>20</sup>
+In 2024-02-01, AARO published Volume I of its [All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)](/projects/all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2), covering the record of [United States Intelligence Community](/organisations/united-states-intelligence-community) and DoD involvement with [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo)/UAP from 1945 to 2023-10-31.<sup>24</sup> For the report, AARO reviewed official US Government efforts since 1945 and identified approximately two dozen separate official investigative efforts.<sup>25</sup> As part of its research, AARO partnered with the [National Archives and Records Administration (NARA)](/organisations/national-archives-and-records-administration-nara) to examine records from the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf)'s [Project Blue Book](/projects/project-blue-book), and partnered with archives of key intelligence and national security agencies including the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), [Department of Energy](/organisations/department-of-energy), and [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga). As of 2023-09-17, AARO had interviewed approximately 30 individuals who claimed to have insight into alleged US Government involvement in off-world technology exploitation or UAP incidents near nuclear facilities. The [Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I](/documents/volume-i-report-on-the-historical-record-of-us-government-involvement-with-unidentified-anomalous-phenomena-uap) found no empirical evidence that any UAP investigatory effort since 1945 had uncovered verifiable information regarding the recovery or existence of extraterrestrial beings or craft.<sup>26</sup> AARO also examined a physical sample claimed to originate from an extraterrestrial craft and, in conjunction with a leading science laboratory, concluded it was a manufactured terrestrial metallic alloy, possibly of [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) origin.<sup>27</sup> AARO sent guidance and requests to the DoD, [United States Intelligence Community](/organisations/united-states-intelligence-community), [Department of Energy](/organisations/department-of-energy), and [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) to review any nondisclosure agreements pertaining to UAP, and discovered no agreements containing UAP-specific threats to interviewees.
 
-AARO assessed that modern allegations that the US Government is hiding off-world technology largely originate from a consistent group of individuals with ties to the cancelled [Advanced Aerospace Weapon Systems Applications Program (Advanced Aerospace Weapon System Applications Program (Advanced Aerospace Weapon Systems Applications Program (AAWSAP)))](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap)/AATIP and a private sector organisation's paranormal research efforts, and that these individuals have worked with each other consistently in various UAP-related endeavours.<sup>21</sup> The [U.S. Department of Defense Office of Inspector General](/organisations/us-department-of-defense-office-of-inspector-general), in its review [Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)](/documents/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig-2023-109), determined that the combatant commands would be the logical organisations to detect, report, collect, and identify UAP incidents to AARO,<sup>23</sup> and recommended that the Under Secretary of Defense for Intelligence and Security issue a DoD policy to integrate UAP roles, responsibilities, and coordination procedures into existing intelligence, counterintelligence, and force protection frameworks. AARO's budget remains classified, a circumstance which has been cited as limiting meaningful congressional oversight.<sup>24</sup> AARO also partnered with the [National Archives and Records Administration (NARA)](/organisations/national-archives-and-records-administration-nara) to locate UAP records, and partnered with archives of key agencies including the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), [Department of Energy](/organisations/department-of-energy), [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga), and the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) for its historical research. AARO also examined records from [Project Blue Book](/projects/project-blue-book) in partnership with the [National Archives and Records Administration (NARA)](/organisations/national-archives-and-records-administration-nara), reviewing [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) investigations spanning 1947 to 1969 as part of its broader historical review of approximately two dozen separate official US Government investigative efforts into UAP since 1945.
+The [Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)](/documents/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig-2023-109), produced by the [U.S. Department of Defense Office of Inspector General](/organisations/us-department-of-defense-office-of-inspector-general), examined AARO's early operations and concluded that the combatant commands would be the logical organisations to detect, report, collect, and identify UAP incidents to AARO, and recommended that the Under Secretary of Defense for Intelligence and Security issue a DoD policy integrating UAP roles, responsibilities, and coordination procedures into existing intelligence and counterintelligence policies.<sup>30</sup> The report also noted that the military services and components had sent some UAP incident reports to AARO but that the DoD did not formally require them to do so. AARO concurred with the report's principal recommendation<sup>31</sup> and indicated it would achieve full operational capability using the resources provided in the Future Year Defense Plan beginning in Fiscal Year 2024. AARO assessed that the classification of prior US Government investigations had fuelled public speculation that the government was concealing knowledge of extraterrestrials, while secrecy was in fact intended to protect sensitive military and intelligence community programmes, capabilities, sources, and methods.<sup>28</sup> The office further assessed that modern allegations of hidden [reverse-engineering of extraterrestrial technology](/topics/reverse-engineering-of-extraterrestrial-technology) largely originated from a consistent group of individuals with ties to the cancelled [Advanced Aerospace Weapon Systems Applications Program (Advanced Aerospace Weapon System Applications Program (Advanced Aerospace Weapon Systems Applications Program (AAWSAP)))](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) and associated private sector paranormal research efforts.<sup>29</sup> The [United States Army](/organisations/united-states-army) and [The White House](/organisations/the-white-house) were among the additional entities whose records and personnel AARO engaged in the course of its historical investigations.

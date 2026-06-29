@@ -1,14 +1,13 @@
 ---
 title: United States Department of Defense (DoD)
 description: The United States Department of Defense is the federal executive department
-  responsible for coordinating and supervising all agencies and functions of the US
-  government directly related to national security and the armed forces, and has been
-  the primary institutional body overseeing American government investigations into
-  unidentified aerial and anomalous phenomena since 1947.
+  of the US government responsible for providing the military forces needed to deter
+  war and ensure national security, and has been the primary institutional actor in
+  US government investigations of unidentified anomalous phenomena.
 metadata:
-  type: Federal executive department
-  headquartered: The Pentagon, Arlington, Virginia
-  jurisdiction: United States of America
+  type: Government department
+  country: United States
+  headquarters: The Pentagon, Arlington, Virginia
 built_from:
   brief_hash: cd93a967d1e4f2da0fb66f5ae602a4f4fbb6b0917fea5d10896a33a872feb157
   claims:
@@ -297,9 +296,10 @@ built_from:
   - id: 3264303e-1794-4c28-a3d8-3b4892dd6db6
     hash: 75d6fd43b8c6f56540687152f1ce4b6c3425ed20660589c72c894d518d1571b6
 references:
-- text: DoD's first official UAP-focused activities began in December 1947 with Project
-    Sign
-  source: Unclassified Summary of Report No. DODIG-2023-109
+- text: DoD's first official UAP-focused activity was Project Sign, established in
+    December 1947
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
   quote: The DoD's first official UAP-focused activities occurred in December 1947,
     when the U.S. Air Force Chief of Staff established PROJECT SIGN to investigate
@@ -307,18 +307,45 @@ references:
   claim_id: 5d8ecaed-07e2-4efb-89e4-e40da93a7964
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5d8ecaed-07e2-4efb-89e4-e40da93a7964
-- text: DoD has relied on Services and Components to detect, report, and analyse UAP
-    since the 1940s
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5d8ecaed-07e2-4efb-89e4-e40da93a7964
+- text: DoD has relied heavily on Services and Components to detect, report, and analyse
+    UAP since the 1940s
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
   quote: the DoD has relied heavily on the Services and Components to detect, report,
     collect, analyze, and identify UAP since the 1940s.
   claim_id: 2c5d862b-9c2e-4786-8ced-0b4c79f75870
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2c5d862b-9c2e-4786-8ced-0b4c79f75870
-- text: DoD did not officially look at UAP again until mid-2000, when Congress funded
-    AAWSAP under the DIA
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2c5d862b-9c2e-4786-8ced-0b4c79f75870
+- text: Project SIGN staff drafted a report assessing some UFOs were of interplanetary
+    origin, which DoD leadership rejected for lack of proof
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: lines 314
+  quote: 'Project SIGN staff allegedly drafted and signed a report that was circulated
+    for review and approval. It was titled: "The Estimate of the Situation" and assessed
+    that at least some UFOs were of "interplanetary" origin. The DoD leadership rejected
+    this report on the basis that it lacked any proof, and it was never published.'
+  claim_id: 88d89aea-0455-4588-a54a-061ef41e2341
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-88d89aea-0455-4588-a54a-061ef41e2341
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-88d89aea-0455-4588-a54a-061ef41e2341
+- text: The US government publicly ignored UFOs since closing Project Blue Book in
+    1969
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:23.4-00:06:30.3
+  quote: The government has ignored it, at least publicly, since closing its Project
+    Blue Book investigation in 1969.
+  claim_id: 695f0bb3-62ec-4b71-aa31-1957139276b8
+  record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
+  workbench_url: http://localhost:5173/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
+- text: DoD did not officially look at UAP again until mid-2000, when Congress initiated
+    and funded AAWSAP under the DIA
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
   quote: The DoD did not officially look at UAP again until mid-2000, when select
     members of Congress initiated and funded a program to study UAP, called the Advanced
@@ -327,36 +354,21 @@ references:
   claim_id: 113011f5-4f79-4c34-9f97-a563066a0289
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-113011f5-4f79-4c34-9f97-a563066a0289
-- text: DoD's UAP efforts have been irregular due to competing priorities and inconclusive
-    findings
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 2, Senate Armed Services Committee Fiscal Year Reports
-  quote: DoD efforts to identify and understand UAP have been irregular because of
-    competing priorities, lack of substantive progress, and inconclusive findings.
-  claim_id: 4d3c3679-a921-4c8e-a9c0-42e2cc3a1529
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4d3c3679-a921-4c8e-a9c0-42e2cc3a1529
-- text: Since 2000, DoD attempted to establish several UAP coordination programmes,
-    none fully implemented
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-113011f5-4f79-4c34-9f97-a563066a0289
+- text: DoD's efforts to identify and understand UAP have been infrequent and inconclusive
+    over past decades
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
-  quote: Since then, the DoD has attempted to establish several programs for coordinating
-    DoD-wide UAP reporting; however, none of the programs were ever fully implemented.
-  claim_id: 651a840a-954c-4fab-8dc1-9e83bdefdc65
+  quote: Over the past decades, the DoD has initiated infrequent and inconclusive
+    efforts to identify and understand the origin, capabilities, and intent of unidentified
+    aerial phenomena (UAP).
+  claim_id: 18b1482b-8bdf-40a0-a30b-09d1c257b444
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-651a840a-954c-4fab-8dc1-9e83bdefdc65
-- text: AATIP investigated UFO reports for years; DoD said it shut the programme down
-    in 2012
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: line 20
-  quote: The Defense Department has never before acknowledged the existence of the
-    program, which it says it shut down in 2012.
-  claim_id: a09a24ff-6fa4-47d7-9441-49eac23caeea
-  record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-a09a24ff-6fa4-47d7-9441-49eac23caeea
-- text: Approximately $22 million was spent on AATIP, nearly impossible to locate
-    within the DoD budget
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-18b1482b-8bdf-40a0-a30b-09d1c257b444
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-18b1482b-8bdf-40a0-a30b-09d1c257b444
+- text: AAWSAP/AATIP was approximately $22 million, an amount almost impossible to
+    find within the DoD budget
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: lines 15-17
@@ -365,18 +377,43 @@ references:
   claim_id: 5b260725-ae1f-44c9-8a2e-0f63ee29eb1e
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-5b260725-ae1f-44c9-8a2e-0f63ee29eb1e
-- text: AATIP backers say DoD ended funding in 2012 but the programme remained in
-    existence
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5b260725-ae1f-44c9-8a2e-0f63ee29eb1e
+- text: AAWSAP and AATIP names were used interchangeably, but AATIP was never an official
+    DoD programme
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: lines 211
+  quote: The names AAWSAP and AATIP have been used interchangeably for the name of
+    this program, including on official documentation. Unlike AAWSAP, AATIP was never
+    an official DoD program.
+  claim_id: f7152880-cfbe-4a86-a520-0c56501ea21e
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7152880-cfbe-4a86-a520-0c56501ea21e
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7152880-cfbe-4a86-a520-0c56501ea21e
+- text: AAWSAP/AATIP was terminated in 2012 upon completion of deliverables due to
+    DIA and DoD concerns
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: lines 231
+  quote: AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables
+    due to DIA and DoD concerns about the project.
+  claim_id: f5b5e245-dc01-4799-9af7-88882b6a0f5b
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f5b5e245-dc01-4799-9af7-88882b6a0f5b
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f5b5e245-dc01-4799-9af7-88882b6a0f5b
+- text: DoD had never before acknowledged the existence of AATIP, and says it shut
+    the program down in 2012
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
-  location: line 21
-  quote: But its backers say that, while the Pentagon ended funding for the effort
-    at that time, the program remains in existence.
-  claim_id: 5eaaaae9-a528-4058-95c6-83f8ad280c04
+  location: line 20
+  quote: The Defense Department has never before acknowledged the existence of the
+    program, which it says it shut down in 2012.
+  claim_id: a09a24ff-6fa4-47d7-9441-49eac23caeea
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
-  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-5eaaaae9-a528-4058-95c6-83f8ad280c04
-- text: Officials continued investigating UAP episodes for five years after AATIP
-    funding ended
+  workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-a09a24ff-6fa4-47d7-9441-49eac23caeea
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a09a24ff-6fa4-47d7-9441-49eac23caeea
+- text: After funding ended in 2012, AATIP officials continued for five years to investigate
+    episodes as part of other DoD duties
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: line 21
@@ -386,37 +423,41 @@ references:
   claim_id: 1b5c8f68-a263-43e9-9542-efb971b5026d
   record_hash: 5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0
   workbench_url: http://localhost:5173/5ac6209162bf74e1f3315373f1d0db8fd1c177aa3e3f342eadff14c0#claim-1b5c8f68-a263-43e9-9542-efb971b5026d
-- text: AATIP was never an official DoD programme; AAWSAP and AATIP names were used
-    interchangeably
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: lines 211
-  quote: The names AAWSAP and AATIP have been used interchangeably for the name of
-    this program, including on official documentation. Unlike AAWSAP, AATIP was never
-    an official DoD program.
-  claim_id: f7152880-cfbe-4a86-a520-0c56501ea21e
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7152880-cfbe-4a86-a520-0c56501ea21e
-- text: AAWSAP/AATIP was terminated in 2012 upon completion of deliverables due to
-    DIA and DoD concerns
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: lines 231
-  quote: AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables
-    due to DIA and DoD concerns about the project.
-  claim_id: f5b5e245-dc01-4799-9af7-88882b6a0f5b
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f5b5e245-dc01-4799-9af7-88882b6a0f5b
-- text: Pentagon said Elizondo had no assigned responsibilities for AATIP while at
-    OUSD(I)
-  source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1b5c8f68-a263-43e9-9542-efb971b5026d
+- text: Luis Elizondo resigned from the Department of Defense on 2017-10-04
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: Line 105
+  quote: The documents he has provided include recent annual Defense Department performance
+    evaluations and his October 4, 2017 resignation letter to then-Defense Secretary
+    James Mattis, which bears the apparent seal of the Office of the Under Secretary
+    of Defense.
+  claim_id: f7ed0a1c-1089-4e03-b994-347194fe7355
+  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
+  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-f7ed0a1c-1089-4e03-b994-347194fe7355
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-f7ed0a1c-1089-4e03-b994-347194fe7355
+- text: The Pentagon said Elizondo had no responsibilities with regard to AATIP while
+    in OUSD(I)
+  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: Line 7
   quote: Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I)
     [the Office of Under Secretary of Defense for Intelligence].
   claim_id: 38248a68-194a-449c-8433-d2422b96effd
   record_hash: cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd
   workbench_url: http://localhost:5173/cd9eca73fb5db6e08832d335adeb6512445f8d057321ee12ab5099cd#claim-38248a68-194a-449c-8433-d2422b96effd
-- text: DoD released three unclassified Navy UAP videos on 2020-04-27 to address public
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-38248a68-194a-449c-8433-d2422b96effd
+- text: The culture of denial around UFOs changed with the leaking of infrared videos
+    from the DoD in 2017
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:06:16.6-00:06:36.3
+  quote: Much of that culture of denial changed with the leaking of these tapes from
+    the Department of Defense, or DOD, in 2017.
+  claim_id: 72befda3-e098-4835-9974-06cca4ad7ce0
+  record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
+  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-72befda3-e098-4835-9974-06cca4ad7ce0
+  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-72befda3-e098-4835-9974-06cca4ad7ce0
+- text: DoD released three unclassified Navy videos on 2020-04-27 to clear up public
     misconceptions
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -427,7 +468,8 @@ references:
   claim_id: 9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
-- text: DoD determined the authorised release did not reveal sensitive capabilities
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
+- text: DoD determined the authorised release did not reveal any sensitive capabilities
     or systems
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -438,17 +480,22 @@ references:
   claim_id: 602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
-- text: In August 2020, DoD established a UAP Task Force to develop standardised reporting
-    requirements
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
+- text: In August 2020, DoD established the Unidentified Aerial Phenomena Task Force
+    to develop standardised reporting requirements
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 3
   quote: in August 2020 the DoD established a UAP Task Force (UAPTF) to develop standardized
     reporting requirements for UAP encounters.
   claim_id: e24a8a9f-196e-41dc-aac4-04765c1c2698
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-e24a8a9f-196e-41dc-aac4-04765c1c2698
-- text: In November 2021, Deputy Secretary of Defense directed establishment of AOIMSG
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-e24a8a9f-196e-41dc-aac4-04765c1c2698
+- text: In November 2021, the Deputy Secretary of Defense directed establishment of
+    AOIMSG as successor to UAPTF
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 3
   quote: In a November 2021 memorandum, the Deputy Secretary of Defense directed the
     OUSD(I&S) to establish the Airborne Object Identification and Management Synchronization
@@ -458,43 +505,18 @@ references:
   claim_id: 4d526efe-5014-464f-9e1c-3c37ce4e392c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4d526efe-5014-464f-9e1c-3c37ce4e392c
-- text: NDAA FY2022 required DoD to establish a central office for all UAP matters
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 3
-  quote: The FY 2022 NDAA required the DoD to establish a central office for all UAP
-    matters with sufficient scope, authorities, responsibilities, and capabilities
-    to continue UAP efforts.
-  claim_id: 5d858c78-7611-4602-91b1-c64f3e60ece7
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5d858c78-7611-4602-91b1-c64f3e60ece7
-- text: DoD established AARO on 2022-07-20 as the formal interagency UAP entity
-  source: Unclassified Summary of Report No. DODIG-2023-109
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-4d526efe-5014-464f-9e1c-3c37ce4e392c
+- text: On 2022-07-20, DoD established the All-domain Anomaly Resolution Office (AARO)
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: printed_page 1, Historical Background
   quote: On July 20, 2022, the DoD established the All-domain Anomaly Resolution Office
     (AARO) to be that entity.
   claim_id: a0a097aa-1a41-4412-a702-5f3178d595f7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a0a097aa-1a41-4412-a702-5f3178d595f7
-- text: OIG found DoD has no overarching UAP policy, lacking assurance that threats
-    have been identified
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 6
-  quote: We determined that the DoD has no overarching UAP policy and, as a result,
-    it lacks assurance that national security and flight safety threats to the United
-    States from UAP have been identified and mitigated.
-  claim_id: 31eaddf5-e0a2-4198-afd5-30ba24c6de70
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-31eaddf5-e0a2-4198-afd5-30ba24c6de70
-- text: OIG found DoD has not used a coordinated approach to detect, report, analyse,
-    and identify UAP
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: printed_page 5
-  quote: the DoD has not used a coordinated approach to detect, report, collect, analyze,
-    and identify UAP;
-  claim_id: c8e2764d-755a-4453-b01e-83295fafbd0b
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c8e2764d-755a-4453-b01e-83295fafbd0b
-- text: DoD denied AARO has uncovered activity as alleged by Grusch
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a0a097aa-1a41-4412-a702-5f3178d595f7
+- text: DoD denied that AARO has uncovered the sort of activity alleged by David Grusch
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
   location: line 23
@@ -503,17 +525,41 @@ references:
   claim_id: a38fe41f-e693-4382-b9a0-8afd839ed744
   record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
   workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-a38fe41f-e693-4382-b9a0-8afd839ed744
-- text: NDAA FY2023 tasked the Secretary of Defense with establishing a secure reporting
-    mechanism
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: line 126
-  quote: The National Defense Authorization Act for FY2023 tasked the Secretary of
-    Defense, in consultation with the Director of National Intelligence, with establishing
-    for the first time a secure mechanism for the authorized reporting of sensitive
-    information to defense channels.
-  claim_id: 903ee8c8-139c-44a4-8137-5cff95c6c005
-  record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: http://localhost:5173/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-903ee8c8-139c-44a4-8137-5cff95c6c005
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-a38fe41f-e693-4382-b9a0-8afd839ed744
+- text: DoD released a statement that AARO has not discovered verifiable information
+    to substantiate claims of extraterrestrial materials programmes
+  source: Claims that UFO information was inappropriately withheld from Congress deemed
+    'credible,' 'urgent'
+  location: line 35
+  quote: the Pentagon’s new UFO office “has not discovered any verifiable information
+    to substantiate claims that any programs regarding the possession or reverse-engineering
+    of extraterrestrial materials have existed in the past or exist currently.”
+  claim_id: c30c67ed-dabd-4498-b330-52526037387f
+  record_hash: ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa
+  workbench_url: http://localhost:5173/ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afa#claim-c30c67ed-dabd-4498-b330-52526037387f
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-c30c67ed-dabd-4498-b330-52526037387f
+- text: Inspector General found DoD has not issued a comprehensive UAP response plan
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: printed_page 5
+  quote: The DoD has not issued a comprehensive UAP response plan that identifies
+    roles, responsibilities, requirements, and coordination procedures for detecting,
+    reporting, collecting, analyzing, and identifying UAP incidents.
+  claim_id: 217826f8-b1e4-4cb4-80d7-57240061779d
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-217826f8-b1e4-4cb4-80d7-57240061779d
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-217826f8-b1e4-4cb4-80d7-57240061779d
+- text: Inspector General determined DoD has no overarching UAP policy
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: printed_page 6
+  quote: We determined that the DoD has no overarching UAP policy and, as a result,
+    it lacks assurance that national security and flight safety threats to the United
+    States from UAP have been identified and mitigated.
+  claim_id: 31eaddf5-e0a2-4198-afd5-30ba24c6de70
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-31eaddf5-e0a2-4198-afd5-30ba24c6de70
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-31eaddf5-e0a2-4198-afd5-30ba24c6de70
 ai_usage:
 - stage: digest
   model: claude-opus-4-8
@@ -595,18 +641,18 @@ ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
-    input: 40440
-    output: 3561
-  notional_cost_usd: 0.2762
+    input: 40598
+    output: 4315
+  notional_cost_usd: 0.2885
   price_basis: anthropic-list-2026-06
 ---
 
-The United States Department of Defense (DoD) is the principal federal institution responsible for American national security and armed forces. Its first official activities focused on [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) began in December 1947, when the US Air Force Chief of Staff established Project Sign to investigate the first recorded observations of unidentified flying objects.<sup>1</sup> Over subsequent decades, the DoD relied heavily on its military services and components to detect, report, collect, analyse, and identify UAP, rather than operating any centralised dedicated programme.<sup>2</sup> The department's own Inspector General later characterised these efforts as infrequent, irregular, and inconclusive, attributed to competing priorities, lack of substantive progress, and inconclusive findings.<sup>4</sup> The DoD did not officially re-engage with UAP research in any organised form until the mid-2000s, when select members of [United States Congress](/organisations/united-states-congress) initiated and funded a programme to study UAP called the [Advanced Aerospace Weapon Systems Applications Program (Advanced Aerospace Weapon System Applications Program (Advanced Aerospace Weapon Systems Applications Program (AAWSAP)))](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap), operated under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>3</sup>
+The United States Department of Defense (DoD) is the primary federal body responsible for US military operations and national security. Its engagement with [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) spans more than seven decades, characterised by periods of active investigation interspersed with long gaps and, according to its own Inspector General, a persistent absence of coordinated policy.<sup>1</sup> The DoD has relied heavily on the military services and their components to detect, report, collect, analyse, and identify UAP since the 1940s.<sup>2</sup> The department's first official UAP-focused activity occurred in December 1947, when the US Air Force Chief of Staff established Project Sign to investigate the first recorded observations of [Unidentified Flying Objects (UFOs)](/topics/unidentified-flying-object-ufo).<sup>1</sup> Project Sign staff drafted a report assessing that at least some UFOs were of interplanetary origin, but DoD leadership rejected it on the basis that it lacked proof, and it was never published.<sup>3</sup> The US government publicly ignored UFOs after closing Project Blue Book in 1969,<sup>4</sup> and the DoD did not officially revisit the subject until the early 2000s, when select members of [United States Congress](/organisations/united-states-congress) initiated and funded the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>5</sup> Over that entire span, DoD efforts to identify and understand UAP have been described as infrequent and inconclusive, driven by competing priorities and a lack of substantive progress.<sup>6</sup>
 
-The [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP) became publicly associated with DoD UAP research following reporting in December 2017, which revealed that the DoD had never previously acknowledged the programme's existence and stated it had shut it down in 2012.<sup>6</sup> Approximately 22 million US dollars was spent on this effort, an amount described as nearly impossible to locate within the broader DoD budget.<sup>7</sup> Supporters of the programme maintained that, although the DoD ended funding in 2012, the programme continued in existence,<sup>8</sup> with officials investigating UAP episodes for five more years as an ancillary duty.<sup>9</sup> The [All-Domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) subsequently reported that AATIP was never itself an official DoD programme, and that the names AAWSAP and AATIP were used interchangeably on official documentation; AAWSAP/AATIP was formally terminated in 2012 upon completion of its deliverables owing to DIA and DoD concerns.<sup>10,11</sup> The DoD's position regarding [Luis Elizondo](/people/luis-elizondo), who publicly claimed to have headed AATIP, was that he had no assigned responsibilities for the programme while serving in the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi).<sup>12</sup> [Christopher K. Mellon](/people/christopher-k-mellon) had separately served as Deputy Assistant Secretary of Defense for Intelligence and, alongside Elizondo, later joined [To the Stars Academy of Arts and Science](/organisations/to-the-stars-academy-of-arts-and-science) after both had departed the department.
+The AAWSAP contract, funded at approximately 22 million US dollars — an amount described as almost impossible to locate within the broader DoD budget — was the department's principal UAP research vehicle of the 2000s.<sup>7</sup> The names AAWSAP and [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip) were used interchangeably on official documentation, but AATIP was never an official DoD programme in its own right.<sup>8</sup> AAWSAP/AATIP was terminated in 2012 upon completion of its deliverables, due to DIA and DoD concerns about the project.<sup>9</sup> The DoD, when asked about the programme in 2017, stated it had never previously acknowledged AATIP's existence and that it had been shut down in 2012;<sup>10</sup> however, backers of the programme maintained that officials continued for five years afterwards to investigate UAP episodes as part of their other DoD duties.<sup>11</sup> [Luis Elizondo](/people/luis-elizondo), who has widely claimed to have headed AATIP as a secretive Pentagon programme, submitted a resignation letter to then-Secretary of Defense James Mattis dated 2017-10-04;<sup>12</sup> the Pentagon publicly stated that Elizondo had no assigned responsibilities for AATIP while working within the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi).<sup>13</sup> Elizondo subsequently joined [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa) alongside [Christopher K. Mellon](/people/christopher-k-mellon), a former Deputy Assistant Secretary of Defense for Intelligence who served under two presidents.
 
-On 2020-04-27, the DoD authorised the release of [three unclassified US Navy UAP videos](/documents/2015-three-unclassified-us-navy-unidentified-aerial-phenomena-uap-videos-2004), stating the release was intended to address public misconceptions about whether the footage was authentic and whether further material existed.<sup>13</sup> The department determined that the release did not reveal any sensitive capabilities or systems,<sup>14</sup> and noted that it did not impinge on any subsequent investigations. That same year, in August 2020, the DoD established a Unidentified Aerial Phenomena Task Force (UAPTF) to develop standardised reporting requirements for UAP encounters.<sup>15</sup> In November 2021, the Deputy Secretary of Defense directed the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) to establish the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg) as the UAPTF's successor.<sup>16</sup> The Fiscal Year 2022 National Defense Authorization Act subsequently required the DoD to establish a central office with sufficient scope and authority for all UAP matters,<sup>17</sup> and on 2022-07-20 the DoD established the [All-Domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) as the formal interagency entity tasked with detecting, identifying, and characterising UAP across all domains.<sup>18</sup>
+The 2017 publication of leaked DoD infrared video footage in the press marked a turning point in the department's public posture.<sup>14</sup> On 2020-04-27, the DoD formally authorised the release of [three unclassified US Navy UAP videos](/documents/2015-three-unclassified-us-navy-unidentified-aerial-phenomena-uap-videos-2004) — footage that had previously circulated without official sanction — stating that the release was intended to clear up public misconceptions about whether the footage was real and whether additional material existed.<sup>15</sup> The department determined that the authorised release did not reveal any sensitive capabilities or systems.<sup>16</sup> In August 2020, the DoD established the [Unidentified Aerial Phenomena Task Force (UAPTF)](/organisations/unidentified-aerial-phenomena-task-force-uaptf) to develop standardised reporting requirements for UAP encounters.<sup>17</sup> In November 2021, the Deputy Secretary of Defense directed the establishment of the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg) as the UAPTF's successor, with a mandate to synchronise efforts across the DoD and other federal departments to detect, identify, and characterise objects of interest in special use airspace.<sup>18</sup> On 2022-07-20, the DoD established the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) to absorb the duties previously assigned to the AOIMSG and to serve as the formal interagency entity for UAP detection, collection, analysis, and reporting.<sup>19</sup>
 
-An evaluation conducted by the [U.S. Department of Defense Office of Inspector General](/organisations/us-department-of-defense-office-of-inspector-general) and documented in report DODIG-2023-109 found that the DoD had not used a coordinated approach to detect, report, collect, analyse, and identify UAP,<sup>20</sup> and that it had no overarching UAP policy, leaving it without assurance that national security and flight safety threats from UAP had been identified and mitigated.<sup>19</sup> The Inspector General also found that geographic combatant commands had largely been excluded from UAP policy development, and that military services had been waiting for comprehensive DoD guidance before developing their own. In parallel, the DoD denied that [All-domain Anomaly Resolution Office (All-Domain Anomaly Resolution Office (All-domain Anomaly Resolution Office (AARO)))](/organisations/all-domain-anomaly-resolution-office-all-domain-anomaly-resolution-office-all-domain-anomaly-resolution-office-aaro) had uncovered any verifiable information to substantiate claims made by [David Charles Grusch](/people/david-charles-grusch) regarding the possession or reverse-engineering of extraterrestrial materials.<sup>21</sup>
+The DoD has faced public claims from multiple individuals regarding alleged concealed UAP programmes. [David Charles Grusch](/people/david-charles-grusch), a former National Reconnaissance Office representative to the UAP Task Force, made public allegations that non-human origin craft and materials had been recovered. The DoD denied that AARO had uncovered the sort of activity Grusch alleged,<sup>20</sup> and released a statement that AARO had not discovered any verifiable information to substantiate claims that programmes involving the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.<sup>21</sup> Grusch had received prior approval from the DoD's Prepublication and Security Review office before making his statements publicly. The [U.S. Department of Defense Office of Inspector General](/organisations/us-department-of-defense-office-of-inspector-general) separately reviewed DoD policies and actions for detecting, reporting, collecting, analysing, and identifying UAP and determined that the DoD has not issued a comprehensive UAP response plan identifying roles, responsibilities, and coordination procedures,<sup>22</sup> and that it has no overarching UAP policy — leaving the department without assurance that national security and flight safety threats from UAP have been identified and mitigated.<sup>23</sup> [David Fravor](/people/david-fravor), the naval aviator who encountered an unidentified object during a 2004 training exercise, stated that the US government has said it does not know what the object was, making it one of the unexplained cases.
 
-Legislative pressure on the DoD regarding UAP transparency increased throughout the early 2020s. The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) tasked the Secretary of Defense, in consultation with the Director of the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni), with establishing for the first time a secure mechanism for the authorised reporting of sensitive UAP-related information to defence channels.<sup>22</sup> The [United States Intelligence Community](/organisations/united-states-intelligence-community) and the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) were also drawn into related coordination efforts through AARO, which established partnerships with Special Access Program Control Offices across the DoD, intelligence community, and DHS. The [Department of Energy](/organisations/department-of-energy) similarly participated in AARO's review of nondisclosure agreements pertaining to UAP. Former DoD officials including [David Fravor](/people/david-fravor) testified before Congress on UAP matters, while [Harry Reid](/people/harry-reid)'s 2009 memorandum to then Deputy Secretary of Defense William Lynn III, which the Pentagon confirmed as authentic, remained a reference point in congressional and public debate about the department's historical role in UAP investigation.
+The DoD's institutional relationship with the [United States Intelligence Community](/organisations/united-states-intelligence-community) and with bodies such as the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) has been central to subsequent UAP governance. The [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023) tasked the Secretary of Defense, in consultation with the Director of National Intelligence, with establishing for the first time a secure mechanism for the authorised reporting of sensitive UAP information to defence channels. AARO subsequently sent guidance to DoD elements, Intelligence Community elements, the [Department of Energy](/organisations/department-of-energy), and DHS to review and provide any nondisclosure agreements pertaining to UAP. The [All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)](/projects/all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2) was produced in response to a requirement in the same legislation, directing AARO to submit to congressional defence and intelligence committees a written report detailing the historical record of US government involvement with [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena). The [the three Department of Defense Unidentified Aerial Phenomena (UAP) videos](/documents/the-three-department-of-defense-unidentified-aerial-phenomena-uap-videos) remain among the most publicly scrutinised outputs of this evolving institutional posture, representing the DoD's first formal acknowledgement that footage of objects its pilots could not identify was genuine. Despite successive organisational reforms, the Inspector General's 2023 evaluation concluded that the DoD had not used a coordinated approach to detect, report, collect, analyse, and identify UAP, and that military services had largely been waiting for central DoD guidance before developing their own.
