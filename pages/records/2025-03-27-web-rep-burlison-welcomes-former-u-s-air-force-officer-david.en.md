@@ -188,8 +188,6 @@ ai_usage:
   tokens:
     input: 26072
     output: 2637
-  notional_cost_usd: 0.0474
-  price_basis: anthropic-list-2026-06
 ---
 
 This press release, issued on 2025-03-27 from [Washington D.C. USA](/places/washington-dc-usa),<sup>17</sup> announces the appointment of [David Grusch](/people/david-grusch) as a Special Advisor to [Eric Burlison](/people/eric-burlison),<sup>1</sup> a Republican member of [United States Congress](/organisations/united-states-congress) representing Missouri's 7th district.<sup>2</sup> The document states that Grusch, described as a decorated former [United States Air Force](/organisations/united-states-air-force) officer and senior civilian intelligence official,<sup>3</sup> will contribute his expertise to Burlison's efforts to promote transparency regarding [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) and other matters on the [Task Force on the Declassification of Federal Secrets](/organisations/task-force-on-the-declassification-of-federal-secrets).<sup>4</sup>

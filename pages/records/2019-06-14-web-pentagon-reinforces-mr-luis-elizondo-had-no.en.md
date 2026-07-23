@@ -246,15 +246,11 @@ ai_usage:
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 27106
     output: 3668
-  notional_cost_usd: 0.0632
-  price_basis: anthropic-list-2026-06
 ---
 
 Published on 2019-06-14 by [The Black Vault](/organisations/the-black-vault) and its founder [John Jr. Greenewald](/people/john-jr-greenewald), this article examines the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod)'s reiterated position that [Luis Elizondo](/people/luis-elizondo) held no assigned responsibilities for the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), and analyses whether a memorandum written in 2009 by Senator [Harry Reid](/people/harry-reid) alters that conclusion. Elizondo had widely claimed to have headed AATIP, a secret Pentagon programme concerned with [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap).<sup>1</sup> Some of his supporters had offered the Reid memo as documentary evidence supporting that claim.<sup>2</sup>

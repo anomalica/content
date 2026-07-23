@@ -265,8 +265,6 @@ ai_usage:
   tokens:
     input: 27881
     output: 3454
-  notional_cost_usd: 0.0602
-  price_basis: anthropic-list-2026-06
 ---
 
 The USPER Narrative, Senior USIC Official is a two-page written first-hand account attributed to an anonymous [Senior U.S. Intelligence Officer (Anonymous)](/people/senior-us-intelligence-officer-anonymous) employed within the US intelligence community (USIC). Formally catalogued as [ODNI-UAP-D001, USPER Narrative, Senior USIC Official](/documents/usper-narrative-senior-usic-official-odni-uap-d001) and dated 2026-05-26, it was collected as part of the [PURSUE collection of UAP-related records](/projects/pursue-collection-of-uap-related-records) administered by the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni). The document describes a helicopter mission conducted in late 2025 during which the officer and two pilots encountered multiple [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) over a military test range, an event catalogued separately as the [Late 2025 test range UAP helicopter encounter](/events/late-2025-test-range-uap-helicopter-encounter).

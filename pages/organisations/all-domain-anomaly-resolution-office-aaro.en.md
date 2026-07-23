@@ -698,43 +698,31 @@ ai_usage:
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186912
     output: 7783
-  notional_cost_usd: 1.7011
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 43301
     output: 5599
-  notional_cost_usd: 0.3239
-  price_basis: anthropic-list-2026-06
 ---
 
 The All-domain Anomaly Resolution Office (AARO) is an office within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) responsible for detecting, identifying, and characterising [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) (UAP) across all domains, including air, space, subsurface, and transmedium environments. The office was formally established on 2022-07-20,<sup>1</sup> replacing and expanding upon the [Airborne Object Identification and Management Synchronization Group (AOIMSG)](/organisations/airborne-object-identification-and-management-synchronization-group-aoimsg), which had not achieved initial operating capability before being superseded.<sup>4</sup> The [National Defense Authorization Act for Fiscal Year 2022](/documents/national-defense-authorization-act-for-fiscal-year-2022) provided the legislative basis for AARO's creation,<sup>2</sup> and the Deputy Secretary of Defense, acting in coordination with the Director of National Intelligence, directed the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) to rename AOIMSG as AARO and expand its scope, effective 2022-07-15.<sup>5</sup> The office also absorbed the investigation remit previously held by the Unidentified Aerial Phenomena Task Force, extending coverage to objects operating underwater.<sup>13</sup>

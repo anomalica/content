@@ -566,85 +566,61 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186912
     output: 7783
-  notional_cost_usd: 1.7011
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 40598
     output: 4315
-  notional_cost_usd: 0.2885
-  price_basis: anthropic-list-2026-06
 ---
 
 The United States Department of Defense (DoD) is the primary federal body responsible for US military operations and national security. Its engagement with [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) spans more than seven decades, characterised by periods of active investigation interspersed with long gaps and, according to its own Inspector General, a persistent absence of coordinated policy.<sup>1</sup> The DoD has relied heavily on the military services and their components to detect, report, collect, analyse, and identify UAP since the 1940s.<sup>2</sup> The department's first official UAP-focused activity occurred in December 1947, when the US Air Force Chief of Staff established Project Sign to investigate the first recorded observations of [Unidentified Flying Objects (UFOs)](/topics/unidentified-flying-object-ufo).<sup>1</sup> Project Sign staff drafted a report assessing that at least some UFOs were of interplanetary origin, but DoD leadership rejected it on the basis that it lacked proof, and it was never published.<sup>3</sup> The US government publicly ignored UFOs after closing Project Blue Book in 1969,<sup>4</sup> and the DoD did not officially revisit the subject until the early 2000s, when select members of [United States Congress](/organisations/united-states-congress) initiated and funded the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>5</sup> Over that entire span, DoD efforts to identify and understand UAP have been described as infrequent and inconclusive, driven by competing priorities and a lack of substantive progress.<sup>6</sup>

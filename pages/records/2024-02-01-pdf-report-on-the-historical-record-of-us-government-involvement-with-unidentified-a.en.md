@@ -350,15 +350,11 @@ ai_usage:
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 83175
     output: 5847
-  notional_cost_usd: 0.1127
-  price_basis: anthropic-list-2026-06
 ---
 
 The *Report on the Historical Record of U.S. Government Involvement with [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), Volume I* is a report published on 2024-02-01 by the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro). It covers AARO's findings from 1945 to 2023-10-31,<sup>1</sup> drawing on a review of classified and unclassified archives, approximately 30 interviews with individuals claiming knowledge of US Government UAP programmes, and partnerships with [United States Intelligence Community (IC)](/organisations/united-states-intelligence-community-ic) and [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) officials responsible for controlled and special access programme oversight.<sup>2</sup> The report was produced in response to a statutory requirement in Section 6802(j) of the [National Defense Authorization Act for Fiscal Year 2023](/documents/national-defense-authorization-act-for-fiscal-year-2023), which directed AARO to submit a written history of US Government UAP involvement to congressional defence and intelligence committees.<sup>3</sup> It constitutes the first volume of what AARO designates the Historical Record Report (HR2); a companion document, the [AARO Historical Record Report (HR2)](/projects/aaro-historical-record-report-hr2) Volume II, was to cover findings from interviews and research completed after 2023-10-31.

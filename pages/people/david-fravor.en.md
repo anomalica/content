@@ -765,15 +765,11 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 47469
     output: 4777
-  notional_cost_usd: 0.3366
-  price_basis: anthropic-list-2026-06
 ---
 
 David Fravor is a retired [United States Navy](/organisations/united-states-navy) aviator who served for 18 years<sup>1</sup> and held the rank of Commander. Originally enlisted as a [United States Marine Corps (USMC)](/organisations/united-states-marine-corps-usmc) member,<sup>2</sup> he was recommended by the Marine Corps to attend the United States Naval Academy, which he completed.<sup>3</sup> His ambition to fly developed in 1969, after watching [Neil Armstrong](/people/neil-armstrong) walk on the moon during the [Apollo 11 Moon landing](/events/apollo-11-moon-landing) shortly before his fifth birthday.<sup>4</sup> After receiving his wings he was initially assigned to [A-6 Intruder](/objects/a-6-intruder) aircraft on the west coast,<sup>5</sup> subsequently flying single-seat [F/A-18 Hornet](/objects/fa-18-hornet) aircraft until the end of 2001 before transitioning to [F/A-18F Super Hornet](/objects/fa-18f-super-hornet) variants.<sup>6</sup> He attended the Navy Fighter Weapons School, widely known as Top Gun, completing Class 4 in 1997,<sup>7</sup> and became a qualified Strike Fighter Weapons and Tactics Instructor.<sup>8</sup>

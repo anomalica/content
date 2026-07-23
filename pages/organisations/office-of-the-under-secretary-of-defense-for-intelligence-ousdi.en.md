@@ -429,50 +429,36 @@ ai_usage:
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31616
     output: 4895
-  notional_cost_usd: 0.2433
-  price_basis: anthropic-list-2026-06
 ---
 
 The Office of the Under Secretary of Defense for Intelligence (OUSDI), formally the Office of the Under Secretary of Defense for Intelligence and Security (OUSD[I&S]), is a senior component of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) responsible for intelligence, counterintelligence, and security policy. The Under Secretary of Defense for Intelligence position requires Senate confirmation.<sup>41</sup> Notable former holders of the position include [James R. Clapper](/people/james-r-clapper), who served as undersecretary of defense for intelligence before subsequently being appointed Director of National Intelligence by President Barack Obama.<sup>42</sup> The office has been organisationally significant in the history of US government UAP-related programmes, both as the administrative home of key personnel and as the parent body for successive UAP oversight structures.

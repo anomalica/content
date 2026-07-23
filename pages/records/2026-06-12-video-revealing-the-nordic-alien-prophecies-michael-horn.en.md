@@ -540,8 +540,6 @@ ai_usage:
   tokens:
     input: 57457
     output: 8278
-  notional_cost_usd: 0.1414
-  price_basis: anthropic-list-2026-06
 ---
 
 Episode 92 of [DEBRIEFED (podcast)](/organisations/debriefed-podcast), recorded on 2026-06-12 and hosted by [Chris Ramsay](/people/chris-ramsay) from [Canada, British Columbia, Vancouver](/places/british-columbia-vancouver-canada), features a lengthy interview with [Michael Horn](/people/michael-horn), the principal English-language advocate for the [Billy Meier UFO contact case](/topics/billy-meier-ufo-contact-case). Horn introduces [Billy Meier](/people/billy-meier) as an 89-year-old Swiss man who claims that since the age of five he has been meeting with human beings from another star system who have tutored him.<sup>8</sup> Among the childhood tutors named in the material is [Sfath](/people/sfath), said to have been approximately 900 years of age, who is claimed to have instructed Meier until he was around 16.<sup>2</sup> Horn recounts that Meier's published content dates back to 1946, when he was approximately nine years old and was already disseminating information,<sup>12</sup> and that Meier has since published tens of thousands of pages of contact notes and over 60 books. Horn states he made approximately 22 trips to [Zurich Highlands Switzerland](/places/zurich-highlands-switzerland) to meet Meier, with meetings lasting from half an hour to an hour and a half each,<sup>9</sup> and that on at least four occasions he attempted to catch Meier in a hoax without success.<sup>10</sup>

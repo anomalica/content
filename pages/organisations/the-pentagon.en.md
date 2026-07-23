@@ -567,29 +567,21 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 35232
     output: 4038
-  notional_cost_usd: 0.2521
-  price_basis: anthropic-list-2026-06
 ---
 
 The Pentagon is the headquarters of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), constructed by the US Department of War at the beginning of World War II.<sup>1</sup> It has a total floor area of approximately 6.5 million square feet<sup>2</sup> and employs approximately 22,000 people.<sup>2</sup> Its eleven corridors are arranged like the spokes of a wheel, allowing any location within the building to be reached on foot in five minutes.<sup>3</sup> In the context of [unidentified anomalous phenomena (UAP)](/concepts/unidentified-anomalous-phenomena) research, the building has served as the administrative centre for the US government's principal classified UAP investigation programmes, and its internal politics have significantly shaped the history of those programmes.

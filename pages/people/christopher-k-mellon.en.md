@@ -728,43 +728,31 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 39163
     output: 4940
-  notional_cost_usd: 0.2892
-  price_basis: anthropic-list-2026-06
 ---
 
 Christopher K. Mellon is a former senior US national security official who served as Deputy Assistant Secretary of Defense for Intelligence under both the Clinton and George W. Bush administrations,<sup>1</sup> a position described as the third highest intelligence role at [the Pentagon](/organisations/the-pentagon).<sup>2</sup> In that capacity he oversaw all [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) intelligence activities and [Special Access Programs](/matters/special-access-programs),<sup>3</sup> and was only one step removed from the Secretary of Defense.<sup>4</sup> Prior to his DoD roles, Mellon served as a staffer on the [Senate Intelligence Committee](/organisations/senate-intelligence-committee), eventually rising to minority staff director,<sup>5</sup> and earlier in his career served as a legislative assistant to Senator [William Cohen](/people/william-cohen), whom he accompanied to the Pentagon when Cohen became Secretary of Defense.<sup>6</sup> His Senate Intelligence Committee work required him to review top-secret Sensitive Compartmented Information projects inside Special Access Programs.<sup>7</sup> He is a prominent member of the Mellon family, described as an heir to one of America's oldest financial and industrial dynasties.<sup>8</sup>

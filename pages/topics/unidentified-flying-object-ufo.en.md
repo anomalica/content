@@ -582,29 +582,21 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186912
     output: 7783
-  notional_cost_usd: 1.7011
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 38197
     output: 4327
-  notional_cost_usd: 0.2742
-  price_basis: anthropic-list-2026-06
 ---
 
 The term "unidentified flying object" (UFO) entered popular usage after pilot [Kenneth Arnold](/people/kenneth-arnold) reported seeing a formation of unusual aircraft near Mount Rainier in 1947, with media coverage of his account giving rise to the phrase "flying saucer."<sup>1</sup> Public interest in the subject expanded rapidly from that point, evidenced by the proliferation of television programmes, books, films, and later podcasts devoted to the topic.<sup>2</sup> The [United States Air Force](/organisations/united-states-air-force) responded to the wave of reports with a succession of formal investigation programmes. [Project Sign](/projects/project-sign) was established to determine whether the objects might be Soviet secret weapons or extra-planetary in origin<sup>3</sup> and evaluated 243 reported sightings.<sup>4</sup> Project Sign's staff allegedly drafted a document called the [Estimate of the Situation (1948)](/documents/estimate-of-the-situation-1948), which reportedly concluded that at least some UFOs were interplanetary;<sup>5</sup> Department of Defense (DoD) leadership rejected the report for lack of proof, and some accounts hold that this rejection contributed to the establishment of [Project GRUDGE](/projects/project-grudge), which certain sources characterise as institutionally inclined to debunk UFO claims.<sup>6</sup> Project GRUDGE investigated 244 reports<sup>7</sup> and at least one account asserts its goals were explicitly to discount and explain away all such reports.<sup>8</sup>

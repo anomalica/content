@@ -101,8 +101,6 @@ ai_usage:
   tokens:
     input: 24591
     output: 1219
-  notional_cost_usd: 0.0257
-  price_basis: anthropic-list-2026-06
 ---
 
 The [Statement by the Department of Defense on the Release of Historical Navy Videos](/documents/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos-2020-04-27) is an official public statement issued on 2020-04-27 by the [Department of Defense (DoD)](/organisations/department-of-defense-dod), authorising the formal release of [three unclassified US Navy UAP videos (2004, 2015)](/documents/2015-three-unclassified-us-navy-uap-videos-2004) depicting [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap).<sup>1</sup> The statement accompanied the [DoD authorised release of three Navy UAP videos (2020)](/events/dod-authorised-release-of-three-navy-uap-videos-2020) and constitutes the primary official record explaining the reasoning and context for that action.

@@ -580,22 +580,16 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 68103
     output: 36832
-  notional_cost_usd: 0.7473
-  price_basis: anthropic-list-2026-06
 ---
 
 Anomalous Aerial Vehicle (AAV) is the designation applied in official United States Navy reporting to the unidentified objects observed by personnel of [Carrier Strike Group 11 (CSG-11)](/organisations/carrier-strike-group-11-csg-11) during operations off the western coast of the United States and Mexico in November 2004. The term was used in the "Nimitz Carrier Strike Group (CSG-11) AAV Incident Report" to distinguish the contacts from known aircraft, and was subsequently adopted by the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP), whose stated mission was to collect and analyse information involving anomalous aerial vehicles, known in common usage as UFOs.<sup>1</sup>

@@ -312,8 +312,6 @@ ai_usage:
   tokens:
     input: 31487
     output: 4601
-  notional_cost_usd: 0.2381
-  price_basis: anthropic-list-2026-06
 ---
 
 *Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87* is a video interview published on 2026-05-08, hosted by [Chris Ramsay](/people/chris-ramsay) as episode 87 of his *DEBRIEFED* series. The episode features [Bob Lazar](/people/bob-lazar), described in the introduction as an Area 51 whistleblower,<sup>1</sup> and was produced in collaboration with [Luigi Venditelli](/people/luigi-venditelli). Its central stated purpose is to air, for the first time publicly, a name connected to [USA, Nevada, S4](/places/nevada-s4-usa) that Lazar had deliberately withheld from all prior interviews.<sup>2</sup>

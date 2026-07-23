@@ -546,8 +546,6 @@ ai_usage:
   tokens:
     input: 42058
     output: 2356
-  notional_cost_usd: 0.2678
-  price_basis: anthropic-list-2026-06
 ---
 
 Ross Coulthart is an Australian investigative journalist and author who has won five Walkley Awards, including the Gold Walkley, and previously worked as an investigative reporter on [60 Minutes](/organisations/60-minutes) on Channel Nine and as chief investigations reporter for the Sunday Night programme.<sup>1</sup> He is best known in the context of [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) research for his 2021 book *In Plain Sight*, a detailed survey of UAP cases, government responses, and the accounts of military and intelligence insiders. His reporting spans Australian, American, and international dimensions of the phenomenon.

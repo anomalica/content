@@ -547,15 +547,11 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 34264
     output: 4207
-  notional_cost_usd: 0.2488
-  price_basis: anthropic-list-2026-06
 ---
 
 Harold E. Puthoff is an American physicist and engineer whose career has spanned classified government research, theoretical physics, and UAP investigation over more than five decades. He earned his PhD from [Stanford University](/organisations/stanford-university) in 1967<sup>2</sup> and built a professional background that included positions at General Electric, Sperry, the [National Security Agency (NSA)](/organisations/national-security-agency-nsa), Stanford University, and SRI International.<sup>3</sup> He published widely on quantum physics, lasers, and space propulsion and held patents in the laser, energy, and communications fields.<sup>4</sup> [Luis Elizondo](/people/luis-elizondo) has described him as a physicist, engineer, and chief scientist on highly classified government projects for over fifty years.

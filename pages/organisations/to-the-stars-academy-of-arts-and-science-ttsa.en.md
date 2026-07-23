@@ -495,50 +495,36 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 99753
     output: 12184
-  notional_cost_usd: 0.5522
-  price_basis: anthropic-list-2026-06
 ---
 
 To the Stars Academy of Arts and Science (TTSA) is a US public benefit corporation launched on 2017-10-11,<sup>1</sup> when musician and entrepreneur [Tom DeLonge](/people/tom-delonge) officially announced its formation as president and chief executive officer on a stage in Seattle.<sup>2</sup> The organisation was structured so that revenue from its entertainment and publishing activities would fund a parallel research programme into [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena),<sup>7</sup> though its [Securities and Exchange Commission (SEC)](/organisations/securities-and-exchange-commission-sec) filing classified it formally as a "Motion Picture & Video Tape Production" concern.<sup>8</sup> TTSA raised more than US$2 million from investors following its launch.<sup>9</sup> Its planned headquarters was in Encinitas, California, approximately 30 minutes north of San Diego.<sup>6</sup>

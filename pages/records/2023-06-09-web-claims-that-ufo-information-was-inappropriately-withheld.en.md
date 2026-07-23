@@ -222,15 +222,11 @@ ai_usage:
   tokens:
     input: 186912
     output: 7783
-  notional_cost_usd: 1.7011
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 26557
     output: 2866
-  notional_cost_usd: 0.051
-  price_basis: anthropic-list-2026-06
 ---
 
 Published on 2023-06-09 in [The Hill](/organisations/the-hill), this opinion piece by [Marik von Rennenkampff](/people/marik-von-rennenkampff) examines the significance of the [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig) finding that a whistleblower complaint alleging [UFO](/topics/unidentified-flying-object-ufo) information had been inappropriately withheld from [United States Congress](/organisations/united-states-congress) was both "urgent and credible."<sup>1</sup> The whistleblower at the centre of the complaint is [David Grusch](/people/david-grusch), described in the article as a former high-level intelligence official.<sup>2</sup> Rennenkampff had previously served as an analyst with the [United States Department of State](/organisations/united-states-department-of-state)'s [Bureau of International Security and Nonproliferation](/organisations/bureau-of-international-security-and-nonproliferation) and as an Obama administration appointee at the [Department of Defense (DoD)](/organisations/department-of-defense-dod).<sup>20</sup>

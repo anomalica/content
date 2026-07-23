@@ -493,15 +493,11 @@ ai_usage:
   tokens:
     input: 1611145
     output: 135413
-  notional_cost_usd: 13.8328
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 87051
     output: 7244
-  notional_cost_usd: 0.6111
-  price_basis: anthropic-list-2026-06
 ---
 
 Episode 122 of the [Lex Fridman Podcast](/organisations/lex-fridman-podcast), published 2020-09-08, is a conversation between host [Lex Fridman](/people/lex-fridman) and retired [United States Navy](/organisations/united-states-navy) commander [David Fravor](/people/david-fravor), running to approximately three hours and fifty-five minutes. [Fridman](/people/lex-fridman) introduces [Fravor](/people/david-fravor) as a pilot of 18 years<sup>1</sup> who commanded [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), a unit of 12 aircraft and several hundred personnel,<sup>2</sup> and describes the 2004 sighting as the most credible he is aware of, corroborated by several other pilots.<sup>3,4</sup> The episode is the primary published source for [Fravor](/people/david-fravor)'s extended first-hand account of the [2004 USS Nimitz UFO incident](/events/2004-uss-nimitz-ufo-incident) and is separately catalogued as [Lex Fridman Podcast #122 (David Fravor interview)](/documents/lex-fridman-podcast-122-david-fravor-interview).

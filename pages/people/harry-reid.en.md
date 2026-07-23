@@ -597,43 +597,31 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 35845
     output: 4362
-  notional_cost_usd: 0.0762
-  price_basis: anthropic-list-2026-06
 ---
 
 Harry Reid served as a United States Senator from Nevada from 1987 to 2017, rising to the position of Senate Majority Leader.<sup>1</sup> Before entering politics, he worked as a United States Capitol Police officer while putting himself through law school.<sup>2</sup> As senator for Nevada -- the state that houses [Area 51](/places/area-51) -- he developed an early familiarity with classified aerospace programmes that, by his own account, contributed to his interest in [unidentified aerial phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap).<sup>3</sup> He stated that he had long had an interest in space phenomena,<sup>4</sup> and that this interest was further shaped by his friendship with [Robert Bigelow](/people/robert-bigelow), the billionaire aerospace entrepreneur.<sup>5</sup>

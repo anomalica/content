@@ -453,15 +453,11 @@ ai_usage:
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 30750
     output: 6260
-  notional_cost_usd: 0.1031
-  price_basis: anthropic-list-2026-06
 ---
 
 The [FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents](/documents/foia-response-18-f-0324-aatip-and-luis-elizondo-documents) is a package of US government records released under the Freedom of Information Act (FOIA) by the [Department of Defense](/organisations/department-of-defense). The underlying request was submitted on 2017-12-17 by [John Greenewald](/people/john-greenewald) of [The Black Vault](/organisations/the-black-vault)<sup>1</sup> and received by the Department of Defense on 2017-12-18, assigned case number 18-F-0324.<sup>2</sup> The final response was issued on 2022-08-17.<sup>3</sup> The [Office of the Secretary of Defense (OSD)](/organisations/office-of-the-secretary-of-defense-osd) component responsible — the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) — searched its records systems and located eight pages responsive to parts one and two of the request.<sup>4</sup> The response cover letter was signed by [Stephanie L. Carr](/people/stephanie-l-carr), Chief,<sup>7</sup> with [Brian C. Kreitlow](/people/brian-c-kreitlow), Chief of the [Assessment, Capabilities, & Integration Division](/organisations/capabilities-integration-division-assessment), serving as Initial Denial Authority.<sup>5</sup> Portions of the responsive pages were withheld under 5 U.S.C. § 552(b)(6) on personal privacy grounds.<sup>6</sup> The appellate authority was [Joo Chung](/people/joo-chung), Assistant to the Secretary of Defense for Privacy, Civil Liberties, and Transparency, based at 4800 Mark Center Drive, [USA, Virginia, Alexandria](/places/virginia-alexandria-usa).<sup>8</sup>

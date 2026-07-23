@@ -219,22 +219,16 @@ ai_usage:
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31811
     output: 1037
-  notional_cost_usd: 0.1866
-  price_basis: anthropic-list-2026-06
 ---
 
 The Australian Department of Defence is the federal government body responsible for Australia's military capability and national security. In the context of [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) research, the department has attracted attention both for its historical documentation of UAP-related material and for its operational security posture at sensitive facilities. The Australian government holds thousands of UFO sighting reports spanning several decades, many of which were once classified as secret or top secret.<sup>2</sup>

@@ -814,50 +814,36 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 42410
     output: 5345
-  notional_cost_usd: 0.3148
-  price_basis: anthropic-list-2026-06
 ---
 
 Luis Elizondo is a former US military intelligence officer who describes himself as a "career spy"<sup>1</sup> and who spent some twenty years running military intelligence operations worldwide, including in Afghanistan, the Middle East, and Guantanamo.<sup>2</sup> By his own account, he had not considered [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) (UAP) seriously until 2008,<sup>3</sup> when he was asked to join a [Pentagon](/organisations/the-pentagon) programme called the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP).<sup>4</sup> According to accounts from within the programme, he was personally hired in 2008 by James Clapper, then US Deputy Secretary of Defense for Intelligence.<sup>5</sup> Elizondo is described in public records as having been based at the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) from 2008 until his retirement in 2017.<sup>6</sup> He retired as an official there,<sup>6</sup> and AATIP is said to have been transferred from the Defense Intelligence Agency to the Office of the Secretary of Defense under the Under Secretary of Defense for Intelligence when Elizondo took it over as director in 2010.<sup>7</sup>

@@ -647,29 +647,21 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 33381
     output: 5617
-  notional_cost_usd: 0.2845
-  price_basis: anthropic-list-2026-06
 ---
 
 The Central Intelligence Agency has intersected with the subject of [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena) since the early 1950s. Following a surge in [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) sightings in 1952, including incidents over Washington, D.C., the CIA's Deputy Director for Intelligence tasked the [CIA Office of Scientific Intelligence (OSI)](/organisations/cia-office-of-scientific-intelligence-osi)'s Physics and Electronics Division to review UFO cases.<sup>1</sup> That same year, H. Marshall Chadwell sent a memo to the Director of the CIA titled "Flying Saucers",<sup>2</sup> and the CIA Director Walter Bedell Smith was privately advised that UAP sightings raised serious national security concerns and "were of such nature that they are not attributable to natural phenomenon or known types of aerial vehicles".<sup>3</sup> From 1953, the CIA convened the [Robertson Panel](/matters/robertson-panel) — formally the Scientific Advisory Panel on Unidentified Flying Objects — from 14 to 18 January 1953.<sup>4</sup> That panel recommended an active debunking effort using public media to steer the public away from reporting UFOs, reasoning that a persistent flood of reports could create mass hysteria to the benefit of the Soviet Union,<sup>5</sup> and specifically advised the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) to enlist the Walt Disney Company and mass media in a campaign to debunk UAP.<sup>6</sup> One assessment holds that the climate of hostility toward the UAP issue for decades afterward was a direct result of policies formulated by the Robertson Panel.<sup>7</sup> Separately, a CIA officer named Frederick Durant drafted a report for the CIA's Assistant Director of the OSI on the panel's work and findings.<sup>8</sup>

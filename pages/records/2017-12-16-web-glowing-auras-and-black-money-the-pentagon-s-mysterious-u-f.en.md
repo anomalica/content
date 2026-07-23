@@ -329,15 +329,11 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 33095
     output: 4702
-  notional_cost_usd: 0.0805
-  price_basis: anthropic-list-2026-06
 ---
 
 "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program" is an investigative article published by [The New York Times](/organisations/the-new-york-times) on 2017-12-16, written by [Helene Cooper](/people/helene-cooper), [Ralph Blumenthal](/people/ralph-blumenthal), and [Leslie Kean](/people/leslie-kean). The article disclosed the existence of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), a previously secret [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) effort to investigate reports of [unidentified flying objects (UFOs)](/topics/unidentified-flying-object-ufo).<sup>1</sup> The DoD had never before acknowledged the programme's existence and stated that it had been shut down in 2012.<sup>2</sup> AATIP began in 2007,<sup>3</sup> originated within the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia),<sup>5</sup> and was run by [Luis Elizondo](/people/luis-elizondo), a military intelligence official, from [the Pentagon](/objects/the-pentagon)'s C Ring.<sup>1</sup>

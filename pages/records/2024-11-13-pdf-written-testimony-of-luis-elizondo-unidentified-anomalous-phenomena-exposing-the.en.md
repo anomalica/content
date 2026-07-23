@@ -202,8 +202,6 @@ ai_usage:
   tokens:
     input: 26548
     output: 2709
-  notional_cost_usd: 0.0486
-  price_basis: anthropic-list-2026-06
 ---
 
 The *Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth* is a written statement submitted by [Luis Elizondo](/people/luis-elizondo) to the [United States House Committee on Oversight and Accountability](/organisations/united-states-house-committee-on-oversight-and-accountability) on 2024-11-13. The document is associated with the [Written Testimony of Luis Elizondo to the House Committee on Oversight and Accountability (2024-11-13)](/documents/written-testimony-of-luis-elizondo-to-the-house-committee-on-oversight-and-accountability-2024-11-13). The hearing was chaired by [Nancy Mace](/people/nancy-mace) and [Glenn Grothman](/people/glenn-grothman), with [Gerald Connolly](/people/gerald-connolly) and [Robert Garcia](/people/robert-garcia) serving as Ranking Members.<sup>18</sup> The testimony was submitted to joint proceedings of the [House Subcommittee on Cybersecurity, Information Technology, and Government Innovation](/organisations/information-technology-and-government-innovation-house-subcommittee-on-cybersecurity) and the [House Subcommittee on National Security, the Border, and Foreign Affairs](/organisations/the-border-and-foreign-affairs-house-subcommittee-on-national-security). What were formerly called Unidentified Flying Objects (UFOs) are now referred to as [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>1</sup>

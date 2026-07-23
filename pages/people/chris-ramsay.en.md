@@ -350,8 +350,6 @@ ai_usage:
   tokens:
     input: 31455
     output: 3333
-  notional_cost_usd: 0.2189
-  price_basis: anthropic-list-2026-06
 ---
 
 Chris Ramsay is a magician and podcaster who hosts the DEBRIEFED interview series, which focuses on UAP, the [alien abduction phenomenon](/topics/alien-abduction-phenomenon), and related anomalous topics. His background in stage illusion and hypnosis informs his analytical approach to witness accounts and photographic evidence. He holds the view that direct testimony from experiencers is the primary source of meaningful information about non-human intelligence, arguing that sky observations, forward-looking infrared (FLIR) footage, and whistleblower accounts cannot substitute for speaking with someone who has had direct contact.<sup>1</sup>

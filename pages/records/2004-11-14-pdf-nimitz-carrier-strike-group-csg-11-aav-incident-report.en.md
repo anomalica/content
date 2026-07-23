@@ -490,15 +490,11 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 39410
     output: 6505
-  notional_cost_usd: 0.1094
-  price_basis: anthropic-list-2026-06
 ---
 
 The [Nimitz Carrier Strike Group (CSG-11) AAV Incident Report](/documents/nimitz-carrier-strike-group-csg-11-aav-incident-report) is an internal [United States Navy](/organisations/united-states-navy) document dated 2004-11-14 that records the detection and airborne intercept of one or more [anomalous aerial vehicles (AAVs)](/topics/anomalous-aerial-vehicle-aav) by the [Carrier Strike Group 11 (CSG-11)](/organisations/carrier-strike-group-11-csg-11) during pre-deployment training off the coasts of California and Mexico. The report compiles radar data, aircrew testimony, and organisational details into an executive summary, a chronological account of each participant's involvement, and a set of key assessments. It constitutes the principal primary source for the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter).<sup>1</sup>

@@ -336,15 +336,11 @@ ai_usage:
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 28751
     output: 4513
-  notional_cost_usd: 0.0763
-  price_basis: anthropic-list-2026-06
 ---
 
 The [David Fravor Statement for the House Oversight Committee](/documents/david-fravor-statement-for-the-house-oversight-committee) is a written testimony submitted on 2023-07-26 by [David Fravor](/people/david-fravor), a retired Commander in the [United States Navy](/organisations/united-states-navy),<sup>1</sup> to the [United States House Committee on Oversight and Accountability](/organisations/united-states-house-committee-on-oversight-and-accountability). The statement constitutes Fravor's first-hand account of the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) and sets out his views on congressional oversight of [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) programmes. It was submitted as part of the same [United States Congress](/organisations/united-states-congress) hearing at which [David Grusch](/people/david-grusch) testified.

@@ -325,15 +325,11 @@ ai_usage:
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 32150
     output: 4392
-  notional_cost_usd: 0.0755
-  price_basis: anthropic-list-2026-06
 ---
 
 "The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?" is an investigative article published on 2019-06-01 by journalist [Keith Kloor](/people/keith-kloor), examining the claims of [Luis Elizondo](/people/luis-elizondo) regarding his purported role directing a secret Pentagon [UFO](/topics/ufo) research programme. The article was prompted by the premiere of [Unidentified: Inside America's UFO Investigation](/documents/unidentified-inside-americas-ufo-investigation) on the [History Channel](/organisations/history-channel), in which the narrator states that for eight years a clandestine US government programme investigating UFOs was run by Elizondo.<sup>3</sup> The [Glowing Auras and 'Black Money': The Pentagon's Mysterious UFO Program (New York Times, 2017-12-16)](/documents/2017-12-16-glowing-auras-and-black-money-the-pentagons-mysterious-ufo-program-new-york-times) article in [The New York Times](/organisations/the-new-york-times) had first launched Elizondo into the public eye,<sup>1</sup> where he was described as a former military intelligence case officer<sup>2</sup> who quit [The Pentagon](/objects/the-pentagon) frustrated by what he characterised as a cover-up.<sup>4</sup> In the show, Elizondo re-investigates [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) incidents he says he learned of while running the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) at the Pentagon.<sup>5</sup>

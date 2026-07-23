@@ -429,78 +429,56 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 32487
     output: 3859
-  notional_cost_usd: 0.2329
-  price_basis: anthropic-list-2026-06
 ---
 
 The United States Navy (USN) is a branch of the US armed forces that has generated and retained some of the most consequential first-hand evidence relating to [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap), principally through encounters by its aviators and the sensor systems aboard its vessels and aircraft. Two of its officers - [David Fravor](/people/david-fravor), a retired Commander and former Commanding Officer who served as a naval aviator for 18 years,<sup>1</sup> and [Ryan Graves](/people/ryan-graves), a former [F/A-18](/objects/fa-18) pilot with a decade of Navy service including two deployments in Operation Enduring Freedom and Operation Inherent Resolve<sup>2</sup> - became among the most prominent witnesses to testify publicly about UAP encounters. Both drew on direct operational experience, with [David Fravor](/people/david-fravor) noting that at the time of the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) he had only recently assumed command of his squadron.<sup>3</sup>

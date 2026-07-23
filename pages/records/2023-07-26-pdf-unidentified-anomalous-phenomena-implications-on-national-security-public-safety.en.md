@@ -541,15 +541,11 @@ ai_usage:
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 59825
     output: 7040
-  notional_cost_usd: 0.1236
-  price_basis: anthropic-list-2026-06
 ---
 
 *Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency* is the official transcript of a congressional hearing held on 2023-07-26<sup>1</sup> before the [Subcommittee on National Security, the Border, and Foreign Affairs](/organisations/the-border-and-foreign-affairs-subcommittee-on-national-security) of the [Committee on Oversight and Accountability](/organisations/committee-on-oversight-and-accountability) of the [US House of Representatives](/organisations/us-house-of-representatives). The hearing convened at 10:06 a.m. in room 2154 of the Rayburn Office Building in [D.C. Washington](/places/dc-washington-usa), with [Glenn Grothman](/people/glenn-grothman) of Wisconsin presiding as Subcommittee Chairman.<sup>2</sup> [James Comer](/people/james-comer) of Kentucky served as Chairman of the full Committee on Oversight and Accountability,<sup>3</sup> [Jamie Raskin](/people/jamie-raskin) of Maryland as its Ranking Minority Member,<sup>4</sup> and [Robert Garcia](/people/robert-garcia) of California as Ranking Minority Member of the Subcommittee.<sup>5</sup> Three witnesses testified: [Ryan Graves](/people/ryan-graves), Executive Director of [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace);<sup>6</sup> [David Charles Grusch](/people/david-charles-grusch), a former [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro) representative to the [Unidentified Anomalous Phenomena Task Force (UAPTF)](/organisations/unidentified-anomalous-phenomena-task-force-uaptf) of the [Department of Defense (DoD)](/organisations/department-of-defense-dod);<sup>7</sup> and [David Fravor](/people/david-fravor), a retired Commander and former Commanding Officer of the [United States Navy](/organisations/united-states-navy).<sup>8</sup> The hearing is notable as one of the first formal congressional proceedings at which military veterans provided sworn public testimony about encounters with [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap). Members were denied access to a classified briefing in a Sensitive Compartmented Information Facility before the hearing due to the difficulty of granting temporary clearance to Grusch.<sup>9</sup>

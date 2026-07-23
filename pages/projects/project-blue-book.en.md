@@ -508,43 +508,31 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31204
     output: 4642
-  notional_cost_usd: 0.237
-  price_basis: anthropic-list-2026-06
 ---
 
 Project Blue Book was a [United States Air Force](/organisations/united-states-air-force) programme established in 1952<sup>1</sup> by Director of Intelligence Major General [Charles P. Cabell](/people/charles-p-cabell)<sup>2</sup> to investigate reports of [unidentified flying objects (UFOs)](/topics/unidentified-flying-object-ufo). Based at Wright-Patterson Air Force Base near Dayton, Ohio, it became the longest-running official UFO investigation in US history.<sup>3</sup> It was the third such programme, following [Project Sign](/projects/project-sign) and [Project GRUDGE](/projects/project-grudge).<sup>4</sup> [J. Allen Hynek](/people/j-allen-hynek) served as the programme's lead scientific investigator,<sup>5</sup> while the directorship rotated through several officers — Captain [Edward Ruppelt](/people/edward-ruppelt), Captain Charles Hardin, Captain George T. Gregory, Lieutenant Colonel Roger J. Friend, and Lieutenant Colonel Hector Quintanilla Jr.<sup>6</sup> — with Ruppelt serving as its first chief.<sup>7</sup> The [Battelle Memorial Institute (BMI)](/organisations/battelle-memorial-institute-bmi) provided a punch-card system to automate the statistical analysis of case holdings.<sup>8</sup> In 1953, the [US Air Force](/organisations/us-air-force) created the [4602d Air Intelligence Service Squadron](/organisations/4602d-air-intelligence-service-squadron) to vet all UAP reports confidentially before they were forwarded to Project Blue Book, culling cases that raised national security concerns.<sup>9</sup>

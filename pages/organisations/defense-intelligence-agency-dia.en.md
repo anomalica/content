@@ -388,50 +388,36 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 29977
     output: 4477
-  notional_cost_usd: 0.2272
-  price_basis: anthropic-list-2026-06
 ---
 
 The Defense Intelligence Agency (DIA) is a combat support agency within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) responsible for providing military intelligence to warfighters, defence policymakers, and force planners. In the context of [unidentified anomalous phenomena](/concepts/unidentified-anomalous-phenomena) (UAP) research, the DIA is most significant as the administrative home of two closely related programmes: the [Advanced Aerospace Weapon System Applications Program](/matters/advanced-aerospace-weapon-system-applications-program) (AAWSAP) and the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program). At the direction of Senate Majority Leader [Harry Reid](/people/harry-reid), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated 22 million US dollars for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.<sup>1</sup> In coordination with the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi), the DIA established the [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) in 2009, awarding the contract to a private sector organisation.<sup>2</sup>

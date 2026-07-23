@@ -556,22 +556,16 @@ ai_usage:
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 35670
     output: 4509
-  notional_cost_usd: 0.2618
-  price_basis: anthropic-list-2026-06
 ---
 
 Ryan Graves is a former [United States Navy](/organisations/united-states-navy) pilot who holds the rank of Lieutenant and served approximately a decade, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.<sup>1</sup> In 2014 he was an [F/A-18](/objects/fa-18) Foxtrot pilot assigned to [Strike Fighter Squadron 11 (VFA-11)](/organisations/strike-fighter-squadron-11-vfa-11), the Red Rippers, stationed at Naval Air Station Oceana in [Virginia Beach](/places/virginia-virginia-beach-usa).<sup>2</sup> He subsequently became one of the most publicly prominent military [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) witnesses, testifying before Congress and founding the advocacy organisation [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace).

@@ -387,8 +387,6 @@ ai_usage:
   tokens:
     input: 32223
     output: 3743
-  notional_cost_usd: 0.2296
-  price_basis: anthropic-list-2026-06
 ---
 
 Bob Lazar is an American physicist who came to public attention in 1989 when he gave an interview to [George Knapp](/people/george-knapp) on Las Vegas television station [KLAS-TV](/organisations/klas-tv), asserting that he had been employed to work on a recovered extraterrestrial craft at a classified facility known as the [S-4 Facility](/places/s-4-facility), situated adjacent to [Papoose Lake](/places/papoose-lake) south of [Area 51](/places/area-51) in Nevada.<sup>1</sup> Prior to coming forward, Lazar had been employed at [Los Alamos National Laboratory](/organisations/los-alamos-national-laboratory), a connection that was subsequently substantiated when Knapp rebutted official denials of Lazar's time there, including locating an old news article placing him at the facility.<sup>2</sup> Independent accounts have corroborated his employment and his involvement in propulsion-related work at Los Alamos.<sup>3</sup> By his own account, before any of his disclosures, Lazar had been a UFO sceptic who declared he would not admit such craft were real under any circumstances.<sup>4</sup>

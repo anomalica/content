@@ -525,8 +525,6 @@ ai_usage:
   tokens:
     input: 59100
     output: 9531
-  notional_cost_usd: 0.3093
-  price_basis: anthropic-list-2026-06
 ---
 
 The Roswell incident began on 1947-07-05, when ranch foreman Mac Brazel found crash debris scattered across a cattle ranch approximately 120 kilometres from [New Mexico Roswell](/places/new-mexico-roswell-usa).<sup>1</sup> On 1947-07-08, Colonel William Blanchard ordered [Walter Haut](/people/walter-haut) to issue a press release announcing that the US Army had recovered a flying disc,<sup>2</sup> and the [Roswell 1947 Press Release](/objects/roswell-1947-press-release) stated that the intelligence office of the 509th Bomb Group had gained possession of a disc.<sup>3</sup> The *Roswell Daily Record* ran the headline "RAAF Captures Flying Saucer on Ranch in Roswell Region" on that same date.<sup>4</sup> Within hours, however, General Ramey issued a statement asserting the recovered object was simply a weather balloon.<sup>5</sup> Intelligence officer [Jesse Marcel](/people/jesse-marcel), who examined the original debris field -- which he described as approximately 1,200 metres long and 60 to 90 metres wide, with a gouge extending up to 150 metres long<sup>6</sup> -- later claimed the genuine material had been substituted by General Ramey with weather balloon wreckage, and stated his belief that what crashed was extra-terrestrial in origin.<sup>7</sup> Three decades after the event, Marcel told researcher [Stanton Friedman](/people/stanton-friedman) the same, prompting Friedman to allege a "cosmic Watergate cover-up".<sup>8</sup>

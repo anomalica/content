@@ -316,15 +316,11 @@ ai_usage:
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 33472
     output: 4080
-  notional_cost_usd: 0.0712
-  price_basis: anthropic-list-2026-06
 ---
 
 "Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin" is an investigative article published on 2023-06-05 by [Leslie Kean](/people/leslie-kean), [Ralph Blumenthal](/people/ralph-blumenthal), and [Tim McMillan](/people/tim-mcmillan), based primarily on disclosures by [David Charles Grusch](/people/david-charles-grusch), a former senior intelligence officer turned whistleblower. The article reports Grusch's testimony that the [United States Intelligence Community](/organisations/united-states-intelligence-community) has for decades operated covert programmes in possession of retrieved craft of [Non-Human Intelligence](/topics/non-human-intelligence) origin, and that information about those programmes has been illegally withheld from [United States Congress](/organisations/united-states-congress).<sup>1</sup><sup>2</sup> Grusch simultaneously filed a complaint alleging that he suffered illegal retaliation for making those disclosures.<sup>3</sup> The article notes that other active and retired intelligence officials independently provided corroborating information both on and off the record.<sup>4</sup>

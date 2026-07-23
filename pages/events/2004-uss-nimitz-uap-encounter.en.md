@@ -769,29 +769,21 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 48098
     output: 4634
-  notional_cost_usd: 0.0839
-  price_basis: anthropic-list-2026-06
 ---
 
 The 2004 USS Nimitz UAP encounter is a series of military encounters involving [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) detected by personnel of [Carrier Strike Group 11 (CSG-11)](/organisations/carrier-strike-group-11-csg-11) off the southern California coast during November 2004. From approximately 2004-11-10 to 2004-11-16, the strike group — including the aircraft carrier [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) and the guided-missile cruiser [USS Princeton (CG-59)](/objects/uss-princeton-cg-59) — was conducting pre-deployment training in the Southern California Operating Area before deployment to the Arabian Sea.<sup>1</sup> During this period, the Princeton's radar operators detected multiple [anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))](/topics/anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav) contacts operating in and around the vicinity of the strike group.<sup>2</sup> On the morning of 2004-11-14, [Kevin Day](/people/kevin-day), a radar operator and air intercept controller aboard the Princeton, observed a cluster of 14 unidentified objects on his screen and confirmed the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68)'s radar was tracking the same contacts.<sup>3</sup> Radar data indicated the objects descended from approximately 24,000 metres to as low as approximately 15 metres above the ocean surface in approximately 0.78 of a second.<sup>4</sup> An [E-2 Hawkeye](/objects/e-2-hawkeye) airborne early-warning aircraft launched from the Nimitz also detected the closest contact on radar, providing additional corroboration.<sup>5</sup>

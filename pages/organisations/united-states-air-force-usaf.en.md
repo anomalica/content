@@ -579,57 +579,41 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 1305407
     output: 138773
-  notional_cost_usd: 11.4365
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 34641
     output: 4963
-  notional_cost_usd: 0.2624
-  price_basis: anthropic-list-2026-06
 ---
 
 The United States Air Force (USAF) is a branch of the US armed forces and has been the principal government institution responsible for the formal investigation of [unidentified flying objects (UFOs)](/topics/unidentified-flying-object-ufo) in the United States. Its involvement with [unidentified anomalous phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) spans from the late 1940s through to the present day, encompassing a succession of official study programmes, public communications strategies, and, more recently, a role in developing contemporary UAP reporting frameworks alongside the [United States Navy (USN)](/organisations/united-states-navy-usn).<sup>1</sup><sup>26</sup>

@@ -361,15 +361,11 @@ ai_usage:
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 47347
     output: 6369
-  notional_cost_usd: 0.1097
-  price_basis: anthropic-list-2026-06
 ---
 
 *The UFO Phenomenon* is a feature-length investigative documentary produced by [Seven Network (7NEWS)](/organisations/seven-network-7news) and broadcast on 2021-09-06 as part of the 7NEWS Spotlight strand. Presented and reported by [Ross Coulthart](/people/ross-coulthart), the documentary covers [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) across three broad areas: the shift in official United States government posture, a cluster of sightings concentrated around [Australia, Western Australia, Exmouth](/places/western-australia-exmouth-australia), and two major Australian historical incidents. The documentary was produced at a moment when Coulthart reported that a formal UAP report was due before [United States Congress](/organisations/united-states-congress) within weeks,<sup>1</sup> and when, in his assessment, the US military was for the first time since the Second World War openly admitting it faced an unexplained aerial mystery.<sup>2</sup> Coulthart also disclosed that the [Unidentified Aerial Phenomena Task Force (UAP Task Force)](/projects/unidentified-aerial-phenomena-task-force-uap-task-force) had been operating secretly inside the Pentagon for years.<sup>3</sup>

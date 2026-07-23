@@ -395,8 +395,6 @@ ai_usage:
   tokens:
     input: 64583
     output: 6810
-  notional_cost_usd: 0.1215
-  price_basis: anthropic-list-2026-06
 ---
 
 Episode 85 of the *DEBRIEFED* podcast, published 2026-04-24, is a video interview hosted by [Chris Ramsay](/people/chris-ramsay) in which self-described lifelong abductee [Erik Nanstiel](/people/erik-nanstiel) recounts his encounters with [Greys (extraterrestrial beings)](/topics/greys-extraterrestrial-beings) spanning from infancy through 2024. The episode takes its title from Nanstiel's assertion that the [Skinny Bob footage (alleged Soviet alien video)](/documents/skinny-bob-footage-alleged-soviet-alien-video) depicts beings physically identical to those he encountered personally. Nanstiel is the author of [Angst in the Shadows (Erik Nanstiel book)](/documents/angst-in-the-shadows-erik-nanstiel-book) and [A Blood Covenant: The Alien Agenda Behind Civilization and Human Domestication (Erik Nanstiel book)](/documents/a-blood-covenant-the-alien-agenda-behind-civilization-and-human-domestication-erik-nanstiel-book), and the interview draws heavily on material from those works. The companion document for the episode is ["Skinny Bob is Real" - Erik Nanstiel, DEBRIEFED episode 85](/documents/debriefed-episode-85-skinny-bob-is-real---erik-nanstiel).

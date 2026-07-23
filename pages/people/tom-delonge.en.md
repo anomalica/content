@@ -513,29 +513,21 @@ ai_usage:
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31750
     output: 4325
-  notional_cost_usd: 0.2355
-  price_basis: anthropic-list-2026-06
 ---
 
 Tom DeLonge is an American musician best known as the front man of the punk-rock band [Blink-182](/organisations/blink-182).<sup>2</sup> Born in Poway, near San Diego, California,<sup>3</sup> he developed an interest in [UFO](/topics/ufo)s during the band's touring years, reading books on the subject while travelling.<sup>6</sup> This interest found early public expression in June 1999, when Blink-182 released their album *Enema of the State*, which included a song titled "Aliens Exist".<sup>5</sup> DeLonge subsequently created a website called Strange Times as a clearinghouse for UFO news and research.<sup>7</sup> He has recounted a personal experience near [Area 51](/places/area-51), north of Tonopah, Nevada, in which he and two friends camped in the desert and he claims to have awoken at around 3 am to hear what sounded like approximately twenty voices outside his tent, felt completely paralysed, and experienced approximately three hours of lost time.<sup>8</sup> In early 2015, DeLonge left Blink-182<sup>9</sup> and, according to [Luis Elizondo](/people/luis-elizondo), turned his attention fully to UAP research and began crisscrossing the country on a learning tour meeting with sympathetic former government officials.<sup>10</sup>

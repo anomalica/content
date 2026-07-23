@@ -751,57 +751,41 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 43927
     output: 5016
-  notional_cost_usd: 0.3189
-  price_basis: anthropic-list-2026-06
 ---
 
 Unidentified Anomalous Phenomena (UAP) is the official designation adopted by the United States government for observed objects or phenomena — aerial, transmedium, or otherwise — that cannot be attributed to known aircraft, natural occurrences, or other conventional explanations. The term superseded the older "Unidentified Flying Object (UFO)" and its intermediate form "Unidentified Aerial Phenomena (UAP)" as part of a terminological standardisation included in legislation; the Unidentified Aerial Phenomena Task Force was established explicitly to investigate what were once called UFOs and are now officially called unidentified anomalous phenomena.<sup>1</sup> The subject carries a long institutional history of official dismissal: the US government had publicly sidelined UFO investigation since closing its Project Blue Book programme in 1969,<sup>2</sup> and for decades the US Air Force, FBI and CIA maintained a posture of denial — dispelling and debunking reported sightings.<sup>3</sup> This posture shifted materially from 2017 onwards, when the [United States government acknowledged the existence of UAP](/organisations/united-states-department-of-defense-dod) after decades of public denial.<sup>4</sup>

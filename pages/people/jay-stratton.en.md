@@ -382,22 +382,16 @@ ai_usage:
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31301
     output: 3494
-  notional_cost_usd: 0.2204
-  price_basis: anthropic-list-2026-06
 ---
 
 Jay Stratton is a former US government intelligence officer who spent sixteen years investigating [Unidentified Anomalous Phenomena](/concepts/unidentified-anomalous-phenomena), the longest such tenure that [Luis Elizondo](/people/luis-elizondo) was aware of.<sup>20</sup> He is credited with helping establish two successive government UAP programmes: the [Advanced Aerospace Weapon System Applications Program](/matters/advanced-aerospace-weapon-system-applications-program), which he stated he helped create and which later evolved into the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program) (AATIP),<sup>1</sup> and ultimately the [UAP Task Force](/organisations/uap-task-force), of which he became the first director.<sup>18</sup> Elizondo, writing in his 2024 memoir, credits Stratton's work as essential to enabling UAP disclosure.<sup>24</sup>

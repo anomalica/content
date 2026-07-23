@@ -788,64 +788,46 @@ ai_usage:
   tokens:
     input: 284670
     output: 39905
-  notional_cost_usd: 2.7974
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200086
     output: 23971
-  notional_cost_usd: 2.5665
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 189622
     output: 10722
-  notional_cost_usd: 2.1306
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 200668
     output: 18076
-  notional_cost_usd: 2.0815
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 44644
     output: 4831
-  notional_cost_usd: 0.3205
-  price_basis: anthropic-list-2026-06
 ---
 
 The Advanced Aerospace Threat Identification Program (AATIP) was a covert programme within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) that investigated reports of unidentified aerial phenomena encountered by military personnel. According to the 2017 reporting that first disclosed its existence, AATIP was operated from [the Pentagon](/organisations/the-pentagon)'s C Ring, fifth floor.<sup>1</sup> It began in 2007 with parts of it remaining classified,<sup>2</sup> and was originally administered by the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>3</sup> Funding for the programme was secured largely at the request of [Harry Reid](/people/harry-reid), then Senate majority leader for Nevada, who was joined in his support by senators Ted Stevens of Alaska and Daniel K. Inouye of Hawaii.<sup>4,5</sup> Contracts obtained by [The New York Times](/organisations/the-new-york-times) showed a congressional appropriation of just under US$22 million beginning in late 2008 through 2011.<sup>6</sup> The bulk of that funding was directed to an aerospace research company operated by [Robert Bigelow](/people/robert-bigelow), a longtime associate of Reid, whose firm Bigelow Aerospace hired subcontractors and solicited research on behalf of the programme.<sup>7,8</sup>

@@ -600,22 +600,16 @@ ai_usage:
   tokens:
     input: 192758
     output: 24417
-  notional_cost_usd: 2.5044
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 38396
     output: 4642
-  notional_cost_usd: 0.2801
-  price_basis: anthropic-list-2026-06
 ---
 
 David Charles Grusch is a former [US Air Force](/organisations/us-air-force) intelligence officer who served for fourteen years in active duty, the [Air National Guard](/organisations/air-national-guard), and the Reserve, reaching the rank of Major.<sup>5</sup> He built a career across the [United States Intelligence Community](/organisations/united-states-intelligence-community), holding senior positions at both the [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro) and the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga). From 2016 to 2021 he served at the NRO as a Senior Intelligence Officer, leading the production of the NRO director's daily briefing.<sup>3</sup> In that capacity he was rated as a GS-15 civilian, the military equivalent of a full colonel.<sup>4</sup> From 2019 to 2021 he served concurrently, in his NRO reservist capacity, as the NRO's representative to the [Unidentified Aerial Phenomena Task Force (UAP Task Force)](/projects/unidentified-aerial-phenomena-task-force-uap-task-force).<sup>1</sup> From late 2021 to July 2022 he joined the NGA in a civilian role, serving as the agency's co-lead for [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) and trans-medium object analysis, cleared at the Top Secret/Sensitive Compartmented Information level and designated the agency's Senior Technical Advisor for UAP analysis.<sup>6,7</sup> He sat on the [Unidentified Anomalous Phenomena Task Force (UAPTF)](/organisations/unidentified-anomalous-phenomena-task-force-uaptf) throughout this period and helped author the task force's 2019 security classification guide.

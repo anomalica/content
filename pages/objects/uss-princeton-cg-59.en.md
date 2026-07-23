@@ -539,43 +539,31 @@ ai_usage:
   tokens:
     input: 208331
     output: 39436
-  notional_cost_usd: 2.6922
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 526212
     output: 54083
-  notional_cost_usd: 5.136
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 870474
     output: 88688
-  notional_cost_usd: 8.1959
-  price_basis: anthropic-list-2026-06
 - stage: digest
   model: claude-opus-4-8
   tokens:
     input: 186865
     output: 12232
-  notional_cost_usd: 2.1719
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 33996
     output: 4681
-  notional_cost_usd: 0.2543
-  price_basis: anthropic-list-2026-06
 ---
 
 USS Princeton (CG-59) is a [Ticonderoga-class](/objects/uss-nimitz-cvn-68) guided-missile cruiser serving in the United States Navy.<sup>1</sup> It was the first Ticonderoga-class cruiser to carry the upgraded [AN/SPY-1B radar](/objects/anspy-1-radar) system,<sup>2</sup> and operates two Seahawk LAMPS III helicopters.<sup>3</sup> In November 2004, Princeton was part of [Carrier Strike Group 11 (CSG-11)](/organisations/carrier-strike-group-11-csg-11), completing Tailored Ships Training Availability in preparation for deployment to the Arabian Sea.<sup>4</sup> The strike group comprised [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68), Princeton, USS Chafee (DDG-90), USS Higgins (DDG-76), and USS Louisville (SSN-724).<sup>5</sup> Princeton served as the strike group's primary air-defence platform, with its [AN/SPY-1](/objects/anspy-1) Aegis radar providing 360-degree phased-array coverage capable of tracking hundreds of targets simultaneously.<sup>6</sup>

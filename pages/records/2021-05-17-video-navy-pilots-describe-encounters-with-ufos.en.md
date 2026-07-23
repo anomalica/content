@@ -396,15 +396,11 @@ ai_usage:
   tokens:
     input: 197290
     output: 19474
-  notional_cost_usd: 2.0827
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 31163
     output: 5311
-  notional_cost_usd: 0.089
-  price_basis: anthropic-list-2026-06
 ---
 
 "Navy pilots describe encounters with UFOs" is a segment broadcast by [60 Minutes](/organisations/60-minutes) on 2021-05-17, correspondent [Bill Whitaker](/people/bill-whitaker) reporting. The segment aired against a backdrop of shifting official posture: the [United States government](/organisations/united-states-department-of-defense-dod) had by that point grudgingly acknowledged the existence of [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) after what Whitaker characterised as decades of public denial,<sup>1</sup> and the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence) had ordered the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Secretary of Defense to deliver a report on UAP sightings.<sup>2</sup> The segment drew together testimony from former intelligence officials, serving and former naval aviators, and a sitting senator, presenting the most concentrated public accounting of the UAP issue to that date.

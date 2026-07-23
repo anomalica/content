@@ -368,15 +368,11 @@ ai_usage:
   tokens:
     input: 204999
     output: 25560
-  notional_cost_usd: 2.3119
-  price_basis: anthropic-list-2026-06
 - stage: assemble
   model: claude-sonnet-4-6
   tokens:
     input: 35282
     output: 4954
-  notional_cost_usd: 0.0849
-  price_basis: anthropic-list-2026-06
 ---
 
 The unclassified summary of [Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)](/documents/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig-2023-109) is a publicly released document produced by the [U.S. Department of Defense Office of Inspector General](/organisations/us-department-of-defense-office-of-inspector-general). The underlying evaluation was conducted between May 2021 and June 2023 in accordance with quality standards published by the [Council of the Inspectors General on Integrity and Efficiency (CIGIE)](/organisations/council-of-the-inspectors-general-on-integrity-and-efficiency-cigie),<sup>35</sup> with the objective of determining the extent to which the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), its military services, defence agencies, and Military Department Counterintelligence Organizations had taken intelligence, counterintelligence, and force protection actions to detect, report, collect, analyse, and identify [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap). The [James M. Inhofe National Defense Authorization Act for Fiscal Year 2023](/documents/james-m-inhofe-national-defense-authorization-act-for-fiscal-year-2023) defined UAP as encompassing airborne objects, transmedium objects or devices, and submerged objects or devices that are not immediately identifiable.<sup>12</sup>

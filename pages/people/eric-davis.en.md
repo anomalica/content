@@ -414,8 +414,6 @@ ai_usage:
   tokens:
     input: 87021
     output: 10099
-  notional_cost_usd: 0.1776
-  price_basis: anthropic-list-2026-06
 ---
 
 Eric Davis is an American physicist who began his career in UAP-related research in 1996 when he joined the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science), the organisation founded by entrepreneur Robert Bigelow.<sup>1</sup> He had previously been on secondment from the University of Maryland at a US Air Force fighter wing in South Korea when he encountered an advertisement in a physics magazine that led him to the role.<sup>1</sup> Davis subsequently became one of the field investigators assigned to the [NIDS Skinwalker Ranch Investigation](/matters/nids-skinwalker-ranch-investigation) at [Skinwalker Ranch](/places/skinwalker-ranch) in Utah, where he reported a series of anomalous observations. In September 1996, he observed a craft with amber light descend below tree level and remain at ground level for half an hour,<sup>2</sup> and in November 1996 he and [Colm Kelleher](/people/colm-kelleher) watched a similarly lit object hurtle out from above a nearby bluff and execute a sharp high-speed 90-degree turn directly above them.<sup>3</sup> Davis, Kelleher, and the ranch manager also reported observing a large creature jump from a tree and walk away after the ranch manager fired multiple shots into it at point-blank range without any apparent effect, and without the creature leaving footprints.<sup>4</sup>
