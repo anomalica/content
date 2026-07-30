@@ -1,17 +1,94 @@
 ---
 title: Eric Davis
-description: Eric Davis is an American physicist and researcher who worked for the
-  National Institute for Discovery Science and as a contractor for the Advanced Aerospace
-  Threat Identification Program, and is widely known as the alleged author of the
-  Wilson/Davis Memo documenting a purported 2002 meeting with a senior US intelligence
-  official about non-human craft recovery programmes.
+description: American astrophysicist and defence contractor linked to secret Pentagon
+  UAP research programmes and to the disputed Wilson Davis Memo.
 metadata:
-  role: Physicist, researcher, contractor
-  affiliations: National Institute for Discovery Science, EarthTech International,
-    Aerospace Corporation, Advanced Aerospace Threat Identification Program
+  role: Physicist, defence and aerospace contractor
+  affiliation: Aerospace Corporation; formerly EarthTech International; formerly National
+    Institute for Discovery Science
 built_from:
-  brief_hash: 96ad4302f5edef6be5383444a99375a232052c96cb9aad1a2e0f7159c68fa517
+  brief_hash: ad9fe09458ba9be0dd13abbcdc8eb381c311827361a8061236426bb87dbd1176
   claims:
+  - id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
+    hash: a6eda3ccd9fe1eaf3d405168ae5c4633ad8bc7674425c8aa339f9aafc9996806
+  - id: fadf9347-0547-42fa-8ee0-3f0f365d32f9
+    hash: 39c0e1b07403fa597230e5b03bae7e1a3cfe00c377c3b6cf9708925b459a9d30
+  - id: 6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
+    hash: af9a8f5fc73214d894da1d4721c43d1610054476ce2bf401c96c2d7710169e1f
+  - id: 7a8c0733-8517-44f0-82eb-8aec31c24554
+    hash: 169ff53076e81736c27538ed421a47c8b971ea1bbdc90e6279b24467a75e8f74
+  - id: 6256c21a-1f98-49e6-9e5d-db7468b48731
+    hash: d027196f8d2c52c62cca1c1d52145759a145628a57689fd25479d32490f5affa
+  - id: 45eb2a52-91f1-4541-a890-89f26c48f465
+    hash: c2164b98e61a949288bd8085846904c205cf549c48eb7ad7321c6b4c90b2fbce
+  - id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+    hash: 647d8bdd29214fc36c832c74eed92649a80c8e27a5c981a16b6c67e34d94ae41
+  - id: 26012c8b-7fa8-4112-986a-28a99b86c8ff
+    hash: 91f45f49342e95dfab009eff3a2f666bb640f251168a35628c1e5329588c72ef
+  - id: e51e3639-fc6e-4de0-a265-e3d2db554a9b
+    hash: 3908d8896451a4b7d2af95af61c046fce65eadbf5f6645b05ce2df4c3cbb1e76
+  - id: 3143679e-89d9-4d7f-86a3-c0faf8de3a4f
+    hash: f63cca975ee1d0ce20d9e3f365c1c05bb1a2192b8abd8b8390c7261218b85532
+  - id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
+    hash: 24cb88d040db6452c39e2495193e0d5a4728f84b42d75ac0d5377c135f79727a
+  - id: 67eac303-0465-413a-a202-6b40181d83dc
+    hash: d0447683920af9cfc98c5539f735f9e9f17813b09ee5c0bceb8a357fba542684
+  - id: 104c7f88-a91b-40de-8086-3761a57886fa
+    hash: 711cd32e2ca6a5ce1fe00c6a646f01b227ca37650e107eb3f009375469801334
+  - id: 7f39af2d-c618-4f6b-9f93-7779aa37e122
+    hash: 2267c60ba121b82a8ec0284acc55c2b59fe4d2a06587a9f082cc6039dd58c4da
+  - id: 71ba8371-b25c-410a-9595-c3b42f35f43e
+    hash: 5b097bfddaa9d81954cbe5a01c7200e0fcbcacccebda3261f8c0f73ad7f2b1e1
+  - id: 721e1e48-e798-4c00-b8de-0bd911502e83
+    hash: 9f3641e86365fbbc3c266da0e3c8c3304026b08d1a39740594f8c8d04da95691
+  - id: 6278fc45-22b9-4921-9eba-b7bf2d791d7f
+    hash: f08da6eec988c525a676c883f6081a380aa3a7e57fcd226fc750144e3005c444
+  - id: 7ae829c0-aefc-49a6-9ec3-0a6177fed5bb
+    hash: 703a03e44f3f5d2b1ff45f42f01821a4837c5dc20ace5979a5af845c331e803e
+  - id: 529f68de-d459-4070-b2aa-47cf5d0bbacc
+    hash: cb1cbd4baf4564694b5e5dcb5d5ab86917deadd1b2317fbe442f7a5f64e200b7
+  - id: 80f1e65a-c6ac-41c3-b481-7fb8fe69e182
+    hash: fccc7a2487f0296467cd05daac038e50077323a231ce249314c8230f0164728f
+  - id: d71bc675-739d-47e5-bb39-c7805b500f39
+    hash: 91012ae8fa4971aab4c6c1e5ede179b0aa5671bf0fd947025254d44f47917822
+  - id: 360f5b6b-fece-4d09-be3e-b887c0c03451
+    hash: 96692e0f6ee3ea50b928278e530e9e2b5df1fdb11a45c9a71f8f50054536a8ed
+  - id: 27dc18f0-c35d-41a8-bb8a-628d118bba6d
+    hash: b8e3788ec9fb60c47a52c88e85ea88d380ca4cd04b00b6367b3355d6da08c4e7
+  - id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
+    hash: 9b6ab1eb063631530705a263059572a728fed31550346e9438d9b80e7bd6c8d1
+  - id: 656b7358-b21e-4828-8d49-702f76ad4c38
+    hash: 8a7e5c654f94ed29c3abf725c18536271915476aff79a7652e4dbf384f4fd7a2
+  - id: deedbd87-ad44-4eed-a6c7-dd1f77113453
+    hash: 5abf8af2b531432fcb6dc4bc69993de209fed3d412c24680d77173610ada2fc8
+  - id: 6f6f5e1f-a4c5-4f7b-af02-f456c5a65a33
+    hash: 6f32d414d35fa3632a59afd3b984d9e5637d5bf13316a14bee3936bf02df1960
+  - id: e978dc42-b953-4348-9b34-a00759c8d847
+    hash: 7c3c4839dfd6e11a3b34dbcb44d1cbf77346fd29a8532e2947fb4674ec2b8ac8
+  - id: cb3fc5cb-9ca6-42ea-b602-82e5e8facb51
+    hash: a6b62e417dea43db36813f6263b6062af6bce060c761db1584b772c14fbda9d9
+  - id: ac052221-503c-4ae3-9704-bf40164edcb3
+    hash: f3798c22cf33084408cc14a34a3819eceb1d4943061380d1fcf4c398c4ba805f
+  - id: f3879c62-5746-4a84-a111-e95604f8393d
+    hash: 8e7ede996b43aa3377fb6c503e935390b950f45ad92e7a9162bdf59c48548f6c
+  - id: add5172d-aff8-408b-b357-6dcdd4ffa2d7
+    hash: 5c0f07a9ad3e433268409e80394d376c6899994e5cbdc3c39e751816a0acfa81
+  - id: 590cde41-590c-4046-b413-1d17dae29d62
+    hash: b0444a1632bbcdf11ce17140d16314c85c47c6907451b06850620cb16a145e18
+  - id: aca0f75f-7411-4220-aa8a-52e1e5bfe58b
+    hash: da191008d0fb6777d09b9242fa2a954d390b3c8b6ff15ce17f780810b33ff22a
+  - id: a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
+    hash: 99f2058f4ba3d735cf749ca14a35e3238b72f6bf5c3089a102520ac4cfe259b2
+  - id: 52c5c388-dfac-4d1c-8ae6-148bdca55d60
+    hash: 9b766369d826a1f2d6ed07ba34f67b53d1e52c304bf683abcf111db09678de65
+  - id: 892cc30e-8ba7-4de6-b51e-17214e2c6acb
+    hash: fc4edc42ee59db9b9c11f10adfb8c75bda67037a3984a4665ea5446971faf7c1
+  - id: 33b0402e-38e2-4600-83bd-82d58633a6d1
+    hash: de5b86b5a53aca2dcb002f1f851ed726bff89cd2d3fc002af91d95cf4de82516
+  - id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
+    hash: 5551e5333d96af4f38d889a2fc3c419eae6c34185844580a41fe263fe953354b
+  - id: 1e2d3bd5-de5d-4672-81fe-49ee6e97541b
+    hash: 38bdb3f494b7329014a4ae04d59868c10d89f6298c407b051c6dfa3a8af547f7
   - id: 6b03ff99-e4af-4132-8cee-37736e532ba9
     hash: a89ac17e78d42ffa274e16a76168a3d5aa9d56e5edf5b40863a9367d8db8859e
   - id: 187f9690-d7b2-4d92-b607-89c5b06f3ecc
@@ -39,17 +116,17 @@ built_from:
   - id: 6ee64ea7-0ad6-41df-8c77-fc4f13ce9b5c
     hash: 3ec649991ce05d572b3f63f21b10cc7e0efbbc08d19f118547d7be84e3fd9044
   - id: 7f8c50e7-6097-44be-bebe-69b7d5b58ce2
-    hash: 5383976c8794f440bcec2286b72378c27d14e9632d46679156694702528ca0c5
+    hash: de575604c5fdefef8bdaf7477e5fd1f921306db43c8d622121443422117eb58e
   - id: 2270b3a1-9d21-4f37-ae25-7cd17382fb0f
-    hash: 76123f206aa8b0f0f97a4afcb0af6923e23e64669d444455c25ce8d4ee85af1a
+    hash: cb9c24adf2d2d7bc1c026f2302b0f5d2149e0fc9c653123f9974bdc9d580f336
   - id: 0025c266-e254-4665-9244-642db6bf6aeb
-    hash: c52ba271cf8a9eaf8a4c548c1c7de3507bf6631251c75efa7bb0c6d539dd7a7f
+    hash: 394c9ea65c39ad94465c953c9a3f746a43f45d351a0b59e631ba410ba115fe52
   - id: 4bc24cab-1494-4e0d-9870-d6bf09982d2e
     hash: 81d0fbb5fc7550395c4962c95d9a5ca4acc478a582887d8104952f544154b0d9
   - id: f83867aa-20a1-450b-9001-18f7b7f76172
-    hash: 0f542da60d45c262da0af7d9bd4d44b495c7d02f82afd2efb75740392e0e221e
+    hash: ce1e0df0e1cb9aae826691f51dfd73fa70f75e403a60f084eb094b32ee463794
   - id: fce809d5-7de8-4121-8a7a-54a65a20142d
-    hash: 489e9b0ca97f2b7de9076423e415d0a6fbf8e627def6337e2c4cb84fa89b56ad
+    hash: c343662174593a58bf03afe66dcc30aa0ff9e1e3a48d5387b70314ff12ef6d42
   - id: ac893fee-3fa2-4b37-9998-539807a6172c
     hash: 1eec5a6cea5e9e6eed74dc8753ddf874fcc81c20f1dcab91574c2209cf3f2579
   - id: 50bc5f17-82b2-45c0-a079-312ada08e94b
@@ -69,15 +146,15 @@ built_from:
   - id: 7fa5220e-05d4-453c-b087-44153abec6d1
     hash: 47bf9ca5f68ccb77ddf0546bce1090612681327a81144f0deb3cbec3a0db9aca
   - id: 80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
-    hash: 3efb9ed982f3e74014051eac35926ee3b888617dff9b43a0962961734581a716
+    hash: f32da1a0725fc477dba3667f6aebe1ee804474f3b53660ac158d9e752f6a802e
   - id: 47228a73-dd52-4334-88ca-08a7cd748946
-    hash: 35c341b7a2c5b3f2d9b3bff2a5bb555e09541bbf31335a38c5ea464231f09376
+    hash: 1fa2f525c6116867aeb17be54f173213f810890022ca11512a2a3b22c3d6620e
   - id: 6070d9aa-ab54-45af-8eb9-b462c332ebe7
-    hash: f71d8d9ca405b88a12aea865d4d0462f46eb574ede0f7e0438cb0da1a030867a
+    hash: ebd90bb5736f5e4ed915c96a86542004b0ae32a7f027acb62c250f8423460aee
   - id: dadd0b76-8264-42e9-9138-a5878de58415
-    hash: b4e793978f77efd6db0da91fa12fe8884afef93b262ac2063c61515b22463f64
+    hash: df840f1655036b6636ddcc36db33af3311518356263ba0c44cfed642f71df380
   - id: e6ba3377-bdce-47b9-bc0f-69623df28d85
-    hash: adc2f618eca261900150747a9ac85df69824ff154694c3f7e52a8f4d778d76e5
+    hash: 97011d1a3dff13c20604ed9bf472d57ff727a5e1e5cceb64b4cc9809f7610b2f
   - id: a375ce9d-f347-4914-9b8c-d0d0174bc326
     hash: 4bbdf7c62f5cd98750b68c62297f57343393c86f221720634342cd80b2776b3e
   - id: 9abe7ad6-40f8-4a50-bfbf-453ee55152a3
@@ -95,13 +172,13 @@ built_from:
   - id: d977760d-099d-46a0-a806-b868e6a23e36
     hash: 1fa59fdb8bf538fc4ab3d763cef167b3eefacf9fd7343b39c8ea0c4967131da4
   - id: 1cf84fd8-dd5c-4e94-92e3-481995603c0c
-    hash: 88d82dab02fcb50cc4318848697a00526cee2503cee4eb7cef7098dfc7b75570
+    hash: 9d77fecb97121b636936ffd2ff39d3e3dd1a910d5244b083c0b898487958d671
   - id: 427de396-90de-4cf4-a03c-8fa9324bb257
     hash: d8f63ccfc07eb01bed01ec6ca58ca3496128546a57be3d85072d9696f2e6de3d
   - id: 6dbaba33-7a01-4b03-b95a-d8217d388154
     hash: 444d8ce59ca845bb10efae793d749926e75a043f71c0e2d97ff366f0684145ae
   - id: 4852d4de-e51b-40fb-b73d-754ebbae6031
-    hash: 2ee76733a4464d7b69609f2702708147f463bde818168a90db917535021e126e
+    hash: d225067ae00160ad617fe661acd0ea7a106ac30412d4649045b9037b9e861b5a
   - id: 6a64353e-5208-4583-8245-d66f20fdf388
     hash: 1e079df73565af11d62223a4cf935392f2d27b49895cc206048ae3be2b12313c
   - id: cb06e7d3-eb95-4352-bbde-0be3860fd22b
@@ -111,13 +188,14 @@ built_from:
   - id: aa5641f2-751a-47e1-bdef-1eeed7871305
     hash: fbfa5c8e27e2f6e5b4b715efdd421ad0b297bc7f4e030c6f1dd590bb468b6371
   - id: 0762d8da-2ccd-4660-b4aa-f599ff6d2d57
-    hash: cd36ae0105adecf98a89499a527499d076b419237258b960e849879d237e6a5d
+    hash: 1757d07245c48511ca955c9af00e2b70ba5364e1507e9f07476e933e15af5d09
   - id: 7d2513d1-453e-4fb1-a167-f5f21da16c89
     hash: daa370f3dd54d0b4db5bf60e0d42ea75275235151e04cb356cca1b2bcb659f28
 references:
-- text: Davis began working for Robert Bigelow's National Institute for Discovery
-    Science in July 1996 after reading an advertisement in a physics magazine
-  source: In Plain Sight (2021)
+- text: Eric Davis started working for Robert Bigelow's National Institute for Discovery
+    Science in July 1996, having read an ad while on secondment from the University
+    of Maryland at a US Air Force fighter wing in South Korea.
+  source: In Plain Sight
   location: Chapter 10, paragraph 10
   quote: In 1996, Dr Eric Davis was on secondment from the University of Maryland,
     at a US Air Force fighter wing in South Korea, when he read an intriguing ad in
@@ -126,101 +204,372 @@ references:
     Davis started working for Bob Bigelow's National Institute for Discovery Science
     in July 1996.
   claim_id: 6b03ff99-e4af-4132-8cee-37736e532ba9
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6b03ff99-e4af-4132-8cee-37736e532ba9
-- text: Davis observed a craft with amber light descend below tree level at Skinwalker
-    Ranch in September 1996
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b03ff99-e4af-4132-8cee-37736e532ba9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6b03ff99-e4af-4132-8cee-37736e532ba9
+- text: Eric Davis reported seeing a craft descend through the kitchen window at Skinwalker
+    Ranch in September 1996, its amber light dropping below tree level and remaining
+    at ground level for half an hour.
+  source: In Plain Sight
   location: Chapter 10, paragraph 11
   quote: '''On the second trip there in September I saw a craft out through the kitchen
     window,'' he said. ''And it descended, and it was still illuminated in front of
     the background mountain range, which was probably another 30 miles west.'''
   claim_id: 187f9690-d7b2-4d92-b607-89c5b06f3ecc
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-187f9690-d7b2-4d92-b607-89c5b06f3ecc
-- text: Davis and Colm Kelleher observed a craft execute a sharp high-speed 90-degree
-    turn above them at Skinwalker Ranch in November 1996
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-187f9690-d7b2-4d92-b607-89c5b06f3ecc
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-187f9690-d7b2-4d92-b607-89c5b06f3ecc
+- text: In November 1996, Eric Davis and Colm Kelleher observed a similarly lit craft
+    hurtle out from above a nearby bluff and execute a sharp high-speed 90-degree
+    turn directly above them.
+  source: In Plain Sight
   location: Chapter 10, paragraph 11
   quote: Later that year, in November, he was sitting with fellow scientist Colm Kelleher
     on the ranch-house's back porch and a similarly lit craft hurtled out from above
     a nearby bluff and executed a sharp high-speed 90-degree turn right above them.
   claim_id: ccd001b2-8401-4148-b6ca-f078d68284be
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-ccd001b2-8401-4148-b6ca-f078d68284be
-- text: Davis, Kelleher, and the ranch manager observed a large creature jump from
-    a tree and walk off without leaving footprints after being shot at point-blank
-    range
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ccd001b2-8401-4148-b6ca-f078d68284be
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ccd001b2-8401-4148-b6ca-f078d68284be
+- text: Eric Davis, Colm Kelleher and the ranch manager observed a large creature
+    jump down from a tree; the manager fired multiple shots at point-blank range but
+    it did not flinch and walked off leaving no footprints.
+  source: In Plain Sight
   location: Chapter 10, paragraph 13
   quote: they all saw a huge creature suddenly jump down just in front of them; it
     was far larger than any wildcat, the size of a bear or a cow. Terry fired multiple
     shots into it with his rifle at point-blank range but Davis recalls, 'It didn't
     flinch. And it just walked off into the shrubs and disappeared.'
   claim_id: 7a4cf22f-2db2-4dd7-8593-d91d731e18bb
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-7a4cf22f-2db2-4dd7-8593-d91d731e18bb
-- text: Davis worked with Puthoff as a contractor for the AAWSAP/AATIP programme
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a4cf22f-2db2-4dd7-8593-d91d731e18bb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7a4cf22f-2db2-4dd7-8593-d91d731e18bb
+- text: Rich told Eric Davis to go to the EG&G Special Projects building at Grier
+    and Paradise, and to meet at 10 A.M.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:83-184
+  quote: Rich says to go to EG&G Special Projects building at Grier and Paradise.
+    "Meet at 10 A.M. - don't be late!!"
+  claim_id: f3879c62-5746-4a84-a111-e95604f8393d
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f3879c62-5746-4a84-a111-e95604f8393d
+- text: Admiral Thomas Wilson arrived ten minutes late, accompanied by two Navy officers
+    in uniform, while wearing civilian clothing himself.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:193-341
+  quote: '10:10 (Adm. late)
+
+    Arrives with two Navy officers in uniform - he''s in suit - now civilian
+
+    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
+  claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+- text: Eric Davis and Admiral Thomas Wilson sat and talked in Wilson's car behind
+    the EG&G building until 11:20 A.M. while others attended a meeting inside.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:374-502
+  quote: We sit in his car in back of EG&G building. Talk until 11:20 A.M. Others
+    departed for building, to attend meeting inside (at 10:10).
+  claim_id: 360f5b6b-fece-4d09-be3e-b887c0c03451
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
+- text: Thomas Wilson said that upon seeing Davis's resume, US Uniformed Services
+    ID copy, Air Force orders and physics paper, provided by Rich, he figured out
+    who Davis was.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:512-705
+  quote: 'TW: Hello! The minute I saw your (EWD) resume, US Uniformed Services ID
+    copy, AF orders and physics paper Rich gave, I knew who you were. Put two and
+    two together, figured you out! Figured who you were!!'
+  claim_id: 656b7358-b21e-4828-8d49-702f76ad4c38
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-656b7358-b21e-4828-8d49-702f76ad4c38
+- text: Oke Shannon told Thomas Wilson that Eric Davis was a team player who would
+    keep his mouth shut, had no media connections and had excellent professional and
+    personal references.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:2766-2966
+  quote: Oke said I (EWD) was team player, would keep mouth shut, no media connections
+    - obey all restrictions - not in government/no clearances, but pedigree excellent
+    - professional/personal references very excellent.
+  claim_id: 529f68de-d459-4070-b2aa-47cf5d0bbacc
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-529f68de-d459-4070-b2aa-47cf5d0bbacc
+- text: Thomas Wilson's background check on Davis came back clear, with no derogatory
+    items found, a good Korean record, and Air Force trust.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:10670-10756
+  quote: '- Background check clear - no derogatory items found
+
+    - Korean record good and AF trusts you'
+  claim_id: 7a8c0733-8517-44f0-82eb-8aec31c24554
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7a8c0733-8517-44f0-82eb-8aec31c24554
+- text: Thomas Wilson said that if Davis violated his trust he would deny the meeting
+    and deny everything said, calling the subject matter absurdly closely held, unlike
+    anything in the black programmes community.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:10812-11142
+  quote: If you blow my trust I'll deny meeting you, deny everything said, won't meet
+    with any more people (without clearances) to talk about this topic - too risky
+    because of security violation just by mentioning it - very tightly held info -
+    absurdly closely held subject matter - never seen anything like this program in
+    black programs community
+  claim_id: 6256c21a-1f98-49e6-9e5d-db7468b48731
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6256c21a-1f98-49e6-9e5d-db7468b48731
+- text: Ross Coulthart wrote that Eric Davis's notes of his meeting with Admiral Wilson
+    are dated 16 October 2002 and are held in the Edgar Mitchell Archive.
+  source: In Plain Sight
+  location: Chapter 21, endnote 3
+  quote: Eric Davis Notes, 'EWD Notes – Eric Davis Meeting with Adm Wilson', 16 October
+    2002, p. 6. Edgar Mitchell Archive.
+  claim_id: 7f8c50e7-6097-44be-bebe-69b7d5b58ce2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7f8c50e7-6097-44be-bebe-69b7d5b58ce2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7f8c50e7-6097-44be-bebe-69b7d5b58ce2
+- text: The document known as 'The Admiral Wilson Memo' or 'EWD Notes' purports to
+    detail what DIA Admiral Tom Wilson admitted to Eric Davis in a private meeting
+    in Las Vegas in October 2002.
+  source: In Plain Sight
+  location: Chapter 21, paragraph 1
+  quote: It is this document – purporting to detail what Defense Intelligence Agency
+    Admiral Tom Wilson admitted to Eric Davis in a private meeting in Las Vegas in
+    2002 – that many believers claim proves a supposed government UAP cover-up.
+  claim_id: 2270b3a1-9d21-4f37-ae25-7cd17382fb0f
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2270b3a1-9d21-4f37-ae25-7cd17382fb0f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2270b3a1-9d21-4f37-ae25-7cd17382fb0f
+- text: The Wilson Davis Memo claims that on 16 October 2002 Eric Davis met recently
+    retired DIA Director Vice Admiral Thomas Wilson in a parked car in a Las Vegas
+    office building car park.
+  source: In Plain Sight
+  location: Chapter 21, paragraph 5
+  quote: In his memo, Davis claims to have met the recently retired Director of the
+    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
+    in a car parked in the carpark of a corporate office building in Las Vegas.
+  claim_id: f83867aa-20a1-450b-9001-18f7b7f76172
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f83867aa-20a1-450b-9001-18f7b7f76172
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f83867aa-20a1-450b-9001-18f7b7f76172
+- text: In June 2020, Admiral Tom Wilson issued a strong denial that any meeting with
+    Eric Davis ever happened.
+  source: In Plain Sight
+  location: Chapter 21, paragraph 2
+  quote: as rumours of an imminent New York Times story mounted in June 2020, Wilson
+    finally issued a strong denial that any such meeting with Davis ever happened.
+  claim_id: 0025c266-e254-4665-9244-642db6bf6aeb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0025c266-e254-4665-9244-642db6bf6aeb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0025c266-e254-4665-9244-642db6bf6aeb
+- text: Tom Wilson told Ross Coulthart in a June 2020 letter that the Davis memo's
+    account of efforts to get access to Special Access Programs was fiction and that
+    he participated in no such meetings.
+  source: In Plain Sight
+  location: Chapter 21, paragraph 7
+  quote: '''The Dr Eric Davis memo contains somewhat detailed accounts of alleged
+    efforts by me to get access to Special Access Programs . . . and of meetings I
+    supposedly had with various contractors or Special Access Program managers/overseers.
+    I participated in no such meetings on these subjects. I never formally or informally
+    requested any such access, was never denied such access and was never threatened
+    to have my career "derailed" if I persisted,'''
+  claim_id: fce809d5-7de8-4121-8a7a-54a65a20142d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fce809d5-7de8-4121-8a7a-54a65a20142d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fce809d5-7de8-4121-8a7a-54a65a20142d
+- text: The Spaceman told Ross Coulthart he believes the Wilson Davis document was
+    sent to Mitchell as early as late 2002 or early 2003, probably by Harold Puthoff,
+    Eric Davis's boss at the time.
+  source: In Plain Sight
+  location: Chapter 21, paragraph 3
+  quote: The Spaceman, the keeper of Edgar Mitchell's archived files, told me he believes
+    the controversial document was sent to Mitchell as early as late 2002 or in the
+    first few months of 2003, probably by the recipient of the memorandum, Dr Hal
+    Puthoff, who was Dr Eric Davis's boss at the time.
+  claim_id: 4bc24cab-1494-4e0d-9870-d6bf09982d2e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bc24cab-1494-4e0d-9870-d6bf09982d2e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4bc24cab-1494-4e0d-9870-d6bf09982d2e
+- text: Cranium, an anonymous ufology researcher, told Ross Coulthart that neither
+    Hal Puthoff nor Eric Davis have denied the memorandum's authenticity despite being
+    given multiple opportunities to do so.
+  source: In Plain Sight
+  location: paragraph 17
+  quote: '''These individuals have been given multiple opportunities to deny this
+    document, and none of them have'''
+  claim_id: 7fa5220e-05d4-453c-b087-44153abec6d1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7fa5220e-05d4-453c-b087-44153abec6d1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7fa5220e-05d4-453c-b087-44153abec6d1
+- text: Hal Puthoff, asked about the Admiral Wilson memo at an Arlington Institute
+    address in February 2020, said Wilson was one of the joint chiefs of staff interviewed
+    by his senior scientist colleague Eric Davis.
+  source: In Plain Sight
+  location: paragraph 2
+  quote: '''And Wilson was one of the joint chiefs of staff interviewed by my senior
+    scientist colleague Eric Davis. Since it discusses potentially ongoing programs,
+    I have no comment.'''
+  claim_id: 80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
+- text: Eric Davis told journalist Steven Greenstreet that the Wilson Davis memo notes
+    'were leaked out of Ed Mitchell's estate'.
+  source: In Plain Sight
+  location: paragraph 1
+  quote: the notes 'were leaked out of Ed Mitchell's estate and there's nothing I
+    can say about it'
+  claim_id: ac893fee-3fa2-4b37-9998-539807a6172c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac893fee-3fa2-4b37-9998-539807a6172c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ac893fee-3fa2-4b37-9998-539807a6172c
+- text: Eric Davis described the Wilson Davis memo notes as 'purportedly classified
+    information' and said he was not at liberty to confirm or verify any aspect of
+    them.
+  source: In Plain Sight
+  location: paragraph 1
+  quote: '''purportedly classified information. I''m not at liberty to confirm or
+    verify any aspect of those notes and when you have security clearances that''s
+    something you don''t want to violate'''
+  claim_id: 50bc5f17-82b2-45c0-a079-312ada08e94b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-50bc5f17-82b2-45c0-a079-312ada08e94b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-50bc5f17-82b2-45c0-a079-312ada08e94b
+- text: Eric Davis worked with and supported the Advanced Aerospace Weapon System
+    Applications Program (AAWSAP) and the Advanced Aerospace Threat Identification
+    Program (AATIP).
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Acknowledgments, paragraph 6
+  quote: everyone else who worked with and supported AAWSAP/AATIP, especially Dr.
+    Hal Puthoff, Dr. Eric Davis
+  claim_id: dadd0b76-8264-42e9-9138-a5878de58415
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dadd0b76-8264-42e9-9138-a5878de58415
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dadd0b76-8264-42e9-9138-a5878de58415
+- text: Eric Davis worked with Harold Puthoff as a contractor for the AAWSAP/AATIP
+    program.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 4, paragraph 12
   quote: it wasn't until much later that I met Eric Davis, an astrophysicist with
     high-level national security clearances who also worked with Hal as a contractor
     for the program
   claim_id: 1cc78b2a-ecf5-493e-8f46-d0db561b7298
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-1cc78b2a-ecf5-493e-8f46-d0db561b7298
-- text: Davis consulted with aerospace and defence contractors including EarthTech
-    International, founded by Harold Puthoff
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1cc78b2a-ecf5-493e-8f46-d0db561b7298
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1cc78b2a-ecf5-493e-8f46-d0db561b7298
+- text: The only contractors who remained involved with Luis Elizondo and Jay Stratton
+    in AATIP after relocation were Harold Puthoff, William Livingston, and Eric Davis.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 8, paragraph 35
+  quote: The only contractors who would remain involved with Jay and me were Hal,
+    Will Livingston, and Eric Davis.
+  claim_id: 048b5c55-a0fd-4417-8940-df0e88a94335
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-048b5c55-a0fd-4417-8940-df0e88a94335
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-048b5c55-a0fd-4417-8940-df0e88a94335
+- text: Eric Davis is identified as a former member of AATIP and a current employee
+    of the Aerospace Corporation.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Appendix, Statements section
+  quote: Eric Davis, former member of AATIP, current employee of the Aerospace Corporation
+  claim_id: a375ce9d-f347-4914-9b8c-d0d0174bc326
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a375ce9d-f347-4914-9b8c-d0d0174bc326
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a375ce9d-f347-4914-9b8c-d0d0174bc326
+- text: Eric Davis was hired by the Aerospace Corporation in December 2019.
+  source: In Plain Sight
+  location: paragraph 11
+  quote: He was then was hired in December 2019 by the federally funded Aerospace
+    Corporation.
+  claim_id: 47d88309-c139-4be6-b5f3-6f22181bc27c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47d88309-c139-4be6-b5f3-6f22181bc27c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-47d88309-c139-4be6-b5f3-6f22181bc27c
+- text: Eric Davis consulted with a number of aerospace and defense contractors including
+    EarthTech International, the company founded by Harold Puthoff.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 4, paragraph 12
   quote: Eric has long consulted with a number of aerospace and defense contractors,
     including the one founded by Hal, EarthTech.
   claim_id: 19c44c0a-a8e7-4ef4-942f-d7448f7c6c55
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-19c44c0a-a8e7-4ef4-942f-d7448f7c6c55
-- text: Puthoff and Davis built a gravity detection device sensitive enough to detect
-    the gravity field of an automobile in an adjacent car park
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-19c44c0a-a8e7-4ef4-942f-d7448f7c6c55
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-19c44c0a-a8e7-4ef4-942f-d7448f7c6c55
+- text: Luis Elizondo was photographed with Harold Puthoff and Eric Davis at EarthTech
+    International headquarters.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Photo Section, caption 14
+  quote: With two of the world's premier scientists, Hal Puthoff (left) and Eric Davis
+    (right), at EarthTech Headquarters.
+  claim_id: 7d2513d1-453e-4fb1-a167-f5f21da16c89
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d2513d1-453e-4fb1-a167-f5f21da16c89
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d2513d1-453e-4fb1-a167-f5f21da16c89
+- text: Harold Puthoff and Eric Davis had built a gravity detection device so sensitive
+    it could detect the gravity field of an automobile sitting in an adjacent parking
+    lot.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 14, paragraph 2
   quote: he showed me a gravity device he and Eric Davis had built that was so sensitive
     it would detect the gravity field of an automobile sitting in an adjacent parking
     lot.
   claim_id: d906da0c-b8a8-4a05-a77c-868e66fee610
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d906da0c-b8a8-4a05-a77c-868e66fee610
-- text: The only contractors remaining with Elizondo and Stratton in AATIP after relocation
-    were Puthoff, Livingston, and Davis
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
-  location: Chapter 8, paragraph 35
-  quote: The only contractors who would remain involved with Jay and me were Hal,
-    Will Livingston, and Eric Davis.
-  claim_id: 048b5c55-a0fd-4417-8940-df0e88a94335
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-048b5c55-a0fd-4417-8940-df0e88a94335
-- text: Davis was interviewed by George Knapp on Coast to Coast AM on 24 June 2018
-    about Skinwalker Ranch and UAP crash retrieval matters
-  source: In Plain Sight (2021)
-  location: Chapter 12, endnote 9
-  quote: George Knapp, Eric Davis interview Coast to Coast AM, 24 June 2018.
-  claim_id: 0efb34e9-220c-47c1-968d-3fefc9c5e382
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-0efb34e9-220c-47c1-968d-3fefc9c5e382
-- text: Davis told Knapp the BAASS/AATIP investigation concluded the UAPs were real
-    vehicles under intelligent control and an advanced technology not made on Earth
-    by humans
-  source: In Plain Sight (2021)
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d906da0c-b8a8-4a05-a77c-868e66fee610
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d906da0c-b8a8-4a05-a77c-868e66fee610
+- text: Eric Davis admitted in a radio interview that the BAASS team was responsible
+    for the covert investigation into the 2004 Tic Tac USS Nimitz incident and concluded
+    the objects were 'real vehicles', 'under intelligent control' and 'an advanced
+    technology' not made on Earth by humans.
+  source: In Plain Sight
   location: Chapter 12, paragraph 11
   quote: '''the take on it is that it''s a legitimate UFO . . . this is not a technology
     that is made on Earth by humans, anywhere. . . . we came to the conclusion that
     these are legitimate unidentified objects. They are anomalous. They are real vehicles.
     They are under intelligent control and they are an advanced technology.'''
   claim_id: 885d1c7a-0af5-4a8a-9a3d-5860114df88b
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-885d1c7a-0af5-4a8a-9a3d-5860114df88b
-- text: Davis told Knapp the US government has crash retrievals of non-human craft
-    and that laboratory technologies were not advanced enough to understand what they
-    had
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-885d1c7a-0af5-4a8a-9a3d-5860114df88b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-885d1c7a-0af5-4a8a-9a3d-5860114df88b
+- text: Eric Davis told George Knapp that the BAASS/AATIP investigation found the
+    UAPs were interfering with military deployments in the ocean and with air force
+    deployments in the atmosphere.
+  source: In Plain Sight
+  location: Chapter 12, paragraph 11
+  quote: '''And we got to do something about them because they are interfering with
+    military deployments in the ocean and they have interfered with air force deployments
+    in the atmosphere wherever the air force is flying their planes,'' he said.'
+  claim_id: fc35f7ef-7dd8-4436-a8ba-d3fbc1ce99f4
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc35f7ef-7dd8-4436-a8ba-d3fbc1ce99f4
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fc35f7ef-7dd8-4436-a8ba-d3fbc1ce99f4
+- text: Eric Davis was interviewed by George Knapp on Coast to Coast AM on 24 June
+    2018 about Skinwalker Ranch and UAP crash retrieval matters.
+  source: In Plain Sight
+  location: Chapter 12, endnote 9
+  quote: George Knapp, Eric Davis interview Coast to Coast AM, 24 June 2018.
+  claim_id: 0efb34e9-220c-47c1-968d-3fefc9c5e382
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0efb34e9-220c-47c1-968d-3fefc9c5e382
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0efb34e9-220c-47c1-968d-3fefc9c5e382
+- text: Eric Davis stated in a 2018 radio interview with George Knapp that the threat
+    designation in AATIP referred to the phenomenon having interfered with military
+    operations and being officially branded a threat.
+  source: In Plain Sight
+  location: Chapter 12, paragraph 9
+  quote: In a 2018 radio interview with George Knapp on Coast to Coast AM, Davis said,
+    'The Threat in AATIP refers to the fact that the UFO phenomenon has interfered
+    with operations. The phenomenon was officially branded a threat, and the threat
+    had to be studied.'
+  claim_id: 1abd68c2-9a6b-4f6b-867f-02d4b3cd03ec
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1abd68c2-9a6b-4f6b-867f-02d4b3cd03ec
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1abd68c2-9a6b-4f6b-867f-02d4b3cd03ec
+- text: Eric Davis told George Knapp that the US government has crash retrievals of
+    non-human craft and that laboratory diagnostic technologies and material sciences
+    were not advanced enough to understand what they had.
+  source: In Plain Sight
   location: Chapter 12, paragraph 12
   quote: '''We have crash retrievals,'' he went on to repeat, ''and they have been
     analysed and unfortunately our laboratory diagnostic technologies and our material
@@ -228,200 +577,130 @@ references:
     to be able to make heads or tails of what it is, of what they had their hands
     on.'''
   claim_id: 632a2c31-d7bb-431a-8513-dda5dac40e2e
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-632a2c31-d7bb-431a-8513-dda5dac40e2e
-- text: Davis stated in a 2018 radio interview that the threat designation in AATIP
-    referred to UAP interference with military operations
-  source: In Plain Sight (2021)
-  location: Chapter 12, paragraph 9
-  quote: In a 2018 radio interview with George Knapp on Coast to Coast AM, Davis said,
-    'The Threat in AATIP refers to the fact that the UFO phenomenon has interfered
-    with operations. The phenomenon was officially branded a threat, and the threat
-    had to be studied.'
-  claim_id: 1abd68c2-9a6b-4f6b-867f-02d4b3cd03ec
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1abd68c2-9a6b-4f6b-867f-02d4b3cd03ec
-- text: In July 2020, Davis told The New York Times that the US held recovered physical
-    UAP samples that examination had failed to identify
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-632a2c31-d7bb-431a-8513-dda5dac40e2e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-632a2c31-d7bb-431a-8513-dda5dac40e2e
+- text: In July 2020, Eric Davis told The New York Times that the US held recovered
+    physical UAP samples, that examination had failed to determine their source, and
+    that 'We couldn't make it ourselves.'
+  source: In Plain Sight
   location: paragraph 12
   quote: He then surfaced in July 2020 in an interview with The New York Times ...
     where he admitted that the US held recovered physical UAP samples. He said examination
     of the materials had so far failed to determine their source and led him to conclude,
     'We couldn't make it ourselves.'
   claim_id: 807968fe-5dbe-452f-86bb-834c20980a22
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-807968fe-5dbe-452f-86bb-834c20980a22
-- text: Davis told The New York Times he gave a classified briefing in March 2020
-    to a Defense Department agency about retrievals from off-world vehicles not made
-    on this earth
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-807968fe-5dbe-452f-86bb-834c20980a22
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-807968fe-5dbe-452f-86bb-834c20980a22
+- text: Eric Davis told The New York Times that in March 2020 he gave a classified
+    briefing to a Defense Department agency about retrievals from 'off-world vehicles
+    not made on this earth'.
+  source: In Plain Sight
   location: paragraph 12
   quote: He also told the Times that he had given a classified briefing to a Defence
     Department agency three months earlier in March 2020 about retrievals from 'off-world
     vehicles not made on this earth'.
   claim_id: 6dda4c24-ef83-4416-a880-faa1a8c1b62e
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6dda4c24-ef83-4416-a880-faa1a8c1b62e
-- text: Davis briefed Department of Defense agencies and Senate committee staff regarding
-    UAP and the Legacy Program
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dda4c24-ef83-4416-a880-faa1a8c1b62e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6dda4c24-ef83-4416-a880-faa1a8c1b62e
+- text: Eric Davis briefed Department of Defense agencies and staff members from both
+    the Senate Armed Services Committee and the Senate Select Committee on Intelligence
+    regarding UAP and the Legacy Program.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 4, paragraph 19
   quote: he went on to brief DoD agencies and staff members from both the Senate Armed
     Services Committee and the Senate Select Committee on Intelligence on this very
     topic as well.
   claim_id: cb06e7d3-eb95-4352-bbde-0be3860fd22b
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-cb06e7d3-eb95-4352-bbde-0be3860fd22b
-- text: Davis told Congress in private briefings that whatever propels the Tic Tac,
-    Go Fast and Gimbal UAPs is off-world technology not made on this earth
-  source: In Plain Sight (2021)
-  location: paragraph 21
-  quote: Dr Davis leaves no room for doubt when he says whatever is propelling the
-    Tic Tac, Go Fast and Gimbal UAPs is 'off-world vehicles not made on this earth'
-    and that is what he has told the Congress in private briefings.
-  claim_id: 47228a73-dd52-4334-88ca-08a7cd748946
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-47228a73-dd52-4334-88ca-08a7cd748946
-- text: The Wilson/Davis Memo purports to detail what DIA Admiral Tom Wilson admitted
-    to Davis in a private Las Vegas meeting in October 2002
-  source: In Plain Sight (2021)
-  location: Chapter 21, paragraph 1
-  quote: It is this document – purporting to detail what Defense Intelligence Agency
-    Admiral Tom Wilson admitted to Eric Davis in a private meeting in Las Vegas in
-    2002 – that many believers claim proves a supposed government UAP cover-up.
-  claim_id: 2270b3a1-9d21-4f37-ae25-7cd17382fb0f
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-2270b3a1-9d21-4f37-ae25-7cd17382fb0f
-- text: Davis's notes of his meeting with Admiral Wilson are dated 16 October 2002
-    and are held in the Edgar Mitchell Archive
-  source: In Plain Sight (2021)
-  location: Chapter 21, endnote 3
-  quote: Eric Davis Notes, 'EWD Notes – Eric Davis Meeting with Adm Wilson', 16 October
-    2002, p. 6. Edgar Mitchell Archive.
-  claim_id: 7f8c50e7-6097-44be-bebe-69b7d5b58ce2
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-7f8c50e7-6097-44be-bebe-69b7d5b58ce2
-- text: The memo claims Davis met Wilson in a parked car in a Las Vegas office building
-    car park on 16 October 2002
-  source: In Plain Sight (2021)
-  location: Chapter 21, paragraph 5
-  quote: In his memo, Davis claims to have met the recently retired Director of the
-    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
-    in a car parked in the carpark of a corporate office building in Las Vegas.
-  claim_id: f83867aa-20a1-450b-9001-18f7b7f76172
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f83867aa-20a1-450b-9001-18f7b7f76172
-- text: Puthoff stated that Wilson was among the Joint Chiefs of Staff interviewed
-    by his senior scientist colleague Eric Davis
-  source: In Plain Sight (2021)
-  location: paragraph 2
-  quote: '''And Wilson was one of the joint chiefs of staff interviewed by my senior
-    scientist colleague Eric Davis. Since it discusses potentially ongoing programs,
-    I have no comment.'''
-  claim_id: 80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-80b413c1-1878-4cc7-b97d-30ef3d5aa2b5
-- text: Davis is widely known in UAP circles as the alleged author of the Wilson/Davis
-    Memo
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
-  location: Chapter 4, paragraph 13
-  quote: In recent years he has become best known in UAP circles as the alleged author
-    of the legendary Wilson/Davis memo.
-  claim_id: d977760d-099d-46a0-a806-b868e6a23e36
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d977760d-099d-46a0-a806-b868e6a23e36
-- text: In June 2020, Admiral Tom Wilson issued a strong denial that any meeting with
-    Eric Davis ever took place
-  source: In Plain Sight (2021)
-  location: Chapter 21, paragraph 2
-  quote: as rumours of an imminent New York Times story mounted in June 2020, Wilson
-    finally issued a strong denial that any such meeting with Davis ever happened.
-  claim_id: 0025c266-e254-4665-9244-642db6bf6aeb
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-0025c266-e254-4665-9244-642db6bf6aeb
-- text: Wilson stated the conversations in the document about Special Access Programs
-    related to UFOs are pure fiction
-  source: In Plain Sight (2021)
-  location: paragraph 3
-  quote: '''The entire memo attributed to Dr Davis, including his characterization
-    of my attitude, emotions and sentiments about other individuals is pure fiction.'''
-  claim_id: 6070d9aa-ab54-45af-8eb9-b462c332ebe7
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6070d9aa-ab54-45af-8eb9-b462c332ebe7
-- text: Davis told journalist Steven Greenstreet that the Wilson/Davis memo notes
-    were leaked from Ed Mitchell's estate
-  source: In Plain Sight (2021)
-  location: paragraph 1
-  quote: the notes 'were leaked out of Ed Mitchell's estate and there's nothing I
-    can say about it'
-  claim_id: ac893fee-3fa2-4b37-9998-539807a6172c
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-ac893fee-3fa2-4b37-9998-539807a6172c
-- text: Davis described the memo notes as purportedly classified information and said
-    he was not at liberty to confirm or verify any aspect of them
-  source: In Plain Sight (2021)
-  location: paragraph 1
-  quote: '''purportedly classified information. I''m not at liberty to confirm or
-    verify any aspect of those notes and when you have security clearances that''s
-    something you don''t want to violate'''
-  claim_id: 50bc5f17-82b2-45c0-a079-312ada08e94b
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-50bc5f17-82b2-45c0-a079-312ada08e94b
-- text: Neither Puthoff nor Davis denied the memorandum's authenticity despite being
-    given multiple opportunities to do so
-  source: In Plain Sight (2021)
-  location: paragraph 17
-  quote: '''These individuals have been given multiple opportunities to deny this
-    document, and none of them have'''
-  claim_id: 7fa5220e-05d4-453c-b087-44153abec6d1
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-7fa5220e-05d4-453c-b087-44153abec6d1
-- text: Davis responded to James Iandoli endorsing Luis Elizondo's claim about recovered
-    UAP technology hardware as 1,000% accurate
-  source: In Plain Sight (2021)
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb06e7d3-eb95-4352-bbde-0be3860fd22b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb06e7d3-eb95-4352-bbde-0be3860fd22b
+- text: Eric Davis responded to James Iandoli that Luis Elizondo's answer to Tucker
+    Carlson about whether the US government holds recovered, crashed and landed UFO
+    technology hardware was '1,000% accurate', and that his national security NDAs
+    prevented further comment.
+  source: In Plain Sight
   location: paragraph 10
   quote: '''Luis Elizondo''s very brief answer to Tucker Carlson''s question about
     whether the US government is in possession of recovered, crashed and landed UFO
     technology hardware is 1,000% accurate. My national security NDAs prevent me from
     adding any further comment on this.'''
   claim_id: 0be34d6e-83f6-44eb-b376-9e443b45f523
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-0be34d6e-83f6-44eb-b376-9e443b45f523
-- text: Davis was hired by the Aerospace Corporation in December 2019
-  source: In Plain Sight (2021)
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0be34d6e-83f6-44eb-b376-9e443b45f523
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0be34d6e-83f6-44eb-b376-9e443b45f523
+- text: James Iandoli, via his Twitter account 'Engaging The Phenomenon', asked Eric
+    Davis about Elizondo's claim of recovered extra-terrestrial debris.
+  source: In Plain Sight
+  location: paragraph 10
+  quote: there was no media, apart from researcher James Iandoli's Twitter feed, Engaging
+    The Phenomenon. Iandoli asked former Bigelow National Institute of Discovery Science
+    (NIDS) scientist Dr Eric Davis his views about Elizondo's claim of recovered extra-terrestrial
+    debris.
+  claim_id: de7cccee-b195-40ee-acad-49edd55a1514
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de7cccee-b195-40ee-acad-49edd55a1514
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-de7cccee-b195-40ee-acad-49edd55a1514
+- text: James Iandoli told Ross Coulthart that Eric Davis deliberately edited his
+    email response to emphasise that the US government has something more than samples
+    or pieces, adding the word 'landed' to his initial statement.
+  source: In Plain Sight
   location: paragraph 11
-  quote: He was then was hired in December 2019 by the federally funded Aerospace
-    Corporation.
-  claim_id: 47d88309-c139-4be6-b5f3-6f22181bc27c
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-47d88309-c139-4be6-b5f3-6f22181bc27c
-- text: A paper by Davis found in Edgar Mitchell's archive described UAP mimicry techniques
-    including entering the atmosphere with the look or trajectory of a meteor
-  source: In Plain Sight (2021)
-  location: Chapter 20, paragraph 14
-  quote: how UAPs used mimicry techniques to hide their form, 'entering the atmosphere
-    with either the look or trajectory of a meteor or hidden within a meteor shower,
-    behaving like dark meteors without the associated optical signature, hiding within
-    an artificial or natural cloud, behaving as pseudo-stars sitting stationary over
-    certain regions, or mimicking man-made aircrafts' aggregate features'
-  claim_id: 056b6040-f2db-41df-98ec-7f5e7caefc82
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-056b6040-f2db-41df-98ec-7f5e7caefc82
-ai_usage:
-- stage: assemble
-  model: claude-sonnet-4-6
+  quote: '''Dr Davis actually corrected the statement to portray what he felt was
+    more accurate by including "landed" which was not in his initial statement,''
+    Iandoli said.'
+  claim_id: d7eccb8d-0107-4ea7-8f8c-18af0724ae75
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7eccb8d-0107-4ea7-8f8c-18af0724ae75
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d7eccb8d-0107-4ea7-8f8c-18af0724ae75
+- text: Luis Elizondo described Harold Puthoff and Eric Davis as being like 'supergenius
+    criminal profilers' whose theories were meaningless without the hard observational
+    evidence AATIP had collected.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 12, paragraph 52
+  quote: Hal and Eric were like supergenius criminal profilers. Their theories were
+    meaningless without the police evidence, but the police evidence was useless without
+    a motive.
+  claim_id: 954e0ebe-cfbc-42d7-8fd5-19c15d03cda8
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-954e0ebe-cfbc-42d7-8fd5-19c15d03cda8
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-954e0ebe-cfbc-42d7-8fd5-19c15d03cda8
+- text: Harold Puthoff and Eric Davis were described by Luis Elizondo as essential
+    to the understanding of how UAP operate.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Photo Section, caption 14
+  quote: They were essential to our understanding of how UAPs operate.
+  claim_id: 0762d8da-2ccd-4660-b4aa-f599ff6d2d57
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0762d8da-2ccd-4660-b4aa-f599ff6d2d57
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0762d8da-2ccd-4660-b4aa-f599ff6d2d57
+built_by:
+  model: claude-sonnet-5
+  model_version: claude-sonnet-5
+  transport: cli
+  prompt_sha256: dd78d0c9ab7e2b38f21ccf9fb84f50232f50619ff7c82f87df03ba3a64e7f359
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 87021
-    output: 10099
+    input: 57682
+    output: 7829
+    real_input: 2
+    cache_read: 0
+    cache_write: 57680
+    calls: 0
+  body_sha256: 5db9e9c2811764435c4eabae6dd84a160506c0ac13a5b687cb65a8577da052dd
 ---
 
-Eric Davis is an American physicist who began his career in UAP-related research in 1996 when he joined the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science), the organisation founded by entrepreneur Robert Bigelow.<sup>1</sup> He had previously been on secondment from the University of Maryland at a US Air Force fighter wing in South Korea when he encountered an advertisement in a physics magazine that led him to the role.<sup>1</sup> Davis subsequently became one of the field investigators assigned to the NIDS Skinwalker Ranch Investigation at Skinwalker Ranch in Utah, where he reported a series of anomalous observations. In September 1996, he observed a craft with amber light descend below tree level and remain at ground level for half an hour,<sup>2</sup> and in November 1996 he and [Colm Kelleher](/people/colm-kelleher) watched a similarly lit object hurtle out from above a nearby bluff and execute a sharp high-speed 90-degree turn directly above them.<sup>3</sup> Davis, Kelleher, and the ranch manager also reported observing a large creature jump from a tree and walk away after the ranch manager fired multiple shots into it at point-blank range without any apparent effect, and without the creature leaving footprints.<sup>4</sup>
+Eric Davis is an American astrophysicist and defence and aerospace contractor whose career has run through several of the secretive US programmes that have studied unidentified anomalous phenomena (UAP). According to journalist Ross Coulthart, Davis began working for Robert Bigelow's [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science) in July 1996, having answered an advertisement in a physics magazine while on secondment from the University of Maryland to a US Air Force fighter wing in South Korea.<sup>1</sup> During his time there he reported personal experiences at Skinwalker Ranch: Davis said that in September 1996 he saw a craft descend through a kitchen window, its amber light dropping below tree level and remaining on the ground for half an hour.<sup>2</sup> He said that in November 1996 he and [Colm Kelleher](/people/colm-kelleher) watched a similarly lit craft come out from above a nearby bluff and make a sharp high-speed 90-degree turn directly overhead.<sup>3</sup> He also said that he, Kelleher and the ranch manager watched a large creature jump down from a tree, which the manager shot at point-blank range without effect and which then walked off leaving no footprints.<sup>4</sup>
 
-Davis later worked as a contractor for both the Advanced Aerospace Weapon System Applications Program (AAWSAP) and the [Advanced Aerospace Threat Identification Program](/organisations/advanced-aerospace-threat-identification-program-aatip) (AATIP), operating alongside [Harold E. Puthoff](/people/harold-e-puthoff) at EarthTech International, the company Puthoff had founded.<sup>5, 6</sup> Together, Davis and Puthoff constructed a gravity detection device of sufficient sensitivity to detect the gravitational field of an automobile parked in an adjacent car park.<sup>7</sup> Following an organisational relocation, Davis was among only three contractors — alongside Puthoff and William Livingston — who remained involved with [Luis Elizondo](/people/luis-elizondo) and the AATIP programme.<sup>8</sup> [Luis Elizondo](/people/luis-elizondo) described Davis and Puthoff as having careers operating behind the scenes on the nation's most classified programmes.
+Davis is closely associated with the disputed document known as the Wilson Davis Memo, his own account of a meeting with retired DIA Director Vice Admiral [Thomas Wilson](/people/thomas-wilson). According to a source obtained by Coulthart, Rich directed Davis to the EG&G Special Projects building at Grier and Paradise for a 10 A.M. meeting.<sup>5</sup> Davis said Wilson arrived ten minutes late, accompanied by two Navy officers in uniform, while Wilson himself wore civilian clothing.<sup>6</sup> Davis said the two of them then sat and talked in Wilson's car behind the EG&G building until 11:20 A.M. while others attended a meeting inside.<sup>7</sup> Wilson said that on seeing Davis's résumé, US Uniformed Services ID copy, Air Force orders and physics paper, supplied by Rich, he had worked out who Davis was.<sup>8</sup> Wilson said that [Oke Shannon](/people/oke-shannon) had described Davis to him as a team player who would keep his mouth shut, had no media connections, and had excellent professional and personal references.<sup>9</sup> Wilson said his own background check on Davis came back clear, with no derogatory findings, a good record from Korea, and Air Force trust.<sup>10</sup> Wilson said that if Davis violated his trust he would deny the meeting and everything said in it, describing the subject matter as absurdly closely held, unlike anything else in the black programmes community.<sup>11</sup> Coulthart writes that Davis's notes of the meeting are dated 2002-10-16 and are held in the Edgar Mitchell Archive,<sup>12</sup> and that the memo purports to detail what Wilson admitted to Davis about efforts to gain access to Special Access Programs relating to UFOs.<sup>13</sup> Coulthart's source material states that the meeting took place in a parked car in a Las Vegas office building car park.<sup>14</sup>
 
-In 2018, Davis gave a series of public statements on UAP matters. On 2018-06-24 he was interviewed by [George Knapp](/people/george-knapp) on Coast to Coast AM,<sup>9</sup> during which he stated that the BAASS and AATIP investigation into the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) had concluded the objects were real vehicles under intelligent control and an advanced technology not made on Earth by humans.<sup>10</sup> In the same interview he stated that the US government holds crash retrievals of Non-Human Craft Recovery Programs and that existing laboratory diagnostic technologies and material sciences were not advanced enough to understand what had been recovered,<sup>11</sup> and that the threat designation within AATIP reflected documented interference by the [Unidentified Anomalous Phenomena](/topics/unidentified-anomalous-phenomena-uap) with military operations.<sup>12</sup> In July 2020, Davis told [The New York Times](/organisations/the-new-york-times) that the US held recovered physical UAP samples whose origin examination had failed to determine, saying "We couldn't make it ourselves."<sup>13</sup> He additionally told the newspaper that in March 2020 he had delivered a classified briefing to a [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) agency about retrievals from "off-world vehicles not made on this earth."<sup>14</sup> Davis also briefed staff from the [Australian Department of Defence](/organisations/australian-department-of-defence) and Senate committee members regarding UAP and what sources describe as a legacy programme,<sup>15</sup> and told Congress in private briefings that the propulsion of the Tic Tac, Go Fast, and Gimbal UAPs was consistent with off-world technology.<sup>16</sup>
+The memo's authenticity is disputed. Wilson issued a strong denial in June 2020 that any meeting with Davis had ever happened,<sup>15</sup> telling Coulthart in a letter that the memo's account of his efforts to obtain Special Access Program access was "pure fiction" and that he had participated in no such meetings.<sup>16</sup> An anonymous source referred to as "The Spaceman" told Coulthart he believed the document was sent to [Edgar Mitchell](/people/edgar-mitchell) as early as late 2002 or early 2003, probably by [Harold E. Puthoff](/people/harold-e-puthoff), Davis's boss at the time.<sup>17</sup> An anonymous researcher using the name "Cranium" told Coulthart that neither Puthoff nor Davis had denied the memorandum's authenticity despite multiple opportunities to do so.<sup>18</sup> Puthoff, asked about the memo at an Arlington Institute address in February 2020, said Wilson was one of the joint chiefs of staff interviewed by his colleague Davis.<sup>19</sup> Davis himself told journalist Steven Greenstreet that the notes "were leaked out of Ed Mitchell's estate,"<sup>20</sup> and described them as "purportedly classified information," saying he was not at liberty to confirm or verify any aspect of them.<sup>21</sup>
 
-Davis is widely known in UAP research circles as the alleged author of the document referred to as the Wilson Davis Memo, also known as the "EWD Notes".<sup>17</sup> The document purports to record a private meeting between Davis and Tom Wilson — at the time a recently retired Director of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) — held on 2002-10-16 in a parked car in a Las Vegas office building car park, during the Wilson Davis Las Vegas Meeting 2002.<sup>18, 19</sup> Davis's handwritten notes of the meeting, dated 2002-10-16, are held in the archive of astronaut [Edgar Mitchell](/people/edgar-mitchell).<sup>18</sup> [Harold E. Puthoff](/people/harold-e-puthoff), when asked about the document at an Arlington Institute address in February 2020, described [Thomas Wilson](/people/thomas-wilson) as "one of the joint chiefs of staff interviewed by my senior scientist colleague Eric Davis,"<sup>20</sup> and Davis is identified in UAP research literature as the document's primary author.<sup>21</sup> In a June 2020 letter, Admiral Tom Wilson issued a strong denial that any such meeting with Davis had taken place,<sup>22</sup> stating that the conversations attributed to him concerning Special Access Programs related to UFOs are "pure fiction."<sup>23</sup> Davis told journalist Steven Greenstreet that the notes "were leaked out of Ed Mitchell's estate"<sup>24</sup> and described them as "purportedly classified information," stating he was not at liberty to confirm or verify any aspect of the document.<sup>25</sup> Independent observers noted that neither Puthoff nor Davis had denied the memorandum's authenticity when given opportunities to do so.<sup>26</sup>
+Davis went on to work with the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip) and its predecessor, the Advanced Aerospace Weapon System Applications Program.<sup>22</sup> Former AATIP director [Luis Elizondo](/people/luis-elizondo) wrote that Davis worked with Puthoff as a contractor for the programme,<sup>23</sup> and that after the programme relocated, Puthoff, William Livingston and Davis were the only contractors who remained involved.<sup>24</sup> Davis was hired by the Aerospace Corporation in December 2019.<sup>25</sup> He also consulted for several aerospace and defence contractors including EarthTech International, the company Puthoff founded,<sup>26</sup> and Elizondo included a photograph of himself with Puthoff and Davis at EarthTech's headquarters.<sup>27</sup> Elizondo also wrote that Puthoff and Davis had built a gravity detection device sensitive enough to detect the gravity field of an automobile parked in an adjacent lot.<sup>28</sup>
 
-Davis also responded publicly to statements by [Luis Elizondo](/people/luis-elizondo) regarding recovered UAP technology. When James Iandoli asked Davis about Elizondo's claim that the US government possesses recovered crashed and landed UAP technology hardware, Davis endorsed the statement as "1,000% accurate," adding that his national security non-disclosure agreements prevented him from commenting further.<sup>27</sup> Davis was hired by the Aerospace Corporation in December 2019.<sup>28</sup> A paper by Davis found within [Edgar Mitchell](/people/edgar-mitchell)'s archive addressed UAP behaviour, describing mimicry techniques that Davis proposed the phenomenon employs, including entering the atmosphere with the appearance or trajectory of a meteor, behaving as pseudo-stars sitting stationary over certain regions, or mimicking the aggregate features of man-made aircraft.<sup>29</sup>
+In media appearances Davis has made a series of statements about official UAP investigations. He said in a radio interview that the covert investigation into the 2004 [USS Nimitz](/events/2004-uss-nimitz-uap-encounter) Tic Tac incident was conducted by the BAASS team and concluded the objects were "real vehicles," "under intelligent control" and "an advanced technology" not made on Earth by humans.<sup>29</sup> He told [George Knapp](/people/george-knapp) that the BAASS/AATIP investigation found the objects were interfering with naval and air force deployments.<sup>30</sup> Knapp interviewed Davis on Coast to Coast AM on 2018-06-24 about Skinwalker Ranch and UAP crash-retrieval matters,<sup>31</sup> during which Davis said the "threat" designation in AATIP's name referred to the phenomenon having interfered with military operations and being officially branded a threat.<sup>32</sup> He also told Knapp that the US government holds crash retrievals of non-human craft and that laboratory diagnostic and material sciences were not advanced enough to understand what had been recovered.<sup>33</sup> In July 2020, Davis told [The New York Times](/organisations/the-new-york-times) that the US held recovered physical UAP samples, that examination had failed to determine their source, and that "we couldn't make it ourselves."<sup>34</sup> He told the same outlet that in March 2020 he gave a classified briefing to a Defense Department agency about retrievals from "off-world vehicles not made on this earth."<sup>35</sup> Elizondo wrote that Davis went on to brief Department of Defense agencies and staff of both the Senate Armed Services Committee and the Senate Select Committee on Intelligence on UAP and the Legacy Program.<sup>36</sup>
+
+Davis has also commented publicly on claims of recovered non-human craft made by other former officials. Responding to James Iandoli, who had asked him about Elizondo's remark to Tucker Carlson concerning recovered UFO technology hardware, Davis said Elizondo's answer was "1,000% accurate" and that his national security non-disclosure agreements prevented further comment.<sup>37</sup> Iandoli's Twitter account "Engaging The Phenomenon" had put the question to Davis directly.<sup>38</sup> Iandoli later told Coulthart that Davis had deliberately edited his reply to add the word "landed," emphasising that the US government held more than samples or pieces.<sup>39</sup> Elizondo described Puthoff and Davis as being like "supergenius criminal profilers" whose theories were meaningless without the hard observational evidence AATIP had collected,<sup>40</sup> and elsewhere described the pair as essential to understanding how UAP operate.<sup>41</sup>
