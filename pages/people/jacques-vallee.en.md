@@ -1,13 +1,17 @@
 ---
 title: Jacques Vallée
-description: Jacques Vallée is a computer scientist and UFO researcher known for his
-  investigations into contactee movements and cults, and for his hypothesis that UFO
-  phenomena may be manipulated by a hidden control system.
+description: French scientist known for decades of research into the UFO/UAP phenomenon,
+  from his early work with the US Air Force's Project Blue Book to later studies of
+  contactee movements and Pentagon-linked UAP materials analysis.
 metadata:
-  role: Computer scientist and UFO researcher
-  notable_work: 'Messengers of Deception: UFO Contacts and Cults'
+  nationality: France
+  known_for: UFO/UAP research; Project Blue Book and the Condon Committee; investigation
+    of contactee movements and the Order of Melchizedek; analysis of the Council Bluffs
+    UAP sample
+  notable_works: 'Messengers of Deception: Unidentified Flying Object (UFO) Contacts
+    and Cults; The Invisible College'
 built_from:
-  brief_hash: 2090f72926768915b914fa1d81bdf40b11d9388843f976a80550c2c44bfc9d19
+  brief_hash: 6b7010fe6aa88701d8cbba598064bb00ec6d1b3aae795d18bbcaf00cd2567ab3
   claims:
   - id: 390c89a8-33b3-46bd-8ad3-12e940d5cdb4
     hash: 31405a51ef5c3c3aabfb055368900c979d1a6a0f235c046bf46aad30b737acf3
@@ -195,494 +199,404 @@ built_from:
     hash: da764aa96104c9a3ff1976754da469894c24ff9db342528e612816794def925e
   - id: 4967a113-8c82-4dfe-9dbb-5cbde0aed77f
     hash: 4456a73b713298459f9412d39d98af456cd8324cc54849554f7d96aaf140738c
-  - id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
-    hash: d7576dfb62a8e09d2de45d8ac869057fb07ab3f0adc0b2a9c01c33cd71130438
-  - id: 778d9057-0210-45cf-9ed1-cdb3bf15e3ec
-    hash: 829de53a1c2caba7551184f555a8add7a6083066dced08d5d7aed46266ece836
-  - id: 114ce641-5d98-4e0b-8cb7-b4dd02c53501
-    hash: 39d4b2372b92aa04f5501addbd5a16ea5fd8a41ee2e65f74c8916171e49c2072
-  - id: d11c3bfe-35f8-48cb-99d9-629527ccc058
-    hash: 7af96f04864d7fcca7fe0bf01f907f5aa3c6083f9c945d0b2c49546698917f54
-  - id: 3f6077b1-c14b-48ae-ac24-3266b3f118cf
-    hash: 75ec9805d6db46e8789b393b9c6c9089033c37b8a702099bd80899b1fa892f9a
-  - id: dc5976b9-3c76-4f46-b07b-b32e562cf76a
-    hash: 44bc63a75e0540db66db58cfa069707716ee13e9459a3253b3be517eb77c4405
-  - id: a6aec236-16e0-463c-8e78-be4f2bb7c4d7
-    hash: b55e6fa1c59436edc9d2c51c8d8e21f2e6f92a74577ca0ce2b12e4186d20e7f4
-  - id: b7c40c5a-d6c4-420b-aaf2-863cb32a9fb9
-    hash: 6565062f74414913f3c730c03fe6800e223c3864978d34ba8719f9e2214ac354
-  - id: 16817251-2c89-4309-aad0-46c17843a84c
-    hash: c35a0292208dbb5707c0a1369d56b66ca2a9ad0085a2f5fb76435b0acded2c22
-  - id: 1d40f30a-c298-4b96-b4cd-67dfce8a049c
-    hash: 5c16331d61413144f77aa04e9c558f93c34b6b89ee17fbb59f9d6b986d60cbb5
-  - id: c8ce00a9-ba97-4436-ac00-204b29acdd9e
-    hash: 7680c206b0bfcf26c4f6eecc7a8bf2d41ad99fa1fe837fbbbb2c956a495a7df3
-  - id: 5bece2e9-ce9f-4bed-baa0-b6abbd9302ea
-    hash: 4ea58ca8c528e53213a64fc99e18541974a07c963bfff8eff2cc6fbc313d2c0d
-  - id: e71dc686-51e9-4083-8a62-b85be79df52c
-    hash: 5e56a7ff66aa0b70743a5c37bebd91606b40f2db8cd4c914347958362fe55a64
-  - id: 69adf703-ab71-42b7-918b-118a72a5c9d8
-    hash: f6d884dfd3e1a3f6ff2c89e634000aea2bd21480963f62cb63aeec56671d906b
-  - id: 97ba350d-4aae-4165-a84a-86b37df9df33
-    hash: 5d63cfb0adb45cb8b059b8abc7f3b2414911c22bd4b28d2576284c0783157e0c
-  - id: 4ce8b3f5-474f-4a39-bc72-af17ff6f81a7
-    hash: b402b6e1b4b3d267b3bd655568e8f5a3ecd62cb686dd444a312cbbb6eeab95f9
-  - id: be198323-658e-4a49-849b-b06bc04b2ae8
-    hash: 24241530833d9dfba1fd2247c9cdf11ee24512bfacf2782b8f446869128575d0
-  - id: 8692b390-92b3-4e95-88d0-864aff3962c1
-    hash: 26a24d4a319d14551095c7b960c94f6217ce174bf46d960c31d331c32d5b57a3
-  - id: a61835a6-aa23-44d9-9308-5ee872f9f6d6
-    hash: bbf1eaaa89bf155d06a056cbca737c89ce81d31132198c3a6b0c8e42be50f9d0
-  - id: a0dccf35-5774-4308-8c13-e7e7d282f2be
-    hash: 219dabba7fb58b07cacb4c582d892f3605361dc9ecb964a8024a9bffd147ce7e
-  - id: 8d18c88e-9709-49f5-a0e2-f6d6d97de1d2
-    hash: aaa0cddd6d636c645eb628c8cefc3e9e987c38166de613810dcf9aa4cbdef29e
-  - id: f752831a-d54a-453d-9e83-c3b6d5bd39a3
-    hash: 2c68dbe0f337c000f5f29cb7150f7ae280a7959da2f93bdf001844f024ece1af
-  - id: b7309023-4006-45e4-9837-ba64dde969df
-    hash: be69ab17a8a8f61f490cc272c6efb9bc14c0326682ff3e674b36e28152aee022
-  - id: f9876217-8747-4720-a0af-57788d2d7dad
-    hash: 8db1b2f98cd68a93be9cf0dc6ad69be95326a24fda970dafbe785a8366b57e21
-  - id: 0a9dfddd-eb5f-48c5-bf7c-f6c316cc444a
-    hash: 4e41c7e8568db7578c00d386d5f48450d948a07c8e522f797feab1a6b28f7af2
-  - id: 740f6600-101c-42e7-9d41-3cf70300a5fe
-    hash: fb8c5dde4f9b2963b943a069169a3e26e87fc0cc9e42b614a3d8e5574e080d6a
-  - id: f9b282a7-586f-4d86-a089-91859197810e
-    hash: 37d4168fa04ece1b9f0b6959ec17a681dfe6003d2ff8b2098c0970f2daa10fed
-  - id: 9d7b27c6-4e23-4e94-ba85-67bbfceeedfd
-    hash: de4ec770dbeda8980b4d7aa792c3c0af406e17a94d1d6bfe67103caefb5ae2f1
-  - id: b956366b-e0c6-417b-9b48-3ff5b25feca8
-    hash: 8aaa7449c2270eec231830c3c1048b277a159b04d416b3492e203e58a17bfc39
-  - id: de5b84b2-5986-48b2-b286-36629bb3532d
-    hash: 49a9e7d88ce72425cf316d01d164a402be5290a2caf047f40fcb128b9a4739a7
-  - id: fec3e4a6-143d-4f10-9e84-3e3f7f3e9a89
-    hash: 7ff3a62a7e4cf5d7aac68b1710cad81d55b751d7e6b7a9450959230b8be983f9
-  - id: a74fc0e8-97f9-49a6-addd-5c2df520378f
-    hash: 703439d1e2bb3b56a3d9d0e17b3c5ffd68ecd4c311bf77768bc34701a12ba98f
-  - id: 98a2d960-e201-4a63-821f-ef02f1c95a1d
-    hash: 8b6346dc9bdf3af911c075a15d035a623ced7a60efd6d69413642eb9bfe7d7ad
-  - id: b7942d85-da22-421a-9099-baa6f053942e
-    hash: 71262827db85159b0d13b57ebab57f1907370d3c0abd24f466a7fe781e86a828
-  - id: fd6ed9f9-0a14-4957-a8dc-f1ddafcce76f
-    hash: 717faa9d0dc76283dc2c5b92ba335de562cf54d5e308d8ec71b032cf668f10c6
-  - id: d9c6d560-2e30-462d-a8a9-4e7f100d4589
-    hash: 11bad97dcbd2e9882c480c2a0613e1fc5c9ec89459a043255dd1812c2e98d6b2
-  - id: 57698d67-ab23-45c4-bef0-f176ed386b41
-    hash: 2320e9d3f4cb81161bc2ce0dbc48fa9dc2abb8649d9f5f6b19967aded5238c40
-  - id: 529d9769-9c8f-4fee-adc1-e068837db929
-    hash: 44c249bbfdaa2033e752e62a588032b57006c1eac79173dd7e4bc141c8a5882c
-  - id: ed4777a6-166b-4e6e-95bd-80c2cf73d5ff
-    hash: 023850240942b8070c3565c164deacd9b06e021d4517a37a4c7b0740c8c05d98
-  - id: 422238e0-ca4d-42cf-afc7-222669d1fe79
-    hash: 85f598b621e106169f28340ea01b358fe0518269bcc5555871b924be86cd5ad4
-  - id: b230ad06-681e-4da9-bfad-dd3d045b8f3e
-    hash: 42f3677c047310de964c613964b69c0eca29f04576894df79e4fdad2b3f86f59
-  - id: f85d4c42-acf1-4978-8fbc-698b3b6dcf7f
-    hash: d67a6f7bd56a09bec175a803bc5cf3dc64768cefba95ecd88098237e14023366
-  - id: db169dc3-b510-4f9a-88ed-48491d6f0887
-    hash: 2745d313a9db5cb633884e8ab61ea49056a2c699f8a435534715dabdc6380dc8
-  - id: 979aa4af-cb2c-4316-a344-7a15caca6acc
-    hash: 46c2f58f96fd7b79c4c93ddf3d13a360874ea08911fe67e3e967d1d96efe9a28
-  - id: 3884e008-6e6a-426d-b405-ab5b3982331c
-    hash: 9a7deeed5639825cea69607a52a92afa28793d37011fb8ac384356404202733d
-  - id: b7c762e1-6b5c-45da-8012-cebef6df67ae
-    hash: 52fe3601c62946cb57cdb4369351fbd55c9905924910a2abb8be6e39b5349c12
-  - id: 20be2cfe-9cca-4b74-a572-c4b22ace69ca
-    hash: 698319ba6b05abea803831c548f7a0c0b2c6505a035eb3ac479a0f05ccf44171
-  - id: 40e5c343-b940-4cde-8885-4aa9e7323951
-    hash: 1f4a52c63ae19d5a383657abab8f26e27d1a9c2633b204049e0f8bb55ca40d08
-  - id: d5248d37-4a7d-4bce-8dc7-3b002cc19022
-    hash: 044e5da54e4c2f4c2868373675e75c7479875a95147f67319c661e0251a16140
-  - id: 9c82f372-7a1c-482b-8146-14a543ab9b37
-    hash: 5aa30d76e3f4814107f22e99bfc730d1876930777007038b8908c2bd6bdfd492
-  - id: 8e13f3cf-71d9-4077-9da5-88845b51a158
-    hash: 72541481fe3dbdc0aa8759f41fc27e4ce4a5fd38270cc149ffbdf8b9efa0fc3e
-  - id: 12de02c5-4c4b-4c4c-bb59-c8ccb670f73e
-    hash: 015d56b7cbb542968d8c6f3fdb5b5078135e523d44eb3dd5a02fe978186b8a24
-  - id: a4948f68-546b-4aeb-8da0-21a27e6f043a
-    hash: 703ed731343468f40ecc45f38f5cc6980ca1a1ba20618b55da67605237336823
-  - id: f11d80eb-092a-4c46-8322-9a7a80144204
-    hash: 19a3a99a2e2fa82c5a1656b75e35a2161451ed78dcdeb63d8552e8aa14615fba
-  - id: f8cff2ed-07e1-49d7-ba6c-38faa9a6dc01
-    hash: 835cd1caaa65db689c377c60a5e4a12f254f84352336b5f70fde39399a649e10
-  - id: 8869185e-b320-422b-8b33-d7b7642b320d
-    hash: 3003dd48a9dde1d9a9185fa0946598c7d5d348f1a3112a0b51fda2c63eac2177
-  - id: 8340c2e3-aa08-47c7-b228-070e23ec6a4a
-    hash: affb08d7bd5c4a3fd78e48775cb7a42f63c0245afb77dd6071965b4148706bad
-  - id: 1482e295-1992-4e08-b912-78676a322b4e
-    hash: 7f33862928d9160fefa6b97bd4cfd2484c600089258212f7da17971cfee08e2e
-  - id: 78e7c6fb-ce37-4082-b179-da138560fee4
-    hash: b3a4d555b6732ff0c3e96bd8935110eb0eaed9ee82b7e69b9ae04dd8cdfd52ef
-  - id: 20a482ad-9a36-49e0-9b37-05827555f2a0
-    hash: 8da4d3837a5b906341c16a5bcdad58a601e4c42b2e5c5b1f1bd206ef3aa40e85
-  - id: c897e310-cdcf-4676-b8cf-9d9d90d04fad
-    hash: ee81938ac7ac7db76369faf1b62933b89fd9449f4c39bf358e0214cca5d1c40e
-  - id: fba5189c-c157-49e5-9575-b58b4db8da4d
-    hash: 4550cc342d4f301a4f6d5a57a175ce602c133a9213542a2b235d4255b55c46dc
-  - id: 3c322dbf-67c4-4e34-a293-bb35cadf66c4
-    hash: 1075ca4cbc37e039468eb54b041c865be919bebeb7f6784c5a8825cb4d80cb93
-  - id: 579bcc9e-88f1-4d38-8de0-df4f478b4896
-    hash: 2a94ebc5db218ec5723b9e06797d693a340aab25cec0ff56c924e055d410819a
-  - id: 94b46ce2-0847-4615-91c1-4f0215ba8c58
-    hash: 421c699e29f84ad9bcc11b92a38898372df43b1105dc4decda91db13078bfb63
-  - id: efeb49d7-7a27-40bb-a05a-bfeb672cc07f
-    hash: 026dda7aa5b2e520c37c86853589cdf9e962d43ad93b478bb2e725ca5369210e
-  - id: 03dba430-f42a-4457-8926-8aca14714e9b
-    hash: 64650b1efac7b15e2d81c5ea7884b622214e63240bb3a5466263788e8b1880fc
-  - id: 42210f48-0476-485c-bed7-caad2d7a334d
-    hash: 6c180fe60692ebefcd0c21fad40306f8e8064f109d72f9964caf2f0117d15250
-  - id: 5fa7fdef-c524-4e14-9f54-4c6a1ae2162e
-    hash: 2df863f4d8c9ad5bb21e2e7725ecc723ac6a4429524a9c3563102a2e22b1277d
-  - id: 53315680-2270-4af3-985e-b842803c8089
-    hash: f562dd0b28dc455f8e2532c5806860c0560e18f05ea8291a73e34ab1f9538122
-  - id: 01418405-54cf-41f0-a768-1cf4e96f52b1
-    hash: 1b1dbbf7ed79538046319a5c6647099da0ac62b98d6e008256fb87bcc6d80ab6
-  - id: 8368074c-8927-4718-8f80-2546a794e1e7
-    hash: 68f25ceea1c0e5bf0361d125ee111db16eec9f9e27146236806e48b507a8bf96
-  - id: 37b978e8-8e17-4a71-b362-dce52c21df05
-    hash: d0706f941cf75b17544be397d100360f0319c178bc2bf7e0cf54ccee74778734
-  - id: 0e722e94-45df-4332-849a-15f21f147e95
-    hash: 484198f87c7f186880c8f8e57bddc19f2419f1da908f25129db6cd4d0a70286e
-  - id: 04b325f4-040b-4638-8331-fdab678237de
-    hash: 2942a6f05e6924c2ceb49631cf1572eaf5987f804179a50b187ae23c2969b8d9
-  - id: 7d5b4e4f-6fdb-4a2a-9d72-8ad517e6d927
-    hash: 3f280875843865a3427c4ff1570bfbfcec456137f94a98016d2d066a899b3941
-  - id: 10acad46-11bd-47a3-ba4a-df9634fa3ec7
-    hash: b08359f466009fcb05fac47854b992b585f4047fe48e2ff4564dcc930fe3ca5c
-  - id: 45ef5a19-661b-4891-acb6-536c740fa25f
-    hash: 57fde78f380a25970f1cbb78414ffd06ec6cd0a30b37019542bdc72f63a7aec0
-  - id: 1ee20b8a-e19a-4f25-9f32-24b0d5367c94
-    hash: f79965647ef4fcfb35bc3fe101b8a683de547c52dbbd184cda55282ea0d97b5b
-  - id: 559a579c-2377-4851-b3ba-cdd11d4668dc
-    hash: fe3c98d3d94ae91995c3b2f6225e60da3530ad3adf38108bff79536afee7b6b8
-  - id: 3f9df79e-1cbd-45ae-85ba-d6c189808fbb
-    hash: 8607edd515f3ef806d7468299826b3c665528a46a27aa971d41910f79236e37a
-  - id: fa721a37-e518-4ee0-9e04-0485d1f30681
-    hash: 8f6acc3d058f225af52f1bde8130841ac3c2429346982a64ef22d240f9b84b3d
-  - id: d201aa37-52ab-4bb9-872f-de2b53678116
-    hash: 4df2ecb5db69d190cbf17b6949722e88abf98f56314cff8bb28c415691a399c9
-  - id: df72ab9c-594b-4c7f-aed0-926606b21c24
-    hash: bcb4881d29e06014f81b0709699ce0a733c7e01cbd7f5361b5f1f15d57b132d6
-  - id: 6cb40042-59d7-4e3c-b39c-8fc0e5f36215
-    hash: 4a72a264febf498b26f7c6451e5b0077c3249d9aefe86611a26c7c3746ac5e06
-  - id: fdb1ab78-7bd6-41f8-bf08-00af4f6e1429
-    hash: 8fab2b6e8afb3fcef70db1f4f0c814e0bcacb4021abf327acf584db963d04e43
-  - id: 8e3320a7-f4b1-4ca5-adfc-1027e3b7356b
-    hash: 2efcf089194997c6cfb89eb77ac21e21ff262e9c5704a3941b9eaf8cebc80b20
-  - id: 0ea67b86-c5ab-453b-8fa6-582994d250e1
-    hash: 2fc65cb295f0dbc957cfc070a7dce7dcfab10c6616002e6c30a51b9d42dde5ba
-  - id: 4a1eb539-9112-4a2c-b3f3-5b29eebafe7d
-    hash: 20b0caaf2c8d69e53849897061e8c016c2d0feeda6b661ef84bacedf881544af
-  - id: 868c8aa4-3e60-4e23-8d61-2ddd3b9e5d34
-    hash: 0386efd2edd57b2591cfdaf7013f7cb61d541fbb84d6b9a940c6573343b55f2b
-  - id: 818bb285-1d26-4e2c-a9ec-1341bcbb01f0
-    hash: 08152f87c1d4d067d98b578d4ee0b589f170f3af891ab3f00a1198a213fb1902
-  - id: 4262588c-e6e3-4d48-a20e-df1a4ed06681
-    hash: dc7ee0bdd09cc748dd4fc7cde72082b69dcd75d29e2f9dbb10f4d006fe947f9d
-  - id: d6c3ab6f-bc6b-4818-9fb6-c558b5c8670f
-    hash: 7b0ac83af37437ec711d00ec342d02ab5c966b22f453884c37bda7e3aa91fcd6
-  - id: 877edcd2-4d86-4976-95d8-57c986fb893e
-    hash: 9e0209ed3ac5c9e22a8de3f32fed22028e425482bf1879145bd57226e96ada4c
-  - id: 2c586e2f-7861-4683-bf72-73c3affe2a70
-    hash: 41e410e58c745225441eab8169be4f20cf7c49b0558453a15f5a6b485c889a92
-  - id: 6b1699f4-1f47-480f-9756-ca1acbe8dc4a
-    hash: f4c82c199f13f979ee8092e47dbf7fa873c643ca4ec323448cb52c35ab7360dd
-  - id: 8a7ad6a9-09e0-4571-895f-5f93f1d71122
-    hash: 1c9e41a38e67b027c34a13c9b1bcf6759dc8786229e5c06403d58c54e26ceeb9
-  - id: 80084f74-5e98-4c5d-9a5b-b3460eccfb80
-    hash: 27ea09041308da23277f28b67e54248fd601980a9b7d28fba5d11aa88201b7cc
-  - id: c78f46ce-8022-4bdc-a857-55f3aa44df58
-    hash: 81e6a3102b9981a181650c5fcd1fca9f126afad8c2bb6e1c2022877e3aff0a3b
-  - id: 514965f3-95de-4c2a-9731-4a4a519a9e76
-    hash: 1d5c198ffea7ce6706aad2a1a08b5121bbba90cfae452b51baf3b7d8bfc52725
-  - id: 362077b9-67b7-48a4-a9a1-a5f64b7f7be8
-    hash: 43ce4308cf7ea80dcc2ab51bb8b307b97529539d2204aafdff31c0ec4946b26e
-  - id: 30f92028-6f44-4201-a0f4-aae29007f628
-    hash: 6f23e81e6ae3393f555ae54d76cbf2314bad839569f6d024fcbda61562a49c47
-  - id: 8a282ada-aa93-45dd-b2a1-decac0fed0b1
-    hash: 9f8c71d71745606e0c2f01751bc9e07849f4916ef48ae9a54e03c63860dd023e
-  - id: 00fd7d2a-3449-41d0-8ba3-215055e53fed
-    hash: be027e3e626d9d4a0a91f5d8c0c6b8f77df52f5738ccd9b3209a0edb35bfd731
-  - id: 6e5ae5b8-7471-4ddb-b627-7a73ffa89478
-    hash: 91ef96228259fea754c5798052c833d6418427c118f1eb6fec50fa59f09db097
-  - id: c944c244-da3a-4156-b3cf-dc865ce17283
-    hash: e71d61f2b27870b17e37f479d09231264ce9173e6eac63799d5183d16069432f
-  - id: 91bc612e-cf40-46b7-8296-665c67880cc9
-    hash: 561bff20bdb02693299206492ad2e2dfc97f4b58e8a622302467b72f2a07b86a
+  - id: ab01c827-7186-4286-8f1a-075ae348fd30
+    hash: 0fe489a0712ecbb92961bead90819e60594ae77deb538d022c64ddf8b0734b62
+  - id: b0719628-7f93-4eda-aa87-0d36fdb08430
+    hash: 2e1573eede0e25488da33f2e287e38abc1f079278a26980d3e726d8b8a3129fe
+  - id: b16b5a99-43cd-45a9-863c-1e214207b48b
+    hash: f3429b3bacacda50877c2341af2c77038dadf5e873761b4afd19d36c6306c68b
+  - id: 59be2659-e1a8-4c55-bbc5-0e506be61fb2
+    hash: 13d9b3a4f7f99ffbee30fa641f9c7c2492a041ea538bd4596539a3cc6cc7cd1e
+  - id: 04c778fc-42ef-4900-b589-aa93d774e589
+    hash: d5b99f638e15594c815c54e4777147eec7629eec34d7b2a0cb493c2c017fafc6
+  - id: d69a9077-bb80-4299-bff7-f3ad77043d84
+    hash: ca3da437b5f1fcdd2073fe9527e4df952d444f44272c3d00a4c811ed98c1a9a5
+  - id: 322aa7fa-448b-4733-bfb3-52a412c4a432
+    hash: acfae5db009a3b64888d97dde64863cfb601102685f2cfcdf56884d230c798fd
+  - id: 0f5c0acf-b988-43b0-a7c0-deb13c5b001b
+    hash: c6b1e04d6a68998229ada8208fc50574466b65b23c9cf8270a00f4a99b86125c
+  - id: 922bc460-f648-4778-89d6-966af5fff5bf
+    hash: 8014213602fea6aac9e16db3bdb26e08f46d45bfcd358c76c5295728db1a049e
+  - id: 28051fa1-ade8-4ce0-80e7-f6851d2dfaa9
+    hash: b6a146455bb1829edab9b241825f73b54f25a677b0f4e48ee9576e59427a0360
+  - id: 22c2126c-08ef-46c9-9d32-189799496b1c
+    hash: ce468bc3de6b7eaa30b9a86d06a631842507d2003af326d279bd1e85006aa624
+  - id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+    hash: f1d165fda49834639cfb16ec5672916bc9ee36001716e424f879d2e2da977b51
+  - id: 7e227643-45b8-418a-bd63-fe08fd1a6979
+    hash: aca7ae4921788a06bd6cc200a3875069d285715ad3a1acca0e97eef9d48c44d4
+  - id: 63438c82-52cb-4015-b5d1-c13587d358af
+    hash: 2585163c6c7027e92473b48a37d65e48dedede69b132a03d46df86c316308918
+  - id: d00225bd-2b46-4183-bc1b-86235f9a2f03
+    hash: daf4d99de64c30d1a33d4fe611f6613207fbf505f24ae564bb142da181ec1a10
+  - id: 0dcdfaaf-4f0d-4e32-b0cc-fe11d13c0c90
+    hash: 24628e37c706501f1607cf6b973b1f8cbe456ed1e44589a67c8a0827f5546709
+  - id: 489f73fc-e236-4ea8-b155-2f0797b3bd9a
+    hash: 0c7c0b8a9d14965b515a38950666001a6eec348f745ba0a25056acc586d2af41
+  - id: 9a7c44cd-05e0-4def-b8c3-2dda9e6c185a
+    hash: 5736c14fe8caffba76c35d57a565b8a2c85543a80861a7b02e0db90d0db3adea
+  - id: 25fd1d9d-5d9f-41db-a5e5-c165c2e33d93
+    hash: 516cb425c74df34f58fab330d0344660414236bd0d692d8a0ea66b0d0f0d38b2
+  - id: cdd5fbe4-a028-4d17-abe3-8b76afd7b99e
+    hash: 3f37cfc1c909087209596a04d7095ef8e3eabe1ae3b86d0565df99c951056413
+  - id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+    hash: 5bfd3eb1c8a5aab37c207580ccc6695bc84814db033ca448e184f9684d819ca4
+  - id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
+    hash: 69040518102c2d0b5f127d3f1511fe2644ad9078597f6c099756668f3331a59e
+  - id: 6a1a3b0b-a6c8-4ba9-86c2-650b6880f0bc
+    hash: 52aef0540774786f65022c1ff44e435cfce266ad644a7e5fef7b63a373170c0d
+  - id: e51a9c46-8af9-4896-af8b-21347e9c2afc
+    hash: b07841801763e40dbae8c643d0cbbc36c43ba7d938c20e60ee5a0422cae93ba4
+  - id: 4f246072-52fa-400a-a063-c49ffc5ebbd5
+    hash: 813533393841f0acb7320bca0e3e6105336cf0abf50090a09a461bac8e623233
+  - id: 7d923166-507f-4eb8-94be-618dae8b2b0a
+    hash: e0169386d9552d3a6e62507211e62e9621367e74c1b07153610c4923de5d6270
+  - id: c46e8050-e063-4233-9cf2-4b604c54c55d
+    hash: a8de4d5fd3fc6804fe4b27cb0fa427802b96865839bb4f68232b7824fa63461c
+  - id: 58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
+    hash: 216ad8574627f5bc7a23ebc1af7ab0dcd3354d4fdae6d38d52e74406ebccfb45
+  - id: c7b26e81-71b9-4c52-9200-23740f1a2bc3
+    hash: 69b7666fe08893960dfc52aa8660d663ec483492b087f0d98eb37c6358d3668d
+  - id: b9b7c443-f7af-44f3-b1d9-8cf080505043
+    hash: 55aa35f3383981f161b6c8ffb10c3cc98fceb9093af8223437ae8ce4bab4914b
+  - id: 99e78768-76d0-44fc-ac15-7e4d1a512d44
+    hash: 63b8ce546516942954992f288f4b220f615cca5377246479ca262b7febfcfb5d
+  - id: 54885225-5a40-4e6d-9dc3-a437eb220aa2
+    hash: 1d3c9777edf82e4d512f634f4ff46089a7fdb2dc296b5953e721430a454c698b
+  - id: fc7a728e-addd-4752-826a-f18622b80fd4
+    hash: 51e589629532a345f7b47935ab9f6a9ced95101b0acf509cc594da317014a990
+  - id: f93d6f7f-dddd-4800-b89d-41929b36b89b
+    hash: 453d250eb12af68224bcf6b5c63db2b4dcbcce88e5f76bd8116c34b97c15d154
+  - id: 08ac9097-99a7-4974-94a0-f15a7625cd95
+    hash: eae94a1be0350db2f5cc70084d472bd3055c885f9ad54e77d3d72573f6847c78
+  - id: 9234defa-e7d9-4c53-be7a-eaa78a630ac9
+    hash: c9382836bf168bcd072de3c9cee7e19d3ce9f6e2071916361ef28ba993f3974f
+  - id: 91687dbb-a39b-4a6a-96e5-73865d35077d
+    hash: b1249daa4bdbde63d3a282aef7c9554158ffad8b960d35dd9ee1f100910e8997
+  - id: 9e930cec-85fe-4914-9eba-83f0b3342cef
+    hash: 0e3614d53c6b86d50fe7e0313f8fdc42a628f52a11f3e8b31e6937174cef9d62
+  - id: 15073743-16a0-42d2-a4e8-979f6cacd52c
+    hash: 8a0dc29f7daa83eed09401e6e3281d3b3665e5088f44c75e9d58207910e5ec07
+  - id: e866529d-cc94-4ac5-b17e-47e463cc29b8
+    hash: 8b561cf244a375cc27547221a80c97e54e789d9f10d4c4777147133a23999200
+  - id: dd67f8f9-12aa-4ed9-8ecf-0875d1657cd4
+    hash: 3d43c6516d8daa8a3082293be4da7398c716f6261d32dd45500941086d09da06
+  - id: 0129e7d8-b592-4ca8-a25b-de7fa636d09a
+    hash: d6201fd5886b9771e4ea15434515846a30383852f6261271403b33df1d5ec15b
+  - id: 8a21b5ba-feb0-457d-a3d3-f2fe6f937ee8
+    hash: bdfb7a343efc1253300e61f2b344b09a184ac03fa7fc824af9118b014b173497
+  - id: fe16f749-1535-4d33-a2a3-e8b45dea0949
+    hash: 51f3f0d81296f4c7634640af146e88bbbc9ca662b71749e425e5a12a39fa4a5e
+  - id: 357a20c8-a8dd-4961-b766-a811dd5102c3
+    hash: bcfb567705fcd210a728f42a4f3606687256ea04b2b59fa02bd90ea25ebdbea6
+  - id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
+    hash: 32dae264615c06e6ea91894a9423c946046d39143ae1c4a0a63cf17c7dfc362a
+  - id: 1dc57de4-aa5a-440f-ad7b-bd7d8bc2d6b7
+    hash: c61841eccc2aa7e2ed53725722d50892cb2da5d85687e465bd537c9d030a9709
+  - id: 497de004-45c4-44d7-a067-0e34882f784c
+    hash: 41d4f1b32c6533a11db507d0a007ccac9c97385610462eb8ba3105e8f039c1d7
+  - id: c8a5b2cb-4a00-4269-895a-c85ccf007ad3
+    hash: 5eb8fa8e842cad8b5c6ff7a595a7c359987bc9e05f3264ebbf7f29df038232b0
+  - id: 59502392-f26c-4527-9286-387fbc1dbb35
+    hash: 7381737ded06601978b351b0493f815772803601fc03f5817a822d9483062ce2
+  - id: ae57adbb-5bc6-45b2-9458-466f0bebcb3e
+    hash: 6042440800fa7bae295fd29ed02c6fd820714f6c797aae4d24d366a641c6ea10
+  - id: 6acc5d80-7349-4014-96e2-4debabaf6ed1
+    hash: 25f6f59549c4c988f88133232595f9ce2f3f68b0a53d8ff2fcef9aebafc4cb20
+  - id: df2ccd7f-09d6-421e-af33-cac309ed9c51
+    hash: 1b7eed32d833bc884d82afda8d8a655f2332de4ab9224ad635723688e7eb51c2
+  - id: 59967eae-787b-4862-8539-e609d9091d19
+    hash: a0045dc4777c0b77bad2488de74e5d0c2230c83fe7e0001f3f80f3661e27296d
+  - id: a3328a6b-ca32-4a63-82b5-239d90fb7934
+    hash: 85f8e65a4a10c91893f3d1e95e3c69a51e7ded57b9a6c8c5b009a951296e27a7
+  - id: 9151148c-827d-4d5a-a69c-55ea94da1a91
+    hash: b20a454f5cc632a8d7900cc83bb4b7ee10a328d410f27fb1425622392763ceeb
+  - id: ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
+    hash: 37d1942e3d709f726c7b12e64c6911824102999f1920fcfe863488ef62e30bf2
+  - id: dafd1fc4-4ab3-480d-9360-867c78665a2b
+    hash: 2b5e7940a1c0cb6053e9490c745acc9db65e5222bf61b1e4cc21efe9cb82cedb
+  - id: bb65df49-b813-4408-ba02-77832bf29156
+    hash: 3171fdde15d8e7c3a5fccee41a55703b91a201f6a827be3ad0e844aca1d4ec2f
+  - id: 56eb2c58-b4c0-411e-90b3-9be3bbf5cb43
+    hash: 0d38716b7355393280ca6c4391c5c8f484495673c7361060a3de7bbdc04b0d1a
+  - id: c4a8ac48-dbba-476b-956c-9711d9a9663e
+    hash: cb0793a18e67b09a56c215e77440dacc28d36b00b8e5278232728b4860d19771
+  - id: 40d3053b-869e-44c5-8e16-cc9f53d18eee
+    hash: 408726a210fb6b3c5a9e15c313bd4bb75fbee21f531af11f1baa4a05a4cdbb27
+  - id: 9cc54996-3acf-4b90-bd95-2253420866b0
+    hash: f5875cfda553cae60c513ca76cdf83ab32e854f4da1dd5bf088425e34a6ade0c
+  - id: 336563c1-258e-40b2-991e-7eef6f98da68
+    hash: 1c0bb0085c5c7dfa957c849a2bc0ca9e705399e4effb0af7de24bbaa2a5b6ecd
+  - id: 28370f9a-ff1c-41e2-a267-41cb5e01fb79
+    hash: 018a6c0231d20f53ec9c0e6f57dd8f72505bb806dc58f14dc762f93579f8d392
+  - id: 4abfc49c-12a7-446b-bec7-f40903b4e10f
+    hash: d426df50571bad2aadd3c244c8dc91f0ecabc327cde88cfd269f455a607826bb
+  - id: 8471cbec-3685-42d2-b5f6-6ae93865ad48
+    hash: a4c97f3c7f872be80b69601fa6e5fcac2698c1ff5b7ceea033e7a45c7571f09d
+  - id: 789e570d-6af6-40e6-afc3-1d8e3bc28ef8
+    hash: 6e2fdf321682585c7d177b16ddf785275783bd333adfce63174b8b90a88ff32c
+  - id: 806b0d05-6a0d-49fd-bbe5-1adc0c42514b
+    hash: 69584e016c300ed707d66a899868c0b7ab0126a2832afb991b1985d06e294986
+  - id: e4ac244a-6a42-4b77-b5d2-118b8d11955b
+    hash: 13de352b9e10d210fb69a24f56f765fa9ec9e3fd290ce6509713a7ae526b886c
+  - id: e3d586fa-6800-4b84-9c38-44fe1587a22e
+    hash: b460a49b7a3966128a47a4bcb6a62014659061e4c3ed53cf7c7e9c4e03cd5d03
+  - id: d234e474-4b0c-4c98-96a5-3df5f418fd9b
+    hash: c737d81e81c1dd124a935a33101d598e6bbc6d4017db44c6b0ac27ca9185dfed
+  - id: d3173b41-06f1-4b85-99cb-0c6e770dc029
+    hash: 2125d64a4cc0a1613566b5e332b5682a9bb62a02d6da3cb5c8a07a71a38af001
+  - id: 6b966914-c795-4208-888b-3cc835400e73
+    hash: 92e9dc1e7b1c675e48640fbd8eef5c0da6f1a60c4fcb9f128c8f29007e32e250
+  - id: 4b3f4e48-a96b-4651-9d5f-74373003ce5c
+    hash: d323f25ea7681caa80b93ded1e8724c98186f93110f56928c7dfab2184942f47
+  - id: 4c5baddc-b777-45e4-8c92-545bc72a79b9
+    hash: 0e57eee8473489b28c12d9d0cedf1680933f9892d2569d9a58031599cab08ae6
+  - id: 50423b82-572b-45e0-b20a-e4f28e6ebbd5
+    hash: d65409da5d73654418e73fb7dcd8413bbfa91c8601ae347e03ad95d34ce3d512
+  - id: c4729a97-617d-48d7-b815-e2f7cec21800
+    hash: a6957fbe186da5336b37e6c47f49ea18fc071c3dee353b3038d4cb6c0f90fbb6
+  - id: 78e957d0-8b46-496a-9836-6aa88239cc81
+    hash: b2056a7c83ce84c1422b3d5437ff09c34fe5785bafdbbf4ac03eedb4c4809a81
+  - id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
+    hash: a0406bd06d912841a913dcf1361206834f2bb40bc5a45ae00933d76b2eb3252e
+  - id: 53df69ad-8062-44dd-9e74-9e826c1003df
+    hash: 0471e1af84846f2018518f940610af780306c564e06e507361ff2cb34cc77e4e
+  - id: 84e78942-afcd-40ae-b66f-314175277e5f
+    hash: 4bb32848ed59e15a3d6b2ca89654da695005a37cb85e54de29ee7f4a74cf2f69
+  - id: 098bcc4f-2418-4a8d-bcc3-65a873579895
+    hash: 8939cae0d9b124d200c19c64fb388009f7eef31366abf81a480118e5bf546d08
+  - id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
+    hash: 482ea9887bfc3e412a3d8d9fc6f91e8d524cd6f0cd9dfd29321652df2b4d8184
+  - id: ad2dce85-279f-4f70-b2a2-48fe572be8b9
+    hash: a8a35ef8df6f41d29836cef1e14ea77828405a31238578387fd4e6641c2c5c96
+  - id: 0961ffeb-eb69-411e-b860-27703e3411b7
+    hash: 86886748b32f8fecec10110265bcf62563c40b873a23fa74b956f1a39f16c2cd
+  - id: d25e5206-49a9-4408-bac3-eddc5f054c68
+    hash: c57763c472fd2deb6ab4f25a9d43d9d9bcd86b853a88aed73222f29613dfdc11
+  - id: 63698375-40bf-465f-b413-baca02b6561e
+    hash: 86515cd8a693d73cf671bf8daa590f88e3a54de02d2f9cf6b9ea937f68f2dff5
+  - id: e6e06e8e-17aa-4f4f-b130-6c2053d3c41d
+    hash: 2c0d516e7a355d004ea59d19be828390c369cd141d9bfac9b0d81be2194397eb
+  - id: 10e204d2-79ec-4d1b-a4d0-8908794dcd28
+    hash: c4751a23054e8e9e87f0d3d88bbd84459388529f87bd0002fdff634df6e6dcd5
+  - id: 14969e72-d5ab-4273-ac25-bf33de486fb8
+    hash: dc9dd20aa174ed1a1d357a6e67bb2d0c0bda233ba0b90ddca2a94d153ff6aa39
+  - id: e8db6eff-dfd9-41a0-937e-d99db97c8633
+    hash: 397a728b1641f3a71768b40e5e5d3b644fd707b4871a151fe741370eafb78cab
+  - id: 903420e6-e556-439e-b528-0fa7d69cd7de
+    hash: 07842527a8ca8313a8a95c09b8b1a7af322a5c2cc5a2ccc004757ef2f4cd98ea
+  - id: 8f30d4bb-0f62-42d3-81a1-c5eb5de22050
+    hash: caf0432aac65ecd34fa664a41da40eb10647a97f39e60dd8eb498abd33f1db12
+  - id: 0f52d72a-914b-454f-835b-302d03be2d4c
+    hash: ceed359da56fbdf3d26c65327f7d90fbd4c73b86698c1c75b407586f596faf1c
+  - id: 4f3c727a-5ff9-44f7-8501-710ff194aec0
+    hash: 822062b6754e5ae5446263901f997a790128bcbf02cbc07b8b943b6b08064b52
+  - id: dfcbeb6a-f4b1-4c88-860a-ef5adace0bd2
+    hash: c823a794b7adb3adb549b2862a95af1fc2477b21015ab714d204f3f017e7e27a
+  - id: e0400611-8a84-4615-9f41-35582da66e08
+    hash: 490df402f8584d74b4e20591f3aa76f5b09df5278f3f57c3efc3740619f2d4e8
+  - id: 3d4a0842-e686-4bee-9944-fdd81c2d6c39
+    hash: 414b2db15e3cd9af2fdac6c3371fced2464c172f693ef731f491e77c4a3e75e5
+  - id: a8185410-2fb5-48e6-964e-e3e357a36d31
+    hash: 2bea3a4cb92949f7c0d4e1769408dc318bfefcda8dff05d3910d76ec5a6da383
+  - id: f48c83bc-0294-4a24-8ad6-cd712e2af4c8
+    hash: 79d77268710751e65199420e692611f59a5c35863cbeec0eb68fbb430d0fa969
+  - id: 9a1bef7c-b38e-45f8-9f2f-31cac80b3dbc
+    hash: 4c88e4ce0c040a720e3dbdd28b33996d67b87ac3249e9291249d177fdd71a029
+  - id: 41cd6e3b-10ee-413d-ad11-68f8d61763ed
+    hash: 0f70d71f3c8f5339beef578f08b67c22304916a772bb26026458250bfde55849
+  - id: 769245cc-bfbe-4cdc-af99-03117f0cd533
+    hash: 09b8f1a57840096e81dd79e9a1b70227807da94255cce7759c9457fda2e7c36c
+  - id: d1987c18-d75e-4597-8836-2ebe168adecc
+    hash: 9e43b8eaf234f448a40242f7f85a068f4e1442b1f0691a4be70d02767f72dec7
+  - id: f551ef53-6780-462d-85de-ce0ec653f43e
+    hash: 7b4e43f86f11ee43478f13f793d52ae8b50ee73063b1a29dce201dd8d1dd2ee4
+  - id: 35dd67e3-9169-49b9-ac18-5b73709060c2
+    hash: aea166fbc6aaaa6aae834848a94a022d8522eb2080e0401e620e9083a694b6d9
 references:
-- text: Vallée's professional field is computer science
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:28482-28525
-  quote: Although my professional field is computer science
-  claim_id: de5b84b2-5986-48b2-b286-36629bb3532d
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-de5b84b2-5986-48b2-b286-36629bb3532d
-- text: Vallée compiled a catalogue of recurring contactee themes from interviews
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:22550-22639
-  quote: A catalogue of contactee themes, compiled from interviews I have conducted,
-    includes the following.
-  claim_id: 24e76aa4-a661-4da0-b739-93160b8ec53b
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
-- text: Vallée is sceptical of contactee predictions of disaster, invasion and free
-    energy
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:42811-42888
-  quote: I am skeptical about “impending disasters,” space invasions, and free-energy
-    motors.
-  claim_id: d0bbe898-e942-42ee-90e9-73d3846201ab
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d0bbe898-e942-42ee-90e9-73d3846201ab
-- text: Vallée considers contactee groups could capitalise on public fear
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:42953-43097
-  quote: It is not difficult to imagine a combination of economic and social circumstances
-    under which contactee groups could capitalize on the public’s fear.
-  claim_id: 8b17f265-26e2-4804-9686-1e5b1869259d
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8b17f265-26e2-4804-9686-1e5b1869259d
-- text: Vallée saw a Paris subway poster for the Order of Melchizedek, December 1975
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:971-1087
-  quote: THE LORD IS AN EXTRATERRESTRIAL WHO HAS RETURNED IN A FLYING SAUCER. Order
-    of Melchizedek, rue Jules Valles Paris XI
-  claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
-- text: Vallée visited the rue Jules Valles apartment and was told he came at the
-    appointed time
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:1791-1903
-  quote: '1 apologized for the unusual hour of my visit but she stopped me: "Do not
-    worry, you have come at the appointed time."'
-  claim_id: 9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
-- text: Cyna was the woman who opened the apartment door
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:4044-4124
-  quote: '"Do you ever meet extraterrestrials?" I asked Cyna, the woman who had opened
-    the door.'
-  claim_id: f3a1597a-bb5a-4030-82c9-b402eff94dab
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f3a1597a-bb5a-4030-82c9-b402eff94dab
-- text: A bearded man introduced himself to Vallée as Ivan
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:3341-3420
-  quote: The bearded man introduced himself as Ivan, and explained to me his purpose
-    in life
-  claim_id: 43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
-- text: Melchizedek, King of Salem, described in Genesis
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:6368-6575
-  quote: In Genesis it is said that the King of Sodom went out to meet Abraham after
-    his victory over his enemies, and Melchizedek, King of Salem, brought forth bread
-    and wine; and he was the priest of the most high God.
-  claim_id: 9991fc43-5b74-4b0a-92dd-16dc8d4e3a9f
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9991fc43-5b74-4b0a-92dd-16dc8d4e3a9f
-- text: 'Leaflet: money obsolete, religions abolished, military service forbidden
-    by UFO antimatter guns'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:5137-5328
-  quote: All the money in the world is obsolete. Only the land has meaning. All religions
-    are abolished. The military service, detested by the Lord, is forbidden, thanks
-    to the antimatter guns of the UFOs.
-  claim_id: cdcfcded-c8b8-47ca-8c90-43f6765c6447
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cdcfcded-c8b8-47ca-8c90-43f6765c6447
-- text: Leaflet announced seven flying saucers landing on the Radio and Television
-    Building
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:3786-4033
-  quote: 'The latest release from the Order of Melchizedek announced the imminent
-    flight of seven flying saucers over Paris. They would land on top of the Radio
-    and Television Building: "the Peoples are invited to attend this Circonvolution,"
-    concluded the leaflet.'
-  claim_id: db8662a9-ac54-460c-8e5f-ebc6e035b023
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-db8662a9-ac54-460c-8e5f-ebc6e035b023
-- text: French Order of Melchizedek gave Vallée a pentacle; members claim constant
-    extraterrestrial contact
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:5762-5971
-  quote: Figure 5.1. A pentacle given to the author by the French Order of Melchizedek,
-    which aims at eliminating money, religion, and war. Members of this Paris-based
-    organization claim to be in constant contact with extraterrestrials
-  claim_id: be646942-0840-4129-8bc0-c8a77319e0b3
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-be646942-0840-4129-8bc0-c8a77319e0b3
-- text: Ivan's letter claimed responsibility for the order across Israel, Africa,
-    Europe, India and China
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:48641-48769
-  quote: It comes from Ivan, who says he is responsible for the Order of Melchizedek
-    in Israel, Africa, and Europe, as well as India and China.
-  claim_id: 0bb29f69-cd55-4628-b957-d9c961d51049
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0bb29f69-cd55-4628-b957-d9c961d51049
-- text: Vallée and Janine Vallée attended a Melchizedek meeting at the Hyatt Hotel,
-    paying three dollars each
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:7109-7170
-  quote: My wife, Janine, and I went there and paid our three dollars each.
-  claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
-- text: Grace Hooper Pettipher told the audience some present had come from outside
-    the planet
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:13645-13768
-  quote: '"we even have some who''ve come from outside this planet tonight. There
-    are beings who come in UFOs, and people go away with them."'
-  claim_id: 79ff8cde-bcbc-49dc-b2d6-dbb29e089c95
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79ff8cde-bcbc-49dc-b2d6-dbb29e089c95
-- text: Vallée observed vacant, blissful expressions similar to other groups' followers
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:8221-8384
-  quote: Sometimes in my observations of these groups I have run into the same people,
-    equally blissful under the influence of Sri Chinmoy, of Reverend Moon, and of
-    Werner Erhard.
-  claim_id: 9355f614-e388-403e-b522-a53d5beab55b
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9355f614-e388-403e-b522-a53d5beab55b
-- text: Jacques Bordas's night-time incident at the Turo Weather Observatory
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: 17-17
-  quote: 'There was a knock at the door of his isolated cabin one night... he saw
-    a human form: it was standing on a narrow ledge above a sheer drop of a thousand
-    feet. The shape walked away toward the abyss, but instead of falling it kept going
-    horizontally.'
-  claim_id: 390c89a8-33b3-46bd-8ad3-12e940d5cdb4
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-390c89a8-33b3-46bd-8ad3-12e940d5cdb4
-- text: Being encountered near Canigou by Bordas, unphotographable, paid in pure gold
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:75433-75574
-  quote: The being of the Canigou, the man with long blond hair and hypnotic eyes,
-    who could not be photographed by Jacques Bordas and paid with pure gold.
-  claim_id: 24cd2dcc-1327-408b-9a74-0791c617ade2
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24cd2dcc-1327-408b-9a74-0791c617ade2
-- text: Parallels between Esoteric Fraternity teachings and groups such as Heaven's
-    Gate
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:22536-22816
-  quote: The similarities of this old esoteric fraternity to some of the modern UFO
-    contactee groups are quite obvious... The H.I.M. sect, for instance, speaks of
-    regeneration, transformation, and contact with a higher level in the same terms
-    as Hiram Butler
-  claim_id: a443d879-4889-4745-8767-f3ac524a885a
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a443d879-4889-4745-8767-f3ac524a885a
-- text: Esoteric Fraternity representative said the order was probably only 'in Heaven',
-    1976
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:23677-23870
-  quote: As a representative of the organization told me in 1976, "If the Order exists
-    now, it's probably in Heaven. It's not here; we just have the printed word. Wherever
-    it exists, we're not aware of it."
-  claim_id: 769a0120-0b90-42d9-b3a2-b7d7ed5fcf60
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-769a0120-0b90-42d9-b3a2-b7d7ed5fcf60
-- text: Jim Hurtak, friend of Puharich, involved in the Uri Geller affair
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:28344-28518
-  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
-    affair, and claimed to be psychic himself. Not only was he psychic, but he had
-    had a number of UFO encounters
-  claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
-- text: Hurtak invited Vallée to join a psychic group
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:30265-30418
-  quote: 'Jim invited me to join a new psychic group designed to change the destinies
-    of the world by occult methods: he was in direct contact with this group, he said'
-  claim_id: 32d0e509-87b9-4c27-874b-d448a322d525
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-32d0e509-87b9-4c27-874b-d448a322d525
-- text: Vallée drove to Major Murphy's house; Murphy had advised his research
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:52729-52856
-  quote: I took all my papers one day and drove to the house of Major Murphy, who
-    had advised me to pursue my research of the contactee groups.
-  claim_id: a538ea28-48b6-4bab-9139-44e788c5553f
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a538ea28-48b6-4bab-9139-44e788c5553f
-- text: Murphy taught Vallée to recognise infiltrators in UFO groups
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:2930-3091
-  quote: I still have a lot to learn from Major Murphy. Among the lessons he taught
-    me was the art of recognizing some of the shadowy figures who had infiltrated
-    the UFO groups.
-  claim_id: a74fc0e8-97f9-49a6-addd-5c2df520378f
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a74fc0e8-97f9-49a6-addd-5c2df520378f
-- text: Vallée coined the term 'the Manipulators'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:51583-51705
-  quote: The Manipulators... I have given this name to the hypothetical agents who
-    might cause the UFO contacts and engineer their effects.
-  claim_id: 4bf5526c-45e8-47f3-bc8d-344c92a0eeef
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4bf5526c-45e8-47f3-bc8d-344c92a0eeef
-- text: The Manipulators could possibly be human masters of deception
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:52047-52169
-  quote: could they simply be human? Could they be masters of deception so skillful
-    that they plan to counterfeit an invasion from space?
-  claim_id: 221d0950-b26e-4115-8a4d-fd77ed70fbff
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-221d0950-b26e-4115-8a4d-fd77ed70fbff
-- text: Vallée believes the UFO problem is manipulated for political ends
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:77421-77628
-  quote: I believe there is a very real UFO problem, I have also come to suspect that
-    it is being manipulated for political ends. And the data suggest that the manipulators
-    may be human beings with a plan for social control.
-  claim_id: ec50df02-94db-49ae-810d-6a2dd14d8cbd
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ec50df02-94db-49ae-810d-6a2dd14d8cbd
-- text: Contactees and occult believers used as puppets by the manipulators
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:76653-76711
-  quote: The contactees and the occult believers have been used as puppets.
-  claim_id: 28aa758a-b06e-4999-90de-00f73e8936ed
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-28aa758a-b06e-4999-90de-00f73e8936ed
-- text: UFO attention promotes political unification, the most recurring theme found
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:67267-67449
-  quote: Increased attention given to UFO activity promotes the concept of political
-    unification of this planet. This is perhaps the most commonly recurring theme
-    in my entire study of these groups.
-  claim_id: 868c8aa4-3e60-4e23-8d61-2ddd3b9e5d34
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-868c8aa4-3e60-4e23-8d61-2ddd3b9e5d34
-- text: USAF knew some reported craft were U-2 spy planes during early Blue Book
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:29721-29818
-  quote: The Air Force knew very well that the objects were not birds, but U-2 spy
-    planes en route toward Russia.
-  claim_id: 98a2d960-e201-4a63-821f-ef02f1c95a1d
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-98a2d960-e201-4a63-821f-ef02f1c95a1d
-- text: Blue Book files lost and cases mislabeled
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:30906-31067
-  quote: the procedures of Blue Book, where files were lost and cases mislabeled,
-    were so grossly bungled that disciplinary action would have been warranted in
-    any other context.
-  claim_id: 57698d67-ab23-45c4-bef0-f176ed386b41
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-57698d67-ab23-45c4-bef0-f176ed386b41
-- text: Cattle mutilations reported alongside UFO sightings in the western US
-  source: 'Messengers of Deception: UFO Contacts and Cults'
+- text: Elizondo describes Vallée as a French scientist who held US government clearances
+    related to UAP investigation
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 10, Stanford meeting paragraph
+  quote: the French scientist Jacques Vallée, who had US government clearances related
+    to the investigation of UAP
+  claim_id: 4f3c727a-5ff9-44f7-8501-710ff194aec0
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4f3c727a-5ff9-44f7-8501-710ff194aec0
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4f3c727a-5ff9-44f7-8501-710ff194aec0
+- text: Vallée is best known among civilians for inspiring Truffaut's character in
+    Close Encounters of the Third Kind
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 10, Stanford meeting paragraph
+  quote: Among civilians, Jacques is probably best known for inspiring the French
+    scientist character played by François Truffaut in Close Encounters of the Third
+    Kind.
+  claim_id: e0400611-8a84-4615-9f41-35582da66e08
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0400611-8a84-4615-9f41-35582da66e08
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0400611-8a84-4615-9f41-35582da66e08
+- text: Vallée tracked and photographed unidentified objects while working at the
+    Paris Observatory
+  source: THE INVISIBLE COLLEGE
+  location: ch10:13508-13686
+  quote: Many astronomers must have known what I knew from my days at Paris Observatory,
+    namely that we were tracking unidentified objects, and even photographing them.
+    There were films, too.
+  claim_id: b16b5a99-43cd-45a9-863c-1e214207b48b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
+- text: As a young researcher, Vallée organised J. Allen Hynek's papers from the USAF's
+    Project Blue Book
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 10, Stanford meeting paragraph
+  quote: As a young researcher, Vallée worked with and organized the papers of Dr.
+    Hynek of the Air Force's Project Blue Book.
+  claim_id: 0f52d72a-914b-454f-835b-302d03be2d4c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0f52d72a-914b-454f-835b-302d03be2d4c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0f52d72a-914b-454f-835b-302d03be2d4c
+- text: The Swamp Gas episode began for Vallée on 1966-03-21 with a Chicago radio
+    broadcast about Michigan UFO sightings
+  source: THE INVISIBLE COLLEGE
+  location: ch10:6674-6842
+  quote: The Swamp Gas crisis began for me on Monday morning, March 21, 1966. I was
+    listening to a Chicago radio program when the news of the then recent Michigan
+    sightings was broadcast
+  claim_id: 6acc5d80-7349-4014-96e2-4debabaf6ed1
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6acc5d80-7349-4014-96e2-4debabaf6ed1
+- text: Vallée called Hynek, who called Project Blue Book in Dayton to propose an
+    investigation
+  source: THE INVISIBLE COLLEGE
+  location: ch10:7530-7673
+  quote: I called Dr. Hynek to alert him to the sightings, and he in turn called Project
+    Blue Book in Dayton, Ohio, to propose that they investigate at once.
+  claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
+- text: A Blue Book officer initially declined because the case had not been officially
+    reported
+  source: THE INVISIBLE COLLEGE
+  location: ch10:7849-7911
+  quote: The case hasn’t been reported officially to the Air Force, he said.
+  claim_id: ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
+- text: Blue Book called back half an hour later after the Pentagon officially reported
+    the case
+  source: THE INVISIBLE COLLEGE
+  location: ch10:8009-8250
+  quote: 'Half an hour later, Project Blue Book called back: How soon can you be in
+    Ann Arbor?... The Pentagon! They are deluged with calls. Every reporter in the
+    country wants to know what’s going on.'
+  claim_id: dafd1fc4-4ab3-480d-9360-867c78665a2b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-dafd1fc4-4ab3-480d-9360-867c78665a2b
+- text: Vallée and Hynek travelled to Boulder, Colorado, to brief the Condon Committee
+  source: THE INVISIBLE COLLEGE
+  location: ch10:20079-20135
+  quote: Dr. Hynek and I traveled to Boulder to brief the Condon group.
+  claim_id: 322aa7fa-448b-4733-bfb3-52a412c4a432
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
+- text: By February 1967, committee members were sounding out colleagues about closing
+    Blue Book
+  source: THE INVISIBLE COLLEGE
+  location: ch10:21057-21317
+  quote: As early as February, 1967, members of the Condon Committee were privately
+    approaching their scientific colleagues on other campuses, asking them how they
+    would react if the committee's final report to the Air Force were to recommend
+    closing down Project Blue Book.
+  claim_id: 922bc460-f648-4778-89d6-966af5fff5bf
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-922bc460-f648-4778-89d6-966af5fff5bf
+- text: The committee's computer file drew on three thousand punched cards Vallée
+    had provided
+  source: THE INVISIBLE COLLEGE
+  location: ch10:21564-21666
+  quote: the bulk of the information was provided by the three thousand punched cards
+    I had turned over to the committee.
+  claim_id: 22c2126c-08ef-46c9-9d32-189799496b1c
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22c2126c-08ef-46c9-9d32-189799496b1c
+- text: The Condon Committee split into two opposed factions
+  source: THE INVISIBLE COLLEGE
+  location: ch10:21843-21885
+  quote: the team split into two violently opposed factions.
+  claim_id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+- text: The minority faction published a memorandum as evidence of the committee's
+    intent
+  source: THE INVISIBLE COLLEGE
+  location: ch10:21895-22063
+  quote: An early internal memorandum was discovered and published by the minority
+    group as evidence that the Condon Committee had never intended to look seriously
+    into the UFO problem.
+  claim_id: 7e227643-45b8-418a-bd63-fe08fd1a6979
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e227643-45b8-418a-bd63-fe08fd1a6979
+- text: Condon fired the minority group and ran the project without serious consideration
+    of UFOs
+  source: THE INVISIBLE COLLEGE
+  location: ch10:22072-22234
+  quote: Publication of this document so outraged Condon that he fired the minority
+    group and ran the project without serious consideration of the possible reality
+    of the phenomenon.
+  claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
+- text: Blue Book's files moved to Air Force archives in a building requiring clearance
+    to enter
+  source: THE INVISIBLE COLLEGE
+  location: ch10:22247-22484
+  quote: The files of Project Blue Book have now been transferred into the Air Force
+    archives. The files are not classified but the building is, with the interesting
+    result that one needs a security clearance in order to see these "unclassified"
+    papers.
+  claim_id: d00225bd-2b46-4183-bc1b-86235f9a2f03
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d00225bd-2b46-4183-bc1b-86235f9a2f03
+- text: In December 1973, Jacques and Janine Vallée investigated a sighting at Carteret
+    during a trip through western France
+  source: THE INVISIBLE COLLEGE
+  location: ch10:23873-23976
+  quote: My wife and I investigated this sighting during a research trip through the
+    west of France in December 1973.
+  claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+- text: Fishermen saw a bright yellow window-shaped object, about 2.4 by 1.5 metres,
+    emitting a beam
+  source: THE INVISIBLE COLLEGE
+  location: ch10:23277-23541
+  quote: they saw a very bright object directly over the area where their nets had
+    been spread... it appeared as an intense yellow "window," eight feet long and
+    five feet high, emitting a cone-like beam directed toward the ground.
+  claim_id: 9a7c44cd-05e0-4def-b8c3-2dda9e6c185a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9a7c44cd-05e0-4def-b8c3-2dda9e6c185a
+- text: Witnesses approached to about 140 metres before stopping out of fear
+  source: THE INVISIBLE COLLEGE
+  location: ch10:23364-23449
+  quote: They walked toward it until they estimated they were a hundred and fifty
+    yards away... The two fishermen were afraid and decided not to get closer.
+  claim_id: 25fd1d9d-5d9f-41db-a5e5-c165c2e33d93
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-25fd1d9d-5d9f-41db-a5e5-c165c2e33d93
+- text: A radar installation logged an echo at 6:10 a.m. consistent with an object
+    heading toward Great Britain
+  source: THE INVISIBLE COLLEGE
+  location: ch10:26645-26852
+  quote: At 6:10 A.M. on that particular morning it picked up an echo in the southwest,
+    moving to the north of Cherbourg. An object flying from the direction of Carteret
+    toward Great Britain would have followed this course.
+  claim_id: b9b7c443-f7af-44f3-b1d9-8cf080505043
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b9b7c443-f7af-44f3-b1d9-8cf080505043
+- text: Cattle mutilations were often reported alongside UFO sightings in the same
+    time and place
+  source: Messengers of Deception
   location: ch12:1504-1661
   quote: I am referring to the many reports of cattle mutilations that are reported
     throughout the Western states, often at the same time and in the same area as
@@ -690,99 +604,395 @@ references:
   claim_id: e1fd6e37-eb2d-4391-8b59-bbf54c83917a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
-- text: Mutilations show surgical technique requiring anatomical knowledge
-  source: 'Messengers of Deception: UFO Contacts and Cults'
+- text: Relying on police and veterinary/coroner reports, Vallée concluded many mutilations
+    were genuine
+  source: Messengers of Deception
+  location: ch12:2637-2903
+  quote: In studying these reports, I have disregarded all cases where predators could
+    have been involved, and I have relied on the original police reports and on the
+    statements given by state veterinarians and county coroners about the nature of
+    the wounds inflicted on the animals.
+  claim_id: 8a52f0d6-95b5-4b95-be41-c8606b5420dc
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8a52f0d6-95b5-4b95-be41-c8606b5420dc
+- text: The surgical techniques in mutilation cases demanded anatomical skill, narrowing
+    suspects
+  source: Messengers of Deception
   location: ch12:3056-3204
   quote: They involve surgical techniques that demand both good anatomical knowledge
     and procedural skill. This restricts considerably the range of possible suspects.
   claim_id: 4967a113-8c82-4dfe-9dbb-5cbde0aed77f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4967a113-8c82-4dfe-9dbb-5cbde0aed77f
-- text: Scope and character of mutilations indicate a secret organisation
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:44791-44894
-  quote: The scope and character of the cattle mutilations do indicate that some sort
-    of secret organization is responsible.
-  claim_id: 78e7c6fb-ce37-4082-b179-da138560fee4
+- text: In December 1975 Vallée was returning from Barcelona after spending the day
+    with Jacques Bordas
+  source: Messengers of Deception
+  location: ch10:688-784
+  quote: In December 1975 I was returning from Barcelona, where I had spent most of
+    the day with Jacques Bordas.
+  claim_id: 32a9abcf-47dd-4c95-889c-beea7efd1bc4
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-78e7c6fb-ce37-4082-b179-da138560fee4
-- text: Vallée hailed a taxicab on Sunset Boulevard for a KABC interview, 21 February
-    1976
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:50737-50895
-  quote: There I was on Sunset Boulevard in Los Angeles, on Saturday, February 21,
-    1976, about 5:30 p.m., and I had to get to KABC on La Cienega Boulevard for a
-    radio interview.
-  claim_id: 01418405-54cf-41f0-a768-1cf4e96f52b1
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-32a9abcf-47dd-4c95-889c-beea7efd1bc4
+- text: Vallée saw a Paris Métro poster advertising the Order of Melchizedek
+  source: Messengers of Deception
+  location: ch10:971-1087
+  quote: THE LORD IS AN EXTRATERRESTRIAL WHO HAS RETURNED IN A FLYING SAUCER. Order
+    of Melchizedek, rue Jules Valles Paris XI
+  claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-01418405-54cf-41f0-a768-1cf4e96f52b1
-- text: The taxi receipt was found signed 'Melchizedek'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:51170-51254
-  quote: The shock came two days later when I took the receipt from my wallet. It
-    was signed Melchizedek!
-  claim_id: 8368074c-8927-4718-8f80-2546a794e1e7
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
+- text: He visited the apartment and was told he had come at the appointed time
+  source: Messengers of Deception
+  location: ch10:1791-1903
+  quote: '1 apologized for the unusual hour of my visit but she stopped me: "Do not
+    worry, you have come at the appointed time."'
+  claim_id: 9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8368074c-8927-4718-8f80-2546a794e1e7
-- text: The coincidence convinced Vallée to study such coincidences further
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:51547-51806
-  quote: It was this incident that convinced me to put more energy into understanding
-    the nature of such coincidences. Perhaps I am becoming superstitious. This incident
-    happened the week when I started writing this book, collecting all my notes about
-    the Melchizedek groups.
-  claim_id: 0e722e94-45df-4332-849a-15f21f147e95
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
+- text: A bearded man introduced himself to Vallée as Ivan
+  source: Messengers of Deception
+  location: ch10:3341-3420
+  quote: The bearded man introduced himself as Ivan, and explained to me his purpose
+    in life
+  claim_id: 43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0e722e94-45df-4332-849a-15f21f147e95
-- text: UFOs as a control system acting on and using humans
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:50189-50405
-  quote: The UFOs are physical manifestations that cannot be understood apart from
-    their psychic and symbolic reality. What we see in effect here is not an alien
-    invasion. It is a control system which acts on humans and uses humans.
-  claim_id: 53315680-2270-4af3-985e-b842803c8089
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
+- text: Ivan claimed responsibility for the Order of Melchizedek across Israel, Africa,
+    Europe, India and China
+  source: Messengers of Deception
+  location: ch10:48641-48769
+  quote: It comes from Ivan, who says he is responsible for the Order of Melchizedek
+    in Israel, Africa, and Europe, as well as India and China.
+  claim_id: 0bb29f69-cd55-4628-b957-d9c961d51049
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-53315680-2270-4af3-985e-b842803c8089
-- text: Some French UFO cases investigated by five government agencies
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:7498-7566
-  quote: In France, some UFO cases have been investigated by five government agencies.
-  claim_id: 514965f3-95de-4c2a-9731-4a4a519a9e76
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0bb29f69-cd55-4628-b957-d9c961d51049
+- text: Jacques and Janine Vallée attended an Order of Melchizedek meeting at the
+    Hyatt Hotel, paying $3 each
+  source: Messengers of Deception
+  location: ch10:7109-7170
+  quote: My wife, Janine, and I went there and paid our three dollars each.
+  claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-514965f3-95de-4c2a-9731-4a4a519a9e76
-- text: Some facts in the book were not to Vallée's liking and shocked his own theories
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch14:153-298
-  quote: Few of the facts I have had to state in these pages were to my liking. They
-    shocked earlier theories of mine, destroyed my accepted and familiar thoughts.
-  claim_id: c944c244-da3a-4156-b3cf-dc865ce17283
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
+- text: Grace Hooper Pettipher lectured on 'Be Your Own Psychiatrist'
+  source: Messengers of Deception
+  location: ch10:8590-8698
+  quote: a disciple passed around some notes in preparation for the evening lecture,
+    which was entitled "Be Your Own Psychiatrist."
+  claim_id: 89ea1cfc-e180-4033-b265-c0682e888739
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c944c244-da3a-4156-b3cf-dc865ce17283
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-89ea1cfc-e180-4033-b265-c0682e888739
+- text: Vallée observed vacant, blissful expressions similar to followers of other
+    movements
+  source: Messengers of Deception
+  location: ch10:8221-8384
+  quote: Sometimes in my observations of these groups I have run into the same people,
+    equally blissful under the influence of Sri Chinmoy, of Reverend Moon, and of
+    Werner Erhard.
+  claim_id: 9355f614-e388-403e-b522-a53d5beab55b
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9355f614-e388-403e-b522-a53d5beab55b
+- text: In Genesis, Melchizedek, King of Salem, brought bread and wine to Abraham
+    as priest of the most high God
+  source: Messengers of Deception
+  location: ch10:6368-6575
+  quote: In Genesis it is said that the King of Sodom went out to meet Abraham after
+    his victory over his enemies, and Melchizedek, King of Salem, brought forth bread
+    and wine; and he was the priest of the most high God.
+  claim_id: 9991fc43-5b74-4b0a-92dd-16dc8d4e3a9f
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9991fc43-5b74-4b0a-92dd-16dc8d4e3a9f
+- text: An Esoteric Fraternity representative said the Order of Melchizedek was probably
+    only 'in Heaven'
+  source: Messengers of Deception
+  location: ch11:23677-23870
+  quote: As a representative of the organization told me in 1976, "If the Order exists
+    now, it's probably in Heaven. It's not here; we just have the printed word. Wherever
+    it exists, we're not aware of it."
+  claim_id: 769a0120-0b90-42d9-b3a2-b7d7ed5fcf60
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-769a0120-0b90-42d9-b3a2-b7d7ed5fcf60
+- text: Vallée drove to the house of Major Murphy, who had advised him to pursue contactee
+    research
+  source: Messengers of Deception
+  location: ch11:52729-52856
+  quote: I took all my papers one day and drove to the house of Major Murphy, who
+    had advised me to pursue my research of the contactee groups.
+  claim_id: a538ea28-48b6-4bab-9139-44e788c5553f
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a538ea28-48b6-4bab-9139-44e788c5553f
+- text: Murphy was following government-funded parapsychology research in the US and
+    Soviet Union
+  source: Messengers of Deception
+  location: ch11:52966-53211
+  quote: The Major, who was still closely following government-funded research on
+    parapsychology in the U.S. and seemed well aware of similar advances in the Soviet
+    Union, suggested that the UFOs might not be spacecraft, but what he called "psychotronic
+    devices."
+  claim_id: 6dce250c-6116-40c2-9527-dd8824b8e9c4
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6dce250c-6116-40c2-9527-dd8824b8e9c4
+- text: Murphy said a publicity programme could produce UFO sightings across thousands
+    without individual suggestion
+  source: Messengers of Deception
+  location: ch11:60282-60406
+  quote: you don't need to do all that. A few well-placed stories, a well-planned
+    program publicizing sensational incidents, will do marvels.
+  claim_id: 18abfbf6-714c-41d0-a140-8380a439c2b4
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-18abfbf6-714c-41d0-a140-8380a439c2b4
+- text: Vallée coined the term 'the Manipulators' for hypothetical agents behind UFO
+    contacts
+  source: Messengers of Deception
+  location: ch11:51583-51705
+  quote: The Manipulators... I have given this name to the hypothetical agents who
+    might cause the UFO contacts and engineer their effects.
+  claim_id: 4bf5526c-45e8-47f3-bc8d-344c92a0eeef
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4bf5526c-45e8-47f3-bc8d-344c92a0eeef
+- text: The Manipulators could possibly be human masters of deception staging a counterfeit
+    invasion
+  source: Messengers of Deception
+  location: ch11:52047-52169
+  quote: could they simply be human? Could they be masters of deception so skillful
+    that they plan to counterfeit an invasion from space?
+  claim_id: 221d0950-b26e-4115-8a4d-fd77ed70fbff
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-221d0950-b26e-4115-8a4d-fd77ed70fbff
+- text: Ritual colour symbolism described by Raymond Bernard suggested a control system
+    involving psychotronics
+  source: Messengers of Deception
+  location: ch11:72393-72534
+  quote: the words suggest a control system that combines physical knowledge with
+    uncanny mastery of that emerging set of techniques the Soviets call psychotronics.
+  claim_id: bef43c5b-9b16-43fa-baca-1247833ae5a6
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bef43c5b-9b16-43fa-baca-1247833ae5a6
+- text: Vallée believed a genuine UFO problem was being manipulated for political
+    ends by possibly-human manipulators
+  source: Messengers of Deception
+  location: ch11:77421-77628
+  quote: I believe there is a very real UFO problem, I have also come to suspect that
+    it is being manipulated for political ends. And the data suggest that the manipulators
+    may be human beings with a plan for social control.
+  claim_id: ec50df02-94db-49ae-810d-6a2dd14d8cbd
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ec50df02-94db-49ae-810d-6a2dd14d8cbd
+- text: In 1972 Vallée began investigating automatic writing exchanges with an entity
+    calling itself '7171'
+  source: THE INVISIBLE COLLEGE
+  location: ch11:16597-16832
+  quote: In 1972 I began my own investigation into the phenomenon of automatic writing
+    and I had the occasion to observe several lengthy exchanges between one of my
+    subjects and an entity calling itself “7171,” who claimed to be connected with
+    UFOs.
+  claim_id: 336563c1-258e-40b2-991e-7eef6f98da68
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-336563c1-258e-40b2-991e-7eef6f98da68
+- text: Vallée personally tested the subject, who drew hidden targets with considerable
+    accuracy
+  source: THE INVISIBLE COLLEGE
+  location: ch11:16838-17040
+  quote: The subject was a man whose abilities I have personally tested; in successive
+    experiments involving small objects hidden in plastic boxes, this person produced
+    drawings of the targets with considerable accuracy.
+  claim_id: 28370f9a-ff1c-41e2-a267-41cb5e01fb79
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28370f9a-ff1c-41e2-a267-41cb5e01fb79
+- text: Vallée considered Uri Geller a case where self-negating factors of the UFO
+    phenomenon converge
+  source: THE INVISIBLE COLLEGE
+  location: ch10:39020-39190
+  quote: In some cases all three factors are gathered around a single person, and
+    then the complexity of the research becomes truly fantastic. Uri Geller, of course,
+    is a case in point.
+  claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
+- text: Vallée thought Puharich/SPECTRA exchanges reflected Puharich's and Geller's
+    own minds
+  source: THE INVISIBLE COLLEGE
+  location: ch11:21004-21190
+  quote: Its elements may be borrowed entirely from our own brains and reflected upon
+    us (as seems the case in most of the exchanges between Puharich and SPECTRA) or
+    it may present genuinely new data.
+  claim_id: 50423b82-572b-45e0-b20a-e4f28e6ebbd5
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-50423b82-572b-45e0-b20a-e4f28e6ebbd5
+- text: Vallée had met Puharich and regarded him as intensely sincere
+  source: THE INVISIBLE COLLEGE
+  location: ch11:4216-4315
+  quote: I have met Dr. Puharich, whom I regard as an intensely sincere man, and I
+    think highly of Geller’s talents.
+  claim_id: 14969e72-d5ab-4273-ac25-bf33de486fb8
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-14969e72-d5ab-4273-ac25-bf33de486fb8
+- text: Vallée thought highly of Geller's talents
+  source: THE INVISIBLE COLLEGE
+  location: ch11:4288-4315
+  quote: I think highly of Geller’s talents.
+  claim_id: e8db6eff-dfd9-41a0-937e-d99db97c8633
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e8db6eff-dfd9-41a0-937e-d99db97c8633
+- text: Herb Schirmer's 1967-12-03 case was regarded as comparable to the Hill and
+    Pascagoula abduction accounts
+  source: THE INVISIBLE COLLEGE
+  location: ch10:33308-33523
+  quote: On December 3, 1967, a patrolman named Herb Schirmer, of Ashland, Nebraska,
+    had an experience that deserves to be placed in the context of the stories of
+    the abduction of Betty and Barney Hill and of the Pascagoula fishermen.
+  claim_id: 0129e7d8-b592-4ca8-a25b-de7fa636d09a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0129e7d8-b592-4ca8-a25b-de7fa636d09a
+- text: Vallée worked with and supported the AAWSAP and AATIP programmes
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Acknowledgments, paragraph 6
+  quote: Jacques Vallée
+  claim_id: 8f30d4bb-0f62-42d3-81a1-c5eb5de22050
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f30d4bb-0f62-42d3-81a1-c5eb5de22050
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f30d4bb-0f62-42d3-81a1-c5eb5de22050
+- text: An AAWSAP physician flew a small team including Vallée to meet Garry Nolan
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 10, Stanford meeting paragraph
+  quote: Will flew to California with a small team that included Colm Kelleher, a
+    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
+    scientist Jacques Vallée
+  claim_id: dfcbeb6a-f4b1-4c88-860a-ef5adace0bd2
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dfcbeb6a-f4b1-4c88-860a-ef5adace0bd2
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dfcbeb6a-f4b1-4c88-860a-ef5adace0bd2
+- text: Nolan and Vallée discussed a paper on exotic materials from a decades-old
+    UAP crash
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 14, paragraph 12
+  quote: Garry Nolan and Jacques Vallée were talking seriously about collaborating
+    on an academic paper about exotic materials recovered from a UAP crash decades
+    prior.
+  claim_id: a8185410-2fb5-48e6-964e-e3e357a36d31
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8185410-2fb5-48e6-964e-e3e357a36d31
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a8185410-2fb5-48e6-964e-e3e357a36d31
+- text: Vallée suspected the Council Bluffs lights came from a wobbling craft in distress
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 14, paragraph 12
+  quote: He suspected the multicolored lights seen in the sky by witnesses came from
+    a wobbling craft in distress.
+  claim_id: 3d4a0842-e686-4bee-9944-fdd81c2d6c39
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3d4a0842-e686-4bee-9944-fdd81c2d6c39
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3d4a0842-e686-4bee-9944-fdd81c2d6c39
+- text: Vallée obtained materials from the 1977 Council Bluffs, Iowa UAP incident
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 14, paragraph 12
+  quote: Vallée had obtained materials recovered from this incident.
+  claim_id: f48c83bc-0294-4a24-8ad6-cd712e2af4c8
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f48c83bc-0294-4a24-8ad6-cd712e2af4c8
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f48c83bc-0294-4a24-8ad6-cd712e2af4c8
+- text: Nolan's laboratory instruments were expected to help Vallée understand the
+    sample
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 14, paragraph 14
+  quote: Nolan had a battery of instruments in his laboratory that he thought would
+    allow Jacques to get a better understanding of the sample in his possession.
+  claim_id: 9a1bef7c-b38e-45f8-9f2f-31cac80b3dbc
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a1bef7c-b38e-45f8-9f2f-31cac80b3dbc
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9a1bef7c-b38e-45f8-9f2f-31cac80b3dbc
+- text: Analysis found the sample contained sodium, magnesium, aluminium, silicon,
+    iron and manganese
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 17, paragraph 20
+  quote: 'Nolan and Vallée had explored the composition of the 1977 Iowa molten metal
+    aggregate and had uncovered another mystery for us to solve. Outwardly, the samples
+    contained elements you''d find anywhere in our own solar system: sodium, magnesium,
+    aluminum, silicon, iron, and manganese.'
+  claim_id: 41cd6e3b-10ee-413d-ad11-68f8d61763ed
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-41cd6e3b-10ee-413d-ad11-68f8d61763ed
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-41cd6e3b-10ee-413d-ad11-68f8d61763ed
+- text: The sample showed apparent fractal structure and anomalous frequency-transmission
+    properties
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 17, paragraph 20
+  quote: there seemed to be some fractal properties associated with the material,
+    a never-ending repetition of patterns within the physical matrix that seemed random
+    and yet uniform at the same time... the materials seemed to have the ability to
+    transmit multiple frequencies.
+  claim_id: 769245cc-bfbe-4cdc-af99-03117f0cd533
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-769245cc-bfbe-4cdc-af99-03117f0cd533
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-769245cc-bfbe-4cdc-af99-03117f0cd533
+- text: The sample contained engineered isotopes of magnesium and iron in a deliberate
+    matrix
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 17, paragraph 20
+  quote: some of those elements had been engineered as isotopes of the original element.
+    Why would anyone manufacture three different isotopes of magnesium, and four isotopes
+    of iron? At the atomic level, the isotopes were arranged in a matrix with very
+    deliberate organization and structure between them.
+  claim_id: d1987c18-d75e-4597-8836-2ebe168adecc
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1987c18-d75e-4597-8836-2ebe168adecc
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d1987c18-d75e-4597-8836-2ebe168adecc
+- text: Nolan and Vallée published a paper on the Iowa materials in Progress in Aerospace
+    Sciences
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 23, paragraph 65
+  quote: Garry Nolan and Jacques Vallée published their academic paper on the mysterious
+    Iowa UAP materials in a peer-reviewed scientific journal, Progress in Aerospace
+    Sciences.
+  claim_id: 35dd67e3-9169-49b9-ac18-5b73709060c2
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35dd67e3-9169-49b9-ac18-5b73709060c2
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35dd67e3-9169-49b9-ac18-5b73709060c2
+- text: Vallée independently verified the Colares Incidents
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: Chapter 2, paragraph 17
+  quote: The French scientist and accomplished researcher Jacques Vallée had also
+    independently verified the happenings.
+  claim_id: f551ef53-6780-462d-85de-ce0ec653f43e
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f551ef53-6780-462d-85de-ce0ec653f43e
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f551ef53-6780-462d-85de-ce0ec653f43e
+- text: Vallée recounted a 1990 meeting where D'Amato said US intelligence had hidden
+    UAP data from Congress
+  source: In Plain Sight
+  location: paragraph 50
+  quote: The well-respected UAP researcher Jacques Vallée described a 1990 meeting
+    with D'Amato in his Forbidden Science IV edited diaries, where D'Amato frustratedly
+    described a purported cover-up by the US intelligence community. 'These guys have
+    been hiding their UFO data from the legislative branch for years'
+  claim_id: 903420e6-e556-439e-b528-0fa7d69cd7de
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-903420e6-e556-439e-b528-0fa7d69cd7de
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-903420e6-e556-439e-b528-0fa7d69cd7de
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: ba8be0a1cf2ab450973040f3d38b15d137e8c7dbca89facb25da8df56972a682
+  prompt_sha256: 8c49262df6279631135eed1d7be4321cc66da8d2387f9dc391f14ffb0a6518fc
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 80946
-    output: 25728
-    real_input: 1
-    cache_read: 0
-    cache_write: 80945
+    input: 85212
+    output: 52205
+    real_input: 2
+    cache_read: 5180
+    cache_write: 80030
     calls: 0
-  body_sha256: 72738e066d0e27db7590129e69047b539609d198b9d3e05fd53c8264d2a7d9bb
+  body_sha256: ce46a647aca0bffd1f7b32465d50ccd855b5a3eb53ea16f31dee5827b38c8143
 ---
 
-Jacques Vallée has described his professional field as computer science.<sup>1</sup> He is known for his investigation of contactee movements and [UFO](/topics/unidentified-flying-object-ufo)-related cults, recorded in his book Messengers of Deception: UFO Contacts and Cults. Drawing on interviews he conducted himself, he wrote that he compiled a catalogue of recurring contactee themes, including intellectual abdication, racist philosophy, technical impotence and social utopia.<sup>2</sup> He said he remained sceptical of contactee predictions of impending disasters, space invasions and free-energy motors,<sup>3</sup> while considering that such groups could capitalise on public fear under particular combinations of economic and social circumstances.<sup>4</sup>
+Jacques Vallée is a French scientist. According to Luis Elizondo's account in *Imminent: Inside the Pentagon's Hunt for UFOs*, Vallée held US government clearances related to the investigation of UAP,<sup>1</sup> and is best known among civilians for inspiring the French scientist character played by François Truffaut in *Close Encounters of the Third Kind*.<sup>2</sup> Vallée wrote that he tracked and photographed unidentified objects while working at the Paris Observatory,<sup>3</sup> and Elizondo recounts that, as a young researcher, Vallée worked with and organised the papers of [J. Allen Hynek](/people/j-allen-hynek) from the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf)'s [Project Blue Book](/projects/project-blue-book).<sup>4</sup>
 
-In December 1975 (1975-12), Vallée wrote that he saw a poster in the Paris subway reading that the Lord was an extraterrestrial who had returned in a flying saucer, giving an address on rue Jules Valles, Paris, for the Order of Melchizedek.<sup>5</sup> He said he visited the apartment the following day and was greeted by a woman who told him he had come at the appointed time.<sup>6</sup> That woman, he wrote, was named Cyna, and it was she who opened the door.<sup>7</sup> Inside, a bearded man introduced himself as Ivan, according to Vallée's account.<sup>8</sup> Vallée noted that Melchizedek, whose name the order bears, is described in the Book of Genesis as the King of Salem who brought forth bread and wine to Abraham and was priest of the most high God.<sup>9</sup> A leaflet he received, he wrote, stated that all money in the world was obsolete, all religions abolished, and military service forbidden owing to the antimatter guns of the UFOs,<sup>10</sup> while another announced the imminent flight of seven flying saucers over Paris that would land atop the Radio and Television Building.<sup>11</sup> The French branch, he said, gave him a pentacle intended to symbolise the elimination of money, religion and war, and its members claimed to be in constant contact with extraterrestrials.<sup>12</sup> Ivan later wrote to Vallée from Paris, stating that he was responsible for the Order of Melchizedek in Israel, Africa, Europe, India and China.<sup>13</sup>
+Vallée recalled that the "Swamp Gas" episode began for him on the morning of 1966-03-21, when he heard a Chicago radio broadcast about recent Michigan [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) sightings.<sup>5</sup> He said that he telephoned Hynek to alert him, and that Hynek in turn called Project Blue Book in Dayton, Ohio, to propose an immediate investigation.<sup>6</sup> Vallée recounted that an officer at Blue Book initially said he was not interested because the case had not been reported officially to the Air Force,<sup>7</sup> but that the office called back half an hour later asking how soon Hynek could reach Ann Arbor, saying that the Pentagon had by then officially reported the case.<sup>8</sup> Vallée and Hynek subsequently travelled to Boulder, Colorado, to brief the Condon Committee.<sup>9</sup> Vallée said that, as early as February 1967, committee members were privately sounding out colleagues on other campuses about how they would react if the committee recommended closing down Project Blue Book,<sup>10</sup> and that the bulk of the committee's computer file was drawn from three thousand punched cards he had turned over to it.<sup>11</sup> According to Vallée, the committee split into two opposed factions,<sup>12</sup> and the minority faction published an internal memorandum as evidence that the committee had never intended to investigate the UFO problem seriously.<sup>13</sup> Vallée said that [Edward U. Condon](/people/edward-u-condon) fired the minority group after the memorandum's publication and ran the project without serious consideration of the UFO phenomenon,<sup>14</sup> and that Blue Book's files were later transferred to Air Force archives in a building that itself required a security clearance to enter, even though the files were not classified.<sup>15</sup>
 
-In the United States, Vallée wrote that he and his wife, Janine Vallée, attended an Order of Melchizedek meeting at the Hyatt Hotel in San Francisco, each paying three dollars.<sup>14</sup> There, he recounted, Grace Hooper Pettipher told her audience, including the Vallées, that some of those present had come from outside the planet, that there are beings who come in UFOs, and that people go away with them.<sup>15</sup> Vallée said he observed at these meetings the same vacant, blissful expressions he had previously observed among followers of Sri Chinmoy, Reverend Sun Myung Moon and Werner Erhard.<sup>16</sup> He also wrote of an account involving Jacques Bordas: while working at the Turo Weather Observatory, Bordas reportedly experienced a night-time incident involving a knock at his cabin door, then a scratching sound at the window, and saw a human-like form on a narrow ledge above a sheer drop that walked away horizontally over the abyss instead of falling.<sup>17</sup> Vallée also wrote that a being Bordas separately encountered near Canigou had long blond hair and hypnotic eyes, could not be photographed, and paid with pure gold.<sup>18</sup>
+Vallée also carried out field investigations of individual sightings. He recounted that in December 1973 he and his wife Janine Vallée investigated a sighting at Carteret during a research trip through the west of France.<sup>16</sup> Two fishermen reported seeing a bright object appearing as an intense yellow window approximately 2.4 metres long and 1.5 metres high, emitting a cone-like beam toward the ground.<sup>17</sup> Vallée said the witnesses walked toward the object until they estimated they were about 140 metres away, then stopped out of fear.<sup>18</sup> He recounted that a nearby radar installation picked up an echo at 6:10 a.m. moving on a course consistent with an object flying from the direction of Carteret toward Great Britain.<sup>19</sup> Separately, Vallée studied the cattle mutilations phenomenon, observing that mutilations were often reported in the western United States at the same time and place as UFO sightings.<sup>20</sup> Relying on original police reports and statements from state veterinarians and county coroners, and disregarding cases where predators could have been involved, he concluded that many reported mutilations were genuine.<sup>21</sup> He said the surgical techniques documented in police reports demanded good anatomical knowledge and procedural skill, which in his view restricted the range of possible suspects.<sup>22</sup>
 
-Vallée observed similarities between the Esoteric Fraternity teachings of Hiram Erastus Butler and modern UFO contactee groups such as Heaven's Gate, both speaking, he said, of regeneration, transformation and contact with a higher level.<sup>19</sup> In 1976, he wrote, a representative of the Esoteric Fraternity told him that the Order of Melchizedek, if it still existed, was probably only "in Heaven", and that the organisation now only preserved the printed word.<sup>20</sup> He also described Jim Hurtak as a friend of [Andrija Puharich](/people/andrija-puharich) who had been involved in the [Uri Geller](/people/uri-geller) affair and who claimed to be psychic and to have had UFO encounters,<sup>21</sup> and wrote that Hurtak invited him to join a psychic group Hurtak claimed was designed to change the destinies of the world by occult methods.<sup>22</sup> Vallée wrote that he drove to the house of Major Murphy, who had advised him to pursue his research into the contactee groups,<sup>23</sup> and that Murphy taught him the art of recognising shadowy figures who had infiltrated UFO organisations.<sup>24</sup>
+Vallée's book Messengers of Deception: Unidentified Flying Object (UFO) Contacts and Cults grew out of his investigation of contactee groups and occult movements associated with the UFO phenomenon. He wrote that in December 1975 he was returning from Barcelona, where he had spent much of the day with Jacques Bordas,<sup>23</sup> when he saw a poster in the Paris Métro reading that "the Lord is an extraterrestrial who has returned in a flying saucer", with an address for the Order of Melchizedek on rue Jules Valles.<sup>24</sup> The next day he visited the apartment and was greeted by a woman who told him he had come at the appointed time,<sup>25</sup> where a bearded man introduced himself as Ivan (Order of Melchizedek leader).<sup>26</sup> Ivan later sent Vallée a letter from Paris stating that he was responsible for the Order of Melchizedek in Israel, Africa, Europe, India and China.<sup>27</sup> Jacques and Janine Vallée also attended an Order of Melchizedek meeting at the Hyatt Hotel in San Francisco, each paying three dollars,<sup>28</sup> where Grace Hooper Pettipher gave an evening lecture entitled "Be Your Own Psychiatrist".<sup>29</sup> Vallée said he observed at these meetings the same vacant, blissful expressions he had previously seen among followers of Sri Chinmoy, Reverend Sun Myung Moon and Werner Erhard.<sup>30</sup> He noted that the group's name draws on the biblical figure Melchizedek, who in the Book of Genesis brought forth bread and wine to Abraham and was described as priest of the most high God.<sup>31</sup> By 1976, however, a representative of the Esoteric Fraternity told Vallée that the Order of Melchizedek, if it still existed, was probably only "in Heaven".<sup>32</sup> Vallée wrote that he also drove to the house of Major Murphy, who had advised him to pursue his research into contactee groups,<sup>33</sup> and who Vallée said was closely following government-funded parapsychology research in the United States and seemed aware of similar work in the Soviet Union.<sup>34</sup> Murphy told Vallée that a few well-placed stories and a well-planned publicity programme could produce UFO sightings across thousands of people, without secret agents needing to individually suggest sightings to each person.<sup>35</sup> Out of this research Vallée coined the term "the Manipulators" for the hypothetical agents he thought might cause UFO contacts and engineer their effects,<sup>36</sup> considering that they could possibly be human, masters of deception skilful enough to plan a counterfeit invasion from space.<sup>37</sup> He argued that the ritual colour symbolism described by Raymond Bernard pointed to a control system combining physical knowledge with mastery of techniques the Soviets called psychotronics,<sup>38</sup> and he came to believe there was a genuine UFO problem being manipulated for political ends, with the manipulators possibly being human beings pursuing a plan of social control.<sup>39</sup>
 
-From this research, Vallée said he coined the term "the Manipulators" for the hypothetical agents who might cause UFO contacts and engineer their effects,<sup>25</sup> and considered that they could possibly be human, masters of deception skilful enough to plan a counterfeit invasion from space.<sup>26</sup> He wrote that he believed there was a very real UFO problem being manipulated for political ends, with the manipulators possibly being human beings pursuing a plan of social control,<sup>27</sup> and considered that contactees and occult believers had been used as puppets by them.<sup>28</sup> He linked this to what he described as the political manipulation of the alien contactee movement, writing that increased attention given to UFO activity promotes the concept of political unification of the planet, which he called the most commonly recurring theme in his entire study of contactee groups.<sup>29</sup> Of the [United States Air Force](/organisations/united-states-air-force-usaf)'s own handling of the subject, Vallée wrote that during the early [Project Blue Book](/projects/project-blue-book) period the service knew that some of the strange craft reported were not birds but U-2 spy planes en route toward Russia,<sup>30</sup> and that under the programme files were lost and cases mislabelled to a degree that would have warranted disciplinary action in any other context.<sup>31</sup> He also examined the cattle mutilations phenomenon, noting that such incidents are often reported in the western United States at the same time and in the same area as UFO sightings,<sup>32</sup> that mutilations documented in police reports involve surgical techniques demanding good anatomical knowledge and procedural skill, which he said restricts the range of possible suspects,<sup>33</sup> and that their scope and character led him to conclude that some sort of secret organisation was responsible.<sup>34</sup>
+Vallée extended this inquiry into psychical research. He said that in 1972 he began investigating automatic writing, observing lengthy exchanges between one of his subjects and an entity calling itself "7171" that claimed a connection with UFOs,<sup>40</sup> and that he personally tested the subject, who in successive experiments produced drawings of small objects hidden in plastic boxes with considerable accuracy.<sup>41</sup> He considered [Uri Geller](/people/uri-geller) a case in which the self-negating factors of the UFO phenomenon were all gathered around a single person, making research into it "truly fantastic in complexity",<sup>42</sup> and thought most of the exchanges between [Andrija Puharich](/people/andrija-puharich) and the alleged cosmic intelligence SPECTRA consisted of elements borrowed from Puharich's and Geller's own minds and reflected back on them.<sup>43</sup> Vallée said he had met Puharich and regarded him as an intensely sincere man,<sup>44</sup> and that he thought highly of Geller's talents.<sup>45</sup> He also recounted the case of Herb Schirmer, a Nebraska patrolman who on 1967-12-03 had an experience regarded as comparable to the abduction accounts of [Betty Hill](/people/betty-hill), Barney Hill and the Pascagoula fishermen.<sup>46</sup>
 
-On Saturday 21 February 1976 (1976-02-21), at approximately 5:30 p.m., Vallée wrote that he hailed a taxicab on Sunset Boulevard in Los Angeles to travel to KABC on La Cienega Boulevard for a radio interview.<sup>35</sup> Two days later, he found that the receipt had been signed "Melchizedek".<sup>36</sup> The episode - since referred to as the 1976 Melchizedek taxicab coincidence - convinced him, he wrote, to put more energy into understanding the nature of such coincidences, occurring the same week he began writing the book while collecting notes on the Melchizedek groups.<sup>37</sup> Reflecting on the material as a whole, Vallée described UFOs as physical manifestations that could not be understood apart from their psychic and symbolic reality, characterising the phenomenon as a control system that acts on and uses humans rather than an alien invasion.<sup>38</sup> He noted that in France, some UFO cases have been investigated by five government agencies.<sup>39</sup> Vallée acknowledged that some of the facts he had to state in the book were not to his liking and had shocked his own earlier theories.<sup>40</sup>
+In later years, according to Elizondo, Vallée worked with and supported the Advanced Aerospace Weapon System Applications Program (AAWSAP) and the Advanced Aerospace Threat Identification Program (AATIP).<sup>47</sup> Elizondo writes that an AAWSAP physician flew a small team that included Vallée to California to meet [Garry Nolan](/people/garry-nolan),<sup>48</sup> where Nolan and Vallée discussed collaborating on an academic paper about exotic materials recovered from a UAP crash that had occurred decades earlier.<sup>49</sup> Elizondo recounts that Vallée suspected the multicoloured lights seen over Council Bluffs came from a wobbling craft in distress,<sup>50</sup> and that Vallée had obtained materials recovered from the 1977 Council Bluffs, Iowa UAP incident.<sup>51</sup> Nolan reportedly had a battery of instruments in his laboratory that he believed would allow Vallée to better understand the sample.<sup>52</sup> Their analysis found the molten metal aggregate to contain sodium, magnesium, aluminium, silicon, iron and manganese,<sup>53</sup> with an apparent fractal structure — a never-ending repetition of patterns within its physical matrix — and the ability to transmit multiple frequencies at amplitudes larger than its physical size should allow.<sup>54</sup> The sample, according to Elizondo, contained elements engineered as isotopes of the original element, including three isotopes of magnesium and four of iron arranged in a deliberate matrix at the atomic level.<sup>55</sup> Nolan and Vallée went on to publish an academic paper on the Iowa materials in the peer-reviewed journal *Progress in Aerospace Sciences*.<sup>56</sup> Elizondo also states that Vallée independently verified the Colares Incidents.<sup>57</sup> Vallée separately recounted a 1990 meeting with Dick D'Amato, in which D'Amato said that US intelligence had been hiding UAP data from the legislative branch for years.<sup>58</sup>
