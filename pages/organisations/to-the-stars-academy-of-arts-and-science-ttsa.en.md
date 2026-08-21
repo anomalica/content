@@ -1,538 +1,1078 @@
 ---
 title: To the Stars Academy of Arts and Science (TTSA)
 description: To the Stars Academy of Arts and Science (TTSA) is a US public benefit
-  corporation and entertainment company co-founded in 2017 by Tom DeLonge to research
-  unidentified anomalous phenomena and produce related media content.
+  corporation founded by Tom DeLonge in 2017 that publicised Department of Defense
+  UAP footage, pursued materials research including a partnership with the US Army,
+  and underwent a major leadership collapse in 2020.
 metadata:
-  founded: 2017-10-11
-  headquartered: Encinitas, California, USA
+  founded: '2017-10-11'
+  founder: Tom DeLonge
   type: Public benefit corporation
-  status: Restructured (entertainment focus from 2020)
 built_from:
-  brief_hash: fbf4710b7f895702aa0bb03323f87f9894266c8260521b7a4c23da8f80db76ba
+  brief_hash: 91839e2bf4e0f79191eb71141e6c10242763c408a4957a8a6e5225c95471bbbe
   claims:
-  - id: 5939c481-8324-4550-ae4b-232e6ad4d5a9
-    hash: 02b67ba33f21635a89c30ad13987cbb3f862c34dea19b67ce60b4db88e4641a1
-  - id: 6e8394de-4f5e-4e6f-832c-1e5f6abc8504
-    hash: 1c059676a8cf09d09653395ab35d1d06b74da320affbd88e5d2dbb8d8157ad65
-  - id: 754a259f-b933-4f0b-a86a-653171dc6745
-    hash: 808017fffbc94ec40f95fd81c647b31aafdf8749e41d1950b5c5a7bfd0eedf79
-  - id: 36eb7757-0e84-4840-8e20-1ce514c6c67b
-    hash: 4b546747184486bf79c6e65b56feb3c48626aec36f4907aecdb1f58d851b23c6
-  - id: 45f43393-7999-4411-b499-b8fb521bbf9d
-    hash: afdd6f09e218c8f62180cd0cafafdc43de1190449036879b62f816ba34324961
-  - id: a4f60313-8c8c-47ff-a77f-f41df7f458cf
-    hash: 2669ff7d39365f08c26ceaa74a68998b2a48d93774539ff57763f31c2994bf2b
-  - id: e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
-    hash: 7c3b97a096c91a6a94007c4cc145902325700ea1d0d5fdb46629792ce7550169
-  - id: 5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-    hash: 7de272b588891802016b2bbbb220ef8f0dc06b9c3eeb5dc96a756844dad2e912
-  - id: b31a9391-00bb-4142-912d-f3196caa6fdf
-    hash: aeb8682a0e39d5f3df6d8c551f5e16442b2ee871a4028840a983e7055ad13901
-  - id: 7866d4f3-2f08-4ccd-b1c2-dc2e88a3376a
-    hash: b4bde167eea976d7fdcfed12e43c1bf18cb0bfd89914506ca8979872ea8df1de
-  - id: c8ff6f55-8250-430a-9d8d-c83818969d0e
-    hash: bd0faeecbd15d7fb5839b1f4ff704158c89d24b209e7978b682833e7a2d059f0
-  - id: 12d549bc-6b84-4812-a32e-559864267486
-    hash: af3e1954272b222b08d09308cd3d874ad29ee4549e4a43da9f10a479f24623d4
-  - id: 93ea288d-98bd-4952-a635-e78832488cfe
-    hash: 782b533fabbe862d094d6c8f4529fbfb4985444107efa5dc1b65651ad505a910
-  - id: d4f72283-9878-4381-aca2-5a4fa1d71454
-    hash: e17d1be9d5913e0429ca3f1b5b23fd52061fad6efbe9ecdc480ece67b7912106
-  - id: 01709a32-3719-415b-a1b2-b0745564fb28
-    hash: c2c6e675bbb9eb24767808afcc3489c7570d1998acec44399afe01f1ad161836
-  - id: b4e5c949-0e04-4027-b7bf-b2d9eeb21417
-    hash: 450da1394e199bc2583e14c52057587bde45290cb1a52816970a770141ac7f37
-  - id: c3730261-ca79-441c-bc70-e5582d98dbe7
-    hash: 67d69cc7658a5403602e09efd8e82618365d1aa5f313d2cfb47528e19e5a8623
-  - id: 6a905344-819f-42aa-a86d-be56030d407d
-    hash: 739b66ddb388f2f1475ced60c8484cc18f79611f126242f49271a3d78aa93ab4
-  - id: d492bfdc-0bfd-4fa2-9c28-09d7d4a09d2c
-    hash: 7952a40b06ad0e5f97e7b8ea75f35765508566dc57d370b400d89078654314e8
-  - id: 47b3d06f-a888-45b7-bf63-cfb447281bfc
-    hash: 50741cfe544879d2241d0880f815c7562e41f0ee057f97cb2991e6ec84062579
-  - id: fb6fe4db-6bad-42b6-bb7e-8d07df81f49c
-    hash: 5b36b5ef898ddd6e23ba512b6d65f8a10c29116e06770a6eb7c93199458eeaea
-  - id: 08854a67-2c23-48a4-bc63-ae49a99a9c5e
-    hash: 1964d23187ced47d6179a1af618e4a947753eb4700358de1588cce852c8a11eb
-  - id: 90cde67a-958f-4b1b-8d01-c49a2eaadf3a
-    hash: 3dd68bc3f5b7222da9e719f4b8dc000f5c2a86520492aabd67c95e3096f16b24
-  - id: f381e87e-c307-40ac-bb83-2392218a9baf
-    hash: dd9d20927a3bad5b9ccadb3c1348d6739cefbe1f5cb7fbb43e66a99b681d911a
-  - id: ca4718b9-77ea-47d4-b0f0-c708cc8b8e26
-    hash: 741bb2a6a227ec4cc1055cfccb1e7b00d59eafbba4024a31413d7cdac1fa6472
-  - id: 8cf327d7-11ee-4e98-8fbb-03692cce33fc
-    hash: 2bbe352507db2a94fa57f8e30fb15d55980917ba22137f41efe95ca60bcd8284
-  - id: e892b940-6920-4d2a-a5a5-5cd7705c5687
-    hash: c0cdca10506372c79fddb3a782d50c5366a5d5b3de2878b63181f719a816f98c
-  - id: 11c2634a-88c4-4b08-a0a5-695c93716c11
-    hash: fe6bbd4c486ea701d17bd2052d79b0522440d7781766ddf5bf5c6a4d6827ef59
-  - id: 1545b738-503a-4d38-bad0-b4611e15cb74
-    hash: a519364e4d3567e4af555c828ff9121dcb14e2dec0c0bbec28f8f1011c769c3b
-  - id: 50eb7c36-f4cb-45f0-813a-02d9b6d0dd16
-    hash: b63178a62b7b305d60473712d64a661f02cc4a28c7231ecf91b4e2ee1ddef3a7
-  - id: ebf6f96d-2687-49ba-9d31-40ec5b975710
-    hash: f856c122fb4ccaa85594f21a99a6aac901df2804a7db1326900d2c3327808994
-  - id: 676db77a-5986-41ce-927c-4abce3874e40
-    hash: 677a51cb9be85383d817885a1b920fe24e248f9f76ba2358230a9ec099a4a92a
-  - id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
-    hash: 2b0cdbf945a301450bd82699775202926f6e74c1cfef67767ff594f91e4e5d46
-  - id: 2c355052-4560-491b-a694-6520c6f9f7a4
-    hash: f51c054b35c9b0bff30a7389eb02dca3987872eac9dc9956618ae18bb0329735
-  - id: c0866653-1e90-4a99-8034-6becb1a494e0
-    hash: 47fc7e78f4a18edb5d799e5856c66c1d6b90bd6f48b752e662b7b4231457bd28
-  - id: 40dc5622-5490-4e80-ac5c-62965c7d277b
-    hash: c9cf452881ce827113616b629e4c785a801fb68de2e8db7f682503d7cde1ed64
-  - id: 7d6e2d09-5f0d-4c56-850e-f77e09719e7a
-    hash: 3709a4f049a89c0c6497cffc3a662597de767a696617edd08345ed360f598a6d
-  - id: a0ea4d6a-44d5-4064-bc6f-77803d97d30c
-    hash: cc69640f81d001d75043e47c3544771b10dd234b741d5712f077d4721d3b3eb3
-  - id: 76b955e9-a20f-4048-bdef-d682dfd5ee6a
-    hash: 3f32dba50de2c57c98b357ea106088608567e252b5dc6c898f202efbbe6c6dc0
-  - id: 9e8d8d4f-70b4-444b-8bf9-64d87dea1d5d
-    hash: 472e241712f31251c2d866c05a20dc10cc2bf056428b11e4e73199d2eeb6a6e7
-  - id: cb199c86-26fc-4145-96c4-f03cb2a768c8
-    hash: 70a3bbf3a1521ff826dcd58ec9269199d7cc835aa7ca9818354069384cac7a31
-  - id: d15e5a34-e9e0-4fba-8482-907a8680ea88
-    hash: 7956ce5137b730c9e5fd260d0d76b1a8dbfb435b64e9fa444eb9ce9ab121d63f
-  - id: 08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
-    hash: 82008674bd4e5a93f95e1d39c2e3fc4ea10ae846f0d585280132a99da0f5e6bf
-  - id: 72ee6d5b-a88e-4739-9a14-6944ba3bb6f5
-    hash: 94e53355024aab0a24399eeacd2bfb85b935f779cc74ecd988f4273cc7332449
-  - id: 8aa38b85-3d1a-466b-8783-600e5ff2b48a
-    hash: 1367765df3efc0a565dbec99e30dde046a73268c76d7d89155525e1e4e54dbc2
-  - id: 9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
-    hash: ec5f201e6dab71925863d131b2a091793641d0d0a7f468af92650d4a4f3fe2ee
-  - id: dbd40ba4-1c63-4240-b4f4-d84511dd2745
-    hash: 1e0bf08075869fdc48080df1d79db5235c08a252b9d8a159602390d5b3848c91
-  - id: 3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
-    hash: ac4b7d09da18aa95cb5b3da9f385bb482e6408a2a26169b6a4e7500616aef9ff
-  - id: 15c94db9-59f9-4253-bc20-bbfd27418b73
-    hash: b99bb14f689b52efcd7036e29b8d8a2332f88483d1e0fc3fee4316292bbce4d7
-  - id: b679d2f0-4910-4e5a-871c-5a9166983fab
-    hash: ce87bce1e1780082d0adfd793f01ef4b01f27a6f1d9977becd9ee24f6852ce7f
-  - id: 74688a38-38c5-402a-bde0-8cec7c2b4e69
-    hash: d451de6d95b2a844b3569a7a053fb1592080927b2c4e8fb6986a9d1e6c9ef376
-  - id: c31a8888-9cf9-400e-b2cc-8926047df637
-    hash: 9292fc8e991a1b7e5fe8f3af5bf9ebd4bc181c96f456ed3694b1abc721bb5768
-  - id: 126eeb2c-64f0-40de-a3a9-e4379a902d41
-    hash: 669fa927e6e8da8cec5631862fd449941f2d86d59bb718a7b2f4c693cfb63735
-  - id: c35e1dde-c698-48e0-ad61-0d7b097212df
-    hash: 736581b438c9c484ad5258cb78b3e83223e3cb0ca2003a864709ac03cb1d385b
-  - id: d9190da5-5871-4fa5-95e5-3d5efc808fe6
-    hash: 667702e638926164ffaf6386920cf23f2117562c994dd53cfc1a8ae4b2211153
-  - id: 1260610c-7f56-451b-8b2d-e9cd1f59e504
-    hash: e1caa126f5bee1419c22f67c8ad1358b1c4c5e98384a4ddf2be3dde09493694b
-  - id: 459b67b7-d579-4058-a102-1a9b3253686f
-    hash: b00f70d8af6d9c3322bd378379b30c82d5bbf94c6b22712265731f08506ff875
-  - id: 4d1e7ab7-e060-4288-9d57-8415bafb2300
-    hash: a1c4ada28cd6d8e04d3e61705300f8e42e8f77d7970a734a496c243cd1438613
-  - id: f9aa1f74-26d9-4b32-9efa-73e03279e77e
-    hash: 1e1433bf5ab8f3568f57a29a2f09ab558b8bd226216e2365159e539842e1607a
-  - id: 1ef02223-f8c9-49e6-9c22-b01622a24c13
-    hash: 7532751c4098f5877a6e6b38835f502a8e850a05957597fb3c85a588245c8f10
-  - id: 9082cde6-d6b7-4e8d-9b26-83d08a330573
-    hash: 4b558408ce74c49c7ca5e40b7cef86ff56bbb72317bb317f2014bf29e21701c7
-  - id: 9ebfbea6-6d53-4ce6-afdd-fb3dd0dffb7f
-    hash: 2387102481c9fdaddaf6b8e3d75b8a193563186cac044fe349e25220fa891697
-  - id: a427e945-7997-4f95-b895-752e6ddeb320
-    hash: a505c92634a24a73d6cae6a1a8f75bb20bcf473dd33b5638abdc19f577100e1b
-  - id: c256a3cf-6573-4631-9531-80508f9d9f47
-    hash: e8d19c4135cc67d07e06630381eced0ff75f483d3c007734e36f88449b148d09
-  - id: 11a819de-2595-427d-ab4a-591f19dd1e00
-    hash: 50882e4a04e6b7f294652cd0040230ed2d3e77e58acc86d9207bd8da13e5889d
-  - id: 74cc69e8-0707-44f2-8d60-63b85023afa6
-    hash: 817b2be6a5da866f3cea748e9ac6ac23a9e2f4b226303ea4f3ea24be6daae545
-  - id: dca1eb09-ed81-49ba-9dad-90763fd97205
-    hash: af86e5dbc8ceb70f9aa60c798be0b5826b22975a98bffa78f936f232e0a6afa7
-  - id: f3be3b51-1dfa-42f1-8c7e-7eb95c957c17
-    hash: e70a57634ca77a754dcda896c72abc698d49c785b3af326eaa5d31077836a2c8
-  - id: dffe2ea0-a965-433a-9f97-5849902cf9c3
-    hash: c1c4c167ba29ec8f0827177fddf4064b65e9a323b5910bd002e89456f2baa42b
-  - id: 79312dc1-05bc-40fa-81ca-d95936f173d7
-    hash: 6d859d6c28247137e116267e5a12b254f3803a381ba7737eec0d1017632819e5
-  - id: d39f4abe-afce-433a-9e54-5e5cebd01d69
-    hash: 2d2348acece25db156e1b99e0fe01d5c3fd76791b998e78848f107b9fda04553
-  - id: c925f9c1-8c2c-4fdf-9863-e48c264aa47e
-    hash: 5be7b51d9b1092dd23468029636c6dde98b992505a16d1053554d533367efb70
-  - id: 7f13e7d4-9ede-475f-af12-4f3d5482781e
-    hash: a66b8bfcf173c2468d2c1b06c539d3e0483d4bf4ef71efca899deefa6c9a7919
-  - id: 6fa4aa6d-5146-4675-b8f1-61b6774260cd
-    hash: 5999f39a98c17cf665a9d0cd88b9017ab5b61c0ffb5f824cb97de8d91b73d18c
-  - id: a1991698-44cc-4a41-9901-4943471e6281
-    hash: 68912d9c26e343e31b3cfc36e1f70c989dff375d98e1d8ebf1b8ebb3e04d9e4e
-  - id: 25bf5dde-8ce0-4142-b843-880bf3467095
-    hash: 22871246389604471abf4d05e2d192fdff6868a513870d77ca9f189b9f82877d
-  - id: 3c97e01b-869b-402b-bd42-7ad51990d9d6
-    hash: 27ca8dcba573ee330cd3df512b51f493b19a64a8113dec24e572577c0f96e492
-  - id: 7fc41d14-8af6-4110-9666-8edfda722328
-    hash: 6b32ab073654bd9b27d7632355c3eea2d7a5a6487cb379cee66ab64079f5987f
-  - id: ad0462cc-ecbd-4c52-bfdc-df76b8d01aa3
-    hash: 4b9ade9243c336f524ac37187202edbcb22488a8bcdce59ff567ccd0d8ac9974
-  - id: e939a982-781e-4d65-ac28-0e7082e08288
-    hash: 02e07c6c40aafd9e53aace32a08accefaeff80234aa197c4e717990c6309f156
-  - id: 884de375-f316-4aaa-85ab-e0796ca3f344
-    hash: d00f5e7afb4a76573b98626263feea55ac71cb2746287174ad980fe0ccc31873
-  - id: 8f8dc709-87a8-4d39-81af-194dd2b327ed
-    hash: ec9769f6c1e72f6d7934a96b06659f93b74882b9cbc3db618b6339a916ef1e3c
-  - id: 3a3ebed6-8a63-4689-83ad-eb364ea2863e
-    hash: 007416492c9ec0fead97bcff911ee7b9e7d739b730c1182833e84f7d82f2fd26
-  - id: 601501e3-78fc-4916-baeb-f9ac4101540d
-    hash: a1229a0f854e1aa660a0bf7a5edd939fd3bb0e77706ba7ef390b76882fe3a899
-  - id: 9fe6efb9-3703-4675-a7a3-d6b5d7a4e017
-    hash: 622bbb780964885442954357e89151ed670139ba487eaaab79e8e4e6a2707f69
-  - id: 0632f291-c405-453d-b907-32d442687b03
-    hash: 876f2ffda99b4c55a1a2d6cc293f9d8c8584ab5cb77d2e82963a616a2260dbd3
-  - id: 389ceaf0-05a6-494a-9251-e5f3718b42dd
-    hash: d15fa339f92ad55741c015a380e74f513ab004f8fd71c6e296c073b3926569b7
-  - id: 9a4159b8-43ab-4eda-bb53-7af11c2946cd
-    hash: f46368784bca877ee03efa6592abf9ee3f9b3cea5d61dfa2b7b678bf76c8c8fa
-  - id: b883f429-d173-4c57-9a13-8cd79bd0f5fa
-    hash: a8c23226c2546fbcf83440fcd8a39a3e7649d28bc2d9802eec6f6cb76de9ad77
-  - id: 415cc951-af73-41bc-8090-732dc3f1cb29
-    hash: 7e77b73eabd6d122174498e79e74c727521eb2fa53df959655fe45da196e1d74
-  - id: 53ef19a4-2506-403d-90cb-08d397edd67d
-    hash: 7ebeed961d816283516392c212d082daf6d5b27e64711b405c37d562dc98289b
-  - id: 11027486-8bbb-4d8d-b3e2-7d3bbdc49744
-    hash: 5dfb2a313df0f48e154219da4584899357f34a60fc9b0f5c4487d3ec4f9c25aa
-  - id: d87fbe7c-7ce4-408d-b829-1ff927c6546c
-    hash: 2184530a9ab88b1a578e21deda487b5047081c583f89105fae4bf20c8f65a124
+  - id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
+    hash: b01639650f3304ac4c19615b1da9abd592d9abbf30e810c8317551f679adf431
+  - id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
+    hash: de96090e5344ae6105a110b8b8595334913e50b5c8f7f85e50a240bd4e4a549e
+  - id: 7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
+    hash: efdad019a57c62fbf781166c470af8024a1bbc0fa5eec1679474bf0e1a66af43
+  - id: aa3a1f2d-4886-44fa-a87e-496072402fc4
+    hash: 86228f5d699cd84da9255a89575210d158df9248fbc3d6e188d2fd28c54dda9a
+  - id: f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
+    hash: 015a627b983c7db5cc22a3a8caf681ad5161fbf59835388c3641ee2f16e78015
+  - id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
+    hash: a09dc4065ee9ad8c37bafb50be3fa80f256aacc27cd20641d1157e176e17570d
+  - id: 1d432dd3-1930-467f-8d43-4ea795a19b4e
+    hash: 5954747a274e560aded9a20dc82e31e6952c3f1830a5168b205a2d90ae490cff
+  - id: 60c27c86-b087-4a81-b759-66b26eb0b951
+    hash: a4c48e7f80407b2a73736a7a237e52f69eee025e215dc0966ae9ae8e579e067e
+  - id: 5b34a3c7-f445-456a-a54e-396af2bb500e
+    hash: 9c78c4ce95c6994440bb86c79a44ece8d747313510242a59209e01865b59a95e
+  - id: 09e7fa8b-93f3-4d60-a72b-268459968f43
+    hash: 67823a93e648fa33481139e64aa69c514927db68b4098eb84bd6aed6574fa9db
+  - id: ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+    hash: 96d2f36aaaed20a3054eb5bc0f2083a8ad50f8385b76532a71230bfbb110800c
+  - id: 2f5610d4-c62b-4a94-abdf-4f48c77099db
+    hash: eb8e75098adeb1cad173f30cb59bd2d5cc9462b3972891c87513242311fa611b
+  - id: c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+    hash: cb17d065fbb686eff6ed44405a235e0d8b81bce01252f2758fc4db1b0c57e175
+  - id: 4b935066-decd-49f5-8a93-4c6ce1b8f290
+    hash: 95153eb0df8b86f0fb3e0602a4ba86762b157ab2d491a9c8ee3b852bf39aacc7
+  - id: 3be78208-ae8c-40d0-ba4d-8b8e20db8ef1
+    hash: 6bddc37a34efc5572f9fe13371bfa1df79ebf909ac0fffc1b0a16a821da8f460
+  - id: e46a6f7d-124c-46ef-8a4f-a08d9377476f
+    hash: 367de2ee874e4bb5205900aa3b9ed758fb3e3efc885e8bd50fb066e7a5f35a25
+  - id: 2208e199-629c-4035-af8c-ef322970e958
+    hash: ccdf19da4b071f750c677fb06a5091a1a5563a31be74bb04900916a10a22475d
+  - id: b01c62bc-0b61-4884-8704-2b340d60b2bc
+    hash: 5eb7a8099db0b29a8062f8d46285fae754ed1524513ad11008ec80883ac36861
+  - id: 45996b72-9474-413f-84f1-31279939f290
+    hash: 23567c871150875ea8e64131eba843789c20b3bfc4ba909eac2b639b70336d88
+  - id: ea7fb8d2-09f1-4356-be0c-dce426c9829d
+    hash: 88d77d08936682356ed0850244217ec6140e37d43ef541a6396738cb530e3e00
+  - id: e5d58e67-3b73-4c77-87d8-c59a7c37c8cb
+    hash: deae97af1fe8ee7e3c8218ffe5a31f2966889e07cf6c442381604a5b8dfcf1c7
+  - id: 9e634865-dd5b-4b4f-bd56-a0db7dcfc189
+    hash: b48376a327478f854dd37cad52343c9c54dce568b2adf9e580dd377ec86f3eb6
+  - id: 702764e0-6873-4177-8563-4dbc81ffe89b
+    hash: 587038ae286484a58ecc09cff0965c29ea6ffba7d7a9da1a5a0c0481e842274b
+  - id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
+    hash: 3c00896f4d4335909d0a954092caf4c7442d3cb29bb70af32c590ce82bc4de4d
+  - id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
+    hash: 5b959b8ed1e11bed51ea4c515779cdd2d079fc5201e5f6ad8dfcf814c15f66b2
+  - id: e1284d17-f24a-4cb5-ac54-a16349549048
+    hash: 8b9556b21172e12ce4c3fec0855cf176b665de8be17696bc96ed39139a2c7e15
+  - id: 47d8d59b-4823-4c90-8d98-47e705078035
+    hash: 0fb90fa878b0ba1def12cae00251bfee2c41f94df82c77f6e00b26148bfa7034
+  - id: 607b071f-c537-471b-b0e6-cd95dfee5ba8
+    hash: 3dd615282f7210c817e676ee776623d608dbcf18e99928bbf58993bfcb2f12df
+  - id: cae83164-e7fa-43d1-b67a-1c698ada9d1f
+    hash: 66f85f4a54e5eb788437477e5ae42d7b8024e0a878fc9232983c848cff3520d4
+  - id: 196bb9ec-5ec2-43a8-97e4-3847858b911e
+    hash: 643d65c6e0b829bb3f014dcb87a35d1f1c139a1964e39b54a6187dc2a3ce7576
+  - id: 9898cf75-2714-46d8-bb85-c5020299e488
+    hash: 8d3817ee79bf6d18f807628383072b9571d9136578f683906874082401be1f59
+  - id: 9b520d9b-7aea-4521-90ec-94cab1ddea8c
+    hash: 54c612c7a3eae68dc1853401534cef0a8d2ecda562832cf474d6f99e3d198498
+  - id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
+    hash: 75b3bab326816cb5e54ebf4517bff94750d4ab4e8025d70814582e5ac9cd4da8
+  - id: 219f9ae8-2444-476e-92d8-303b5f51f594
+    hash: d8a82c28e00375ef2e6f948f3a9b9a66feb34c0ac936b27299555fa5fd9c6fe9
+  - id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
+    hash: 308fef1269ff018b31c60d666c996410941ddf51fda0ba87a7f188c4221447ec
+  - id: 85b1ea24-960c-475f-aab1-de65883a4426
+    hash: 4709f85a1b590a7a44daa573204ac147431b3c862ab23a5bcd4c1d2003e928af
+  - id: cee21df8-0645-4916-8354-60ea159ac53f
+    hash: 5a2fde06732d7e2dafeabe517ea2108525e29ce1c76dceba3b82ea0bba903005
+  - id: 8723e6e1-6842-496d-b1da-5345512fffe1
+    hash: 7b442e3a6f0194d807f561af039eb49f01493449db575a87c77c4ea33089615c
+  - id: 61cec41b-6906-4711-a6ce-53abbf531d90
+    hash: 51aa00b31cf79230c57264e3aa3606d6b404b0080b1441bf64ae255e59040753
+  - id: 5cd0019f-d8d7-4d99-aa45-cf1720230349
+    hash: cbc841ab73f7246f9340373aa6ccb445b60cc803495d0e14ded9c0c6a2246a9e
+  - id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
+    hash: 88fc914eb54079da5afb17bb711f0f5ff842bf1a91057d229dc457f14328abda
+  - id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+    hash: d9431fe6966dda4137a0805b4342d5a8ed3a6a619d83560f3efc17b75ce68a87
+  - id: 3858175d-54db-4ce6-bd6c-d49e54573a31
+    hash: 012529f3f003e157c098cfa0b5ca65a3212b365515b6f6136a3f2fd7d359fdc2
+  - id: 47b0a5ce-2faf-45bb-82d9-cb9f36266a94
+    hash: 4094b8e161b6505af261cf802dbc8f1cd785b18a6fe6dd5e361d8fe5ef8955fe
+  - id: a9786ec9-633f-44e7-aefb-373bbf1661f9
+    hash: 1c016820cb299a55397431c4c98f1b38fee32b8ed1ed334cb01265482f91f6c2
+  - id: 00d14264-3ef2-4068-beeb-d557b2eedea6
+    hash: 5961331a6b90e04d38193b9c212d1947030c3f344cdfa1e2cb5e245985e8cbff
+  - id: 3eba7266-76f9-487d-887f-12f495e7b711
+    hash: 6110ce28aebfff425530c9a462acfc2a8e2efd39b5737394b218c7284f714b0a
+  - id: 4b4aa388-ce57-4678-ad5f-e800019815a0
+    hash: 968d79b835facf68d293c0cc247c189361d6806e0d722f939ff97e6e56e5c034
+  - id: 7a6c903a-daac-4e7b-a8a6-4fa37a344972
+    hash: ccb233d4f6e290c8e1b4cda5e7416f05bd5e4eb67b178909d0c22dcd00009c69
+  - id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
+    hash: 7fe67a870eca1b6f84b7fdc98129b02688ee3a43fe6aae91123e514a63eeb8f3
+  - id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
+    hash: fe4c16fc22d53f619c9ff7beb04c7748d58f017b339c3820e2bafd45db30aa98
+  - id: d8dbe216-7e11-40c6-9607-7769cf1b4585
+    hash: 9b3594af6c17d557529e26e7b6d4d30e598a986b4a6e996e1f61a6daad9f1cb1
+  - id: 055b386c-8123-4f44-83ea-c45273951127
+    hash: 45c33fd9ce81a40304a6c69fbbd4b4e662d3e087ed7c7e636f046b5d703132bb
+  - id: d8bee6c2-0d08-48f2-84be-b607c8ced809
+    hash: bbb088d74da67be489d735a1e09b0f5c5904d991dbe55ef229f5024c3328dd7d
+  - id: 5318ace0-f112-4ebb-b581-add2a00e1491
+    hash: 2ea456c55c5968e486e9063f63c0b8ce35a3a41cb0a678b651a498e944336b5c
+  - id: 52daba22-0f49-4853-ad74-bc52257151b1
+    hash: f1dbf72d08c09d75fb44fc27dfdc4bbb8728dc8c3f73134b146d425f07f76b6d
+  - id: 4145f5a8-0b7b-4e0c-95d1-1e1aadc94dfc
+    hash: ed33033fcf3a4e65c8cddfe3590cfe9a34bd3304db26b555098b0eda9300a594
+  - id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
+    hash: 9438b430b7e22b418135f1eadefdb0337bf66f9bc3db133b9f0b55afb7996b2c
+  - id: da63a0b8-6bab-4f32-bedf-731efece4be6
+    hash: 73dcc6b5cf1de9426d36b7e6b02b240a8300e2dd9528cc183351f0726c30a34a
+  - id: 76686c7e-bbbc-4060-9f15-b725804e732e
+    hash: 6d53b5b7f01793c5a1fe93caf4b333ff67ee5f70ba1b5b5dce73eb62b533714b
+  - id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
+    hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
+  - id: ab077e02-bc57-4112-9d5e-c98edd09ae90
+    hash: 4b09878318798385297429f6ec1af8aa3d08baa66cace6a28e0ac2dc97c68e08
+  - id: bf19f7cf-49bd-4a7b-97db-6ae50bccecf8
+    hash: 3bfca6a5f3036410ee967897e670bcdcba7246187a73db84c67e2ada108c6536
+  - id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+    hash: 323bdc93ee5df93fa2ede96983bdd6e52f2d37e2e6dc0a776b195abf351ef7ab
+  - id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
+    hash: 9cbafb6aaa5470f0a5657d9734a7f2d8765a9559f9f9c718dd4a6d90ee00a134
+  - id: 904c1482-da7d-4a58-b305-819b773def07
+    hash: a0558c32bdacb3fc38647d61390482a6079e098b129f8eb9a4144d8360689898
+  - id: 06c100ff-b8ca-4629-bbbe-748422c0b004
+    hash: 55f7ad33c6d1d40fabadb06e99c2e7bbcfad58bbbdf6f9e1d6970fab75886bea
+  - id: cb96298a-ccfc-4eb7-9664-e97a007c094d
+    hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
+  - id: d7203771-276a-46b8-b5ae-c4df80fa63f2
+    hash: 9e3426af60ce5186ac75fb54f07bb0f84cf87368fb84343753d9c4742b4f012a
+  - id: 54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
+    hash: c15ab8e701fe312c68b74f7fbd6458fa3b8c258f3c7f147ac897706aa7ada6b7
+  - id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
+    hash: c41ab23f96e69bff938be9f316ccf3379636061617ed5fbd6a65a3c447e06197
+  - id: 634a36c0-7969-402f-9ad8-018043cd2e67
+    hash: 4a30ee21aeeb41b9d2083a9dde095f295cbbd284463d9dd86cd667862510712a
+  - id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+    hash: e08b9b69b75fb29faa90a9912a58aa8c8ac6e95a5d9bf4ecea13a37ec00db0b8
+  - id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+    hash: 39fc5e314c9a441e4d361ab446ba6c774abc55bcf246c42af5bbbde6234d84d5
+  - id: 23e98b34-094c-4ede-adf9-326322ec7bd6
+    hash: 02712257b36772d268307f50781efcecbe7522d012dacb86551b9a5a5bde3e69
+  - id: 6bc69246-df7e-4011-aed5-c4c3e40e2ace
+    hash: 85ef1ca8eb93eee89a17a231e4e7f0fdf5fbd3243c23a5178fd863ace23ed417
+  - id: 72543354-56bd-4eac-a2f6-8a72f1a264ea
+    hash: a74c4efd1ffd361a12adec5cea14a63b3c1cf4e6571c8bd73d75cc25754d8978
+  - id: f72a856f-6b02-4ef0-8694-7bdaf24b0bae
+    hash: ddd1a3d9405d03d585708fd4bcc331dd1effc08081fbbe57ad28449706a27640
+  - id: 039d0197-31b8-44cd-b93c-f3616c07ade2
+    hash: ad076dd5922587c581de5c1f68867c284435c7e0ddcef075d11a0ad6f58d334a
+  - id: 85498899-b094-458d-bded-b678519b076d
+    hash: 7f23d8d2868c476f20ff64d03ab55634140250b8200f3f4cd4d4da88fae4b6e8
+  - id: ae288279-4321-4651-ad08-654c6e8ebf02
+    hash: 7e5f0b7052d1b7327652651c7f7cafe5bc96878e1ae701ecc358d7c00411c22d
+  - id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
+    hash: e1fc0963b3beb4dad4a4953dd71ef25bd437e4d68b5b0ba02029c8f17df2cd95
+  - id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
+    hash: 2373aefa3616ac8a621a6f7a4eeeb390d5c275502b0f20e68744b315746772ae
+  - id: d445f491-60d0-446a-a1f0-69d58392f44f
+    hash: 2cca84dcd0302c1d0de0843f61a27d23ac26998b95dc51773ffc55938f0d153d
+  - id: e9c95a57-2c99-4867-9ca1-00b69c3e9050
+    hash: b24918a20df386e19f98566386fb54a312ebd8ca6a718f841d541a04f4a99009
+  - id: 9423194b-7b6c-4159-8b28-3c930e8c2866
+    hash: c99629584b78e32a694533d1440324c4ecddb4b38c63f3441eded5428e472df9
+  - id: 0df27518-238e-4931-abf9-88ef93e103cd
+    hash: 7a24442865f12b519809c8790c39aa53819c144f64585d8b8a6d1520444993c3
+  - id: 8419742d-0e6e-4fc6-b595-570c36b18ba0
+    hash: a9afded7fdadb0759c89d08e80ec1f663cf4ccd3e99deb600e59fcc35dec4325
+  - id: 2dc21847-303d-45d4-976f-a040e994b2ef
+    hash: 865d842b0b3c11c2bdfb1c1fcb20d77ea015bbd9e5ad450306472baa51ac9216
+  - id: 76de335b-5cac-4c56-a8a9-919557f5359d
+    hash: 28bad32b9a5cef72b82017dcbb3052e95b2605c039cc1cfcc07d5f43aa99acba
+  - id: 030ed276-dd9c-49ed-86bb-000745b37b2f
+    hash: 79a95a788fca228245f414b4630bc6bad6477cbb88dcffd0d5a9722dc88cd054
+  - id: 9f42e2c4-b5eb-427c-9d82-e7a229bc4cfb
+    hash: 3aa905ac5a8b8efecd0dd10aab141fb054406245af6e8cad8bf5376017ee2c7a
+  - id: db5a3ef1-72f5-48fb-a48d-f2e4448c761e
+    hash: 6fa5deb0f4232406a8a7463ece0d52472bf3dd231983d3e47f02293871cd9d5b
+  - id: f36be07b-772b-495e-bf18-61a2d52681bb
+    hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
+  - id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
+    hash: 8f021780b3b464f38475d71375955f1dfa3414907f662d4e98c4481f8fe7b332
+  - id: d6bac03e-c242-49e0-9590-b6acf3ceee50
+    hash: b3697a4b7e7bf81cbece21837e5bb36fee5f63def585f35a02861fa31f518135
+  - id: 1663b21b-68b7-4cc8-8901-bf16f83e46a8
+    hash: 33c452298a3d80e479e707bb8f9ff7173e835bafd0b07b5d955fe2fec00f1b81
+  - id: 0eed45da-83a9-43ba-bf82-1c38ac02c573
+    hash: 5c68d10cbadc492531a22d5acc243c62832bc1780c451b869f74ad2b4e520c73
+  - id: 581aa91e-36a3-41b0-b851-79582a541961
+    hash: 9c08d2c05f9d2eb02f568854fc342ab5f9fb9c5c2109956c81f46b8fafe6396c
+  - id: 13ee9e90-df30-497b-8469-8adb4c8495f1
+    hash: eba956f7aef32f1c57fb9f6cd7607d33805821b053b3aec6e6ea9310d42d966c
+  - id: dccf2a42-f18c-47a5-b97c-988e30f16dba
+    hash: 6339a36d11de36dbfc9eff2f57e47220913805954839eb3bccbb847777eab998
+  - id: 86e0c143-f7a2-4de5-927d-9f4772e75f27
+    hash: 9361d404332679aef83c20217f65213ec924f6770f5dcd24442a35a716297fe4
+  - id: 29815b4f-8661-4d0f-b06d-37caac4c8fc6
+    hash: 9f690023b4c5b23b211be14cbf2a4881ed87c624b4a67df2f2b2c726fbd1dac6
+  - id: 60718dbf-3218-4794-bc22-9b5da564d285
+    hash: 7835b925bbb1aceb64124d4bf705198e2814cbc572023db8877be0cc7659f77a
+  - id: e9460da2-9581-40d4-9a6b-d9c07641a6cf
+    hash: f0c08d946ba3f08f5712ef3f324468fd34a007ac00dd36caa384efc2e8090204
+  - id: 5f155a23-b54a-4d82-adbb-33675b47e448
+    hash: 533fa1b0bfa3540244a1b590242df341e2ffffde59c5e407ca09148feb6f2cab
+  - id: 0813d829-eb04-47e2-86e3-775b796dc2c1
+    hash: 0f5958e2286e9a67ed98edbc35283b6d131a27215b6d6b695f08980a50523bc9
+  - id: 9e1e2314-01cd-49c2-aae9-4539e80be739
+    hash: 0b14b2dcf431658470e3352cb2e9e7fdb00c4546a7b0ec12cb31de43f8444f94
+  - id: 89508a4d-b7dc-41ce-bab8-607065d1e472
+    hash: 6729732ec6cbbe91ba71d32bab70ab9bac8baf5498fa8467c51e74a62f058748
+  - id: 3bfd0cef-467b-4da6-8291-0ddbc6b44550
+    hash: 336177e4f6261a989ce76f9996430565b81d1a489eeb4a59e74b6220e17e0913
+  - id: bae49fb4-e5eb-4b27-95c9-9ebc931a7da1
+    hash: 61443cd866abac2105f2091f38d58c69f78f67eb582cda72824bcea7b7faf673
+  - id: f28f00b9-d067-4634-8e76-41cdf1195281
+    hash: d8fc6f7b3d0eb34c90ef97d90f1c5d148992a5a871cb43cadc664965528889ae
+  - id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+    hash: ccb0a7b1d2311574683cfadbccccf7e8d9941a7fd5f9d87ab5029b115c8821ae
+  - id: 3f1a3359-9838-429e-90ca-d67a5f8f08d4
+    hash: 57eed26cc04c605a3d994c7e748adcc6dabdb28878f06fd16b4961320bf2ebeb
+  - id: cd641511-5850-4dbb-b817-9660916611d7
+    hash: 4d218d458c298cf6a11b7ca04e4dd08ae4981a8358032b14c72018968fcb9683
+  - id: d9e83125-903c-4ab0-9431-c0659a52aab1
+    hash: 5db0bf133a1baa95aa18f126c4ea24e0ad3bce528fda115e5e6ae3801e2c6d90
+  - id: 0a38f603-d919-49dd-a8c9-8b66e574ed99
+    hash: c5baeb14d57a1b27fc25f263d21812da4de69c2d9025232bbe3d01d314b77697
+  - id: 128fde05-8fc0-4735-8985-87412fadd2fa
+    hash: d50bc4b5cffd46b857f03abfb9dc283ea5c13758f2aa03e43c9b0b9632c1f333
+  - id: 2e27008d-519b-4649-9a39-c23ab5900ae4
+    hash: ec7204b6e493f8c633879f5e7b4fb72796050d939eaee95505c692361301fcda
+  - id: d67a1163-ee34-4cd4-ad18-52ad2e2f2a86
+    hash: ba726b61f1524dc80578949c5c4f018d589f2183a58ef6297aaaa217aa27be97
+  - id: 1df404b8-cedb-49a5-a1bf-3d381a619ef4
+    hash: ffd19b608e2342d303adcd20f3036222ac5b7dad0f0213c1f1c955c26c04c546
+  - id: be19897a-dc16-4e3f-8c06-71bd5aa3732b
+    hash: 62a225f8f45d1f6bd5ac41c7f953c37a14d162f21f353257d3e5eac79a79b7e8
+  - id: 0c82f7a6-2d2c-4cd5-9315-4b1d5bf894b7
+    hash: 1b8fb2703850304bf214c4743c06c975184fb4315038b3f5d1f73c1d0a40c146
+  - id: 1cb82712-e941-49ea-987f-9e33ae7b6b46
+    hash: 1015d280109a9d96cc4155e9e84b27966feb917923702745c4e55920f2309da8
+  - id: c2731c66-29a2-46e5-a69b-3d650f3ab54c
+    hash: b1c8c8f27fa7ab748e4663eba99ca33bb7d4c78a75463231c31e355b6cbb7264
+  - id: af71025e-25fe-4bb7-b566-ff6c56b25397
+    hash: 55ee22e22663543f1848de0164374c9f36cd3cf28fc4f12c906e3a7943c2df9d
+  - id: 355268b8-0d0c-4501-acaa-ecbeffc5dd85
+    hash: 8ec6778184a795dbd75343a8792f49aa3274efb598d8976c15affe40fe09a9ba
+  - id: 52ff1367-7046-455a-8389-9858fcb58a8a
+    hash: 7d2f7fb96adc4e95fd530e30547c5477d1c455ddd045a92d8da58e5924a30091
+  - id: 4ef16a6f-61ae-4e3c-8879-e5a499c6b721
+    hash: 41153a415311b9c8b8ea64209e5ce8d459fbc1c7973404b367bcf22134762457
 references:
-- text: TTSA launched on 11 October 2017 with a press release issued through Cision
-    PR Newswire
+- text: DeLonge announced TTSA's founding in Seattle on 2017-10-11 as president and
+    CEO
   source: In Plain Sight
-  location: Chapter 16, endnote 4
-  quote: News Release, 'To The Stars Academy of Arts & Sciences Launches Today', Cision
-    PR Newswire, 11 October 2017.
-  claim_id: 1545b738-503a-4d38-bad0-b4611e15cb74
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-1545b738-503a-4d38-bad0-b4611e15cb74
-- text: Tom DeLonge announced as president and CEO the formation of TTSA on a Seattle
-    stage
-  source: In Plain Sight
-  location: Chapter 16, paragraph 1
+  location: ch21:123-283
   quote: On 11 October 2017, Tom DeLonge took to a Seattle stage to officially announce,
     as president and CEO, the formation of To The Stars Academy of Arts & Sciences
     (TTSA).
-  claim_id: 676db77a-5986-41ce-927c-4abce3874e40
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-676db77a-5986-41ce-927c-4abce3874e40
-- text: Jim Semivan was one of two co-founders of TTSA, having retired from the CIA's
-    Directorate of Operations after 25 years
+  claim_id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
+- text: The 2017 launch event was held online only, with no audience or press present
   source: In Plain Sight
-  location: Chapter 16, paragraph 2
+  location: ch21:433-507
+  quote: the launch was online only and had no invited audience and no pesky press
+    present
+  claim_id: 4b4aa388-ce57-4678-ad5f-e800019815a0
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b4aa388-ce57-4678-ad5f-e800019815a0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b4aa388-ce57-4678-ad5f-e800019815a0
+- text: DeLonge said TTSA followed two years of work combining aerospace, science
+    and entertainment
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: line 57-67
+  quote: i've worked for two years to construct a mechanism... It's called To the
+    Stars Academy of Arts and Science... aerospace, science, and entertainment.
+  claim_id: 52ff1367-7046-455a-8389-9858fcb58a8a
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-52ff1367-7046-455a-8389-9858fcb58a8a
+- text: Jim Semivan was one of TTSA's two co-founders
+  source: In Plain Sight
+  location: ch21:657-781
   quote: The undeniably impressive line-up of former spooks and defence insiders included
-    Jim Semivan, one of the two co-founders of TTSA. Semivan was only recently retired
-    from the Central Intelligence Agency's Directorate of Operations after 25 years
-    as an operations officer working inside the US and internationally.
-  claim_id: 40dc5622-5490-4e80-ac5c-62965c7d277b
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-40dc5622-5490-4e80-ac5c-62965c7d277b
-- text: Harold E. Puthoff was the third co-founder of TTSA, a theoretical physicist
-    who had led CIA and Defence Department research into remote viewing
+    Jim Semivan, one of the two co-founders of TTSA.
+  claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
+- text: Hal Puthoff was the third co-founder of TTSA
   source: In Plain Sight
-  location: Chapter 16, paragraph 2
+  location: ch21:970-1045
   quote: There was also the third co-founder of TTSA, Dr Hal Puthoff, a theoretical
-    physicist who had led the previous controversial CIA and Defence Department research
-    into 'psychic spies' or remote viewing.
-  claim_id: a0ea4d6a-44d5-4064-bc6f-77803d97d30c
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-a0ea4d6a-44d5-4064-bc6f-77803d97d30c
-- text: Steve Justice had just finished as director of advanced systems at Lockheed
-    Martin Skunk Works one month before the TTSA launch and was heading TTSA's aerospace
-    division
+    physicist
+  claim_id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
+- text: Steve Justice was a former Lockheed Martin Skunk Works executive affiliated
+    with TTSA
   source: In Plain Sight
-  location: Chapter 16, paragraph 2
+  location: ch22:21142-21199
+  quote: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
+  claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
+- text: Steve Justice headed TTSA's aerospace division at its 2017 launch
+  source: In Plain Sight
+  location: ch21:1170-1272
   quote: Another team member on stage, heading TTSA's aerospace division, was Steve
-    Justice, who just a month earlier had finished as director of advanced systems
-    at Lockheed Martin Skunk Works.
-  claim_id: 7d6e2d09-5f0d-4c56-850e-f77e09719e7a
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-7d6e2d09-5f0d-4c56-850e-f77e09719e7a
-- text: TTSA's triple directive described as fresh approaches to UAP science and engineering,
-    educating laymen and journalists, and generating film, TV, and publishing content
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 21, TTSA introduction paragraph
-  quote: 'Chris Mellon, Hal, and Semivan urged me to consider a different path...
-    They had aligned themselves with the organization that rock star Tom DeLonge and
-    Jim Semivan had put together, called To The Stars Academy (TTSA), and they planned
-    to pursue a triple directive for UAP disclosure: fresh approaches to UAP science
-    and engineering, educating laymen and journalists, and generating film/TV/publishing
-    content about the UAP phenomena'
-  claim_id: 8f8dc709-87a8-4d39-81af-194dd2b327ed
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-8f8dc709-87a8-4d39-81af-194dd2b327ed
-- text: TTSA was structured as a public benefit corporation with investors funding
-    the entertainment and publishing piece to fund the research component
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 21, TTSA structure paragraph
-  quote: His organization would be a 'public benefit' corporation, structured exactly
-    as prescribed by the Securities and Exchange Commission. Investors would pony
-    up money to fund the entertainment/publishing piece, which, if successful, would
-    fund the research component.
-  claim_id: 9fe6efb9-3703-4675-a7a3-d6b5d7a4e017
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-9fe6efb9-3703-4675-a7a3-d6b5d7a4e017
+    Justice
+  claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
+- text: DeLonge described the founding team as including a CIA senior intelligence
+    officer, two former senior Pentagon officials, and a DoD experimental physicist
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:37:25.5-00:37:35.8
+  quote: one of the biggest aerospace engineers in the world, a senior intelligence
+    officer from the CIA, two former senior Pentagon officials, and an experimental
+    physicist from the DOD
+  claim_id: 355268b8-0d0c-4501-acaa-ecbeffc5dd85
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-355268b8-0d0c-4501-acaa-ecbeffc5dd85
+- text: TTSA is structured as a public benefit corporation
+  source: In Plain Sight
+  location: ch22:22280-22328
+  quote: Tom DeLonge’s TTSA, a supposedly public benefit corporation
+  claim_id: ab077e02-bc57-4112-9d5e-c98edd09ae90
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab077e02-bc57-4112-9d5e-c98edd09ae90
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ab077e02-bc57-4112-9d5e-c98edd09ae90
+- text: TTSA solicits money from investors under SEC laws and regulation as a public
+    benefit corporation
+  source: In Plain Sight
+  location: ch21:8186-8392
+  quote: TTSA is not just a lobby group; it is a public company soliciting money from
+    potential investors as a public benefit corporation pursuant to strict US government
+    Securities and Exchange Commission laws and regulation.
+  claim_id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
+- text: TTSA raised more than 2 million US dollars from investors
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:10470-10511
+  quote: To the Stars, which raised more than $2 million from investors,
+  claim_id: f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
+- text: Elizondo joined TTSA in October 2017, days after resigning from the DoD
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:5340-5439
+  quote: the company Elizondo joined in October 2017, several days after he resigned
+    from the Department of Defense.
+  claim_id: e46a6f7d-124c-46ef-8a4f-a08d9377476f
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
+- text: Elizondo finished his DoD career as Senior Intelligence Officer in the Office
+    of the Secretary of Defense days before joining TTSA
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:09:15.9-00:09:30.5
+  quote: Lou Elizondo literally finished his career at the Department of Defense as
+    Senior Intelligent Officer in the Office of the Secretary of Defense days ago,
+    and now he is on the stage with us.
+  claim_id: bae49fb4-e5eb-4b27-95c9-9ebc931a7da1
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-bae49fb4-e5eb-4b27-95c9-9ebc931a7da1
+- text: 'Fravor: Elizondo left the Pentagon in protest and joined DeLonge, Mellon
+    and Justice to form TTSA'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:44234-44367
+  quote: Lue had left the Pentagon in protest and joined forces with Tom DeLonge,
+    Chris Mellon, Steve Justice and others to form To the Stars Academy
+  claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-60718dbf-3218-4794-bc22-9b5da564d285
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-60718dbf-3218-4794-bc22-9b5da564d285
+- text: 'Fravor: TTSA pressed the UAP issue with industry experts and US government
+    officials'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:44376-44465
+  quote: an organization that pressed the issue with leading industry experts and
+    U.S. Government officials
+  claim_id: e9460da2-9581-40d4-9a6b-d9c07641a6cf
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e9460da2-9581-40d4-9a6b-d9c07641a6cf
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-e9460da2-9581-40d4-9a6b-d9c07641a6cf
+- text: Elizondo became TTSA's public face after the New York Times AATIP story broke
+    in December 2017
+  source: In Plain Sight
+  location: ch21:13584-13688
+  quote: In the days after the *Times* story on the AATIP program broke, Luis Elizondo
+    became the public face of TTSA
+  claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1284d17-f24a-4cb5-ac54-a16349549048
+- text: TTSA's website described Chris Mellon as its national security affairs adviser
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:6148-6271
+  quote: Mellon, like Elizondo, works for To the Stars (his title, according to the
+    company’s website, is national security affairs adviser).
+  claim_id: 2208e199-629c-4035-af8c-ef322970e958
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2208e199-629c-4035-af8c-ef322970e958
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2208e199-629c-4035-af8c-ef322970e958
+- text: Mellon is Chairman of TTSA's National Security Policy and Scientific Advisory
+    Board
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:09:54.2-00:09:59.7
+  quote: Chairman of the To The Stars Academy National Security Policy and Scientific
+    Advisory Board
+  claim_id: f28f00b9-d067-4634-8e76-41cdf1195281
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f28f00b9-d067-4634-8e76-41cdf1195281
+- text: Mellon said he met with a 2004 USS Nimitz pilot and confirmed the account
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:16:15.0-00:16:21.0
+  quote: I've met with one of the pilots and confirmed the account, as have other
+    members of the To The Stars Academy team
+  claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+- text: Puthoff helped lead TTSA's campaign for US government disclosure on UAP
+  source: In Plain Sight
+  location: ch28:6667-6924
+  quote: Is it also just a coincidence that Dr Hal Puthoff, one of those who led the
+    campaign through To The Stars Academy (TTSA) to get the US government to open
+    up on what it knows about UAPs, is the boffin who the US Navy quotes in support
+    of a faster-than-light spacecraft?
+  claim_id: db5a3ef1-72f5-48fb-a48d-f2e4448c761e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
+- text: TTSA posted three Defence Department UAP videos on its website
+  source: In Plain Sight
+  location: ch21:20805-20915
+  quote: DeLonge's To The Stars organisation eventually posted three dramatic Defence
+    Department videos of UAPs on its website.
+  claim_id: 196bb9ec-5ec2-43a8-97e4-3847858b911e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-196bb9ec-5ec2-43a8-97e4-3847858b911e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-196bb9ec-5ec2-43a8-97e4-3847858b911e
+- text: The first two videos were posted mid-December 2017, timed with the Politico/Washington
+    Post/New York Times AATIP story
+  source: In Plain Sight
+  location: ch21:20924-21123
+  quote: The first two were posted in mid-December 2017, timed for impact when Politico,
+    The Washington Post and The New York Times broke the story of the Defence Department's
+    AATIP investigations into UAPs.
+  claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9898cf75-2714-46d8-bb85-c5020299e488
+- text: The DoD released the Gimbal video via the TTSA vault website on 2017-12-13
+  source: In Plain Sight
+  location: ch34:44333-44432
+  quote: 'US Dept of Defence, ''Gimbal: Authenticated UAP Video'', 13 December 2017,
+    TheVaulttothestarsacademy.com.'
+  claim_id: 581aa91e-36a3-41b0-b851-79582a541961
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-581aa91e-36a3-41b0-b851-79582a541961
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-581aa91e-36a3-41b0-b851-79582a541961
+- text: The DoD released the 2004 USS Nimitz FLIR1 video via the TTSA vault website
+  source: In Plain Sight
+  location: ch34:44142-44239
+  quote: US Dept of Defence, '2004 USS Nimitz FLIR1 Video', 13 December 2017, TheVaulttothestarsacademy.com.
+  claim_id: 0eed45da-83a9-43ba-bf82-1c38ac02c573
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0eed45da-83a9-43ba-bf82-1c38ac02c573
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0eed45da-83a9-43ba-bf82-1c38ac02c573
+- text: The FLIR1 video was posted alongside the undated, 34-second Gimbal video
+  source: In Plain Sight
+  location: ch21:21287-21396
+  quote: That FLIR1/Tic Tac film was posted on the TTSA site along with another undated
+    34-second video known as the 'Gimbal'.
+  claim_id: 9b520d9b-7aea-4521-90ec-94cab1ddea8c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b520d9b-7aea-4521-90ec-94cab1ddea8c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b520d9b-7aea-4521-90ec-94cab1ddea8c
+- text: TTSA initially revealed little about the Gimbal object beyond it being seen
+    and videoed by US Navy fighter pilots at an unspecified location
+  source: In Plain Sight
+  location: ch21:21553-21724
+  quote: TTSA initially revealed very little about the Gimbal object other than that
+    it was seen and videoed by US Navy fighter pilots at an unspecified location
+  claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
+- text: TTSA's website stated the Gimbal object had low observability on both video
+    and radar
+  source: In Plain Sight
+  location: ch21:21868-21943
+  quote: The TTSA website said the Gimbal had 'low-observability' on both video and
+    radar
+  claim_id: 219f9ae8-2444-476e-92d8-303b5f51f594
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-219f9ae8-2444-476e-92d8-303b5f51f594
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-219f9ae8-2444-476e-92d8-303b5f51f594
+- text: The Gimbal object had no distinguishable flight surfaces
+  source: In Plain Sight
+  location: ch21:21950-22056
+  quote: it also had no distinguishable flight surfaces, no 'obvious propulsion system',
+    'never-before-seen flight capabilities'
+  claim_id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
+- text: The Gimbal object had no obvious propulsion system
+  source: In Plain Sight
+  location: ch21:21998-22021
+  quote: no 'obvious propulsion system'
+  claim_id: 85b1ea24-960c-475f-aab1-de65883a4426
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85b1ea24-960c-475f-aab1-de65883a4426
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85b1ea24-960c-475f-aab1-de65883a4426
+- text: The Gimbal object exhibited never-before-seen flight capabilities
+  source: In Plain Sight
+  location: ch21:22031-22056
+  quote: '''never-before-seen flight capabilities'''
+  claim_id: cee21df8-0645-4916-8354-60ea159ac53f
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cee21df8-0645-4916-8354-60ea159ac53f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cee21df8-0645-4916-8354-60ea159ac53f
+- text: TTSA speculated a shimmer on the Gimbal object's surface suggested a possible
+    energy or resonance field
+  source: In Plain Sight
+  location: ch21:22075-22197
+  quote: because of a strange shimmer on its surface, they speculated that it had
+    a 'possible energy or resonance field of unknown nature'
+  claim_id: 8723e6e1-6842-496d-b1da-5345512fffe1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8723e6e1-6842-496d-b1da-5345512fffe1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8723e6e1-6842-496d-b1da-5345512fffe1
+- text: In March 2018, TTSA posted a further DoD video it dubbed the Go-Fast video
+  source: In Plain Sight
+  location: ch21:22207-22331
+  quote: Three months later, in March 2018, TTSA posted another Defence Department
+    video on its website, which it dubbed the Go-Fast video.
+  claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61cec41b-6906-4711-a6ce-53abbf531d90
+- text: The DoD released the Go-Fast video, dated 2015, via the TTSA vault site on
+    2018-03-09
+  source: In Plain Sight
+  location: ch34:44511-44598
+  quote: Department of Defense, '2015 Go Fast Footage', thevaulttothestarsacademy.com.
+    9 March 2018.
+  claim_id: 13ee9e90-df30-497b-8469-8adb4c8495f1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
+- text: TTSA's Elizondo coined the phrase 'the Five Observables' for characteristics
+    commonly seen in UAP
+  source: In Plain Sight
+  location: ch22:12914-13088
+  quote: To emphasise just how anomalous these unknown aerospace vehicles are, TTSA’s
+    Luis Elizondo coined a phrase, ‘The Five Observables’, the characteristics most
+    commonly seen in UAPs.
+  claim_id: 76686c7e-bbbc-4060-9f15-b725804e732e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76686c7e-bbbc-4060-9f15-b725804e732e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76686c7e-bbbc-4060-9f15-b725804e732e
+- text: TTSA's 2019 Offering Circular states the Aerospace Division is dedicated to
+    breakthroughs in propulsion, energy and communications
+  source: In Plain Sight
+  location: ch21:8404-8554
+  quote: TTSA's 2019 *Offering Circular* says, 'The company's Aerospace Division is
+    dedicated to finding revolutionary breakthroughs in propulsion, energy and communications.'
+  claim_id: d8dbe216-7e11-40c6-9607-7769cf1b4585
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8dbe216-7e11-40c6-9607-7769cf1b4585
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d8dbe216-7e11-40c6-9607-7769cf1b4585
+- text: The Offering Circular warned investors that aerospace research and development
+    is risky with no guaranteed commercial outcome
+  source: In Plain Sight
+  location: ch21:18512-18746
+  quote: The TTSA *Offering Circular* wisely warned potential investors that 'Aerospace
+    and scientific research and development can be risky, and there are no guarantees
+    that any of the projects we undertake will lead to a commercially viable product'.
+  claim_id: 607b071f-c537-471b-b0e6-cd95dfee5ba8
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-607b071f-c537-471b-b0e6-cd95dfee5ba8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-607b071f-c537-471b-b0e6-cd95dfee5ba8
+- text: In October 2019, TTSA announced a partnership with the US Army to research
+    alleged metamaterials from crashed craft
+  source: In Plain Sight
+  location: ch23:12310-12513
+  quote: in October 2019, it was announced that To The Stars Academy of Arts & Sciences
+    was partnering with the US Army to research alleged metamaterials that TTSA's
+    sources claimed to have obtained from crashed craft.
+  claim_id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+- text: TTSA announced the CRADA with the Army Combat Capabilities Development Command
+    on 2019-10-17
+  source: In Plain Sight
+  location: ch34:50917-51064
+  quote: TTSA, 'TTSA Announces CRADA with The U.S. Army Combat Capabilities Development
+    Command to Advance Materiel and Technology Innovations', 17 October 2019.
+  claim_id: dccf2a42-f18c-47a5-b97c-988e30f16dba
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dccf2a42-f18c-47a5-b97c-988e30f16dba
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dccf2a42-f18c-47a5-b97c-988e30f16dba
+- text: Under the CRADA, the Army provided expertise and facilities and TTSA provided
+    the materials, with no financial compensation exchanged
+  source: In Plain Sight
+  location: ch23:14254-14593
+  quote: In this case, the army is providing the expertise and the facilities to analyse
+    the materials, and TTSA is providing the materials themselves; both parties receive
+    the result of the analysis. Just as there is no financial compensation to TTSA
+    for the use of the materials, there is no financial compensation to the army for
+    the use of the facilities.
+  claim_id: 06c100ff-b8ca-4629-bbbe-748422c0b004
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06c100ff-b8ca-4629-bbbe-748422c0b004
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06c100ff-b8ca-4629-bbbe-748422c0b004
+- text: Joint ownership of any resulting invention would apply under the CRADA if
+    a major breakthrough were achieved
+  source: In Plain Sight
+  location: ch23:19046-19210
+  quote: Should they achieve a major breakthrough through testing these so-called
+    metamaterial samples, the CRADA agreement allows for joint ownership of any invention
+    that results.
+  claim_id: 23e98b34-094c-4ede-adf9-326322ec7bd6
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23e98b34-094c-4ede-adf9-326322ec7bd6
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-23e98b34-094c-4ede-adf9-326322ec7bd6
+- text: Dr Joseph Cannon said the Army partnership serves as a non-traditional source
+    of novel materials and technologies
+  source: In Plain Sight
+  location: ch23:16895-17105
+  quote: '''Our partnership with TTSA serves as an exciting, non-traditional source
+    for novel materials and transformational technologies to enhance our military
+    ground system capabilities,'' Dr Cannon claimed in a press statement.'
+  claim_id: 54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
+- text: A 2019 SEC disclosure said DeLonge sold six Art's Parts samples to TTSA for
+    $35,000, with Puthoff assigned to analyse them
+  source: In Plain Sight
+  location: ch23:12669-12902
+  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
+    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
+    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
+  claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
+- text: A 2018 SEC disclosure said TTSA retained Puthoff's EarthTech International
+    to prepare plans on materials analysis and beamed energy propulsion
+  source: In Plain Sight
+  location: ch23:17382-17615
+  quote: An earlier 2018 disclosure TTSA made to the US Securities and Exchange Commission
+    revealed that TTSA has already retained Hal Puthoff's EarthTech International
+    Inc. to prepare plans on materials analysis and beamed energy propulsion launch
+    systems
+  claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
+- text: EarthTech's role was to advise on collecting and scientifically evaluating
+    samples from reports of advanced aerospace vehicles of unknown origin
+  source: In Plain Sight
+  location: ch23:17921-18133
+  quote: EarthTech's assigned role is 'to prepare a plan and advise on the collection
+    and scientific evaluation of material samples the company obtained through reliable
+    reports of advanced aerospace vehicles of unknown origin'.
+  claim_id: 634a36c0-7969-402f-9ad8-018043cd2e67
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-634a36c0-7969-402f-9ad8-018043cd2e67
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-634a36c0-7969-402f-9ad8-018043cd2e67
+- text: Steve Justice tweeted in 2019 that the materials' structure and composition
+    were not from any known military or commercial application
+  source: In Plain Sight
+  location: ch23:18158-18459
+  quote: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted
+    an image of the strange bent lump of layered metal from the Art''s Parts samples
+    saying: ''"The structure & composition of these materials are not from any known
+    existing military or commercial application," said [then] COO Steve Justice.'
+  claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+- text: Justice said TTSA was focusing on verifiable facts and developing independent
+    scientific proof of the materials
+  source: In Plain Sight
+  location: ch23:18469-18588
+  quote: '"We are focusing on verifiable facts and working to develop independent
+    scientific proof of the materials'' properties & attributes".'
+  claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+- text: TTSA announced on Twitter in 2019 that it had acquired metamaterials reportedly
+    from an advanced aerospace vehicle of unknown origin
+  source: In Plain Sight
+  location: ch24:8953-9281
+  quote: TTSA did nothing to reassure people of its credibility when it announced
+    on Twitter in 2019 that it had acquired multiple pieces of metamaterials that
+    'are reported to have come from an advanced aerospace vehicle of unknown origin.
+    We're enthusiastic about its potential use and how it can further our mission
+    for discovery and innovation'.
+  claim_id: 2dc21847-303d-45d4-976f-a040e994b2ef
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2dc21847-303d-45d4-976f-a040e994b2ef
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2dc21847-303d-45d4-976f-a040e994b2ef
+- text: The photograph TTSA used to support the claim was a stock image of malachite
+  source: In Plain Sight
+  location: ch24:9295-9508
+  quote: It was pointed out that the photograph used by TTSA to support its dramatic
+    Twitter claims about these purported metamaterials was, in fact, a downloadable
+    commercial stock image of a natural layered stone called malachite
+  claim_id: 76de335b-5cac-4c56-a8a9-919557f5359d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76de335b-5cac-4c56-a8a9-919557f5359d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76de335b-5cac-4c56-a8a9-919557f5359d
+- text: Elizondo said some material's provenance was hearsay while other material's
+    provenance had been substantiated
+  source: In Plain Sight
+  location: ch24:12737-13000
+  quote: '''Our company over the last year and a half has actually obtained quite
+    a bit of material. And let me first preface, some of that material, its provenance
+    is frankly hearsay,'' Elizondo admitted. ''While other – the provenance of some
+    of this material – is, has been substantiated.'''
+  claim_id: 039d0197-31b8-44cd-b93c-f3616c07ade2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-039d0197-31b8-44cd-b93c-f3616c07ade2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-039d0197-31b8-44cd-b93c-f3616c07ade2
+- text: Elizondo said in a 2019 lecture that some samples had been briefed to senior
+    government levels and could not be replicated
+  source: In Plain Sight
+  location: ch24:13256-13718
+  quote: He showed his audience a composite picture of some of the retrieved metamaterials
+    held by TTSA, telling them, 'I won't point out which one's on that slide but there
+    are some that are absolutely special and have been briefed to some very, very
+    senior levels of this government. And they do remarkable and extraordinary things.
+    And they're built in such a way that to this day, we still can't replicate them.
+    To this day. So that should be very telling.'
+  claim_id: 85498899-b094-458d-bded-b678519b076d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85498899-b094-458d-bded-b678519b076d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85498899-b094-458d-bded-b678519b076d
+- text: In Plain Sight concludes there is not yet enough public evidence to confirm
+    the samples are metamaterials with extraordinary properties
+  source: In Plain Sight
+  location: ch23:23020-23211
+  quote: Based on what TTSA has so far revealed, there is simply not enough evidence
+    yet to justify any conclusion that these samples are actually metamaterials or
+    that they demonstrate extraordinary properties.
+  claim_id: 6bc69246-df7e-4011-aed5-c4c3e40e2ace
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bc69246-df7e-4011-aed5-c4c3e40e2ace
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6bc69246-df7e-4011-aed5-c4c3e40e2ace
+- text: DeLonge told Joe Rogan that TTSA expected to soon build a working anti-gravity
+    craft
+  source: In Plain Sight
+  location: ch21:8743-8874
+  quote: But, in his interview with Rogan, DeLonge actually made an amazing claim
+    – that TTSA expected to soon build a working anti-gravity craft.
+  claim_id: 055b386c-8123-4f44-83ea-c45273951127
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-055b386c-8123-4f44-83ea-c45273951127
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-055b386c-8123-4f44-83ea-c45273951127
+- text: DeLonge suggested TTSA had a good chance of demonstrating a propulsion breakthrough
+    within four years
+  source: In Plain Sight
+  location: ch21:9363-9518
+  quote: when he heard DeLonge suggesting that TTSA had a good chance of being able
+    to demonstrate a propulsion breakthrough within four years
+  claim_id: 5318ace0-f112-4ebb-b581-add2a00e1491
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5318ace0-f112-4ebb-b581-add2a00e1491
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5318ace0-f112-4ebb-b581-add2a00e1491
+- text: DeLonge promised TTSA would achieve a definite propulsion breakthrough within
+    eight years
+  source: In Plain Sight
+  location: ch21:9525-9616
+  quote: But DeLonge went even further and promised a definite propulsion breakthrough
+    within eight years.
+  claim_id: 52daba22-0f49-4853-ad74-bc52257151b1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52daba22-0f49-4853-ad74-bc52257151b1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-52daba22-0f49-4853-ad74-bc52257151b1
+- text: On 2020-07-25, DeLonge tweeted he was working on first plans for an anti-gravitic
+    propulsion experiment for TTSA
+  source: In Plain Sight
+  location: ch34:41321-41443
+  quote: On 25 Jul 2020 Tom DeLonge tweeted 'Working on the first plans for @ TTSAcademy's
+    first anti-gravitic experiment. More to come.'
+  claim_id: 1663b21b-68b7-4cc8-8901-bf16f83e46a8
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1663b21b-68b7-4cc8-8901-bf16f83e46a8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1663b21b-68b7-4cc8-8901-bf16f83e46a8
+- text: In late 2020, TTSA underwent a major internal collapse
+  source: In Plain Sight
+  location: ch21:23348-23459
+  quote: at the time of writing, TTSA's future role in UAP disclosure activism looks
+    uncertain, for, in late 2020, TTSA imploded.
+  claim_id: 5cd0019f-d8d7-4d99-aa45-cf1720230349
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cd0019f-d8d7-4d99-aa45-cf1720230349
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cd0019f-d8d7-4d99-aa45-cf1720230349
+- text: Speculation mounted for months that Mellon, Elizondo and Justice were leaving
+    TTSA
+  source: In Plain Sight
+  location: ch21:23469-23624
+  quote: Speculation had mounted for months that former Defence Department mandarin
+    Christopher Mellon and key figures Luis Elizondo and Steve Justice were leaving
+    TTSA.
+  claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
+- text: DeLonge took several months to formally confirm to the SEC that the three
+    had departed
+  source: In Plain Sight
+  location: ch21:23699-23837
+  quote: it took Tom DeLonge several more months to formally admit to the Securities
+    Exchange Commission not only their departure
+  claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+- text: A week later, DeLonge disclosed Puthoff's resignation as a director
+  source: In Plain Sight
+  location: ch21:23850-23908
+  quote: but also, a week later, Dr Hal Puthoff's resignation as a director.
+  claim_id: 3858175d-54db-4ce6-bd6c-d49e54573a31
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
+- text: DeLonge said he had refocused TTSA, scaling back science and technology commercialisation
+    for more emphasis on entertainment
+  source: In Plain Sight
+  location: ch21:23918-24135
+  quote: DeLonge announced he had 'recently taken steps to refocus [TTSA's] operations
+    to scale back its initiatives in science and tech commercialization and to place
+    a greater emphasis on the operations of its entertainment business.
+  claim_id: 47b0a5ce-2faf-45bb-82d9-cb9f36266a94
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47b0a5ce-2faf-45bb-82d9-cb9f36266a94
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-47b0a5ce-2faf-45bb-82d9-cb9f36266a94
+- text: Puthoff transitioned from director to the company's scientific advisory board
+  source: In Plain Sight
+  location: ch21:24145-24301
+  quote: As a result, Dr. Harold E. Puthoff, one of TTSA's board members, has transitioned
+    from his role as a director to serve on the company's scientific advisory board'.
+  claim_id: a9786ec9-633f-44e7-aefb-373bbf1661f9
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
+- text: Justice, who had led the aerospace division, left TTSA before 2021
+  source: In Plain Sight
+  location: ch23:16038-16150
+  quote: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer
+    Steve Justice led TTSA's aerospace division
+  claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
+- text: Semivan remained on TTSA's board as Vice President of Operations
+  source: In Plain Sight
+  location: ch24:7857-8060
+  quote: Jim Semivan (who remains on TTSA's board and is still Vice President of Operations
+    at time of writing) is a former senior operations officer and a former trainer
+    for the CIA's Directorate of Clandestine Operations.
+  claim_id: e9c95a57-2c99-4867-9ca1-00b69c3e9050
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9c95a57-2c99-4867-9ca1-00b69c3e9050
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e9c95a57-2c99-4867-9ca1-00b69c3e9050
+- text: TTSA declined to answer questions about the CRADA and declined cooperation
+    with the author of In Plain Sight
+  source: In Plain Sight
+  location: ch23:16409-16530
+  quote: It declined to answer any questions about the CRADA when I sought comment,
+    and declined any cooperation at all with this author.
+  claim_id: d7203771-276a-46b8-b5ae-c4df80fa63f2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7203771-276a-46b8-b5ae-c4df80fa63f2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d7203771-276a-46b8-b5ae-c4df80fa63f2
 - text: TTSA's SEC filing identifies it as a 'Motion Picture & Video Tape Production'
     concern
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
-  location: Line 71
+  location: '69'
   quote: its Security and Exchange Commission filing identifies it as a “Motion Picture
     & Video Tape Production” concern.
-  claim_id: b31a9391-00bb-4142-912d-f3196caa6fdf
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
-- text: TTSA raised more than $2 million from investors
+  claim_id: 7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
+- text: TTSA was originally promoted as a UFO research company exploring the 'outer
+    edges of science'
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
-  location: Line 71
-  quote: To the Stars, which raised more than $2 million from investors, was originally
-    hyped as a UFO research company that would explore the “outer edges of science,”
-  claim_id: 5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-- text: Luis Elizondo joined TTSA in October 2017, several days after resigning from
-    the Department of Defense
+  location: '69'
+  quote: was originally hyped as a UFO research company that would explore the “outer
+    edges of science,”
+  claim_id: aa3a1f2d-4886-44fa-a87e-496072402fc4
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-aa3a1f2d-4886-44fa-a87e-496072402fc4
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-aa3a1f2d-4886-44fa-a87e-496072402fc4
+- text: George Knapp was a vocal defender of Elizondo and DeLonge, pushing back on
+    TTSA critics
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
-  location: Line 31
-  quote: the company Elizondo joined in October 2017, several days after he resigned
-    from the Department of Defense.
-  claim_id: 45f43393-7999-4411-b499-b8fb521bbf9d
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-45f43393-7999-4411-b499-b8fb521bbf9d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-45f43393-7999-4411-b499-b8fb521bbf9d
-- text: Luis Elizondo resigned from the Department of Defense weeks before the TTSA
-    launch in protest at excessive secrecy and internal opposition about the UAP issue
-  source: In Plain Sight
-  location: Chapter 16, paragraph 12
-  quote: Luis Elizondo who was to join TTSA, revealed he had resigned from the Department
-    of Defence just weeks before in protest at the excessive secrecy and internal
-    opposition about the UAP issue inside the government.
-  claim_id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
-- text: Chris Mellon holds the title of national security affairs adviser at TTSA
-    according to the company's website
+  location: char:14740-14890
+  quote: Knapp has been a vocal defender of Elizondo and DeLonge for the past two
+    years, pushing back on critics who have raised thorny questions about To the Stars.
+  claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+- text: Knapp purchased stock in TTSA, which he had not always disclosed in his reporting
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
-  location: Line 37
-  quote: Mellon, like Elizondo, works for To the Stars (his title, according to the
-    company’s website, is national security affairs adviser).
-  claim_id: e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
-  record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: http://localhost:5173/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e0ee73a4-fa00-4ea0-a15a-858ac6d90b25
-- text: Norm Kahn, a TTSA advisory board member, is a 33-year CIA veteran decorated
-    with the CIA's Intelligence Medal
+  location: char:14897-15007
+  quote: Knapp also purchased stock in the company, something he has not always revealed
+    to readers and viewers in his reporting.
+  claim_id: 1d432dd3-1930-467f-8d43-4ea795a19b4e
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-1d432dd3-1930-467f-8d43-4ea795a19b4e
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-1d432dd3-1930-467f-8d43-4ea795a19b4e
+- text: Knapp said he bought 400 TTSA shares in 2018 to support the company rather
+    than as an investment
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:15019-15199
+  quote: In an email to The Intercept, Knapp acknowledged buying 400 shares of the
+    academy’s stock in 2018, “not as an investment, but as a way to support their
+    fledgling company and their work.”
+  claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-60c27c86-b087-4a81-b759-66b26eb0b951
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-60c27c86-b087-4a81-b759-66b26eb0b951
+- text: Knapp said he made his purchase public and informed his employer, KLAS-TV
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:15206-15305
+  quote: He wrote that he had “made that information public” and “informed” his employer”
+    at KLAS-TV in Las Vegas.
+  claim_id: 5b34a3c7-f445-456a-a54e-396af2bb500e
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
+- text: Knapp said he placed his shares in a trust to be donated to charity
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:15312-15501
+  quote: Knapp also said that he put the shares in a trust that “would be donated
+    to a charity.” He believes that transaction has been completed and that he now
+    owns “zero stock” in the company, he wrote.
+  claim_id: 09e7fa8b-93f3-4d60-a72b-268459968f43
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
+- text: Greenewald grew sceptical of TTSA after being unable to verify Elizondo's
+    claims via FOIA requests and Pentagon conversations
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:15769-15997
+  quote: Initially enthusiastic about To the Stars, Greenewald became increasingly
+    skeptical when he was unable to verify many of Elizondo’s claims about the government’s
+    UFO program through FOIA requests and conversations with Pentagon representatives.
+  claim_id: ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+- text: Greenewald contacted TTSA spokesperson Kari DeLonge for more information about
+    Elizondo's AATIP role
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:16028-16161
+  quote: Greenewald reached out to To the Stars spokesperson Kari DeLonge (Tom’s sister)
+    for more information about Elizondo’s involvement in AATIP.
+  claim_id: 2f5610d4-c62b-4a94-abdf-4f48c77099db
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2f5610d4-c62b-4a94-abdf-4f48c77099db
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2f5610d4-c62b-4a94-abdf-4f48c77099db
+- text: Kloor said a Pentagon spokesperson's denial of Elizondo's AATIP role contradicted
+    a TTSA spokesperson's email
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:2520-2710
+  quote: That directly contradicts an email sent by a spokesperson for To The Stars
+    Academy of Arts & Science, a UFO research and entertainment company that Elizondo
+    joined after he left the Defense Department.
+  claim_id: c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+- text: 'Kloor noted Fox & Friends did not mention Mellon''s TTSA employment or that
+    TTSA produced Unidentified: Inside America''s UFO Investigation'
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:6282-6434
+  quote: “Fox & Friends” neglected to mention this connection, along with the fact
+    that the History Channel show was made by the company Elizondo and Mellon work
+    for.
+  claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+- text: DeLonge acknowledged TTSA gives the US government an opportunity for plausible
+    deniability in releasing information
   source: In Plain Sight
-  location: paragraph 3
-  quote: Norm Kahn, also on the advisory board, is a 33-year CIA veteran decorated
-    with the spy agency's Intelligence Medal
-  claim_id: 9082cde6-d6b7-4e8d-9b26-83d08a330573
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9082cde6-d6b7-4e8d-9b26-83d08a330573
-- text: Tom DeLonge claimed TTSA had a 60 per cent chance within approximately 36
-    months of demonstrating a major breakthrough in anti-gravity propulsion
-  source: In Plain Sight
-  location: Chapter 16, paragraph 9
-  quote: '''We think we have a 60 per cent chance within 36 months or so we will be
-    able to demonstrate something pretty kickass. Within eight years we will be able
-    to demonstrate something. One big name aerospace company is offering its material
-    sciences division,'' DeLonge claimed.'
-  claim_id: 08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-08dcebd9-bd6e-4d81-b4a6-ed318ef1e573
-- text: Steve Justice stated TTSA was working on a revolutionary Advanced Electromagnetic
-    Vehicle that would mimic UAP capabilities by employing a drive system that alters
-    the space-time metric
-  source: In Plain Sight
-  location: paragraph 2
-  quote: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed
-    Martin Program Director for Advanced Systems, stated that TTSA was working on
-    a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically reduce
-    the current travel limits of distance and time. It mimics the capabilities observed
-    in Unidentified Aerial Phenomenon by employing a drive system that alters the
-    space-time metric'.
-  claim_id: f9aa1f74-26d9-4b32-9efa-73e03279e77e
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f9aa1f74-26d9-4b32-9efa-73e03279e77e
-- text: TTSA posted the 76-second FLIR1 Tic Tac video and a 34-second Gimbal video
-    on its website in mid-December 2017
-  source: In Plain Sight
-  location: Chapter 16, paragraph 19
-  quote: One of those videos was the 76-second so-called FLIR1 video, depicting the
-    Tic Tac, the egg- or oblong-shaped UAP filmed by the USS Nimitz pilot in 2004.
-    That FLIR1/Tic Tac film was posted on the TTSA site along with another undated
-    34-second video known as the 'Gimbal'.
-  claim_id: c0866653-1e90-4a99-8034-6becb1a494e0
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c0866653-1e90-4a99-8034-6becb1a494e0
-- text: In March 2018, TTSA posted the Go-Fast video, a 34-second clip captured by
-    a US Navy FA-18
-  source: In Plain Sight
-  location: Chapter 16, paragraph 20
-  quote: Three months later, in March 2018, TTSA posted another Defence Department
-    video on its website, which it dubbed the Go-Fast video. It also lacked any details
-    on when or where it was shot, or who shot it, other than that it was captured
-    by a US Navy FA-18 fighter using the jet's advanced targeting forward-looking
-    infrared (ATFLIR) pod.
-  claim_id: 76b955e9-a20f-4048-bdef-d682dfd5ee6a
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-76b955e9-a20f-4048-bdef-d682dfd5ee6a
-- text: TTSA announced a Cooperative Research and Development Agreement (CRADA) with
-    the US Army Combat Capabilities Development Command on 17 October 2019
-  source: In Plain Sight
-  location: Chapter 18, endnote 11
-  quote: TTSA, 'TTSA Announces CRADA with The U.S. Army Combat Capabilities Development
-    Command to Advance Materiel and Technology Innovations', 17 October 2019.
-  claim_id: 72ee6d5b-a88e-4739-9a14-6944ba3bb6f5
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-72ee6d5b-a88e-4739-9a14-6944ba3bb6f5
-- text: TTSA US Army CRADA stipulates army researchers will work with TTSA to develop
-    advanced materials for space-time metric engineering, active camouflage, quantum
-    physics, and beamed energy propulsion
-  source: In Plain Sight
-  location: Chapter 18, paragraph 16
-  quote: The CRADA stipulates army researchers will work with TTSA to develop advanced
-    materials for the purposes of 'space-time metric engineering', 'active camouflage',
-    'quantum physics' and 'beamed energy propulsion'.
-  claim_id: 3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-3edc6c08-7ae5-4b67-931c-a4ffe9d2b0b4
-- text: Tom DeLonge sold the six Art's Parts samples to TTSA for US$35,000 in 2019,
-    as disclosed to the SEC
-  source: In Plain Sight
-  location: Chapter 18, paragraph 14
-  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
-    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
-    to his company for $35,000
-  claim_id: 9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
-- text: The TTSA SEC disclosure described the purchased Art's Parts assets including
-    one piece of micron-layered bismuth/magnesium-zinc metal approximately 44mm by
-    32mm by 6mm
-  source: In Plain Sight
-  location: Chapter 18, paragraph 14
-  quote: the SEC declaration stated that the purchased assets were '(i) One 1.75"
-    x 1.25" x 0.25" piece of micron-layered Bismuth/Magnesium-Zinc metal; (ii) six
-    pieces of Bismuth/Magnesium-Zinc metal; (iii) one piece of Aluminum that TTSA
-    physicist Hal Puthoff already had in his possession that was on loan from Seller;
-    and (iv) one round black and silver metal flake'
-  claim_id: dbd40ba4-1c63-4240-b4f4-d84511dd2745
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-dbd40ba4-1c63-4240-b4f4-d84511dd2745
-- text: TTSA announced on Twitter in 2019 that it had acquired multiple pieces of
-    metamaterials reported to have come from an advanced aerospace vehicle of unknown
-    origin
-  source: In Plain Sight
-  location: paragraph 4
-  quote: it had acquired multiple pieces of metamaterials that 'are reported to have
-    come from an advanced aerospace vehicle of unknown origin. We're enthusiastic
-    about its potential use and how it can further our mission for discovery and innovation'
-  claim_id: c256a3cf-6573-4631-9531-80508f9d9f47
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c256a3cf-6573-4631-9531-80508f9d9f47
-- text: The History Channel wanted to produce a show with the TTSA team that would
-    put seasoned investigators in the field interviewing ex-military personnel about
-    their UAP encounters
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 22, paragraph 2
-  quote: The History Channel wanted to do a show with the TTSA team that would put
-    seasoned investigators in the field, interviewing ex-military personnel about
-    their UAP encounters.
-  claim_id: 0632f291-c405-453d-b907-32d442687b03
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-0632f291-c405-453d-b907-32d442687b03
-- text: In late 2020, TTSA imploded with the departure of Christopher Mellon, Luis
-    Elizondo, Steve Justice, and subsequently Harold E. Puthoff
-  source: In Plain Sight
-  location: Chapter 16, paragraph 21
-  quote: in late 2020, TTSA imploded. Speculation had mounted for months that former
-    Defence Department mandarin Christopher Mellon and key figures Luis Elizondo and
-    Steve Justice were leaving TTSA... Tom DeLonge several more months to formally
-    admit to the Securities Exchange Commission not only their departure, but also,
-    a week later, Dr Hal Puthoff's resignation as a director.
-  claim_id: 9e8d8d4f-70b4-444b-8bf9-64d87dea1d5d
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9e8d8d4f-70b4-444b-8bf9-64d87dea1d5d
-- text: Tom DeLonge announced he had refocused TTSA's operations to scale back science
-    and technology commercialisation and place greater emphasis on its entertainment
-    business
-  source: In Plain Sight
-  location: Chapter 16, paragraph 21
-  quote: DeLonge announced he had 'recently taken steps to refocus [TTSA's] operations
-    to scale back its initiatives in science and tech commercialization and to place
-    a greater emphasis on the operations of its entertainment business.'
-  claim_id: cb199c86-26fc-4145-96c4-f03cb2a768c8
-  record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: http://localhost:5173/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-cb199c86-26fc-4145-96c4-f03cb2a768c8
-- text: Tom DeLonge called Luis Elizondo just before Christmas to end their business
-    relationship, saying TTSA had not brought in the money he expected or needed
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 22, paragraph 28
-  quote: Just a few days before Christmas, I got a call from Tom, who was friendly
-    but blunt. Our business relationship was over. Despite all our successes, the
-    business had not brought in the money he expected or needed.
-  claim_id: 53ef19a4-2506-403d-90cb-08d397edd67d
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-53ef19a4-2506-403d-90cb-08d397edd67d
-- text: Christopher Mellon, Harold Puthoff, and Steve Justice also left TTSA after
-    Luis Elizondo departed
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: Chapter 22, paragraph 30
-  quote: Chris, Hal, and Steve Justice also soon moved on from TTSA.
-  claim_id: d87fbe7c-7ce4-408d-b829-1ff927c6546c
-  record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d87fbe7c-7ce4-408d-b829-1ff927c6546c
-ai_usage:
-- stage: digest
-  model: claude-opus-4-8
+  location: ch22:22509-22678
+  quote: Tom DeLonge has acknowledged that his TTSA company provides the government
+    with an opportunity for plausible deniability, to get what it knows out to the
+    public without blowback.
+  claim_id: bf19f7cf-49bd-4a7b-97db-6ae50bccecf8
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf19f7cf-49bd-4a7b-97db-6ae50bccecf8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf19f7cf-49bd-4a7b-97db-6ae50bccecf8
+built_by:
+  model: claude-sonnet-5
+  model_version: claude-sonnet-5
+  transport: cli
+  prompt_sha256: 7e591cbd02f3ffc2ea9efea8e5a7ff374fa1cd3975d45d87ac6028f7ab507abf
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 284670
-    output: 39905
-- stage: digest
-  model: claude-opus-4-8
-  tokens:
-    input: 200086
-    output: 23971
-- stage: digest
-  model: claude-opus-4-8
-  tokens:
-    input: 189622
-    output: 10722
-- stage: digest
-  model: claude-opus-4-8
-  tokens:
-    input: 200668
-    output: 18076
-- stage: digest
-  model: claude-opus-4-8
-  tokens:
-    input: 870474
-    output: 88688
-- stage: digest
-  model: claude-opus-4-8
-  tokens:
-    input: 186865
-    output: 12232
-- stage: assemble
-  model: claude-sonnet-4-6
-  tokens:
-    input: 99753
-    output: 12184
+    input: 87425
+    output: 57159
+    real_input: 2
+    cache_read: 39243
+    cache_write: 48180
+    calls: 0
+  body_sha256: d21bf89b468f8085b040bf011d21419540945b9df8535e8dae66e9bf481d9436
 ---
 
-To the Stars Academy of Arts and Science (TTSA) is a US public benefit corporation launched on 2017-10-11,<sup>1</sup> when musician and entrepreneur [Tom DeLonge](/people/tom-delonge) officially announced its formation as president and chief executive officer on a stage in Seattle.<sup>2</sup> The organisation was structured so that revenue from its entertainment and publishing activities would fund a parallel research programme into [Unidentified Anomalous Phenomena](/topics/unidentified-anomalous-phenomena-uap),<sup>7</sup> though its Securities and Exchange Commission (SEC) filing classified it formally as a "Motion Picture & Video Tape Production" concern.<sup>8</sup> TTSA raised more than US$2 million from investors following its launch.<sup>9</sup> Its planned headquarters was in Encinitas, California, approximately 30 minutes north of San Diego.<sup>6</sup>
+To the Stars Academy of Arts and Science (TTSA) is a public benefit corporation founded by musician [Tom DeLonge](/people/tom-delonge). DeLonge took to a stage in Seattle, Washington on 2017-10-11 to announce the company's formation as its president and CEO, at the 2017 To The Stars Academy of Arts & Sciences launch event,<sup>1</sup> which was held online only, with no invited audience and no press present.<sup>2</sup> DeLonge said the venture followed two years of work intended to combine aerospace engineering, science and entertainment.<sup>3</sup> Its co-founders included [Jim Semivan](/people/jim-semivan)<sup>4</sup> and [Harold E. Puthoff](/people/harold-e-puthoff),<sup>5</sup> while [Steve Justice](/people/steve-justice), a former [Lockheed Martin Skunk Works](/organisations/lockheed-martin-skunk-works) executive,<sup>6</sup> headed the company's aerospace division from the launch.<sup>7</sup> DeLonge described the founding team as including a senior intelligence officer from the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), two former senior Pentagon officials, and an experimental physicist from the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod).<sup>8</sup> TTSA was structured as a public benefit corporation,<sup>9</sup> soliciting money from investors under [Securities and Exchange Commission (SEC)](/organisations/securities-and-exchange-commission-sec) laws and regulation,<sup>10</sup> and raised more than 2 million US dollars from investors.<sup>11</sup>
 
-The founding team drew heavily on individuals with intelligence and advanced aerospace backgrounds. [Jim Semivan](/people/jim-semivan) was a co-founder who had retired from the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia)'s Directorate of Operations after 25 years as an operations officer.<sup>3</sup> [Harold E. Puthoff](/people/harold-e-puthoff) was the third co-founder, a theoretical physicist who had previously led CIA and US Department of Defense research into remote viewing.<sup>4</sup> [Steve Justice](/people/steve-justice), who had just concluded his tenure as director of advanced systems at [Lockheed Martin Skunk Works](/organisations/lockheed-martin-skunk-works) one month before the launch, joined as head of TTSA's aerospace division.<sup>5</sup> TTSA described its mandate to [Luis Elizondo](/people/luis-elizondo) as a triple directive: fresh approaches to UFO science and engineering, educating journalists and the public, and generating film, television, and publishing content about UAP.<sup>6</sup> [Christopher K. Mellon](/people/christopher-k-mellon) joined as national security affairs adviser,<sup>12</sup> and the advisory board included Norm Kahn, a 33-year CIA veteran decorated with the CIA's Intelligence Medal.<sup>13</sup>
+[Luis Elizondo](/people/luis-elizondo) joined TTSA in October 2017, several days after resigning from the DoD,<sup>12</sup> having finished his DoD career as Senior Intelligence Officer in the Office of the Secretary of Defense.<sup>13</sup> According to David Fravor, Elizondo left the Pentagon in protest and joined DeLonge, Christopher Mellon and Steve Justice to form the company,<sup>14</sup> which went on to press the issue with industry experts and US government officials.<sup>15</sup> Elizondo became TTSA's public face after The New York Times broke the story of the DoD's [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip), in the 2017-12 New York Times Advanced Aerospace Threat Identification Program (AATIP) disclosure story of December 2017.<sup>16</sup> [Christopher K. Mellon](/people/christopher-k-mellon), a former deputy assistant secretary of defense for intelligence, was described on the company's website as its national security affairs adviser,<sup>17</sup> and later became Chairman of TTSA's National Security Policy and Scientific Advisory Board.<sup>18</sup> Mellon said he met with one of the pilots involved in the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) and confirmed the account.<sup>19</sup> Puthoff, for his part, helped lead TTSA's campaign to get the US government to disclose what it knows about unidentified aerial phenomena (UAP).<sup>20</sup>
 
-Elizondo, Luis (Lou) joined TTSA in October 2017, several days after resigning from the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) in protest at what he described as excessive secrecy and internal opposition over the UAP issue.<sup>10,11</sup> At the TTSA Launch Seattle 2017, Chris Mellon stated that the US government could verify events involving the USS Nimitz encounter. DeLonge publicly claimed TTSA had a 60 per cent chance of demonstrating a major breakthrough in anti-gravity propulsion within approximately 36 months, and a definite propulsion breakthrough within eight years.<sup>14</sup> Justice announced that TTSA was developing a revolutionary Advanced Electromagnetic Vehicle that would employ a drive system altering the space-time metric in order to mimic observed UAP capabilities.<sup>15</sup> [David Fravor](/people/david-fravor) has described the organisation's founding mission as treating unidentified aerial phenomena as technology rather than extraterrestrial in origin, with the aim of using physics-based knowledge to reverse-engineer and explain how such objects operate.
+TTSA posted three DoD videos of UAP on its website,<sup>21</sup> the first two in mid-December 2017, timed for impact when Politico, The Washington Post and The New York Times broke the AATIP story.<sup>22</sup> According to In Plain Sight, the DoD released the [Gimbal video](/documents/gimbal-video) via the TTSA vault website on 2017-12-13,<sup>23</sup> and released the 2004 USS Nimitz FLIR1 video via the same site.<sup>24</sup> The FLIR1 video was posted alongside the undated, 34-second Gimbal video,<sup>25</sup> about which TTSA initially revealed little beyond that it had been seen and videoed by US Navy fighter pilots at an unspecified location.<sup>26</sup> TTSA's website stated that the Gimbal object had low observability on both video and radar,<sup>27</sup> no distinguishable flight surfaces,<sup>28</sup> and no obvious propulsion system,<sup>29</sup> and that it exhibited never-before-seen flight capabilities;<sup>30</sup> the company speculated that a shimmer on its surface suggested a possible energy or resonance field of unknown nature.<sup>31</sup> In March 2018, TTSA posted a further DoD video, which it dubbed the [Go-Fast video](/documents/go-fast-video);<sup>32</sup> according to In Plain Sight, the DoD released the video, dated 2015, via the TTSA vault site on 2018-03-09.<sup>33</sup> According to In Plain Sight, Elizondo coined the phrase "the Five Observables" to describe characteristics commonly attributed to UAP.<sup>34</sup>
 
-TTSA played a central role in bringing several declassified US Navy sensor recordings into the public domain. In mid-December 2017 the organisation posted both the 76-second FLIR1 Video — the so-called Tic Tac footage — and a 34-second [Gimbal video](/documents/gimbal-video) on its website, with TTSA characterising the Gimbal object as exhibiting low observability, no distinguishable flight surfaces, no obvious propulsion system, and previously unseen flight capabilities.<sup>16</sup> In March 2018, TTSA released the [Go-Fast Video](/documents/go-fast-video), a 34-second clip captured by a US Navy FA-18 showing a white oval shape moving at apparent high speed very low over the water.<sup>17</sup> In October 2019, TTSA announced a TTSA US Army CRADA — a Cooperative Research and Development Agreement — with the Army Combat Capabilities Development Command,<sup>18</sup> under which army researchers would collaborate with TTSA on advanced materials research for space-time metric engineering, active camouflage, quantum physics, and beamed energy propulsion.<sup>19</sup> That same year, DeLonge sold six Art's Parts Samples to TTSA for US$35,000, as disclosed to the SEC,<sup>20</sup> with the acquisition including one piece of micron-layered bismuth/magnesium-zinc metal approximately 44 millimetres by 32 millimetres by 6 millimetres, among other fragments.<sup>21</sup> TTSA separately announced on social media that it had acquired multiple pieces of metamaterials reported to have come from an advanced aerospace vehicle of unknown origin.<sup>22</sup> A 2018 SEC disclosure revealed that TTSA had retained Puthoff's company EarthTech International to prepare plans on materials analysis and beamed energy propulsion launch systems. The [History Channel](/organisations/history-channel) entered into discussions with the TTSA team to produce a programme placing seasoned investigators in the field to interview former military personnel about their UAP encounters.<sup>23</sup>
+TTSA's 2019 Offering Circular described the company's Aerospace Division as dedicated to finding breakthroughs in propulsion, energy and communications,<sup>35</sup> while also warning potential investors that aerospace and scientific research and development can be risky, with no guarantee that any project would lead to a commercially viable product.<sup>36</sup> In October 2019, TTSA announced a partnership with the [United States Army](/organisations/united-states-army) to research alleged metamaterials that the company's sources claimed to have obtained from crashed craft,<sup>37</sup> secured under a Cooperative Research and Development Agreement (CRADA) between TTSA and the US Army with the Army Combat Capabilities Development Command, announced on 2019-10-17.<sup>38</sup> Under the CRADA, the Army provided expertise and facilities to analyse the materials while TTSA provided the samples, with no financial compensation changing hands in either direction,<sup>39</sup> and joint ownership of any resulting invention would apply should a major breakthrough be achieved.<sup>40</sup> US Army scientist Dr Joseph Cannon said the partnership served as a non-traditional source for novel materials and transformational technologies to enhance military ground system capabilities.<sup>41</sup> The materials at the centre of the agreement, known as Art's Parts, had reportedly been sold by DeLonge to TTSA for $35,000 under a 2019 SEC disclosure, with Puthoff assigned to analyse them.<sup>42</sup> An earlier, 2018 disclosure to the SEC, the TTSA 2018 SEC disclosure on materials analysis, stated that TTSA had retained Puthoff's [EarthTech International](/organisations/earthtech-international) Inc. to prepare plans on materials analysis and beamed energy propulsion launch systems,<sup>43</sup> with EarthTech's assigned role being to advise on the collection and scientific evaluation of material samples obtained through reliable reports of advanced aerospace vehicles of unknown origin.<sup>44</sup> In a 2019 tweet, then-chief operating officer Justice wrote that the structure and composition of the materials were not from any known existing military or commercial application,<sup>45</sup> and that the company was focusing on verifiable facts and working to develop independent scientific proof of the materials' properties and attributes,<sup>46</sup> in the 2019 TTSA Twitter claim about metamaterials from an advanced aerospace vehicle posted to Twitter.<sup>47</sup> The photograph TTSA used to support that claim was later found to be a downloadable commercial stock image of a natural layered stone called malachite.<sup>48</sup> Elizondo said in 2019 that some of the material obtained by TTSA had provenance that was frankly hearsay, while other material's provenance had been substantiated,<sup>49</sup> and in a lecture to the Scientific Coalition for UAP Studies that year he said some samples had been briefed to very senior levels of government and, at that time, could not be replicated.<sup>50</sup> According to In Plain Sight, there was not yet enough publicly revealed evidence from TTSA to justify concluding that the samples were actually metamaterials or that they demonstrated extraordinary properties.<sup>51</sup> DeLonge separately told an interviewer that TTSA expected to soon build a working anti-gravity propulsion craft,<sup>52</sup> suggesting the company had a good chance of demonstrating a propulsion breakthrough within four years<sup>53</sup> and promising a definite breakthrough within eight.<sup>54</sup> On 2020-07-25 he tweeted that he was working on the first plans for an anti-gravitic propulsion experiment for the company.<sup>55</sup>
 
-By late 2020 TTSA had shed most of its senior personnel. [Christopher K. Mellon](/people/christopher-k-mellon), Elizondo, [Steve Justice](/people/steve-justice), and subsequently [Harold E. Puthoff](/people/harold-e-puthoff) all departed the organisation.<sup>24</sup> DeLonge announced he was refocusing TTSA's operations, scaling back science and technology commercialisation and placing greater emphasis on its entertainment business.<sup>25</sup> Shortly before Christmas 2020, DeLonge ended his business relationship with Elizondo, citing the organisation's failure to generate the revenue he had expected.<sup>26</sup> [Luis Elizondo](/people/luis-elizondo) later stated that he had joined TTSA because he believed he needed its platform to advance the UAP issue alongside [Harold E. Puthoff](/people/harold-e-puthoff), [Jim Semivan](/people/jim-semivan), and [Christopher K. Mellon](/people/christopher-k-mellon); following his departure, Chris Mellon, Puthoff, and [Steve Justice](/people/steve-justice) also left the organisation.<sup>27</sup> Kari DeLonge, Tom DeLonge's sister, had served as a TTSA spokesperson during its operational period. [George Knapp](/people/george-knapp), the investigative journalist, purchased 400 shares of TTSA stock in 2018, which he subsequently placed in a trust for charitable donation, and publicly acknowledged the purchase to his employer at KLAS-TV in Las Vegas. The [Australian Department of Defence](/organisations/australian-department-of-defence) and [The Pentagon](/organisations/the-pentagon) were among government bodies whose relationship to TTSA was examined in contemporary reporting and congressional testimony. [Fox News](/organisations/fox-news) featured TTSA personnel in coverage that critics noted did not always disclose the subjects' connection to the company.
+In late 2020, TTSA underwent what has been described as a major internal collapse.<sup>56</sup> Speculation mounted for months that Mellon, Elizondo and Justice were leaving the company,<sup>57</sup> and it took DeLonge several months to formally confirm to the SEC that the three had departed.<sup>58</sup> A week after disclosing those departures, DeLonge disclosed Puthoff's resignation as a director.<sup>59</sup> DeLonge said he had taken steps to refocus TTSA's operations, scaling back its initiatives in science and technology commercialisation and placing greater emphasis on its entertainment business,<sup>60</sup> and Puthoff transitioned from his role as a director to serve on the company's scientific advisory board.<sup>61</sup> Justice, who had led the aerospace division, left TTSA before 2021,<sup>62</sup> while Semivan remained on the board as Vice President of Operations.<sup>63</sup> TTSA declined to answer questions about the CRADA and declined any cooperation with the author of In Plain Sight.<sup>64</sup>
+
+TTSA's SEC filings identify it as a "Motion Picture & Video Tape Production" concern, according to reporting on the company,<sup>65</sup> and it was originally promoted as a UFO research venture exploring the "outer edges of science."<sup>66</sup> Journalist [George Knapp](/people/george-knapp) was a vocal defender of Elizondo and DeLonge, pushing back on critics who questioned TTSA,<sup>67</sup> and had purchased stock in the company;<sup>68</sup> Knapp said he bought 400 shares in 2018 as a way to support its work rather than as an investment,<sup>69</sup> made the purchase public and informed his employer,<sup>70</sup> and later placed the shares in a trust to be donated to charity.<sup>71</sup> [John Greenewald](/people/john-greenewald) was initially enthusiastic about TTSA but grew sceptical after he was unable to verify many of Elizondo's claims about the government's UFO programme through Freedom of Information Act requests and conversations with Pentagon representatives,<sup>72</sup> and contacted TTSA spokesperson Kari DeLonge, Tom DeLonge's sister, for more information about Elizondo's role in AATIP.<sup>73</sup> Journalist Keith Kloor said Pentagon spokesperson Christopher Sherwood's statement that Elizondo had no responsibilities regarding AATIP directly contradicted an email sent by a TTSA spokesperson,<sup>74</sup> and noted that the Fox & Friends television programme did not mention that Mellon worked for the company that produced [Unidentified: Inside America's UFO Investigation](/documents/unidentified-inside-americas-ufo-investigation).<sup>75</sup> DeLonge has acknowledged that TTSA provides the US government an opportunity for plausible deniability, allowing it to release information it knows to the public without blowback.<sup>76</sup>
