@@ -1,4 +1,7 @@
 ---
+aliases:
+  - /organisations/advanced-aerospace-threat-identification-program-aatip/
+  - /en/organisations/advanced-aerospace-threat-identification-program-aatip/
 title: Advanced Aerospace Threat Identification Program (AATIP)
 description: The Advanced Aerospace Threat Identification Program (AATIP) was a Department
   of Defense effort that investigated reports of unidentified aerial phenomena, becoming
