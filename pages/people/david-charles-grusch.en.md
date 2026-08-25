@@ -1,17 +1,16 @@
 ---
 title: David Charles Grusch
-aliases:
-  - /people/david-grusch/
-description: David Charles Grusch is a former US intelligence officer who became a
-  whistleblower, alleging before Congress that the government has secretly recovered
-  and reverse-engineered craft of non-human origin.
+description: David Charles Grusch is a former United States intelligence officer who
+  became a whistleblower alleging that the US government has recovered and is reverse
+  engineering craft of non-human origin.
 metadata:
-  role: Former US intelligence officer; UAP whistleblower
-  affiliations: National Reconnaissance Office (NRO); National Geospatial-Intelligence
-    Agency (NGA); United States Air Force (USAF)
-  rank: Major (USAF); GS-15 civilian grade (NRO/NGA)
+  role: Former US intelligence officer; whistleblower
+  affiliations: National Geospatial-Intelligence Agency (NGA); National Reconnaissance
+    Office (NRO); United States Air Force (USAF)
+  known_for: 2023 congressional testimony alleging a covert programme recovering craft
+    of non-human origin
 built_from:
-  brief_hash: 20ee846a261b5915ab831381f6b526fb76eff3e9a5cd9e247cfb0b4f03d07b24
+  brief_hash: 58c954f3d0aeb47f68961c1ffbae29e611c030849347b4d738e6fe245b765e2d
   claims:
   - id: ce770b2c-e913-467a-bedf-674f943454b5
     hash: d8ad3725c0cf85df0645e0c3fffdac85f83432b390a4fe14537545b10e0a71a8
@@ -22,13 +21,13 @@ built_from:
   - id: b8f5797b-b025-41ec-88c0-6d7b33671345
     hash: 672347496277ef25793a46b8431a0e806c73171e9202fd603587abd3c70d1d32
   - id: 432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-    hash: 6aab6a57b1407e4fd96ea2f335ca0bfc9e40b1c1cc7fd59629d7089e21a61d40
+    hash: 0f5aa41fe38f0cd72f65e80463ab89fcc314a616571911a43819d6a4d8f3d4b0
   - id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
     hash: b3760c9de492dc9302c2dcf54dfe366c68e7103ed784454e4c863b336dde6453
   - id: 4d9bf11e-6106-4a77-afc6-25c2050d9bbb
     hash: 5fec50737e81a7f760be51b723ce1d1a4461b5e2e02952069a385a1652445111
   - id: 34aa94eb-efc7-4479-8b6c-8cf4a9740742
-    hash: 04407656124451cc967a4e673afc53c0e9e1daae76b310cce9a49b09d320cd81
+    hash: 280bfdab2b79538b44f983ae3c34dfc08c591cee935ba768dd0cc93dc4a3fb0e
   - id: ba0b4b7e-631d-4628-b110-6dadd4d22200
     hash: 2c51237156f21301d1c8a90034dd3f8b613da5f7dd9240cc46ada3b2dc45c8bd
   - id: 8c2838ec-ecea-4101-bdf7-67ffad9b34f0
@@ -42,7 +41,7 @@ built_from:
   - id: 92ab0c63-7a26-4521-bc47-405d01d3e22a
     hash: 5d0852170e4be047d4da6e833f0d55a67481ab90b20aec283abb91e99bcc1502
   - id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
-    hash: 790f10ace66f96bf067d2f8c27f41e898bd671fdb02b86864648d63ef1612b90
+    hash: 9b22f000e2cf252c0c9670c5bd721389e8d49853a317a0e1b503b1cdd40115a8
   - id: 7201f69a-251b-424a-b776-987cd1e791db
     hash: 3634e10c50657438945163068149539ad858933d79fa63e5eb6201ef3643385e
   - id: 8789af56-434e-4268-9a9d-13bdf6359ab2
@@ -52,7 +51,7 @@ built_from:
   - id: e0caabb2-6283-4521-8d24-8b9c44ad13fd
     hash: 9d9bf1fb67782d1fb7acf68f4cc6ea36f71fa2b3439f7fefd8a7cb245ff43bfe
   - id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
-    hash: dd2599a666b5ff5db2039d6e97400255158e0b34f3de79afa89a6bf527887ec8
+    hash: e1876f511210b15727c016eb5fb2ae4db489297bd546dfd8cb6db8ef638ca769
   - id: 407de96c-8f78-467d-af83-69a27da0dcd1
     hash: 8686c99b9054419ed460d5599f83627e8b74ed30f7853303bf5013e0e564e01c
   - id: 3b3c82d4-2640-47f4-be1c-9c30ce9768a4
@@ -62,7 +61,7 @@ built_from:
   - id: b524f1fd-4b13-4cdc-b479-8c28057bd6c0
     hash: da8dc5f07fac566199de70e7e46aa46aedf41d8c8eb6013d11ee514e330fb5c4
   - id: 820875ac-d3d4-4970-9972-12fdd2ad8726
-    hash: aa65fcf7384fe404f0753ff3aa4f237bbd6050b4a2c804d739bf103ef8072c07
+    hash: 000c8909a2034d60ec34b65162ccc4a63474ee3fcb1c6cf0a14025d7b5117383
   - id: b589669d-2ade-4118-8612-f832a03960ea
     hash: 4fbc4e19916e18e9dbf3293d47cc71d3adc3ef13fd9ef9ab44e27631bc6d99c0
   - id: c65f9177-4016-48a2-9dde-436b4c7ba614
@@ -78,7 +77,7 @@ built_from:
   - id: 525277fd-4fb5-495b-afd4-e0da449b90e5
     hash: 429a20704dac818cccf3fda9b7acea26751957d71f188ece5460cb2da3031f77
   - id: e916bc85-ed91-4cab-b8a7-81c5f21130ee
-    hash: 63c3422dfdc3a148aeac64330c3f1a9e3363ab189f788a0048b86c4851d07a92
+    hash: 8589873b52adb27dcd31e4d709735a28c2ef35b2c3cf5c78700d4dab18869b16
   - id: da747c96-bb5b-4995-be2f-d453c29496dd
     hash: b16ab0004d82ccdd37c7a4dee1595ac03708f4c03fdf8bc98fd8cecd606db9a9
   - id: f282e390-2249-4579-b218-71e798d82d25
@@ -94,15 +93,15 @@ built_from:
   - id: 5d198d82-e994-4c6f-bbf8-8240b3d51553
     hash: 0f54bcc936bba258ba5d92ebe5dae57400e1f560d8682fa52d22867ea02d3cf7
   - id: 3330c459-bb81-4ecb-88ae-68b7e8e272f4
-    hash: 687e01f2d4eaa0d793883e09265d3e3d3e9be0538c48776065d4f73a821f27d5
+    hash: 843c0c752c5cc8d19a6f494753cadd7f2f333238b15790f93a4c6a09fb3b699d
   - id: 0234c796-4ab9-437a-82ac-dfdb4f5b733f
-    hash: 4f56dac054ff6c888990f4cedbd57c78713d307e9fd7852bae41cea9a3b2208d
+    hash: 4ee039ee7536ef5fb5410b379f96713c4a5d4cc904fa529e75a709e3d5007813
   - id: dbdb8f97-372c-47db-b88a-d96924cbfd0b
     hash: 043d2baee94923fbfbcc24e20e63e98da43a594d6539a23a852f69710eaea2b5
   - id: 11898e82-bf4b-474c-990d-412887e4ea89
-    hash: a2a2715e3a6b3f14ec5c375e4d1ba3990493a22bf0a5710cb0a88739b62259f1
+    hash: a700aca5458c6c2cdc9f6292fdc60718f72d95afc23df51765177f9ab09aed95
   - id: 0729a02d-fab4-49de-b8e2-5c9f3f7296ab
-    hash: ff9012d940a95652e59667be6a74b7fbdc092d7f0dac09e51d2cb7242605b760
+    hash: fc334e9e2171e951649368828b9c7c656526d6db0db77642ef5323ad7c317da6
   - id: 7e1d20f7-45e4-4342-b50a-d17a271ee6ee
     hash: 4001eb28f05d6b20520dd68a3fec1d6ef571375dc33bb1007c80b87bf6d75f54
   - id: 7f34169a-4382-43e5-abf1-0057720f9296
@@ -120,7 +119,7 @@ built_from:
   - id: 2693a5a0-cf06-4912-92f1-909905c4c964
     hash: bf86de7547f951dc826f86ce3f82b75486dc31f272d1fab9c4dda3bf2bfc5ee4
   - id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
-    hash: 640f3b1eec7844ee1df91e2f6ea6f6c8a85afdc045b37d4bb55d206b9856378c
+    hash: 5396baf01b6aa959f4cc4535225976622e9c10ba9d6dd84fc3c03e8954b25f13
   - id: ae07f7df-baab-4e74-b249-9d85f2ede872
     hash: 183ff6833dcf50113d4d1e7bb2d8919de4aa895a7299f79245b52de29682fb13
   - id: 73936796-607b-4a7e-b224-43781c027056
@@ -248,9 +247,9 @@ built_from:
   - id: 87ccdf24-ffeb-46c1-a562-208927df7e38
     hash: 916a599e40952b14b644986918354f9a7049e5f16007ed95bc39eea6b2e8036c
   - id: 8620dedb-f8d7-4a44-ba27-e6cdd72234e4
-    hash: 448033d4cf5baf571663c76ff6f39394a6039d09076aabeb12e4c4d1bb09bb66
+    hash: e32f5cebb8f14b169f79e0c0e3be00a6062ebd854853ae738317e224830c16f9
   - id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-    hash: 9c1af4104c99da9273516b843a878983b8785beadda29d7950efd1d29adec34d
+    hash: b6f7ea845440f0666712c02610c01518eb508d581365d3fea7b6fd5e11272dcf
   - id: 7421b303-b1c1-4046-9669-b0dbd737d6a8
     hash: ee4ce7a27cdb07510ac3a418bf7430c8c9f050334269ee39af7ac57a3d03fc74
   - id: 19e3575c-070f-4d91-85f2-6b905feb9942
@@ -274,7 +273,7 @@ built_from:
   - id: 24f37c8b-c898-4c03-bf64-d6de2e0a19c3
     hash: e21e8d4fd64b2c928832b48f18e0e97a81fc0957cf7ed5c444965bc5fb3ddd03
   - id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
-    hash: 377597e6cf804e1cdcaa16c1e841c71c3cf6f36ec05faf642f391379e9a1a08e
+    hash: 2caa26f698176ae38e83ac9adb5f91a0461a062945dead80eae0f2f07014d66c
   - id: 759ea0cb-9454-40d6-a5cf-253703128ea5
     hash: e08494e80553767183f59195aef8d4677b533f8f5f6fe945b9db9f00354e1f81
   - id: 3a22fa3f-9847-41c9-9713-18526071d93e
@@ -294,15 +293,15 @@ built_from:
   - id: 166a21c8-313a-4461-b5d6-75968472d2b1
     hash: 2853c0d8be44e0808ce81d85cbdae49c1acbd10150ec1274a680e1dd0152481b
   - id: e5e86c40-924b-46e9-b878-093e4272e207
-    hash: c64d0fef7ea81fe7e46dcb67b61b1696d1fbde8e2e51d98a81a15ba0226126dc
+    hash: 83401d79e8963db1cb14ff363242383b0d759956d7770e61dba874314b7b047e
   - id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
     hash: dcd96ea3f0e8fc2d23ed240337d4a2d242d7d2902fdfa83c7be6c033fc4f16f1
   - id: bc59b51f-7498-4aff-a6c9-26b9f606d413
-    hash: af1e893db128a5d38e4e8848869df9cbfd4e9eafcd8c8565a879a8980d6eef6f
+    hash: ba81382eb13c0e499b53398b9d2be7ef79ce1090cff66df8fe5f3fbeaa29c7e2
   - id: 7f85fdb1-6199-4790-a229-a40018eb8905
-    hash: 0e35b4079374432c84d9518bd99ddc11907e7348be2c494027f77d89be329abd
+    hash: 4ad1319f5e29cbc10674019d422f1d567aca3cac437e6f402a5f146d20335ff0
   - id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
-    hash: 6376a04dbd4c59faf2542235661907447231cbe39aaeab6d548b3960f6060668
+    hash: 5a1529ac61d88db62c5f30c6ff254bc9c79f6bb23039f257138b523f89f4ca44
   - id: f13877ef-b5f2-4f6a-9404-af14301f7784
     hash: c988ac7bcaf77afc6275de5ced65b4c5ee29e0944eef5c8215d830efb321cd3b
   - id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
@@ -330,25 +329,25 @@ built_from:
   - id: b5b2e79d-ee94-4843-a9b3-d0c79a689f4d
     hash: fd255fbbd7ba5385f3b3cd9c0359d74b2442893bbd07d2e206441c8e9fc98e4a
   - id: 8a354d14-5381-4baf-a463-2312daf2fac5
-    hash: f02ddef4f9653af52cc8ae585ed3362226c179187e3e49f588ba56ec467dbd59
+    hash: adb315fca6f1b11ba84f33da18a2ac697c328d0932b5361467557fa7d597053d
   - id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
     hash: 8c993f39238eb3b12d84b5d2d13617b73584a1f8d0a62ded4f13ae7fb9f70cac
   - id: e14a798a-8145-4aa6-866c-8c46653b3ae9
     hash: 6f198b20ee34d45b5c496e146ac9fe0a9ff08617f77a82b6fa429bf91beaf67c
   - id: f7f7e9d5-e377-4568-87ba-e1ec4aa2489c
-    hash: a7b99200388570ffbe53aa91533a3d7c83a063f93a615ca48580b4d19889fa6d
+    hash: bff029713faf779395be090e3d1ddaa74c9758e8c16a02e58ccb694abbc454e6
   - id: 0bf87759-7f6b-4f16-8adc-af0ee459ce4f
-    hash: 7b8ba0c7e81c0bb96096f3357a9b66b33bd64790e69b904f79c887824f84a462
+    hash: f546d1dad13dd8ef0a6e91130b93961428497d6f878f58a494a79dc5c8ab8d10
   - id: f584b886-de02-44e6-a1e8-12b39908dcca
-    hash: f641ee8a140225ba0a4bbe3cbe19f368b7c814a176b6816cba45cc5efef46992
+    hash: 6b466a9116121db1f6edc280f8ca110832b825900c95eb428e78031fbf44804a
   - id: 774741df-9710-47dd-99e5-1a5f58a1486d
-    hash: 4852ccfa2760c855d97bc0cabd6ccaa08fe6522ff30381f620c9109b8e6be19d
+    hash: 7b6957c332d78a76564378aba046ce2d5b0b0435b86eca81563cd302bb8c70b1
   - id: 0c64ac97-1891-49e4-8b01-b2ee5b22af74
-    hash: f3ea789341c7dcfd99cdba2ab69359a57958f92f8a05c647b21cb2a9741a273e
+    hash: a982dcae38e43875f181fa680d530a4d78b0ce2fc1e6fe73779231a383f3b0ff
   - id: 72643398-85f4-45fe-9159-cb22f4ee54a9
-    hash: 46a7140379bf58239387108e94b07a1347bdaca6fc1315080c9c6bd4f83ee680
+    hash: b896b05684d00e8e82f30b182dc42dc13b6a6dc284a5e3da4e4a162f843cbff3
   - id: 1ed442bd-5612-4953-90bf-8ac11dc40b44
-    hash: 07a7dd4e7b83c84f2014d998e9cdee25d566db7718dc175fe5fc8eeff891a274
+    hash: 432e2f971c9f394f01b346bdd2b654dae0536fec89691e371ad6181e139bf87e
   - id: 5d92d7ac-169a-4074-b10e-596900bc2664
     hash: f32d6f9847b12e413f45c5bf248d097bee4a8b770c485242b153a2bc310404b3
   - id: 8ca5dbb8-9b77-46ee-9dbf-296be105d296
@@ -414,8 +413,8 @@ built_from:
   - id: 8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
     hash: 0eda4a32eba44c434a9c72190ce26ab78d02587b828be04d5d00075c3d2da1b4
 references:
-- text: Grusch gave Congress and the ICIG classified information about covert programmes
-    said to hold retrieved craft of non-human origin
+- text: Gave Congress and the ICIG classified information about programmes he says
+    possess retrieved craft of non-human origin
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:258-518
   quote: A former intelligence official turned whistleblower has given Congress and
@@ -426,17 +425,23 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
-- text: Grusch is a veteran of the NGA and the NRO
+- text: Served as an intelligence officer for over fourteen years
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:1052-1158
-  quote: is a veteran of the National Geospatial-Intelligence Agency (NGA) and the
-    National Reconnaissance Office (NRO)
-  claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
+  location: char:6178-6241
+  quote: Grusch has served as an Intelligence Officer for over fourteen years.
+  claim_id: 4f8df56f-dcd6-43f0-9e1c-a39fb744bc8f
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81d83ea0-cc7e-467e-a06d-022af4365189
-- text: Grusch is a decorated USAF veteran with awards for covert and clandestine
-    operations
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4f8df56f-dcd6-43f0-9e1c-a39fb744bc8f
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4f8df56f-dcd6-43f0-9e1c-a39fb744bc8f
+- text: Was a GS-15 civilian, the military equivalent of a Colonel
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:6110-6168
+  quote: Grusch was a GS-15 civilian, the military equivalent of a Colonel.
+  claim_id: f94632b4-9b1e-45be-a82a-bbb7771e006c
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
+- text: USAF veteran with awards and decorations for covert and clandestine operations
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:6248-6394
   quote: A veteran of the Air Force, he has numerous awards and decorations for his
@@ -445,92 +450,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5a666128-d919-4640-a07c-8f9212bc4241
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5a666128-d919-4640-a07c-8f9212bc4241
-- text: Grusch filed a complaint alleging illegal retaliation for confidential disclosures
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:600-729
-  quote: he filed a complaint alleging that he suffered illegal retaliation for his
-    confidential disclosures, reported here for the first time.
-  claim_id: f282e390-2249-4579-b218-71e798d82d25
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f282e390-2249-4579-b218-71e798d82d25
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f282e390-2249-4579-b218-71e798d82d25
-- text: Grusch was NRO Senior Intelligence Officer 2016-2021, led the director's daily
-    briefing
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:5949-6100
-  quote: From 2016 to 2021, he served with the National Reconnaissance Office as Senior
-    Intelligence Officer and led the production of the NRO director’s daily briefing.
-  claim_id: da747c96-bb5b-4995-be2f-d453c29496dd
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-da747c96-bb5b-4995-be2f-d453c29496dd
-- text: Grusch was a GS-15 civilian, the military equivalent of a Colonel
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:6110-6168
-  quote: Grusch was a GS-15 civilian, the military equivalent of a Colonel.
-  claim_id: f94632b4-9b1e-45be-a82a-bbb7771e006c
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
-- text: At NGA, Grusch was a Senior Intelligence Capabilities Integration Officer,
-    TS/SCI cleared
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:5652-5832
-  quote: At the National Geospatial-Intelligence Agency, Grusch served as a Senior
-    Intelligence Capabilities Integration Officer, cleared at the Top Secret/Secret
-    Compartmented Information level
-  claim_id: 525277fd-4fb5-495b-afd4-e0da449b90e5
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
-- text: Grusch was NGA's Senior Technical Advisor for UAP analysis and Trans-Medium
-    Issues
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:5843-5941
-  quote: was the agency’s Senior Technical Advisor for Unidentified Aerial Phenomena
-    analysis/Trans-Medium Issues.
-  claim_id: e916bc85-ed91-4cab-b8a7-81c5f21130ee
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
-- text: Grusch was NRO's representative to the UAP Task Force, 2019-2021
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:1164-1278
-  quote: He served as the reconnaissance office’s representative to the Unidentified
-    Aerial Phenomena Task Force from 2019-2021.
-  claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
-- text: Grusch was NGA's UAP analysis co-lead and task force rep, late 2021-July 2022
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:1284-1390
-  quote: From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and
-    its representative to the task force.
-  claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-- text: Grusch reached the rank of Major in the US Air Force
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:916-978
-  quote: Grusch served 14 years in the Air Force, reaching the rank of Major
-  claim_id: 2ded5097-aec2-4267-8b72-9610fe12f5f4
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ded5097-aec2-4267-8b72-9610fe12f5f4
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-2ded5097-aec2-4267-8b72-9610fe12f5f4
-- text: Grusch served 14 years in the US Air Force
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:916-978
-  quote: Grusch served 14 years in the Air Force, reaching the rank of Major
-  claim_id: 0ef85ca7-1c55-4d50-8a4b-3488f5bb5407
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-0ef85ca7-1c55-4d50-8a4b-3488f5bb5407
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-0ef85ca7-1c55-4d50-8a4b-3488f5bb5407
-- text: Grusch had a combat tour in Afghanistan with JSOC and ISAF on counter-illicit
-    finance, drug and arms-trafficking operations
+- text: Combat tour in Afghanistan with JSOC/ISAF on counter-illicit finance, drug
+    and arms-trafficking operations
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
   location: char:985-1150
@@ -541,7 +462,63 @@ references:
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bc54ce8b-888e-44b2-a33a-d04312ed30e1
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-bc54ce8b-888e-44b2-a33a-d04312ed30e1
-- text: Grusch helped draft the UAP language for the FY2023 NDAA
+- text: Veteran of the NGA and NRO
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:1052-1158
+  quote: is a veteran of the National Geospatial-Intelligence Agency (NGA) and the
+    National Reconnaissance Office (NRO)
+  claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81d83ea0-cc7e-467e-a06d-022af4365189
+- text: NRO Senior Intelligence Officer 2016-2021, led production of the director's
+    daily briefing
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:5949-6100
+  quote: From 2016 to 2021, he served with the National Reconnaissance Office as Senior
+    Intelligence Officer and led the production of the NRO director’s daily briefing.
+  claim_id: da747c96-bb5b-4995-be2f-d453c29496dd
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-da747c96-bb5b-4995-be2f-d453c29496dd
+- text: NRO representative to the UAPTF 2019-2021
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:1164-1278
+  quote: He served as the reconnaissance office’s representative to the Unidentified
+    Aerial Phenomena Task Force from 2019-2021.
+  claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
+- text: NGA co-lead for UAP analysis and UAPTF representative, late 2021 to July 2022
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:1284-1390
+  quote: From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and
+    its representative to the task force.
+  claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+- text: Senior Intelligence Capabilities Integration Officer at NGA, cleared TS/SCI
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:5652-5832
+  quote: At the National Geospatial-Intelligence Agency, Grusch served as a Senior
+    Intelligence Capabilities Integration Officer, cleared at the Top Secret/Secret
+    Compartmented Information level
+  claim_id: 525277fd-4fb5-495b-afd4-e0da449b90e5
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
+- text: NGA Senior Technical Advisor for UAP analysis and Trans-Medium Issues
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:5843-5941
+  quote: was the agency’s Senior Technical Advisor for Unidentified Aerial Phenomena
+    analysis/Trans-Medium Issues.
+  claim_id: e916bc85-ed91-4cab-b8a7-81c5f21130ee
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
+- text: Helped draft UAP language for the FY2023 NDAA
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:7096-7180
   quote: and helped draft the language on UAP for the FY2023 National Defense Authorization
@@ -550,8 +527,16 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0234c796-4ab9-437a-82ac-dfdb4f5b733f
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-0234c796-4ab9-437a-82ac-dfdb4f5b733f
-- text: Grusch was represented by Charles McCullough III, senior partner of Compass
-    Rose Legal Group
+- text: Prepared many UAP briefs for Congress while in government
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:7002-7085
+  quote: Grusch prepared many briefs on unidentified aerial phenomena for Congress
+    while in government
+  claim_id: 3330c459-bb81-4ecb-88ae-68b7e8e272f4
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-3330c459-bb81-4ecb-88ae-68b7e8e272f4
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-3330c459-bb81-4ecb-88ae-68b7e8e272f4
+- text: Represented by Charles McCullough III of Compass Rose Legal Group
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:10720-10819
   quote: Grusch is represented by Charles McCullough III, senior partner of the Compass
@@ -560,8 +545,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e4107499-d164-4fa0-a043-ea16d5b4a3c1
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e4107499-d164-4fa0-a043-ea16d5b4a3c1
-- text: McCullough filed a Disclosure of Urgent Concern/Complaint of Reprisal with
-    the ICIG in May 2022
+- text: McCullough filed a Disclosure of Urgent Concern/Complaint of Reprisal, May
+    2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:11134-11356
   quote: In May 2022, McCullough filed a Disclosure of Urgent Concern(s); Complaint
@@ -571,30 +556,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
-- text: The unclassified complaint states UAP information was withheld from Congress
-    to thwart oversight
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:11364-11678
-  quote: An unclassified version of the complaint provided to us states that Grusch
-    has direct knowledge that UAP-related classified information has been withheld
-    and/or concealed from Congress by “elements” of the intelligence community “to
-    purposely and intentionally thwart legitimate Congressional oversight of the UAP
-    Program.”
-  claim_id: 432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-- text: All testimony Grusch provided for the complaint was given under oath
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:11688-11766
-  quote: All testimony Grusch provided for the classified complaint was provided under
-    oath.
-  claim_id: 4d9bf11e-6106-4a77-afc6-25c2050d9bbb
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d9bf11e-6106-4a77-afc6-25c2050d9bbb
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d9bf11e-6106-4a77-afc6-25c2050d9bbb
-- text: In July 2021 Grusch confidentially gave classified information to the DoD
-    Inspector General
+- text: In July 2021 confidentially provided classified information to DoD OIG on
+    withholding of UAP information from Congress
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:11773-11992
   quote: According to the unclassified complaint, in July 2021, Grusch had confidentially
@@ -604,7 +567,16 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-34aa94eb-efc7-4479-8b6c-8cf4a9740742
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-34aa94eb-efc7-4479-8b6c-8cf4a9740742
-- text: The ICIG found the complaint credible and urgent in July 2022
+- text: All testimony for the complaint was provided under oath
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:11688-11766
+  quote: All testimony Grusch provided for the classified complaint was provided under
+    oath.
+  claim_id: 4d9bf11e-6106-4a77-afc6-25c2050d9bbb
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d9bf11e-6106-4a77-afc6-25c2050d9bbb
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d9bf11e-6106-4a77-afc6-25c2050d9bbb
+- text: Complaint found credible and urgent by the ICIG, July 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:12533-12628
   quote: The Intelligence Community Inspector General found his complaint “credible
@@ -613,7 +585,7 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f3775f95-cefc-426b-9814-2302f7413a7a
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f3775f95-cefc-426b-9814-2302f7413a7a
-- text: A summary went to the DNI, the Senate and House intelligence committees
+- text: Summary submitted to DNI Avril Haines, SSCI and HPSCI
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:12634-12836
   quote: According to Grusch, a summary was immediately submitted to the Director
@@ -623,16 +595,7 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
-- text: The complaint was drafted and signed by McCullough and his managing partner
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:12851-12919
-  quote: The complaint was drafted and signed by McCullough and his managing partner.
-  claim_id: 7201f69a-251b-424a-b776-987cd1e791db
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7201f69a-251b-424a-b776-987cd1e791db
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7201f69a-251b-424a-b776-987cd1e791db
-- text: The complaint closed with a sworn statement affirming its truth under penalty
-    of perjury
+- text: Complaint closed with signed perjury statement
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:12928-13125
   quote: It ended with Grusch’s signature attached to his statement that “I do solemnly
@@ -642,46 +605,7 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-8789af56-434e-4268-9a9d-13bdf6359ab2
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-8789af56-434e-4268-9a9d-13bdf6359ab2
-- text: Grusch believed his identity and testimony were disclosed outside the DoD
-    IG office
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:12002-12207
-  quote: He believed that his identity, and the fact that he had provided testimony,
-    were disclosed “to individuals and/or entities” within the Department of Defense
-    and the Intelligence Community outside the IG’s office.
-  claim_id: ba0b4b7e-631d-4628-b110-6dadd4d22200
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba0b4b7e-631d-4628-b110-6dadd4d22200
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ba0b4b7e-631d-4628-b110-6dadd4d22200
-- text: Grusch did not allege improper disclosure by any member of the DoD IG office
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:12215-12302
-  quote: He did not allege that this information was improperly disclosed by any member
-    of that office.
-  claim_id: 8c2838ec-ecea-4101-bdf7-67ffad9b34f0
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-8c2838ec-ecea-4101-bdf7-67ffad9b34f0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-8c2838ec-ecea-4101-bdf7-67ffad9b34f0
-- text: Grusch suffered months of retaliation and reprisals beginning in 2021
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:12311-12418
-  quote: As a result, Grusch suffered months of retaliation and reprisals related
-    to these disclosures beginning in 2021.
-  claim_id: 08480293-c772-47a7-9b9a-0797fb41ef9b
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-08480293-c772-47a7-9b9a-0797fb41ef9b
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-08480293-c772-47a7-9b9a-0797fb41ef9b
-- text: Grusch asked that reprisal details be withheld to protect the investigation
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:12424-12517
-  quote: He asked that details of these reprisals be withheld to protect the integrity
-    of the ongoing investigation.
-  claim_id: 501028d6-b51c-4b58-b7f3-40badf525fb9
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-501028d6-b51c-4b58-b7f3-40badf525fb9
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-501028d6-b51c-4b58-b7f3-40badf525fb9
-- text: A reprisal investigation was launched and Grusch met congressional staff in
-    closed session
+- text: Reprisal investigation launched; closed-door sessions with congressional staff
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:13138-13309
   quote: A whistleblower reprisal investigation was launched, and Grusch began his
@@ -691,82 +615,20 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5cd028d1-f004-472d-810c-a41edfc7bc47
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5cd028d1-f004-472d-810c-a41edfc7bc47
-- text: Some information could not be shared with staffers lacking clearance or authority
+- text: April 2023 cleared statements on legacy programmes nesting UAP activity without
+    oversight reporting
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:13319-13530
-  quote: According to Grusch, certain information which he obtained in his investigation
-    could not be put before Congressional staffers because they did not have the necessary
-    clearances or the appropriate investigative authority.
-  claim_id: e0caabb2-6283-4521-8d24-8b9c44ad13fd
+  location: char:7578-7853
+  quote: In his statements cleared for publication by the Pentagon in April, Grusch
+    asserted that UFO “legacy programs” have long been concealed within “multiple
+    agencies nesting UAP activities in conventional secret access programs without
+    appropriate reporting to various oversight authorities.”
+  claim_id: 11898e82-bf4b-474c-990d-412887e4ea89
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e0caabb2-6283-4521-8d24-8b9c44ad13fd
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e0caabb2-6283-4521-8d24-8b9c44ad13fd
-- text: Grusch's quote on agencies nesting UAP activities in SAP/CAP programmes
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:13757-14101
-  quote: “When you have multiple agencies nesting UAP activities in conventional SAP/CAP
-    programs, both as recipients of exploitation-related insights and for operational
-    reasons, without appropriate reporting to various oversight authorities, you have
-    a problem,” Grusch said, referencing the highly secret Special Access Programs
-    and Controlled Access Programs.
-  claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
-- text: Grusch gave DOPSR the information he intended to disclose to Kean and Blumenthal
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:2965-3145
-  quote: In accordance with protocols, Grusch provided the Defense Office of Prepublication
-    and Security Review at the Department of Defense with the information he intended
-    to disclose to us.
-  claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
-- text: His statements were cleared for open publication on 2023-04-04 and 2023-04-06
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:3149-3267
-  quote: His on-the-record statements were all “cleared for open publication” on April
-    4 and 6, 2023, in documents provided to us.
-  claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-d49ccf7a-403b-40a3-b189-65144609fca4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-d49ccf7a-403b-40a3-b189-65144609fca4
-- text: Grusch says recovery of fragments through to intact vehicles has occurred
-    for decades
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:2007-2109
-  quote: Grusch said the recoveries of partial fragments through and up to intact
-    vehicles have been made for decades through the present day by the government,
-    its allies, and defense contractors.
-  claim_id: 407de96c-8f78-467d-af83-69a27da0dcd1
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-407de96c-8f78-467d-af83-69a27da0dcd1
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-407de96c-8f78-467d-af83-69a27da0dcd1
-- text: Analysis determined the objects are of exotic, non-human origin based on morphology
-    and materials testing
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:2334-2621
-  quote: Analysis has determined that the objects retrieved are “of exotic origin
-    (non-human intelligence, whether extraterrestrial or unknown origin) based on
-    the vehicle morphologies and material science testing and the possession of unique
-    atomic arrangements and radiological signatures,” he said.
-  claim_id: b524f1fd-4b13-4cdc-b479-8c28057bd6c0
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b524f1fd-4b13-4cdc-b479-8c28057bd6c0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b524f1fd-4b13-4cdc-b479-8c28057bd6c0
-- text: 'Quote: ''The material includes intact and partially intact vehicles'''
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:2765-2953
-  quote: “We are not talking about prosaic origins or identities,” Grusch said, referencing
-    information he provided Congress and the current ICIG. “The material includes
-    intact and partially intact vehicles.”
-  claim_id: b589669d-2ade-4118-8612-f832a03960ea
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b589669d-2ade-4118-8612-f832a03960ea
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b589669d-2ade-4118-8612-f832a03960ea
-- text: Grusch reported a decades-long Cold War to recover and reverse-engineer UAP
-    material
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-11898e82-bf4b-474c-990d-412887e4ea89
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-11898e82-bf4b-474c-990d-412887e4ea89
+- text: Reported a decades-long competition with near-peer adversaries to retrieve
+    and reverse-engineer material
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:7868-8200
   quote: He said he reported to Congress on the existence of a decades-long “publicly
@@ -778,8 +640,7 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0729a02d-fab4-49de-b8e2-5c9f3f7296ab
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-0729a02d-fab4-49de-b8e2-5c9f3f7296ab
-- text: From 2022 Grusch gave Congress hours of classified testimony transcribed into
-    hundreds of pages
+- text: From 2022, provided Congress hours of recorded classified information
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:8214-8397
   quote: Beginning in 2022, Grusch provided Congress with hours of recorded classified
@@ -789,8 +650,80 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7e1d20f7-45e4-4342-b50a-d17a271ee6ee
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7e1d20f7-45e4-4342-b50a-d17a271ee6ee
-- text: Karl E. Nell was Army liaison to the UAP Task Force 2021-2022 and worked with
-    Grusch
+- text: July 2023 bipartisan congressional hearing; Fravor, Graves and Grusch testified
+    under oath
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch32:2345-2593
+  quote: members of Congress held another historic bipartisan UAP hearing. This time
+    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
+    Graves, and Dave Grusch, who were now testifying to the American people in Congress
+    *under oath*
+  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+- text: Asked that details of his reprisals be withheld to protect the investigation
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:12424-12517
+  quote: He asked that details of these reprisals be withheld to protect the integrity
+    of the ongoing investigation.
+  claim_id: 501028d6-b51c-4b58-b7f3-40badf525fb9
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-501028d6-b51c-4b58-b7f3-40badf525fb9
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-501028d6-b51c-4b58-b7f3-40badf525fb9
+- text: Described nesting of UAP activity in SAP/CAP programmes without oversight
+    reporting as "a problem"
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:13757-14101
+  quote: “When you have multiple agencies nesting UAP activities in conventional SAP/CAP
+    programs, both as recipients of exploitation-related insights and for operational
+    reasons, without appropriate reporting to various oversight authorities, you have
+    a problem,” Grusch said, referencing the highly secret Special Access Programs
+    and Controlled Access Programs.
+  claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
+- text: Under oath, 2023-07-26, said he was aware non-human biologics were found with
+    crashed disks
+  source: The Fourth Mind
+  location: ch11:4183-4322
+  quote: stated under oath in a congressional hearing on July 26, 2023 that he was
+    aware that, along with crashed disks, “non-human biologics” were found.
+  claim_id: 2c101989-095c-4c91-b4ac-2ecb2d21ee69
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2c101989-095c-4c91-b4ac-2ecb2d21ee69
+- text: Said he had not personally witnessed alien bodies
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:108541-108626
+  quote: Have you seen any of the bodies? Mr. GRUSCH. That is something I have not
+    witnessed myself.
+  claim_id: c3215a66-a9d2-414c-9aba-18c37c3c4d08
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
+- text: Knew of multiple colleagues physically injured by UAP-related activity described
+    in his reports
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:107468-107542
+  quote: I know of multiple colleagues of mine that got physically injured and the
+    activity——
+  claim_id: 3c199be6-355c-4341-8b9e-5562a52cce46
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3c199be6-355c-4341-8b9e-5562a52cce46
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3c199be6-355c-4341-8b9e-5562a52cce46
+- text: Said what he and his wife witnessed regarding UAP activity was very disturbing
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:108006-108068
+  quote: So, what I personally witnessed, myself and my wife, was very disturbing.
+  claim_id: 6cce01da-c9eb-414e-a345-4bb7168dba2d
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6cce01da-c9eb-414e-a345-4bb7168dba2d
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6cce01da-c9eb-414e-a345-4bb7168dba2d
+- text: Karl E. Nell, US Army liaison to the UAPTF 2021-2022, worked with Grusch
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:3860-4029
   quote: Karl E. Nell, a recently retired Army Colonel and current aerospace executive
@@ -800,7 +733,15 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
-- text: Nell considers Grusch's eighty-year arms-race assertion fundamentally correct
+- text: Nell considers Grusch "beyond reproach"
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:4036-4068
+  quote: characterizes Grusch as “beyond reproach.”
+  claim_id: c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
+- text: Nell considers Grusch's arms-race assertion fundamentally correct
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:10097-10508
   quote: “His assertion concerning the existence of a terrestrial arms race occurring
@@ -813,130 +754,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce770b2c-e913-467a-bedf-674f943454b5
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ce770b2c-e913-467a-bedf-674f943454b5
-- text: Nell considers Grusch 'beyond reproach'
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:4036-4068
-  quote: characterizes Grusch as “beyond reproach.”
-  claim_id: c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c91d2fb2-4ecf-48df-ae51-4c2469bcafd7
-- text: Other officials independently corroborated Grusch's account, on and off the
-    record
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:736-948
-  quote: Other intelligence officials, both active and retired, with knowledge of
-    these programs through their work in various agencies, have independently provided
-    similar, corroborating information, both on and off the record.
-  claim_id: dbdb8f97-372c-47db-b88a-d96924cbfd0b
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-dbdb8f97-372c-47db-b88a-d96924cbfd0b
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-dbdb8f97-372c-47db-b88a-d96924cbfd0b
-- text: Fravor, Graves and Grusch testified under oath at a July 2023 bipartisan UAP
-    hearing
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
-  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-- text: Under oath, Grusch said non-human biologics were found with crashed disks
-  source: The Fourth Mind
-  location: ch11:4183-4322
-  quote: stated under oath in a congressional hearing on July 26, 2023 that he was
-    aware that, along with crashed disks, “non-human biologics” were found.
-  claim_id: 2c101989-095c-4c91-b4ac-2ecb2d21ee69
-  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2c101989-095c-4c91-b4ac-2ecb2d21ee69
-- text: Grusch said he has not personally witnessed alien bodies
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:108541-108626
-  quote: Have you seen any of the bodies? Mr. GRUSCH. That is something I have not
-    witnessed myself.
-  claim_id: c3215a66-a9d2-414c-9aba-18c37c3c4d08
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
-- text: Grusch prefers 'nonhuman intelligence' to an extraterrestrial-hypothesis framing
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:133568-133667
-  quote: I think the phenomenon is a very complex and I like to leave an open mind
-    analytically to specific origin.
-  claim_id: 8fdc4da0-e959-4380-9546-e30015800934
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8fdc4da0-e959-4380-9546-e30015800934
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8fdc4da0-e959-4380-9546-e30015800934
-- text: Graves relied on Grusch to research where UAP information was kept
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:101013-101087
-  quote: I was an operator, so I was depending on folks like Mr. Grusch to do that
-    homework.
-  claim_id: 4357a2cf-8f78-48a3-b059-546a4de0be81
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
-- text: Grusch, Graves and Fravor agreed with John Kirby's statement on training-range
-    impacts
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:101861-101915
-  quote: 'Mr. GRUSCH. Yes.
-
-    Mr. GRAVES. Yes.
-
-    Commander FRAVOR. Yes.'
-  claim_id: b14a7ac3-59f4-4278-afba-1c5b2fafa987
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b14a7ac3-59f4-4278-afba-1c5b2fafa987
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b14a7ac3-59f4-4278-afba-1c5b2fafa987
-- text: 'Von Rennenkampff: Grusch has not provided proof of his allegations'
-  source: Claims that UFO information was inappropriately withheld from Congress deemed
-    'credible,' 'urgent'
-  location: char:2608-2645
-  quote: Grusch has not provided proof of his allegations.
-  claim_id: 7fdc0087-4496-4475-98de-07e981bfc998
-  record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-7fdc0087-4496-4475-98de-07e981bfc998
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-7fdc0087-4496-4475-98de-07e981bfc998
-- text: 'Von Rennenkampff: implausible such revelations could stay secret long'
-  source: Claims that UFO information was inappropriately withheld from Congress deemed
-    'credible,' 'urgent'
-  location: char:2669-2776
-  quote: the notion that such monumental revelations could remain secret for any appreciable
-    amount of time strains credulity
-  claim_id: 2693a5a0-cf06-4912-92f1-909905c4c964
-  record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-2693a5a0-cf06-4912-92f1-909905c4c964
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-2693a5a0-cf06-4912-92f1-909905c4c964
-- text: DoD released a statement responding to Grusch's allegations the week before
-    2023-06-09
-  source: Claims that UFO information was inappropriately withheld from Congress deemed
-    'credible,' 'urgent'
-  location: char:5660-5717
-  quote: Earlier this week, the Department of Defense released a statement in response
-    to Grusch’s stunning allegations.
-  claim_id: d2984f69-bec6-4920-a7fa-e7c5b3320574
-  record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-d2984f69-bec6-4920-a7fa-e7c5b3320574
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-d2984f69-bec6-4920-a7fa-e7c5b3320574
-- text: DoD statement to NewsNation denied AARO had found the activity Grusch alleged
-  source: Claims that UFO information was inappropriately withheld from Congress deemed
-    'credible,' 'urgent'
-  location: char:2788-3001
-  quote: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s
-    new UFO office has uncovered the sort of activity alleged by Grusch.
-  claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
-  record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
-- text: Current and former officials vouched for Grusch and corroborated his allegations
+- text: 'Von Rennenkampff: officials vouched for Grusch and corroborated the broad
+    outlines of his allegations'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
   location: char:1540-1665
@@ -946,18 +765,76 @@ references:
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-29a3a8bc-82a6-4cce-9512-d85310e92177
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-29a3a8bc-82a6-4cce-9512-d85310e92177
-- text: Grusch used the legally protected whistleblower process, not an unauthorised
-    leak
+- text: 'Von Rennenkampff: Grusch has not provided proof of his allegations'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
-  location: char:3812-4045
-  quote: from what is known publicly, Grusch is making use of the well-established,
-    legally protected whistleblower process. By honoring his commitment not to divulge
-    classified information improperly, Grusch appears to be proceeding “by the book.”
-  claim_id: 2c6a9bb7-24a9-4780-bdc4-2dad0ff96a05
+  location: char:2608-2645
+  quote: Grusch has not provided proof of his allegations.
+  claim_id: 7fdc0087-4496-4475-98de-07e981bfc998
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-2c6a9bb7-24a9-4780-bdc4-2dad0ff96a05
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-2c6a9bb7-24a9-4780-bdc4-2dad0ff96a05
+  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-7fdc0087-4496-4475-98de-07e981bfc998
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-7fdc0087-4496-4475-98de-07e981bfc998
+- text: DoD statement to NewsNation denied AARO had uncovered the activity Grusch
+    alleged
+  source: Claims that UFO information was inappropriately withheld from Congress deemed
+    'credible,' 'urgent'
+  location: char:2788-3001
+  quote: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s
+    new UFO office has uncovered the sort of activity alleged by Grusch.
+  claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
+  record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
+  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
+  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
+- text: Spent a substantial amount on legal fees and lost income
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:16:34.7-00:16:39.6
+  quote: the amount of money I've spent on legal fees and the income I've lost was...
+    was really unfortunate.
+  claim_id: 4980be78-71cc-4138-a1c5-8b6b6bcda8ab
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4980be78-71cc-4138-a1c5-8b6b6bcda8ab
+- text: Resigned his USAF officer's commission
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:15:16.4-00:15:27.4
+  quote: unfortunately I had to resign. my Air Force officer commissioned because
+    I foresaw an attack of that nature.
+  claim_id: 7c06b84d-4f76-4ff3-bf9a-677f5b75213b
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
+- text: Believed the Air Force would pursue him under the UCMJ if he remained in the
+    reserves
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:15:37.6-00:15:46.5
+  quote: If I stayed in the in the Air Force on the reserve side, I really thought
+    that the Air Force was probably going to come after me using the uniform code
+    of military justice.
+  claim_id: 99877c7b-bad0-40ac-93b8-9ec64603b63d
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-99877c7b-bad0-40ac-93b8-9ec64603b63d
+- text: Missed promotion to lieutenant colonel in the Air Force Reserve
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:15:52.8-00:15:59.5
+  quote: So I had to essentially kill my career and miss my promotion to lieutenant
+    colonel in the Air Force Reserve.
+  claim_id: 28a32c50-8fb3-4cc3-8033-c642e1283425
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-28a32c50-8fb3-4cc3-8033-c642e1283425
+- text: Was only a couple of years from military retirement when he ended his career
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:16:00.1-00:16:03.2
+  quote: And I was only a couple of years away from retirement
+  claim_id: 77f6d61a-1873-4184-bda8-52402b1eb9f4
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-77f6d61a-1873-4184-bda8-52402b1eb9f4
+- text: Describes himself as having high justice sensitivity with a touch of autism
+    and ADHD
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:16:41.2-00:16:46.8
+  quote: I guess I have a very high justice sensitivity with the little touch of autism
+    and ADHD.
+  claim_id: 8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
 - text: Eric Burlison announced Grusch as a Special Advisor, 2025-03-27
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -969,20 +846,8 @@ references:
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
-- text: Grusch previously testified before the US House Oversight & Accountability
-    Committee
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:311-483
-  quote: Grusch, recognized for his previous sworn testimony before House Oversight
-    & Accountability Committee about the federal government's Unidentified Anomalous
-    Phenomena (UAP) activities
-  claim_id: 7f85fdb1-6199-4790-a229-a40018eb8905
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-7f85fdb1-6199-4790-a229-a40018eb8905
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-7f85fdb1-6199-4790-a229-a40018eb8905
-- text: Grusch will contribute to Burlison's Task Force on the Declassification of
-    Federal Secrets
+- text: Will contribute expertise to the Task Force on the Declassification of Federal
+    Secrets
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
   location: char:495-661
@@ -993,7 +858,7 @@ references:
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
-- text: 'Burlison: Grusch has risked his career to expose critical information'
+- text: 'Burlison: Grusch "risked his career to expose critical information"'
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
   location: char:749-803
@@ -1002,47 +867,8 @@ references:
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
-- text: Burlison considers Grusch's expertise vital to accountability efforts
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:816-900
-  quote: '"His expertise will be vital as we work to uncover the truth and hold the
-    government accountable."'
-  claim_id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
-- text: In 2022, while at NGA, Grusch filed a complaint with the ICIG
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:1373-1497
-  quote: In 2022 while at NGA, Mr. Grusch filed a federal whistleblower complaint
-    with the Intelligence Community Inspector General (ICIG)
-  claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3a22fa3f-9847-41c9-9713-18526071d93e
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3a22fa3f-9847-41c9-9713-18526071d93e
-- text: 'Grusch: the public is rightfully demanding the truth about UAP'
-  source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
-    Advisor
-  location: char:2078-2207
-  quote: '"The public is rightfully demanding to know the truth and it is my true
-    privilege for me to serve the people of this country once again."'
-  claim_id: e5e86c40-924b-46e9-b878-093e4272e207
-  record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-e5e86c40-924b-46e9-b878-093e4272e207
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-e5e86c40-924b-46e9-b878-093e4272e207
-- text: CIA, ONI and FFRDCs involved in analysing recovered material over the decades
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:06:53.9-00:07:02.9
-  quote: the CIA, Office of Naval Intelligence, the something called federally funded
-    research and development centers, a lot of them were involved in the analysis
-    over the decades.
-  claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
-- text: Grusch worried programme records are being destroyed absent a Trump preservation
-    hold
+- text: Concerned that information is being destroyed absent a Trump preservation
+    hold, comparing it to MKUltra record destruction
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:09:25.3-00:09:42.4
   quote: I do worry if President Trump hasn't provided a either classified or otherwise,
@@ -1052,65 +878,52 @@ references:
   claim_id: 1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
-- text: USAF unsuccessfully tried to file an Espionage Act complaint against Grusch
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:15:16.4-00:15:27.4
-  quote: What I talked about in the June 9 presser is the Air Force did unsuccessfully
-    try to file an SPI espionage act unauthorized disclosure complaint against me
-    when I did go public
-  claim_id: 019a1a79-241e-4aff-9dc5-4428aa94d72f
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-019a1a79-241e-4aff-9dc5-4428aa94d72f
-- text: Grusch resigned his USAF commission, foreseeing such an attack
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:15:30.7-00:15:36.8
-  quote: unfortunately I had to resign. my Air Force officer commissioned because
-    I foresaw an attack of that nature.
-  claim_id: 7c06b84d-4f76-4ff3-bf9a-677f5b75213b
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
-- text: Grusch spent substantial money on legal fees and lost income going public
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:16:34.7-00:16:39.6
-  quote: the amount of money I've spent on legal fees and the income I've lost was...
-    was really unfortunate.
-  claim_id: 4980be78-71cc-4138-a1c5-8b6b6bcda8ab
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4980be78-71cc-4138-a1c5-8b6b6bcda8ab
-- text: Grusch describes himself as having high justice sensitivity with autistic
-    and ADHD traits
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:16:41.2-00:16:46.8
-  quote: I guess I have a very high justice sensitivity with the little touch of autism
-    and ADHD.
-  claim_id: 8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
+- text: Prefers "non-human intelligence" over assuming an extraterrestrial origin
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:133568-133667
+  quote: I think the phenomenon is a very complex and I like to leave an open mind
+    analytically to specific origin.
+  claim_id: 8fdc4da0-e959-4380-9546-e30015800934
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8fdc4da0-e959-4380-9546-e30015800934
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8fdc4da0-e959-4380-9546-e30015800934
+- text: Origin could be traditional extraterrestrial or something not fully understood
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:133799-134001
+  quote: If it is a traditional extraterrestrial origin or something else that we
+    do not quite understand from an either biological or astrophysics perspective.
+    I just like to keep an open mind on what it could be.
+  claim_id: c6d7c578-3db0-45cd-8dca-999cd6ddb6c8
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c6d7c578-3db0-45cd-8dca-999cd6ddb6c8
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c6d7c578-3db0-45cd-8dca-999cd6ddb6c8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 620436d4e3f6b19c219f8049e1b0a6bc152b79b9b3fc6b2e90db486786740652
+  prompt_sha256: 18e9b07d8b8fba82c2037bd66fcab82bc5a22c9a2b969b8a2f50f9518fc28be8
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 101086
-    output: 63036
-    real_input: 2
-    cache_read: 39247
-    cache_write: 61837
+    input: 460929
+    output: 134955
+    real_input: 8
+    cache_read: 215746
+    cache_write: 245175
     calls: 0
-  body_sha256: f2e01007860fe4fdb26ac500dead33dcf61e65f5cbc3b98d590d5688ed2778d4
+  body_sha256: 40a389dd6446937b22fffc69d62b772175db1f37bf62c105333827d8b82b5895
 ---
 
-David Charles Grusch is a former United States intelligence official who, as a whistleblower, gave [United States Congress](/organisations/united-states-congress) and the Inspector General of the Intelligence Community extensive classified information about covert programmes said to possess retrieved intact and partially intact craft of non-human origin.<sup>1</sup> He is a veteran of the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga) and the [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro),<sup>2</sup> and a decorated veteran of the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) who received numerous awards and decorations for his participation in covert and clandestine operations.<sup>3</sup> He filed a formal complaint alleging that he suffered illegal retaliation for confidential disclosures he made concerning Unidentified Aerial Phenomena (UAP)-related programmes.<sup>4</sup>
+David Charles Grusch is a former US intelligence officer who, according to reporting published on 2023-06-05, gave the [United States Congress](/organisations/united-states-congress) and the Office of the Intelligence Community Inspector General (ICIG) extensive classified information about deeply covert programmes that he says possess retrieved intact and partially intact craft of non-human origin.<sup>1</sup> He served as an intelligence officer for over fourteen years,<sup>2</sup> reaching the civilian grade of GS-15, the military equivalent of a Colonel.<sup>3</sup> A veteran of the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf), he received numerous awards and decorations for his participation in covert and clandestine operations,<sup>4</sup> including a combat tour in [Afghanistan](/places/afghanistan) supporting counter-illicit finance, drug, and arms-trafficking operations with Joint Special Operations Command and the International Security Assistance Force.<sup>5</sup> He is also a veteran of the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga) and the [National Reconnaissance Office (NRO)](/organisations/national-reconnaissance-office-nro).<sup>6</sup>
 
-Grusch served with the NRO as a Senior Intelligence Officer from 2016 to 2021, leading production of the NRO director's daily briefing,<sup>5</sup> and held the civilian grade GS-15, the military equivalent of a Colonel.<sup>6</sup> At the NGA he was a Senior Intelligence Capabilities Integration Officer cleared at the Top Secret/Sensitive Compartmented Information level,<sup>7</sup> and later served as the agency's Senior Technical Advisor for UAP analysis and Trans-Medium Issues.<sup>8</sup> He was the NRO's representative to the [Unidentified Aerial Phenomena Task Force (UAPTF)](/projects/unidentified-aerial-phenomena-task-force-uaptf) from 2019 to 2021,<sup>9</sup> and from late 2021 to July 2022 was the NGA's co-lead for UAP analysis and its representative to the task force.<sup>10</sup> He reached the rank of Major<sup>11</sup> over fourteen years of USAF service,<sup>12</sup> including a combat tour in Afghanistan supporting counter-illicit finance, drug, and arms-trafficking operations with Joint Special Operations Command and the International Security Assistance Force.<sup>13</sup> He also helped draft the UAP-related language included in the National Defense Authorization Act for Fiscal Year 2023.<sup>14</sup>
+From 2016 to 2021, Grusch served with the NRO as a Senior Intelligence Officer, leading production of the NRO director's daily briefing.<sup>7</sup> From 2019 to 2021 he was the NRO's representative to the [Unidentified Aerial Phenomena Task Force (UAPTF)](/projects/unidentified-aerial-phenomena-task-force-uaptf).<sup>8</sup> From late 2021 to July 2022 he served as NGA's co-lead for [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) analysis and its representative to the UAPTF,<sup>9</sup> holding the roles of Senior Intelligence Capabilities Integration Officer, cleared at the Top Secret/Sensitive Compartmented Information level,<sup>10</sup> and Senior Technical Advisor for UAP analysis and Trans-Medium Issues.<sup>11</sup> He helped draft the UAP-related language included in the National Defense Authorization Act for Fiscal Year 2023,<sup>12</sup> and prepared numerous UAP briefings for Congress during his government service.<sup>13</sup>
 
-In May 2022, Grusch's attorney Charles McCullough III, senior partner of the Compass Rose Legal Group,<sup>15</sup> filed a Disclosure of Urgent Concern(s); Complaint of Reprisal on his behalf with the Office of the Inspector General of the Intelligence Community, concerning information Grusch had gathered beginning in 2019 while working for the UAPTF.<sup>16</sup> The unclassified complaint of David Charles Grusch states that he has direct knowledge that UAP-related classified information has been withheld and/or concealed from Congress by "elements" of the intelligence community "to purposely and intentionally thwart legitimate Congressional oversight of the UAP Program."<sup>17</sup> According to the complaint, all testimony he provided was given under oath,<sup>18</sup> and in July 2021 he confidentially provided classified information to the Office of Inspector General, [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), concerning the withholding of UAP-related information from Congress.<sup>19</sup> According to the report of his disclosures, the Office of the Inspector General of the Intelligence Community found the complaint "credible and urgent" in July 2022.<sup>20</sup> Grusch has said that a summary of his complaint was immediately submitted to the Director of National Intelligence, Avril Haines, the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence), and the House Permanent Select Committee on Intelligence.<sup>21</sup> The complaint was drafted and signed by McCullough and his managing partner,<sup>22</sup> and closed with Grusch's own statement, signed under penalty of perjury, affirming that its contents were "true and correct to the best of my knowledge."<sup>23</sup> Grusch has said he believed his identity and the fact that he had provided testimony were disclosed to individuals and entities within the Department of Defense and the intelligence community outside the DoD Office of Inspector General,<sup>24</sup> though he did not allege that his identity or testimony was improperly disclosed by any member of that office.<sup>25</sup> He suffered months of retaliation and reprisals related to his disclosures beginning in 2021,<sup>26</sup> and asked that details of the reprisals be withheld to protect the integrity of the ongoing investigation.<sup>27</sup> A whistleblower reprisal investigation into his case was launched, and Grusch began communicating with staff of the congressional intelligence committees in closed-door sessions,<sup>28</sup> though he has said some information he obtained could not be put before congressional staffers because they lacked the necessary clearances or investigative authority.<sup>29</sup> Referring to Special Access Programs and Controlled Access Programs, Grusch has said: "When you have multiple agencies nesting UAP activities in conventional [Special Access Program (SAP)](/topics/special-access-program-sap)/CAP programs, both as recipients of exploitation-related insights and for operational reasons, without appropriate reporting to various oversight authorities, you have a problem."<sup>30</sup>
+Grusch is represented by Charles McCullough III, senior partner of the Compass Rose Legal Group in Washington, D.C.<sup>14</sup> In May 2022, McCullough filed a Disclosure of Urgent Concern(s); Complaint of Reprisal on Grusch's behalf with the Office of the [Inspector General of the Intelligence Community](/organisations/inspector-general-of-the-intelligence-community), covering information Grusch had gathered since 2019 while working for the UAPTF.<sup>15</sup> According to the unclassified complaint of David Charles Grusch, he had in July 2021 confidentially provided classified information to the Office of Inspector General, Department of Defense, concerning the withholding of UAP-related information from Congress,<sup>16</sup> and all testimony he provided for the complaint was given under oath, according to the same record.<sup>17</sup> The complaint was found "credible and urgent" by the Office of the Inspector General of the Intelligence Community in July 2022, according to the record.<sup>18</sup> Grusch has said a summary was immediately submitted to the Director of National Intelligence, Avril Haines, the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence), and the House Permanent Select Committee on Intelligence.<sup>19</sup> The complaint closed with Grusch's signed statement affirming "under the penalties of perjury that the contents of the foregoing paper are true and correct to the best of my knowledge."<sup>20</sup> A whistleblower reprisal investigation into his case was subsequently launched, and Grusch began communicating with staff of the congressional intelligence committees in closed-door sessions.<sup>21</sup>
 
-Grusch provided the Defense Office of Prepublication and Security Review with the information he intended to disclose to Leslie Kean and Ralph Blumenthal,<sup>31</sup> and according to their report, his on-the-record statements were cleared for open publication on 2023-04-04 and 2023-04-06.<sup>32</sup> In that reporting, published 2023-06-05, Grusch said the recovery of partial fragments through to intact vehicles has been made for decades through to the present day by the government, its allies, and defence contractors,<sup>33</sup> and that analysis determined the recovered objects are of exotic, non-human origin, based on vehicle morphologies, material science testing, and unique atomic arrangements and radiological signatures.<sup>34</sup> He said: "We are not talking about prosaic origins or identities. The material includes intact and partially intact vehicles."<sup>35</sup> He reported to Congress the existence of a decades-long, publicly unknown Cold War for recovered and exploited physical material - a competition with near-peer adversaries to identify UAP crashes and landings and retrieve material for exploitation and [reverse engineering of recovered craft of non-human origin](/topics/reverse-engineering-of-recovered-craft-of-non-human-origin) to garner asymmetric national defence advantages,<sup>36</sup> and beginning in 2022 provided Congress with hours of recorded classified information, transcribed into hundreds of pages, including specific data about the materials recovery programme.<sup>37</sup> Karl E. Nell, a retired Army Colonel who served as the US Army's liaison to the UAPTF from 2021 to 2022 and worked alongside Grusch there,<sup>38</sup> has said he considers Grusch's assertion of an arms race conducted sub-rosa over the past eighty years, focused on reverse engineering technologies of unknown origin, to be fundamentally correct, and considers it an indisputable realisation that at least some of that technology derives from non-human intelligence;<sup>39</sup> Nell has also described Grusch as "beyond reproach."<sup>40</sup> Other active and retired intelligence officials with knowledge of covert non-human craft recovery programmes independently provided similar, corroborating information about Grusch's account, both on and off the record.<sup>41</sup> In July 2023, Congress held a bipartisan hearing on UAP - the 2023 congressional testimony - at which Commander [David Fravor](/people/david-fravor), Lieutenant [Ryan Graves](/people/ryan-graves) and Grusch testified under oath.<sup>42</sup> There, Grusch said he was aware that non-human biologics were found along with crashed disks,<sup>43</sup> though he has also said he has not personally witnessed alien bodies.<sup>44</sup> He has said he prefers to describe the phenomenon as nonhuman intelligence rather than assume an extraterrestrial hypothesis origin, in order to keep an open mind about its specific origin.<sup>45</sup> Graves has said he relied on Grusch and others to research where UAP-related information is kept, since Graves was an operator.<sup>46</sup> According to the hearing record, Grusch, Graves and Fravor each agreed with John Kirby's statement that [UAP](/topics/unidentified-aerial-phenomena-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap) are having an impact on US training ranges.<sup>47</sup>
+In statements cleared for publication by the Pentagon in April 2023, Grusch asserted that UFO "legacy programs" had long been concealed within multiple agencies nesting UAP activities inside conventional secret access programmes without appropriate reporting to oversight authorities.<sup>22</sup> He reported to Congress the existence of a decades-long, publicly unknown competition with near-peer adversaries to identify UAP crashes and landings and retrieve material for exploitation and reverse engineering of recovered craft of non-human origin, in pursuit of asymmetric national defence advantages.<sup>23</sup> Beginning in 2022, he provided Congress with hours of recorded classified information, transcribed into hundreds of pages, including specific data about the materials-recovery programme.<sup>24</sup> In July 2023, members of Congress held a bipartisan hearing on UAP — David Grusch's 2023 congressional testimony on Unidentified Anomalous Phenomena (UAP) crash retrieval programs — at which Commander [David Fravor](/people/david-fravor), Lieutenant [Ryan Graves](/people/ryan-graves), and Grusch testified under oath.<sup>25</sup> Grusch had asked that details of the reprisals he suffered be withheld to protect the integrity of the ongoing investigation.<sup>26</sup> He described the nesting of UAP activities within [Special Access Program (SAP)](/topics/special-access-program-sap) and Controlled Access Program structures, without appropriate reporting to oversight authorities, as, in his words, "a problem."<sup>27</sup> Under oath at the hearing, on 2023-07-26, Grusch said he was aware that non-human biologics had been found along with crashed disks,<sup>28</sup> while also saying he had not personally witnessed alien bodies.<sup>29</sup> He said he knew of multiple colleagues who had been physically injured by activity relating to UAP that he described in his reports,<sup>30</sup> and that what he and his wife had personally witnessed regarding UAP activity was very disturbing.<sup>31</sup>
 
-Grusch's account drew scepticism as well as corroboration. The analyst Marik von Rennenkampff wrote that Grusch had not provided proof of his allegations,<sup>48</sup> and considered it implausible that revelations of the kind Grusch alleged could remain secret for any appreciable length of time.<sup>49</sup> He reported that the DoD, in a statement to NewsNation issued the week before 2023-06-09,<sup>50</sup> denied that the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) had uncovered the sort of activity Grusch alleged.<sup>51</sup> At the same time, von Rennenkampff noted that current and former officials had vouched for Grusch and corroborated the broad outlines of his allegations,<sup>52</sup> and that Grusch was making use of the established, legally protected whistleblower process rather than conducting an unauthorised leak of classified information.<sup>53</sup>
+Karl E. Nell, a recently retired Army Colonel and aerospace executive who served as the US Army's liaison to the UAPTF from 2021 to 2022 and worked with Grusch there,<sup>32</sup> said he considered Grusch's account "beyond reproach."<sup>33</sup> He said he considered Grusch's assertion of a terrestrial arms race conducted covertly over the past eighty years, focused on reverse-engineering technologies of unknown origin, to be fundamentally correct, and considered it an indisputable realisation that at least some of those technologies derive from non-human intelligence.<sup>34</sup> Reporting by Marik von Rennenkampff noted that current and former officials had vouched for Grusch and corroborated the broad outlines of his allegations,<sup>35</sup> while also noting that Grusch had not provided proof of his allegations regarding UFO-related information being withheld from Congress.<sup>36</sup> In a statement to NewsNation, the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) denied that the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) had uncovered the sort of activity Grusch alleged.<sup>37</sup>
 
-In March 2025, [Eric Burlison](/people/eric-burlison) announced Grusch as a Special Advisor.<sup>54</sup> Grusch had previously given sworn testimony before the US House Oversight & Accountability Committee about the federal government's Unidentified Anomalous Phenomena activities,<sup>55</sup> and in the new role agreed to contribute his expertise to Burlison's efforts to promote transparency on UAP matters through the Task Force on the Declassification of Federal Secrets.<sup>56</sup> Burlison has said that Grusch has risked his career to expose critical information,<sup>57</sup> and considers his expertise vital to uncovering the truth about UAP and holding the government accountable.<sup>58</sup> While at the NGA in 2022, Grusch had filed a federal whistleblower complaint with the [Office of the Intelligence Community Inspector General (ICIG)](/organisations/office-of-the-intelligence-community-inspector-general-icig).<sup>59</sup> Grusch, for his part, has said the public is rightfully demanding to know the truth about Unidentified Anomalous Phenomena.<sup>60</sup> In later interviews he has discussed the involvement of the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), the Office of Naval Intelligence and a number of federally funded research and development centres in the analysis of recovered material over the decades,<sup>61</sup> and has said he is worried that, absent a preservation hold issued by [Donald Trump](/people/donald-trump), much of the information on the recovery programme is being destroyed, drawing a comparison with the 1970s destruction of Project MKUltra records.<sup>62</sup> The USAF unsuccessfully attempted to file an Espionage Act unauthorised-disclosure complaint against Grusch after he went public,<sup>63</sup> and Grusch resigned his USAF officer commission, saying he had foreseen an attack of that nature.<sup>64</sup> He has said he spent a substantial amount of money on legal fees and lost income as a result of going public,<sup>65</sup> and has described himself as having "a very high justice sensitivity with a touch of" autism spectrum traits "and attention deficit hyperactivity disorder."<sup>66</sup>
+Grusch has said that going public came at considerable personal cost, including a substantial amount spent on legal fees and lost income.<sup>38</sup> He resigned his US Air Force officer's commission,<sup>39</sup> having said he believed the Air Force would likely pursue him under the Uniform Code of Military Justice had he remained in the reserves.<sup>40</sup> He has said this cost him a promotion to lieutenant colonel in the Air Force Reserve,<sup>41</sup> coming only a couple of years before he would otherwise have reached military retirement.<sup>42</sup> He describes himself as having a very high justice sensitivity with a touch of the autism spectrum and attention deficit hyperactivity disorder.<sup>43</sup> On 2025-03-27, Congressman [Eric Burlison](/people/eric-burlison) announced Grusch as a Special Advisor,<sup>44</sup> to contribute his expertise to Burlison's efforts on the Task Force on the Declassification of Federal Secrets.<sup>45</sup> Burlison said Grusch had "risked his career to expose critical information."<sup>46</sup> Grusch has also said he is concerned that, absent a historical document-preservation hold from [Donald Trump](/people/donald-trump), information on the recovery programme is currently being destroyed, in a manner he compared to the destruction of Project MKUltra records in the 1970s.<sup>47</sup> He has said he prefers to describe the phenomenon as non-human intelligence rather than assuming an [extraterrestrial hypothesis](/topics/extraterrestrial-hypothesis) origin, in order to keep an open mind about its specific origin,<sup>48</sup> saying that origin could be a traditional extraterrestrial one or something else not fully understood from a biological or astrophysical perspective.<sup>49</sup>

@@ -1,8 +1,9 @@
 ---
 title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-description: A Freedom of Information Act response package released by the US Department
-  of Defense in 2022, comprising eight pages of records relating to the Advanced Aerospace
-  Threat Identification Program and the conduct of former DOD employee Luis Elizondo.
+description: A 2022-08-17 Freedom of Information Act response releasing eight Department
+  of Defense pages, mainly Garry Reid memoranda, documenting the internal review of
+  Luis Elizondo's resignation and his public claims about the Advanced Aerospace Threat
+  Identification Program.
 noindex: true
 metadata:
   medium: pdf
@@ -10,462 +11,532 @@ metadata:
   publisher: U.S. Department of Defense
 record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
 references:
-- text: FOIA case 18-F-0324 was submitted by John Greenewald of The Black Vault on
-    2017-12-17
+- text: OUSDI located eight pages responsive to parts one and two of the FOIA request
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, para 1
-  quote: This is a final response to your December 17, 2017 Freedom of Information
-    Act (FOIA) request
-  claim_id: ee1cf937-8bfd-4fad-969c-7ff726b9ca7e
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ee1cf937-8bfd-4fad-969c-7ff726b9ca7e
-- text: The Department of Defense received the request on 2017-12-18 and assigned
-    it case number 18-F-0324
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, para 1
-  quote: We received your request on December 18, 2017, and assigned it FOIA case
-    number 18-F-0324.
-  claim_id: 2a115811-a998-485b-a5e6-689c091f5dc0
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2a115811-a998-485b-a5e6-689c091f5dc0
-- text: The final FOIA response was issued on 2022-08-17
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, header
-  quote: 'Ref: 18-F-0324
-
-    August 17, 2022'
-  claim_id: a23ebf65-363c-404b-a67c-ad0c703d9643
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a23ebf65-363c-404b-a67c-ad0c703d9643
-- text: The Under Secretary of Defense for Intelligence and Security located eight
-    pages responsive to parts one and two of the request
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, para 2
+  location: char:569-809
   quote: The Under Secretary of Defense for Intelligence & Security, a component of
     the Office of the Secretary of Defense, conducted a search of their records systems
     and located eight pages determined to be responsive to parts one and two of your
     request.
-  claim_id: 60442aea-7001-495e-a1d5-dcdc828de5e5
+  claim_id: dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-60442aea-7001-495e-a1d5-dcdc828de5e5
-- text: Brian C. Kreitlow, Chief of the Assessment, Capabilities, & Integration Division,
-    served as Initial Denial Authority
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
+- text: Portions of the eight pages exempt under 5 U.S.C. § 552(b)(6)
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, para 2
-  quote: Mr. Brian C. Kreitlow, Chief, Assessment, Capabilities, & Integration Division,
-    in his capacity as an Initial Denial Authority
-  claim_id: cfbcef8d-8542-47f1-bd45-4e14604d21ba
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-cfbcef8d-8542-47f1-bd45-4e14604d21ba
-- text: Portions of the responsive pages were withheld under 5 U.S.C. § 552(b)(6)
-    as constituting a clearly unwarranted invasion of personal privacy
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 1, para 2
+  location: char:946-1172
   quote: has determined that portions of the eight responsive pages are exempt from
     release pursuant to 5 U.S.C. § 552 (b)(6), as disclosure of the information would
     constitute a clearly unwarranted invasion of the personal privacy of individuals.
-  claim_id: 55ff5cfc-6f6c-4711-95dc-c101ca04fa39
+  claim_id: d91f7a19-4486-443d-a603-eaa6cfe055dc
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-55ff5cfc-6f6c-4711-95dc-c101ca04fa39
-- text: The response was signed by Stephanie L. Carr, Chief
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d91f7a19-4486-443d-a603-eaa6cfe055dc
+- text: Appeal must be postmarked within 90 calendar days
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 2, signature
-  quote: 'Sincerely,
-
-
-    Stephanie L. Carr
-
-    Chief'
-  claim_id: 8a52de33-d575-4409-8f45-7217d1ab364e
+  location: char:2723-2798
+  quote: Your appeal must be postmarked within 90 calendar days of the date of this
+    response.
+  claim_id: 8252140e-9005-45bb-9c15-d779c09e6b2f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8a52de33-d575-4409-8f45-7217d1ab364e
-- text: Joo Chung, Assistant to the Secretary of Defense for Privacy, Civil Liberties,
-    and Transparency, was the appellate authority, based at 4800 Mark Center Drive,
-    Alexandria, Virginia
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8252140e-9005-45bb-9c15-d779c09e6b2f
+- text: Elizondo assigned to OUSDI from 2008-09-28 to 2017-10-04
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 2, para 1
-  quote: 'You have the right to appeal to the appellate authority, Ms. Joo Chung,
-    Assistant to the Secretary of Defense for Privacy Civil Liberties, and Transparency
-    (PCLT), Office of the Secretary of Defense, at the following address: 4800 Mark
-    Center Drive, ATTN: PCLFD, FOIA Appeals, Mailbox #24, Alexandria, VA 22350-1700.'
-  claim_id: 4b8c994a-9bec-45ea-8a44-fcfb9e9b4ce4
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4b8c994a-9bec-45ea-8a44-fcfb9e9b4ce4
-- text: Garry Reid held the title Director for Defense Intelligence in the Office
-    of the Under Secretary of Defense for Intelligence
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, header
-  quote: 'FROM: Garry Reid, Director for Defense Intelligence, Office of the Under
-    Secretary of Defense for Intelligence'
-  claim_id: 2d4ab026-9fc5-4f3d-9bfd-3084b8669118
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2d4ab026-9fc5-4f3d-9bfd-3084b8669118
-- text: Reid characterised Elizondo as having aggrandised his role in AATIP through
-    public statements
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, BLUF
-  quote: This memorandum summarizes recent media interest in the AATIP, which has
-    been accentuated by the public statements of former DoD employee Luis Elizondo,
-    who has aggrandized his role in the program.
-  claim_id: d828ab25-241f-4c69-bd51-dedc33264668
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d828ab25-241f-4c69-bd51-dedc33264668
-- text: OUSDI was reviewing AATIP history with DIA, the US Navy, and the US Air Force,
-    and pursuing options to investigate Elizondo's possible mishandling of sensitive
-    information
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, BLUF
-  quote: We are collecting facts regarding Mr. Elizondo's actual role in the AATIP,
-    reviewing the program's history with DIA, Navy, and Air Force, and pursuing options
-    to investigate Mr. Elizondo's possible mishandling of sensitive information.
-  claim_id: 49e27247-b855-410c-b9ac-f02fe7f2fc82
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-49e27247-b855-410c-b9ac-f02fe7f2fc82
-- text: Elizondo was assigned to OUSDI from 2008-09-28 to 2017-10-04
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 1
+  location: char:4801-4874
   quote: Mr. Elizondo was assigned to OUSDI from September 28, 2008 to October 4,
     2017.
-  claim_id: a236ce2f-758a-4804-b19e-aa1a21527531
+  claim_id: b277f3c3-8e17-43d6-952f-784797ba9cb5
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a236ce2f-758a-4804-b19e-aa1a21527531
-- text: Elizondo served as an action officer in Partner Engagement and as a branch
-    chief managing classified information for the Office of Military Commissions
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b277f3c3-8e17-43d6-952f-784797ba9cb5
+- text: Elizondo served as action officer in Partner Engagement
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 1
+  location: char:4880-5035
   quote: He served as an action officer in Partner Engagement, and subsequently as
     a branch chief managing classified information to support the Office of Military
     Commissions.
-  claim_id: 653e2ea4-fa3d-4b75-8f98-ce55a7527488
+  claim_id: ddec9833-fd27-4352-881f-28ecab0ed8c7
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-653e2ea4-fa3d-4b75-8f98-ce55a7527488
-- text: To Reid's knowledge, Elizondo had no job responsibilities related to AATIP
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ddec9833-fd27-4352-881f-28ecab0ed8c7
+- text: Elizondo later branch chief managing classified information for Office of
+    Military Commissions
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 1
+  location: char:4880-5035
+  quote: He served as an action officer in Partner Engagement, and subsequently as
+    a branch chief managing classified information to support the Office of Military
+    Commissions.
+  claim_id: 55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
+- text: AATIP terminated in 2012
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5130-5158
+  quote: The AATIP was terminated in 2012.
+  claim_id: 19ef963a-8b51-41db-891c-9e1ca0491c42
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-19ef963a-8b51-41db-891c-9e1ca0491c42
+- text: 'Reid: to his knowledge Elizondo had no AATIP job responsibilities'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5048-5123
   quote: To the best of my knowledge, he had no job responsibilities related to the
     AATIP.
-  claim_id: e3d5f2e6-6dbe-4071-95d2-513c249dead9
+  claim_id: 17ebb920-9e1e-4503-a10d-55185df50fcb
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-e3d5f2e6-6dbe-4071-95d2-513c249dead9
-- text: AATIP was terminated in 2012
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-17ebb920-9e1e-4503-a10d-55185df50fcb
+- text: 'Reid: Elizondo aggrandized his AATIP role in public statements'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 1
-  quote: The AATIP was terminated in 2012.
-  claim_id: 66017f49-1a93-4400-a464-d9e34669a3b6
+  location: char:4347-4536
+  quote: This memorandum summarizes recent media interest in the AATIP, which has
+    been accentuated by the public statements of former DoD employee Luis Elizondo,
+    who has aggrandized his role in the program.
+  claim_id: f884219b-bd8b-4f8a-9d1d-3090fff0b55b
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-66017f49-1a93-4400-a464-d9e34669a3b6
-- text: On 2017-10-03 Elizondo submitted a resignation letter requesting immediate
-    termination of his employment
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f884219b-bd8b-4f8a-9d1d-3090fff0b55b
+- text: Reid pursuing options to investigate possible mishandling of sensitive information
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 2
+  location: char:4545-4768
+  quote: We are collecting facts regarding Mr. Elizondo's actual role in the AATIP,
+    reviewing the program's history with DIA, Navy, and Air Force, and pursuing options
+    to investigate Mr. Elizondo's possible mishandling of sensitive information.
+  claim_id: 4cd5f123-5578-41a2-88d5-608d0bdc3f88
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4cd5f123-5578-41a2-88d5-608d0bdc3f88
+- text: First resignation letter, 2017-10-03, requesting immediate termination
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5233-5345
   quote: On October 3, 2017, Mr. Elizondo submitted a resignation letter (Tab B) requesting
     immediate termination of his employment.
-  claim_id: 221f572e-0e7b-49ec-960b-1a4eb7cb0343
+  claim_id: 777cea01-50aa-48e1-bc07-b7267c7b7027
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-221f572e-0e7b-49ec-960b-1a4eb7cb0343
-- text: Elizondo was cleared out of OUSDI the day after submitting his first resignation
-    letter and provided no reason for the sudden departure
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-777cea01-50aa-48e1-bc07-b7267c7b7027
+- text: 'First letter: resignation effective 2017-10-04 as Director, National Programs
+    Special Management Staff, deferred retirement requested'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 2
-  quote: He was cleared out of USDI the next day. He provided no reason for the sudden
-    departure.
-  claim_id: 6683966e-659f-40ea-b724-ff8d9b3b4022
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-6683966e-659f-40ea-b724-ff8d9b3b4022
-- text: On or about 2017-10-04, after Elizondo had departed, a second resignation
-    letter was delivered to the OUSDI Chief of Staff office, formatted as a Memorandum
-    for Record, citing concerns over anomalous aerospace threats
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 3
-  quote: On or about October 4, after Mr. Elizondo had departed the organization,
-    a second resignation letter (Tab C) was delivered to the USDI Chief of Staff office.
-    In this letter, which is formatted as a "Memorandum for Record" but uses the salutation
-    "Mr. Secretary," Mr. Elizondo cites concerns over anomalous aerospace threats
-    as the basis for his resignation.
-  claim_id: 3d876a08-cd56-4e76-b7a3-8f2c63dd3153
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-3d876a08-cd56-4e76-b7a3-8f2c63dd3153
-- text: Given the uncertain provenance of the second letter, OUSDI retained a copy
-    but did not provide it to the Secretary of Defense office
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 3
-  quote: Given the uncertain provenance of the second letter, OUSDI retained a copy
-    but did not provide it to the SecDef office.
-  claim_id: 7f914614-6563-4603-b63f-eecf4d4dc750
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-7f914614-6563-4603-b63f-eecf4d4dc750
-- text: In a phone call on 2017-10-05 Elizondo told Reid he had been secretly tasked
-    by the Secretary of Defense as program manager for investigating UFOs, and that
-    nobody in OUSDI was cleared for this program
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 4
-  quote: 'In a phone call on October 5, when asked about the second letter, Mr. {{redacted:
-    ~2 words}} told me that for many years he had been secretly tasked by the Secretary
-    of Defense as the program manager for investigating UFOs and other aerial threats.
-    He said nobody in USDI was cleared for this program and would not discuss it further.'
-  claim_id: 624cf1ba-11a5-499f-842b-e5dc35dd9c87
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-624cf1ba-11a5-499f-842b-e5dc35dd9c87
-- text: Reid discussed Elizondo's claim with senior officials who would likely have
-    known of such an arrangement, but was unable to substantiate it
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 4, bullet 4
-  quote: I discussed his claims with senior officials who would likely have known
-    of such an arrangement, but was unable to substantiate them.
-  claim_id: 2d14efce-c768-4d42-be16-d3503d0d2487
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2d14efce-c768-4d42-be16-d3503d0d2487
-- text: On 2017-10-12 a video featuring Elizondo was posted on YouTube by To the Stars
-    Academy of Arts and Sciences, which appeared to be his current employer
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 1
-  quote: On October 12, I learned of a video featuring Mr. Elizondo that was posted
-    on YouTube by the "To the Stars Academy for Arts and Sciences," which appears
-    to be his current employer.
-  claim_id: dca1eb09-ed81-49ba-9dad-90763fd97205
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-dca1eb09-ed81-49ba-9dad-90763fd97205
-- text: In the To the Stars Academy video Elizondo asserted he had run a sensitive
-    Aerospace Threat Identification Program focusing on unidentified aerial technologies
-    for nearly the last decade
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 1
-  quote: He asserts "for nearly the last decade I ran a sensitive Aerospace Threat
-    Identification Program focusing on unidentified aerial technologies,"
-  claim_id: da59b300-b685-4aba-8115-6c1a306b1286
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-da59b300-b685-4aba-8115-6c1a306b1286
-- text: Reid requested an informal review of Elizondo's conduct by AFOSI following
-    discovery of the YouTube video
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 2
-  quote: Following discovery of the YouTube video, I requested an informal review
-    of Mr. Elizondo's conduct by the Air Force Office of Special Investigations (AFOSI),
-    which is responsible for providing investigative support to the Office of the
-    Secretary of Defense (OSD), including investigation of assigned personnel.
-  claim_id: 40110e78-0290-47e4-8c8f-cd0137ea36ca
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-40110e78-0290-47e4-8c8f-cd0137ea36ca
-- text: In late November 2017 AFOSI advised it did not have enough information to
-    open a case on Elizondo
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 2
-  quote: In late November AFOSI advised that absent more tangible indicators of possible
-    misconduct they did not have enough information to open a case on Mr. Elizondo.
-  claim_id: a959ed84-7b18-4774-b6a4-3a2d0263b428
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a959ed84-7b18-4774-b6a4-3a2d0263b428
-- text: On 2017-12-07 the DOD was contacted by the New York Times seeking information
-    about AATIP
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 3
-  quote: 'On December 7, DoD was contacted by the New York Times (NYT) seeking {{redacted:
-    ~2 words}} information regarding the AATIP and noting that Mr. Elizondo''s recent
-    resignation was submitted "to protest what he characterized as internal opposition
-    and lack of resources for continued research."'
-  claim_id: eecf3fd9-f7b9-4c53-bdcd-eaea1d2d8121
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-eecf3fd9-f7b9-4c53-bdcd-eaea1d2d8121
-- text: On 2017-12-15 Reid notified the OUSDI Security Officer that Elizondo may have
-    misused government systems and may intend to release US Government footage
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 4
-  quote: On December 15, based on information contained in the NYT inquiry, I notified
-    the OUSDI Security Officer that Mr. Elizondo may have misused government systems
-    and may intend to release USG footage or information that he obtained during his
-    employment with OUSD (I).
-  claim_id: a81dd5ce-0347-4a4e-9cc6-463ad49b28b6
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a81dd5ce-0347-4a4e-9cc6-463ad49b28b6
-- text: On 2017-12-17 Elizondo appeared on national news programmes commenting on
-    footage he claimed showed an unidentified flying object
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 5, bullet 5
-  quote: On December 17, Mr. Elizondo appeared on national news programs providing
-    commentary on a video that appears to be camera footage taken by a US military
-    aircraft showing what he claims is an unidentified flying object.
-  claim_id: 62def66f-bef1-4f21-9b0f-e671a6f045ae
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-62def66f-bef1-4f21-9b0f-e671a6f045ae
-- text: On 2017-12-18 OUSDI located a classified email generated by Elizondo in August
-    2017 requesting assistance from a US Navy civilian employee to declassify one
-    or more videos
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 6, bullet 6
-  quote: On December 18, OUSDI located a classified email generated by Mr. Elizondo
-    in August 2017, in which he requested assistance from a Navy civilian employee
-    to declassify one or more videos.
-  claim_id: b61cc48a-fad3-40cc-a7ed-2ece2e85ba1b
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b61cc48a-fad3-40cc-a7ed-2ece2e85ba1b
-- text: The video in Elizondo's August 2017 classified email was the same footage
-    broadcast on national news on 2017-12-17
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 6, bullet 6
-  quote: The video attached to the email is the same footage broadcast on national
-    news on December 17.
-  claim_id: bf0b2bef-93b2-48b1-af73-8806e43faf26
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-bf0b2bef-93b2-48b1-af73-8806e43faf26
-- text: On 2017-12-21 Reid met with AFOSI agents to initiate a formal inquiry into
-    Elizondo's possible mishandling of classified materials
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 6, bullet 7
-  quote: On December 21, I met with AFOSI agents to initiate a formal inquiry into
-    Mr. Elizondo's possible mishandling of classified materials.
-  claim_id: 92d3cccf-06ca-49ec-8712-1fa9e8f41f23
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-92d3cccf-06ca-49ec-8712-1fa9e8f41f23
-- text: In his first resignation letter dated 2017-10-03, Elizondo submitted his resignation
-    effective 2017-10-04 as Director, National Programs Special Management Staff,
-    OUSDI
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 6, resignation letter
+  location: char:9189-9492
   quote: Effective 4 October 2017, I humbly submit my resignation as Director, National
     Programs Special Management Staff, Office of the Under Secretary of Defense for
     Intelligence. In this regard, I understand I will no longer be an employee of
     the U.S. Government. I respectfully request I receive a "deferred retirement".
-  claim_id: 51b2727a-cf2e-4831-ba41-775ee9d774ba
+  claim_id: f8c49283-862c-44b9-a084-63f7c53745fd
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-51b2727a-cf2e-4831-ba41-775ee9d774ba
-- text: In his second resignation letter Elizondo stated he had served for over 22
-    years
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f8c49283-862c-44b9-a084-63f7c53745fd
+- text: Elizondo cleared out of OUSDI the day after
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 7, para 1
-  quote: For over 22 years, I have been blessed to learn from, and work with world-class
-    leadership
-  claim_id: 8ec496cc-2459-4237-b86b-84e1aba5986d
+  location: char:5357-5393
+  quote: He was cleared out of USDI the next day.
+  claim_id: 8e1d3010-def9-431d-b6cd-b8fcf9546671
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8ec496cc-2459-4237-b86b-84e1aba5986d
-- text: Elizondo considered certain individuals in the DOD remained staunchly opposed
-    to further research on anomalous aerospace threats, which he characterised as
-    potentially a tactical and existential threat
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8e1d3010-def9-431d-b6cd-b8fcf9546671
+- text: 'Reid: Elizondo provided no reason for sudden departure'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 7, para 2
+  location: char:5398-5435
+  quote: He provided no reason for the sudden departure.
+  claim_id: c8d9f03f-09b0-481a-b139-a4cc24a0008f
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c8d9f03f-09b0-481a-b139-a4cc24a0008f
+- text: Second letter delivered on/about 2017-10-04 after Elizondo had departed
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5466-5616
+  quote: On or about October 4, after Mr. Elizondo had departed the organization,
+    a second resignation letter (Tab C) was delivered to the USDI Chief of Staff office.
+  claim_id: 83165e49-47c2-40e5-ae2e-199ea9f683ec
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-83165e49-47c2-40e5-ae2e-199ea9f683ec
+- text: Second letter formatted as Memorandum for Record but salutation 'Mr. Secretary'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5624-5811
+  quote: In this letter, which is formatted as a "Memorandum for Record" but uses
+    the salutation "Mr. Secretary," Mr. Elizondo cites concerns over anomalous aerospace
+    threats as the basis for his resignation.
+  claim_id: 5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
+- text: Second letter hand-delivered by someone other than Elizondo
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20167-20257
+  quote: The letter was hand delivered to the USDI Chief of Staff office by someone
+    other than Mr. Elizondo.
+  claim_id: afed40fd-5cd1-4c32-b201-4ce790e9b24b
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
+- text: Second letter inconsistent with first, which Elizondo personally handed to
+    supervisor
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20267-20365
+  quote: The letter is not consistent with the first resignation letter Mr. Elizondo
+    personally handed his supervisor.
+  claim_id: 449bfb84-09b3-4111-ad6d-8b0a18f41db2
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
+- text: OUSDI retained a copy of the second letter but did not forward it to SecDef's
+    office
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5824-5936
+  quote: Given the uncertain provenance of the second letter, OUSDI retained a copy
+    but did not provide it to the SecDef office.
+  claim_id: 11c06711-00b9-4eff-a26c-2ae94a732f39
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11c06711-00b9-4eff-a26c-2ae94a732f39
+- text: Second letter cites concerns over anomalous aerospace threats as basis for
+    resignation
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5729-5811
+  quote: Mr. Elizondo cites concerns over anomalous aerospace threats as the basis
+    for his resignation.
+  claim_id: 073aa6b4-66ec-4cb4-a900-d50d71bd827c
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-073aa6b4-66ec-4cb4-a900-d50d71bd827c
+- text: 'Elizondo: served with America''s finest men and women for over 22 years'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:9853-10112
+  quote: It has been my sincere honor and pleasure to have served with some of America's
+    finest men and women in both peace time and in war. For over 22 years, I have
+    been blessed to learn from, and work with world-class leadership, you certainly
+    being among the very best.
+  claim_id: d30de25f-89be-4642-a207-7e5295d7d566
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d30de25f-89be-4642-a207-7e5295d7d566
+- text: 'Elizondo: certain DoD individuals remained opposed despite overwhelming evidence'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:10327-10616
   quote: Despite overwhelming evidence at both the unclassified and classified levels,
     certain individuals in the Department remain staunchly opposed to further research
     on what could be a tactical threat to our pilots, sailors, and soldiers, and perhaps
     even an existential threat to our national security.
-  claim_id: 634d2eb4-30d9-4603-a6cc-1afb2b8722fb
+  claim_id: d9d795bf-e4b0-41d0-82e3-89d41b7584aa
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-634d2eb4-30d9-4603-a6cc-1afb2b8722fb
-- text: Elizondo asserted the US Navy and other Services had many accounts of unusual
-    aerial systems interfering with military weapon platforms
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d9d795bf-e4b0-41d0-82e3-89d41b7584aa
+- text: 'Elizondo: phenomena a potential tactical and possibly existential threat'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 7, para 2
+  location: char:10491-10616
+  quote: what could be a tactical threat to our pilots, sailors, and soldiers, and
+    perhaps even an existential threat to our national security
+  claim_id: 644be4a9-0845-4c3b-aeb4-9fa7b40f6022
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-644be4a9-0845-4c3b-aeb4-9fa7b40f6022
+- text: 'Elizondo: correlation between phenomena and US nuclear/military capabilities'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:10626-10748
+  quote: In many instances, there seems to be a direct correlation the phenomena exhibits
+    with respect to our nuclear and military capabilities.
+  claim_id: 9f2718b6-b9f3-43ba-bbbb-6ddedfcff6cf
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9f2718b6-b9f3-43ba-bbbb-6ddedfcff6cf
+- text: 'Elizondo: DoD must take seriously accounts of interference with weapon platforms'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:10762-10951
   quote: The Department must take serious the many accounts by the Navy and other
     Services of unusual aerial systems interfering with military weapon platforms
     and displaying beyond next generation capabilities.
-  claim_id: 24485e33-d03a-404b-a258-a9762f4ff7df
+  claim_id: ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-24485e33-d03a-404b-a258-a9762f4ff7df
-- text: Reid's memorandum to the Secretary of Defense responded to six questions about
-    Elizondo, with AATIP details in a classified enclosure
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
+- text: 'Elizondo: resignation intended to prompt SecDef to ask further questions'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, BLUF
-  quote: This memorandum provides responds to your six questions regarding the actions
-    of former DoD employee Luis Elizondo. Responses to your questions on the AATIP
-    are in the classified enclosure.
-  claim_id: f24531b0-cb95-48b4-a5db-7e3db0c9db4f
+  location: char:11242-11480
+  quote: 'For this reason, effective 4 October 2017, I humbly submit my resignation
+    in hopes it will encourage you to ask the hard questions: "who else knows?", what
+    are their capabilities?", and "why aren''t we spending more time and effort on
+    the issue?".'
+  claim_id: 1f9abe9c-4b65-42f9-9693-6fe916d5c044
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f24531b0-cb95-48b4-a5db-7e3db0c9db4f
-- text: AFOSI was conducting an inquiry to determine if Elizondo mishandled classified
-    information
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1f9abe9c-4b65-42f9-9693-6fe916d5c044
+- text: 'Reid''s second memorandum: Elizondo gave three different explanations for
+    resigning'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, BLUF
-  quote: The U.S. Air Force Office of Special Investigations (AFOSI) is conducting
-    an inquiry to determine if Mr. Elizondo mishandled classified information.
-  claim_id: d58d7571-3051-45f6-a50a-c913ec820f79
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d58d7571-3051-45f6-a50a-c913ec820f79
-- text: Elizondo provided three different explanations for his sudden resignation
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, Question 1
+  location: char:18851-18921
   quote: Mr. Elizondo has provided three different explanations for his sudden resignation.
-    On October 3rd he told his direct supervisor he was resigning because he had a
-    fleeting job opportunity that required his immediate availability. In a memorandum
-    dated October 4th he cited his concerns over inaction within the Department over
-    "anomalous aerospace threats" as the reason for his resignation. On October 6th,
-    via a phone call, he told me he resigned because his job was too stressful on
-    his family.
-  claim_id: ff2def45-e848-4422-8823-8b28cc32ff50
+  claim_id: 4a2644c1-4600-43cb-897c-c697e3dd104d
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ff2def45-e848-4422-8823-8b28cc32ff50
-- text: OUSDI referred the circumstances of Elizondo's resignation to AFOSI, whose
-    informal assessment did not find any wrongdoing
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
+- text: '2017-10-03: Elizondo told supervisor he had a fleeting job opportunity'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, Question 2
-  quote: We referred the timing and circumstances of Mr. Elizondo's resignation to
-    the AFOSI. Their informal assessment did not find any wrongdoing by Mr. Elizondo,
-    and absent any indicators of misconduct, they were unable to open a formal investigation.
-  claim_id: 09e079a8-eea3-4dc2-a780-ceecf118eef5
+  location: char:18934-19066
+  quote: On October 3rd he told his direct supervisor he was resigning because he
+    had a fleeting job opportunity that required his immediate availability.
+  claim_id: 9980bad2-09bd-4034-8495-79b6fcd00ff5
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-09e079a8-eea3-4dc2-a780-ceecf118eef5
-- text: Elizondo completed all administrative and security out-processing, including
-    formal debriefs for all Special Access Programs, between his resignation notification
-    and departure 24 hours later
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
+- text: '2017-10-04 memo: Elizondo cited DoD inaction on threats as reason'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, Question 3
+  location: char:19080-19229
+  quote: In a memorandum dated October 4th he cited his concerns over inaction within
+    the Department over "anomalous aerospace threats" as the reason for his resignation.
+  claim_id: 2e374f73-5524-4e67-a2e2-eccfc1998f6a
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2e374f73-5524-4e67-a2e2-eccfc1998f6a
+- text: '2017-10-06 call: Elizondo said job too stressful on his family'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19242-19340
+  quote: On October 6th, via a phone call, he told me he resigned because his job
+    was too stressful on his family.
+  claim_id: b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+- text: '2017-10-05 call: Elizondo said he had secretly been the program manager investigating
+    UFOs'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:5947-6187
+  quote: 'In a phone call on October 5, when asked about the second letter, Mr. {{redacted:
+    ~2 words}} told me that for many years he had been secretly tasked by the Secretary
+    of Defense as the program manager for investigating UFOs and other aerial threats.'
+  claim_id: a9fdac08-2b0f-44c1-a561-c123b6f98b2b
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a9fdac08-2b0f-44c1-a561-c123b6f98b2b
+- text: Elizondo told Reid he had been secretly working for the Secretary of Defense
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20377-20470
+  quote: After my phone call with Mr. Elizondo, in which he said he had been secretly
+    working for the Secretary
+  claim_id: 2b8f0284-d740-4d28-a484-38c36244c891
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2b8f0284-d740-4d28-a484-38c36244c891
+- text: 'Elizondo: nobody in OUSDI cleared for the secret program, would not discuss
+    further'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:6196-6273
+  quote: He said nobody in USDI was cleared for this program and would not discuss
+    it further.
+  claim_id: a0528307-3306-4e89-8ebc-4fc8ffd1269f
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0528307-3306-4e89-8ebc-4fc8ffd1269f
+- text: Reid discussed claims with senior officials, unable to substantiate
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:6282-6410
+  quote: I discussed his claims with senior officials who would likely have known
+    of such an arrangement, but was unable to substantiate them.
+  claim_id: 1b92d22c-f23a-4264-9b59-7f0440940c81
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1b92d22c-f23a-4264-9b59-7f0440940c81
+- text: Reid checked with two senior officials with knowledge of special access programs
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20481-20573
+  quote: I checked with two senior officials that have knowledge of special programs;
+    our collective assessment
+  claim_id: e6945a2b-178e-4853-a87d-9737924084e9
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-e6945a2b-178e-4853-a87d-9737924084e9
+- text: Assessed collectively that Elizondo's claims were not credible
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20670-20778
+  quote: was that Mr. Elizondo's claims were not credible, and the letter was not
+    worthy of the Secretary's personal attention.
+  claim_id: 861629de-1d09-4a17-a3e0-8d8f9553032c
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-861629de-1d09-4a17-a3e0-8d8f9553032c
+- text: Assessed that the second letter was not worthy of SecDef's personal attention
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20670-20778
+  quote: was that Mr. Elizondo's claims were not credible, and the letter was not
+    worthy of the Secretary's personal attention.
+  claim_id: c7f5cde0-7845-46c1-be60-08b9b3e3da0a
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c7f5cde0-7845-46c1-be60-08b9b3e3da0a
+- text: Elizondo completed all out-processing, including SAP/SCI debriefs, within
+    24 hours
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19877-19996
   quote: Mr. Elizondo completed all administrative and security related out-processing,
-    including formal debriefs for all SAPs, SCI, and compartmented programs.
-  claim_id: b2ae9703-f9a9-4cb8-abb0-8beb3a6a313a
+    including formal debriefs for all SAPs, SCI,
+  claim_id: 84a722e2-7d82-4891-b8f9-b0effb92214f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b2ae9703-f9a9-4cb8-abb0-8beb3a6a313a
-- text: The second resignation letter was hand delivered to the OUSDI Chief of Staff
-    office by someone other than Elizondo
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-84a722e2-7d82-4891-b8f9-b0effb92214f
+- text: OUSDI referred resignation circumstances to AFOSI for counterintelligence
+    review
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10, Question 4
-  quote: The letter was hand delivered to the USDI Chief of Staff office by someone
-    other than Mr. Elizondo. The letter is not consistent with the first resignation
-    letter Mr. Elizondo personally handed his supervisor.
-  claim_id: 88463280-3958-443d-94f8-664091ffe3f2
+  location: char:19427-19510
+  quote: Yes. We referred the timing and circumstances of Mr. Elizondo's resignation
+    to the AFOSI.
+  claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-88463280-3958-443d-94f8-664091ffe3f2
-- text: Reid and two senior officials collectively assessed that Elizondo's claims
-    were not credible and the second letter was not worthy of the Secretary's personal
-    attention
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+- text: AFOSI informal assessment found no wrongdoing, could not open formal investigation
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 10-11, Question 4
-  quote: 'After my phone call with Mr. Elizondo, in which he said he had been secretly
-    working for the Secretary, I checked with two senior officials that have knowledge
-    of special programs; our collective assessment
-
-
-    was that Mr. Elizondo''s claims were not credible, and the letter was not worthy
-    of the Secretary''s personal attention.'
-  claim_id: 43b56e9f-75b5-472f-aded-bb297c5bb2ac
+  location: char:19517-19663
+  quote: Their informal assessment did not find any wrongdoing by Mr. Elizondo, and
+    absent any indicators of misconduct, they were unable to open a formal investigation.
+  claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-43b56e9f-75b5-472f-aded-bb297c5bb2ac
-- text: The US Navy civilian who received Elizondo's SIPRnet declassification email
-    stated he told Elizondo he was not the declassification release authority and
-    took no further action
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
+- text: In the YouTube video, Elizondo asserted he ran a sensitive Aerospace Threat
+    Identification Program
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: page 11, Question 5
+  location: char:6701-6830
+  quote: He asserts "for nearly the last decade I ran a sensitive Aerospace Threat
+    Identification Program focusing on unidentified aerial technologies,"
+  claim_id: c0419a6c-6b4a-4f59-8b24-9309205de2fa
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c0419a6c-6b4a-4f59-8b24-9309205de2fa
+- text: Elizondo said never-before-released footage from real government systems would
+    be provided
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:6845-6949
+  quote: and later says "we are (also) planning to provide never before released footage
+    from real US government systems."
+  claim_id: 14c0a53c-0e14-46d7-a021-74786c26bd87
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-14c0a53c-0e14-46d7-a021-74786c26bd87
+- text: Reid requested informal AFOSI review after discovering the video
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:6985-7285
+  quote: Following discovery of the YouTube video, I requested an informal review
+    of Mr. Elizondo's conduct by the Air Force Office of Special Investigations (AFOSI),
+    which is responsible for providing investigative support to the Office of the
+    Secretary of Defense (OSD), including investigation of assigned personnel.
+  claim_id: 38c72fef-5654-4931-bc67-5abb3c3c47f0
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
+- text: AFOSI responsible for investigative support to OSD, including assigned personnel
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:7143-7285
+  quote: which is responsible for providing investigative support to the Office of
+    the Secretary of Defense (OSD), including investigation of assigned personnel.
+  claim_id: a0031e6c-3ea4-4987-8797-b2c60066d94a
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
+- text: 'Late November 2017: AFOSI said insufficient information to open a case'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:7296-7446
+  quote: In late November AFOSI advised that absent more tangible indicators of possible
+    misconduct they did not have enough information to open a case on Mr. Elizondo.
+  claim_id: 7576f4ee-f8e5-4627-bcf1-55172f77e3d9
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-7576f4ee-f8e5-4627-bcf1-55172f77e3d9
+- text: '2017-12-15: Reid notified OUSDI Security Officer based on NYT inquiry'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:7788-8050
+  quote: On December 15, based on information contained in the NYT inquiry, I notified
+    the OUSDI Security Officer that Mr. Elizondo may have misused government systems
+    and may intend to release USG footage or information that he obtained during his
+    employment with OUSD (I).
+  claim_id: 8004f6a1-51ab-4d38-9ec4-14de5462301d
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
+- text: '2017-12-17 broadcast: Elizondo affirmed his role and said ''we are not alone'''
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:8293-8402
+  quote: In the TV interview, Mr. Elizondo affirms his alleged role in leading the
+    AATIP program and says "we are not alone..."
+  claim_id: 45d49480-0848-4e85-a07e-d5034fe1eec5
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-45d49480-0848-4e85-a07e-d5034fe1eec5
+- text: '2017-12-18: OUSDI located August 2017 classified email requesting declassification
+    help'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:8432-8612
+  quote: On December 18, OUSDI located a classified email generated by Mr. Elizondo
+    in August 2017, in which he requested assistance from a Navy civilian employee
+    to declassify one or more videos.
+  claim_id: 11e5616e-a547-42ad-9d41-9c8b6a14fcf6
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
+- text: OUSDI staff contacted the Navy civilian upon discovering the email
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20915-20995
   quote: USDI staff contacted him upon discovery of the SIPRnet email sent to him
-    by Mr. Elizondo. He informed us that he told Mr. Elizondo that he was not the
-    declassification release authority, and took no further action.
-  claim_id: 7c279ec4-cfc9-43d2-9786-30aaeec5f3e0
+    by Mr. Elizondo.
+  claim_id: 9ce1ac19-a34d-4dcd-bbed-02f2358cc202
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-7c279ec4-cfc9-43d2-9786-30aaeec5f3e0
-ai_usage:
-- stage: digest
-  model: claude-opus-4-8
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9ce1ac19-a34d-4dcd-bbed-02f2358cc202
+- text: Navy civilian said he told Elizondo he was not the release authority
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21005-21122
+  quote: He informed us that he told Mr. Elizondo that he was not the declassification
+    release authority, and took no further action.
+  claim_id: f04cedcf-822f-491f-8115-74df1c81c932
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f04cedcf-822f-491f-8115-74df1c81c932
+- text: Navy civilian took no further action
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21102-21122
+  quote: and took no further action.
+  claim_id: 37dab71b-5333-4581-9f09-719f27efac74
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-37dab71b-5333-4581-9f09-719f27efac74
+- text: The August 2017 video was the same footage broadcast on national news on 2017-12-17
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:8620-8711
+  quote: The video attached to the email is the same footage broadcast on national
+    news on December 17.
+  claim_id: 2c65246e-426c-4cec-8603-17f00dbd7c1e
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2c65246e-426c-4cec-8603-17f00dbd7c1e
+- text: OUSDI had not determined declassification status, process, or how it reached
+    the media
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:8715-8938
+  quote: The email chain is incomplete, so we have yet to determine if the video was
+    properly declassified, what process was followed, and how it ended up in the possession
+    of the national media. We continue to research these email transactions.
+  claim_id: 28641d91-ce38-4499-878f-511ec87bd404
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-28641d91-ce38-4499-878f-511ec87bd404
+- text: '2017-12-21: Reid met AFOSI agents to open a formal inquiry into mishandling
+    classified materials'
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:8972-9096
+  quote: On December 21, I met with AFOSI agents to initiate a formal inquiry into
+    Mr. Elizondo's possible mishandling of classified materials.
+  claim_id: 5523afad-ef64-437d-89e3-4b1f5cc916ef
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
+- text: Deferred retirement defined as delayed benefit payment pending criteria
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21199-21285
+  quote: '"Deferred Retirement" refers to delayed payment of benefits until certain
+    criteria are met.'
+  claim_id: 5828ea76-dc83-4c02-9b0e-56a77a46ea3f
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5828ea76-dc83-4c02-9b0e-56a77a46ea3f
+- text: Applies to employees with 5+ years' service departing before Minimum Retirement
+    Age (55-57)
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21290-21485
+  quote: Deferred retirement applies to those with at least five years of Federal
+    service who depart before reaching their Minimum Retirement Age (MRA) - which
+    is between ages 55-57, depending on year of birth.
+  claim_id: 2844fb82-3be9-4e84-b0ba-7c6da11cfbc2
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2844fb82-3be9-4e84-b0ba-7c6da11cfbc2
+- text: With five years' service, benefits can be collected as early as age 62
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21492-21566
+  quote: Those with 5 years can opt to collect retirement benefits as early as age
+    62;
+  claim_id: 1e90303d-88ea-4d9a-a343-3408632a1958
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1e90303d-88ea-4d9a-a343-3408632a1958
+- text: With ten years' service, benefits collectable at Minimum Retirement Age with
+    5%/year reduction under 62
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:21570-21666
+  quote: those with 10 years can collect at their MRA but will sacrifice 5% for each
+    year they are under 62.
+  claim_id: 2eb01062-13a6-47d5-9c35-ee3d5261e5dc
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2eb01062-13a6-47d5-9c35-ee3d5261e5dc
+built_by:
+  model: claude-sonnet-5
+  model_version: claude-sonnet-5
+  transport: cli
+  prompt_sha256: 3830ce741baa52fd912787a36022ebf3595e3e85797af667785cc2bf9d9c97de
+  system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
+  directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 200668
-    output: 18076
-- stage: assemble
-  model: claude-sonnet-4-6
-  tokens:
-    input: 30750
-    output: 6260
+    input: 160825
+    output: 33769
+    real_input: 4
+    cache_read: 78688
+    cache_write: 82133
+    calls: 0
+  body_sha256: b415223ac8c56ef701723d0f66a0810cd334d170742d9857735a9c0ff4855589
 ---
 
-The FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents is a package of US government records released under the Freedom of Information Act (FOIA) by the Department of Defense. The underlying request was submitted on 2017-12-17 by [John Greenewald](/people/john-greenewald) of The Black Vault<sup>1</sup> and received by the Department of Defense on 2017-12-18, assigned case number 18-F-0324.<sup>2</sup> The final response was issued on 2022-08-17.<sup>3</sup> The Office of the Secretary of Defense (OSD) component responsible — the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) — searched its records systems and located eight pages responsive to parts one and two of the request.<sup>4</sup> The response cover letter was signed by Stephanie L. Carr, Chief,<sup>7</sup> with Brian C. Kreitlow, Chief of the Assessment, Capabilities, & Integration Division, serving as Initial Denial Authority.<sup>5</sup> Portions of the responsive pages were withheld under 5 U.S.C. § 552(b)(6) on personal privacy grounds.<sup>6</sup> The appellate authority was Joo Chung, Assistant to the Secretary of Defense for Privacy, Civil Liberties, and Transparency, based at 4800 Mark Center Drive, USA, Virginia, Alexandria.<sup>8</sup>
+FOIA Response 18-F-0324 is a Freedom of Information Act release dated 2022-08-17, addressing a request submitted by [John Greenewald](/people/john-greenewald). Stephanie L. Carr said that the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi), a component of the Office of the Secretary of Defense (OSD), located eight pages responsive to parts one and two of the request.<sup>1</sup> Carr said Brian C. Kreitlow determined that portions of those eight pages were exempt from release under 5 U.S.C. § 552(b)(6), on the grounds that disclosure would constitute a clearly unwarranted invasion of personal privacy.<sup>2</sup> Carr said any appeal of the determination had to be postmarked within 90 calendar days of the response.<sup>3</sup>
 
-The substantive records released consist primarily of two internal memoranda authored by Garry Reid, identified within the documents as Director for Defense Intelligence in the OUSDI.<sup>9</sup> The first is an information memorandum whose bottom-line-up-front characterises Luis D. Elizondo as having aggrandised his role in the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip) through public statements,<sup>10</sup> and notes that OUSDI was reviewing AATIP history with the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia), the [United States Navy](/organisations/united-states-navy-usn), and the [United States Air Force](/organisations/united-states-air-force-usaf), while pursuing options to investigate Elizondo's possible mishandling of sensitive information.<sup>11</sup> The second memorandum, addressed to the Secretary of Defense, responded to six questions about Elizondo's conduct, with details on AATIP in a classified enclosure.<sup>36</sup> The release also includes the text of Elizondo's two resignation letters — the Elizondo First Resignation Letter (2017-10-03) and the Elizondo Second Resignation Letter / Memorandum for Record (2017-10-04) — as well as Greenewald FOIA Request 18-F-0324 (2017-12-17) itself as an enclosure.
+The released pages consist largely of memoranda written by [Garry Reid](/people/garry-reid), documenting concerns about [Luis Elizondo](/people/luis-elizondo), a former [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) employee. Reid said Elizondo was assigned to OUSDI from 2008-09-28 to 2017-10-04.<sup>4</sup> Reid said Elizondo served as an action officer in Partner Engagement<sup>5</sup> before later serving as a branch chief managing classified information supporting the Office of Military Commissions.<sup>6</sup> Reid said the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) was terminated in 2012<sup>7</sup> and stated that, to the best of his knowledge, Elizondo had no job responsibilities related to it.<sup>8</sup> Reid said Elizondo aggrandized his role in AATIP in public statements<sup>9</sup> and said he was pursuing options to investigate Elizondo's possible mishandling of sensitive information.<sup>10</sup>
 
-According to the Reid memoranda, Elizondo was assigned to OUSDI from 2008-09-28 to 2017-10-04,<sup>12</sup> serving as an action officer in Partner Engagement and subsequently as a branch chief managing classified information to support the Office of Military Commissions.<sup>13</sup> Reid stated that, to his knowledge, Elizondo had no job responsibilities related to AATIP,<sup>14</sup> and noted that AATIP had been terminated in 2012.<sup>15</sup> On 2017-10-03 Elizondo submitted his first resignation letter requesting immediate termination of his employment<sup>16</sup> — signed as Director, National Programs Special Management Staff, OUSDI, effective 2017-10-04.<sup>31</sup> He was cleared out of OUSDI the following day and provided no reason for the sudden departure.<sup>17</sup> On or about 2017-10-04, after Elizondo had already departed, a second resignation letter was delivered to the OUSDI Chief of Staff office by someone other than Elizondo;<sup>18</sup> it was formatted as a Memorandum for Record but used the salutation "Mr. Secretary" and cited concerns over Anomalous Aerospace Threats as the basis for the resignation.<sup>18</sup> Given the uncertain provenance of the second letter, OUSDI retained a copy but did not provide it to the Secretary of Defense office.<sup>19</sup> Reid and two senior officials with knowledge of special programmes collectively assessed that Elizondo's claims were not credible and that the second letter was not worthy of the Secretary's personal attention.<sup>42</sup> In the second letter, Elizondo stated he had served for over 22 years<sup>32</sup> and characterised opposition within the Department of Defense to further research on anomalous aerospace threats as a serious concern, asserting that the [United States Navy](/organisations/united-states-navy-usn) and other Services had many accounts of unusual aerial systems interfering with military weapon platforms.<sup>34</sup>
+Reid's account describes two resignation letters. He said that on 2017-10-03, Elizondo submitted a letter requesting immediate termination of his employment.<sup>11</sup> Luis Elizondo's first resignation letter (October 3, 2017) set his resignation effective 2017-10-04 as Director, National Programs Special Management Staff, OUSDI, and requested a deferred retirement.<sup>12</sup> Reid said Elizondo was cleared out of OUSDI the day after submitting the letter<sup>13</sup> and gave no reason for the sudden departure.<sup>14</sup> Reid said that on or about 2017-10-04, after Elizondo had already left, a second letter was delivered to the OUSDI Chief of Staff office.<sup>15</sup> Luis Elizondo's second resignation letter (October 4, 2017) is formatted as a Memorandum for Record but uses the salutation "Mr. Secretary", Reid said.<sup>16</sup> Reid said it was hand-delivered by someone other than Elizondo<sup>17</sup> and was inconsistent with the first letter, which Elizondo had personally handed to his supervisor.<sup>18</sup> Given the uncertain provenance of the second letter, Reid said OUSDI retained a copy but did not forward it to the Secretary of Defense's office.<sup>19</sup> In it, Elizondo cited concerns over anomalous aerospace threats as the basis for his resignation.<sup>20</sup>
 
-In a phone call on 2017-10-05 Elizondo told Reid he had been secretly tasked by the Secretary of Defense as programme manager for investigating UFOs and related aerial threats, and that nobody in OUSDI was cleared for this programme.<sup>20</sup> Reid discussed this claim with senior officials who would likely have known of such an arrangement but was unable to substantiate it.<sup>21</sup> On 2017-10-12 a video featuring Elizondo was posted on YouTube by To the Stars Academy of Arts and Sciences, which appeared to be his current employer;<sup>22</sup> in that video Elizondo asserted he had run a sensitive Aerospace Threat Identification Program focusing on Unidentified Aerial Phenomena (UAP) technologies for nearly the last decade.<sup>23</sup> That To the Stars Academy YouTube Video Featuring Luis Elizondo (2017) prompted Reid to request an informal review of Elizondo's conduct by the [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi), which is responsible for investigative support to OSD including investigation of assigned personnel.<sup>24</sup> In late November 2017 AFOSI advised that, absent more tangible indicators of possible misconduct, it did not have enough information to open a case.<sup>25</sup>
+In the second letter, Elizondo stated he had served with America's finest men and women for over 22 years.<sup>21</sup> He stated that despite what he described as overwhelming evidence at both the unclassified and classified levels, certain individuals within the DoD remained staunchly opposed to further research on anomalous aerospace threats.<sup>22</sup> He considered the phenomena a potential tactical threat to pilots, sailors and soldiers, and possibly an existential threat to national security.<sup>23</sup> He stated there seemed to be a direct correlation between the observed phenomena and US nuclear and military capabilities.<sup>24</sup> He stated that accounts from the Navy and other services of unusual [anomalous aerial vehicle (AAV)](/topics/anomalous-aerial-vehicle-aav) activity, interfering with military weapon platforms and displaying beyond-next-generation capabilities, had to be taken seriously by the DoD.<sup>25</sup> He stated his resignation was intended to encourage the Secretary of Defense to ask who else knew about the threats, what their capabilities were, and why more time and effort was not being spent on the issue.<sup>26</sup>
 
-The sequence of events continued through December 2017. On 2017-12-07 the Department of Defense was contacted by the New York Times seeking information regarding AATIP.<sup>26</sup> On 2017-12-15 Reid notified the OUSDI Security Officer that Elizondo may have misused government systems and may intend to release US Government footage or information obtained during his employment.<sup>27</sup> On 2017-12-17 Elizondo appeared on national news programmes commenting on footage he claimed showed an unidentified flying object — the US Military Aircraft UAP Footage Broadcast December 2017.<sup>28</sup> On 2017-12-18 OUSDI located a classified email generated by Elizondo in August 2017 in which he had requested assistance from a [United States Navy](/organisations/united-states-navy-usn) civilian employee to declassify one or more videos;<sup>29</sup> that footage proved to be the same material broadcast on national news on 2017-12-17.<sup>30</sup> The Navy civilian, when interviewed, stated he had told Elizondo he was not the declassification release authority and took no further action.<sup>44</sup> On 2017-12-21 Reid met with [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi) agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials.<sup>35</sup> The Reid Info Memo on Media Reporting Related to AATIP and Elizondo and the Reid Info Memo Response to Secretary of Defense Questions on AATIP and Elizondo constitute the core substantive records within the release package, and the response processing was handled by Action Officer Daniel R. Mullin,<sup>7</sup> with Toni Fuentes serving as the OSD/JS FOIA Public Liaison.<sup>8</sup> The release is a primary source for understanding the institutional framing of Elizondo's departure and the official DOD position on his claimed involvement with AATIP at the time of the December 2017 disclosures.
+Reid's second memorandum states that Elizondo gave three different explanations for his sudden resignation.<sup>27</sup> Reid said that on 2017-10-03, Elizondo told his direct supervisor he was resigning because of a fleeting job opportunity requiring his immediate availability.<sup>28</sup> In a memorandum dated 2017-10-04, Elizondo cited concerns over DoD inaction on anomalous aerospace threats as his reason for resigning.<sup>29</sup> Reid said that in a phone call on 2017-10-06, Elizondo told him the job had been too stressful on his family.<sup>30</sup> Separately, in a phone call on 2017-10-05, Reid said Elizondo told him that for many years he had secretly been tasked by the Secretary of Defense as the program manager for investigating UFOs and other aerial threats,<sup>31</sup> and in another call told Reid he had been secretly working for the Secretary of Defense.<sup>32</sup> Reid said Elizondo told him nobody in OUSDI was cleared for the program he described and would not discuss it further.<sup>33</sup> Reid said he discussed the claims with senior officials who would likely have known of such an arrangement but was unable to substantiate them,<sup>34</sup> and separately checked with two senior officials with knowledge of special access programs.<sup>35</sup> Reid said the three of them collectively assessed that Elizondo's claims were not credible<sup>36</sup> and that the second letter was not worthy of the Secretary of Defense's personal attention.<sup>37</sup> Reid said Elizondo completed all administrative and security-related out-processing, including formal debriefs for all Special Access Programs and Sensitive Compartmented Information, within the 24 hours between his resignation notification and his departure.<sup>38</sup> Reid said OUSDI referred the timing and circumstances of the resignation to the [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi) for immediate counterintelligence review.<sup>39</sup> According to Reid, AFOSI's informal assessment found no wrongdoing, and absent indicators of misconduct it was unable to open a formal investigation.<sup>40</sup>
+
+The memoranda also address Elizondo's public statements after leaving the DoD. In Luis Elizondo's To the Stars Academy YouTube video (October 2017), Elizondo asserted that for nearly the last decade he had run a sensitive Aerospace Threat Identification Program focusing on unidentified aerial technologies,<sup>41</sup> and said footage never before released from real US government systems would be provided.<sup>42</sup> Following discovery of the video, Reid said he requested an informal review of Elizondo's conduct by AFOSI,<sup>43</sup> which he described as responsible for providing investigative support to OSD, including investigation of assigned personnel.<sup>44</sup> Reid said that in late November 2017, AFOSI advised that, absent more tangible indicators of possible misconduct, it did not have enough information to open a case on Elizondo.<sup>45</sup> Reid said that on 2017-12-15, based on information contained in a The New York Times (NYT) inquiry, he notified the OUSDI Security Officer that Elizondo may have misused government systems and might intend to release government footage or information he had obtained during his employment.<sup>46</sup> In the 2017 unidentified aerial phenomena footage broadcast on national news December 17, Elizondo affirmed his alleged role leading AATIP and said "we are not alone".<sup>47</sup> Reid said that on 2017-12-18, OUSDI located Garry Reid's classified email chain on video declassification (August 2017), generated by Elizondo, in which he requested assistance from a [United States Navy](/organisations/united-states-navy-usn) civilian employee to declassify one or more videos.<sup>48</sup> Reid said OUSDI staff contacted the Navy civilian upon discovering the email.<sup>49</sup> The civilian told them he had informed Elizondo that he was not the declassification release authority,<sup>50</sup> and took no further action.<sup>51</sup> Reid said the video attached to the August 2017 email was the same footage broadcast on national news on 2017-12-17,<sup>52</sup> and that as of the memorandum's writing, OUSDI had not determined whether the video had been properly declassified, what process was followed, or how it had reached the national media.<sup>53</sup> Reid said that on 2017-12-21, he met with AFOSI agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials.<sup>54</sup> The response file also includes background definitions relevant to Elizondo's requested deferred retirement: according to the record, deferred retirement under US federal employment rules refers to delayed payment of retirement benefits until certain criteria are met,<sup>55</sup> applying to federal employees with at least five years of service who depart before their Minimum Retirement Age, which falls between 55 and 57 years old depending on year of birth.<sup>56</sup> Employees with five years of service can elect to collect benefits as early as age 62,<sup>57</sup> while those with ten years of service can collect at their Minimum Retirement Age but sacrifice 5% of benefits for each year under age 62.<sup>58</sup>

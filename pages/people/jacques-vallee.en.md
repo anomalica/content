@@ -1,14 +1,13 @@
 ---
 title: Jacques Vallée
-description: French-American astronomer, computer scientist, and venture capitalist
-  known for his research into unidentified flying objects and unconventional theories
-  about their origin and purpose.
+description: French scientist, ufologist and author known for his research into unidentified
+  flying objects, contactee movements and hypotheses about a controlling intelligence
+  behind the phenomenon.
 metadata:
-  role: Researcher, astronomer, computer scientist
-  affiliation: Paris Observatory; Condon Committee (liaison); Advanced Aerospace Weapon
-    System Applications Program
+  role: Researcher, astronomer, and computer scientist
+  nationality: French
 built_from:
-  brief_hash: 95376fa01351cc6bbb732365fc1fa11652c47802ddbfe8463bc940a28bcd8fab
+  brief_hash: c2e47305fcb42ce6e12e8a1a746de307ea23a3248c904536e4922eb27c15dd39
   claims:
   - id: 390c89a8-33b3-46bd-8ad3-12e940d5cdb4
     hash: 31405a51ef5c3c3aabfb055368900c979d1a6a0f235c046bf46aad30b737acf3
@@ -281,7 +280,7 @@ built_from:
   - id: 793ad754-2fea-47dd-9b33-54424229be42
     hash: 55d0312bea3b84efbda5aa7fee34d8a282fa96e8d043ed57f52ff000fe8b46b9
   - id: 13ea62dd-aa63-407a-bdec-259ca35324e8
-    hash: fda05619fcff25351cb1de9e2a5f1fdd5877ca485d8da20f36ea11406cbf4194
+    hash: abb8ccd18286f7891d30a9363ad9dfd0ce75a030ad807cacc75c968a2e9d99c1
   - id: 3064df3a-e96a-440f-8aa3-5bd0e4111cc0
     hash: a3326c59d1d7dd2774d6a89bd641935b5d867f5dae06a9439c60e056c2ce6641
   - id: ce87bd57-7417-436f-86fc-ff71bb7a707d
@@ -293,7 +292,7 @@ built_from:
   - id: e3feded6-c447-4402-a565-87864b00e85b
     hash: 82689bc4e2c6d09efcc03e590838266a4d385ee6d11e48abac4ac43a8a7aa220
   - id: cee2740d-e53b-4f80-b723-82001116c617
-    hash: 7a545597123a6bfdf5e63e3d92c68e06a57a6a2911d532f3a4440d67a4e63232
+    hash: cdee940238c27fa7c6c5c7b1196cdc0f75af826a5f67b1dd53f93081282dd1b0
   - id: 085e3964-23f5-496d-91f4-bb5d34c42ba3
     hash: 19af57245d310fea6eca49c121745e6597b3990289f0729f34e4bf2adb1b6e36
   - id: 041bf84e-0a99-4279-871d-6ea4cd10f566
@@ -385,7 +384,7 @@ built_from:
   - id: c3c02567-5d59-439b-a97b-844fc565838b
     hash: ece3203b33894daad33b89aedb7487f40cf49446bd692cffd8188dabe5ac3b50
   - id: c183202d-b2dd-4831-a411-bb534e13454b
-    hash: fa86aaeaf05973c02afb6e687da0cc6314d433230ac252bb1aa581e82d53a2d1
+    hash: 1aa080e5b25e3b461985819c7db8ed6486b54f9b96fe8771dedebc9a62209345
   - id: 1f26b1ee-c6e9-4e19-8b4b-b9d3997c0a81
     hash: d11f31cf7efe4b234ea74e0141676b9592d923603bab2cb5eb03c49118d35cca
   - id: a3ce3b50-1ff0-4562-877a-ada5c1552dfd
@@ -411,17 +410,7 @@ built_from:
   - id: b834138c-ed8e-493d-b9e8-3747a438c972
     hash: feedb516393bb3965ca3abbe69a0d16bf94d6155d50ef95777160c3d4da8d929
 references:
-- text: Vallée tracked and photographed unidentified objects during his time at Paris
-    Observatory
-  source: THE INVISIBLE COLLEGE
-  location: ch10:13508-13686
-  quote: Many astronomers must have known what I knew from my days at Paris Observatory,
-    namely that we were tracking unidentified objects, and even photographing them.
-    There were films, too.
-  claim_id: b16b5a99-43cd-45a9-863c-1e214207b48b
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
-- text: Vallée is described as a researcher, astronomer, and computer scientist
+- text: Described as a researcher, astronomer, and computer scientist
   source: American Cosmic
   location: ch1:55374-55454
   quote: the theories of Jacques Vallee, the famous researcher, astronomer, and computer
@@ -429,25 +418,26 @@ references:
   claim_id: 4782951a-45e6-406d-bad8-642de4c660c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
-- text: Vallée's early work was steeped in information studies, computer science,
-    and studies of remote viewing and telepathy
-  source: American Cosmic
-  location: ch5:37626-37717
-  quote: He was steeped in information studies, computer science, and studies of remote
-    viewing and telepathy.
-  claim_id: cee2740d-e53b-4f80-b723-82001116c617
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-cee2740d-e53b-4f80-b723-82001116c617
-- text: Vallée's early work on ARPANET occurred in Silicon Valley in the 1970s
-  source: American Cosmic
-  location: ch5:37491-37619
-  quote: His work on ARPANET, the prototype of the internet, occurred within the rich,
-    mind-bending environment of Silicon Valley in the 1970s.
-  claim_id: e3feded6-c447-4402-a565-87864b00e85b
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3feded6-c447-4402-a565-87864b00e85b
-- text: As a young researcher he worked with and organised J. Allen Hynek's papers
-    from Project Blue Book
+- text: Held US government clearances related to UAP investigation
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch18:14740-14842
+  quote: the French scientist Jacques Vallée, who had US government clearances related
+    to the investigation of UAP.
+  claim_id: b5e2391d-6576-4a07-9411-2928bbfede5a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
+- text: Tracked and photographed unidentified objects while at Paris Observatory
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:13508-13686
+  quote: Many astronomers must have known what I knew from my days at Paris Observatory,
+    namely that we were tracking unidentified objects, and even photographing them.
+    There were films, too.
+  claim_id: b16b5a99-43cd-45a9-863c-1e214207b48b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
+- text: As a young researcher, organised J. Allen Hynek's Project Blue Book papers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15187-15299
   quote: As a young researcher, Vallée worked with and organized the papers of Dr.
@@ -456,25 +446,181 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
-- text: Hynek and Vallée travelled to Boulder, Colorado to brief the Condon Committee
-  source: THE INVISIBLE COLLEGE
+- text: Was a correspondent supplying material to Flying Saucer Review
+  source: Watergate, the JFK assassination and a UFO secret at the center of it all
+    | Reality Check
+  location: 00:02:54.8-00:03:03.4
+  quote: We had correspondents such as Jacques Vallée and many other leading ufologists
+    who supplied material for the magazine.
+  claim_id: cc819c42-b493-4925-958e-182545a3186e
+  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cc819c42-b493-4925-958e-182545a3186e
+- text: '1964: established UFO landings tend to occur in desolate places, from French
+    case analysis'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:6990-7132
+  quote: In 1964 I had established that landings tended to occur in desolate places,
+    a fact that was first apparent in the computer analysis of French cases.
+  claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
+- text: Verified the desolate-places pattern with Hynek using Air Force data
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:7139-7192
+  quote: Allen Hynek and I later verified it, using Air Force data.
+  claim_id: 59967eae-787b-4862-8539-e609d9091d19
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
+- text: Travelled with Hynek to Boulder to brief the Condon Committee
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
   location: ch10:20079-20135
   quote: Dr. Hynek and I traveled to Boulder to brief the Condon group.
   claim_id: 322aa7fa-448b-4733-bfb3-52a412c4a432
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
-- text: The bulk of the Condon Committee's computer file was drawn from three thousand
-    punched cards Vallée turned over to the committee
-  source: THE INVISIBLE COLLEGE
+- text: Noted an administrator was the team's real decision-maker
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:20142-20294
+  quote: We noticed that one of the administrators was clearly the decision-maker
+    in the team although he had no science degree and little interest in the whole
+    matter.
+  claim_id: 0f5c0acf-b988-43b0-a7c0-deb13c5b001b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0f5c0acf-b988-43b0-a7c0-deb13c5b001b
+- text: 'Feb 1967: committee members privately asked how colleagues would react to
+    closing Blue Book'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:21057-21317
+  quote: As early as February, 1967, members of the Condon Committee were privately
+    approaching their scientific colleagues on other campuses, asking them how they
+    would react if the committee's final report to the Air Force were to recommend
+    closing down Project Blue Book.
+  claim_id: 922bc460-f648-4778-89d6-966af5fff5bf
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-922bc460-f648-4778-89d6-966af5fff5bf
+- text: Bulk of committee's data came from Vallée's three thousand punched cards
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
   location: ch10:21564-21666
   quote: the bulk of the information was provided by the three thousand punched cards
     I had turned over to the committee.
   claim_id: 22c2126c-08ef-46c9-9d32-189799496b1c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22c2126c-08ef-46c9-9d32-189799496b1c
-- text: Robert Galley's 1974 radio interviews included statements by Guerin, Poher
-    and Vallée
-  source: THE INVISIBLE COLLEGE
+- text: Condon Committee split into two opposed factions
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:21843-21885
+  quote: the team split into two violently opposed factions.
+  claim_id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+- text: Minority faction published memorandum as evidence of no serious intent to
+    investigate
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:21895-22063
+  quote: An early internal memorandum was discovered and published by the minority
+    group as evidence that the Condon Committee had never intended to look seriously
+    into the UFO problem.
+  claim_id: 7e227643-45b8-418a-bd63-fe08fd1a6979
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e227643-45b8-418a-bd63-fe08fd1a6979
+- text: Condon fired the minority group and ran the project without serious consideration
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:22072-22234
+  quote: Publication of this document so outraged Condon that he fired the minority
+    group and ran the project without serious consideration of the possible reality
+    of the phenomenon.
+  claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
+- text: 'Vallée: episode convinced scientists to continue UFO research privately'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:15419-15518
+  quote: The history of the Condon investigation at the University of Colorado convinced
+    many of us of this fact.
+  claim_id: 04c778fc-42ef-4900-b589-aa93d774e589
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-04c778fc-42ef-4900-b589-aa93d774e589
+- text: Blue Book files in classified USAF building requiring clearance
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:22247-22484
+  quote: The files of Project Blue Book have now been transferred into the Air Force
+    archives. The files are not classified but the building is, with the interesting
+    result that one needs a security clearance in order to see these "unclassified"
+    papers.
+  claim_id: d00225bd-2b46-4183-bc1b-86235f9a2f03
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d00225bd-2b46-4183-bc1b-86235f9a2f03
+- text: 'Dec 1973: investigated Carteret sighting during trip through western France'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:23873-23976
+  quote: My wife and I investigated this sighting during a research trip through the
+    west of France in December 1973.
+  claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+- text: Janine Vallée visited site within ten days, spoke to witness and police
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:23982-24136
+  quote: She went to Carteret less than ten days after the occurrence and spoke to
+    one of the witnesses and to the police investigators while I was checking other
+    information.
+  claim_id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
+- text: No traces found on beach; gendarmes confirmed dune grass unaffected
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:25203-25305
+  quote: We saw no traces on the beach. The gendarmes confirmed to us that the grass
+    in the dunes had not been affected.
+  claim_id: 4f246072-52fa-400a-a063-c49ffc5ebbd5
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4f246072-52fa-400a-a063-c49ffc5ebbd5
+- text: Barbed-wire magnetic test negative
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:25315-25400
+  quote: There was some barbed wire nearby. It was checked for magnetic effects. The
+    test was negative.
+  claim_id: 7d923166-507f-4eb8-94be-618dae8b2b0a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7d923166-507f-4eb8-94be-618dae8b2b0a
+- text: 'Mauperthuis radar: 38km from Carteret, 200km antenna range'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:26458-26633
+  quote: There is a large radar installation near Cherbourg, at a place called Mauperthuis,
+    located thirty-eight kilometers away from Carteret. The range of the antenna is
+    two hundred kilometers.
+  claim_id: c7b26e81-71b9-4c52-9200-23740f1a2bc3
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c7b26e81-71b9-4c52-9200-23740f1a2bc3
+- text: Radar echo at 06:10 on 1973-12-02 toward Great Britain
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:26645-26852
+  quote: At 6:10 A.M. on that particular morning it picked up an echo in the southwest,
+    moving to the north of Cherbourg. An object flying from the direction of Carteret
+    toward Great Britain would have followed this course.
+  claim_id: b9b7c443-f7af-44f3-b1d9-8cf080505043
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b9b7c443-f7af-44f3-b1d9-8cf080505043
+- text: 'March 1974: Galley radio interviews with Guerin, Poher and Vallée'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
   location: ch10:30594-30987
   quote: 'In March, 1974, the French Minister of Defense, Mr. Robert Galley, agreed
     to participate in a series of radio interviews that included reports from witnesses
@@ -484,118 +630,16 @@ references:
   claim_id: e866529d-cc94-4ac5-b17e-47e463cc29b8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e866529d-cc94-4ac5-b17e-47e463cc29b8
-- text: Janine Vallée and Jacques Vallée investigated the Carteret sighting in December
-    1973
-  source: THE INVISIBLE COLLEGE
-  location: ch10:23873-23976
-  quote: My wife and I investigated this sighting during a research trip through the
-    west of France in December 1973.
-  claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+- text: Poher headed scientific studies for the French equivalent of NASA
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:30902-30976
+  quote: Dr. Claude Poher (head of scientific studies for the French equivalent of
+    NASA)
+  claim_id: dd67f8f9-12aa-4ed9-8ecf-0875d1657cd4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
-- text: Vallée was a correspondent who supplied material to Flying Saucer Review
-  source: Watergate, the JFK assassination and a UFO secret at the center of it all
-    | Reality Check
-  location: 00:02:54.8-00:03:03.4
-  quote: We had correspondents such as Jacques Vallée and many other leading ufologists
-    who supplied material for the magazine.
-  claim_id: cc819c42-b493-4925-958e-182545a3186e
-  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cc819c42-b493-4925-958e-182545a3186e
-- text: French scientist Jacques Vallée independently verified the happenings of the
-    Colares Incidents
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch10:10477-10577
-  quote: The French scientist and accomplished researcher Jacques Vallée had also
-    independently verified the happenings.
-  claim_id: 55351b6a-b015-4802-b42c-a00135ac39cd
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-55351b6a-b015-4802-b42c-a00135ac39cd
-- text: Vallée is a French scientist who held US government clearances related to
-    UAP investigation
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch18:14740-14842
-  quote: the French scientist Jacques Vallée, who had US government clearances related
-    to the investigation of UAP.
-  claim_id: b5e2391d-6576-4a07-9411-2928bbfede5a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
-- text: Livingston flew to California with Kelleher and Vallée to meet Garry Nolan
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch18:14594-14842
-  quote: Will flew to California with a small team that included Colm Kelleher, a
-    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
-    scientist Jacques Vallée, who had US government clearances related to the investigation
-    of UAP.
-  claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
-- text: Vallée obtained materials recovered from the 1977 Council Bluffs, Iowa incident
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch22:5623-5673
-  quote: Vallée had obtained materials recovered from this incident.
-  claim_id: f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
-- text: Nolan and Vallée analysed the elemental and isotopic composition of the recovered
-    metal aggregate
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:14224-14354
-  quote: Nolan and Vallée had explored the composition of the 1977 Iowa molten metal
-    aggregate and had uncovered another mystery for us to solve.
-  claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
-- text: James Master and Vallée counted each other as major influences and mentors
-  source: American Cosmic
-  location: ch2:35458-35542
-  quote: James, like me, counted Vallee as one of his major influences and mentors...Jacques
-    and James formed an instant bond.
-  claim_id: 82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
-- text: Serious researchers, including Vallée, reached out to James Master
-  source: American Cosmic
-  location: ch2:35542-35661
-  quote: Jacques was among the serious researchers who reached out to James when he
-    publicly outed himself as interested in the phenomenon.
-  claim_id: 5171e915-6e86-4e0f-90f7-5f2d84727e4b
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5171e915-6e86-4e0f-90f7-5f2d84727e4b
-- text: Master observed Vallée has never concluded the UFO phenomenon is anything
-    specific
-  source: American Cosmic
-  location: ch2:36028-36128
-  quote: “Jacques has achieved his status precisely because he has never concluded
-    the phenomenon is anything specific.”
-  claim_id: 46266781-e548-4a0d-9362-4638d87d9d62
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-46266781-e548-4a0d-9362-4638d87d9d62
-- text: Master observed Vallée has infuriated ufologists by refusing to commit to
-    a single explanation
-  source: American Cosmic
-  location: ch2:36138-36286
-  quote: In fact, Jacques has infuriated most ufologists because he won’t fall in
-    line. All Jacques has ever claimed is that the phenomenon seems infinitely variable.
-  claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
-- text: Master said Vallée holds the phenomenon's message is 'you are not alone'
-  source: American Cosmic
-  location: ch2:36372-36523
-  quote: But, per Jacques, the overarching message the phenomenon appears to send
-    is ‘you are not alone’—styled to the level of your cultural understanding and
-    abilities.
-  claim_id: 039a43c5-8b5f-4836-aec2-506c91d910e3
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-039a43c5-8b5f-4836-aec2-506c91d910e3
-- text: Pasulka describes Vallée's approach as addressing the physical, testimonial
-    and social aspects of the phenomenon
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-dd67f8f9-12aa-4ed9-8ecf-0875d1657cd4
+- text: 'Pasulka: Vallée''s approach addresses physical, testimonial and social aspects'
   source: American Cosmic
   location: ch1:55341-55734
   quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
@@ -606,7 +650,7 @@ references:
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-- text: Vallée suggests the UFO might not be an object but a window into another dimension
+- text: 'Pasulka: Vallée suggests the UFO may be a window into another dimension'
   source: American Cosmic
   location: ch2:36536-36689
   quote: Jacques, one of the first truly innovative thinkers on the subject, suggests
@@ -614,25 +658,17 @@ references:
   claim_id: 50ce2cee-457c-4499-bf40-160678b218c4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-50ce2cee-457c-4499-bf40-160678b218c4
-- text: Vallée told Pasulka to trust no one and not even to trust what she saw
+- text: 'Vallée: apparitions and UFOs are manifestations of a single control mechanism'
   source: American Cosmic
-  location: ch2:55618-55702
-  quote: Jacques Vallee once told me emphatically, “Trust no one. Do not even trust
-    what you see.”
-  claim_id: fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
+  location: ch5:18128-18302
+  quote: Instead, he suggests an analysis based on social effects, identifying both
+    apparitions and UFOs as manifestations of a single control mechanism that works
+    like a schedule of reinforcement.
+  claim_id: ab8a8888-5a46-46e2-bca5-ede2e6a58330
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
-- text: Vallée and Pasulka interviewed a witness who photographed a starlike object
-    near Santa Cruz
-  source: American Cosmic
-  location: ch5:1385-1458
-  quote: Jacques and I interviewed one of the people who saw and photographed the
-    object.
-  claim_id: a65b22bb-4a67-4632-96e6-7a9d9202132e
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a65b22bb-4a67-4632-96e6-7a9d9202132e
-- text: Vallée breaks apparitions into constitutive parts, graphing patterns he calls
-    a 'Morphology of Miracles'
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab8a8888-5a46-46e2-bca5-ede2e6a58330
+- text: 'Vallée: not equating Fatima with UFOs, but graphs patterns as ''Morphology
+    of Miracles'''
   source: American Cosmic
   location: ch5:17553-17892
   quote: Jacques is not claiming that the apparitions are UFO events or, conversely,
@@ -643,18 +679,23 @@ references:
   claim_id: 961a1fb8-9a34-4e51-939a-bbd1eac2a93a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-961a1fb8-9a34-4e51-939a-bbd1eac2a93a
-- text: Vallée suggests apparitions and UFOs are manifestations of a single control
-    mechanism working like a schedule of reinforcement
+- text: 'Vallée: Fatima''s technology indistinguishable from UFO technology'
   source: American Cosmic
-  location: ch5:18128-18302
-  quote: Instead, he suggests an analysis based on social effects, identifying both
-    apparitions and UFOs as manifestations of a single control mechanism that works
-    like a schedule of reinforcement.
-  claim_id: ab8a8888-5a46-46e2-bca5-ede2e6a58330
+  location: ch5:20972-21041
+  quote: it is also indistinguishable from the technology surrounding the UFO phenomenon.
+  claim_id: f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab8a8888-5a46-46e2-bca5-ede2e6a58330
-- text: Vallée refuses to affirm or deny that Betty Hill and Barney Hill received
-    messages from Zeta Reticuli, without dismissing their experiences
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
+- text: 'Vallée: Fatima sightings began two years earlier with a UFO sequence'
+  source: American Cosmic
+  location: ch5:20592-20747
+  quote: that the entire sequence of observations of an entity thought to be the Holy
+    Virgin had begun two years previously with a fairly classical sequence of UFO
+    sightings.
+  claim_id: 3c7bffa2-1195-44a2-862b-3d62a09ca387
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3c7bffa2-1195-44a2-862b-3d62a09ca387
+- text: Vallée refuses to affirm or deny the Hills' Zeta Reticuli account
   source: American Cosmic
   location: ch5:28101-28351
   quote: He refuses to believe or disbelieve, for example, that Betty and Barney Hill
@@ -664,201 +705,165 @@ references:
   claim_id: 63d5f708-e73f-4572-afae-6a3c865468c9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63d5f708-e73f-4572-afae-6a3c865468c9
-- text: Vallée found that graphing UFO flaps suggests a schedule of reinforcement,
-    offered as speculation
-  source: American Cosmic
-  location: ch5:28906-29216
-  quote: This method helped Jacques discover that if one graphs the occurrence of
-    UFO flaps, which are multiple sightings over time, the graph appears to suggest
-    a schedule of reinforcement. Jacques is not committed to the conclusion suggested
-    by the graph, but offers it as a speculation and possible way forward in research.
-  claim_id: 5ed3e45b-1bfe-4a69-98ab-ebd0f1fa5e6e
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5ed3e45b-1bfe-4a69-98ab-ebd0f1fa5e6e
-- text: Vallée is committed to the idea that UFO phenomena appear to be technological
-  source: American Cosmic
-  location: ch5:29226-29296
-  quote: He is, however, committed to the idea that the phenomena appear to be technological.
-  claim_id: 78b5f4d9-7d18-4408-b1e1-298a8e541632
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-78b5f4d9-7d18-4408-b1e1-298a8e541632
-- text: Vallée's morphology of miracles includes humming sounds, a shining disc or
-    sphere, enervation, thunder-like sounds, and unusual clouds
-  source: American Cosmic
-  location: ch5:31399-31602
-  quote: 'They include the following: humming sounds associated with a sighting; the
-    arrival of a shining disc, globe, or sphere; feelings of enervation after a sighting;
-    sounds like thunder or booms; and unusual clouds.'
-  claim_id: 793ad754-2fea-47dd-9b33-54424229be42
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-793ad754-2fea-47dd-9b33-54424229be42
-- text: Vallée's early work brought proto-Internet research together with remote viewing,
-    clarifying a framework for the technologically sacred
-  source: American Cosmic
-  location: ch5:3173-3369
-  quote: Jacques's early work, which brought research on the proto-Internet together
-    with remote viewing and extraordinary mind–body states, clarified a new framework
-    for understanding the technologically sacred.
-  claim_id: 13ea62dd-aa63-407a-bdec-259ca35324e8
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-13ea62dd-aa63-407a-bdec-259ca35324e8
-- text: Vallée offered technology studies as an explanatory framework for apparition
-    and UFO events in the 1970s
-  source: American Cosmic
-  location: ch5:32192-32322
-  quote: In the 1970s, Jacques offered technology studies as a possible explanatory
-    framework for these odd events and strange patterns of effects.
-  claim_id: ce87bd57-7417-436f-86fc-ff71bb7a707d
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ce87bd57-7417-436f-86fc-ff71bb7a707d
-- text: Vallée noted the internet allowed dating and timestamping of separate observers'
-    impressions
-  source: American Cosmic
-  location: ch5:38035-38347
-  quote: One of the advantages of the internet and computer conferencing, he wrote,
-    was that it provided a way to date and timestamp observations made by separate
-    individuals who were far removed from each other in space and time. In effect,
-    the technology confirmed the impressions and thoughts that people would happen
-    simultaneously.
-  claim_id: 085e3964-23f5-496d-91f4-bb5d34c42ba3
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-085e3964-23f5-496d-91f4-bb5d34c42ba3
-- text: Vallée suggested consciousness could be the process by which informational
-    associations are retrieved and traversed
-  source: American Cosmic
-  location: ch5:40573-40818
-  quote: Jacques had wondered, “Is it possible to promote coincidences and peculiar
-    effects by systematically creating physical [information] structures? Consciousness
-    could be defined as the process by which informational associations are retrieved
-    and traversed.”
-  claim_id: 118640ce-2d26-49cf-821a-a25b3959bfea
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-118640ce-2d26-49cf-821a-a25b3959bfea
-- text: Vallée wrote that the UFO phenomenon challenges the dichotomy between physical
-    and spiritual reality
-  source: American Cosmic
-  location: ch5:5890-6009
-  quote: He wrote, "The UFO phenomenon is a direct challenge to this arbitrary dichotomy
-    between physical reality and spiritual reality."
-  claim_id: 4a1e8c11-b322-49ce-b6a8-a89f1386bb6b
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4a1e8c11-b322-49ce-b6a8-a89f1386bb6b
-- text: Vallée found people reported different things depending on to whom they spoke
-    about encounters
-  source: American Cosmic
-  location: ch5:6892-7006
-  quote: In his field research, Jacques found that people tended to report different
-    things depending on to whom they were speaking.
-  claim_id: 47af2a47-eb62-474b-95ac-a3dac0796556
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-47af2a47-eb62-474b-95ac-a3dac0796556
-- text: Betty Hill and Barney Hill gave the Air Force a sanitised account, but told
-    Keyhoe and their therapist of an encounter with nonhuman beings
-  source: American Cosmic
-  location: ch5:7068-7389
-  quote: They reported empirical evidence to the Air Force, the sighting of the starlike
-    object. But when describing their experience to people they felt would not be
-    inclined to scoff, like Donald Keyhoe and later their therapist (who, ironically,
-    did not believe in UFOs), they divulged the story of the encounter with nonhuman
-    beings.
-  claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ab8d589-9486-4efc-ab61-f5aaaeeb4074
-- text: Vallée noted scientists and the military are often not discussing the same
-    part of the phenomenon the public perceives
-  source: American Cosmic
-  location: ch5:7397-7574
-  quote: Jacques noted that this pattern was repeated so often that "when scientists
-    and the military discuss UFOs, they are not talking about the same part of the
-    phenomenon the public perceives."
-  claim_id: 5337f5b5-ca58-45a6-bdf8-6ae57fd8f60e
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5337f5b5-ca58-45a6-bdf8-6ae57fd8f60e
-- text: Vallée is not convinced disclosure and reporting confusion reflects a secret
-    military policy or a 'Silence Group' rather than bureaucratic disorganisation
-  source: THE INVISIBLE COLLEGE
-  location: ch10:5779-6095
-  quote: The very fact that a new study was recommended seems to show that any suppression
-    of information or any leaking of wild rumors was not the result of a secret military
-    policy on the UFO subject or the work of a sinister "Silence Group" but more likely
-    a product of the confusion that was evident at all levels of the bureaucracy.
-  claim_id: ae57adbb-5bc6-45b2-9458-466f0bebcb3e
+- text: Herb Schirmer case (1967-12-03) compared to Hills and Pascagoula abductions
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:33308-33523
+  quote: On December 3, 1967, a patrolman named Herb Schirmer, of Ashland, Nebraska,
+    had an experience that deserves to be placed in the context of the stories of
+    the abduction of Betty and Barney Hill and of the Pascagoula fishermen.
+  claim_id: 0129e7d8-b592-4ca8-a25b-de7fa636d09a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ae57adbb-5bc6-45b2-9458-466f0bebcb3e
-- text: Vallée defines the 'first coverup' as authority figures discouraging UFO reporting
-  source: THE INVISIBLE COLLEGE
-  location: ch10:2599-2853
-  quote: I apply the expression "first coverup" to the efforts that are made by men
-    in a position of authority to discourage the reporting of a UFO incident. This
-    can range from the laughter of a local deputy sheriff to intimidation of pilots
-    by their commanding officer.
-  claim_id: 58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
-- text: Vallée calls official explanations that give sceptics an excuse to dismiss
-    a case the 'Second Coverup'
-  source: THE INVISIBLE COLLEGE
-  location: ch10:28695-28864
-  quote: 'This is what I call the Second Coverup: the release of official "explanations"
-    that do not explain anything but which provide skeptics with an excuse for dismissing
-    the story.'
-  claim_id: 9234defa-e7d9-4c53-be7a-eaa78a630ac9
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9234defa-e7d9-4c53-be7a-eaa78a630ac9
-- text: Vallée believes scientific attitudes denying the UFO mystery have contributed
-    to a long-term loss of respect for science
-  source: THE INVISIBLE COLLEGE
-  location: ch10:14609-14721
-  quote: In my opinion, such attitudes have contributed to the long-term loss of popular
-    support and popular respect for science.
-  claim_id: 59be2659-e1a8-4c55-bbc5-0e506be61fb2
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59be2659-e1a8-4c55-bbc5-0e506be61fb2
-- text: Vallée believes the Condon investigation convinced many interested scientists
-    to continue privately
-  source: THE INVISIBLE COLLEGE
-  location: ch10:15419-15518
-  quote: The history of the Condon investigation at the University of Colorado convinced
-    many of us of this fact.
-  claim_id: 04c778fc-42ef-4900-b589-aa93d774e589
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-04c778fc-42ef-4900-b589-aa93d774e589
-- text: The Condon Committee split into two factions after a minority rebelled
-  source: THE INVISIBLE COLLEGE
-  location: ch10:21843-21885
-  quote: the team split into two violently opposed factions.
-  claim_id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
-- text: Condon fired the minority group after an internal memorandum was published
-    as evidence the committee never intended a serious investigation
-  source: THE INVISIBLE COLLEGE
-  location: ch10:22072-22234
-  quote: Publication of this document so outraged Condon that he fired the minority
-    group and ran the project without serious consideration of the possible reality
-    of the phenomenon.
-  claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
-- text: In 1964 Vallée established that UFO landings tended to occur in desolate places,
-    from computer analysis of French cases
-  source: THE INVISIBLE COLLEGE
-  location: ch10:6990-7132
-  quote: In 1964 I had established that landings tended to occur in desolate places,
-    a fact that was first apparent in the computer analysis of French cases.
-  claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
-- text: Vallée and Hynek later verified this pattern using Air Force data
-  source: THE INVISIBLE COLLEGE
-  location: ch10:7139-7192
-  quote: Allen Hynek and I later verified it, using Air Force data.
-  claim_id: 59967eae-787b-4862-8539-e609d9091d19
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
-- text: Vallée considers Uri Geller a case where self-negating factors of the phenomenon
-    gather around one person
-  source: THE INVISIBLE COLLEGE
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0129e7d8-b592-4ca8-a25b-de7fa636d09a
+- text: 'Dec 1975: saw Order of Melchizedek poster in Paris subway'
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:971-1087
+  quote: THE LORD IS AN EXTRATERRESTRIAL WHO HAS RETURNED IN A FLYING SAUCER. Order
+    of Melchizedek, rue Jules Valles Paris XI
+  claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
+- text: Cyna opened the door of the Melchizedek apartment
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:4044-4124
+  quote: '"Do you ever meet extraterrestrials?" I asked Cyna, the woman who had opened
+    the door.'
+  claim_id: f3a1597a-bb5a-4030-82c9-b402eff94dab
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f3a1597a-bb5a-4030-82c9-b402eff94dab
+- text: Greeted at the apartment and told he had come at the appointed time
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:1791-1903
+  quote: '1 apologized for the unusual hour of my visit but she stopped me: "Do not
+    worry, you have come at the appointed time."'
+  claim_id: 9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
+- text: Bearded man introduced himself as Ivan
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:3341-3420
+  quote: The bearded man introduced himself as Ivan, and explained to me his purpose
+    in life
+  claim_id: 43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43cbb38c-1ce1-4c39-8cb6-33b497b4bfa2
+- text: Attended Melchizedek meeting at San Francisco Hyatt with Janine Vallée
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:7109-7170
+  quote: My wife, Janine, and I went there and paid our three dollars each.
+  claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
+- text: Compiled catalogue of recurring contactee themes
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:22550-22639
+  quote: A catalogue of contactee themes, compiled from interviews I have conducted,
+    includes the following.
+  claim_id: 24e76aa4-a661-4da0-b739-93160b8ec53b
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
+- text: 'Vallée: parallels between Esoteric Fraternity teachings and Heaven''s Gate'
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch11:22536-22816
+  quote: The similarities of this old esoteric fraternity to some of the modern UFO
+    contactee groups are quite obvious... The H.I.M. sect, for instance, speaks of
+    regeneration, transformation, and contact with a higher level in the same terms
+    as Hiram Butler
+  claim_id: a443d879-4889-4745-8767-f3ac524a885a
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a443d879-4889-4745-8767-f3ac524a885a
+- text: 'Samosa: Vallée warned mass UFO appearance could cause cults to blossom'
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:11:07.8-00:11:20.3
+  quote: He talks about how if suddenly there was a mass appearance of UFOs in the
+    world... those cults could suddenly blossom whilst trust in the government collapses.
+    And that's one of the fears that he's got.
+  claim_id: 2d113e2d-fd01-4042-bc90-a71e2438eff9
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
+- text: Vallée sceptical of contactee predictions of disaster and free energy
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:42811-42888
+  quote: I am skeptical about “impending disasters,” space invasions, and free-energy
+    motors.
+  claim_id: d0bbe898-e942-42ee-90e9-73d3846201ab
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d0bbe898-e942-42ee-90e9-73d3846201ab
+- text: 'Vallée: contactee groups could capitalise on public fear'
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:42953-43097
+  quote: It is not difficult to imagine a combination of economic and social circumstances
+    under which contactee groups could capitalize on the public’s fear.
+  claim_id: 8b17f265-26e2-4804-9686-1e5b1869259d
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8b17f265-26e2-4804-9686-1e5b1869259d
+- text: Vallée and Pasulka interviewed a Santa Cruz sighting witness
+  source: American Cosmic
+  location: ch5:1385-1458
+  quote: Jacques and I interviewed one of the people who saw and photographed the
+    object.
+  claim_id: a65b22bb-4a67-4632-96e6-7a9d9202132e
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a65b22bb-4a67-4632-96e6-7a9d9202132e
+- text: Told Pasulka to trust no one, not even what she saw
+  source: American Cosmic
+  location: ch2:55618-55702
+  quote: Jacques Vallee once told me emphatically, “Trust no one. Do not even trust
+    what you see.”
+  claim_id: fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
+- text: Vallée and James Master formed an instant bond
+  source: American Cosmic
+  location: ch2:35458-35542
+  quote: James, like me, counted Vallee as one of his major influences and mentors...Jacques
+    and James formed an instant bond.
+  claim_id: 82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
+- text: Vallée reached out to Master when he went public
+  source: American Cosmic
+  location: ch2:35542-35661
+  quote: Jacques was among the serious researchers who reached out to James when he
+    publicly outed himself as interested in the phenomenon.
+  claim_id: 5171e915-6e86-4e0f-90f7-5f2d84727e4b
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5171e915-6e86-4e0f-90f7-5f2d84727e4b
+- text: 'Master: Vallée''s status rests on never concluding what the phenomenon is'
+  source: American Cosmic
+  location: ch2:36028-36128
+  quote: “Jacques has achieved his status precisely because he has never concluded
+    the phenomenon is anything specific.”
+  claim_id: 46266781-e548-4a0d-9362-4638d87d9d62
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-46266781-e548-4a0d-9362-4638d87d9d62
+- text: 'Master: this has infuriated ufologists wanting a single explanation'
+  source: American Cosmic
+  location: ch2:36138-36286
+  quote: In fact, Jacques has infuriated most ufologists because he won’t fall in
+    line. All Jacques has ever claimed is that the phenomenon seems infinitely variable.
+  claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
+- text: Vallée's early research alongside ARPANET work in 1970s Silicon Valley
+  source: American Cosmic
+  location: ch5:37491-37619
+  quote: His work on ARPANET, the prototype of the internet, occurred within the rich,
+    mind-bending environment of Silicon Valley in the 1970s.
+  claim_id: e3feded6-c447-4402-a565-87864b00e85b
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3feded6-c447-4402-a565-87864b00e85b
+- text: Steeped in information studies, computer science, remote viewing, telepathy
+  source: American Cosmic
+  location: ch5:37626-37717
+  quote: He was steeped in information studies, computer science, and studies of remote
+    viewing and telepathy.
+  claim_id: cee2740d-e53b-4f80-b723-82001116c617
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-cee2740d-e53b-4f80-b723-82001116c617
+- text: 'Vallée: Geller case gathers self-negating factors around one person'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
   location: ch10:39020-39190
   quote: In some cases all three factors are gathered around a single person, and
     then the complexity of the research becomes truly fantastic. Uri Geller, of course,
@@ -866,89 +871,125 @@ references:
   claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
-- text: Vallée compiled a catalogue of recurring contactee themes from his interviews
-  source: Messengers of Deception
-  location: ch10:22550-22639
-  quote: A catalogue of contactee themes, compiled from interviews I have conducted,
-    includes the following.
-  claim_id: 24e76aa4-a661-4da0-b739-93160b8ec53b
+- text: 'Friend Jim Hurtak: psychic claims, Geller affair, friend of Puharich'
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch11:28344-28518
+  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
+    affair, and claimed to be psychic himself. Not only was he psychic, but he had
+    had a number of UFO encounters
+  claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
-- text: Vallée and his wife Janine Vallée attended an Order of Melchizedek meeting
-    at San Francisco's Hyatt Hotel
-  source: Messengers of Deception
-  location: ch10:7109-7170
-  quote: My wife, Janine, and I went there and paid our three dollars each.
-  claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
-- text: Vallée saw a Paris subway poster for the Order of Melchizedek in December
-    1975 and visited its rue Jules Valles apartment the next day
-  source: Messengers of Deception
-  location: ch10:971-1087
-  quote: THE LORD IS AN EXTRATERRESTRIAL WHO HAS RETURNED IN A FLYING SAUCER. Order
-    of Melchizedek, rue Jules Valles Paris XI
-  claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
-- text: The French Order of Melchizedek gave Vallée a pentacle; its members claim
-    constant contact with extraterrestrials
-  source: Messengers of Deception
-  location: ch10:5762-5971
-  quote: Figure 5.1. A pentacle given to the author by the French Order of Melchizedek,
-    which aims at eliminating money, religion, and war. Members of this Paris-based
-    organization claim to be in constant contact with extraterrestrials
-  claim_id: be646942-0840-4129-8bc0-c8a77319e0b3
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-be646942-0840-4129-8bc0-c8a77319e0b3
-- text: Vallée is sceptical of contactee predictions of impending disasters, invasions
-    and free-energy motors
-  source: Messengers of Deception
-  location: ch10:42811-42888
-  quote: I am skeptical about “impending disasters,” space invasions, and free-energy
-    motors.
-  claim_id: d0bbe898-e942-42ee-90e9-73d3846201ab
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d0bbe898-e942-42ee-90e9-73d3846201ab
-- text: Jason Samosa said Vallée's approach examines the cultural impact of UFOs on
-    belief systems to infer the phenomenon's motivations
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
+- text: 'Samosa: journals record 2013 White House ''confirmation, not disclosure''
+    rumours'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:06:15.9-00:06:28.9
-  quote: what he does is he looks at the cultural impact of UFOs over time. And what
-    impact does that have on human belief systems? And therefore, what can we assume
-    the motivations might be of the beings that operate this thing?
-  claim_id: 7a505eb5-df7a-442e-ad07-45e1d0828556
+  location: 00:43:21.9-00:43:31.8
+  quote: He documents early in 2013, rumors coming out of the White House. And these
+    rumors are essentially saying they're planning to do something called confirmation,
+    not disclosure.
+  claim_id: 9de7e6db-d243-46b6-a902-3f04d59ce480
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
-- text: Vallée said current segmentation of UFO data hinders serious research into
-    a phenomenon that appears empowered by advanced artificial intelligence
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9de7e6db-d243-46b6-a902-3f04d59ce480
+- text: Colleagues named as AAWSAP scientists
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:06:42.9-00:06:58.4
-  quote: The current segmentation of the data hinders any serious research. into what
-    appears to be an extraterrestrial phenomenon empowered by advanced artificial
-    intelligence.
-  claim_id: 730a40ff-c523-4005-87ec-6b10b26b5518
+  location: 00:43:58.8-00:44:00.5
+  quote: And these are the AAWSAP scientists, by the way.
+  claim_id: c183202d-b2dd-4831-a411-bb534e13454b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-730a40ff-c523-4005-87ec-6b10b26b5518
-- text: Jason Samosa said Vallée is generally quite sceptical about the modern UFO
-    disclosure movement
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c183202d-b2dd-4831-a411-bb534e13454b
+- text: 'Samosa: discussed idea something concerning might be coming'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:44:35.3-00:44:40.4
-  quote: Vallee, who is, I think generally quite skeptical about, you know, the modern
-    disclosure movement
-  claim_id: a3ce3b50-1ff0-4562-877a-ada5c1552dfd
+  location: 00:43:45.0-00:43:58.0
+  quote: simultaneously, as these rumors start to appear in the journals, Vallee and
+    his colleagues are talking about this idea that there might be something coming,
+    that there's something on its way and that it could potentially be concerning
+    or harmful as this urgency.
+  claim_id: c3c02567-5d59-439b-a97b-844fc565838b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a3ce3b50-1ff0-4562-877a-ada5c1552dfd
-- text: Jesse Michels considers Vallée an incredible godfather of the field, but finds
-    what he shares very limited
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c3c02567-5d59-439b-a97b-844fc565838b
+- text: 'Samosa: journals corroborate DeLonge-Podesta circle conversations'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 01:03:54.8-01:04:02.9
-  quote: even the Vallee stuff as much, I think he's this like incredible godfather
-    and he shifts your perspective in this super healthy way, but he's so limited.
-  claim_id: 439d7901-e077-4b13-8fb8-f2422669de98
+  location: 00:41:10.4-00:41:14.7
+  quote: these conversations really were going on, which was then further validated
+    by Jacques Vallée ... You read his journals, it absolutely did happen.
+  claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-439d7901-e077-4b13-8fb8-f2422669de98
-- text: Vallée's Capella database contains 260,000 cases
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b9bcc60e-568b-406f-8e88-e61654e62876
+- text: 'Samosa: Vallée and Knapp long used the term ''Collins Elite'''
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:16:17.3-00:16:27.6
+  quote: I think people on the inside talk about the Collins Elite, they've been talking
+    about them for a while, whether it's Jacques Vallée or George Knapp or whoever.
+    When they use that word, I think they're often referring to multiple things.
+  claim_id: 3be28e48-7ea0-4d32-9926-f68cf693a709
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
+- text: 'Samosa: Major Murphy suggested 1940s human-made saucers with psychotronic
+    effect'
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 01:27:48.1-01:28:04.8
+  quote: He's talking with Vallee about, what if it's possible that people created
+    flying saucers during the war? And he points to 1943 and he says, you know, what
+    if someone was experimenting with this technology? It turns out its real advantage
+    wasn't its flight capabilities, but its psychotronic effect.
+  claim_id: 4f5610c5-4616-45d1-9272-1f12e6004ab6
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4f5610c5-4616-45d1-9272-1f12e6004ab6
+- text: Vallée independently verified the Colares Incidents
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch10:10477-10577
+  quote: The French scientist and accomplished researcher Jacques Vallée had also
+    independently verified the happenings.
+  claim_id: 55351b6a-b015-4802-b42c-a00135ac39cd
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-55351b6a-b015-4802-b42c-a00135ac39cd
+- text: Obtained materials from the 1977 Council Bluffs, Iowa, UAP incident
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch22:5623-5673
+  quote: Vallée had obtained materials recovered from this incident.
+  claim_id: f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
+- text: Flew to California with Kelleher and Livingston to meet Garry Nolan
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch18:14594-14842
+  quote: Will flew to California with a small team that included Colm Kelleher, a
+    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
+    scientist Jacques Vallée, who had US government clearances related to the investigation
+    of UAP.
+  claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
+- text: Nolan's lab instruments could help analyse the recovered material
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch22:6774-6914
+  quote: Nolan had a battery of instruments in his laboratory that he thought would
+    allow Jacques to get a better understanding of the sample in his possession.
+  claim_id: 82f6a432-e4b0-4df7-b899-f6f99a45264c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82f6a432-e4b0-4df7-b899-f6f99a45264c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82f6a432-e4b0-4df7-b899-f6f99a45264c
+- text: 'Elizondo: Nolan and Vallée analysed the material''s elemental and isotopic
+    composition'
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch25:14224-14354
+  quote: Nolan and Vallée had explored the composition of the 1977 Iowa molten metal
+    aggregate and had uncovered another mystery for us to solve.
+  claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
+- text: Part of the 'Lone Stars' group with Eric Davis and Hal Puthoff
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 02:02:36.1-02:02:39.6
+  quote: This is Jacques Vallée, Eric Davis, Hal Puthoff, all the same people.
+  claim_id: ea8a953b-d421-4c6d-b658-1171e714b8b3
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ea8a953b-d421-4c6d-b658-1171e714b8b3
+- text: Capella database contains 260,000 cases
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:04:22.8-01:04:28.0
   quote: he 260,000 cases, like I said, the Capella database that he made and the
@@ -956,44 +997,40 @@ references:
   claim_id: 84c26c96-4ba4-438e-bf1a-f57ad14d67c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-84c26c96-4ba4-438e-bf1a-f57ad14d67c4
-- text: The Lone Stars group included Vallée, Eric Davis and Hal Puthoff
+- text: 'Samosa: UFO designed to interface with the human mind, not to carry beings'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 02:02:36.1-02:02:39.6
-  quote: This is Jacques Vallée, Eric Davis, Hal Puthoff, all the same people.
-  claim_id: ea8a953b-d421-4c6d-b658-1171e714b8b3
+  location: 01:05:15.7-01:05:27.9
+  quote: which is another thing that Vallee talks about actually, is this idea that
+    the UFO isn't designed to carry beings from place A to place B, but it's designed
+    to interface with our mind and to take the imagery we have in here
+  claim_id: 1159a3a9-13d4-451c-b3a8-e964e8150355
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ea8a953b-d421-4c6d-b658-1171e714b8b3
-- text: The colleagues Vallée discussed a coming concerning event with were scientists
-    of the Advanced Aerospace Weapon System Applications Program
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:43:58.8-00:44:00.5
-  quote: And these are the AAWSAP scientists, by the way.
-  claim_id: c183202d-b2dd-4831-a411-bb534e13454b
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c183202d-b2dd-4831-a411-bb534e13454b
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1159a3a9-13d4-451c-b3a8-e964e8150355
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: ae3b4b3229910e2bfbf6da959529d91fe7a59623cd73d98beea1abffd92fe5a3
+  prompt_sha256: 7939d174c4ccae1bd72ca4ece991ed25950107491354217b4ae7dee31f19ba61
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 105750
-    output: 8236
+    input: 104495
+    output: 61538
     real_input: 2
-    cache_read: 39242
-    cache_write: 66506
+    cache_read: 39325
+    cache_write: 65168
     calls: 0
-  body_sha256: 3482b4af145b204f17c7bee099c365407f1f17d495ebf2f3925e6a5425ca769e
+  body_sha256: 965560d39e5b0b2c1c0ff4fe30e3f777f72b8d2ce3710b498298c3ff28a1b63f
 ---
 
-Jacques Vallée is a French scientist described as a researcher, astronomer, and computer scientist<sup>110</sup>, who held US government clearances related to the investigation of Unidentified Aerial Phenomena (UAP)<sup>168</sup>. He tracked and photographed unidentified objects while working at the Paris Observatory<sup>57</sup>, and his early career combined information studies and computer science with research into Remote Viewing and telepathy<sup>142</sup>, including work on ARPANET, the prototype of the internet, carried out in Silicon Valley in the 1970s<sup>141</sup>. As a young researcher he worked with and organised the papers of [J. Allen Hynek](/people/j-allen-hynek) drawn from the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf)'s [Project Blue Book](/projects/project-blue-book)<sup>169</sup>. Vallée and Hynek later travelled together to Boulder, Colorado to brief the Condon Committee<sup>61</sup>, and the bulk of that committee's computer case file was drawn from three thousand punched cards Vallée had turned over to it<sup>65</sup>. He believes the history of the Condon investigation convinced many scientists interested in UFOs that it was best to continue their work privately<sup>59</sup>, after the committee split into opposing factions<sup>66</sup> and Edward Condon fired the minority group once an internal memorandum was published as evidence the project had never intended a serious investigation<sup>68</sup>. In March 1974, French Minister of Defense Robert Galley took part in radio interviews that included statements from Vallée alongside Pierre Guerin and Claude Poher<sup>94</sup>. Vallée also served as a correspondent supplying material to Flying Saucer Review<sup>174</sup>.
+Jacques Vallée is a French scientist described as a researcher, astronomer, and computer scientist,<sup>1</sup> who has held US government clearances related to the investigation of Unidentified Aerial Phenomena (UAP).<sup>2</sup> As a young researcher he tracked and photographed unidentified objects while working at the Paris Observatory in [Paris](/places/paris-france),<sup>3</sup> and organised the papers produced by [J. Allen Hynek](/people/j-allen-hynek) for the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf)'s [Project Blue Book](/projects/project-blue-book).<sup>4</sup> He also served as a correspondent supplying material to Flying Saucer Review.<sup>5</sup> In 1964, Vallée established that [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) landings tended to occur in desolate places, a pattern first apparent in his computer analysis of French cases;<sup>6</sup> he and Hynek later verified this using Air Force data.<sup>7</sup> The two travelled to Boulder, Colorado, to brief the Condon Committee reviewing Project Blue Book,<sup>8</sup> where they noted that one of the administrators was clearly the team's decision-maker despite having no science degree and little interest in the matter.<sup>9</sup> As early as February 1967, committee members were privately asking colleagues on other campuses how they would react if its final report to the USAF recommended closing down Project Blue Book.<sup>10</sup> The bulk of the committee's computer-file data came from three thousand punched cards that Vallée had turned over.<sup>11</sup> The committee later split into two opposed factions;<sup>12</sup> an internal memorandum discovered and published by the minority faction was presented as evidence that the committee had never intended to seriously investigate the UFO problem,<sup>13</sup> and [Edward U. Condon](/people/edward-u-condon) fired the minority group after its publication, running the project without serious consideration of the phenomenon's possible reality.<sup>14</sup> Vallée has said the episode convinced many scientists interested in UFOs it was best to continue their research privately.<sup>15</sup> Project Blue Book's files were later transferred into USAF archives; although the files themselves are not classified, the building holding them is, so a security clearance is required to view them.<sup>16</sup>
 
-In the field, Vallée and his wife [Janine Vallée](/people/janine-vallee) investigated the December 1973 [France](/places/france) sighting at Carteret, Normandy, during a research trip through the west of the country<sup>75</sup>. Using computer analysis of French cases in 1964, he established that UFO landings tended to occur in desolate places<sup>107</sup>, a finding he and Hynek later verified against Air Force data<sup>108</sup>. He distinguishes between what he calls a "first coverup" - authority figures discouraging the reporting of a UFO incident<sup>82</sup> - and a "second coverup", the release of official explanations that explain nothing but give sceptics grounds to dismiss a case<sup>90</sup>. He is not convinced that confusion in UFO reporting reflects a secret military policy or a "Silence Group" rather than bureaucratic disorganisation<sup>105</sup>, and believes scientific attitudes that deny the [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) mystery outright have contributed to a long-term loss of public respect for science<sup>58</sup>. He also considers [Uri Geller](/people/uri-geller) a case in which the self-negating factors of the UFO phenomenon gather around a single person, making research into it exceptionally complex<sup>100</sup>.
+In December 1973, Vallée and Janine Vallée investigated a sighting at Carteret, Normandy, during a research trip through the west of [France](/places/france).<sup>17</sup> Janine Vallée visited the site within ten days, speaking to a witness and to the police investigators, while Vallée checked other information.<sup>18</sup> The pair found no traces on the beach, and gendarmes confirmed the grass in the dunes had not been affected;<sup>19</sup> a check of barbed wire near the site for magnetic effects proved negative.<sup>20</sup> A radar installation at Mauperthuis, thirty-eight kilometres from Carteret with an antenna range of two hundred kilometres,<sup>21</sup> picked up an echo at 06:10 on 1973-12-02 on a course consistent with an object flying from Carteret toward Great Britain.<sup>22</sup> In March 1974, French Minister of Defence Robert Galley agreed to take part in a series of radio interviews that included witness reports and statements from three French scientists who had studied the phenomenon: Pierre Guerin of the Paris Astrophysical Institute, Claude Poher, and Vallée himself.<sup>23</sup> Poher was then head of scientific studies for the French equivalent of NASA.<sup>24</sup>
 
-Vallée has continued to work at the intersection of the phenomenon and formal scientific investigation. He independently verified the happenings of the Colares Incidents, according to Imminent: Inside the Pentagon's Hunt for UFOs<sup>166</sup>. William Livingston flew to California with Colm Kelleher and Vallée to meet Garry P. Nolan<sup>167</sup>, and Vallée obtained materials recovered from the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter)-era 1977 Council Bluffs, Iowa incident, which Nolan and Vallée went on to analyse for elemental and isotopic composition<sup>173,170</sup>. According to a Reality Check documentary, the Lone Stars group included Vallée alongside Eric Davis and Hal Puthoff<sup>199</sup>, and separately, Jason Samosa said the colleagues Vallée discussed a possible coming concerning event with were scientists of the Advanced Aerospace Weapon System Applications Program<sup>188</sup>. Author Diana Walsh Pasulka, who worked with Vallée and interviewed a witness alongside him near Santa Cruz<sup>122</sup>, wrote that his approach addresses three aspects of the phenomenon: the physical, the testimonial as represented by experiencers, and the social aspect of how belief in it persists regardless of verifiable evidence<sup>109</sup>. James Master, who counted Vallée as a major influence and mentor<sup>111</sup>, observed that Vallée has achieved his standing precisely because he has never concluded the phenomenon is anything specific, which Master said has infuriated many ufologists who want him to commit to a single explanation<sup>113,114</sup>.
+According to [Diana Walsh Pasulka](/people/diana-walsh-pasulka), Vallée's approach to the phenomenon addresses three aspects: the physical, the testimonial aspect represented by experiencers, and the social aspect of how belief in the phenomenon persists regardless of verifiable evidence,<sup>25</sup> and he has suggested that the UFO might not be an object at all but some kind of "window" into another dimension.<sup>26</sup> Vallée has proposed that apparitions and UFOs are both manifestations of a single control mechanism that works like a schedule of reinforcement, part of what he has called the Control System (Vallée's hypothesis).<sup>27</sup> He has said he is not claiming that the [1917 Fatima Marian apparitions](/events/1917-fatima-marian-apparitions) were UFO events, or that modern UFO events are apparitions; rather, he breaks such episodes into constitutive parts and graphs their recurring patterns in what he calls a "Morphology of Miracles".<sup>28</sup> He has said he considers the technology attributed to the Fatima apparition indistinguishable from the technology surrounding the UFO phenomenon,<sup>29</sup> and that the sequence of sightings at Fatima began two years earlier with a classical sequence of UFO sightings.<sup>30</sup> Applying a similar method to abduction testimony, Vallée has said he refuses to affirm or deny that [Betty Hill](/people/betty-hill) and [Barney Hill](/people/barney-hill) received messages from extraterrestrials from the Zeta Reticuli star system, as they claimed, while declining to dismiss their experiences as unreal.<sup>31</sup> A comparable case, that of Nebraska patrolman Herb Schirmer on 1967-12-03, was regarded as similar to the Hills' abduction accounts and to those of the Pascagoula fishermen.<sup>32</sup>
 
-Vallée is known for a body of interpretive theory that resists straightforward categorisation. He has suggested that a UFO might not be an object at all but a kind of "window" into another dimension, according to Pasulka<sup>116</sup>, and is committed to the view that UFO phenomena appear to be technological in nature<sup>133</sup>. Working from close readings of Marian apparitions and UFO reports alike, he breaks each account into constitutive parts and graphs the recurring patterns in what he calls a "Morphology of Miracles"<sup>123</sup>, a set of recurring elements including humming sounds, the arrival of a shining disc or sphere, enervation, thunder-like sounds, and unusual clouds<sup>135</sup>. He has suggested that apparitions and UFOs may be manifestations of a single control mechanism operating like a schedule of reinforcement<sup>124</sup>, a pattern he has also proposed emerges when graphing the occurrence of UFO "flaps" over time, though he offers this only as speculation rather than a firm conclusion<sup>132</sup>. Regarding the [Betty Hill](/people/betty-hill) and [Barney Hill](/people/barney-hill) case, Vallée refuses to either affirm or deny that the couple received messages from extraterrestrials, without dismissing their experience as unreal<sup>131</sup>; Pasulka notes that the Hills reported a sanitised account to the Air Force but told a fuller story of contact with nonhuman beings to Donald Keyhoe and later their therapist<sup>161</sup>, a pattern Vallée found repeated often enough that scientists and the military, in his view, are frequently not discussing the same part of the phenomenon that the public perceives<sup>162</sup>. He has argued that the UFO phenomenon poses a direct challenge to the dichotomy between physical and spiritual reality<sup>157</sup>, and that the current segmentation of UFO data hinders serious research into what he describes as an apparently extraterrestrial phenomenon empowered by advanced artificial intelligence<sup>176</sup>.
+In December 1975, Vallée saw a poster in the Paris subway reading "The Lord is an extraterrestrial who has returned in a flying saucer," giving an address for the Order of Melchizedek on rue Jules Valles.<sup>33</sup> He visited the group's Paris apartment the following day, where a woman named Cyna<sup>34</sup> opened the door and told him he had come at the appointed time;<sup>35</sup> a bearded man there introduced himself as Ivan.<sup>36</sup> In [San Francisco](/places/california-san-francisco-usa), Vallée and Janine Vallée attended a similar Order of Melchizedek meeting at the Hyatt Hotel, each paying three dollars.<sup>37</sup> From his interviews, Vallée compiled a catalogue of recurring contactee themes, including intellectual abdication, racist philosophy, technical impotence, and social utopia,<sup>38</sup> and he has said he noted parallels between the teachings of the Esoteric Fraternity's founder Hiram Erastus Butler and modern UFO contactee groups such as Heaven's Gate, both speaking of regeneration, transformation, and contact with a higher level.<sup>39</sup> In his book Messengers of Deception, Vallée warns that a mass appearance of UFOs worldwide could cause cults to blossom while trust in government collapses, changing the global status quo overnight, according to Jason Samosa.<sup>40</sup> He has said he is sceptical of contactee predictions of impending disasters, space invasions, and free-energy motors,<sup>41</sup> though he considers that contactee groups could capitalise on public fear under certain combinations of economic and social circumstances, part of the wider pattern of alien contactee movement political manipulation.<sup>42</sup>
 
-Vallée's fieldwork on French contactee culture, documented in Messengers of Deception, examined groups such as the Order of Melchizedek. He compiled a catalogue of recurring contactee themes drawn from his interviews, including intellectual abdication, racist philosophy, technical impotence, and social utopia<sup>13</sup>. In December 1975 he saw a poster in the [Paris France](/places/paris-france) subway announcing that "the Lord is an extraterrestrial who has returned in a flying saucer," giving an address for the Order of Melchizedek<sup>43</sup>, and visited the group's apartment the following day. He and Janine Vallée also attended an Order of Melchizedek meeting at the Hyatt Hotel in [USA, California, San Francisco](/places/california-san-francisco-usa)<sup>40</sup>, where the group gave him a pentacle said to eliminate money, religion and war, and whose Paris-based members claimed to be in constant contact with extraterrestrials<sup>36</sup>. He remains sceptical of contactee predictions of impending disasters, space invasions, and free-energy devices<sup>25</sup>. Jason Samosa, discussing Vallée's work, said his approach examines the cultural impact of UFOs on human belief systems over time and infers from that impact the motivations of the beings behind the phenomenon<sup>175</sup>, and noted that Vallée is generally quite sceptical of the modern UFO disclosure movement<sup>190</sup>. Researcher Jesse Michels has called Vallée an incredible godfather of the field who shifts one's perspective in a healthy way, while finding what Vallée shares to be very limited<sup>191</sup>. Vallée's own case-tracking effort, the Capella database, contains 260,000 cases<sup>192</sup>.
+Vallée's later work brought him into contact with a new generation of researchers. He and Pasulka interviewed one of the witnesses who photographed a starlike object near Santa Cruz,<sup>43</sup> and on one occasion he told her emphatically to trust no one, not even what she saw.<sup>44</sup> Vallée and researcher James Master formed an instant bond, each counting the other as a major influence and mentor;<sup>45</sup> Vallée was among the serious researchers who reached out to Master when Master publicly revealed his interest in the phenomenon.<sup>46</sup> Master has said Vallée achieved his standing precisely because he has never concluded that the UFO phenomenon is anything specific,<sup>47</sup> which Master said has infuriated most ufologists, who want him to commit to a single explanation.<sup>48</sup> Vallée's early research, conducted alongside work on ARPANET — the prototype of the internet — in Silicon Valley in the 1970s,<sup>49</sup> drew together information studies, computer science, and studies of [Remote Viewing (RV)](/topics/remote-viewing-rv) and telepathy.<sup>50</sup> He has said he considers [Uri Geller](/people/uri-geller) a case in which the self-negating factors of the UFO phenomenon are all gathered around a single person, making research into it fantastically complex;<sup>51</sup> his friend Jim Hurtak, who claimed psychic abilities and UFO encounters, was involved in the Geller affair and was a friend of [Andrija Puharich](/people/andrija-puharich).<sup>52</sup> Vallée's journals, later published as Jacques Vallee's journals (Forbidden Science), document rumours from the White House in early 2013 of a programme called "confirmation, not disclosure," according to Samosa;<sup>53</sup> around the same time, Vallée discussed with colleagues — the scientists of the Advanced Aerospace Weapon System Applications Program (AAWSAP)<sup>54</sup> — the idea that something potentially concerning might be coming, according to Samosa.<sup>55</sup> Samosa has also said the journals corroborate that conversations between Tom DeLonge and John Podesta's circle took place,<sup>56</sup> and that Vallée is one of the researchers, along with George Knapp, who have long used the term "Collins Elite," often to refer to several different things.<sup>57</sup> According to Samosa, in Messengers of Deception an anonymous source identified only as Major Murphy suggested to Vallée that people may have created flying saucers during the Second World War, pointing to 1943, and that the technology's real advantage was not flight but a psychotronic effect.<sup>58</sup>
+
+According to Imminent: Inside the Pentagon's Hunt for UFOs, Vallée independently verified the happenings of the Colares Incidents.<sup>59</sup> He obtained materials recovered from the 1977 Council Bluffs, Iowa, UAP incident,<sup>60</sup> and flew to California with a team including Colm Kelleher and Will Livingston to meet Garry P. Nolan, who had a battery of instruments in his laboratory that he thought would allow Vallée to better understand the recovered material.<sup>61,62</sup> According to Luis Elizondo, Nolan and Vallée went on to analyse the material's elemental and isotopic composition.<sup>63</sup> Vallée was also part of the "Lone Stars" group alongside Eric Davis and Hal Puthoff,<sup>64</sup> and has compiled a database, called Capella, containing 260,000 cases.<sup>65</sup> He has also said, according to Samosa, that the UFO is designed not to carry beings from place to place but to interface with the human mind and work with the imagery it holds — an idea consonant with the Manipulators (hypothesis).<sup>66</sup>

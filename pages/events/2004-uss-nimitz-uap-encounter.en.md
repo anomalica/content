@@ -1,13 +1,13 @@
 ---
 title: 2004 USS Nimitz UAP encounter
-description: A widely reported encounter on 14 November 2004 between US Navy F/A-18
-  pilots from the USS Nimitz carrier strike group and an unidentified Tic Tac-shaped
-  object off the coast of San Diego, California.
+description: A 2004-11-14 incident in which US Navy pilots flying from the USS Nimitz
+  intercepted an unidentified object, nicknamed the Tic Tac, after days of radar contacts
+  detected by the USS Princeton off San Diego, California.
 metadata:
   date: '2004-11-14'
-  location: Pacific Ocean, off San Diego, California, USA
+  location: Off San Diego, California, USA
 built_from:
-  brief_hash: 53cdf68234cf1fb46a5b9708506071760e2c965c8a6f60eabfca4124089c07a9
+  brief_hash: 14c9d13dfbaf7f9dc44bd93df1723ccbc5f0dfe9c637b3b602b2cb902d40ca10
   claims:
   - id: d2dc2fd4-d826-45d7-899f-fa9febeeffa0
     hash: 4a0fc20b8c348724e39871adef0cb5086c38d3a4f6ba1dd10122c7dc9053127c
@@ -224,7 +224,7 @@ built_from:
   - id: 5a5f73b4-5789-4d3b-92af-d5b52c6db3ec
     hash: 18198e46c7a515da71f636c804f22f2cc78e6814449ede020a9ce75ee852aa97
   - id: 2134b643-d8ae-4044-8f0d-873435cc8be3
-    hash: 24b8dd0b73a765217b4ea79ad845b94d697b6ac798db9b0031d62c3b7df4144c
+    hash: c28a3472cb52fcd38da99a9c8e62274ffc1a095be59e52e6ef91f1438ee338a4
   - id: fdf2ac36-553c-483c-ad6b-722977859394
     hash: 62affde7e0687ea0b93182a186f358dba140bb7564abe6215a209ca5aa4db05f
   - id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
@@ -248,7 +248,7 @@ built_from:
   - id: eb31cb38-4bbc-4d36-a0ad-e0d760c890fe
     hash: b45fd389a44b90bb98c7edd88be36ed143548740901f6f56a052e9267bf94a18
   - id: d9a885af-cec0-4e2e-bc54-503f21ee1bf2
-    hash: be8448ff172987d6e80d22c6108b2ca85d9d762d96ef23e0015341c0495ca2b9
+    hash: 37699e86700dbe5b112902f578db22510cf3084e1d11a44e20c913d559c7a707
   - id: 9e9dadd4-0d26-407f-88a4-c6f69040c436
     hash: 4b7b95abb3920c291c952bd9d4323b2e0fa4cd3cf4fb66c952f53b523abf5344
   - id: 520dfd6f-d5da-4f18-a4dc-d2b7d9fa9362
@@ -256,7 +256,7 @@ built_from:
   - id: 7b8c13d9-27b1-4e6d-a078-5dae10632051
     hash: 8a4f14d2ae24dc37e3338a96a985e34b05cc764b1d59ba944ad5a7135afd62d8
   - id: 5b5950e0-41f0-4b28-ba23-31269da8b761
-    hash: b924f54859b45425dbc58252f9cf1416431b18b50ec252841d57aca6af0d227f
+    hash: 5ef68cc7d64cae04c42b63924d6c76e874aceb76932005b7c05d395396fdfa5c
   - id: 67f2e083-f7a7-4edb-933d-a721b7394c80
     hash: ada04127b75004b5d42c6e55c206989ca4dfb38a27b6211ff89b34f6154bc848
   - id: 94908746-20d4-40a5-9d6b-10e35cd8a1a7
@@ -264,7 +264,7 @@ built_from:
   - id: dc0ef672-a739-46a6-a623-43c5f5c98a9b
     hash: 4cdb95a3564219da9c2b97e168bab6246a6153f6d945f67382ce71bcb1587c9a
   - id: d3e254f2-f147-40dd-a1b2-5e1aac671e2a
-    hash: d5c7cdb2dcc9b64e552f1b488babf88338b73110e744792bee73cc256d18d653
+    hash: 383fcb0a4cf1af309c2f7f089b41e118856d2ebdf17cf2cb0d4081ccef24f98e
   - id: 0a8aedbb-c5f8-45e6-badf-83b1c1b3b640
     hash: b6e715f6ddfb171dacc70055931606258a6c078b6e256a9067ff0468a71685b2
   - id: 8616f7de-5e93-4b05-9722-0f20dc52261d
@@ -290,17 +290,17 @@ built_from:
   - id: e3749b0c-4ef9-4fe4-9005-af6f31be3e51
     hash: 82006a5c0b84c71ab55c77619e9fbd7a23c1bfac5d6b3c599122a7ff53476dc5
   - id: 258df1ac-cfab-4704-a743-a1f08a3685e2
-    hash: a79bb7f3e8e7eca7a7e8dc93066174b719407d5dfb6b1528b225a2290b864a07
+    hash: d114faca1d22c2e1a53af17c4395dbab245aaaf48d1d605c3daae04a0d6bf653
   - id: 507fcd0c-5df2-4d22-a086-fae4faa284ea
-    hash: af3a063a5e333e8b0974c2d07f2211fa262f7de23aac5a9932271c987689cce5
+    hash: 63876653647c6f78c6d98346e9a173e72cbdc2c07e1fab222b93bb4527b5ea16
   - id: 2bc2863d-65db-4512-8491-30b7e9da3f53
     hash: fffe08da6b3d454c66a02bcd707ac01722caf4f09cc1e5cd960314350e642155
   - id: b7f75a97-34f5-4654-bb1a-6d5766b7bfb0
     hash: e3c9fcdc39929ec706f9e51c6b6a69b11fbe04b8b7a198d1c0c0f5b70f301d56
   - id: d5158358-80b4-4ddd-8ee3-b2421114e616
-    hash: 6adc5bfb326bc4068146c12e607f69464bd17ec79c566bdb2d68cf6f4b420a4c
+    hash: 7611ee2dacadac7c8d2ac4afa273a5efcafe010adceb2fbf6c35a8c90fc00317
   - id: b46e7821-00d4-46ef-8788-282af2b2bc10
-    hash: 014e59e52d5e95788f21d043273d5806216b075de7ec0e24ee7807a4398febe5
+    hash: ee6b448980010bc0eb033ab40480e99d25b843bf6249bbaee5095201838734c1
   - id: d8805016-da47-4cdd-8929-fa9441b8e0e2
     hash: dcd418d55d358a8d49a247190ffdfd78b97c1b18e38df600f1a84cc7d10265e3
   - id: 64cbfb16-ebca-49a3-8596-45f004671288
@@ -410,8 +410,8 @@ built_from:
   - id: de295063-777a-456d-9963-2511602febe1
     hash: 8297cfe5f391d160f6849fc83d392f6e9b7c96dd7927c382ab170175691bef81
 references:
-- text: The 2004 incident is referred to as the Tic Tac and more formally as the USS
-    Nimitz UFO incident
+- text: The 2004 encounter is referred to as the Tic Tac and more formally as the
+    USS Nimitz UFO incident
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:26.9-00:00:33.7
@@ -420,8 +420,17 @@ references:
   claim_id: ee38efe6-9f1b-4226-b4f8-1668232d4602
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ee38efe6-9f1b-4226-b4f8-1668232d4602
-- text: The USS Nimitz was performing drills off Southern California ahead of deployment
-    to the Persian Gulf
+- text: In November 2004 the Nimitz Carrier Strike Group was training roughly 160
+    km southwest of San Diego, California
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:14.4-00:07:22.2
+  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
+    about 100 miles southwest of San Diego.
+  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
+- text: On 2004-11-14 the Nimitz was performing drills off Southern California ahead
+    of deployment to the Persian Gulf
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:56.8-00:14:12.6
   quote: On the day in question, November 14, 2004, The USS Nimitz was performing
@@ -430,24 +439,40 @@ references:
   claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
-- text: The Nimitz Carrier Strike Group was training approximately 160 kilometres
-    southwest of San Diego
-  source: Navy pilots describe encounters with UFOs
-  location: 00:07:14.4-00:07:22.2
-  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
-    about 100 miles southwest of San Diego.
-  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
-- text: The USS Princeton was part of the same exercise as the Nimitz
+- text: The USS Princeton was another ship involved in the exercise with the Nimitz
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:14.7-00:14:18.6
   quote: Another ship involved in the exercise was the USS Princeton.
   claim_id: 66b844e1-67d6-437e-97ff-2c75bcd4f312
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-66b844e1-67d6-437e-97ff-2c75bcd4f312
-- text: On 2004-11-10, the Princeton began detecting objects at approximately 8,500
-    metres and 190 km/h
+- text: David Fravor was commander of the F/A-18 squadron aboard the Nimitz
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:46.6-00:06:49.9
+  quote: commander of the F-18 squadron on the USS Nimitz
+  claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
+- text: Alex Dietrich flew at Fravor's wing and had not previously spoken publicly
+    about the encounter
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:50.6-00:06:56.2
+  quote: flying at his wing, Lieutenant Alex Dietrich, who has never spoken publicly
+    about the encounter
+  claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
+- text: Fravor and Dietrich, each with a weapons systems officer, were diverted to
+    investigate the Princeton's radar contacts
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:39.4-00:07:46.0
+  quote: On November 14, Fravor and Dietrich, each with a weapons system officer in
+    the backseat, were diverted to investigate.
+  claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
+- text: From 2004-11-10 the Princeton detected objects at ~8,500 m altitude and ~190
+    km/h
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:12:10.8-01:12:26.3
@@ -458,7 +483,7 @@ references:
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
 - text: The Princeton detected the objects intermittently for about a week before
-    2004-11-14
+    the encounter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:12:28.2-01:12:38.1
@@ -467,7 +492,7 @@ references:
   claim_id: cf93d6d5-831a-49b0-aac6-0fb5f51919a7
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cf93d6d5-831a-49b0-aac6-0fb5f51919a7
-- text: Kevin Day was manning the Princeton's radar during the exercise
+- text: Kevin Day was manning the radar aboard the Princeton
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:20.4-00:14:23.8
   quote: Manning the radar on board the Princeton was Kevin Day.
@@ -483,8 +508,7 @@ references:
   claim_id: d0314d73-7fee-4c08-9615-c69f90b649b3
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d0314d73-7fee-4c08-9615-c69f90b649b3
-- text: Day grew concerned and his captain confirmed the contacts had been tracked
-    for days
+- text: Day's captain confirmed the objects had been tracked for days
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:15:00.9-00:15:09.4
   quote: The only reason why I became concerned with these is because of that air
@@ -493,60 +517,8 @@ references:
   claim_id: b2bf7bc8-b546-4436-b6a5-8cde648950cb
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-b2bf7bc8-b546-4436-b6a5-8cde648950cb
-- text: The incident was documented by radar, camera, and four naval aviators
-  source: Navy pilots describe encounters with UFOs
-  location: 00:06:32.3-00:06:39.9
-  quote: an incident off Southern California in 2004, which was documented by radar,
-    by camera, and four naval aviators
-  claim_id: d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
-- text: David Fravor was the commander of the F/A-18 squadron aboard the Nimitz
-  source: Navy pilots describe encounters with UFOs
-  location: 00:06:46.6-00:06:49.9
-  quote: commander of the F-18 squadron on the USS Nimitz
-  claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
-- text: Alex Dietrich flew at Fravor's wing and had never spoken publicly about it
-    before this interview
-  source: Navy pilots describe encounters with UFOs
-  location: 00:06:50.6-00:06:56.2
-  quote: flying at his wing, Lieutenant Alex Dietrich, who has never spoken publicly
-    about the encounter
-  claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
-- text: Fravor and Dietrich, each with a weapons systems officer in the back seat,
-    were diverted to investigate
-  source: Navy pilots describe encounters with UFOs
-  location: 00:07:39.4-00:07:46.0
-  quote: On November 14, Fravor and Dietrich, each with a weapons system officer in
-    the backseat, were diverted to investigate.
-  claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
-- text: The Princeton informed the flight they had real-world tasking instead of their
-    training mission
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:16:21.2-01:16:23.3
-  quote: So they said, hey, well, we have real-world tasking.
-  claim_id: e1c6f5c5-e1be-4172-a22e-60e38764eb81
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e1c6f5c5-e1be-4172-a22e-60e38764eb81
-- text: The Princeton gave bearing, range, and altitude calls at approximately 80,
-    64, and 48 kilometres
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:16:37.3-01:16:44.7
-  quote: they're calling ranges, they're called BRA calls, bearing range and altitude.
-    And they're telling us, hey, it's at 40 miles or 50 miles and 40 miles and 30
-    miles.
-  claim_id: 3d7ff4db-d587-4206-87b4-6d83acb61712
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d7ff4db-d587-4206-87b4-6d83acb61712
-- text: The day was clear, with unrestricted visibility, no clouds, and calm seas
+- text: The encounter occurred on a clear day with unrestricted visibility, no clouds,
+    calm seas
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:18:45.5-01:18:55.7
@@ -555,8 +527,18 @@ references:
   claim_id: ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
-- text: The crew found white water in a cross shape the size of a Boeing 737, caused
-    by something 5-6 metres below the surface
+- text: Jim, the weapon systems officer in the other aircraft, first drew attention
+    to the white water
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:21:36.7-01:21:42.9
+  quote: the back seater in the other airplane, Jim, says, this is that talking in
+    parcels again. He says, hey, Skipper, do you?
+  claim_id: 245687d6-b591-484c-aee0-75780bbead61
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-245687d6-b591-484c-aee0-75780bbead61
+- text: The white water was cross-shaped, size of a Boeing 737, caused by something
+    5-6 m below the surface
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:21:18.2-01:21:27.2
@@ -566,8 +548,17 @@ references:
   claim_id: 005c8f92-1e07-494e-912c-c5f35c33cd36
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-005c8f92-1e07-494e-912c-c5f35c33cd36
-- text: Fravor observed a small white Tic Tac-shaped object approximately 6,100 metres
-    below his aircraft
+- text: Fravor witnessed a white Tic Tac-shaped object approximately 12 metres long
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:12:41.2-01:12:55.2
+  quote: I guess it's from the USS Nimitz, you flew and witnessed a 40 foot long white
+    tic-tac shaped object with no wings, flying in ways you've never thought possible
+  claim_id: 1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+- text: Fravor observed the object moving above the disturbance while flying ~6,100
+    m above it
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:21:56.7-01:22:00.9
@@ -586,8 +577,7 @@ references:
   claim_id: e8ed634d-37dd-424a-b95d-75a0034ae9b1
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e8ed634d-37dd-424a-b95d-75a0034ae9b1
-- text: Fravor ruled out a helicopter because there was no visible rotor wash on the
-    water
+- text: Fravor ruled out a helicopter because it produced no visible rotor wash
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:22:53.3-01:22:57.0
@@ -595,15 +585,7 @@ references:
   claim_id: c713b9ae-1001-4db3-a8ef-33bdfeb099f3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c713b9ae-1001-4db3-a8ef-33bdfeb099f3
-- text: Dietrich circled above while Fravor descended for a closer look
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:12.3-00:08:16.3
-  quote: As Dietrich circled above, Fravor went in for a closer look.
-  claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
-- text: Fravor descended toward the object at an airspeed of approximately 556 kilometres
-    per hour
+- text: Fravor descended toward the object at approximately 556 km/h
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:24:11.1-01:24:15.1
@@ -612,16 +594,34 @@ references:
   claim_id: 0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
-- text: Fravor's aircraft descended to approximately 4,600 metres while his wingman
-    stayed near 6,100 metres
+- text: Fravor descended while his wingman remained at higher altitude to observe
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
-  location: 01:24:57.0-01:24:59.9
-  quote: I'm probably at about 15K... So they're still about 20,000 feet.
-  claim_id: 3d90126e-8c5b-47e4-8aaa-6ee7accadfbd
+  location: 01:23:35.3-01:23:44.4
+  quote: So she's up here and I'm down here as I'm descending. She can watch because
+    right now all I'm watching is the Tic Tac. She can watch me and the Tic Tac.
+  claim_id: 76adf749-890f-4b94-812b-258d58a55aac
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d90126e-8c5b-47e4-8aaa-6ee7accadfbd
-- text: Fravor approached the object to within approximately 0.8 kilometres
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-76adf749-890f-4b94-812b-258d58a55aac
+- text: The object turned abruptly and began mirroring Fravor's aircraft's movements
+  source: Navy pilots describe encounters with UFOs
+  location: 00:08:18.6-00:08:26.6
+  quote: The tic-tac's still pointing north-south. It goes and just turns abruptly
+    and starts mirroring me. So as I'm coming down, it starts coming up.
+  claim_id: 87aa7a58-a9c3-4fa5-b473-228946c86a1f
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-87aa7a58-a9c3-4fa5-b473-228946c86a1f
+- text: The object turned to point west and began to ascend
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:24:22.2-01:24:28.9
+  quote: as the Tic Tac's doing this, it literally, it's like it's aware of us and
+    it just goes bloop and it kind of points out towards the West and starts coming
+    up.
+  claim_id: 0b3b29d8-9db5-4de5-8868-82466c334d0e
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0b3b29d8-9db5-4de5-8868-82466c334d0e
+- text: Fravor approached to within approximately 0.8 km of the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:25:44.9-01:25:47.4
@@ -630,16 +630,75 @@ references:
   claim_id: efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
-- text: The object pointed north-south, then turned abruptly and mirrored Fravor's
-    movements
+- text: The object was about the size of an F/A-18, with no markings, no wings, no
+    exhaust plumes
   source: Navy pilots describe encounters with UFOs
-  location: 00:08:18.6-00:08:26.6
-  quote: The tic-tac's still pointing north-south. It goes and just turns abruptly
-    and starts mirroring me. So as I'm coming down, it starts coming up.
-  claim_id: 87aa7a58-a9c3-4fa5-b473-228946c86a1f
+  location: 00:08:30.6-00:08:36.6
+  quote: He said it was about the size of his F-18, with no markings, no wings, no
+    exhaust plumes.
+  claim_id: d5788c67-339f-457a-993a-5464b6d58861
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-87aa7a58-a9c3-4fa5-b473-228946c86a1f
-- text: The object appeared smooth and white
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
+- text: The object accelerated and disappeared at ~3,700 m, ~2,400 m below the other
+    aircraft
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:26:09.2-01:26:14.9
+  quote: this happens at around estimating about 12,000 feet. So they're at 20. So
+    they've got about 8,000 foot of altitude above us when this happens.
+  claim_id: 70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
+- text: The white water disappeared along with the object, leaving no trace
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:26:36.0-01:26:40.9
+  quote: we're looking for the whitewater and we can't even, the whitewater's gone.
+    There's nothing. It's literally all blue.
+  claim_id: f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
+- text: Four aviators watched the object for approximately five minutes
+  source: Navy pilots describe encounters with UFOs
+  location: 00:09:04.2-00:09:08.2
+  quote: There was four of us in the airplanes literally watching this thing for roughly
+    about five minutes.
+  claim_id: a6b5ec29-fdd7-4931-a458-898d5021e134
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a6b5ec29-fdd7-4931-a458-898d5021e134
+- text: All four crew members lost sight of the object at the same time
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:24:05.6-01:24:06.8
+  quote: We all lost it at the same time.
+  claim_id: 4b91393c-58fd-4848-8bfb-d843c45903e9
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-4b91393c-58fd-4848-8bfb-d843c45903e9
+- text: Dietrich felt vulnerable, having nothing with which to defend themselves
+  source: Navy pilots describe encounters with UFOs
+  location: 00:13:37.4-00:13:40.8
+  quote: I felt the vulnerability of not having anything to defend ourselves.
+  claim_id: fdf2ac36-553c-483c-ad6b-722977859394
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
+- text: Dietrich initially tried to categorise the object as possibly a helicopter
+    or drone
+  source: Navy pilots describe encounters with UFOs
+  location: 00:08:53.0-00:08:57.0
+  quote: I'm going to categorize this as maybe a helicopter or maybe a drone.
+  claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0e826557-c64f-4fef-8022-bd4158f9567a
+- text: Dietrich said had she witnessed it alone she might not have reported it, given
+    how implausible it sounds
+  source: Navy pilots describe encounters with UFOs
+  location: 00:09:23.5-00:09:30.3
+  quote: if I saw this solo, I don't know that I would have come back and said anything
+    because it sounds so crazy when I say it
+  claim_id: f900712a-e007-4792-9789-102685771e44
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f900712a-e007-4792-9789-102685771e44
+- text: The object was smooth and white in appearance
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:00:37.1-02:00:40.2
@@ -683,7 +742,7 @@ references:
   claim_id: b1e6bf5c-b175-49e0-809b-984f0829c8d5
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b1e6bf5c-b175-49e0-809b-984f0829c8d5
-- text: Fravor saw no appendages on the object when observing it directly
+- text: Fravor saw no appendages on the object when observed directly
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:01:10.2-02:01:13.1
@@ -701,58 +760,41 @@ references:
   claim_id: 8062509a-e9ad-4a92-96d7-55c28a086161
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8062509a-e9ad-4a92-96d7-55c28a086161
-- text: The object was about the size of Fravor's F/A-18, with no markings, no wings,
-    and no exhaust plumes
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:30.6-00:08:36.6
-  quote: He said it was about the size of his F-18, with no markings, no wings, no
-    exhaust plumes.
-  claim_id: d5788c67-339f-457a-993a-5464b6d58861
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
-- text: The object appeared to react to Fravor's approach, turning west and beginning
-    to ascend
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:24:22.2-01:24:28.9
-  quote: as the Tic Tac's doing this, it literally, it's like it's aware of us and
-    it just goes bloop and it kind of points out towards the West and starts coming
-    up.
-  claim_id: 0b3b29d8-9db5-4de5-8868-82466c334d0e
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0b3b29d8-9db5-4de5-8868-82466c334d0e
-- text: The object accelerated and disappeared at approximately 3,700 metres, 2,400
-    metres below the other aircraft
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:26:09.2-01:26:14.9
-  quote: this happens at around estimating about 12,000 feet. So they're at 20. So
-    they've got about 8,000 foot of altitude above us when this happens.
-  claim_id: 70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
-- text: The white water on the surface disappeared at the same moment, leaving no
-    trace
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:26:36.0-01:26:40.9
-  quote: we're looking for the whitewater and we can't even, the whitewater's gone.
-    There's nothing. It's literally all blue.
-  claim_id: f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
-- text: The sighting lasted approximately five minutes from first noticing the white
-    water to disappearance
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:24:37.7-01:24:41.0
-  quote: this whole thing is like, this is like five minutes. This is not like a,
-    we saw it and it was gone.
-  claim_id: ba0561bf-e4c8-43eb-895c-94ce3f6d139d
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ba0561bf-e4c8-43eb-895c-94ce3f6d139d
+- text: The object had no signs of lift, no rudders, control surfaces, ailerons, elevators,
+    cockpit, or rivets
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:18:24.8-00:18:32.2
+  quote: No visible propulsion. No obvious signs of lift. No wings. No rudders. No
+    control surfaces. No ailerons. No elevators. No cockpit. No rivets.
+  claim_id: d3e254f2-f147-40dd-a1b2-5e1aac671e2a
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d3e254f2-f147-40dd-a1b2-5e1aac671e2a
+- text: An unnamed retired US Navy commander described the accelerations as sufficient
+    to destroy any modern aircraft five to ten times over, with no visible propulsion
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:18:15.3-00:18:24.3
+  quote: The accelerations that were observed would destroy five or ten times over
+    any craft that we can design or build today. No visible propulsion system.
+  claim_id: dc0ef672-a739-46a6-a623-43c5f5c98a9b
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-dc0ef672-a739-46a6-a623-43c5f5c98a9b
+- text: Christopher Mellon described the object as white, oblong, approximately 12
+    metres long
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:14:23.5-00:14:27.8
+  quote: It is white, oblong, some 40 feet long and perhaps 12 feet thick.
+  claim_id: 8d653ff5-f6e9-436a-9f3b-26b3b257b952
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-8d653ff5-f6e9-436a-9f3b-26b3b257b952
+- text: Christopher Mellon described the object as approximately 3.7 metres thick
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:14:23.5-00:14:27.8
+  quote: It is white, oblong, some 40 feet long and perhaps 12 feet thick.
+  claim_id: 508e13a2-83c5-413a-9011-f49d0c019fb2
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-508e13a2-83c5-413a-9011-f49d0c019fb2
 - text: Fravor said Princeton radar operators reported the object had reappeared at
-    the combat air patrol point, approximately 97 kilometres away
+    his combat air patrol point, ~97 km away
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:28:33.9-01:28:40.4
@@ -762,8 +804,8 @@ references:
   claim_id: 69ab8f5e-cdb9-4980-a51c-dc281d3cc543
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-69ab8f5e-cdb9-4980-a51c-dc281d3cc543
-- text: The cap point was a rendezvous point approximately 97 kilometres away, known
-    only to a handful of Navy personnel and pilots
+- text: The cap point was a rendezvous location known only to a handful of Navy personnel
+    and pilots
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:53.9-00:17:03.3
   quote: The cap point was an aerial rendezvous point 60 miles away, known only to
@@ -771,8 +813,8 @@ references:
   claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
-- text: Elizondo said the object disappeared instantaneously and was reported waiting
-    at the cap point five seconds later
+- text: Elizondo said the object disappeared instantaneously and, five seconds later,
+    was reported waiting at the cap point
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:34.0-00:16:52.4
   quote: and then all of a sudden, bam, it's gone. Bing, disappears instantaneously.
@@ -782,8 +824,8 @@ references:
   claim_id: 5b5950e0-41f0-4b28-ba23-31269da8b761
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5b5950e0-41f0-4b28-ba23-31269da8b761
-- text: The object was already at the cap point despite the location being known only
-    in the Nimitz briefing room
+- text: The object was already present at the classified cap point despite the location
+    being known only in the Nimitz briefing room
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:17:04.6-00:17:21.4
   quote: They go to their cap point. It's a secret. Nobody's meant to know this outside
@@ -793,7 +835,7 @@ references:
   claim_id: 94908746-20d4-40a5-9d6b-10e35cd8a1a7
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-94908746-20d4-40a5-9d6b-10e35cd8a1a7
-- text: Fravor's flight searched by radar but never saw the object again
+- text: Fravor's flight searched by radar for the object but never saw it again
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:28:45.0-01:28:46.8
@@ -801,97 +843,7 @@ references:
   claim_id: 2931616c-1307-42bb-859e-a39285fa2ae4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2931616c-1307-42bb-859e-a39285fa2ae4
-- text: Another aircrew briefly locked onto the object with a targeting camera before
-    it moved away
-  source: Navy pilots describe encounters with UFOs
-  location: 00:09:14.4-00:09:20.1
-  quote: Another crew managed to briefly lock onto it with a targeting camera before
-    it zipped off again.
-  claim_id: f48ce053-c943-41fc-b102-be76793263f4
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f48ce053-c943-41fc-b102-be76793263f4
-- text: Dietrich initially tried to categorise the object as possibly a helicopter
-    or a drone
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:53.0-00:08:57.0
-  quote: I'm going to categorize this as maybe a helicopter or maybe a drone.
-  claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0e826557-c64f-4fef-8022-bd4158f9567a
-- text: Dietrich said she might not have reported the object had she witnessed it
-    alone
-  source: Navy pilots describe encounters with UFOs
-  location: 00:09:23.5-00:09:30.3
-  quote: if I saw this solo, I don't know that I would have come back and said anything
-    because it sounds so crazy when I say it
-  claim_id: f900712a-e007-4792-9789-102685771e44
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f900712a-e007-4792-9789-102685771e44
-- text: Dietrich felt vulnerable during the encounter because they had nothing with
-    which to defend themselves
-  source: Navy pilots describe encounters with UFOs
-  location: 00:13:37.4-00:13:40.8
-  quote: I felt the vulnerability of not having anything to defend ourselves.
-  claim_id: fdf2ac36-553c-483c-ad6b-722977859394
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
-- text: No government officials arrived in person to speak with Fravor about the incident
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:39:15.4-01:39:25.4
-  quote: No one ever came out in suits to talk to us... No, no one came out on a helicopter.
-    No one came out on an airplane.
-  claim_id: 10549603-6bb2-4074-a810-0c07bc169b6e
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-10549603-6bb2-4074-a810-0c07bc169b6e
-- text: Fravor denied a rumour that personnel arrived by helicopter to confiscate
-    recorded data
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:39:50.2-01:40:00.6
-  quote: there's a story that both on the Nimitz and the Princeton, folks in a helicopter
-    landed, they showed up, they took the data... No, no one came out on a helicopter.
-  claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-- text: The tapes were classified secret because of the data recorded on them
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:40:47.1-01:40:49.7
-  quote: the tapes are actually classified secret because of the data that's on them
-  claim_id: a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
-- text: Intelligence officers from the Carrier Intelligence Center collected the tapes
-    from Fravor's squadron
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:40:53.0-01:41:03.2
-  quote: the secure the intelligence guys the intel officers came down from what's
-    called civic cvic which is carrier intel center came down and said, hey, we need
-    the tapes.
-  claim_id: f87f613a-981a-4d31-8841-ffb841723313
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f87f613a-981a-4d31-8841-ffb841723313
-- text: Fravor personally retrieved the tapes, threatening to "start tearing this
-    place apart" within 30 seconds
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:41:40.6-01:41:45.9
-  quote: you have about 30 seconds to get me my tapes before I start tearing this
-    place apart. That's literally what I told him.
-  claim_id: c55e7764-02d0-4c97-a419-73a5a0817618
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c55e7764-02d0-4c97-a419-73a5a0817618
-- text: There is no video recording of the initial sighting
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:15:15.2-01:15:17.2
-  quote: There is no video from our event.
-  claim_id: ad5cf0d1-4167-443b-a3d7-72ba8c0b3087
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ad5cf0d1-4167-443b-a3d7-72ba8c0b3087
-- text: Chad Underwood recorded the FLIR video during the incident
+- text: Chad Underwood recorded the FLIR video of the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:30:34.9-01:30:40.2
@@ -900,15 +852,6 @@ references:
   claim_id: f5a8d539-2e80-465c-838a-11b189ecd1eb
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f5a8d539-2e80-465c-838a-11b189ecd1eb
-- text: Underwood recorded video after he and his pilot subsequently took off, per
-    Fravor's account
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:15:21.6-01:15:24.9
-  quote: when Chad and his pilot took off, that's when Chad got the video of it.
-  claim_id: d4f58444-fd9a-46e2-b989-333c8ebd882b
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d4f58444-fd9a-46e2-b989-333c8ebd882b
 - text: Only the FLIR targeting-pod tape has been publicly released; other recorded
     data has not
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -919,8 +862,16 @@ references:
   claim_id: 12b3b42f-f8ac-4aee-8786-83af6d5bf351
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-12b3b42f-f8ac-4aee-8786-83af6d5bf351
-- text: The released footage excludes the radar display because it would reveal a
-    higher classification level about jamming
+- text: The tapes were classified secret because of the data recorded on them
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:40:47.1-01:40:49.7
+  quote: the tapes are actually classified secret because of the data that's on them
+  claim_id: a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
+- text: The released video excludes the radar display because it would reveal a higher
+    classification level
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:45:01.7-01:45:10.5
@@ -930,7 +881,15 @@ references:
   claim_id: 9806cf07-e084-4d52-b8ea-575842b376d5
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9806cf07-e084-4d52-b8ea-575842b376d5
-- text: The incident was not officially addressed for five years until Luis Elizondo
+- text: Active jamming of another platform's radar occurred during the encounter
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:32:55.3-01:32:57.9
+  quote: When you actively jam another platform, yes, it's technically an act of war.
+  claim_id: 1458ab02-721f-4ac9-af21-2dffa1e96954
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1458ab02-721f-4ac9-af21-2dffa1e96954
+- text: The encounter was not officially addressed for five years, until Luis Elizondo
     investigated it
   source: Navy pilots describe encounters with UFOs
   location: 00:10:04.3-00:10:11.8
@@ -939,39 +898,17 @@ references:
   claim_id: 2134b643-d8ae-4044-8f0d-873435cc8be3
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2134b643-d8ae-4044-8f0d-873435cc8be3
-- text: Around 2009 a government employee called Fravor to say the incident would
-    be investigated
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:45:21.1-01:45:37.3
-  quote: i'd gotten a call on my cell phone from a guy who government employee and
-    said, hey, he told me who he was. He's still in the government. I'm friends with
-    him. And he said, hey, we're gonna investigate your Tic Tac thing. This is literally
-    five years later.
-  claim_id: 59e630e5-e17d-4cce-b36c-847c7ec2eced
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-59e630e5-e17d-4cce-b36c-847c7ec2eced
-- text: The investigation produced a document Fravor calls the Unofficial Official
-    Report, never made formally official
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:45:42.3-01:45:47.5
-  quote: I call it the unofficial official report because It was really never official.
-  claim_id: dfae64ce-f072-4690-8bdc-229d4dbd69c7
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-dfae64ce-f072-4690-8bdc-229d4dbd69c7
-- text: Leslie Kean reported a secret Pentagon programme had studied unidentified
-    objects for ten years from 2007
+- text: In December 2017 The New York Times revealed a Pentagon unit secretly investigating
+    UFOs, with accompanying video
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:13:25.8-00:13:36.5
-  quote: The first revelation was that there was a secret program within the Pentagon
-    that had started in 2007 that had been studying these objects. So this had been
-    for 10 years, secretly being studied.
-  claim_id: 4d09f78e-0621-4903-92bf-ca675bc55918
+  location: 00:12:11.8-00:12:31.4
+  quote: Then in December 2017, everything changed. One of the world's greatest newspapers,
+    the New York Times, revealed the existence of a Pentagon unit secretly investigating
+    UFOs. And even more extraordinary, it had the videos to prove it.
+  claim_id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d09f78e-0621-4903-92bf-ca675bc55918
-- text: Christopher K. Mellon met with one of the pilots involved and confirmed the
-    account
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bbe4780a-5c87-4ffb-a8fd-2103976ab254
+- text: Mellon met with one of the pilots involved and confirmed the account
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:16:15.0-00:16:21.0
   quote: I've met with one of the pilots and confirmed the account, as have other
@@ -979,6 +916,17 @@ references:
   claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+- text: Lex Fridman considers the account, corroborated by other pilots, the most
+    credible UFO sighting he is aware of
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:00:35.1-00:00:48.1
+  quote: His story corroborated by several other pilots from my perspective as a curious
+    scientist and an open-minded human being is the most credible sighting of a UFO
+    in history, at least that I'm aware of.
+  claim_id: 0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
@@ -987,23 +935,23 @@ built_by:
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 103249
-    output: 54683
+    input: 102219
+    output: 43611
     real_input: 2
-    cache_read: 39247
-    cache_write: 64000
+    cache_read: 39325
+    cache_write: 62892
     calls: 0
-  body_sha256: c0756c5f8069d6dd5dfb6b8667ccafb875bfa367e0297b89e2fe933953adbccc
+  body_sha256: 36cd57bb9e43db3fd185ec4d09510647f6396386bbdd25f7bc73550f6ad8f234
 ---
 
-The event is known informally as the Tic Tac incident and more formally as the USS Nimitz UFO incident.<sup>1</sup> On 2004-11-14, the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) was carrying out drills off the Southern Californian coast ahead of a deployment to the Persian Gulf,<sup>2</sup> with its carrier strike group training approximately 160 kilometres southwest of [California San Diego](/places/california-san-diego-usa).<sup>3</sup> The escort cruiser [USS Princeton (CG-59)](/objects/uss-princeton-cg-59) was part of the same exercise.<sup>4</sup> Beginning on 2004-11-10, the Princeton's radar detected a small number of objects flying at approximately 8,500 metres and roughly 190 kilometres per hour off the California coast,<sup>5</sup> continuing to pick up the contacts intermittently over the following week.<sup>6</sup> [Kevin Day](/people/kevin-day) was manning the Princeton's radar during the exercise,<sup>7</sup> and, rather than the simulated adversary aircraft he was expecting, saw a formation of unidentified objects on his screen;<sup>8</sup> he grew concerned given the ongoing air-defence exercise, and reported that his captain confirmed the contacts had already been tracked for days.<sup>9</sup>
+The 2004 USS Nimitz UAP encounter, also known as the Tic Tac incident,<sup>1</sup> took place on 2004-11-14 during exercises conducted by the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) Carrier Strike Group approximately 160 kilometres southwest of [California San Diego](/places/california-san-diego-usa),<sup>2</sup> as the group carried out drills ahead of a deployment to the Persian Gulf.<sup>3</sup> The strike group's escort included the [USS Princeton (CG-59)](/objects/uss-princeton-cg-59).<sup>4</sup> [David Fravor](/people/david-fravor) commanded the [F/A-18](/objects/fa-18) squadron aboard the Nimitz at the time,<sup>5</sup> and [Alex Dietrich](/people/alex-dietrich), who had not previously spoken publicly about the encounter, flew at his wing.<sup>6</sup> On 14 November, Fravor, Dietrich, and their weapon systems officers were diverted from a training mission to investigate radar contacts detected by the Princeton.<sup>7</sup>
 
-The eventual intercept was documented by radar, by camera, and by the testimony of four naval aviators.<sup>10</sup> [David Fravor](/people/david-fravor) was the commander of the [F/A-18](/objects/fa-18) squadron aboard the Nimitz at the time,<sup>11</sup> and [Alex Dietrich](/people/alex-dietrich) flew on his wing; her account, given years later in this interview, was the first time she had spoken publicly about the encounter.<sup>12</sup> On 2004-11-14, Fravor and Dietrich, each flying with a weapons systems officer in the back seat, were diverted from their training mission;<sup>13</sup> the Princeton told them they had "real-world tasking" instead.<sup>14</sup> The Princeton then issued bearing, range and altitude calls placing the contact at successive ranges of approximately 80, 64 and 48 kilometres.<sup>15</sup> The weather was clear, with unrestricted visibility, no cloud cover and calm seas.<sup>16</sup> On arrival, the crews found an area of disturbed white water on the ocean surface, in a cross-like shape roughly the size of a Boeing 737, appearing to be caused by something five to six metres below the surface.<sup>17</sup> Above this disturbance, Fravor spotted a small white Tic Tac-shaped object while flying approximately 6,100 metres above it.<sup>18</sup> The object moved abruptly between directions with no gradual deceleration, unlike the motion of a helicopter,<sup>19</sup> and produced no visible rotor wash on the water below, which led Fravor to rule out a helicopter.<sup>20</sup>
+The Princeton's radar had begun detecting objects several days earlier: from 2004-11-10, it registered a small number of contacts flying at an altitude of approximately 8,500 metres and at speeds of around 190 kilometres per hour,<sup>8</sup> with intermittent returns continuing for about a week before the encounter.<sup>9</sup> [Kevin Day](/people/kevin-day) was manning the Princeton's radar during the exercise<sup>10</sup> and saw a formation of unidentified objects on his screen where he had expected to see simulated adversary aircraft.<sup>11</sup> Day said his captain confirmed the contacts had been tracked for several days.<sup>12</sup>
 
-Dietrich remained at altitude to observe while Fravor descended for a closer look.<sup>21</sup> He dropped toward the object at an airspeed of approximately 556 kilometres per hour,<sup>22</sup> levelling off at around 4,600 metres while Dietrich's aircraft stayed near 6,100 metres,<sup>23</sup> and closed to within approximately 0.8 kilometres of it.<sup>24</sup> He watched the object pointing north-south before it turned abruptly and began to mirror his aircraft's movements as he descended.<sup>25</sup> Close up, the object appeared smooth and white,<sup>26</sup> with no visible windows,<sup>27</sup> no visible propulsion,<sup>28</sup> no visible wings,<sup>29</sup> and no visible probes;<sup>30</sup> Fravor also reported seeing no appendages when he observed it directly.<sup>31</sup> Despite flying close to it, he felt no aerodynamic wake from the object.<sup>32</sup> He judged it to be roughly the size of his F/A-18, with no markings and no exhaust plumes.<sup>33</sup> As he closed further, the object appeared to react to his approach, turning to point west and beginning to ascend,<sup>34</sup> before it accelerated and disappeared at an altitude of approximately 3,700 metres, around 2,400 metres below Dietrich's aircraft;<sup>35</sup> the disturbed white water on the surface vanished at the same moment, leaving no trace.<sup>36</sup> The entire sighting, from the crews first noticing the white water to the object's disappearance, lasted approximately five minutes.<sup>37</sup>
+Conditions on the day were clear, with unrestricted visibility, no cloud, and calm seas.<sup>13</sup> Jim, the weapon systems officer in the second aircraft, was the first to draw attention to an area of disturbed white water on the ocean surface below.<sup>14</sup> The water was cross-shaped, roughly the size of a Boeing 737, and appeared to be caused by something five to six metres beneath the surface.<sup>15</sup> Fravor then observed a small white object shaped like a Tic Tac, approximately 12 metres long,<sup>16</sup> moving above the disturbance while he flew some 6,100 metres above it.<sup>17</sup> It moved abruptly between directions with no gradual deceleration, unlike a helicopter,<sup>18</sup> and Fravor ruled out a helicopter because it produced no visible rotor wash on the water.<sup>19</sup> He descended toward it at an airspeed of around 556 kilometres per hour,<sup>20</sup> while Dietrich remained at altitude to observe from a different perspective.<sup>21</sup> As he closed in, the object turned abruptly and began mirroring his aircraft's movements,<sup>22</sup> before turning to point west and beginning to climb.<sup>23</sup> Fravor approached to within about 0.8 kilometres of it;<sup>24</sup> it was roughly the size of his F/A-18, unmarked, with no wings and no exhaust plumes.<sup>25</sup> The object then accelerated and vanished at an altitude of around 3,700 metres, some 2,400 metres below the other aircraft,<sup>26</sup> and the white water on the surface disappeared with it, leaving no trace.<sup>27</sup> Four aviators watched the object for about five minutes in total,<sup>28</sup> and all four lost sight of it at the same moment.<sup>29</sup> Dietrich said she felt vulnerable, having nothing with which to defend themselves.<sup>30</sup> She said she initially tried to categorise the object as a possible helicopter or drone,<sup>31</sup> and that had she witnessed it alone, she might not have reported it, given how implausible it would sound.<sup>32</sup>
 
-Fravor has said that Princeton radar operators then reported the object had reappeared at his flight's combat air patrol point, approximately 97 kilometres away<sup>38</sup> - a rendezvous point known only to a handful of [United States Navy (USN)](/organisations/united-states-navy-usn) personnel and pilots.<sup>39</sup> According to Luis Elizondo, who later investigated the case, the object disappeared instantaneously and, five seconds later, a radar operator reported it was waiting at that point,<sup>40</sup> despite the location being known only within the Nimitz's own briefing room.<sup>41</sup> Fravor's flight searched for the object by radar but never saw it again.<sup>42</sup> A separate aircrew briefly locked onto it with a targeting camera before it moved off once more.<sup>43</sup> Dietrich has said she initially tried to categorise the object as possibly a helicopter or a drone,<sup>44</sup> and that had she witnessed it alone she might not have reported it, given how implausible it would sound.<sup>45</sup> She has also said she felt vulnerable during the encounter, since the aircraft had nothing with which to defend themselves.<sup>46</sup>
+Witnesses described the object at close range as smooth and white,<sup>33</sup> with no visible windows,<sup>34</sup> no visible propulsion,<sup>35</sup> no visible wings,<sup>36</sup> and no visible probes.<sup>37</sup> Fravor saw no appendages on it,<sup>38</sup> and did not feel any aerodynamic wake despite flying close to it.<sup>39</sup> It showed no obvious signs of lift and had no rudders, control surfaces, ailerons, elevators, cockpit, or rivets.<sup>40</sup> According to the documentary The UFO Phenomenon, an unnamed retired [United States Navy (USN)](/organisations/united-states-navy-usn) commander said the accelerations observed were sufficient to destroy any aircraft that can be designed or built today, five to ten times over, and that there was no visible propulsion system.<sup>41</sup> Christopher Mellon said the object was white and oblong, approximately 12 metres long,<sup>42</sup> and about 3.7 metres thick.<sup>43</sup>
 
-No government officials arrived in person to question Fravor about the encounter,<sup>47</sup> and he has denied a rumour that unidentified personnel arrived by helicopter aboard the Nimitz and Princeton afterwards to confiscate recorded data.<sup>48</sup> The tapes recorded during the encounter were nonetheless classified secret because of the data they contained,<sup>49</sup> and intelligence officers from the Nimitz's Carrier Intelligence Center collected them from Fravor's squadron;<sup>50</sup> Fravor went to retrieve them himself, threatening to "start tearing this place apart" if they were not returned to him within 30 seconds.<sup>51</sup> There is no video recording of the initial sighting itself;<sup>52</sup> [Chad Underwood](/people/chad-underwood) recorded forward-looking infrared (FLIR) footage of the object,<sup>53</sup> having launched in a second aircraft after Fravor's initial sighting, according to Fravor's account.<sup>54</sup> That FLIR tape is the only recording from the incident that has been made public; other recorded data has not.<sup>55</sup> According to Fravor, the released footage excludes the aircraft's radar display, because it would reveal a higher classification level covering how the radar behaved while it was being jammed.<sup>56</sup>
+Fravor said that Princeton radar operators subsequently reported the object had reappeared at his flight's combat air patrol point, approximately 97 kilometres away.<sup>44</sup> That point was a rendezvous location known only to a handful of Navy personnel and pilots.<sup>45</sup> According to Luis Elizondo, the object disappeared instantaneously and, five seconds later, a radar operator reported it was already waiting there.<sup>46</sup> The object was already present at the classified point despite the location being known only within the Nimitz briefing room.<sup>47</sup> Fravor's flight searched for it by radar but never saw it again.<sup>48</sup>
 
-The encounter was not officially addressed for five years, until Luis Elizondo investigated it.<sup>57</sup> Around 2009, a government employee called Fravor to tell him the incident would be investigated,<sup>58</sup> and that investigation produced a document Fravor has called the Unofficial Official Report on the Nimitz Tic Tac incident, since it was never made formally official.<sup>59</sup> Journalist Leslie Kean reported that a secretive Pentagon programme studying unidentified objects had operated for ten years from 2007, prior to its existence becoming public via The New York Times in December 2017.<sup>60</sup> Christopher K. Mellon later met with one of the pilots involved and confirmed the account.<sup>61</sup>
+[Chad Underwood](/people/chad-underwood) recorded the forward-looking infrared (FLIR) video of the object.<sup>49</sup> Only that FLIR targeting-pod footage has ever been publicly released; other data recorded during the encounter has not.<sup>50</sup> Fravor said the tapes were classified secret because of the data recorded on them,<sup>51</sup> and that the released video excludes the aircraft's radar display because that footage would reveal a higher classification level about how the radar behaved amid active jamming of another platform's radar.<sup>52,53</sup> The encounter was not officially addressed for five years, until Luis Elizondo investigated it.<sup>54</sup> According to a 2021 documentary account, The New York Times revealed the existence of a Pentagon unit that had secretly investigated UFOs in December 2017, publishing accompanying video.<sup>55</sup> Mellon later met with one of the pilots involved and confirmed the account.<sup>56</sup> Lex Fridman said he considered the account, corroborated by several other pilots, the most credible UFO sighting he was aware of.<sup>57</sup>

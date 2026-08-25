@@ -1,13 +1,15 @@
 ---
 title: USS Nimitz (CVN-68)
-description: USS Nimitz (CVN-68) is a nuclear-powered aircraft carrier of the United
-  States Navy whose embarked pilots reported an encounter with an unidentified aerial
-  vehicle off the coast of San Diego, California, in November 2004.
+description: USS Nimitz (CVN-68) is a nuclear-powered United States Navy aircraft
+  carrier that was the lead vessel of the carrier strike group involved in the 2004
+  UAP encounter off San Diego, California.
 metadata:
   type: Nuclear-powered aircraft carrier
-  operator: United States Navy (USN)
+  operator: United States Navy
+  assigned air wing (2004): Carrier Air Wing 11 (CVW-11)
+  estimated value: Approximately US$5 billion (per Christopher K. Mellon)
 built_from:
-  brief_hash: 903d2122ce2c3068e0de4af3fec989643167ab1ddd3bd63e5bc71948c172c259
+  brief_hash: 36548fcd0dcc772f8954f7f1eafee75fea51ca1eacad507d572c235710dd778f
   claims:
   - id: bf152d12-9c95-4f8e-9da9-2dc125ce959f
     hash: 56563888fff0fbcf7e658de2514d246a2163bf643a8f68bd9cb409f28c4f2fa8
@@ -32,7 +34,7 @@ built_from:
   - id: 8966dfc1-6de1-4082-96cb-adea9e6b24c4
     hash: 2e612214dc50e195ea029b72fd95363ee9b38e607054bdd37a525a3ae91aa91f
   - id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
-    hash: 595bff3eb495757d9dbf5e75ea9be4be1bf14f5a1a464af1f2967ecc2d271fee
+    hash: 43307a0bd111bd9ec24a74bb2cbf45d4a7d2a3d0e9dd9a689a298a2119d84a32
   - id: b8764618-8338-468e-8f0d-af5efcaf7eb3
     hash: 97bb2158511209387c23e978bafd878f2463a59691aa134ae2e2f604eef359ec
   - id: 053e30a1-90cf-4462-96af-df0df7ce4050
@@ -162,8 +164,8 @@ built_from:
   - id: 5c552d88-94f6-4398-a0f6-359e54f49148
     hash: 80a7838b0b4d76b4ab50bc286791744d51d4f33ccf0347061d40116d11b23d9c
 references:
-- text: Nimitz was the lead vessel of the carrier strike group involved in the 2004
-    encounter, a nuclear-powered aircraft carrier.
+- text: USS Nimitz was the lead vessel of the carrier strike group involved in the
+    2004 encounter, a nuclear-powered aircraft carrier
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1402-1467
   quote: The lead vessel was the USS *Nimitz*, a nuclear-powered aircraft carrier.
@@ -171,8 +173,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08942780-f53b-4197-b790-7f1037478f05
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-08942780-f53b-4197-b790-7f1037478f05
-- text: The ship comprises approximately 1.8 hectares of sovereign US territory that
-    moves around the world's oceans.
+- text: The ship comprises approximately 1.8 hectares of sovereign United States territory
+    that moves around the world's oceans
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:18:41.6-00:18:47.9
@@ -182,7 +184,7 @@ references:
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-053e30a1-90cf-4462-96af-df0df7ce4050
 - text: The USS Nimitz is a warship worth approximately five billion US dollars with
-    a crew of thousands.
+    a crew of thousands
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:28.6-00:13:36.6
   quote: We are presently standing within 10 miles of the home port of the USS Nimitz,
@@ -190,16 +192,16 @@ references:
   claim_id: 5be01e47-276b-4807-8e5f-48b078d168e9
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-5be01e47-276b-4807-8e5f-48b078d168e9
-- text: Christopher K. Mellon said the USS Nimitz is one of the premier assets in
-    the United States Navy.
+- text: 'Mellon: the USS Nimitz is one of the premier assets in the United States
+    Navy'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:38.2-00:13:40.6
   quote: It is one of the premier assets in the US Navy.
   claim_id: de5440e4-0dee-47d1-8927-46d7ba613033
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-de5440e4-0dee-47d1-8927-46d7ba613033
-- text: The air wing constitutes the Nimitz's primary weapons capability, though the
-    ship also carries defensive weapons.
+- text: The air wing constitutes the ship's primary weapons capability, though it
+    also carries defensive weapons
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:18:51.4-00:18:58.2
@@ -208,37 +210,7 @@ references:
   claim_id: ec5f28eb-e6c2-4c12-a1c2-ecac11ad7b94
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec5f28eb-e6c2-4c12-a1c2-ecac11ad7b94
-- text: Fravor first served aboard the Nimitz on his freshman midshipman cruise after
-    his first year at the US Naval Academy.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:18:25.8-00:18:31.4
-  quote: I went out to the Nimitz on my, uh, freshman cruise after your freshman year
-    at the Naval Academy, you go out on a ship
-  claim_id: b8764618-8338-468e-8f0d-af5efcaf7eb3
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8764618-8338-468e-8f0d-af5efcaf7eb3
-- text: Fravor observed Fighter Squadron 41 and 84, an F-14 Tomcat squadron, and A-6
-    Intruder squadrons operating from the Nimitz.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:19:04.2-00:19:11.8
-  quote: the squadrons that were out there, one of the squadrons was a VF 41 and a
-    14 squadron VF 84, uh, an F 14 squadron, and then a couple of a six squadrons.
-  claim_id: 16508532-224d-4ee0-acba-5a1303e227bf
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-16508532-224d-4ee0-acba-5a1303e227bf
-- text: Time with A-6 Intruder pilots led Fravor to decide he wanted to fly from aircraft
-    carriers.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:19:12.9-00:19:20.3
-  quote: we actually ended up part pairing up and hanging out with some of the a six
-    pilots and BNs. So it was really a neat experience. And I said, I want to do that.
-  claim_id: 803b745c-063d-4c0d-91f6-8a402fe8cd5b
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-803b745c-063d-4c0d-91f6-8a402fe8cd5b
-- text: The USS Nimitz was home to Carrier Air Wing 11 (CVW-11).
+- text: USS Nimitz was home to Carrier Air Wing 11 (CVW-11)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3239-3287
   quote: The Nimitz was home to Carrier Air Wing 11 (CVW-11)
@@ -246,8 +218,37 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8966dfc1-6de1-4082-96cb-adea9e6b24c4
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8966dfc1-6de1-4082-96cb-adea9e6b24c4
-- text: In 2004 the Nimitz carrier group began a two-month workup cycle off the coast
-    of California.
+- text: CSG-11 was comprised of USS Nimitz, USS Princeton, USS Chafee, USS Higgins,
+    and USS Louisville
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:3058-3233
+  quote: 'The CSG was comprised of the following ships and submarine: USS Nimitz (CVN-68),
+    USS Princeton (CG-59), USS Chafee (DDG-90), USS Higgins (DDG-76), and the USS
+    Louisville (SSN-724).'
+  claim_id: 96b877c1-f249-48a2-9115-e8c413189dc9
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-96b877c1-f249-48a2-9115-e8c413189dc9
+- text: The strike group was training approximately 160 kilometres southwest of San
+    Diego, California
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:14.4-00:07:22.2
+  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
+    about 100 miles southwest of San Diego.
+  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
+- text: The ship was performing drills off the Southern Californian coastline ahead
+    of deployment to the Persian Gulf
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:13:56.8-00:14:12.6
+  quote: On the day in question, November 14, 2004, The USS Nimitz was performing
+    drills off the Southern Californian coastline ahead of deployment to the Persian
+    Gulf.
+  claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
+- text: The carrier group began a two-month workup cycle off the coast of California
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:40364-40414
@@ -256,8 +257,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-13750deb-4882-4ddc-b87d-343cead646e1
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-13750deb-4882-4ddc-b87d-343cead646e1
-- text: The workup cycle prepared the carrier group for a combat deployment to the
-    Persian Gulf to support ground forces in Iraq.
+- text: The workup cycle was in preparation for a combat deployment to the Persian
+    Gulf to support ground forces in Iraq
   source: David Fravor Statement for the House Oversight Committee
   location: char:534-692
   quote: We were at the beginning of our workup cycle that would prepare us for a
@@ -268,7 +269,7 @@ references:
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-b4ac9cb0-93ab-4a5e-84e6-96708df79f86
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-b4ac9cb0-93ab-4a5e-84e6-96708df79f86
 - text: The at-sea period was scheduled to run from early November to late December
-    2004.
+    2004
   source: David Fravor Statement for the House Oversight Committee
   location: char:698-764
   quote: The at-sea period was scheduled to go from Early November to Late December.
@@ -276,69 +277,38 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-61cee1cf-de0b-4e9d-98de-2a6c5b372aec
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-61cee1cf-de0b-4e9d-98de-2a6c5b372aec
-- text: Strike Fighter Squadron 41 (VFA-41) was attached to Carrier Air Wing 11 and
-    stationed aboard the Nimitz.
-  source: David Fravor Statement for the House Oversight Committee
-  location: char:444-529
-  quote: We were attached to Carrier Airwing Eleven and stationed onboard the USS
-    Nimitz (CVN-68).
-  claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
-  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
-- text: By November 2004 the strike group was training approximately 160 kilometres
-    southwest of San Diego, California.
-  source: Navy pilots describe encounters with UFOs
-  location: 00:07:14.4-00:07:22.2
-  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
-    about 100 miles southwest of San Diego.
-  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
-- text: Carrier Strike Group 11 comprised the Nimitz, USS Princeton, USS Chafee, USS
-    Higgins, and USS Louisville.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:3058-3233
-  quote: 'The CSG was comprised of the following ships and submarine: USS Nimitz (CVN-68),
-    USS Princeton (CG-59), USS Chafee (DDG-90), USS Higgins (DDG-76), and the USS
-    Louisville (SSN-724).'
-  claim_id: 96b877c1-f249-48a2-9115-e8c413189dc9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-96b877c1-f249-48a2-9115-e8c413189dc9
-- text: USS Louisville was operating in the vicinity of the Nimitz during the detection
-    and intercept of the AAV.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:27572-27711
-  quote: She was operating in the vicinity of the USS Nimitz as part of the CSG during
-    the detection and intercept of the AAV.
-  claim_id: bc089ab8-2ba9-4050-8cba-8786235ac7b9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
-- text: It was the USS Princeton, not the Nimitz, that provided air defence protection
-    using its SPY-1 Aegis radar.
+- text: On 2004-11-14 the ship was undergoing preparatory training with other vessels
+    before deploying to the Middle East
   source: In Plain Sight
-  location: ch16:740-914
-  quote: it was actually the accompanying Ticonderoga-class guided missile cruiser
-    USS Princeton that was providing air defence protection with its then brand-new
-    SPY-1 Aegis radar system
-  claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
+  location: ch16:448-610
+  quote: the behemoth aircraft supercarrier USS Nimitz was undergoing preparatory
+    training with other vessels in its carrier strike group before deploying to the
+    Middle East
+  claim_id: f81df24d-e91f-4b95-931b-50af7b9ac45e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c13836a-6561-4b29-8009-791ca00f99d2
-- text: On 2004-11-14 the Nimitz was performing drills off the Southern Californian
-    coastline ahead of deployment to the Persian Gulf.
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:13:56.8-00:14:12.6
-  quote: On the day in question, November 14, 2004, The USS Nimitz was performing
-    drills off the Southern Californian coastline ahead of deployment to the Persian
-    Gulf.
-  claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
-- text: The Commanding Officer of VMFA-232 launched from the Nimitz at approximately
-    1030 local time to conduct a Functional Check Flight.
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f81df24d-e91f-4b95-931b-50af7b9ac45e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f81df24d-e91f-4b95-931b-50af7b9ac45e
+- text: A huge stretch of ocean and sky was closed for the exercise
+  source: In Plain Sight
+  location: ch16:616-666
+  quote: A huge swathe of ocean and sky was closed for the exercise.
+  claim_id: 3ef468d0-22fd-4973-9650-5d66c179034e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3ef468d0-22fd-4973-9650-5d66c179034e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3ef468d0-22fd-4973-9650-5d66c179034e
+- text: The Nimitz planned to launch as many as 30 aircraft, with more joining from
+    San Diego
+  source: In Plain Sight
+  location: ch16:6036-6205
+  quote: Within a few hours of this sighting, the USS Nimitz planned to launch as
+    many as 30 aircraft and more were scheduled to be joining the carrier group exercise
+    from San Diego.
+  claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+- text: The VMFA-232 Commanding Officer launched at approximately 1030 in a single-seat
+    F/A-18C for a Functional Check Flight
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:13202-13443
   quote: 'Lt. Col {{redacted: ~1 word}} Commanding Officer VMFA-232, was flying a
@@ -349,8 +319,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf152d12-9c95-4f8e-9da9-2dc125ce959f
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bf152d12-9c95-4f8e-9da9-2dc125ce959f
-- text: The VMFA-232 Commanding Officer recovered aboard the Nimitz at approximately
-    1200 local time the same day.
+- text: He recovered aboard the Nimitz at approximately 1200
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:15870-15944
   quote: 'Lt Col {{redacted: ~1 word}} recovered aboard the Nimitz at approximately
@@ -359,58 +328,19 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bd5527b3-a9ca-4476-9894-e3bac304af74
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bd5527b3-a9ca-4476-9894-e3bac304af74
-- text: Kevin Day recommended sending aircraft to investigate the swarm of unidentified
-    objects, and the recommendation was accepted.
-  source: In Plain Sight
-  location: ch16:6428-6542
-  quote: Day recommended to the Nimitz's Captain James Smith that they send out aircraft
-    to take a look, and the captain concurred.
-  claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
-- text: The Nimitz sent up an E-2 Hawkeye, which detected the closest object on its
-    own radar.
-  source: In Plain Sight
-  location: ch16:3518-3655
-  quote: The aircraft carrier also sent up one of its airborne early-warning aircraft
-    – an E2 Hawkeye – and it detected the closest object on its radar.
-  claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a104bd6a-8d33-4f71-92c4-39843995f257
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a104bd6a-8d33-4f71-92c4-39843995f257
-- text: Kevin Day confirmed the Nimitz's radar was tracking the same cluster of 14
-    objects as the Princeton's radar.
-  source: In Plain Sight
-  location: ch16:3446-3511
-  quote: this time, he confirmed the Nimitz's radar was seeing the same thing
-  claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
-- text: Douglas Kurth was the first witness to the encounter, as an FA-18 pilot.
-  source: In Plain Sight
-  location: ch17:7530-7697
-  quote: One of Bigelow's first hires in 2007 was former USS Nimitz FA-18 jet pilot
-    Marine Lieutenant Colonel Douglas Kurth, the first witness to the Tic Tac UAP
-    in November 2004.
-  claim_id: 7c540871-19d3-49c7-b1a5-f015d354ed69
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7c540871-19d3-49c7-b1a5-f015d354ed69
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7c540871-19d3-49c7-b1a5-f015d354ed69
-- text: Kurth arrived at the intercept point roughly 100 kilometres southwest of the
-    Nimitz, finding only a circular disturbance 50-100 metres across.
-  source: In Plain Sight
-  location: ch16:7213-7398
-  quote: Somewhere about 100 kilometres south-west of the Nimitz, Kurth arrived at
-    the intercept point, but all he saw was a circular disturbance on the surface
-    of the ocean, 50–100 metres in size.
-  claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
-- text: Fravor's flight launched and was told the exercise was suspended for real-world
-    tasking, directed toward a contact west of the CAP point.
+- text: Fravor's F/A-18F flight launched without issue and departed the carrier for
+    the working area
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:16782-16956
+  quote: The flight walked, started and launched with no issue. They completed their
+    departure from the USS Nimitz and flew to the working area to conduct the training
+    portion of the flight.
+  claim_id: 0dce43d7-2473-44e4-b962-869cbc37602a
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0dce43d7-2473-44e4-b962-869cbc37602a
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0dce43d7-2473-44e4-b962-869cbc37602a
+- text: The flight checked in with the air controller aboard USS Princeton and was
+    directed toward a contact west of the CAP point
   source: David Fravor Statement for the House Oversight Committee
   location: char:1349-1620
   quote: As we launched off the USS Nimitz, we checked in with the air controller
@@ -421,17 +351,49 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
-- text: Two US Navy F/A-18s from the Nimitz intercepted one of the objects at close
-    quarters in conditions of perfect visibility.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:8066-8195
-  quote: two US Navy F/A-18s from the *Nimitz* managed to intercept one of these strange
-    craft at close quarters in conditions of perfect visibility.
-  claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
-- text: Following the engagement, Fravor's flight rejoined and returned to the Nimitz.
+- text: Kevin Day recommended investigating the swarm to the Nimitz's captain, who
+    concurred
+  source: In Plain Sight
+  location: ch16:6428-6542
+  quote: Day recommended to the Nimitz's Captain James Smith that they send out aircraft
+    to take a look, and the captain concurred.
+  claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+- text: Douglas Kurth was the first witness, as an FA-18 jet pilot
+  source: In Plain Sight
+  location: ch17:7530-7697
+  quote: One of Bigelow's first hires in 2007 was former USS Nimitz FA-18 jet pilot
+    Marine Lieutenant Colonel Douglas Kurth, the first witness to the Tic Tac UAP
+    in November 2004.
+  claim_id: 7c540871-19d3-49c7-b1a5-f015d354ed69
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7c540871-19d3-49c7-b1a5-f015d354ed69
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7c540871-19d3-49c7-b1a5-f015d354ed69
+- text: Kurth reached the intercept point roughly 100km southwest of the Nimitz, finding
+    a circular disturbance 50-100 metres across
+  source: In Plain Sight
+  location: ch16:7213-7398
+  quote: Somewhere about 100 kilometres south-west of the Nimitz, Kurth arrived at
+    the intercept point, but all he saw was a circular disturbance on the surface
+    of the ocean, 50–100 metres in size.
+  claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
+- text: Jim Slaight initially suspected the disturbance was a submarine, later ruled
+    out by the Nimitz's intelligence officer
+  source: In Plain Sight
+  location: ch16:8969-9201
+  quote: Remaining above, weapons systems officer Lieutenant Commander Slaight and
+    his pilot thought it might be a submarine that was part of the exercise, but this
+    was later ruled out by the Nimitz's intelligence officer in a post-flight debriefing.
+  claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72f28544-5245-4b89-8c2d-39d957b86719
+- text: Fravor's flight rejoined and returned to the Nimitz
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:21991-22061
   quote: Following the engagement, the flight rejoined and returned to the USS Nimitz.
@@ -439,7 +401,17 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
-- text: Chad Underwood's section launched, its jet fitted with an ATFLIR pod.
+- text: They met Chad Underwood's flight in the paraloft to pass on what they had
+    seen
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:22669-22790
+  quote: 'The flight met up with LT {{redacted: ~2 words}} and LT Chad Underwood''s
+    flight in the paraloft and passed what they had seen.'
+  claim_id: a6eb8cc8-018b-40a9-b09e-11d4d2605076
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
+- text: Underwood's jet was fitted with an ATFLIR pod as his section launched next
   source: In Plain Sight
   location: ch16:16657-16902
   quote: As Commander Fravor and his wingman returned to the USS Nimitz from their
@@ -450,8 +422,17 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
-- text: Underwood's section returned to the Nimitz for a normal approach, landing,
-    and shutdown.
+- text: The flight climbed to altitude and separated to begin its own portion of the
+    exercise
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:23825-23948
+  quote: They completed their departure from the USS Nitmiz, climbed to altitude and
+    separated to begin the training portion of the flight.
+  claim_id: a8ea57c5-bf6f-4075-b84d-1a62afd3b764
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
+- text: The section returned to the Nimitz for a normal approach, landing and shutdown
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26640-26754
   quote: Following completion of the training portion, the section returned to the
@@ -460,8 +441,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
-- text: Underwood's crew debriefed in the Carrier Intelligence Center (CVIC) aboard
-    the Nimitz.
+- text: The crew met and debriefed in the Carrier Intelligence Center (CVIC)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26764-26789
   quote: The crew met in CVIC and debriefed.
@@ -469,28 +449,188 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2834e316-123a-4f09-8302-5be197dba09a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2834e316-123a-4f09-8302-5be197dba09a
-- text: After returning to the Nimitz, Fravor mentioned what his flight had witnessed
-    to a crew preparing to launch.
-  source: David Fravor Statement for the House Oversight Committee
-  location: char:4296-4399
-  quote: We returned to Nimitz and mentioned what we had witnessed to one of my crews
-    who were getting ready to launch.
-  claim_id: 9d34193e-b567-4fbc-992a-ac73dca39e85
-  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-9d34193e-b567-4fbc-992a-ac73dca39e85
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-9d34193e-b567-4fbc-992a-ac73dca39e85
-- text: Fravor's flight met Underwood's flight in the paraloft aboard the Nimitz and
-    passed on what they had seen.
+- text: The FLIR1 video was downloaded once Underwood returned; conspiracy theories
+    circulated among crewmen who saw it at sea
+  source: In Plain Sight
+  location: ch16:19232-19424
+  quote: The ATFLIR video of the encounter was downloaded when Lieutenant Underwood
+    returned to the USS Nimitz; conspiracy theories abound among crewmen who saw the
+    video while the ship was still at sea.
+  claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
+- text: The FLIR1 footage is a 76-second recording of an egg- or oblong-shaped UAP
+  source: In Plain Sight
+  location: ch21:21129-21279
+  quote: One of those videos was the 76-second so-called FLIR1 video, depicting the
+    Tic Tac, the egg- or oblong-shaped UAP filmed by the USS Nimitz pilot in 2004.
+  claim_id: 44c746c8-143e-402f-83e5-ff7554ccb19c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44c746c8-143e-402f-83e5-ff7554ccb19c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44c746c8-143e-402f-83e5-ff7554ccb19c
+- text: Fravor described a white, Tic Tac-shaped object roughly 12 metres long, with
+    no wings, manoeuvring unlike anything he had thought possible
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:12:41.2-01:12:55.2
+  quote: I guess it's from the USS Nimitz, you flew and witnessed a 40 foot long white
+    tic-tac shaped object with no wings, flying in ways you've never thought possible
+  claim_id: 1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+- text: No further jets from the Nimitz were sent up to engage the object
+  source: In Plain Sight
+  location: ch16:21453-21518
+  quote: No further jets from the USS *Nimitz* were sent up to engage the craft.
+  claim_id: 985d67e1-72d2-4bf0-9e5f-487cb88f47f7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
+- text: Very little follow-up investigation was conducted after the pilots returned
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:13506-13594
+  quote: Back in 2004, very little follow-up had been conducted when the pilots returned
+    to the *Nimitz*.
+  claim_id: 9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
+- text: Kevin Day confirmed the Nimitz's radar was tracking the same cluster of 14
+    objects as the Princeton's radar
+  source: In Plain Sight
+  location: ch16:3446-3511
+  quote: this time, he confirmed the Nimitz's radar was seeing the same thing
+  claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
+- text: The Nimitz launched an E-2 Hawkeye, which detected the closest object on its
+    own radar
+  source: In Plain Sight
+  location: ch16:3518-3655
+  quote: The aircraft carrier also sent up one of its airborne early-warning aircraft
+    – an E2 Hawkeye – and it detected the closest object on its radar.
+  claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a104bd6a-8d33-4f71-92c4-39843995f257
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a104bd6a-8d33-4f71-92c4-39843995f257
+- text: It was the Princeton, not the Nimitz, providing air defence via its new SPY-1
+    Aegis system
+  source: In Plain Sight
+  location: ch16:740-914
+  quote: it was actually the accompanying Ticonderoga-class guided missile cruiser
+    USS Princeton that was providing air defence protection with its then brand-new
+    SPY-1 Aegis radar system
+  claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+- text: USS Louisville operated nearby as part of CSG-11 during the detection and
+    intercept of the AAV
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:22669-22790
-  quote: 'The flight met up with LT {{redacted: ~2 words}} and LT Chad Underwood''s
-    flight in the paraloft and passed what they had seen.'
-  claim_id: a6eb8cc8-018b-40a9-b09e-11d4d2605076
+  location: char:27572-27711
+  quote: She was operating in the vicinity of the USS Nimitz as part of the CSG during
+    the detection and intercept of the AAV.
+  claim_id: bc089ab8-2ba9-4050-8cba-8786235ac7b9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
-- text: Intelligence officers from the CVIC came to collect the tapes from Fravor's
-    squadron.
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
+- text: The Princeton's radar detected a large number of manoeuvring objects appearing
+    to descend from low earth orbit
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:7637-7846
+  quote: the USS *Princeton*, an Aegis-class guided missile cruiser, escorting the
+    mighty aircraft carrier the USS *Nimitz*, detected a large number of maneuvering
+    objects that appeared to be descending from low earth orbit.
+  claim_id: a646b948-551d-4ad3-89c6-05ac2c048791
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a646b948-551d-4ad3-89c6-05ac2c048791
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a646b948-551d-4ad3-89c6-05ac2c048791
+- text: Two Nimitz F/A-18s intercepted one object at close quarters in perfect visibility
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:8066-8195
+  quote: two US Navy F/A-18s from the *Nimitz* managed to intercept one of these strange
+    craft at close quarters in conditions of perfect visibility.
+  claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+- text: Before pilots got eyes on it, the strike group had relied solely on electromagnetic
+    systems to track the object
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:3237-3372
+  quote: The carrier strike group had relied solely on electromagnetic systems to
+    track these things. Until then, no one had gotten eyes on the objects.
+  claim_id: 3050c003-ae4e-47a5-b900-c8ec2780ec2a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3050c003-ae4e-47a5-b900-c8ec2780ec2a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3050c003-ae4e-47a5-b900-c8ec2780ec2a
+- text: The object's propulsive performance implied a power output of 1.1 trillion
+    watts
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:2618-2799
+  quote: The Tic Tac encountered by the *Nimitz* Carrier Strike Group exhibited propulsive
+    performance characteristics that imply a propulsion system power generation/output
+    of 1.1 trillion watts.
+  claim_id: 75953436-0b47-4e5c-80ff-d4494203c8bb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-75953436-0b47-4e5c-80ff-d4494203c8bb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-75953436-0b47-4e5c-80ff-d4494203c8bb
+- text: Once Fravor and his wingman returned, the swarm shot back above approximately
+    24,000 metres in a fraction of a second
+  source: In Plain Sight
+  location: ch16:15562-15822
+  quote: Inside the USS Princeton's Combat Information Centre astonished operators
+    watched as, once Fravor and his wingman returned to the USS Nimitz, in a fraction
+    of a second, the swarm of other objects that had descended towards the ocean shot
+    back above 80,000 feet.
+  claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
+- text: Returning pilots received a ribbing from deck crew, some wearing tin-foil
+    hats in jest
+  source: In Plain Sight
+  location: ch16:21796-21972
+  quote: What the returning pilots did get was a good-natured ribbing about their
+    'flying saucer' sighting from the USS *Nimitz*'s deck crew, some of whom were
+    wearing tin-foil hats in jest.
+  claim_id: 4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
+- text: Crewmen aboard the Nimitz and Princeton shared the video via the classified
+    email system
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:14067-14188
+  quote: By then, many crewmen aboard the *Nimitz* and the *Princeton* had shared
+    the video via the government’s classified email system.
+  claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+- text: Two unknown individuals arrived by navy helicopter aboard the Nimitz shortly
+    after the encounter
+  source: In Plain Sight
+  location: ch16:23537-23664
+  quote: Immediately after the incident, two unknown individuals, presumably serving
+    military, arrived by navy helicopter on board the *Nimitz*.
+  claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
+- text: Fravor denied a rumour that personnel arrived by helicopter to confiscate
+    recorded data
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:39:50.2-01:40:00.6
+  quote: there's a story that both on the Nimitz and the Princeton, folks in a helicopter
+    landed, they showed up, they took the data... No, no one came out on a helicopter.
+  claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+- text: Intelligence officers from CVIC came to collect the tapes from Fravor's squadron
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:40:53.0-01:41:03.2
@@ -500,8 +640,8 @@ references:
   claim_id: f87f613a-981a-4d31-8841-ffb841723313
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f87f613a-981a-4d31-8841-ffb841723313
-- text: Fravor personally went to the CVIC to retrieve the tapes, threatening to 'start
-    tearing this place apart' if not returned within 30 seconds.
+- text: Fravor went to CVIC to retrieve the tapes, threatening to tear the place apart
+    if not returned within 30 seconds
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:41:40.6-01:41:45.9
@@ -510,8 +650,8 @@ references:
   claim_id: c55e7764-02d0-4c97-a419-73a5a0817618
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c55e7764-02d0-4c97-a419-73a5a0817618
-- text: For about two days afterwards, the air wing's flight schedule carried joke
-    comics referencing the encounter, naming Fravor and Underwood.
+- text: For about two days, the flight schedule carried joke comics styled after Men
+    in Black naming Fravor and Underwood
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:38:46.8-01:39:00.5
@@ -522,69 +662,8 @@ references:
   claim_id: d124ce50-faac-471e-8c4c-1d2ce787cd5d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d124ce50-faac-471e-8c4c-1d2ce787cd5d
-- text: Two unknown individuals, presumed military, arrived aboard the Nimitz by helicopter
-    immediately after the encounter.
-  source: In Plain Sight
-  location: ch16:23537-23664
-  quote: Immediately after the incident, two unknown individuals, presumably serving
-    military, arrived by navy helicopter on board the *Nimitz*.
-  claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
-- text: Fravor denied rumours that personnel arrived by helicopter aboard the Nimitz
-    and Princeton to confiscate recorded data.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:39:50.2-01:40:00.6
-  quote: there's a story that both on the Nimitz and the Princeton, folks in a helicopter
-    landed, they showed up, they took the data... No, no one came out on a helicopter.
-  claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-- text: Very little follow-up investigation was conducted after the pilots returned
-    to the Nimitz.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:13506-13594
-  quote: Back in 2004, very little follow-up had been conducted when the pilots returned
-    to the *Nimitz*.
-  claim_id: 9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
-- text: Eric Davis's team was responsible for a covert investigation into the incident.
-  source: In Plain Sight
-  location: ch17:11975-12207
-  quote: Former Bigelow NIDS scientist Dr Eric Davis has admitted that his team was
-    responsible for the covert investigation into the 2004 Tic Tac USS Nimitz incident
-    and they too reached a dramatic conclusion as to who or what was behind it.
-  claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
-- text: In August 2017 AATIP released a video of a whitish oval object chased by two
-    Navy F/A-18F jets from the Nimitz off San Diego.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:2946-3146
-  quote: including one released in August of a whitish oval object, about the size
-    of a commercial plane, chased by two Navy F/A-18F fighter jets from the aircraft
-    carrier Nimitz off the coast of San Diego in 2004.
-  claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
-- text: The FLIR1 video is a 76-second recording depicting an egg- or oblong-shaped
-    UAP filmed by a Nimitz pilot in 2004.
-  source: In Plain Sight
-  location: ch21:21129-21279
-  quote: One of those videos was the 76-second so-called FLIR1 video, depicting the
-    Tic Tac, the egg- or oblong-shaped UAP filmed by the USS Nimitz pilot in 2004.
-  claim_id: 44c746c8-143e-402f-83e5-ff7554ccb19c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44c746c8-143e-402f-83e5-ff7554ccb19c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44c746c8-143e-402f-83e5-ff7554ccb19c
-- text: Christian Lambright made a Freedom of Information Act request to the Office
-    of Naval Intelligence seeking records on the encounter.
+- text: In October 2019, Christian Lambright filed a FOIA request with the Office
+    of Naval Intelligence
   source: In Plain Sight
   location: ch22:19078-19280
   quote: In October 2019, researcher Christian Lambright made a Freedom of Information
@@ -594,8 +673,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9303c476-64f9-4867-8047-a925e45064f1
-- text: According to a report published 2020-01-08, ONI admitted holding 'Top Secret'
-    records and a 'Secret' video relating to the incident.
+- text: The Office of Naval Intelligence admitted holding Top Secret records and a
+    Secret video, as reported 2020-01-08
   source: In Plain Sight
   location: ch34:48917-49107
   quote: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records
@@ -605,8 +684,77 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
-- text: Unlike the F/A-18s in the 2004 encounter, the F/A-18s in the 2014-2015 Roosevelt
-    encounters had new AN/APG-79 radar.
+- text: The object was recorded on the pilots' cameras and Princeton's radar, and
+    confirmed anomalous by the US Navy
+  source: The Fourth Mind
+  location: ch21:10431-10681
+  quote: During the 2004 encounter between pilots and personnel of the US aircraft
+    carrier Nimitz, recorded both on the pilot’s cameras and on the radar of one of
+    the carrier’s support ships, the Princeton, and which has been confirmed as anomalous
+    by the US Navy
+  claim_id: 9fc08090-35e4-4082-998a-15869b238440
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9fc08090-35e4-4082-998a-15869b238440
+- text: Fravor sailed aboard the Nimitz as a freshman midshipman after his first year
+    at the Naval Academy
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:18:25.8-00:18:31.4
+  quote: I went out to the Nimitz on my, uh, freshman cruise after your freshman year
+    at the Naval Academy, you go out on a ship
+  claim_id: b8764618-8338-468e-8f0d-af5efcaf7eb3
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8764618-8338-468e-8f0d-af5efcaf7eb3
+- text: He observed VF-41, VF-84 (an F-14 Tomcat squadron) and A-6 Intruder squadrons
+    operating from the carrier
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:19:04.2-00:19:11.8
+  quote: the squadrons that were out there, one of the squadrons was a VF 41 and a
+    14 squadron VF 84, uh, an F 14 squadron, and then a couple of a six squadrons.
+  claim_id: 16508532-224d-4ee0-acba-5a1303e227bf
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-16508532-224d-4ee0-acba-5a1303e227bf
+- text: Time with A-6 Intruder crews led him to decide he wanted to fly from carriers
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:19:12.9-00:19:20.3
+  quote: we actually ended up part pairing up and hanging out with some of the a six
+    pilots and BNs. So it was really a neat experience. And I said, I want to do that.
+  claim_id: 803b745c-063d-4c0d-91f6-8a402fe8cd5b
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-803b745c-063d-4c0d-91f6-8a402fe8cd5b
+- text: By 2004 Fravor commanded the F/A-18 squadron aboard the Nimitz
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:46.6-00:06:49.9
+  quote: commander of the F-18 squadron on the USS Nimitz
+  claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
+- text: VFA-41 was attached to Carrier Air Wing 11 and stationed aboard the Nimitz
+    in 2004
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:444-529
+  quote: We were attached to Carrier Airwing Eleven and stationed onboard the USS
+    Nimitz (CVN-68).
+  claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
+- text: AATIP released a video of the whitish oval object chased by two F/A-18F jets
+    off San Diego in 2004
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:2946-3146
+  quote: including one released in August of a whitish oval object, about the size
+    of a commercial plane, chased by two Navy F/A-18F fighter jets from the aircraft
+    carrier Nimitz off the coast of San Diego in 2004.
+  claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
+- text: Unlike the 2004 Nimitz F/A-18s, jets in the 2014-2015 Roosevelt encounters
+    had new APG-79 radar systems
   source: In Plain Sight
   location: ch22:652-764
   quote: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79
@@ -615,8 +763,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
-- text: Elizondo said the 2015 Roosevelt incursions shared characteristics with the
-    Nimitz encounter as both involved nuclear-powered vessels near water.
+- text: 'Elizondo: the 2015 Roosevelt incursions shared characteristics with 2004,
+    both nuclear-powered vessels near water'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:2114-2300
   quote: 'The situation had all the hallmarks of the Nimitz/Princeton case back in
@@ -626,8 +774,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
-- text: Elizondo said Roosevelt personnel reported the UAP displayed the same abilities
-    that astonished the Nimitz and Princeton crews a decade earlier.
+- text: 'Elizondo: Roosevelt crews reported the same abilities that astonished Nimitz
+    and Princeton crews a decade earlier'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:2553-2665
   quote: The crew reported the UAP displayed the same abilities that dazzled the Nimitz
@@ -636,8 +784,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
-- text: Pais's spacecraft patent application was filed in April 2016, twelve years
-    after the Nimitz tracked and videoed the object.
+- text: Pais's patent application was filed in April 2016, 12 years after the Nimitz
+    pilots tracked and videoed the object
   source: In Plain Sight
   location: ch28:3496-3707
   quote: it means the US Navy officially claims to be developing an anti-gravity craft,
@@ -647,31 +795,77 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b18de831-3244-4834-8ab2-fcf002ee7274
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b18de831-3244-4834-8ab2-fcf002ee7274
+- text: Eric Davis's team was responsible for a covert investigation into the incident
+  source: In Plain Sight
+  location: ch17:11975-12207
+  quote: Former Bigelow NIDS scientist Dr Eric Davis has admitted that his team was
+    responsible for the covert investigation into the 2004 Tic Tac USS Nimitz incident
+    and they too reached a dramatic conclusion as to who or what was behind it.
+  claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
+- text: 'Mellon: he does not consider the object to have been an experimental US aircraft'
+  source: In Plain Sight
+  location: ch21:3329-3394
+  quote: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon
+    asked.'
+  claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+- text: 'Mellon: the events of 2004-11-14 can be verified by the US government itself'
+  source: In Plain Sight
+  location: ch21:3553-3656
+  quote: Better yet the US government itself can verify the events involving the USS
+    *Nimitz* on November 14th, 2004.
+  claim_id: 070c8c4c-cf19-40c0-8322-ebc21391d95b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
+- text: 'Mellon: both F/A-18s returned to the Nimitz due to safety concerns and low
+    fuel'
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:14:58.9-00:15:02.4
+  quote: Fearful for their safety and running low on fuel, both F-18s return to the
+    Nimitz.
+  claim_id: 2afc992e-1d27-4172-8046-6a8f00560f7e
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-2afc992e-1d27-4172-8046-6a8f00560f7e
+- text: 'Mellon: the object remained in the vicinity for hours, monitored by Princeton
+    and an E-2 Hawkeye'
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:15:03.6-00:15:12.8
+  quote: Yet the strange object remains in the vicinity of the Nimitz for hours, monitored
+    by the USS Princeton and radar aboard a Navy E-2 Hawkeye aircraft.
+  claim_id: f190b1ec-1ef2-4f10-aea9-d8d8618a5904
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f190b1ec-1ef2-4f10-aea9-d8d8618a5904
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 365195ed63541a20124c6fd3eb74fcd5c0863d20965001c479ef6199992f19f8
+  prompt_sha256: d12cbd4008ad7c237c4163123c9d1069fffd7719bc08d53773338e7705ce8603
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 78008
-    output: 53929
+    input: 78143
+    output: 45967
     real_input: 2
-    cache_read: 39244
-    cache_write: 38762
+    cache_read: 39325
+    cache_write: 38816
     calls: 0
-  body_sha256: 28294f9842dd86871043ef4e852f937bf600148f50eef6c715b24cd18e5db292
+  body_sha256: 8f6f8d1f7afc7d804eb277d336d9274d80007f2a9c6233184aeed1f21b9a3683
 ---
 
-USS Nimitz (CVN-68) is a nuclear-powered aircraft carrier, the lead vessel of the carrier strike group involved in the encounter of 2004-11-14 described below.<sup>1</sup> The ship comprises approximately 1.8 hectares of sovereign United States territory that moves around the world's oceans.<sup>2</sup> It is a warship worth approximately five billion US dollars with a crew of thousands,<sup>3</sup> and [Christopher K. Mellon](/people/christopher-k-mellon) has said it is one of the premier assets in the United States Navy.<sup>4</sup> Although the ship carries defensive weapons of its own, its embarked air wing constitutes its primary weapons capability.<sup>5</sup>
+The USS Nimitz (CVN-68) is a nuclear-powered aircraft carrier and the lead vessel of the carrier strike group involved in the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter).<sup>1</sup> It has been described as comprising approximately 1.8 hectares of sovereign United States territory that moves around the world's oceans,<sup>2</sup> a warship worth approximately five billion US dollars with a crew of thousands.<sup>3</sup> Christopher K. Mellon has called it one of the premier assets in the [United States Navy (USN)](/organisations/united-states-navy-usn).<sup>4</sup> Its air wing constitutes the ship's primary weapons capability, though it also carries defensive weapons of its own.<sup>5</sup> According to the Nimitz Carrier Strike Group (CSG-11) AAV Incident Report, the USS Nimitz was home to Carrier Air Wing 11 (CVW-11),<sup>6</sup> and the same report records that Carrier Strike Group 11 (CSG-11) was comprised of USS Nimitz, [USS Princeton (CG-59)](/objects/uss-princeton-cg-59), USS Chafee (DDG-90), USS Higgins (DDG-76), and USS Louisville (SSN-724).<sup>7</sup>
 
-[David Fravor](/people/david-fravor) first served aboard the Nimitz on his freshman midshipman cruise, taken after his first year at the United States Naval Academy.<sup>6</sup> During that cruise he observed Fighter Squadron 41 and Fighter Squadron 84, an F-14 Tomcat squadron, together with A-6 Intruder squadrons operating from the carrier,<sup>7</sup> and time spent with A-6 Intruder pilots and bombardier navigators led him to decide that he wanted to fly from aircraft carriers.<sup>8</sup> According to the Nimitz Carrier Strike Group (CSG-11) AAV Incident Report, the Nimitz was home to Carrier Air Wing 11 (CVW-11).<sup>9</sup>
+In November 2004, the strike group was training approximately 160 kilometres southwest of [USA, California, San Diego](/places/california-san-diego-usa),<sup>8</sup> performing drills off the Southern Californian coastline ahead of a deployment to the Persian Gulf.<sup>9</sup> The carrier group had begun a two-month workup cycle off the coast of California<sup>10</sup> in preparation for a combat deployment to the Persian Gulf to support ground forces in Iraq,<sup>11</sup> with the at-sea period scheduled to run from early November to late December 2004.<sup>12</sup> On 2004-11-14, the ship was undergoing preparatory training with other vessels in its strike group ahead of deploying to the Middle East,<sup>13</sup> and a huge stretch of ocean and sky had been closed for the exercise.<sup>14</sup> Within a few hours of the first radar contacts that day, the Nimitz planned to launch as many as 30 aircraft, with further aircraft scheduled to join from San Diego.<sup>15</sup>
 
-In 2004 the Nimitz carrier group began a two-month workup cycle off the coast of California,<sup>10</sup> preparing for a combat deployment to the Persian Gulf to support ground forces in Iraq;<sup>11</sup> the at-sea period was scheduled to run from early November to late December 2004.<sup>12</sup> [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41) was attached to Carrier Air Wing 11 and stationed aboard the Nimitz.<sup>13</sup> By November 2004 the strike group was training approximately 160 kilometres southwest of [California San Diego](/places/california-san-diego-usa).<sup>14</sup> According to the Incident Report, Carrier Strike Group 11 (CSG-11) comprised the Nimitz, the [USS Princeton (CG-59)](/objects/uss-princeton-cg-59), USS Chafee, USS Higgins, and the USS Louisville (SSN-724);<sup>15</sup> the Louisville was operating in the vicinity of the Nimitz during the detection and intercept of the [Anomalous Aerial Vehicle (AAV)](/topics/anomalous-aerial-vehicle-aav) described below.<sup>16</sup> It was the Princeton, not the Nimitz itself, that provided air defence protection during the encounter, using its then brand-new SPY-1 Aegis radar system.<sup>17</sup>
+That morning, the Commanding Officer of [Marine Fighter Attack Squadron 232 (VMFA-232)](/organisations/marine-fighter-attack-squadron-232-vmfa-232) launched from the Nimitz at approximately 1030 local time in a single-seat [F/A-18](/objects/fa-18)C to conduct a Functional Check Flight,<sup>16</sup> recovering aboard at approximately 1200.<sup>17</sup> Separately, [David Fravor](/people/david-fravor)'s F/A-18F flight launched without issue and departed the carrier for the working area.<sup>18</sup> As his flight checked in with the air controller aboard the Princeton, they were told the exercise was being suspended for real-world tasking and were directed toward a contact west of their Combat Air Patrol point.<sup>19</sup> [Kevin Day](/people/kevin-day) recommended to the Nimitz's captain that aircraft be sent to investigate the swarm of unidentified objects, and the captain concurred.<sup>20</sup> Douglas Kurth, an FA-18 jet pilot, was the first witness to arrive,<sup>21</sup> reaching the intercept point roughly 100 kilometres southwest of the Nimitz but finding only a circular disturbance on the ocean surface some 50-100 metres across.<sup>22</sup> His weapons systems officer, Jim Slaight, initially suspected the disturbance was a submarine taking part in the exercise, but this was later ruled out by the Nimitz's intelligence officer during a post-flight debriefing.<sup>23</sup> Fravor's flight then rejoined and returned to the carrier,<sup>24</sup> meeting [Chad Underwood](/people/chad-underwood)'s flight in the paraloft aboard the Nimitz to pass on what they had seen.<sup>25</sup>
 
-On the morning of 2004-11-14, while the strike group performed drills off the Southern Californian coastline ahead of the Persian Gulf deployment,<sup>18</sup> the Commanding Officer of [Marine Fighter Attack Squadron 232 (VMFA-232)](/organisations/marine-fighter-attack-squadron-232-vmfa-232) launched from the Nimitz at approximately 1030 local time in a single-seat F/A-18C,<sup>19</sup> recovering aboard the Nimitz at approximately 1200 local time the same day.<sup>20</sup> Separately, [Kevin Day](/people/kevin-day) recommended that aircraft be sent to investigate a swarm of unidentified objects, and the recommendation was accepted.<sup>21</sup> The Nimitz sent up an E-2 Hawkeye airborne early-warning aircraft, which detected the closest of the objects on its own radar,<sup>22</sup> and Day confirmed that the Nimitz's radar was tracking the same cluster of 14 unidentified objects as the Princeton's radar.<sup>23</sup> Douglas Kurth was the first witness to the encounter, as an FA-18 pilot,<sup>24</sup> arriving at the intercept point approximately 100 kilometres southwest of the Nimitz but finding only a circular disturbance on the ocean surface, 50 to 100 metres across.<sup>25</sup> Fravor's flight, tasked from Strike Fighter Squadron 41, then launched and, after checking in with the air controller aboard the Princeton, was told the training exercise was being suspended for real-world tasking and directed toward a contact to the west of their Combat Air Patrol (CAP) point.<sup>26</sup> Two [United States Navy (USN)](/organisations/united-states-navy-usn) [F/A-18](/objects/fa-18)s from the Nimitz intercepted one of the objects at close quarters in conditions of perfect visibility.<sup>27</sup> The full course of the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) that followed is described separately; Fravor's flight subsequently rejoined and returned to the Nimitz.<sup>28</sup> [Chad Underwood](/people/chad-underwood)'s section then launched, its jet fitted with an Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod,<sup>29</sup> and after completing the training portion of the flight returned to the carrier for a normal approach, landing, and shutdown,<sup>30</sup> before debriefing in the Carrier Intelligence Center (CVIC).<sup>31</sup>
+Underwood's section, one jet fitted with an Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod, launched next.<sup>26</sup> The flight climbed to altitude and separated to begin its own portion of the exercise,<sup>27</sup> before returning to the Nimitz for a normal approach, landing and shutdown,<sup>28</sup> after which the crew met and debriefed in the Carrier Intelligence Center (CVIC) aboard ship.<sup>29</sup> According to In Plain Sight, the resulting FLIR1 video was downloaded once Underwood returned, and conspiracy theories circulated among crewmen who saw it while the Nimitz was still at sea.<sup>30</sup> That footage is a 76-second recording depicting an egg- or oblong-shaped unidentified aerial phenomenon.<sup>31</sup> Fravor described the object on camera as a white, Tic Tac-shaped craft roughly 12 metres long, with no wings, manoeuvring in ways he had never thought possible.<sup>32</sup> No further jets from the Nimitz were sent up to engage it,<sup>33</sup> and very little follow-up investigation was conducted after the pilots returned to the carrier.<sup>34</sup> Day confirmed that the Nimitz's own radar had been tracking the same cluster of 14 unidentified objects as the Princeton's radar,<sup>35</sup> and the Nimitz separately launched an E-2 Hawkeye airborne early-warning aircraft, which detected the closest object on its own radar.<sup>36</sup> It was the Princeton, not the Nimitz itself, that was providing air defence using its then-new SPY-1 Aegis radar system,<sup>37</sup> while USS Louisville operated in the vicinity as part of CSG-11 during the detection and intercept of the [Anomalous Aerial Vehicle (AAV)](/topics/anomalous-aerial-vehicle-aav).<sup>38</sup> The Princeton's radar had detected a large number of manoeuvring objects that appeared to be descending from low earth orbit,<sup>39</sup> and two Nimitz F/A-18s intercepted one of them at close quarters in conditions of perfect visibility.<sup>40</sup> Before pilots got eyes on the object, the strike group had relied solely on electromagnetic systems to track it,<sup>41</sup> and its propulsive performance was later assessed as implying a propulsion system power output of 1.1 trillion watts.<sup>42</sup> Once Fravor and his wingman had returned to the carrier, the swarm of objects that had descended toward the ocean shot back above approximately 24,000 metres in a fraction of a second.<sup>43</sup>
 
-After returning to the Nimitz, Fravor mentioned what his flight had witnessed to a crew that was preparing to launch,<sup>32</sup> and his flight later met Underwood's flight in the paraloft aboard the Nimitz to pass on what they had seen.<sup>33</sup> Intelligence officers from the CVIC came to collect the tapes related to the encounter from Fravor's squadron,<sup>34</sup> and Fravor personally went to the CVIC to retrieve them, threatening to "start tearing this place apart" if the tapes were not returned to him within 30 seconds.<sup>35</sup> For about two days afterwards, the air wing's flight schedule featured joke comics on its back page referencing the encounter, styled after Men in Black and naming Fravor and Underwood as protecting the Nimitz battle group.<sup>36</sup> Accounts of what happened next diverge: according to the book In Plain Sight, two unknown individuals, presumed to be military personnel, arrived aboard the Nimitz by helicopter immediately after the encounter,<sup>37</sup> whereas Fravor has denied rumours that personnel arrived by helicopter aboard the Nimitz and the Princeton to confiscate recorded data related to it.<sup>38</sup> Very little follow-up investigation was conducted after the pilots returned to the Nimitz.<sup>39</sup>
+The returning pilots received a good-natured ribbing about their "flying saucer" sighting from the Nimitz's deck crew, some of whom wore tin-foil hats in jest.<sup>44</sup> Crewmen aboard the Nimitz and the Princeton shared the Tic Tac video via the government's classified email system in the days that followed.<sup>45</sup> Two unknown individuals, presumably serving military, arrived by navy helicopter aboard the Nimitz shortly after the encounter,<sup>46</sup> though Fravor has denied a separate rumour that unidentified personnel arrived by helicopter aboard the Nimitz and the Princeton specifically to confiscate recorded data.<sup>47</sup> Intelligence officers from the CVIC did come to collect the tapes from Fravor's squadron,<sup>48</sup> and Fravor has said he personally went to the CVIC to retrieve them, threatening to "start tearing this place apart" if they were not returned within 30 seconds.<sup>49</sup> For about two days afterwards, the air wing's flight schedule carried joke comics styled after Men in Black, naming Fravor and Underwood as protecting the battle group.<sup>50</sup> In October 2019, researcher Christian Lambright filed a Freedom of Information Act request with the US Navy's [Office of Naval Intelligence](/organisations/office-of-naval-intelligence) (ONI) seeking records relating to the encounter.<sup>51</sup> According to In Plain Sight, the ONI subsequently admitted, as reported on 2020-01-08, to holding Top Secret records and a Secret video relating to the incident.<sup>52</sup> According to The Fourth Mind, the object was recorded on the pilots' cameras and on the Princeton's radar, and the event has been confirmed as anomalous by the US Navy.<sup>53</sup>
 
-[Eric Davis](/people/eric-davis)'s team was responsible for a covert investigation into the incident.<sup>40</sup> In August 2017 the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip) released a video of a whitish oval object, about the size of a commercial plane, chased by two Navy F/A-18F fighter jets from the Nimitz off the coast of San Diego.<sup>41</sup> The FLIR1 video is a 76-second recording depicting an egg- or oblong-shaped unidentified aerial phenomenon filmed by a Nimitz pilot in 2004.<sup>42</sup> In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the [Office of Naval Intelligence](/organisations/office-of-naval-intelligence) seeking records relating to the encounter;<sup>43</sup> according to a report published on 2020-01-08, the Office of Naval Intelligence admitted to holding "Top Secret" records and a "Secret" video relating to the incident.<sup>44</sup> Unlike the F/A-18 fighters involved in the 2004 encounter, the F/A-18 jets involved in the [2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters](/events/2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters) aboard the USS Roosevelt had new advanced AN/APG-79 Radar electronic beam scanning systems.<sup>45</sup> Luis Elizondo has said that the 2015 USS Roosevelt UAP incursions shared characteristics with the Nimitz encounter, as both were nuclear-powered vessels involved in incidents near water,<sup>46</sup> and that pilots and radar operators aboard the Roosevelt reported that the UAP they observed displayed the same abilities that had astonished the Nimitz and Princeton crews a decade earlier.<sup>47</sup> Salvatore Pais's spacecraft patent application, connected to the 2016-04 Salvatore Pais gravity wave spacecraft patent application, was filed in April 2016, twelve years after the Nimitz and its pilots tracked and videoed the object off the west coast.<sup>48</sup>
+Fravor's association with the Nimitz predated 2004: he sailed aboard the ship as a freshman midshipman after his first year at the United States Naval Academy,<sup>54</sup> observing Fighter Squadron 41, Fighter Squadron 84 - an F-14 Tomcat squadron - and A-6 Intruder squadrons operating from the carrier.<sup>55</sup> Time spent with the A-6 Intruder crews during that cruise led him to decide he wanted to fly from aircraft carriers himself.<sup>56</sup> By 2004 he commanded the F/A-18 squadron aboard the Nimitz,<sup>57</sup> [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), which was attached to Carrier Air Wing 11 and stationed aboard the ship.<sup>58</sup> In August 2017, the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) released a video of a whitish oval object, about the size of a commercial plane, chased by two Navy FA-18 Super Hornet fighter jets from the Nimitz off the coast of San Diego in 2004.<sup>59</sup> Unlike the F/A-18s involved in the 2004 encounter, the jets involved in the [2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters](/events/2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters) aboard USS Roosevelt had new AN/APG-79 Radar systems.<sup>60</sup> Luis Elizondo has said the 2015 Roosevelt incursions shared characteristics with the 2004 Nimitz encounter, noting both ships were nuclear-powered vessels involved in incidents near water,<sup>61</sup> and that pilots and radar operators aboard the Roosevelt reported the same abilities that had astonished the Nimitz and Princeton crews a decade earlier.<sup>62</sup> Salvatore Pais's gravity wave spacecraft patent application was filed in April 2016, 12 years after the Nimitz and its pilots tracked and videoed the object.<sup>63</sup> [Eric Davis](/people/eric-davis)'s team was later responsible for a covert investigation into the incident.<sup>64</sup> Mellon has said he does not consider the object encountered to have been an experimental US aircraft,<sup>65</sup> and that the events of 2004-11-14 can be verified by the US government itself.<sup>66</sup> He has also said both F/A-18s returned to the Nimitz due to safety concerns and low fuel,<sup>67</sup> and that the object remained in the vicinity of the ship for hours, monitored by the Princeton and by radar aboard a Navy E-2 Hawkeye aircraft.<sup>68</sup>
