@@ -1,12 +1,16 @@
 ---
 title: The Pentagon
-description: The Pentagon is the vast headquarters building of the United States Department
-  of Defense, and the base from which the Advanced Aerospace Threat Identification
-  Program investigated unidentified anomalous phenomena.
+aliases:
+- /organisations/pentagon/
+- /en/organisations/pentagon/
+description: The Pentagon is the headquarters of the United States Department of Defense
+  in Arlington, Virginia, and the building from which the Advanced Aerospace Threat
+  Identification Program investigated unidentified aerial phenomena from the mid-2000s
+  onward.
 metadata:
-  founded: World War II, by the United States Department of War
-  size: Approximately 604,000 square metres
-  workforce: Approximately 22,000 people
+  type: Military headquarters
+  headquartered: Arlington, Virginia, United States
+  parent_organisation: United States Department of Defense (DoD)
 built_from:
   brief_hash: 53bcf621820121cb80505de3ca32823dbe9b06f02774b690dcb8f8cb5f83ddf9
   claims:
@@ -93,27 +97,7 @@ built_from:
   - id: 4f6bbac8-20d4-4ff9-99cd-924830d82589
     hash: 6949f2e640b38aaa0e9cf04d11f5a5d800e781cd1ae9e20d79bd444e399a5410
 references:
-- text: The Pentagon covers approximately 604,000 square metres and was until recently
-    the largest office building in the world.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch17:238-322
-  quote: At 6.5 million square feet, this was the largest office building in the world
-    until recently.
-  claim_id: ce6300dd-5b77-4d41-8f6d-58429dc10171
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
-- text: Approximately twenty-two thousand people work in the Pentagon.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch17:332-408
-  quote: Twenty-two thousand people work there, the population of a large university
-    campus.
-  claim_id: a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
-- text: The United States Department of War constructed the Pentagon at the beginning
-    of World War II.
+- text: Built by the United States Department of War at the outset of World War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:417-497
   quote: The US Department of War constructed the building at the beginning of World
@@ -122,8 +106,27 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-67c9f2d3-4014-4e69-b97f-03236794c497
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-67c9f2d3-4014-4e69-b97f-03236794c497
-- text: The Pentagon has eleven corridors arranged like spokes, so any location is
-    reachable on foot in five minutes.
+- text: Covers approximately 604,000 square metres, until recently the largest office
+    building in the world
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch17:238-322
+  quote: At 6.5 million square feet, this was the largest office building in the world
+    until recently.
+  claim_id: ce6300dd-5b77-4d41-8f6d-58429dc10171
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
+- text: Approximately twenty-two thousand people work in the Pentagon
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch17:332-408
+  quote: Twenty-two thousand people work there, the population of a large university
+    campus.
+  claim_id: a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
+- text: Eleven corridors arranged like spokes of a wheel, any location reachable on
+    foot in five minutes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:605-712
   quote: it has eleven corridors arranged like the spokes of a wheel, so you can reach
@@ -132,8 +135,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-599150e2-22a7-43d5-b01b-f13635ca0df3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-599150e2-22a7-43d5-b01b-f13635ca0df3
-- text: The central courtyard is large enough to fit the US Capitol building with
-    room to run laps.
+- text: Central courtyard large enough to fit the US Capitol with room to run laps
+    around it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1030-1180
   quote: The central courtyard is so big that you can fit the US Capitol building
@@ -142,8 +145,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dc584512-c483-4cb9-ba69-42fb1cc49a35
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dc584512-c483-4cb9-ba69-42fb1cc49a35
-- text: At the end of the Cold War the DoD found the Soviet Union had targeted a small
-    courtyard structure as a nuclear war objective.
+- text: DoD discovered the Soviet Union had targeted a courtyard structure as a nuclear
+    war objective
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1191-1438
   quote: A nugget of trivia I always found humorous occurred at the end of the Cold
@@ -154,8 +157,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
-- text: The Soviets believed, from satellite photography, that the object was an elevator
-    to a secret bunker.
+- text: Soviets believed the structure was an elevator to a secret underground bunker
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1503-1639
   quote: the image showed an object at the center of the courtyard that for decades
@@ -164,7 +166,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01594bb9-5257-4ef9-805b-04a3e975c25b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-01594bb9-5257-4ef9-805b-04a3e975c25b
-- text: After the Berlin Wall fell it was discovered the object was a hot dog stand.
+- text: After the Berlin Wall fell, it was determined to be a hot dog stand
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1799-1885
   quote: The dot in the middle of the satellite imagery was nothing more than a humble
@@ -173,8 +175,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-92ef3c56-40db-4fda-9320-664c4000eff7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-92ef3c56-40db-4fda-9320-664c4000eff7
-- text: In 1967 the University of Colorado UFO Project began spending Pentagon money
-    given to Edward Condon.
+- text: In 1967 the Pentagon funded Edward Condon's University of Colorado UFO Project
+    with 512,000 US dollars
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:10146-10295
   quote: In 1967, as the University of Colorado began spending the $512,000 given
@@ -182,8 +184,8 @@ references:
   claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-18e7f387-896e-43d7-8305-214c6e8f1c99
-- text: Major Murphy said Doolittle's 1946 Sweden investigation conclusions have never
-    been revealed.
+- text: Major Murphy says Doolittle's 1946 Sweden investigation conclusions have never
+    been revealed
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:54252-54376
   quote: '"His conclusions have never been revealed," answered Major Murphy with a
@@ -191,8 +193,8 @@ references:
   claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-205b7915-e34b-42a4-b68b-546fdd0bf778
-- text: A 1976 Komsomolskaya Pravda article implied UFO stories were manipulated by
-    the Pentagon.
+- text: 1976 Komsomolskaya Pravda article implied UFO believers were manipulated by
+    the Pentagon
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:8618-8837
   quote: In 1976, an article in the youth newspaper Komsomolskaya Pravda, by writer
@@ -201,8 +203,8 @@ references:
   claim_id: e1de3359-7261-4a15-9976-d60bd3c565fc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1de3359-7261-4a15-9976-d60bd3c565fc
-- text: Vallée considers FOIA lawsuits against the government may serve the phenomenon's
-    manipulators.
+- text: 'Vallée: FOIA lawsuits against the government may serve the phenomenon''s
+    manipulators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:16085-16234
   quote: But the UFO enthusiasts who are so anxious to "expose" the government have
@@ -210,16 +212,7 @@ references:
   claim_id: b7309023-4006-45e4-9837-ba64dde969df
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7309023-4006-45e4-9837-ba64dde969df
-- text: The Pentagon wanted AATIP's funding hard to find within the DoD budget.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:499-518
-  quote: Which was how the Pentagon wanted it.
-  claim_id: ca009abc-6bac-44bb-9218-299ce16cf0ff
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ca009abc-6bac-44bb-9218-299ce16cf0ff
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ca009abc-6bac-44bb-9218-299ce16cf0ff
-- text: AATIP was run by Luis Elizondo on the fifth floor of the Pentagon's C Ring.
+- text: AATIP was run by Luis Elizondo from the fifth floor of the Pentagon's C Ring
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:865-1000
@@ -229,49 +222,17 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
-- text: Pentagon officials acknowledged AATIP's existence to the New York Times in
-    December 2017.
+- text: AATIP's funding was kept difficult to find within the DoD budget
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
-  location: char:5026-5188
-  quote: In response to questions from The Times, Pentagon officials this month acknowledged
-    the existence of the program, which began as part of the Defense Intelligence
-    Agency.
-  claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
+  location: char:499-518
+  quote: Which was how the Pentagon wanted it.
+  claim_id: ca009abc-6bac-44bb-9218-299ce16cf0ff
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
-- text: Officials insisted AATIP had ended after five years, in 2012.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:5196-5262
-  quote: Officials insisted that the effort had ended after five years, in 2012.
-  claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
-- text: Spokesman Thomas Crosson said other priorities merited the funding change.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:5270-5505
-  quote: “It was determined that there were other, higher priority issues that merited
-    funding, and it was in the best interest of the DoD to make a change,” a Pentagon
-    spokesman, Thomas Crosson, said in an email, referring to the Department of Defense.
-  claim_id: 55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
-- text: Backers say AATIP remains in existence despite the 2012 funding end.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: para 4
-  quote: But its backers say that, while the Pentagon ended funding for the effort
-    at that time, the program remains in existence.
-  claim_id: f30963ca-3688-43c7-a116-9240d6480a50
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f30963ca-3688-43c7-a116-9240d6480a50
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-f30963ca-3688-43c7-a116-9240d6480a50
-- text: The 2009 AATIP briefing summary said 'science fiction is now science fact'.
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ca009abc-6bac-44bb-9218-299ce16cf0ff
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ca009abc-6bac-44bb-9218-299ce16cf0ff
+- text: '2009 briefing summary: ''science fiction is now science fact'', US unable
+    to defend against some technologies found'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:11683-11935
@@ -283,7 +244,50 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f0561d20-d166-4d65-8b3f-923674e03047
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-f0561d20-d166-4d65-8b3f-923674e03047
-- text: Harry Reid's 'black money' quote about the classified Pentagon budget.
+- text: Pentagon officials acknowledged AATIP's existence to the New York Times in
+    December 2017, begun under the DIA
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:5026-5188
+  quote: In response to questions from The Times, Pentagon officials this month acknowledged
+    the existence of the program, which began as part of the Defense Intelligence
+    Agency.
+  claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+- text: Pentagon officials said AATIP ended after five years, in 2012
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:5196-5262
+  quote: Officials insisted that the effort had ended after five years, in 2012.
+  claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
+- text: 'Thomas Crosson: other higher-priority issues merited funding instead'
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:5270-5505
+  quote: “It was determined that there were other, higher priority issues that merited
+    funding, and it was in the best interest of the DoD to make a change,” a Pentagon
+    spokesman, Thomas Crosson, said in an email, referring to the Department of Defense.
+  claim_id: 55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
+- text: AATIP backers said the programme continued despite the 2012 funding end
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: para 4
+  quote: But its backers say that, while the Pentagon ended funding for the effort
+    at that time, the program remains in existence.
+  claim_id: f30963ca-3688-43c7-a116-9240d6480a50
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f30963ca-3688-43c7-a116-9240d6480a50
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-f30963ca-3688-43c7-a116-9240d6480a50
+- text: 'Harry Reid on ''black money'': Stevens and Inouye knew, ''that''s how we
+    wanted it'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:8782-8980
@@ -294,7 +298,17 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-- text: Elizondo worked from the Pentagon until resigning in October 2017.
+- text: The Pentagon publicly denied spending money on psychic research
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:07:09.2-00:07:12.8
+  quote: despite public denials from the Pentagon about spending money on psychic
+    research
+  claim_id: 9bf9feab-4dfe-4a49-8019-7a96400ec873
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
+- text: Elizondo resigned in October 2017, protesting excessive secrecy and internal
+    opposition
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:5731-5888
@@ -305,7 +319,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-- text: Elizondo's River Entrance parking spot sat alongside senior Pentagon leadership.
+- text: Elizondo's parking spot at the River Entrance, alongside the Joint Chiefs
+    chairman and Secretary of Defense
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1936-2167
   quote: I was assigned a parking spot along the coveted River Entrance, alongside
@@ -316,16 +331,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-18fc8638-0404-4146-b35c-cb8317742af0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-18fc8638-0404-4146-b35c-cb8317742af0
-- text: In February 2012 tragedy struck the Elizondo family during a Pentagon tour.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch17:19782-19912
-  quote: Another tragedy befell our family months later, in February 2012. I was giving
-    a tour of the Pentagon to a Japanese delegation of VIPs.
-  claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
-- text: Elizondo was often asked to give personal Pentagon tours off the normal route.
+- text: Elizondo often gave personal tours to areas outside the standard Pentagon
+    tour
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:19983-20090
   quote: as often asked to give personal tours since I took visitors to areas that
@@ -334,7 +341,17 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-008a9ca0-1315-4ac5-bf09-32510257f504
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-008a9ca0-1315-4ac5-bf09-32510257f504
-- text: Elizondo was an hour and a half away at the Pentagon when Jennifer was hit.
+- text: In February 2012 Elizondo was giving a tour to a Japanese VIP delegation
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch17:19782-19912
+  quote: Another tragedy befell our family months later, in February 2012. I was giving
+    a tour of the Pentagon to a Japanese delegation of VIPs.
+  claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
+- text: Elizondo was an hour and a half away at the Pentagon when Jennifer was hit
+    by a vehicle
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:21277-21359
   quote: Now she lay in the back of an ambulance and I was an hour and a half away,
@@ -343,7 +360,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-266ff356-ebe8-4c72-b2d1-007bc00af5af
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-266ff356-ebe8-4c72-b2d1-007bc00af5af
-- text: The Pentagon job began a period of stability after years as military nomads.
+- text: The Pentagon posting brought a period of stability after years as military
+    nomads
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:29157-29336
   quote: In our youth, Jenn and I had been military nomads, traveling wherever in
@@ -353,7 +371,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1edefc25-ff16-4b90-967c-b0539f42faf7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1edefc25-ff16-4b90-967c-b0539f42faf7
-- text: James Mattis accepted Secretary of Defense in the incoming Trump administration.
+- text: James Mattis accepted Secretary of Defense in the incoming Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:21603-21740
   quote: I was working in the Pentagon building with Mad Dog himself, who had accepted
@@ -362,7 +380,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-- text: Puthoff suggested Stratton meet Semivan at the Pentagon.
+- text: Puthoff suggested to Stratton that they meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
   quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
@@ -370,7 +388,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
-- text: Semivan had heard rumblings of a real UAP programme run out of the Pentagon.
+- text: 'Elizondo: Semivan had heard rumblings of a real UAP programme run out of
+    the Pentagon'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27396-27512
   quote: He had heard rumblings of a real UAP program being run out of the Pentagon,
@@ -379,7 +398,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
-- text: Elizondo called Bender a shrewd reporter who knew the Pentagon well.
+- text: Elizondo considered Bender a shrewd reporter who knew the Pentagon's workings
+    well
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:20417-20524
   quote: He was a very shrewd reporter who knew the ins and outs of the Pentagon better
@@ -388,7 +408,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-097c2173-2164-4fa4-a132-75bec74e479f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-097c2173-2164-4fa4-a132-75bec74e479f
-- text: Bender seemed interested in an undisclosed Pentagon UAP programme, not belief.
+- text: 'Elizondo: Bender seemed interested in an undisclosed Pentagon programme,
+    not in believing'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:21100-21304
   quote: Bryan didn't come across as a "UAP believer." Rather, he seemed interested
@@ -398,8 +419,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fb5f84b-2e87-4e83-98d3-30699c510c71
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fb5f84b-2e87-4e83-98d3-30699c510c71
-- text: The Politico article had Pentagon spokesperson Dana White confirm Elizondo's
-    role.
+- text: 'Politico article: Pentagon spokesperson Dana White confirmed Elizondo''s
+    AATIP role'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:23060-23182
   quote: The Politico piece in particular spelled out that the Pentagon's spokesperson,
@@ -408,8 +429,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
-- text: Clapper told Elizondo he was surprised and proud the Pentagon admitted the
-    programme.
+- text: Clapper told Elizondo he was surprised the Pentagon admitted the programme
+    and was proud of him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25579-25703
   quote: He greeted us warmly, saying how surprised he was that the Pentagon admitted
@@ -418,7 +439,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
-- text: Elizondo says OUSDI authorised deletion of his Pentagon files via a FOIA response.
+- text: OUSDI authorised deletion of Elizondo's files, per a Pentagon FOIA response
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:27894-28163
   quote: Sometime shortly thereafter, someone in OUSD(I) allegedly authorized the
@@ -429,18 +450,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10e36531-a250-4832-9d33-d971309aa8db
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10e36531-a250-4832-9d33-d971309aa8db
-- text: A Pentagon spokesperson confirmed Elizondo advises the Space Force on classified
-    topics.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:41447-41577
-  quote: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical
-    advice on a variety of classified topics for the US Space Force.”'
-  claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-547e4e1a-db91-4538-8afb-80d259c1a735
-- text: The 2022 hearing revealed the Pentagon was unaware of UAP incursions near
-    nuclear sites.
+- text: May 2022 hearing revealed the Pentagon was unaware of UAP incursions near
+    nuclear facilities, ICBMs taken offline
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34352-34647
   quote: Another shocking admission which completely took me by surprise was that
@@ -451,7 +462,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a274584d-4cdd-4515-a79c-68649db65e3a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a274584d-4cdd-4515-a79c-68649db65e3a
-- text: Elizondo believes a records review would have shown prior reports on the incursions.
+- text: 'Elizondo: a records review would have found the Pentagon''s own prior reports'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34656-34797
   quote: Had the Pentagon done even a cursory review of its own records, it would
@@ -460,8 +471,18 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-96724a0b-4cd7-444c-84e6-77bf212d9003
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-96724a0b-4cd7-444c-84e6-77bf212d9003
-- text: Elizondo testified several agencies including the Pentagon share UAP responsibility,
-    none in charge.
+- text: 'Elizondo: Pentagon spokesperson confirmed his advisory role for the Space
+    Force'
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:41447-41577
+  quote: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical
+    advice on a variety of classified topics for the US Space Force.”'
+  claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-547e4e1a-db91-4538-8afb-80d259c1a735
+- text: 'Elizondo: the White House, CIA, NASA, Pentagon and DOE all play a role, no
+    single entity in charge'
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
   location: char:3537-3725
@@ -472,17 +493,7 @@ references:
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-- text: The Pentagon publicly denied spending money on psychic research.
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:07:09.2-00:07:12.8
-  quote: despite public denials from the Pentagon about spending money on psychic
-    research
-  claim_id: 9bf9feab-4dfe-4a49-8019-7a96400ec873
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
-- text: Coulthart said a Pentagon briefing slide described the phenomenon manipulating
-    perception.
+- text: 'Coulthart: a briefing slide says the phenomenon can manipulate human perception'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:28:56.9-00:29:11.9
@@ -492,41 +503,31 @@ references:
   claim_id: ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
-- text: Strieber said Langley is among the most sensitive bases on the Pentagon's
-    roster.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 01:07:32.4-01:07:40.6
-  quote: one of the most sensitive air bases in the United States and the whole Pentagon's
-    whole roster of air bases
-  claim_id: 4f6bbac8-20d4-4ff9-99cd-924830d82589
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4f6bbac8-20d4-4ff9-99cd-924830d82589
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 5c99a45017ee9b2e0d3ce39c92de9c925f58fd3fa4e2a18b1945f5be8fecf188
+  prompt_sha256: 5165631644bbf4e1d1e888637765ac15d54e2c107953d223fe47372dd4cd9476
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 73503
-    output: 34902
+    input: 74007
+    output: 30766
     real_input: 2
-    cache_read: 33634
-    cache_write: 39867
+    cache_read: 39417
+    cache_write: 34588
     calls: 0
-  body_sha256: 6dfd64b85a928a1c8a55ddd4b9f7224a4f4e0328dfdf5aa88a478a0198924703
+  body_sha256: d2346e0a0146be4776e89beac646a47a024c93abc360ba43b27922015f793afd
 ---
 
-The Pentagon covers approximately 604,000 square metres and was, until recently, the largest office building in the world.<sup>1</sup> Approximately twenty-two thousand people work inside it.<sup>2</sup> It was constructed by the United States Department of War at the beginning of World War II.<sup>3</sup> Its eleven corridors are arranged like the spokes of a wheel, allowing any location in the building to be reached on foot within five minutes.<sup>4</sup> Its central courtyard is large enough to fit the US Capitol building inside it, with room to run laps around the building.<sup>5</sup> According to *Imminent: Inside the Pentagon's Hunt for UFOs*, at the end of the Cold War the Department of Defense discovered that the Soviet Union had targeted a small structure in the Pentagon's central plaza as a prime objective in the event of nuclear war, based on satellite imagery.<sup>6</sup> The Soviets believed, from early satellite photography, that the object was an elevator to a secret underground bunker.<sup>7</sup> After the Berlin Wall fell, Russians and Americans working together discovered that the object at the centre of the courtyard was in fact a hot dog stand.<sup>8</sup>
+The Pentagon is the headquarters of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), in Arlington, Virginia. It was built by the United States Department of War at the outset of World War II,<sup>1</sup> and covers approximately 604,000 square metres, until recently the largest office building in the world.<sup>2</sup> Around twenty-two thousand people work inside it,<sup>3</sup> and its eleven corridors are arranged like the spokes of a wheel, allowing any location within the building to be reached on foot in five minutes.<sup>4</sup>
 
-The Pentagon's connection to UFO research predates the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) by decades. In 1967, the University of Colorado UFO Project began spending 512,000 US dollars given to [Edward U. Condon](/people/edward-u-condon) by the Pentagon to study [UFOs](/topics/unidentified-flying-object-ufo).<sup>9</sup> Major Murphy said that General James Doolittle's conclusions from a 1946 investigation in Sweden have never been revealed.<sup>10</sup> According to *Messengers of Deception: UFO Contacts and Cults*, a 1976 article in the Soviet youth newspaper Komsomolskaya Pravda by the writer Yeremei Parnov implied that those who spread UFO stories were flirting with superstitions and religious impulses indirectly manipulated by the Pentagon.<sup>11</sup> [Jacques Vallée](/people/jacques-vallee) has suggested that UFO enthusiasts pursuing the government through Freedom of Information Act lawsuits may be playing into the hands of the phenomenon's manipulators.<sup>12</sup>
+The building's central courtyard has attracted its own mythology. It is large enough to fit the US Capitol building inside it, with room to run laps around the structure.<sup>5</sup> According to accounts recorded after the Cold War, the DoD discovered that the Soviet Union had targeted a small structure in the courtyard as a prime objective in the event of nuclear war, based on satellite imagery.<sup>6</sup> Soviet analysts, working from early satellite photography, believed the structure was an elevator leading to a secret underground bunker.<sup>7</sup> After the Berlin Wall fell, Russian and American personnel working together determined it was in fact a hot dog stand.<sup>8</sup>
 
-The Pentagon ran AATIP and wanted its funding to be difficult to find within the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) budget.<sup>13</sup> The programme was run by military intelligence official [Luis Elizondo](/people/luis-elizondo), on the fifth floor of the Pentagon's C Ring.<sup>14</sup> In response to questions from The New York Times, Pentagon officials in December 2017 acknowledged the existence of AATIP, which had begun as part of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>15</sup> The same officials insisted that the programme had ended after five years, in 2012.<sup>16</sup> Thomas Crosson, a Pentagon spokesman, said in an email that it had been determined there were other higher-priority issues that merited funding, and that it was in the best interest of the DoD to make a change.<sup>17</sup> According to the same reporting, backers of AATIP say that while the Pentagon ended funding for the effort in 2012, the programme remains in existence.<sup>18</sup> The 2009 Pentagon Advanced Aerospace Threat Identification Program (AATIP) briefing summary, prepared by the programme's then-director, asserted that 'what was considered science fiction is now science fact', and that the United States was incapable of defending itself against some of the technologies discovered.<sup>19</sup> Senator [Harry Reid](/people/harry-reid), referring to the Pentagon budget for classified programmes, said: 'This was so-called black money. Stevens knows about it, [Inouye](/people/daniel-k-inouye) knows about it. But that was it, and that's how we wanted it.'<sup>20</sup>
+The Pentagon's institutional involvement with unidentified phenomena predates the programmes for which it later became known. In 1967 it channelled 512,000 US dollars to [Edward U. Condon](/people/edward-u-condon) to fund the University of Colorado's UFO Project.<sup>9</sup> Major Murphy has said that General James Doolittle's conclusions from his 1946 investigation in Sweden have never been revealed.<sup>10</sup> According to *Messengers of Deception: UFO Contacts and Cults*, a 1976 article in the Soviet youth newspaper Komsomolskaya Pravda, by writer Yeremei Parnov, implied that those who spread [UFO](/topics/unidentified-flying-object-ufo) stories were flirting with superstitions and religious impulses indirectly manipulated by the Pentagon.<sup>11</sup> [Jacques Vallée](/people/jacques-vallee) has said that UFO enthusiasts trying to expose the government through Freedom of Information Act lawsuits may be playing into the hands of the manipulators of the phenomenon.<sup>12</sup>
 
-Elizondo continued to work out of his Pentagon office until October 2017, when he resigned to protest what he characterised as excessive secrecy and internal opposition.<sup>21</sup> He was assigned a parking spot along the Pentagon's River Entrance, alongside senior military staff including the chairman of the [Joint Chiefs of Staff](/organisations/joint-chiefs-of-staff), the secretaries of each service, the undersecretaries, and the Secretary of Defense.<sup>22</sup> In February 2012, while giving a tour of the Pentagon to a Japanese delegation of VIPs, another tragedy befell the Elizondo family: the 2012-02 Jennifer Elizondo crosswalk accident.<sup>23</sup> He was often asked to give such personal tours of the Pentagon, taking visitors to areas not included on the normal route.<sup>24</sup> When Jennifer was hit by the vehicle, Elizondo was an hour and a half away at the Pentagon.<sup>25</sup> His Pentagon job had marked the beginning of an unusual period of stability for him and Jennifer, who had previously been military nomads travelling wherever he was stationed.<sup>26</sup>
+The Pentagon later hosted the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), run by military intelligence official [Luis Elizondo](/people/luis-elizondo) from an office on the fifth floor of the Pentagon's C Ring.<sup>13</sup> Its funding was kept deliberately difficult to locate within the wider Department of Defense budget.<sup>14</sup> A 2009 Pentagon Advanced Aerospace Threat Identification Program (AATIP) briefing summary, prepared by the programme's director at the time, asserted that "what was considered science fiction is now science fact," and that the United States was incapable of defending itself against some of the technologies discovered.<sup>15</sup> According to The New York Times, Pentagon officials acknowledged in December 2017, in response to questions from the paper, that AATIP had existed, having begun as part of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>16</sup> The same reporting stated that Pentagon officials insisted the programme had ended after five years, in 2012.<sup>17</sup> Pentagon spokesman Thomas Crosson said in an email that other higher-priority issues merited funding, and that it was in the best interest of the DoD to make a change.<sup>18</sup> Backers of AATIP said that although Pentagon funding ended in 2012, the programme remained in existence.<sup>19</sup> [Harry Reid](/people/harry-reid), discussing the Pentagon's budget for classified programmes, said: "This was so-called black money. Stevens knows about it, [Inouye](/people/daniel-k-inouye) knows about it. But that was it, and that's how we wanted it."<sup>20</sup> The Pentagon has also publicly denied spending money on psychic research.<sup>21</sup> Elizondo continued to work from his Pentagon office until October 2017, when he resigned, protesting what he characterised as excessive secrecy and internal opposition.<sup>22</sup>
 
-[James Mattis](/people/james-mattis) accepted the position of Secretary of Defense in the incoming [Donald Trump](/people/donald-trump) administration.<sup>27</sup> [Harold E. Puthoff](/people/harold-e-puthoff) suggested to [Jay Stratton](/people/jay-stratton) that they meet with [Jim Semivan](/people/jim-semivan) at the Pentagon.<sup>28</sup> According to Elizondo, Semivan had heard rumblings of a real [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) programme being run out of the Pentagon.<sup>29</sup> Elizondo has described [Bryan Bender](/people/bryan-bender) as a shrewd reporter who knew the workings of the Pentagon better than most people who worked there.<sup>30</sup> He said that Bender did not come across as a believer in UAP, but rather seemed interested in whether the Pentagon had a programme that was never disclosed to the public or Congress.<sup>31</sup> According to the resulting [Politico](/organisations/politico) article, Pentagon spokesperson Dana White confirmed Elizondo's role in the programme.<sup>32</sup> [James R. Clapper](/people/james-r-clapper) told Elizondo that he was surprised the Pentagon had admitted to having a UAP programme, and that he was proud of him.<sup>33</sup> Elizondo has said that someone within the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) allegedly authorised the complete deletion of all his electronic files, folders, and emails, on the grounds that they had no historic value, according to a Freedom of Information Act response from the Pentagon.<sup>34</sup> He has also written that a Pentagon spokesperson confirmed to the media that he provides technical advice on a variety of classified topics for the United States Space Force.<sup>35</sup>
+Elizondo's Pentagon career had a personal dimension too. He was assigned a parking spot along the Pentagon's River Entrance, alongside senior military staff including the chairman of the [Joint Chiefs of Staff](/organisations/joint-chiefs-of-staff), the secretaries of each service, the undersecretaries, and the Secretary of Defense.<sup>23</sup> He was often asked to give personal tours of the Pentagon, taking visitors to areas not included on the standard tour.<sup>24</sup> In February 2012, while Elizondo was giving one such tour to a Japanese delegation of VIPs, the 2012-02 Jennifer Elizondo crosswalk accident occurred;<sup>25</sup> he was an hour and a half away at the Pentagon when it happened.<sup>26</sup> His Pentagon posting had marked an unusual period of stability for him and Jennifer, who had previously been military nomads travelling wherever he was stationed.<sup>27</sup>
 
-According to *Imminent: Inside the Pentagon's Hunt for UFOs*, the 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing revealed that the Pentagon had been unaware of UAP incursions near sensitive nuclear facilities, including instances of intercontinental ballistic missiles being taken offline.<sup>36</sup> Elizondo believes that had the Pentagon done even a cursory review of its own records, it would have realised that it had already written reports on these nuclear-facility incursions.<sup>37</sup> Testifying on 2024-11-13, Elizondo stated that the White House, the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), the [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa), the Pentagon, and the United States Department of Energy currently play a role in the UAP issue, but that no single entity is in charge.<sup>38</sup> The Pentagon has publicly denied spending money on psychic research.<sup>39</sup> [Ross Coulthart](/people/ross-coulthart) has said that slide nine of a private Pentagon briefing to one of its undersecretaries on the phenomenon states that it is able to manipulate human perception and can remotely interfere with what humans can see and experience.<sup>40</sup> Whitley Strieber has said that Langley Air Force Base is one of the most sensitive air bases in the United States on the Pentagon's roster of air bases.<sup>41</sup>
+Elizondo's later Pentagon dealings ran alongside the wider push for disclosure. [James Mattis](/people/james-mattis) accepted the position of Secretary of Defense in the incoming [Donald Trump](/people/donald-trump) administration.<sup>28</sup> [Harold E. Puthoff](/people/harold-e-puthoff) suggested to [Jay Stratton](/people/jay-stratton) that they meet with [Jim Semivan](/people/jim-semivan) at the Pentagon.<sup>29</sup> Elizondo has said that Semivan had heard rumblings of a real [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) programme being run out of the Pentagon.<sup>30</sup> He has also said he considered [Bryan Bender](/people/bryan-bender) a shrewd reporter who knew the workings of the Pentagon better than most people who worked there,<sup>31</sup> and that Bender did not come across as a believer in UAP but seemed interested in whether the Pentagon had a programme never disclosed to the public or Congress.<sup>32</sup> According to a [Politico](/organisations/politico) article about AATIP, Pentagon spokesperson Dana White confirmed Elizondo's role in the programme.<sup>33</sup> [James R. Clapper](/people/james-r-clapper) told Elizondo he was surprised the Pentagon had admitted to having a UAP programme, and said he was proud of him.<sup>34</sup> Elizondo has said that someone within the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) authorised the deletion of all his electronic files, folders and emails, citing a Freedom of Information Act response from the Pentagon that stated they had no historic value.<sup>35</sup> At the 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing, it was revealed, according to *Imminent: Inside the Pentagon's Hunt for UFOs*, that the Pentagon had been unaware of UAP incursions near sensitive nuclear facilities, including instances of intercontinental ballistic missiles (ICBMs) being taken offline.<sup>36</sup> Elizondo has said that had the Pentagon done even a cursory review of its own records, it would have realised it had already written reports on these incursions.<sup>37</sup> He has also said a Pentagon spokesperson confirmed to the media that he provides technical advice on classified topics for the United States Space Force.<sup>38</sup> In testimony given on 2024-11-13, Elizondo stated that the White House, the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa), the Pentagon, and the US Department of Energy all currently play a role in the UAP issue, but that no single entity is in charge.<sup>39</sup> [Ross Coulthart](/people/ross-coulthart) has said that a slide from a Pentagon private briefing to one of its undersecretaries states that the phenomenon is able to manipulate human perception and can remotely interfere with what people see and experience.<sup>40</sup>

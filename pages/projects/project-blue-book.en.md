@@ -1,17 +1,27 @@
 ---
 title: Project Blue Book
-description: A United States Air Force programme that investigated reports of unidentified
-  flying objects from 1952 to 1969, initially led by Edward Ruppelt and later headed
-  by Hector Quintanilla with J. Allen Hynek as scientific consultant.
+description: Project Blue Book was the United States Air Force's official investigation
+  into UFO and UAP sightings, run from 1952 to 1969 out of Wright-Patterson Air Force
+  Base and eventually examining more than 12,000 reported cases.
 metadata:
   status: Terminated
+  type: Government UFO/UAP investigation programme
+  operator: United States Air Force (USAF)
   founded: '1952'
-  ended: '1969-12-17'
-  parent_organisation: United States Air Force (USAF)
-  headquartered: Wright-Patterson Air Force Base, Dayton, Ohio, USA
+  terminated: '1969-12-17'
+  headquarters: Wright-Patterson Air Force Base, Dayton, Ohio, USA
+  preceded_by: Project GRUDGE
 built_from:
-  brief_hash: 4de0420fed170cdc2ee794d6b6e9e7b414c6d841d0ce8c1b885c7227c7e66056
+  brief_hash: 42d826d7fa5e1f446aeffd1fd73a855d8c98f79bb0b66e0b7d37ce97a65ac396
   claims:
+  - id: f4f8a69e-3c76-4b83-a904-d9a35b33af41
+    hash: d3eb897be063e8f86cbe14c0c47756f0bd515097d6ab0d9f163c10933a2f6cf6
+  - id: 2093e210-d21b-4a40-b4e7-7630d75b4c5d
+    hash: b296db5ae598cc651934b43640e109e28c29a6b3b47ae814f33b9ba2ca836c37
+  - id: 8f62b08f-c29e-40be-911b-9c1d5e522424
+    hash: 3cb6387991cfd9acfa7d3950fff06a1b74c87e655fb3eade2438754adb06f107
+  - id: c8006b06-843a-4738-83af-8cc16f737b0e
+    hash: c869af880517f93ad65fec8fb64ef59434382963b229a6eb2a65e8c89340b6c5
   - id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
     hash: 2eb2b977b04853d647ec057d75064e271e2f1f43f87d2e10f60d5d4871fbfdba
   - id: 39e50285-c66b-464c-a675-c8b2d223eb78
@@ -311,7 +321,17 @@ built_from:
   - id: 72643398-85f4-45fe-9159-cb22f4ee54a9
     hash: b896b05684d00e8e82f30b182dc42dc13b6a6dc284a5e3da4e4a162f843cbff3
 references:
-- text: Blue Book was the USAF's UAP research group, active 1952-1969
+- text: Roswell, the Kenneth Arnold sighting and the Aztec crash prompted the formation
+    of Project Grudge, which became Blue Book
+  source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+  location: 00:37:22.6-00:37:42.0
+  quote: seeing something or hearing something as alarming as a UFO crash in Roswell
+    and the sightings of Kenneth Arnold, and then subsequently the crash at Aztec...
+    They formed Project Grudge, which turned into Project Blue Book.
+  claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
+  record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
+  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5cf33c62-1a47-4179-af3f-1dd976071aae
+- text: Code name for the USAF's UAP study group, 1952-1969
   source: In Plain Sight
   location: ch37:1538-1755
   quote: Members of the US Air Force's Project Blue Book, the code name for the group
@@ -321,17 +341,25 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
-- text: 'Ramsay: Roswell crash, Arnold sighting and Aztec crash spurred interest,
-    leading to Project GRUDGE then Blue Book'
-  source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
-  location: 00:37:22.6-00:37:42.0
-  quote: seeing something or hearing something as alarming as a UFO crash in Roswell
-    and the sightings of Kenneth Arnold, and then subsequently the crash at Aztec...
-    They formed Project Grudge, which turned into Project Blue Book.
-  claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
-  record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5cf33c62-1a47-4179-af3f-1dd976071aae
-- text: Cabell, USAF Director of Intelligence, established the programme
+- text: USAF Director of Intelligence initiated Blue Book in 1952 to investigate UFOs
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:1600-1716
+  quote: In 1952, the U.S. Air Force Director of Intelligence initiated PROJECT BLUE
+    BOOK to investigate unidentified flying objects.
+  claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
+- text: Project Grudge became Project Blue Book in 1952
+  source: In Plain Sight
+  location: ch8:11026-11077
+  quote: That same year, Project Grudge became Project Blue Book
+  claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
+- text: Major General Charles P. Cabell established Project Blue Book
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:41609-41716
@@ -341,15 +369,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
-- text: In 1952, Project GRUDGE became Project Blue Book
-  source: In Plain Sight
-  location: ch8:11026-11077
-  quote: That same year, Project Grudge became Project Blue Book
-  claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
-- text: Based at Wright-Patterson Air Force Base, Dayton, Ohio
+- text: Based at Wright-Patterson Air Force Base near Dayton, Ohio
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:41727-41781
@@ -358,17 +378,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-29899d23-8304-45af-ac3d-01b0230882e8
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-29899d23-8304-45af-ac3d-01b0230882e8
-- text: Brief was to determine national security threat and scientifically analyse
-    data
-  source: In Plain Sight
-  location: ch8:11083-11201
-  quote: Blue Book's brief was to determine if UFOs were a threat to national security,
-    and to scientifically analyse the data gathered
-  claim_id: b5adefeb-cbd3-4389-92c6-1880418aeb22
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
-- text: Described as the longest-running UFO/UAP investigation
+- text: The longest-running UFO/UAP investigation
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:41787-41837
@@ -377,16 +387,17 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-426112bc-e7a5-4750-af7e-8a8818e27d66
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-426112bc-e7a5-4750-af7e-8a8818e27d66
-- text: Ruppelt was the first director
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:111408-111457
-  quote: Capt Ruppelt, the first director of Project BLUE BOOK
-  claim_id: 461b32a1-467b-4cc6-a4bd-542453d4a483
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
-- text: Ruppelt was previously head of the reorganised Project GRUDGE
+- text: Brief was to assess the national security threat and scientifically analyse
+    the data
+  source: In Plain Sight
+  location: ch8:11083-11201
+  quote: Blue Book's brief was to determine if UFOs were a threat to national security,
+    and to scientifically analyse the data gathered
+  claim_id: b5adefeb-cbd3-4389-92c6-1880418aeb22
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
+- text: Led by Ruppelt, former director of the reorganised Project GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:41852-41950
@@ -396,7 +407,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-53a68d95-b9a7-42f1-959f-3a3920266bcb
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-53a68d95-b9a7-42f1-959f-3a3920266bcb
-- text: Later led by Hardin, Gregory, Friend and Quintanilla
+- text: 'Successive directors: Hardin, Gregory, Friend, Quintanilla'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:41959-42080
@@ -406,114 +417,24 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
-- text: Between 1952 and 1969, over 12,000 UFO sightings investigated
-  source: Unclassified Summary of Report No. DODIG-2023-109, Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena, August 15, 2023
-  location: char:1725-1802
-  quote: Between 1952 and 1969, Air Force personnel investigated over 12,000 reported
-    sightings.
-  claim_id: a38255b6-11cf-4643-850e-28567b670f7a
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a38255b6-11cf-4643-850e-28567b670f7a
-- text: Eventually 12,618 UAP reports investigated
+- text: Ruppelt was Blue Book's first director
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:111408-111457
+  quote: Capt Ruppelt, the first director of Project BLUE BOOK
+  claim_id: 461b32a1-467b-4cc6-a4bd-542453d4a483
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
+- text: Hynek, a civilian scientist, served as consultant
   source: In Plain Sight
-  location: ch8:11450-11553
-  quote: The air force project would eventually investigate 12,618 UAP reports from
-    both civilians and military witnesses
-  claim_id: 3525cf8a-6b45-4120-a7ab-12925c95d7fb
+  location: ch8:11729-11793
+  quote: Civilian scientist Dr Josef Allen Hynek was a Project Blue Book consultant
+  claim_id: 8ca523da-f9e7-4365-8731-5b0051b86cf2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3525cf8a-6b45-4120-a7ab-12925c95d7fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3525cf8a-6b45-4120-a7ab-12925c95d7fb
-- text: Vast majority dismissed as misidentifications
-  source: In Plain Sight
-  location: ch8:11564-11628
-  quote: dismissing the vast majority as misidentifications with prosaic explanations
-  claim_id: 5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
-- text: Small percentage classified unexplained after stringent analysis
-  source: In Plain Sight
-  location: ch8:11642-11718
-  quote: But a small percentage was classified as 'unexplained' even after stringent
-    analysis
-  claim_id: cb731610-9357-4df9-911d-a67e23cf4a49
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb731610-9357-4df9-911d-a67e23cf4a49
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb731610-9357-4df9-911d-a67e23cf4a49
-- text: 701 of the sightings remained unexplained
-  source: 'Glowing Auras and Black Money: The Pentagon''s Mysterious U.F.O. Program'
-  location: char:6818-6840
-  quote: although 701 remained unexplained
-  claim_id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-- text: Cases organised into three categories
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:42877-42990
-  quote: 'Project BLUE BOOK organized its cases into one of three categories: **identified**,
-    **insufficient data**, and **unidentified**.'
-  claim_id: 3713e98d-2250-4eb7-b34f-1c08feeed8a8
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
-- text: Astronomical objects such as Venus, Jupiter and Mars misidentified
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:43132-43447
-  quote: '**Astronomical Sightings**: These consisted of bright stars, planets, comets,
-    fireballs, meteors, auroral streamers, and other celestial bodies. When observed
-    through haze, light fog, moving clouds, or other obscurations or unusual conditions,
-    the planets - including Venus, Jupiter and Mars - were often reported as UFOs.'
-  claim_id: ea368bc9-e471-4dba-8822-86f56c4ca068
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ea368bc9-e471-4dba-8822-86f56c4ca068
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-ea368bc9-e471-4dba-8822-86f56c4ca068
-- text: Balloons up to around 90 metres diameter accounted for cases
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:43457-43620
-  quote: '**Balloons:** These included weather balloons, radiosondes, and large research
-    balloons with diameters up to 300 feet, which together accounted for several thousand
-    cases.'
-  claim_id: 319479e8-d86d-4651-b640-153e5c404059
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-319479e8-d86d-4651-b640-153e5c404059
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-319479e8-d86d-4651-b640-153e5c404059
-- text: Aircraft could appear disc- or rocket-shaped at altitude
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:44116-44279
-  quote: The staff noted that when observed at high altitudes and at a distance, the
-    reflection of the sun on aircrafts' surfaces can make them appear as "disc" or
-    "rocket-shaped."
-  claim_id: e1182d14-6dec-4a2f-a45f-599ec986e8a8
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e1182d14-6dec-4a2f-a45f-599ec986e8a8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e1182d14-6dec-4a2f-a45f-599ec986e8a8
-- text: Other resolutions included satellites, birds, flares and hoaxes
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:44607-44787
-  quote: Other UFO resolutions included **stellar mirages, satellites, missiles, reflections,
-    searchlights, birds, kites, false radar indications, fireworks, flares,** and
-    some confirmed **hoaxes**.
-  claim_id: 86d44a70-8c35-4af6-8f2d-c2937153c160
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-86d44a70-8c35-4af6-8f2d-c2937153c160
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-86d44a70-8c35-4af6-8f2d-c2937153c160
-- text: Hynek was an astronomer who served as scientific consultant
-  source: American Cosmic
-  location: ch5:2031-2183
-  quote: Hynek, an academic and an astronomer himself, in the 1970s was the scientific
-    consultant to the US Air Force program to study UFOs, called Project Blue Book.
-  claim_id: 8236715b-ff61-4c9a-bf95-e27a71745036
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8236715b-ff61-4c9a-bf95-e27a71745036
-- text: Hynek served as lead scientific investigator
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ca523da-f9e7-4365-8731-5b0051b86cf2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8ca523da-f9e7-4365-8731-5b0051b86cf2
+- text: Hynek served as Blue Book's lead scientific investigator
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:42152-42197
@@ -522,16 +443,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
-- text: Hynek was lead scientist in charge of the investigation team
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:23023-23155
-  quote: Dr. J. Allen Hynek, the lead scientist in charge of the Air Force's official
-    UAP investigation team, Project Blue Book, visited the region.
-  claim_id: 0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
-- text: Hynek said USAF expected him to perform role of debunker
+- text: Hynek said the USAF expected him to perform the role of debunker
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:112735-112827
@@ -541,7 +453,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
-- text: Ruppelt wrote he was expected to explain away every report
+- text: Ruppelt wrote he was expected to explain away every report; press stories
+    aligned with USAF position
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:112841-113026
@@ -552,7 +465,18 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
-- text: Blue Book reviewed 1966 Michigan swamp gas sightings at Ford's insistence
+- text: Vallée alerted Hynek to the 1966 Michigan sightings; Hynek called Blue Book
+    to propose an investigation
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:7530-7673
+  quote: I called Dr. Hynek to alert him to the sightings, and he in turn called Project
+    Blue Book in Dayton, Ohio, to propose that they investigate at once.
+  claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
+- text: Hynek's Blue Book review, prompted by Gerald Ford, announced the Michigan
+    sightings were swamp gas
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:29184-29381
   quote: At the insistence of a leading Michigan congressman named Gerald Ford, Dr.
@@ -570,79 +494,65 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24728cff-3caa-479e-860e-d2f68bd3dbee
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-24728cff-3caa-479e-860e-d2f68bd3dbee
-- text: Ford Presidential Library released at least fifteen related documents
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:16996-17186
-  quote: The Ford Presidential Library has since released at least fifteen documents
-    related to the notorious Blue Book “swamp gas” finding, of which Ford remained
-    forever skeptical.
-  claim_id: 44a83430-c440-4b05-b961-da6b4c3444dd
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-44a83430-c440-4b05-b961-da6b4c3444dd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-44a83430-c440-4b05-b961-da6b4c3444dd
-- text: Vallée worked with Hynek organising Blue Book papers
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch18:15187-15299
-  quote: As a young researcher, Vallée worked with and organized the papers of Dr.
-    Hynek of the Air Force’s Project Blue Book.
-  claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
-- text: Vallée noticed files had disappeared from the archives
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch18:3835-3957
-  quote: When I noticed that certain files had disappeared from the Blue Book archives
-    and that the best photographic evidence was missing
-  claim_id: 1b3da01b-e239-492f-a493-033f354429f4
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1b3da01b-e239-492f-a493-033f354429f4
-- text: Vallée noticed the best photographic evidence was missing
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch18:3913-3957
-  quote: and that the best photographic evidence was missing
-  claim_id: c1f99d43-962c-476a-bc3e-ec4541e895f4
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c1f99d43-962c-476a-bc3e-ec4541e895f4
-- text: 'Vallée: files lost, cases mislabelled'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:30906-31067
-  quote: the procedures of Blue Book, where files were lost and cases mislabeled,
-    were so grossly bungled that disciplinary action would have been warranted in
-    any other context.
-  claim_id: 57698d67-ab23-45c4-bef0-f176ed386b41
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-57698d67-ab23-45c4-bef0-f176ed386b41
-- text: 'Vallée: landing reports uninvestigated for weeks'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:31111-31224
-  quote: Reports of UFO landings by reliable observers, sometimes Air Force personnel,
-    went uninvestigated for weeks at a time.
-  claim_id: ed4777a6-166b-4e6e-95bd-80c2cf73d5ff
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ed4777a6-166b-4e6e-95bd-80c2cf73d5ff
-- text: 'Vallée: Blue Book was only a front'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch18:3644-3829
-  quote: I imagined that the project was only a front to keep civilian scientists
-    from poking their inquisitive noses into a very serious matter that was regarded
-    in high places as an important item.
-  claim_id: 899e40fa-4fde-40ee-830a-53de6a7913d2
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-899e40fa-4fde-40ee-830a-53de6a7913d2
-- text: Turner met Hynek during a visit to Australia
+- text: USAF personnel investigated more than 12,000 reported UFO sightings, 1952-1969
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:1725-1802
+  quote: Between 1952 and 1969, Air Force personnel investigated over 12,000 reported
+    sightings.
+  claim_id: a38255b6-11cf-4643-850e-28567b670f7a
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a38255b6-11cf-4643-850e-28567b670f7a
+- text: USAF recorded 12,618 UFO sightings between 1947 and 1969
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:42084-42146
+  quote: The USAF recorded 12,618 UFO sightings between the years 1947-1969.
+  claim_id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
+- text: 701 of the 12,618 sightings were categorised unidentified and never solved
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:46329-46433
+  quote: Of the 12,618 sightings in Project BLUE BOOK's holdings, 701 were categorized
+    as unidentified and never solved.
+  claim_id: f6761b73-b647-46d3-8ff5-16eb87945a9e
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f6761b73-b647-46d3-8ff5-16eb87945a9e
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f6761b73-b647-46d3-8ff5-16eb87945a9e
+- text: Cases sorted into identified, insufficient data, and unidentified
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:42877-42990
+  quote: 'Project BLUE BOOK organized its cases into one of three categories: **identified**,
+    **insufficient data**, and **unidentified**.'
+  claim_id: 3713e98d-2250-4eb7-b34f-1c08feeed8a8
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
+- text: Dismissed the vast majority of reports as misidentifications with prosaic
+    explanations
   source: In Plain Sight
-  location: ch11:2938-3020
-  quote: Turner also met the Project Blue Book expert Dr J. Allen Hynek when Hynek
-    visited Australia.
-  claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
+  location: ch8:11564-11628
+  quote: dismissing the vast majority as misidentifications with prosaic explanations
+  claim_id: 5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
-- text: 'Turner: OSI persuaded USAF to use Blue Book to debunk UFOs'
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
+- text: Kimball ordered independent naval intelligence reports on UAP
+  source: In Plain Sight
+  location: ch8:14659-14773
+  quote: Kimball decided to order his own naval intelligence reports on UAPs – independent
+    of the air force's Project Blue Book
+  claim_id: 7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
+- text: 'Turner: Office of Special Investigations persuaded USAF to use the project
+    for public debunking, 1953'
   source: In Plain Sight
   location: ch11:1921-2112
   quote: He asserted that in 1953 the US Air Force Office of Special Investigations
@@ -652,26 +562,49 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
-- text: Turner dismissed the programme after its 1969 closure
+- text: Derided for over-zealousness in aggressively debunking almost all UAP sightings
   source: In Plain Sight
-  location: ch11:2577-2696
-  quote: Turner also dismissed the official Project Blue Book UFO investigation shut
-    down by the air force two years earlier in 1969.
-  claim_id: c4452189-b996-4b80-991f-2d3fd8482f30
+  location: ch37:1665-1755
+  quote: often derided for its perceived over-zealousness in aggressively debunking
+    almost all UAP sightings.
+  claim_id: 88643727-247a-43b8-b190-a758d8cd48eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4452189-b996-4b80-991f-2d3fd8482f30
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4452189-b996-4b80-991f-2d3fd8482f30
-- text: 'MacDonald: Blue Book staffed by three people in 1967'
-  source: UFOs in Australia - Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:22:20.7-00:22:27.8
-  quote: Project Blue Book consists of three people at present. The American Air Force
-    Investigatory Program is a major, a sergeant, and a secretary.
-  claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
-- text: 'MacDonald: about 14 years in operation as of 1967'
-  source: UFOs in Australia - Eyewitnesses Talk to Dr. James E. McDonald During His
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88643727-247a-43b8-b190-a758d8cd48eb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-88643727-247a-43b8-b190-a758d8cd48eb
+- text: 'Fravor: project worked to debunk and disprove sightings, discrediting witnesses'
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:50:55.3-01:51:07.5
+  quote: then you get into project blue book you know so there's that whole series
+    about project blue book but the bottom line of project blue book is it really
+    did two things it investigated sightings and it did everything it could to debunk
+    and disprove to the point where it actually went to discredit
+  claim_id: e03c927c-da66-4fd9-b34e-9cf54638fafe
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e03c927c-da66-4fd9-b34e-9cf54638fafe
+- text: 'Fravor: represented an active disinformation campaign to deny UAP existence'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:117910-117998
+  quote: Previously with, like, Project Bluebook, yes, but currently I do not speak
+    for the U.S. Government.
+  claim_id: 0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
+- text: US government maintained serious interest in UAP while explaining sightings
+    as prosaic causes such as ball lightning and swamp gas
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:05:57.6-00:06:16.4
+  quote: the government had taken it seriously and kind of buried it behind the scenes
+    while engaging in activities like Project Blue Book, et cetera, explaining away
+    the phenomenon as something prosaic, ball lightning, you know, swamp gas very
+    famously, right? And, and of course, that wasn't true.
+  claim_id: 72643398-85f4-45fe-9159-cb22f4ee54a9
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-72643398-85f4-45fe-9159-cb22f4ee54a9
+- text: Project had run about 14 years as of 1967
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
   location: 00:31:53.0-00:31:58.9
   quote: the American Air Force investigation Project Blue Book which has been in
@@ -679,8 +612,17 @@ references:
   claim_id: 1ec3566f-8d5a-4ae8-b231-213f9a6a843a
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-1ec3566f-8d5a-4ae8-b231-213f9a6a843a
-- text: 'MacDonald: regard for Blue Book completely unjustified'
-  source: UFOs in Australia - Eyewitnesses Talk to Dr. James E. McDonald During His
+- text: 'Consisted of three people in 1967: a major, a sergeant and a secretary'
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour (1967)
+  location: 00:22:20.7-00:22:27.8
+  quote: Project Blue Book consists of three people at present. The American Air Force
+    Investigatory Program is a major, a sergeant, and a secretary.
+  claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
+- text: 'MacDonald: regard for the project unjustified; investigations superficial'
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
   location: 00:32:05.1-00:32:24.4
   quote: regarded quite highly in other parts of the world and that's completely unjustified
@@ -689,205 +631,15 @@ references:
   claim_id: 10f08821-6b30-4e7e-8cba-b2eb292f2400
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-10f08821-6b30-4e7e-8cba-b2eb292f2400
-- text: 'MacDonald: USAF press releases claimed 2-3 per cent unknowns'
-  source: UFOs in Australia - Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:32:51.3-00:33:06.2
-  quote: the kind of press releases that are put out about the great expertise that's
-    used, the thorough investigations, and the indication that there are only two
-    or three percent of unknowns, and probably those would be explained, the Air Force
-    insists, if they add a little more data.
-  claim_id: 54cf5294-9333-4a92-aeae-2b53d77833aa
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-54cf5294-9333-4a92-aeae-2b53d77833aa
-- text: 'Coulthart: true purpose was to shut down scrutiny of UAP'
-  source: In Plain Sight
-  location: ch10:24028-24200
-  quote: It is difficult to escape the impression that Project Blue Book and the Condon
-    Report’s true purpose was an attempt to shut down public interest in and the scrutiny
-    of UAP sightings.
-  claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-- text: 'Coulthart: Blue Book largely for public show'
-  source: In Plain Sight
-  location: ch10:378-464
-  quote: This went way beyond Project Blue Book, which appears to have been largely
-    for public show.
-  claim_id: 3705ba2c-55df-49cc-be11-923aa23e0563
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3705ba2c-55df-49cc-be11-923aa23e0563
-- text: Quintanilla's 4am forest search anecdote
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:31295-31513
-  quote: the same man who headed up Blue Book, Major Quintanilla, jumped out of bed
-    at 4:00 a.m., ordered the area sealed by Air Force police, and supervised a square-inch
-    by square-inch search of an entire forest for possible debris.
-  claim_id: 3a6bf44c-9820-4923-80c7-b966cd059af3
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3a6bf44c-9820-4923-80c7-b966cd059af3
-- text: 'CIA files: Quintanilla convinced Zamora was truthful'
-  source: In Plain Sight
-  location: ch10:8498-8713
-  quote: Declassified CIA files reveal the Project Blue Book officer in charge of
-    the Zamora investigation, Hector Quintanilla, was convinced Zamora was telling
-    the truth, describing the case as 'the best-documented case on record'.
-  claim_id: 69cbc373-965b-47b8-a126-6665e119c803
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-69cbc373-965b-47b8-a126-6665e119c803
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-69cbc373-965b-47b8-a126-6665e119c803
-- text: Blue Book declared the Zamora case still open
-  source: In Plain Sight
-  location: ch10:8362-8491
-  quote: Even the US Air Force's Project Blue Book investigators made no conclusion
-    about the object's origins, declaring the case 'still open'.
-  claim_id: 4ace9587-ddcf-4018-b7e0-b8dd18f81b6e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4ace9587-ddcf-4018-b7e0-b8dd18f81b6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4ace9587-ddcf-4018-b7e0-b8dd18f81b6e
-- text: Kecksburg object written off as a meteorite
-  source: In Plain Sight
-  location: ch10:8845-8893
-  quote: Officially, Project Blue Book wrote it off as a meteorite
-  claim_id: 2947523b-88f1-4abc-811d-45f31ce3ced7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2947523b-88f1-4abc-811d-45f31ce3ced7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2947523b-88f1-4abc-811d-45f31ce3ced7
-- text: National-security-relevant reports withheld from Blue Book
-  source: In Plain Sight
-  location: ch10:24418-24548
-  quote: We know now that reports where UAPs did indeed affect national security were
-    routinely withheld from Project Blue Book’s scrutiny.24
-  claim_id: f3759217-d315-4058-b2f1-e369b6a00373
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3759217-d315-4058-b2f1-e369b6a00373
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f3759217-d315-4058-b2f1-e369b6a00373
-- text: 4602d AISS vetted reports before they reached Blue Book
-  source: In Plain Sight
-  location: ch10:511-729
-  quote: in 1953, the US Air Command had created the 4602d Air Intelligence Service
-    Squadron (AISS) that confidentially vetted all UAP reports before they were sent
-    to Blue Book, culling sightings that raised national security concerns.
-  claim_id: 705a3f28-c071-4f39-b310-8229f57c5170
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-705a3f28-c071-4f39-b310-8229f57c5170
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-705a3f28-c071-4f39-b310-8229f57c5170
-- text: Sheehan told Marcia Smith he wanted classified Blue Book files
-  source: In Plain Sight
-  location: ch11:17952-18137
-  quote: He was aware of allegations that the most important UAP sightings reports
-    had been withheld from Blue Book and so he told Marcia Smith he wanted to see
-    'the classified portions of Blue Book'.
-  claim_id: fc25474d-726c-4b97-a150-23912742e24a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc25474d-726c-4b97-a150-23912742e24a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fc25474d-726c-4b97-a150-23912742e24a
-- text: 'Sheehan: ''you never get if you don''t ask'''
-  source: In Plain Sight
-  location: ch11:18145-18373
-  quote: '''She said, "Oh no, they''re not going to give that stuff to us. I''m sure
-    they won''t give it to us." I said, "Well, you never get if you don''t ask",''
-    Sheehan told me, in an interview from his Romero Institute office in Santa Cruz,
-    California.'
-  claim_id: 0e091c7f-ecb4-44e3-adb9-43c608064434
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
-- text: Smith called back with permission granted
-  source: In Plain Sight
-  location: ch11:18385-18520
-  quote: According to Sheehan, a week or so later, Smith called him with the surprising
-    news that permission had been given for him to view the files.
-  claim_id: c5f64182-a157-4e8f-a44e-fdba22ae775e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
-- text: Sheehan arrived at the Library of Congress, spring 1977
-  source: In Plain Sight
-  location: ch11:18528-18768
-  quote: So, on a Saturday morning in Washington DC in the late spring of 1977, an
-    eager Daniel Sheehan arrived at the still-uncompleted Madison wing of the Library
-    of Congress for a cloak-and-dagger rendezvous with the classified Project Blue
-    Book documents.
-  claim_id: 805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
-- text: Room set up with microfiche viewer and canister boxes
-  source: In Plain Sight
-  location: ch11:19199-19342
-  quote: Inside the room, there were foldout tables set up with a microfiche viewing
-    machine and shoebox-sized green cardboard boxes full of microfiche canisters.
-  claim_id: 71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
-- text: 'Sheehan: saucer with dome visible in the images'
-  source: In Plain Sight
-  location: ch11:20079-20168
-  quote: asserting that what he saw in the multiple images was a full-scale classic
-    saucer with a dome
-  claim_id: 44365c27-39ce-4a02-95ee-1a5cca7adf3b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
-- text: 'Sheehan: craft had crashed in a field, covered in snow'
-  source: In Plain Sight
-  location: ch11:20174-20235
-  quote: The craft he saw had crashed in a field and was covered with snow.
-  claim_id: db0d6122-9c9c-4e85-bb83-2b19583cd9fa
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
-- text: Sheehan recalls being told he could not take notes
-  source: In Plain Sight
-  location: ch11:21063-21137
-  quote: I’ve got these symbols on this thing and they told me I couldn’t take any
-    notes.
-  claim_id: b48f92aa-a46e-4118-be23-b0f8dac20a7d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
-- text: Sheehan convinced images showed an extraterrestrial spacecraft
-  source: In Plain Sight
-  location: ch11:21991-22139
-  quote: Daniel Sheehan is absolutely convinced that what he saw in the Project Blue
-    Book microfiche files was photographic evidence of an extra-terrestrial spacecraft.
-  claim_id: 734d2b09-f760-44de-a70f-c17936bcd24a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-734d2b09-f760-44de-a70f-c17936bcd24a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-734d2b09-f760-44de-a70f-c17936bcd24a
-- text: 'Sheehan: 1977 Carter reports did not mention the images'
-  source: In Plain Sight
-  location: ch11:24824-24947
-  quote: alarmingly, he says neither mentioned the images of a recovered craft he
-    claims he saw in the classified Project Blue Book files
-  claim_id: 6e8e4678-8cd7-482f-bf51-963d77028d1a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
-- text: Sheehan's account unchallenged by any official
-  source: In Plain Sight
-  location: ch11:21749-21801
-  quote: Aside from the fact that Sheehan’s account has gone unchallenged
-  claim_id: b2cc72fd-2c40-498a-8210-b5d265f47ef5
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
-- text: Blue Book perceived as compromised by a debunking agenda
-  source: In Plain Sight
-  location: ch10:22515-22790
-  quote: The irony was that Project Blue Book’s air force investigations into UAPs
-    were by now publicly perceived as so seriously compromised by a debunking agenda
-    that Dr Edward Condon and his team of scientists had been recruited by the air
-    force to do an objective and independent investigation.
-  claim_id: ef1de83f-ddd3-49e3-b2aa-aef6be107249
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef1de83f-ddd3-49e3-b2aa-aef6be107249
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef1de83f-ddd3-49e3-b2aa-aef6be107249
-- text: Condon Report gave USAF justification to close Blue Book
+- text: 1953 Robertson Panel, impetus for Blue Book, recommended a media campaign
+  source: American Cosmic
+  location: ch4:13235-13368
+  quote: The 1953 Robertson Panel, which was the impetus for Project Blue Book, suggested
+    a media campaign to manage public perception of the phenomena.
+  claim_id: 49798ad2-88fd-4fce-a9eb-88f00b1f925c
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49798ad2-88fd-4fce-a9eb-88f00b1f925c
+- text: Condon Report gave USAF the justification it sought to close the project
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3687-3801
   quote: Dr. Condon’s report provided the Air Force the excuse it sought to close
@@ -896,7 +648,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
-- text: NAS panel tasked to examine the Condon Report, late 1968
+- text: NAS panel tasked in late 1968 to examine the Condon Report after criticism
+    including from Hynek
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:51999-52240
@@ -908,7 +661,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-43c0d16a-0321-4689-8f27-edc439bd870b
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-43c0d16a-0321-4689-8f27-edc439bd870b
-- text: Seamans announced termination on 1969-12-17
+- text: Seamans announced Blue Book's termination on 1969-12-17
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:45196-45304
@@ -918,8 +671,10 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-- text: 'Seamans memorandum: no longer justified'
-  source: 'Glowing Auras and Black Money: The Pentagon''s Mysterious U.F.O. Program'
+- text: 'Seamans memorandum: ''no longer can be justified either on the ground of
+    national security or in the interest of science'''
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
   location: char:6854-7082
   quote: Robert C. Seamans Jr., the secretary of the Air Force at the time, said in
     a memorandum announcing the end of Project Blue Book that it “no longer can be
@@ -928,43 +683,28 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
-- text: Kimball ordered independent naval intelligence UAP reports
-  source: In Plain Sight
-  location: ch8:14659-14773
-  quote: Kimball decided to order his own naval intelligence reports on UAPs – independent
-    of the air force's Project Blue Book
-  claim_id: 7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
-- text: About a 40-year gap before AAWSAP/AATIP
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:14327-14455
-  quote: Prior to AAWSAP/AATIP there was about a 40 year gap in UAP investigation
-    programs since the termination of Project BLUE BOOK in 1969.
-  claim_id: e11c6186-2c65-4452-9fd4-5ec671f39e11
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
-- text: AAWSAP employed 50 investigators, more than Blue Book, UAPTF or AARO
-  source: Statement to Congress
-  location: char:10408-10520
-  quote: At one point, it employed 50 full time investigators, far more than Project
-    Blue Book or the UAP Task Force, or AARO.
-  claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-346e7c33-c4df-45ea-bc82-54fe11f9b7cf
-- text: 'Moultrie: AATIP and Blue Book only prior programmes he knew of'
+- text: USAF closed the project in 1970, ending official UFO investigations without
+    explanation for many incidents
+  source: Surviving Death
+  location: ch44:21793-21958
+  quote: the Air Force closed down the program in 1970, ending all official investigations—or
+    so they said publicly—without having found an explanation for many shocking UFO
+    incidents.
+  claim_id: 950b682d-ee99-4f62-adc6-0dcd4e85a1a5
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-950b682d-ee99-4f62-adc6-0dcd4e85a1a5
+- text: USAF abandoned Blue Book in 1970, its public-relations effort to investigate
+    and discredit UAP reports
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:33937-34042
-  quote: the head of the Pentagon’s intelligence efforts, Ronald Moultrue, said, “Other
-    than AATIP and Blue Book, no.”
-  claim_id: d18804aa-a138-4cf2-8047-0dd432dcb9c2
+  location: ch6:1755-1878
+  quote: from 1970, when the US Air Force abandoned Project Blue Book (its public
+    relations effort to investigate and discredit UAP reports)...
+  claim_id: c31a59fe-6b19-4b30-8247-a1ed3291f275
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
-- text: AARO examined Blue Book records spanning 1947-1969
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c31a59fe-6b19-4b30-8247-a1ed3291f275
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c31a59fe-6b19-4b30-8247-a1ed3291f275
+- text: AARO partnered with the National Archives to examine Blue Book's records,
+    spanning 1947-1969
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:45410-45542
@@ -974,7 +714,7 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-84446458-da85-4387-9fb6-4288e8fb0821
-- text: Documentation totals 7,252 files, 65,778 digital records
+- text: Documentation totalled 7,252 files holding 65,778 digital records
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:45607-45697
@@ -984,7 +724,17 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
-- text: AARO review found sighting spikes in 1952-1957 and 1960
+- text: Vast majority of files are USAF documentation
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:45706-45847
+  quote: The vast majority of the files are populated with USAF documentation. Some
+    cases contain media clippings and images, but these instances are rare.
+  claim_id: a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
+- text: Sighting spikes from 1952 to 1957 and again in 1960
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:115679-115796
@@ -994,31 +744,186 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1e97c9b0-f814-4e8f-b929-82030bf69ec2
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1e97c9b0-f814-4e8f-b929-82030bf69ec2
+- text: About a 40-year gap in UAP investigation programmes until AAWSAP/AATIP
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:14327-14455
+  quote: Prior to AAWSAP/AATIP there was about a 40 year gap in UAP investigation
+    programs since the termination of Project BLUE BOOK in 1969.
+  claim_id: e11c6186-2c65-4452-9fd4-5ec671f39e11
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
+- text: AAWSAP/AATIP research included reviewing older Project Blue Book cases
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:60826-61022
+  quote: 'This research included: reviewing new cases and much older Project BLUE
+    BOOK cases, operating debriefing and investigatory teams, and proposals to set
+    up laboratories to examine any recovered UFO materials.'
+  claim_id: 1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
+- text: Moultrie testified AATIP and Blue Book were the only prior UAP research programmes
+    he knew of
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:33937-34042
+  quote: the head of the Pentagon’s intelligence efforts, Ronald Moultrue, said, “Other
+    than AATIP and Blue Book, no.”
+  claim_id: d18804aa-a138-4cf2-8047-0dd432dcb9c2
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
+- text: Sheehan viewed the secret Blue Book files in 1977
+  source: In Plain Sight
+  location: ch11:22659-22715
+  quote: that extraordinary 1977 viewing of the secret Blue Book files
+  claim_id: 3b095df3-302b-4a48-89d2-41244d868076
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b095df3-302b-4a48-89d2-41244d868076
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b095df3-302b-4a48-89d2-41244d868076
+- text: Sheehan told Marcia Smith he wanted to see the classified Blue Book files
+  source: In Plain Sight
+  location: ch11:17952-18137
+  quote: He was aware of allegations that the most important UAP sightings reports
+    had been withheld from Blue Book and so he told Marcia Smith he wanted to see
+    'the classified portions of Blue Book'.
+  claim_id: fc25474d-726c-4b97-a150-23912742e24a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc25474d-726c-4b97-a150-23912742e24a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fc25474d-726c-4b97-a150-23912742e24a
+- text: Sheehan recalled telling Smith 'you never get if you don't ask'
+  source: In Plain Sight
+  location: ch11:18145-18373
+  quote: '''She said, "Oh no, they''re not going to give that stuff to us. I''m sure
+    they won''t give it to us." I said, "Well, you never get if you don''t ask",''
+    Sheehan told me, in an interview from his Romero Institute office in Santa Cruz,
+    California.'
+  claim_id: 0e091c7f-ecb4-44e3-adb9-43c608064434
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
+- text: Smith called a week later with news that permission had been granted
+  source: In Plain Sight
+  location: ch11:18385-18520
+  quote: According to Sheehan, a week or so later, Smith called him with the surprising
+    news that permission had been given for him to view the files.
+  claim_id: c5f64182-a157-4e8f-a44e-fdba22ae775e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
+- text: Sheehan arrived at the Library of Congress's Madison wing, Washington DC
+  source: In Plain Sight
+  location: ch11:18528-18768
+  quote: So, on a Saturday morning in Washington DC in the late spring of 1977, an
+    eager Daniel Sheehan arrived at the still-uncompleted Madison wing of the Library
+    of Congress for a cloak-and-dagger rendezvous with the classified Project Blue
+    Book documents.
+  claim_id: 805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
+- text: Room set up with foldout tables, a microfiche viewer and boxes of microfiche
+    canisters
+  source: In Plain Sight
+  location: ch11:19199-19342
+  quote: Inside the room, there were foldout tables set up with a microfiche viewing
+    machine and shoebox-sized green cardboard boxes full of microfiche canisters.
+  claim_id: 71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
+- text: Sheehan recalls being told he could not take notes
+  source: In Plain Sight
+  location: ch11:21063-21137
+  quote: I’ve got these symbols on this thing and they told me I couldn’t take any
+    notes.
+  claim_id: b48f92aa-a46e-4118-be23-b0f8dac20a7d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
+- text: Sheehan says the images showed a full-scale classic saucer with a dome
+  source: In Plain Sight
+  location: ch11:20079-20168
+  quote: asserting that what he saw in the multiple images was a full-scale classic
+    saucer with a dome
+  claim_id: 44365c27-39ce-4a02-95ee-1a5cca7adf3b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
+- text: Sheehan says the craft had crashed in a snow-covered field
+  source: In Plain Sight
+  location: ch11:20174-20235
+  quote: The craft he saw had crashed in a field and was covered with snow.
+  claim_id: db0d6122-9c9c-4e85-bb83-2b19583cd9fa
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
+- text: Sheehan remains convinced the images were photographic evidence of an extra-terrestrial
+    spacecraft
+  source: In Plain Sight
+  location: ch11:21991-22139
+  quote: Daniel Sheehan is absolutely convinced that what he saw in the Project Blue
+    Book microfiche files was photographic evidence of an extra-terrestrial spacecraft.
+  claim_id: 734d2b09-f760-44de-a70f-c17936bcd24a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-734d2b09-f760-44de-a70f-c17936bcd24a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-734d2b09-f760-44de-a70f-c17936bcd24a
+- text: Neither of the two 1977 classified reports for President Carter mentioned
+    the images
+  source: In Plain Sight
+  location: ch11:24824-24947
+  quote: alarmingly, he says neither mentioned the images of a recovered craft he
+    claims he saw in the classified Project Blue Book files
+  claim_id: 6e8e4678-8cd7-482f-bf51-963d77028d1a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
+- text: Sheehan's account has gone unchallenged by any official
+  source: In Plain Sight
+  location: ch11:21749-21801
+  quote: Aside from the fact that Sheehan’s account has gone unchallenged
+  claim_id: b2cc72fd-2c40-498a-8210-b5d265f47ef5
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
+- text: No one in government or the military has ever responded to, explained or acknowledged
+    the discovery or the incursion
+  source: In Plain Sight
+  location: ch11:27621-27778
+  quote: the most notable thing about both incidents is that no one in either the
+    government or military has ever sought to respond to, explain or acknowledge either
+    event
+  claim_id: 4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: ccd773b9304813380d066e3296dc0201e36a2301afcd5b6189c687b8ed8de5f3
+  prompt_sha256: fc0d27e624ffe893b74c2bda8800827e9a051523fea57b5a04a061028841832a
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 90355
-    output: 58540
+    input: 91746
+    output: 53429
     real_input: 2
-    cache_read: 33634
-    cache_write: 56719
+    cache_read: 39417
+    cache_write: 52327
     calls: 0
-  body_sha256: 85b9fea59f2ba36efbeb5f0c1dea96985d4759bfa0f0dc166fb3a7310963a642
+  body_sha256: fdfb45c0f8576b8a7e92bc40a08d8071872bd2b65dc01d2deef88538705de407
 ---
 
-Project Blue Book was the code name for the group that studied [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) for the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) from 1952 to 1969.<sup>1</sup> According to Chris Ramsay, the Roswell crash and the sighting by [Kenneth Arnold](/people/kenneth-arnold), followed by the Aztec crash, prompted government and military interest in [UFOs](/topics/unidentified-flying-object-ufo) that led to the formation of Project GRUDGE, which later turned into Project Blue Book.<sup>2</sup> The USAF's Director of Intelligence, Major General Charles P. Cabell, established the programme;<sup>3</sup> it took its final form in 1952, when Project GRUDGE became Project Blue Book.<sup>4</sup> It was based at [Wright-Patterson Air Force Base](/places/ohio-wright-patterson-air-force-base-usa) near Dayton, Ohio,<sup>5</sup> and its brief was to determine whether UFOs posed a threat to national security and to scientifically analyse the data gathered.<sup>6</sup> It has been described as the longest-running UFO/UAP investigation.<sup>7</sup> Blue Book was led successively by Capt [Edward Ruppelt](/people/edward-ruppelt), its first director,<sup>8</sup> previously the head of the reorganised Project GRUDGE,<sup>9</sup> followed by Capt Charles Hardin, Capt George T. Gregory, Lt Col Roger J. Friend, and Lt Col Hector Quintanilla, Jr.<sup>10</sup>
+According to researcher Chris Ramsay, the Roswell crash and the sighting by [Kenneth Arnold](/people/kenneth-arnold), followed by the Aztec crash, prompted government and military interest in UFOs that led to the formation of Project Grudge, which later became Project Blue Book.<sup>1</sup> Project Blue Book was the code name for the group that studied [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) for the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) from 1952 to 1969.<sup>2</sup> It was established in 1952, when the USAF Director of Intelligence initiated the project to investigate [Unidentified Flying Objects (UFO)](/topics/unidentified-flying-object-ufo),<sup>3</sup> reorganised from the preceding [Project GRUDGE](/projects/project-grudge)<sup>4</sup> and credited to USAF Director of Intelligence Major General Charles P. Cabell.<sup>5</sup> Based at [Wright-Patterson Air Force Base](/places/ohio-wright-patterson-air-force-base-usa) near Dayton, Ohio,<sup>6</sup> it became the longest-running UFO/UAP investigation,<sup>7</sup> with a brief to determine whether UFOs were a threat to national security and to scientifically analyse the data gathered.<sup>8</sup>
 
-Between 1952 and 1969, USAF personnel investigated over 12,000 reported UFO sightings,<sup>11</sup> eventually totalling 12,618 UAP reports from both civilian and military witnesses.<sup>12</sup> Blue Book dismissed the vast majority of these as misidentifications with prosaic explanations,<sup>13</sup> and a small percentage was classified as "unexplained" even after stringent analysis;<sup>14</sup> of the more than 12,000 sightings investigated, 701 remained unexplained.<sup>15</sup> According to the Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I, cases were organised into three categories - identified, insufficient data, and unidentified<sup>16</sup> - and investigators most often attributed sightings to astronomical objects such as Venus, Jupiter and Mars observed through haze or moving cloud,<sup>17</sup> to weather balloons and large research balloons up to around 90 metres in diameter,<sup>18</sup> to aircraft whose sunlit surfaces, seen at high altitude and distance, could appear disc- or rocket-shaped,<sup>19</sup> and to causes including satellites, birds, flares and confirmed hoaxes.<sup>20</sup>
+The project was led successively by Capt Edward J. Ruppelt, former director of the reorganised Project GRUDGE (Reestablishment),<sup>9</sup> then by Capt Charles Hardin, Capt George T. Gregory, Lt Col Roger J. Friend, and Lt Col Hector Quintanilla, Jr.<sup>10</sup> [Edward Ruppelt](/people/edward-ruppelt) was Blue Book's first director.<sup>11</sup> [J. Allen Hynek](/people/j-allen-hynek), a civilian scientist, served as the project's consultant<sup>12</sup> and lead scientific investigator.<sup>13</sup> Hynek later said the USAF expected him to perform the role of debunker,<sup>14</sup> and Ruppelt himself wrote that he was expected to explain away every report, with the Air Force seeking press stories that aligned with its position.<sup>15</sup> In March 1966, [Jacques Vallée](/people/jacques-vallee) alerted Hynek to a wave of sightings in Michigan, and Hynek in turn telephoned Blue Book in Dayton, Ohio to propose an investigation.<sup>16</sup> At the insistence of Michigan congressman Gerald Ford, Hynek's investigation into the 1966 Michigan swamp gas UAP sightings announced that witnesses had seen swamp gas.<sup>17</sup> According to Luis Elizondo, Ford himself remained sceptical of that finding.<sup>18</sup>
 
-[J. Allen Hynek](/people/j-allen-hynek), an academic and astronomer, served as the scientific consultant to Project Blue Book<sup>21</sup> and later as its lead scientific investigator,<sup>22</sup> becoming the lead scientist in charge of the USAF's UAP investigation team.<sup>23</sup> Hynek said that the USAF expected him to perform the role of debunker,<sup>24</sup> and Ruppelt, the programme's first chief, later wrote that he was expected to explain away every report and that the USAF sought to produce press stories in alignment with its position.<sup>25</sup> At the insistence of Michigan congressman Gerald Ford, Hynek's Blue Book reviewed the 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings and announced that the witnesses had seen swamp gas.<sup>26</sup> Luis Elizondo has said that Ford remained forever sceptical of that finding,<sup>27</sup> and the Ford Presidential Library has released at least fifteen documents related to it.<sup>28</sup>
+Between 1952 and 1969, USAF personnel investigated more than 12,000 reported UFO sightings,<sup>19</sup> 12,618 in total.<sup>20</sup> According to a US government historical review, 701 of these were categorised as unidentified and never solved,<sup>21</sup> with cases sorted into three categories: identified, insufficient data, and unidentified.<sup>22</sup> The project dismissed the vast majority of reports as misidentifications with prosaic explanations.<sup>23</sup> The [United States Navy (USN)](/organisations/united-states-navy-usn) pursued a parallel channel: Dan Kimball ordered his own naval intelligence reports on UAP, independent of the Air Force's project.<sup>24</sup> According to [Harry Turner](/people/harry-turner), the US Air Force Office of Special Investigations persuaded the Air Force in 1953 to use the project as a means of publicly debunking UFOs.<sup>25</sup> The book In Plain Sight describes the project as having often been derided for its perceived over-zealousness in aggressively debunking almost all UAP sightings.<sup>26</sup> David Fravor has said the project worked to debunk and disprove sightings, at times to the point of discrediting witnesses,<sup>27</sup> and has described it as having represented an active disinformation campaign to deny the existence of UAP.<sup>28</sup> The US government maintained a serious background interest in UAP while the project publicly explained sightings away as prosaic causes such as ball lightning and swamp gas.<sup>29</sup> By 1967, [James MacDonald](/people/james-macdonald) found that the project, by then about fourteen years old,<sup>30</sup> consisted of only three people: a major, a sergeant and a secretary,<sup>31</sup> and considered the regard in which it was held unjustified, describing its investigations as superficial and conducted by persons of extremely low scientific competence.<sup>32</sup>
 
-Blue Book attracted sustained internal and external criticism. [Jacques Vallée](/people/jacques-vallee), who as a young researcher worked with Hynek organising the programme's papers,<sup>29</sup> observed that certain files had disappeared from the archives<sup>30</sup> and that the best photographic evidence was missing.<sup>31</sup> Vallée said that files were lost and cases mislabelled to a degree that would have warranted disciplinary action in any other context,<sup>32</sup> that reports of UFO landings by reliable observers - sometimes Air Force personnel themselves - went uninvestigated for weeks at a time,<sup>33</sup> and that he at one point believed the programme was only a front to keep civilian scientists from investigating a matter regarded in high places as serious.<sup>34</sup> [Harry Turner](/people/harry-turner), who met Hynek during a visit to Australia,<sup>35</sup> asserted that in 1953 the USAF Office of Special Investigations persuaded the Air Force to use the Blue Book investigation as a means of publicly debunking UFOs,<sup>36</sup> and dismissed the programme after its 1969 closure.<sup>37</sup> Physicist [James MacDonald](/people/james-macdonald), who investigated the programme in 1967, found it then staffed by three people - a major, a sergeant and a secretary<sup>38</sup> - after around 14 years in operation,<sup>39</sup> and considered the high regard in which it was held completely unjustified, its investigations superficial and conducted by persons of low scientific competence.<sup>40</sup> According to MacDonald, the USAF issued press releases about the thoroughness of its investigations, indicating that only two or three per cent of cases were unknowns which the Air Force insisted would probably be explained with more data.<sup>41</sup> Ross Coulthart has said he finds it difficult to escape the impression that the true purpose of Blue Book and the [Condon Report](/documents/condon-report) was to shut down public interest in and scrutiny of UAP sightings,<sup>42</sup> and that the programme appears to have been largely for public show.<sup>43</sup>
+The 1953 Robertson Panel, described as the impetus for Project Blue Book, recommended a media campaign to manage public perception of the phenomenon.<sup>33</sup> The [Condon Report](/documents/condon-report) subsequently gave the USAF the justification it had sought to close the project,<sup>34</sup> and after the report drew criticism from scientists including Hynek, a National Academy of Sciences panel was tasked in late 1968 with examining its rigour, methodology and conclusions.<sup>35</sup> Secretary of the Air Force Robert C. Seamans Jr. announced Project Blue Book's termination on 1969-12-17,<sup>36</sup> stating in his memorandum that it "no longer can be justified either on the ground of national security or in the interest of science."<sup>37</sup> The Air Force closed the project in 1970, publicly ending official UFO investigations without having found an explanation for many incidents,<sup>38</sup> by which point it operated largely as a public-relations effort to investigate and discredit UAP reports.<sup>39</sup>
 
-Individual cases follow a similar pattern. When a shower of bright objects was reported in the Midwest, Quintanilla, then heading Blue Book, rose at 4:00 a.m., ordered the area sealed by Air Force police, and supervised a square-inch by square-inch search of an entire forest for possible debris.<sup>44</sup> According to In Plain Sight, declassified CIA files show Quintanilla was convinced Lonnie Zamora was telling the truth about his 1964 sighting and described the case as the best-documented case on record,<sup>45</sup> though Blue Book investigators reached no conclusion about the object Zamora saw and declared the case "still open".<sup>46</sup> The same source states that Blue Book officially wrote off the object that crashed near Kecksburg, Pennsylvania in December 1965 as a meteorite.<sup>47</sup> Reports in which UAP affected national security were routinely withheld from Blue Book's scrutiny,<sup>48</sup> and, according to In Plain Sight, the US Air Command created the 4602d Air Intelligence Service Squadron in 1953 to confidentially vet UAP reports before they reached Blue Book, culling any that raised national security concerns.<sup>49</sup> Allegations that important reports were withheld resurfaced in the 1977 Daniel Sheehan Library of Congress Blue Book viewing, when civil-rights lawyer Daniel Sheehan, aware of claims that significant UAP sightings had been kept out of Blue Book, told Marcia Smith he wanted to see its classified portions.<sup>50</sup> Sheehan recalled telling Smith, when she doubted the files would be released, "you never get if you don't ask";<sup>51</sup> according to Sheehan, Smith called back about a week later with permission granted.<sup>52</sup> On a Saturday morning in the late spring of 1977, Sheehan arrived at the still-uncompleted Madison wing of the Library of Congress in [D.C. Washington](/places/washington-dc-usa) to view the classified documents,<sup>53</sup> in a room set up with foldout tables, a microfiche viewing machine, and shoebox-sized green cardboard boxes full of microfiche canisters.<sup>54</sup> Sheehan asserts that among the images he saw was a full-scale classic saucer with a dome,<sup>55</sup> which he says had crashed in a field and was covered with snow;<sup>56</sup> he recalls being told he could not take notes during the viewing,<sup>57</sup> and has said he is absolutely convinced that what he saw was photographic evidence of an extraterrestrial spacecraft.<sup>58</sup> Sheehan says that neither of the two 1977 classified reports on UAPs and extra-terrestrial intelligence for President Carter mentioned the images he claims to have seen,<sup>59</sup> and his account has gone unchallenged by any official.<sup>60</sup>
+The [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) partnered with the US National Archives to examine Blue Book's records, which span 1947 to 1969,<sup>40</sup> amounting to 7,252 files holding 65,778 digital records,<sup>41</sup> the vast majority of them USAF documentation.<sup>42</sup> AARO's review found a spike in reported sightings from 1952 to 1957 and another spike in 1960.<sup>43</sup> Roughly forty years passed between Blue Book's termination and the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) and [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip),<sup>44</sup> whose research, according to the AARO historical report, included reviewing older Blue Book cases.<sup>45</sup> At a May 2022 congressional hearing, Ronald Moultrie, then head of the Pentagon's intelligence efforts, testified under oath that AATIP and Project Blue Book were the only prior UAP research programmes of which he was aware.<sup>46</sup>
 
-According to In Plain Sight, by the time of the Condon Report, Blue Book's investigations into UAP were publicly perceived as seriously compromised by a debunking agenda,<sup>61</sup> and Edward Condon's report provided the USAF the justification it sought to close the programme.<sup>62</sup> After the Condon Report was criticised by some scientists, including Hynek, a panel of the National Academy of Sciences was tasked in late 1968 to examine its rigour, methodology and conclusions.<sup>63</sup> Secretary of the Air Force Robert C. Seamans, Jr. announced Blue Book's termination on 1969-12-17,<sup>64</sup> stating in his memorandum that it "no longer can be justified either on the ground of national security or in the interest of science."<sup>65</sup> Independently of the Air Force programme, the [United States Navy (USN)](/organisations/united-states-navy-usn) had ordered its own naval intelligence reports on UAP under Dan Kimball.<sup>66</sup> No replacement UAP investigation programme followed for around 40 years, until the creation of the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) and the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip).<sup>67</sup> AAWSAP at one point employed 50 full-time investigators, far more than Blue Book, the Unidentified Aerospace Phenomena Task Force, or the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro).<sup>68</sup> At a May 2022 congressional hearing, Ronald Moultrie, then head of the Pentagon's intelligence efforts, testified under oath that AATIP and Blue Book were the only prior UAP research programmes he was aware of.<sup>69</sup> AARO partnered with the US National Archives to examine Blue Book's records, which span from 1947 to 1969<sup>70</sup> and amount to 7,252 files holding a total of 65,778 digital records.<sup>71</sup> AARO's review found a spike in reported UAP sightings from 1952 to 1957 and another in 1960.<sup>72</sup>
+In 1977, attorney Daniel Sheehan viewed Blue Book's classified holdings.<sup>47</sup> Aware of allegations that the most important UAP reports had been withheld from the project, he had told Marcia Smith of the Library of Congress that he wanted to see them,<sup>48</sup> recalling that he told her "you never get if you don't ask."<sup>49</sup> A week later, Smith called him with news that permission had been granted.<sup>50</sup> On a Saturday morning in the late spring of 1977, Sheehan arrived at the then-uncompleted Madison wing of the Library of Congress in [D.C. Washington](/places/washington-dc-usa) to view the classified documents, an occasion later recounted as the 1977 Daniel Sheehan Library of Congress Blue Book viewing,<sup>51</sup> held in a room set up with foldout tables, a microfiche viewer and shoebox-sized boxes of microfiche canisters.<sup>52</sup> He recalls being told he could not take notes,<sup>53</sup> and says the images showed a full-scale classic saucer with a dome<sup>54</sup> that had crashed in a snow-covered field.<sup>55</sup> Sheehan says he remains convinced the images were photographic evidence of an extra-terrestrial spacecraft.<sup>56</sup> He recalls that neither of the two 1977 classified reports prepared for President Carter mentioned the images he says he saw,<sup>57</sup> and his account has gone unchallenged by any official,<sup>58</sup> with no one in government or the military ever seeking to respond to, explain or acknowledge his discovery or a reported incursion at the sensitive military facility.<sup>59</sup>

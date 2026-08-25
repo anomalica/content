@@ -1,12 +1,16 @@
 ---
 title: Joseph McMoneagle
-description: A former United States Army intelligence officer known as remote viewer
-  number 001, who took part in the US military's remote-viewing programme and later
-  worked as a researcher, author, and trainer in the field.
+aliases:
+- /people/joe-mcmoneagle/
+- /en/people/joe-mcmoneagle/
+description: Joseph McMoneagle is a former United States Army officer who worked as
+  a remote viewer within the US military's Project STARGATE programme, later becoming
+  a professional remote viewing researcher, instructor and author.
 metadata:
-  role: Remote viewer ("Remote Viewer 001")
-  affiliation: United States Army; The Laboratories for Fundamental Research, Cognitive
-    Sciences Laboratory; Intuitive Intelligence Applications, Inc.
+  role: Remote viewer; researcher, instructor and author on remote viewing methodology
+  affiliation: United States Army; Project STARGATE; The Laboratories for Fundamental
+    Research, Cognitive Sciences Laboratory; Intuitive Intelligence Applications,
+    Inc.
 built_from:
   brief_hash: 379716ee5ea76127df85d6cc7cb2153afa4a706d8574bd6be59cbdfd3ed60559
   claims:
@@ -411,7 +415,7 @@ built_from:
   - id: baef5e12-eeda-4d54-a79f-54a60695c2fb
     hash: b382b08683f513b984d306979ec5edae9f2d46fd0e4da4bdc12a09dcd0d2e894
 references:
-- text: Known as remote viewer number 001.
+- text: McMoneagle was designated remote viewer number 001 within Project STARGATE.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:06:32.7-00:06:35.0
@@ -419,17 +423,7 @@ references:
   claim_id: bc63c251-b9eb-4f83-b8bf-3b327c7168ad
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bc63c251-b9eb-4f83-b8bf-3b327c7168ad
-- text: Said he undertook about 450 missions between 1978 and 1984, per the Washington
-    Post.
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:06:37.0-00:06:45.1
-  quote: He participated in approximately 450 missions between 1978 and 1984, as he
-    later told the Washington Post
-  claim_id: 7a05553e-e4c2-46a2-95ca-0030814269f2
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
-- text: Helped the US Army locate hostages in Iran.
+- text: He helped the United States Army locate hostages in Iran.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:06:46.0-00:06:48.0
@@ -437,8 +431,8 @@ references:
   claim_id: 1243990d-fdaa-4615-82d8-e94b476d05b3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1243990d-fdaa-4615-82d8-e94b476d05b3
-- text: Pointed CIA agents to a hidden shortwave radio on a suspected KGB agent in
-    South Africa.
+- text: He pointed CIA agents to a shortwave radio hidden in a suspected KGB agent's
+    pocket calculator in South Africa.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:06:49.2-00:06:57.2
@@ -447,8 +441,81 @@ references:
   claim_id: 9dc9034b-0dc9-4124-99a7-d99334fece2c
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9dc9034b-0dc9-4124-99a7-d99334fece2c
-- text: Became a full-time research associate at the Cognitive Sciences Laboratory,
-    Palo Alto.
+- text: McMoneagle told the Washington Post he ran roughly 450 missions between 1978
+    and 1984.
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:06:37.0-00:06:45.1
+  quote: He participated in approximately 450 missions between 1978 and 1984, as he
+    later told the Washington Post
+  claim_id: 7a05553e-e4c2-46a2-95ca-0030814269f2
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
+- text: Project STARGATE originally used extensive testing and vetting to ensure participant
+    stability.
+  source: Remote Viewing Secrets
+  location: ch16:34233-34403
+  quote: At the outset of the military STARGATE Program, great effort was made to
+    insure that stability. But testing, multiple interviews, and a long term vetting
+    process is very expensive.
+  claim_id: 3857c148-bd5d-4775-b099-711a055bf00c
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3857c148-bd5d-4775-b099-711a055bf00c
+- text: The vetting process was later dropped to reduce costs.
+  source: Remote Viewing Secrets
+  location: ch16:34414-34504
+  quote: Later in the program, a decision was made to no longer do this testing in
+    order to reduce costs.
+  claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
+- text: Dropping vetting left some previously stable participants destabilised.
+  source: Remote Viewing Secrets
+  location: ch16:34511-34812
+  quote: Without going into specific personalities, I can say that in more than one
+    case, otherwise stable individuals were stripped of their psychological boundaries,
+    and subjected to areas of inquiry that they should not have been. As a result
+    they became quite unstable, emotionally, mentally, or sometimes both.
+  claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
+- text: McMoneagle reports personal risk of self-delusion regarding remote viewing.
+  source: Remote Viewing Secrets
+  location: ch15:11293-11406
+  quote: I have found myself strolling down that path on more than one occasion and
+    suspect that I will find myself there again.
+  claim_id: 380ee4b2-6b30-4539-954b-4259d013f67a
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-380ee4b2-6b30-4539-954b-4259d013f67a
+- text: Edwin C. May commented on a near-perfect match between McMoneagle's drawings
+    and a target.
+  source: Remote Viewing Secrets
+  location: ch14:23504-23612
+  quote: Somewhere in that interview he was commenting on the near-perfect match between
+    some of my drawings and the target.
+  claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
+- text: May said McMoneagle produced spectacular detail about twenty percent of the
+    time.
+  source: Remote Viewing Secrets
+  location: ch14:23620-23819
+  quote: His statement was something like, "Joe provides this kind of spectacular
+    detail about twenty percent of the time. Scientists don't like to say this, but
+    that's about as close to a miracle as one can get."
+  claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
+- text: May put McMoneagle's target hit rate at around sixty to sixty-five percent.
+  source: Remote Viewing Secrets
+  location: ch14:23826-23940
+  quote: This statement was made along with other statements that reflected a target
+    hit rate of about sixty to sixty-five percent.
+  claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
+- text: McMoneagle is a full-time research associate with the Cognitive Sciences Laboratory
+    in Palo Alto.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:12:08.4-00:12:25.6
@@ -459,7 +526,45 @@ references:
   claim_id: a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
-- text: Studied martial arts and remote viewing for over twenty years by 2013.
+- text: McMoneagle on the meaning of 'perform well' in the Puthoff/Targ SRI International
+    report.
+  source: Remote Viewing Secrets
+  location: ch16:3129-3267
+  quote: What they actually mean here is the ability to display psychic functioning
+    under controlled conditions (or achieving a better than chance result).
+  claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
+- text: About twenty percent of contacts to his office sought help after remote viewing
+    exposure.
+  source: Remote Viewing Secrets
+  location: ch16:35676-35955
+  quote: About twenty percent of the people who contact me through my office at Intuitive
+    Intelligence Applications are looking for help in regaining their stable pre-exposure
+    attitudes. Since I am not a psychiatrist or psychologist, I am forced to refer
+    them to qualified counselors for help.
+  claim_id: 5787783f-8ed3-4dc4-9934-7886a9ee754a
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5787783f-8ed3-4dc4-9934-7886a9ee754a
+- text: McMoneagle lived in Nelliesford, Virginia, the location of the Monroe Institute.
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:38:12.1-00:38:19.5
+  quote: And not by coincidence, also the location of Joe McMoneagle, remote viewer
+    number 001. It was time to head to Nelliesford, Virginia.
+  claim_id: 355e889c-1821-47af-a08f-484a9c83c15a
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-355e889c-1821-47af-a08f-484a9c83c15a
+- text: McMoneagle laid out belt-ranked remote viewing skill levels, RV'do.
+  source: Remote Viewing Secrets
+  location: ch13:665-795
+  quote: In keeping with the concept of RV'do, I've laid these out much like the different
+    belts one might expect to find within a martial art.
+  claim_id: f4f74110-5293-40b8-97fc-e58047c86146
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4f74110-5293-40b8-97fc-e58047c86146
+- text: He had studied martial arts and remote viewing for over twenty years as of
+    2013.
   source: Remote Viewing Secrets
   location: ch10:1225-1417
   quote: having studied the martial arts as well as remote viewing for over twenty
@@ -468,41 +573,7 @@ references:
   claim_id: d84a0cf8-4cb1-4886-9135-66e4fa570c49
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d84a0cf8-4cb1-4886-9135-66e4fa570c49
-- text: Devised the RV'do belt-ranking framework for remote-viewing skill.
-  source: Remote Viewing Secrets
-  location: ch13:665-795
-  quote: In keeping with the concept of RV'do, I've laid these out much like the different
-    belts one might expect to find within a martial art.
-  claim_id: f4f74110-5293-40b8-97fc-e58047c86146
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4f74110-5293-40b8-97fc-e58047c86146
-- text: 'Black Belt First Stage: at least fifty percent target-hit accuracy.'
-  source: Remote Viewing Secrets
-  location: ch13:10742-10826
-  quote: One can expect to be hitting a randomly chosen target at least fifty percent
-    of the time
-  claim_id: f2b7c2c1-b2e9-4d29-a2a7-349f69da3771
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f2b7c2c1-b2e9-4d29-a2a7-349f69da3771
-- text: 'Black Belt First Stage: 30-50 percent sense-making information about the
-    target.'
-  source: Remote Viewing Secrets
-  location: ch13:10836-11013
-  quote: one should be able to produce 30 to 50 percent information that makes a lot
-    of sense about the target, shows significant details, and/or establishes solid
-    conclusions about the target.
-  claim_id: c1aa074f-cca1-4c0c-9924-570b701163a0
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c1aa074f-cca1-4c0c-9924-570b701163a0
-- text: 'Black Belt Second Stage: viewers learn front-loading aspects.'
-  source: Remote Viewing Secrets
-  location: ch13:13438-13542
-  quote: a second stage black belt can still learn the non-viewing aspects of this
-    stage, which deal with "front loading."
-  claim_id: 9fa03507-90c6-4167-8de9-f0b1ba9e948e
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa03507-90c6-4167-8de9-f0b1ba9e948e
-- text: 'Outbounder protocol: monitor never guides or interferes with the viewer.'
+- text: 'Outbounder Remote Viewing: the monitor''s role.'
   source: Remote Viewing Secrets
   location: '48'
   quote: Monitors sit with viewers while they are doing remote viewing. ... In any
@@ -511,8 +582,7 @@ references:
   claim_id: 4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
-- text: 'Outbounder protocol: evaluator has no contact with the team until evaluation
-    is complete.'
+- text: 'Outbounder Remote Viewing: the evaluator''s role.'
   source: Remote Viewing Secrets
   location: '52'
   quote: An Evaluator (Analyst). ... In either case, the evaluator should have no
@@ -521,18 +591,7 @@ references:
   claim_id: 63fd581e-bb5c-4127-b9f7-28ca0d5f1961
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fd581e-bb5c-4127-b9f7-28ca0d5f1961
-- text: Advised viewers never be shown a photo of the specific target.
-  source: Remote Viewing Secrets
-  location: '110'
-  quote: Viewers should not be shown photographs of the specific target of interest.
-    ... one of the beautiful things about remote viewing is a viewer's ability to
-    provide what otherwise would be very surprising information. But this can only
-    be done when they have not been steered into some sort of expectancy, or their
-    boundaries have not been perceptively fenced.
-  claim_id: 1c93e751-914b-46e2-8322-4f802e35bfa5
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1c93e751-914b-46e2-8322-4f802e35bfa5
-- text: Recommended keeping viewers blind to the target for verification.
+- text: McMoneagle recommends keeping a viewer blind to the entire target.
   source: Remote Viewing Secrets
   location: ch14:11690-11784
   quote: By keeping the viewer blind to the entire target, you can compare his ground
@@ -540,58 +599,24 @@ references:
   claim_id: 09727dad-afe7-4cb5-91f0-2381a029c411
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-09727dad-afe7-4cb5-91f0-2381a029c411
-- text: Credited Ingo Swann with originating coordinate-based targeting.
+- text: Front-loading is taught as a distinct skill at the Black Belt Second Stage.
   source: Remote Viewing Secrets
-  location: ch17:10096-10320
-  quote: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested
-    the answer. They could use map coordinates to identify a specific location on
-    the ground. Hence was born what is now known as the "coordinate system."
-  claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
+  location: ch13:13438-13542
+  quote: a second stage black belt can still learn the non-viewing aspects of this
+    stage, which deal with "front loading."
+  claim_id: 9fa03507-90c6-4167-8de9-f0b1ba9e948e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
-- text: Believed almost any form of meditation could aid remote-viewing development.
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa03507-90c6-4167-8de9-f0b1ba9e948e
+- text: Coordinate Remote Viewing differs from Outbounder Remote Viewing only in outbounder
+    presence and feedback method.
   source: Remote Viewing Secrets
-  location: ch16:22600-22716
-  quote: Almost any form of meditation works in this regard. If you can learn to meditate,
-    you may learn to be a good remote viewer.
-  claim_id: e396a93c-0c3d-4fa4-9f87-74a46395c6b3
+  location: ch17:12663-12753
+  quote: 'There are only two differences between the outbounder type of protocol and
+    the coordinate protocol:'
+  claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e396a93c-0c3d-4fa4-9f87-74a46395c6b3
-- text: Never saw remote viewing exceed sixty-five percent reliability except roughly
-    five times in twenty-five years.
-  source: Remote Viewing Secrets
-  location: ch14:20903-21029
-  quote: Except for perhaps five occasions I know about in twenty-five years, I've
-    never seen remote viewing exceed sixty-five percent reliability.
-  claim_id: e0ca341e-3218-4af2-af70-725302e9a875
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e0ca341e-3218-4af2-af70-725302e9a875
-- text: Those five high-reliability cases involved two viewers at the Cognitive Sciences
-    Laboratory.
-  source: Remote Viewing Secrets
-  location: ch14:21042-21142
-  quote: These five occasions had to do with only two viewers, both of whom worked
-    in the Cognitive Sciences Lab.
-  claim_id: 06a77554-72b3-4a1c-af35-ec29daf7a338
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-06a77554-72b3-4a1c-af35-ec29daf7a338
-- text: Good remote viewers make target contact fifty to sixty percent of the time.
-  source: Remote Viewing Secrets
-  location: ch14:24476-24567
-  quote: Most good viewers will be able to make contact with a target about 50 to
-    60 percent of the time.
-  claim_id: a69e196d-08df-4859-8d29-72a6d89fa40e
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a69e196d-08df-4859-8d29-72a6d89fa40e
-- text: Chances of a correct UFO-related remote viewing statement are close to zero.
-  source: Remote Viewing Secrets
-  location: ch14:13749-13864
-  quote: In my experience, the chances of stating UFO material obtained through remote
-    viewing is correct are very close to zero.
-  claim_id: 6b78c286-d288-415f-bbc0-dd81317db3fa
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
-- text: UFOs make poor remote-viewing targets due to limited pre-session information.
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
+- text: McMoneagle considers UFOs usually poor remote viewing targets.
   source: Remote Viewing Secrets
   location: ch14:13001-13319
   quote: This is why UFOs and similar kinds of targets usually make lousy remote viewing
@@ -602,8 +627,16 @@ references:
   claim_id: e767ba98-32bc-45eb-9edf-202b26bf2f2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
-- text: Remote viewing generally poor for UFOs, the Loch Ness Monster, Sasquatch,
-    heaven and hell.
+- text: 'McMoneagle: chances of a correct UFO-related statement are close to zero.'
+  source: Remote Viewing Secrets
+  location: ch14:13749-13864
+  quote: In my experience, the chances of stating UFO material obtained through remote
+    viewing is correct are very close to zero.
+  claim_id: 6b78c286-d288-415f-bbc0-dd81317db3fa
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
+- text: McMoneagle considers remote viewing poor for phenomenological targets like
+    UFOs, Loch Ness Monster, Sasquatch.
   source: Remote Viewing Secrets
   location: ch14:17494-17783
   quote: Remote viewing is generally not very good for providing information on mythical
@@ -613,7 +646,8 @@ references:
   claim_id: 01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
-- text: Not opposed to targeting downed-UFO sites or crop circles for verifiable feedback.
+- text: McMoneagle not opposed to targeting downed-UFO or crop-circle sites, since
+    feedback might exist.
   source: Remote Viewing Secrets
   location: ch17:22525-22778
   quote: I'm not dead set against targeting things like the possible sites for downed
@@ -623,118 +657,17 @@ references:
   claim_id: af4616f8-4e75-4737-9238-f04dc5840ed5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-af4616f8-4e75-4737-9238-f04dc5840ed5
-- text: Recounts Edwin May noting a near-perfect drawing match, in 'Put to the Test'.
+- text: McMoneagle believes almost any meditation can help develop remote viewing
+    ability.
   source: Remote Viewing Secrets
-  location: ch14:23504-23612
-  quote: Somewhere in that interview he was commenting on the near-perfect match between
-    some of my drawings and the target.
-  claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
+  location: ch16:22600-22716
+  quote: Almost any form of meditation works in this regard. If you can learn to meditate,
+    you may learn to be a good remote viewer.
+  claim_id: e396a93c-0c3d-4fa4-9f87-74a46395c6b3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
-- text: Recounts May saying he delivers spectacular detail about twenty percent of
-    the time.
-  source: Remote Viewing Secrets
-  location: ch14:23620-23819
-  quote: His statement was something like, "Joe provides this kind of spectacular
-    detail about twenty percent of the time. Scientists don't like to say this, but
-    that's about as close to a miracle as one can get."
-  claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
-- text: Recounts May citing a sixty to sixty-five percent target hit rate for his
-    remote viewing.
-  source: Remote Viewing Secrets
-  location: ch14:23826-23940
-  quote: This statement was made along with other statements that reflected a target
-    hit rate of about sixty to sixty-five percent.
-  claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
-- text: Considered out-of-context editing of an ABC interview unfair to May and himself.
-  source: Remote Viewing Secrets
-  location: ch14:24153-24255
-  quote: This resulted in a huge negative reaction from other viewers, which was grossly
-    unfair to both Ed and me.
-  claim_id: 7f9ad841-47dc-4448-81cb-30c3d542ef53
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7f9ad841-47dc-4448-81cb-30c3d542ef53
-- text: Project STARGATE initially vetted participants' psychological stability closely.
-  source: Remote Viewing Secrets
-  location: ch16:34233-34403
-  quote: At the outset of the military STARGATE Program, great effort was made to
-    insure that stability. But testing, multiple interviews, and a long term vetting
-    process is very expensive.
-  claim_id: 3857c148-bd5d-4775-b099-711a055bf00c
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3857c148-bd5d-4775-b099-711a055bf00c
-- text: Vetting was later cut to reduce costs.
-  source: Remote Viewing Secrets
-  location: ch16:34414-34504
-  quote: Later in the program, a decision was made to no longer do this testing in
-    order to reduce costs.
-  claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
-- text: Stable individuals became unstable after vetting was dropped.
-  source: Remote Viewing Secrets
-  location: ch16:34511-34812
-  quote: Without going into specific personalities, I can say that in more than one
-    case, otherwise stable individuals were stripped of their psychological boundaries,
-    and subjected to areas of inquiry that they should not have been. As a result
-    they became quite unstable, emotionally, mentally, or sometimes both.
-  claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
-- text: Reports personal risk of self-delusion on more than one occasion.
-  source: Remote Viewing Secrets
-  location: ch15:11293-11406
-  quote: I have found myself strolling down that path on more than one occasion and
-    suspect that I will find myself there again.
-  claim_id: 380ee4b2-6b30-4539-954b-4259d013f67a
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-380ee4b2-6b30-4539-954b-4259d013f67a
-- text: Judgement errors traced to ignoring participants' mental state.
-  source: Remote Viewing Secrets
-  location: ch15:11542-11907
-  quote: In my twenty plus years of dealing with conditions surrounding the field
-    of the paranormal, I have seen numerous instances where seriously bad calls have
-    been made. Almost without exception, these bad calls were a result of either not
-    taking a person's mental state seriously or not recognizing the impact that exposure
-    to the paranormal might have on a vulnerable individual.
-  claim_id: 2f61cd3f-9dab-44c6-bf3f-8a91e8c32d32
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2f61cd3f-9dab-44c6-bf3f-8a91e8c32d32
-- text: No factor reliably predicted who could cope with paranormal exposure.
-  source: Remote Viewing Secrets
-  location: ch15:11919-12082
-  quote: Not rank (military or civilian), age, experience, or previously displayed
-    capability in other areas was a good pre-indicator for who could handle it and
-    who could not.
-  claim_id: 82c35359-79ed-4a2a-93e3-43cbb55b9efe
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-82c35359-79ed-4a2a-93e3-43cbb55b9efe
-- text: About twenty percent of contacts to his office sought help after remote-viewing
-    involvement.
-  source: Remote Viewing Secrets
-  location: ch16:35676-35955
-  quote: About twenty percent of the people who contact me through my office at Intuitive
-    Intelligence Applications are looking for help in regaining their stable pre-exposure
-    attitudes. Since I am not a psychiatrist or psychologist, I am forced to refer
-    them to qualified counselors for help.
-  claim_id: 5787783f-8ed3-4dc4-9934-7886a9ee754a
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5787783f-8ed3-4dc4-9934-7886a9ee754a
-- text: Lived in Nelliesford, Virginia, the same location as the Monroe Institute.
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:38:12.1-00:38:19.5
-  quote: And not by coincidence, also the location of Joe McMoneagle, remote viewer
-    number 001. It was time to head to Nelliesford, Virginia.
-  claim_id: 355e889c-1821-47af-a08f-484a9c83c15a
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-355e889c-1821-47af-a08f-484a9c83c15a
-- text: Sent on Monroe Institute weekend retreats to test whether leaving the body
-    improved RV accuracy.
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e396a93c-0c3d-4fa4-9f87-74a46395c6b3
+- text: 'Ramsay: McMoneagle sent to Monroe Institute weekend retreats to test OBE
+    effect on accuracy.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:41:29.5-00:41:46.7
@@ -745,7 +678,8 @@ references:
   claim_id: 6d6628a4-30a2-48f0-9505-950ee2722661
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6d6628a4-30a2-48f0-9505-950ee2722661
-- text: Travelled from Fort Meade to the Monroe Institute for out-of-body training.
+- text: 'Ramsay: McMoneagle travelled from Fort Meade to the Monroe Institute at weekends
+    for OBE training.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:41:47.5-00:41:49.8
@@ -754,7 +688,8 @@ references:
   claim_id: 23dd5ec0-79c7-4414-9e3f-276f88b19a65
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-23dd5ec0-79c7-4414-9e3f-276f88b19a65
-- text: Ganzfeld-effect session using ping-pong balls, described to Ramsay.
+- text: 'Ramsay: a Ganzfeld/ping-pong-ball session preceded a remote viewing of an
+    envelope''s contents.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:47:13.9-00:47:40.3
@@ -768,8 +703,8 @@ references:
   claim_id: ad38163b-07ff-442a-8548-1f64f720686a
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ad38163b-07ff-442a-8548-1f64f720686a
-- text: Projected out-of-body to produce a drawing matching the target photograph
-    exactly.
+- text: 'Ramsay: McMoneagle projected to the photograph''s location and drew a matching
+    image.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:47:41.0-00:47:50.8
@@ -780,16 +715,7 @@ references:
   claim_id: a6b08856-356d-4873-8e41-84e846b2acb1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a6b08856-356d-4873-8e41-84e846b2acb1
-- text: Understood to have felt that going out of body did not help his remote viewing
-    much.
-  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
-    | ep. 99
-  location: 00:47:05.8-00:47:10.1
-  quote: but i also think Joe didn't feel like going out of body helped him very much
-  claim_id: 706d7bb5-028d-490c-906d-49e45462b4e1
-  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-706d7bb5-028d-490c-906d-49e45462b4e1
-- text: Could match target drawings without going out of body, complicating interpretation.
+- text: 'Mossbridge: McMoneagle could match drawings without leaving his body.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:47:51.9-00:47:55.2
@@ -798,7 +724,25 @@ references:
   claim_id: 5f771b5b-be9f-42c0-a1fd-e5fb3edeb88b
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5f771b5b-be9f-42c0-a1fd-e5fb3edeb88b
-- text: Regarded as having been, and remaining, very good at remote viewing.
+- text: 'Mossbridge: McMoneagle felt OBE did not much help his remote viewing.'
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:47:05.8-00:47:10.1
+  quote: but i also think Joe didn't feel like going out of body helped him very much
+  claim_id: 706d7bb5-028d-490c-906d-49e45462b4e1
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-706d7bb5-028d-490c-906d-49e45462b4e1
+- text: Ramsay initially disbelieved McMoneagle's OBE account until his own experience.
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:42:10.9-00:42:13.7
+  quote: Maybe a dream he's having and he's misinterpreting a dream or something,
+    right?
+  claim_id: c38709e6-cdbd-4a6b-ac8b-6664b01de1c4
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c38709e6-cdbd-4a6b-ac8b-6664b01de1c4
+- text: Ramsay regards McMoneagle as having been, and remaining, very good at remote
+    viewing.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:47:55.4-00:47:56.6
@@ -806,18 +750,8 @@ references:
   claim_id: 6cb1687d-d515-4462-80ff-b115a58c4d45
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6cb1687d-d515-4462-80ff-b115a58c4d45
-- text: Higher entropy and life-risk reportedly sharpened target clarity in his sessions
-    with Edwin May.
-  source: I LEFT MY BODY - The Gateway Experience (Part 3)
-  location: 00:15:35.9-00:15:51.0
-  quote: in the work that Dr. May and Joe McMoneagle had done for years was the higher
-    level of entropy and the more at risk a human life was, the clearer the target
-    would become for them.
-  claim_id: 24deef41-5e81-4025-a33e-64f0480100c7
-  record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-24deef41-5e81-4025-a33e-64f0480100c7
-- text: Told by one senator he did the devil's work, by another that he did God's
-    work.
+- text: 'Elizondo: a senator told McMoneagle he did the devil''s work; another said
+    God''s work.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:36598-36861
   quote: 'A senator snarled at him, "You, sir, are doing the work of the devil and
@@ -828,31 +762,42 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
+- text: Mossbridge recalls a story that Russians told Americans 'you killed all your
+    psychics'.
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 02:32:40.8-02:32:57.2
+  quote: And at the time I heard a story, I think it was from Ed May, but maybe it
+    was from Joe, about the Russians in the 90s saying, to America, you killed all
+    your psychics, referring to Pat Price and maybe others.
+  claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-baef5e12-eeda-4d54-a79f-54a60695c2fb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: e7ca5028f0a026361d27bbd212b147403edfc27fff84a98cd126b3d0a952ebc1
+  prompt_sha256: 3f6a7c75c5341ba3c72c717151cb79314ae7113b0e62bfed3fad5be47d46521e
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 106814
-    output: 48660
+    input: 107548
+    output: 35595
     real_input: 2
-    cache_read: 39303
-    cache_write: 67509
+    cache_read: 39417
+    cache_write: 68129
     calls: 0
-  body_sha256: cf31dbad2e5b5e95d5e9dcb04265ce446e1367ad003ce63652a39de6b96c2544
+  body_sha256: f6b53e30cb8402b8fe2f485ed346c5e66c3914406180557c1c2cb66bfe1ff155
 ---
 
-Joseph McMoneagle, known as remote viewer number 001,<sup>1</sup> served as a [United States Army](/organisations/united-states-army) intelligence officer. He has said he took part in approximately 450 missions between 1978 and 1984, in comments reported to the Washington Post.<sup>2</sup> He helped the United States Army locate hostages in Iran<sup>3</sup> and pointed CIA agents to a shortwave radio concealed inside the pocket calculator of a suspected KGB agent captured in South Africa.<sup>4</sup> He went on to become a full-time research associate and partner with [Cognitive Sciences Laboratory The Laboratories for Fundamental Research](/organisations/cognitive-sciences-laboratory-the-laboratories-for-fundamental-research) in Palo Alto, California, providing consulting support to research and development in [Remote Viewing (RV)](/topics/remote-viewing-rv).<sup>5</sup> By 2013 he had studied both martial arts and remote viewing for more than twenty years.<sup>6</sup>
+Joseph McMoneagle is a former [United States Army](/organisations/united-states-army) officer who worked as a practitioner of [Remote Viewing (RV)](/topics/remote-viewing-rv) within the US military's [Project STARGATE](/projects/project-stargate) programme, where he was designated remote viewer number 001.<sup>1</sup> Within that role, he is credited with helping the United States Army locate hostages held in Iran<sup>2</sup> and with pointing [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) officers to a shortwave radio concealed inside the pocket calculator of a suspected KGB agent captured in South Africa.<sup>3</sup> McMoneagle told the Washington Post that he took part in approximately 450 missions between 1978 and 1984.<sup>4</sup>
 
-Drawing on his martial-arts background, McMoneagle laid out levels of remote-viewing skill modelled on the belt-ranking system used in the martial arts, a framework he called RV'do.<sup>7</sup> At the Black Belt First Stage, a viewer can expect to hit a randomly chosen target correctly at least fifty percent of the time,<sup>8</sup> producing 30 to 50 percent information that makes sense about the target and establishes solid conclusions.<sup>9</sup> At the Black Belt Second Stage, a viewer can learn the non-viewing aspects dealing with front-loading.<sup>10</sup> He described the Outbounder Remote Viewing protocol, in which a monitor sometimes sits with the viewer to ensure adherence to protocol, but never to guide, lead, imply, or otherwise interfere with the viewing,<sup>11</sup> while the evaluator has no contact with the outbounder team until evaluations have been completed.<sup>12</sup> He advised that a viewer should never be shown a photograph of the specific target of interest, since doing so limits perceptions to the contents of the photograph and prevents the viewer from providing otherwise surprising information,<sup>13</sup> and recommended blind targeting - keeping a viewer entirely unaware of the target so the resulting ground plan could be compared against the real target for verification.<sup>14</sup> He recounted that Ingo Swann, a psychic working at [SRI International](/organisations/sri-international), suggested using map coordinates to identify a location as a target, giving rise to the coordinate-targeting system.<sup>15</sup> McMoneagle believed almost any form of meditation could help develop the ability to be a good remote viewer.<sup>16</sup>
+At the outset of Project STARGATE, considerable effort was made to ensure the psychological stability of participants through testing, multiple interviews, and a long-term vetting process.<sup>5</sup> That vetting process was later dropped in order to reduce costs,<sup>6</sup> and McMoneagle has said that, in more than one case, this left previously stable participants stripped of their psychological boundaries and emotionally or mentally unstable.<sup>7</sup> He has acknowledged that he has personally been at risk of falling into self-delusion regarding remote viewing on more than one occasion, and expects it may happen again.<sup>8</sup> According to McMoneagle, [Edwin C. May](/people/edwin-c-may) remarked in an interview on "Put to the Test" that some of McMoneagle's drawings were a near-perfect match for the target,<sup>9</sup> separately estimating that McMoneagle provided spectacular detail in remote viewing about twenty percent of the time - "as close to a miracle as scientists can get" -<sup>10</sup> and putting his overall target hit rate at around sixty to sixty-five percent.<sup>11</sup>
 
-McMoneagle stated that he had never seen remote viewing exceed sixty-five percent reliability, except on perhaps five occasions in twenty-five years that he knew of,<sup>17</sup> and that those five occasions involved only two viewers, both of whom worked in the Cognitive Sciences Laboratory.<sup>18</sup> He considered that most good remote viewers make contact with a target about 50 to 60 percent of the time.<sup>19</sup> On the subject of UFOs, McMoneagle said that in his experience the chances of a UFO-related statement obtained through remote viewing being correct were very close to zero,<sup>20</sup> and that UFOs usually make poor remote-viewing targets because a viewer must be given the least amount of information necessary to establish the target location.<sup>21</sup> He considered remote viewing generally not very good for providing information on phenomenological targets such as UFOs, along with mythical creatures like the Loch Ness Monster or Sasquatch, or descriptions of heaven and hell.<sup>22</sup> He was, however, not dead set against using remote viewing to target possible sites for downed UFOs or crop circles, since verifiable information might still be located as feedback.<sup>23</sup>
+McMoneagle also became a full-time research associate and partner with [Cognitive Sciences Laboratory The Laboratories for Fundamental Research](/organisations/cognitive-sciences-laboratory-the-laboratories-for-fundamental-research) in Palo Alto, California, providing consulting support to remote viewing research and development.<sup>12</sup> He has said that the phrase "perform well", used in Hal Puthoff and Russell Targ's [SRI International](/organisations/sri-international) report, did not imply world-class remote viewing ability but rather the capacity to display psychic functioning under controlled conditions with a better-than-chance result.<sup>13</sup> He also operated Inc. Intuitive Intelligence Applications, through which around twenty percent of those who contacted his office were seeking help regaining stable pre-exposure attitudes after their own involvement in remote viewing; McMoneagle, who is not a psychiatrist or psychologist, referred them to qualified counsellors.<sup>14</sup> He lived in Nelliesford, Virginia, the same location as [The Monroe Institute](/organisations/the-monroe-institute).<sup>15</sup> In his 2013 book Remote Viewing Secrets, he laid out a system of remote viewing skill levels modelled on the belt-ranking structure of the martial arts, referred to as "RV'do";<sup>16</sup> by that year he had studied both martial arts and remote viewing for more than twenty years.<sup>17</sup>
 
-McMoneagle recounted that in his interview on "Put to the Test," [Edwin C. May](/people/edwin-c-may) commented on a near-perfect match between some of McMoneagle's drawings and the target.<sup>24</sup> He recounted that May said he provided spectacular detail in remote viewing about twenty percent of the time, calling that as close to a miracle as scientists can get,<sup>25</sup> and that May's statements also reflected a target hit rate of about sixty to sixty-five percent for his remote viewing.<sup>26</sup> McMoneagle considered that the out-of-context editing of an ABC Special interview statement by May resulted in a large negative reaction from other remote viewers, which he regarded as grossly unfair to both May and himself.<sup>27</sup>
+McMoneagle's writing also sets out remote viewing protocol. In the Outbounder Remote Viewing protocol, a monitor may sit with the viewer to help with collection methodology or ensure adherence to protocol, but never to guide or lead the session,<sup>18</sup> while a separate evaluator judges the collected material and has no contact with the outbounder team until analysis is complete.<sup>19</sup> He recommended blind targeting, keeping a viewer blind to the entire target so the resulting ground plan could be compared against the real target for verification,<sup>20</sup> and taught front-loading - handling advance knowledge of a target - as a distinct skill area at an advanced stage of his RV'do system.<sup>21</sup> The [Coordinate Remote Viewing](/topics/coordinate-remote-viewing) protocol, he wrote, differs from Outbounder Remote Viewing only in the absence of an outbounder at the target site and in how feedback is delivered to the viewer.<sup>22</sup> On UFOs specifically, McMoneagle said such targets usually make poor subjects for remote viewing<sup>23</sup> and that, in his experience, the likelihood of a UFO-related statement obtained through remote viewing being correct was very close to zero.<sup>24</sup> He considered remote viewing generally not well suited to phenomenological or unverifiable targets such as UFOs, the Loch Ness Monster, or Sasquatch,<sup>25</sup> though he was not opposed in principle to targeting possible sites of downed UFOs or crop circles, since verifiable information might still turn up as feedback.<sup>26</sup> He also believed that almost any form of meditation could help develop the ability to be a good remote viewer.<sup>27</sup>
 
-At the outset of the military [Project STARGATE](/projects/project-stargate), great effort was made to ensure the psychological stability of remote-viewing participants through testing, multiple interviews, and a long-term vetting process.<sup>28</sup> Later in the programme, a decision was made to stop this extensive psychological vetting in order to reduce costs,<sup>29</sup> and McMoneagle stated that, after vetting was dropped, otherwise stable individuals in more than one case were stripped of their psychological boundaries and became emotionally, mentally, or both unstable as a result.<sup>30</sup> He reported that he had found himself at risk of self-delusion regarding remote viewing on more than one occasion, and expected it might happen again.<sup>31</sup> Over more than twenty years working in the field of the paranormal, he observed that serious errors of judgement almost always resulted from failing to take a person's mental state seriously or failing to recognise the impact of paranormal exposure on a vulnerable individual,<sup>32</sup> and that neither military nor civilian rank, age, experience, nor previously displayed capability in other areas reliably predicted who could psychologically cope with such exposure.<sup>33</sup> McMoneagle stated that about twenty percent of people who contacted him through his office at Inc. Intuitive Intelligence Applications were seeking help regaining their stable, pre-exposure attitudes after remote-viewing involvement, and that he referred them to qualified counsellors since he is not a psychiatrist or psychologist.<sup>34</sup>
+According to podcast host [Chris Ramsay](/people/chris-ramsay), McMoneagle was sent on weekend retreats to the Monroe Institute during his time on the Stargate Project to test whether leaving his body would make his remote viewing sessions more accurate,<sup>28</sup> travelling there from Fort Meade at weekends for [Out-of-Body Experience (OBE)](/topics/out-of-body-experience-obe) training.<sup>29</sup> Ramsay has recounted a session, described to him by both McMoneagle and Edwin C. May, in which experimenters placed ping-pong balls over McMoneagle's eyes to produce a Ganzfeld effect intended to induce an out-of-body state, before asking him to view a photograph sealed in an envelope in another room;<sup>30</sup> unable to interact with the envelope physically, McMoneagle instead projected to where the photograph had been taken and produced a drawing said to match it exactly.<sup>31</sup> Julia Mossbridge has noted that McMoneagle could produce matching drawings of target photographs without going out of body, which she said makes the out-of-body result hard to interpret,<sup>32</sup> and understood McMoneagle to have felt that leaving his body did not help his remote viewing very much.<sup>33</sup> Ramsay has said he initially disbelieved McMoneagle's account of leaving his body, suspecting he was misinterpreting a dream, until he had an out-of-body experience of his own;<sup>34</sup> he has said he regards McMoneagle as having been very good at remote viewing, and believes he still is.<sup>35</sup>
 
-McMoneagle lived in Nelliesford, Virginia, the same location as [The Monroe Institute](/organisations/the-monroe-institute).<sup>35</sup> According to [Chris Ramsay](/people/chris-ramsay), McMoneagle was sent on weekend retreats to the Monroe Institute during his time on Project STARGATE to test whether leaving his body would make remote-viewing sessions more accurate,<sup>36</sup> travelling from Fort Meade to the institute at weekends for [Out-of-Body Experience (OBE)](/topics/out-of-body-experience-obe) training.<sup>37</sup> Ramsay has recounted a session, described to him by both McMoneagle and Edwin C. May, in which experimenters used ping-pong balls over McMoneagle's eyes to produce a Ganzfeld effect and stimulate an out-of-body state before asking him to view a picture sealed in an envelope in another room.<sup>38</sup> In Ramsay's account, unable to interact with the envelope physically, McMoneagle projected to where the photograph had been taken and produced a drawing that matched the photograph exactly.<sup>39</sup> Julia Mossbridge has said she understands McMoneagle to have felt that going out of body did not help his remote viewing very much,<sup>40</sup> and has noted that he could produce matching drawings of target photographs without going out of body, making the out-of-body result difficult to interpret.<sup>41</sup> Ramsay has said he regards McMoneagle as having been very good at remote viewing, and believes he still is.<sup>42</sup> According to the documentary "I LEFT MY BODY - The Gateway Experience (Part 3)," in the remote-viewing research conducted by Edwin May and McMoneagle, the higher the entropy and the more a human life was at risk, the clearer the target would become for the viewer.<sup>43</sup> According to Luis Elizondo, McMoneagle was told by one senator that he was doing the work of the devil and would burn in the fires of hell, and separately was told by another lawmaker that he was doing God's work.<sup>44</sup>
+Luis Elizondo has recounted that McMoneagle was told by one senator that he was doing the work of the devil and would burn in the fires of hell, and separately by another lawmaker that he was doing God's work.<sup>36</sup> Mossbridge has separately recalled hearing a story, which she believed came from Edwin C. May but possibly from McMoneagle himself, that in the 1990s Russian counterparts told their American opposite numbers "you killed all your psychics", a remark she understood to refer to Pat Price.<sup>37</sup>
