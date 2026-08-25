@@ -1,15 +1,21 @@
 ---
 title: Edgar Mitchell
-description: American astronaut who piloted the lunar module on Apollo 14, becoming
-  the sixth person to walk on the Moon, and who later became a prominent researcher
-  into consciousness and an advocate for UFO disclosure.
+aliases:
+- /people/edgar-d-mitchell/
+- /en/people/edgar-d-mitchell/
+description: Edgar Mitchell was a NASA astronaut and the sixth man to walk on the
+  Moon, who founded the Institute of Noetic Sciences to study consciousness and later
+  became a prominent advocate for UFO disclosure while privately confiding to friends
+  that he had witnessed anomalous phenomena during his own spaceflight.
 metadata:
-  role: Apollo 14 astronaut; lunar module pilot; naval aviator
-  affiliation: NASA; United States Navy; Institute of Noetic Sciences (founder); Quantrek
-    (founder)
+  role: NASA astronaut; naval aviator
+  mission: Apollo 14 (Lunar Module Pilot)
+  education: PhD, Aeronautics and Astronautics, Massachusetts Institute of Technology
+    (MIT)
+  founded: Institute of Noetic Sciences; Quantrek
   died: '2016-02-04'
 built_from:
-  brief_hash: 8ac5a875ae96b7cebec672ac60a0ab19b618867dfbe9c0b540565f5e37b3839b
+  brief_hash: 9b89eb4dcffa5448d599419c44af2593e0bff5ad48938b4b3cf89ebc3a6b33fe
   claims:
   - id: 3df64293-e6b6-484f-aa25-a4d074b69359
     hash: f8f132c59a9f46cfc56883abead8515d4df75b108453125353993e6c2cb22873
@@ -187,12 +193,6 @@ built_from:
     hash: ad9daa85604affb456c09d2c7eadfef6461284628d099d73187b4630ad2086ec
   - id: e2f1a292-0704-4d92-ac7c-20778935ce02
     hash: 6392869463f4820281b96269865d9fd34dc4a1e2b5a445256c75a225faae1436
-  - id: f0f85299-7840-4451-960c-153f0968b06a
-    hash: 5b010594206f8fbe6d18c707e032a0ba8537f8ad5715f3135ee25cd2970121f0
-  - id: b93f5b4b-f97a-466b-b8c9-a69b96e411f7
-    hash: babc667508d56b77e9484e49e57aada3084a0d7420bc89c5519879e4d9085afb
-  - id: 1f574982-e851-4d96-b514-5ffed4a6e005
-    hash: d944bf007b62caeb711424c8b5f29cd0a493fb6214705a52df727febb2043794
   - id: d71594d4-6b32-4c72-a87a-5f04d66bcfcb
     hash: c2b39e928880b7f5b493d34f2dcaafb7aaf397cc1ec8212b4d2a0dac85c9e666
   - id: 56f58bab-ffeb-4267-8017-673c0ef81c34
@@ -323,12 +323,6 @@ built_from:
     hash: 7ca07a16ddf65625a38ecb8b26509de391fe75aec0b7b9d006332fcc98e35032
   - id: 5bd209b4-54d0-460e-964c-2ed64e2ad452
     hash: bef460ab959e18f72d582086f18bdb8d22b771060a6a847a5cfab0bc5eacbdcf
-  - id: aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
-    hash: ad8c163be36d81db1b72211cde205e3ed189bb66394f0e635c228427aa8d7e9c
-  - id: 2861f213-f6ed-4005-a975-ec5aeeec9dd3
-    hash: ae137588075371a6ac1c80cbeed5ba65236fe3b4766d0ba3e3301b133f0f4637
-  - id: 5caf8ad5-40d4-4785-89c5-da5bd01c3402
-    hash: bba1a91e11897edcf5f842a42fcf068c4877f6fe96c92d6fd4c0084495b9855f
   - id: ee99af1a-aa13-4804-a966-3fde3cd78d49
     hash: 6cc38fccbceeee1cac52c9a4ba21b6bcc5e5c32b920b78d0edd1626e2f966604
   - id: 95161afb-ab5a-4a34-963d-cc836028edb6
@@ -411,16 +405,28 @@ built_from:
     hash: 8e0ce5389a882aa11e3d6e5dbd4343e4b99f94f12b18382ef8784a4403dacc5d
   - id: 27ae009e-3f68-4a94-a5ec-b23041ed590d
     hash: b3beb71b93138ec12718c942c57ec58f9a29edbbc54aba0143be1d6b5a746816
+  - id: c3a3891e-608d-499e-8ba6-73a787fd8806
+    hash: d1a704c6a8cb928f483ea290ed2b8146eeed22c653665e05dd29c7f77210d587
+  - id: 6175cf1b-3dc1-4e78-a5fe-4709dd76610a
+    hash: 15c8a03ff01aa78f46f812a9da3a01bda2c57ade973b338287932ac0007f3c1b
+  - id: 2f1a6c8d-aa67-42a3-a960-11a69a3cea68
+    hash: ac66e88048a13bfcf371f27aad17c89f09676e1e4cfc7042e8e6383f75432a4a
+  - id: 3539dcc4-a7a5-4183-aa09-a6a23f12473f
+    hash: 96a2029d98e9ec23e6684414d27b7ede81e578d158f6f67b50c2f322f77da631
+  - id: cf036cd6-ebae-4673-b539-788a3519ee1a
+    hash: 9a1ded8e201d73aef5fa24f688e0b518b4592f168ad5ace75ef456cf517a2980
+  - id: 4d70977f-1b32-46b0-bfd8-cced695c53aa
+    hash: 99ab303ff14ceb4f498224d562883db168d7b85f745d2397fcd2c5339e7e86c7
 references:
-- text: Edgar Mitchell was an astronaut.
-  source: In Plain Sight
-  location: ch14:8307-8323
-  quote: astronaut Edgar Mitchell
-  claim_id: 856e4a9b-c7b3-4a0c-9a1b-4937ce1419d5
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-856e4a9b-c7b3-4a0c-9a1b-4937ce1419d5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-856e4a9b-c7b3-4a0c-9a1b-4937ce1419d5
-- text: Mitchell was part of the Apollo 14 mission.
+- text: Mitchell was a naval aviator
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:8105-8126
+  quote: Mitchell was a naval aviator
+  claim_id: 22f9ddc2-57c2-4c34-8f00-4d109b46796c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
+- text: Mitchell was part of the Apollo 14 mission
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:7949-8009
   quote: the famous American astronaut who was part of the Apollo 14 mission
@@ -428,8 +434,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee99af1a-aa13-4804-a966-3fde3cd78d49
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ee99af1a-aa13-4804-a966-3fde3cd78d49
-- text: Mitchell piloted the lunar module on 5 February 1971, becoming the sixth man
-    to walk on the Moon.
+- text: Piloted the lunar module 1971-02-05, sixth man to walk on the Moon
   source: In Plain Sight
   location: ch14:8412-8552
   quote: It was Ed Mitchell who piloted the lunar module on 5 February 1971, becoming
@@ -438,23 +443,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
-- text: Mitchell was a naval aviator.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:8105-8126
-  quote: Mitchell was a naval aviator
-  claim_id: 22f9ddc2-57c2-4c34-8f00-4d109b46796c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
-- text: Mitchell was an engineer trained at MIT.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:8135-8201
-  quote: an engineer trained at the Massachusetts Institute of Technology (MIT)
-  claim_id: ae9adecc-9b7a-4535-a962-fd341cc0dd63
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
-- text: Mitchell earned a PhD in aeronautics and astronautics from MIT.
+- text: PhD in aeronautics and astronautics from MIT
   source: American Cosmic
   location: ch6:28474-28573
   quote: Edgar earned a PhD in aeronautics and astronautics from the Massachusetts
@@ -462,7 +451,7 @@ references:
   claim_id: d582d423-3526-4809-a543-b3dcaa109cfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d582d423-3526-4809-a543-b3dcaa109cfc
-- text: Mitchell was a Presidential Medal of Freedom honoree.
+- text: Presidential Medal of Freedom honoree
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8211-8243
   quote: a Presidential Medal of Freedom honoree
@@ -470,7 +459,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-efa8606b-7f3c-4890-ab59-2050d869f092
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-efa8606b-7f3c-4890-ab59-2050d869f092
-- text: Mitchell grew up in Roswell, New Mexico, site of the 1947 Roswell UFO crash.
+- text: Grew up in Roswell, New Mexico, site of the 1947 crash
   source: American Cosmic
   location: ch6:23239-23335
   quote: and his early years growing up in Roswell, New Mexico, the site of the world
@@ -478,19 +467,16 @@ references:
   claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f34c3dae-548f-4b87-926d-08eb26ae2f56
-- text: Mitchell grew up on a ranch near Roswell, which contributed to his lifelong
-    championing of the UAP topic.
+- text: Family among Roswell families threatened by the FBI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:8252-8440
-  quote: He was also a longtime champion of the UAP topic, due to his childhood growing
-    up on a ranch in the Roswell, New Mexico, area and what he had since learned as
-    an astronaut.
-  claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
+  location: ch12:8451-8587
+  quote: He once confided to Hal and Eric that his family was among the Roswell families
+    who were threatened by the FBI after the famous Roswell crashes.
+  claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd282559-5186-46bd-86bc-762f62edbcfb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dd282559-5186-46bd-86bc-762f62edbcfb
-- text: Mitchell watched Earth, Moon, Sun and the heavens cycle past his window every
-    two minutes on the way home.
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
+- text: Saw Earth, Moon, Sun and heavens through cockpit window on return journey
   source: American Cosmic
   location: ch6:28996-29171
   quote: In my cock-pit window, every two minutes, I saw the Earth, the Moon, and
@@ -499,8 +485,7 @@ references:
   claim_id: 1261e21e-9186-45b9-9907-84ef4cdcbdfe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1261e21e-9186-45b9-9907-84ef4cdcbdfe
-- text: Mitchell felt his body's molecules were formed in ancient stars, producing
-    a sense of oneness.
+- text: Realised his body's molecules were formed in ancient stars, sense of oneness
   source: American Cosmic
   location: ch6:29183-29521
   quote: And suddenly I realized that the molecules of my body and the molecules of
@@ -511,8 +496,7 @@ references:
   claim_id: 6705136a-4d62-492a-92d7-8f7d3e564f44
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6705136a-4d62-492a-92d7-8f7d3e564f44
-- text: The oneness experience was accompanied by ecstasy, described as an insight
-    and epiphany.
+- text: Experience of oneness accompanied by ecstasy, described as epiphany
   source: American Cosmic
   location: ch6:29528-29614
   quote: And, it was accompanied by an ecstasy. A sense, “Oh my God, wow, yes!” An
@@ -520,14 +504,14 @@ references:
   claim_id: b97db49c-37f9-44a4-8703-fdb28d2d9cb1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b97db49c-37f9-44a4-8703-fdb28d2d9cb1
-- text: The experience changed the direction of Mitchell's life.
+- text: Experience changed the direction of his life
   source: American Cosmic
   location: ch6:29626-29695
   quote: This experience was so profound that it changed the direction of his life.
   claim_id: 3a0ba574-a75b-47e2-bc7a-5e026f4067fb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3a0ba574-a75b-47e2-bc7a-5e026f4067fb
-- text: Mitchell read voraciously on consciousness after returning to Earth.
+- text: Read extensively on consciousness after returning
   source: American Cosmic
   location: ch6:29701-29822
   quote: Upon his return to Earth, he went on an extended book encounter, voraciously
@@ -535,17 +519,7 @@ references:
   claim_id: ee91ddf0-341e-4b9e-9430-9f8ee60c03d4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ee91ddf0-341e-4b9e-9430-9f8ee60c03d4
-- text: Mitchell was raised Southern Baptist and trained as a scientist.
-  source: American Cosmic
-  location: ch6:29837-29991
-  quote: 'Edgar had been raised as a Southern Baptist and he was a trained scientist,
-    yet he finally found reports of a similar experience within the literature of
-    Hinduism:'
-  claim_id: 2f1e8416-0eba-4b8a-9685-91b66fba2844
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2f1e8416-0eba-4b8a-9685-91b66fba2844
-- text: Mitchell found nothing in science explaining his experience but found it described
-    in the Sanskrit of ancient India.
+- text: Found the experience described in Sanskrit literature of ancient India
   source: American Cosmic
   location: ch6:30002-30249
   quote: The experience in space was so powerful that when I got back to Earth I started
@@ -555,7 +529,7 @@ references:
   claim_id: 23b84a78-8121-4461-9da6-48ce0d9b9f73
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-23b84a78-8121-4461-9da6-48ce0d9b9f73
-- text: Mitchell found the descriptions of samadhi matched his experience.
+- text: Concluded experience matched descriptions of samadhi
   source: American Cosmic
   location: ch6:30256-30458
   quote: 'The descriptions of samadhi, Savikalpa samadhi, were exactly what I felt:
@@ -564,7 +538,7 @@ references:
   claim_id: 0f11ea99-ad0b-4970-8c28-e80b158c9441
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0f11ea99-ad0b-4970-8c28-e80b158c9441
-- text: Mitchell founded the Institute of Noetic Sciences.
+- text: Founded the Institute of Noetic Sciences
   source: American Cosmic
   location: ch6:28579-28682
   quote: He was also the founder of the Institute of Noetic Sciences (IONS), which
@@ -572,7 +546,7 @@ references:
   claim_id: fe066487-0a5b-4e32-a2f5-ccdbc26fea2f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fe066487-0a5b-4e32-a2f5-ccdbc26fea2f
-- text: Mitchell founded Quantrek.
+- text: Founded Quantrek
   source: American Cosmic
   location: ch6:28697-28784
   quote: and Quantrek, an institute populated by physicists and scientists who study
@@ -580,8 +554,7 @@ references:
   claim_id: efdaf31e-375c-4f79-b06d-e867a2fcfd75
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-efdaf31e-375c-4f79-b06d-e867a2fcfd75
-- text: Mitchell founded IONS and Quantrek after his transcendent experience returning
-    from the Moon.
+- text: Founded both organisations after his transcendent experience
   source: American Cosmic
   location: ch6:28799-28951
   quote: He founded these institutions after a remarkable, transcendent experience
@@ -590,32 +563,14 @@ references:
   claim_id: bc263e7f-cdf8-496b-8fbb-b74db8db55ac
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bc263e7f-cdf8-496b-8fbb-b74db8db55ac
-- text: Mitchell was a practitioner of remote viewing.
-  source: American Cosmic
-  location: ch6:31550-31587
-  quote: He was also a practitioner of remote viewing.
-  claim_id: 44545086-3298-4617-bf8c-b1ebe847736d
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-44545086-3298-4617-bf8c-b1ebe847736d
-- text: Mitchell developed the quantum hologram theory of physics and consciousness.
+- text: Developed the quantum hologram theory of physics and consciousness
   source: American Cosmic
   location: ch6:22662-22720
   quote: a theory developed by the late Apollo astronaut Dr. Edgar Mitchell.
   claim_id: 3d469317-bb0f-411b-b6ed-799799b3d0e3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3d469317-bb0f-411b-b6ed-799799b3d0e3
-- text: Mitchell's theory held that information exists as patterns of energy given
-    off by matter.
-  source: American Cosmic
-  location: ch6:36238-36416
-  quote: According to this theory, Edgar says, information consists of patterns of
-    energy. Information–energy packets are given off by matter. On some level, all
-    bodies of matter contain information.
-  claim_id: ce59e337-20a2-4dc6-b71a-35e9d3d5db79
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ce59e337-20a2-4dc6-b71a-35e9d3d5db79
-- text: Mitchell's dyadic model explains remote viewing, telepathy and mystical experiences
-    like his samadhi experience.
+- text: Dyadic model intended to explain remote viewing, telepathy and mystical experience
   source: American Cosmic
   location: ch6:37067-37339
   quote: 'Edgar’s theory is elaborated in his idea of the “dyadic model” of consciousness.
@@ -625,40 +580,132 @@ references:
   claim_id: 48b8a081-6975-4e57-9693-f7f79c1a657a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-48b8a081-6975-4e57-9693-f7f79c1a657a
-- text: Mitchell was a proponent of UAP research and sat on NIDS's science advisory
-    board, retaining confidential reports.
-  source: In Plain Sight
-  location: ch15:18514-18748
-  quote: Mitchell, long a proponent of research into UAPs, served on the science advisory
-    board of NIDS and he retained some of the confidential NIDS research reports from
-    Skinwalker and other areas visited by the Bigelow-funded investigation team.
-  claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9d08c98d-8100-4893-a12e-efb1204490f2
-- text: Robert Bigelow invited Mitchell to serve on NIDS's advisory board.
-  source: In Plain Sight
-  location: ch25:5021-5183
-  quote: That was why billionaire UAP investigator Robert Bigelow invited Mitchell
-    to serve on the advisory board of his National Institute for Discovery Science
-    research organisation.
-  claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
-- text: Documents show Eric Davis, with NIDS, investigated a Montana alien attack
-    and concluded it was a hoax.
-  source: In Plain Sight
-  location: ch15:12808-13046
-  quote: National Institute for Discovery Science documents found in the newly discovered
-    Edgar Mitchell archive files show that, while Davis was with the NIDS, he investigated
-    a supposed alien attack and landing in Montana; he concluded it was a hoax.
-  claim_id: 5f002bf0-986a-4bd1-a5ce-e2b4638d335b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f002bf0-986a-4bd1-a5ce-e2b4638d335b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5f002bf0-986a-4bd1-a5ce-e2b4638d335b
-- text: In April 1997 Mitchell's renown opened the way for a briefing with Admiral
-    Thomas Wilson.
+- text: Mitchell was a practitioner of remote viewing
+  source: American Cosmic
+  location: ch6:31550-31587
+  quote: He was also a practitioner of remote viewing.
+  claim_id: 44545086-3298-4617-bf8c-b1ebe847736d
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-44545086-3298-4617-bf8c-b1ebe847736d
+- text: Conducted remote-viewing experiments in space during the Apollo mission
+  source: American Cosmic
+  location: ch6:31596-31713
+  quote: What was more surprising to me was that he had conducted remote viewing experiments
+    in space during the Apollo lunar mission.
+  claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8acd5d8a-bab2-41ab-8993-79923dfcdc0d
+- text: Experiments were unsanctioned by NASA and secret
+  source: American Cosmic
+  location: ch6:31722-31800
+  quote: These experiments were not sanctioned by NASA, and Edgar said that they were
+    “secret.”
+  claim_id: 9befa664-4ec0-4724-95c2-38b726a53d2a
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9befa664-4ec0-4724-95c2-38b726a53d2a
+- text: Pasulka met Mitchell on two occasions
+  source: American Cosmic
+  location: ch6:31126-31145
+  quote: I met Edgar on two occasions.
+  claim_id: 3671bad8-7193-4e46-8c0f-117a80d1b31d
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3671bad8-7193-4e46-8c0f-117a80d1b31d
+- text: Pasulka invited Mitchell to a Skype session with researchers in California
+  source: American Cosmic
+  location: ch6:31156-31333
+  quote: I knew that he believed in UFOs and extraterrestrials, so I asked him to
+    meet the small group of researchers that I had organized in California. He would
+    attend our session via Skype.
+  claim_id: 9a87b2da-f266-49f4-a453-e01634bb6852
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9a87b2da-f266-49f4-a453-e01634bb6852
+- text: Pasulka found Mitchell had been involved with the Stanford Research Institute
+  source: American Cosmic
+  location: ch6:31340-31544
+  quote: Beforehand I found out everything I could about him and was surprised to
+    learn that, just like the other brilliant scientists I had interviewed, he had
+    been involved with the Stanford Research Institute (SRI).
+  claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7392b45a-a0c1-43d2-ac31-7271b022a683
+- text: Transition back to Earth was difficult, a feeling also expressed by Tyler
+    D.
+  source: American Cosmic
+  location: ch6:30469-30626
+  quote: The transition back to Earth was difficult for Edgar, a feeling that Tyler
+    had expressed as well, after each of his launches of satellites and shuttles into
+    space.
+  claim_id: fae3357c-f6af-4cc6-a745-33cd3b75f1bf
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fae3357c-f6af-4cc6-a745-33cd3b75f1bf
+- text: Pasulka considered Mitchell part of a hidden history of the space program
+    alongside Tyler D.
+  source: American Cosmic
+  location: ch6:31809-32163
+  quote: Edgar Mitchell, like Tyler D., was part of the hidden and unofficial history
+    of the American space program that I had been discovering—the cosmonauts and rocket
+    scientists, like Jack Parsons, who believed in extraterrestrial or nonhuman beings
+    that interacted with humans with the goal of helping them achieve space travel
+    and, in Edgar’s case, peace on Earth.
+  claim_id: 1da16a75-d9dc-4401-97d0-a18df0a7b5b2
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1da16a75-d9dc-4401-97d0-a18df0a7b5b2
+- text: Co-founded FREE with Hernandez, Schild and Rodwell
+  source: American Cosmic
+  location: ch6:1326-1555
+  quote: Rey, together with Apollo astronaut Dr. Edgar Mitchell, Harvard astrophysicist
+    Dr. Rudy Schild, and Australian researcher Mary Rodwell, cofounded the Dr. Edgar
+    Mitchell Foundation for Research into Extraterrestrial Encounters or FREE.
+  claim_id: c94c3625-8c78-40df-9da7-f314078ad8a1
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c94c3625-8c78-40df-9da7-f314078ad8a1
+- text: Schild gave Hernandez Mitchell's phone number
+  source: American Cosmic
+  location: ch6:22822-22911
+  quote: He also provided Rey with the number for Edgar Mitchell, the former astronaut
+    and Rudy’s mentor.
+  claim_id: c6281328-043a-4d31-9585-f968efc06f25
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c6281328-043a-4d31-9585-f968efc06f25
+- text: Hernandez phoned Mitchell; they lived close and met
+  source: American Cosmic
+  location: ch6:22919-23008
+  quote: Rey phoned Edgar and found that they lived very close to one another, so
+    they decided to meet.
+  claim_id: b813aeba-fd7d-4110-b039-51f3bae34f1e
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b813aeba-fd7d-4110-b039-51f3bae34f1e
+- text: Mitchell told Hernandez about his 'awakening' in space
+  source: American Cosmic
+  location: ch6:23197-23335
+  quote: He told me about his “awakening” in space and his early years growing up
+    in Roswell, New Mexico, the site of the world famous Roswell UFO crash.
+  claim_id: a9f24506-6846-43bb-a087-c5f02bba10c2
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a9f24506-6846-43bb-a087-c5f02bba10c2
+- text: Mitchell and Schild helped Hernandez understand the quantum hologram theory
+  source: American Cosmic
+  location: ch6:36430-36493
+  quote: Edgar and his associate Rudy Schild helped Rey understand this theory,
+  claim_id: a86e9e6c-4670-4417-9a61-2d38dd28dedd
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a86e9e6c-4670-4417-9a61-2d38dd28dedd
+- text: Mitchell offered to help Hernandez form the organisation
+  source: American Cosmic
+  location: ch6:24442-24504
+  quote: Like Rudy, Edgar offered to assist Rey in the formation of an organization.
+  claim_id: 7c4f2b90-e6f8-4770-8573-63e75d9a6faa
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7c4f2b90-e6f8-4770-8573-63e75d9a6faa
+- text: FREE's motto 'Disclosure from the Bottom Up'
+  source: American Cosmic
+  location: ch6:25810-25956
+  quote: He said that Edgar firmly believed that a study that focused on the experiencer
+    was important, so FREE’s motto became “Disclosure from the Bottom Up.”
+  claim_id: d410fb79-379f-4979-a541-ee293e220bc7
+  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
+  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d410fb79-379f-4979-a541-ee293e220bc7
+- text: Renown opened way to briefing with Admiral Thomas Wilson, April 1997
   source: In Plain Sight
   location: ch14:8565-8758
   quote: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary
@@ -668,18 +715,16 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
-- text: On 10 April 1997 Greer, Mitchell and company were in the Pentagon for the
-    meeting.
-  source: In Plain Sight
-  location: ch14:9316-9435
-  quote: The next day, at 10 am on 10 April 1997, Greer, Mitchell and company were
-    deep inside the Pentagon for their top-level meeting.
-  claim_id: b2b48e82-7670-4798-aa90-f73fcb46f08c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2b48e82-7670-4798-aa90-f73fcb46f08c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2b48e82-7670-4798-aa90-f73fcb46f08c
-- text: Greer, Miller and Mitchell presented Wilson with evidence for a cover-up of
-    alien visitation, spacecraft, bodies and technology.
+- text: Greer, Miller and Mitchell gave talk in Pentagon conference room, April 1997
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:1217-1381
+  quote: 'TW: Confirmed Greer/Miller/Mitchell gave talk in Pentagon Conference room.
+    Adm. Mike Crawford, Gen. Pat Hughes (Hughes his boss) were present (others too.)
+    Date April ''97.'
+  claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+- text: Presented Wilson with witness evidence of alleged cover-up, 1997-04-10
   source: In Plain Sight
   location: ch14:14003-14350
   quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
@@ -691,17 +736,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-- text: Wilson told Dolan he agreed to the meeting out of curiosity about Mitchell's
-    interest in UFOs.
-  source: In Plain Sight
-  location: ch14:21113-21234
-  quote: told Dolan he only agreed to it because he was ‘curious why a man of Dr Mitchell’s
-    stature would be interested in such a matter’
-  claim_id: 896cd676-bbc8-4e13-a312-8239d944c4eb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-- text: Mitchell confirmed to friends the meeting happened as Greer described.
+- text: Mitchell confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
   quote: Edgar Mitchell later confirmed to many friends that this meeting happened
@@ -710,18 +745,33 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-- text: Notes record the briefing took place in a Pentagon conference room with Crawford
-    and Hughes present.
+- text: Mitchell told Eric Davis about the episode only in 1999
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:1217-1381
-  quote: 'TW: Confirmed Greer/Miller/Mitchell gave talk in Pentagon Conference room.
-    Adm. Mike Crawford, Gen. Pat Hughes (Hughes his boss) were present (others too.)
-    Date April ''97.'
-  claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
+  location: char:9748-9803
+  quote: (EWD note - Miller told Ed Mitchell who only told me in 1999)
+  claim_id: 1e2d3bd5-de5d-4672-81fe-49ee6e97541b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
-- text: Mitchell privately told Thurmond he was convinced Corso's Roswell account
-    was true.
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1e2d3bd5-de5d-4672-81fe-49ee6e97541b
+- text: Lovekin, Adamiak, Mitchell and Miller backed Greer's account
+  source: In Plain Sight
+  location: ch14:23846-23991
+  quote: Multiple witnesses at this meeting – Shari Adamiak, Stephen Lovekin, astronaut
+    Edgar Mitchell and Commander Willard Miller – have backed Greer’s account.
+  claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-105688f2-9437-443c-8f5f-5666f6d5996e
+- text: Mitchell wrote a fax to Strom Thurmond, 1997-06
+  source: In Plain Sight
+  location: ch25:21612-21856
+  quote: In June of 1997, just two months after Mitchell joined Steven Greer at his
+    meeting with Admiral Tom Wilson at the Pentagon, Mitchell's files show he wrote
+    to the powerful Republican Senator from South Carolina, Strom Thurmond
+  claim_id: b2e27efe-1398-41c8-920c-8080a71f0142
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e27efe-1398-41c8-920c-8080a71f0142
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2e27efe-1398-41c8-920c-8080a71f0142
+- text: Told Thurmond he was convinced Corso's Roswell account was true
   source: In Plain Sight
   location: ch25:22626-22719
   quote: Edgar Mitchell's fax privately assured the Senator that he was convinced
@@ -730,40 +780,44 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107a25a3-a891-4597-a349-786c0e2df703
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-107a25a3-a891-4597-a349-786c0e2df703
-- text: Mitchell helped fund and establish the Disclosure Movement.
-  source: American Cosmic
-  location: ch6:40388-40576
-  quote: He also helped fund and establish the Disclosure Movement, which is a movement
-    initiated by the citizens of various countries to force their governments to declassify
-    documents related to UFOs.
-  claim_id: 1f574982-e851-4d96-b514-5ffed4a6e005
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1f574982-e851-4d96-b514-5ffed4a6e005
-- text: Hernandez cofounded FREE with Mitchell, Rudy Schild and Mary Rodwell.
-  source: American Cosmic
-  location: ch6:1326-1555
-  quote: Rey, together with Apollo astronaut Dr. Edgar Mitchell, Harvard astrophysicist
-    Dr. Rudy Schild, and Australian researcher Mary Rodwell, cofounded the Dr. Edgar
-    Mitchell Foundation for Research into Extraterrestrial Encounters or FREE.
-  claim_id: c94c3625-8c78-40df-9da7-f314078ad8a1
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c94c3625-8c78-40df-9da7-f314078ad8a1
-- text: Mitchell knew Hoagland from his NASA days.
+- text: Served on NIDS science advisory board, retained confidential reports
+  source: In Plain Sight
+  location: ch15:18514-18748
+  quote: Mitchell, long a proponent of research into UAPs, served on the science advisory
+    board of NIDS and he retained some of the confidential NIDS research reports from
+    Skinwalker and other areas visited by the Bigelow-funded investigation team.
+  claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9d08c98d-8100-4893-a12e-efb1204490f2
+- text: Bigelow invited Mitchell to serve on the NIDS advisory board
+  source: In Plain Sight
+  location: ch25:5021-5183
+  quote: That was why billionaire UAP investigator Robert Bigelow invited Mitchell
+    to serve on the advisory board of his National Institute for Discovery Science
+    research organisation.
+  claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
+- text: Mitchell knew Hoagland from his NASA days
   source: Dark Mission
   location: ch11:141889-141954
   quote: former astronaut Edgar Mitchell, who knew Hoagland from his NASA days
   claim_id: 4cd035f2-5797-4b8f-9f25-8aa21cc7e39f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4cd035f2-5797-4b8f-9f25-8aa21cc7e39f
-- text: Hoagland and Mitchell debated in 1996.
+- text: Hoagland considered lunar ruins might be faint, filtered by gold visors
   source: Dark Mission
-  location: ch11:150512-150643
-  quote: Hoagland had yet to check on the specific optical properties of the gold
-    visors when he discussed the subject with Mitchell on the air
-  claim_id: 892b7e21-66c5-4f4b-912c-3712a10b2534
+  location: ch11:150096-150388
+  quote: during the 1996 “Hoagland-Mitchell debate” with Apollo 14 astronaut Edgar
+    Mitchell on *Coast to Coast AM,* Hoagland went out of his way to consider that
+    the distant ruins might have been very faint, and might have even been further
+    filtered by the gold visors that the astronauts wore on the surface
+  claim_id: 9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-892b7e21-66c5-4f4b-912c-3712a10b2534
-- text: Hoagland promised more material and Mitchell agreed to a follow-up programme.
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
+- text: Hoagland promised further material; Mitchell agreed to a follow-up
   source: Dark Mission
   location: ch11:142220-142377
   quote: The program ended with Hoagland promising to send Mitchell additional materials
@@ -771,8 +825,7 @@ references:
   claim_id: ffe75167-11e8-4cbb-8024-d670062aa73c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ffe75167-11e8-4cbb-8024-d670062aa73c
-- text: Hoagland sent the material but Mitchell never responded; the follow-up never
-    happened.
+- text: Material sent, but Mitchell never responded and follow-up never occurred
   source: Dark Mission
   location: ch11:142387-142501
   quote: Hoagland did send the pictures and other data, but Mitchell never responded,
@@ -780,26 +833,16 @@ references:
   claim_id: e0188e0d-82ca-4e92-bd11-d89c01c290ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e0188e0d-82ca-4e92-bd11-d89c01c290ac
-- text: AS14-66-9301 'Mitchell Under Glass' shows Mitchell deploying the TV camera,
-    taken by Shepard early in EVA-1.
+- text: AS14-66-9301 shows Shepard photographing Mitchell deploying the TV camera
   source: Dark Mission
-  location: ch11:95067-95367
-  quote: One particularly spectacular frame stood out—what has come to be known as
-    'Mitchell Under Glass' (AS14-66-9301)—a shot of astronaut Edgar Mitchell deploying
-    the TV camera just north of the A-14 landing site, taken by Apollo 14 Commander
-    Alan Shepard early in EVA-1, as part of the preceding panorama sequence.
-  claim_id: e2496a0a-8a1e-42e7-b641-d643f1051a6d
+  location: ch19:39378-39574
+  quote: this (see Color Fig. 5) is a *real* Apollo 14 photograph, taken by Alan Shepard
+    of his fellow astronaut, Ed Mitchell—as Mitchell was setting up the TV camera
+    at the beginning of their first lunar EVA.
+  claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e2496a0a-8a1e-42e7-b641-d643f1051a6d
-- text: Only Shepard and Mitchell landed on the Moon, each with one Hasselblad camera.
-  source: Dark Mission
-  location: ch19:36190-36332
-  quote: since there were only *two* Apollo 14 astronauts who landed on the Moon—Shepard
-    and Mitchell—and just two Hasselblad cameras (one for each of them)
-  claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
-- text: The golf-shot photo in Moon Shot shows Shepard and Mitchell simultaneously.
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
+- text: Golf-shot photograph published in Alan Shepard's Moon Shot
   source: Dark Mission
   location: ch19:36340-36568
   quote: who took THIS Hasselblad shot—published as a two-page spread (note the central
@@ -808,118 +851,23 @@ references:
   claim_id: 16f24297-18aa-4260-8446-766ada69d340
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16f24297-18aa-4260-8446-766ada69d340
-- text: The Mitchell figure in the golf-shot image is a reversed cutout from AS14-66-9301.
+- text: Hoagland found the golf-shot image cut out and reversed from AS14-66-9301
   source: Dark Mission
-  location: ch19:89258-89442
-  quote: Fig. 12-5 - Side by comparison showing that “Edgar Mitchell” in faked image
-    from Alan Shepard’s book “Moonshot” is just a reversed cutout from the AS-14-66-9301
-    “Mitchell under glass” frame.
-  claim_id: bae2a8f2-cc22-46b7-aba4-62bb197a0984
+  location: ch19:37374-37555
+  quote: the image of Ed Mitchell in the golf shot fake is simply cut out (and reversed)
+    from a *real* Hasselblad frame, AS14-66-9301, the now-infamous "Mitchell under
+    glass" photo [Fig. 12-5].
+  claim_id: edf546b5-403c-4dba-9db6-19b24d913dad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bae2a8f2-cc22-46b7-aba4-62bb197a0984
-- text: Pasulka met Mitchell on two occasions.
-  source: American Cosmic
-  location: ch6:31126-31145
-  quote: I met Edgar on two occasions.
-  claim_id: 3671bad8-7193-4e46-8c0f-117a80d1b31d
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3671bad8-7193-4e46-8c0f-117a80d1b31d
-- text: Pasulka invited Mitchell to a research session; he attended via Skype.
-  source: American Cosmic
-  location: ch6:31156-31333
-  quote: I knew that he believed in UFOs and extraterrestrials, so I asked him to
-    meet the small group of researchers that I had organized in California. He would
-    attend our session via Skype.
-  claim_id: 9a87b2da-f266-49f4-a453-e01634bb6852
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9a87b2da-f266-49f4-a453-e01634bb6852
-- text: Pasulka found Mitchell had been involved with the Stanford Research Institute.
-  source: American Cosmic
-  location: ch6:31340-31544
-  quote: Beforehand I found out everything I could about him and was surprised to
-    learn that, just like the other brilliant scientists I had interviewed, he had
-    been involved with the Stanford Research Institute (SRI).
-  claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7392b45a-a0c1-43d2-ac31-7271b022a683
-- text: Mitchell conducted remote-viewing experiments in space during the Apollo mission.
-  source: American Cosmic
-  location: ch6:31596-31713
-  quote: What was more surprising to me was that he had conducted remote viewing experiments
-    in space during the Apollo lunar mission.
-  claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8acd5d8a-bab2-41ab-8993-79923dfcdc0d
-- text: The experiments were not sanctioned by NASA and were secret.
-  source: American Cosmic
-  location: ch6:31722-31800
-  quote: These experiments were not sanctioned by NASA, and Edgar said that they were
-    “secret.”
-  claim_id: 9befa664-4ec0-4724-95c2-38b726a53d2a
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9befa664-4ec0-4724-95c2-38b726a53d2a
-- text: Rigney briefly met Mitchell in 2012 at Apollo 17's 40th anniversary.
-  source: In Plain Sight
-  location: ch25:1743-1852
-  quote: Rigney briefly met Mitchell in 2012 at the 40th anniversary celebrations
-    of the final Apollo mission, Apollo 17.
-  claim_id: 41ad01d6-f221-4719-abf8-431a4b3f5f24
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
-- text: The Spaceman arranged for Rigney to have a longer conversation with Mitchell
-    a year later.
-  source: In Plain Sight
-  location: ch25:2221-2332
-  quote: A year later, at another conference, The Spaceman made sure Rigney got the
-    chance to have a long chat with his hero.
-  claim_id: 40cf59a0-7dfa-47c6-ab4c-b7c9df07f637
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40cf59a0-7dfa-47c6-ab4c-b7c9df07f637
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40cf59a0-7dfa-47c6-ab4c-b7c9df07f637
-- text: The Spaceman was a very close friend of Mitchell.
-  source: In Plain Sight
-  location: ch25:2064-2211
-  quote: What Rigney did not know was that The Spaceman, who wishes to remain anonymous,
-    was a very close friend of the legendary Apollo 14 astronaut Edgar Mitchell.
-  claim_id: 5b679c65-a7fe-4865-baed-cbdeecabc868
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
-- text: Pasulka noted Mitchell's difficult transition back to Earth echoed Tyler D.'s
-    feelings after launches.
-  source: American Cosmic
-  location: ch6:30469-30626
-  quote: The transition back to Earth was difficult for Edgar, a feeling that Tyler
-    had expressed as well, after each of his launches of satellites and shuttles into
-    space.
-  claim_id: fae3357c-f6af-4cc6-a745-33cd3b75f1bf
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fae3357c-f6af-4cc6-a745-33cd3b75f1bf
-- text: Mitchell observed a light-flash streak progressing across his field of view.
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-edf546b5-403c-4dba-9db6-19b24d913dad
+- text: Described light-flash streaks moving across his field of view
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:02:31.5-00:02:35.0
   quote: it started out and it definitely progressed across the field of view.
   claim_id: 749f9efb-6fac-4b46-b626-0e05da9e82a6
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
-- text: Mitchell described the streaks as roughly 7.5 to 10cm from his eye and about
-    5cm long.
-  source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
-  location: 00:13:42.9-00:13:54.6
-  quote: the things, I would say, were three or four inches away from my plane, whatever
-    that means, and were a couple inches long.
-  claim_id: 1c29e067-66ed-48f4-a1b7-ddff4e186722
-  record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-1c29e067-66ed-48f4-a1b7-ddff4e186722
-- text: Mitchell reported 12 flashes in his right eye and 6 in his left.
-  source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
-  location: 00:09:02.1-00:09:04.6
-  quote: You had 12 right and 6 left
-  claim_id: 5f81748e-787b-4077-9b40-66143757e3cc
-  record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5f81748e-787b-4077-9b40-66143757e3cc
-- text: Mitchell described a 'nova' phenomenon as a blob that expanded and diffused.
+- text: Described a 'nova' phenomenon as an expanding, diffusing blob
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:05:33.6-00:05:44.0
   quote: what I called a NOVA was more of a blob that seemed to start with that and
@@ -927,29 +875,14 @@ references:
   claim_id: 4255c275-b9b5-4893-9dc6-c11260a8be95
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
-- text: Mitchell reported a diffuse cloud-like phenomenon on a couple of occasions.
+- text: Reported 12 light flashes in right eye, 6 in left
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
-  location: 00:17:11.1-00:17:14.4
-  quote: I think it occurred, I reported it a couple of times... it was just a diffuse
-    lighting.
-  claim_id: 5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
+  location: 00:09:02.1-00:09:04.6
+  quote: You had 12 right and 6 left
+  claim_id: 5f81748e-787b-4077-9b40-66143757e3cc
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
-- text: Mitchell described the cloud-like phenomenon's colour as white or silver.
-  source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
-  location: 00:17:25.4-00:17:26.1
-  quote: White, silver.
-  claim_id: ef4eaea9-8fed-4f84-9c85-ee534dbddd3c
-  record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-ef4eaea9-8fed-4f84-9c85-ee534dbddd3c
-- text: No other crew member reported seeing colour in the light flashes.
-  source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
-  location: 00:29:24.4-00:29:27.6
-  quote: Ed saw one blue flash. Did anyone else see color? / No.
-  claim_id: cbfafc8c-2a92-4b58-adb8-f2c2fee7a03a
-  record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-cbfafc8c-2a92-4b58-adb8-f2c2fee7a03a
-- text: Mitchell saw one flash that was silver, blue-white, like a blue diamond.
+  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5f81748e-787b-4077-9b40-66143757e3cc
+- text: Saw one flash, silver blue-white, like a blue diamond
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:29:24.4-00:29:35.7
   quote: Ed saw one blue flash. Did anyone else see color? / No... No, that wasn't
@@ -958,8 +891,24 @@ references:
   claim_id: fc934658-370a-447c-8487-dece2cd38949
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-fc934658-370a-447c-8487-dece2cd38949
-- text: 'The Spaceman: Mitchell privately confided he saw anomalous objects during
-    Apollo 14 he could not explain.'
+- text: Hardly any night without light flashes, except possibly on the lunar surface
+  source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+  location: 00:12:20.3-00:12:28.1
+  quote: I don't really recall that there was any night except on the lunar surface.
+    that I didn't at some time or another say some.
+  claim_id: 057ab682-3651-4293-9bf0-1b0fc2d95ca7
+  record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
+  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-057ab682-3651-4293-9bf0-1b0fc2d95ca7
+- text: Publicly maintained he never saw a UFO
+  source: In Plain Sight
+  location: ch25:6797-6897
+  quote: One thing that Mitchell always told the curious was that, in all his space
+    travels, he 'never saw a UFO'.
+  claim_id: 7b67b464-3917-448b-a73b-e37373157574
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b67b464-3917-448b-a73b-e37373157574
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7b67b464-3917-448b-a73b-e37373157574
+- text: Privately confided seeing anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
   quote: However, The Spaceman says that privately Edgar Mitchell confided he did
@@ -968,29 +917,58 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c60b194-cb19-4631-910b-68ce15bc269a
-- text: A photograph shows Mitchell on the lunar surface with a blue light hovering
-    behind him.
+- text: Saw well-defined blue lights with structure behind them
   source: In Plain Sight
-  location: ch25:7592-7792
-  quote: One was captured in a photograph taken outside the lunar module on the Moon's
-    surface, which shows Mitchell posing in the foreground and a blue light hovering
-    in the distant blackness of space behind him.
-  claim_id: 43b17135-ff09-4478-bf70-f4c211ae90a0
+  location: ch25:7434-7577
+  quote: During the NASA mission, Mitchell confided to The Spaceman, he saw anomalous
+    well-defined blue lights that appeared to have a structure behind them.
+  claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
-- text: Mitchell told The Spaceman critics would call it a lens artefact but he didn't
-    believe it, having seen it himself.
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72407e94-cf18-498f-972b-8494ace077e6
+- text: Dismissed lens flare, reflection and camera-glitch explanations
   source: In Plain Sight
-  location: ch25:7798-7934
-  quote: '''They''ll say it''s a lens artefact or a flare but it''s not,'' The Spaceman
-    said the astronaut told him. ''He told me he saw it with his own eyes.'''
-  claim_id: 9685e0a5-0402-4267-b92a-228d34e216e1
+  location: ch25:10159-10385
+  quote: But he dismissed the possibility that what he saw were lens flares, reflections
+    from inside the lunar module or camera glitches, because he saw the blue lights
+    with his own eyes and went back later to check they were there on film.
+  claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9685e0a5-0402-4267-b92a-228d34e216e1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9685e0a5-0402-4267-b92a-228d34e216e1
-- text: Mitchell died of cancer in Florida on 4 February 2016, a day before the 45th
-    anniversary of his Moon landing.
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
+- text: Told no one about the blue lights until confiding in The Spaceman
+  source: In Plain Sight
+  location: ch25:10391-10476
+  quote: But he told no one, until that night with The Spaceman in the final months
+    before he died.
+  claim_id: eb7410fa-4b58-489f-bb45-0c26548afe01
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb7410fa-4b58-489f-bb45-0c26548afe01
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb7410fa-4b58-489f-bb45-0c26548afe01
+- text: Replied only 'Treason' when asked why he denied seeing UFOs
+  source: In Plain Sight
+  location: ch25:10599-10842
+  quote: '''I asked him why he always denied seeing UFOs and he would only say one
+    word: Treason,'' The Spaceman said. ''I took that to mean the astronauts were
+    warned not to speak about UAP sightings and Ed certainly did not want to tell
+    me any more about it.'''
+  claim_id: cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
+- text: Believed every Apollo mission was watched by intelligently guided craft
+  source: In Plain Sight
+  location: ch25:7054-7400
+  quote: It was only in the last months of Mitchell's life that the astronaut finally
+    took his friend into his confidence and told him that, incredibly, he believed
+    – but could not prove scientifically – that every Apollo mission was closely watched
+    by intelligently guided craft of unknown origin, and that he had seen these strange
+    objects with his own eyes.
+  claim_id: 93aef464-d0e3-4ebb-8a56-955d4674e2ca
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-93aef464-d0e3-4ebb-8a56-955d4674e2ca
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-93aef464-d0e3-4ebb-8a56-955d4674e2ca
+- text: Died of cancer in Florida, 2016-02-04, day before 45th landing anniversary
   source: In Plain Sight
   location: ch25:2688-2962
   quote: On 4 February 2016, Edgar Mitchell, the American hero who defied death by
@@ -1001,41 +979,68 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-38940afc-3fdc-4358-a951-cb14f101301e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-38940afc-3fdc-4358-a951-cb14f101301e
-- text: Mitchell travelled approximately 380,000 kilometres by rocket to reach the
-    lunar surface.
+- text: Nephew Mitch Harkins took possession of Mitchell's research files
   source: In Plain Sight
-  location: ch25:2708-2833
-  quote: Edgar Mitchell, the American hero who defied death by riding a giant highly
-    explosive rocket 380,000 kilometres to the lunar surface
-  claim_id: fdc52d89-9b72-4f9f-acae-f541edd74b97
+  location: ch25:12203-12432
+  quote: After Edgar Mitchell died in February 2016, his nephew Mitch Harkins, who
+    was living in Mitchell's home, took possession of several boxes of Mitchell's
+    UAP and paranormal research files that he had retrieved from Mitchell's home study.
+  claim_id: 5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdc52d89-9b72-4f9f-acae-f541edd74b97
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fdc52d89-9b72-4f9f-acae-f541edd74b97
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
+- text: Harkins ensured sensitive files were preserved and passed to The Spaceman
+  source: In Plain Sight
+  location: ch25:12703-12820
+  quote: but he had heeded his uncle Edgar's wishes to make sure his most sensitive
+    files were preserved and passed on to the Spaceman.
+  claim_id: 8351d15f-b57d-4aac-94e3-b80959754cfb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8351d15f-b57d-4aac-94e3-b80959754cfb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8351d15f-b57d-4aac-94e3-b80959754cfb
+- text: James Rigney briefly met Mitchell in 2012 at Apollo 17's 40th anniversary
+  source: In Plain Sight
+  location: ch25:1743-1852
+  quote: Rigney briefly met Mitchell in 2012 at the 40th anniversary celebrations
+    of the final Apollo mission, Apollo 17.
+  claim_id: 41ad01d6-f221-4719-abf8-431a4b3f5f24
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
+- text: Rigney clashed with colleagues over criticism of Mitchell's post-NASA work
+  source: In Plain Sight
+  location: ch25:1601-1732
+  quote: had clashed with association members, who criticised Mitchell's post-NASA
+    work investigating unidentified aerospace and paranormal phenomena.
+  claim_id: 0db0d688-c386-4ee2-80ac-58ef70bd54cf
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0db0d688-c386-4ee2-80ac-58ef70bd54cf
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0db0d688-c386-4ee2-80ac-58ef70bd54cf
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: e5b008e12e06b7af40ab056fdde913233874216df69a7f5044c9b8870718dd1e
+  prompt_sha256: e33ab9fb528986b9a1fc9aae06ce76289f304e74c2ab044680c932b3be97e4e9
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 197185
-    output: 111253
-    real_input: 4
-    cache_read: 78754
-    cache_write: 118427
+    input: 361251
+    output: 122956
+    real_input: 6
+    cache_read: 177843
+    cache_write: 183402
     calls: 0
-  body_sha256: ad2f72927c0da4d8305619bfa6e65d1964944c015825831cc6efdfac6be4dd50
+  body_sha256: 3ab8a3f208ffa50ab6fa2e109e1d1e754827c245a5924a0a0c1cb8381ccbdb5e
 ---
 
-Edgar Mitchell was an American astronaut<sup>1</sup> and lunar module pilot on the [Apollo 14](/projects/apollo-14) mission.<sup>2</sup> On 1971-02-05 he piloted the lunar module during the Apollo 14 lunar landing mission, becoming the sixth man to walk on the Moon.<sup>3</sup> He was a naval aviator<sup>4</sup> and an engineer trained at the Massachusetts Institute of Technology (MIT),<sup>5</sup> where he earned a PhD in aeronautics and astronautics,<sup>6</sup> and was later a Presidential Medal of Freedom honoree.<sup>7</sup> Mitchell grew up in [USA, New Mexico, Roswell](/places/new-mexico-roswell-usa), the site of the [Roswell incident (1947)](/events/roswell-incident-1947),<sup>8</sup> and said that growing up on a ranch in the area contributed to his lifelong championing of the UAP topic.<sup>9</sup>
+Edgar Mitchell was an American naval aviator<sup>1</sup> and NASA astronaut who flew as Lunar Module Pilot on [Apollo 14](/projects/apollo-14).<sup>2</sup> He piloted the lunar module during the Apollo 14 lunar landing mission on 1971-02-05, becoming the sixth man to walk on the Moon.<sup>3</sup> He held a PhD in aeronautics and astronautics from the Massachusetts Institute of Technology (MIT)<sup>4</sup> and was later named a Presidential Medal of Freedom honoree.<sup>5</sup> He grew up in the [USA, New Mexico, Roswell](/places/new-mexico-roswell-usa) area, the site of the 1947 [Roswell incident](/events/roswell-incident-1947).<sup>6</sup> According to Luis Elizondo, Mitchell's family was among the Roswell families threatened by the FBI after the 1947 crash.<sup>7</sup>
 
-On the return journey from the Moon, Mitchell watched the Earth, Moon, Sun and the full panorama of the heavens cycle past his cockpit window every two minutes, an experience he described as powerful and overwhelming.<sup>10</sup> He came to feel that the molecules of his body, his spacecraft and his crewmates' bodies had been formed in an ancient generation of stars, producing an overwhelming sense of oneness and connectedness,<sup>11</sup> accompanied by an ecstasy he described as an insight and an epiphany.<sup>12</sup> The experience was profound enough to change the direction of his life,<sup>13</sup> and back on Earth he read voraciously on the subject of consciousness.<sup>14</sup> Raised as a Southern Baptist and trained as a scientist,<sup>15</sup> he found nothing in Western scientific literature that explained what had happened to him, but eventually recognised it described in the Sanskrit of ancient India,<sup>16</sup> concluding that his experience matched descriptions of samadhi, particularly Savikalpa samadhi.<sup>17</sup> This led him to found the Institute of Noetic Sciences (IONS), dedicated to the study of consciousness,<sup>18</sup> and Quantrek, an institute of physicists and scientists studying energy and consciousness,<sup>19</sup> both established in the wake of the experience.<sup>20</sup> He was also a practitioner of [Remote Viewing (RV)](/topics/remote-viewing-rv)<sup>21</sup> and developed the quantum hologram theory of physics and consciousness (QHTC),<sup>22</sup> which, according to [Diana Walsh Pasulka](/people/diana-walsh-pasulka), held that information exists as patterns of energy given off by matter.<sup>23</sup> Building on this, his dyadic model of consciousness was, according to Pasulka, intended to explain how remote viewing, telepathy and extraordinary mystical experiences such as his own experience of samadhi were possible.<sup>24</sup>
+On the journey home from the Moon, Mitchell saw the Earth, the Moon and the Sun, and the whole 360-degree panorama of the heavens through his cockpit window every two minutes, an experience he described as powerful and overwhelming.<sup>8</sup> He recounted realising that the molecules of his own body, the spacecraft and his crewmates had been formed in an ancient generation of stars, producing an overwhelming sense of oneness and connectedness,<sup>9</sup> an experience accompanied by ecstasy that he described as an insight and an epiphany.<sup>10</sup> The experience was profound enough to change the direction of his life:<sup>11</sup> he returned to Earth and read extensively on the subject of consciousness,<sup>12</sup> eventually finding it described in the Sanskrit literature of ancient India,<sup>13</sup> and concluding that it matched descriptions of samadhi, particularly Savikalpa samadhi.<sup>14</sup> Following this, he founded the Institute of Noetic Sciences (IONS)<sup>15</sup> and Quantrek,<sup>16</sup> organisations dedicated to the study of consciousness and energy.<sup>17</sup> He went on to develop the quantum hologram theory of physics and consciousness (QHTC),<sup>18</sup> and, according to religious studies scholar [Diana Walsh Pasulka](/people/diana-walsh-pasulka), a dyadic model of consciousness intended to explain [remote viewing](/topics/remote-viewing-rv), telepathy and extraordinary mystical experiences such as his own.<sup>19</sup>
 
-Mitchell was a longstanding proponent of research into [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) and served on the science advisory board of the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science) (NIDS), retaining some of its confidential research reports,<sup>25</sup> after [Robert Bigelow](/people/robert-bigelow), who funded the organisation, invited him onto the board.<sup>26</sup> According to documents later found in Mitchell's archive, [Eric Davis](/people/eric-davis) investigated a supposed alien attack in Montana while working with NIDS and concluded it was a hoax.<sup>27</sup> In April 1997, Mitchell's renown as an astronaut opened the way for a briefing with [Thomas Wilson](/people/thomas-wilson), the Deputy Director of Intelligence for the Joint Chiefs of Staff.<sup>28</sup> On 1997-04-10, Mitchell, [Steven Greer](/people/steven-greer) and [Willard Miller](/people/willard-miller) were inside the Pentagon for the meeting,<sup>29</sup> where they presented Wilson with what they were convinced was strong witness evidence supporting their belief that the US government was covering up alien visitations to Earth, recovered spacecraft and alien bodies, and technological breakthroughs derived from those discoveries.<sup>30</sup> Wilson later told Richard Dolan that he had agreed to the meeting only because he was curious why a man of Mitchell's stature would be interested in the subject of UFOs.<sup>31</sup> Mitchell later confirmed to friends that the meeting had happened as Greer described it.<sup>32</sup> Notes on the episode, since referred to as The Admiral Wilson Memo, record that the briefing took place in a Pentagon conference room with Admiral Mike Crawford and General Patrick Hughes also present.<sup>33</sup> Two months afterwards, in June 1997, Mitchell wrote to Senator Strom Thurmond, privately telling him that he was convinced Philip Corso's account of the Roswell incident was true.<sup>34</sup> Mitchell went on to help fund and establish the Disclosure Movement, which sought to force governments to declassify documents relating to UFOs,<sup>35</sup> and later co-founded, with Rey Hernandez, Harvard astrophysicist Rudy Schild and Mary Rodwell, the Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE).<sup>36</sup>
+Mitchell was a practitioner of remote viewing.<sup>20</sup> Pasulka reported that he conducted remote-viewing experiments in space during his Apollo lunar mission, unsanctioned by NASA<sup>21</sup> and kept secret.<sup>22</sup> Pasulka met Mitchell on two occasions,<sup>23</sup> including a Skype session with a small group of researchers she had organised in California,<sup>24</sup> and found that, like other scientists she had interviewed, he had been involved with the Stanford Research Institute (SRI).<sup>25</sup> She wrote that the transition back to Earth had been difficult for Mitchell, a feeling also expressed by Tyler D. after his own space launches,<sup>26</sup> and considered Mitchell part of a hidden, unofficial history of the American space programme that she associated with Tyler D. and others who believed nonhuman beings had helped humans achieve spaceflight.<sup>27</sup> Mitchell co-founded the Dr. Edgar Mitchell Foundation for Research into Extraterrestrial Encounters (FREE) together with Rey Hernandez, Harvard astrophysicist Rudy Schild and researcher Mary Rodwell.<sup>28</sup> Schild put Hernandez in touch with Mitchell by phone,<sup>29</sup> and the two found they lived close to one another and arranged to meet.<sup>30</sup> Hernandez has said that Mitchell described to him his personal "awakening" in space,<sup>31</sup> and that Mitchell and Schild together helped him understand the quantum hologram theory.<sup>32</sup> Mitchell offered to help Hernandez set up the new organisation,<sup>33</sup> whose motto, according to Hernandez, became "Disclosure from the Bottom Up" because Mitchell believed a study focused on the experiencer was important.<sup>34</sup>
 
-Mitchell knew researcher Richard C. Hoagland from his [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) days,<sup>37</sup> and the two publicly debated on Coast to Coast AM in 1996.<sup>38</sup> After the broadcast, Hoagland promised to send Mitchell further material and Mitchell agreed to a follow-up programme,<sup>39</sup> but although Hoagland sent the promised material, Mitchell never responded and the follow-up never took place.<sup>40</sup> Their dispute drew on Apollo 14 photography, including the frame catalogued as AS14-66-9301 "Mitchell Under Glass", taken by [Alan Shepard](/people/alan-shepard) as Mitchell deployed the television camera near the start of the mission's first moonwalk.<sup>41</sup> During the [Apollo 14](/projects/apollo-14) mission, only Shepard and Mitchell landed on the Moon, and each carried one Hasselblad camera;<sup>42</sup> a golf-shot photograph published in Shepard's book Moon Shot nonetheless showed both men simultaneously in the same image,<sup>43</sup> using a figure of Mitchell that was a reversed cutout from the AS14-66-9301 frame.<sup>44</sup>
+In April 1997, Mitchell's renown as an astronaut opened the way to an extraordinary briefing with the Deputy Director of Intelligence for the Joint Chiefs of Staff, Admiral [Thomas Wilson](/people/thomas-wilson).<sup>35</sup> Together with [Steven Greer](/people/steven-greer) and [Willard Miller](/people/willard-miller), Mitchell gave a talk in a Pentagon conference room attended by Admiral Mike Crawford and General Patrick Hughes, an episode later set out in The Admiral Wilson Memo.<sup>36</sup> On 1997-04-10, Greer, Miller and Mitchell presented Wilson with what they were convinced was strong witness evidence supporting their belief that the US government was covering up alien visitations, recovered spacecraft and alien bodies, and derived technological breakthroughs.<sup>37</sup> Mitchell later confirmed to friends that the meeting had happened as Greer described it,<sup>38</sup> and [Eric Davis](/people/eric-davis) said that Mitchell only told him about the episode in 1999.<sup>39</sup> Steven Lovekin, Shari Adamiak, Mitchell and Miller all backed Greer's account of the meeting.<sup>40</sup> Two months later, in 1997-06, Mitchell wrote a fax to Senator Strom Thurmond;<sup>41</sup> he told Thurmond privately that he was convinced Philip Corso's account of the Roswell incident was true.<sup>42</sup> Mitchell was long a proponent of research into [UAPs](/topics/unidentified-anomalous-phenomena-uap) and served on the science advisory board of the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science), retaining some of its confidential research reports from Skinwalker and other sites visited by the organisation's investigators.<sup>43</sup> [Robert Bigelow](/people/robert-bigelow), who funded the institute, had invited Mitchell to serve on its advisory board.<sup>44</sup>
 
-Mitchell later gave an interview to religious studies scholar Diana Walsh Pasulka, who met him on two occasions,<sup>45</sup> including once inviting him to join a small research session she had organised, which he attended by Skype.<sup>46</sup> Pasulka found that, like other scientists she had interviewed, Mitchell had been involved with the Stanford Research Institute.<sup>47</sup> She also noted that Mitchell had conducted remote-viewing experiments in space during the Apollo lunar mission,<sup>48</sup> which were not sanctioned by NASA and were kept secret.<sup>49</sup> Researcher James Rigney briefly met Mitchell in 2012 at the 40th-anniversary celebrations of Apollo 17,<sup>50</sup> and a year later The Spaceman arranged for Rigney to have a longer conversation with Mitchell at another conference.<sup>51</sup> The Spaceman, who wishes to remain anonymous, was a very close friend of Mitchell's.<sup>52</sup> Pasulka noted that the difficult transition back to Earth Mitchell experienced was a feeling Tyler D. also expressed after his own launches of satellites and shuttles into space.<sup>53</sup>
+Mitchell knew [Richard C. Hoagland](/people/richard-c-hoagland) from his NASA days.<sup>45</sup> During a 1996 debate with Mitchell on the radio programme Coast to Coast AM, Hoagland said he considered that the distant lunar ruins he described might have been very faint and further filtered by the gold visors worn by astronauts on the lunar surface.<sup>46</sup> After the broadcast, Hoagland promised to send Mitchell additional material to review, and Mitchell agreed to a follow-up programme;<sup>47</sup> Hoagland sent the material as promised, but Mitchell never responded and the follow-up never took place.<sup>48</sup> One frame from the mission, AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph), shows Mitchell photographed by [Alan Shepard](/people/alan-shepard) as he deployed the television camera at the start of the mission's first lunar extra-vehicular activity, on 1971-02-05.<sup>49</sup> Hoagland said he found that the image of Mitchell used in a golf-shot photograph published in Alan Shepard's book Moon Shot<sup>50</sup> had been cut out and reversed from the AS14-66-9301 frame.<sup>51</sup>
 
-During Apollo 14's post-flight debriefing, Mitchell reported experiencing cosmic ray visual phenomena (light flashes), describing streaks progressing across his field of view,<sup>54</sup> appearing approximately 7.5 to 10 centimetres from his eye and about 5 centimetres long.<sup>55</sup> He recorded 12 flashes in his right eye against 6 in his left.<sup>56</sup> He also described a "nova" phenomenon, a blob that started and then expanded, becoming more diffuse over time,<sup>57</sup> and a diffuse, cloud-like phenomenon on a couple of occasions,<sup>58</sup> which he described as white or silver in colour.<sup>59</sup> No other crew member reported seeing colour in the flashes,<sup>60</sup> but Mitchell saw one that was silver, blue-white, like a blue diamond.<sup>61</sup> In the final months of his life, according to The Spaceman, Mitchell confided that he had seen anomalous blue lights during the Apollo 14 mission that he could not explain,<sup>62</sup> visible in a photograph of him on the lunar surface with a blue light hovering in the distance behind him,<sup>63</sup> and that although critics would call it a lens artefact, he did not believe that explanation because he had seen it with his own eyes.<sup>64</sup> Mitchell died of cancer at his home in Florida on 2016-02-04, one day before the 45th anniversary of his Moon landing,<sup>65</sup> having travelled approximately 380,000 kilometres by rocket to reach the lunar surface.<sup>66</sup>
+During the [Apollo 14](/projects/apollo-14) mission, Mitchell took part in NASA's light-flash experiment, describing cosmic ray visual phenomena (light flashes) as streaks moving across his field of view from one direction to another<sup>52</sup> and, separately, as a "nova" phenomenon: a blob that started and then expanded, becoming more diffused over time.<sup>53</sup> He reported 12 light flashes in his right eye and 6 in his left,<sup>54</sup> and recalled one flash that was silver, blue-white in colour, like a blue diamond.<sup>55</sup> He said there was hardly any night during the mission when he did not see at least some light flashes, with the possible exception of time spent on the lunar surface.<sup>56</sup> Mitchell publicly maintained that in all his space travels he never saw a UFO.<sup>57</sup> According to a close friend known as The Spaceman, Mitchell privately confided that he had seen anomalous objects during Apollo 14 that he could not explain,<sup>58</sup> including well-defined blue lights that appeared to have structure behind them;<sup>59</sup> he dismissed the possibility that the lights were lens flares, reflections inside the lunar module or camera glitches, because he had seen them with his own eyes and later confirmed they appeared on film.<sup>60</sup> The Spaceman said Mitchell told no one about the blue lights until confiding in him in the final months before his death,<sup>61</sup> and that when asked why he always denied seeing UFOs, Mitchell would only reply with the single word "Treason".<sup>62</sup> In those final months, The Spaceman said, Mitchell also confided that he believed every Apollo mission was closely watched by intelligently guided craft of unknown origin, though he could not scientifically prove it.<sup>63</sup> Mitchell died of cancer at his home in Florida on 2016-02-04, one day before the 45th anniversary of his Moon landing.<sup>64</sup> After his death, his nephew Mitch Harkins, who had been living in Mitchell's home, took possession of several boxes of Mitchell's UAP and paranormal research files,<sup>65</sup> and ensured that the most sensitive material was preserved and passed on to The Spaceman.<sup>66</sup> James Rigney, who briefly met Mitchell in 2012 at the 40th anniversary celebrations of Apollo 17, the final Apollo mission,<sup>67</sup> later clashed with members of his local space research association over their criticism of Mitchell's post-NASA work investigating unidentified aerospace and paranormal phenomena.<sup>68</sup>

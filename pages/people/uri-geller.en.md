@@ -1,11 +1,13 @@
 ---
 title: Uri Geller
-description: Israeli entertainer and self-described psychic, associated with claims
-  of metal-bending and telepathy and with reported contact with an alleged cosmic
-  intelligence called SPECTRA.
+description: Uri Geller is an Israeli-born entertainer and self-described psychic
+  known for claimed abilities in metal-bending and telepathy, whose case was investigated
+  by ufologist Jacques Vallée and who was brought to the United States for laboratory
+  study by parapsychologist Andrija Puharich.
 metadata:
-  role: Entertainer, self-described psychic
+  role: Entertainer and self-described psychic
   nationality: Israeli
+  notable_associates: Andrija Puharich, Jacques Vallée
 built_from:
   brief_hash: 2b35fec10e406d7c1c6fae73a34535d590119bfb11c9ac43a7ae4c31b6f62a5b
   claims:
@@ -172,8 +174,8 @@ built_from:
   - id: b23c94d1-196e-48cc-88f1-dd85b0097232
     hash: 335b948fd511f883e012929620b5cda28ef54ecb37baf8806881cb4da94b0f47
 references:
-- text: Geller began as a stage magician before scientists later tested his claimed
-    abilities in the laboratory.
+- text: Geller began his career as a stage magician before puzzling scientists who
+    later tested his claimed abilities in the laboratory
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:11504-11643
@@ -182,47 +184,8 @@ references:
   claim_id: 279296ef-75e7-4469-a5b6-60a0ccf10062
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-279296ef-75e7-4469-a5b6-60a0ccf10062
-- text: Geller said that on 1949-12-25, aged three in a Tel Aviv garden, he saw a
-    large shining bowl-shaped light above him.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch11:1077-1220
-  quote: At the age of three, as he was playing in a garden in Tel Aviv, he saw a
-    large shining bowl-shaped light in the sky above him, on December 25, 1949.
-  claim_id: 8ed0caee-592a-4279-9edb-27f6de6ed976
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8ed0caee-592a-4279-9edb-27f6de6ed976
-- text: Geller recalled a huge, faceless, shining figure holding the sun between its
-    arms, whose brightness made him pass out.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch11:1291-1478
-  quote: The shining figure had no face that could be seen, only a radiant countenance...Uri
-    passed out from the power of its rays, with the pain of blindness.
-  claim_id: 1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
-- text: Geller traced his paranormal abilities to exposure to a beam of light he said
-    came from the sky.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch9:21205-21356
-  quote: In the case of Uri Geller, who, like the French doctor, traces his paranormal
-    abilities to his exposure to a peculiar beam of light that came from the sky
-  claim_id: b23c94d1-196e-48cc-88f1-dd85b0097232
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b23c94d1-196e-48cc-88f1-dd85b0097232
-- text: Geller has stated his powers come from a form of consciousness emanating from
-    'Hoova.'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch5:26349-26437
-  quote: Uri Geller has stated that his powers come from a form of consciousness emanating
-    from “Hoova,”
-  claim_id: 26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
-- text: Puharich brought Geller to the United States in 1971 and arranged laboratory
-    study at several institutions.
+- text: Puharich, an American parapsychologist, brought Geller to the United States
+    in 1971 and arranged for laboratory study at several institutions
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:14713-14904
@@ -232,8 +195,8 @@ references:
   claim_id: 0c42c55f-7f5d-4d4b-905c-037a1ad7d206
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c42c55f-7f5d-4d4b-905c-037a1ad7d206
-- text: Geller told SRI scientists that SPECTRA's computers 'were fed millions of
-    light-years in the future.'
+- text: Geller told SRI scientists SPECTRA's computers were fed millions of light-years
+    in the future
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:24578-24815
@@ -243,8 +206,57 @@ references:
   claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7f75b7c-4b54-498c-b4c5-2c9434cf257f
-- text: Contacts between Puharich and SPECTRA/Hoova began 1971-11-30 when Puharich
-    first hypnotised Geller.
+- text: Vallée had been in touch with Geller, an Israeli psychic, for over a year
+    before meeting a similar contactee
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch8:11312-11516
+  quote: At the time of this encounter I had been for over a year in touch with another
+    man whose story was similar but on the veracity of which I had reserved judgment.
+    This other man was Uri Geller, the Israeli psychic
+  claim_id: 2b06eb52-fed2-42d7-859c-a6c1b0e75981
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2b06eb52-fed2-42d7-859c-a6c1b0e75981
+- text: Geller said that at age three in Tel Aviv he saw a large shining bowl-shaped
+    light in the sky
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch11:1077-1220
+  quote: At the age of three, as he was playing in a garden in Tel Aviv, he saw a
+    large shining bowl-shaped light in the sky above him, on December 25, 1949.
+  claim_id: 8ed0caee-592a-4279-9edb-27f6de6ed976
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8ed0caee-592a-4279-9edb-27f6de6ed976
+- text: Geller recalled a huge bright faceless figure holding the sun between its
+    arms, whose brightness caused him to pass out
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch11:1291-1478
+  quote: The shining figure had no face that could be seen, only a radiant countenance...Uri
+    passed out from the power of its rays, with the pain of blindness.
+  claim_id: 1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
+- text: Geller traces his paranormal abilities to exposure to a beam of light he says
+    came from the sky
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch9:21205-21356
+  quote: In the case of Uri Geller, who, like the French doctor, traces his paranormal
+    abilities to his exposure to a peculiar beam of light that came from the sky
+  claim_id: b23c94d1-196e-48cc-88f1-dd85b0097232
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b23c94d1-196e-48cc-88f1-dd85b0097232
+- text: Geller has said his powers come from a form of consciousness he calls Hoova
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch5:26349-26437
+  quote: Uri Geller has stated that his powers come from a form of consciousness emanating
+    from “Hoova,”
+  claim_id: 26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
+- text: Contacts between Puharich and SPECTRA/Hoova began when Puharich first hypnotised
+    Geller on 1971-11-30
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:463-701
@@ -255,8 +267,8 @@ references:
   claim_id: 10463795-d081-4d39-a962-77d4e7e85f41
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10463795-d081-4d39-a962-77d4e7e85f41
-- text: Under hypnosis Geller said he found himself in a cave in Cyprus and 'came
-    there for learning.'
+- text: Under hypnosis Geller said he found himself in a cave in Cyprus and had come
+    there for learning
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:707-793
@@ -265,8 +277,8 @@ references:
   claim_id: 6675e9d3-bb81-4e34-bf86-9b1e00102308
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6675e9d3-bb81-4e34-bf86-9b1e00102308
-- text: A voice said it was revealing itself because of Egyptian war plans, around
-    the Six-Day War.
+- text: A hypnosis-session voice said it revealed itself because of war plans by Egypt
+    around the Six-Day War
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:1802-2003
@@ -276,7 +288,7 @@ references:
   claim_id: 789e570d-6af6-40e6-afc3-1d8e3bc28ef8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-789e570d-6af6-40e6-afc3-1d8e3bc28ef8
-- text: Puharich sometimes receives messages from SPECTRA when Geller is not present.
+- text: Puharich sometimes received messages from SPECTRA when Geller was not present
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:25088-25277
@@ -286,8 +298,8 @@ references:
   claim_id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6a8f477-a89b-4064-bdef-c4574cc7b03e
-- text: SPECTRA said it was a spacecraft stationed over the earth for eight hundred
-    years.
+- text: SPECTRA communicated in 1972 that it was a spacecraft stationed above the
+    earth for eight hundred years
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:785-977
@@ -297,16 +309,8 @@ references:
   claim_id: f8a262a4-584d-4698-a862-085269ba7e02
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8a262a4-584d-4698-a862-085269ba7e02
-- text: The tape of the 1972 SPECTRA communications disappeared after transcription.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch12:1271-1325
-  quote: Received on magnetic tape. The tape disappeared after transcription.
-  claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
-- text: Geller and Puharich took literally SPECTRA messages about dematerialised atoms
-    and refuelling via the earth's layers.
+- text: Geller and Puharich took literally SPECTRA's taped messages about dematerialised
+    atoms and a mass landing
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:2673-2962
@@ -317,8 +321,8 @@ references:
   claim_id: 84e78942-afcd-40ae-b66f-314175277e5f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-84e78942-afcd-40ae-b66f-314175277e5f
-- text: SPECTRA's predicted mass landings would perhaps be visible only to Geller
-    and Puharich themselves.
+- text: Geller and Puharich received SPECTRA messages predicting mass landings visible
+    only to themselves
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:5993-6091
@@ -327,19 +331,35 @@ references:
   claim_id: ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
-- text: Puharich wrote that a Prophet such as Geller is created as intermediary between
-    a divine intelligence and man.
+- text: Geller and Puharich forecast massive flying saucer landings
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch11:8012-8174
+  location: ch10:45652-45708
+  quote: Geller and Puharich have forecast massive flying saucer landings.
+  claim_id: 4525f8ae-dd94-438e-9400-d6a2590c1c67
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4525f8ae-dd94-438e-9400-d6a2590c1c67
+- text: The magnetic tape of the 1972 SPECTRA communications disappeared after transcription
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch12:1271-1325
+  quote: Received on magnetic tape. The tape disappeared after transcription.
+  claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
+- text: Puharich wrote that a Prophet such as Geller is created to serve as intermediary
+    between a divine intelligence and man
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: p. 127 (ch11:8012-8174)
   quote: “I believe,” states Dr. Puharich (p. 127), “that a Prophet, a Uri Geller
     … is specifically created to serve as an intermediary between a ‘divine’ intelligence
     and man.”
   claim_id: c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
-- text: Puharich stated the relationship with the beings and Geller continued to grow
-    deeper and more meaningful.
+- text: Puharich stated the relationship between the superior beings and himself and
+    Geller continued to grow deeper
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:8428-8568
@@ -348,8 +368,19 @@ references:
   claim_id: 597e7465-548a-4f8d-b902-f4368e8d7e4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-597e7465-548a-4f8d-b902-f4368e8d7e4e
-- text: Geller began receiving automatic writing in the form of tensor equations he
-    had no concept of.
+- text: Puharich was committed to the idea that he and Geller were guided by a high
+    source of wisdom
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch17:21115-21287
+  quote: he is totally committed to the idea that he and Uri are now guided by a very
+    high source of wisdom, and that the only course for mankind is to place its destiny
+    in “their” hands
+  claim_id: 28413dcc-399a-4d98-8ea4-aba13c926696
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28413dcc-399a-4d98-8ea4-aba13c926696
+- text: Geller began receiving information through automatic writing in the form of
+    tensor equations
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:8651-8902
@@ -360,17 +391,186 @@ references:
   claim_id: 057e1f3d-a37f-4c48-81bc-d4cbb5c45769
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e1f3d-a37f-4c48-81bc-d4cbb5c45769
-- text: Vallée noted Geller appeared capable of forcing subjects toward certain numbers
-    or words.
+- text: Vallée argued both believers and sceptics were wrong, including Puharich's
+    tapes and the Rhombus 4-D computer messages
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch16:2591-2673
-  quote: Uri Geller appears capable of forcing subjects to pick certain numbers or
-    certain words.
-  claim_id: d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
+  location: ch17:4423-4536
+  quote: I would argue that they are all wrong, even Puharich with his disappearing
+    tapes, and Uri voicing from Rhombus 4-D.
+  claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
-- text: Geller asked a subject to select a three-digit number and write it on a board.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
+- text: Vallée considered the cult around Puharich and Geller similar to other belief
+    structures of the period
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch11:5799-5985
+  quote: we find that the cult that is building up around Puharich and Geller is very
+    similar to a number of other belief structures that have developed in the U.S.
+    and other countries in recent years.
+  claim_id: 27185691-355b-439d-843f-23bf7485784b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-27185691-355b-439d-843f-23bf7485784b
+- text: The network of Geller devotees aroused the interest of several leading physicists
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:45106-45268
+  quote: One of the most publicized of these groups in recent years is the network
+    of Uri Geller devotees, which has succeeded in arousing the interest of several
+    leading physicists.
+  claim_id: e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
+- text: Jim Hurtak, a friend of Puharich, became involved in the Geller affair and
+    claimed his own psychic and UFO experiences
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch11:28344-28518
+  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
+    affair, and claimed to be psychic himself. Not only was he psychic, but he had
+    had a number of UFO encounters
+  claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
+- text: Dr. Armstrong, a leader of the sect around Mrs. Keech, later became involved
+    in the Geller affair
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch10:40627-40733
+  quote: One of the leaders of the sect was a “Dr. Armstrong,” a man we will again
+    find involved in the Uri Geller affair.
+  claim_id: acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
+- text: Puharich described his latest experiences with Geller at a panel discussion
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch17:20869-20916
+  quote: Puharich describes his latest experiences with Geller.
+  claim_id: ac973420-faad-48a0-acce-a3c0fe814497
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
+- text: Ira Einhorn gave the floor to Charles Muses to comment on Geller at the panel
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch17:21295-21348
+  quote: Ira gives the floor to Charles Muses who comments on Geller.
+  claim_id: a3ec1f1a-df8d-4322-bda9-338197c98915
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3ec1f1a-df8d-4322-bda9-338197c98915
+- text: Professor Miklos, a Romanian researcher, offered Vallée a theory to help understand
+    Geller
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:23591-23777
+  quote: Additional comments have come to me from scientists in several countries.
+    Professor Miklos, a Romanian researcher, offered a theory that may be helpful
+    in our attempts to understand Uri Geller
+  claim_id: b84b2660-e49c-4120-8d21-d309cc32211a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b84b2660-e49c-4120-8d21-d309cc32211a
+- text: Vallée and Geller had lunch in December 1972, and Vallée showed him Phoenician
+    seals depicting a flying disk ritual
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:6013-6233
+  quote: In December, 1972, I had lunch with Geller and showed him the series of Phoenician
+    seals described in Chapter Six. They depict a religious ritual performed by priests,
+    and a flying disk from which God-like creatures are emerging.
+  claim_id: 31a51f43-f6e7-49c1-8347-5849eb33ee1e
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-31a51f43-f6e7-49c1-8347-5849eb33ee1e
+- text: Geller told Vallée, in confidence, details of his own close UFO encounters
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:6243-6377
+  quote: Uri studied these photographs with much interest and proceeded to tell me
+    confidentially the details of his own close encounters with UFOs.
+  claim_id: 432b561f-18c0-4f6f-b965-cb73a5241592
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-432b561f-18c0-4f6f-b965-cb73a5241592
+- text: Geller believed himself a secret contactee with an alien entity he did not
+    want to name publicly
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:6383-6533
+  quote: He was in fact, I learned, a "secret contactee," a man who believed himself
+    to be in contact with an alien entity which he did not want to mention in public.
+  claim_id: fa132188-3bfd-4fe6-873e-18cea6d23f5a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fa132188-3bfd-4fe6-873e-18cea6d23f5a
+- text: Vallée asked whether Geller could contact the entity again to obtain a close
+    observation as a test case
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:6965-7125
+  quote: 'During our discussion I asked Uri Geller if he thought he could contact
+    the UFO entity again to obtain for us a real test case: a close observation of
+    a flying saucer.'
+  claim_id: 24499a5a-eb42-4c59-8995-50077def1cc7
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-24499a5a-eb42-4c59-8995-50077def1cc7
+- text: Geller replied that the initiative for contact always came from the other
+    side, not from him
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:7133-7237
+  quote: He replied that in all his meetings with "them" the initiative for the contact
+    has been with the "other side."
+  claim_id: accec093-042f-4cd3-8c7a-210968ee3f5c
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-accec093-042f-4cd3-8c7a-210968ee3f5c
+- text: Geller proposed conducting telepathic experiments with Vallée
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:7245-7315
+  quote: Later during our lunch Uri proposed to do telepathic experiments with me.
+  claim_id: 2a52523e-33ae-4f25-893e-da240a1cd741
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2a52523e-33ae-4f25-893e-da240a1cd741
+- text: A physicist colleague handed Vallée a sealed envelope with a card depicting
+    a whale target
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:7490-7685
+  quote: One of the physicists with whom Geller had been working handed me a sealed
+    envelope containing a card on which a target had been drawn. It was the outline
+    of a whale blowing water vapor into the air.
+  claim_id: 5049b5ba-f019-429c-a44c-6d3c2992ad46
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5049b5ba-f019-429c-a44c-6d3c2992ad46
+- text: Geller received no clear image on the first telepathy attempt
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:7820-7942
+  quote: Uri was to imagine a similar screen in his own mind and fill out the picture,
+    but he received no clear image at the first trial.
+  claim_id: c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
+- text: In a second attempt Geller drew both a fish and a fountain, matching the two
+    images Vallée sent
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:8311-8487
+  quote: Now Uri took a blank card and said, as he rapidly drew on it, "It’s strange,
+    I’m getting two things." On the card he passed around, he had drawn a fish. Next
+    to the fish was a fountain.
+  claim_id: 5895c4f4-8767-445b-99c8-2759171b232e
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5895c4f4-8767-445b-99c8-2759171b232e
+- text: Vallée found the two-target test convincing since he alone knew two targets
+    had been sent
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:8533-8648
+  quote: This was a convincing test because it excluded the "collusion" hypothesis...
+    I was the only person who knew that two different targets, rather than one, had
+    been sent!
+  claim_id: 3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
+- text: Geller asked a subject to select a three-digit number and write it on a board
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1044-1132
@@ -379,7 +579,7 @@ references:
   claim_id: def8128b-bafe-40fc-b178-f71b56a1fa92
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-def8128b-bafe-40fc-b178-f71b56a1fa92
-- text: The subject wrote the digits 7, 2, and 5 on the board.
+- text: The subject wrote the digits 7, 2, and 5 on the board
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1342-1409
@@ -387,8 +587,8 @@ references:
   claim_id: 6d722af5-63e0-4993-986e-187b9fbbb927
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6d722af5-63e0-4993-986e-187b9fbbb927
-- text: Geller, hidden behind a screen with his head to the wall, spelled out the
-    digits 7, 2, and 5.
+- text: Geller, hidden by a screen, spelled out the same three digits he said he was
+    mentally picking up
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1412-1601
@@ -399,7 +599,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7bd265fc-cfb3-4ccc-b40d-a74024879c71
 - text: Vallée independently wrote 726 on his own notepad and showed it to Janine
-    Vallée.
+    Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1139-1337
@@ -409,8 +609,8 @@ references:
   claim_id: 610c9482-63ec-4ae6-b674-7776a3eabca5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-610c9482-63ec-4ae6-b674-7776a3eabca5
-- text: Vallée asked Geller privately if he had played a word-forcing game; Geller
-    said he had not.
+- text: Vallée privately asked whether Geller had played a word-forcing game, and
+    Geller denied it
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:3268-3429
@@ -420,8 +620,53 @@ references:
   claim_id: 1cf4c868-4b56-48ff-88ac-945491aeadd3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1cf4c868-4b56-48ff-88ac-945491aeadd3
-- text: In a colour experiment, Vallée switched his target from blue to yellow; Geller
-    reported yellow, one signal as blue.
+- text: Vallée wrote the digits 8, 9, 2 and asked Geller to send only the last, which
+    Geller wrote
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:8913-9173
+  quote: Now I began to take Uri Geller more seriously. In the second experiment he
+    asked me to write a digit (I wrote down 8) and a second one (9) and then a third,
+    larger. I wrote 2. "Send me the last digit only," he said. And a moment later
+    he had written a 2 on a card.
+  claim_id: c036d66e-334d-4e8b-8576-3c9d92996d63
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c036d66e-334d-4e8b-8576-3c9d92996d63
+- text: Geller's hand-drawn 2 had the same unusual flat base as Vallée's own when
+    the tracings were superimposed
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:9410-9733
+  quote: 'The interesting fact here was that my 2 was hastily drawn and that the horizontal
+    base of the digit was very flat and elongated. It was completely different from
+    the usual American way of drawing it. Now the drawing by Uri was not only similar
+    to mine: it was identical, as was soon demonstrated by superimposing the two tracings.'
+  claim_id: 12613c8e-3c1f-4faf-a40a-723a474e9ec7
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-12613c8e-3c1f-4faf-a40a-723a474e9ec7
+- text: Geller told Vallée his specialty was producing phenomena with physical objects,
+    citing a spoon
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:10484-10666
+  quote: '"You know," said Uri, "everything you’ve seen … Those are little things.
+    This is not what I really do. My specialty is to produce phenomena with physical
+    objects. For example, take a spoon."'
+  claim_id: 5916a906-5d84-453d-af49-0eca626a6f96
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5916a906-5d84-453d-af49-0eca626a6f96
+- text: Geller touched a spoon and it bent three times, folded back against the handle
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch16:10675-10901
+  quote: With these words he touched, barely touched the spoon in his cup, and he
+    jumped back as if he had touched a snake. He reached for the spoon again and showed
+    it to us. It was bent three times, literally folded back against the handle.
+  claim_id: a6b10f89-6645-44e8-9e8c-e263bfbf483e
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a6b10f89-6645-44e8-9e8c-e263bfbf483e
+- text: In a colour test Vallée switched his target from blue to yellow, and Geller
+    reported yellow with one signal as blue
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:10124-10394
@@ -432,19 +677,8 @@ references:
   claim_id: 4d646bdb-20df-40df-a203-dc09357b0668
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4d646bdb-20df-40df-a203-dc09357b0668
-- text: Geller touched a spoon in Vallée's cup and it bent three times, folded against
-    the handle.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:10675-10901
-  quote: With these words he touched, barely touched the spoon in his cup, and he
-    jumped back as if he had touched a snake. He reached for the spoon again and showed
-    it to us. It was bent three times, literally folded back against the handle.
-  claim_id: a6b10f89-6645-44e8-9e8c-e263bfbf483e
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a6b10f89-6645-44e8-9e8c-e263bfbf483e
-- text: At the Parapsychology Research Group of Palo Alto, Geller failed to satisfactorily
-    demonstrate metal bending.
+- text: At a Parapsychology Research Group of Palo Alto meeting, Geller did not bend
+    metal to anyone's satisfaction
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:5651-5826
@@ -454,89 +688,48 @@ references:
   claim_id: bf22d449-86bf-4eec-991b-2e3191f4fd2b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf22d449-86bf-4eec-991b-2e3191f4fd2b
-- text: In December 1972, Vallée showed Geller Phoenician seals depicting a ritual
-    and a flying disk.
+- text: No demonstration of Geller's metal-bending had been done under strict laboratory
+    control, though anecdotal evidence existed
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch16:6013-6233
-  quote: In December, 1972, I had lunch with Geller and showed him the series of Phoenician
-    seals described in Chapter Six. They depict a religious ritual performed by priests,
-    and a flying disk from which God-like creatures are emerging.
-  claim_id: 31a51f43-f6e7-49c1-8347-5849eb33ee1e
+  location: ch16:4672-4841
+  quote: but at the time of this writing no demonstration of this ability has been
+    provided in strict laboratory control environments, although a wealth of anecdotal
+    evidence is available.
+  claim_id: 595df9ed-8e8b-410f-8a33-c4d3a58ddfca
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-31a51f43-f6e7-49c1-8347-5849eb33ee1e
-- text: Geller confidentially told Vallée the details of his own close encounters
-    with UFOs.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-595df9ed-8e8b-410f-8a33-c4d3a58ddfca
+- text: Geller appeared capable of forcing subjects to pick certain numbers or words
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch16:6243-6377
-  quote: Uri studied these photographs with much interest and proceeded to tell me
-    confidentially the details of his own close encounters with UFOs.
-  claim_id: 432b561f-18c0-4f6f-b965-cb73a5241592
+  location: ch16:2591-2673
+  quote: Uri Geller appears capable of forcing subjects to pick certain numbers or
+    certain words.
+  claim_id: d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-432b561f-18c0-4f6f-b965-cb73a5241592
-- text: Geller believed himself a secret contactee in touch with an alien entity he
-    did not want to name publicly.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
+- text: A short series of telepathic tests convinced Vallée that Geller's abilities
+    were genuine
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch16:6383-6533
-  quote: He was in fact, I learned, a "secret contactee," a man who believed himself
-    to be in contact with an alien entity which he did not want to mention in public.
-  claim_id: fa132188-3bfd-4fe6-873e-18cea6d23f5a
+  location: ch16:7319-7394
+  quote: It is this short series of tests that convinced me that his abilities were
+    genuine.
+  claim_id: 99eac439-f12d-4ff1-beba-a6d9ce429ec4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fa132188-3bfd-4fe6-873e-18cea6d23f5a
-- text: Vallée asked Geller whether he could contact the entity again for a close
-    observation.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-99eac439-f12d-4ff1-beba-a6d9ce429ec4
+- text: Vallée considered that although Geller used trickery at times, some phenomena
+    around him were genuine
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch16:6965-7125
-  quote: 'During our discussion I asked Uri Geller if he thought he could contact
-    the UFO entity again to obtain for us a real test case: a close observation of
-    a flying saucer.'
-  claim_id: 24499a5a-eb42-4c59-8995-50077def1cc7
+  location: ch16:5503-5642
+  quote: I am inclined to believe that although Geller, like every medium, uses trickery
+    at times, some of the phenomena that happen around him are genuine.
+  claim_id: 74451da5-3e23-4330-a259-d537ac26b2af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-24499a5a-eb42-4c59-8995-50077def1cc7
-- text: Geller replied the initiative for contact had always come from the other side.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:7133-7237
-  quote: He replied that in all his meetings with "them" the initiative for the contact
-    has been with the "other side."
-  claim_id: accec093-042f-4cd3-8c7a-210968ee3f5c
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-accec093-042f-4cd3-8c7a-210968ee3f5c
-- text: Geller proposed conducting telepathic experiments with Vallée.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:7245-7315
-  quote: Later during our lunch Uri proposed to do telepathic experiments with me.
-  claim_id: 2a52523e-33ae-4f25-893e-da240a1cd741
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2a52523e-33ae-4f25-893e-da240a1cd741
-- text: Geller drew a fish and a fountain after Vallée mentally sent both images in
-    succession.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:8311-8487
-  quote: Now Uri took a blank card and said, as he rapidly drew on it, "It’s strange,
-    I’m getting two things." On the card he passed around, he had drawn a fish. Next
-    to the fish was a fountain.
-  claim_id: 5895c4f4-8767-445b-99c8-2759171b232e
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5895c4f4-8767-445b-99c8-2759171b232e
-- text: Vallée found the two-target test convincing since only he knew two targets
-    had been sent.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:8533-8648
-  quote: This was a convincing test because it excluded the "collusion" hypothesis...
-    I was the only person who knew that two different targets, rather than one, had
-    been sent!
-  claim_id: 3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
-- text: Vallée classified Geller with Joan of Arc, Joseph Smith and Edgar Cayce as
-    a historical direct contactee.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-74451da5-3e23-4330-a259-d537ac26b2af
+- text: Vallée classifies Joan of Arc, Joseph Smith, Edgar Cayce, and Geller as historical
+    direct contactees
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:13676-13804
   quote: Under this definition, such historical figures as Joan of Arc or Joseph Smith
@@ -544,49 +737,19 @@ references:
   claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-195b98b9-8c81-48b0-889a-dfbebe0538d6
-- text: Vallée considered Geller a case gathering all the self-negating factors of
-    the UFO phenomenon.
+- text: Rogerson noted that childhood stories like Cayce's and Geller's were common
+    among accounts of mediums
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch10:39020-39190
-  quote: In some cases all three factors are gathered around a single person, and
-    then the complexity of the research becomes truly fantastic. Uri Geller, of course,
-    is a case in point.
-  claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
+  location: ch15:57264-57450
+  quote: Commenting on the childhood experiences of Cayce and Geller, a British researcher
+    named Peter Rogerson has reminded me that similar stories were common in accounts
+    of mediums of various kinds
+  claim_id: e445f3f2-babd-457c-875e-008ed61c0d68
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
-- text: Vallée wrote that he thought highly of Geller's talents.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch11:4288-4315
-  quote: I think highly of Geller’s talents.
-  claim_id: e8db6eff-dfd9-41a0-937e-d99db97c8633
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e8db6eff-dfd9-41a0-937e-d99db97c8633
-- text: Vallée considered most SPECTRA exchanges borrowed from Puharich's and Geller's
-    own minds, reflected back.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch11:21004-21190
-  quote: Its elements may be borrowed entirely from our own brains and reflected upon
-    us (as seems the case in most of the exchanges between Puharich and SPECTRA) or
-    it may present genuinely new data.
-  claim_id: 50423b82-572b-45e0-b20a-e4f28e6ebbd5
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-50423b82-572b-45e0-b20a-e4f28e6ebbd5
-- text: Vallée thought the 1899 Victor Hugo séance table phenomena, and Puharich/Geller's,
-    explained by unconscious mental processes.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch11:28893-29072
-  quote: I think the phenomena involving the table can be explained by unconscious
-    and mental process among the attending “spiritualists.” The same explanation holds
-    true for Puharich and Geller.
-  claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
-- text: Vallée proposed the Geller phenomenon was not psychiatric nor necessarily
-    space visitors, but a 'control system.'
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e445f3f2-babd-457c-875e-008ed61c0d68
+- text: Vallée proposed the Geller phenomenon was neither ordinary spiritualism nor
+    necessarily space visitors, but a control system
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:26330-26617
@@ -597,46 +760,18 @@ references:
   claim_id: 3bb60852-7f05-469c-94da-023226673ab9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3bb60852-7f05-469c-94da-023226673ab9
-- text: Vallée argued believers and sceptics were both wrong, citing Puharich's tapes
-    and Geller's Rhombus 4-D computer messages.
+- text: Vallée suggested the 1899 Victor Hugo séance phenomena and those around Puharich
+    and Geller share the same explanation
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch17:4423-4536
-  quote: I would argue that they are all wrong, even Puharich with his disappearing
-    tapes, and Uri voicing from Rhombus 4-D.
-  claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
+  location: ch11:28893-29072
+  quote: I think the phenomena involving the table can be explained by unconscious
+    and mental process among the attending “spiritualists.” The same explanation holds
+    true for Puharich and Geller.
+  claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
-- text: No demonstration of Geller's metal-bending had been given under strict laboratory
-    control, though anecdotal evidence existed.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:4672-4841
-  quote: but at the time of this writing no demonstration of this ability has been
-    provided in strict laboratory control environments, although a wealth of anecdotal
-    evidence is available.
-  claim_id: 595df9ed-8e8b-410f-8a33-c4d3a58ddfca
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-595df9ed-8e8b-410f-8a33-c4d3a58ddfca
-- text: Vallée thought Geller used trickery at times, like every medium, but considered
-    some phenomena genuine.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:5503-5642
-  quote: I am inclined to believe that although Geller, like every medium, uses trickery
-    at times, some of the phenomena that happen around him are genuine.
-  claim_id: 74451da5-3e23-4330-a259-d537ac26b2af
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-74451da5-3e23-4330-a259-d537ac26b2af
-- text: Vallée did not believe Geller was a new Messiah.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch8:24978-25015
-  quote: I do not believe Uri Geller is a new Messiah.
-  claim_id: 80f202d2-2fac-4ed2-aee3-994d0211c7b1
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-80f202d2-2fac-4ed2-aee3-994d0211c7b1
-- text: Some of Geller's followers suggested he might be a Messiah.
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
+- text: Some of Geller's followers suggested he might be a Messiah
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:15452-15657
@@ -646,77 +781,16 @@ references:
   claim_id: 19b35acb-7c2d-437d-b494-9daeaff0ab83
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-19b35acb-7c2d-437d-b494-9daeaff0ab83
-- text: Geller's network of devotees aroused the interest of several leading physicists.
+- text: Vallée did not believe Geller to be a new Messiah
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
-  location: ch10:45106-45268
-  quote: One of the most publicized of these groups in recent years is the network
-    of Uri Geller devotees, which has succeeded in arousing the interest of several
-    leading physicists.
-  claim_id: e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
+  location: ch8:24978-25015
+  quote: I do not believe Uri Geller is a new Messiah.
+  claim_id: 80f202d2-2fac-4ed2-aee3-994d0211c7b1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
-- text: Jim Hurtak, a friend of Puharich, was involved in the Geller affair and claimed
-    his own UFO encounters.
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:28344-28518
-  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
-    affair, and claimed to be psychic himself. Not only was he psychic, but he had
-    had a number of UFO encounters
-  claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
-- text: Dr. Armstrong, formerly a leader of the Mrs. Keech sect, later became involved
-    in the Geller affair.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch10:40627-40733
-  quote: One of the leaders of the sect was a “Dr. Armstrong,” a man we will again
-    find involved in the Uri Geller affair.
-  claim_id: acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
-- text: Ira Einhorn gave the floor to Charles Muses to comment on Geller during a
-    panel.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch17:21295-21348
-  quote: Ira gives the floor to Charles Muses who comments on Geller.
-  claim_id: a3ec1f1a-df8d-4322-bda9-338197c98915
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3ec1f1a-df8d-4322-bda9-338197c98915
-- text: Puharich described his latest experiences with Geller on the panel.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch17:20869-20916
-  quote: Puharich describes his latest experiences with Geller.
-  claim_id: ac973420-faad-48a0-acce-a3c0fe814497
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
-- text: Peter Rogerson noted stories like Cayce's and Geller's childhood experiences
-    were common among mediums.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch15:57264-57450
-  quote: Commenting on the childhood experiences of Cayce and Geller, a British researcher
-    named Peter Rogerson has reminded me that similar stories were common in accounts
-    of mediums of various kinds
-  claim_id: e445f3f2-babd-457c-875e-008ed61c0d68
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e445f3f2-babd-457c-875e-008ed61c0d68
-- text: Professor Miklos, a Romanian researcher, offered Vallée a theory to help understand
-    Geller.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch16:23591-23777
-  quote: Additional comments have come to me from scientists in several countries.
-    Professor Miklos, a Romanian researcher, offered a theory that may be helpful
-    in our attempts to understand Uri Geller
-  claim_id: b84b2660-e49c-4120-8d21-d309cc32211a
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b84b2660-e49c-4120-8d21-d309cc32211a
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-80f202d2-2fac-4ed2-aee3-994d0211c7b1
 - text: Vallée discussed Geller's abilities with Gordon Creighton while driving through
-    London in winter 1973.
+    London in winter 1973
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch18:332-467
@@ -729,27 +803,27 @@ built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: c0ef376f8efb82aad7f240372b9e441281a67a4594f8e3eac0f19a1aa35afcb1
+  prompt_sha256: 8d1ed31e0a40a2ecfc8565993d49d7c7fc4510caa7e9efe9976f5457649a058c
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 83100
-    output: 38561
+    input: 83105
+    output: 55802
     real_input: 2
-    cache_read: 39405
-    cache_write: 43693
+    cache_read: 39422
+    cache_write: 43681
     calls: 0
-  body_sha256: ea8710a30ac48db9df4342b78cf61d1c4f094f25ff559540bf1c0b86358c5de7
+  body_sha256: 0dcaf5b06e3d7376767dec758ee79a637debdb9aa066ad402f301fed9a88c5ef
 ---
 
-Uri Geller is an Israeli entertainer who began his career as a stage magician before his claimed paranormal abilities drew the attention of scientists who later tested him under laboratory conditions.<sup>1</sup> Geller has said that on 1949-12-25, aged three and playing in a garden in Tel Aviv, he saw a large, shining, bowl-shaped light in the sky above him.<sup>2</sup> He recalled a huge, faceless, shining figure appearing in the garden, holding the sun between its raised arms, whose brightness caused him to pass out; the episode is recorded as the 1949 Uri Geller childhood UFO sighting, Tel Aviv.<sup>3</sup> Geller has traced his paranormal abilities to this exposure to a beam of light he says came from the sky,<sup>4</sup> and has said that his powers come from a form of consciousness emanating from what he calls "Hoova."<sup>5</sup>
+Uri Geller is a performer who began his career as a stage magician before later puzzling scientists who tested his claimed abilities in the laboratory.<sup>1</sup> The American parapsychologist [Andrija Puharich](/people/andrija-puharich) brought him to the United States in 1971 and arranged for him to be studied under laboratory conditions at several scientific institutions.<sup>2</sup> During his first interview with scientists from the [Stanford Research Institute (SRI)](/organisations/stanford-research-institute-sri), Geller said that the computers of SPECTRA - an intelligence he credited with guiding his powers - were fed millions of light-years in the future, using light-years as a unit of time.<sup>3</sup>
 
-American parapsychologist [Andrija Puharich](/people/andrija-puharich) brought Geller to the United States in 1971 and arranged for him to be studied under laboratory conditions at several scientific institutions.<sup>6</sup> Geller told scientists at the [Stanford Research Institute (SRI)](/organisations/stanford-research-institute-sri) during his first interview with them that the computers of an entity called SPECTRA (alleged cosmic intelligence) "were fed millions of light-years in the future."<sup>7</sup> According to [Jacques Vallée](/people/jacques-vallee), a series of contacts between Puharich and an "Intelligence in the Sky" called SPECTRA, or Hoova, began on 1971-11-30, when Puharich first hypnotised Geller.<sup>8</sup> Under hypnosis, Geller said he found himself in a cave in Cyprus and "came there for learning."<sup>9</sup> Vallée wrote that a voice identifying itself as the source that had found Geller in the garden and "programmed" him said it was revealing itself because of war plans made by Egypt, referencing the period around the Six-Day War.<sup>10</sup>
+[Jacques Vallée](/people/jacques-vallee) had been in contact with Geller - whom he described as an Israeli psychic - for over a year before meeting a separate, unrelated contactee whose story he found similar.<sup>4</sup> Geller has said that on 1949-12-25, aged three and playing in a garden in Tel Aviv Israel, he saw a large shining bowl-shaped light in the sky above him, an episode later catalogued as the 1949 Uri Geller childhood Unidentified Flying Object (UFO) sighting, Tel Aviv.<sup>5</sup> He recalled a huge, very bright shining figure with no visible face appearing in the garden, holding the sun between its raised arms, whose brightness caused him to pass out.<sup>6</sup> Geller has traced his paranormal abilities to this exposure to a beam of light that he says came from the sky,<sup>7</sup> and has said that his powers come from a form of consciousness he calls "Hoova".<sup>8</sup>
 
-Puharich has also received messages from SPECTRA when Geller was not present.<sup>11</sup> According to The Invisible College, SPECTRA communicated to Geller and Puharich in 1972 that it was a spacecraft, used as humans use a planet, that had been stationed over the earth for the past eight hundred years;<sup>12</sup> the magnetic tape recording of these 1972 communications disappeared after transcription.<sup>13</sup> Vallée wrote that Geller and Puharich took literally messages recorded from SPECTRA, including a claim about a dematerialised aspect of atoms and a "mass landing" compared to refuelling via the earth's barometric and cosmic layer,<sup>14</sup> and that SPECTRA's messages predicted such landings would perhaps be visible only to themselves.<sup>15</sup> In his book Uri (book by Andrija Puharich, 1974), Puharich wrote that a Prophet, such as Geller, is specifically created to serve as an intermediary between a "divine" intelligence and man,<sup>16</sup> and stated flatly that the relationship between these beings and Geller and himself continued to grow deeper and more meaningful.<sup>17</sup> Vallée also recorded that Geller began to receive information through automatic writing, in the form of tensor equations, a kind of higher mathematics of which he had no concept.<sup>18</sup>
+According to Vallée, a series of contacts between Puharich and an "Intelligence in the Sky" calling itself SPECTRA or Hoova began on 1971-11-30, when Puharich hypnotised Geller for the first time.<sup>9</sup> Under hypnosis, Geller said he found himself in a cave in Cyprus and had "come there for learning".<sup>10</sup> Vallée reported that during one session, a voice identifying itself as the source that had "programmed" Geller in the garden said it was revealing itself because plans for war had been made by Egypt, in the period around the Six-Day War.<sup>11</sup> Puharich sometimes received messages from SPECTRA when Geller was not present.<sup>12</sup> According to The Invisible College, SPECTRA communicated to Geller and Puharich in 1972 that it was a spacecraft, used as humans use a planet, that had been stationed above the earth for the past eight hundred years.<sup>13</sup> Vallée said the pair took literally the messages recorded on tape, including a claim that atoms have a dematerialised aspect that could be used, and a comparison of a coming "mass landing" to refuelling and charging via the earth's barometric and cosmic layer.<sup>14</sup> He added that Geller and Puharich received messages predicting mass landings that would perhaps be visible only to themselves,<sup>15</sup> and, according to The Invisible College, that the two had forecast massive flying saucer landings.<sup>16</sup> The magnetic tape recording of the 1972 communications disappeared after transcription.<sup>17</sup>
 
-Vallée conducted and observed a series of tests with Geller directly, and noted that Geller appeared capable of forcing subjects toward certain numbers or words.<sup>19</sup> In one such test, a subject was asked to select a three-digit number and write it on a board;<sup>20</sup> the subject wrote the digits 7, 2, and 5,<sup>21</sup> while Geller, seated in a corner of the room with his head turned to the wall and hidden by a screen, spelled out the same three digits as the ones he said he was mentally picking up.<sup>22</sup> Vallée had independently written the number 726 on his own notepad beforehand and shown it to Janine Vallée.<sup>23</sup> He later asked Geller privately whether he had played a word-forcing game with the subject that night; Geller assured him he had not.<sup>24</sup> In a separate colour experiment, Vallée first thought of blue, then deliberately switched his target to yellow, and Geller reported receiving yellow, with one of three signals reported as blue.<sup>25</sup> Geller also touched a spoon in Vallée's cup, and it became bent three times, folded back against the handle.<sup>26</sup> At a meeting of the Parapsychology Research Group of Palo Alto, however, Geller did not demonstrate metal bending to anyone's satisfaction, and many members left with grave doubts.<sup>27</sup>
+In his 1974 book Uri, Puharich wrote that a Prophet, such as Geller, is specifically created to serve as an intermediary between a "divine" intelligence and man.<sup>18</sup> He stated flatly that the relationship between the superior beings and himself and Geller continued to grow deeper and more meaningful.<sup>19</sup> Vallée said Puharich was committed to the idea that he and Geller were guided by a very high source of wisdom, and that mankind's only course was to place its destiny in that source's hands.<sup>20</sup> Geller began to receive information through automatic writing, in the form of tensor equations - a kind of higher mathematics of which he had no concept - according to Vallée.<sup>21</sup> Vallée argued that both believers and sceptics in the UFO debate were wrong, including Puharich with his disappearing tapes and Geller voicing messages from the Rhombus 4-D computer.<sup>22</sup> Vallée considered the cult that had built up around Puharich and Geller very similar to a number of other belief structures that had developed in the United States and elsewhere in recent years,<sup>23</sup> and noted that the network of Geller's devotees had succeeded in arousing the interest of several leading physicists.<sup>24</sup> Jim Hurtak, a friend of Puharich, became involved in what Vallée called the Uri Geller affair and separately claimed to be psychic and to have had UFO encounters.<sup>25</sup> Dr. Armstrong, one of the leaders of a sect that had formed around Mrs. Keech, later became involved in the Geller affair as well.<sup>26</sup> At a panel discussion, Puharich described his latest experiences with Geller,<sup>27</sup> and Ira Einhorn gave the floor to Charles Muses to comment on the case.<sup>28</sup> Professor Miklos, a Romanian researcher, offered Vallée a theory intended to help understand Geller.<sup>29</sup>
 
-During a December 1972 lunch, Vallée showed Geller a series of seals from the Phoenician civilization depicting a religious ritual and a flying disk from which god-like creatures emerge.<sup>28</sup> Vallée said that Geller confidentially told him, during that same lunch, the details of his own close encounters with [UFOs](/topics/unidentified-flying-object-ufo);<sup>29</sup> Vallée wrote that Geller believed himself to be a secret contactee in touch with an alien entity he did not want to mention in public.<sup>30</sup> Vallée asked Geller whether he thought he could contact the entity again to obtain a close observation of a flying saucer as a real test case;<sup>31</sup> Vallée wrote that Geller replied that in all his meetings with the entity, the initiative for contact had always come from the other side, not from him.<sup>32</sup> Geller proposed that the two of them conduct telepathic experiments,<sup>33</sup> and in one attempt Geller drew both a fish and a fountain on a card after Vallée had mentally sent him those two images in succession, saying he was "getting two things."<sup>34</sup> Vallée considered the two-target test convincing, since he alone knew that two separate targets, rather than one, had been sent.<sup>35</sup>
+Vallée also examined Geller directly. In December 1972 the two had lunch, during which Vallée showed Geller a series of Phoenician civilization seals depicting a religious ritual performed by priests and a flying disk from which God-like creatures are emerging.<sup>30</sup> Geller told Vallée, in confidence, the details of his own close encounters with [UFOs](/topics/unidentified-flying-object-ufo);<sup>31</sup> Vallée said Geller believed himself to be a secret contactee in contact with an alien entity he did not want to name publicly.<sup>32</sup> Vallée asked whether Geller thought he could contact the entity again to obtain a close observation of a flying saucer as a test case,<sup>33</sup> and Geller replied, according to Vallée, that in every meeting the initiative for contact had come from the other side, not from him.<sup>34</sup> During the same meeting, Geller proposed that the two conduct telepathic experiments together.<sup>35</sup> In one test, a physicist colleague of Geller's handed Vallée a sealed envelope containing a card depicting a whale blowing water vapour into the air;<sup>36</sup> Geller received no clear image on the first attempt.<sup>37</sup> In a second attempt, Vallée mentally sent Geller the images of a fountain and then a fish, and Geller drew both a fish and a fountain on a card, saying he was getting two things.<sup>38</sup> Vallée considered this test convincing because he alone knew that two different targets, rather than one, had been sent.<sup>39</sup> In a further demonstration, Geller asked a subject to select a three-digit number and write it on a board.<sup>40</sup> The subject wrote 7, 2, and 5,<sup>41</sup> while Geller, seated in a corner with his head turned to the wall and hidden by a screen, spelled out the same three digits as the ones he said he was mentally picking up.<sup>42</sup> Vallée separately and independently wrote the number 726 on his own notepad and showed it to Janine Vallée.<sup>43</sup> He later asked Geller privately whether he had played a word-forcing game with the subject that night, and Geller assured him he had not.<sup>44</sup> In a separate test, Vallée wrote the digits 8, 9, and 2 and, asked to send only the last, Geller wrote a 2,<sup>45</sup> whose flat, elongated horizontal base - unlike the usual American way of drawing the digit - proved identical to Vallée's own when the two tracings were superimposed.<sup>46</sup> Geller told Vallée that his specialty was producing phenomena with physical objects, citing a spoon as an example, according to Vallée;<sup>47</sup> he also touched a spoon in a cup on one occasion, bending it three times, folding it back against the handle.<sup>48</sup> In a colour-guessing test, Vallée first thought of blue before deliberately switching his target to yellow; Geller reported receiving yellow, with one of three signals reported as blue.<sup>49</sup>
 
-Vallée classified Geller, alongside Joan of Arc, [Joseph Smith](/people/joseph-smith) and Edgar Cayce, as a historical direct contactee,<sup>36</sup> and considered Geller's case one in which the self-negating factors of the UFO phenomenon were all gathered around a single person.<sup>37</sup> He wrote that he thought highly of Geller's talents,<sup>38</sup> while separately concluding that most of the exchanges between Puharich and SPECTRA consisted of elements borrowed from Puharich's and Geller's own minds and reflected back on them,<sup>39</sup> and that the phenomena at the 1899 Victor Hugo séance, Jersey could be explained by unconscious mental processes among the attending spiritualists, an explanation he thought applied equally to Puharich and Geller.<sup>40</sup> Vallée proposed that the Geller phenomenon was not spontaneous manifestation explainable by conventional psychiatry, nor necessarily visitors from space, but rather what he termed a "control system";<sup>41</sup> he argued that both believers and sceptics in the UFO debate were wrong, citing Puharich's disappearing tapes and Geller voicing messages from what he called the Rhombus 4-D computer.<sup>42</sup> He wrote that no demonstration of Geller's metal-bending or dematerialising ability had been provided under strict laboratory control conditions at the time of writing, although anecdotal evidence was available,<sup>43</sup> and that while Geller used trickery at times, like every medium, he considered some of the phenomena around him genuine.<sup>44</sup> Vallée did not believe Geller to be a new Messiah,<sup>45</sup> though he noted that some of Geller's followers suggested he might be one.<sup>46</sup> The wider affair drew in other figures: the network of Geller's devotees succeeded in arousing the interest of several leading physicists,<sup>47</sup> Jim Hurtak, a friend of Puharich, was involved and claimed his own UFO encounters,<sup>48</sup> and Dr. Armstrong, formerly a leader of the sect that had formed around Mrs. Keech, also became involved.<sup>49</sup> At one panel discussion, Ira Einhorn gave the floor to Charles Muses to comment on Geller,<sup>50</sup> where Puharich described his latest experiences with him.<sup>51</sup> British researcher Peter Rogerson noted that stories similar to the childhood experiences of Cayce and Geller were common in accounts of mediums of various kinds.<sup>52</sup> Professor Miklos, a Romanian researcher, offered Vallée a theory intended to help understand Geller,<sup>53</sup> and Vallée discussed Geller's abilities with Gordon Creighton while driving through [London](/places/london-united-kingdom) in the winter of 1973.<sup>54</sup>
+Not every demonstration succeeded: at a meeting of the Parapsychology Research Group of Palo Alto, Geller did not bend metal to anyone's satisfaction, and many members left with grave doubts.<sup>50</sup> Vallée noted that, at the time of his writing, no demonstration of Geller's metal-bending or dematerialising ability had been carried out under strict laboratory control, although anecdotal evidence was available,<sup>51</sup> and that Geller appeared capable of forcing subjects to pick certain numbers or words.<sup>52</sup> Even so, Vallée wrote that a short series of telepathic tests with Geller had convinced him that Geller's abilities were genuine,<sup>53</sup> and that although Geller used trickery at times, like every medium, some of the phenomena around him were genuine.<sup>54</sup> He classified Geller, together with Joan of Arc, [Joseph Smith](/people/joseph-smith), and Edgar Cayce, as a historical direct contactee,<sup>55</sup> and the British researcher Peter Rogerson noted that stories similar to the childhood experiences of Cayce and Geller were common in accounts of mediums of various kinds.<sup>56</sup> Vallée proposed that the Geller phenomenon was neither a spontaneous manifestation explainable by a psychiatrist or a student of ordinary spiritualist phenomena, nor necessarily space visitors, but a "control system".<sup>57</sup> He also suggested that the phenomena around the 1899 Victor Hugo séance, Jersey could be explained by unconscious mental processes among the attending spiritualists, and that the same explanation applied to Puharich and Geller.<sup>58</sup> Some of Geller's own followers suggested that he might be a Messiah, according to Vallée,<sup>59</sup> though Vallée himself did not believe this to be so.<sup>60</sup> In the winter of 1973, Vallée discussed Geller's abilities with Gordon Creighton while driving through [London United Kingdom](/places/london-united-kingdom).<sup>61</sup>

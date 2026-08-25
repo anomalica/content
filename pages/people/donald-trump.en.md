@@ -1,9 +1,8 @@
 ---
 title: Donald Trump
-description: Donald Trump is a businessman and politician who has twice served as
-  President of the United States, whose public remarks and administration actions
-  on Unidentified Anomalous Phenomena (UAP) disclosure are widely discussed in UAP
-  research.
+description: President of the United States who has made repeated public comments
+  on UFOs and UAP, including remarks at a 2026-08-11 cabinet meeting and the signing
+  of an executive order on UFO-related declassification.
 metadata:
   role: President of the United States
 built_from:
@@ -142,53 +141,8 @@ built_from:
   - id: 2e864102-c203-406f-8b5d-fc297dbd0abd
     hash: 75493d8f8cc9b752bf8fe4ef16f14c9dffb2b2fa198678f818e92ad8628e74a1
 references:
-- text: Trump attended Fordham University.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 02:29:02.4-02:29:03.7
-  quote: I was seeing he attended Fordham University.
-  claim_id: c36f4f9f-eeca-47a0-834f-e60b7910b014
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c36f4f9f-eeca-47a0-834f-e60b7910b014
-- text: Trump became controller of Resorts International in the mid-1970s for about
-    a year.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 01:43:49.5-01:44:02.5
-  quote: who becomes the controller of Resorts International in the mid seventies?...
-    Donald Trump... For a brief period, he was the guy basically in charge of it for
-    a year or so, whilst this private intelligence network is presumably still being
-    run.
-  claim_id: 1ba14143-4d37-4b30-ad48-7b18ba047998
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1ba14143-4d37-4b30-ad48-7b18ba047998
-- text: Jesse Mitchells finds the Resorts International connection fascinating and
-    doubts Trump thinks deeply about UFOs.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 02:30:01.0-02:30:12.5
-  quote: And same with Trump... if there's anything going on there, the resort's international
-    thing. That's fascinating. And I want to look into that. But, like, my gut on
-    that guy is he's not thinking deeply about UFOs, you know?
-  claim_id: 4037f13b-0f79-4cea-b57a-7755386ba934
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4037f13b-0f79-4cea-b57a-7755386ba934
-- text: William Neal McCasland disappeared days after Trump announced UFO disclosure.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 01:16:39.5-01:16:42.0
-  quote: Days after Trump announced that there was gonna be some sort of disclosure.
-  claim_id: d935b6d5-261a-428f-8c94-d0046203cb4d
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d935b6d5-261a-428f-8c94-d0046203cb4d
-- text: Hillary Clinton was performing well against Trump in 2016 and had promised
-    to release UFO information.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 01:44:22.6-01:44:31.3
-  quote: you go back to the 2016 election, you've got Hillary Clinton versus Donald
-    Trump. Hillary Clinton's doing very well and is promising to release information
-    about UFOs and try and pull the lid off of things.
-  claim_id: 4b93f4df-5776-4fe1-93d6-075ed81fe368
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4b93f4df-5776-4fe1-93d6-075ed81fe368
-- text: Trump invited Russia to find Clinton's missing emails at a 2016-07-28 press
-    conference.
+- text: Trump invited Russia to find Hillary Clinton's missing emails at a Florida
+    press conference
   source: In Plain Sight
   location: ch20:1938-2309
   quote: on 28 July 2016, no one could quite believe what Republican presidential
@@ -200,17 +154,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
-- text: Jason Samosa, citing Jim Semivan, says a non-state intelligence network leaked
-    the Podesta emails, helping Trump win.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 01:44:32.3-01:44:43.4
-  quote: According to Semivan a non-state intelligence network is responsible for
-    the leaking of these emails, which were pretty decisive in forcing Trump in and
-    Clinton out.
-  claim_id: 0e4f514f-b924-4241-b8f6-eacbc55d3505
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e4f514f-b924-4241-b8f6-eacbc55d3505
-- text: Clinton lost the 2016 election to Trump.
+- text: Hillary Clinton lost the 2016 election to Trump
   source: In Plain Sight
   location: ch20:23537-23620
   quote: But . . . to everyone’s shock and surprise, Hillary loses the election in
@@ -219,8 +163,28 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
-- text: Trump said 'Not particularly' when asked if he believed people who report
-    UFO sightings.
+- text: During the 2016 election Hillary Clinton was doing very well and promising
+    to release UFO information
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 01:44:22.6-01:44:31.3
+  quote: you go back to the 2016 election, you've got Hillary Clinton versus Donald
+    Trump. Hillary Clinton's doing very well and is promising to release information
+    about UFOs and try and pull the lid off of things.
+  claim_id: 4b93f4df-5776-4fe1-93d6-075ed81fe368
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4b93f4df-5776-4fe1-93d6-075ed81fe368
+- text: A non-state intelligence network leaked the Podesta emails, decisive in putting
+    Trump into office
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 01:44:32.3-01:44:43.4
+  quote: According to Semivan a non-state intelligence network is responsible for
+    the leaking of these emails, which were pretty decisive in forcing Trump in and
+    Clinton out.
+  claim_id: 0e4f514f-b924-4241-b8f6-eacbc55d3505
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e4f514f-b924-4241-b8f6-eacbc55d3505
+- text: Trump expressed scepticism about UFO sightings, saying 'Not particularly'
+    when asked if he believed people who report seeing them
   source: In Plain Sight
   location: ch20:23765-23847
   quote: ‘People are saying they’re seeing UFOs. Do I believe it?’ the president said.
@@ -229,17 +193,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
-- text: Trump called newly released Pentagon UFO footage 'a hell of a video.'
-  source: In Plain Sight
-  location: ch34:40062-40150
-  quote: Devan Cole, 'Trump Calls Newly released UFO Footage a "Hell of a Video"',
-    CNN, 30 April 2020.
-  claim_id: 547dace0-9751-4016-b5ac-a625a86224d7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-547dace0-9751-4016-b5ac-a625a86224d7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-547dace0-9751-4016-b5ac-a625a86224d7
-- text: In a June 2020 interview with his son Don Trump Jr., Trump commented on the
-    Roswell incident.
+- text: Trump made a comment about the Roswell incident in an interview with his son
+    Don Trump Jr.
   source: In Plain Sight
   location: ch28:25830-25986
   quote: In June 2020, President Donald Trump made an intriguing comment about the
@@ -249,8 +204,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
-- text: Trump said he would not discuss what he knows about Roswell but that it is
-    'very interesting.'
+- text: Trump said he would not talk about what he knows about Roswell, but that it
+    is very interesting
   source: In Plain Sight
   location: ch28:26151-26231
   quote: Trump responded, 'I won't talk to you about what I know about it, but it's
@@ -259,7 +214,16 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7583bcb5-6046-4d23-97aa-00c90f672143
-- text: Trump said he had heard 'interesting' things about Roswell, reported 2020-06-19.
+- text: Trump described the released Pentagon UFO footage as 'a hell of a video'
+  source: In Plain Sight
+  location: ch34:40062-40150
+  quote: Devan Cole, 'Trump Calls Newly released UFO Footage a "Hell of a Video"',
+    CNN, 30 April 2020.
+  claim_id: 547dace0-9751-4016-b5ac-a625a86224d7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-547dace0-9751-4016-b5ac-a625a86224d7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-547dace0-9751-4016-b5ac-a625a86224d7
+- text: Trump said he has heard 'interesting' things about the Roswell incident
   source: In Plain Sight
   location: ch34:66515-66620
   quote: Aamer Madhani/AP, 'Trump Says He's Heard "Interesting" Things about Roswell',
@@ -268,15 +232,49 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
-- text: Trump was briefed on UAP sightings during his presidency.
-  source: In Plain Sight
-  location: ch22:12466-12491
-  quote: President Trump was also briefed.
-  claim_id: bb4cdb55-1e6f-4df1-83d9-7ea2afec6856
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb4cdb55-1e6f-4df1-83d9-7ea2afec6856
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bb4cdb55-1e6f-4df1-83d9-7ea2afec6856
-- text: Jay Stratton received NSC briefing requests and briefed Trump on UAP.
+- text: Former President Trump said on a talk show that several airline pilots came
+    into his office to speak about spheres flying around jets
+  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
+    10
+  location: 00:03:55.3-00:04:07.2
+  quote: recently, former President Donald Trump was on a talk show and had mentioned
+    that he had several airline pilots come into his office at that time speak about
+    these spheres.
+  claim_id: ab6d1283-d314-4ad4-a851-d7358bcebe9e
+  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
+  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-ab6d1283-d314-4ad4-a851-d7358bcebe9e
+- text: A pilot told Trump a round object was travelling four times faster than his
+    F-22 Raptor
+  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
+    10
+  location: 00:04:15.5-00:04:21.5
+  quote: They said, all I know, sir, is there was a round object that was going four
+    times faster than my F-22, which is a very fast plane.
+  claim_id: 7275452d-2690-41ea-b22e-ae28c4345f60
+  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
+  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7275452d-2690-41ea-b22e-ae28c4345f60
+- text: James Mattis accepted the position of Secretary of Defense in the incoming
+    Trump administration
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch25:21603-21740
+  quote: I was working in the Pentagon building with Mad Dog himself, who had accepted
+    the position of secretary of defense in the incoming Trump administration.
+  claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+- text: Mattis resigned as Secretary of Defense in January 2019 due to differences
+    with the Trump administration
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch30:6249-6400
+  quote: Mattis resigned his post in January 2019 due to differences with the Trump
+    administration and went on to suffer the ignominy of being mocked on social media.
+  claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
+- text: Jay Stratton received NSC briefing requests and briefed Trump on some level
+    regarding UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
   quote: We were making enough noise in the press that Jay was getting requests for
@@ -287,214 +285,54 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af73f27e-6d01-4702-86f0-925398868a92
-- text: Elizondo believed personally calling Mattis would have been insubordinate.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:22515-22945
-  quote: Under no circumstances could I buck the chain of command and use my past
-    relationship with the general to personally schedule a briefing with him. To do
-    so would be an insubordinate act, an indictment of his chain of command, and an
-    insult to the institution and the general himself. It’s important to understand
-    that Mattis was very focused on strengthening the authority and recognition of
-    the chain of command during the Trump administration
-  claim_id: 3f4f715c-cf6c-4985-b5ee-bd47689c9b54
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f4f715c-cf6c-4985-b5ee-bd47689c9b54
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3f4f715c-cf6c-4985-b5ee-bd47689c9b54
-- text: Mattis accepted the Secretary of Defense position in the incoming Trump administration.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:21603-21740
-  quote: I was working in the Pentagon building with Mad Dog himself, who had accepted
-    the position of secretary of defense in the incoming Trump administration.
-  claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-- text: Mattis resigned as Secretary of Defense in January 2019.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch30:6249-6400
-  quote: Mattis resigned his post in January 2019 due to differences with the Trump
-    administration and went on to suffer the ignominy of being mocked on social media.
-  claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
-- text: Elizondo believes several past presidents, including Eisenhower and Trump,
-    were briefed on UAP.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
-  claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-- text: Trump said on a talk show several pilots came to his office to discuss spheres
-    flying around jets.
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:03:55.3-00:04:07.2
-  quote: recently, former President Donald Trump was on a talk show and had mentioned
-    that he had several airline pilots come into his office at that time speak about
-    these spheres.
-  claim_id: ab6d1283-d314-4ad4-a851-d7358bcebe9e
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-ab6d1283-d314-4ad4-a851-d7358bcebe9e
-- text: Three or four pilots met Trump in the Oval Office to discuss spheres flying
-    around their jets.
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:04:10.1-00:04:11.7
-  quote: They were in the Oval Office, three or four pilots.
-  claim_id: 8ff0aef5-5e44-4638-acd5-f3eb82c8fab8
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-8ff0aef5-5e44-4638-acd5-f3eb82c8fab8
-- text: A pilot told Trump a round object was travelling four times faster than his
-    F-22 Raptor.
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:04:15.5-00:04:21.5
-  quote: They said, all I know, sir, is there was a round object that was going four
-    times faster than my F-22, which is a very fast plane.
-  claim_id: 7275452d-2690-41ea-b22e-ae28c4345f60
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7275452d-2690-41ea-b22e-ae28c4345f60
-- text: Trump signed the COVID-19 relief bill into law in late December 2020.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:19824-19888
-  quote: President Trump signed the Covid bill into law in late December 2020.
-  claim_id: 989fa028-a021-486c-b799-b0cb29a475ce
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-989fa028-a021-486c-b799-b0cb29a475ce
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-989fa028-a021-486c-b799-b0cb29a475ce
-- text: McGraw says some people controlling UFO information treat the President as
-    a temporary employee.
-  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
-    Check
-  location: 00:07:47.2-00:08:07.8
-  quote: I think some of the people that are in control of this information kind of
-    treat the president of the United States as though he's a temp employee... I'm
-    not sure how candid some of the people in control of this information are with
-    the boss, with the president of the United States
-  claim_id: f306f25a-ca43-4d25-96c3-484414dab022
-  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f306f25a-ca43-4d25-96c3-484414dab022
-- text: Coulthart says government sources told him the same about the President being
-    treated as temporary.
-  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
-    Check
-  location: 00:08:14.4-00:08:25.2
-  quote: I mean, I think there has been times where people I've spoken to inside this
-    cover up have told me the president is regarded as a temporary employee.
-  claim_id: 2ede72f4-086e-41fc-b564-ca9252cc3ecb
-  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2ede72f4-086e-41fc-b564-ca9252cc3ecb
-- text: McGraw believes Trump has decided it is time for UFO transparency.
-  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
-    Check
-  location: 00:08:57.9-00:09:01.6
-  quote: I think he has decided it's time for transparency.
-  claim_id: 1cbcd809-d1c5-4716-9f0d-17acdee3b36b
-  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1cbcd809-d1c5-4716-9f0d-17acdee3b36b
-- text: Trump signed an executive order to declassify and disclose UFO-related information.
-  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
-    Check
-  location: 00:09:15.4-00:09:23.3
-  quote: his executive order about this was very clear to declassify this information
-    and disclose it to the American public.
-  claim_id: e68d2a8f-fb60-4834-8612-79a5c21ecc5e
-  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e68d2a8f-fb60-4834-8612-79a5c21ecc5e
-- text: Trump made his extraterrestrial remarks at a cabinet meeting seated with Rubio
-    and Hegseth.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:00:38.0-00:00:44.0
-  quote: He was in a cabinet conference, cabinet meeting, and with Marco Rubio on
-    one side and Pete Hegseth on the other.
-  claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
-- text: Coulthart says Trump told the cabinet the administration is releasing extraterrestrial
-    information and people are fascinated.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:00:49.1-00:01:00.5
-  quote: The president said, we're releasing a lot of information having to do with
-    extraterrestrial, terrestrial things. And people are totally fascinated by it.
-  claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
-- text: Coulthart says Trump called the release 'literally trending number one.'
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:01:00.7-00:01:06.5
-  quote: Mr. Trump said, President Trump said, it's literally trending number one.
-    Can you believe it?
-  claim_id: 95380823-f21a-4ab1-a720-cad3c79684b8
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-95380823-f21a-4ab1-a720-cad3c79684b8
-- text: The President used the word 'extraterrestrial' in the week of the episode.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:35:30.9-00:35:35.9
-  quote: in a week when we've had the president use the ET word, that's quite something.
-  claim_id: 48509f23-c900-42c7-adfd-f5940fbaa0a8
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-48509f23-c900-42c7-adfd-f5940fbaa0a8
-- text: Coulthart calls the declassification initiative a positive sign that could
-    have come earlier.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:01:34.2-00:01:52.1
-  quote: it is a positive sign, and it's to be applauded that the president has shown
-    such initiative on releasing and declassifying UAP files that, frankly, when you
-    look at them, there's absolutely no reason, it's quite clear now, there's no reason
-    why they couldn't have been released a lot earlier than today.
-  claim_id: e488957b-d09d-47cd-857c-5327e132f318
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
-- text: Coulthart does not consider the war.gov released material evidence of extraterrestrials.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:01:09.5-00:01:24.2
-  quote: I don't think we should take that necessarily as an acceptance by the president
-    that what they've released to date in the war.gov website UFOs site is evidence
-    of extraterrestrials because, frankly, it isn't.
-  claim_id: 5c840403-0043-457d-b537-795187d051b8
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
-- text: Coulthart regards the cabinet-meeting remark as an astonishing admission.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:18:05.6-00:18:12.2
-  quote: And as the president has intimated, extraterrestrial. That was an astonishing
-    admission by the president.
-  claim_id: acc31549-8066-4722-95c6-48ef8a9f6fdf
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-acc31549-8066-4722-95c6-48ef8a9f6fdf
-- text: Coulthart sees this as the first time a president has publicly discussed potential
-    disclosure.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:42:18.0-00:42:28.0
-  quote: I'm fascinated that we're at a moment in history right now where a president
-    for the first time is talking publicly about potentially disclosing.
-  claim_id: 1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
-- text: Coulthart doubts a significant disclosure, expecting only blurry videos.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:54:01.0-00:54:14.9
-  quote: i don't think he's going to Whitley i think he's going to wimp it i think
-    he's intimidated by the national security state and he's probably going to give
-    us a few blurry videos and give something for congress to get excited about but
-    i don't think we're going to see any significant disclosure
-  claim_id: 2e864102-c203-406f-8b5d-fc297dbd0abd
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2e864102-c203-406f-8b5d-fc297dbd0abd
-- text: Jonathan Caplan doubts disclosure is coming through Trump's presidency.
+- text: Trump attended Fordham University
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 02:29:02.4-02:29:03.7
+  quote: I was seeing he attended Fordham University.
+  claim_id: c36f4f9f-eeca-47a0-834f-e60b7910b014
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c36f4f9f-eeca-47a0-834f-e60b7910b014
+- text: Trump became the controller of Resorts International in the mid-1970s for
+    about a year
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 01:43:49.5-01:44:02.5
+  quote: who becomes the controller of Resorts International in the mid seventies?...
+    Donald Trump... For a brief period, he was the guy basically in charge of it for
+    a year or so, whilst this private intelligence network is presumably still being
+    run.
+  claim_id: 1ba14143-4d37-4b30-ad48-7b18ba047998
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1ba14143-4d37-4b30-ad48-7b18ba047998
+- text: Jesse Michels believes Trump is not thinking deeply about UFOs, but finds
+    the Resorts International connection fascinating
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 02:30:01.0-02:30:12.5
+  quote: And same with Trump... if there's anything going on there, the resort's international
+    thing. That's fascinating. And I want to look into that. But, like, my gut on
+    that guy is he's not thinking deeply about UFOs, you know?
+  claim_id: 4037f13b-0f79-4cea-b57a-7755386ba934
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4037f13b-0f79-4cea-b57a-7755386ba934
+- text: McCasland disappeared days after Trump announced there would be some form
+    of UFO disclosure
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 01:16:39.5-01:16:42.0
+  quote: Days after Trump announced that there was gonna be some sort of disclosure.
+  claim_id: d935b6d5-261a-428f-8c94-d0046203cb4d
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d935b6d5-261a-428f-8c94-d0046203cb4d
+- text: In a recent podcast appearance Trump said aliens are real, and the interviewer
+    did not follow up
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:51:45.4-00:51:57.5
+  quote: he sort of provoked Trump in many ways and said, you know, it's not like
+    they're, you know, aliens are real. But like, how do you know that, sir? You know,
+    the interviewer never followed up on that. But he said they are real.
+  claim_id: e1c61248-5a89-4c00-ba2c-a3440327a855
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e1c61248-5a89-4c00-ba2c-a3440327a855
+- text: Jonathan Caplan does not believe UAP disclosure is coming through Trump's
+    presidency
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
   location: 01:25:52.0-01:25:56.9
@@ -503,8 +341,8 @@ references:
   claim_id: 76c26bc8-3df3-46ba-b3da-3ed7f5f46fa3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-76c26bc8-3df3-46ba-b3da-3ed7f5f46fa3
-- text: Caplan thinks Trump may acknowledge anomalous video or craft but not allow
-    full disclosure.
+- text: Caplan considers full disclosure not on the table, though Trump may allow
+    acknowledgement that some video or craft is anomalous
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
   location: 01:26:40.9-01:27:03.7
@@ -516,8 +354,7 @@ references:
   claim_id: 9b26be1e-b978-4fb5-b313-eb69979c439b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-9b26be1e-b978-4fb5-b313-eb69979c439b
-- text: Jesse Mitchells wants Trump to release UFO documents for its Overton-window
-    effect.
+- text: Jesse Michels wants Trump to release UFO documents to shift the Overton window
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:31:29.2-00:31:40.9
   quote: it'll move The Overton Window and, you know, you'll have young people able
@@ -526,16 +363,90 @@ references:
   claim_id: 9a8fb5f3-fb13-44db-83ab-46f995718ff0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9a8fb5f3-fb13-44db-83ab-46f995718ff0
-- text: Mitchells says Trump said aliens are real on a podcast without follow-up.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:51:45.4-00:51:57.5
-  quote: he sort of provoked Trump in many ways and said, you know, it's not like
-    they're, you know, aliens are real. But like, how do you know that, sir? You know,
-    the interviewer never followed up on that. But he said they are real.
-  claim_id: e1c61248-5a89-4c00-ba2c-a3440327a855
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e1c61248-5a89-4c00-ba2c-a3440327a855
-- text: Grusch knows what Trump and Rubio were briefed on regarding UAP.
+- text: Phil McGraw says those controlling UFO information treat the President as
+    a temporary employee not given full candour
+  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
+    Check
+  location: 00:07:47.2-00:08:07.8
+  quote: I think some of the people that are in control of this information kind of
+    treat the president of the United States as though he's a temp employee... I'm
+    not sure how candid some of the people in control of this information are with
+    the boss, with the president of the United States
+  claim_id: f306f25a-ca43-4d25-96c3-484414dab022
+  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
+  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f306f25a-ca43-4d25-96c3-484414dab022
+- text: Ross Coulthart says people inside the cover-up regard the President as a temporary
+    employee
+  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
+    Check
+  location: 00:08:14.4-00:08:25.2
+  quote: I mean, I think there has been times where people I've spoken to inside this
+    cover up have told me the president is regarded as a temporary employee.
+  claim_id: 2ede72f4-086e-41fc-b564-ca9252cc3ecb
+  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
+  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2ede72f4-086e-41fc-b564-ca9252cc3ecb
+- text: Trump signed an executive order to declassify and disclose UFO-related information
+  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
+    Check
+  location: 00:09:15.4-00:09:23.3
+  quote: his executive order about this was very clear to declassify this information
+    and disclose it to the American public.
+  claim_id: e68d2a8f-fb60-4834-8612-79a5c21ecc5e
+  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
+  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e68d2a8f-fb60-4834-8612-79a5c21ecc5e
+- text: Trump made his remarks about releasing extraterrestrial information at a cabinet
+    meeting with Marco Rubio seated on one side
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:00:38.0-00:00:44.0
+  quote: He was in a cabinet conference, cabinet meeting, and with Marco Rubio on
+    one side and Pete Hegseth on the other.
+  claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+- text: Trump said the administration is releasing a lot of information on extraterrestrial
+    things and people are fascinated
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:00:49.1-00:01:00.5
+  quote: The president said, we're releasing a lot of information having to do with
+    extraterrestrial, terrestrial things. And people are totally fascinated by it.
+  claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+- text: In the week of the episode, the President of the United States used the word
+    extraterrestrial
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:35:30.9-00:35:35.9
+  quote: in a week when we've had the president use the ET word, that's quite something.
+  claim_id: 48509f23-c900-42c7-adfd-f5940fbaa0a8
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-48509f23-c900-42c7-adfd-f5940fbaa0a8
+- text: Phil McGraw believes the degraded releases are not coming from Trump but become
+    garbled in the bureaucracy
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:29:40.3-00:29:56.3
+  quote: So I'm concerned about the intention. I don't think it's coming from President
+    Trump. I think he intends for there to be transparency here, but I think when
+    it gets into the bureaucratic apparatus, it's getting garbled.
+  claim_id: e757895a-dd97-4169-82ef-4999734284fa
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e757895a-dd97-4169-82ef-4999734284fa
+- text: Coulthart considers the initiative a positive sign, and says the files could
+    have been released much earlier
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:01:34.2-00:01:52.1
+  quote: it is a positive sign, and it's to be applauded that the president has shown
+    such initiative on releasing and declassifying UAP files that, frankly, when you
+    look at them, there's absolutely no reason, it's quite clear now, there's no reason
+    why they couldn't have been released a lot earlier than today.
+  claim_id: e488957b-d09d-47cd-857c-5327e132f318
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
+- text: Grusch knows what Trump was briefed on during his previous term and what Rubio
+    was briefed on regarding UAP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:45:15.2-00:45:24.6
   quote: however you know i certainly know what the president was briefed on in his
@@ -544,8 +455,8 @@ references:
   claim_id: ab7d7970-5547-469b-bddc-d9e45bd94c6d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab7d7970-5547-469b-bddc-d9e45bd94c6d
-- text: Grusch worries UAP records are being destroyed absent a Trump preservation
-    hold.
+- text: David Grusch is worried UAP recovery programme information is being destroyed
+    absent a preservation hold from Trump
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:09:25.3-00:09:42.4
   quote: I do worry if President Trump hasn't provided a either classified or otherwise,
@@ -555,7 +466,7 @@ references:
   claim_id: 1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
-- text: Grusch says mishandling UAP disclosure would damage Trump's legacy.
+- text: Grusch considers mishandling UAP disclosure would damage Trump's legacy
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:27:51.5-00:27:56.7
   quote: And I hope he understands how this will impact President Trump's legacy if
@@ -563,25 +474,8 @@ references:
   claim_id: d55a705a-4023-450e-96b9-8c19a8914de6
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d55a705a-4023-450e-96b9-8c19a8914de6
-- text: Grusch considers UAP disclosure, not the Iran war, the issue defining Trump's
-    legacy.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:51:11.4-00:51:18.6
-  quote: i think this is going to be the the singular thing that's going to define
-    his legacy believe it or not i think it's not going to be the war in iran
-  claim_id: ca1d6d32-2485-498e-984b-6a3a22d40c40
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ca1d6d32-2485-498e-984b-6a3a22d40c40
-- text: Grusch says Stephen Miller and Trump's team need to realise this.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:51:25.0-00:51:31.3
-  quote: i think Mr Miller and the president's team needs to realize this is going
-    to be the defining moment of his legacy
-  claim_id: 1a7b7910-9547-4417-903b-db8ec01b717a
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1a7b7910-9547-4417-903b-db8ec01b717a
-- text: McGraw has discussed UAP with Trump, Stephen Miller, Tim Burchett and Anna
-    Paulina Luna.
+- text: Phil McGraw has discussed UAP with Trump, Stephen Miller, Tim Burchett and
+    Anna Paulina Luna
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:47:40.5-00:47:51.0
   quote: And I've discussed this with the president. I've discussed it with Stephen
@@ -589,50 +483,58 @@ references:
   claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
-- text: McGraw believes people around Trump want transparency but the effort is garbled
-    downstream.
+- text: Grusch hopes Trump delivers on his promise regarding UAP disclosure
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:47:52.4-00:48:12.6
-  quote: I've had discussions and I believe there are people from the president on
-    down that truly want transparency and believe that the American people are entitled
-    to know their circumstance in the universe. I believe they truly want that to
-    happen. I think it gets garbled downstream.
-  claim_id: 05f0577b-740b-498f-9013-09fa45f53924
+  location: 00:51:07.8-00:51:10.9
+  quote: i really hope that President Trump uh delivers on his promise
+  claim_id: b8b57842-44d9-4f91-bfd7-f3cdec8109e5
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-05f0577b-740b-498f-9013-09fa45f53924
-- text: Michael Horn noted Trump's NATO dispute and renewed Falklands mention shortly
-    before an interview.
-  source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
-  location: 01:46:52.5-01:47:08.8
-  quote: There was an article that passed something in the American news about Trump.
-    ... He's got an issue with NATO, and there's something about the Falklands has
-    come up again.
-  claim_id: 42be0720-22f2-497c-b61a-b2f25281e505
-  record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-42be0720-22f2-497c-b61a-b2f25281e505
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-b8b57842-44d9-4f91-bfd7-f3cdec8109e5
+- text: Coulthart considers this the first time a US president has publicly talked
+    about potentially disclosing on the phenomenon
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:42:18.0-00:42:28.0
+  quote: I'm fascinated that we're at a moment in history right now where a president
+    for the first time is talking publicly about potentially disclosing.
+  claim_id: 1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
+- text: Coulthart does not expect a significant disclosure, considering Trump intimidated
+    by the national security state
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:54:01.0-00:54:14.9
+  quote: i don't think he's going to Whitley i think he's going to wimp it i think
+    he's intimidated by the national security state and he's probably going to give
+    us a few blurry videos and give something for congress to get excited about but
+    i don't think we're going to see any significant disclosure
+  claim_id: 2e864102-c203-406f-8b5d-fc297dbd0abd
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2e864102-c203-406f-8b5d-fc297dbd0abd
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 404d8292c13adc2f263fabe9039dad680b250cf60dbc7901e9965070e7e8ad18
+  prompt_sha256: 05a007e9d0a481c13c94ee4c2144d0408c3801546c70438475d02685ab512a09
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 79681
-    output: 59468
-    real_input: 2
-    cache_read: 39377
-    cache_write: 40302
+    input: 239943
+    output: 62936
+    real_input: 6
+    cache_read: 118266
+    cache_write: 121671
     calls: 0
-  body_sha256: 70442c745c3b484fd802d7d0379df5ce65cc57f99bf5ac6dac6688c01eaadab4
+  body_sha256: 2e72ab5ee470284e77011c7bb656618068fd1b88e16d5f8e07f30e0c2b19cc5f
 ---
 
-Donald Trump is a businessman and politician who has twice held the office of President of the United States. He attended Fordham University.<sup>1</sup> Trump became the controller of Resorts International in the mid-1970s, remaining in charge of the company for about a year while its private intelligence network was presumably still operating.<sup>2</sup> Podcast host [Jesse Mitchells](/people/jesse-mitchells) has said he finds the Resorts International connection fascinating and worth investigating, while adding that he does not believe Trump is thinking deeply about [UFOs](/topics/unidentified-flying-object-ufo).<sup>3</sup> William Neal McCasland disappeared days after Trump announced there would be some form of UFO disclosure.<sup>4</sup>
+Donald Trump is a businessman and politician who served as President of the United States and has repeatedly commented in public on UFOs and UAP, both before and during his time in office. During the 2016 United States presidential election, he invited Russia to find [Hillary Clinton](/people/hillary-clinton)'s missing emails at a press conference in Florida<sup>1</sup>, and went on to defeat her in that November's vote<sup>2</sup>. According to Jason Samosa, Clinton had been doing well against Trump during the campaign and was promising to release information about UFOs<sup>3</sup>, and Samosa has said that a non-state intelligence network was responsible for leaking emails from the hack of John Podesta, a leak he describes as decisive in putting Trump into office and keeping Clinton out<sup>4</sup>. Later in 2016, Trump expressed scepticism about UFO reports, answering "Not particularly" when asked whether he believed people who say they have seen one<sup>5</sup>.
 
-During the 2016 United States presidential election, [Hillary Clinton](/people/hillary-clinton), running through the Hillary Clinton presidential campaign, was performing well against Trump and had promised to release information about UFOs.<sup>5</sup> At a press conference in Florida on 2016-07-28, Trump said: "Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing. I think you will probably be rewarded mightily by our press," inviting Russia to hack Clinton's email account.<sup>6</sup> According to Jason Samosa, citing Jim Semivan, a non-state intelligence network was responsible for leaking the emails from the hack of John Podesta's account, a leak Samosa considers to have been decisive in putting Trump into office and keeping Clinton out.<sup>7</sup> Clinton lost the election to Trump in November 2016.<sup>8</sup> That same month, asked whether he believed people who report seeing UFOs, Trump said: "Not particularly."<sup>9</sup>
+Trump's public remarks on the subject have recurred at intervals since. According to In Plain Sight, he commented on the [Roswell incident (1947)](/events/roswell-incident-1947) in a 2020-06 interview with his son Don Trump Jr.<sup>6</sup>, in which he said he would not discuss what he knows about it but that it is "very interesting"<sup>7</sup>, and separately said he had heard "interesting" things about the incident<sup>8</sup>, as recorded in 'Trump Says He's Heard Interesting Things about Roswell' (AP article) and the 2020-06 Donald Trump interview on the Roswell incident. Trump also described newly released [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs)-era 2020-04 Pentagon release of three Unidentified Aerial Phenomena (UAP) videos footage as "a hell of a video"<sup>9</sup>. According to Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10, Trump said on a talk show that several airline pilots came to his office to discuss spheres flying around their jets<sup>10</sup>, and one pilot reportedly told him a round object was travelling four times faster than his F-22 Raptor<sup>11</sup>.
 
-In April 2020, Trump described newly released Department of Defense footage from the 2020-04 Pentagon release of three Unidentified Aerial Phenomena (UAP) videos as "a hell of a video."<sup>10</sup> According to *In Plain Sight*, in a 2020-06 interview with his son Don Trump Jr., Trump commented on the [Roswell incident](/events/roswell-incident-1947).<sup>11</sup> He said he would not talk about what he knows, but that it is "very interesting."<sup>12</sup> As reported on 2020-06-19 in the AP article "Trump Says He's Heard Interesting Things about Roswell" by Aamer Madhani, Trump said he had heard "interesting" things about the incident.<sup>13</sup> Trump was also briefed on [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) sightings during his presidency,<sup>14</sup> and requests for briefings from the White House National Security Council were passed to Jay Stratton, who briefed Trump on some level regarding the subject.<sup>15</sup> Luis Elizondo has said he believed that going around the chain of command to personally call [James Mattis](/people/james-mattis) for a meeting would have been insubordinate, given Mattis's focus on strengthening chain-of-command authority during the Trump administration.<sup>16</sup> Mattis accepted the position of Secretary of Defense in the incoming Trump administration<sup>17</sup> and resigned in January 2019 owing to differences with the administration.<sup>18</sup> Elizondo has also said he believes several past US presidents, including [Dwight D. Eisenhower](/people/dwight-d-eisenhower) and Trump, were briefed in some way on UAP.<sup>19</sup> According to the DEBRIEFED podcast episode "Journalist Leaked UAP Program 'Immaculate Constellation,'" Trump said on a talk show that several airline pilots had come into his office to discuss spheres flying around jets,<sup>20</sup> and that three or four pilots met with him in the Oval Office to discuss spheres flying around their jets.<sup>21</sup> The same episode reported that a pilot told Trump a round object was travelling four times faster than his F-22 Raptor.<sup>22</sup> In late December 2020, Trump signed the COVID-19 relief bill into law, amid the COVID-19 pandemic.<sup>23</sup>
+Within his own administration, [James Mattis](/people/james-mattis) accepted the position of Secretary of Defense under Trump<sup>12</sup> before resigning in 2019-01 over differences with the administration<sup>13</sup>. National Security Council staff under Jay Stratton requested briefings that resulted in Trump being briefed on UAP to some level<sup>14</sup>. Jason Samosa has stated that Trump attended Fordham University<sup>15</sup> and became controller of Resorts International in the mid-1970s for about a year<sup>16</sup>; Jesse Michels has said he does not believe Trump thinks deeply about UFOs but finds the Resorts International connection worth investigating<sup>17</sup>. The Disappearance of William Neal McCasland occurred days after Trump announced there would be some form of UFO disclosure, according to Jason Samosa<sup>18</sup>. Jesse Michels has separately said Trump stated in a recent podcast appearance that aliens are real, without the interviewer following up<sup>19</sup>. Jonathan Caplan has said he does not believe [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) disclosure is coming through Trump's presidency<sup>20</sup>, though he has also said full disclosure - including crash retrievals, legacy programmes and biologics - is not on the table, while Trump may allow acknowledgement that some video or craft is anomalous<sup>21</sup>. [Jesse Mitchells](/people/jesse-mitchells) has said he wants Trump to release [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) documents because the resulting shift would move the Overton window and open the subject to academic study<sup>22</sup>.
 
-[Phil McGraw](/people/phil-mcgraw) has said that some people who control UFO-related information treat the President of the United States as though he were a temporary employee not given full candour,<sup>24</sup> an account echoed by journalist [Ross Coulthart](/people/ross-coulthart), who has said people inside the government's UFO cover-up told him the same thing.<sup>25</sup> McGraw has said he believes Trump has decided it is time for transparency regarding UFO disclosure,<sup>26</sup> and Trump signed an executive order to declassify and disclose UFO-related information to the American public.<sup>27</sup> On 2026-08-11, Trump made his remarks about releasing extraterrestrial information at a cabinet meeting with [Marco Rubio](/people/marco-rubio) seated on one side and Pete Hegseth on the other.<sup>28</sup> Coulthart has said that, during the meeting, Trump remarked that the administration was releasing a lot of information having to do with extraterrestrial things and that people were totally fascinated by it,<sup>29</sup> and that the release was "literally trending number one."<sup>30</sup> In the week of that appearance, the President of the United States used the word "extraterrestrial."<sup>31</sup> Coulthart has called the initiative a positive sign to be applauded, saying it is clear from the released files that there was no reason they could not have been released much earlier,<sup>32</sup> though he does not consider the material published on the war.gov UFO files website to date to be evidence of extraterrestrials,<sup>33</sup> and he has described the cabinet-meeting reference to extraterrestrials as an astonishing admission.<sup>34</sup> He has also said he regards the period as a moment in history in which a US president is for the first time talking publicly about potentially disclosing information on the phenomenon,<sup>35</sup> while separately saying he does not expect Trump to make a significant disclosure, considering him intimidated by the national security state and likely to offer only a few blurry videos and something for Congress to get excited about.<sup>36</sup>
+According to [Phil McGraw](/people/phil-mcgraw), some people controlling UFO-related information treat the President as a temporary employee not given full candour<sup>23</sup>, a characterisation [Ross Coulthart](/people/ross-coulthart) has echoed, saying people inside the government's UFO cover-up have told him the same<sup>24</sup>. McGraw has stated that Trump signed an executive order to declassify and disclose UFO-related information to the American public<sup>25</sup>. On 2026-08-11, Trump made remarks about releasing extraterrestrial information at a 2026-08-11 Donald Trump's cabinet meeting remarks on extraterrestrials, seated with [Marco Rubio](/people/marco-rubio) on one side<sup>26</sup>; according to Coulthart, Trump said the administration is releasing a lot of information on extraterrestrial matters and that people are fascinated by it<sup>27</sup>. Coulthart has said that, in the week of that episode, the President used the word "extraterrestrial"<sup>28</sup>, and has separately said this marks the first time a US president has publicly discussed potentially disclosing on the phenomenon<sup>29</sup>. Coulthart considers the declassification initiative a positive sign, saying it is clear the released files could have come out much earlier<sup>30</sup>, though he does not expect Trump to make a significant disclosure, considering him intimidated by the national security state<sup>31</sup>. McGraw has said the degraded quality of releases does not originate with Trump but results from the material being garbled once it enters the bureaucracy<sup>32</sup>, and has stated he has discussed UAP with Trump, Stephen Miller, Tim Burchett and [Anna Paulina Luna](/people/anna-paulina-luna)<sup>33</sup>.
 
-Jonathan Caplan does not believe disclosure of UAP information is coming through Trump's presidency,<sup>37</sup> though he considers it possible Trump will allow acknowledgement that some video or craft is anomalous, even if full disclosure - including crash retrievals, legacy programmes and biologics - is not on the table.<sup>38</sup> Mitchells has said he wants Trump to release UFO documents because of the second-order effects he believes this would have, including moving the Overton window and allowing the subject to be taught in academic settings,<sup>39</sup> and has noted that, in a recent podcast appearance, Trump said aliens are real without the interviewer following up on the remark.<sup>40</sup> [David Charles Grusch](/people/david-charles-grusch) knows what Trump was briefed on during his previous term and what Rubio was briefed on regarding the subject.<sup>41</sup> Grusch has said he is worried that, unless Trump has issued a historical document preservation hold, much of the information on the UAP recovery programme is being destroyed, comparing it to the destruction of Project MKUltra records in the 1970s,<sup>42</sup> and has said that mishandling UAP disclosure would damage Trump's legacy.<sup>43</sup> He has said he considers UAP disclosure, rather than the war in Iran, the issue that will define Trump's legacy,<sup>44</sup> and that Stephen Miller and Trump's team need to recognise this.<sup>45</sup> McGraw has said he has discussed the UAP subject with Trump, Stephen Miller, Tim Burchett and [Anna Paulina Luna](/people/anna-paulina-luna),<sup>46</sup> and has said he believes people from Trump down genuinely want transparency on UAP and believe the American people are entitled to know their circumstances in the universe, but that the effort becomes garbled once it enters the bureaucratic apparatus.<sup>47</sup> Separately, Michael Horn noted in 2026 that, in the days before his own interview, American news had reported Trump in dispute with NATO and that the Falkland Islands had again come up.<sup>48</sup>
+[David Charles Grusch](/people/david-charles-grusch) has said he is worried that, absent a historical document preservation hold from Trump, information on the UAP recovery programme is presently being destroyed<sup>34</sup>, and has said mishandling UAP disclosure would damage Trump's legacy<sup>35</sup>. Grusch has also said he knows what Trump was briefed on during his previous term and what Rubio was briefed on regarding UAP<sup>36</sup>, and that he hopes Trump delivers on his promise regarding disclosure<sup>37</sup>.

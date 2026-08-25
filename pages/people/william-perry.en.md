@@ -1,12 +1,14 @@
 ---
 title: William Perry
-description: United States Secretary of Defense named in testimony and a memorandum
-  describing a 1994 reorganisation of a compartmented programme linked to recovered
-  technological hardware.
+aliases:
+- /people/barry-williams/
+- /en/people/barry-williams/
+description: William Perry is a former United States Secretary of Defense whom Thomas
+  Wilson's testimony credits with reorganising a set of unacknowledged special access
+  programs in 1994, and whom, according to the book In Plain Sight, the Admiral Wilson
+  memo names as having directed Wilson toward related Pentagon files.
 metadata:
-  role: Named as a former United States Secretary of Defense in the Admiral Wilson
-    memo
-  active_period: 1994-1997
+  role: Former United States Secretary of Defense
 built_from:
   brief_hash: 8f600646c2d94e053ba56341e7a3d8849e220fce3473f1d0b04820e4c5fd8a62
   claims:
@@ -37,8 +39,34 @@ built_from:
   - id: 0607487e-9e5c-483d-9db9-a8799288bbd2
     hash: d764801660e48211112cc90721f584ca7cdb5b873771eaa8b31705a7fe51ef7b
 references:
-- text: Perry organised a special subset of unacknowledged, carve-out, and waived
-    programmes separate from ordinary SAPs in 1994
+- text: The Admiral Wilson memo named Major General Marshal Ward and William Perry
+    as having told Tom Wilson to examine files in the Office of the Under Secretary
+    of Defense for Acquisition and Technology.
+  source: In Plain Sight
+  location: ch26:13574-13804
+  quote: The memo named a Department of Defense Major General Marshal Ward and William
+    Perry, a former Secretary of Defense, as having told Wilson he should examine
+    files in the Office of the Under Secretary of Defense for Acquisition and Technology.
+  claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
+- text: The memo names Paul Kaminski, Michael Kostelnik and former Defense Secretary
+    William Perry as the three people Wilson confirmed the programme's contractor
+    with.
+  source: In Plain Sight
+  location: ch26:15339-15691
+  quote: Dr Paul Kaminski (Director of Special Programs in the office of the Under
+    Secretary of Defense for Acquisition, Technology and Logistics); Brigadier General
+    Mike Kostelnik (Director of the Special Access Programs Coordination Office and
+    executive secretary for the SAP Oversight Committee); and former Defence Secretary
+    Bill Perry.
+  claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+- text: Thomas Wilson was told of a special-projects record group outside the usual
+    SAP structure, organised in 1994 by William Perry.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11669-11945
   quote: They told me of a special projects record group not belonging to usual SAP
@@ -48,8 +76,8 @@ references:
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
-- text: Michael Kostelnik became director of special programmes in OUSDAT under Perry's
-    1994 reorganisation
+- text: Michael Kostelnik was director of special programmes in OUSDAT, as reorganised
+    by William Perry in 1994.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:12087-12277
   quote: In Paul's office (OUSDAT) - dir. of special programs in OUSDAT (Office of
@@ -58,28 +86,8 @@ references:
   claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
-- text: Kostelnik told Wilson the programme's security budget ran two to three, at
-    times six to seven, times the core budget; Perry wanted an investigation but was
-    told to drop it
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:12879-13104
-  quote: Talked to Mike who said it was like 2-3 times the program budget, but there
-    were times when it went as high as 6-7 times core budget, thought it was absurdly
-    high, said Perry wanted investigation on that but was told to drop it.
-  claim_id: b96a9a92-b893-4903-a0f3-9db8fcfca529
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b96a9a92-b893-4903-a0f3-9db8fcfca529
-- text: Perry ordered the programme's security budget reporting reorganised to improve
-    audit transparency
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:13754-13841
-  quote: 'TW: Perry ordered all these issues to be reorganized and straightened out
-    to improve audit transparency.'
-  claim_id: 378c4c64-b883-478d-8589-4b921c78dba8
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-378c4c64-b883-478d-8589-4b921c78dba8
-- text: Wilson ran into Perry in May 1997 and discussed the matter; Perry suggested
-    the same approach as Marshal Ward
+- text: Thomas Wilson met William Perry in May 1997 and discussed the matter quietly;
+    Perry suggested the same approach as General Ward.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11578-11661
   quote: Ran into Bill Perry in May '97 - talked about this quietly - he suggested
@@ -87,8 +95,8 @@ references:
   claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
-- text: Wilson telephoned Kaminski, Kostelnik and Perry at the end of May 1997 to
-    confirm the contractor and programme manager
+- text: Wilson called Kaminski, Kostelnik and Perry at the end of May 1997 to confirm
+    the right contractor and programme manager, and they confirmed it.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:14381-14539
   quote: 'TW: I made several calls (end of May ''97), first to Paul, Mike & Perry
@@ -102,8 +110,8 @@ references:
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
-- text: The programme manager was unhappy with Wilson's answer about who he had spoken
-    to; Wilson withheld that he had spoken to Perry and Kaminski
+- text: The programme manager asked Wilson who he had talked to beforehand and was
+    unhappy with his answer; Wilson did not mention Perry and Kaminski.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:15351-15545
   quote: 'TW: Yes! Asked who I talked to before I called them so I told them and they
@@ -115,53 +123,47 @@ references:
   claim_id: 2cfc9df5-134f-459d-8895-36e57b5660a3
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
-- text: The Admiral Wilson memo named Marshal Ward and Perry, a former Secretary of
-    Defense, as having told Wilson to examine OUSDAT files
-  source: In Plain Sight
-  location: ch26:13574-13804
-  quote: The memo named a Department of Defense Major General Marshal Ward and William
-    Perry, a former Secretary of Defense, as having told Wilson he should examine
-    files in the Office of the Under Secretary of Defense for Acquisition and Technology.
-  claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
-- text: The memo names Kaminski, Kostelnik, and Perry as the three people Wilson used
-    to confirm the programme's contractor
-  source: In Plain Sight
-  location: ch26:15339-15691
-  quote: Dr Paul Kaminski (Director of Special Programs in the office of the Under
-    Secretary of Defense for Acquisition, Technology and Logistics); Brigadier General
-    Mike Kostelnik (Director of the Special Access Programs Coordination Office and
-    executive secretary for the SAP Oversight Committee); and former Defence Secretary
-    Bill Perry.
-  claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+- text: Wilson said Kostelnik told him the security budget ran two to three times
+    the programme budget, sometimes six to seven times; Perry wanted an investigation
+    but was told to drop it.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:12879-13104
+  quote: Talked to Mike who said it was like 2-3 times the program budget, but there
+    were times when it went as high as 6-7 times core budget, thought it was absurdly
+    high, said Perry wanted investigation on that but was told to drop it.
+  claim_id: b96a9a92-b893-4903-a0f3-9db8fcfca529
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b96a9a92-b893-4903-a0f3-9db8fcfca529
+- text: Perry ordered the security budget reporting issues reorganised to improve
+    audit transparency.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:13754-13841
+  quote: 'TW: Perry ordered all these issues to be reorganized and straightened out
+    to improve audit transparency.'
+  claim_id: 378c4c64-b883-478d-8589-4b921c78dba8
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-378c4c64-b883-478d-8589-4b921c78dba8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: cdd5a02721d8ccc386d84d9125ea87fb3faea18ca1ea2a780cbb3cdf15f0089b
+  prompt_sha256: 208328bc72463e5acc95728c59a9d4ca732fe11097798b07f2f44cd2abceb0fb
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 68167
-    output: 18031
+    input: 68168
+    output: 21011
     real_input: 2
-    cache_read: 39398
-    cache_write: 28767
+    cache_read: 39422
+    cache_write: 28744
     calls: 0
-  body_sha256: 043ff6b320c74833fc255d1b2930890dd7e5ec2b0858055f8272de949d05b68a
+  body_sha256: 6dc27703fc389ff84641e86d8137908cb10a6ee43046facce4d3107c47d3921e
 ---
 
-William Perry appears in first-hand testimony from Admiral [Thomas Wilson](/people/thomas-wilson) and in a later documentary account concerning oversight of the Reverse-engineering program of recovered technological hardware (unnamed Special Access Program (SAP)), an unacknowledged programme within the United States Special Access Program (SAP) system.
+According to the book In Plain Sight, the Admiral Wilson Memo named [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) Major General Marshal Ward and William Perry, a former Secretary of Defense, as having told [Thomas Wilson](/people/thomas-wilson) that he should examine files held by the Office of the Under Secretary of Defense for Acquisition and Technology.<sup>1</sup> The same account names Perry, described there as a former Defense Secretary, alongside Paul Kaminski - then Director of Special Programs in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT) - and [Michael Kostelnik](/people/michael-kostelnik), Director of the Special Access Programs Coordination Office and executive secretary for the Special Access Program Oversight Committee, as one of three people Wilson confirmed a programme's contractor with.<sup>2</sup>
 
-In 1994, Perry organised a special subset of unacknowledged, carve-out, and waived programmes that sat apart from the ordinary structure of Special Access Programs (SAPs).<sup>1</sup> As part of that reorganisation, [Michael Kostelnik](/people/michael-kostelnik) became director of special programmes within the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT).<sup>2</sup>
+Wilson's testimony to Eric Davis also describes a reorganisation Perry carried out in 1994. Wilson was told of a special-projects record group that did not belong to the usual Special Access Programs (SAP): a subset of unacknowledged, carve-out and waived programmes, held apart from and obscured by conventional SAPs.<sup>3</sup> As part of the same reorganisation, Kostelnik became director of special programmes within OUSDAT.<sup>4</sup>
 
-Kostelnik later told Wilson that the programme's security budget typically ran at two to three times the programme's core budget, and at times reached six to seven times that figure, a level Kostelnik regarded as absurdly high; Wilson said Perry wanted the matter investigated but was told to drop it.<sup>3</sup> Separately, Perry ordered the programme's security budget reporting reorganised to improve audit transparency.<sup>4</sup>
+By May 1997, Wilson had raised the matter with Perry directly; the two discussed it quietly, and Perry suggested Wilson take the same approach as Major General Ward.<sup>5</sup> Later that month, Wilson telephoned Kaminski, Kostelnik and Perry in turn to confirm he had identified the right contractor and programme manager, and each of the three confirmed it.<sup>6</sup> When Wilson then approached the programme manager, the manager asked who he had spoken to beforehand and was unhappy with the answer; Wilson did not disclose that he had also spoken with Perry and Kaminski.<sup>7</sup>
 
-In May 1997, Wilson ran into Perry and discussed the matter quietly; Perry suggested the same approach as Marshal Ward.<sup>5</sup> At the end of that month, Wilson telephoned Paul Kaminski, Kostelnik and Perry to confirm he had identified the correct contractor and programme manager, and all three confirmed it.<sup>6</sup> When the programme manager subsequently asked Wilson who he had spoken to beforehand, Wilson gave an answer that left the manager unhappy, but did not disclose that he had spoken to Perry and Kaminski.<sup>7</sup>
-
-According to In Plain Sight (2021), The Admiral Wilson Memo named Major General Marshal Ward of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) and Perry, described in the memo as a former Secretary of Defense, as having told Wilson to examine files within OUSDAT.<sup>8</sup> The same account states that the memo names Kaminski, then Director of Special Programs in OUSDAT; Kostelnik, Director of the Special Access Programs Coordination Office and executive secretary of the Special Access Program Oversight Committee; and Perry, again described as a former Defense Secretary, as the three people Wilson used to confirm the programme's contractor.<sup>9</sup>
+Wilson said that Kostelnik told him the programme's security budget typically ran at two to three times the size of the programme budget itself, and at times reached six to seven times that core budget - a ratio Kostelnik considered absurdly high; Wilson said Perry wanted the matter investigated but was told to drop it.<sup>8</sup> Perry separately ordered the programme's security-budget reporting to be reorganised to improve audit transparency.<sup>9</sup>

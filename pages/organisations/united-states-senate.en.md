@@ -1,8 +1,8 @@
 ---
 title: United States Senate
-description: The upper chamber of the US Congress, whose members have funded, investigated,
-  testified on, and legislated around programmes examining unidentified anomalous
-  phenomena.
+description: The United States Senate is the upper chamber of the US Congress, whose
+  senators have funded, investigated, and legislated on unidentified anomalous phenomena
+  since at least 1989.
 built_from:
   brief_hash: d06640375da07c4c9dcb71e346dd539f31d592dcf0032005b841cb208065291e
   claims:
@@ -33,8 +33,8 @@ built_from:
   - id: afc5e83a-564b-4d25-b188-cf547222d1f9
     hash: 2b93409930fd224d7762d9fbe198bbdb15789a7eb6c13bad78c4e084d18016f2
 references:
-- text: George Knapp first told Harry Reid, then a first-term senator, accounts of
-    a crashed saucer gathered outside his newsroom.
+- text: George Knapp first raised crashed-saucer accounts with Senator Harry Reid,
+    then in his first term
   source: Statement to Congress
   location: char:2661-2783
   quote: The first person I told about this - outside of our newsroom - was U.S. Senator
@@ -42,9 +42,10 @@ references:
   claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
-- text: AATIP was initially largely funded at the request of Harry Reid, then Senate
-    majority leader.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+- text: AATIP was initially largely funded at Reid's request while he was Senate majority
+    leader
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
   location: char:1643-1767
   quote: initially it was largely funded at the request of Harry Reid, the Nevada
     Democrat who was the Senate majority leader at the time
@@ -52,8 +53,7 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
-- text: AATIP was part of a $22 million programme sponsored by Reid to investigate
-    UFOs.
+- text: AATIP was part of a $22 million programme Reid sponsored to investigate UFOs
   source: Navy pilots describe encounters with UFOs
   location: 00:01:52.4-00:02:00.4
   quote: AATIP was part of a $22 million program sponsored by then Senate Majority
@@ -61,9 +61,9 @@ references:
   claim_id: cfe47eb0-03db-43be-b6f5-52926463edcc
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-cfe47eb0-03db-43be-b6f5-52926463edcc
-- text: Ted Stevens and Daniel K. Inouye, top members of a defense spending subcommittee,
-    supported AATIP.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+- text: Ted Stevens and Daniel K. Inouye, senior subcommittee members, supported AATIP
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
   location: char:3470-3645
   quote: Two other former senators and top members of a defense spending subcommittee
     — Ted Stevens, an Alaska Republican, and Daniel K. Inouye, a Hawaii Democrat —
@@ -73,8 +73,9 @@ references:
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
 - text: None of Reid, Stevens or Inouye wanted a public Senate floor debate on the
-    funding.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+    funding
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
   location: char:8661-8775
   quote: None of the three senators wanted a public debate on the Senate floor about
     the funding for the program, Mr. Reid said.
@@ -82,8 +83,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
-- text: Grusch's PPD-19 complaint faced process problems in routing to the Armed Services
-    Committees.
+- text: Grusch said his PPD-19 complaint faced routing problems to the Armed Services
+    Committees
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:131938-132346
@@ -97,8 +98,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-150ad8f7-3f76-4549-a913-6e6845a35612
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-150ad8f7-3f76-4549-a913-6e6845a35612
-- text: Grothman said Kirkpatrick testified to the Senate that AARO found no evidence
-    of extraterrestrial activity.
+- text: Grothman said Kirkpatrick testified AARO found no evidence of extraterrestrial
+    activity
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:22503-22762
@@ -110,7 +111,7 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4a82f055-45d4-4350-ba99-fca454419dd6
-- text: Rubio said some Senate colleagues are very interested in UAP, others dismissive.
+- text: Rubio said some Senate colleagues are very interested in UAP, others dismissive
   source: Navy pilots describe encounters with UFOs
   location: 00:13:01.1-00:13:06.5
   quote: some of my colleagues are very interested in this topic and some kind of,
@@ -118,8 +119,8 @@ references:
   claim_id: 2df63575-aa18-444b-806a-e69ce0ce18d3
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2df63575-aa18-444b-806a-e69ce0ce18d3
-- text: Fravor said senators told him that, before 2017, raising UAP would have gotten
-    someone laughed off Capitol Hill.
+- text: Fravor said senators told him mentioning UAP pre-2017 would get someone laughed
+    off Capitol Hill
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:87999-88222
@@ -130,8 +131,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ff4d3d12-d804-4a90-a324-06d7366cdb92
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ff4d3d12-d804-4a90-a324-06d7366cdb92
-- text: The Senate was taking up an amendment to a defense authorization bill creating
-    a declassification commission.
+- text: The Senate was taking up an amendment creating a commission with declassification
+    authority
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:24432-24572
@@ -141,7 +142,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6343500e-eb9f-4316-8a5e-bdbf05a2476a
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6343500e-eb9f-4316-8a5e-bdbf05a2476a
-- text: The UAP Disclosure Act was pushed back again in 2024 by Senator Mitch McConnell.
+- text: The UAP Disclosure Act was pushed back again by Senator Mitch McConnell in
+    2024
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
   location: 00:19:59.4-00:20:07.5
   quote: We also found out recently that the UAP Disclosure Act had been pushed back
@@ -149,7 +151,7 @@ references:
   claim_id: ed3655e8-3359-45d6-840a-2333bcd2e474
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: http://localhost:5173/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
-- text: A UAP forum was held in the Kennedy Caucus Room of the Senate.
+- text: A UAP forum was held in the Kennedy Caucus Room of the Senate
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:01:50.2-00:01:59.2
   quote: Kennedy caucus room where there have been many historic events that took
@@ -157,7 +159,7 @@ references:
   claim_id: 2ea6c150-144d-4774-8ee8-ea048c0a414a
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
-- text: The forum took place in June 2026.
+- text: The Kennedy Caucus Room forum took place in June 2026
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:02:15.7-00:02:19.7
   quote: It's hard to imagine that here we are today in June of 2026, and that forum
@@ -169,25 +171,25 @@ built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 278cf9a1e681d3e974b90c4682d5de881f9960f99b60e01511f9dbd4ba548097
+  prompt_sha256: c5a2bf6c2aa1e0d2aaa96499b2ea2cdc0df4af4b9e9c2320bb0ed8c927584450
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 67963
-    output: 14924
+    input: 68405
+    output: 15761
     real_input: 2
-    cache_read: 33634
-    cache_write: 34327
+    cache_read: 39422
+    cache_write: 28981
     calls: 0
-  body_sha256: c94a0a72744305cf97510b3334405d611e797886f6ceca81b0a88844af06078f
+  body_sha256: 37593dabfae02c97f96ba78d3a7038eb88daa2b82cb7e2ce709240eee6144704
 ---
 
-In 1989, journalist [George Knapp](/people/george-knapp) first told [Harry Reid](/people/harry-reid) — then in his first term as a United States Senator — accounts of a crashed saucer he had gathered outside his newsroom.<sup>1</sup> Reid, later Senate majority leader, was the figure at whose request the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) was initially largely funded.<sup>2</sup> AATIP formed part of a $22 million programme Reid sponsored to investigate UFOs.<sup>3</sup>
+The United States Senate is the upper chamber of the US Congress. Its association with the topic of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) dates to 1989, when journalist [George Knapp](/people/george-knapp) first told Senator [Harry Reid](/people/harry-reid) — then in his first term — about accounts of a crashed saucer he had gathered outside his newsroom.<sup>1</sup>
 
-[Ted Stevens](/people/ted-stevens), a former Alaska Republican senator, and [Daniel K. Inouye](/people/daniel-k-inouye), a former Hawaii Democrat senator, were both top members of a defense spending subcommittee and supported AATIP's funding.<sup>4</sup> None of Reid, Stevens or Inouye wanted a public debate on the Senate floor about that funding.<sup>5</sup>
+Reid, Senate majority leader at the time, was the driving force behind funding for the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), which he requested be largely funded during his tenure in that role.<sup>2</sup> The programme formed part of a $22 million effort Reid sponsored to investigate UFOs.<sup>3</sup> Senior members of a defense spending subcommittee, [Ted Stevens](/people/ted-stevens) of Alaska and [Daniel K. Inouye](/people/daniel-k-inouye) of Hawaii, supported the programme.<sup>4</sup> None of Reid, Stevens or Inouye wanted a public debate on the Senate floor about the funding.<sup>5</sup>
 
-[David Charles Grusch](/people/david-charles-grusch)'s PPD-19 whistleblower reporting process complaint encountered process problems, as there was no established route for the intelligence community Inspector General to send such information to committees beyond the intelligence committees, despite his request to route it to the US House of Representatives and Senate Armed Services Committees on Title 10 grounds.<sup>6</sup> According to Glenn Grothman, Sean Kirkpatrick, director of the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro), testified before the Senate that his unit had found no evidence of extraterrestrial activity.<sup>7</sup>
+At a Senate hearing on 2023-07-26, [David Charles Grusch](/people/david-charles-grusch) said his own PPD-19 whistleblower reporting process complaint faced problems, because there was no smooth way for the intelligence community's Inspector General to route such information to committees beyond the intelligence committees, despite his request to send it to the Armed Services Committees of the US House of Representatives and Senate, on Title 10 grounds.<sup>6</sup> According to Glenn Grothman, Sean Kirkpatrick, director of the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro), testified before the Senate that his unit had found no evidence of extraterrestrial activity.<sup>7</sup> [Marco Rubio](/people/marco-rubio) said that some of his Senate colleagues are very interested in the topic of UAP, while others react dismissively when it is raised.<sup>8</sup> [David Fravor](/people/david-fravor) said he had spoken to multiple senators who told him that, prior to 2017, mentioning UAP would have gotten someone laughed off Capitol Hill.<sup>9</sup>
 
-[Marco Rubio](/people/marco-rubio) has said that some of his Senate colleagues are very interested in the topic of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), while others react dismissively when it is raised.<sup>8</sup> [David Fravor](/people/david-fravor) has said he spoke to multiple senators who told him that, prior to 2017, raising the subject would have gotten someone laughed off Capitol Hill.<sup>9</sup> In July 2023, the Senate was taking up an amendment to a defense authorization bill that would create a commission with broad declassification authority.<sup>10</sup> In 2024, the [Unidentified Aerial Phenomena (UAP) Disclosure Act](/documents/unidentified-aerial-phenomena-uap-disclosure-act) was pushed back again, this time by Senator Mitch McConnell.<sup>11</sup>
+During the same hearing, the Senate was taking up an amendment to a defense authorization bill that would create a commission with broad declassification authority.<sup>10</sup> Legislative efforts on UAP disclosure continued into 2024, when the [Unidentified Aerial Phenomena (UAP) Disclosure Act](/documents/unidentified-aerial-phenomena-uap-disclosure-act) was pushed back again, this time by Senator Mitch McConnell.<sup>11</sup>
 
-A forum on UAP was held in the USA, Washington DC, Kennedy Caucus Room of the United States Senate,<sup>12</sup> taking place in June 2026.<sup>13</sup>
+A forum on UAP was held in the Kennedy Caucus Room of the Senate,<sup>12</sup> taking place in June 2026.<sup>13</sup>

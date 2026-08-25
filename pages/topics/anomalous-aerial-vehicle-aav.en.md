@@ -1,14 +1,14 @@
 ---
 title: Anomalous Aerial Vehicle (AAV)
-description: Anomalous Aerial Vehicle (AAV) is the US Navy term for an unidentified
-  object encountered by aircraft and ships of Carrier Strike Group 11 off the coast
-  of California on 2004-11-14.
+description: A designation used by the US Navy and the Department of Defense for unidentified
+  objects encountered during fleet operations, most notably the object intercepted
+  by F/A-18F pilots from USS Nimitz (CVN-68) off the coast of California in November
+  2004.
 metadata:
-  category: Unidentified aerial phenomenon
-  first_documented: '2004-11-14'
-  primary_incident: Nimitz Carrier Strike Group (CSG-11) intercept, 2004-11-14
+  status: unidentified
+  type: designation
 built_from:
-  brief_hash: e67d6018bee5fc074da30b558075615bc692766bf55e8f5891321e99a8e34aa3
+  brief_hash: 8de7dddc48d14a4ee77fa0e1a4670ba206bba7fff5baf72d200560b928a918d0
   claims:
   - id: 107d2973-a382-47c2-80bd-2c0a8b662900
     hash: 58e8250b75d7d73c626999ab6a5aff39b4a28138aa0c24ccb83e3c4fced6bf5b
@@ -244,10 +244,28 @@ built_from:
     hash: fce30745daf7348ac988e1cee64feb03528ff870574b6d1b3de9481c23dfd958
   - id: ae4d9421-bb8e-4965-82f4-56b07081cba2
     hash: b7ee9b84ab684eb66ece573953af13a0e3cbe1b6ed449cc4d2d411ce70ee1c5a
+  - id: 4cf1592d-660d-4d34-9307-741a9e956727
+    hash: a0248ecba8b34d05890755f9e0b894e1954d1204cc139be945ab14d3bb282cfd
+  - id: 31c67cf0-04ad-48e5-9376-420e35efb44d
+    hash: e7d883b72eafabfacc96a146b2ae58b729056b52cb7ebf846233778f0cdfe8bb
+  - id: 9c25327b-95ec-49a7-8388-36cbc2fff286
+    hash: 34ff6e3e22b04a66bf834eb42f404256c5198cabc2dfa5c009bdbe50d9f49fdf
+  - id: d8b7e413-d5b2-48f4-9d0b-aed4d08301eb
+    hash: 6f9705fad267247124afc08c543c40b025dc80488082dc7c070877d23132f9fc
+  - id: 7a2da59c-30c0-493d-9220-688e197fd4d6
+    hash: af880e1c09b8788e43e94dd7da12aeec460541112c90bea3a24d901400dbe50a
+  - id: 4ce0f23d-12cc-4297-9ad0-95120c8150d8
+    hash: 71b1325ed41e8675c5b724e60c074e4dfb9185f9bf7676c4cfb91955045499a3
+  - id: 519488a0-f930-4497-bb7e-bd5264302491
+    hash: 05e17156b95a3bb3d8491f93b5d607956f3fba85aae04c9f50c371e9709b8d28
+  - id: 6c198dc4-7dbd-458a-88f2-1f69f5624ac0
+    hash: 08a74bdf03c39440470bf5a5d61591222f10cabb8829a143334db1d71497ebe4
+  - id: e55f655d-51de-4718-a922-c464b47769fc
+    hash: 33dc5cd02ce835963643a27dde0bcf4228d032acc495d936511389bbe38bdac0
   - id: 073aa6b4-66ec-4cb4-a900-d50d71bd827c
     hash: 12b8bd258ff29a15fdf8a813482afd84fd104d40655e9d38c0c0740620bcbf16
 references:
-- text: AAV described as elongated egg or 'Tic Tac' shape with a discernible midline
+- text: AAV described as an elongated egg or 'Tic Tac' shape with a discernable midline
     horizontal axis
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:1024-1126
@@ -257,7 +275,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-107d2973-a382-47c2-80bd-2c0a8b662900
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-107d2973-a382-47c2-80bd-2c0a8b662900
-- text: AAV solid white, smooth, and without edges
+- text: AAV was solid white, smooth, and had no edges
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:1133-1170
   quote: It was "solid white, smooth, with no edges.
@@ -265,7 +283,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1a0369bd-7dcb-46c3-b908-f0de88a7c317
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1a0369bd-7dcb-46c3-b908-f0de88a7c317
-- text: AAV approximately 14 metres in length
+- text: AAV was approximately 14 metres in length
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:1177-1209
   quote: It was approximately 46 feet in length.
@@ -273,7 +291,28 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-acecace6-f82a-4935-9f16-b1d1011c5219
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-acecace6-f82a-4935-9f16-b1d1011c5219
-- text: Princeton detected multiple AAVs around CSG-11 on several occasions
+- text: F/A-18Fs' radar could not lock the AAV; FLIR could track it while stationary
+    or slow
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:1217-1375
+  quote: The F/A-18Fs radar could not obtain a 'lock' on the AAV; however it could
+    be tracked while stationary and at slower speeds with the Forward Looking Infrared
+    (FLIR).
+  claim_id: 960bb723-9ec7-493d-8543-9d16cbba8c06
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-960bb723-9ec7-493d-8543-9d16cbba8c06
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-960bb723-9ec7-493d-8543-9d16cbba8c06
+- text: AAV took evasive action on intercept, demonstrating advanced acceleration,
+    aerodynamic and propulsion capability
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:1382-1516
+  quote: The AAV did take evasive actions upon intercept by the F/A-18 demonstrating
+    an advanced acceleration (G), aerodynamic, and propulsion capability.
+  claim_id: 4b2f0efa-20da-44d4-8b23-b56e70247913
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4b2f0efa-20da-44d4-8b23-b56e70247913
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4b2f0efa-20da-44d4-8b23-b56e70247913
+- text: USS Princeton detected multiple AAVs around CSG-11 on several occasions
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:252-386
   quote: The USS Princeton on several occasions detected multiple Anomalous Aerial
@@ -282,41 +321,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
-- text: AAV took no offensive action against the strike group
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:1528-1582
-  quote: The AAV did not take any offensive action against the CSG
-  claim_id: f89d3cc0-0827-48f6-a910-1bfc8e244521
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-f89d3cc0-0827-48f6-a910-1bfc8e244521
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-f89d3cc0-0827-48f6-a910-1bfc8e244521
-- text: AAV assessed as no known aircraft or air vehicle in the US or foreign inventory
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:1837-1972
-  quote: The Anomalous Aerial Vehicle (AAV) was no known aircraft or air vehicle currently
-    in the inventory of the United States or any foreign nation.
-  claim_id: ff7b6b15-e9d0-45c8-baf1-588b4a7ab464
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ff7b6b15-e9d0-45c8-baf1-588b4a7ab464
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ff7b6b15-e9d0-45c8-baf1-588b4a7ab464
-- text: 'Senior Chief: AAVs descend into AN/SPY-1 scan volume at high velocity'
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6336-6480
-  quote: 'According to Senior Chief {{redacted: ~1 word}} the AAVs would descend from
-    a very high altitude into the scan volume of the AN/SPY-1 at a high velocity.'
-  claim_id: 00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
-- text: Top of AN/SPY-1 scan volume above approximately 18,000 metres
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6490-6558
-  quote: The top of the scan volume would put the AAVs at higher than 60,000 feet.
-  claim_id: 03d61bb7-cad9-4153-bbed-9546de48d9cd
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-03d61bb7-cad9-4153-bbed-9546de48d9cd
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-03d61bb7-cad9-4153-bbed-9546de48d9cd
-- text: AAV observed descending rapidly from ~18,000m to ~15m in seconds
+- text: AAV observed descending rapidly from about 18,000 metres to about 15 metres
+    in seconds
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:391-505
   quote: The AAVs would descend "very rapidly" from approximately 60,000 feet down
@@ -325,121 +331,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c47cba15-7732-4aa0-b684-1819a98031c1
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c47cba15-7732-4aa0-b684-1819a98031c1
-- text: AAVs would hover then depart at high velocity and turn rates
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:514-624
-  quote: They would then hover or stay stationary on the radar for a short time and
-    depart at high velocities and turn rates.
-  claim_id: d7559eb0-95d6-49a3-a326-998cd1bc1381
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d7559eb0-95d6-49a3-a326-998cd1bc1381
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d7559eb0-95d6-49a3-a326-998cd1bc1381
-- text: Turn rates demonstrated an advanced acceleration capability
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6687-6817
-  quote: They would then hover for a short time and depart at high velocities and
-    at turn rates demonstrating an advanced acceleration (G) capability.
-  claim_id: 116c8166-e94f-445c-a2fd-2631f6cdd7de
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-116c8166-e94f-445c-a2fd-2631f6cdd7de
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-116c8166-e94f-445c-a2fd-2631f6cdd7de
-- text: Senior Chief assessed AAV exhibited ballistic missile characteristics
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6829-7072
-  quote: 'Senior Chief {{redacted: ~1 word}} added that based on his experience, which
-    is 17 years as a Fire Control on Aegis cruisers, the AAV exhibited Ballistic Missile
-    Characteristics in reference to its appearance, velocity, and indications on the
-    radar.'
-  claim_id: 05c78448-c427-4b8f-b52a-d6f62dcd0670
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-05c78448-c427-4b8f-b52a-d6f62dcd0670
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-05c78448-c427-4b8f-b52a-d6f62dcd0670
-- text: AN/SPY-1 set to air-intercept mode, dropped AAV contacts as clutter
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7079-7364
-  quote: Since the radar was in the mode to handle Air Intercept of conventional aircraft
-    it never obtained an accurate track of the AAVs and was quickly "dropped" by the
-    radar meaning it was eliminated by the computer to reduce the amount of clutter
-    on the radar, as any other false target is handled.
-  claim_id: 4679a657-5835-4338-8332-c86cac8db223
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4679a657-5835-4338-8332-c86cac8db223
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4679a657-5835-4338-8332-c86cac8db223
-- text: Ballistic-missile-mode AN/SPY-1 likely could have tracked the AAV
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7373-7494
-  quote: If the radar were set up in a mode for Ballistic Missile tracking they likely
-    would have had the capability to track the AAV.
-  claim_id: 6dadadb5-7995-4dd0-a860-def55d529b54
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-6dadadb5-7995-4dd0-a860-def55d529b54
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-6dadadb5-7995-4dd0-a860-def55d529b54
-- text: Princeton detected an AAV three times during the week
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7499-7612
-  quote: They were detected three separate times during the week operating off the
-    western coast of the United States and Mexico.
-  claim_id: b51a6d33-8fd4-4641-89be-99fb236ae3a8
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
-- text: E-2C NFO of VAW-117 airborne during contact, also avionics division officer
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:10349-10572
-  quote: 'On 14 November 2004, {{redacted: ~2 words}} E-2C NFO, was in VAW-117 and
-    airborne during the contact. Additionally, he was the squadron''s avionics division
-    officer and would be responsible for any and all RADAR recordings, etc...'
-  claim_id: 392bb938-50bb-46dd-b29a-069de693a6c0
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-392bb938-50bb-46dd-b29a-069de693a6c0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-392bb938-50bb-46dd-b29a-069de693a6c0
-- text: VAW-117 lieutenant flew as Air Control Officer
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:10811-10943
-  quote: 'LT {{redacted: ~1 word}} was flying as the Air Control Officer (ACO) on
-    the mission where the AAV was observed by the flight of F/A-18s.'
-  claim_id: 988c7574-80af-413d-a701-e1c955a2f6e3
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-988c7574-80af-413d-a701-e1c955a2f6e3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-988c7574-80af-413d-a701-e1c955a2f6e3
-- text: ACO did not see AAV until Princeton directed the contact
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:11068-11216
-  quote: He did not see the object on his radar (raw video) until the USS Princeton
-    directed the contact and gave the E-2 the general direction to steer its radar.
-  claim_id: 8272a485-7bb4-499d-a45c-0a948ddd1935
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
-- text: ACO initially thought the return was a wave
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:11223-11370
-  quote: 'LT {{redacted: ~1 word}} initially thought the return was a wave because
-    in a high sea state (4 or greater) the E-2C RADAR can actually detect the waves.'
-  claim_id: 280d60c6-1139-4167-a5ee-a9015ecdda3a
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-280d60c6-1139-4167-a5ee-a9015ecdda3a
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-280d60c6-1139-4167-a5ee-a9015ecdda3a
-- text: Radar target so low/faint it would have been missed without Princeton
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:11377-11522
-  quote: Additionally, the target was so low and the return was so faint that without
-    the inputs from the USS Princeton the return would have been missed/ignored.
-  claim_id: be1c8e47-bfe0-410d-b324-a47b2bf071f0
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-be1c8e47-bfe0-410d-b324-a47b2bf071f0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-be1c8e47-bfe0-410d-b324-a47b2bf071f0
-- text: Princeton tasked two airborne F/A-18s to investigate
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7944-8103
-  quote: On 14 November 2004, after again detecting an AAV took the opportunity of
-    two F/A-18s airborne in the vicinity to task them for airborne reconnaissance
-    of the AAV.
-  claim_id: 87fbee9d-7e3a-4699-98a1-3366e8cf9b8a
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-87fbee9d-7e3a-4699-98a1-3366e8cf9b8a
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-87fbee9d-7e3a-4699-98a1-3366e8cf9b8a
-- text: Princeton vectored F/A-18Fs for intercept, visual contact ~1.6km away
+- text: USS Princeton vectored F/A-18Fs from the E-2C Hawkeye for an intercept, leading
+    to visual contact roughly 1.6 km from the AAV
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:817-1019
   quote: The USS Princeton took over control of the F/A-18s from the E-2C Airborne
@@ -449,99 +342,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
-- text: VMFA-232 CO gained radar contact of two F/A-18Fs approaching the AAV
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:14101-14345
-  quote: While enroute at approximately 250 knots indicated/400 knots groundspeed
-    at medium altitude (15-25,000 feet), he gained radar contact of what he believed
-    to be two F/A-18Fs that were approaching the AAV from the west at low altitude
-    (500-5,000 feet).
-  claim_id: b5be2c72-fb4e-4be0-aa0a-9d9b44d5e872
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b5be2c72-fb4e-4be0-aa0a-9d9b44d5e872
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b5be2c72-fb4e-4be0-aa0a-9d9b44d5e872
-- text: CO observed no other traffic on his radar
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:14352-14386
-  quote: There was no other traffic on the radar.
-  claim_id: dc2696b2-c1f7-44fe-85e6-75b7a60b0274
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dc2696b2-c1f7-44fe-85e6-75b7a60b0274
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-dc2696b2-c1f7-44fe-85e6-75b7a60b0274
-- text: Controller told CO to remain above approximately 3,000 metres
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:14393-14519
-  quote: The controller informed him to remain above 10,000 feet, as there was other
-    fighter traffic at low altitude investigating the AAV.
-  claim_id: 6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
-- text: CO saw water disturbance at ~28km while descending through ~4,600m
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:14524-14665
-  quote: As he approached approximately 15nm from the AAV descending through approximately
-    15,000 feet, he could see a water disturbance in the ocean surface.
-  claim_id: 0a21e434-a070-4249-b414-1c3500159d17
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0a21e434-a070-4249-b414-1c3500159d17
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0a21e434-a070-4249-b414-1c3500159d17
-- text: CO considered disturbance possibly caused by a 'cloaked' AAV
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:15744-15864
-  quote: It is possible that the disturbance was being caused by an AAV but that the
-    AAV was 'cloaked' or invisible to the human eye.
-  claim_id: 4b32214e-9b86-404e-86f0-88ed67f3cda9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4b32214e-9b86-404e-86f0-88ed67f3cda9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4b32214e-9b86-404e-86f0-88ed67f3cda9
-- text: CO told to 'skip it' at 9-19km away
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:14721-14830
-  quote: At approximately 5-10 nm away from the AAV, the controller told him to "skip
-    it" and return to his operating area.
-  claim_id: 308722df-bdd7-44a7-a7aa-4ffacadb874f
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-308722df-bdd7-44a7-a7aa-4ffacadb874f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-308722df-bdd7-44a7-a7aa-4ffacadb874f
-- text: CO never made visual contact with other aircraft or the AAV
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:15631-15739
-  quote: He also never made visual contact with the other fighter aircraft that were
-    vectored to the location or the AAV.
-  claim_id: 38582597-56b1-4357-b9e8-feec18e51fd4
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-38582597-56b1-4357-b9e8-feec18e51fd4
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-38582597-56b1-4357-b9e8-feec18e51fd4
-- text: CO asked at CVIC whether he had seen the 'supersonic Tic Tac'
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:15951-16107
-  quote: 'He reported to the Carrier Intelligence Center (CVIC) and was asked by his
-    Intelligence Officer, 1stLt {{redacted: ~2 words}} if he saw the "supersonic Tic
-    Tac"?'
-  claim_id: 18bb1db1-c115-47a9-8860-88eda02b38e9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-18bb1db1-c115-47a9-8860-88eda02b38e9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-18bb1db1-c115-47a9-8860-88eda02b38e9
-- text: Fravor piloted FastEagle 01 of VFA-41
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:16388-16470
-  quote: 'FASTEAGLE 01 Pilot: CDR David ''Sex'' Fravor, USN/WSO: LT {{redacted: ~3
-    words}}, USN'
-  claim_id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-- text: Dietrich piloted FastEagle 02 of VFA-41
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:16476-16564
-  quote: 'FASTEAGLE 02 Pilot: LT Alex ''Cardiac'' Dietrich, USN/WSO: LCDR {{redacted:
-    ~2 words}}, USN'
-  claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
-- text: Intercept location near N31 20' W117 10', off Baja California
+- text: VFA-41 pilots obtained visual and sensor contact on 2004-11-14 near N31 20'
+    W117 10', south of the US/Mexico border off Baja Mexico
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:12429-12736
   quote: This section provides the debrief of the F/A-18 pilots and weapon system
@@ -552,39 +354,26 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9b2b33be-9320-4035-a75b-5023f5239361
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9b2b33be-9320-4035-a75b-5023f5239361
-- text: Fravor's flight descended to 6,100-7,300m toward the contact
+- text: David Fravor piloted FastEagle 01, one of two VFA-41 F/A-18Fs involved in
+    the intercept
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:17378-17446
-  quote: The flight descended to between 20-24,000 feet and proceeded to the contact.
-  claim_id: 5da38aea-92b5-43e4-9abf-2732e42f4476
+  location: char:16388-16470
+  quote: 'FASTEAGLE 01 Pilot: CDR David ''Sex'' Fravor, USN/WSO: LT {{redacted: ~3
+    words}}, USN'
+  claim_id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5da38aea-92b5-43e4-9abf-2732e42f4476
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5da38aea-92b5-43e4-9abf-2732e42f4476
-- text: Fravor recalled no indication via onboard sensors
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+- text: Alex Dietrich piloted FastEagle 02
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:17455-17524
-  quote: CDR Fravor did not recall any indications via on-board sensor of the object.
-  claim_id: d89525e0-c000-477b-a2c9-462944a809a1
+  location: char:16476-16564
+  quote: 'FASTEAGLE 02 Pilot: LT Alex ''Cardiac'' Dietrich, USN/WSO: LCDR {{redacted:
+    ~2 words}}, USN'
+  claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d89525e0-c000-477b-a2c9-462944a809a1
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d89525e0-c000-477b-a2c9-462944a809a1
-- text: Fravor's jet had no FLIR pod aboard
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:17532-17602
-  quote: Their aircraft was not carrying a Forward Looking Infrared (FLIR) pod onboard.
-  claim_id: 3e1ee1b8-9e88-4280-ba79-8d6473eb82bb
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e1ee1b8-9e88-4280-ba79-8d6473eb82bb
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3e1ee1b8-9e88-4280-ba79-8d6473eb82bb
-- text: Fravor's Radar Attack Display was clean, no targets
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:17611-17678
-  quote: As CDR Fravor remembers it, the Radar Attack Display was clean (no targets).
-  claim_id: 5deeb28d-70ce-431c-ab4b-ba46bfb1154a
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5deeb28d-70ce-431c-ab4b-ba46bfb1154a
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5deeb28d-70ce-431c-ab4b-ba46bfb1154a
-- text: Situational awareness via sporadic Link-16 tracks
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
+- text: Fravor's crew received sporadic Link-16 tracks from an off-board sensor
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:17948-18107
   quote: Situational awareness to the object was initially received via sporadic Link-16
@@ -594,7 +383,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a2f82f1f-2c7a-4f36-9bfd-9e1da312dace
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a2f82f1f-2c7a-4f36-9bfd-9e1da312dace
-- text: WSO assumed off-board sensor was Princeton's AN/SPY-1
+- text: Fravor's weapon system operator assumed the off-board sensor was USS Princeton's
+    AN/SPY-1 radar
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:18115-18220
   quote: 'Lt {{redacted: ~1 word}} assumed that the sensor providing the information
@@ -603,7 +393,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d005bc2f-7296-4135-a80c-e966f43d0587
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d005bc2f-7296-4135-a80c-e966f43d0587
-- text: First indication was water disturbance, then visual
+- text: Fravor's first indication was a visual disturbance on the water below the
+    AAV, then visual on the object
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:18227-18409
   quote: According to CDR Fravor the first indication he had of the unknown contact
@@ -613,7 +404,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-044710ae-9bdd-43b9-80bf-182b3e7a7c7b
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-044710ae-9bdd-43b9-80bf-182b3e7a7c7b
-- text: Disturbance described as boiling-water-like froth beneath object
+- text: Fravor described the disturbance as localised underneath the object, frothy
+    waves and foam like boiling water
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:18446-18653
   quote: when asked to describe the disturbance on the water he stated that it was
@@ -623,15 +415,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1ea18811-4def-4093-b8e3-4631bd04ecb1
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1ea18811-4def-4093-b8e3-4631bd04ecb1
-- text: Fravor's helmet lock attempt unsuccessful
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:18804-18850
-  quote: CDR Fravor attempted a "helmet lock" that was unsuccessful.
-  claim_id: 6549bbd1-8564-458c-b510-516db05136de
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-6549bbd1-8564-458c-b510-516db05136de
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-6549bbd1-8564-458c-b510-516db05136de
-- text: 'Fravor: object ''holding like a Harrier'''
+- text: Fravor said the AAV was 'holding like a Harrier'
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:19522-19712
   quote: CDR Fravor stated that the object was "holding like a Harrier." (Referring
@@ -641,41 +425,18 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
-- text: Fravor described shape as elongated egg / 'Tic Tac'
+- text: 'AAV observed by Chad Underwood: solid white, smooth, no edges, no nacelles,
+    pylons or wings'
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:19724-19850
-  quote: According to CDR Fravor, the object's shape was like an elongated egg or
-    a 'Tic Tac' and had a discernable midline horizontal axis.
-  claim_id: 7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
+  location: char:20002-20092
+  quote: solid white, smooth, with no edges. It was uniformly colored with no nacelles,
+    pylons, or wings.
+  claim_id: a34d9585-4ba0-4418-b3fe-e43ff8648da2
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
-- text: Object uniformly white across its body
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:19856-19914
-  quote: However, the object was uniformly white across the entire body.
-  claim_id: 663ebe14-8817-444c-bf0f-a6a5b6cb474e
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-663ebe14-8817-444c-bf0f-a6a5b6cb474e
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-663ebe14-8817-444c-bf0f-a6a5b6cb474e
-- text: Object oriented N/S, moved N/S and E/W at consistent altitude
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:20413-20547
-  quote: The object was pointed in a north/south orientation and was moving both north
-    & south and east & west, while maintaining a consistent altitude.
-  claim_id: 17073e35-fecd-4dc0-a125-732ad79a2528
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-17073e35-fecd-4dc0-a125-732ad79a2528
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-17073e35-fecd-4dc0-a125-732ad79a2528
-- text: Displacements described as minor
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:20557-20608
-  quote: These displacements, according to CDR Fravor, were minor.
-  claim_id: 8bf936db-35a1-4b8a-8807-86768cc1908c
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8bf936db-35a1-4b8a-8807-86768cc1908c
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8bf936db-35a1-4b8a-8807-86768cc1908c
-- text: Fravor began descent for a close-aboard pass
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a34d9585-4ba0-4418-b3fe-e43ff8648da2
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a34d9585-4ba0-4418-b3fe-e43ff8648da2
+- text: Fravor began a descent intending a close aboard pass to visually identify
+    the AAV
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:20615-20755
   quote: CDR Fravor stated he then began a descent with the intention to take a close
@@ -684,7 +445,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
-- text: Descent started at ~3,000m, ~650km/h
+- text: Fravor's flight began descent from about 3,000 metres at approximately 650
+    km/h
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:20759-20872
   quote: They began the decent as they rolled in from about 10,000ft and approximately
@@ -693,15 +455,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ec74eab0-b873-42ab-8590-dd16ae0dd39a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ec74eab0-b873-42ab-8590-dd16ae0dd39a
-- text: Fravor pulled nose-on then aft of the object
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:20880-20941
-  quote: CDR Fravor pulled nose on and then pulled trail (aft) of the object.
-  claim_id: dc140f5f-37ab-4fab-bea9-3948aacf9027
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dc140f5f-37ab-4fab-bea9-3948aacf9027
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-dc140f5f-37ab-4fab-bea9-3948aacf9027
-- text: Object seemed to recognise the aircraft, realigned axis
+- text: Fravor assessed the AAV appeared to recognise his aircraft, realigning its
+    axis toward it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:20975-21140
   quote: 'the object appeared, according to CDR Fravor: "to recognize us." He assessed
@@ -711,15 +466,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a5a3c541-6819-4b0b-99af-7c2e6ee23b7e
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a5a3c541-6819-4b0b-99af-7c2e6ee23b7e
-- text: Water disturbance ceased as object pointed toward the aircraft
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:21150-21218
-  quote: At this time, according to CDR Fravor, the disturbance on the water ceased.
-  claim_id: 33441563-ac6b-45ef-a227-0073a7ee16f9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-33441563-ac6b-45ef-a227-0073a7ee16f9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-33441563-ac6b-45ef-a227-0073a7ee16f9
-- text: Object ascended and pulled a supersonic lift vector
+- text: As Fravor's flight completed their manoeuvre, the AAV ascended and pulled
+    a lift vector on and aft of them at supersonic speed
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:21227-21346
   quote: As they completed this maneuver, the object ascended quickly and pulled lift
@@ -728,27 +476,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-49dc17bd-3388-47e4-ad3c-c232ea4175c3
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-49dc17bd-3388-47e4-ad3c-c232ea4175c3
-- text: 'Fravor: Princeton reported clean picture, then AAV at CAP station ~7,300m'
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:21455-21744
-  quote: Poison initially reported that the "picture was clean" (no contact) but then
-    stated "you're not going to believe this, its at your CAP" meaning that the AAV
-    had flown to their training CAP, which was located in the southern end of the
-    training area and had climbed to approximately 24,000 feet.
-  claim_id: 41f344d1-8cc4-4c9c-8eb8-6bcd33b0b740
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-41f344d1-8cc4-4c9c-8eb8-6bcd33b0b740
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-41f344d1-8cc4-4c9c-8eb8-6bcd33b0b740
-- text: Flight attempted to relocate object/disturbance, no success
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:21750-21848
-  quote: CDR Fravor stated that the flight attempted to locate both the object and
-    the disturbance with no success.
-  claim_id: ca72cce0-b9ef-4da7-ab99-9239efa9c71e
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ca72cce0-b9ef-4da7-ab99-9239efa9c71e
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ca72cce0-b9ef-4da7-ab99-9239efa9c71e
-- text: Flight rejoined and returned to USS Nimitz
+- text: Following the engagement, Fravor's flight returned to USS Nimitz
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:21991-22061
   quote: Following the engagement, the flight rejoined and returned to the USS Nimitz.
@@ -756,7 +484,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
-- text: Fravor's crew told Underwood's crew what they had seen
+- text: Fravor's flight crew told Underwood's flight crew what they had seen and asked
+    them to try to record it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23679-23776
   quote: FASTEAGLE flight told LT Underwood's flight what they saw and to try to see
@@ -765,17 +494,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-33474f15-47fa-4c5f-b3ac-87db91eabebe
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-33474f15-47fa-4c5f-b3ac-87db91eabebe
-- text: Initial radar tracks ~55-74km south of Underwood's aircraft
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:24591-24744
-  quote: Initial awareness of an object came via the radar. According to the radar
-    display, the initial tracks were at approximately 30-40 nm to the south of the
-    aircraft.
-  claim_id: 485d474e-ba37-4428-aa25-4c001c746fa8
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-485d474e-ba37-4428-aa25-4c001c746fa8
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-485d474e-ba37-4428-aa25-4c001c746fa8
-- text: Underwood attempted STT mode repeatedly, no lock
+- text: Underwood attempted multiple times to get a Single Target Track lock; the
+    radar could not take a lock
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:24754-25080
   quote: LT Underwood was controlling the radar and FLIR and attempted multiple times
@@ -787,7 +507,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1c606bf9-b4eb-4621-b467-0ad7e8ca5ec8
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1c606bf9-b4eb-4621-b467-0ad7e8ca5ec8
-- text: 'Underwood: no jamming cues on radar'
+- text: Underwood said there were no jamming cues or normal electronic-attack indications
+    on his radar
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:25087-25257
   quote: When asked, LT Underwood stated that there were no jamming cues (strobe,
@@ -797,44 +518,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-95319938-ccbe-4569-92bc-6e13560a760a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-95319938-ccbe-4569-92bc-6e13560a760a
-- text: Radar could not build a single target track file
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:25262-25340
-  quote: The radar couldn't receive enough information to create a single target track
-    file.
-  claim_id: 0aa671a1-1622-42e3-8076-6fb45c8f63de
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0aa671a1-1622-42e3-8076-6fb45c8f63de
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0aa671a1-1622-42e3-8076-6fb45c8f63de
-- text: FLIR showed object at 0deg angle track antenna, ~-5deg elevation
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:25447-25524
-  quote: The FLIR showed an object at 0 ATA and approximately -5deg elevation (Figure
-    2).
-  claim_id: ff007904-a164-4c2e-b2ac-606b396d17cb
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ff007904-a164-4c2e-b2ac-606b396d17cb
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ff007904-a164-4c2e-b2ac-606b396d17cb
-- text: Underwood estimated co-altitude, ~4,600-6,100m
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:25528-25702
-  quote: According to LT Underwood, "the target was best guess co-altitude or a few
-    thousand feet below," estimating the object to be between 15-20 thousand feet.
-  claim_id: 72ee278c-b8ed-4271-9016-667bfd6c7df3
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-72ee278c-b8ed-4271-9016-667bfd6c7df3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-72ee278c-b8ed-4271-9016-667bfd6c7df3
-- text: Object appeared stationary on FLIR display
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:25708-25880
-  quote: The object, according to the FLIR, appeared stationary (Figure 3). There
-    was no discernable movement from the object with the only closure being a result
-    of the aircraft's movement.
-  claim_id: f827146f-317a-4178-b676-fbe40f5432f8
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-f827146f-317a-4178-b676-fbe40f5432f8
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-f827146f-317a-4178-b676-fbe40f5432f8
-- text: Object moved out of FLIR view; Underwood lost track of it
+- text: Underwood watched the AAV move out of the FLIR field of view and lost situational
+    awareness of it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:25890-26078
   quote: As LT Underwood watched the object it began to move out of FLIR field of
@@ -844,165 +529,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-831a197b-8752-4416-9976-ad14842f4b2c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-831a197b-8752-4416-9976-ad14842f4b2c
-- text: Flight continued training mission, no further contact
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:26086-26158
-  quote: The Flight continued with training mission with no further contact with object.
-  claim_id: 65b1a617-7c1c-4859-a6a2-e008f7c413b5
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-65b1a617-7c1c-4859-a6a2-e008f7c413b5
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-65b1a617-7c1c-4859-a6a2-e008f7c413b5
-- text: White Hot Mode FLIR image showed faint bright object
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:26168-26276
-  quote: '[image: FLIR image in White Hot Mode showing a faint bright object against
-    a dark background, labeled Figure 2.]'
-  claim_id: dff89283-a273-4b8d-b7b5-380315a2d7f9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dff89283-a273-4b8d-b7b5-380315a2d7f9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-dff89283-a273-4b8d-b7b5-380315a2d7f9
-- text: Black Hot mode FLIR image showed faint dark object
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:26306-26415
-  quote: '[image: FLIR image in Black Hot mode showing a faint dark object against
-    a lighter background, labeled Figure 3.]'
-  claim_id: d3260375-ffc2-4851-8c4a-4a554e3b04a4
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d3260375-ffc2-4851-8c4a-4a554e3b04a4
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d3260375-ffc2-4851-8c4a-4a554e3b04a4
-- text: FLIR tapes copied, set given to intelligence section
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:26975-27051
-  quote: Copies of the tapes were made with a set being turned into the intelligence
-    section.
-  claim_id: 0e773d20-ec15-4629-95a8-f1c88239d969
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0e773d20-ec15-4629-95a8-f1c88239d969
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0e773d20-ec15-4629-95a8-f1c88239d969
-- text: Fravor debriefed at CVIC with Carrier Air Wing Intelligence Officer
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:29711-29935
-  quote: 'On 14 November following the intercept of the AAV, CDR Fravor reported to
-    CVIC to debrief with Intelligence. He discussed the entire mission and AAV contact
-    with LCDR {{redacted: ~2 words}} the Carrier Air Wing Intelligence Officer.'
-  claim_id: 7504e66a-af7f-4ae9-9859-e6f2c08da7ad
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7504e66a-af7f-4ae9-9859-e6f2c08da7ad
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-7504e66a-af7f-4ae9-9859-e6f2c08da7ad
-- text: Officer wasn't sure what to do with the report
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:29944-30008
-  quote: 'According to LCDR {{redacted: ~1 word}} he "wasn''t sure what to do".'
-  claim_id: da57b93d-49ef-45af-90ae-86e3af63f065
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-da57b93d-49ef-45af-90ae-86e3af63f065
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-da57b93d-49ef-45af-90ae-86e3af63f065
-- text: Officer/colleagues initially didn't take the report seriously
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:30013-30207
-  quote: He also stated that they "didn't take it seriously" at first; however, they
-    had absolutely no reason to question the report from a very experienced and well-respected
-    F/A-18 squadron commanding officer.
-  claim_id: d8bf0f7f-e989-44c1-bea1-4e5d67b1590d
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d8bf0f7f-e989-44c1-bea1-4e5d67b1590d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d8bf0f7f-e989-44c1-bea1-4e5d67b1590d
-- text: Report would likely have drawn less attention from a less experienced aviator
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:30216-30342
-  quote: 'LCDR {{redacted: ~1 word}} added that they likely would have not given as
-    much attention if it came from a lesser-experienced aviator.'
-  claim_id: c5d3387b-6797-4540-b0be-b4e74d896d14
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c5d3387b-6797-4540-b0be-b4e74d896d14
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c5d3387b-6797-4540-b0be-b4e74d896d14
-- text: Reported to CVW-11 commander, who did not take it very seriously
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:30351-30490
-  quote: 'He reported it to the Commander of the Air Wing, CAPT {{redacted: ~2 words}}
-    also a highly experienced aviator but he did not take it very serious.'
-  claim_id: 0759a3fc-a4c0-4b33-944a-23706f1a680f
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0759a3fc-a4c0-4b33-944a-23706f1a680f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0759a3fc-a4c0-4b33-944a-23706f1a680f
-- text: Email-based mission report (MISREP) completed
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:30499-30625
-  quote: 'LCDR {{redacted: ~1 word}} completed an email based MISREP. It was submitted
-    via email because the F/A-18s were on a training mission.'
-  claim_id: a05e667f-042b-495e-b0c6-9df0a7c91e4d
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a05e667f-042b-495e-b0c6-9df0a7c91e4d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a05e667f-042b-495e-b0c6-9df0a7c91e4d
-- text: MISREP sent via secure system to Third Fleet Intelligence (N2)
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:30634-30790
-  quote: 'The email-based report including the FLIR video was sent via a secure system
-    to CAPT {{redacted: ~2 words}} at 3rd Fleet Intelligence, their higher echelon
-    command.'
-  claim_id: 0047d9a3-40ea-4abd-ac27-673461b7379d
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0047d9a3-40ea-4abd-ac27-673461b7379d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0047d9a3-40ea-4abd-ac27-673461b7379d
-- text: Deputy N2 confirmed MISREP received via email ~2004-11-14
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:31687-31778
-  quote: CAPT {{redacted}} confirmed that the MISREP was received via email on or
-    about 14 November 2004.
-  claim_id: 5c5008fa-f271-4f40-b5f8-37df002f6836
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5c5008fa-f271-4f40-b5f8-37df002f6836
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5c5008fa-f271-4f40-b5f8-37df002f6836
-- text: MISREP read and acknowledged but not forwarded up the chain
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:31784-31956
-  quote: Since this MISREP was completed during training and preparation for deployment
-    it was read and acknowledged by 3rd Fleet N2 but was not forwarded to anyone up
-    the chain of command.
-  claim_id: f1d5f292-0197-4c1f-80bd-fa923ec49358
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-f1d5f292-0197-4c1f-80bd-fa923ec49358
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-f1d5f292-0197-4c1f-80bd-fa923ec49358
-- text: MISREP likely deleted, not archived
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:31965-32225
-  quote: Additionally CAPT {{redacted}} stated that it was not likely archived but
-    deleted at some point later as there is no requirement to keep these reports and
-    it was likely in file folder with all of the other training MISREPS sent in by
-    the CSG during deployment preparation.
-  claim_id: 827f2539-5f3e-437c-b0ab-05c2289559c2
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-827f2539-5f3e-437c-b0ab-05c2289559c2
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-827f2539-5f3e-437c-b0ab-05c2289559c2
-- text: D.C. Curtis commanded CSG-11 at time of intercept
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:32278-32482
-  quote: The commander of the Nimitz Carrier Strike Group during the intercept was
-    Rear Admiral D.C. Curtis now a Vice Admiral (VADM) and is commander of Naval Surface
-    Forces and the Pacific Fleet's Naval Surface Force.
-  claim_id: 1ff0970e-6fbc-44f6-b298-d76e217a9040
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1ff0970e-6fbc-44f6-b298-d76e217a9040
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1ff0970e-6fbc-44f6-b298-d76e217a9040
-- text: AAV activity reported to Curtis by COs of Princeton and VFA-41
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:32489-32610
-  quote: All of the AAV activity was reported to VADM Curtis by the Commanding Officer,
-    USS Princeton and Commanding Officer, VFA-41.
-  claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-- text: Peter Daly succeeded to command January 2005, no involvement
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:33441-33567
-  quote: Admiral Peter Daly assumed command of the CSG in January 2005 after the intercept
-    and had no knowledge or involvement in this incident.
-  claim_id: 093c3bda-eca6-4097-9599-dc68898699a9
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-093c3bda-eca6-4097-9599-dc68898699a9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-093c3bda-eca6-4097-9599-dc68898699a9
-- text: USS Louisville operating in vicinity of Nimitz as part of CSG-11
+- text: USS Louisville was operating in the vicinity as part of CSG-11 during the
+    AAV detection and intercept
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:27572-27711
   quote: She was operating in the vicinity of the USS Nimitz as part of the CSG during
@@ -1011,7 +539,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
-- text: 'Former submarine officer: no unidentified sonar contacts'
+- text: A former USS Louisville submarine officer said there were no unidentified
+    sonar contacts during the AAV activity
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:27716-28039
   quote: 'According to former LT {{redacted: ~3 words}} now a civilian working for
@@ -1023,98 +552,104 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2d2ba347-503c-4efb-9e8a-f6650931aa82
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2d2ba347-503c-4efb-9e8a-f6650931aa82
-- text: Former Louisville CO confirmed no anomalous undersea activity
+- text: The CSG-11 commander was Rear Admiral D.C. Curtis
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:28051-28191
-  quote: 'The former commander of the USS Louisville, CAPT {{redacted: ~2 words}}
-    confirmed that there was no anomalous undersea activity during this period.'
-  claim_id: e130ff06-49a6-4f54-a7a1-8ba300c66d44
+  location: char:32278-32482
+  quote: The commander of the Nimitz Carrier Strike Group during the intercept was
+    Rear Admiral D.C. Curtis now a Vice Admiral (VADM) and is commander of Naval Surface
+    Forces and the Pacific Fleet's Naval Surface Force.
+  claim_id: 1ff0970e-6fbc-44f6-b298-d76e217a9040
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e130ff06-49a6-4f54-a7a1-8ba300c66d44
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e130ff06-49a6-4f54-a7a1-8ba300c66d44
-- text: Louisville live-fire exercise weapon didn't match AAV profile
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1ff0970e-6fbc-44f6-b298-d76e217a9040
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1ff0970e-6fbc-44f6-b298-d76e217a9040
+- text: The Director of Operations (N3) said the CSG never considered the AAV a threat
+    to the battle group
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:28199-28419
-  quote: There was a live fire exercise conducted by the USS Louisville during the
-    period of and in the vicinity of the AAV sightings; however, the weapon in use
-    did not match the flight profile or visible characteristics of the AAV.
-  claim_id: 5a1f1c92-808a-41ec-a54a-1c9d1fd51f25
+  location: char:33139-33219
+  quote: He also stated that at no time did they consider the AAV a threat to the
+    battle group.
+  claim_id: a22b8246-060c-4d9a-a558-04ad6080af7f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5a1f1c92-808a-41ec-a54a-1c9d1fd51f25
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5a1f1c92-808a-41ec-a54a-1c9d1fd51f25
-- text: Report assessed underwater AAV operation highly unlikely
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a22b8246-060c-4d9a-a558-04ad6080af7f
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a22b8246-060c-4d9a-a558-04ad6080af7f
+- text: Peter Daly assumed command of CSG-11 in January 2005, after the intercept,
+    with no knowledge of the incident
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:28678-28982
-  quote: Based on the lack of detection of any unidentified sonar contacts it is highly
-    unlikely that an AAV operated below the surface of the ocean; it is possible that
-    the AAV demonstrated the ability to be cloaked or invisible to the human eye based
-    on pilot reporting of the water disturbance with no visible craft.
-  claim_id: 650c01ae-675e-4219-a58a-9d851bfca648
+  location: char:33441-33567
+  quote: Admiral Peter Daly assumed command of the CSG in January 2005 after the intercept
+    and had no knowledge or involvement in this incident.
+  claim_id: 093c3bda-eca6-4097-9599-dc68898699a9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-650c01ae-675e-4219-a58a-9d851bfca648
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-650c01ae-675e-4219-a58a-9d851bfca648
-- text: 'US Navy assessment: undetected underwater operation would be highly advanced'
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-093c3bda-eca6-4097-9599-dc68898699a9
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-093c3bda-eca6-4097-9599-dc68898699a9
+- text: The email-based mission report, including FLIR video, was sent to Third Fleet
+    Intelligence (N2)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:28989-29173
-  quote: 'Based on the assessment of Mr. {{redacted: ~2 words}} if the AAV did operate
-    underwater undetected it would represent a highly advanced capability given the
-    advanced capability of our sensors.'
-  claim_id: d3b50cec-f0e0-45a5-a0f2-6f0ef2343eda
+  location: char:30634-30790
+  quote: 'The email-based report including the FLIR video was sent via a secure system
+    to CAPT {{redacted: ~2 words}} at 3rd Fleet Intelligence, their higher echelon
+    command.'
+  claim_id: 0047d9a3-40ea-4abd-ac27-673461b7379d
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d3b50cec-f0e0-45a5-a0f2-6f0ef2343eda
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d3b50cec-f0e0-45a5-a0f2-6f0ef2343eda
-- text: Underwood not asked to sign a non-disclosure agreement
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:27060-27204
-  quote: LT Underwood was not asked to sign any non-disclosure agreement and he is
-    uncertain how far up the chain the reporting went past his commanding officer.
-  claim_id: 5308dc1a-d26f-4614-989a-145e641414ca
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5308dc1a-d26f-4614-989a-145e641414ca
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5308dc1a-d26f-4614-989a-145e641414ca
-- text: Fravor's wingman pilot not asked to sign a non-disclosure agreement
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:23045-23179
-  quote: He was not asked to sign any non-disclosure agreement and he is uncertain
-    how far up the chain the reporting went past his commanding officer.
-  claim_id: e0be69aa-08cb-4fe5-8009-0f4183fff964
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e0be69aa-08cb-4fe5-8009-0f4183fff964
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e0be69aa-08cb-4fe5-8009-0f4183fff964
-- text: Elizondo cited anomalous aerospace threat concerns in second resignation letter
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:5729-5811
-  quote: Mr. Elizondo cites concerns over anomalous aerospace threats as the basis
-    for his resignation.
-  claim_id: 073aa6b4-66ec-4cb4-a900-d50d71bd827c
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-073aa6b4-66ec-4cb4-a900-d50d71bd827c
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-073aa6b4-66ec-4cb4-a900-d50d71bd827c
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0047d9a3-40ea-4abd-ac27-673461b7379d
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0047d9a3-40ea-4abd-ac27-673461b7379d
+- text: 'Elizondo: AATIP''s mission was to collect and analyse information on anomalous
+    aerial vehicles'
+  source: Navy pilots describe encounters with UFOs
+  location: 00:01:24.1-00:01:33.3
+  quote: The mission of AATIP was quite simple. It was to collect and analyze information
+    involving anomalous aerial vehicles, what I guess in the vernacular you call them
+    UFOs.
+  claim_id: 4cf1592d-660d-4d34-9307-741a9e956727
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-4cf1592d-660d-4d34-9307-741a9e956727
+- text: 'Elizondo: AAVs studied by AATIP have been observed reaching 600 to 700 G-forces'
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:12.6-00:02:16.1
+  quote: Imagine a technology that can do 600 to 700 G-forces...
+  claim_id: 31c67cf0-04ad-48e5-9376-420e35efb44d
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-31c67cf0-04ad-48e5-9376-420e35efb44d
+- text: 'Elizondo: AAVs studied by AATIP have been observed flying at approximately
+    21,000 km/h'
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:17.0-00:02:18.8
+  quote: that can fly at 13,000 miles an hour
+  claim_id: 9c25327b-95ec-49a7-8388-36cbc2fff286
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-9c25327b-95ec-49a7-8388-36cbc2fff286
+- text: 'Elizondo: AAVs show no obvious signs of propulsion, wings, or control surfaces'
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:27.8-00:02:31.4
+  quote: has no obvious signs of propulsion, no wings, no control surfaces
+  claim_id: 4ce0f23d-12cc-4297-9ad0-95120c8150d8
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-4ce0f23d-12cc-4297-9ad0-95120c8150d8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 77338a658cb38c098993bfc68a94fa05f66a2ccba6b52175a9c0b27f4720cfc6
+  prompt_sha256: f67ff9a8ee1d05e473eaa2d54a5739f3a3488cc914224945df2df0e7f38f6a33
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 86683
-    output: 58660
-    real_input: 2
-    cache_read: 39398
-    cache_write: 47283
+    input: 176461
+    output: 69698
+    real_input: 4
+    cache_read: 78844
+    cache_write: 97613
     calls: 0
-  body_sha256: e35e037f435ab66245913905d3ebbadc453f5fbe58ad2c87234271ee934b415a
+  body_sha256: c05ee95b969a8d0d3ca07e57288429d221a08fbaf248e1ff00d3bb3d07d3bc57
 ---
 
-Anomalous Aerial Vehicle (AAV) is the term used in US Navy reporting for an unidentified object encountered by aircraft of Carrier Strike Group 11 (CSG-11) off the coast of California on 2004-11-14. It was reported to be an elongated egg or 'Tic Tac' shape with a discernible midline horizontal axis,<sup>1</sup> solid white, smooth, and without edges,<sup>2</sup> and approximately 14 metres in length.<sup>3</sup> According to the incident report, [USS Princeton (CG-59)](/objects/uss-princeton-cg-59) detected multiple AAVs operating in and around the vicinity of the strike group on several occasions.<sup>4</sup> The object took no offensive action against the strike group<sup>5</sup> and was assessed to be no known aircraft or air vehicle currently in the inventory of the United States or any foreign nation.<sup>6</sup> According to a Senior Chief aboard Princeton, the AAVs would descend from a very high altitude into the scan volume of the AN/SPY-1 radar at high velocity,<sup>7</sup> the top of that scan volume being higher than approximately 18,000 metres.<sup>8</sup> The incident report recorded that an AAV was observed to descend very rapidly from approximately 18,000 metres down to approximately 15 metres in a matter of seconds,<sup>9</sup> and that the AAVs would hover or remain stationary on radar for a short time before departing at high velocities and turn rates,<sup>10</sup> demonstrating an advanced acceleration capability.<sup>11</sup> The same Senior Chief, with 17 years of experience as a Fire Control operator on Aegis cruisers, assessed that the AAV exhibited ballistic missile characteristics in reference to its appearance, velocity, and radar indications.<sup>12</sup> Because the AN/SPY-1 radar was set to a mode for air intercept of conventional aircraft, it never obtained an accurate track of the AAVs and quickly dropped the contacts as clutter;<sup>13</sup> the report noted that, had it been set up for ballistic missile tracking, it likely would have had the capability to track the object.<sup>14</sup> Princeton detected an AAV three separate times during the week while operating off the western coast of the United States and Mexico.<sup>15</sup>
+Anomalous Aerial Vehicle (AAV) is a designation used in US Navy and Department of Defense reporting for unidentified objects encountered during fleet operations, most closely associated with a series of contacts involving the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) carrier strike group off the coast of California in November 2004. The term is not a claim about origin; it functions administratively, describing an aerial contact that could not be identified using available sensors and procedures.
 
-On 2004-11-14, according to the incident report, an E-2C Hawkeye Naval Flight Officer of Carrier Airborne Early Warning Squadron 117 (VAW-117) was airborne during the contact and was also the squadron's avionics division officer responsible for radar recordings,<sup>16</sup> while a lieutenant of the same squadron flew as the Air Control Officer (ACO).<sup>17</sup> According to the incident report, the ACO did not see the AAV on his radar until Princeton directed the contact and gave the general direction to steer the E-2C's radar,<sup>18</sup> having initially thought the return was a wave, since in a high sea state the E-2C Hawkeye's radar can detect waves.<sup>19</sup> The radar target was so low and the return so faint that, without Princeton's inputs, it would have been missed or ignored.<sup>20</sup> Princeton tasked two F/A-18s already airborne in the vicinity to further investigate,<sup>21</sup> taking over control of the aircraft from the E-2C Hawkeye and vectoring them for an intercept that produced visual contact approximately 1.6 kilometres from the AAV.<sup>22</sup> A second flight was diverted separately: the commanding officer of [Marine Fighter Attack Squadron 232 (VMFA-232)](/organisations/marine-fighter-attack-squadron-232-vmfa-232), en route at approximately 460 kilometres per hour indicated (approximately 740 kilometres per hour ground speed) at medium altitude between approximately 4,600 and 7,600 metres, gained radar contact of what he believed to be two F/A-18Fs approaching the AAV from the west at low altitude, between approximately 150 and 1,500 metres,<sup>23</sup> observing no other traffic on his radar besides them.<sup>24</sup> A controller instructed him to remain above approximately 3,000 metres, as other fighter traffic at low altitude was investigating the object.<sup>25</sup> Descending through approximately 4,600 metres at around 28 kilometres from the contact, he saw a water disturbance on the ocean surface<sup>26</sup> and considered it possible that this had been caused by an AAV that was 'cloaked' or invisible to the human eye.<sup>27</sup> At approximately 9 to 19 kilometres away he was told to 'skip it' and return to his operating area,<sup>28</sup> and he never made visual contact with the other fighter aircraft vectored to the location, nor with the AAV itself.<sup>29</sup> He reported to the Carrier Intelligence Center (CVIC) afterwards and was asked by his Intelligence Officer whether he had seen the 'supersonic Tic Tac'.<sup>30</sup>
+The best-documented AAV encounter occurred on 2004-11-14, during a period in which [USS Princeton (CG-59)](/objects/uss-princeton-cg-59) had detected multiple AAVs operating around Carrier Strike Group 11 (CSG-11) on several occasions.<sup>1</sup> Princeton reported observing an AAV descend from an altitude of roughly 18,000 metres to around 15 metres within seconds.<sup>2</sup> Princeton vectored a flight of two F/A-18F aircraft from [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), transferring control from the E-2C Hawkeye, which brought the jets to a visual range of approximately 1.6 kilometres from the object.<sup>3</sup> The pilots, [David Fravor](/people/david-fravor) flying FastEagle 01 and [Alex Dietrich](/people/alex-dietrich) flying FastEagle 02, obtained visual and sensor contact at a position roughly 130 kilometres south of the U.S./Mexico border, off the Baja Mexico coast.<sup>4</sup> Fravor's crew had received intermittent situational awareness of the contact via Link-16 data, which his weapon system operator assumed originated from Princeton's AN/SPY-1 radar.<sup>5</sup>
 
-The two F/A-18Fs vectored by Princeton were flown by [David Fravor](/people/david-fravor), piloting FastEagle 01, and [Alex Dietrich](/people/alex-dietrich), piloting FastEagle 02, both of [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), according to the incident report.<sup>31</sup><sup>32</sup> According to the incident report, the visual and sensor contact took place at approximately N31 20' W117 10', about 130 kilometres south of the US/Mexico border and 56 kilometres off the coast of Baja California Mexico.<sup>33</sup> Fravor's flight descended to between approximately 6,100 and 7,300 metres and proceeded toward the contact.<sup>34</sup> He did not recall any indication of the AAV via his aircraft's onboard sensors,<sup>35</sup> and his F/A-18F was not carrying a forward-looking infrared (FLIR) pod during the intercept.<sup>36</sup> He recalled that his Radar Attack Display was clean, with no targets, during the approach.<sup>37</sup> His crew received situational awareness of the AAV initially via sporadic Link-16 tracks from an off-board sensor,<sup>38</sup> which his weapon system operator assumed to be Princeton's AN/SPY-1 radar.<sup>39</sup> Fravor's first indication of the unknown contact was a visual of a disturbance on the water below it, after which he gained visual on the object itself.<sup>40</sup> He described the disturbance as localised beneath the object, not appearing as a trail or wake, and looking like frothy waves and foam almost as if the water was boiling.<sup>41</sup> He attempted an unsuccessful 'helmet lock' on the object<sup>42</sup> and said it was 'holding like a Harrier', a reference to the AV-8B Harrier's ability to hover via thrust vectoring.<sup>43</sup> He described its shape as an elongated egg or 'Tic Tac' with a discernible midline horizontal axis,<sup>44</sup> uniformly white across its entire body,<sup>45</sup> pointed in a north/south orientation and moving both north/south and east/west while maintaining a consistent altitude,<sup>46</sup> with displacements he described as minor.<sup>47</sup> Fravor then began a descent intending to take a close-aboard pass with the object to visually identify it,<sup>48</sup> starting from about 3,000 metres and approximately 650 kilometres per hour.<sup>49</sup> He pulled nose-on and then aft of it as he manoeuvred nearby.<sup>50</sup> He assessed that the object appeared to recognise his aircraft, judging from it realigning its axis to point toward him,<sup>51</sup> and observed that the water disturbance ceased at the moment it did so.<sup>52</sup> As his flight completed the manoeuvre, the object ascended quickly and pulled a lift vector on and aft of them at a supersonic speed.<sup>53</sup> Fravor said that Princeton then reported its radar picture as clean, with no contact, before reporting that the AAV had flown to his flight's combat air patrol station, in the southern end of the training area, having climbed to approximately 7,300 metres.<sup>54</sup> His flight attempted to locate both the object and the water disturbance with no success<sup>55</sup> and, after the engagement, rejoined and returned to [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68).<sup>56</sup>
+Fravor's first indication of the object was a disturbance on the ocean surface, which he described as localised beneath the object rather than a trail or wake, resembling frothy waves and foam as though the water were boiling.<sup>6</sup> Visual contact followed, with the object appearing as an elongated egg or "Tic Tac" shape with a discernible midline horizontal axis,<sup>7</sup> solid white, smooth, and without visible edges,<sup>8</sup> and approximately 14 metres in length.<sup>9</sup> Fravor said the object was "holding like a Harrier", referencing the AV-8B Harrier's vertical/short takeoff and landing capability via thrust vectoring.<sup>10</sup> As his flight began a descent from about 3,000 metres at roughly 650 kilometres per hour to attempt a closer visual identification,<sup>11</sup><sup>12</sup> Fravor assessed that the object appeared to recognise his aircraft, realigning its axis to point toward him.<sup>13</sup> As his flight completed its manoeuvre, the object ascended and pulled a lift vector on and aft of them at a speed Fravor described as supersonic.<sup>14</sup> The flight's onboard radar could not obtain a lock on the object,<sup>15</sup> though the type's forward-looking infrared (FLIR) sensor could track it while it was stationary or moving slowly.<sup>16</sup> Following the encounter, Fravor's flight returned to Nimitz.<sup>17</sup>
 
-Fravor's flight crew told the crew of a subsequent flight what they had seen and asked them to try to see and record what they could.<sup>57</sup> That flight, which included [Chad Underwood](/people/chad-underwood), gained initial awareness of the object via radar, with initial tracks at approximately 55-74 kilometres to the south of the aircraft.<sup>58</sup> Underwood attempted multiple times to transition his radar to Single Target Track (STT) mode on the AAV, but the radar could not take a lock,<sup>59</sup> and he reported no jamming cues, such as strobe or champagne bubbles, or any normal electronic-attack indications, while attempting to track it.<sup>60</sup> His radar could not receive enough information to create a single target track file on the object.<sup>61</sup> His FLIR showed the object at 0 degrees angle track antenna and approximately -5 degrees elevation,<sup>62</sup> and he estimated it to be co-altitude with his aircraft or a few thousand feet below, between approximately 4,600 and 6,100 metres.<sup>63</sup> The object appeared stationary on the FLIR display, with no discernible movement other than closure resulting from his aircraft's own movement.<sup>64</sup> As Underwood watched, it began to move out of the FLIR field of view to the left; he made no attempt to slew the FLIR, and lost track of the object.<sup>65</sup> His flight then continued its training mission with no further contact.<sup>66</sup> According to the incident report, a FLIR image captured by his aircraft in White Hot Mode showed a faint bright object against a dark background,<sup>67</sup> while an image in Black Hot mode showed a faint dark object against a lighter background.<sup>68</sup> Copies were made of the FLIR tapes, with a set turned into the intelligence section.<sup>69</sup>
+Fravor's crew relayed what they had seen to a second flight crewed by [Chad Underwood](/people/chad-underwood) and asked them to attempt to observe and record the object.<sup>18</sup> Underwood attempted multiple times to transition his radar to Single Target Track mode but could not achieve a lock,<sup>19</sup> and reported no jamming cues, such as strobe or "champagne bubbles", or other normal electronic-attack indications while attempting to track it.<sup>20</sup> The object he observed matched Fravor's description: solid white, smooth, with no edges and no nacelles, pylons, or wings.<sup>21</sup> Underwood tracked it briefly on FLIR before it moved out of the sensor's field of view; he made no attempt to slew the camera and lost situational awareness of the object.<sup>22</sup>
 
-Following the intercept, Fravor reported to the Carrier Intelligence Center (CVIC) to debrief with intelligence and discussed the mission and the AAV contact with the Carrier Air Wing Intelligence Officer.<sup>70</sup> That officer later said he was not sure what to do when the report came in,<sup>71</sup> and that he and his colleagues initially did not take it seriously, though they had no reason to question a report from an experienced and well-respected squadron commanding officer.<sup>72</sup> He added that the report likely would have received less attention had it come from a less experienced aviator than Fravor.<sup>73</sup> He reported the account to the commander of Carrier Air Wing 11 (CVW-11), a highly experienced aviator who did not take it very seriously,<sup>74</sup> and completed an email-based mission report (MISREP), submitted via email because the F/A-18s were on a training mission.<sup>75</sup> The MISREP, including the FLIR video, was sent via a secure system to Third Fleet Intelligence (Senior Intelligence Officer (N2)), the higher echelon command.<sup>76</sup> The deputy N2 of Third Fleet Intelligence confirmed it was received via email on or about 2004-11-14,<sup>77</sup> that it was read and acknowledged but not forwarded up the chain of command,<sup>78</sup> and that it was likely not archived but deleted, as there was no requirement to retain such reports.<sup>79</sup> Command of CSG-11 during the intercept was held by Rear Admiral D. C. Curtis, later a Vice Admiral and commander of Naval Surface Forces and the Pacific Fleet's Naval Surface Force;<sup>80</sup> all of the AAV activity was reported to him by the commanding officers of Princeton and VFA-41.<sup>81</sup> Curtis was succeeded in command of CSG-11 in January 2005 by Peter Daly, who had no knowledge of or involvement in the incident.<sup>82</sup>
+USS Louisville (SSN-724) was operating in the vicinity as part of CSG-11 during the detection and intercept.<sup>23</sup> A former submarine officer who served aboard Louisville during the period said there were no unidentified sonar contacts in the vicinity of the aerial sightings.<sup>24</sup> The strike group's commander at the time was Rear Admiral D.C. Curtis;<sup>25</sup> Peter Daly assumed command of CSG-11 in January 2005, after the intercept, and had no knowledge of or involvement in the incident.<sup>26</sup> The Third Fleet Intelligence (Senior Intelligence Officer (N2)) received an email-based mission report on the encounter, including the FLIR footage.<sup>27</sup> The strike group's Director of Operations (N3) said that at no time did the CSG consider the object a threat to the battle group.<sup>28</sup>
 
-USS Louisville (SSN-724) was operating in the vicinity of USS Nimitz (CVN-68) as part of CSG-11 during the detection and intercept.<sup>83</sup> A former submarine officer who served aboard Louisville in November 2004 said there were no unidentified sonar contacts in the vicinity of the aerial sightings, nor at any time during operations in the USA, California, SOCAL Operating Area off the coast of California.<sup>84</sup> The former commanding officer of Louisville confirmed there was no anomalous undersea activity during the period of the sightings.<sup>85</sup> Louisville conducted a live fire exercise during the same period and in the vicinity of the sightings, but the weapon used did not match the flight profile or visible characteristics of the AAV.<sup>86</sup> Based on the lack of detected unidentified sonar contacts, the incident report assessed it highly unlikely that the AAV operated below the ocean surface, though it noted the possibility remained given pilot reports of a water disturbance with no visible craft;<sup>87</sup> according to the report, a US Navy assessment held that, if the AAV did operate underwater undetected, it would represent a highly advanced capability given the sensors available to the [United States Navy (USN)](/organisations/united-states-navy-usn).<sup>88</sup> Underwood was not asked to sign a non-disclosure agreement regarding the encounter,<sup>89</sup> nor was the F/A-18F pilot who flew alongside Fravor.<sup>90</sup> The encounter later surfaced in wider discussion of official handling of anomalous aerospace threats: in his second resignation letter, [Luis Elizondo](/people/luis-elizondo) cited concerns over anomalous aerospace threats as part of the basis for his resignation.<sup>91</sup>
+The term AAV was later used publicly by [Luis Elizondo](/people/luis-elizondo), who described the mission of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) as collecting and analysing information involving anomalous aerial vehicles.<sup>29</sup> Elizondo said AAVs studied under the programme had been observed reaching 600 to 700 G-forces<sup>30</sup> and flying at approximately 21,000 kilometres per hour,<sup>31</sup> and that they showed no obvious signs of propulsion, wings, or control surfaces.<sup>32</sup>
