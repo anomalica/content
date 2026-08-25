@@ -1,12 +1,16 @@
 ---
 title: USS Princeton (CG-59)
-description: A Ticonderoga-class guided-missile cruiser of the United States Navy
-  whose AN/SPY-1 radar tracked the unidentified objects at the centre of the 2004
-  USS Nimitz UAP encounter.
+aliases:
+- /objects/uss-princeton/
+- /en/objects/uss-princeton/
+description: USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser of
+  the United States Navy that provided radar tracking and control during the 2004
+  encounter between Nimitz Carrier Strike Group aircraft and an unidentified object
+  off the coast of California.
 metadata:
-  status: In service (as of the 2004 incident)
   type: Ticonderoga-class guided-missile cruiser
-  affiliation: United States Navy (USN)
+  operator: United States Navy (USN)
+  status: In service (as of events described)
 built_from:
   brief_hash: defa30a5580368b5a975a4809471eea50da4b6458a914d5e59148c3c12c7ee62
   claims:
@@ -203,7 +207,8 @@ built_from:
   - id: f190b1ec-1ef2-4f10-aea9-d8d8618a5904
     hash: 61716efd2e4102028575fd75ac55e5d811a1e6cf142854d92f624de286356480
 references:
-- text: Ticonderoga-class guided-missile cruiser serving in the United States Navy
+- text: USS Princeton is a Ticonderoga-class guided-missile cruiser serving in the
+    United States Navy
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3622-3727
   quote: USS Princeton (CG-59) is a Ticonderoga-class cruiser guided-missile cruiser
@@ -212,16 +217,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d4f61ca0-db3d-414e-bfaa-d70804de84bb
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d4f61ca0-db3d-414e-bfaa-d70804de84bb
-- text: Aegis-class guided-missile cruiser, with a helicopter landing pad rather than
-    a fixed-wing flight deck
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:11:52.8-01:11:54.5
-  quote: That's a cruiser. It's a cruiser... It has a helicopter pad on the back.
-  claim_id: a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
-- text: armed with naval guns and anti-air, anti-surface, and anti-submarine missiles
+- text: Princeton was armed with naval guns and anti-air, anti-surface, and anti-submarine
+    missiles, and carried two Seahawk LAMPS III helicopters
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3733-3907
   quote: Armed with naval guns and anti-air, anti-surface, and anti-submarine missiles,
@@ -231,15 +228,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-21b15e2d-95a7-4812-b8f5-25a6e73491aa
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-21b15e2d-95a7-4812-b8f5-25a6e73491aa
-- text: home to two Seahawk LAMPS III helicopters
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:3916-3962
-  quote: She also is the home of two Seahawk LAMPS III helicopters.
-  claim_id: 4375b9ef-e67e-4be9-98c5-9ee96cbaff62
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4375b9ef-e67e-4be9-98c5-9ee96cbaff62
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4375b9ef-e67e-4be9-98c5-9ee96cbaff62
-- text: first Ticonderoga-class cruiser to carry the upgraded AN/SPY-1B radar system
+- text: Princeton was the first Ticonderoga-class cruiser to carry the upgraded AN/SPY-1B
+    radar system
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3975-4067
   quote: The Princeton was the first Ticonderoga-class cruiser to carry the upgraded
@@ -248,28 +238,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9c32d1d9-f890-4abe-8ee4-d67337b0fdcd
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9c32d1d9-f890-4abe-8ee4-d67337b0fdcd
-- text: equipped with an AN/SPY-1 phased array radar with four panels looking in quadrants
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:12:04.2-01:12:08.9
-  quote: It's got an incredible SPY-1 system, phased array, four panels. So it looks
-    in quadrants.
-  claim_id: 1794c363-ed31-415a-8907-289592ad83a4
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1794c363-ed31-415a-8907-289592ad83a4
-- text: passive electronically scanning radar providing 360-degree coverage for the
-    carrier group
-  source: In Plain Sight
-  location: ch16:922-1048
-  quote: The Princeton has a passive electronically scanning radar system, which provided
-    360-degree coverage for the entire carrier group
-  claim_id: 5828bf96-0f1d-43bb-a0e4-272221ae80ef
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
-- text: completing Tailored Ships Training Availability in preparation for deployment
-    to the Arabian Sea, c. 2004-11-10 to 2004-11-16, as part of Carrier Strike Group
-    11
+- text: Princeton was completing Tailored Ships Training Availability in preparation
+    for deployment to the Arabian Sea, 2004-11-10 to 2004-11-16, as part of CSG-11
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:5676-5906
   quote: The USS Princeton was part of the Nimitz Carrier Battle Group, during the
@@ -279,8 +249,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-50e0afab-bef7-4be0-ac66-74accc12efdb
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-50e0afab-bef7-4be0-ac66-74accc12efdb
-- text: part of the Nimitz Carrier Strike Group alongside USS Nimitz, USS Chafee,
-    USS Higgins, and USS Louisville
+- text: CSG-11 comprised USS Nimitz, USS Princeton, USS Chafee, USS Higgins and USS
+    Louisville
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3058-3233
   quote: 'The CSG was comprised of the following ships and submarine: USS Nimitz (CVN-68),
@@ -290,8 +260,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-96b877c1-f249-48a2-9115-e8c413189dc9
-- text: detected multiple Anomalous Aerial Vehicles operating around Carrier Strike
-    Group 11 on several occasions
+- text: Princeton detected multiple AAVs operating in and around the vicinity of CSG-11
+    on several occasions
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:252-386
   quote: The USS Princeton on several occasions detected multiple Anomalous Aerial
@@ -300,71 +270,65 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
-- text: began detecting objects at approximately 8,500 metres altitude at approximately
-    190 km/h off the coast of California on 2004-11-10
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:12:10.8-01:12:26.3
-  quote: they started noticing on November 10th that there is a few objects flying
-    around at 28,000 feet with speed of what I guess is considered a low speed of
-    120 miles an hour... on the coast of California.
-  claim_id: ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
-- text: detected the AAV three separate times during the week operating off the western
-    coast of the United States and Mexico
+- text: the AAV was observed to descend very rapidly from approximately 18,000 metres
+    to approximately 15 metres in a matter of seconds
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7499-7612
-  quote: They were detected three separate times during the week operating off the
-    western coast of the United States and Mexico.
-  claim_id: b51a6d33-8fd4-4641-89be-99fb236ae3a8
+  location: char:391-505
+  quote: The AAVs would descend "very rapidly" from approximately 60,000 feet down
+    to approximately 50 feet in a matter of seconds.
+  claim_id: c47cba15-7732-4aa0-b684-1819a98031c1
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
-- text: for nearly two weeks before the encounter, operators regularly logged over
-    one hundred UAP in the air around the vessels
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:1905-2084
-  quote: For nearly two weeks leading up to the incident, the radar operators aboard
-    the *Princeton* had regularly logged UAP activity in the air surrounding the vessels.
-    Over one hundred UAP.
-  claim_id: 2acb9ced-9e9d-428d-ad80-05f6584e96a4
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
-- text: the objects performed acrobatics that would challenge any aircraft the operators
-    had ever seen
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:2090-2179
-  quote: They performed acrobatics that would challenge any aircraft the radar operators
-    had ever seen.
-  claim_id: ec56f388-545d-4513-901e-944c8b52b9cf
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec56f388-545d-4513-901e-944c8b52b9cf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ec56f388-545d-4513-901e-944c8b52b9cf
-- text: Fire Control Officer and technician initially thought the contacts were part
-    of the Composite Training Unit Exercise
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c47cba15-7732-4aa0-b684-1819a98031c1
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c47cba15-7732-4aa0-b684-1819a98031c1
+- text: on 2004-11-14, after again detecting the AAV, Princeton took the opportunity
+    of a returning F/A-18F flight to further investigate it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6173-6326
-  quote: 'The Fire Control Officer, {{redacted: ~2 words}} and his technician, FCSS
-    {{redacted: ~2 words}} initially thought the contacts were part of the COMPTUX
-    exercise.'
-  claim_id: 59d43daa-f293-45ee-a4e2-029a392826c3
+  location: char:631-812
+  quote: On 14 November after again detecting the AAV, the USS Princeton took the
+    opportunity of having a flight of two F/A-18Fs returning from a training mission
+    to further investigate the AAV.
+  claim_id: 91f62f5a-de04-4230-b994-761eda161784
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-59d43daa-f293-45ee-a4e2-029a392826c3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-59d43daa-f293-45ee-a4e2-029a392826c3
-- text: a Senior Chief said the AAVs would descend from very high altitude into the
-    AN/SPY-1's scan volume at high velocity
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-91f62f5a-de04-4230-b994-761eda161784
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-91f62f5a-de04-4230-b994-761eda161784
+- text: Princeton took over control of the F/A-18Fs from the E-2C Hawkeye and vectored
+    them for an intercept, leading to visual contact approximately 1.6 kilometres
+    from the AAV
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:6336-6480
-  quote: 'According to Senior Chief {{redacted: ~1 word}} the AAVs would descend from
-    a very high altitude into the scan volume of the AN/SPY-1 at a high velocity.'
-  claim_id: 00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
+  location: char:817-1019
+  quote: The USS Princeton took over control of the F/A-18s from the E-2C Airborne
+    Early Warning aircraft and vectored in the F/A-18s for intercept leading to visual
+    contact approximately one mile away from the AAV
+  claim_id: ae4d9421-bb8e-4965-82f4-56b07081cba2
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-00cf78cd-845c-42b1-8e90-d5e4ef3d1afe
-- text: the radar, set to Air Intercept mode, never obtained an accurate track and
-    dropped the contacts as clutter
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
+- text: the only participants in the events surrounding the detection and intercept
+    were Princeton, VAW-117, VMFA-232 and VFA-41
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:3454-3591
+  quote: The only participants in the events surrounding the detection and intercept
+    of the AAV are the USS Princeton, VAW-117, VMFA-232, and VFA-41.
+  claim_id: 62c54f11-a6af-4fff-a758-dd84cf34bb3e
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
+- text: a Senior Chief aboard Princeton with 17 years' experience as a Fire Control
+    operator assessed the AAV exhibited Ballistic Missile Characteristics in appearance,
+    velocity and radar indications
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:6829-7072
+  quote: 'Senior Chief {{redacted: ~1 word}} added that based on his experience, which
+    is 17 years as a Fire Control on Aegis cruisers, the AAV exhibited Ballistic Missile
+    Characteristics in reference to its appearance, velocity, and indications on the
+    radar.'
+  claim_id: 05c78448-c427-4b8f-b52a-d6f62dcd0670
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-05c78448-c427-4b8f-b52a-d6f62dcd0670
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-05c78448-c427-4b8f-b52a-d6f62dcd0670
+- text: the AN/SPY-1 radar was set to Air Intercept mode for conventional aircraft,
+    never obtained an accurate track of the AAVs and quickly dropped the contacts
+    as clutter
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:7079-7364
   quote: Since the radar was in the mode to handle Air Intercept of conventional aircraft
@@ -375,19 +339,18 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4679a657-5835-4338-8332-c86cac8db223
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4679a657-5835-4338-8332-c86cac8db223
-- text: Kevin Day and his team grew increasingly concerned by anomalous radar tracks
-    in the four days before 2004-11-14
-  source: In Plain Sight
-  location: ch16:1322-1553
-  quote: Over the previous four days, the Princeton's Operations Specialist Senior
-    Chief Kevin Day...was increasingly concerned by anomalous radar tracks he and
-    his team detected on their screens.
-  claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
-- text: the Tactical Air Officer could not identify the contact and was perplexed
-    by its high speed and altitude
+- text: the AAV was detected by Princeton three separate times during the week, operating
+    off the western coast of the United States and Mexico
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:7499-7612
+  quote: They were detected three separate times during the week operating off the
+    western coast of the United States and Mexico.
+  claim_id: b51a6d33-8fd4-4641-89be-99fb236ae3a8
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
+- text: the Tactical Air Officer aboard Princeton could not identify the radar contact
+    and was perplexed given its high speed and altitude
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:7620-7746
   quote: The Tactical Air Officer onboard the Princeton could not identify the radar
@@ -396,50 +359,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2b312be3-0dda-494a-92ce-1c7a468f48b5
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2b312be3-0dda-494a-92ce-1c7a468f48b5
-- text: Kevin Day was the ship's Operations Specialist Senior Chief, coordinating
-    systems that protect the carrier group
-  source: In Plain Sight
-  location: ch16:1351-1493
-  quote: the Princeton's Operations Specialist Senior Chief Kevin Day, who was in
-    charge of coordinating the systems that protect the entire carrier group
-  claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
-- text: Kevin Day verified the tracks using the ship's Cooperative Engagement Capability
-    system merging radar data into one picture
-  source: In Plain Sight
-  location: ch16:1821-1975
-  quote: He verified what he saw on the Princeton's CEC, the Cooperative Engagement
-    System, which took all the radars from every source and merged them into one picture.
-  claim_id: d6e8aa35-cf54-4741-826b-146330acc778
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6e8aa35-cf54-4741-826b-146330acc778
-- text: on 2004-11-14 the ship again detected the AAV and tasked two returning F/A-18Fs
-    to investigate
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:631-812
-  quote: On 14 November after again detecting the AAV, the USS Princeton took the
-    opportunity of having a flight of two F/A-18Fs returning from a training mission
-    to further investigate the AAV.
-  claim_id: 91f62f5a-de04-4230-b994-761eda161784
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-91f62f5a-de04-4230-b994-761eda161784
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-91f62f5a-de04-4230-b994-761eda161784
-- text: took over control of the F/A-18Fs from the E-2C Hawkeye and vectored them
-    to visual contact approximately 1.6 kilometres from the AAV
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:817-1019
-  quote: The USS Princeton took over control of the F/A-18s from the E-2C Airborne
-    Early Warning aircraft and vectored in the F/A-18s for intercept leading to visual
-    contact approximately one mile away from the AAV
-  claim_id: ae4d9421-bb8e-4965-82f4-56b07081cba2
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
-- text: the Air Control Officer of the E-2C did not see the AAV until the ship directed
-    the contact and gave a general steer
+- text: the Air Control Officer of the E-2C Hawkeye did not see the AAV on his radar
+    until Princeton directed the contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:11068-11216
   quote: He did not see the object on his radar (raw video) until the USS Princeton
@@ -448,8 +369,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
-- text: the target's return was so low and faint it would have been missed without
-    the ship's inputs
+- text: the radar target was so low and faint that without Princeton's inputs the
+    E-2C's return would have been missed or ignored
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:11377-11522
   quote: Additionally, the target was so low and the return was so faint that without
@@ -458,18 +379,19 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-be1c8e47-bfe0-410d-b324-a47b2bf071f0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-be1c8e47-bfe0-410d-b324-a47b2bf071f0
-- text: initially reported the target at approximately 4,600 to 6,100 metres mean
-    sea level, according to the record
+- text: Princeton took control of the F/A-18s from the E-2C Hawkeye, which remained
+    airborne but was no longer involved in the contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:11531-11648
-  quote: This was even more interesting because the USS Princeton initially reported
-    the target to be at 15,000 - 20,000 feet MSL.
-  claim_id: fb479275-d9f7-4dc9-886b-72353a231b5a
+  location: char:11734-11940
+  quote: Although initially requested by the USS Princeton to attempt a track of the
+    object, the USS Princeton took control of the F/A-18s and the E-2C remained Airborne
+    but was no longer involved in the contact or control.
+  claim_id: b94764d2-6de7-49be-8c28-d45dfed90f35
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fb479275-d9f7-4dc9-886b-72353a231b5a
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fb479275-d9f7-4dc9-886b-72353a231b5a
-- text: vectored Fravor's flight via Bearing Range Altitude Aspect to an unknown contact
-    flying in from the south
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b94764d2-6de7-49be-8c28-d45dfed90f35
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b94764d2-6de7-49be-8c28-d45dfed90f35
+- text: the E-2C controller handed Fravor's flight off to Princeton, callsign 'Poison',
+    which vectored them via BRAA to an unknown contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:16964-17204
   quote: After they completed their training the E-2C controller handed them off to
@@ -480,8 +402,8 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1bda5f78-13d5-4e00-a9b0-04dce2de2802
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1bda5f78-13d5-4e00-a9b0-04dce2de2802
-- text: asked Fravor's flight what ordnance they carried, and they reported two captive
-    training AIM-9M missiles and nothing else
+- text: Princeton asked Fravor's flight what ordnance they had onboard, and they reported
+    two captive training AIM-9M missiles and nothing else
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:17211-17367
   quote: 'Poison asked what ordnance they had on board. LT {{redacted: ~1 word}} told
@@ -491,8 +413,59 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e3c4cd6b-f961-400e-a588-b7621402edbd
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e3c4cd6b-f961-400e-a588-b7621402edbd
-- text: gave bearing, range, and altitude calls indicating a contact at approximately
-    80, 64, and 48 kilometres
+- text: all of the AAV activity was reported to D. C. Curtis by the commanding officers
+    of Princeton and VFA-41
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:32489-32610
+  quote: All of the AAV activity was reported to VADM Curtis by the Commanding Officer,
+    USS Princeton and Commanding Officer, VFA-41.
+  claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+- text: USS Princeton is a guided-missile cruiser, not an aircraft carrier, and has
+    a helicopter landing pad rather than a fixed-wing flight deck
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:11:52.8-01:11:54.5
+  quote: That's a cruiser. It's a cruiser... It has a helicopter pad on the back.
+  claim_id: a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
+- text: USS Princeton is equipped with an AN/SPY-1 phased array radar system with
+    four panels that look in quadrants
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:12:04.2-01:12:08.9
+  quote: It's got an incredible SPY-1 system, phased array, four panels. So it looks
+    in quadrants.
+  claim_id: 1794c363-ed31-415a-8907-289592ad83a4
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1794c363-ed31-415a-8907-289592ad83a4
+- text: on 2004-11-10, Princeton began detecting a few objects flying at approximately
+    8,500 metres altitude at approximately 190 kilometres per hour off the coast of
+    California
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:12:10.8-01:12:26.3
+  quote: they started noticing on November 10th that there is a few objects flying
+    around at 28,000 feet with speed of what I guess is considered a low speed of
+    120 miles an hour... on the coast of California.
+  claim_id: ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
+- text: Princeton detected the unidentified objects intermittently for about a week
+    before Fravor's encounter on 2004-11-14
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:12:28.2-01:12:38.1
+  quote: they kept detecting these objects for just about a week. Then comes in like
+    your part of the story, which is on November 14th
+  claim_id: cf93d6d5-831a-49b0-aac6-0fb5f51919a7
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cf93d6d5-831a-49b0-aac6-0fb5f51919a7
+- text: Fravor said Princeton gave his flight bearing, range and altitude calls indicating
+    an unidentified radar contact at ranges of approximately 80, 64 and 48 kilometres
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:16:37.3-01:16:44.7
@@ -502,38 +475,28 @@ references:
   claim_id: 3d7ff4db-d587-4206-87b4-6d83acb61712
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d7ff4db-d587-4206-87b4-6d83acb61712
-- text: informed Fravor's flight they had real-world tasking instead of continuing
-    the training mission
+- text: Fravor said the object had been too far, approximately 97 kilometres, for
+    Princeton's radar to detect something near the ocean surface
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
-  location: 01:16:21.2-01:16:23.3
-  quote: So they said, hey, well, we have real-world tasking.
-  claim_id: e1c6f5c5-e1be-4172-a22e-60e38764eb81
+  location: 01:18:22.5-01:18:25.8
+  quote: the ship is like probably 60 miles away, so it can't see the surface.
+  claim_id: d76536ea-1df8-4a58-8b4c-1e8078fcf549
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e1c6f5c5-e1be-4172-a22e-60e38764eb81
-- text: the object was observed to descend rapidly from approximately 18,000 metres
-    to approximately 15 metres in a matter of seconds, according to the record
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:391-505
-  quote: The AAVs would descend "very rapidly" from approximately 60,000 feet down
-    to approximately 50 feet in a matter of seconds.
-  claim_id: c47cba15-7732-4aa0-b684-1819a98031c1
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c47cba15-7732-4aa0-b684-1819a98031c1
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c47cba15-7732-4aa0-b684-1819a98031c1
-- text: at about 2pm on 2004-11-14, Lieutenant Colonel Douglas Kurth, piloting an
-    FA-18 Super Hornet, was directed to the closest unidentified object
-  source: In Plain Sight
-  location: ch16:7049-7205
-  quote: About 2 pm that afternoon the pilot of an FA-18 Hornet, Lieutenant Colonel
-    Douglas Kurth, was directed by the Princeton to the closest UAP on their radar
-    screen.
-  claim_id: f046ffab-6fd1-4255-bd32-e9a889f665d8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
-- text: everyone in the Combat Information Centre was tense listening to the pilots'
-    communications, while five radar operators tracked the event in real time
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d76536ea-1df8-4a58-8b4c-1e8078fcf549
+- text: Fravor denied a rumour that unidentified personnel arrived by helicopter aboard
+    Nimitz and Princeton after the encounter to confiscate recorded data
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:39:50.2-01:40:00.6
+  quote: there's a story that both on the Nimitz and the Princeton, folks in a helicopter
+    landed, they showed up, they took the data... No, no one came out on a helicopter.
+  claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+- text: everyone in Princeton's Combat Information Centre was tense, listening to
+    Fravor's and his wingman's increasingly stressed radio communications, while five
+    radar operators tracked the event using Princeton's multiple sensor systems
   source: In Plain Sight
   location: ch16:10599-10952
   quote: Back on board the USS Princeton in the Combat Information Centre everyone
@@ -545,8 +508,9 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e1475b4-7346-48f1-8eaf-83108da510cf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5e1475b4-7346-48f1-8eaf-83108da510cf
-- text: as Fravor yelled that he was engaged, 14 other unidentified targets were tracked
-    plummeting from above approximately 24,000 metres
+- text: at the same moment Fravor yelled he was engaged, 14 other unidentified targets
+    on Princeton's radar screen were also tracked plummeting from above approximately
+    24,000 metres towards the ocean
   source: In Plain Sight
   location: ch16:11101-11259
   quote: Right at that very moment the 14 other unidentified targets on the Princeton's
@@ -555,8 +519,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fbee440-3a2d-41d5-8987-03b8de85101e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0fbee440-3a2d-41d5-8987-03b8de85101e
-- text: directed the pilots to a prearranged rendezvous point, the 'cap point', approximately
-    100 kilometres distant
+- text: Fravor and his wingman were told by Princeton to fly to a prearranged rendezvous
+    point approximately 100 kilometres distant, known as the 'cap point'
   source: In Plain Sight
   location: ch16:13143-13288
   quote: Fravor and his wingman were told by the Princeton to fly to a prearranged
@@ -565,35 +529,29 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3a8906e-b056-4037-9bdb-482233867c1e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f3a8906e-b056-4037-9bdb-482233867c1e
-- text: radioed that the Tic Tac craft was at the pilots' cap point as they were en
-    route
+- text: in the four days before 2004-11-14, Kevin Day and his team became increasingly
+    concerned by anomalous radar tracks detected on their screens aboard Princeton
   source: In Plain Sight
-  location: ch16:13603-13739
-  quote: It would have been unsettling when, as they were en route, the USS Princeton
-    radioed, 'You're not going to believe this. It's at your cap.'
-  claim_id: 38a2a325-5f21-4866-b554-cb5c509fd539
+  location: ch16:1322-1553
+  quote: Over the previous four days, the Princeton's Operations Specialist Senior
+    Chief Kevin Day...was increasingly concerned by anomalous radar tracks he and
+    his team detected on their screens.
+  claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-38a2a325-5f21-4866-b554-cb5c509fd539
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-38a2a325-5f21-4866-b554-cb5c509fd539
-- text: the ship's radar was too far, approximately 97 kilometres, to detect something
-    near the ocean surface, Fravor said
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:18:22.5-01:18:25.8
-  quote: the ship is like probably 60 miles away, so it can't see the surface.
-  claim_id: d76536ea-1df8-4a58-8b4c-1e8078fcf549
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d76536ea-1df8-4a58-8b4c-1e8078fcf549
-- text: seconds after the object disappeared, radar reacquired the target approximately
-    110 kilometres away
-  source: Navy pilots describe encounters with UFOs
-  location: 00:09:09.0-00:09:13.5
-  quote: Seconds later, the Princeton reacquired the target, 60 miles away.
-  claim_id: 8e3eaca4-5ae6-4771-bf62-29be62ad8184
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-8e3eaca4-5ae6-4771-bf62-29be62ad8184
-- text: once the pilots returned to the Nimitz, the swarm of objects shot back above
-    approximately 24,000 metres in a fraction of a second
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
+- text: Kevin Day was Princeton's Operations Specialist Senior Chief, in charge of
+    coordinating the systems that protect the entire carrier group
+  source: In Plain Sight
+  location: ch16:1351-1493
+  quote: the Princeton's Operations Specialist Senior Chief Kevin Day, who was in
+    charge of coordinating the systems that protect the entire carrier group
+  claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
+- text: once Fravor and his wingman returned to Nimitz, the swarm of unidentified
+    objects shot back above approximately 24,000 metres in a fraction of a second
   source: In Plain Sight
   location: ch16:15562-15822
   quote: Inside the USS Princeton's Combat Information Centre astonished operators
@@ -604,41 +562,32 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
-- text: Kevin Day believed some objects were underwater just before zooming back above
-    approximately 24,000 metres, above the radar's scan volume at the time
+- text: Kevin Day verified the anomalous radar tracks using Princeton's Cooperative
+    Engagement Capability system, which merged radar data from every source into one
+    picture
   source: In Plain Sight
-  location: ch16:16032-16233
-  quote: Kevin Day believes some of the objects were underwater just before they zoomed
-    back up to 80,000 feet, the upper atmosphere, 'maybe even higher because it was
-    above the scan volume of our radar at the time'.
-  claim_id: a02d1ff4-c8d9-4ddf-abf4-08419751336b
+  location: ch16:1821-1975
+  quote: He verified what he saw on the Princeton's CEC, the Cooperative Engagement
+    System, which took all the radars from every source and merged them into one picture.
+  claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
-- text: the ship's captain told Kevin Day, when asked what he thought the object was,
-    that he thought the objects were spontaneously forming ice falling from space
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6e8aa35-cf54-4741-826b-146330acc778
+- text: former Petty Officer Jason Turner, on board Princeton in 2004, claimed to
+    have seen a fuller version of the FLIR1 video on a console monitor in the ship's
+    Signal Exploitation Space
   source: In Plain Sight
-  location: ch16:21104-21281
-  quote: Kevin Day recalls asking his captain on the *Princeton* afterwards what he
-    thought the object was. 'He told me, "I think the objects were spontaneously forming
-    ice falling from space".'
-  claim_id: b57d2f64-6c54-42ab-9df0-e6f14f5f4893
+  location: ch16:19589-19785
+  quote: A former Petty Officer Jason Turner, on board the USS Princeton in 2004,
+    claimed to have seen a fuller version of the video on a console monitor in what
+    is called the ship's Signal Exploitation Space.
+  claim_id: 5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
-- text: the Meteorological Officer briefed on a high-altitude weather phenomenon in
-    which ice crystals can form and be detected by the radar, according to the record
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:7757-7941
-  quote: The Meteorological Officer (METOC) onboard the Princeton provided a briefing
-    that discussed a high altitude weather phenomena where ice crystals can form and
-    be detected by the AN/SPY-1.
-  claim_id: 91bd5b4c-7179-4cee-971c-d2c2024bab1d
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-91bd5b4c-7179-4cee-971c-d2c2024bab1d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-91bd5b4c-7179-4cee-971c-d2c2024bab1d
-- text: Kevin Day went to the ship's communications room the following morning to
-    obtain a copy of the previous day's radio communications for an after-action report
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
+- text: the morning after the encounter, Kevin Day went to Princeton's communications
+    room to get a copy of the previous day's radio communications for an after-action
+    report
   source: In Plain Sight
   location: ch16:22767-23004
   quote: The morning after the dogfight, Senior Chief Kevin Day went to the USS *Princeton*'s
@@ -648,8 +597,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-922a56a4-1aba-4fed-86c2-15785656b43c
-- text: Kevin Day discovered the radio communications data had been erased from the
-    ship's optical disk, though the date and time stamps remained
+- text: Kevin Day discovered that the radio communications data had been erased from
+    Princeton's optical disk, even though the date and time stamps remained
   source: In Plain Sight
   location: ch16:23092-23396
   quote: But he was shocked to learn that the data for the Tic Tac encounter had been
@@ -660,7 +609,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
-- text: Gary Voorhis was ordered to turn over the data tapes from the ship's Combat
+- text: Gary Voorhis was ordered to turn over the data tapes from Princeton's Combat
     Engagement Centre after the encounter
   source: In Plain Sight
   location: ch16:23885-24003
@@ -670,8 +619,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2917e1f8-3eff-4c05-b736-ffc136898ad1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2917e1f8-3eff-4c05-b736-ffc136898ad1
-- text: Gary Voorhis checked the radar system for false returns; it was recalibrated
-    with no problems detected
+- text: Gary Voorhis checked Princeton's radar system for false returns during the
+    encounter, and the system was recalibrated with no problems detected
   source: In Plain Sight
   location: ch16:2541-2669
   quote: USS Princeton Petty Officer Gary Voorhis checked the radar system for false
@@ -680,49 +629,147 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-258ee87a-6222-4ca2-afee-88dc14413cd9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-258ee87a-6222-4ca2-afee-88dc14413cd9
-- text: David Fravor denied a rumour that unidentified personnel arrived by helicopter
-    to confiscate recorded data after the encounter
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:39:50.2-01:40:00.6
-  quote: there's a story that both on the Nimitz and the Princeton, folks in a helicopter
-    landed, they showed up, they took the data... No, no one came out on a helicopter.
-  claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-- text: all AAV activity was reported to D.C. Curtis by the commanding officers of
-    the ship and Strike Fighter Squadron 41
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:32489-32610
-  quote: All of the AAV activity was reported to VADM Curtis by the Commanding Officer,
-    USS Princeton and Commanding Officer, VFA-41.
-  claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+- text: late on the morning of 2004-11-14, in Princeton's Combat Information Centre,
+    Kevin Day again saw a cluster of 14 unidentified objects on his radar screen
+  source: In Plain Sight
+  location: ch16:3258-3438
+  quote: Late on that 14 November morning, in the Princeton's Combat Information Centre,
+    Senior Chief Day again saw a cluster of 14 unidentified objects on his screen
+  claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
+- text: at about 2pm on 2004-11-14, Lieutenant Colonel Douglas Kurth, piloting an
+    FA-18 Super Hornet, was directed by Princeton to the closest unidentified object
+    on their radar screen
+  source: In Plain Sight
+  location: ch16:7049-7205
+  quote: About 2 pm that afternoon the pilot of an FA-18 Hornet, Lieutenant Colonel
+    Douglas Kurth, was directed by the Princeton to the closest UAP on their radar
+    screen.
+  claim_id: f046ffab-6fd1-4255-bd32-e9a889f665d8
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
+- text: it was the accompanying Ticonderoga-class cruiser Princeton, not Nimitz itself,
+    that was providing air defence protection using its then brand-new SPY-1 Aegis
+    radar system
+  source: In Plain Sight
+  location: ch16:740-914
+  quote: it was actually the accompanying Ticonderoga-class guided missile cruiser
+    USS Princeton that was providing air defence protection with its then brand-new
+    SPY-1 Aegis radar system
+  claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+- text: Princeton has a passive electronically scanning radar system that provided
+    360-degree coverage for the entire carrier group
+  source: In Plain Sight
+  location: ch16:922-1048
+  quote: The Princeton has a passive electronically scanning radar system, which provided
+    360-degree coverage for the entire carrier group
+  claim_id: 5828bf96-0f1d-43bb-a0e4-272221ae80ef
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
+- text: for nearly two weeks leading up to the encounter, radar operators aboard Princeton
+    regularly logged over one hundred UAP in the air surrounding the vessels
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:1905-2084
+  quote: For nearly two weeks leading up to the incident, the radar operators aboard
+    the *Princeton* had regularly logged UAP activity in the air surrounding the vessels.
+    Over one hundred UAP.
+  claim_id: 2acb9ced-9e9d-428d-ad80-05f6584e96a4
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
+- text: the UAP tracked by Princeton's radar operators in the weeks before the encounter
+    performed acrobatics that would challenge any aircraft the operators had ever
+    seen
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:2090-2179
+  quote: They performed acrobatics that would challenge any aircraft the radar operators
+    had ever seen.
+  claim_id: ec56f388-545d-4513-901e-944c8b52b9cf
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec56f388-545d-4513-901e-944c8b52b9cf
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ec56f388-545d-4513-901e-944c8b52b9cf
+- text: Princeton was a state-of-the-art SPY-1 radar-equipped missile cruiser that
+    took part in the November 2004 USS Nimitz carrier strike group deployment
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:1601-1699
+  quote: a state-of-the-art SPY-1 radar-equipped missile cruiser called the USS *Princeton*
+  claim_id: 1e73a0e8-1534-4288-bca9-220706b3297b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e73a0e8-1534-4288-bca9-220706b3297b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1e73a0e8-1534-4288-bca9-220706b3297b
+- text: at the time of the encounter, Nimitz and Princeton were travelling close together
+    while the other vessels of the carrier strike group were otherwise occupied
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:1766-1894
+  quote: At the time the incident took place, the *Nimitz* and the *Princeton* traveled
+    close together. The other vessels were otherwise occupied.
+  claim_id: 3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
+- text: many crewmen aboard Nimitz and Princeton shared the Tic Tac video via the
+    government's classified email system following the encounter
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:14067-14188
+  quote: By then, many crewmen aboard the *Nimitz* and the *Princeton* had shared
+    the video via the government’s classified email system.
+  claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+- text: David Fravor's flight of two F/A-18F aircraft was designated Blue Air and
+    was being controlled by USS Princeton
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:1035-1146
+  quote: My flight of 2 F/A-18Fs was the Blue Air, the good guys, and we were being
+    controlled by the USS Princeton, CG-59.
+  claim_id: 373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+- text: as Fravor's flight launched from Nimitz and checked in with the air controller
+    on Princeton, they were told the training exercise was suspended for real-world
+    tasking and directed toward a contact west of their CAP point
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:1349-1620
+  quote: As we launched off the USS Nimitz, we checked in with the air controller
+    on the USS Princeton, we were told that training was going to be suspended for
+    real world tasking. My wingman joined up and we proceeded towards a contact to
+    the west of our CAP (Combat Air Patrol) point.
+  claim_id: 720457d7-380b-43ed-b3a7-a67ab277cbbb
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 64f7f8a473a8803649e71efc14599d87eb706b8175d2c3074175c67439d46a73
+  prompt_sha256: 55f5d0582fb11340138e0bca65dcda3fb8569c7488d928d0bf059aad8c7df5c2
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 313419
-    output: 73348
-    real_input: 6
-    cache_read: 161873
-    cache_write: 151540
+    input: 167456
+    output: 57445
+    real_input: 4
+    cache_read: 78846
+    cache_write: 88606
     calls: 0
-  body_sha256: 44033fbcf06a299f05d3347170e77336758b7b99adc4f4fbed0d0626f885be54
+  body_sha256: 3f023ea052301875ec3f1e7c093b9b654cf443aa63e0b01457f9c27e9e4d7ae7
 ---
 
-USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser<sup>1</sup> of the [United States Navy (USN)](/organisations/united-states-navy-usn), an Aegis-class vessel<sup>2</sup> with a helicopter landing pad rather than a fixed-wing flight deck.<sup>2</sup> It carried naval guns and anti-air, anti-surface, and anti-submarine missiles,<sup>3</sup> two Seahawk LAMPS III helicopters,<sup>4</sup> and was the first Ticonderoga-class cruiser to carry the upgraded AN/SPY-1B radar system.<sup>5</sup> David Fravor described it as equipped with an AN/SPY-1 phased array radar with four panels covering separate quadrants,<sup>6</sup> a passive electronically scanning system giving 360-degree coverage for the entire carrier group.<sup>7</sup> In November 2004 the ship was completing a Tailored Ships Training Availability (TSTA) in preparation for deployment to the Arabian Sea, operating between approximately 2004-11-10 and 2004-11-16 as part of Carrier Strike Group 11 (CSG-11) alongside the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68), USS Chafee, USS Higgins, and USS Louisville.<sup>8</sup>
+USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser of the [United States Navy (USN)](/organisations/united-states-navy-usn), armed with naval guns and anti-air, anti-surface, and anti-submarine missiles and carrying two Seahawk LAMPS III helicopters.<sup>1</sup><sup>2</sup> It was the first Ticonderoga-class cruiser to carry the upgraded AN/SPY-1B radar system.<sup>3</sup> In November 2004 the ship formed part of Carrier Strike Group 11 (CSG-11), alongside [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68), USS Chafee (DDG-90) and USS Higgins (DDG-76), and was completing Tailored Ships Training Availability (TSTA) in preparation for deployment to the Arabian Sea, from 2004-11-10 to 2004-11-16.<sup>4</sup><sup>5</sup>
 
-USS Princeton detected multiple [Anomalous Aerial Vehicles (AAVs)](/topics/anomalous-aerial-vehicle-aav) operating around the strike group on several occasions.<sup>9</sup> It began detecting objects at approximately 8,500 metres altitude travelling at approximately 190 kilometres per hour off the coast of California on 2004-11-10,<sup>10</sup> and detected the AAV three separate times over the following week off the western coast of the United States and Mexico.<sup>11</sup> According to the account in *Imminent: Inside the Pentagon's Hunt for UFOs*, for nearly two weeks before the encounter radar operators aboard the ship regularly logged over one hundred such objects in the air around the vessels,<sup>12</sup> performing manoeuvres that would challenge any aircraft the operators had ever seen.<sup>13</sup> The ship's Fire Control Officer and his technician initially assumed the contacts were part of the Composite Training Unit Exercise (COMPTUX), according to the incident report.<sup>14</sup> A Senior Chief aboard the ship reported, per the same record, that the objects would descend from very high altitude into the AN/SPY-1's scan volume at high velocity,<sup>15</sup> though because the radar was set to a mode for Air Intercept of conventional aircraft it never obtained an accurate track and repeatedly dropped the contacts as clutter.<sup>16</sup> The Tactical Air Officer could not identify the radar contact and was perplexed by its high speed and altitude.<sup>17</sup> [Kevin Day](/people/kevin-day), the ship's Operations Specialist Senior Chief responsible for coordinating the systems protecting the carrier group,<sup>18</sup> and his team grew increasingly concerned by the anomalous tracks in the four days before 2004-11-14,<sup>19</sup> and Day verified them using the ship's Cooperative Engagement Capability (CEC) system, which merged radar data from every source into a single picture.<sup>20</sup>
+During this period Princeton's radar detected an Anomalous Aerial Vehicle (AAV) operating in the vicinity of the strike group on several occasions.<sup>6</sup> The AAV was observed to descend rapidly from approximately 18,000 metres to approximately 15 metres in a matter of seconds.<sup>7</sup> On 2004-11-14, after again detecting the object, Princeton tasked a returning flight of two F/A-18Fs to investigate it, taking over control of the aircraft from the E-2C Hawkeye and vectoring them for an intercept that led to visual contact approximately 1.6 kilometres away.<sup>8</sup><sup>9</sup> The only participants recorded in the detection and intercept were Princeton, Carrier Airborne Early Warning Squadron 117 (VAW-117), Marine Fighter Attack Squadron 232 (VMFA-232) and [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41).<sup>10</sup> A Senior Chief aboard the ship, with seventeen years' experience as a Fire Control operator, assessed that the object exhibited "Ballistic Missile Characteristics" in its appearance, velocity and radar indications.<sup>11</sup> The AN/SPY-1 radar was set to a mode for air intercept of conventional aircraft, never obtained an accurate track of the contacts, and repeatedly dropped them as clutter.<sup>12</sup> The Tactical Air Officer aboard could not identify the contact and was perplexed by its speed and altitude.<sup>13</sup> The object was detected by Princeton three separate times during the week, operating off the western coast of the United States and Mexico.<sup>14</sup> The Air Control Officer of the E-2C Hawkeye had not seen the object on his own radar until Princeton directed the contact, and without the ship's input the faint, low return would likely have been missed.<sup>15</sup><sup>16</sup> All the activity was reported up the chain of command to D. C. Curtis by the commanding officers of Princeton and VFA-41.<sup>17</sup>
 
-On 2004-11-14, after again detecting the object, USS Princeton tasked two returning F/A-18F aircraft to investigate,<sup>21</sup> taking over control from the E-2C Hawkeye and vectoring the jets to visual contact approximately 1.6 kilometres from the target.<sup>22</sup> According to the incident report, the E-2C's Air Control Officer did not see the target on his own radar until the ship directed the contact and gave the E-2C a general direction to steer,<sup>23</sup> since the return was so low and faint that without the ship's inputs it would likely have been missed or ignored.<sup>24</sup> The ship's initial report placed the target at approximately 4,600 to 6,100 metres mean sea level, according to the record.<sup>25</sup> The ship vectored [David Fravor](/people/david-fravor)'s flight via Bearing Range Altitude Aspect calls to an unknown contact approaching from the south,<sup>26</sup> asking what ordnance they carried; they reported two captive training AIM-9M missiles and nothing else.<sup>27</sup> Fravor recalled the ship giving bearing, range, and altitude calls at approximately 80, 64, and 48 kilometres,<sup>28</sup> and informing the flight that their training mission was being suspended for real-world tasking.<sup>29</sup> The incident report states the object was observed descending rapidly from approximately 18,000 metres to approximately 15 metres in a matter of seconds.<sup>30</sup> At about 2pm that day, Lieutenant Colonel Douglas Kurth, piloting an FA-18 Super Hornet, was separately directed by the ship to the closest unidentified object on its radar screen.<sup>31</sup>
+Princeton, callsign "Poison," directed [David Fravor](/people/david-fravor)'s flight into the encounter that became the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter). The E-2C Hawkeye controller handed his flight to Princeton, which vectored them via bearing, range and altitude calls towards the contact, and asked what ordnance they carried; Fravor's flight reported two captive training AIM-9M missiles and nothing else.<sup>18</sup><sup>19</sup> Fravor's flight, designated Blue Air, was being controlled by Princeton, and as they launched from Nimitz and checked in, they were told the training exercise was suspended for real-world tasking and directed toward a contact west of their combat air patrol (CAP) point.<sup>20</sup><sup>21</sup> Describing the ship afterwards, Fravor said Princeton is a guided-missile cruiser, not an aircraft carrier, with a helicopter landing pad rather than a fixed-wing flight deck, and is equipped with an AN/SPY-1 phased array radar system with four panels that look in quadrants.<sup>22</sup><sup>23</sup> He said that on 2004-11-10 Princeton began detecting a few objects flying at approximately 8,500 metres altitude at approximately 190 kilometres per hour off the coast of California, and that the ship detected the objects intermittently for about a week before his encounter.<sup>24</sup><sup>25</sup> Fravor said Princeton gave his flight bearing, range and altitude calls indicating the contact at ranges of approximately 80, 64 and 48 kilometres, and that the object had been too far - approximately 97 kilometres - for the ship's radar to detect something near the ocean surface.<sup>26</sup><sup>27</sup> After the intercept, Fravor denied a rumour that unidentified personnel had arrived by helicopter aboard Nimitz and Princeton to confiscate recorded data.<sup>28</sup>
 
-During the encounter itself, everyone in the ship's Combat Information Centre was tense listening to Fravor's and his wingman's increasingly stressed radio traffic, while five radar operators tracked the event in real time.<sup>32</sup> At the moment Fravor called that he was engaged, 14 other unidentified targets on the ship's radar screen were tracked plummeting from above approximately 24,000 metres towards the ocean.<sup>33</sup> USS Princeton directed the pilots to a prearranged rendezvous, the "cap point," approximately 100 kilometres distant,<sup>34</sup> and radioed as they flew there that the object had reappeared at that location.<sup>35</sup> Fravor recounted that the ship's radar was too far away, approximately 97 kilometres, to detect something near the ocean surface.<sup>36</sup> Seconds after the object disappeared, the ship's radar reacquired the target approximately 110 kilometres away.<sup>37</sup> Once Fravor and his wingman returned to the Nimitz, the swarm of objects that had descended towards the ocean shot back above approximately 24,000 metres in a fraction of a second.<sup>38</sup> Day said he believed some of the objects were underwater just before this ascent, since the altitude they reached was above the ship's radar scan volume at the time.<sup>39</sup>
+Separate published accounts describe events in Princeton's Combat Information Centre. During the encounter, crew there were reportedly tense, listening to Fravor's and his wingman's increasingly stressed radio communications while five radar operators tracked the event across the ship's sensor systems.<sup>29</sup> At the moment Fravor called that he was engaged, fourteen other unidentified targets on Princeton's radar screen were tracked plummeting from above approximately 24,000 metres towards the ocean, and once Fravor and his wingman returned to Nimitz, the swarm shot back above that altitude in a fraction of a second.<sup>30</sup><sup>31</sup> Fravor and his wingman were directed by Princeton to a prearranged rendezvous approximately 100 kilometres away, known as the "cap point".<sup>32</sup> [Kevin Day](/people/kevin-day), Princeton's Operations Specialist Senior Chief and responsible for coordinating the systems protecting the carrier group, had grown increasingly concerned by anomalous radar tracks in the days before 2004-11-14, and again saw a cluster of fourteen unidentified objects on his screen late that morning.<sup>33</sup><sup>34</sup> Day verified the tracks using the ship's Cooperative Engagement Capability system, which merged radar data from every source into a single picture.<sup>35</sup> Around 14:00 that day, Lieutenant Colonel Douglas Kurth, piloting an FA-18 Super Hornet, was directed by Princeton to the nearest unidentified object on the radar screen.<sup>36</sup> One account states that it was Princeton, not Nimitz itself, that was providing air defence protection for the strike group using its then-new SPY-1 Aegis radar system, a passive electronically scanning array giving 360-degree coverage of the group.<sup>37</sup><sup>38</sup> The same account states that for nearly two weeks before the encounter, Princeton's radar operators regularly logged over one hundred UAP around the vessels, performing manoeuvres the operators considered beyond any aircraft they had encountered, and that at the time Nimitz and Princeton were travelling close together while the rest of the strike group was occupied elsewhere.<sup>39</sup><sup>40</sup><sup>41</sup>
 
-Two accounts describe what followed. The ship's captain told Day, when Day asked what he thought the objects were, that he thought they were spontaneously forming ice falling from space,<sup>40</sup> and separately, per the incident report, the ship's Meteorological Officer briefed on a high-altitude weather phenomenon in which ice crystals can form and be detected by the AN/SPY-1 radar.<sup>41</sup> The following morning, Day went to the ship's communications room to obtain a copy of the previous day's radio traffic to write an after-action report, and found that the recordings had been erased from the ship's optical disk even though the date and time stamps remained.<sup>42</sup> Petty Officer Gary Voorhis was separately ordered to turn over the data tapes from the ship's Combat Engagement Centre,<sup>43</sup> having earlier checked the radar system for false returns and found it recalibrated with no problems detected.<sup>44</sup> Fravor, for his part, denied a rumour that unidentified personnel arrived by helicopter aboard the Nimitz and Princeton after the encounter to confiscate recorded data.<sup>45</sup> All of the reported activity was passed to D.C. Curtis by the commanding officers of USS Princeton and [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41).<sup>46</sup>
+Two further claims concern the aftermath. A former Petty Officer, Jason Turner, who was aboard Princeton in 2004, said he saw a fuller version of the FLIR1 video of the object on a console monitor in the ship's Signal Exploitation Space.<sup>42</sup> The morning after the encounter, Day went to Princeton's communications room to obtain a copy of the previous day's radio traffic for an after-action report, and found that the recordings had been erased from the ship's optical disk even though their date and time stamps remained.<sup>43</sup> Petty Officer Gary Voorhis was separately ordered to turn over data tapes from the ship's Combat Engagement Centre, and said he had checked the radar system for false returns during the encounter, finding it recalibrated with no problems detected.<sup>44</sup><sup>45</sup> One account states that crewmen aboard Nimitz and Princeton shared the Tic Tac video over the government's classified email system after the encounter.<sup>46</sup>

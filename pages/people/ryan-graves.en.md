@@ -1,12 +1,11 @@
 ---
 title: Ryan Graves
-description: Ryan Graves is a former United States Navy F/A-18 pilot who founded Americans
-  for Safe Aerospace and testified before Congress about recurring UAP encounters
-  off the US East Coast.
+description: Ryan Graves is a former US Navy F/A-18 Hornet pilot who reported unidentified
+  anomalous phenomena encounters off the US East Coast from 2014, and founded Americans
+  for Safe Aerospace to gather similar accounts from military and commercial aircrew.
 metadata:
-  role: Former United States Navy F/A-18 pilot; Executive Director, Americans for
-    Safe Aerospace
-  affiliation: Navy Fighter Attack Squadron 11 (VFA-11); Americans for Safe Aerospace
+  role: Former US Navy F/A-18 pilot; Executive Director, Americans for Safe Aerospace
+  affiliation: Navy Fighter Attack Squadron 11 (Strike Fighter Squadron 11 (VFA-11))
 built_from:
   brief_hash: 0d3bf0948fc3524993a3be9c1740b78d3eaf5012f3b12c28f1c9ec5a83682b60
   claims:
@@ -329,7 +328,19 @@ built_from:
   - id: e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
     hash: 6e61de07319ba1031a1e68b079232d95487e97c01deb34eb81962fb84be5c0cb
 references:
-- text: Decade of Navy service including two deployments
+- text: Graves was an F/A-18F Super Hornet pilot in VFA-11 (the Red Rippers), stationed
+    at NAS Oceana in Virginia Beach, in 2014
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:33046-33186
+  quote: In 2014, I was an F–18 Foxtrot pilot in the Navy Fighter Attack Squadron
+    11, the Red Rippers, and I was stationed at NAS Oceana in Virginia Beach.
+  claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+- text: Graves is a former USN F/A-18 Hornet pilot with a decade of service including
+    two deployments
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:31727-31909
@@ -340,65 +351,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
-- text: 2014 F/A-18F pilot with VFA-11 at NAS Oceana
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:33046-33186
-  quote: In 2014, I was an F–18 Foxtrot pilot in the Navy Fighter Attack Squadron
-    11, the Red Rippers, and I was stationed at NAS Oceana in Virginia Beach.
-  claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
-- text: Trained as a Navy aviation safety officer
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:139883-139934
-  quote: I was trained as an aviation safety officer by the Navy
-  claim_id: 40cf93fd-9c76-4eaa-acb1-967992b4a17e
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
-- text: Founded Americans for Safe Aerospace
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:34203-34277
-  quote: Recognizing the need for action and answers, I founded Americans for Safe
-    Aerospace.
-  claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
-- text: ASA advocates for aerospace safety and national security
-  source: In Plain Sight
-  location: ch29:28922-29082
-  quote: In a laudable initiative, Ryan Graves has launched an organisation called
-    Americans for Safe Aerospace (ASA), which advocates for aerospace safety and national
-    security.
-  claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab2f212d-3754-4c55-8ea2-97288d736b40
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ab2f212d-3754-4c55-8ea2-97288d736b40
-- text: Graves is Executive Director of ASA
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:29911-29962
-  quote: He is the Executive Director of Americans for Safe Aerospace.
-  claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
-- text: Speaks for 30+ aircrew and veterans who confided encounters
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:31965-32102
-  quote: I am here to voice the concerns of more than 30 commercial aircrew and military
-    veterans who have confided their similar encounters with me.
-  claim_id: 57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
-- text: Squadron began seeing UAP off Virginia Beach in 2014
+- text: Graves' squadron began seeing UAP hovering over restricted airspace southeast
+    of Virginia Beach in 2014
   source: Navy pilots describe encounters with UFOs
   location: 00:04:12.9-00:04:21.5
   quote: He told us his F-18 squadron began seeing UAPs hovering over restricted airspace
@@ -406,109 +360,19 @@ references:
   claim_id: 5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
-- text: 2014 radar upgrade enabled infrared targeting
-  source: Navy pilots describe encounters with UFOs
-  location: 00:04:22.4-00:04:28.5
-  quote: when they updated their jet's radar, making it possible to zero in with infrared
-    targeting cameras
-  claim_id: 5c687d22-4f9b-4eed-93eb-8aaff24e549e
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5c687d22-4f9b-4eed-93eb-8aaff24e549e
-- text: APG-79 radar tracked objects kilometres away
-  source: In Plain Sight
-  location: ch22:7181-7273
-  quote: he countered that, on numerous occasions, his APG-79 radar tracked these
-    objects kilometres away
-  claim_id: ef18b29e-108d-445f-9209-15b53ab0bb25
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef18b29e-108d-445f-9209-15b53ab0bb25
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef18b29e-108d-445f-9209-15b53ab0bb25
-- text: ATFLIR displayed objects electro-optically or in infrared
-  source: In Plain Sight
-  location: ch22:7279-7439
-  quote: When their jets’ Advanced Targeting Forward Looking Infrared (ATFLIR) got
-    close enough, it visually displayed the UAP, either electro-optically or in infra-red
-    mode.
-  claim_id: faed602d-908f-488c-97ae-b1c4f246136c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-faed602d-908f-488c-97ae-b1c4f246136c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-faed602d-908f-488c-97ae-b1c4f246136c
-- text: '"Getting them on radar and then picking them up on the FLIR"'
-  source: In Plain Sight
-  location: ch22:7446-7516
-  quote: ‘We’re getting them on radar and then picking them up on the FLIR,’ he said.
-  claim_id: 677cf50e-ea04-4928-b9a7-d3fd98ede5f6
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-677cf50e-ea04-4928-b9a7-d3fd98ede5f6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-677cf50e-ea04-4928-b9a7-d3fd98ede5f6
-- text: Objects remained visible for a 90-minute to 2-hour flight
-  source: In Plain Sight
-  location: ch22:5968-6235
-  quote: ‘What’s fascinating and interesting about these objects,’ Graves said, ‘is
-    that they’re up there when we take off, they’re doing their thing for our hour-and-a-half,
-    maybe two-hour flight, and then we land. And my buddy that takes off an hour later
-    is seeing the same things.’
-  claim_id: 5facda27-1960-4a99-9001-c20ab15ed49c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5facda27-1960-4a99-9001-c20ab15ed49c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5facda27-1960-4a99-9001-c20ab15ed49c
-- text: UAP accelerated to speeds up to Mach 1
-  source: In Plain Sight
-  location: ch29:27882-27973
-  quote: Th e unidentifi ed aerial phenomena (UAP) accelerated at speeds up to Mach
-    1, the speed of sound.
-  claim_id: d1163d55-352e-4697-9e68-b5465dd4bae8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
-- text: UAP held position despite ~220 km/h hurricane winds
-  source: In Plain Sight
-  location: ch29:27980-28082
-  quote: They could hold their position, appearing motionless, despite Category 4
-    hurricane-force winds of 120 knots.
-  claim_id: f2fa6034-77a3-4aaa-9e29-917acec6e5d8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
-- text: No visible means of lift, control surfaces or propulsion
-  source: In Plain Sight
-  location: ch29:28089-28242
-  quote: They did not have any visible means of lift, control surfaces or propulsion
-    — in other words nothing that resembled normal aircraft with wings, flaps or engines.
-  claim_id: 0750f1f1-6182-42e9-bcbb-f838b8ce88c7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
-- text: UAP outlasted the fighter jets, operating all day
-  source: In Plain Sight
-  location: ch29:28251-28326
-  quote: And they outlasted our fighter jets, operating continuously throughout the
-    day.
-  claim_id: 1027335f-552a-4309-9dab-7ab3a2cddec2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1027335f-552a-4309-9dab-7ab3a2cddec2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1027335f-552a-4309-9dab-7ab3a2cddec2
-- text: Graves, an engineer, said the technology defied his understanding
-  source: In Plain Sight
-  location: ch29:28331-28435
-  quote: I am a formally trained engineer, but the technology they demonstrated defied
-    my understanding,' Graves wrote.
-  claim_id: ec617b2c-2e61-4511-9887-7d5a96fa095b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec617b2c-2e61-4511-9887-7d5a96fa095b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ec617b2c-2e61-4511-9887-7d5a96fa095b
-- text: 'Mellon: Graves encountered UAP nearly every training flight'
-  source: In Plain Sight
-  location: ch29:21384-21629
-  quote: Lieutenant Graves indicated that he and his colleagues encountered UAP *nearly
-    every time* they conducted training in restricted airspace off the east coast
-    of the United States, not far from major US population centers and the National
-    Capital Region.
-  claim_id: c5904190-adec-4d43-b151-96d865d9731e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5904190-adec-4d43-b151-96d865d9731e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5904190-adec-4d43-b151-96d865d9731e
-- text: Two Super Hornets split apart by UAP in Warning Area W-72
+- text: After radar upgrades, the squadron began detecting unknown objects operating
+    in its airspace
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:33193-33298
+  quote: After upgrades were made to our jet's radar systems, we began detecting unknown
+    objects operating in our airspace.
+  claim_id: d0e8b671-4261-4c0d-bf65-488dc51e44f4
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
+- text: During a training mission in Warning Area W-72 off Virginia Beach, two F/A-18F
+    Super Hornets were split apart by a UAP
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33491-33620
@@ -518,7 +382,7 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
-- text: Object described as dark cube inside a clear sphere
+- text: The object was a dark grey or black cube inside a clear sphere
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33625-33696
@@ -527,7 +391,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3888eb6a-6598-4a2e-82b2-929760af715d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3888eb6a-6598-4a2e-82b2-929760af715d
-- text: Came within approximately 15 metres of the lead aircraft
+- text: The cube-in-sphere object came within approximately 15 metres of the lead
+    aircraft
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33704-33736
@@ -536,7 +401,7 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
-- text: Estimated 1.5 to 4.5 metres in diameter
+- text: It was estimated at approximately 1.5 to 4.5 metres in diameter
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33749-33788
@@ -545,26 +410,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8a6fac78-ccb1-4fea-84a2-76690cc1577d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8a6fac78-ccb1-4fea-84a2-76690cc1577d
-- text: No wings, no infrared emission, nothing tethering it
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:139322-139461
-  quote: No wings. No IR energy coming off of the vehicle. Nothing tethering it to
-    the ground, and that was primarily what we were experiencing out there.
-  claim_id: 0a4dcbfc-4818-4747-8d1e-bbe969755be5
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0a4dcbfc-4818-4747-8d1e-bbe969755be5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0a4dcbfc-4818-4747-8d1e-bbe969755be5
-- text: Mission commander terminated the flight, returned to base
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:33799-33871
-  quote: The mission commander terminated the flight immediately and returned to base.
-  claim_id: 86627e17-620d-4516-84d6-9779498444a4
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-86627e17-620d-4516-84d6-9779498444a4
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-86627e17-620d-4516-84d6-9779498444a4
-- text: Safety report filed, no acknowledgement, no reporting mechanism
+- text: The squadron filed a safety report but received no official acknowledgement
+    and no further reporting mechanism
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33877-34060
@@ -574,18 +421,9 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
-- text: Two fighters 30 metres apart when object passed between them
-  source: In Plain Sight
-  location: ch22:1863-2032
-  quote: the two fighters were flying in open skies barely 30 metres apart when, out
-    of nowhere, a mind-bogglingly anomalous object hurtled through the narrow gap
-    that separated them
-  claim_id: ec0e8840-aafe-4cc2-88ce-5c019c02630f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
-- text: Object relayed as a translucent "soap bubble" with a cube inside
-  source: In Plain Sight
+- text: Graves relayed his colleague's account of a translucent sphere, 'a giant soap
+    bubble', with a cube touching its inner edge
+  source: In Plain Sight (2021)
   location: ch22:2038-2399
   quote: What the pilots saw was a translucent sphere, like ‘a giant soap bubble’,
     that passed between the two jets. ‘It was basically a cube inside a sphere with
@@ -596,37 +434,17 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fa3908-d548-4a13-91f4-0438b34b7372
-- text: '"I almost hit one of those damn things"'
-  source: In Plain Sight
+- text: Graves said he was told, 'I almost hit one of those damn things'
+  source: In Plain Sight (2021)
   location: ch22:2405-2456
   quote: ‘I almost hit one of those damn things,’ Graves was told.
   claim_id: 4da850a7-4142-4d44-bdef-187936a37307
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4da850a7-4142-4d44-bdef-187936a37307
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4da850a7-4142-4d44-bdef-187936a37307
-- text: Pilots describe recurring cube-in-sphere characteristic
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:67319-67662
-  quote: We were primarily seeing dark gray or black cubes inside of a clear sphere...
-    inside of a clear sphere where the apex or tips of the cube were touching the
-    inside of that sphere, and that was primarily what was being reported when we
-    were able to gain a visual tally of these objects.
-  claim_id: 77a73137-7a0d-42c4-b501-7c706f753c84
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-77a73137-7a0d-42c4-b501-7c706f753c84
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-77a73137-7a0d-42c4-b501-7c706f753c84
-- text: Cube-in-sphere reports span almost eight years
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:67671-67735
-  quote: That occurred over almost 8 years and as far as I know is still occurring.
-  claim_id: c3d5fec0-3402-4712-8ca8-a7c1a40b4390
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c3d5fec0-3402-4712-8ca8-a7c1a40b4390
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c3d5fec0-3402-4712-8ca8-a7c1a40b4390
-- text: Saw a cluster of craft in inverted V ahead of the Gimbal object
-  source: In Plain Sight
+- text: Graves saw a cluster of smaller craft in an inverted V-shape ahead of the
+    object in the longer Gimbal video he viewed aboard USS Theodore Roosevelt
+  source: In Plain Sight (2021)
   location: ch22:4760-4884
   quote: What he saw on the onboard video was a cluster of smaller craft flying in
     an inverted V-shape in front of the larger Gimbal object.
@@ -634,15 +452,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1443675-36be-4986-a5da-ddaf0257bbea
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1443675-36be-4986-a5da-ddaf0257bbea
-- text: '"It''s just basic airplane physics"'
-  source: In Plain Sight
-  location: ch22:5211-5253
-  quote: ‘It’s just basic airplane physics,’ Graves explained.
-  claim_id: ed0e46f5-5dfb-4910-ac20-86be0553fda3
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ed0e46f5-5dfb-4910-ac20-86be0553fda3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ed0e46f5-5dfb-4910-ac20-86be0553fda3
-- text: ATFLIR shows one object; pilots reference an unseen fleet
+- text: During the Gimbal incident, the FLIR recording shows one rotating object while
+    pilots refer to a fleet not visible on the footage
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:114653-114874
@@ -653,7 +464,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5cc43ccc-c11d-4b07-b19c-4da02718292a
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5cc43ccc-c11d-4b07-b19c-4da02718292a
-- text: Fleet was part of the radar data on the situational display
+- text: Graves witnessed in a debrief that the referenced fleet was part of the radar
+    data on the situational awareness page
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:114885-114995
@@ -663,64 +475,87 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63bbafa1-a202-480d-8c65-5b58c12fe5ed
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63bbafa1-a202-480d-8c65-5b58c12fe5ed
-- text: Rear Admiral Lewis said 'Hah!' and walked out
-  source: In Plain Sight
-  location: ch22:17866-17927
-  quote: ‘He looks at the video and goes “Hah!” and walks out,’ Graves recalled.
-  claim_id: 8a54bd01-4854-43c9-858b-f02bd91c6894
+- text: Graves wrote the observed UAP accelerated at speeds up to Mach 1
+  source: In Plain Sight (2021)
+  location: ch29:27882-27973
+  quote: Th e unidentifi ed aerial phenomena (UAP) accelerated at speeds up to Mach
+    1, the speed of sound.
+  claim_id: d1163d55-352e-4697-9e68-b5465dd4bae8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
-- text: Released Gimbal/Go Fast video cut off, object rocking slightly
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
+- text: He wrote they could hold position, appearing motionless, despite Category
+    4 hurricane-force winds of approximately 220 km/h
+  source: In Plain Sight (2021)
+  location: ch29:27980-28082
+  quote: They could hold their position, appearing motionless, despite Category 4
+    hurricane-force winds of 120 knots.
+  claim_id: f2fa6034-77a3-4aaa-9e29-917acec6e5d8
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
+- text: He wrote they had no visible means of lift, control surfaces or propulsion
+  source: In Plain Sight (2021)
+  location: ch29:28089-28242
+  quote: They did not have any visible means of lift, control surfaces or propulsion
+    — in other words nothing that resembled normal aircraft with wings, flaps or engines.
+  claim_id: 0750f1f1-6182-42e9-bcbb-f838b8ce88c7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
+- text: Graves and Fravor said they did not face repercussions from their superiors
+    for reporting their UAP experiences
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: char:75368-75502
-  quote: There was some uncertainty or, you know, instability with the object. It
-    seemed to rock a bit, and that is the last I had seen of the video.
-  claim_id: 15ae2b1d-fb60-45fb-a579-bab43c8a419b
+  location: char:117407-117559
+  quote: when you reported your experiences with a UAP did any of you face any repercussions
+    with your superiors? Yes or no. Mr. GRAVES. No. Commander FRAVOR. No.
+  claim_id: 7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-15ae2b1d-fb60-45fb-a579-bab43c8a419b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-15ae2b1d-fb60-45fb-a579-bab43c8a419b
-- text: Recognised the footage in the 2017 NYT UAP report
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
+- text: Graves founded Americans for Safe Aerospace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: char:66435-66674
-  quote: Like many others in 2017, I saw the New York Times article come out as well
-    and for me it was special because I recognized the voices on the video. I recognize
-    the video itself. I had seen it when it was taken. I had seen it when it was debriefed.
-  claim_id: 447fbd13-69f2-4e00-825a-fe4c612cfd77
+  location: char:34203-34277
+  quote: Recognizing the need for action and answers, I founded Americans for Safe
+    Aerospace.
+  claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-447fbd13-69f2-4e00-825a-fe4c612cfd77
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-447fbd13-69f2-4e00-825a-fe4c612cfd77
-- text: Aircrew quietly began sharing similar experiences
-  source: In Plain Sight
-  location: ch29:28606-28692
-  quote: even though, 'other aircrew flying along the east coast quietly began sharing
-    similar experiences.'
-  claim_id: a7a8bf0d-0373-4e54-9049-ea6e1daa75a4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7a8bf0d-0373-4e54-9049-ea6e1daa75a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7a8bf0d-0373-4e54-9049-ea6e1daa75a4
-- text: No command interest meant pilots could only cancel training
-  source: In Plain Sight
-  location: ch29:28706-28909
-  quote: Because no one in a command position wanted to know about the UAPs seen by
-    Navy pilots the only thing pilots could do was cancel or move their training,
-    'as the UAP continued to maneuver in our vicinity unchecked.'
-  claim_id: 00b6f56c-32f7-43e9-8cbf-bc9f81c1fa5d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00b6f56c-32f7-43e9-8cbf-bc9f81c1fa5d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-00b6f56c-32f7-43e9-8cbf-bc9f81c1fa5d
-- text: Pilots summonsed to brief Congress on the encounters
-  source: In Plain Sight
-  location: ch22:12069-12198
-  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
-    to give confidential briefings to members of Congress.
-  claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-- text: July 2023 bipartisan hearing; Fravor, Graves, Grusch testified
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
+- text: Graves is the Executive Director of Americans for Safe Aerospace
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:29911-29962
+  quote: He is the Executive Director of Americans for Safe Aerospace.
+  claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+- text: More than thirty witnesses have come forward to the organisation and almost
+    5,000 Americans have joined its push for transparency
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:34423-34557
+  quote: More than thirty witnesses have come forward and almost 5,000 Americans have
+    joined us in the fight for transparency at safeaerospace.org.
+  claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5f634167-7d07-4560-a064-cd12ac2fb826
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5f634167-7d07-4560-a064-cd12ac2fb826
+- text: Graves testified at the 2023-07-26 House hearing on Unidentified Anomalous
+    Phenomena as Executive Director of Americans for Safe Aerospace
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:3166-3237
+  quote: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace, Oral Statement
+  claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
+- text: At the July 2023 bipartisan hearing, Fravor, Graves and Grusch testified under
+    oath
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:2345-2593
   quote: members of Congress held another historic bipartisan UAP hearing. This time
@@ -731,44 +566,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-- text: Testified as Executive Director of ASA at the House hearing
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:3166-3237
-  quote: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace, Oral Statement
-  claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
-- text: Present at the November 2024 congressional UAP hearing
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:16:38.7-00:16:45.4
-  quote: I was backstage with people like Ryan Graves and Lou Elizondo and the people
-    in Congress in a small room.
-  claim_id: e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
-- text: 30+ witnesses and ~5,000 members joined ASA
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:34423-34557
-  quote: More than thirty witnesses have come forward and almost 5,000 Americans have
-    joined us in the fight for transparency at safeaerospace.org.
-  claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5f634167-7d07-4560-a064-cd12ac2fb826
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5f634167-7d07-4560-a064-cd12ac2fb826
-- text: Most ASA witnesses are veteran commercial airline pilots
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:34563-34678
-  quote: The majority of witnesses are commercial pilots at major airlines. Often,
-    they are veterans with decades of flying experience.
-  claim_id: 1b232bf5-f526-4510-88e4-4d9768f5d0d3
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1b232bf5-f526-4510-88e4-4d9768f5d0d3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1b232bf5-f526-4510-88e4-4d9768f5d0d3
-- text: Graves relied on Grusch to research where UAP data is held
+- text: Graves said he relied on Grusch and others to research where UAP-related information
+    is kept, since he was an operator
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:101013-101087
@@ -778,30 +577,101 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
-- text: Grusch, Graves, Fravor agreed UAP affect US training ranges
+- text: Graves, Grusch and Fravor all indicated some possibility that UAP are collecting
+    reconnaissance on US military capabilities
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: char:101861-101915
-  quote: 'Mr. GRUSCH. Yes.
-
-    Mr. GRAVES. Yes.
-
-    Commander FRAVOR. Yes.'
-  claim_id: b14a7ac3-59f4-4278-afba-1c5b2fafa987
+  location: char:128469-128689
+  quote: is there any indication that these UAPs could be essentially collecting reconnaissance
+    information? ... Mr. GRAVES. Yes. ... Mr. GRUSCH. Fair assessment. ... Commander
+    FRAVOR. It is very possible.
+  claim_id: b61148be-60c0-4ff6-b974-690c581e291b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b14a7ac3-59f4-4278-afba-1c5b2fafa987
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b14a7ac3-59f4-4278-afba-1c5b2fafa987
-- text: Graves and Fravor faced no repercussions for reporting
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b61148be-60c0-4ff6-b974-690c581e291b
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b61148be-60c0-4ff6-b974-690c581e291b
+- text: Graves speaks on behalf of more than 30 commercial aircrew and military veterans
+    who confided similar encounters to him
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: char:117407-117559
-  quote: when you reported your experiences with a UAP did any of you face any repercussions
-    with your superiors? Yes or no. Mr. GRAVES. No. Commander FRAVOR. No.
-  claim_id: 7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
+  location: char:31965-32102
+  quote: I am here to voice the concerns of more than 30 commercial aircrew and military
+    veterans who have confided their similar encounters with me.
+  claim_id: 57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
-- text: Boeing contractors saw a ~90-metre red square object at Vandenberg
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
+- text: Since 2021 all UAP videos have been classified as secret or above
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:32891-32945
+  quote: Since 2021 all UAP videos are classified as secret or above.
+  claim_id: 648c41bf-2910-4994-bacc-3de28f508858
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-648c41bf-2910-4994-bacc-3de28f508858
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-648c41bf-2910-4994-bacc-3de28f508858
+- text: Graves was trained as an aviation safety officer by the US Navy
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:139883-139934
+  quote: I was trained as an aviation safety officer by the Navy
+  claim_id: 40cf93fd-9c76-4eaa-acb1-967992b4a17e
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
+- text: Graves has been working with the AIAA to help establish a UAP Integration
+    Committee
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:88935-89119
+  quote: I have been working with the American Institute of Aeronautics and Astronautics
+    to help them stand up a UAP integration committee to help integrate their engineering
+    prowess into this problem.
+  claim_id: c1e95b8d-9b0a-40d6-b690-e07159cb6595
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
+- text: Graves recommends using the existing Aviation Safety Reporting System as a
+    short-term trusted platform for pilots to report UAP
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:85577-85778
+  quote: One of the recommendations that have been put forward is to utilize their
+    existing Aviation Safety Reporting System to serve as a short-term fill and trusted
+    platform for pilots that want to report on UAP.
+  claim_id: 368a9b88-5c01-47bd-aa03-7ebdab70cf71
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
+- text: The ASRS has built-in analytics capability and is funded by Congress
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:85783-85842
+  quote: It also has built-in analytics capability and is funded by Congress.
+  claim_id: 6c416be9-a95b-4328-9fe7-da635b8fccf6
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
+- text: Graves and other Theodore Roosevelt pilots were summonsed to give confidential
+    briefings to members of Congress
+  source: In Plain Sight (2021)
+  location: ch22:12069-12198
+  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
+    to give confidential briefings to members of Congress.
+  claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+- text: Graves recalled Rear Admiral Andrew L. Lewis, on viewing the UAP video, said
+    'Hah!' and walked out
+  source: In Plain Sight (2021)
+  location: ch22:17866-17927
+  quote: ‘He looks at the video and goes “Hah!” and walks out,’ Graves recalled.
+  claim_id: 8a54bd01-4854-43c9-858b-f02bd91c6894
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
+- text: A witness described a large, approximately 90-metre red square object approaching
+    Vandenberg Air Force Base from the ocean, told to Graves by contractors
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:73551-73830
@@ -813,7 +683,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-- text: Object remained ~45 seconds before darting off
+- text: During the Vandenberg incident, the object remained for about 45 seconds before
+    darting off over the mountains
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:73842-73918
@@ -823,136 +694,55 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cba2dfff-b37a-4d25-a909-d8e67c885d12
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cba2dfff-b37a-4d25-a909-d8e67c885d12
-- text: Sighting at ~8:45am; similar event within 24 hours
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:73930-74159
-  quote: There was a similar event within 24 hours, later in the evening. This was
-    a morning event, I believe 8:45 in the morning. Later in the evening, post sunset,
-    there were reports of other sightings on base including some aggressive behaviors.
-  claim_id: 21a66f7d-eade-4909-aaa5-106e2c049837
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-21a66f7d-eade-4909-aaa5-106e2c049837
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-21a66f7d-eade-4909-aaa5-106e2c049837
-- text: Objects approached security guards at rapid speed
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:74171-74383
-  quote: These objects were approaching some of the security guards at rapid speeds
-    before darting off, and this is information that was received through one of the
-    witnesses that have approached me at Americans for Safe Aerospace.
-  claim_id: 3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
-- text: Object estimated almost the size of a football field
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:74882-74995
-  quote: This object was estimated to be almost the size of a football field and I
-    have not seen anything personally that large.
-  claim_id: d8089e06-03fb-4330-a54a-f03f29c50e48
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d8089e06-03fb-4330-a54a-f03f29c50e48
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d8089e06-03fb-4330-a54a-f03f29c50e48
-- text: 'AARO: UAP detected worldwide wherever USN operates'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:66045-66284
-  quote: Since the events initially occurred, I have learned that the objects have
-    been detected, essentially, where all operations—our Navy operations are being
-    conducted across the world and that is from the All-domain Anomaly Resolutions
-    Office reporting.
-  claim_id: 0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
-- text: ASRS is Congress-funded with built-in analytics
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:85783-85842
-  quote: It also has built-in analytics capability and is funded by Congress.
-  claim_id: 6c416be9-a95b-4328-9fe7-da635b8fccf6
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
-- text: Graves recommends ASRS as a short-term reporting platform
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:85577-85778
-  quote: One of the recommendations that have been put forward is to utilize their
-    existing Aviation Safety Reporting System to serve as a short-term fill and trusted
-    platform for pilots that want to report on UAP.
-  claim_id: 368a9b88-5c01-47bd-aa03-7ebdab70cf71
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
-- text: Worked with AIAA to establish a UAP Integration Committee
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:88935-89119
-  quote: I have been working with the American Institute of Aeronautics and Astronautics
-    to help them stand up a UAP integration committee to help integrate their engineering
-    prowess into this problem.
-  claim_id: c1e95b8d-9b0a-40d6-b690-e07159cb6595
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
-- text: Since 2021 all UAP videos classified secret or above
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:32891-32945
-  quote: Since 2021 all UAP videos are classified as secret or above.
-  claim_id: 648c41bf-2910-4994-bacc-3de28f508858
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-648c41bf-2910-4994-bacc-3de28f508858
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-648c41bf-2910-4994-bacc-3de28f508858
-- text: Graves conceded possibility tech is Chinese or adversary-made
-  source: In Plain Sight
-  location: ch29:29972-30137
-  quote: As Ryan Graves conceded, there was a shocking possibility that the advanced
-    UAP technology seen by US Navy pilots was deployed by China or another potential
-    foreign adversary.
-  claim_id: 961496b0-9ea0-4dc2-a944-062cff3e84e8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-961496b0-9ea0-4dc2-a944-062cff3e84e8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-961496b0-9ea0-4dc2-a944-062cff3e84e8
-- text: Warned against conflating shoot-downs with advanced UAP
-  source: In Plain Sight
-  location: ch29:27529-27817
-  quote: In the wake of the February 2023 'unidentified object' shoot-downs, former
-    fighter pilot Ryan Graves also warned18 that the White House should not be conflating
-    the low-tech objects shot down with the extraordinary unexplained high-tech, advanced
-    objects witnessed by pilots with whom he served.
-  claim_id: 32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
+- text: Graves observed no exhaust plume on the unidentified object shown in a targeting-camera
+    video
+  source: Navy pilots describe encounters with UFOs
+  location: 00:05:02.5-00:05:03.6
+  quote: You know, I don't see an exhaust plume.
+  claim_id: 2d519e77-03a8-438c-bd7a-25020ffa0bbb
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2d519e77-03a8-438c-bd7a-25020ffa0bbb
+- text: A targeting-camera video of an unidentified object was captured off Jacksonville,
+    Florida in 2015 by members of Graves' squadron
+  source: Navy pilots describe encounters with UFOs
+  location: 00:05:04.3-00:05:12.2
+  quote: including this one, off the coast of Jacksonville, Florida in 2015, captured
+    on a targeting camera by members of Graves' squadron.
+  claim_id: 5304e2a7-10e9-451e-8544-f1835b0a0394
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5304e2a7-10e9-451e-8544-f1835b0a0394
+- text: Graves is a naval pilot and a key eyewitness in the 2015 USS Roosevelt UAP
+    incursions
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:37238-37306
+  quote: the naval pilot Ryan Graves—a key eyewitness in the USS Roosevelt sightings
+  claim_id: 975bc549-6302-4843-bc8b-f9740f9455ba
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-975bc549-6302-4843-bc8b-f9740f9455ba
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-975bc549-6302-4843-bc8b-f9740f9455ba
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: edc9075fe2f2c2e90b16a0d0563ffbd1e4b7cce60d2e684180ede2a879e3b180
+  prompt_sha256: 97e23b5b97be260cd1d39b0c304c30bb684882444365d17515ff478699eb490f
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 95173
-    output: 61694
+    input: 95872
+    output: 6576
     real_input: 2
-    cache_read: 39325
-    cache_write: 55846
+    cache_read: 39417
+    cache_write: 56453
     calls: 0
-  body_sha256: 9b61b638acd82e3537413745c4f315234da5d6704b56f8c8b5aacab6286bf7ea
+  body_sha256: 79ffe6c8eacef130ad72a03f2ec3cbd75e7b02508cb81908f7ad73f62b57c03a
 ---
 
-Ryan Graves is a former [United States Navy (USN)](/organisations/united-states-navy-usn) [F/A-18 Hornet](/objects/fa-18-hornet) pilot who served for a decade, including two deployments during Operation Enduring Freedom and Operation Inherent Resolve.<sup>1</sup> In 2014 he was an F/A-18F Super Hornet pilot with Navy Fighter Attack Squadron 11 (Strike Fighter Squadron 11 (VFA-11)), the "Red Rippers," stationed at Naval Air Station Oceana near Virginia Virginia Beach.<sup>2</sup> He was trained as an aviation safety officer by the US Navy.<sup>3</sup> Graves later founded [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace),<sup>4</sup> an organisation that advocates for aerospace safety and national security,<sup>5</sup> and became its Executive Director.<sup>6</sup> He speaks on behalf of more than thirty commercial aircrew and military veterans who have confided similar [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) encounters to him.<sup>7</sup>
+Ryan Graves is a former [United States Navy (USN)](/organisations/united-states-navy-usn) F/A-18 pilot who became one of the most prominent public voices reporting [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) encountered by US military aircrew. In 2014, Graves was flying with Navy Fighter Attack Squadron 11 (Strike Fighter Squadron 11 (VFA-11)), the "Red Rippers", stationed at NAS Oceana in Virginia Beach<sup>1</sup>, over a decade of Navy service that included two operational deployments<sup>2</sup>. That year his squadron began seeing UAP hovering over restricted airspace southeast of Virginia Beach<sup>3</sup>, shortly after a radar upgrade let the squadron start detecting unknown objects in its airspace<sup>4</sup>. During a training mission in Warning Area W-72 off the Virginia Beach coast, two F/A-18F Super Hornets were split apart by one such object<sup>5</sup>, described as a dark grey or black cube inside a clear sphere<sup>6</sup> that came within approximately 15 metres of the lead aircraft<sup>7</sup> and was estimated at roughly 1.5 to 4.5 metres in diameter<sup>8</sup>. The squadron filed a safety report on the encounter but received no official acknowledgement and no further mechanism for reporting further sightings<sup>9</sup>.
 
-During training missions in 2014, as part of the [2014-2015 US East Coast UAP encounters](/events/2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters), Graves' [F/A-18](/objects/fa-18) squadron began seeing UAP hovering over restricted airspace southeast of Virginia Beach.<sup>8</sup> That year the squadron's jets received a radar upgrade that made it possible to use infrared targeting cameras to zero in on the objects.<sup>9</sup> The upgraded AN/APG-79 Radar tracked unidentified objects kilometres away on numerous occasions,<sup>10</sup> and when Graves' jet's Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod closed enough distance, it displayed the objects electro-optically or in infrared.<sup>11</sup> "We're getting them on radar and then picking them up on the FLIR," Graves said.<sup>12</sup> On occasion the objects remained visible for the length of a roughly ninety-minute to two-hour flight, and were still there when a fellow pilot took off an hour later.<sup>13</sup> Graves wrote that the UAP his squadron observed could accelerate to speeds up to Mach 1,<sup>14</sup> hold a stationary position despite Category 4 hurricane-force winds of approximately 220 kilometres per hour,<sup>15</sup> showed no visible means of lift, control surfaces or propulsion,<sup>16</sup> and outlasted the fighter jets, operating continuously throughout the day.<sup>17</sup> Graves, a formally trained engineer, wrote that the technology involved defied his understanding.<sup>18</sup> According to Christopher K. Mellon, Graves indicated that he and his colleagues encountered UAP nearly every time they trained in restricted airspace off the US east coast, not far from major population centres and the National Capital Region.<sup>19</sup>
+Graves relayed an account from a fellow pilot who nearly collided with a similar object during the 2014-2015 [US East Coast UAP encounters](/events/2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters): a translucent sphere the colleague described as "a giant soap bubble", with a cube inside touching the sphere's outer edge<sup>10</sup>, telling Graves afterwards, "I almost hit one of those damn things"<sup>11</sup>. Graves was also aboard USS Theodore Roosevelt when the longer, unreleased version of the [Gimbal video](/documents/gimbal-video) was shown during the Gimbal incident; he recalled a cluster of smaller craft flying in an inverted V-shape ahead of the larger object<sup>12</sup>. He later testified that the Gimbal/Go Fast UAP video recording shows a single rotating object on its forward-looking infrared (FLIR) footage, even as pilots on the audio refer to an accompanying fleet that is not visible in the footage itself<sup>13</sup>; Graves said he witnessed in a subsequent debrief that this fleet did appear in the radar data shown on the situational awareness page<sup>14</sup>. Writing about the phenomena his squadron observed generally, Graves said they accelerated to speeds up to Mach 1<sup>15</sup>, could hold position, appearing motionless, despite Category 4 hurricane-force winds of approximately 220 kilometres per hour<sup>16</sup>, and showed no visible means of lift, control surfaces or propulsion<sup>17</sup>. Both Graves and [David Fravor](/people/david-fravor) said they faced no repercussions from their superiors for reporting their encounters<sup>18</sup>.
 
-During a training mission in Warning Area W-72, approximately 16 kilometres off the Virginia Beach coast, two F/A-18F Super Hornets flying in formation were split apart by a UAP.<sup>20</sup> The object was described as a dark grey or black cube inside a clear sphere,<sup>21</sup> coming within approximately 15 metres of the lead aircraft<sup>22</sup> and estimated at between 1.5 and 4.5 metres in diameter.<sup>23</sup> It had no wings, emitted no detectable infrared energy, and had nothing tethering it to the ground.<sup>24</sup> The mission commander terminated the flight immediately and returned to base,<sup>25</sup> and the squadron submitted a safety report on the encounter but received no official acknowledgement and no further mechanism through which to report it.<sup>26</sup> According to In Plain Sight, on a separate occasion two fighters from the squadron were flying barely 30 metres apart when an anomalous object hurtled through the gap between them.<sup>27</sup> Graves said the object was relayed to him by the pilot who experienced the near-miss as a translucent sphere, "a giant soap bubble," with a cube inside touching the sphere's outer edge,<sup>28</sup> and that the colleague told him, "I almost hit one of those damn things."<sup>29</sup> Pilots reporting UAP have described a recurring characteristic of a cube inside a clear sphere with its apex touching the sphere's inner surface,<sup>30</sup> in reports spanning almost eight years and, as far as Graves knows, still ongoing.<sup>31</sup>
+Graves founded [Americans for Safe Aerospace](/organisations/americans-for-safe-aerospace)<sup>19</sup>, an organisation advocating for aerospace safety and national security, and serves as its Executive Director<sup>20</sup>. More than thirty witnesses had come forward to the organisation, with almost 5,000 Americans joining its push for transparency<sup>21</sup>. On 2023-07-26, Graves testified before the House Hearing on Unidentified Anomalous Phenomena (2023-07-26) in that capacity<sup>22</sup>, appearing alongside Fravor and [David Charles Grusch](/people/david-charles-grusch) at the bipartisan 2023-07 Congressional UAP hearing, where all three testified under oath<sup>23</sup>. During the hearing, Graves said he relied on Grusch and others to research where UAP-related records are kept, describing himself as the operator of the group<sup>24</sup>. Graves, Grusch and Fravor jointly indicated there was some possibility that UAP are collecting reconnaissance information on [United States Congress](/organisations/united-states-congress) and military capabilities<sup>25</sup>. Graves told the committee he speaks on behalf of more than 30 commercial aircrew and military veterans who had confided similar UAP encounters to him<sup>26</sup>, and noted that since 2021 all UAP videos have been classified secret or above<sup>27</sup>.
 
-Graves was also involved in the Gimbal incident, aboard the USS Theodore Roosevelt. He recalled seeing a cluster of smaller craft flying in an inverted V-shape in front of the larger object shown in the [Gimbal video](/documents/gimbal-video), on a longer version of the footage he viewed aboard the carrier.<sup>32</sup> Of the object's 90-degree hover rotation, Graves said, "It's just basic airplane physics."<sup>33</sup> The recording on the ATFLIR system shows a single object rotating, while pilots can be heard referring to a fleet of objects that is not visible on the FLIR footage,<sup>34</sup> and Graves said he witnessed during a debrief that this fleet was part of the radar data shown on the situational awareness page.<sup>35</sup> He recalled that Rear Admiral Andrew L. Lewis, on viewing the footage, said "Hah!" and walked out.<sup>36</sup> Graves said the publicly released Gimbal/Go Fast video was cut off at a certain point, with the object appearing to rock slightly just before the recording ended, the last he saw of it.<sup>37</sup> He recognised the voices and footage used in the 2017 New York Times UAP report because he had personally seen the video both when it was recorded and when it was debriefed.<sup>38</sup>
+Beyond his own sightings, Graves brought secondhand accounts to the committee's attention. He testified to information relayed to him about the 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident, in which a group of [Boeing](/organisations/boeing) contractors reported a large, approximately 90-metre red square object approaching the base from the ocean<sup>28</sup>, remaining for about 45 seconds before darting off over the mountains<sup>29</sup>. Underpinning his advocacy work is his own Navy training as an aviation safety officer<sup>30</sup>, and he has worked with the American Institute of Aeronautics and Astronautics (AIAA) to help establish a UAP Integration Committee bringing engineering expertise to the subject<sup>31</sup>. Before the committee, he recommended the existing Aviation Safety Reporting System (ASRS) as a short-term trusted platform for pilots to report UAP<sup>32</sup>, noting it already has built-in analytics capability and is funded by Congress<sup>33</sup>.
 
-Graves said that after the near-misses, other aircrew flying along the US east coast quietly began sharing similar experiences,<sup>39</sup> and that because no one in a command position wanted to know about the sightings, the only recourse available to pilots was to cancel or move their training while the UAP continued manoeuvring nearby unchecked.<sup>40</sup> He and other USS Theodore Roosevelt pilots were eventually summonsed to give confidential briefings to members of the [United States Congress](/organisations/united-states-congress) about the encounters.<sup>41</sup> In July 2023 he testified under oath at a bipartisan congressional hearing alongside David Fravor and David Charles Grusch;<sup>42</sup> the hearing record lists him as appearing in his capacity as Executive Director of Americans for Safe Aerospace at the House Hearing on Unidentified Anomalous Phenomena (2023-07-26).<sup>43</sup> He also attended the 2024 United States congressional hearing on UAPs (13 November), alongside Luis Elizondo and members of Congress.<sup>44</sup> More than thirty witnesses have come forward to Americans for Safe Aerospace and almost 5,000 Americans have joined the organisation's push for transparency,<sup>45</sup> the majority of them commercial pilots at major airlines, often veterans with decades of flying experience.<sup>46</sup> Because he was an operator, Graves said he relied on [David Charles Grusch](/people/david-charles-grusch) and others to research where UAP-related information is held.<sup>47</sup> According to testimony recorded at the same hearing, Grusch, Graves and [David Fravor](/people/david-fravor) all agreed with John Kirby's statement that UAP are having an impact on US training ranges,<sup>48</sup> and Graves and Fravor both said they had faced no repercussions from their superiors for reporting their UAP experiences.<sup>49</sup> Among the accounts brought to Americans for Safe Aerospace, Graves related that during the 2003 Vandenberg Air Force Base UAP incident, a large group of [Boeing](/organisations/boeing) contractors near a launch facility observed a large, roughly 90-metre red square object approach from the ocean and hover at low altitude,<sup>50</sup> remaining for about 45 seconds before darting off over the mountains.<sup>51</sup> He said the sighting occurred that morning at approximately 8:45am, and that a similar event was reported within 24 hours that evening, along with other sightings on the base involving aggressive behaviour.<sup>52</sup> According to a witness who approached Graves at Americans for Safe Aerospace, objects also approached security guards at rapid speed before darting off.<sup>53</sup> Graves said the object was estimated to be almost the size of a football field, and that he had not personally seen anything else that large.<sup>54</sup>
-
-Since Graves' initial East Coast encounters, unidentified objects have reportedly been detected worldwide wherever US Navy operations are conducted, according to reporting from the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro).<sup>55</sup> Graves has recommended that the existing Aviation Safety Reporting System (ASRS), a system funded by Congress with built-in analytics capability,<sup>56</sup> be used as a short-term trusted platform for pilots to report UAP,<sup>57</sup> and he has worked with the American Institute of Aeronautics and Astronautics (AIAA) to help establish a UAP Integration Committee bringing engineering expertise to the subject.<sup>58</sup> Since 2021, all UAP videos have been classified as secret or above.<sup>59</sup> Graves has conceded there is a possibility that the advanced UAP technology seen by Navy pilots was deployed by China or another foreign adversary,<sup>60</sup> but after the unidentified-object shoot-downs of February 2023, later described as the 2023 'Balloongate' UAP shoot-down controversy, he warned that the low-tech objects destroyed should not be conflated with the extraordinary high-tech advanced objects witnessed by pilots he served with.<sup>61</sup>
+Graves and other USS Theodore Roosevelt pilots were later summonsed to give confidential briefings to members of Congress about the East Coast encounters<sup>34</sup>. He recalled that when the UAP video was shown to Rear Admiral Andrew L. Lewis, he responded "Hah!" and walked out<sup>35</sup>. Separately from the cube-in-sphere encounters, members of Graves' squadron captured a targeting-camera video of an unidentified object off the coast of Jacksonville, Florida in 2015, on which no exhaust plume was visible<sup>36,37</sup>. Sources describe Graves as a key eyewitness in the 2015 USS Theodore Roosevelt UAP incursions<sup>38</sup>.

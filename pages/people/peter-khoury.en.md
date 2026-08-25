@@ -1,11 +1,14 @@
 ---
 title: Peter Khoury
-description: Sydney-based UFO abduction claimant whose 1988 and 1992 bedroom encounters
-  and hair-sample DNA testing became a widely cited case in Australian UFO research.
+description: 'Peter Khoury is a Sydney man whose reported lifelong series of anomalous
+  encounters, including a 1992 bedroom episode that yielded a hair sample, became
+  the subject of researcher Bill Chalker''s 2005 book Hair of the Alien: DNA and Other
+  Forensic Evidence for Alien Abductions.'
 metadata:
-  role: UFO abduction claimant; former abduction-support coordinator, UFO Research
-    New South Wales
-  location: New South Wales, Sydney, Australia
+  role: UAP experiencer
+  location: Sydney, New South Wales, Australia
+  affiliations: UFO Research New South Wales (1991-1993); UFO Experience Support Association
+    (co-founder, 1993)
 built_from:
   brief_hash: fb59080e291e99036b1b9bf9ee03e04e0a2a0356c21d39614b37d5ddc2f1a1e0
   claims:
@@ -410,17 +413,17 @@ built_from:
   - id: e7201b74-e225-4304-bcf0-d78ec26abfce
     hash: ff1f048e52f11018f630f3b5ffc9e7e34d193265a7ade70227f09816da7a72b4
 references:
-- text: The biochemists undertook a standard forensic investigation of the hair sample
-    over several months, from late 1998 to early 1999
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch12:6066-6188
-  quote: The biochemists undertook a standard forensic investigation of the shed hair
-    over several months, from late 1998 to early 1999.
-  claim_id: 0c8daca7-ff9c-44d6-9233-e3ba0b19960b
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0c8daca7-ff9c-44d6-9233-e3ba0b19960b
-- text: Khoury's family migrated from Lebanon; in 1973 they migrated to Australia
-    following his father
+- text: Khoury's family migrated from Lebanon to Australia
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:07:12.3-00:07:16.9
+  quote: it wasn't until we moved, migrated to Australia that I really got to know
+    that he was my dad.
+  claim_id: bbe058fd-cc0b-4511-89a5-9f9e65b8dbf4
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-bbe058fd-cc0b-4511-89a5-9f9e65b8dbf4
+- text: Family migrated to Australia in 1973, following his father who had already
+    moved there
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:27:48.0-00:27:54.6
@@ -429,8 +432,69 @@ references:
   claim_id: 39e77cea-1cee-4dde-915e-035bfdf57f77
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-39e77cea-1cee-4dde-915e-035bfdf57f77
-- text: The event occurred on a rooftop in Lebanon around late 1971 or early 1972,
-    where children including Khoury regularly played
+- text: Father worked overseas; Khoury hardly knew him until about age seven
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:07:04.3-00:07:11.3
+  quote: my dad was working overseas and, um, I hardly met my dad or knew him when
+    I was growing up till the age of like seven.
+  claim_id: bdbbc0d4-6a34-4e2b-b674-82114b7d095d
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-bdbbc0d4-6a34-4e2b-b674-82114b7d095d
+- text: Khoury family are Maronite Christian
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:31:06.9-00:31:09.5
+  quote: maronite christian but not overly religious
+  claim_id: 0790a5c7-56e9-4abd-8d34-0abe08a5a702
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-0790a5c7-56e9-4abd-8d34-0abe08a5a702
+- text: Khoury currently works at a church
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:31:19.4-00:31:20.5
+  quote: i mean i work at a church now
+  claim_id: 49dabca2-895d-47ae-9eb0-6c456b837096
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-49dabca2-895d-47ae-9eb0-6c456b837096
+- text: Known Vivian since 1981, when they dated at school
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:39:22.5-00:39:31.5
+  quote: I've known Vivian since 1981, and we separated in December 2016, two weeks
+    before Christmas.
+  claim_id: cc605da1-be06-4263-a529-fadc54eee9eb
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-cc605da1-be06-4263-a529-fadc54eee9eb
+- text: Reconnected with Vivian around 1988
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:39:09.3-00:39:16.4
+  quote: I had just moved back home because I reconnected with Vivian, who I dated
+    at school. We were close at school.
+  claim_id: f6ac95f3-c106-46a5-bf4e-9307ffad27f0
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-f6ac95f3-c106-46a5-bf4e-9307ffad27f0
+- text: Mother breastfeeding him at 3am, aged 22 days, saw an alien in the window
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:32:50.2-00:33:04.8
+  quote: she says, yeah, I, I remember, um, uh, Peter was 22 days old... she was sitting
+    down at three o'clock in the morning on the side of the bed, breastfeeding me.
+    And she said she saw an alien in the window.
+  claim_id: 900745eb-eebf-4dae-85a9-85dd709476e8
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-900745eb-eebf-4dae-85a9-85dd709476e8
+- text: Mother said the being was looking at her infant son, not at her
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:33:31.0-00:33:35.7
+  quote: she said, it wasn't perving at me... He was looking at my son. So his eyes
+    were watching me, not her.
+  claim_id: b1be3eff-78fb-4a3b-866c-e60d932c61b4
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b1be3eff-78fb-4a3b-866c-e60d932c61b4
+- text: 1972 rooftop encounter dated to late 1971 or early 1972
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:06:09.6-00:06:13.7
@@ -438,17 +502,47 @@ references:
   claim_id: 1517b2c6-1ac3-4cf5-83c7-429797f4a027
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
-- text: Khoury looked up while tickling George Farduis and saw an egg-shaped silver
-    craft hovering approximately 30 metres above the group
+- text: Rooftop in neighbourhood where children regularly played
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
-  location: 00:12:48.8-00:12:53.4
-  quote: as I looked up, I saw about 30... probably 30 meters above us was an object.
-  claim_id: d65457f7-31d6-4336-82bf-2b6606ac3ca1
+  location: 00:05:50.4-00:06:01.3
+  quote: this is just a place that you and your friends used to run to to sort of
+    like play a tag or whatever it was you guys used to uh push through this door
+    on this building and hang out on this roof
+  claim_id: d52eee47-7600-4194-9774-2d976da716fd
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
-- text: Khoury observed his cousins and friends frozen motionless, mid-step, with
-    no visible breathing or eye movement
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d52eee47-7600-4194-9774-2d976da716fd
+- text: Families used flat rooftops for cubby houses and summer sleeping
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:06:28.5-00:06:42.0
+  quote: it was a flat roof. It was on the coast... a lot of people would grow grapevines
+    and, um, they'd use them like cubby houses. And most families would sleep up there
+    in summer, you know, under the stars.
+  claim_id: 1d327210-fe54-4f8b-a0b9-8bd5882458dd
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1d327210-fe54-4f8b-a0b9-8bd5882458dd
+- text: Group of seven or eight children, including George Farduis, invited onto the
+    roof
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:08:51.4-00:09:02.5
+  quote: we're playing and one of the kids, um, it was probably about seven or eight
+    of us. And one of the kids just out of the blue just said, let's go and play on
+    the roof. And it was the Amar family.
+  claim_id: 8907d94f-2763-43c8-9aa2-019ca8cd505c
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8907d94f-2763-43c8-9aa2-019ca8cd505c
+- text: Heavy stairwell door stayed open the whole time
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:10:58.8-00:11:06.7
+  quote: It stayed open as if some force has kept it open... And it was on my mind
+    that any second, it's going to come back and knock someone out.
+  claim_id: 3d0940e4-e6d8-42dc-b17d-d7cb28c9ba56
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3d0940e4-e6d8-42dc-b17d-d7cb28c9ba56
+- text: Other children froze motionless mid-movement
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:11:16.9-00:11:31.9
@@ -458,8 +552,24 @@ references:
   claim_id: fb1451d0-3292-4ac6-9cf7-c7e0aa6e86d8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-fb1451d0-3292-4ac6-9cf7-c7e0aa6e86d8
-- text: The craft was silver, perfectly egg-shaped, pointed end up, with a large darkly
-    tinted windscreen
+- text: Khoury was the only child able to move and look up
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:14:36.1-00:14:41.4
+  quote: I was the only one who could move. I was the only one walking around and
+    the only one who could look up.
+  claim_id: c2f4b2b6-9d03-419f-b8a8-658e4a9910db
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-c2f4b2b6-9d03-419f-b8a8-658e4a9910db
+- text: Egg-shaped silver craft hovering approximately 30 metres above the group
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:12:48.8-00:12:53.4
+  quote: as I looked up, I saw about 30... probably 30 meters above us was an object.
+  claim_id: d65457f7-31d6-4336-82bf-2b6606ac3ca1
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
+- text: Craft was silver with a large, darkly tinted windscreen
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:13:37.9-00:13:51.8
@@ -469,8 +579,27 @@ references:
   claim_id: 6e62fe34-8f8b-4b66-87ca-bed4c45320d0
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
-- text: Khoury saw two very thin, very tall creatures inside the craft, visible only
-    as silhouettes
+- text: No landing gear, propeller or doors
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:15:17.0-00:15:27.6
+  quote: This had no landing gear. It didn't have a propeller. It didn't have any
+    doors... it was very shiny, very, very shiny. I could see the sun glistening off
+    it... Chrome.
+  claim_id: 428a2f13-18f9-46cc-845a-72b4cb3feb01
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
+- text: Craft similar in size to a neighbour's Volkswagen Beetle
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:13:22.1-00:13:37.0
+  quote: I looked up and I saw an egg shaped object big as my neighbor, the house
+    that we were playing on their roof, they used to have a, uh, VW, uh, bug, um,
+    Volkswagen. And I'd compare the shape and size to it, the size at least.
+  claim_id: 8b40f804-6bfe-4bd4-96b7-e7ebde3f1fe8
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8b40f804-6bfe-4bd4-96b7-e7ebde3f1fe8
+- text: Two thin, tall figures visible only as silhouettes inside the craft
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:13:57.1-00:14:03.4
@@ -479,8 +608,7 @@ references:
   claim_id: 1a3371e5-49ce-4e76-8945-ecd449d982f8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1a3371e5-49ce-4e76-8945-ecd449d982f8
-- text: The craft dropped in altitude twice, each time by approximately five metres,
-    in an instantaneous drop-and-stop motion
+- text: Craft dropped altitude twice, by about five metres each time
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:17:18.6-00:17:32.9
@@ -491,8 +619,7 @@ references:
   claim_id: dd49c609-55f6-4a24-b624-589d55a62010
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-dd49c609-55f6-4a24-b624-589d55a62010
-- text: After the second drop the craft was approximately 20 metres above the children,
-    having originally been about 30 metres up
+- text: After the second drop the craft was about 20 metres above the children
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:17:56.5-00:17:59.9
@@ -501,8 +628,58 @@ references:
   claim_id: ed646b85-b751-4393-bd5e-16616e0d90c8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ed646b85-b751-4393-bd5e-16616e0d90c8
-- text: During the 1988 encounter Khoury felt pins and needles crawl from his ankles
-    up to his head
+- text: Next memory was the group at the bottom of the stairs, with no recollection
+    of getting there
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:18:09.7-00:18:20.6
+  quote: the next memory I have is we're all down on the bottom steps... nobody no
+    one saw it no one all my friends nobody saw anything... how did we get here no
+    one could rationalize how we one second we're on the roof and the next we're sitting
+    down at the bottom of the steps
+  claim_id: 3a30185b-58ac-4766-99ed-b73e3313bed0
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
+- text: Children grounded for one to two weeks afterwards
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:21:10.6-00:21:19.6
+  quote: we were grounded, we were separated... you're not allowed to play with each
+    other anymore for about a week or so, maybe, you know, nearly two weeks... We
+    were all punished... For lying. Apparently we were lyin
+  claim_id: 29493b42-803a-476f-a3f2-e45ae1b598f1
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-29493b42-803a-476f-a3f2-e45ae1b598f1
+- text: Back living at parents' home for about nine months by 1988
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:40:33.2-00:40:35.8
+  quote: I was probably home for about nine months at the time, 1988.
+  claim_id: db918991-5a21-40c8-ad41-a2ba46f49825
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-db918991-5a21-40c8-ad41-a2ba46f49825
+- text: Sat on the bed with the television on before the 1988 encounter
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:00:54.0-00:00:59.0
+  quote: I sat down and I sat on the side of the bed... i crossed my legs my right
+    leg over my left leg just crossed it over and as i went to lay down on the bed
+    i put my hands cut crossed them like that put at the back of my head.
+  claim_id: b783c835-9345-4dc9-af96-3bdbb951377c
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b783c835-9345-4dc9-af96-3bdbb951377c
+- text: Something gripped his ankles just before his head touched the pillow
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:43:31.8-00:43:48.5
+  quote: before my head even hit the pillow my hands didn't touch the pillow i just
+    felt something grab me around my ankles... i felt like it was this part of the
+    hand, the index finger and the thumb and the webbing and just grabbed me, but
+    it could have been a device.
+  claim_id: 861c9d1e-1a69-4c09-b58a-36b7be4b4511
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-861c9d1e-1a69-4c09-b58a-36b7be4b4511
+- text: Pins-and-needles sensation spread from ankles to scalp
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:43:51.1-00:44:11.8
@@ -513,18 +690,69 @@ references:
   claim_id: 95586e33-8fc6-40e4-b255-214176039821
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-95586e33-8fc6-40e4-b255-214176039821
-- text: Khoury experienced paralysis and the appearance of three or four short humanoid
-    figures with wrinkled, shiny dark black faces
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: '12'
-  quote: I couldn’t scream... There were three orfour ugly figures only about three
-    to four feet tall near me. Their faces were very wrinkled and shiny dark black
-    in color.
-  claim_id: 34d84b31-0687-48f4-a9a6-54f8ba52f0ec
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34d84b31-0687-48f4-a9a6-54f8ba52f0ec
-- text: Khoury observed the female being's large, black, almond-shaped eyes during
-    the 1988 encounter
+- text: Became paralysed and unable to move
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:44:14.9-00:44:19.6
+  quote: as soon as that happened i couldn't move i was paralyzed and i'm lying in
+    bed
+  claim_id: 919a0e47-ffc7-4de1-8f34-3235580c28a8
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-919a0e47-ffc7-4de1-8f34-3235580c28a8
+- text: Could not move except his eyes, which stayed open because he had not been
+    asleep
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:44:46.8-00:44:54.2
+  quote: I don't think I would have been able to open my eyes because I couldn't move
+    any other part of my body. But luckily for me, my eyes were open and I hadn't
+    slept.
+  claim_id: 6daa6be0-1eb0-4466-98ed-915733ea7dd4
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
+- text: Khoury maintains the paralysis began before he fell asleep, ruling out a sleep-related
+    explanation
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:01:70.0-00:01:07.0
+  quote: 'Chris Ramsay: this is by the way before you fall asleep... you''re not even
+    hit the bed yet... so this isn''t like for people thinking this is like oh some
+    hypnotic sort of state. Peter Khoury: No chance. I was still upright. Hadn''t
+    closed my eyes.'
+  claim_id: 637aa896-a0d1-4868-9792-bfa5f09dd5af
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-637aa896-a0d1-4868-9792-bfa5f09dd5af
+- text: Hooded figure approximately 1.2 metres tall at the foot of the bed
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:45:49.3-00:45:58.5
+  quote: i look at the foot of the bed and i see a hooded figure about four foot in
+    height just sit standing there and i assumed that's the one that grabbed my ankle
+  claim_id: 48250fb2-2e5a-46e2-99ba-3cd2baf6728f
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
+- text: Figure described as horrific and evil-looking, robe and hood enlarging its
+    head
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:46:15.2-00:46:27.8
+  quote: looking at this creature and it looked horrific it looked scary like it looked
+    to me evil... it was wearing a hood the robe with the hood and the hood made its
+    head look a lot bigger.
+  claim_id: e7201b74-e225-4304-bcf0-d78ec26abfce
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-e7201b74-e225-4304-bcf0-d78ec26abfce
+- text: Two further identical hooded beings on the right side of the bed
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:01:196.0-00:01:206.0
+  quote: Now I could move my eyes... I look and I see two more, exactly the same,
+    identical. I couldn't, no features, no difference whatsoever. It was like they
+    were clones of a production line.
+  claim_id: 83c6432e-cf34-41e2-befc-b5981366e994
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-83c6432e-cf34-41e2-befc-b5981366e994
+- text: Female being had large, black, almond-shaped eyes
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:01:08.3-00:01:14.5
@@ -533,9 +761,29 @@ references:
   claim_id: 86bd5be3-9a46-489b-a2f8-42b986dbe8f5
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-86bd5be3-9a46-489b-a2f8-42b986dbe8f5
-- text: The night after the 1988 encounter, Khoury discovered a burning mark on his
-    shin roughly five millimetres in diameter and two millimetres deep, with three
-    prong marks
+- text: Female being wore a thin mask held by a fishing-line-like band
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:03:355.0-00:03:375.0
+  quote: on her mouth, I didn't see her mouth because she had... these were probably
+    wide as two fingers... it was just across her mouth just like a band-aid... it
+    did have a very very thin like a almost like a fishing line thing... So I got
+    the impression she didn't want to catch anything or more so give me anything.
+  claim_id: 7eb94c73-2c10-4047-9be3-3e10c320b912
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-7eb94c73-2c10-4047-9be3-3e10c320b912
+- text: Blacked out for about 15 minutes before regaining movement
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 00:02:53.0-00:03:20.0
+  quote: here I am, about 15 minutes, what I thought was 15 minutes later... I blacked
+    out, right? I jump out of bed, I got my movement, I got my feelings back, and
+    I just sprung out of bed so quick, opened the door to my room, went into the TV
+    room.
+  claim_id: b568e79c-06cd-44e1-813e-9151983c05fd
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b568e79c-06cd-44e1-813e-9151983c05fd
+- text: Burn mark on shin resembling a bullet hole, with three prong marks
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:02:325.0-00:02:331.0
@@ -545,8 +793,8 @@ references:
   claim_id: 9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
-- text: During Chalker's family interview, Sam Khoury described witnessing Peter being
-    floated out through the hallway by three beings
+- text: Sam Khoury described witnessing Peter floated through the hallway by three
+    beings
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:30:23.7-00:30:27.5
@@ -555,8 +803,7 @@ references:
   claim_id: b3bef33f-c971-4a18-abf9-3faaee614aab
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b3bef33f-c971-4a18-abf9-3faaee614aab
-- text: Khoury said he had not known about Sam's account until Sam told Chalker about
-    it
+- text: Khoury only learned of the account when Sam told Chalker directly
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 00:30:51.5-00:30:55.4
@@ -565,7 +812,29 @@ references:
   claim_id: 8d6a2994-59e6-4cb5-a79d-85660849d7ee
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8d6a2994-59e6-4cb5-a79d-85660849d7ee
-- text: Khoury described the blond woman's face, eyes, and hair in the July 1992 encounter
+- text: 'October 1991: Asian woman took his hand to her breast, then cupped his head
+    to it'
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:10220-10502
+  quote: In the 1991 event Peter describes much more activity with the Asian woman.
+    She takes Peter's hand to her breast, taking it back and forth three or four times,
+    then some eight to ten times she cups Peter's head to her breast, back and forth,
+    seemingly wanting him to bite her breast area.
+  claim_id: 11bf8eca-3df8-4103-b200-34de125a6b07
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-11bf8eca-3df8-4103-b200-34de125a6b07
+- text: Woke two hours after Oct 1991 event; called Vivian under an hour after July
+    1992 event
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:10035-10209
+  quote: Peter then wakes up two hours after the encounter; in the July 1992 event
+    he calls Vivian at work just after she arrives there, which is less than an hour
+    after the incident occurred.
+  claim_id: eb79d3c3-11ac-4f57-923b-5e3c7ede10ba
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eb79d3c3-11ac-4f57-923b-5e3c7ede10ba
+- text: Blond woman described as mid-thirties, hair blown back, protruding cheeks,
+    large eyes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: '106'
   quote: She was… in her mid-thirties; she had good skin; the hair was pretty weird...
@@ -575,8 +844,17 @@ references:
   claim_id: bf782562-d407-412e-8d8c-a5f9497de9d6
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bf782562-d407-412e-8d8c-a5f9497de9d6
-- text: Khoury bit the blond woman's nipple, swallowing a piece that remained stuck
-    in his throat for three days
+- text: Face longer and narrower than human, with a pointed, witch-like chin
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: '110'
+  quote: The shape of the face was longer than usual... The chin was pointier… like
+    a witch’s long chin in movies…. The hair covered the ears…. Her hair came down
+    to about halfway down her back... The hair looked really exotic…. it looked frail
+    in a way… it wasn’t very strong hair.
+  claim_id: 26733d89-7081-4a6e-bf31-29fe9e1ce897
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-26733d89-7081-4a6e-bf31-29fe9e1ce897
+- text: Bit her nipple, swallowing a piece stuck in his throat for three days
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: '144'
   quote: She pulled me over and my mouth was… on her nipple and I bit... I did that,
@@ -585,18 +863,7 @@ references:
   claim_id: 14a7e43b-2999-4224-a3f1-e5fac70bf46a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-14a7e43b-2999-4224-a3f1-e5fac70bf46a
-- text: Jamie Leonarder's association with Khoury was established by mid-1992, and
-    Khoury showed him the hair sample
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch10:12276-12466
-  quote: Jamie's association with Peter was established by the middle of 1992, and
-    given the empathy they had, it was only natural that Peter would tell Jamie about
-    the experience and showed him the hair.
-  claim_id: 4a2cbbb4-c2de-4fe3-9d96-00f82377de71
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a2cbbb4-c2de-4fe3-9d96-00f82377de71
-- text: Both Peter and Vivian Khoury were certain the two-women incident occurred
-    after Peter's severe job site head injury of 1992-05-13
+- text: Khoury and Vivian certain the episode occurred after the May 1992 head injury
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:11053-11411
   quote: Both Peter and Vivian were certain that the incident had occurred after his
@@ -607,45 +874,25 @@ references:
   claim_id: 8073f7bc-577c-48a3-90a4-026836fcfaf5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8073f7bc-577c-48a3-90a4-026836fcfaf5
-- text: Hypnosis sessions with Khoury were carried out and videotaped on 2003-11-06
+- text: Needle-like device inserted something into his head during the 1988 encounter
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:12454-12585
-  quote: Dick Warburton, a friend and psychologist, consented to monitor the sessions,
-    which were carried out and videotaped on November 6, 2003.
-  claim_id: 50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
+  location: ch10:2702-2855
+  quote: Peter Khoury clearly remembered that a needle-like device had inserted something
+    into his head during his 1988 encounter and had left behind a "puncture mark."
+  claim_id: 0928d1bb-084a-40b2-8d0b-33512f6b36ae
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
-- text: Chalker wrote to Moira McGhee and Bryan Dickeson, with Khoury's written support,
-    requesting a copy of the taped interview
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0928d1bb-084a-40b2-8d0b-33512f6b36ae
+- text: Doughnut-shaped lump persisted for nearly four years
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:1207-1352
-  quote: To try to clarify this situation, I wrote to both Moira McGhee and Bryan
-    Dickeson, with Peter Khoury's written support, requesting a copy of the tape.
-  claim_id: 5ae8cd0c-b171-4efe-bb46-10e2fbc93670
+  location: ch10:2923-3151
+  quote: Nearly four years later there was still a noticeable lump at the site of
+    the puncture mark. The doughnut-shaped lump seemed to grow intermittently to about
+    half the size of a marble, and then shrink, but it would never entirely disappear.
+  claim_id: c5b6e40e-1561-4d90-99e9-385459396790
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5ae8cd0c-b171-4efe-bb46-10e2fbc93670
-- text: John Mack took the opportunity during his 1996 visit to regress Khoury under
-    hypnosis over the 1988 experience
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:13649-13796
-  quote: he took the opportunity to regress Peter to try to clarify the 1988 experience
-    beyond the moment of blankness after the needle was inserted in his head.
-  claim_id: c3410914-6f26-4858-8d58-e0dfd43612c2
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c3410914-6f26-4858-8d58-e0dfd43612c2
-- text: Under Mack's 1996 regression, Khoury described being on a table in a lit room
-    with an entity speaking to him
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:13803-14054
-  quote: Under Mack's regression Peter described being taken into a room that was
-    lit up. The walls were white, as if the surface was the light source. He was on
-    a table, with one entity standing above him and speaking to him with a sound like
-    the chirping of birds.
-  claim_id: 5315506c-84eb-4670-9361-b00ab0f5b939
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5315506c-84eb-4670-9361-b00ab0f5b939
-- text: Peter Khoury felt something pop out of the puncture mark site and saw a dark
-    object fall into the carpet
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c5b6e40e-1561-4d90-99e9-385459396790
+- text: Dark brown, match-head-sized object popped from the site and fell into the
+    carpet
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:3661-3964
   quote: Then suddenly he felt something pop out of the spot and he caught a glimpse
@@ -655,18 +902,23 @@ references:
   claim_id: f96e4eae-93fb-4fbe-890f-6ef82f2059f4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f96e4eae-93fb-4fbe-890f-6ef82f2059f4
-- text: Bill Chalker needed to establish with some degree of certainty how the hair
-    sample was procured, given its significance
+- text: 'Diary entry, 26 August 1992: ''lack of help from committee'''
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch10:10509-10693
-  quote: Because of the significance of the hair evidence, I needed to establish with
-    some degree of certainty that the hair was indeed procured in the way Peter described
-    during his July 1992 experience.
-  claim_id: 06fe2145-d7ae-4348-8968-32fbde899a81
+  location: ch10:4662-4764
+  quote: An entry on August 26, almost two weeks after he had told Vivian about it,
+    notes a "lack of help from committee."
+  claim_id: f6504be7-c8da-4610-9d9f-9d94f0308e0e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-06fe2145-d7ae-4348-8968-32fbde899a81
-- text: Bill Chalker first heard about the hair sample in 1996 but initially focused
-    on more conventional investigations
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f6504be7-c8da-4610-9d9f-9d94f0308e0e
+- text: 'Diary entry, 27 August 1992: ''do not discuss experience'''
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch10:4776-4916
+  quote: The very next day Peter records, "do not discuss experience/' referring to
+    the July 1992 event, because of the lack of positive feedback or interest.
+  claim_id: 65ddf112-8dc7-4a4b-84c0-97a80a054cbb
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-65ddf112-8dc7-4a4b-84c0-97a80a054cbb
+- text: Chalker first heard of the hair sample in 1996
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:3129-3260
   quote: initially my focus was on more conventional investigations, and there was
@@ -674,8 +926,58 @@ references:
   claim_id: 4536e7a7-05ce-48e6-a986-36842cd28af3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4536e7a7-05ce-48e6-a986-36842cd28af3
-- text: The DNA profile from the blond hair sample showed five substitutions, three
-    common among human racial types and two rare
+- text: Chalker worked with a group of specialists referred to as an 'invisible college'
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch11:35032-35292
+  quote: I have been working with this group of invisible college specialists to bring
+    hard science to the controversial field of alien abductions. The bizarre events
+    that focused on Peter Khoury provided an extraordinary opportunity to assess the
+    reality of abduction experiences.
+  claim_id: 39685a98-49dd-41f8-bcb0-0a954bd45f3e
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-39685a98-49dd-41f8-bcb0-0a954bd45f3e
+- text: Forensic investigation of the hair conducted late 1998 to early 1999
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:6066-6188
+  quote: The biochemists undertook a standard forensic investigation of the shed hair
+    over several months, from late 1998 to early 1999.
+  claim_id: 0c8daca7-ff9c-44d6-9233-e3ba0b19960b
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0c8daca7-ff9c-44d6-9233-e3ba0b19960b
+- text: PCR amplification and sequencing used on the hair sample
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:4689-4915
+  quote: Our discussions then focused on the fact that techniques like polymerase
+    chain reaction (PCR) amplification and sequencing of mitochondrial DNA on the
+    hair sample might provide a real challenge to the credibility of abduction stories
+  claim_id: 94ca98f2-f656-4339-b107-18947433df33
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
+- text: Control hair samples cut from Khoury and Vivian in Chalker's presence
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:7669-7812
+  quote: Similar pieces of hair shaft were cut from the hair samples that had been
+    taken from Peter and his wife Vivian in my presence and would act as controls.
+  claim_id: ee78455a-5269-4bb1-83fb-1568c6982b27
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ee78455a-5269-4bb1-83fb-1568c6982b27
+- text: Three hair samples easily distinguishable to the eye and under a microscope
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:7823-7908
+  quote: The three hair samples were easily distinguishable both to the naked eye
+    and under a microscope.
+  claim_id: 1749846e-3ab9-4df7-a9e3-827bf8d95050
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1749846e-3ab9-4df7-a9e3-827bf8d95050
+- text: Khoury's hair thick and black; Vivian's normal thickness and brown
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:8051-8162
+  quote: In sharp contrast, Peter Khoury’s hair was thick and black, while hair from
+    Vivian was of normal thickness and brown.
+  claim_id: a8d8c6a5-5dcd-4376-b2cb-2278df347940
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a8d8c6a5-5dcd-4376-b2cb-2278df347940
+- text: DNA profile showed five substitutions, three common, two rare
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:10896-11092
   quote: The DNA profile from the blond hair sample consistently showed five of these
@@ -684,8 +986,7 @@ references:
   claim_id: e79d61d2-4dd5-45e7-9ef1-5a2a9c94cd9c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e79d61d2-4dd5-45e7-9ef1-5a2a9c94cd9c
-- text: Given the hair was blond, DNA would be expected to match Scandinavian racial
-    types, but it revealed otherwise
+- text: Blond hair would suggest Scandinavian racial types, but DNA indicated otherwise
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:12015-12130
   quote: we would expect the DNA to match racial types from Scandinavian countries
@@ -693,8 +994,25 @@ references:
   claim_id: e1f6f876-ab11-4331-bb31-e05f498cbd6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e1f6f876-ab11-4331-bb31-e05f498cbd6d
-- text: A chief biochemist concluded a fair-skinned Sydney-area donor was ruled out;
-    the DNA fits only a Chinese Mongoloid donor
+- text: Further blood samples taken from Khoury, Vivian and a Chinese biochemical
+    analyst
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:13614-13748
+  quote: further controlled DNA testing was undertaken with blood samples obtained
+    from Peter Khoury, his wife, and a male Chinese biochemical analyst
+  claim_id: bcdc7b06-236b-4604-977b-76af16f2f135
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bcdc7b06-236b-4604-977b-76af16f2f135
+- text: Chinese analyst had no prior contact with the Khourys or the hair sample
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch12:13758-13874
+  quote: Like Peter’s wife, this man had never touched the sample, and indeed had
+    never had any contact with Peter or Vivian Khoury.
+  claim_id: c1078126-12bb-4910-9442-9fe61e534e93
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c1078126-12bb-4910-9442-9fe61e534e93
+- text: 'Biochemist: DNA rules out a fair-skinned donor, fits only a Chinese Mongoloid
+    donor'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:12677-12920
   quote: While it would not be impossible for him to have had sexual contact with
@@ -704,17 +1022,18 @@ references:
   claim_id: 9ad45189-4712-4889-8a13-f2631fb10e6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9ad45189-4712-4889-8a13-f2631fb10e6d
-- text: Further controlled DNA testing used blood samples from Khoury, his wife, and
-    a male Chinese biochemical analyst
+- text: 'Biochemist: most probable donor remains a tall, blond woman needing little
+    pigmentation'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch12:13614-13748
-  quote: further controlled DNA testing was undertaken with blood samples obtained
-    from Peter Khoury, his wife, and a male Chinese biochemical analyst
-  claim_id: bcdc7b06-236b-4604-977b-76af16f2f135
+  location: ch12:13341-13569
+  quote: 'The most probable donor of the hair must therefore be as [Peter Khoury]
+    claims: a tall blond female who does not need much color in her hair or skin,
+    as a form of protection against the sun, perhaps because she does not require
+    it.'
+  claim_id: 1d4e3efd-f3f3-45f0-88ca-3e080bdafbc4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bcdc7b06-236b-4604-977b-76af16f2f135
-- text: In November 1991 Khoury joined UFO Research New South Wales, seeking to understand
-    his 1988 experience
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1d4e3efd-f3f3-45f0-88ca-3e080bdafbc4
+- text: Joined UFO Research New South Wales in November 1991
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:417-637
   quote: Then in November 1991, he heard about a local UFO group called UFO Research
@@ -723,8 +1042,7 @@ references:
   claim_id: dac57570-38e2-4712-a323-69f2e37b2c67
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-dac57570-38e2-4712-a323-69f2e37b2c67
-- text: Khoury became UFO Research New South Wales's de facto abduction coordinator
-    and began developing an abductee support subgroup
+- text: Became UFO Research New South Wales's de facto abduction coordinator
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:1355-1524
   quote: Driven by the need to understand his own experiences, Peter found himself
@@ -733,15 +1051,23 @@ references:
   claim_id: d18cd134-18f3-4ecc-9cd3-01e81f0f0224
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d18cd134-18f3-4ecc-9cd3-01e81f0f0224
-- text: Khoury resigned from UFO Research New South Wales at the end of March 1993
+- text: After Hopkins's October 1992 lecture, the group sought to take over Khoury's
+    support group
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch10:5229-5335
+  quote: The group now wanted to take over the abduction support group that had been
+    nurtured principally by Peter Khoury.
+  claim_id: e73d779d-2c43-4145-b426-17c934cfb1d8
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e73d779d-2c43-4145-b426-17c934cfb1d8
+- text: Resigned from UFO Research New South Wales at the end of March 1993
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:7003-7061
   quote: Peter Khoury resigned from UFOR (NSW) at the end of March 1993.
   claim_id: cd24552f-5665-448f-9c8a-824b26ba84ea
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cd24552f-5665-448f-9c8a-824b26ba84ea
-- text: Khoury and Jamie Leonarder, with others from the support group, formed the
-    UFO Experience Support Association, formalised on 1993-04-14
+- text: Co-founded the UFO Experience Support Association, formalised 14 April 1993
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:7067-7254
   quote: Many in the support group left with him, including Leonarder, and together
@@ -750,70 +1076,129 @@ references:
   claim_id: 1e74cedd-3b57-4da8-8f75-9fb099b1f904
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1e74cedd-3b57-4da8-8f75-9fb099b1f904
-- text: Chalker concluded Khoury appeared to be describing an entirely different episode,
-    roughly nine months before the 1992 event
+- text: John Mack regressed Khoury under hypnosis during a 1996 visit
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:10831-11003
-  quote: But it soon became very clear to me that Peter seemed to be talking about
-    an entirely different episode than the 1992 event, one that apparently occurred
-    about nine months earlier.
-  claim_id: cef6ca06-102b-43c6-a7f0-e4c76484853f
+  location: ch14:13649-13796
+  quote: he took the opportunity to regress Peter to try to clarify the 1988 experience
+    beyond the moment of blankness after the needle was inserted in his head.
+  claim_id: c3410914-6f26-4858-8d58-e0dfd43612c2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cef6ca06-102b-43c6-a7f0-e4c76484853f
-- text: Khoury described a hooded figure at the foot of the bed, roughly 1.2 metres
-    tall
-  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
-    ep. 58
-  location: 00:45:49.3-00:45:58.5
-  quote: i look at the foot of the bed and i see a hooded figure about four foot in
-    height just sit standing there and i assumed that's the one that grabbed my ankle
-  claim_id: 48250fb2-2e5a-46e2-99ba-3cd2baf6728f
-  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
-- text: In the October 1991 event, Khoury described the Asian woman guiding his hand
-    and head to her breast area repeatedly
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c3410914-6f26-4858-8d58-e0dfd43612c2
+- text: Under regression, described a lit white room, a table, and an entity speaking
+    in bird-like chirps
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch14:10220-10502
-  quote: In the 1991 event Peter describes much more activity with the Asian woman.
-    She takes Peter's hand to her breast, taking it back and forth three or four times,
-    then some eight to ten times she cups Peter's head to her breast, back and forth,
-    seemingly wanting him to bite her breast area.
-  claim_id: 11bf8eca-3df8-4103-b200-34de125a6b07
+  location: ch14:13803-14054
+  quote: Under Mack's regression Peter described being taken into a room that was
+    lit up. The walls were white, as if the surface was the light source. He was on
+    a table, with one entity standing above him and speaking to him with a sound like
+    the chirping of birds.
+  claim_id: 5315506c-84eb-4670-9361-b00ab0f5b939
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-11bf8eca-3df8-4103-b200-34de125a6b07
-- text: Peter Khoury currently works at a church, and his family is Maronite Christian
-  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
-    ep. 58
-  location: 00:31:19.4-00:31:20.5
-  quote: i mean i work at a church now
-  claim_id: 49dabca2-895d-47ae-9eb0-6c456b837096
-  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-49dabca2-895d-47ae-9eb0-6c456b837096
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5315506c-84eb-4670-9361-b00ab0f5b939
+- text: Khoury not fully satisfied with the 1996 regression results
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:14288-14465
+  quote: That was all that came out in the session. Ultimately Peter was not really
+    satisfied with the hypnotic recollections and feels more comfortable with the
+    consciously recollected details.
+  claim_id: 8275abd0-a4e2-43cd-94f9-72873c861608
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8275abd0-a4e2-43cd-94f9-72873c861608
+- text: Chalker wrote to Moira McGhee and Bryan Dickeson requesting the taped interview
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:1207-1352
+  quote: To try to clarify this situation, I wrote to both Moira McGhee and Bryan
+    Dickeson, with Peter Khoury's written support, requesting a copy of the tape.
+  claim_id: 5ae8cd0c-b171-4efe-bb46-10e2fbc93670
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5ae8cd0c-b171-4efe-bb46-10e2fbc93670
+- text: Chalker told Khoury the tape omits any mention of the hair sample
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:11041-11209
+  quote: I contacted Peter Khoury after I had listened to the tape and advised him
+    that in the interview he clearly refers to the two strange women but doesn't mention
+    the hair sample.
+  claim_id: 69c253e1-e83b-4386-b5b2-c36a20c19b0f
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-69c253e1-e83b-4386-b5b2-c36a20c19b0f
+- text: Hypnosis session monitored by a psychologist friend and videotaped, 6 November
+    2003
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:12454-12585
+  quote: Dick Warburton, a friend and psychologist, consented to monitor the sessions,
+    which were carried out and videotaped on November 6, 2003.
+  claim_id: 50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
+- text: Recalled driving Vivian to the station while feeling very sick
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:15081-15236
+  quote: 'RT: You are very sick… . We want you to see yourself in the car with Vivian.
+    Were you driving her there? PK: Yeah. RT: Okay. You are driving off towards the
+    station.'
+  claim_id: 5a2b0379-e3c7-4519-ae9b-05ffe83677c8
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5a2b0379-e3c7-4519-ae9b-05ffe83677c8
+- text: Recalled pulling the car over to vomit before reaching the station
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:15642-15806
+  quote: 'PK: It''s really cold. RT: What time is it? PK: It''s seven. Five past seven.
+    I''ve got to get her to the station before the train leaves I pull over and get
+    sick, just vomiting.'
+  claim_id: ee389522-9dd7-4637-91f6-3d93877371fb
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ee389522-9dd7-4637-91f6-3d93877371fb
+- text: Recalled Vivian telling him he might need to see a doctor
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch14:16004-16164
+  quote: 'PK: She''s telling me that I may need to see a doctor just to watch myself
+    basically. I''m on my way back. I pull over twice. On the way there I pull over
+    about five times.'
+  claim_id: 1c5222b9-2b1c-4ba3-a59d-44d8d078d71f
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1c5222b9-2b1c-4ba3-a59d-44d8d078d71f
+- text: 'Chalker: found Khoury a friendly and reliable person'
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch10:10052-10165
+  quote: I should note that since getting to know Peter Khoury since 1993, I have
+    found him to be a friendly and reliable person.
+  claim_id: 04f69211-6f06-4b0f-adbc-90191c2e3dbc
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-04f69211-6f06-4b0f-adbc-90191c2e3dbc
+- text: 'Chalker: Khoury remains open but insists on serious, ethical research and
+    support for abductees'
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch10:10368-10497
+  quote: He remains open to whatever these experiences may turn out to be, but insists
+    on the serious and ethical research and support of abductees.
+  claim_id: eaf97217-179f-4d98-adde-e7122fc431f3
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eaf97217-179f-4d98-adde-e7122fc431f3
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 685ef9722e69fb50c95bcf11eb6ce56af7f1e41925b7176751d7bc6535b8de6f
+  prompt_sha256: c86f9f0bc54242142e0354b5e15dc70cfb91f3bd977610fbdd9c0ec96178bf70
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 374957
-    output: 79606
-    real_input: 6
-    cache_read: 181245
-    cache_write: 193706
+    input: 104578
+    output: 63785
+    real_input: 2
+    cache_read: 39417
+    cache_write: 65159
     calls: 0
-  body_sha256: 7c15567b55a294e2fc1dd5fa47ab8a33d8191eaf914448e4b5ca5ea9c274b085
+  body_sha256: b026db28b553ae9ae473d1fcb377dcbfb8a9e4f1c7df7bee024e1a94c14a6d88
 ---
 
-Peter Khoury is a Sydney-based UFO abduction claimant whose case, centred on encounters in 1988 and 1992 and on a hair sample recovered from one of them, became one of the most closely investigated in Australian UFO research through the work of physicist [Bill Chalker](/people/bill-chalker). Khoury's family migrated from Lebanon to Australia in 1973, following his father.<sup>1</sup> He is a Maronite Christian and currently works at a church.<sup>2</sup>
+Peter Khoury is a Sydney man whose reported anomalous experiences span from infancy in Lebanon to adulthood in [Australia, New South Wales, Sydney](/places/new-south-wales-sydney-australia), forming the Peter Khoury alien abduction case documented by [Bill Chalker](/people/bill-chalker) in his 2005 book Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions. Khoury's family migrated from Lebanon to Australia,<sup>1</sup> settling there in 1973 following his father, who had already moved to the country.<sup>2</sup> His father had worked overseas, and Khoury hardly knew him growing up until around the age of seven.<sup>3</sup> The Khoury family are Maronite Christian,<sup>4</sup> and Khoury currently works at a church.<sup>5</sup> He has known Vivian since 1981, when the two first dated at school,<sup>6</sup> and reconnected with her around 1988.<sup>7</sup>
 
-Khoury reports a series of encounters beginning in childhood. During the 1972 Lebanon rooftop egg-shaped craft encounter, which occurred around late 1971 or early 1972 on a rooftop where local children regularly played,<sup>3</sup> Khoury looked up while tickling a friend, George Farduis, and saw an egg-shaped silver craft hovering approximately 30 metres above the group.<sup>4</sup> He observed his cousins and friends frozen motionless mid-step, with no visible breathing or eye movement,<sup>5</sup> while the craft, silver and perfectly egg-shaped with a large darkly tinted windscreen,<sup>6</sup> contained two very thin, very tall creatures visible only as silhouettes.<sup>7</sup> The craft dropped in altitude twice, each time by approximately five metres, in an instantaneous drop-and-stop motion,<sup>8</sup> ending up approximately 20 metres above the children after having originally been about 30 metres up.<sup>9</sup>
+Khoury has said his mother told him that, while breastfeeding him at three o'clock in the morning when he was 22 days old, she saw a being at the window during the 1964 Peter Khoury infancy alien window sighting,<sup>8</sup> which she felt was looking at her infant son rather than at her.<sup>9</sup> His earliest personally recollected experience, the 1972 Lebanon rooftop egg-shaped craft encounter, he dates to around late 1971 or early 1972,<sup>10</sup> in a neighbourhood where children regularly played on flat rooftops<sup>11</sup> and families used them for cubby houses, sometimes sleeping there in summer.<sup>12</sup> He was among a group of about seven or eight children, including a boy named George Farduis, invited onto a neighbouring roof,<sup>13</sup> and as they ran up the stairwell a heavy door that normally slammed shut under its own weight stayed open the entire time.<sup>14</sup> On the roof, Khoury said his cousins and friends froze motionless mid-movement,<sup>15</sup> while he alone remained able to move and look up.<sup>16</sup> He reported seeing an egg-shaped silver craft hovering approximately 30 metres above the group,<sup>17</sup> silver in colour with a large, darkly tinted windscreen<sup>18</sup> and no visible landing gear, propeller or doors,<sup>19</sup> which he likened in size to a neighbour's Volkswagen Beetle.<sup>20</sup> Inside, he described two very thin, tall figures visible only as silhouettes.<sup>21</sup> The craft reportedly dropped in altitude twice, by around five metres each time,<sup>22</sup> coming to rest at roughly 20 metres above the children after the second drop,<sup>23</sup> after which Khoury's next memory was of the group at the bottom of the stairs with no recollection of getting there.<sup>24</sup> The children were reportedly grounded for one to two weeks afterwards.<sup>25</sup>
 
-The best-documented episode is the 1988 Peter Khoury bedroom hooded entity encounter, during which Khoury experienced paralysis, pins-and-needles sensations rising from his ankles to his head,<sup>10</sup> and the appearance of three or four short humanoid figures with wrinkled, shiny dark black faces.<sup>11</sup> He also described a female being with large, black, almond-shaped eyes.<sup>12</sup> On the night following the encounter, he discovered a burning mark on his shin roughly five millimetres in diameter and two millimetres deep, with three prong marks arranged in a triangular pattern.<sup>13</sup> Khoury's brother, [Sam Khoury](/people/sam-khoury), later told Chalker during a family interview that he had witnessed Peter being floated out through the hallway by three beings,<sup>14</sup> an account Khoury said he had not known about until Sam told Chalker directly.<sup>15</sup> This episode is separately recorded as the 1988 Peter Khoury brother's levitation witnessing event.
+By 1988, Khoury had been back living at his parents' home for about nine months.<sup>26</sup> During the 1988 Peter Khoury bedroom hooded entity encounter, he was sitting on his bed with the television on<sup>27</sup> when he said something gripped his ankles just before his head touched the pillow,<sup>28</sup> followed by pins and needles spreading from his ankles up through his body to his scalp,<sup>29</sup> after which he became paralysed.<sup>30</sup> He could not move any part of his body except his eyes, which remained open because he had not been asleep,<sup>31</sup> and he has maintained that the paralysis began before he fell asleep, which he says rules out a hypnagogic or sleep-related explanation.<sup>32</sup> At the foot of the bed he reported a hooded figure approximately 1.2 metres tall,<sup>33</sup> which he found horrific and evil-looking, its head appearing enlarged by a robe and hood,<sup>34</sup> and said two further, identical hooded beings stood closer to him on the right side of the bed.<sup>35</sup> He also described a female being with large, black, almond-shaped eyes,<sup>36</sup> wearing a thin mask over her mouth held by a fishing-line-like band, which he said gave him the impression she did not want to catch or transmit something.<sup>37</sup> Khoury said he blacked out for about 15 minutes before regaining movement,<sup>38</sup> and that the following night he discovered a burn mark on his shin resembling a bullet hole, with three prong marks in a triangular pattern.<sup>39</sup> Years later, Khoury recounted that his brother [Sam Khoury](/people/sam-khoury) had described witnessing him floated through the hallway by three beings during the 1988 Peter Khoury brother's levitation witnessing event,<sup>40</sup> an account Khoury said he only learned of when Sam told Chalker directly.<sup>41</sup>
 
-Central to the case is the 1992-07-23 Peter Khoury bedroom encounter, during which Khoury described a blond woman with features he found unusual - a long, narrow face, eyes two to three times larger than human eyes, and hair reaching about halfway down her back<sup>16</sup> - and reported biting her nipple, swallowing a piece that lodged in his throat for three days.<sup>17</sup> He recovered a hair sample from the encounter, which he showed to Jamie Leonarder, by then closely associated with him, around the middle of 1992.<sup>18</sup> Khoury and Vivian Khoury were certain this incident occurred after his 1992-05-13 Peter Khoury job site head injury.<sup>19</sup> A separate account, recovered via the 1992 McGhee/Dickeson taped interview with Peter Khoury and later explored under hypnosis in 2003 hypnosis session with Peter Khoury Robb Tilley's November 6,<sup>20</sup> appeared to Chalker to describe an entirely different episode occurring roughly nine months before the 1992 event, which he pursued after writing to Moira McGhee and Bryan Dickeson, with Khoury's written support, requesting a copy of the tape.<sup>21</sup> The sessions with Robb Tilley were carried out and videotaped on 2003-11-06.<sup>22</sup> [John Mack](/people/john-mack) also regressed Khoury under hypnosis during a 1996 visit, in which Khoury described being on a table in a lit room with an entity speaking to him.<sup>23</sup> Khoury separately reported an object popping out of a puncture mark on his head, later called his implant puncture mark episode, and saw a dark object fall into the carpet nearby.<sup>24</sup>
+Khoury reported two further bedroom encounters in the early 1990s. During the 1991-10 Peter Khoury bedroom encounter, he said an Asian-looking woman took his hand to her breast repeatedly before cupping his head to her breast, seemingly wanting him to bite it.<sup>42</sup> He said he woke about two hours after that encounter, whereas after the 1992-07-23 Peter Khoury bedroom encounter he telephoned Vivian Khoury at work less than an hour after the incident.<sup>43</sup> Of the blond woman he described encountering in July 1992, Khoury said she appeared in her mid-thirties, with hair styled as if blown back by wind, protruding high cheeks, and eyes two to three times the size of human eyes,<sup>44</sup> and that her face was longer and narrower than a human's, with a pointed, witch-like chin.<sup>45</sup> He said he bit her nipple during the encounter, swallowing a piece that remained lodged in his throat for three days.<sup>46</sup> Khoury and Vivian Khoury have said they are certain the episode occurred after his severe 1992-05-13 Peter Khoury job site head injury, at a time when he was still suffering nausea, headaches and vomiting and unable to work.<sup>47</sup> Khoury has also said that a needle-like device inserted something into his head during the 1988 encounter, leaving a puncture mark;<sup>48</sup> he said that, nearly four years later, the site still bore a doughnut-shaped lump that intermittently grew before shrinking, though it never fully disappeared,<sup>49</sup> and that in May 1992 he felt something pop from the site and saw a dark brown, match-head-sized object fall into the carpet, an episode recorded as Peter Khoury's implant puncture mark episode.<sup>50</sup> In Peter Khoury's diary, he recorded an entry on 26 August 1992 noting a "lack of help from committee",<sup>51</sup> and the following day wrote "do not discuss experience", reflecting his frustration at the lack of positive feedback.<sup>52</sup>
 
-Chalker, needing to establish with confidence how the hair sample was procured given its potential significance,<sup>25</sup> arranged mitochondrial DNA testing through the Anomaly Physical Evidence Group. The forensic investigation ran over several months from late 1998 into early 1999.<sup>26</sup> The resulting profile from the blond hair showed five substitutions, three common among human racial types and two considered rare.<sup>27</sup> Although the hair was blond, its DNA did not match Scandinavian racial types as would have been expected.<sup>28</sup> A chief biochemist analysing the sample concluded that a fair-skinned donor from the Sydney area was ruled out by the DNA evidence, which instead fitted only a Chinese Mongoloid donor.<sup>29</sup> Further controlled testing used blood samples from Khoury, his wife, and a male Chinese biochemical analyst as comparison controls.<sup>30</sup>
+Chalker did not learn of Khoury's hair sample until 1996, initially focusing on more conventional lines of investigation.<sup>53</sup> He later brought the case to a group of specialists referred to as an "invisible college",<sup>54</sup> who undertook a forensic investigation of the hair from late 1998 to early 1999,<sup>55</sup> in what is catalogued as the mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase One, hair shaft, 1998-1999). Investigators used polymerase chain reaction (PCR) amplification and sequencing on the hair,<sup>56</sup> alongside control samples cut from Khoury's and Vivian Khoury's own hair in Chalker's presence.<sup>57</sup> The three samples were easily distinguishable both to the naked eye and under a microscope,<sup>58</sup> Khoury's hair being thick and black and Vivian's of normal thickness and brown.<sup>59</sup> The resulting mitochondrial DNA profile from the blond hair showed five substitutions, three considered common among human racial types and two rare;<sup>60</sup> although the hair was blond, which would ordinarily suggest Scandinavian racial types, the DNA indicated otherwise.<sup>61</sup> Further controlled testing used blood samples from Khoury, Vivian Khoury and a Chinese biochemical analyst,<sup>62</sup> who had had no prior contact with either of them or the original hair sample.<sup>63</sup> This finding underlies the Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair shaft: according to Hair of the Alien, the biochemist who analysed the sample considered it not impossible that Khoury had had contact with a fair-skinned, nearly albino woman from the Sydney area, but concluded the DNA evidence ruled this out, fitting instead only a Chinese Mongoloid donor,<sup>64</sup> and judged the most probable donor to remain, as Khoury described, a tall, blond woman who did not require much colour in her hair or skin as protection against the sun.<sup>65</sup>
 
-Khoury became involved in organised UFO research in November 1991, joining UFO Research New South Wales to try to understand his 1988 experience.<sup>31</sup> He went on to become the organisation's de facto abduction coordinator, developing an abductee support subgroup.<sup>32</sup> He resigned from UFO Research New South Wales at the end of March 1993,<sup>33</sup> and together with Jamie Leonarder and others from the support group formed the UFO Experience Support Association, formalised on 1993-04-14.<sup>34</sup> Chalker first heard about the hair sample in 1996 but initially pursued more conventional lines of investigation before returning to it.<sup>35</sup>
+Khoury's engagement with the organised UFO research community began in November 1991, when he joined UFO Research New South Wales, then about to hold its inaugural meeting, seeking to understand his 1988 experience.<sup>66</sup> He became the group's de facto abduction coordinator, developing an abductee support subgroup within it.<sup>67</sup> After [Budd Hopkins](/people/budd-hopkins) delivered a lecture in October 1992, the organisation sought to take over the support group Khoury had nurtured;<sup>68</sup> Khoury resigned at the end of March 1993,<sup>69</sup> and together with Jamie Leonarder and others formed the UFO Experience Support Association, formalised on 14 April 1993.<sup>70</sup> [John Mack](/people/john-mack) regressed Khoury under hypnosis during a 1996 visit, seeking to clarify the 1988 encounter beyond the point at which his memory went blank after the needle was inserted into his head;<sup>71</sup> under that regression, Khoury described being taken into a brightly lit, white-walled room and placed on a table, with an entity standing over him speaking in a sound like the chirping of birds.<sup>72</sup> Khoury has said he was not fully satisfied with the results and felt more comfortable relying on his consciously recollected details.<sup>73</sup> Chalker wrote to Moira McGhee and Bryan Dickeson, with Khoury's written support, requesting a copy of an earlier taped interview with him;<sup>74</sup> after listening to the resulting 1992 McGhee/Dickeson taped interview with Peter Khoury, Chalker told Khoury that in it he clearly referred to the two strange women but did not mention the hair sample.<sup>75</sup> This prompted 2003 hypnosis session with Peter Khoury Robb Tilley's November 6, monitored by a psychologist friend and videotaped;<sup>76</sup> in it, Khoury recalled driving Vivian Khoury to the station while feeling very sick,<sup>77</sup> pulling the car over to vomit before reaching the station,<sup>78</sup> and being told by her that he might need to see a doctor.<sup>79</sup> Chalker, who has known Khoury since 1993, has described him as a friendly and reliable person,<sup>80</sup> who remains open to whatever his experiences may turn out to be but insists on serious and ethical research and support for abductees.<sup>81</sup>

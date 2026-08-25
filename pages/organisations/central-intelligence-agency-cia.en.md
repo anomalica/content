@@ -1,15 +1,21 @@
 ---
 title: Central Intelligence Agency (CIA)
-description: The Central Intelligence Agency is the United States' foreign intelligence
-  service, whose Cold War-era UFO assessments, psychic-research programmes and modern
-  UAP-related testimony recur throughout the documented history of the phenomenon.
+aliases:
+- /organisations/korean-central-intelligence-agency-kcia/
+- /en/organisations/korean-central-intelligence-agency-kcia/
+description: The Central Intelligence Agency (CIA) is the United States' foreign intelligence
+  service, which conducted early Cold War studies of UFO reports, ran classified psychic-research
+  programmes such as Stargate, and has featured repeatedly in testimony and declassified
+  records about UAP.
 metadata:
   type: Intelligence agency
-  country: United States
+  jurisdiction: United States
   predecessor: Office of Strategic Services (OSS)
 built_from:
-  brief_hash: d818227496a1610722e3abdae3d2155918cff8d5eca29550903be6225f2201ed
+  brief_hash: 4e07b309d3d3538c3c14b8311d2f209df052c92b45e3e1ad1fe894b35aec1cce
   claims:
+  - id: 128b7d6e-45a9-4d89-ab71-1bfd4eff8f65
+    hash: f67fc709369632f1de5de23b48aa24ad15ce65ed4c6d5e6ee2f06a0361493dad
   - id: b7309023-4006-45e4-9837-ba64dde969df
     hash: 071d3ea9a4c1cf06d93d497d52285e0f174fb2031169bc2b88b366c2d2008925
   - id: 0d4306ef-9bf0-4b45-bc2c-6d709c65968f
@@ -196,8 +202,6 @@ built_from:
     hash: e69cfb1ab637b6024f8d03f27c2636767fe4f7d2ce3169dcd04d8114d61f1678
   - id: cb98d930-2531-4f1d-b764-8b806fa35e83
     hash: 82caa459f37f304fadee37667ca7e39fd41937718661e353986ba4fdfee86121
-  - id: 8402a107-a236-49bf-aceb-c31e22d92e40
-    hash: 7215cb6ae30637711e1b15cdb34d80afce06ce0032e5575f48453e90931269a8
   - id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
     hash: 156ddfada1704dc4130518d9ed134b2f9a88b30ae8cffb4eae0bd03155adadd4
   - id: a981e9c9-720e-4314-aa44-87c364723d8e
@@ -411,28 +415,15 @@ built_from:
   - id: bba38807-7904-4d39-a444-6a27dca83e6b
     hash: 6fa0351da765a34a4624c9e6602651ec1217b27513683b5e33050a1774f05494
 references:
-- text: The Office of Strategic Services (OSS) was the forerunner of the CIA.
+- text: The Office of Strategic Services was the forerunner of the CIA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 187
   quote: '[note: OSS - Office of Strategic Services, forerunner of the CIA]'
   claim_id: 1975bf41-899e-4d8a-9eca-d37c73bc96f5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1975bf41-899e-4d8a-9eca-d37c73bc96f5
-- text: Elizondo testified that the White House, CIA, NASA, the Pentagon and the Department
-    of Energy play a role in the UAP issue but no single entity is in charge.
-  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
-    the Truth'
-  location: char:3537-3725
-  quote: Currently, the White House, CIA, NASA, the Pentagon, Department of Energy,
-    and others play a role, but no one seems to be in charge, leading to unchecked
-    power and corruption.
-  claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
-- text: After 1952 UFO sightings over Washington, D.C., CIA Deputy Director Robert
-    Amory Jr. tasked the Office of Scientific Intelligence's Physics and Electronics
-    Division to review UFO cases.
+- text: After 1952 Washington, D.C. sightings, CIA Deputy Director Robert Amory Jr.
+    tasked OSI's Physics and Electronics Division to review UFO cases
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:36568-36877
@@ -444,8 +435,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4ef2fd6f-363d-4ede-9a52-0190ccc40a80
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-4ef2fd6f-363d-4ede-9a52-0190ccc40a80
-- text: The Robertson Panel's establishment followed a CIA Intelligence Advisory Committee
-    recommendation to enlist scientists to review UFO evidence.
+- text: The Robertson Panel's establishment followed a recommendation from the CIA's
+    Intelligence Advisory Committee to enlist scientists to review UFO evidence
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:39100-39307
@@ -456,8 +447,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
-- text: The 1953 Robertson Panel recommended a public education campaign publicising
-    debunked UFO cases while saying nothing about unexplained ones.
+- text: In 1953 the Robertson Panel recommended publicising debunked cases while staying
+    silent on unexplained ones
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
   location: 00:14:01.2-00:14:17.4
@@ -467,19 +458,7 @@ references:
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
-- text: CIA officer Frederick Durant drafted a report on the Robertson Panel's work
-    for the CIA's Office of Scientific Intelligence.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:40834-40950
-  quote: CIA officer Frederick Durant drafted a report for CIA's Assistant Director
-    of OSI on the Robertson Panel's work and findings.
-  claim_id: 307de6d9-40d6-4917-8603-de18023e104f
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-307de6d9-40d6-4917-8603-de18023e104f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-307de6d9-40d6-4917-8603-de18023e104f
-- text: A declassified CIA/USAF panel that met in 1953 recommended monitoring civilian
-    UFO groups.
+- text: A CIA/USAF panel that met in 1953 recommended monitoring civilian UFO groups
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:7950-8099
   quote: One of the recommendations of a recently declassified CIA/USAF panel on UFOs,
@@ -487,7 +466,7 @@ references:
   claim_id: e3745a5e-3f58-48e3-b76c-0bf194b6872f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
-- text: NICAP's board of directors included a former head of the CIA.
+- text: NICAP's board of directors included a former head of the CIA
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:5933-6012
   quote: the Board of Directors of NICAP lists among its members the former head of
@@ -495,20 +474,8 @@ references:
   claim_id: 1ee20b8a-e19a-4f25-9f32-24b0d5367c94
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1ee20b8a-e19a-4f25-9f32-24b0d5367c94
-- text: The CIA's scientific division officially acquired UFO case information from
-    NICAP's director.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:47400-47602
-  quote: The CIA's scientific division officially acquired UFO-sighting case information
-    from the director of the National Investigations Committee on Aerial Phenomena
-    (NICAP), a private organization founded in 1956.
-  claim_id: 95535878-8316-4b17-bbef-5b243d3d8348
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-95535878-8316-4b17-bbef-5b243d3d8348
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-95535878-8316-4b17-bbef-5b243d3d8348
-- text: Former CIA chief Roscoe Hillenkoetter said it was imperative to learn what
-    UFOs are and where they come from.
+- text: Roscoe Hillenkoetter said it was imperative to learn what UFOs are and where
+    they come from
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32646-32767
   quote: Admiral Hillenkoeter, the former CIA chief who stated, “It is imperative
@@ -516,110 +483,73 @@ references:
   claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
-- text: Harry Turner said Hillenkoetter and other intelligence officers stated the
-    government knew UFOs were extraterrestrial but withheld this from the public.
-  source: In Plain Sight
-  location: ch11:2703-2929
-  quote: '''Many intelligence officers associated with the UFO problem,'' he said,
-    including former CIA boss Admiral Hillenkoetter, had ''stated that the US government
-    knew UFOs were extra-terrestrial but was withholding this fact from the public''.'
-  claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
-- text: Sheehan said CIA Director Bush refused Carter a UFO briefing, citing no 'need
-    to know'.
-  source: In Plain Sight
-  location: ch11:15437-15554
-  quote: but the CIA Director flatly refused to give the president-elect a briefing
-    on UFOs telling Carter he had no 'need to know'.
-  claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
-- text: Bush's term as CIA Director ended just before Carter's January 1977 inauguration.
-  source: In Plain Sight
-  location: ch11:15562-15636
-  quote: (Bush's term as CIA Director ended just before the inauguration in January
-    1977.)
-  claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
-- text: Clinton ordered CIA Director Woolsey to release more UAP files in 1993 after
-    Rockefeller lobbying.
-  source: In Plain Sight
-  location: ch14:1550-1726
-  quote: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
-    the president ordered his new CIA Director James Woolsey to release more of the
-    files on the subject.
-  claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
-- text: Greer describes a 1993 meeting with Woolsey as a covert UFO briefing disguised
-    as a dinner party.
-  source: In Plain Sight
-  location: ch14:3436-3650
-  quote: On his website, he dramatically casts a meeting he had with the then Director
-    of America's Central Intelligence Agency, James Woolsey, in 1993 as 'a covert
-    briefing on the topic of UFOs under the guise of a dinner party'.
-  claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
-- text: Petersen visited Woolsey's office to raise concerns about redacted UFO-related
-    documents.
-  source: In Plain Sight
-  location: ch14:4798-5042
-  quote: He also said that when Woolsey became Director of the CIA, Petersen visited
-    him at his office and raised with him 'that there were a lot of highly redacted
-    documents that the UFO community thought might relate to government knowledge
-    of "alien stuff"'.
-  claim_id: 64da8255-0547-4f22-ba45-7f3b5796669e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64da8255-0547-4f22-ba45-7f3b5796669e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-64da8255-0547-4f22-ba45-7f3b5796669e
-- text: Petersen denied Woolsey requested the 1993 dinner meeting or reached out to
-    Greer.
-  source: In Plain Sight
-  location: ch14:5593-5891
-  quote: Petersen flatly denied claims that the CIA boss reached out to Greer for
-    a briefing or that Woolsey requested the meeting. 'There was no "cover story"
-    and no "briefing" had been requested. It was simply a social function where it
-    was presumed that the subject of UFOs would be discussed,' Petersen says.
-  claim_id: 329eff05-c536-499d-b77a-841a4700de02
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-329eff05-c536-499d-b77a-841a4700de02
-- text: Clinton's science advisor's UFO briefing request was routed to the CIA's Weird
-    Desk.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:49:06.2-00:49:13.7
-  quote: Clinton's science advisor is trying to get a briefing. And what happens is
-    that goes to the place in the CIA where there is UFO information. It's called
-    the Weird Desk.
-  claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-409ff077-63a6-4185-8eb5-b6ab66af4e5f
-- text: '''Weird Desk'' is a colloquial term for a CIA function that has moved around
-    many times.'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:49:15.0-00:49:17.8
-  quote: It's a colloquial term for a function which has moved around many times.
-  claim_id: 4324dfd2-cfbc-4c13-9a8a-4b52f228804d
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4324dfd2-cfbc-4c13-9a8a-4b52f228804d
-- text: Pandolfi was running the CIA's Weird Desk at the time of the briefing request.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:49:18.8-00:49:23.0
-  quote: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird
-    Desk.
-  claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-fcfb04bf-222b-495d-84f0-b1300da49864
-- text: The CIA began funding secret ESP research at SRI in response to Soviet psychic-phenomena
-    spending.
+- text: Eisenhower gave the CIA the lead role, with the USAF, in the WS-117L/CORONA
+    program in February 1958
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:123743-123907
+  quote: In February 1958, President Eisenhower decided the CIA would have the lead
+    role in the program, called "CORONA," and that it would be jointly managed alongside
+    the USAF.
+  claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a981e9c9-720e-4314-aa44-87c364723d8e
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a981e9c9-720e-4314-aa44-87c364723d8e
+- text: Eisenhower approved the CIA-led Project OXCART in 1958, fully operational
+    by 1965
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:126286-126424
+  quote: President Eisenhower approved this CIA-led program to develop a successor
+    to the U-2 spy plane in 1958, which became fully operational in 1965.
+  claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+- text: By 1967 the A-12 OXCART was deployed and CORONA satellites imaged denied areas
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:126681-126840
+  quote: By the time the A-12 was deployed by the CIA in 1967, CORONA satellites were
+    being used to collect imagery of denied areas with less provocation than aircraft
+    overflights.
+  claim_id: f2ba1453-9495-4306-9ba7-1470a46e4a4c
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f2ba1453-9495-4306-9ba7-1470a46e4a4c
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f2ba1453-9495-4306-9ba7-1470a46e4a4c
+- text: A declassified CIA assessment found over half of 1950s-60s UFO reports were
+    US reconnaissance flights
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:122314-122494
+  quote: More than half of the UFO reports investigated in the 1950s and 1960s were
+    assessed to be U.S. reconnaissance flights, according to a declassified CIA assessment
+    on reconnaissance aircraft.
+  claim_id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
+- text: 'Fravor: CIA created shell companies to buy Soviet titanium for the SR-71
+    Blackbird'
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:05:49.2-01:05:57.4
+  quote: the CIA actually made like six companies in order to buy the titanium from
+    Russia to bring it back and build an airplane out of titanium that we would fly
+    over Russia.
+  claim_id: 57474528-56fe-4fee-bdc6-b4eb9035d210
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-57474528-56fe-4fee-bdc6-b4eb9035d210
+- text: 'Marler: USAF, FBI and CIA maintained an official policy of denying and debunking
+    UFOs'
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:06:01.6-00:06:13.7
+  quote: Well, for decades, the Air Force, FBI, CIA, all the official agencies had
+    a policy of denial. Deny the subject, dispel the subject, debunk the subject.
+  claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
+- text: CIA began funding secret ESP research at SRI in response to Soviet spending
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:03:22.9-00:03:30.6
@@ -628,8 +558,15 @@ references:
   claim_id: b01ab687-c383-4643-a06e-e08c420cad48
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
-- text: Puthoff, an NSA employee, was approached by the CIA and told Russia had a
-    remote viewing programme.
+- text: Stargate remote-viewing programme run for the CIA at SRI from 1972
+  source: The Fourth Mind
+  location: ch22:13288-13439
+  quote: A famous remote viewing program, known as Project Stargate, was run for the
+    Central Intelligence Agency at the Stanford Research Institute starting in 1972
+  claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+- text: Puthoff and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
   quote: Hal had been a Stanford University researcher and an employee of the NSA
@@ -639,26 +576,42 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
-- text: Project Stargate, a CIA remote viewing programme at SRI, began in 1972.
-  source: The Fourth Mind
-  location: ch22:13288-13439
-  quote: A famous remote viewing program, known as Project Stargate, was run for the
-    Central Intelligence Agency at the Stanford Research Institute starting in 1972
-  claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
-  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
-- text: Puthoff reported directly to the CIA director and the White House as Stargate
-    succeeded.
+- text: Puthoff regularly reported directly to the White House and the CIA director
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch11:25998-26111
-  quote: Stargate became so successful, Hal reported directly to the director of the
-    CIA and the White House on a regular basis.
-  claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
+  location: ch10:2057-2163
+  quote: In various past capacities, he had regularly reported directly to the White
+    House and the director of the CIA.
+  claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
-- text: CIA ESP work concluded in the late 1970s and moved to the Army's Fort Meade
-    base.
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d267f396-9477-4118-9435-449a2ca88ffd
+- text: Ingo Swann was an original participant in CIA remote-viewing evaluations
+  source: Remote Viewing Secrets
+  location: ch23:11743-11835
+  quote: one of the original participants in the CIA evaluations of remote viewing
+    back in the early 1970s
+  claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
+- text: Swann was asked to remote view a suspected Soviet nuclear-weapons facility
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:06:06.4-00:06:12.9
+  quote: Swann was asked to remote view a secret facility in the Soviet Union that
+    was believed to be used for the manufacturing of nuclear weapons.
+  claim_id: 12a1abe9-44f8-4e72-87f6-235a95798b3f
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-12a1abe9-44f8-4e72-87f6-235a95798b3f
+- text: Puthoff managed the CIA's Stargate program before AAWSAP/AATIP
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:45073-45180
+  quote: The last time Hal had made this much progress on a program was during his
+    time managing the CIA’s Stargate program.
+  claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-401b6b38-170a-4e42-9d6e-697b04b42951
+- text: CIA's ESP work concluded late 1970s and moved to the Army's Fort Meade
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:06:58.2-00:07:05.2
@@ -667,7 +620,7 @@ references:
   claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
-- text: Project Stargate was run for years by the CIA and later by the DIA.
+- text: Stargate was later run by the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:24728-24968
   quote: Stargate was embedded in the federal government, run for years by the CIA,
@@ -678,8 +631,16 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
-- text: The CIA declassified about 12 million pages of records on the programme in
-    2017.
+- text: CIA released a 1995 report acknowledging its remote-viewing work
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:07:19.9-00:07:28.3
+  quote: The CIA finally released a report in 1995 that acknowledged the US government's
+    long-rumored work with remote viewing for military and intelligence purposes.
+  claim_id: 80b4dac8-65d6-4570-82ac-c07463eaca62
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
+- text: In 2017 the CIA declassified about 12 million pages on the programme
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:03:31.6-00:03:41.2
@@ -688,37 +649,7 @@ references:
   claim_id: bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
-- text: After 2012, Elizondo worked with Navy and CIA officials on AATIP.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:5628-5728
-  quote: From then on, Mr. Elizondo said in an interview, he worked with officials
-    from the Navy and the C.I.A.
-  claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-- text: Before AATIP, Puthoff had managed the CIA's Stargate program.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:45073-45180
-  quote: The last time Hal had made this much progress on a program was during his
-    time managing the CIA’s Stargate program.
-  claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-401b6b38-170a-4e42-9d6e-697b04b42951
-- text: Puthoff introduced Jim Semivan, a senior CIA member, to Elizondo's effort.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:24247-24430
-  quote: During this time, Hal had made a few connections of his own. One contact
-    was a highly intelligent man named Jim Semivan, a senior member of the CIA who
-    had enjoyed a long, successful career.
-  claim_id: 8402a107-a236-49bf-aceb-c31e22d92e40
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8402a107-a236-49bf-aceb-c31e22d92e40
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8402a107-a236-49bf-aceb-c31e22d92e40
-- text: Semivan retired from the CIA's Directorate of Operations after 25 years as
-    an operations officer.
+- text: Jim Semivan retired from the CIA's Directorate of Operations after 25 years
   source: In Plain Sight
   location: ch21:787-952
   quote: Semivan was only recently retired from the Central Intelligence Agency's
@@ -729,7 +660,7 @@ references:
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
 - text: Semivan held Senior Executive Service rank, roughly two levels below the CIA
-    director.
+    director
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:15:38.8-01:15:44.2
   quote: I think he's a senior executive service, like just two people under the CIA
@@ -737,8 +668,206 @@ references:
   claim_id: 9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
-- text: Elizondo attended a meeting with Navy, CIA and NSA representatives where the
-    GoFast and Gimbal videos were shown.
+- text: Zubek's sensory deprivation research paralleled the CIA's Project MKUltra
+  source: I LEFT MY BODY - The Gateway Experience (Part 3)
+  location: 00:17:19.2-00:17:24.7
+  quote: His work paralleled the CIA's MKUltra program, which sought to manipulate
+    human behavior for interrogation purposes.
+  claim_id: 083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
+  record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
+  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
+- text: 'Grusch: a shell game hid MKUltra from the CIA''s own oversight bodies and
+    Congress'
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:09:03.8-00:09:11.1
+  quote: There was a shell game within the CIA to prevent the inspector general, general
+    counsel, Congress from learning about the program.
+  claim_id: 8b01266c-3c6f-4358-a524-a4102e78d61b
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8b01266c-3c6f-4358-a524-a4102e78d61b
+- text: 'Grusch: the MK series included Operation CHAOS, a domestic influence operation'
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:10:51.5-00:10:57.2
+  quote: there was a whole mk series to include operation chaos which was domestic
+    influence operations
+  claim_id: 73448ce5-7b88-4ee6-9108-c2bac049eb78
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-73448ce5-7b88-4ee6-9108-c2bac049eb78
+- text: 'Grusch: CIA pursued mind control because Russia was doing the same'
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:11:13.3-00:11:22.9
+  quote: they were experimenting with uh you know pretty intense mind control capabilities
+    because the CIA got wind that the russia was also experimenting with this kind
+    of thing.
+  claim_id: 4472a07b-4777-4192-9fd0-74221c5b444b
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4472a07b-4777-4192-9fd0-74221c5b444b
+- text: 'Grusch: CIA wanted to create Manchurian Candidate assassins via MKUltra'
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:11:23.2-00:11:26.9
+  quote: And they wanted to create Manchurian Candidate Assassins and other things.
+  claim_id: a8cd812f-9575-4a73-86bc-d00cec89fcca
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a8cd812f-9575-4a73-86bc-d00cec89fcca
+- text: 'Grusch: CIA paid off journalists under Operation Mockingbird'
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:11:55.6-00:12:04.2
+  quote: what we did catch was CIA paying off journalists at major, you know, news
+    organizations. That's the whole Mockingbird thing that you hear.
+  claim_id: 3b64b0c4-78b8-40a0-8605-f40c8e57081c
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3b64b0c4-78b8-40a0-8605-f40c8e57081c
+- text: 'Sheehan: Carter sought a UFO briefing meeting with CIA Director Bush before
+    his 1977 inauguration'
+  source: In Plain Sight
+  location: ch11:15229-15554
+  quote: According to celebrated civil rights attorney Daniel Sheehan, before Carter's
+    January inauguration he sought a meeting with the then Director of the CIA, George
+    Herbert Walker Bush, later the 41st president, but the CIA Director flatly refused
+    to give the president-elect a briefing on UFOs telling Carter he had no 'need
+    to know'.
+  claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+- text: 'Sheehan: Bush refused, telling Carter he had no ''need to know'''
+  source: In Plain Sight
+  location: ch11:15437-15554
+  quote: but the CIA Director flatly refused to give the president-elect a briefing
+    on UFOs telling Carter he had no 'need to know'.
+  claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
+- text: Bush's CIA directorship ended just before Carter's January 1977 inauguration
+  source: In Plain Sight
+  location: ch11:15562-15636
+  quote: (Bush's term as CIA Director ended just before the inauguration in January
+    1977.)
+  claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
+- text: 'Sheehan: briefing documents given to Carter did not reveal what Sheehan says
+    he found'
+  source: In Plain Sight
+  location: ch11:25712-25932
+  quote: that attorney Dan Sheehan told me he witnessed in 1977 – that the CIA Director
+    flatly refused the president a briefing and, moreover, what the president was
+    subsequently told in briefing documents did not reveal what Sheehan discovered
+  claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
+- text: In 1993, after Rockefeller's lobbying, Clinton ordered CIA Director Woolsey
+    to release more UAP files
+  source: In Plain Sight
+  location: ch14:1550-1726
+  quote: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
+    the president ordered his new CIA Director James Woolsey to release more of the
+    files on the subject.
+  claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
+- text: Greer described his 1993 meeting with Woolsey as a covert UFO briefing disguised
+    as a dinner party
+  source: In Plain Sight
+  location: ch14:3436-3650
+  quote: On his website, he dramatically casts a meeting he had with the then Director
+    of America's Central Intelligence Agency, James Woolsey, in 1993 as 'a covert
+    briefing on the topic of UFOs under the guise of a dinner party'.
+  claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
+- text: Petersen raised redacted UFO-related documents with Woolsey at CIA headquarters
+  source: In Plain Sight
+  location: ch14:4798-5042
+  quote: He also said that when Woolsey became Director of the CIA, Petersen visited
+    him at his office and raised with him 'that there were a lot of highly redacted
+    documents that the UFO community thought might relate to government knowledge
+    of "alien stuff"'.
+  claim_id: 64da8255-0547-4f22-ba45-7f3b5796669e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64da8255-0547-4f22-ba45-7f3b5796669e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-64da8255-0547-4f22-ba45-7f3b5796669e
+- text: Petersen denied Woolsey reached out to Greer or requested the 1993 dinner
+    meeting
+  source: In Plain Sight
+  location: ch14:5593-5891
+  quote: Petersen flatly denied claims that the CIA boss reached out to Greer for
+    a briefing or that Woolsey requested the meeting. 'There was no "cover story"
+    and no "briefing" had been requested. It was simply a social function where it
+    was presumed that the subject of UFOs would be discussed,' Petersen says.
+  claim_id: 329eff05-c536-499d-b77a-841a4700de02
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-329eff05-c536-499d-b77a-841a4700de02
+- text: After 2012 Elizondo worked with Navy and CIA officials on AATIP
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:5628-5728
+  quote: From then on, Mr. Elizondo said in an interview, he worked with officials
+    from the Navy and the C.I.A.
+  claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
+- text: Puthoff conducted ESP research for the CIA and later worked as an AATIP contractor
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:9966-10112
+  quote: said Harold E. Puthoff, an engineer who has conducted research on extrasensory
+    perception for the C.I.A. and later worked as a contractor for the program.
+  claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
+- text: Livingston presided over a CIA 'weird desk' investigating medical issues and
+    abductions linked to UAP
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:4024-4213
+  quote: For years he presided over the little-known “weird desk” at the CIA, in charge
+    of investigating unusual medical issues, implants, and abductions, all related
+    to UAP encounters and anything strange.
+  claim_id: 2245a04c-3ff4-441e-b16e-30b93db762ca
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
+- text: '''Weird Desk'' is a colloquial term for a CIA function that has moved around'
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:49:15.0-00:49:17.8
+  quote: It's a colloquial term for a function which has moved around many times.
+  claim_id: 4324dfd2-cfbc-4c13-9a8a-4b52f228804d
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4324dfd2-cfbc-4c13-9a8a-4b52f228804d
+- text: Clinton's science advisor's UFO briefing request went to the CIA's Weird Desk
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:49:06.2-00:49:13.7
+  quote: Clinton's science advisor is trying to get a briefing. And what happens is
+    that goes to the place in the CIA where there is UFO information. It's called
+    the Weird Desk.
+  claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-409ff077-63a6-4185-8eb5-b6ab66af4e5f
+- text: Pandolfi was running the Weird Desk at the time
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:49:18.8-00:49:23.0
+  quote: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird
+    Desk.
+  claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-fcfb04bf-222b-495d-84f0-b1300da49864
+- text: Pandolfi is a CIA analyst at the centre of the UFO establishment
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: line 140
+  quote: '[note: Ron Pandolfi - CIA analyst at the center of the UFO establishment]'
+  claim_id: be8e3b59-e566-4967-bafa-cc0034fea135
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-be8e3b59-e566-4967-bafa-cc0034fea135
+- text: Elizondo attended a meeting with Navy, CIA and NSA representatives where GoFast
+    and Gimbal were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
   quote: A few months later I was sitting in a room with high-level Navy officials,
@@ -748,7 +877,7 @@ references:
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
 - text: A CIA representative proposed the Gimbal object could be a hybrid balloon
-    with an inducted fan.
+    with an inducted fan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24494-24663
   quote: '"The only way I see this being even remotely possible is if you had a...
@@ -758,8 +887,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
-- text: A CIA representative suggested the Gimbal object might be a Mylar football
-    with its own navigation and propulsion.
+- text: A CIA representative suggested a Mylar football with its own navigation and
+    propulsion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24671-24745
   quote: '"Perhaps it is some sort of Mylar football that has its own navigation and
@@ -768,8 +897,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
-- text: A CIA representative suggested the Gimbal object might be powered by a tether
-    or beamed energy from a nearby platform.
+- text: A CIA representative suggested tether or beamed-energy power from a floating
+    platform
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25108-25225
   quote: '"Um... perhaps they are using some sort of tether or beamed energy to give
@@ -778,8 +907,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
-- text: The CIA assessed the Gimbal object's aura was not a camera artefact or lens
-    flare.
+- text: CIA assessed the Gimbal object's aura was not a camera artefact or lens flare
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25939-26021
   quote: According to the CIA, it was not. It was not an artifact of the camera nor
@@ -788,7 +916,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
-- text: The CIA and FBI have posted unclassified UAP documents online for public download.
+- text: CIA and FBI have posted unclassified UAP documents on their websites
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:20721-20820
   quote: The CIA and FBI sometimes slapped them up on their websites, for the whole
@@ -797,110 +925,20 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
-- text: Grusch testified the CIA, ONI and federally funded research centres have analysed
-    recovered UAP material over the decades.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:06:53.9-00:07:02.9
-  quote: the CIA, Office of Naval Intelligence, the something called federally funded
-    research and development centers, a lot of them were involved in the analysis
-    over the decades.
-  claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
-- text: CIA leadership denied a request to transfer recovered material from Lockheed
-    Martin to AAWSAP.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:48:52.4-00:48:54.9
-  quote: But CIA leadership denied that.
-  claim_id: 9050745f-6661-482b-9bc9-a590e001a677
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9050745f-6661-482b-9bc9-a590e001a677
-- text: Grusch says he holds the Lockheed Martin transfer-block account on very good
-    authority.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:48:55.3-00:48:58.3
-  quote: I have it on very good authority that that's that happened
-  claim_id: 7eb47bba-c1f8-4741-af6f-542a0cb36399
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7eb47bba-c1f8-4741-af6f-542a0cb36399
-- text: A former CIA official alleged to have managed UAP experimentation was not
-    involved in moving extraterrestrial technology.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:6894-6978
-  quote: The named, former CIA official was not involved in the movement of extraterrestrial
-    technology.
-  claim_id: 2ae3dbaf-96eb-4ba4-87be-7b9b09b6648b
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2ae3dbaf-96eb-4ba4-87be-7b9b09b6648b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-2ae3dbaf-96eb-4ba4-87be-7b9b09b6648b
-- text: The official signed a memo rejecting the claim he managed movement of and
-    experimentation on off-world technology.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:6990-7136
-  quote: The same former CIA officer signed a memo rejecting a claim made by interviewees
-    that he managed the movement of and experimentation on off-world technology.
-  claim_id: 98753ed5-011b-428a-aa7d-0e0133c17ac3
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-98753ed5-011b-428a-aa7d-0e0133c17ac3
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-98753ed5-011b-428a-aa7d-0e0133c17ac3
-- text: AARO interviewed and obtained a signed statement from the former CIA official.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:87998-88111
-  quote: AARO interviewed and obtained a signed statement from the former CIA official
-    who was specifically named by AARO interviewees.
-  claim_id: f915ea81-0753-4288-afa1-b9235adc71ae
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f915ea81-0753-4288-afa1-b9235adc71ae
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f915ea81-0753-4288-afa1-b9235adc71ae
-- text: The official stated he had no knowledge of any extraterrestrial material held
-    by the US government or any organisation.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:88874-89005
-  quote: The former CIA official stated that he had no knowledge of any extraterrestrial
-    material in the possession of the USG or any other organization.
-  claim_id: 12cb73e7-fe9a-489e-8d27-c5d6d9bd874c
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-12cb73e7-fe9a-489e-8d27-c5d6d9bd874c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-12cb73e7-fe9a-489e-8d27-c5d6d9bd874c
-- text: The official signed a Memorandum for the Record attesting to the truthfulness
-    of his statements.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:89037-89128
-  quote: The official signed a Memorandum for the Record (MFR) attesting to the truthfulness
-    of his statements.
-  claim_id: 409560c2-f3ee-4307-9f09-c9fb3acc0299
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-409560c2-f3ee-4307-9f09-c9fb3acc0299
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-409560c2-f3ee-4307-9f09-c9fb3acc0299
-- text: Grusch said Congress lacks UAP oversight comparable to the 1970s Church Committee
-    probes of the CIA, NSA and FBI.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:03:57.3-00:04:15.0
-  quote: seeing what Congress was not being told and not having appropriate insight
-    akin to the Church Committee committees of the 1970s and not having insight on
-    the CIA, NSA, and FBI's activities. I just thought it was wrong that this was
-    allowed to go unchecked for so many years.
-  claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-36040736-14ae-4fe7-872a-d6c1cb3183b9
-- text: The Church Committee, Rockefeller Commission and House Select Committee on
-    Assassinations examined possible CIA involvement in the JFK assassination.
-  source: Watergate, the JFK assassination and a UFO secret at the center of it all
-    | Reality Check
-  location: 00:56:23.1-00:56:34.3
-  quote: there's the Church Committee, there's the Rockefeller Commission, there's
-    the Commission on Assassinations, all of them have looked at the question of whether
-    there was CIA involvement in this.
-  claim_id: 3387a6e0-33ff-4ea9-bee4-c5346c475234
-  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3387a6e0-33ff-4ea9-bee4-c5346c475234
-- text: E. Howard Hunt was a CIA operative in Watergate, long rumoured to be a key
-    player in the JFK assassination.
+- text: 'Elizondo: White House, CIA, NASA, Pentagon and DOE all play a role but none
+    is in charge'
+  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
+    the Truth'
+  location: char:3537-3725
+  quote: Currently, the White House, CIA, NASA, the Pentagon, Department of Energy,
+    and others play a role, but no one seems to be in charge, leading to unchecked
+    power and corruption.
+  claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
+  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+- text: E. Howard Hunt, a CIA operative in Watergate, was long rumoured to be a key
+    JFK assassination player
   source: Dark Mission
   location: ch10:93001-93123
   quote: an infamous CIA operative actively involved with Watergate and long-rumored
@@ -908,8 +946,7 @@ references:
   claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
-- text: Novel told DA Garrison he had known both Oswald and Ruby while working for
-    the CIA.
+- text: Gordon Novel gave DA Jim Garrison a CIA-Cuban-emigre link to the JFK assassination
   source: In Plain Sight
   location: ch27:4030-4314
   quote: Novel also provided a way too gullible New Orleans District Attorney Jim
@@ -920,75 +957,111 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
-- text: A Liberty Lobby jury found against Hunt and found the CIA had also been involved
-    in the JFK assassination.
+- text: Church Committee, Rockefeller Commission and HSCA all examined possible CIA
+    involvement in the JFK assassination
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
-  location: 00:53:53.6-00:54:00.6
-  quote: The jury had found against Hunt on the basis that he had been involved in
-    the assassination, and so had the CIA.
-  claim_id: 15a21861-d5ae-4903-8cdc-f6ff29ea9063
+  location: 00:56:23.1-00:56:34.3
+  quote: there's the Church Committee, there's the Rockefeller Commission, there's
+    the Commission on Assassinations, all of them have looked at the question of whether
+    there was CIA involvement in this.
+  claim_id: 3387a6e0-33ff-4ea9-bee4-c5346c475234
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-15a21861-d5ae-4903-8cdc-f6ff29ea9063
-- text: Grusch said there was a shell game within the CIA to keep its inspector general,
-    counsel and Congress from learning about MKUltra.
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3387a6e0-33ff-4ea9-bee4-c5346c475234
+- text: 'Grusch: Congress lacked Church-Committee-style oversight of CIA/NSA/FBI on
+    UAP'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:09:03.8-00:09:11.1
-  quote: There was a shell game within the CIA to prevent the inspector general, general
-    counsel, Congress from learning about the program.
-  claim_id: 8b01266c-3c6f-4358-a524-a4102e78d61b
+  location: 00:03:57.3-00:04:15.0
+  quote: seeing what Congress was not being told and not having appropriate insight
+    akin to the Church Committee committees of the 1970s and not having insight on
+    the CIA, NSA, and FBI's activities. I just thought it was wrong that this was
+    allowed to go unchecked for so many years.
+  claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8b01266c-3c6f-4358-a524-a4102e78d61b
-- text: The CIA pursued MKUltra mind-control experiments after learning Russia was
-    doing the same.
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-36040736-14ae-4fe7-872a-d6c1cb3183b9
+- text: 'Grusch: CIA, ONI and FFRDCs involved in analysis of recovered UAP material'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:11:13.3-00:11:22.9
-  quote: they were experimenting with uh you know pretty intense mind control capabilities
-    because the CIA got wind that the russia was also experimenting with this kind
-    of thing.
-  claim_id: 4472a07b-4777-4192-9fd0-74221c5b444b
+  location: 00:06:53.9-00:07:02.9
+  quote: the CIA, Office of Naval Intelligence, the something called federally funded
+    research and development centers, a lot of them were involved in the analysis
+    over the decades.
+  claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4472a07b-4777-4192-9fd0-74221c5b444b
-- text: The CIA wanted to create 'Manchurian Candidate' assassins through MKUltra.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:11:23.2-00:11:26.9
-  quote: And they wanted to create Manchurian Candidate Assassins and other things.
-  claim_id: a8cd812f-9575-4a73-86bc-d00cec89fcca
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a8cd812f-9575-4a73-86bc-d00cec89fcca
-- text: The CIA paid off journalists at major news organisations under Operation Mockingbird.
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:11:55.6-00:12:04.2
-  quote: what we did catch was CIA paying off journalists at major, you know, news
-    organizations. That's the whole Mockingbird thing that you hear.
-  claim_id: 3b64b0c4-78b8-40a0-8605-f40c8e57081c
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3b64b0c4-78b8-40a0-8605-f40c8e57081c
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
+- text: 'Coulthart: Jorjani said Buchanan told him CIA has backdoor access to DNA
+    databases'
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:02:50.8-00:03:08.1
+  quote: he said that a retired Army remote viewer named Lynn Buchanan who was part
+    of the old Stargate psychic spying program, told him the CIA has backdoor access
+    to consumer DNA databases like Ancestry.com and 23andMe.
+  claim_id: 879880a5-ca0f-4fa0-9c4f-1003cc93e130
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
+- text: 'Coulthart: alleged DNA-database access used to screen for Nordic alien genetic
+    markers'
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:03:09.8-00:03:22.6
+  quote: And what they're doing, supposedly, is screening for genetic markers, particularly
+    for those pesky Nordic beings, alien beings that allegedly reside here on the
+    planet with us.
+  claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
+- text: Buchanan has never directly confirmed Jorjani's account
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:04:52.8-00:04:58.7
+  quote: But he's never directly confirmed the full Georgiani story or the notion
+    of CIA backdoors.
+  claim_id: 9327892c-dbbf-4a47-9d03-748ef46df3d4
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9327892c-dbbf-4a47-9d03-748ef46df3d4
+- text: Coulthart says he has no idea of the claim's veracity and calls it disputed
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:06:55.8-00:07:01.9
+  quote: And frankly, I really have no idea about the veracity of these claims. What
+    I can tell you is that they are disputed.
+  claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+- text: 'Jesse Mitchells: hybridisation anecdotes come from very senior CIA figures
+    such as Semivan'
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 02:13:15.5-02:13:21.6
+  quote: it's anecdotal but it's also from guys who are very high up at the CIA especially
+    when it comes to people like Jim Sammivan
+  claim_id: e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 9e953b10cb0ce07446c93653248ba9796f7961c34f9b99ab8925b63a62e27c82
+  prompt_sha256: 7767c982a0c5cb34b13ef48dc04ccc96f79a7004926af15d0141bc8e7e87910d
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 103920
-    output: 60370
+    input: 104497
+    output: 63008
     real_input: 2
-    cache_read: 39325
-    cache_write: 64593
+    cache_read: 39417
+    cache_write: 65078
     calls: 0
-  body_sha256: cd0eca9d70af9ba7ff12dda2c6b40a5c48ef5b790f02d5dea47c0056f843ca19
+  body_sha256: 68f36183f12a3a950299f6ce17fe0f4aff7a8c4889bfda602ec9f0e54f86b32f
 ---
 
-The Central Intelligence Agency (CIA) is the United States' foreign intelligence service, established as the successor to the Office of Strategic Services (OSS).<sup>1</sup> It recurs throughout the documented history of [UAP](/topics/unidentified-anomalous-phenomena-uap) research, from Cold War-era assessments of [UFO](/topics/unidentified-flying-object-ufo) reports through to the modern Advanced Aerospace Threat Identification Program (AATIP) era. In 2024 congressional testimony, [Luis Elizondo](/people/luis-elizondo) stated that [the White House](/organisations/the-white-house), the CIA, the National Aeronautics and Space Administration (NASA), the Pentagon and the United States Department of Energy currently play a role in the UAP issue, but that no single entity is in charge.<sup>2</sup>
+The Central Intelligence Agency (CIA) is the United States' foreign intelligence service, established as successor to the Office of Strategic Services (OSS).<sup>1</sup> The agency's engagement with reports of unidentified flying objects (UFOs) dates to the early Cold War: after a wave of sightings over Washington, D.C. in the summer of 1952, CIA Deputy Director for Intelligence Robert Amory Jr. tasked the agency's Office of Scientific Intelligence (OSI) Physics and Electronics Division with reviewing UFO cases.<sup>2</sup> According to the AARO Historical Record Report, the establishment of the [Robertson Panel](/projects/robertson-panel) followed a recommendation from the CIA's Intelligence Advisory Committee to enlist scientists to appraise the available UFO evidence.<sup>3</sup> In 1953 the panel convened and recommended a public education campaign built on publicising already-debunked UFO cases while saying nothing about unexplained ones,<sup>4</sup> and a separate declassified CIA/USAF panel that also met that year recommended monitoring the activities of civilian UFO groups, according to *Messengers of Deception: UFO Contacts and Cults*.<sup>5</sup> The board of the National Investigations Committee on Aerial Phenomena (NICAP) has included a former head of the CIA.<sup>6</sup> [Roscoe Hillenkoetter](/people/roscoe-hillenkoetter), a former CIA chief, said it was imperative that the government learn what UFOs are and where they come from.<sup>7</sup>
 
-The agency's engagement with the UFO topic dates to the early 1950s. After a wave of sightings over Washington, D.C. in the summer of 1952, CIA Deputy Director for Intelligence Robert Amory Jr. tasked the CIA Office of Scientific Intelligence's Physics and Electronics Division with reviewing UFO cases.<sup>3</sup> According to AARO's Historical Record Report, the [Robertson Panel](/projects/robertson-panel) was established following a recommendation from the CIA's Intelligence Advisory Committee to enlist scientists to review the available evidence.<sup>4</sup> Convened in 1953, the panel recommended a public education campaign built on publicising already-debunked UFO cases while saying nothing about unexplained ones.<sup>5</sup> According to the same report, CIA officer Frederick Durant then drafted a report on the panel's work for the CIA's Office of Scientific Intelligence.<sup>6</sup> A CIA/[United States Air Force (USAF)](/organisations/united-states-air-force-usaf) panel that met in 1953 recommended monitoring the activities of civilian UFO groups, according to Messengers of Deception.<sup>7</sup> The National Investigations Committee on Aerial Phenomena's board of directors included a former head of the CIA,<sup>8</sup> and, according to the Historical Record Report, the CIA's scientific division later formally acquired UFO case information from the organisation's director.<sup>9</sup> Former CIA director [Roscoe Hillenkoetter](/people/roscoe-hillenkoetter) said it was imperative to learn what UFOs are and where they come from,<sup>10</sup> while Harry Turner said Hillenkoetter and other intelligence officers associated with the UFO problem had stated that the US government knew UFOs were extraterrestrial but was withholding this from the public.<sup>11</sup>
+Much of the agency's Cold War-era UFO activity intersected with its own classified aerospace programmes. In February 1958 President Dwight D. Eisenhower gave the CIA the lead role, jointly managed with the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf), in the WS-117L/CORONA reconnaissance satellite program.<sup>8</sup> Eisenhower also approved the CIA-led Project OXCART that same year to develop a successor to the U-2 spy plane, which became fully operational in 1965.<sup>9</sup> By the time the resulting A-12 OXCART aircraft was deployed in 1967, CORONA satellites were already being used to photograph denied areas with less provocation than aircraft overflights.<sup>10</sup> The AARO Historical Record Report states that, according to a declassified CIA assessment of reconnaissance aircraft, more than half of the UFO reports investigated during the 1950s and 1960s were assessed to be US reconnaissance flights.<sup>11</sup> David Fravor has said the agency created around six shell companies to buy titanium from the Soviet Union for the construction of the SR-71 Blackbird, an aircraft made largely of titanium and designed to fly over the Soviet Union.<sup>12</sup> For decades, the USAF, the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi), and the CIA maintained an official policy of denying, dispelling, and debunking the UFO subject, according to researcher David Marler.<sup>13</sup>
 
-Access to the CIA's UFO-related material repeatedly became a point of contention at the presidential level. According to Daniel Sheehan, CIA Director [George Herbert Walker Bush](/people/george-herbert-walker-bush) flatly refused to give president-elect [Jimmy Carter](/people/jimmy-carter) a UFO briefing, telling him he had no 'need to know';<sup>12</sup> Bush's term as CIA Director ended just before Carter's inauguration in January 1977.<sup>13</sup> In 1993, after lobbying from billionaire businessman Laurance Rockefeller, President [Bill Clinton](/people/bill-clinton) ordered his new CIA Director James Woolsey to release more UAP files.<sup>14</sup> On his website, [Steven Greer](/people/steven-greer) has described a meeting he had with Woolsey that year as 'a covert briefing on the topic of UFOs under the guise of a dinner party';<sup>15</sup> John Petersen, who visited Woolsey's office to raise concerns about highly redacted documents the UFO community thought might relate to government knowledge of 'alien stuff',<sup>16</sup> denied that Woolsey had requested such a meeting or reached out to Greer for a briefing.<sup>17</sup> Years later, when Clinton's science advisor sought a UFO briefing, the request was routed to the CIA's 'Weird Desk',<sup>18</sup> a colloquial term for a CIA function that has moved around many times,<sup>19</sup> then run by Ronald Pandolfi, according to Jason Samosa.<sup>20</sup>
+Beginning in the early 1970s the CIA also funded classified research into extrasensory perception (ESP) and remote viewing, prompted by concern over Soviet spending on psychic phenomena.<sup>14</sup> A programme known as [Stargate](/projects/stargate) was run for the agency at the Stanford Research Institute (SRI) in Menlo Park, California, from 1972.<sup>15</sup> [Harold E. Puthoff](/people/harold-e-puthoff), a Stanford researcher and [National Security Agency (NSA)](/organisations/national-security-agency-nsa) employee, was approached by the CIA together with Russell Targ and told that Russia had its own remote-viewing programme.<sup>16</sup> Puthoff had, in various past capacities, regularly reported directly to the [White House](/organisations/the-white-house) and the CIA director.<sup>17</sup> Ingo Swann was one of the original participants in the CIA's remote-viewing evaluations in the early 1970s,<sup>18</sup> and was asked by the agency to remote view a Soviet facility believed to be used for manufacturing nuclear weapons.<sup>19</sup> Puthoff later managed the CIA's Stargate program before joining the Advanced Aerospace Weapons System Application Program (AAWSAP)/Advanced Aerospace Threat Identification Program (AATIP) effort.<sup>20</sup> The CIA's ESP work concluded in the late 1970s, when the programme moved to the US Army's base at Fort Meade, Maryland,<sup>21</sup> and was later run by the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>22</sup> The agency released a report in 1995 acknowledging its long-rumoured work on remote viewing for military and intelligence purposes.<sup>23</sup> In 2017 the CIA declassified approximately 12 million pages of records revealing further detail about the programme.<sup>24</sup> [Jim Semivan](/people/jim-semivan) retired from the CIA's Directorate of Operations after 25 years as an operations officer,<sup>25</sup> holding Senior Executive Service rank, roughly two levels below the CIA director.<sup>26</sup> Separately, the CIA's [Project MKUltra](/projects/project-mkultra-mkultra) sought to manipulate human behaviour for interrogation purposes; researcher John Zubek's sensory deprivation studies have been described as paralleling the programme.<sup>27</sup> [David Charles Grusch](/people/david-charles-grusch), a former intelligence officer turned whistleblower, has testified to Congress that there was a "shell game" within the CIA to prevent its own inspector general, its general counsel, and the US Congress from learning about MKUltra.<sup>28</sup> According to Grusch, MKUltra's MK series of programmes included Operation CHAOS, a domestic influence operation;<sup>29</sup> the agency pursued mind-control experimentation because it had learned Russia was conducting similar research;<sup>30</sup> and it sought to create so-called Manchurian Candidate assassins.<sup>31</sup> Grusch has also testified that the CIA paid off journalists at major news organisations under Operation Mockingbird.<sup>32</sup>
 
-The CIA also ran classified research into extrasensory perception (ESP). In response to Soviet spending on psychic phenomena, the agency began funding its own research in secret at the Stanford Research Institute (SRI) in Menlo Park, California.<sup>21</sup> [Harold E. Puthoff](/people/harold-e-puthoff), then a Stanford researcher and employee of the [National Security Agency (NSA)](/organisations/national-security-agency-nsa), was approached by the CIA and told that Russia had a remote viewing programme;<sup>22</sup> the resulting effort, which began in 1972, became known as [Stargate](/projects/stargate).<sup>23</sup> The programme became successful enough that Puthoff reported directly to the CIA director and the White House on a regular basis.<sup>24</sup> The CIA's own ESP work concluded in the late 1970s, after which the programme moved to the United States Army's base at Fort Meade, Maryland;<sup>25</sup> it was later run by the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>26</sup> In 2017 the CIA declassified approximately 12 million pages of records revealing new details of the programme.<sup>27</sup>
+The agency's handling of the subject with senior officials has also featured in accounts of presidential transitions. According to attorney Daniel Sheehan, before [Jimmy Carter](/people/jimmy-carter)'s January 1977 inauguration, Carter sought a meeting with then-CIA Director [George Herbert Walker Bush](/people/george-herbert-walker-bush) to be briefed on UFOs,<sup>33</sup> and Bush flatly refused to give the president-elect a briefing, telling him he had no "need to know".<sup>34</sup> Bush's term as CIA Director ended just before Carter's inauguration in January 1977.<sup>35</sup> Sheehan has said that what Carter was subsequently told in briefing documents did not reveal what Sheehan says he discovered.<sup>36</sup> In 1993, following lobbying from billionaire Laurance Rockefeller, President [Bill Clinton](/people/bill-clinton) ordered his CIA Director James Woolsey to release more UAP files.<sup>37</sup> [Steven Greer](/people/steven-greer) has described a 1993 meeting with Woolsey as "a covert briefing on the topic of UFOs under the guise of a dinner party".<sup>38</sup> John Petersen, who separately raised a number of highly redacted documents with Woolsey after he became CIA Director,<sup>39</sup> has denied that Woolsey ever reached out to Greer for a briefing or requested the 1993 dinner meeting.<sup>40</sup>
 
-The CIA also features in accounts of the Pentagon's modern UAP programmes. After 2012, Elizondo worked with officials from the US Navy and the CIA on AATIP.<sup>28</sup> Before joining that effort, Puthoff had previously managed the CIA's Stargate program.<sup>29</sup> Puthoff also introduced [Jim Semivan](/people/jim-semivan), a senior CIA officer, to Elizondo's effort;<sup>30</sup> Semivan had retired from the CIA's Directorate of Operations after 25 years as an operations officer working inside the US and internationally,<sup>31</sup> holding Senior Executive Service rank roughly two levels below the CIA director.<sup>32</sup> Elizondo has described attending a meeting with high-level Navy officials, CIA representatives and an NSA representative at which the GoFast and [Gimbal video](/documents/gimbal-video)s were shown;<sup>33</sup> according to Elizondo, CIA representatives at that meeting variously suggested the object in the Gimbal video could be a hybrid balloon with an inducted fan,<sup>34</sup> a Mylar football with its own navigation and propulsion,<sup>35</sup> or an object powered by a tether or beamed energy from a nearby floating platform,<sup>36</sup> and assessed that the aura visible around the object was not a camera artefact or lens flare.<sup>37</sup> The CIA and the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi) have both, at times, posted unclassified UAP documents on their websites for the public to search and download.<sup>38</sup>
+In the 2010s the CIA's contemporary involvement resurfaced through the Pentagon's AATIP. After 2012, [Luis Elizondo](/people/luis-elizondo) worked with officials from the US Navy and the CIA on AATIP;<sup>41</sup> Puthoff, who had conducted ESP research for the agency, later worked as an AATIP contractor.<sup>42</sup> William "Will" Livingston presided over a little-known "weird desk" at the CIA responsible for investigating unusual medical issues, implants, and abductions connected to UAP encounters, according to Elizondo.<sup>43</sup> A similar CIA function, referred to colloquially as the Weird Desk, has moved around the agency many times, according to researcher Jason Samosa;<sup>44</sup> when Bill Clinton's science advisor sought a UFO briefing, the request went to the Weird Desk,<sup>45</sup> which Ronald Pandolfi was running at the time.<sup>46</sup> Pandolfi has been described as a CIA analyst at the centre of the UFO establishment.<sup>47</sup> Elizondo has said that a few months after sharing the Predator video with Neill Tipton, he attended a meeting with senior Navy officials, CIA representatives, and an NSA representative at which the GoFast and [Gimbal video](/documents/gimbal-video) footage was shown.<sup>48</sup> According to Elizondo, a CIA representative at that meeting proposed the object in the Gimbal footage could be a hybrid balloon with an inducted fan at its centre,<sup>49</sup> another suggested it might be a Mylar balloon shaped like a football with its own navigation and propulsion,<sup>50</sup> and a third suggested it could be powered by a tether or beamed energy from a nearby floating platform;<sup>51</sup> the CIA also assessed that the aura visible around the object was not a camera artefact or lens flare.<sup>52</sup> The CIA and FBI have at times posted unclassified [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) documents on their websites for public download, according to Elizondo.<sup>53</sup> In written testimony to Congress on 2024-11-13, Elizondo stated that the White House, the CIA, NASA, the Pentagon, and the Department of Energy currently play a role in the [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) issue but that no single entity is in charge.<sup>54</sup>
 
-[David Charles Grusch](/people/david-charles-grusch) has testified that the CIA, the Office of Naval Intelligence (ONI) and a number of federally funded research and development centres have been involved in the analysis of recovered UAP material over the decades.<sup>39</sup> He separately testified that CIA leadership denied a request to transfer recovered material from Lockheed Martin to the Advanced Aerospace Weapon System Applications Program (AAWSAP),<sup>40</sup> a claim he says he holds on very good authority.<sup>41</sup> AARO's Historical Record Report examined allegations that a former CIA official had managed UAP experimentation and the movement of alleged off-world technology; the report found the official was not involved in any such movement,<sup>42</sup> and the official signed a memorandum rejecting the claim.<sup>43</sup> AARO interviewed the official and obtained a signed statement,<sup>44</sup> in which, according to the report, he said he had no knowledge of any extraterrestrial material in the possession of the US government or any other organisation,<sup>45</sup> a statement he attested to the truthfulness of in a signed Memorandum for the Record.<sup>46</sup> Grusch has separately argued that Congress lacks oversight of UAP matters comparable to the Church Committee's 1970s investigations into the activities of the CIA, the NSA and the FBI.<sup>47</sup> Those investigations, along with the Rockefeller Commission and the House Select Committee on Assassinations, examined whether the CIA was involved in the [Assassination of John F. Kennedy](/events/assassination-of-john-f-kennedy).<sup>48</sup> E. Howard Hunt was a CIA operative involved in the Watergate scandal and long rumoured to have been a key figure in the assassination;<sup>49</sup> according to In Plain Sight, Gordon Novel told New Orleans District Attorney Jim Garrison that, while working for the CIA, he had known both alleged assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.<sup>50</sup> A jury in the Liberty Lobby lawsuit found against Hunt on the basis of his involvement in the John F. Kennedy assassination, and that the CIA had also been involved.<sup>51</sup> Grusch has also testified that there was a 'shell game' within the CIA to prevent its inspector general, its general counsel and Congress from learning about [Project MKUltra](/projects/project-mkultra-mkultra);<sup>52</sup> he said the agency pursued mind-control experimentation under MKUltra after learning Russia was experimenting with similar techniques,<sup>53</sup> aiming to create 'Manchurian Candidate' assassins,<sup>54</sup> and separately paid off journalists at major news organisations under Operation Mockingbird.<sup>55</sup>
+The agency's Cold War-era secrecy has also fed persistent allegations connecting it to the [assassination of John F. Kennedy](/events/assassination-of-john-f-kennedy). E. Howard Hunt, a CIA operative involved in the Watergate scandal, was long rumoured to have been a key player in the killing.<sup>55</sup> Gordon Novel provided New Orleans District Attorney Jim Garrison with a CIA-Cuban-emigre link to the assassination by suggesting that, while working for the CIA, he had known both alleged assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer, according to *In Plain Sight*.<sup>56</sup> Whether the agency itself had any involvement has since been examined by the Church Committee, the Rockefeller Commission, and the House Select Committee on Assassinations investigating the John F. Kennedy assassination.<sup>57</sup> Grusch has said it was wrong that Congress lacked oversight of Unidentified Aerial Phenomena matters comparable to the Church Committee's 1970s investigations of CIA, NSA, and FBI activities.<sup>58</sup> He has separately testified that the CIA, the Office of Naval Intelligence, and a number of federally funded research and development centres have been involved in the analysis of recovered UAP material over the decades.<sup>59</sup> Other claims about the agency's role remain contested: Ross Coulthart has related that Jason Reza Jorjani, in a November 2025 *American Alchemy* interview, said that retired US Army remote viewer Lyn Buchanan told him the CIA has backdoor access to consumer DNA databases such as Ancestry.com and 23andMe,<sup>60</sup> and that this alleged access is used to screen for genetic markers of Nordic alien beings said to live on Earth, according to Coulthart.<sup>61</sup> Buchanan has never directly confirmed Jorjani's account,<sup>62</sup> and Coulthart himself has said he has no idea about the veracity of the claim, describing it only as disputed.<sup>63</sup> [Jesse Mitchells](/people/jesse-mitchells) has similarly said that anecdotal accounts of alien-human hybridisation come from people who were very senior within the CIA, citing Semivan as an example.<sup>64</sup>

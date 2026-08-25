@@ -1,12 +1,20 @@
 ---
 title: Thomas Wilson
-description: Vice Admiral Thomas R. Wilson was a US Navy intelligence officer who
-  served as Deputy Director and later Director of the Defense Intelligence Agency,
-  at the centre of disputed accounts of a 1997 investigation into a secret reverse-engineering
-  programme and a leaked 2002 memo describing a meeting with Eric Davis.
+aliases:
+- /people/tom-wilson/
+- /en/people/tom-wilson/
+- /people/thomas-r-wilson/
+- /en/people/thomas-r-wilson/
+description: Thomas R. Wilson is a retired United States Navy admiral and the 13th
+  Director of the Defense Intelligence Agency, named in a disputed memorandum as having
+  privately described a secret Pentagon investigation into a reverse-engineering programme
+  built on recovered technological hardware - an account he has categorically denied.
 metadata:
-  role: Deputy Director and 13th Director, Defense Intelligence Agency (DIA)
-  rank: Vice Admiral, US Navy (retired)
+  role: 13th Director, Defense Intelligence Agency (DIA)
+  rank: Vice Admiral, United States Navy
+  other_positions: Vice Director of Intelligence, Joint Staff; Director of Intelligence,
+    United States Atlantic Command; Associate Director of Central Intelligence for
+    Military Support, Central Intelligence Agency
 built_from:
   brief_hash: e22b50f04102c12e18d217e4aec0b4794b4d43660003b4b2268b8e3003de9485
   claims:
@@ -411,18 +419,7 @@ built_from:
   - id: 5754f9d2-d959-4031-ba37-567ab2448803
     hash: a356290928b5e6c722b44ab0b5b38f7e8359ad50505da676ed6d859cba747890
 references:
-- text: At the time of his 1997 investigation, Wilson was Deputy Director of the DIA
-    and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to Director
-    Patrick Hughes
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:12533-12639
-  quote: (TW was Deputy Director DIA/Assistant Joint Chief of Staff J-2 at time; boss
-    was Director DIA Gen. Patrick Hughes)
-  claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
-- text: Thomas R. Wilson's credentials included Vice Director of Intelligence for
-    the Joint Staff
+- text: Wilson served as Vice Director of Intelligence for the Joint Staff
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:140-184
   quote: Vice Director of Intelligence for the Joint Staff
@@ -430,8 +427,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-- text: Thomas R. Wilson's credentials included Director of Intelligence for the United
-    States Atlantic Command
+- text: Wilson served as Director of Intelligence for the United States Atlantic Command
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:191-251
   quote: and Director of Intelligence for the United States Atlantic Command
@@ -439,17 +435,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-- text: Thomas R. Wilson later became the 13th Director of the Defense Intelligence
-    Agency
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch43:260-326
-  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
-  claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-- text: Thomas R. Wilson's credentials included Associate Director of Central Intelligence
-    for Military Support at the CIA
+- text: Wilson served as Associate Director of Central Intelligence for Military Support
+    at the CIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:5-132
   quote: His other credentials included the Associate Director of Central Intelligence
@@ -458,19 +445,47 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5754f9d2-d959-4031-ba37-567ab2448803
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5754f9d2-d959-4031-ba37-567ab2448803
-- text: In April 1997, Steven Greer, Willard Miller and Edgar Mitchell gave a talk
-    in a Pentagon conference room, with Admiral Mike Crawford and General Patrick
-    Hughes present
+- text: Wilson later became the 13th Director of the Defense Intelligence Agency
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch43:260-326
+  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
+  claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+- text: In 1997 Wilson was Deputy Director of the DIA and Assistant J-2, reporting
+    to Director Patrick Hughes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:1217-1381
-  quote: 'TW: Confirmed Greer/Miller/Mitchell gave talk in Pentagon Conference room.
-    Adm. Mike Crawford, Gen. Pat Hughes (Hughes his boss) were present (others too.)
-    Date April ''97.'
-  claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
+  location: char:12533-12639
+  quote: (TW was Deputy Director DIA/Assistant Joint Chief of Staff J-2 at time; boss
+    was Director DIA Gen. Patrick Hughes)
+  claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
-- text: In advance of the visit, Greer sent Wilson's staff a leaked National Reconnaissance
-    Office document detailing authentic codenames for top-secret Special Access Programs
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
+- text: As Vice Admiral in 1997, Wilson briefed generals advising the president and
+    Joint Chiefs of Staff
+  source: In Plain Sight
+  location: ch26:16014-16207
+  quote: Remember, in 1997 Vice Admiral Tom Wilson was the Deputy Director of the
+    Defense Intelligence Agency and was responsible for briefing the generals who
+    advised the president and Joint Chiefs of Staff.
+  claim_id: ac8e4aa1-3fcc-4e54-a82b-38546be1567c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
+- text: Mitchell's renown as an astronaut opened the way for an April 1997 briefing
+    with Wilson
+  source: In Plain Sight
+  location: ch14:8565-8758
+  quote: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary
+    briefing with the Deputy Director of Intelligence for the US military's Joint
+    Chiefs of Staff, Admiral Thomas Wilson.
+  claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
+- text: Greer sent Wilson's staff a leaked NRO document listing SAP codenames ahead
+    of the April 1997 visit
   source: In Plain Sight
   location: ch14:9972-10214
   quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
@@ -481,20 +496,27 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
-- text: Greer claims that when Wilson saw the leaked document, he was upset that Special
-    Access Program codenames on it were unknown to him
+- text: Greer, Miller and Mitchell gave a talk in a Pentagon conference room with
+    Crawford and Hughes present, April 1997
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:1217-1381
+  quote: 'TW: Confirmed Greer/Miller/Mitchell gave talk in Pentagon Conference room.
+    Adm. Mike Crawford, Gen. Pat Hughes (Hughes his boss) were present (others too.)
+    Date April ''97.'
+  claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+- text: Wilson met with UAP researchers at the Pentagon in 1997
   source: In Plain Sight
-  location: ch14:12137-12352
-  quote: When Admiral Tom Wilson saw the leaked document Greer sent him,12 he was,
-    Greer claims, very upset that there were SAP project codenames on the list that
-    were unknown to him, the second-most powerful man in Defence Intelligence.
-  claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
+  location: ch26:7957-8068
+  quote: As detailed earlier, we know for sure that Vice Admiral Tom Wilson met with
+    UAP researchers in the Pentagon in 1997.
+  claim_id: a75906a3-36eb-4985-95df-d37722088e7f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-- text: Steven Greer, Willard Miller and Edgar Mitchell presented Wilson with what
-    they believed was witness evidence of a cover-up of alien visitations, recovered
-    spacecraft and bodies, and derived technology
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a75906a3-36eb-4985-95df-d37722088e7f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a75906a3-36eb-4985-95df-d37722088e7f
+- text: Greer, Miller and Mitchell believed they presented strong witness evidence
+    of a cover-up
   source: In Plain Sight
   location: ch14:14003-14350
   quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
@@ -506,59 +528,17 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-- text: Wilson confirmed the 1997 Pentagon meeting with Greer and Mitchell in an interview
-    with Richard Dolan more than a decade later
+- text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
-  location: ch14:20976-21102
-  quote: The admiral confirmed the 1997 Pentagon meeting with Greer and Mitchell in
-    an interview with Richard Dolan more than a decade later
-  claim_id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
+  location: ch14:14577-14660
+  quote: Edgar Mitchell later confirmed to many friends that this meeting happened
+    as Greer described.
+  claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
-- text: Wilson told Dolan he agreed to the meeting only because he was curious why
-    a man of Mitchell's stature would be interested in UFOs
-  source: In Plain Sight
-  location: ch14:21113-21234
-  quote: told Dolan he only agreed to it because he was ‘curious why a man of Dr Mitchell’s
-    stature would be interested in such a matter’
-  claim_id: 896cd676-bbc8-4e13-a312-8239d944c4eb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-- text: Wilson described everything else claimed by Greer about the meeting as poppycock,
-    and hung up on Dolan
-  source: In Plain Sight
-  location: ch14:21243-21350
-  quote: Wilson claimed everything else about the meeting described by Greer was ‘poppycock’
-    and he then hung up on Dolan.
-  claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
-- text: In a detailed letter, Wilson acknowledged the April 1997 Pentagon meeting
-    happened and that it was a briefing
-  source: In Plain Sight
-  location: ch26:21849-21941
-  quote: His detailed letter in reply23 acknowledged the meeting happened, and that
-    it was indeed a ‘briefing’
-  claim_id: 9aa518f7-4756-49e2-aadd-f9089710a3f2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9aa518f7-4756-49e2-aadd-f9089710a3f2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9aa518f7-4756-49e2-aadd-f9089710a3f2
-- text: Wilson stated he did not acknowledge or suggest that special access programmes
-    on UFOs existed, nor that he ever had knowledge of such programmes
-  source: In Plain Sight
-  location: ch26:22570-22777
-  quote: I most certainly did not acknowledge or even suggest that such programs existed
-    nor that I would attempt to gain access if they did. In fact, I did neither then,
-    nor since then, ever have knowledge of such programs.
-  claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
-- text: In 1998, Greer was invited back to the DIA, again with Willard Miller, to
-    brief Wilson's immediate superior, Patrick Hughes, on UFOs
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
+- text: In 1998 Greer and Miller were invited back to brief DIA Director Hughes on
+    UFOs
   source: In Plain Sight
   location: ch14:18395-18635
   quote: It is to Greer's credit, for example, that he was invited back in 1998 to
@@ -569,8 +549,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-- text: The Admiral Wilson Memo purports to detail what Wilson admitted to Eric Davis
-    in a private meeting in Las Vegas in 2002
+- text: A document known as the Admiral Wilson Memo purports to detail what Wilson
+    admitted to Davis in Las Vegas in 2002
   source: In Plain Sight
   location: ch26:367-500
   quote: purporting to detail what Defense Intelligence Agency Admiral Tom Wilson
@@ -579,7 +559,30 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
-- text: Wilson said he was taking a risk talking to Eric Davis, trusting Oke Shannon's
+- text: Davis claims to have met the recently retired DIA Director in a car in Las
+    Vegas on 2002-10-16
+  source: In Plain Sight
+  location: ch26:4818-5042
+  quote: In his memo, Davis claims to have met the recently retired Director of the
+    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
+    in a car parked in the carpark of a corporate office building in Las Vegas.
+  claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+- text: Wilson arrived ten minutes late to the EG&G building meeting with two uniformed
+    Navy officers, in civilian clothes
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:193-341
+  quote: '10:10 (Adm. late)
+
+    Arrives with two Navy officers in uniform - he''s in suit - now civilian
+
+    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
+  claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+- text: Wilson said he was taking a risk talking to Davis, trusting Oke Shannon's
     word
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10320-10395
@@ -589,8 +592,7 @@ references:
   claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-60de4d37-4d58-4f1b-9e07-fe9b58806357
-- text: Rich and Doug vouched for Davis, and Wilson said the Association of Former
-    Intelligence Officers connection mattered for trust
+- text: Rich and Doug vouched for Davis; the AFIO connection mattered for trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10532-10661
   quote: 'TW: Rich & Doug vouch for you - say your word is good with them. AFIO connection
@@ -598,38 +600,17 @@ references:
   claim_id: 6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
-- text: Wilson said that if Davis violated his trust, he would deny meeting him and
-    deny everything said, calling the subject matter absurdly closely held
+- text: Subject discussed between Shannon and Miller included a Boston Globe story,
+    crashed craft and bodies, and an MJ-12-like organisation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:10812-11142
-  quote: If you blow my trust I'll deny meeting you, deny everything said, won't meet
-    with any more people (without clearances) to talk about this topic - too risky
-    because of security violation just by mentioning it - very tightly held info -
-    absurdly closely held subject matter - never seen anything like this program in
-    black programs community
-  claim_id: 6256c21a-1f98-49e6-9e5d-db7468b48731
+  location: char:1063-1183
+  quote: 'Re: Boston Globe Story - L. Kean. Yep, UFO topic - crashed/retrieved UFO
+    craft/bodies, etc. MJ-12 like UFO organization (or cabal).'
+  claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6256c21a-1f98-49e6-9e5d-db7468b48731
-- text: General M. Ward suggested Wilson go through the records group files in OUSDAT
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:11389-11564
-  quote: Suggestion came from Ward (Gen. M. Ward) to go through the records groups
-    files (like an index system) in OUSDAT (Office of the Under Secretary of Defense
-    for Acquisition and Technology)
-  claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
-- text: Wilson ran into William Perry in May 1997 and discussed the matter, and Perry
-    suggested the same approach as General Ward
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:11578-11661
-  quote: Ran into Bill Perry in May '97 - talked about this quietly - he suggested
-    the same thing
-  claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
-- text: Wilson was told of a special projects record group not belonging to the usual
-    SAP divisions, organised in 1994 by William Perry
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+- text: Wilson was told in 1994 of a special record group organised outside usual
+    SAPs by William Perry
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11669-11945
   quote: They told me of a special projects record group not belonging to usual SAP
@@ -639,7 +620,24 @@ references:
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
-- text: Paul Kaminski was USDAT, and Wilson talked to both Kaminski and Michael Kostelnik
+- text: General M. Ward suggested Wilson search the OUSDAT records group files
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:11389-11564
+  quote: Suggestion came from Ward (Gen. M. Ward) to go through the records groups
+    files (like an index system) in OUSDAT (Office of the Under Secretary of Defense
+    for Acquisition and Technology)
+  claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
+- text: Perry gave Wilson the same advice when he raised it in May 1997
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:11578-11661
+  quote: Ran into Bill Perry in May '97 - talked about this quietly - he suggested
+    the same thing
+  claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
+- text: Wilson talked to Paul Kaminski, then USDAT, and Michael Kostelnik
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11976-12048
   quote: 'TW: Uh, was Paul Kaminski - talked to both Paul and Mike Kostelnik (a Brig.
@@ -647,25 +645,75 @@ references:
   claim_id: 4adf89e5-79f4-4a60-b311-da7c1a81b31a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4adf89e5-79f4-4a60-b311-da7c1a81b31a
-- text: Wilson found the unusual record group and read the index abstracts
+- text: Kostelnik was director of special programmes in OUSDAT as reorganised by Perry
+    in 1994
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:12652-12703
-  quote: 'TW: So found the unusual record group - read the index abstracts.'
-  claim_id: 48f50bb4-95d0-4278-8fe8-5711a215a992
+  location: char:12087-12277
+  quote: In Paul's office (OUSDAT) - dir. of special programs in OUSDAT (Office of
+    the Under Secretary of Defense for Acquisition, Technology, and Logistics) as
+    organized (re-organized) by Perry in '94
+  claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-48f50bb4-95d0-4278-8fe8-5711a215a992
-- text: Wilson declined to name the SAP compartment he found, calling it a core secret
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+- text: At end of May 1997 Wilson called Kaminski, Kostelnik and Perry to confirm
+    the contractor and programme manager
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:13861-13943
-  quote: 'EWD: Change subject: so what SAP compartment did you find in?
+  location: char:14381-14539
+  quote: 'TW: I made several calls (end of May ''97), first to Paul, Mike & Perry
+    to confirm I had right contractor and program manager to talk to.
 
 
-    TW: Core secret - won''t say'
-  claim_id: b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
+    EWD: They confirm?
+
+
+    TW: Yes.'
+  claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
-- text: The contractor running the programme Wilson found was an aerospace technology
-    contractor, one of the top ones in the United States
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
+- text: Wilson flew out in mid-June 1997 to meet three people in a secure vault conference
+    room
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:16656-16836
+  quote: 'TW: Yes, ten days later (mid-June or so). Flew out there
+
+    - Met in their conference room in their secure vault
+
+    - Three of them show up
+
+    ...
+
+    TW: Yes, same 3'
+  claim_id: 96ce9937-d09c-4e7b-b509-628f9102ee62
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-96ce9937-d09c-4e7b-b509-628f9102ee62
+- text: The three - security director, programme director, attorney - called themselves
+    the watch committee
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:16845-16981
+  quote: '- Security director (NSA-retired, a CI expert)
+
+    - Program director
+
+    - Corporate attorney
+
+    - Called themselves "the watch committee," or gate keepers.'
+  claim_id: 9de8dbae-e9af-47f9-9e75-d0937aa77193
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-9de8dbae-e9af-47f9-9e75-d0937aa77193
+- text: The Watch Committee produced a 1990/1993 bigot list to argue Wilson's authority
+    was not relevant
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:19763-19983
+  quote: '- Regulatory and statutory authority as Deputy Director DIA not relevant
+    or pertinent to nature of their program!
+
+    - Then they pulled out their bigot list to convince me otherwise - several pages
+    long - dated 1990, updated 1993.'
+  claim_id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-447c8fd9-9d25-497d-bb47-dce0dd9ba23c
+- text: The contractor was an aerospace technology firm, one of the top in the United
+    States
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:14074-14274
   quote: 'TW: An aerospace technology contractor - one of the top ones in US
@@ -685,330 +733,83 @@ references:
   claim_id: 75712e51-5c10-47db-b1e9-4f90136a1c2e
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
-- text: At the end of May 1997, Wilson called Kaminski, Kostelnik and Perry to confirm
-    he had the right contractor and programme manager
+- text: The programme was built around technological hardware recovered years earlier
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:14381-14539
-  quote: 'TW: I made several calls (end of May ''97), first to Paul, Mike & Perry
-    to confirm I had right contractor and program manager to talk to.
-
-
-    EWD: They confirm?
-
-
-    TW: Yes.'
-  claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
+  location: char:20860-20976
+  quote: They were a reverse engineering program - Something recovered years ago in
+    the past - Technological hardware was recovered
+  claim_id: ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
-- text: Wilson made three calls to the programme manager, including a conference call
-    with the security director and corporate attorney, met with confusion and a testy
-    tone
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
+- text: Gansler reportedly told Wilson UFOs are real but alien abductions are not
+  source: In Plain Sight
+  location: ch26:20491-20681
+  quote: The memo also claimed Wilson was told by the Under Secretary for Defence
+    for Acquisition, Technology and Logistics, Dr Jacques Gansler, that ‘UFOS are
+    real, so-called “alien abductions” not real’.
+  claim_id: e432db08-8382-45d4-bcb7-378bea035b61
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e432db08-8382-45d4-bcb7-378bea035b61
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e432db08-8382-45d4-bcb7-378bea035b61
+- text: Wilson complained to Senior Review Group members inside the Pentagon
+  source: In Plain Sight
+  location: ch26:22371-22596
+  quote: on his return to Washington, the memo claims Wilson complained to the Senior
+    Review Group members overseeing the Special Access Program Oversight Committee
+    inside the Pentagon, only to be threatened with his job if he caused trouble.
+  claim_id: 6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
+- text: The Senior Review Group would sustain the contractor's access denial
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:14585-14860
-  quote: 'TW: (End of May ''97) Made three calls to the program manager - one of them
-    conference call with security director and corporate attorney.
-
-    - Confusion on their part as to why I was looking for them and what I wanted from
-    them or wanted to know about.
-
-    - Very testy tone from all of them.'
-  claim_id: 28293f65-b441-4a9c-96cf-bcdf2293d479
+  location: char:21364-21434
+  quote: They responded that they would sustain the contractor on their access denial
+  claim_id: 0f7f3bef-b48a-4198-be1e-34a5b928063b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-28293f65-b441-4a9c-96cf-bcdf2293d479
-- text: Wilson also called other programme managers; three said they were not what
-    he was looking for, four referred him back to the same threesome
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:15730-15839
-  quote: 'TW: 3 programs who said they weren''t what/who I was looking for. 4 programs
-    that referred me back to the present threesome.'
-  claim_id: 1400416e-7589-4313-b46a-75623658c3b1
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1400416e-7589-4313-b46a-75623658c3b1
-- text: Wilson told the threesome he wanted a formal briefing and tour, invoking his
-    authority as Deputy Director of the DIA and J-2
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:16210-16437
-  quote: 'TW: I told threesome I wanted formal briefing, tour, etc. - was exploiting
-    my regulatory authority as Deputy Director DIA/Assistant Joint Chief of Staff
-    J-2 - Told them my not being briefed was oversight they needed to correct - I
-    demanded!'
-  claim_id: 2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-- text: The threesome called back two days later and arranged a face-to-face meeting
-    at their facility
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:16452-16623
-  quote: 'TW: They needed to discuss this (his demand) so hung up. Got called 2 days
-    later and they said they don''t want to talk on phone and arranged for face-to-face
-    meeting at their facility.'
-  claim_id: 47e58a5f-14ba-4f10-a257-3f203e03ce00
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-47e58a5f-14ba-4f10-a257-3f203e03ce00
-- text: Wilson flew out around mid-June 1997 to meet the same three people in their
-    conference room in their secure vault
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:16656-16836
-  quote: 'TW: Yes, ten days later (mid-June or so). Flew out there
-
-    - Met in their conference room in their secure vault
-
-    - Three of them show up
-
-    ...
-
-    TW: Yes, same 3'
-  claim_id: 96ce9937-d09c-4e7b-b509-628f9102ee62
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-96ce9937-d09c-4e7b-b509-628f9102ee62
-- text: The three people who met Wilson were a security director, a programme director,
-    and a corporate attorney, who called themselves the Watch Committee
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:16845-16981
-  quote: '- Security director (NSA-retired, a CI expert)
-
-    - Program director
-
-    - Corporate attorney
-
-    - Called themselves "the watch committee," or gate keepers.'
-  claim_id: 9de8dbae-e9af-47f9-9e75-d0937aa77193
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-9de8dbae-e9af-47f9-9e75-d0937aa77193
-- text: Wilson said his tickets were confirmed and valid, but he was not on the bigot
-    list, so need-to-know authorisation was not granted
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:19158-19359
-  quote: 'TW: They said my tickets were all confirmed and valid, but I was not on
-    the bigot list.
-
-    - My tickets alone were not enough
-
-    - I didn''t meet the special criteria so need to know authorization was not being
-    granted'
-  claim_id: c408147c-c2ba-4b8f-af1d-eaaec7d00b96
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-c408147c-c2ba-4b8f-af1d-eaaec7d00b96
-- text: Wilson went back and forth with the security director and attorney, arguing
-    his statutory oversight authority gave him a right to know
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:19369-19754
-  quote: '- Went back ''n forth with them over these points (primarily with security
-    director & attorney)
-
-
-    TW: Argued more - they wouldn''t accept my arguments that they fell under my statutory
-    oversight and regulatory authority as Deputy Director DIA - under purview for
-    my right to have need to know (oversight, audit, justification issues, etc., etc.)'
-  claim_id: 7fe48f97-1c02-4ff4-ae4b-44a713ebd4b4
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7fe48f97-1c02-4ff4-ae4b-44a713ebd4b4
-- text: The Watch Committee pulled out their bigot list, dated 1990 and updated 1993,
-    to argue Wilson's authority was not pertinent
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:19763-19983
-  quote: '- Regulatory and statutory authority as Deputy Director DIA not relevant
-    or pertinent to nature of their program!
-
-    - Then they pulled out their bigot list to convince me otherwise - several pages
-    long - dated 1990, updated 1993.'
-  claim_id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-- text: Wilson said the meeting broke up after approximately 20 minutes with an agreement
-    to meet again in two to three days
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:21485-21538
-  quote: Broke up in 20 minutes and they would meet me in 2-3 days
-  claim_id: 5ba71f94-8941-4c15-acd6-6edbac2e50f7
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-5ba71f94-8941-4c15-acd6-6edbac2e50f7
-- text: Wilson met again with members of the Senior Review Group near the end of June
-    1997
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:21545-21629
-  quote: Got the call 2 days later (near end of June) and met again with Senior Review
-    Group members
-  claim_id: b948149f-79e3-45a2-b45d-ee983529b780
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b948149f-79e3-45a2-b45d-ee983529b780
-- text: Wilson became very angry and started yelling during the meeting with the Senior
-    Review Group
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:21911-21980
-  quote: I became very angry - started yelling when should have kept my mouth shut
-  claim_id: de117bc8-f450-4f63-9382-008719814064
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-de117bc8-f450-4f63-9382-008719814064
-- text: Will Miller and Steven Greer said Wilson nearly 'got busted' over his investigation
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:21991-22028
-  quote: 'EWD: Miller and Greer said you nearly got busted.'
-  claim_id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d51ad4a3-e752-4f4e-b487-3462b8af9b78
-- text: Wilson confirmed he came close to being disciplined over his investigation
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-0f7f3bef-b48a-4198-be1e-34a5b928063b
+- text: Wilson confirmed he came close to being disciplined over the investigation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22041-22050
   quote: 'TW: Close to that!'
   claim_id: b27f5d2f-ce7e-49de-a9ee-8983ad80f752
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
-- text: Wilson was very angry, upset, and livid about the pressure placed on him,
-    given his position of regulatory and statutory authority
+- text: Wilson became very angry and started yelling during the Senior Review Group
+    meeting
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:22242-22467
-  quote: Really incredibly angry - upset over this - livid!!! - Why such a big deal
-    over this considering the position of trust I have in the Pentagon - I do have
-    relevant regulatory/statutory authority over their program - that's my position!!!
-  claim_id: a273c9eb-af83-4c75-8447-7c3efd606e87
+  location: char:21911-21980
+  quote: I became very angry - started yelling when should have kept my mouth shut
+  claim_id: de117bc8-f450-4f63-9382-008719814064
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a273c9eb-af83-4c75-8447-7c3efd606e87
-- text: Eric Davis claims to have met Wilson, the recently retired Director of the
-    DIA, on 2002-10-16 in a car in a Las Vegas car park
-  source: In Plain Sight
-  location: ch26:4818-5042
-  quote: In his memo, Davis claims to have met the recently retired Director of the
-    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
-    in a car parked in the carpark of a corporate office building in Las Vegas.
-  claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-- text: Admiral Wilson arrived ten minutes late to the meeting at the EG&G building,
-    accompanied by two Navy officers in uniform, while he wore civilian clothing
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-de117bc8-f450-4f63-9382-008719814064
+- text: Wilson was warned he would not see promotion to DIA Director
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:193-341
-  quote: '10:10 (Adm. late)
-
-    Arrives with two Navy officers in uniform - he''s in suit - now civilian
-
-    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
-  claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  location: char:22059-22175
+  quote: Told Miller Senior Review Group chairman said if I didn't follow their suggestion
+    that I would not see Director DIA promotion
+  claim_id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
-- text: As rumours of an imminent New York Times story mounted in June 2020, Wilson
-    issued a strong denial that any such meeting with Davis ever happened
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d1f3d976-9ff0-4e77-8033-90c748bcf11f
+- text: Wilson was threatened with losing one or two stars in rank
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:22208-22236
+  quote: lose 1 or 2 stars along the way
+  claim_id: 165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
+- text: For over a year after the memo was published online, Wilson made no comment
   source: In Plain Sight
-  location: ch26:1819-1966
-  quote: as rumours of an imminent *New York Times* story mounted in June 2020, Wilson
-    finally issued a strong denial that any such meeting with Davis ever happened.
-  claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
+  location: ch26:1587-1805
+  quote: For well over a year after the memo was first published on the internet,
+    the former Defense Intelligence Agency official with whom Dr Eric Davis purportedly
+    had this explosive conversation, Admiral Tom Wilson, made no comment.
+  claim_id: 09f77fb1-e637-41d7-816f-d286d3770264
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da5290a6-646b-4363-80ba-139ad6fb568e
-- text: In his June 2020 denial letter, Wilson said the entire memo attributed to
-    Davis, including its characterisation of his attitude and sentiments, is pure
-    fiction
-  source: In Plain Sight
-  location: ch26:11719-11879
-  quote: In it, he said, ‘The entire memo attributed to Dr Davis, including his characterization
-    of my attitude, emotions and sentiments about other individuals is pure fiction.
-  claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
-- text: Wilson said many of the people named in the memo, including Oke Shannon, Mike
-    Crawford, Linda, Rich and Doug, are completely unknown to him
-  source: In Plain Sight
-  location: ch26:11888-12171
-  quote: Many of the people (Oke Shannon, Mike Crawford, Linda, Rich, Doug) he characterises
-    in the memo as people I interacted with are completely unknown to me, as are the
-    conversations I purportedly had on Special Access Programs related to UFOs with
-    senior officials in the Department of Defense.
-  claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
-- text: Wilson denied visiting Las Vegas in 2002 and denied ever meeting Eric Davis
-  source: In Plain Sight
-  location: ch26:7529-7611
-  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
-    Dr Eric Davis.
-  claim_id: 46abfcfa-818a-478e-b610-348bceec1359
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
-- text: Wilson said the only time he was ever in Las Vegas was for a Carrier Air Wing
-    Three deployment to Nellis Air Force Base in 1979 or 1980
-  source: In Plain Sight
-  location: ch26:7618-7745
-  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
-    Three deployment to Nellis Air Force Base in 1979 or 1980.
-  claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-- text: Wilson said that in October 2002 he was on terminal leave, having retired
-    from the navy about three months earlier, staying at an isolated camp in Maine
-    before starting work for Alliant Techsystems in November
-  source: In Plain Sight
-  location: ch26:7751-7946
-  quote: He says that in October 2002 he was on ‘terminal leave’ and retired from
-    the navy for about three months, staying at an isolated camp in Maine before he
-    started work for Alliant Technosystems in November.
-  claim_id: c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-- text: Wilson stated in his letter to Ross Coulthart that he never requested nor
-    was denied access to supposed UAP programmes, and was never threatened over his
-    career
-  source: In Plain Sight
-  location: ch26:23480-23723
-  quote: Admiral Wilson, it should be emphasised, was very clear in his letter to
-    me that he never requested nor was he denied such access to supposed UAP programs
-    and neither was he threatened he would lose his career if he persisted.
-  claim_id: c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
-- text: No one who should know about the purported meeting was prepared to confirm
-    the authenticity of the memo on the record
-  source: In Plain Sight
-  location: ch26:23971-24169
-  quote: We are left with the fact that, if the ‘EWD Notes’ memo is genuine, not one
-    person who should know about the purported Admiral Wilson meeting is actually
-    prepared to confirm its authenticity on the record.
-  claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85914fc6-ffc6-46b0-a886-099712049ef5
-- text: Wilson, his former Defense Department colleagues, and Willard Miller all cast
-    doubt on the authenticity of the memo
-  source: In Plain Sight
-  location: ch26:24177-24303
-  quote: And the comments of Tom Wilson, his former Defence Department colleagues,
-    and Commander Willard Miller pour cold water on its authenticity.
-  claim_id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
-- text: Coulthart considers that without a senior Department of Defense official,
-    Davis, Wilson, or Puthoff going on record, the memo's claims must be treated with
-    extreme scepticism as a hoax document until proved otherwise
-  source: In Plain Sight
-  location: ch26:25149-25415
-  quote: But without a senior Department of Defense official, Eric Davis, Admiral
-    Wilson or Hal Puthoff, going on the record admitting to the veracity of the memorandum,
-    its claims must be treated with extreme scepticism. It has to be treated as a
-    hoax document until proved otherwise.
-  claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12d9e47e-a454-4115-a5cb-dd8834362356
-- text: Tom Wilson has categorically denied that the meeting with Eric Davis described
-    in the memo ever happened
-  source: In Plain Sight
-  location: ch26:26887-26959
-  quote: But Wilson has categorically denied the meeting with Dr Eric Davis ever happened.
-  claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
-- text: Asked about the memo in February 2020, Hal Puthoff said it was leaked on the
-    internet and that Wilson was one of the joint chiefs of staff interviewed by his
-    colleague Eric Davis, declining to comment further
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09f77fb1-e637-41d7-816f-d286d3770264
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-09f77fb1-e637-41d7-816f-d286d3770264
+- text: Puthoff, asked about the memo in February 2020, said Wilson was interviewed
+    by Davis but declined further comment
   source: In Plain Sight
   location: ch26:10770-11128
   quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
@@ -1020,52 +821,101 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-- text: In the late 1990s, Eric Davis met and talked with Vice Admiral Thomas R. Wilson,
-    then Director of Intelligence (J2) for the Joint Staff, according to Luis Elizondo
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:7567-7693
-  quote: in the late 1990s, Eric met and chatted up Vice Admiral Thomas R. Wilson,
-    who was Director of Intelligence (J2) for the Joint Staff
-  claim_id: 31d0506b-ff1d-4737-b571-12be8da97740
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31d0506b-ff1d-4737-b571-12be8da97740
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31d0506b-ff1d-4737-b571-12be8da97740
-- text: Wilson confided the details of his encounter with the aerospace contractor
-    to Davis and never spoke of it again, even after the memo leaked, according to
-    Elizondo
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:9913-10013
-  quote: He confided the details of this encounter to Davis and never spoke of it
-    again, even after the memo leaked.
-  claim_id: 85adddb9-5840-45b4-8240-9e2bd781f2a6
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85adddb9-5840-45b4-8240-9e2bd781f2a6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85adddb9-5840-45b4-8240-9e2bd781f2a6
+- text: In June 2020 Wilson issued a strong denial that the meeting with Davis ever
+    happened
+  source: In Plain Sight
+  location: ch26:1819-1966
+  quote: as rumours of an imminent *New York Times* story mounted in June 2020, Wilson
+    finally issued a strong denial that any such meeting with Davis ever happened.
+  claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+- text: Wilson's denial letter called the entire memo pure fiction
+  source: In Plain Sight
+  location: ch26:11719-11879
+  quote: In it, he said, ‘The entire memo attributed to Dr Davis, including his characterization
+    of my attitude, emotions and sentiments about other individuals is pure fiction.
+  claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
+- text: Wilson denied visiting Las Vegas in 2002 and denied meeting Davis
+  source: In Plain Sight
+  location: ch26:7529-7611
+  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
+    Dr Eric Davis.
+  claim_id: 46abfcfa-818a-478e-b610-348bceec1359
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
+- text: Wilson said his only Las Vegas visit was a Carrier Air Wing Three deployment
+    to Nellis AFB in 1979 or 1980
+  source: In Plain Sight
+  location: ch26:7618-7745
+  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
+    Three deployment to Nellis Air Force Base in 1979 or 1980.
+  claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+- text: Coulthart found no one prepared to confirm the memo's authenticity on the
+    record
+  source: In Plain Sight
+  location: ch26:23971-24169
+  quote: We are left with the fact that, if the ‘EWD Notes’ memo is genuine, not one
+    person who should know about the purported Admiral Wilson meeting is actually
+    prepared to confirm its authenticity on the record.
+  claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85914fc6-ffc6-46b0-a886-099712049ef5
+- text: Coulthart concluded the memo's claims should be treated as a hoax document
+    until proved otherwise
+  source: In Plain Sight
+  location: ch26:25149-25415
+  quote: But without a senior Department of Defense official, Eric Davis, Admiral
+    Wilson or Hal Puthoff, going on the record admitting to the veracity of the memorandum,
+    its claims must be treated with extreme scepticism. It has to be treated as a
+    hoax document until proved otherwise.
+  claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+- text: Wilson has categorically denied the meeting described in the memo ever took
+    place
+  source: In Plain Sight
+  location: ch26:26887-26959
+  quote: But Wilson has categorically denied the meeting with Dr Eric Davis ever happened.
+  claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 901b1239c99f66023095093baedc5ef1d7047f82791879c716b30ae7a2460857
+  prompt_sha256: 3e3f6ce04fd245519b26ece6adf234a533c98c06af771a1f911c61d338f50ab3
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 365702
-    output: 75084
-    real_input: 6
-    cache_read: 179035
-    cache_write: 186661
+    input: 202453
+    output: 120412
+    real_input: 4
+    cache_read: 78834
+    cache_write: 123615
     calls: 0
-  body_sha256: bbce7fcb651052c463558a391278dac672571dc4a83b2f56d12bd61d73788aa6
+  body_sha256: 1bdf8e29a60cf85773fc15289248f3cb0edf2828940cee567ca977db086afe93
 ---
 
-Vice Admiral Thomas R. Wilson was a US Navy intelligence officer whose career culminated as [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) Director. At the time of the events central to his role in UAP research, he held the post of Deputy Director of the DIA and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to Director Patrick Hughes.<sup>1</sup> His documented credentials also include Vice Director of Intelligence for the Joint Staff,<sup>2</sup> Director of Intelligence for the United States Atlantic Command,<sup>3</sup> and Associate Director of Central Intelligence for Military Support at the CIA,<sup>5</sup> and he went on to become the 13th Director of the DIA.<sup>4</sup>
+Thomas R. Wilson is a retired United States Navy admiral whose intelligence career included service as Vice Director of Intelligence for the Joint Staff,<sup>1</sup> Director of Intelligence for the United States Atlantic Command,<sup>2</sup> and Associate Director of Central Intelligence for Military Support at the Central Intelligence Agency.<sup>3</sup> He went on to become the 13th Director of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>4</sup> In 1997, Wilson was Deputy Director of the DIA and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to DIA Director [Patrick Hughes](/people/patrick-hughes).<sup>5</sup> As a Vice Admiral that year, he was responsible for briefing the generals who advised the president and the [Joint Chiefs of Staff](/organisations/joint-chiefs-of-staff).<sup>6</sup>
 
-In April 1997, [Steven Greer](/people/steven-greer), [Willard Miller](/people/willard-miller) and [Edgar Mitchell](/people/edgar-mitchell) gave a briefing in a Pentagon conference room, attended by Admiral Mike Crawford and General Hughes.<sup>6</sup> Ahead of the visit, Greer sent Wilson's staff a leaked US National Reconnaissance Office document listing codenames for top-secret [Special Access Programs (SAPs)](/topics/special-access-program-sap).<sup>7</sup> Greer claims that on seeing the document Wilson was upset to find codenames on it he did not recognise.<sup>8</sup> Greer, Miller and Mitchell say they presented Wilson with what they believed was strong witness evidence of a government cover-up of alien visitations, recovered spacecraft and bodies, and derived technology.<sup>9</sup> More than a decade later, in an interview with Richard Dolan, Wilson confirmed the meeting took place<sup>10</sup> and said he had agreed to it only out of curiosity as to why a man of Mitchell's stature would be interested in UFOs<sup>11</sup>; he described everything else Greer claimed about the meeting as "poppycock" and hung up on Dolan.<sup>12</sup> In a subsequent detailed letter, Wilson acknowledged that the April 1997 meeting happened and that it was a briefing,<sup>13</sup> while stating he never acknowledged or suggested that special access programmes on UFOs existed, and that he never had knowledge of any such programmes.<sup>14</sup> In 1998, Greer was invited back to the DIA, again with Miller, to brief Hughes on UFOs.<sup>15</sup>
+In April 1997, Edgar Mitchell's renown as an astronaut opened the way for a briefing with Wilson, then Deputy Director of Intelligence for the Joint Chiefs of Staff.<sup>7</sup> Ahead of the visit, [Steven Greer](/people/steven-greer) sent Wilson's staff a leaked US National Reconnaissance Office document listing codenames for [Special Access Programs (SAPs)](/topics/special-access-program-sap).<sup>8</sup> Greer, [Willard Miller](/people/willard-miller) and [Edgar Mitchell](/people/edgar-mitchell) then gave the briefing in a Pentagon conference room, with Admiral Mike Crawford and General Hughes also present.<sup>9</sup> Wilson met with the UAP researchers at [the Pentagon](/organisations/the-pentagon) that year.<sup>10</sup> Greer, Miller and Mitchell were convinced they had presented Wilson with strong witness evidence supporting their belief that the US government was covering up alien visitations, recovered spacecraft and bodies, and technological breakthroughs derived from those discoveries.<sup>11</sup> Mitchell later confirmed to friends that the meeting had happened as Greer described it.<sup>12</sup> In 1998, Greer and Miller were invited back to the DIA to brief Hughes, by then Director and Wilson's immediate superior, on UFOs.<sup>13</sup>
 
-According to a leaked document known as The Admiral Wilson Memo, Wilson subsequently undertook his own investigation into whether a secret programme existed, purportedly recounted to [Eric Davis](/people/eric-davis) in a 2002 meeting in [Las Vegas](/places/nevada-las-vegas-usa).<sup>16</sup> Wilson said he was taking a risk talking to Davis, trusting [Oke Shannon](/people/oke-shannon)'s word,<sup>17</sup> and that Rich and Doug had vouched for Davis.<sup>18</sup> He reportedly warned that if Davis violated his trust he would deny the meeting and everything said, calling the subject "absurdly closely held".<sup>19</sup> The account describes General M. Ward suggesting Wilson search records group files in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT),<sup>20</sup> and, separately, Wilson running into [William Perry](/people/william-perry) in May 1997 and receiving the same suggestion.<sup>21</sup> Wilson was told of a special-projects record group set up in 1994 by Perry, sitting outside the usual SAP divisions.<sup>22</sup> He spoke with both Paul Kaminski and [Michael Kostelnik](/people/michael-kostelnik),<sup>23</sup> found the unusual record group and read its index abstracts,<sup>24</sup> and declined to name the compartment he found, calling it a "core secret".<sup>25</sup> The contractor running the programme was described as one of the top aerospace technology contractors in the United States.<sup>26</sup>
+A document that later circulated online, referred to as The Admiral Wilson Memo or "EWD Notes", purports to detail what Wilson admitted to [Eric Davis](/people/eric-davis) during a private conversation in [Las Vegas](/places/nevada-las-vegas-usa), Nevada, in 2002.<sup>14</sup> According to the document, Davis met the recently retired DIA Director in a car parked in the car park of a corporate office building in Las Vegas on 2002-10-16, in what is termed the 2002 Eric Davis-Tom Wilson Las Vegas meeting.<sup>15</sup> Davis's notes record Wilson arriving ten minutes late to the meeting at the EG&G building, accompanied by two uniformed Navy officers, while he himself wore civilian clothing.<sup>16</sup> The document has Wilson saying he was taking a risk in talking to Davis, trusting the word of [Oke Shannon](/people/oke-shannon),<sup>17</sup> and that Rich and Doug had vouched for Davis through a shared Association of Former Intelligence Officers (AFIO) connection.<sup>18</sup> It also has Wilson recalling that the subject discussed between Shannon and Miller had included a Boston Globe story on UFOs, crashed and retrieved craft and bodies, and an alleged [Majestic 12 (MJ-12)](/projects/majestic-12-mj-12)-like organisation.<sup>19</sup>
 
-By the end of May 1997, Wilson had called Kaminski, Kostelnik and Perry to confirm he had the right contractor and programme manager,<sup>27</sup> and made calls to the programme manager, including a conference call with a security director and corporate attorney, met with confusion and a "testy" tone.<sup>28</sup> Other programme managers he contacted either said this was not what he was looking for or referred him back to the same three people.<sup>29</sup> Wilson told the threesome he wanted a formal briefing and tour, invoking his authority as Deputy Director of the DIA and J-2,<sup>30</sup> and two days later they arranged a face-to-face meeting at their facility.<sup>31</sup> Wilson flew out around mid-June 1997 (see 1997-06 investigation) to meet the same three people in a secure conference room,<sup>32</sup> where a security director, a programme director and a corporate attorney called themselves The Watch Committee.<sup>33</sup> Wilson said his security tickets were confirmed and valid, but that he was not on the Contractor bigot list, so need-to-know authorisation was not granted,<sup>34</sup> and he argued that his statutory oversight authority entitled him to know regardless.<sup>35</sup> The Committee reportedly produced the bigot list, dated 1990 and updated 1993, to argue his authority was not pertinent to their programme.<sup>36</sup> The meeting broke up after around 20 minutes with an agreement to reconvene in two to three days,<sup>37</sup> and Wilson met again with members of the Senior Review Group near the end of June 1997,<sup>38</sup> becoming very angry and yelling during that meeting.<sup>39</sup> Wilson said he came close to being disciplined over the investigation,<sup>41</sup> after Miller and Greer said he nearly "got busted" over it,<sup>40</sup> and he described himself as very angry, upset and livid about the pressure placed on him given his position of statutory authority.<sup>42</sup>
+According to the document, Wilson had been told in 1994 of a special projects record group, a subset of unacknowledged, carve-out and waived programmes organised outside the usual SAP structure by [William Perry](/people/william-perry).<sup>20</sup> General M. Ward suggested he search the records of the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT),<sup>21</sup> and Wilson said Perry gave him the same advice when he raised the matter in May 1997.<sup>22</sup> He talked to both Paul Kaminski, then Under Secretary of Defense for Acquisition, Technology and Logistics,<sup>23</sup> and [Michael Kostelnik](/people/michael-kostelnik), director of special programmes within OUSDAT as reorganised by Perry in 1994.<sup>24</sup> At the end of May 1997, Wilson called Kaminski, Kostelnik and Perry to confirm he had identified the right contractor and programme manager.<sup>25</sup> In mid-June 1997, during his investigation, he flew to meet three people in a secure vault conference room at the contractor's facility.<sup>26</sup> The three - a security director who was a retired NSA counterintelligence expert, a programme director, and a corporate attorney - called themselves the watch committee, or gatekeepers.<sup>27</sup> The document has the Watch Committee producing a Contractor bigot list (dated 1990, updated 1993), several pages long, to argue that Wilson's DIA authority was not relevant to their programme.<sup>28</sup> Wilson described the contractor as an aerospace technology firm, one of the top such firms in the United States,<sup>29</sup> and said he was told the reverse-engineering programme was built around technological hardware recovered years earlier.<sup>30</sup> The document also has Jacques Gansler, then Under Secretary of Defense for Acquisition, Technology and Logistics, telling Wilson that UFOs are real but that alleged alien abductions are not.<sup>31</sup>
 
-Eric Davis claims to have met the recently retired DIA Director on 2002-10-16 in a car in a Las Vegas car park;<sup>43</sup> his notes describe Wilson arriving ten minutes late, accompanied by two Navy officers in uniform while he himself wore civilian clothing.<sup>44</sup> As rumours of an imminent New York Times story mounted in June 2020, Wilson issued a strong denial that any such meeting with Davis had ever happened,<sup>45</sup> stating in a letter that the entire memo attributed to Davis, including its characterisation of his attitude and sentiments, was "pure fiction"<sup>46</sup> and that many of the people it names, including Oke Shannon, Mike Crawford, Linda, Rich and Doug, were completely unknown to him.<sup>47</sup> Wilson denied ever visiting Las Vegas in 2002 or meeting Davis,<sup>48</sup> saying the only time he was ever in Las Vegas was for a Carrier Air Wing Three deployment to Nellis Air Force Base in 1979 or 1980.<sup>49</sup> He said that in October 2002 he was on terminal leave, having retired from the Navy about three months earlier, and was staying at an isolated camp in Maine before starting work for Alliant Techsystems in November.<sup>50</sup> In his letter to [Ross Coulthart](/people/ross-coulthart), Wilson stated he never requested nor was denied access to supposed UAP programmes, and was never threatened over his career.<sup>51</sup>
+The document states that on his return to Washington, Wilson complained to Senior Review Group members overseeing the programme inside [the Pentagon](/organisations/the-pentagon).<sup>32</sup> It states that members of the group told him they would sustain the contractor's denial of his access to the programme.<sup>33</sup> It quotes him confirming he came close to being disciplined over the affair<sup>34</sup> and describes him becoming very angry and yelling during the meeting.<sup>35</sup> He is quoted saying he was warned that pressing the matter would cost him promotion to Director of the DIA<sup>36</sup> and could mean losing one or two stars in rank.<sup>37</sup>
 
-No one with direct knowledge of the purported meeting was willing to confirm the memo's authenticity on the record,<sup>52</sup> and Wilson, his former Defense Department colleagues, and Willard Miller all cast doubt on it.<sup>53</sup> Coulthart concluded that, absent a senior Department of Defense official, Davis, Wilson, or [Harold E. Puthoff](/people/harold-e-puthoff) going on record to confirm the memo, its claims should be treated with extreme scepticism as a hoax document until proved otherwise.<sup>54</sup> Asked about the memo in February 2020, Puthoff said it had been leaked on the internet and that Wilson was one of the joint chiefs of staff interviewed by his colleague Eric Davis, declining to comment further.<sup>55</sup> According to [Luis Elizondo](/people/luis-elizondo), Eric Davis met and talked with Wilson, then Director of Intelligence (J2) for the Joint Staff, in the late 1990s,<sup>56</sup> and Wilson confided details of his encounter with the aerospace contractor to Davis, never speaking of it again even after the memo leaked.<sup>57</sup> Tom Wilson has categorically denied that the meeting with Eric Davis described in the memo ever happened.<sup>48</sup>
+For more than a year after the EWD Notes document was first published online, Wilson made no public comment on it.<sup>38</sup> Asked about it at an Arlington Institute address in February 2020, [Harold E. Puthoff](/people/harold-e-puthoff) said Wilson was one of the joint chiefs of staff interviewed by his colleague Davis, but declined to comment further.<sup>39</sup> As rumours of an imminent New York Times story mounted in June 2020, Wilson issued a strong denial that any such meeting with Davis had ever happened,<sup>40</sup> stating in his denial letter that the entire memo, including its characterisation of his attitude, emotions and sentiments toward other people, was pure fiction.<sup>41</sup> He denied ever visiting Las Vegas in 2002 or meeting Davis,<sup>42</sup> saying the only time he had been in Las Vegas was for a Carrier Air Wing Three deployment to Nellis Air Force Base in 1979 or 1980.<sup>43</sup> Journalist [Ross Coulthart](/people/ross-coulthart) found no one able to confirm the document's authenticity on the record,<sup>44</sup> and concluded that, absent a senior Department of Defense official, Davis, Wilson or Puthoff going on record to affirm it, its claims should be treated with extreme scepticism and as a hoax document until proved otherwise.<sup>45</sup> Wilson has categorically denied that the meeting described in the memo ever took place.<sup>46</sup>

@@ -1,13 +1,262 @@
 ---
 title: 2004 USS Nimitz UAP encounter
-description: A 2004-11-14 incident in which US Navy pilots flying from the USS Nimitz
-  intercepted an unidentified object, nicknamed the Tic Tac, after days of radar contacts
-  detected by the USS Princeton off San Diego, California.
+aliases:
+- /events/2004-nimitz-uap-encounter/
+- /en/events/2004-nimitz-uap-encounter/
+- /events/2004-uss-nimitz-unidentified-aerial-phenomena-uap-encounter-near-san-diego/
+- /en/events/2004-uss-nimitz-unidentified-aerial-phenomena-uap-encounter-near-san-diego/
+- /events/2004-uss-nimitz-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/2004-uss-nimitz-unidentified-aerial-phenomena-uap-encounter/
+- /events/2004-uss-nimitz-unidentified-flying-object-ufo-incident/
+- /en/events/2004-uss-nimitz-unidentified-flying-object-ufo-incident/
+- /events/tic-tac-sighting/
+- /en/events/tic-tac-sighting/
+- /events/1964-socorro-unidentified-flying-object-ufo-incident/
+- /en/events/1964-socorro-unidentified-flying-object-ufo-incident/
+- /events/italy-unidentified-flying-object-ufo-sighting-1962-verona/
+- /en/events/italy-unidentified-flying-object-ufo-sighting-1962-verona/
+- /events/1963-whidbey-island-unidentified-flying-object-ufo-sighting/
+- /en/events/1963-whidbey-island-unidentified-flying-object-ufo-sighting/
+- /events/1968-france-unidentified-flying-object-ufo-sighting/
+- /en/events/1968-france-unidentified-flying-object-ufo-sighting/
+- /events/oklahoma-unidentified-flying-object-ufo-sighting-1966-temple/
+- /en/events/oklahoma-unidentified-flying-object-ufo-sighting-1966-temple/
+- /events/brazil-unidentified-flying-object-ufo-landing-1947-pitanga/
+- /en/events/brazil-unidentified-flying-object-ufo-landing-1947-pitanga/
+- /events/1966-darenberger-unidentified-flying-object-ufo-contact/
+- /en/events/1966-darenberger-unidentified-flying-object-ufo-contact/
+- /events/1967-andrade-unidentified-flying-object-ufo-encounter/
+- /en/events/1967-andrade-unidentified-flying-object-ufo-encounter/
+- /events/1923-jacques-bordas-first-unidentified-flying-object-ufo-encounter/
+- /en/events/1923-jacques-bordas-first-unidentified-flying-object-ufo-encounter/
+- /events/1973-jeff-carter-unidentified-flying-object-ufo-sighting/
+- /en/events/1973-jeff-carter-unidentified-flying-object-ufo-sighting/
+- /events/1973-vorilhon-unidentified-flying-object-ufo-contact/
+- /en/events/1973-vorilhon-unidentified-flying-object-ufo-contact/
+- /events/brazil-unidentified-flying-object-ufo-sighting-1962-barcelos/
+- /en/events/brazil-unidentified-flying-object-ufo-sighting-1962-barcelos/
+- /events/1973-gallup-poll-on-unidentified-flying-object-ufo-belief/
+- /en/events/1973-gallup-poll-on-unidentified-flying-object-ufo-belief/
+- /events/1968-dr-x-unidentified-flying-object-ufo-sighting-in-southern-france/
+- /en/events/1968-dr-x-unidentified-flying-object-ufo-sighting-in-southern-france/
+- /events/1966-1967-aveyron-unidentified-flying-object-ufo-sightings/
+- /en/events/1966-1967-aveyron-unidentified-flying-object-ufo-sightings/
+- /events/kansas-unidentified-flying-object-ufo-landing-1971-delphos/
+- /en/events/kansas-unidentified-flying-object-ufo-landing-1971-delphos/
+- /events/1973-wave-of-united-states-unidentified-flying-object-ufo-sightings/
+- /en/events/1973-wave-of-united-states-unidentified-flying-object-ufo-sightings/
+- /events/1961-barney-hill-unidentified-flying-object-ufo-encounter/
+- /en/events/1961-barney-hill-unidentified-flying-object-ufo-encounter/
+- /events/michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings/
+- /en/events/michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings/
+- /events/normandy-unidentified-flying-object-ufo-sighting-1973-carteret/
+- /en/events/normandy-unidentified-flying-object-ufo-sighting-1973-carteret/
+- /events/1950-mariana-unidentified-flying-object-ufo-photograph-case/
+- /en/events/1950-mariana-unidentified-flying-object-ufo-photograph-case/
+- /events/1952-tremonton-unidentified-flying-object-ufo-sighting/
+- /en/events/1952-tremonton-unidentified-flying-object-ufo-sighting/
+- /events/1967-san-jose-de-valderas-unidentified-flying-object-ufo-sighting/
+- /en/events/1967-san-jose-de-valderas-unidentified-flying-object-ufo-sighting/
+- /events/1966-aluche-unidentified-flying-object-ufo-landing/
+- /en/events/1966-aluche-unidentified-flying-object-ufo-landing/
+- /events/1964-lonnie-zamora-socorro-unidentified-flying-object-ufo-sighting/
+- /en/events/1964-lonnie-zamora-socorro-unidentified-flying-object-ufo-sighting/
+- /events/ukraine-russian-icbm-base-unidentified-flying-object-ufo-incident/
+- /en/events/ukraine-russian-icbm-base-unidentified-flying-object-ufo-incident/
+- /events/1964-socorro-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1964-socorro-unidentified-aerial-phenomena-uap-encounter/
+- /events/1982-byelo-air-base-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1982-byelo-air-base-unidentified-aerial-phenomena-uap-incident/
+- /events/1981-lake-huron-twa-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1981-lake-huron-twa-unidentified-aerial-phenomena-uap-sighting/
+- /events/1988-lake-erie-coast-guard-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1988-lake-erie-coast-guard-unidentified-aerial-phenomena-uap-sighting/
+- /events/1947-kenneth-arnold-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1947-kenneth-arnold-unidentified-aerial-phenomena-uap-sighting/
+- /events/1947-08-east-coast-cylinder-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1947-08-east-coast-cylinder-unidentified-aerial-phenomena-uap-sighting/
+- /events/1953-12-swedish-flying-lozenge-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1953-12-swedish-flying-lozenge-unidentified-aerial-phenomena-uap-sighting/
+- /events/1980-12-texas-diamond-shaped-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1980-12-texas-diamond-shaped-unidentified-aerial-phenomena-uap-encounter/
+- /events/2007-08-davis-california-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/2007-08-davis-california-unidentified-aerial-phenomena-uap-encounter/
+- /events/1976-iranian-pilot-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1976-iranian-pilot-unidentified-aerial-phenomena-uap-encounter/
+- /events/1982-hudson-valley-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1982-hudson-valley-unidentified-aerial-phenomena-uap-encounter/
+- /events/2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter/
+- /events/1977-council-bluffs-iowa-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1977-council-bluffs-iowa-unidentified-aerial-phenomena-uap-incident/
+- /events/2015-uss-roosevelt-unidentified-aerial-phenomena-uap-incursions/
+- /en/events/2015-uss-roosevelt-unidentified-aerial-phenomena-uap-incursions/
+- /events/1965-kecksburg-pennsylvania-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1965-kecksburg-pennsylvania-unidentified-aerial-phenomena-uap-incident/
+- /events/1991-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1991-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /events/1978-kaikoura-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1978-kaikoura-unidentified-aerial-phenomena-uap-sighting/
+- /events/1947-eyre-peninsula-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1947-eyre-peninsula-unidentified-aerial-phenomena-uap-sighting/
+- /events/1947-gogeldrie-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1947-gogeldrie-unidentified-aerial-phenomena-uap-sighting/
+- /events/1950-los-alamos-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1950-los-alamos-unidentified-aerial-phenomena-uap-sighting/
+- /events/1952-los-alamos-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1952-los-alamos-unidentified-aerial-phenomena-uap-sighting/
+- /events/1950-mcminnville-unidentified-flying-object-ufo-photographs/
+- /en/events/1950-mcminnville-unidentified-flying-object-ufo-photographs/
+- /events/1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting/
+- /events/1952-kimball-radford-pacific-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1952-kimball-radford-pacific-unidentified-aerial-phenomena-uap-sighting/
+- /events/1952-washington-dc-unidentified-flying-object-ufo-flap/
+- /en/events/1952-washington-dc-unidentified-flying-object-ufo-flap/
+- /events/1953-perrin-air-force-base-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1953-perrin-air-force-base-unidentified-aerial-phenomena-uap-sighting/
+- /events/1953-ellsworth-air-force-base-unidentified-aerial-phenomena-uap-pursuit/
+- /en/events/1953-ellsworth-air-force-base-unidentified-aerial-phenomena-uap-pursuit/
+- /events/1955-trans-caucasus-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1955-trans-caucasus-unidentified-aerial-phenomena-uap-sighting/
+- /events/1956-raf-bentwaters-lakenheath-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1956-raf-bentwaters-lakenheath-unidentified-aerial-phenomena-uap-incident/
+- /events/1956-takala-unidentified-aerial-phenomena-uap-landing/
+- /en/events/1956-takala-unidentified-aerial-phenomena-uap-landing/
+- /events/1954-woomera-canberra-aircraft-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1954-woomera-canberra-aircraft-unidentified-aerial-phenomena-uap-sighting/
+- /events/1960-wewak-maralinga-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1960-wewak-maralinga-unidentified-aerial-phenomena-uap-sighting/
+- /events/1953-us-navy-carrier-squadron-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1953-us-navy-carrier-squadron-unidentified-aerial-phenomena-uap-sighting/
+- /events/1961-pakistan-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1961-pakistan-unidentified-aerial-phenomena-uap-sighting/
+- /events/bolivia-unidentified-aerial-phenomena-uap-report-1979-santa-cruz/
+- /en/events/bolivia-unidentified-aerial-phenomena-uap-report-1979-santa-cruz/
+- /events/1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident/
+- /events/1964-socorro-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1964-socorro-unidentified-aerial-phenomena-uap-sighting/
+- /events/1965-kecksburg-unidentified-aerial-phenomena-uap-crash/
+- /en/events/1965-kecksburg-unidentified-aerial-phenomena-uap-crash/
+- /events/1966-westall-school-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1966-westall-school-unidentified-aerial-phenomena-uap-incident/
+- /events/1966-tully-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1966-tully-unidentified-aerial-phenomena-uap-sighting/
+- /events/1973-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1973-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /events/georgia-unidentified-flying-object-ufo-sighting-1969-jimmy-carter-leary/
+- /en/events/georgia-unidentified-flying-object-ufo-sighting-1969-jimmy-carter-leary/
+- /events/1980-rendlesham-forest-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1980-rendlesham-forest-unidentified-aerial-phenomena-uap-incident/
+- /events/1980-cash-landrum-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1980-cash-landrum-unidentified-aerial-phenomena-uap-encounter/
+- /events/1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting/
+- /events/1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting/
+- /events/1977-petrozavodsk-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1977-petrozavodsk-unidentified-aerial-phenomena-uap-incident/
+- /events/1982-byelokoroviche-soviet-missile-base-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1982-byelokoroviche-soviet-missile-base-unidentified-aerial-phenomena-uap-incident/
+- /events/1989-1990-belgian-wave-unidentified-aerial-phenomena-uap-sightings/
+- /en/events/1989-1990-belgian-wave-unidentified-aerial-phenomena-uap-sightings/
+- /events/1990-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1990-north-west-cape-unidentified-aerial-phenomena-uap-sighting/
+- /events/1990-gretz-armainvilliers-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1990-gretz-armainvilliers-unidentified-aerial-phenomena-uap-sighting/
+- /events/1990-north-sea-raf-tornado-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1990-north-sea-raf-tornado-unidentified-aerial-phenomena-uap-encounter/
+- /events/1993-raf-cosford-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1993-raf-cosford-unidentified-aerial-phenomena-uap-sighting/
+- /events/1993-raf-shawbury-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1993-raf-shawbury-unidentified-aerial-phenomena-uap-sighting/
+- /events/1972-kadena-sr-71-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1972-kadena-sr-71-unidentified-aerial-phenomena-uap-sighting/
+- /events/1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing/
+- /en/events/1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing/
+- /events/1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing/
+- /en/events/1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing/
+- /events/1997-phoenix-lights-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1997-phoenix-lights-unidentified-aerial-phenomena-uap-sighting/
+- /events/1987-dulce-canyon-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1987-dulce-canyon-unidentified-aerial-phenomena-uap-sighting/
+- /events/alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse/
+- /en/events/alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse/
+- /events/1952-salem-lights-unidentified-aerial-phenomena-uap-sighting/
+- /en/events/1952-salem-lights-unidentified-aerial-phenomena-uap-sighting/
+- /events/1971-09-costa-rica-unidentified-aerial-phenomena-uap-photograph/
+- /en/events/1971-09-costa-rica-unidentified-aerial-phenomena-uap-photograph/
+- /events/1947-roswell-unidentified-flying-object-ufo-incident/
+- /en/events/1947-roswell-unidentified-flying-object-ufo-incident/
+- /events/brazil-1996-varginha-unidentified-flying-object-ufo-incident/
+- /en/events/brazil-1996-varginha-unidentified-flying-object-ufo-incident/
+- /events/zimbabwe-1988-ariel-school-unidentified-flying-object-ufo-incident/
+- /en/events/zimbabwe-1988-ariel-school-unidentified-flying-object-ufo-incident/
+- /events/annual-roswell-unidentified-flying-object-ufo-festival/
+- /en/events/annual-roswell-unidentified-flying-object-ufo-festival/
+- /events/2008-allison-kruse-unidentified-flying-object-ufo-sighting/
+- /en/events/2008-allison-kruse-unidentified-flying-object-ufo-sighting/
+- /events/2010-11-murrysville-unidentified-flying-object-ufo-filming-incident/
+- /en/events/2010-11-murrysville-unidentified-flying-object-ufo-filming-incident/
+- /events/2012-rey-hernandez-unidentified-flying-object-ufo-sighting-august-25/
+- /en/events/2012-rey-hernandez-unidentified-flying-object-ufo-sighting-august-25/
+- /events/1983-westchester-county-triangular-unidentified-flying-object-ufo-sighting/
+- /en/events/1983-westchester-county-triangular-unidentified-flying-object-ufo-sighting/
+- /events/1947-07-roswell-unidentified-flying-object-ufo-incident/
+- /en/events/1947-07-roswell-unidentified-flying-object-ufo-incident/
+- /events/1966-westall-unidentified-flying-object-ufo-encounter/
+- /en/events/1966-westall-unidentified-flying-object-ufo-encounter/
+- /events/1994-ariel-school-unidentified-flying-object-ufo-sighting/
+- /en/events/1994-ariel-school-unidentified-flying-object-ufo-sighting/
+- /events/2015-navy-unidentified-aerial-phenomena-uap-encounters/
+- /en/events/2015-navy-unidentified-aerial-phenomena-uap-encounters/
+- /events/1948-mantell-unidentified-flying-object-ufo-incident/
+- /en/events/1948-mantell-unidentified-flying-object-ufo-incident/
+- /events/1967-malmstrom-air-force-base-unidentified-flying-object-ufo-incident/
+- /en/events/1967-malmstrom-air-force-base-unidentified-flying-object-ufo-incident/
+- /events/1966-westall-high-school-unidentified-flying-object-ufo-sighting/
+- /en/events/1966-westall-high-school-unidentified-flying-object-ufo-sighting/
+- /events/2017-12-new-york-times-unidentified-aerial-phenomena-uap-disclosure/
+- /en/events/2017-12-new-york-times-unidentified-aerial-phenomena-uap-disclosure/
+- /events/1948-roswell-unidentified-flying-object-ufo-incident/
+- /en/events/1948-roswell-unidentified-flying-object-ufo-incident/
+- /events/utah-drone-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/utah-drone-unidentified-aerial-phenomena-uap-encounter/
+- /events/2023-yukon-unidentified-aerial-phenomena-uap-shootdown/
+- /en/events/2023-yukon-unidentified-aerial-phenomena-uap-shootdown/
+- /events/varginha-unidentified-flying-object-ufo-incident/
+- /en/events/varginha-unidentified-flying-object-ufo-incident/
+- /events/new-mexico-unidentified-flying-object-ufo-crash-1947-aztec/
+- /en/events/new-mexico-unidentified-flying-object-ufo-crash-1947-aztec/
+- /events/dc-unidentified-flying-object-ufo-flap-1952-washington/
+- /en/events/dc-unidentified-flying-object-ufo-flap-1952-washington/
+- /events/ariel-school-unidentified-aerial-phenomena-uap-sighting-1994/
+- /en/events/ariel-school-unidentified-aerial-phenomena-uap-sighting-1994/
+- /events/aztec-new-mexico-unidentified-flying-object-ufo-crash/
+- /en/events/aztec-new-mexico-unidentified-flying-object-ufo-crash/
+- /events/magenta-unidentified-flying-object-ufo-crash/
+- /en/events/magenta-unidentified-flying-object-ufo-crash/
+- /events/1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting/
+- /en/events/1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting/
+- /events/new-mexico-unidentified-flying-object-ufo-landing-socorro/
+- /en/events/new-mexico-unidentified-flying-object-ufo-landing-socorro/
+- /events/dayton-texas-cash-landrum-unidentified-flying-object-ufo-incident/
+- /en/events/dayton-texas-cash-landrum-unidentified-flying-object-ufo-incident/
+- /events/sts-48-unidentified-aerial-phenomena-uap-incident/
+- /en/events/sts-48-unidentified-aerial-phenomena-uap-incident/
+- /events/sts-80-unidentified-aerial-phenomena-uap-incident/
+- /en/events/sts-80-unidentified-aerial-phenomena-uap-incident/
+description: A November 2004 incident in which US Navy fighter pilots and radar operators
+  from the USS Nimitz carrier strike group tracked and visually intercepted a Tic
+  Tac-shaped unidentified object off the coast of San Diego, California, an event
+  that went officially unaddressed for years before becoming widely known through
+  later media reporting on Pentagon UFO investigations.
 metadata:
   date: '2004-11-14'
-  location: Off San Diego, California, USA
+  location: Pacific Ocean, off San Diego, California, USA
 built_from:
-  brief_hash: 14c9d13dfbaf7f9dc44bd93df1723ccbc5f0dfe9c637b3b602b2cb902d40ca10
+  brief_hash: 70e5b67bb5fe467cd7df731900152c5cf2e08c6a8c72e390a4f6d91c2d03cf02
   claims:
   - id: d2dc2fd4-d826-45d7-899f-fa9febeeffa0
     hash: 4a0fc20b8c348724e39871adef0cb5086c38d3a4f6ba1dd10122c7dc9053127c
@@ -117,66 +366,6 @@ built_from:
     hash: d029ecdff7d452837c786ddf1db35d4a3dc29d91641df6d08f53378e907e4cf3
   - id: a0529f06-8a9c-4a97-84ce-da0bd416a514
     hash: 9e93899f980b334c9cc60693d40452c4fdd2a82434e034d895fd64731f625c01
-  - id: 9c39632d-981e-45b2-aa4d-9b7a098a63da
-    hash: c72c5d2a4eec0e4b6687ff9bdd04ce970b00bacac85abce34e9888dd084c0704
-  - id: d124ce50-faac-471e-8c4c-1d2ce787cd5d
-    hash: 2e6dea6b772c7b31ba424faba650f192c75cf54b9f572ed7503abdffc63b83c1
-  - id: cf9529e1-5e77-4462-a1cb-76087bad6934
-    hash: 9d46c07900034f1ad46966ee865bc1c1aa15bded2f3014cbf425415de9c15d38
-  - id: 10549603-6bb2-4074-a810-0c07bc169b6e
-    hash: b79f6db674f942be8a8ea6f98c054284ebe717a14f94d00b60919dcd4a44d8e3
-  - id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
-    hash: e50655b5828ec2e10f20c6c7d85860281a7db108ca87422c729fd7ff04a8ba3e
-  - id: a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
-    hash: e1771cb8e62718ec47798676729c37787fc04364bc4ef4f646127f3858d6c0fb
-  - id: f87f613a-981a-4d31-8841-ffb841723313
-    hash: 8fc4fbf5445ae094ad1dfc14b450104350356fdb69dc41c878600821fbb779e0
-  - id: ff46e34e-e59d-424e-b576-97603a1159c5
-    hash: 4cbfcc60002f933b99418208ebc935062869f451ff4eb958f303538cd399bb67
-  - id: c55e7764-02d0-4c97-a419-73a5a0817618
-    hash: 8b368f59c935bb1988949187d6f6cd3bcabbfa499b1a78222a8d9f89f7e4ad31
-  - id: 9cc2083e-6322-4617-961a-11767f7e1f6b
-    hash: 6cac14f5e8973d400014b9b0ec9a2b9a603cfdd6a4a0a6f7b4ba1c189333a975
-  - id: 9806cf07-e084-4d52-b8ea-575842b376d5
-    hash: 3493eb649227562639423afc1324d74ca50d9f744f142a6535145f708c3185b5
-  - id: 59e630e5-e17d-4cce-b36c-847c7ec2eced
-    hash: 4d9ddf20d36c1d3adc3a4bc75d47be5dd81e1dcee9a05508a61731416b634903
-  - id: dfae64ce-f072-4690-8bdc-229d4dbd69c7
-    hash: 7e87cacac720f00224617c94b8b20f88f9c8da4603358fd4b96c30d0ba736a0d
-  - id: e684686c-cee5-465c-9bf3-888ee9be869d
-    hash: e4a0e36b17b4da06f80d6f3e1294e0a88a2396571059b1eed2dcf7939bc4e221
-  - id: 4aeb316b-0cd9-48ae-a893-e8afc5aef38d
-    hash: 52bfd61850135ae26c34dfe0b2d53949cd2d6724462ccfe63ee36b19ec47cd3a
-  - id: ddddb1d4-c199-41f2-8f66-175c2deced1b
-    hash: 9ad061fa6e19bd1ba94493281e51d8912f91a283b1a3b87dcb80696d8ef5b523
-  - id: be77cd0e-1789-4c71-94fc-cf802cce51ff
-    hash: d7f8c16494c06e8abcd4333480f64f298bd56160a2033dbc8d96c560df1796e1
-  - id: 442c1e15-5bd1-4656-b903-da679a032057
-    hash: 6fa5b3eaf5bb8af4bbf173119cb31279c095062578714412ef7311e2b30260f1
-  - id: f4759ec7-bf9e-48f1-ae6d-5abffd653b3d
-    hash: 448e63d8435e6ab36b8166a3945e6324a77b7b8a61c79ef1a33136fcd5fa6b05
-  - id: c44b3a53-203c-48ca-9a79-52022382fa0b
-    hash: fb7558b05741c861d6c6fdf27684cd8a9db0d9774286b1c11122c3a8e93c034b
-  - id: 68e195c5-ff4b-4aa4-8754-a3104b6ea092
-    hash: ffaee14c73b0a5efd832faf5ec8c11f32077fdf377ee30f7e8e793345b8faa26
-  - id: cfd76b5e-cc6e-4f0a-b8a3-44b38530627b
-    hash: 821aa555225813edaf43aa5b02405945a4215360390eb571e3f4e286182fc419
-  - id: 36b1f595-b91e-4821-b281-e9ed2218a7fc
-    hash: 901ebb8a206d65ae90dcf5b07c74d738787b46d8e8ad186fb2a86b57050b404b
-  - id: 63ce41af-c161-4ee1-a3c0-28e6c508155a
-    hash: 9ac529ea7a5900401345cd216bfdcca4f3a239535fb42ca3975129735d9e8bdc
-  - id: 9fd02e21-80d3-43f0-a15c-0124373ca5a7
-    hash: b3cc21aaf13cb2d5df57a2947705026c215e61f4b51eb97d2ec313a2c6922f54
-  - id: b1e6bf5c-b175-49e0-809b-984f0829c8d5
-    hash: c1856ee5b94ea8f3263f76dfa3d10011430c8a7c0ca1a45ab38bc95c47493b8d
-  - id: 71ad5339-e1f1-4eb8-a033-4b590b1c5ab7
-    hash: f56aedc3ba4a8158375fd236278b0d1ed86b50160f7119ee34219c67a92f97c9
-  - id: 641462bc-943c-4fff-8cc3-5917995c309a
-    hash: 1bc81f8ee80298fc8a61835c042e7724dfe7d1236fd4eac8e57e664de708c79a
-  - id: bec64975-42d5-494c-83d6-d83aa9df4677
-    hash: 4b0f13254bf6af8d48119409d7d8db0a8a7ba48f3f4f38a99ac153e2cf60329d
-  - id: 8062509a-e9ad-4a92-96d7-55c28a086161
-    hash: 028fa09686a9389af77779843f9bc5b61c2019c49f1a4593dc1d04b0d42f5b84
   - id: d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
     hash: 8dc997c0c8d4b71a52004f54033cacde542af57334565bcca9d4cfb845906ea0
   - id: 50c2d454-7240-49f4-9317-b7ce96de2dce
@@ -333,18 +522,6 @@ built_from:
     hash: 785bd407a19bf2309df214e4e361846aaa5c912effb4582cf00ec4ae510bbdb2
   - id: f729dc93-e606-4772-9dfa-0b8ea078a485
     hash: 99f46df8e9f87287170fd72148963f6bc01206d04ce8f029abf10b665b11b676
-  - id: 3b47b011-6aaf-4656-b9eb-5f0ecdc80346
-    hash: abac80ce4728b4cd52b75ff3a9f7b8e214146a0140a1a6afd4ae86f59bc251f0
-  - id: 98f15491-7b83-4409-9505-5e2cc984202a
-    hash: 6a7c92ca6102bc4c4199e414e3875147e5954daeda6eb5ae951f898c48d32cb7
-  - id: e7d6d487-9963-4f72-b297-01bf5e7bd373
-    hash: 965745382f7ba88b8672e3b1903c1e920eb274182ad44d535c93c70d87db9305
-  - id: 136198b1-d071-4d9c-a3cb-5d44d9035414
-    hash: eb6a16fa67267b7040a017776d1605bd13c0c20d8e3dee1980c8795c075e4f9f
-  - id: b26915b0-86c7-438e-8ca3-427d350c3e1d
-    hash: fd4e071e6c7b27797296c397e42a84bad619db14d5b455c7c19dcc3a96f1ff5a
-  - id: 27e649fd-5bc8-43ab-a090-c86ae3e3dc5d
-    hash: cfdf09e3698569b73c3e4c952d74062fc3aa9dc1749c40f28f31c10b2a5e10c3
   - id: 361ac38c-7dc3-4ef4-b82d-19813f697ed9
     hash: 8c4d11be092a5857d759d59a414ce2c6ba0d7cd894de7262df1428a4982b8c60
   - id: 32f2525c-c8a1-4373-9d3d-42d17437615e
@@ -375,43 +552,115 @@ built_from:
     hash: 4b4bda049d674f06164a605ff8fceea7eef47c9c65aceb95755e312a6438fe4f
   - id: f375717b-c4bf-4ac7-9e37-5a2b64fd2f40
     hash: 5fdb416065c46fff7f8ebde884db8763fade2844abc378f70f38c784be7782ad
-  - id: b2bb4817-61e7-4d5b-80fb-c4eec4be0539
-    hash: 352cacabb8438882a5f833f1ec18aacda4c3c941aef5e1cb52e6099c5971327a
-  - id: cf78c0f7-196c-4705-bc27-f518481f1553
-    hash: 6a1cf4718b7c2dbea5f88a9d87ea0cc8dbf6744579c718ba0ff0d7ad8233e37c
-  - id: c3dbdf87-9061-4900-a4bb-68b17448b5ca
-    hash: 2def20656b5e34964ca262e45d7dd6651c3a51be9aff140b66211856ffb92a39
-  - id: fc7e0925-c065-446c-ae05-c2e50ee3b5e6
-    hash: f64b47a92b4a5edccd111b5c6de9f34165e59a2144a61c049b098af710e68054
-  - id: 7a8ab4aa-d541-4d4f-b197-55cda284ce0a
-    hash: 643b10bbe617efc0970540ab01db9b4e7bb33346119fc22f642d759694b88398
-  - id: 508e13a2-83c5-413a-9011-f49d0c019fb2
-    hash: bfb11fcf8dadbc10eacc5dd41032d06e67b9e293037e487e3819be3d5517c133
-  - id: 8d653ff5-f6e9-436a-9f3b-26b3b257b952
-    hash: a2dbc98387053a7c052f3de5c3b08eb85d28369f194842fcace6e0dbde0fb218
-  - id: e9c64435-ee8a-4b50-9277-8078fc7aba18
-    hash: a805dc6883d5aaa5690b0d0d34447dd50db3e87c7af426d0f39b45c2ac30cedb
-  - id: e4fb6a85-c21e-430f-aa81-8337d9eff8f0
-    hash: c382ac8158d3d43f0f6dacc2ec0cd38f424d96336e2abd7a986c9fc3982cad2a
-  - id: 2afc992e-1d27-4172-8046-6a8f00560f7e
-    hash: a46f9e40cf497f683e80456679897cbab53a36dfac0745db1b235b3260b56872
-  - id: f190b1ec-1ef2-4f10-aea9-d8d8618a5904
-    hash: 61716efd2e4102028575fd75ac55e5d811a1e6cf142854d92f624de286356480
-  - id: b84f17b5-0fe1-47d2-8877-682cbadfb52e
-    hash: 46988f3059866b1591285a11bf0797736ed720485a78034bd064c33a8d8c2e47
-  - id: bee7ed59-ef67-424d-95b1-02328e68ef50
-    hash: dbaf24a27e2ce14efe15278bd9c2a17ff7d3610afaa17dcbda77940b6a82698e
-  - id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
-    hash: ccb0a7b1d2311574683cfadbccccf7e8d9941a7fd5f9d87ab5029b115c8821ae
-  - id: 5c552d88-94f6-4398-a0f6-359e54f49148
-    hash: 80a7838b0b4d76b4ab50bc286791744d51d4f33ccf0347061d40116d11b23d9c
-  - id: 26e37f6e-f244-424b-a09d-0dfbc45fae0e
-    hash: a1b11bd88fee6ad993ce62f8778d2f14bb6c8e4c4bcd6f177ddcb143522fae4f
-  - id: de295063-777a-456d-9963-2511602febe1
-    hash: 8297cfe5f391d160f6849fc83d392f6e9b7c96dd7927c382ab170175691bef81
+  - id: abfc2045-8c7a-4dd8-afb4-e8564de0580f
+    hash: 4436626e1060926c1960728d3baccd432713fa1dcd39d27f529c0d67ea38cc35
+  - id: 019bfea4-eb8a-4b52-ae18-4b78383eb369
+    hash: d8000f42762618a3ff21d28859522e4778d024436df055ff4934da743faa29f7
+  - id: a023a2a5-063a-474f-8177-26d58c98b187
+    hash: 128ecd2f663b80b4b3140bb973fa3e636ee5560a2c9ebd38b69ba3a56b968510
+  - id: 8047e930-39d5-4d81-9d8b-632fbeb56cdc
+    hash: d1152199c8b48939710037eda5ed76d4ff0848bb61188d993c1c0b223653499e
+  - id: 31edd3b7-626a-43ba-bddc-f7c838096f88
+    hash: 4a56e7e080109f343d866b9b53b3eee49764baf5eacc9b2e425e1449ec7bcd40
+  - id: ca174e0c-7265-4a6f-9bf3-7b213b7090d9
+    hash: 9a86bdc64eb447bc7a49be8db210cc6529eac1fe8ffe9ecbd76d4d65932cfad8
+  - id: 004dac5c-f4ae-4161-8490-23e7475edb06
+    hash: 3d8de0fff6040295f4bba12466dabd67add968d0c6d34c9b8d272f9a34312796
+  - id: 0e4708a5-4316-4aa4-8e0e-54e137d80ce5
+    hash: 654752f644d603441a0c50358354939ac29e0b818d06e08e8126d47420e0687d
+  - id: 1651795f-ae59-4fa8-9696-fef99d2d64e5
+    hash: c5613cd8a95f2e6f3c58227ec6ad14a1968126a728071c403d48dd68eca7ce99
+  - id: c57548f9-3bb4-4a7c-8a60-37a4f5df2cf9
+    hash: fbc8a34b331ee917c0b5c9e36b0cb4281035617abaabc47ff5a0eabdfb29d300
+  - id: 3f7fc36e-66c5-46b3-b8cb-028f8553630f
+    hash: 30eae6fd4e342872fd0a94be5216028699f28bf9c446c6455efde4b509be32e6
+  - id: 9bf36844-9a92-4786-ae6c-75bd64ae9acb
+    hash: a3f716063f019e6b7d8fd9ef5bd5c19be9db1da04197bb6811e6687b8ffc83f0
+  - id: 9be74a9e-b38d-4bd5-8d6d-769c0fcdb339
+    hash: 482d541a9df71a01af45648e4dab9b653951e1de250104134e662e4faf3519ef
+  - id: c7d2d31f-bb74-4a90-a3d9-d578abafa8c9
+    hash: ae5ac20a2d625a0eccd804c59625011b3b65efbf10892b9d6946d2cb8759c63e
+  - id: 427ab76c-3a6a-4501-b470-9acecc3116e4
+    hash: 05405b5f6e676416f99b872a2ae102a1199e227a98dffec67a785edae09a0782
+  - id: 772deb7e-eea2-47bb-a7d0-e92bd9d6bcbc
+    hash: baf4ea6e3bff1debb42ae726c8fc2e3a95bc570b81c5c77dc3b917b9a6776502
+  - id: 69b1ae03-5a4e-4cdd-8c38-9e873fbbb739
+    hash: a1c66a54bca039e6a1288d85cbc9e4470d41e6f12c18cc87b3428cb659b2ac73
+  - id: 16af0861-616c-4296-8c30-c5f778f6bc7d
+    hash: 2916af903ccf2f23110edf9102fa903ff5247b4a12d453933c5b778b4bb22421
+  - id: 64d4477f-4b6d-4f73-9d76-556fd049d4fd
+    hash: a12e5caa57f3efb93a66deb8e0ebba16d40ebcb4dbef57f8c26bfa1d36252ffa
+  - id: fe00b38f-4f70-467b-b535-f207d65f0103
+    hash: bd073a67d2c3523b8911240fbaaee74f6cd86e6cc88eadb3d6518faf1103b4ef
+  - id: 355db718-8e2e-497f-a6dc-3c73fc563059
+    hash: afda538233e0cc47daa0ed48dea9b2faf95b0326106dbfbe68417d84b782ba7e
+  - id: f9a27ff8-70b0-4298-85d6-745df4366799
+    hash: 7f34af901f3696645c9416dc83eb4457d09b575da0da8e33e1e852b1fc886c27
+  - id: 6030002c-2ff8-49e9-b612-7bec01bc26c2
+    hash: 3be36a758f8b79f104a448b3f7dfc6d5e5dbaba14f76c4bdb716c1746f5c99f6
+  - id: 8bc65591-6b59-4288-94dc-360a64051fad
+    hash: 61d3245e8574b2c488975fe5dfad515bacbbb3d1808f0dca0087b251cdb27c8b
+  - id: d69c30cc-1512-46a5-935c-bdc9328273de
+    hash: 4817947f473c4c903b9ecfa143f5cd7af4eb7172b95c6903b68398d2e8f19f90
+  - id: 7a508067-b910-4894-8c17-b0e0f16c629e
+    hash: 582b97649dac9696a50d5ade31d923335fbeec21d951bf3d5e2e7b708ba15eaa
+  - id: 5d3546dc-5843-468f-9adf-c79712c418b2
+    hash: 5804178b5c896106acc85566bf01c718204fd898484c661952aea67358e9eecc
+  - id: 92b0f1cf-a249-4732-949b-c2fb30f6d380
+    hash: 232e544a3170c05a4ce5e7e649ee8df0bab34eabe7993ea8f2a081e55159a1d2
+  - id: 0f63e416-be58-40c7-b227-5668e16084dc
+    hash: 1374b02486db8a4b6b29b3c2b9b4bbac97681e2ecba3dd3f234d5d93646e87e0
+  - id: cf262ec5-9c04-4885-9324-6990301d9aca
+    hash: f8c8980e29fb81004a3c4889d90ac0f77f5ea040ea0e23b3fdab8add32e31a9f
+  - id: 4a20a8f9-26a1-48d5-ba40-f64d04984070
+    hash: b37770dd2831a092b399907257aed95c3872b2ade950cc87a08929f78df6ae7a
+  - id: fa3eb7b6-23fc-4573-814c-3e87f0d013bd
+    hash: 2bdd442e1aa3e732b9dc449eed31e00bcecfaa64c316d925f1c701aa7797ae27
+  - id: e305c4ce-0dec-4999-ba8f-1dcc8170d26a
+    hash: 4c72f165cbfa40d1ae7a5082488ffaf10cf42456f65075b84d08026c99d65821
+  - id: 70322530-6927-4828-a56f-ff41013dce29
+    hash: 186a781573c50d58b20cd5e9c2e8f06e4f41dc70e6da52a9452378356e8421ae
+  - id: 5a584f90-b4a9-424d-8b30-44628d4a30b6
+    hash: 1fcf96963ef20f23e94a7b842f745bbd5d30f1c877e83e6f336288d850d5face
+  - id: a078a4b6-fb22-42c0-ae42-bdc7938bb8c9
+    hash: 249ad566a609c812d298c6d18eb5476aec8db0ae7f7de7a55c46c65e2063133e
+  - id: 7a333d52-1f56-451f-a39e-a6ea4bb2cd68
+    hash: 7b0809fd080855cc5c1b281efdb5624a06f0c93fa8d4665918b6446b27bba244
+  - id: 3dcb93ed-ee09-49d1-beb3-f0a4d0b50a53
+    hash: dfe20d1d79bfb583073991146b74e4aaac433aaf2f7091faf0c47282bb94a95d
+  - id: 0d2cac56-5e06-41ac-b43d-17fa0b6df6f2
+    hash: dfa7edc6e6459d005ae9f3992a2d518cc3bdb661750471d186497356e558467b
+  - id: f41d9f61-b1f1-4b0f-8fa0-a1bc7febf858
+    hash: da1346fb08dae59184dcb1c49f2d51561e17367877c77280c181a49426d97a59
+  - id: e58bd4de-4093-49bb-bd0c-adefb953dee1
+    hash: 814284209e22940c95fd51b53b75be8782208c41fc4b52bd236bc12e1efdc2d9
+  - id: c2ee3d86-f2ad-493e-b531-450f0ee26189
+    hash: 7ce83d7d444275519e8b5ff565e2cf47a02be647ae909fa451aa607e8da5d8d7
+  - id: c2a46998-0978-4985-8a86-9dd24c8e15c4
+    hash: ac7b033090e7d4105ad1deabe4898461119adfa5afd73596f1e806ff872a1ba3
+  - id: 22fc7a65-9864-4cf8-abc5-bafbc6a752e7
+    hash: d1bd636d7c01361cab16674bbe65c859308b770c56287d5443f28a0de124d9de
+  - id: 080ac862-9519-4b3a-adcd-982dcd58fd92
+    hash: 44f856caf71dd12d3d8ee55ae9eb088703adf8b3d6d38904d5ac8532f236d196
+  - id: 302403b0-ce8c-4b28-8d4a-5ec165788957
+    hash: f9fbe013aad3b19ba0bfe968f920f5ed528fd7a8778626981d9fbcd09d892b7c
+  - id: ebcd5b97-ada0-44de-b941-435c3cd348bc
+    hash: 282b028a5481cb2de3f99c1854af02c824f2114fa49de32be0f4a64cf5b2e82c
+  - id: 3f61b9de-6565-4eb8-a0ba-5a2ccdf89ff1
+    hash: 6a9649125ce2b8265bce9c48314ac8db6aa2ea1826e863c2f65bf17430ca6be3
+  - id: 4a96c065-7f66-4997-8441-7bdd0f20eb05
+    hash: 3bad6264279912e5693e46e7fab09ec0485db1ea62b88b3fa13103705ec0a38c
+  - id: 5ec6734e-85f0-439a-aefd-75197a150c44
+    hash: 1a5e8e0c41e2df813348cc6633ab39c9bdb8ab841b270aaadaa652ca34fe559d
+  - id: d285bc71-50ce-4495-85f9-bb7b8d3c9f14
+    hash: 3741bf9c5c37ce4f331a0b8fd6ca50574b0a30fea47211cbd3b1ce65ea277b6a
+  - id: c0486997-ae4a-4048-845a-0a7a8f0a4c03
+    hash: 081c8d34ab7fc53850e9acc9639aa6cc279b7fc5f60cb9211f33d40c2c07b1d7
+  - id: 5eccc037-9a75-44ea-a17b-d41580d96c25
+    hash: d8e768588c94a30b5a7a98876ba0cb1679b359511e2b9f1fc58b629b41d8a5b6
 references:
-- text: The 2004 encounter is referred to as the Tic Tac and more formally as the
-    USS Nimitz UFO incident
+- text: The encounter is informally called the Tic Tac and formally the USS Nimitz
+    UFO incident
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:26.9-00:00:33.7
@@ -420,17 +669,8 @@ references:
   claim_id: ee38efe6-9f1b-4226-b4f8-1668232d4602
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ee38efe6-9f1b-4226-b4f8-1668232d4602
-- text: In November 2004 the Nimitz Carrier Strike Group was training roughly 160
-    km southwest of San Diego, California
-  source: Navy pilots describe encounters with UFOs
-  location: 00:07:14.4-00:07:22.2
-  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
-    about 100 miles southwest of San Diego.
-  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
-- text: On 2004-11-14 the Nimitz was performing drills off Southern California ahead
-    of deployment to the Persian Gulf
+- text: USS Nimitz was performing drills off Southern California ahead of deployment
+    to the Persian Gulf
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:56.8-00:14:12.6
   quote: On the day in question, November 14, 2004, The USS Nimitz was performing
@@ -439,13 +679,14 @@ references:
   claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
-- text: The USS Princeton was another ship involved in the exercise with the Nimitz
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:14:14.7-00:14:18.6
-  quote: Another ship involved in the exercise was the USS Princeton.
-  claim_id: 66b844e1-67d6-437e-97ff-2c75bcd4f312
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-66b844e1-67d6-437e-97ff-2c75bcd4f312
+- text: The carrier strike group was training roughly 160 km southwest of San Diego
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:14.4-00:07:22.2
+  quote: It was November 2004, and the USS Nimitz Carrier Strike Group was training
+    about 100 miles southwest of San Diego.
+  claim_id: a692b189-1226-41ca-9540-c4445d57fa01
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
 - text: David Fravor was commander of the F/A-18 squadron aboard the Nimitz
   source: Navy pilots describe encounters with UFOs
   location: 00:06:46.6-00:06:49.9
@@ -453,17 +694,7 @@ references:
   claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
-- text: Alex Dietrich flew at Fravor's wing and had not previously spoken publicly
-    about the encounter
-  source: Navy pilots describe encounters with UFOs
-  location: 00:06:50.6-00:06:56.2
-  quote: flying at his wing, Lieutenant Alex Dietrich, who has never spoken publicly
-    about the encounter
-  claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
-- text: Fravor and Dietrich, each with a weapons systems officer, were diverted to
-    investigate the Princeton's radar contacts
+- text: Fravor and Dietrich were diverted to investigate USS Princeton's radar contacts
   source: Navy pilots describe encounters with UFOs
   location: 00:07:39.4-00:07:46.0
   quote: On November 14, Fravor and Dietrich, each with a weapons system officer in
@@ -471,8 +702,15 @@ references:
   claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
-- text: From 2004-11-10 the Princeton detected objects at ~8,500 m altitude and ~190
-    km/h
+- text: The incident was documented by radar, camera, and four naval aviators
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:32.3-00:06:39.9
+  quote: an incident off Southern California in 2004, which was documented by radar,
+    by camera, and four naval aviators
+  claim_id: d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
+- text: From 2004-11-10, Princeton radar detected objects at ~8,500 m and ~190 km/h
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:12:10.8-01:12:26.3
@@ -482,8 +720,7 @@ references:
   claim_id: ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
-- text: The Princeton detected the objects intermittently for about a week before
-    the encounter
+- text: Princeton tracked the objects intermittently for about a week before the encounter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:12:28.2-01:12:38.1
@@ -492,15 +729,15 @@ references:
   claim_id: cf93d6d5-831a-49b0-aac6-0fb5f51919a7
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cf93d6d5-831a-49b0-aac6-0fb5f51919a7
-- text: Kevin Day was manning the radar aboard the Princeton
+- text: Kevin Day was manning the Princeton's radar during the exercise
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:20.4-00:14:23.8
   quote: Manning the radar on board the Princeton was Kevin Day.
   claim_id: 17d09693-6798-454a-b66f-09da76258383
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-17d09693-6798-454a-b66f-09da76258383
-- text: Day saw a formation of unidentified objects rather than the expected simulated
-    adversary aircraft
+- text: Day observed a formation of unidentified objects rather than simulated adversary
+    aircraft
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:47.0-00:14:56.2
   quote: But it wasn't the bad guys appearing on his screen that caught his eye. Instead,
@@ -508,7 +745,7 @@ references:
   claim_id: d0314d73-7fee-4c08-9615-c69f90b649b3
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d0314d73-7fee-4c08-9615-c69f90b649b3
-- text: Day's captain confirmed the objects had been tracked for days
+- text: Day's captain confirmed the contacts had been tracked for days
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:15:00.9-00:15:09.4
   quote: The only reason why I became concerned with these is because of that air
@@ -517,8 +754,34 @@ references:
   claim_id: b2bf7bc8-b546-4436-b6a5-8cde648950cb
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-b2bf7bc8-b546-4436-b6a5-8cde648950cb
-- text: The encounter occurred on a clear day with unrestricted visibility, no clouds,
-    calm seas
+- text: An object descended from ~8,500 m to the ocean surface in 0.78 seconds
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:16:27.3-00:16:29.5
+  quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
+  claim_id: 7b8c13d9-27b1-4e6d-a078-5dae10632051
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-7b8c13d9-27b1-4e6d-a078-5dae10632051
+- text: Fravor and three crew flew two F/A-18F Super Hornets when their training mission
+    was cancelled
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:15:07.6-01:15:11.9
+  quote: So originally it was the four of us. There's two jets, two people in each
+    jet. They're F-18Fs.
+  claim_id: 1bd21bee-7cce-46da-9f7d-e19d6616cd2e
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1bd21bee-7cce-46da-9f7d-e19d6616cd2e
+- text: Princeton gave bearing, range and altitude calls at ~80, 64 and 48 km
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:16:37.3-01:16:44.7
+  quote: they're calling ranges, they're called BRA calls, bearing range and altitude.
+    And they're telling us, hey, it's at 40 miles or 50 miles and 40 miles and 30
+    miles.
+  claim_id: 3d7ff4db-d587-4206-87b4-6d83acb61712
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d7ff4db-d587-4206-87b4-6d83acb61712
+- text: The sighting occurred on a clear day, unrestricted visibility, calm seas
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:18:45.5-01:18:55.7
@@ -527,18 +790,8 @@ references:
   claim_id: ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
-- text: Jim, the weapon systems officer in the other aircraft, first drew attention
-    to the white water
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:21:36.7-01:21:42.9
-  quote: the back seater in the other airplane, Jim, says, this is that talking in
-    parcels again. He says, hey, Skipper, do you?
-  claim_id: 245687d6-b591-484c-aee0-75780bbead61
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-245687d6-b591-484c-aee0-75780bbead61
-- text: The white water was cross-shaped, size of a Boeing 737, caused by something
-    5-6 m below the surface
+- text: White water in a cross shape, size of a Boeing 737, caused by something 5-6
+    m below
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:21:18.2-01:21:27.2
@@ -548,17 +801,16 @@ references:
   claim_id: 005c8f92-1e07-494e-912c-c5f35c33cd36
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-005c8f92-1e07-494e-912c-c5f35c33cd36
-- text: Fravor witnessed a white Tic Tac-shaped object approximately 12 metres long
+- text: No object was visible beneath the surface, only the white water
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
-  location: 01:12:41.2-01:12:55.2
-  quote: I guess it's from the USS Nimitz, you flew and witnessed a 40 foot long white
-    tic-tac shaped object with no wings, flying in ways you've never thought possible
-  claim_id: 1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+  location: 01:21:09.8-01:21:17.1
+  quote: We don't see an object because there's all kinds of, oh, they saw another
+    craft below the wave. We didn't see anything below the water. We just saw whitewater.
+  claim_id: 509a0cc8-3d1f-4abe-9e0c-d38a32900b3e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
-- text: Fravor observed the object moving above the disturbance while flying ~6,100
-    m above it
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-509a0cc8-3d1f-4abe-9e0c-d38a32900b3e
+- text: Fravor spotted a small white Tic Tac-shaped object ~6,100 m below his aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:21:56.7-01:22:00.9
@@ -567,8 +819,23 @@ references:
   claim_id: a57cbdc5-8317-456b-b69d-638e679afd7f
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a57cbdc5-8317-456b-b69d-638e679afd7f
-- text: The object moved abruptly between directions with no gradual deceleration,
-    unlike a helicopter
+- text: Dietrich circled above while Fravor descended for a closer look
+  source: Navy pilots describe encounters with UFOs
+  location: 00:08:12.3-00:08:16.3
+  quote: As Dietrich circled above, Fravor went in for a closer look.
+  claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
+- text: Object was about the size of an F/A-18, no markings, no wings, no exhaust
+  source: Navy pilots describe encounters with UFOs
+  location: 00:08:30.6-00:08:36.6
+  quote: He said it was about the size of his F-18, with no markings, no wings, no
+    exhaust plumes.
+  claim_id: d5788c67-339f-457a-993a-5464b6d58861
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
+- text: Object moved abruptly between directions, no gradual deceleration, unlike
+    a helicopter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:22:05.7-01:22:12.8
@@ -577,7 +844,7 @@ references:
   claim_id: e8ed634d-37dd-424a-b95d-75a0034ae9b1
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e8ed634d-37dd-424a-b95d-75a0034ae9b1
-- text: Fravor ruled out a helicopter because it produced no visible rotor wash
+- text: No visible rotor wash on the water below
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:22:53.3-01:22:57.0
@@ -585,16 +852,8 @@ references:
   claim_id: c713b9ae-1001-4db3-a8ef-33bdfeb099f3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c713b9ae-1001-4db3-a8ef-33bdfeb099f3
-- text: Fravor descended toward the object at approximately 556 km/h
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:24:11.1-01:24:15.1
-  quote: I'm doing about 300 knots, which is a really good airspeed for the airplane
-    for maneuvering
-  claim_id: 0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
-- text: Fravor descended while his wingman remained at higher altitude to observe
+- text: Fravor descended while his wingman stayed higher to observe from a different
+    angle
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:23:35.3-01:23:44.4
@@ -603,15 +862,25 @@ references:
   claim_id: 76adf749-890f-4b94-812b-258d58a55aac
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-76adf749-890f-4b94-812b-258d58a55aac
-- text: The object turned abruptly and began mirroring Fravor's aircraft's movements
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:18.6-00:08:26.6
-  quote: The tic-tac's still pointing north-south. It goes and just turns abruptly
-    and starts mirroring me. So as I'm coming down, it starts coming up.
-  claim_id: 87aa7a58-a9c3-4fa5-b473-228946c86a1f
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-87aa7a58-a9c3-4fa5-b473-228946c86a1f
-- text: The object turned to point west and began to ascend
+- text: Fravor descended at an airspeed of approximately 556 km/h
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:24:11.1-01:24:15.1
+  quote: I'm doing about 300 knots, which is a really good airspeed for the airplane
+    for maneuvering
+  claim_id: 0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
+- text: Fravor closed to within approximately 0.8 km of the object
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:25:44.9-01:25:47.4
+  quote: I'm probably about a half mile away, which you think, well, a half mile is
+    pretty far.
+  claim_id: efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
+- text: Object appeared to react, turning west and beginning to ascend
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:24:22.2-01:24:28.9
@@ -621,25 +890,7 @@ references:
   claim_id: 0b3b29d8-9db5-4de5-8868-82466c334d0e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0b3b29d8-9db5-4de5-8868-82466c334d0e
-- text: Fravor approached to within approximately 0.8 km of the object
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:25:44.9-01:25:47.4
-  quote: I'm probably about a half mile away, which you think, well, a half mile is
-    pretty far.
-  claim_id: efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
-- text: The object was about the size of an F/A-18, with no markings, no wings, no
-    exhaust plumes
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:30.6-00:08:36.6
-  quote: He said it was about the size of his F-18, with no markings, no wings, no
-    exhaust plumes.
-  claim_id: d5788c67-339f-457a-993a-5464b6d58861
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
-- text: The object accelerated and disappeared at ~3,700 m, ~2,400 m below the other
+- text: Acceleration and disappearance occurred at ~3,700 m, ~2,400 m below the other
     aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -649,7 +900,7 @@ references:
   claim_id: 70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
-- text: The white water disappeared along with the object, leaving no trace
+- text: The white water disappeared at the same time as the object, no trace left
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:26:36.0-01:26:40.9
@@ -666,155 +917,8 @@ references:
   claim_id: a6b5ec29-fdd7-4931-a458-898d5021e134
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a6b5ec29-fdd7-4931-a458-898d5021e134
-- text: All four crew members lost sight of the object at the same time
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:24:05.6-01:24:06.8
-  quote: We all lost it at the same time.
-  claim_id: 4b91393c-58fd-4848-8bfb-d843c45903e9
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-4b91393c-58fd-4848-8bfb-d843c45903e9
-- text: Dietrich felt vulnerable, having nothing with which to defend themselves
-  source: Navy pilots describe encounters with UFOs
-  location: 00:13:37.4-00:13:40.8
-  quote: I felt the vulnerability of not having anything to defend ourselves.
-  claim_id: fdf2ac36-553c-483c-ad6b-722977859394
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
-- text: Dietrich initially tried to categorise the object as possibly a helicopter
-    or drone
-  source: Navy pilots describe encounters with UFOs
-  location: 00:08:53.0-00:08:57.0
-  quote: I'm going to categorize this as maybe a helicopter or maybe a drone.
-  claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0e826557-c64f-4fef-8022-bd4158f9567a
-- text: Dietrich said had she witnessed it alone she might not have reported it, given
-    how implausible it sounds
-  source: Navy pilots describe encounters with UFOs
-  location: 00:09:23.5-00:09:30.3
-  quote: if I saw this solo, I don't know that I would have come back and said anything
-    because it sounds so crazy when I say it
-  claim_id: f900712a-e007-4792-9789-102685771e44
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f900712a-e007-4792-9789-102685771e44
-- text: The object was smooth and white in appearance
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:37.1-02:00:40.2
-  quote: No. Smooth, white, tic-tac
-  claim_id: cfd76b5e-cc6e-4f0a-b8a3-44b38530627b
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cfd76b5e-cc6e-4f0a-b8a3-44b38530627b
-- text: The object had no visible windows
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:42.6-02:00:50.2
-  quote: there's no no wings no visible propulsion no windows no probes that we could
-    see
-  claim_id: 36b1f595-b91e-4821-b281-e9ed2218a7fc
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-36b1f595-b91e-4821-b281-e9ed2218a7fc
-- text: The object had no visible propulsion
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:42.6-02:00:50.2
-  quote: there's no no wings no visible propulsion no windows no probes that we could
-    see
-  claim_id: 63ce41af-c161-4ee1-a3c0-28e6c508155a
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-63ce41af-c161-4ee1-a3c0-28e6c508155a
-- text: The object had no visible wings
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:42.6-02:00:50.2
-  quote: there's no no wings no visible propulsion no windows no probes that we could
-    see
-  claim_id: 9fd02e21-80d3-43f0-a15c-0124373ca5a7
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9fd02e21-80d3-43f0-a15c-0124373ca5a7
-- text: The object had no visible probes
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:00:42.6-02:00:50.2
-  quote: there's no no wings no visible propulsion no windows no probes that we could
-    see
-  claim_id: b1e6bf5c-b175-49e0-809b-984f0829c8d5
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b1e6bf5c-b175-49e0-809b-984f0829c8d5
-- text: Fravor saw no appendages on the object when observed directly
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:01:10.2-02:01:13.1
-  quote: But when you saw with your eyes, there's no kind of appendages. No, none.
-  claim_id: bec64975-42d5-494c-83d6-d83aa9df4677
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-bec64975-42d5-494c-83d6-d83aa9df4677
-- text: Fravor felt no aerodynamic wake despite flying close to the object
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:01:22.9-02:01:37.2
-  quote: you chased it, so you flew close to it, relatively speaking. Did you feel
-    any wake? Did you feel it in any way in terms of your interaction, like aerodynamically?
-    No. Nothing.
-  claim_id: 8062509a-e9ad-4a92-96d7-55c28a086161
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8062509a-e9ad-4a92-96d7-55c28a086161
-- text: The object had no signs of lift, no rudders, control surfaces, ailerons, elevators,
-    cockpit, or rivets
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:18:24.8-00:18:32.2
-  quote: No visible propulsion. No obvious signs of lift. No wings. No rudders. No
-    control surfaces. No ailerons. No elevators. No cockpit. No rivets.
-  claim_id: d3e254f2-f147-40dd-a1b2-5e1aac671e2a
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d3e254f2-f147-40dd-a1b2-5e1aac671e2a
-- text: An unnamed retired US Navy commander described the accelerations as sufficient
-    to destroy any modern aircraft five to ten times over, with no visible propulsion
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:18:15.3-00:18:24.3
-  quote: The accelerations that were observed would destroy five or ten times over
-    any craft that we can design or build today. No visible propulsion system.
-  claim_id: dc0ef672-a739-46a6-a623-43c5f5c98a9b
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-dc0ef672-a739-46a6-a623-43c5f5c98a9b
-- text: Christopher Mellon described the object as white, oblong, approximately 12
-    metres long
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:14:23.5-00:14:27.8
-  quote: It is white, oblong, some 40 feet long and perhaps 12 feet thick.
-  claim_id: 8d653ff5-f6e9-436a-9f3b-26b3b257b952
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-8d653ff5-f6e9-436a-9f3b-26b3b257b952
-- text: Christopher Mellon described the object as approximately 3.7 metres thick
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:14:23.5-00:14:27.8
-  quote: It is white, oblong, some 40 feet long and perhaps 12 feet thick.
-  claim_id: 508e13a2-83c5-413a-9011-f49d0c019fb2
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-508e13a2-83c5-413a-9011-f49d0c019fb2
-- text: Fravor said Princeton radar operators reported the object had reappeared at
-    his combat air patrol point, ~97 km away
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:28:33.9-01:28:40.4
-  quote: hey, sir, you're not going to believe this, but that thing is at your cap.
-    it showed back up it just popped up you know this is like 60 miles away it just
-    reappears
-  claim_id: 69ab8f5e-cdb9-4980-a51c-dc281d3cc543
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-69ab8f5e-cdb9-4980-a51c-dc281d3cc543
-- text: The cap point was a rendezvous location known only to a handful of Navy personnel
-    and pilots
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:16:53.9-00:17:03.3
-  quote: The cap point was an aerial rendezvous point 60 miles away, known only to
-    a handful of Navy personnel and pilots.
-  claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
-- text: Elizondo said the object disappeared instantaneously and, five seconds later,
-    was reported waiting at the cap point
+- text: 'Elizondo: object disappeared instantly, radar reported it at the cap point
+    five seconds later'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:34.0-00:16:52.4
   quote: and then all of a sudden, bam, it's gone. Bing, disappears instantaneously.
@@ -824,8 +928,17 @@ references:
   claim_id: 5b5950e0-41f0-4b28-ba23-31269da8b761
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5b5950e0-41f0-4b28-ba23-31269da8b761
-- text: The object was already present at the classified cap point despite the location
-    being known only in the Nimitz briefing room
+- text: The cap point was ~97 km away, known only to a handful of Navy personnel and
+    pilots
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:16:53.9-00:17:03.3
+  quote: The cap point was an aerial rendezvous point 60 miles away, known only to
+    a handful of Navy personnel and pilots.
+  claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
+- text: The object was already at the cap point though its location was known only
+    in the Nimitz briefing room
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:17:04.6-00:17:21.4
   quote: They go to their cap point. It's a secret. Nobody's meant to know this outside
@@ -835,7 +948,7 @@ references:
   claim_id: 94908746-20d4-40a5-9d6b-10e35cd8a1a7
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-94908746-20d4-40a5-9d6b-10e35cd8a1a7
-- text: Fravor's flight searched by radar for the object but never saw it again
+- text: Fravor's flight searched by radar but never located the object again
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:28:45.0-01:28:46.8
@@ -843,17 +956,27 @@ references:
   claim_id: 2931616c-1307-42bb-859e-a39285fa2ae4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2931616c-1307-42bb-859e-a39285fa2ae4
-- text: Chad Underwood recorded the FLIR video of the object
+- text: Fravor said he did not know how it knew to be there, speculating on the daily-used
+    point
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
-  location: 01:30:34.9-01:30:40.2
-  quote: Chad, when he took off, when he got the video, we landed, we told them, hey,
-    look, we just chased this thing.
-  claim_id: f5a8d539-2e80-465c-838a-11b189ecd1eb
+  location: 01:30:20.9-01:30:29.7
+  quote: We don't tell it. We don't broadcast it. We have a waypoint in the system.
+    But I don't know, maybe it knew where we were going, because we used the same
+    one day after day after day.
+  claim_id: 27860439-1b09-493f-ab51-16ba977677bd
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f5a8d539-2e80-465c-838a-11b189ecd1eb
-- text: Only the FLIR targeting-pod tape has been publicly released; other recorded
-    data has not
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-27860439-1b09-493f-ab51-16ba977677bd
+- text: Chad Underwood recorded FLIR video of the object
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:13:27.6-01:13:28.9
+  quote: Chad Underwood recorded that video.
+  claim_id: d11106ea-4e7b-4ed0-9939-9993a58df6ed
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d11106ea-4e7b-4ed0-9939-9993a58df6ed
+- text: Only the FLIR targeting-pod tape has been publicly released; other data has
+    not
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:30:54.0-01:30:59.3
@@ -862,35 +985,8 @@ references:
   claim_id: 12b3b42f-f8ac-4aee-8786-83af6d5bf351
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-12b3b42f-f8ac-4aee-8786-83af6d5bf351
-- text: The tapes were classified secret because of the data recorded on them
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:40:47.1-01:40:49.7
-  quote: the tapes are actually classified secret because of the data that's on them
-  claim_id: a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a135dbb1-26e8-40f0-90e0-feb0c6b0ccdf
-- text: The released video excludes the radar display because it would reveal a higher
-    classification level
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:45:01.7-01:45:10.5
-  quote: the other thing that people didn't see is they didn't see the the radar display
-    uh which that that really raises a classification level especially to see what
-    the radar does when it's being jammed
-  claim_id: 9806cf07-e084-4d52-b8ea-575842b376d5
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9806cf07-e084-4d52-b8ea-575842b376d5
-- text: Active jamming of another platform's radar occurred during the encounter
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:32:55.3-01:32:57.9
-  quote: When you actively jam another platform, yes, it's technically an act of war.
-  claim_id: 1458ab02-721f-4ac9-af21-2dffa1e96954
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1458ab02-721f-4ac9-af21-2dffa1e96954
-- text: The encounter was not officially addressed for five years, until Luis Elizondo
-    investigated it
+- text: The encounter went unaddressed for five years until Elizondo investigated
+    it
   source: Navy pilots describe encounters with UFOs
   location: 00:10:04.3-00:10:11.8
   quote: Nothing was said or done officially for five years until Lou Elizondo came
@@ -898,8 +994,8 @@ references:
   claim_id: 2134b643-d8ae-4044-8f0d-873435cc8be3
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2134b643-d8ae-4044-8f0d-873435cc8be3
-- text: In December 2017 The New York Times revealed a Pentagon unit secretly investigating
-    UFOs, with accompanying video
+- text: The New York Times reported a Pentagon unit investigating UFOs in December
+    2017
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:12:11.8-00:12:31.4
   quote: Then in December 2017, everything changed. One of the world's greatest newspapers,
@@ -908,50 +1004,55 @@ references:
   claim_id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bbe4780a-5c87-4ffb-a8fd-2103976ab254
-- text: Mellon met with one of the pilots involved and confirmed the account
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:16:15.0-00:16:21.0
-  quote: I've met with one of the pilots and confirmed the account, as have other
-    members of the To The Stars Academy team
-  claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
-- text: Lex Fridman considers the account, corroborated by other pilots, the most
-    credible UFO sighting he is aware of
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:00:35.1-00:00:48.1
-  quote: His story corroborated by several other pilots from my perspective as a curious
-    scientist and an open-minded human being is the most credible sighting of a UFO
-    in history, at least that I'm aware of.
-  claim_id: 0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
+- text: Dietrich had not spoken publicly about the encounter before this interview
+  source: Navy pilots describe encounters with UFOs
+  location: 00:06:50.6-00:06:56.2
+  quote: flying at his wing, Lieutenant Alex Dietrich, who has never spoken publicly
+    about the encounter
+  claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
+- text: Dietrich felt a responsibility to share her account given the unclassified,
+    on-duty nature of the sighting
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:02.7-00:07:11.2
+  quote: Because I was in a government aircraft, because I was on the clock, and so
+    I feel a responsibility to share what I can, and it is unclassified.
+  claim_id: e44a718a-1026-4973-9da4-79176d4ecfdd
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e44a718a-1026-4973-9da4-79176d4ecfdd
+- text: Dietrich felt vulnerable, having nothing with which to defend themselves
+  source: Navy pilots describe encounters with UFOs
+  location: 00:13:37.4-00:13:40.8
+  quote: I felt the vulnerability of not having anything to defend ourselves.
+  claim_id: fdf2ac36-553c-483c-ad6b-722977859394
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 483120f29278488e9abda96b4c0c535ace37d0d208fc70acd835cb71d2437668
+  prompt_sha256: 1d945bc531e471ae010de2d9ce11f2085691dd63f8e033699b3a3d7d555321ed
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 102219
-    output: 43611
+    input: 105830
+    output: 54476
     real_input: 2
-    cache_read: 39325
-    cache_write: 62892
+    cache_read: 33634
+    cache_write: 72194
     calls: 0
-  body_sha256: 36cd57bb9e43db3fd185ec4d09510647f6396386bbdd25f7bc73550f6ad8f234
+  body_sha256: aaca54239fb0c305ba9c9eaabb55ac795cd5316939c957978e2c30f468473184
 ---
 
-The 2004 USS Nimitz UAP encounter, also known as the Tic Tac incident,<sup>1</sup> took place on 2004-11-14 during exercises conducted by the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) Carrier Strike Group approximately 160 kilometres southwest of [California San Diego](/places/california-san-diego-usa),<sup>2</sup> as the group carried out drills ahead of a deployment to the Persian Gulf.<sup>3</sup> The strike group's escort included the [USS Princeton (CG-59)](/objects/uss-princeton-cg-59).<sup>4</sup> [David Fravor](/people/david-fravor) commanded the [F/A-18](/objects/fa-18) squadron aboard the Nimitz at the time,<sup>5</sup> and [Alex Dietrich](/people/alex-dietrich), who had not previously spoken publicly about the encounter, flew at his wing.<sup>6</sup> On 14 November, Fravor, Dietrich, and their weapon systems officers were diverted from a training mission to investigate radar contacts detected by the Princeton.<sup>7</sup>
+The 2004 USS Nimitz UAP encounter refers to a radar-tracked and visually observed encounter between two crews of US Navy fighter jets and an unidentified object, informally known as the Tic Tac and more formally as the USS Nimitz UFO incident.<sup>1</sup> On 2004-11-14, the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) was carrying out drills off the Southern Californian coast ahead of a deployment to the Persian Gulf,<sup>2</sup> with its carrier strike group training approximately 160 kilometres southwest of San Diego, California.<sup>3</sup> [David Fravor](/people/david-fravor), commander of the [F/A-18](/objects/fa-18) squadron aboard the carrier,<sup>4</sup> and [Alex Dietrich](/people/alex-dietrich), each flying with a weapons systems officer in the back seat, were diverted to investigate radar contacts detected by the cruiser [USS Princeton (CG-59)](/objects/uss-princeton-cg-59).<sup>5</sup> The incident was documented by radar, camera, and four aviators of the [United States Navy (USN)](/organisations/united-states-navy-usn).<sup>6</sup>
 
-The Princeton's radar had begun detecting objects several days earlier: from 2004-11-10, it registered a small number of contacts flying at an altitude of approximately 8,500 metres and at speeds of around 190 kilometres per hour,<sup>8</sup> with intermittent returns continuing for about a week before the encounter.<sup>9</sup> [Kevin Day](/people/kevin-day) was manning the Princeton's radar during the exercise<sup>10</sup> and saw a formation of unidentified objects on his screen where he had expected to see simulated adversary aircraft.<sup>11</sup> Day said his captain confirmed the contacts had been tracked for several days.<sup>12</sup>
+Beginning on 2004-11-10, radar aboard the USS Princeton had detected a small number of objects flying at approximately 8,500 metres and around 190 kilometres per hour off the California coast,<sup>7</sup> tracking them intermittently for about a week before the 14 November encounter.<sup>8</sup> [Kevin Day](/people/kevin-day) was manning the Princeton's radar during the exercise<sup>9</sup> when he observed a formation of unidentified objects on his radar screen rather than the simulated adversary aircraft he had expected.<sup>10</sup> Concerned given the ongoing air defence exercise, Day raised the matter with his captain, who confirmed the contacts had already been tracked for days.<sup>11</sup> On one occasion, the tracked objects descended from approximately 8,500 metres to the ocean surface in 0.78 seconds.<sup>12</sup>
 
-Conditions on the day were clear, with unrestricted visibility, no cloud, and calm seas.<sup>13</sup> Jim, the weapon systems officer in the second aircraft, was the first to draw attention to an area of disturbed white water on the ocean surface below.<sup>14</sup> The water was cross-shaped, roughly the size of a Boeing 737, and appeared to be caused by something five to six metres beneath the surface.<sup>15</sup> Fravor then observed a small white object shaped like a Tic Tac, approximately 12 metres long,<sup>16</sup> moving above the disturbance while he flew some 6,100 metres above it.<sup>17</sup> It moved abruptly between directions with no gradual deceleration, unlike a helicopter,<sup>18</sup> and Fravor ruled out a helicopter because it produced no visible rotor wash on the water.<sup>19</sup> He descended toward it at an airspeed of around 556 kilometres per hour,<sup>20</sup> while Dietrich remained at altitude to observe from a different perspective.<sup>21</sup> As he closed in, the object turned abruptly and began mirroring his aircraft's movements,<sup>22</sup> before turning to point west and beginning to climb.<sup>23</sup> Fravor approached to within about 0.8 kilometres of it;<sup>24</sup> it was roughly the size of his F/A-18, unmarked, with no wings and no exhaust plumes.<sup>25</sup> The object then accelerated and vanished at an altitude of around 3,700 metres, some 2,400 metres below the other aircraft,<sup>26</sup> and the white water on the surface disappeared with it, leaving no trace.<sup>27</sup> Four aviators watched the object for about five minutes in total,<sup>28</sup> and all four lost sight of it at the same moment.<sup>29</sup> Dietrich said she felt vulnerable, having nothing with which to defend themselves.<sup>30</sup> She said she initially tried to categorise the object as a possible helicopter or drone,<sup>31</sup> and that had she witnessed it alone, she might not have reported it, given how implausible it would sound.<sup>32</sup>
+On 2004-11-14, Fravor and Dietrich, flying two F/A-18F Super Hornets with a weapons systems officer in each back seat, had their training mission cancelled.<sup>13</sup> The USS Princeton gave the flight bearing, range, and altitude calls for an unidentified radar contact at ranges of approximately 80, 64, and 48 kilometres.<sup>14</sup> The sighting took place on a clear day with unrestricted visibility, no cloud cover, and calm seas.<sup>15</sup> The crews first noticed an area of white water on the ocean surface, in a cross-like shape approximately the size of a Boeing 737, appearing to be caused by something roughly 5 to 6 metres below the surface,<sup>16</sup> though no object was visible beneath the water itself.<sup>17</sup> Above the disturbance, Fravor spotted a small white Tic Tac-shaped object while flying approximately 6,100 metres above it,<sup>18</sup> as Dietrich circled above while Fravor descended for a closer look.<sup>19</sup> Fravor later described the object as roughly the size of his F/A-18, with no markings, no wings, and no exhaust plumes,<sup>20</sup> moving abruptly between directions with no gradual deceleration unlike the motion of a helicopter,<sup>21</sup> and producing no visible rotor wash on the water below.<sup>22</sup>
 
-Witnesses described the object at close range as smooth and white,<sup>33</sup> with no visible windows,<sup>34</sup> no visible propulsion,<sup>35</sup> no visible wings,<sup>36</sup> and no visible probes.<sup>37</sup> Fravor saw no appendages on it,<sup>38</sup> and did not feel any aerodynamic wake despite flying close to it.<sup>39</sup> It showed no obvious signs of lift and had no rudders, control surfaces, ailerons, elevators, cockpit, or rivets.<sup>40</sup> According to the documentary The UFO Phenomenon, an unnamed retired [United States Navy (USN)](/organisations/united-states-navy-usn) commander said the accelerations observed were sufficient to destroy any aircraft that can be designed or built today, five to ten times over, and that there was no visible propulsion system.<sup>41</sup> Christopher Mellon said the object was white and oblong, approximately 12 metres long,<sup>42</sup> and about 3.7 metres thick.<sup>43</sup>
+Fravor descended toward the object while his wingman remained at higher altitude to observe from a different angle,<sup>23</sup> at an airspeed of approximately 556 kilometres per hour,<sup>24</sup> closing to within approximately 0.8 kilometres.<sup>25</sup> As he approached, the object appeared to react, turning to point west and beginning to climb.<sup>26</sup> At an altitude of about 3,700 metres, roughly 2,400 metres below the other aircraft, the object then accelerated and disappeared;<sup>27</sup> the white water on the ocean surface disappeared at the same time, leaving no visible trace.<sup>28</sup> In total, the four aviators watched the object for approximately five minutes.<sup>29</sup>
 
-Fravor said that Princeton radar operators subsequently reported the object had reappeared at his flight's combat air patrol point, approximately 97 kilometres away.<sup>44</sup> That point was a rendezvous location known only to a handful of Navy personnel and pilots.<sup>45</sup> According to Luis Elizondo, the object disappeared instantaneously and, five seconds later, a radar operator reported it was already waiting there.<sup>46</sup> The object was already present at the classified point despite the location being known only within the Nimitz briefing room.<sup>47</sup> Fravor's flight searched for it by radar but never saw it again.<sup>48</sup>
+Investigator Luis Elizondo later said the object disappeared instantaneously and that, five seconds afterwards, a radar operator reported it was waiting at the flight's combat air patrol point.<sup>30</sup> That point was an aerial rendezvous location approximately 97 kilometres away, known only to a handful of Navy personnel and pilots,<sup>31</sup> and the object was already there when the pilots arrived, despite the location being known only within the USS Nimitz briefing room.<sup>32</sup> Fravor's flight searched the area by radar but never located the object again.<sup>33</sup> Fravor said he did not know how the object could have known to be there, since the location had not been broadcast, though he speculated it might have been because the same point was used daily.<sup>34</sup> [Chad Underwood](/people/chad-underwood) recorded forward-looking infrared (FLIR) video of the object.<sup>35</sup> That FLIR targeting-pod footage is the only recorded material from the encounter that has been publicly released, while other data from the incident has not.<sup>36</sup>
 
-[Chad Underwood](/people/chad-underwood) recorded the forward-looking infrared (FLIR) video of the object.<sup>49</sup> Only that FLIR targeting-pod footage has ever been publicly released; other data recorded during the encounter has not.<sup>50</sup> Fravor said the tapes were classified secret because of the data recorded on them,<sup>51</sup> and that the released video excludes the aircraft's radar display because that footage would reveal a higher classification level about how the radar behaved amid active jamming of another platform's radar.<sup>52,53</sup> The encounter was not officially addressed for five years, until Luis Elizondo investigated it.<sup>54</sup> According to a 2021 documentary account, The New York Times revealed the existence of a Pentagon unit that had secretly investigated UFOs in December 2017, publishing accompanying video.<sup>55</sup> Mellon later met with one of the pilots involved and confirmed the account.<sup>56</sup> Lex Fridman said he considered the account, corroborated by several other pilots, the most credible UFO sighting he was aware of.<sup>57</sup>
+The encounter went without official acknowledgement for five years, until Elizondo began investigating it.<sup>37</sup> According to the documentary The UFO Phenomenon, The New York Times reported the existence of a Pentagon unit secretly investigating UFOs in December 2017, publishing accompanying video.<sup>38</sup> Dietrich had not spoken publicly about the encounter before this interview.<sup>39</sup> She said she felt a responsibility to share her account because she had been in a government aircraft, on duty, and the material was unclassified,<sup>40</sup> and described feeling vulnerable during the encounter because the crews had nothing with which to defend themselves.<sup>41</sup>

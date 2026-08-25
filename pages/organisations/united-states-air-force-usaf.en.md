@@ -1,12 +1,58 @@
 ---
 title: United States Air Force (USAF)
-description: The United States Air Force is the American military service that led
-  government investigation of unidentified flying objects and unidentified anomalous
-  phenomena from the late 1940s through Project Blue Book and into the modern AARO
-  era.
+aliases:
+- /organisations/united-states-army-air-forces-usaaf/
+- /en/organisations/united-states-army-air-forces-usaaf/
+- /organisations/us-air-force/
+- /en/organisations/us-air-force/
+- /organisations/united-states-air-force/
+- /en/organisations/united-states-air-force/
+- /organisations/united-states-air-force-academy/
+- /en/organisations/united-states-air-force-academy/
+- /organisations/united-states-army-air-forces/
+- /en/organisations/united-states-army-air-forces/
+- /organisations/united-states-army-air-force/
+- /en/organisations/united-states-army-air-force/
+- /organisations/united-states-air-force-reserve/
+- /en/organisations/united-states-air-force-reserve/
+description: The United States Air Force is the branch of the US armed forces responsible
+  for air and space operations, and the agency most directly tied to America's postwar
+  investigations of unidentified flying objects, from Project Sign through Project
+  Blue Book.
+metadata:
+  founded: '1947'
+  headquartered: The Pentagon, Arlington, Virginia, USA
 built_from:
-  brief_hash: 2eef73dc2229cb7e8f72f64db2f8c467ca96a9c8dfb79baacf2804d1df409354
+  brief_hash: 8a2dd35d3773b5b8a1048cbfbf7cc54e2e315e5a59e000d924572848c49f465d
   claims:
+  - id: f57a3f67-e984-4c89-89c9-c1f2e00c748a
+    hash: edf20fb5adf03177576267c5465ddbe6d306736ccc51c401be2507308df5112f
+  - id: 475f861f-2e5a-45e3-982f-83134ea37b0f
+    hash: 05050b0cd2c71f5aaf13224a8e16ff4b37f18a98cd7ee3fb28956caf5ba4dae8
+  - id: 5aed989e-29df-4568-b193-2b9bbea324f7
+    hash: 4cd19f713aa20e05b021f67310b75d210ccfcc483810ea39aaf206d5a2c39cfc
+  - id: 6c075320-25a0-4136-bed9-e31a78ad45d9
+    hash: 441a5fd90b01460749e676935ed8b9a0aab747c168448a4bbb58a279a57a0daa
+  - id: 8f62b08f-c29e-40be-911b-9c1d5e522424
+    hash: 3cb6387991cfd9acfa7d3950fff06a1b74c87e655fb3eade2438754adb06f107
+  - id: c8006b06-843a-4738-83af-8cc16f737b0e
+    hash: c869af880517f93ad65fec8fb64ef59434382963b229a6eb2a65e8c89340b6c5
+  - id: e5acd7c2-e6b0-4c77-b827-cfac658b4ea4
+    hash: 5be3918a88ff460195bd18ef773a1331fdaffc461c412cc29a41c5b9788d9049
+  - id: e04645ac-32aa-4578-81a7-df07d318fbab
+    hash: c5317edbae7a9cd2b61deb71031a25dbbf637b22d5d6cedc7d4ed78c70fd1d7f
+  - id: 9d10b1f5-1996-4863-bcd3-e2695bdb9b3f
+    hash: 2fce60b2519c47f211421f93563200286a4fe7d30e88b1f94352b7b34725a8f2
+  - id: bcf0e86f-b7bc-422e-bd1c-451d39983c7c
+    hash: 3929a8a287e3ff5b96d191ee14615f9cc59f71c3f67888b7184423492524cb82
+  - id: 7c7bd6a9-3eea-4a8e-bb12-079dccb86ab9
+    hash: 4464c5ac83aa64708a85d9bb0a70b926d3c8cd18c5742b9da7a0f748db6c30cb
+  - id: f94fc8c3-d0ef-4881-b153-1750478b4690
+    hash: b0db530dfb9f38cdac434c696fb783d13d8f0457949786209861f8f909a4a00c
+  - id: b21f601e-7811-41bb-9e59-1342b149bf73
+    hash: fcaedda602e3f2ab085e2ca7cb7a2bb44a385fb7c2b11a354d945d90bd152959
+  - id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
+    hash: 44ae36220fc8cbb922ec3e9df8a927460d5a6ab1e26ea205e4747a4aa72c28d8
   - id: da239490-20b5-4903-b1f9-132aa01d680d
     hash: b02f5018c8ccfa78fef2f57aa5b39a520b2d22a144c4c8c7eba902fdf81b1d26
   - id: 5d234ee4-f23d-46a3-b092-b93393d79022
@@ -95,8 +141,6 @@ built_from:
     hash: 676b8e71af4ce4fa6fce19ed92a7a190aea48e30e31d0ae494ee6a71f4c961ae
   - id: cef02576-17a6-41f9-aca9-9837fec0bc4e
     hash: fe96c9066c317e8723d6f393563c8dfeabe154483f863548b950845d95fd6b81
-  - id: 29f3eb21-e21c-42a8-9837-dcc761be0892
-    hash: 02071a839fe212a6c2c58363efec3bbd7555d9fc85c630204515f41df3784f84
   - id: d81f2b04-6d69-4769-a0d0-715cdd8432f7
     hash: eec27e384ce3a27d6ba9d0b83979a29a00b43e198480ddde2785d408e8e31a7e
   - id: fd12ca36-6c57-4484-825b-664185ec0963
@@ -179,14 +223,6 @@ built_from:
     hash: d51e8bd3322dd3b182cc64f01ad9f6a7e646cf7b2e3ec0b5a366e2a771d77f2c
   - id: 48b88a72-6c9e-442c-8ee4-a1de3f5c123d
     hash: 521fa8bb47ba4f56d02bf31c0d6c29e21007960deef32a72d597768f65370470
-  - id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
-    hash: f1a29939fe0880ae2784cf963997f1e19f60f87ef325df2331827b0116d99299
-  - id: c6bd4450-b93c-4c4c-806f-6bdfa10baf36
-    hash: 92697d218168924f54aedc9cdfc3c77e658fa240a11cba1454b269e73184afb9
-  - id: 86acde03-2c78-4459-a2ad-d227d1609f8d
-    hash: 9018544c3ff71e05ad1e89def79e044dd2ac569c00b9cd8cfa85a5d4c7c61eaf
-  - id: a7e3a377-ce5d-4804-b4f5-cec165aebeec
-    hash: b14a0dfb8f770975fd0b4dff54309ac35ad67f32f894a28783e741e6dd79cf38
   - id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
     hash: 3f9721c540ce578092fd2dc5c1b5fef184d9f8e7d9fc45b5b7d51518a9b1fd89
   - id: e9bea6ee-2521-4d29-8ee8-dbfd0da4d7df
@@ -259,14 +295,6 @@ built_from:
     hash: f3b6762ccce8ba012b8ce313c581f53cb9bc3d4f3d6dfc32619a9acb98fcc142
   - id: 7590934f-55e2-4201-8413-9af967a8cfd9
     hash: aeb663e612f54f661e774d1d6a6b3a0350f02ad98b63b29f6bd6e09bb92ca472
-  - id: dae923e5-e17c-4ed2-890c-a7aacda37723
-    hash: a6a186226153bd5a89118d0a49bee9f502f0e492506b9d793d934893b8ac6c58
-  - id: 15f1499b-e14c-4897-b042-0440a1e888f4
-    hash: 9beb85fa630e4f63734309f7fb317b913630892224f17314f8015bce9daae44b
-  - id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
-    hash: 784d50ca3d740ff9f52407d752751261fb7f17da82c676970562fd4f7f674099
-  - id: 7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
-    hash: 05fb6c250c030e51f218376793f83914a7411c98f2227c919b19bd338f1efb42
   - id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
     hash: e235e2fbf3a9695998316ec09b9b549f11e6e92d7b76a7781ffba97ae5a02166
   - id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
@@ -321,16 +349,6 @@ built_from:
     hash: 71dc5d28330069343227be79e10fa735e4a18ab2db3b80f671a406c449f811ae
   - id: d8e243b2-5468-44bb-b552-e1d269594279
     hash: 765c50b2eb7e697af95d69182a70e9367c3b8ae12ab6d9420bfe887671b5d309
-  - id: acbda1e4-b211-49ff-b084-38d5774d1e18
-    hash: 40d32a9d1253a96cce2a529706ef2790159d47c997525e10267443edb5a035a3
-  - id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
-    hash: 42b683adaaa0e2b01d02d74d72722d860406f25a477344aacdd8e79f1545601d
-  - id: 8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-    hash: c9b8beb99eec8cb68d855b8718166712c5a83b8bbea0250e303ded2a5a3ba59a
-  - id: 84446458-da85-4387-9fb6-4288e8fb0821
-    hash: 0b630ed8b402a3a7755d5dfa7199a9a27dc0b15828410791d623675cd4cd9a53
-  - id: a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
-    hash: 3b1882b6a73ea5c16e5eff337fc0e7c868631716c1d52b1cbc0294534e0b3879
   - id: 17cccf5e-79c2-42d9-ba83-1656322e338b
     hash: 4b4bda049d674f06164a605ff8fceea7eef47c9c65aceb95755e312a6438fe4f
   - id: 2a1a3f12-663e-4fe4-b4f9-af78732068ec
@@ -408,7 +426,7 @@ built_from:
   - id: ef659678-d55d-4a57-8d31-ed4f63a08a01
     hash: 1e3ce994568c9a23dc72582af3011a0c4af06afdddb8a4c798e0081373612c5f
 references:
-- text: USAF Chief of Staff established Project Sign in December 1947 to investigate
+- text: Air Force Chief of Staff established Project Sign in December 1947 to investigate
     the first recorded UFO observations
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1302-1511
@@ -419,7 +437,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
-- text: USAF personnel investigated 243 reported UAP sightings between 1947 and 1949
+- text: Air Force personnel investigated 243 reported UAP sightings between 1947 and
+    1949
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1520-1589
   quote: From 1947 to 1949, Air Force personnel investigated 243 reported UAP sightings.
@@ -427,26 +446,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-447d013a-77f2-4f73-a343-741ae02dda20
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-447d013a-77f2-4f73-a343-741ae02dda20
-- text: USAF studied UAP in 1948 and 1949 under Project Sign and Project Grudge
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:27859-27984
-  quote: The Air Force had studied UAP in 1948 and 1949, under the auspices of two
-    year-old studies known as Project Sign and Project Grudge.
-  claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
-- text: Since 1969, official US military position has been that UFOs pose no threat
-    and are not worthy of further study
-  source: Statement to Congress
-  location: char:1565-1691
-  quote: Since 1969, the position of our military has been that UFOs pose no threat
-    to national security and are not worthy of further study.
-  claim_id: da239490-20b5-4903-b1f9-132aa01d680d
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
-- text: In 1952, USAF Director of Intelligence initiated Project Blue Book to investigate
-    UFOs
+- text: Air Force Director of Intelligence initiated Project Blue Book in 1952 to
+    investigate UFOs
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1600-1716
   quote: In 1952, the U.S. Air Force Director of Intelligence initiated PROJECT BLUE
@@ -455,19 +456,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
-- text: Major General Charles P. Cabell established Project BLUE BOOK to study UFO
-    phenomena
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:41609-41716
-  quote: USAF Director of Intelligence, Major General Charles P. Cabell, established
-    Project BLUE BOOK to study UFO phenomena.
-  claim_id: acbda1e4-b211-49ff-b084-38d5774d1e18
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
-- text: Between 1952 and 1969, USAF personnel investigated over 12,000 reported UFO
-    sightings
+- text: Air Force personnel investigated over 12,000 reported UFO sightings between
+    1952 and 1969
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1725-1802
   quote: Between 1952 and 1969, Air Force personnel investigated over 12,000 reported
@@ -476,17 +466,40 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a38255b6-11cf-4643-850e-28567b670f7a
-- text: USAF recorded 12,618 UFO sightings between 1947 and 1969
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:42084-42146
-  quote: The USAF recorded 12,618 UFO sightings between the years 1947-1969.
-  claim_id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
-- text: Hynek was lead scientist in charge of USAF's official UAP investigation team,
-    Project Blue Book
+- text: Of the more than 12,000 sightings investigated, 701 remained unexplained
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:6818-6840
+  quote: although 701 remained unexplained
+  claim_id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
+- text: The Air Force publicly announced termination of Project Blue Book on 1969-12-17,
+    while covertly continuing to investigate better civilian sightings under JANAP
+    146
+  source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+  location: 00:13:44.3-00:14:18.7
+  quote: in December of 1969, December 17, 1969, the United States Air Force again
+    told the public that it had terminated its UFO program and now covertly investigates
+    the better civilian sightings and concentrates mostly on government source control
+    cases and airline pilot cases under the order JANAP 146, a Joint Army Air Force
+    Navy order, which outlines what military civilian pilots are supposed to do when
+    they see a UFO sighting.
+  claim_id: c8006b06-843a-4738-83af-8cc16f737b0e
+  record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
+  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-c8006b06-843a-4738-83af-8cc16f737b0e
+- text: The Air Force Secretary announced in December 1969 that Project Blue Book
+    had been terminated
+  source: In Plain Sight
+  location: ch10:23585-23735
+  quote: A little over a year later, it was all over; in December 1969, the Air Force
+    Secretary announced Project Blue Book had been terminated.
+  claim_id: 84890d08-c552-4355-b806-a179d2225b6a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84890d08-c552-4355-b806-a179d2225b6a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-84890d08-c552-4355-b806-a179d2225b6a
+- text: J. Allen Hynek was the lead scientist in charge of Project Blue Book, the
+    Air Force's official UAP investigation team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23155
   quote: Dr. J. Allen Hynek, the lead scientist in charge of the Air Force's official
@@ -495,104 +508,19 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
-- text: Hynek was the USAF's expert on UFO matters
-  source: THE INVISIBLE COLLEGE
-  location: ch8:22310-22365
-  quote: Dr. J. Allen Hynek, the U.S. Air Force’s expert on UFO matters
-  claim_id: b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
-- text: Vallée organised Hynek's Project Blue Book papers as a young researcher
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch18:15187-15299
-  quote: As a young researcher, Vallée worked with and organized the papers of Dr.
-    Hynek of the Air Force’s Project Blue Book.
-  claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
-- text: Vallée examined 10,000 UFO reports in USAF files
-  source: THE INVISIBLE COLLEGE
-  location: ch8:22603-22733
-  quote: I examined the 10,000 reports contained at that time in the files of the
-    USAF, spending four years in sorting the signal from the noise.
-  claim_id: 8510410e-ddb1-42d1-a76a-f05b5158fdda
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8510410e-ddb1-42d1-a76a-f05b5158fdda
-- text: Vallée visited the Foreign Technology Division at Wright-Patterson AFB, where
-    USAF centralised UFO data
-  source: THE INVISIBLE COLLEGE
-  location: ch8:22740-22865
-  quote: I visited the Foreign Technology Division of Wright-Patterson Air Force Base,
-    where the Air Force centralized its “official” data.
-  claim_id: cef02576-17a6-41f9-aca9-9837fec0bc4e
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cef02576-17a6-41f9-aca9-9837fec0bc4e
-- text: Secretary of the Air Force Seamans announced Project BLUE BOOK's termination
-    on 1969-12-17
+- text: J. Allen Hynek said the Air Force expected him to perform the role of debunker
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
-  location: char:45196-45304
-  quote: Secretary of the Air Force Robert C. Seamans, Jr. announced Project BLUE
-    BOOK's termination on December 17, 1969.
-  claim_id: 8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
+  location: char:112735-112827
+  quote: J. Allen Hynek of Project BLUE BOOK, said that the USAF expected him to perform
+    the role of debunker
+  claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-- text: AARO partnered with the National Archives to examine Project BLUE BOOK records
-    spanning 1947-1969
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:45410-45542
-  quote: AARO partnered with the U.S. National Archives to examine the records from
-    the USAF's Project BLUE BOOK, which spanned from 1947 to 1969.
-  claim_id: 84446458-da85-4387-9fb6-4288e8fb0821
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-84446458-da85-4387-9fb6-4288e8fb0821
-- text: Project BLUE BOOK files are populated overwhelmingly with USAF documentation
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:45706-45847
-  quote: The vast majority of the files are populated with USAF documentation. Some
-    cases contain media clippings and images, but these instances are rare.
-  claim_id: a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
-- text: For many decades, USAF carried out a disinformation campaign to discredit
-    sightings
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:3623-3740
-  quote: For many decades, the Air Force carried out a disinformation campaign to
-    discredit reported sightings of unexplained objects.
-  claim_id: ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
-- text: USAF implemented a public-affairs campaign to persuade the public UFOs were
-    nothing unusual
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:31627-31830
-  quote: The USAF subsequently implemented a public affairs campaign designed to persuade
-    the public that UFOs constituted nothing unusual or extraordinary. The stated
-    goal of this effort was to alleviate public anxiety.
-  claim_id: 7cb8586a-65a8-48b0-a7f9-57bb0101277a
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7cb8586a-65a8-48b0-a7f9-57bb0101277a
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7cb8586a-65a8-48b0-a7f9-57bb0101277a
-- text: Early Project Blue Book explained strange craft as 'flights of wild geese'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch13:29544-29710
-  quote: In the early days of Project Blue Book, the U.S. Air Force explained away
-    as “flights of wild geese” observations of strange craft reported by military
-    personnel and civilians.
-  claim_id: a8c76705-99ba-4d2a-8b82-92e3d560fad0
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a8c76705-99ba-4d2a-8b82-92e3d560fad0
-- text: Ruppelt wrote he was expected to explain away every report and produce aligned
-    press stories
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
+- text: Edward Ruppelt, first chief of Project Blue Book, wrote he was expected to
+    explain away every report and that the Air Force sought to produce aligned press
+    stories
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
   location: char:112841-113026
@@ -603,157 +531,20 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
-- text: Hynek said USAF expected him to perform the role of debunker
+- text: The Air Force subsequently implemented a public affairs campaign to persuade
+    the public UFOs were nothing unusual, to alleviate public anxiety
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
-  location: char:112735-112827
-  quote: J. Allen Hynek of Project BLUE BOOK, said that the USAF expected him to perform
-    the role of debunker
-  claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
+  location: char:31627-31830
+  quote: The USAF subsequently implemented a public affairs campaign designed to persuade
+    the public that UFOs constituted nothing unusual or extraordinary. The stated
+    goal of this effort was to alleviate public anxiety.
+  claim_id: 7cb8586a-65a8-48b0-a7f9-57bb0101277a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
-- text: 'Harry Turner: in 1953 AFOSI persuaded USAF to use Blue Book to debunk UFOs
-    publicly'
-  source: In Plain Sight
-  location: ch11:1921-2112
-  quote: He asserted that in 1953 the US Air Force Office of Special Investigations
-    persuaded the US Air Force to use the Project Blue Book investigation into UAPs
-    as a 'means of publicly "debunking" UFOs'
-  claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
-- text: 'MacDonald: expertise existed at USAF''s disposal but unused for 15 years'
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:22:13.6-00:22:20.3
-  quote: There is expertise at the disposal of the American Air Force, but when you
-    go digging, as I have, you find it just isn't being used and hasn't been used
-    for 15 years.
-  claim_id: 3169520c-7675-422f-a8c8-e9d2cd54b0d9
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3169520c-7675-422f-a8c8-e9d2cd54b0d9
-- text: Project Blue Book in 1967 consisted of a major, a sergeant and a secretary
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:22:20.7-00:22:27.8
-  quote: Project Blue Book consists of three people at present. The American Air Force
-    Investigatory Program is a major, a sergeant, and a secretary.
-  claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
-- text: Project Blue Book had been operating about 14 years as of 1967
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:31:53.0-00:31:58.9
-  quote: the American Air Force investigation Project Blue Book which has been in
-    operation for about 14 years
-  claim_id: 1ec3566f-8d5a-4ae8-b231-213f9a6a843a
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-1ec3566f-8d5a-4ae8-b231-213f9a6a843a
-- text: Official USAF position was that UFOs were 'a lot of nonsense' and a burdensome
-    duty
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:22:01.0-00:22:07.3
-  quote: The official position is that it's a lot of nonsense, burdensome duty that
-    the Air Force is unable to get away with.
-  claim_id: b9de2c1f-5288-4d59-8eaa-59315cf144e2
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b9de2c1f-5288-4d59-8eaa-59315cf144e2
-- text: 'MacDonald: USAF press releases stressed thoroughness, claimed only 2-3% of
-    cases unknown'
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:32:51.3-00:33:06.2
-  quote: the kind of press releases that are put out about the great expertise that's
-    used, the thorough investigations, and the indication that there are only two
-    or three percent of unknowns, and probably those would be explained, the Air Force
-    insists, if they add a little more data.
-  claim_id: 54cf5294-9333-4a92-aeae-2b53d77833aa
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-54cf5294-9333-4a92-aeae-2b53d77833aa
-- text: 'Ed Dames: USAF intelligence chief of staff disbelieved Project Stargate''s
-    remote viewers'
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE'
-  location: 00:36:28.3-00:36:35.0
-  quote: chief of staff for intelligence for the u.s air force though they he did
-    not believe it what that we could do what we could do
-  claim_id: 78da8186-b6cb-4ffd-be55-ce4b2cada464
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-78da8186-b6cb-4ffd-be55-ce4b2cada464
-- text: Area 51 first acquired by USAF in 1955 to develop the U-2 spy plane
-  source: In Plain Sight
-  location: ch13:9486-9578
-  quote: First acquired by the air force in 1955 for developing aerospace company
-    Lockheed's U-2 spy plane
-  claim_id: a7e3a377-ce5d-4804-b4f5-cec165aebeec
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7e3a377-ce5d-4804-b4f5-cec165aebeec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7e3a377-ce5d-4804-b4f5-cec165aebeec
-- text: Area 51 renamed Air Force Flight Test Center, Detachment 3 after USAF took
-    over in late 1980s
-  source: Project Serpo
-  location: char:16633-16773
-  quote: 'After the Air Force took over in the late 1980s, the name Area 51 was officially
-    changed to: AIR FORCE FLIGHT TEST CENTER, DETACHMENT 3'
-  claim_id: a6484201-0c92-4ce2-b223-25989a16b8a1
-  record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
-  workbench_url: http://localhost:5173/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-a6484201-0c92-4ce2-b223-25989a16b8a1
-- text: USAF built an underground facility at Groom Lake during the late 1950s
-  source: Project Serpo
-  location: char:3496-3573
-  quote: During this time frame, the Air Force built an underground facility at Groom
-    Lake.
-  claim_id: 7b15f9d6-87fd-41cb-9248-f2dc1b3083be
-  record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
-  workbench_url: http://localhost:5173/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-7b15f9d6-87fd-41cb-9248-f2dc1b3083be
-- text: Christopher Mellon monitored Area 51 for the Senate Intelligence Committee
-  source: In Plain Sight
-  location: ch13:9266-9479
-  quote: One of the top-secret Department of Defense sites Mellon monitored for the
-    Senate Intelligence Committee was Area 51, a highly secure US Air Force facility
-    within the massive Nevada test range.
-  claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
-- text: 4602d AISS ran a secret project recovering unidentified objects and debris
-    worldwide
-  source: In Plain Sight
-  location: ch10:814-991
-  quote: The 4602d AISS ran a secret project in which the US Air Force deployed covert
-    quick reaction intelligence teams around the world to recover unidentified objects
-    and debris from space.
-  claim_id: 1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
-- text: In 1958, USAF and CIA began a top-secret programme to collect intelligence
-    from space
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:10:44.3-00:10:55.1
-  quote: In 1958, with presidential authorization, the Air Force and the CIA began
-    working on a top secret program to develop systems to collect intelligence from
-    space.
-  claim_id: 580ce5cd-50f7-4b83-80de-d8c374b2efc1
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-580ce5cd-50f7-4b83-80de-d8c374b2efc1
-- text: The Robertson Panel reviewed all USAF data and found most reports had ordinary
-    explanations
-  source: Report on the Historical Record of U.S. Government Involvement with UAP,
-    Volume I
-  location: char:39808-39886
-  quote: The panel reviewed all USAF data and concluded that most reports had ordinary
-    explanations.
-  claim_id: d8e243b2-5468-44bb-b552-e1d269594279
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d8e243b2-5468-44bb-b552-e1d269594279
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d8e243b2-5468-44bb-b552-e1d269594279
-- text: Condon and his team were recruited by USAF to produce an independent UAP investigation,
-    the Condon Report
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7cb8586a-65a8-48b0-a7f9-57bb0101277a
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7cb8586a-65a8-48b0-a7f9-57bb0101277a
+- text: Edward Condon and his team were recruited by the Air Force to conduct an independent
+    investigation into UAP that became the Condon Report
   source: In Plain Sight
   location: ch10:22675-22790
   quote: Dr Edward Condon and his team of scientists had been recruited by the air
@@ -762,8 +553,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
-- text: The Condon Report gave USAF the justification it sought to end Project Blue
-    Book
+- text: The Condon Report gave the Air Force the justification it was seeking to end
+    Project Blue Book
   source: In Plain Sight
   location: ch10:23334-23432
   quote: The Condon Report gave the US Air Force the excuse it was looking for to
@@ -772,128 +563,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df697174-c6da-413d-86bb-2e929fc78fcc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df697174-c6da-413d-86bb-2e929fc78fcc
-- text: Strieber found no evidence of disciplinary action against officers involved
-    in the Roswell press release
-  source: Communion
-  location: ch14:19206-19390
-  quote: Strangely, based on the service information I was able to obtain from the
-    Air Force, I found no evidence of disciplinary action taken against any of the
-    officers involved in the press release.
-  claim_id: a0dd1bc4-9494-427e-b1be-e37011ca9825
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a0dd1bc4-9494-427e-b1be-e37011ca9825
-- text: Strieber concluded competent Air Force officers caused the press release,
-    only later trying to change the story
-  source: Communion
-  location: ch14:19519-19833
-  quote: The inescapable fact of the Roswell affair is that a group of professionally
-    competent Air Force officers caused the publication of a press release claiming
-    that the Air Force had recovered a crashed fling disk, after observing the debris.
-    Only after this' release was published was any ahem pt made to change the story.
-  claim_id: 1abaa6b1-e272-4cf6-9d3d-6483bf7ece12
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-1abaa6b1-e272-4cf6-9d3d-6483bf7ece12
-- text: McCasland ran AFRL at Wright-Patterson, where Roswell wreckage was rumoured
-    taken
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:33:42.2-00:33:55.7
-  quote: Neil McCasland, uh, is a general who ran the lab where the Roswell wreckage
-    was rumored to have been taken at Wright Patterson. And he ran the, the, the air
-    force research laboratory.
-  claim_id: ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
-- text: Keyhoe claimed Air Force officials had retrieved crashed alien vehicles
-  source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
-  location: 00:11:00.8-00:11:08.5
-  quote: He suggested that the US government was hiding the truth and claimed that
-    high-level insiders like Air Force officials had retrieved crashed alien vehicles.
-  claim_id: 8b48f5b7-a8d1-4727-94aa-94a31028ce05
-  record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-8b48f5b7-a8d1-4727-94aa-94a31028ce05
-- text: 'Coulthart: leadership, perhaps USAF or the legacy programme, decided Strieber
-    needed a briefing'
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:45:17.7-00:45:27.2
-  quote: One assumes that a decision was made somewhere in the leadership, perhaps
-    in the US Air Force or the legacy program, that you needed a briefing after you
-    published communion in the 80s.
-  claim_id: 4ade0568-5694-4ff1-b71a-7ccfe25d26b2
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4ade0568-5694-4ff1-b71a-7ccfe25d26b2
-- text: Thomas Wilson noted Eric Davis's Air Force background check came back clear
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:10670-10756
-  quote: '- Background check clear - no derogatory items found
-
-    - Korean record good and AF trusts you'
-  claim_id: 7a8c0733-8517-44f0-82eb-8aec31c24554
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7a8c0733-8517-44f0-82eb-8aec31c24554
-- text: USAF and USN at forefront of developing UAP reporting policies
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: char:1037-1158
-  quote: Also, the Air Force and Navy have been at the forefront of developing policies,
-    procedures, and mechanisms for reporting UAP.
-  claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-- text: USAF designated UAP a 'Special Interest Item' on 2022-04-08, requiring 24-hour
-    aircrew reporting via Marauder
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: char:15061-15403
-  quote: For example, an Air Force Remotely Piloted Aircraft and Airborne Intelligence,
-    Surveillance, and Reconnaissance Technical Advisor stated that the Air Force designated
-    UAP as a "Special Interest Item," which requires aircrews to document and report
-    UAP observations within 24 hours of engine shutdown and mission completion using
-    the Marauder system.
-  claim_id: f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
-- text: Army personnel use USAF's Marauder system, having no UAP-specific process
-    of its own
-  source: Unclassified Summary of Report No. DODIG-2023-109
-  location: char:15935-16164
-  quote: An Army Senior Advisor for Science and Technology and Innovation stated that
-    Army personnel also use the Air Force's Marauder system to document and report
-    UAP observations because the Army has not developed its own UAP-specific processes.
-  claim_id: 161228c9-a9aa-400d-b773-71535b27d3e0
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-161228c9-a9aa-400d-b773-71535b27d3e0
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-161228c9-a9aa-400d-b773-71535b27d3e0
-- text: As of 2023, USAF less forthcoming than other agencies on UAP
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:15583-15671
-  quote: It is unusual for an Air Force insider to come forward, as the Air Force
-    has been less forthcoming than other agencies with regard to UAP.
-  claim_id: 4c7385be-d2df-4f2c-b91a-c11acc0989ce
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4c7385be-d2df-4f2c-b91a-c11acc0989ce
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4c7385be-d2df-4f2c-b91a-c11acc0989ce
-- text: Preliminary Assessment report focused on USN reports, stating USAF information
-    not yet available
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:22990-23087
-  quote: The report focused primarily on Navy reports, and claimed that Air Force
-    information was not yet available
-  claim_id: 7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
-- text: Grusch is a USAF veteran with awards for covert and clandestine operations
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:6248-6394
-  quote: A veteran of the Air Force, he has numerous awards and decorations for his
-    participation in covert and clandestine operations to advance American security.
-  claim_id: 5a666128-d919-4640-a07c-8f9212bc4241
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5a666128-d919-4640-a07c-8f9212bc4241
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5a666128-d919-4640-a07c-8f9212bc4241
-- text: Grusch served 14 years as an intelligence officer, USAF active-duty and ANG/Reserve,
-    rank of Major
+- text: David Grusch was a US Air Force intelligence officer for 14 years, reaching
+    the rank of Major
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:36267-36589
@@ -906,8 +577,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-01d50f41-2216-452f-862d-01ee552943fa
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-01d50f41-2216-452f-862d-01ee552943fa
-- text: Grusch was on the UAP Task Force 2019-2021 in an NRO reservist capacity within
-    USAF
+- text: David Grusch was a member of the UAP Task Force from 2019 to 2021 in a National
+    Reconnaissance Office reservist capacity within the Air Force
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:38214-38347
@@ -917,7 +588,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
-- text: USAF unsuccessfully tried to file an Espionage Act complaint against Grusch
+- text: The Air Force unsuccessfully tried to file an Espionage Act unauthorised disclosure
+    complaint against Grusch when he went public
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:15:16.4-00:15:27.4
   quote: What I talked about in the June 9 presser is the Air Force did unsuccessfully
@@ -926,7 +598,8 @@ references:
   claim_id: 019a1a79-241e-4aff-9dc5-4428aa94d72f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-019a1a79-241e-4aff-9dc5-4428aa94d72f
-- text: Grusch resigned his USAF commission foreseeing such an attack
+- text: Grusch resigned his Air Force officer commission because he foresaw an attack
+    of that nature
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:15:30.7-00:15:36.8
   quote: unfortunately I had to resign. my Air Force officer commissioned because
@@ -934,16 +607,8 @@ references:
   claim_id: 7c06b84d-4f76-4ff3-bf9a-677f5b75213b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
-- text: Grusch missed promotion to lieutenant colonel in the USAF Reserve
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:15:52.8-00:15:59.5
-  quote: So I had to essentially kill my career and miss my promotion to lieutenant
-    colonel in the Air Force Reserve.
-  claim_id: 28a32c50-8fb3-4cc3-8033-c642e1283425
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-28a32c50-8fb3-4cc3-8033-c642e1283425
-- text: 'Elizondo: from joining the team, USAF was stubbornly and mysteriously uncooperative
-    on UAP'
+- text: From the moment Elizondo joined the team, the Air Force was stubbornly and
+    mysteriously uncooperative on the topic of UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:1851-1984
   quote: From the moment I came on board the team, I learned that the Air Force was
@@ -952,8 +617,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8215a43e-8dc3-4109-be41-9527592bb49c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8215a43e-8dc3-4109-be41-9527592bb49c
-- text: Elizondo's team's emails to USAF liaisons on UAP incidents were denied or
-    ignored
+- text: Elizondo's team sent carefully crafted emails to Air Force liaisons requesting
+    information on UAP incidents, and the requests were repeatedly denied or ignored
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:2029-2219
   quote: I cannot enumerate the times we sent carefully crafted emails to Air Force
@@ -963,41 +628,153 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-324d401c-3c7e-4d4b-b06c-e0f8c224e18e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-324d401c-3c7e-4d4b-b06c-e0f8c224e18e
-- text: AFOSI agents told Elizondo a walk-in contractor claiming invisibility tech
-    actually worked for USAF
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch11:21710-21812
-  quote: '"That guy actually works for us, and we need whatever file you have on him."
-    ... "He is a contractor for one of our most sensitive technologies."'
-  claim_id: df2b0c30-9cb6-421e-916f-507732850e7b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-df2b0c30-9cb6-421e-916f-507732850e7b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-df2b0c30-9cb6-421e-916f-507732850e7b
+- text: The Air Force and Navy have been at the forefront of developing policies,
+    procedures and mechanisms for reporting UAP
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: char:1037-1158
+  quote: Also, the Air Force and Navy have been at the forefront of developing policies,
+    procedures, and mechanisms for reporting UAP.
+  claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+- text: The Air Force designated UAP a 'Special Interest Item', requiring aircrews
+    to document and report UAP observations within 24 hours of engine shutdown, using
+    the Marauder system
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: char:15061-15403
+  quote: For example, an Air Force Remotely Piloted Aircraft and Airborne Intelligence,
+    Surveillance, and Reconnaissance Technical Advisor stated that the Air Force designated
+    UAP as a "Special Interest Item," which requires aircrews to document and report
+    UAP observations within 24 hours of engine shutdown and mission completion using
+    the Marauder system.
+  claim_id: f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+- text: As of 2023, the Air Force has been less forthcoming than other agencies regarding
+    UAP
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:15583-15671
+  quote: It is unusual for an Air Force insider to come forward, as the Air Force
+    has been less forthcoming than other agencies with regard to UAP.
+  claim_id: 4c7385be-d2df-4f2c-b91a-c11acc0989ce
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4c7385be-d2df-4f2c-b91a-c11acc0989ce
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4c7385be-d2df-4f2c-b91a-c11acc0989ce
+- text: For many decades, the Air Force carried out a disinformation campaign to discredit
+    reported sightings of unexplained objects
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:3623-3740
+  quote: For many decades, the Air Force carried out a disinformation campaign to
+    discredit reported sightings of unexplained objects.
+  claim_id: ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
+- text: David Grusch is a veteran of the Air Force with numerous awards and decorations
+    for participation in covert and clandestine operations
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:6248-6394
+  quote: A veteran of the Air Force, he has numerous awards and decorations for his
+    participation in covert and clandestine operations to advance American security.
+  claim_id: 5a666128-d919-4640-a07c-8f9212bc4241
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5a666128-d919-4640-a07c-8f9212bc4241
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5a666128-d919-4640-a07c-8f9212bc4241
+- text: The chief of staff for intelligence of the Air Force did not believe Project
+    Stargate's remote viewers could do what they claimed
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE'
+  location: 00:36:28.3-00:36:35.0
+  quote: chief of staff for intelligence for the u.s air force though they he did
+    not believe it what that we could do what we could do
+  claim_id: 78da8186-b6cb-4ffd-be55-ce4b2cada464
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-78da8186-b6cb-4ffd-be55-ce4b2cada464
+- text: The 4602d Air Intelligence Service Squadron ran a secret project deploying
+    covert quick reaction intelligence teams around the world to recover unidentified
+    objects and debris
+  source: In Plain Sight
+  location: ch10:814-991
+  quote: The 4602d AISS ran a secret project in which the US Air Force deployed covert
+    quick reaction intelligence teams around the world to recover unidentified objects
+    and debris from space.
+  claim_id: 1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
+- text: James E. McDonald said the official Air Force position on UFOs is that the
+    subject is nonsense and a burdensome duty it cannot get away from
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour
+  location: 00:22:01.0-00:22:07.3
+  quote: The official position is that it's a lot of nonsense, burdensome duty that
+    the Air Force is unable to get away with.
+  claim_id: b9de2c1f-5288-4d59-8eaa-59315cf144e2
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b9de2c1f-5288-4d59-8eaa-59315cf144e2
+- text: McDonald found that expertise to examine the UFO problem existed at the Air
+    Force's disposal but had not been used for 15 years
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour
+  location: 00:22:13.6-00:22:20.3
+  quote: There is expertise at the disposal of the American Air Force, but when you
+    go digging, as I have, you find it just isn't being used and hasn't been used
+    for 15 years.
+  claim_id: 3169520c-7675-422f-a8c8-e9d2cd54b0d9
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3169520c-7675-422f-a8c8-e9d2cd54b0d9
+- text: 'In 1967, Project Blue Book consisted of three people: a major, a sergeant
+    and a secretary'
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour
+  location: 00:22:20.7-00:22:27.8
+  quote: Project Blue Book consists of three people at present. The American Air Force
+    Investigatory Program is a major, a sergeant, and a secretary.
+  claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
+- text: J. Allen Hynek was the Air Force's expert on UFO matters
+  source: THE INVISIBLE COLLEGE
+  location: ch8:22310-22365
+  quote: Dr. J. Allen Hynek, the U.S. Air Force’s expert on UFO matters
+  claim_id: b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
+- text: The files of Project Blue Book were transferred into Air Force archives; though
+    unclassified, the building holding them requires a security clearance to enter
+  source: THE INVISIBLE COLLEGE
+  location: ch10:22247-22484
+  quote: The files of Project Blue Book have now been transferred into the Air Force
+    archives. The files are not classified but the building is, with the interesting
+    result that one needs a security clearance in order to see these "unclassified"
+    papers.
+  claim_id: d00225bd-2b46-4183-bc1b-86235f9a2f03
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d00225bd-2b46-4183-bc1b-86235f9a2f03
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 98b6e31d8e6b5747bcff01122c5f1c8e5b07077c631c8fa6065d538fac0cd07c
+  prompt_sha256: 0bfe680e08853972fb0f7dda09282474fd5f1c64cddb5e5435b6ed0a3a5b4549
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 462855
-    output: 176655
-    real_input: 8
-    cache_read: 217574
-    cache_write: 245273
+    input: 365727
+    output: 75448
+    real_input: 6
+    cache_read: 179336
+    cache_write: 186385
     calls: 0
-  body_sha256: 05c1a05ede636ac63b641ee45e8093f555d8ccea6582764647710732397c4ad1
+  body_sha256: 7bdad8c3e01c01342925ff3909f13e5d0ca77105f0e5c9039c13075f3546c7e9
 ---
 
-In December 1947, the United States Air Force (USAF) Chief of Staff established [Project Sign](/projects/project-sign) to investigate the first recorded observations of [Unidentified Flying Objects (UFO)](/topics/unidentified-flying-object-ufo).<sup>1</sup> Between 1947 and 1949, USAF personnel investigated 243 reported [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) sightings<sup>2</sup> under Project Sign and its successor, Project Grudge.<sup>3</sup> Since 1969, the official position of the United States military has been that UFOs pose no threat to national security and are not worthy of further study.<sup>4</sup>
+The United States Air Force (USAF) is the branch of the US armed forces responsible for air and space operations, and the agency most directly associated with the government's decades-long investigation of unidentified flying objects. Its formal engagement with the subject began in December 1947, when the Air Force Chief of Staff established [Project Sign](/projects/project-sign) to look into the first recorded observations of what were then called Unidentified Flying Objects (UFO).<sup>1</sup> Between 1947 and 1949 the Air Force investigated 243 reported cases.<sup>2</sup> In 1952 its Director of Intelligence launched a successor programme, [Project Blue Book](/projects/project-blue-book), which by the time it closed in 1969 had investigated more than 12,000 sightings,<sup>3,4</sup> of which 701 remained officially unexplained.<sup>5</sup> The Air Force announced the programme's termination on 1969-12-17, publicly ending its UFO investigations while covertly continuing to track better civilian and military-pilot sightings under a joint order known as JANAP 146.<sup>6</sup> The Secretary of the Air Force confirmed the closure the same month.<sup>7</sup>
 
-In 1952,<sup>5</sup> the USAF Director of Intelligence, Major General Charles P. Cabell, established [Project Blue Book](/projects/project-blue-book)<sup>6</sup> to continue the investigation of UFO reports. Between 1952 and 1969, USAF personnel investigated more than 12,000 reported UFO sightings,<sup>7</sup> a total later recorded as 12,618 sightings across the full 1947-1969 period.<sup>8</sup> [J. Allen Hynek](/people/j-allen-hynek) served as the project's lead scientist<sup>9</sup> and was regarded as the USAF's expert on UFO matters.<sup>10</sup> [Jacques Vallée](/people/jacques-vallee), working as a young researcher, helped organise Hynek's Project Blue Book papers<sup>11</sup> and later examined 10,000 of the project's UFO reports himself,<sup>12</sup> visiting the Foreign Technology Division at [Wright-Patterson Air Force Base](/places/ohio-wright-patterson-air-force-base-usa), where the USAF centralised its official UFO data.<sup>13</sup> Project Blue Book was terminated on 1969-12-17, when Secretary of the Air Force Robert C. Seamans, Jr. announced its closure.<sup>14</sup> The All-domain Anomaly Resolution Office ([AARO](/organisations/all-domain-anomaly-resolution-office-aaro)) later partnered with the National Archives to examine the project's records, which span 1947 to 1969,<sup>15</sup> and which are populated overwhelmingly with USAF documentation.<sup>16</sup>
+The scientific face of Project Blue Book was [J. Allen Hynek](/people/j-allen-hynek), an astronomer who served as the programme's lead scientific consultant.<sup>8</sup> Hynek later said the Air Force expected him to perform the role of debunker,<sup>9</sup> and Edward J. Ruppelt, the programme's first chief, wrote that he too was expected to explain away every report and that the Air Force sought press coverage aligned with its official position.<sup>10</sup> The Air Force subsequently ran a public affairs campaign intended to persuade the public that UFOs were nothing unusual, with the stated aim of easing public anxiety.<sup>11</sup> In the late 1960s the Air Force recruited physicist [Edward U. Condon](/people/edward-u-condon) and a team of scientists to conduct what was billed as an independent investigation, producing the [Condon Report](/documents/condon-report).<sup>12</sup> That report gave the Air Force the justification it was seeking to close Project Blue Book down.<sup>13</sup> The programme's files were later transferred into Air Force archives; although the papers themselves are unclassified, the building that holds them requires a security clearance to enter.<sup>14</sup>
 
-USAF's public-facing conduct toward UFO reports drew sustained criticism. For many decades, the USAF carried out a disinformation campaign to discredit reported sightings of unexplained objects,<sup>17</sup> and it subsequently implemented a public-affairs campaign designed to persuade the public that UFOs constituted nothing unusual, with the stated goal of alleviating public anxiety.<sup>18</sup> In the early days of Project Blue Book, the USAF explained away observations of strange craft as "flights of wild geese."<sup>19</sup> [Edward Ruppelt](/people/edward-ruppelt), the first chief of Project Blue Book, later wrote that he was expected to explain away every report and that the USAF sought to produce press stories aligned with its position,<sup>20</sup> and Hynek said the USAF expected him to perform the role of debunker.<sup>21</sup> [Harry Turner](/people/harry-turner) asserted that in 1953 the [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi) persuaded the USAF to use the Project Blue Book investigation as a means of publicly debunking UFOs.<sup>22</sup> [James MacDonald](/people/james-macdonald), who investigated the UFO phenomenon in 1967, found that expertise existed at the USAF's disposal to examine the problem but that it had not been used for 15 years,<sup>23</sup> and that Project Blue Book then consisted of just three people - a major, a sergeant and a secretary<sup>24</sup> - after roughly 14 years in operation.<sup>25</sup> He said the official USAF position was that the subject was "a lot of nonsense" and a burdensome duty the Air Force was unable to get away from,<sup>26</sup> and that the USAF issued press releases emphasising the thoroughness of its investigations while indicating that only two or three per cent of cases were unknowns, which it insisted would probably be explained with a little more data.<sup>27</sup> [Ed Dames](/people/ed-dames) recounted that the chief of staff for intelligence of the USAF did not believe that Project Stargate's remote viewers could do what they claimed.<sup>28</sup>
+The Air Force's UFO work extended beyond Blue Book into more compartmented channels. The 4602d Air Intelligence Service Squadron ran a project deploying covert quick-reaction intelligence teams worldwide to recover unidentified objects and debris.<sup>15</sup> The Air Force's chief of intelligence staff was reportedly sceptical of the CIA-run Project Stargate remote-viewing programme, doubting its psychics could do what they claimed.<sup>16</sup> Physicist [James MacDonald](/people/james-macdonald), touring Australia in 1967, said the Air Force's official position treated the UFO subject as nonsense and an unwanted burden,<sup>17</sup> and found that expertise existed within the Air Force to examine the problem properly but had gone unused for 15 years.<sup>18</sup> By 1967, he noted, Project Blue Book's staff had shrunk to three people: a major, a sergeant and a secretary.<sup>19</sup>
 
-The USAF also administered classified facilities and cooperated with other agencies on programmes tangential to UAP research. [USA, Nevada, Area 51](/places/nevada-area-51-usa) was first acquired by the USAF in 1955 for developing Lockheed's U-2 spy plane,<sup>29</sup> and after the USAF took over the site in the late 1980s it was officially renamed Air Force Flight Test Center, Detachment 3.<sup>30</sup> During the late 1950s the USAF built an underground facility at Groom Lake.<sup>31</sup> [Christopher K. Mellon](/people/christopher-k-mellon) monitored Area 51 for the Senate Intelligence Committee.<sup>32</sup> Separately, the 4602d Air Intelligence Service Squadron ran a secret project in which the USAF deployed covert quick-reaction intelligence teams around the world to recover unidentified objects and debris from space.<sup>33</sup> In 1958, with presidential authorisation, the USAF and the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) began working on a top-secret programme to develop systems for collecting intelligence from space.<sup>34</sup> According to the Report on the Historical Record of U.S. Government Involvement with UAP, the [Robertson Panel](/projects/robertson-panel) reviewed all USAF UFO data and concluded that most reports had ordinary explanations.<sup>35</sup>
+In the modern era, the Air Force resurfaces repeatedly in accounts of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) and [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) reporting and disclosure. Alongside the [United States Navy (USN)](/organisations/united-states-navy-usn), it has been described as at the forefront of developing policy for reporting UAP,<sup>20</sup> designating UAP a "Special Interest Item" that requires aircrews to document and report sightings within 24 hours of engine shutdown, using a system called Marauder.<sup>21</sup> Even so, as of 2023 the Air Force had been described as less forthcoming than other agencies on the subject,<sup>22</sup> and reporting has characterised it as having run a disinformation campaign for many decades to discredit sightings of unexplained objects.<sup>23</sup> [Luis Elizondo](/people/luis-elizondo) said that from the moment he joined his Pentagon UAP-related team, the Air Force was stubbornly and mysteriously uncooperative,<sup>24</sup> and that his team's requests to Air Force liaisons for information on incidents were repeatedly denied or ignored.<sup>25</sup>
 
-Edward Condon and his team of scientists were recruited by the USAF to conduct an objective and independent investigation into UAP that became the [Condon Report](/documents/condon-report).<sup>36</sup> According to In Plain Sight, the Condon Report gave the USAF the justification it was seeking to end Project Blue Book.<sup>37</sup> In relation to the [Roswell incident (1947)](/events/roswell-incident-1947), [Whitley Strieber](/people/whitley-strieber) found no evidence, based on service information obtained from the Air Force, of disciplinary action taken against any of the officers involved in the Roswell press release,<sup>38</sup> and concluded that a group of professionally competent Air Force officers had caused the press release to be published after observing the debris, with any attempt to change the story coming only after publication.<sup>39</sup> General William Neal McCasland later ran the Air Force Research Laboratory at Wright-Patterson Air Force Base, the laboratory where the Roswell wreckage was rumoured to have been taken.<sup>40</sup> [Donald Keyhoe](/people/donald-keyhoe) claimed in The Flying Saucers Are Real that high-level insiders, including Air Force officials, had retrieved crashed alien vehicles.<sup>41</sup> [Ross Coulthart](/people/ross-coulthart) has suggested that a decision must have been made somewhere in USAF leadership, or within the so-called legacy programme, that Strieber needed a briefing after he published Communion in the 1980s.<sup>42</sup>
-
-A meeting record shows Thomas Wilson noting that [Eric Davis](/people/eric-davis)'s Air Force background check had come back clear, with no derogatory items found, a good Korean record, and Air Force trust.<sup>43</sup> In the 2020s the USAF, alongside the [United States Navy (USN)](/organisations/united-states-navy-usn), has been at the forefront of developing policies, procedures and mechanisms for reporting UAP.<sup>44</sup> On 2022-04-08 the USAF designated UAP a "Special Interest Item," requiring aircrews to document and report UAP observations within 24 hours of engine shutdown and mission completion using the Marauder system, according to the Department of Defense Inspector General.<sup>45</sup> [United States Army](/organisations/united-states-army) personnel use the USAF's Marauder system to document and report UAP observations because the Army has not developed its own UAP-specific process, according to the same report.<sup>46</sup> As of 2023, the USAF had been less forthcoming than other agencies with regard to UAP,<sup>47</sup> and the Preliminary Assessment: Unidentified Aerial Phenomena report focused primarily on USN reports, stating that USAF information was not yet available, according to Imminent: Inside the Pentagon's Hunt for UFOs.<sup>48</sup> [David Charles Grusch](/people/david-charles-grusch), a veteran of the USAF with numerous awards and decorations for his participation in covert and clandestine operations,<sup>49</sup> served 14 years as an intelligence officer, including active-duty and Air National Guard and Reserve service in the USAF at the rank of Major,<sup>50</sup> and was a member of the Unidentified Anomalous Phenomena Task Force from 2019 to 2021 in a National Reconnaissance Office reservist capacity within the USAF.<sup>51</sup> The USAF unsuccessfully tried to file an Espionage Act unauthorised-disclosure complaint against Grusch when he went public,<sup>52</sup> and Grusch resigned his USAF officer commission because he foresaw such an attack,<sup>53</sup> missing a promotion to lieutenant colonel in the USAF Reserve as a result.<sup>54</sup> [Luis Elizondo](/people/luis-elizondo) said that from the moment he joined the team, the USAF was stubbornly and mysteriously uncooperative on the topic of UAP,<sup>55</sup> and that his team's emails to USAF liaisons requesting information on UAP incidents were repeatedly denied or ignored entirely.<sup>56</sup> Two AFOSI agents separately told Elizondo that a walk-in contractor who had claimed he could make planes invisible actually worked for the USAF on one of its most sensitive technologies, and requested his file on the man.<sup>57</sup>
+[David Charles Grusch](/people/david-charles-grusch) is a former US Air Force intelligence officer, serving 14 years and reaching the rank of Major,<sup>26</sup> including a spell from 2019 to 2021 on the Unidentified Anomalous Phenomena Task Force in a National Reconnaissance Office reservist capacity within the Air Force,<sup>27</sup> for which he was described as a veteran with numerous awards and decorations for covert and clandestine operations.<sup>28</sup> After going public with whistleblower allegations, the Air Force unsuccessfully attempted to file an Espionage Act unauthorised-disclosure complaint against him.<sup>29</sup> Grusch has said he resigned his Air Force commission because he foresaw such an action being taken against him.<sup>30</sup>

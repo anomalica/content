@@ -1,11 +1,66 @@
 ---
 title: Unidentified Flying Object (UFO)
-description: An unexplained aerial object or light reported by witnesses worldwide,
-  spanning military encounters and government investigations through to competing
-  sceptical, extraterrestrial and paranormal interpretations.
+aliases:
+- /topics/unidentified-flying-object-ufo-abduction-phenomenon/
+- /en/topics/unidentified-flying-object-ufo-abduction-phenomenon/
+- /topics/unidentified-flying-object-ufo-flap/
+- /en/topics/unidentified-flying-object-ufo-flap/
+- /topics/topic-unidentified-flying-object-ufo-phenomenon/
+- /en/topics/topic-unidentified-flying-object-ufo-phenomenon/
+- /topics/unidentified-flying-object-ufo-disclosure/
+- /en/topics/unidentified-flying-object-ufo-disclosure/
+- /topics/ufo/
+- /en/topics/ufo/
+- /topics/unidentified-flying-object-ufo-crash-retrieval/
+- /en/topics/unidentified-flying-object-ufo-crash-retrieval/
+description: Unidentified Flying Object (UFO) is the term for any airborne object
+  an observer cannot identify, a label popularised after Kenneth Arnold's 1947 sighting
+  and investigated by successive United States government programmes from Project
+  Sign through Project Blue Book to the Advanced Aerospace Threat Identification Program.
+metadata:
+  also_known_as: Unidentified Aerial Phenomena (UAP), post-2017 Pentagon usage
+  term_origin: 1947, following the Kenneth Arnold sighting
+  official_investigation: Project Sign (1947) to Project Blue Book (closed 1969);
+    Advanced Aerospace Threat Identification Program (from the 2000s)
 built_from:
-  brief_hash: 499ee7b6c3a1ac6a61455024c28995b430a06947dfacb25490cad31860a9d5f4
+  brief_hash: edb6aa4de36706eb89ca3c1c744bc912d4cae0d4dcd753d42dce2b052dad6610
   claims:
+  - id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+    hash: f3018e26f2b922df45ab506331fd0d3c4e30da305718da8200da3d23e3bbe472
+  - id: bed6d59b-bd93-4cae-9670-3f40a544f8e0
+    hash: 687b020e8e2b0e15e61bcbe1a7235619aaa36aa27a9db6d3732d0cb38b49e32c
+  - id: 1c54cb44-b581-4291-88dd-394e6eab9464
+    hash: 155e8aa947031070cbf8ca334c1cd2bb915dc2adaf59321fd0b14e636ea68b67
+  - id: a0782016-777b-4e5f-8360-89090b0c164b
+    hash: 4c6b1979ebe3eb98a95815447530106852d3005cd3c0c123b6cb088c2210a7e4
+  - id: be4254d0-3660-41ae-9f8c-533200740fc3
+    hash: 986e6983ce10a0b09f9c7cc1718577543b38972b4a167288b2de94fccb02e04b
+  - id: 92d9fec6-8f28-4a01-ab26-592ecf7eb357
+    hash: b77a7402a4ea5661dce9612ce4df2992699c29d3abe9c6b7cb231c5b393b081e
+  - id: d33d0a24-ed14-4963-9e4f-51bb363e2b15
+    hash: 27fcdb97d19872f9634c73a31af9ca1f563f76a6a52421e5658ebac59ad0a847
+  - id: ef42e44d-3cce-42e0-900d-3bd910ed5bbd
+    hash: 666504a39271ea8c605e7d09fd954d3b35e716803e9c7dea68a8efda4b7e07a4
+  - id: ceb94734-e3e8-4357-80f7-36030104c196
+    hash: d43278a51a364edc10ec4dc1f25ad300af0f512f7c2d639b03baf86cb261f54c
+  - id: 7aa1ef4f-fbcc-4fdb-b95a-aa5c4c43c284
+    hash: 3e629aeb70edf92b4f59cddde375696e8d18facfe1eeb455a21d360d57f4cce9
+  - id: 1941bf65-9118-4da0-8849-8ffc91349c7d
+    hash: 5443dae18cd1dc966dd358c1e494da70eb017922f27ede68337ec7fd8153bf0d
+  - id: 6155bfcf-0b8f-4c6e-a766-2a3c70fa0d60
+    hash: 7e37a59422e0a0d5cdf2681daf3fb0018e16b5f664e61e2a54442a909d2a3c61
+  - id: b21f601e-7811-41bb-9e59-1342b149bf73
+    hash: fcaedda602e3f2ab085e2ca7cb7a2bb44a385fb7c2b11a354d945d90bd152959
+  - id: 10017ac6-269b-4925-bf79-6fa215b88e23
+    hash: 321813027a204e94213943b5cf81c49d074506f8515a5650ef0d305fdf5a28bc
+  - id: 68fd7bc6-b073-44b5-b9da-61e9e2d5e285
+    hash: ad1ba78b936dbf6869218c0c6ca890a0ca3e3f5541b3a8adc9b46a00a43e608a
+  - id: 04a12d6e-d187-4870-b14a-b13e1a2a1e2c
+    hash: e6c267ca4d23019bf2d4ab4e8b035f7766ab18dec6e733ad4c07531cf6b24612
+  - id: 2ca89bc4-5469-4e83-b0d8-7c3ed9ff9726
+    hash: f23a3f29788c751e82fc3feb8a988ac7c2809394e940ac95cd8848f620f83c3b
+  - id: eb2b311f-f00e-40e8-87cf-1a63ca76aaab
+    hash: d5a5a9fe238ad179c38f2d75b0fb1cbfd44fdf0ebd149516c4d3a52c61c6f1e0
   - id: 8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
     hash: f3704aa38c78e148d18dbd1d08988008d47053bd5f4e6a66683bdb0b9d9cabab
   - id: 0accc97a-0032-4d29-910c-9fa78781603a
@@ -20,8 +75,6 @@ built_from:
     hash: 7588def5560058601f88bde07116fa05f1f5d573144f5ec41a03560a3fa691fa
   - id: 12b7ba92-287d-4658-ac64-2aac689e90a6
     hash: cdca32731c3a3bc488f04d978871b876cd79d4d00c8a2ea6d6bbb5b7f3a77ead
-  - id: e870733a-7007-4f34-8fc4-253edf169c06
-    hash: f0cfd0303d8ba21e7bf5c43deb8f6c751b8c0a92991f43e7a37bc8ff19636ee3
   - id: 4b6ab063-527d-4c28-ae44-2d7481a0af0d
     hash: 33c9f185ea6f326f871045b7bc558dbf9ebbcb7cb3651993ec4f6ba27b798169
   - id: 0a2cc253-73a0-43af-9151-40857df0767d
@@ -36,8 +89,6 @@ built_from:
     hash: ada31d5624c6c71b7b0bc3020fe232673ef21723a97afdb1d0d372b7a1f14fc8
   - id: 9a0ce21c-fbfc-43bf-9eca-fb321c6d2cfd
     hash: 0778d3be02ea0266bec82ba721b74959f73abbbd08e124f67093912e021dd21d
-  - id: bd71c3ed-8315-4f3f-ba4d-7a2886d892ef
-    hash: 061dc81c75b6c3c2d4d6957f94662838bb29f76d2502a1fc9526598ff0ef5461
   - id: 220089a0-5e01-4aad-81e6-97f287ffeae4
     hash: 86bec7e991a30ed22d5d80790b59c4dca0d68d681ca99e9a6f115a3ffabc223c
   - id: b3293f44-f2bf-461f-b266-174aec4833b7
@@ -72,8 +123,6 @@ built_from:
     hash: 054ee427b57d1a96e66449070186712a507a05e5dd1f6c57980327e85bb41546
   - id: 34efd764-6f56-47da-96d4-2bc88072ad75
     hash: a03bb5d6820204f0d2bc8df32d2529c09ffabba73519d27dfb1aeeecc00d7cf3
-  - id: 15594b43-0237-4838-9dd3-8efe4a758462
-    hash: 19fc03589315d319dbcaa2bb85d914f2bbe8ad3c50e0d5c06fb3daf1d0abe5a2
   - id: ef82654a-662b-4e26-a5e3-b91a5de0ec48
     hash: 04fa6be6ba6e1d29980a378d27c4c31c47e3b9aabc8c0b23bf7585be07f8800d
   - id: f5db10d5-1702-4bfb-983e-cb650559e166
@@ -86,10 +135,6 @@ built_from:
     hash: 3f58a9033ebe04d48d0d180386d2b01fd69f235efafc3d52dce4d8fe692e10a8
   - id: 5b8e55e2-bb98-42d9-9e5a-48c7a2c4c700
     hash: 21c7a541d602ca21e68269abeea5570283e4b02ab283c03e3560d72576d33307
-  - id: 7521072c-12b6-4b9a-a326-5b50fdd08612
-    hash: 990a36dfd5af63a3ef2dce2c689faf16b42101c0520dbdf0411bacf1f1d57daf
-  - id: 87087f24-2104-4810-aad4-2b22e9e135f8
-    hash: e6e376c490c67af29cc3f180d90fb247bb935267401c9ef226d3118049ca152e
   - id: b2e984b3-31bc-42ae-9323-5be94ba331e5
     hash: 87c0438a4466fb306c0a86fd1ff482478dfc49c670df7d099c298ad10c0dbb24
   - id: e09649e1-8293-4f04-aad5-fd1ca66ae460
@@ -114,8 +159,6 @@ built_from:
     hash: 3be51540a49a171e766dbe06cbe597a4357ff5ce382ab5679468fa90c78aa827
   - id: 5b7084e1-b441-4127-a5e0-7a38383316a6
     hash: 4aac4435daca988955d81f493e6ea5f4e17e924c983c5b7cd46e9920a352040c
-  - id: 970b045c-4917-438c-97f1-82b3fa90e97a
-    hash: b717697d4dd839e6b521345961cbdfd552a0e05de2de5e2ac21387d7c7c80ee4
   - id: 6af175ff-f28a-4523-9a93-45474e230bad
     hash: 100ce4422d884d3a9c9f7c351c7d6132240c96330ed596350be72eb9a4cfd09e
   - id: 9b8b532a-c4c1-4019-93a4-7601d77513da
@@ -128,8 +171,6 @@ built_from:
     hash: 2e1573eede0e25488da33f2e287e38abc1f079278a26980d3e726d8b8a3129fe
   - id: 97582d2b-b075-40a7-a5f4-b293d6a2aa2a
     hash: 4e5bd46b083f1d0907cfe6d3bf2411979198be53e1e9ee495c33f844f89d54dc
-  - id: 59be2659-e1a8-4c55-bbc5-0e506be61fb2
-    hash: 13d9b3a4f7f99ffbee30fa641f9c7c2492a041ea538bd4596539a3cc6cc7cd1e
   - id: c3045f16-cf23-4514-b391-2fb607730b62
     hash: da39bf5688f7757693fa8d518cf856c2a5ea8460c1bff0e3fb32eb1971d0cd7b
   - id: 2fadd33a-3aa9-4c79-b1e7-505e1fcfbb7e
@@ -150,8 +191,6 @@ built_from:
     hash: 668cbedbe327ef3c898fbe09a229feaee91233d10e96ffee47aeb3142d1541b3
   - id: 2cdd779a-3162-4b12-a9da-04adf05e4abb
     hash: 2beaafe57d490271eeeeca61094371f7c82e41d04b68fb1290345300f9f480c7
-  - id: 65b1aebd-0262-491b-84c4-d02c041aea80
-    hash: be79263107c77f07eddca0cbf4ad31765816c2218001b612948dfc0820c70e7d
   - id: 256731ef-c86b-4e5c-a799-74579ec38f8f
     hash: 07055014e0c7ff258f0f9f2b0177434ed393c19615d80112ef0c5ed3f05aa094
   - id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
@@ -164,8 +203,6 @@ built_from:
     hash: 8ff7c53e9655de9756e609a26b1bd5ca49c1d0f67417caaf852cb8b4e65f5735
   - id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
     hash: feccf78a7d0c8a7b849d71120e0a302cc254317e4d211b7d6709644d05c528af
-  - id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
-    hash: 9d1e2d5fce4b9e173040ef92b2fff1c1e051e0e68f74ba4977d7b46f0c296760
   - id: 4e8bfae4-8dc8-4824-84f2-d9eb51251afe
     hash: 182d13f7dd8495de9d2b3b6984d4f82a02b7c395f5ae9ac262a5f775d74cb572
   - id: 371772c6-e537-45b1-a5ec-370a04000830
@@ -178,8 +215,6 @@ built_from:
     hash: 159891b76ea20dcbdf5f1d8daa4f9df96050a897c430a4b270a64ef785426962
   - id: 24b01f37-ae33-44f8-b2c2-a1a4f7b3a486
     hash: 1fe984c647f4e7a77db4ddd9917fc7d8bbbb7fff3fb908e3d831dc1b250b6841
-  - id: a6b0dfb2-cc3a-4e61-aa69-8e3b9bfb46e2
-    hash: c919e93d0a391ebfa39bd2206e41b9fa850157deb14c4d746dcb859529dd278f
   - id: 7f6c5adc-0fa5-48ed-8c0f-921e52d6d526
     hash: f23f6edf463bb94169579a35de050ef202736de5ac11525fad44197eb372633d
   - id: 8cfc131a-139a-458c-bd58-039249718714
@@ -202,8 +237,6 @@ built_from:
     hash: e5e198591511290b4f794b03e22d6ed8cf24494861018e4dcbc8ee14583cd349
   - id: 92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
     hash: 7ef80d1b0eb4584110279f97d965b8cf3bc70e39df6e8e33ab04f52e2440f192
-  - id: e4880dd8-2174-42ba-a077-cf29e74063d5
-    hash: d368491b50b7af4d139c19999164be12e2f2a21ef475776c2acafd8fd0d2a07b
   - id: 34b5dd32-a9aa-463d-bb07-652ccc21bbbe
     hash: b17095b3cf3d16655a31a8223f5eb2bb3bc1b8dce0857776c4bc6d24af536132
   - id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
@@ -216,8 +249,6 @@ built_from:
     hash: d758c342186798343d3b71da47b8ce229846bb9cd2d3e167f349ac79277d42c6
   - id: 3bf6fe85-8df4-4187-a705-f91ef088700c
     hash: a20d23c64d532c9a6ff772668dfc2c93c6eca4089946cb86ef1b849f53ce71cb
-  - id: bf56682a-939d-4d38-9b9e-b208db236454
-    hash: 710d1e36e7c8e9b754ced2e19a9a2aefbe980bd7b4699718aca14f3eece850bf
   - id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
     hash: 3ebed1e81ce3f0acbd05d7cbfe31e7cd90341a92fb670dc19fedf452b1ca5f7e
   - id: 45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
@@ -230,8 +261,6 @@ built_from:
     hash: 4cf511f6610b6834bc3db5ea1760b9eee3f410d4ecefceacb9f5b1c05b6386f0
   - id: 042839d1-8961-4548-8ce4-345376563a28
     hash: b58ddec4c7089f12a19565db1b6517b4311f7dee8c19b1bd24561c9ceb219c0a
-  - id: 765e294c-b7dc-40f2-9568-2892d0aeea20
-    hash: 76755b142a9c0035a5f9ab7e6f2f89027f1f2ad3c658981b2c2105387ad317a7
   - id: cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
     hash: 2dda84da4aecf1de29387d092591e0e5e3bf544934fef836c630d0e7dd4b6005
   - id: 48823e6a-e850-4760-8435-2264c5bf506a
@@ -244,8 +273,6 @@ built_from:
     hash: d88fca1c0ff6b3d3157c5c58de04cc27c7f66038180fbfddc654e8e4898c174f
   - id: fc0641b0-037d-4290-96fa-c39ae73542f7
     hash: c9c69b4c936adf00a54afdcd24712543ab82206387bce81db9b8e718616277b4
-  - id: cfd1e672-279b-4352-afd3-c270864abca5
-    hash: 24d18afb1408ef33095b54474f646fcd21ab87faaacfcc506316e1a66271f776
   - id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
     hash: d80f9ae582e33939a88d2bffb75f92079177b39b492664acd5cbaf7abf28b3f3
   - id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
@@ -262,8 +289,6 @@ built_from:
     hash: ce06578ba255426804334410c4185c4f603cb9f9d6fddcdd704c2693b7589da0
   - id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
     hash: 156ddfada1704dc4130518d9ed134b2f9a88b30ae8cffb4eae0bd03155adadd4
-  - id: ed868cdd-e34e-4ae8-b3ed-ba8533429aa3
-    hash: 6a81c5591d2ebf83367eb6f99bd5dd80f160cccaebaeed3b63875249fff5f89a
   - id: 9eaae3fb-9978-41d0-af63-01cc4ef1f32d
     hash: e236424d35cec43bc169d796441ca9b31792ffda864b1fad46311d890d919f42
   - id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
@@ -294,8 +319,6 @@ built_from:
     hash: 0ed89f5c321e574d75dfdf7493e53e5271143d5e5e4e4057c78c0fce1a6cf9d4
   - id: cf7faa33-f3ed-4f45-9132-0c5121307414
     hash: 9a59fb4736477f69e457ac7a5048980ece0ba2a8003a3c7cdb7395aa41077d15
-  - id: 378a0776-7bf7-40c3-a21e-8f5cfa3e00fe
-    hash: 86ac6dde043e60a97124295c5a41d1b7603bde293ab6f66981fd744e609b084b
   - id: de6435b5-24f7-4d67-a28e-649977d41a64
     hash: 7ff568d05303d323ad27cd5ea6e826c19dd91659dae09537b0d4c6192c0644ff
   - id: 59c2c64e-f1d2-46f6-90bd-222f9702ef2e
@@ -338,8 +361,6 @@ built_from:
     hash: 5cd289c5f728932e809c101588b2516f1351b44edf64d87bb1f2672830133a31
   - id: 05246a1d-7d42-4e9d-a1ae-70f7e2e22bb1
     hash: 6b463429cdc54b0ce84bdd2ffc603f36f5370481bded715a86f247576a268708
-  - id: f39c6e9a-5141-4cf7-8ff3-f1935da36fdf
-    hash: e042ee8e504414c5043890a142254728246fafb48781f106153b7fc233debbc7
   - id: 2f56d684-e8b8-4063-874e-1473fce23c99
     hash: ce0e9cac7fb527943ff06b9f0ac1b08adb0ef6a22ba0f6548f87426b972356eb
   - id: 73171fb7-4491-491a-82b4-3028e82a0da1
@@ -352,8 +373,6 @@ built_from:
     hash: 248aadba75acd185a2aa69a036f2f3bb36769c5acd93bdcc3b3703db5ced06f7
   - id: 83c1bcc4-2c33-4587-acd7-e3097a9edef2
     hash: 0312bbae52907589c5802eefbd0cf52bb37a6913dcdbbf07188273dbe1a96d05
-  - id: 0ef893ff-11bb-4c84-b2a6-61cfd6991325
-    hash: 2a9fd6b1642d665eca705720477606268dde28e04dcb27d7fae27007526be6c8
   - id: 2eb45115-f57f-4763-a04c-7c974abec922
     hash: 4d139db0f2c4b0f18a6615c944a742405ecf002c3e199d7dc794b76143de3d7d
   - id: 27223145-faa6-4e0b-b0b3-9c5a5c9072e0
@@ -366,10 +385,12 @@ built_from:
     hash: 747ce8faed6ef5e5acae28a7a54d31551710b3cf6f0369af9c6e353a42faf710
   - id: 901290ef-b734-4f32-83be-f992e6fbac0e
     hash: 3cac4df27ba2deebe73f4560eaee4490d5960d24758d330781056e27dde006d7
-  - id: 3e8065aa-ee52-454b-a60e-10ddce977686
-    hash: bdd0de9727bdf05a7c68bb3bbb8e39c990fe5815bd689b1acc96c2f1385ae094
+  - id: 4ff3c445-9a8b-4da8-b9da-abaa8c89c8a0
+    hash: 91f827b348b81e01443072beac097f8215547c5dc6599c8e8e98b27fdaa395fa
   - id: 3501ac98-6602-4d85-a187-6cac533c777f
     hash: f5876b7c3e1dc5ea5161f5f96f06535f7d32babd1b127261fb62a416017147be
+  - id: 91706ebe-2e6b-4c18-b682-f0972979999c
+    hash: e0bea0037d29d9295ee89d43430fa1646f5165fb09e6fc8978c522492ae123b1
   - id: 29c6909f-5965-4661-86c8-fbc298bc1728
     hash: c31b85d9348d54dc619f2fa2cfa8493ceb9d97886d3daabf2148b1790a9710d7
   - id: aafddc88-cec4-4217-afb0-2564b29f5a8b
@@ -380,8 +401,6 @@ built_from:
     hash: 8acb0ab9cc479910a555dc9134b8965ce68d3c0417cc6597d4671a132abfe3b7
   - id: 1795dcb8-62da-40e6-885f-4595329d4e5e
     hash: 104dc743bfa9bf0182f30ffa77f3707c3fe3107a1eb874ab0deee475820250ec
-  - id: 7ab74238-89f4-4f3c-9b91-35befcfe8ac3
-    hash: c8108ee060958527feb83685175339396f01292b740b9fab1b7ca5dcf4d41dd0
   - id: a5360c79-1c7b-46a1-95dc-9b72939b6b2d
     hash: cc3f022579a27bc31175841f8a7172c81bb48a6d7afd5d1cd1d76cdf1201f20f
   - id: f961dc8f-33a5-439b-bc0e-4663efa85388
@@ -407,7 +426,19 @@ built_from:
   - id: 1bd8af7a-b900-4c11-a526-a4e95bc4d602
     hash: 71600ded186667262e7c4dac1fef8fd44842e27c6fc7610c30688d62f3133cae
 references:
-- text: Newspapers first used the term 'flying saucer' the day after the Kenneth Arnold
+- text: Benjamin Simon's definition of a UFO as simply an unidentified object, not
+    implying extraterrestrial visitation
+  source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
+    Simon Speaks
+  location: 00:14:12.3-00:14:28.4
+  quote: I must define UFO as I see it. It means an unidentified flying object, and
+    that's all it means. It can be Mendel's balloons, weather balloons, misinterpreted,
+    or anything else. It does not by its definition, imply visitation from out of
+    space
+  claim_id: ceb94734-e3e8-4357-80f7-36030104c196
+  record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
+  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
+- text: Newspapers first used 'flying saucer' the day after Kenneth Arnold's 1947
     sighting
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:01:42.0-00:01:46.4
@@ -434,9 +465,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
-- text: Air Force studies (1947-1969) investigated more than 12,000 claimed sightings
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
+- text: USAF investigated more than 12,000 claimed sightings, 1947 to 1969
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:6377-6477
   quote: In 1947, the Air Force began a series of studies that investigated more than
     12,000 claimed U.F.O. sightings before it was officially ended in 1969.
@@ -444,92 +474,7 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
-- text: 701 of those cases remained unexplained
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:6818-6840
-  quote: although 701 remained unexplained
-  claim_id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-- text: Early investigators weighed whether UFOs were Soviet weapons or psychological
-    warfare
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:108041-108276
-  quote: During some early UFO investigation efforts, it was deemed essential to determine
-    if UFOs were Soviet "secret weapons" or psychological warfare operations aimed
-    at causing public fear and generating hysteria to undermine U.S. societal morale.
-  claim_id: f67c95a3-11c0-4ca3-a9e2-ae4dc1cdfe7c
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f67c95a3-11c0-4ca3-a9e2-ae4dc1cdfe7c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f67c95a3-11c0-4ca3-a9e2-ae4dc1cdfe7c
-- text: 'Since 1969, official US military position: UFOs pose no threat and merit
-    no further study'
-  source: Statement to Congress
-  location: char:1565-1691
-  quote: Since 1969, the position of our military has been that UFOs pose no threat
-    to national security and are not worthy of further study.
-  claim_id: da239490-20b5-4903-b1f9-132aa01d680d
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
-- text: 1985 USAF summary of Blue Book found nothing to justify resuming investigation
-  source: In Plain Sight
-  location: ch10:24211-24384
-  quote: The public was told in the air force’s 1985 summary of Blue Book’s conclusions
-    that ‘nothing has happened to indicate that the air force ought to resume investigating
-    UFOs’.23
-  claim_id: 39abe1ba-e286-4c6f-a181-57002dfaf4f9
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
-- text: USAF maintained no investigated UFO ever indicated a national security threat
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:4595-4767
-  quote: the Air Force continued to staunchly maintain that “[n]o UFO reported, investigated
-    and evaluated by the US Air Force has ever given any indication of a threat to
-    national security.”
-  claim_id: cfd1e672-279b-4352-afd3-c270864abca5
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cfd1e672-279b-4352-afd3-c270864abca5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cfd1e672-279b-4352-afd3-c270864abca5
-- text: 'Marler: USAF, FBI and CIA maintained decades of official denial and debunking'
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:06:01.6-00:06:13.7
-  quote: Well, for decades, the Air Force, FBI, CIA, all the official agencies had
-    a policy of denial. Deny the subject, dispel the subject, debunk the subject.
-  claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
-- text: 'Knapp: FOIA documents showed officers privately called it ''serious business'''
-  source: Statement to Congress
-  location: char:1809-1882
-  quote: High ranking military officers considered the UFO mystery to be "serious
-    business."
-  claim_id: 19372698-a524-4f57-90c5-634deae2daf5
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-19372698-a524-4f57-90c5-634deae2daf5
-- text: 'Knapp: internal documents described UFOs as real, metallic craft beyond known
-    tech'
-  source: Statement to Congress
-  location: char:1950-2109
-  quote: military leaders knew that UFOs were "real, not fictitious", that they were
-    metallic craft, capable of incredible maneuvers far beyond any known technology
-    on Earth
-  claim_id: e8ddb4ae-cad4-4998-b62c-9ba2b5a62d98
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-e8ddb4ae-cad4-4998-b62c-9ba2b5a62d98
-- text: 'Knapp: documents describe UFO interest in US military assets, especially
-    nuclear weapons'
-  source: Statement to Congress
-  location: char:2125-2270
-  quote: there were a disturbing number of incidents wherein UFOs seemed to demonstrate
-    an intense interest in our military assets, in particular nuclear weapons
-  claim_id: 12b7ba92-287d-4658-ac64-2aac689e90a6
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-12b7ba92-287d-4658-ac64-2aac689e90a6
-- text: 'Hynek: Blue Book''s end was the ''coup de grace'' to the UFO era'
+- text: Hynek called Blue Book's end the coup de grace to the UFO era
   source: In Plain Sight
   location: ch10:23747-24024
   quote: Blue Book consultant Dr J. Allen Hynek lamented, ‘this was indeed the coup
@@ -540,50 +485,37 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
-- text: 'Sagan: no claim of past extraterrestrial visitation has compelling evidence'
-  source: The recognition of extraterrestrial intelligence
-  location: char:31064-31186
-  quote: My personal view is that for none of these claims is there anything even
-    approaching compelling evidence for interstellar visitation.
-  claim_id: b3293f44-f2bf-461f-b266-174aec4833b7
-  record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
-  workbench_url: http://localhost:5173/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b3293f44-f2bf-461f-b266-174aec4833b7
-- text: 'Ruppelt: sighting spikes followed official press events mentioning UFOs'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:110251-110439
-  quote: noted that there would be spikes in reported sightings after official press
-    events mentioning UFOs; suggesting that reports of sightings can influence the
-    incidence of additional reported sightings.
-  claim_id: a6889b9e-a705-459d-af6d-8a27deb1b027
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a6889b9e-a705-459d-af6d-8a27deb1b027
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a6889b9e-a705-459d-af6d-8a27deb1b027
-- text: 'Ruppelt: inability to collect altitude, size and speed was a recurring obstacle'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:111463-111589
-  quote: noted that the inability to collect the UFO's altitude, size, and speed was
-    a recurring and significant obstacle to resolving cases.
-  claim_id: 38fdfbf1-577c-43dc-944b-d802fe9b12d1
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-38fdfbf1-577c-43dc-944b-d802fe9b12d1
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-38fdfbf1-577c-43dc-944b-d802fe9b12d1
-- text: 'AARO: some UAP misidentifications likely stem from new technology surges'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:115302-115484
-  quote: However, we assess that some portion of these misidentifications almost certainly
-    were a result of the surge in new technologies that observers would have understandably
-    reported as UFOs.
-  claim_id: 53ef5c90-6dc0-4c75-9035-5058ae525ba3
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-53ef5c90-6dc0-4c75-9035-5058ae525ba3
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-53ef5c90-6dc0-4c75-9035-5058ae525ba3
-- text: 'Declassified CIA assessment: over half of 1950s-60s UFO reports were US reconnaissance
+- text: 1985 USAF summary said nothing warranted resuming Blue Book
+  source: In Plain Sight
+  location: ch10:24211-24384
+  quote: The public was told in the air force’s 1985 summary of Blue Book’s conclusions
+    that ‘nothing has happened to indicate that the air force ought to resume investigating
+    UFOs’.23
+  claim_id: 39abe1ba-e286-4c6f-a181-57002dfaf4f9
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
+- text: 'Since 1969, official US military position: UFOs pose no threat, unworthy
+    of study'
+  source: Statement to Congress
+  location: char:1565-1691
+  quote: Since 1969, the position of our military has been that UFOs pose no threat
+    to national security and are not worthy of further study.
+  claim_id: da239490-20b5-4903-b1f9-132aa01d680d
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
+- text: USAF, FBI and CIA maintained a denial policy for decades, per David Marler
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:06:01.6-00:06:13.7
+  quote: Well, for decades, the Air Force, FBI, CIA, all the official agencies had
+    a policy of denial. Deny the subject, dispel the subject, debunk the subject.
+  claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
+- text: 'Declassified CIA assessment: over half of 1950s-60s reports were US reconnaissance
     flights'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
+  source: Report on the Historical Record of U.S. Government Involvement with UAP,
+    Volume I
   location: char:122314-122494
   quote: More than half of the UFO reports investigated in the 1950s and 1960s were
     assessed to be U.S. reconnaissance flights, according to a declassified CIA assessment
@@ -592,18 +524,111 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
-- text: UFO reports spiked when the U-2 Dragon Lady was in flight
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:123122-123242
-  quote: The report noted that UFO reports would spike when the U-2 was in flight,
-    especially from airline pilots to Air Traffic Control.
-  claim_id: ed868cdd-e34e-4ae8-b3ed-ba8533429aa3
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ed868cdd-e34e-4ae8-b3ed-ba8533429aa3
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-ed868cdd-e34e-4ae8-b3ed-ba8533429aa3
-- text: Tajik Air crew first saw a bright, fast, high-altitude light approaching from
-    the east
+- text: AATIP investigated UFO reports for years, per DOD officials and NYT records
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:665-858
+  quote: For years, the program investigated reports of unidentified flying objects,
+    according to Defense Department officials, interviews with program participants
+    and records obtained by The New York Times.
+  claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+- text: Elizondo was former head of AATIP, now known as UAP
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch38:68-261
+  quote: LUIS “LUE” ELIZONDO is the former head of the Advanced Aerospace Threat Identification
+    Program (AATIP), the Pentagon unit that researched UFOs, now known as unidentified
+    anomalous phenomena (UAP).
+  claim_id: fc0641b0-037d-4290-96fa-c39ae73542f7
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
+- text: AATIP was tasked with investigating UFOs and UAP
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:54:38.4-01:54:44.4
+  quote: And AATIP was a program that was tasked with investigating any kind of UFOs,
+    UAPs.
+  claim_id: 22045387-4897-4f8e-92e2-fc933d8f4ba6
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-22045387-4897-4f8e-92e2-fc933d8f4ba6
+- text: AATIP collected F/A-18 footage of an object with a glowing, rotating aura
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:10275-10507
+  quote: The program collected video and audio recordings of reported U.F.O. incidents,
+    including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded
+    by some kind of glowing aura traveling at high speed and rotating as it moves.
+  claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
+- text: 'Elizondo: Jay Stratton proposed ''UAP'' to ease conversation with leadership'
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch27:935-1087
+  quote: Early on, to make it easier to have the conversation, Jay came up with the
+    idea of calling these objects unidentified aerial phenomena, UAP, instead of UFOs.
+  claim_id: 0acf8780-21f5-405d-93fc-e9ccff92488a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
+- text: 'Elizondo: Pentagon leadership avoided the historical UFO stigma'
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch27:502-571
+  quote: They did not want to be associated with the historical stigma around UFOs.
+  claim_id: 5fb04c24-467d-4f82-b132-e567ce8b9cf0
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
+- text: DOD released infrared fighter-jet and Navy footage in 2017
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:06:16.7-00:06:42.9
+  quote: Much of that culture of denial changed with the leaking of these tapes from
+    the Department of Defense, or DOD, in 2017. infrared images captured from on board
+    the United States' most sophisticated fighter jets and Navy ships.
+  claim_id: 0f804d6a-5986-4480-ab0b-8f79784e54a8
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0f804d6a-5986-4480-ab0b-8f79784e54a8
+- text: 'Fravor: the 2017 NYT report removed the topic''s stigma'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:44620-44658
+  quote: it removed the stigma on the topic of UFOs
+  claim_id: c014dca0-7c8e-48c3-87d8-d01307fd23bd
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
+- text: Hill case began with a six-page NICAP sighting report
+  source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
+    Simon Speaks
+  location: 00:02:15.3-00:02:36.0
+  quote: they began almost at the beginning with a six-page report from NICAP...this
+    was the story of their seeing an unidentified flying object, which was investigated
+    by a NICAP investigator who made this report
+  claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+  record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
+  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+- text: 'Betty Hill''s account: object landed, beeped, stalled the car, left silver
+    spots'
+  source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
+    Simon Speaks
+  location: 00:11:05.8-00:11:25.6
+  quote: Betty's story went on beyond that in telling the story of having been, that
+    the UFO had landed, had made beeping sounds and had stalled their motor and various
+    things of that sort and had caused silver-like spots to appear on their car.
+  claim_id: ef42e44d-3cce-42e0-900d-3bd910ed5bbd
+  record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
+  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ef42e44d-3cce-42e0-900d-3bd910ed5bbd
+- text: Betty Hill held far more conviction it was a UFO than Barney did
+  source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
+    Simon Speaks
+  location: 00:09:33.7-00:09:35.6
+  quote: She had much more conviction on that than Barney.
+  claim_id: be4254d0-3660-41ae-9f8c-533200740fc3
+  record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
+  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-be4254d0-3660-41ae-9f8c-533200740fc3
+- text: Tajik Air crew saw an intensely bright light approaching from the east, higher
+    and faster
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:1403-1595
   quote: THEY FIRST ENCOUNTERED THE OBJECT AS A BRIGHT LIGHT OF ENORMOUS INTENSITY,
@@ -612,8 +637,8 @@ references:
   claim_id: e7813bfa-6b0e-40d2-af55-6a3b0754ba59
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
   workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-e7813bfa-6b0e-40d2-af55-6a3b0754ba59
-- text: Crew watched it manoeuvre in circles, corkscrews and 90-degree turns for ~40
-    minutes
+- text: Crew watched circles, corkscrews and 90-degree turns under high g-force for
+    ~40 minutes
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:1600-1758
   quote: THEY WATCHED THE OBJECT FOR SOME FORTY MINUTES AS IT MANEUVERED IN CIRCLES,
@@ -630,7 +655,7 @@ references:
   claim_id: 57128cb3-ade2-43f0-a8e3-bc0ce0fc841a
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
   workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-57128cb3-ade2-43f0-a8e3-bc0ce0fc841a
-- text: Darkness prevented the crew from discerning the object's shape
+- text: Darkness meant the crew could not discern the object's shape
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:2042-2123
   quote: AS IT WAS DARK WHEN THE OBJECT WAS OBSERVED, THE CREW WERE UNABLE TO DISCERN
@@ -638,24 +663,7 @@ references:
   claim_id: 3dca78d4-b3e6-4a34-8d53-a89d8107352a
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
   workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-3dca78d4-b3e6-4a34-8d53-a89d8107352a
-- text: Rhodes described the light's bow wave, like a bullet's trailing heat and light
-  source: Tajik Air Pilots Report Unidentified Flying Object
-  location: char:2130-2324
-  quote: THEY DESCRIBED THE LIGHT IT EMITTED AS HAVING A "BOW WAVE" AND AS RESEMBLING
-    A HIGH-SPEED PHOTO OF A BULLET IN FLIGHT, IN WHICH A VERY SMALL OBJECT GIVES OFF
-    A MUCH LARGER TRAILING WAVE OF HEAT/LIGHT
-  claim_id: cb2f2fcb-ed83-41c7-a6d2-7e0112884a35
-  record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-cb2f2fcb-ed83-41c7-a6d2-7e0112884a35
-- text: Contrail paths afterwards reflected the object's circling, corkscrew manoeuvres
-  source: Tajik Air Pilots Report Unidentified Flying Object
-  location: char:2791-2884
-  quote: THE PATHS OF THE CONTRAILS REFLECTED THE MANEUVERS OF THE OBJECT, I.E., CIRCLES,
-    CORKSCREWS, ETC.
-  claim_id: bd8adff9-cea5-4c83-b505-b3133cde45da
-  record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-bd8adff9-cea5-4c83-b505-b3133cde45da
-- text: Rhodes considered the object extraterrestrial and under intelligent control
+- text: Ed Rhodes considered the object extraterrestrial and intelligently controlled
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:3262-3432
   quote: ON THE BASIS OF ITS SPEED AND MANEUVERABILITY, RHODES EXPRESSED THE OPINION,
@@ -664,23 +672,8 @@ references:
   claim_id: 34efd764-6f56-47da-96d4-2bc88072ad75
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
   workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-34efd764-6f56-47da-96d4-2bc88072ad75
-- text: His crew appeared to share that view, per the report
-  source: Tajik Air Pilots Report Unidentified Flying Object
-  location: char:3339-3364
-  quote: WHICH HIS CREW SEEMED TO SUPPORT
-  claim_id: 15594b43-0237-4838-9dd3-8efe4a758462
-  record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-15594b43-0237-4838-9dd3-8efe4a758462
-- text: Paul Brown saw an object land in front of him near Athens, Georgia, in 1973
-  source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
-    Report
-  location: 00:01:08.0-00:01:11.7
-  quote: When I realized that this thing was landing in front of me, I come to a screeching
-    stop
-  claim_id: bf369a46-2aa8-425d-9061-14acb8247bc1
-  record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
-  workbench_url: http://localhost:5173/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-bf369a46-2aa8-425d-9061-14acb8247bc1
-- text: Eric observed a cigar-shaped UFO in spring 2013 between Denver and Saskatchewan
+- text: Eric saw a cigar-shaped UFO in spring 2013, Denver-Saskatchewan flight, cruising
+    altitude
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:03.9-00:00:22.4
   quote: Spring of 2013, I was flying from Denver to Saskatchewan, and we were at
@@ -689,8 +682,7 @@ references:
   claim_id: 5126d446-0098-467c-bae4-f8375bc43c2c
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5126d446-0098-467c-bae4-f8375bc43c2c
-- text: Object was pointed at both ends, solid white, no visible propulsion, no wavy
-    motion
+- text: Object pointed at both ends, solid white, no visible propulsion
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:17.5-00:00:27.9
   quote: there's this flying cigar pointed on the ends, solid white, no visible means
@@ -698,216 +690,21 @@ references:
   claim_id: 28379281-963b-4694-8bfe-e65b47f6acca
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-28379281-963b-4694-8bfe-e65b47f6acca
-- text: Object travelled opposite his aircraft at the same altitude before passing
-    from view
+- text: Object travelled opposite direction, same altitude, before passing from view
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:32.1-00:00:38.6
   quote: going the opposite direction as us at the same altitude. And it passed.
   claim_id: 7b4f7096-3222-40ad-a37f-75b6692a4ad6
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-7b4f7096-3222-40ad-a37f-75b6692a4ad6
-- text: Eric estimated its speed at roughly 1,100-1,300 km/h
+- text: Estimated speed of 1,100 to 1,300 km/h
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:39.0-00:00:42.8
   quote: It was probably going, I don't know, 700, 800 miles an hour.
   claim_id: 097d10d8-ffd3-4ccc-bbbc-aafba2035d88
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-097d10d8-ffd3-4ccc-bbbc-aafba2035d88
-- text: Culture of denial shifted after 2017 leak of infrared footage, released by
-    DOD
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:06:16.7-00:06:42.9
-  quote: Much of that culture of denial changed with the leaking of these tapes from
-    the Department of Defense, or DOD, in 2017. infrared images captured from on board
-    the United States' most sophisticated fighter jets and Navy ships.
-  claim_id: 0f804d6a-5986-4480-ab0b-8f79784e54a8
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0f804d6a-5986-4480-ab0b-8f79784e54a8
-- text: AATIP collected UFO video/audio, including glowing-aura F/A-18 footage
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:10275-10507
-  quote: The program collected video and audio recordings of reported U.F.O. incidents,
-    including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded
-    by some kind of glowing aura traveling at high speed and rotating as it moves.
-  claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-- text: Luis Elizondo is AATIP's former head, the Pentagon unit now called UAP research
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch38:68-261
-  quote: LUIS “LUE” ELIZONDO is the former head of the Advanced Aerospace Threat Identification
-    Program (AATIP), the Pentagon unit that researched UFOs, now known as unidentified
-    anomalous phenomena (UAP).
-  claim_id: fc0641b0-037d-4290-96fa-c39ae73542f7
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
-- text: 'Elizondo: Jay Stratton proposed ''UAP'' over ''UFO'' to ease conversation
-    with leadership'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch27:935-1087
-  quote: Early on, to make it easier to have the conversation, Jay came up with the
-    idea of calling these objects unidentified aerial phenomena, UAP, instead of UFOs.
-  claim_id: 0acf8780-21f5-405d-93fc-e9ccff92488a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
-- text: 'Elizondo: Pentagon leadership avoided association with UFO stigma'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch27:502-571
-  quote: They did not want to be associated with the historical stigma around UFOs.
-  claim_id: 5fb04c24-467d-4f82-b132-e567ce8b9cf0
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
-- text: 'Fravor: the 2017 NYT report removed the stigma from the topic'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:44620-44658
-  quote: it removed the stigma on the topic of UFOs
-  claim_id: c014dca0-7c8e-48c3-87d8-d01307fd23bd
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
-- text: Elizondo, Puthoff and Mellon spoke publicly via To the Stars Academy
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:12771-12879
-  quote: They are speaking publicly about their efforts as their venture aims to raise
-    money for research into U.F.O.s.
-  claim_id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
-- text: Robert Bigelow began funding private UFO investigations and organisations
-  source: Statement to Congress
-  location: char:3537-3624
-  quote: Bigelow began funding private UFO investigations as well the work of UFO
-    organizations UFO.
-  claim_id: e870733a-7007-4f34-8fc4-253edf169c06
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-e870733a-7007-4f34-8fc4-253edf169c06
-- text: Bigelow believes UFOs have visited Earth
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:2187-2298
-  quote: On CBS’s “60 Minutes” in May, Mr. Bigelow said he was “absolutely convinced”
-    that aliens exist and that U.F.O.s have visited Earth.
-  claim_id: 9a7624f2-1206-41b1-9089-bbb3ac1c01a2
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9a7624f2-1206-41b1-9089-bbb3ac1c01a2
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9a7624f2-1206-41b1-9089-bbb3ac1c01a2
-- text: 'Mitchells: US covert UFO reverse-engineering programmes span ~70-80 years'
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:05:23.6-00:05:31.1
-  quote: He made some pretty crazy claims, which is that the US has been engaging
-    in covert reverse engineering UFO programs for the last 70, 80 years.
-  claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
-- text: Over 20% of Americans report having seen UFOs or UAP
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:16831-16951
-  quote: They have also done nothing to calm the concerns of over 20 percent of Americans
-    who have reported to have seen UFOs or UAPs.
-  claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
-- text: 'Luna cites poll: nearly half of Americans rate federal handling of UFO reports
-    poorly'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:15632-15788
-  quote: Another poll found that nearly half of Americans believe that the Federal
-    Government is doing a very bad or somewhat bad job of dealing with reports of
-    UFO sightings.
-  claim_id: 45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
-- text: 'Burchett: fellow Members of Congress confided their own anonymous UFO sightings'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:12150-12316
-  quote: Some have even confided in me that they have had UFO sightings of their own.
-    Those Members, of course, some of them wish to remain anonymous and I will keep
-    it that way.
-  claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
-- text: Hearing recalled Jimmy Carter claiming a 1969 UFO sighting in Georgia
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:7378-7438
-  quote: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO
-  claim_id: 765e294c-b7dc-40f2-9568-2892d0aeea20
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-765e294c-b7dc-40f2-9568-2892d0aeea20
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-765e294c-b7dc-40f2-9568-2892d0aeea20
-- text: 'Garcia: UAP research concealed by the Defense Intelligence Agency'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:20006-20115
-  quote: ealed research as we know now on unidentified anomalous phenomena or as many
-    call UFOs by the Defense Intelligence Agency.
-  claim_id: 3fa05678-90d2-4202-9c52-78494f4675f3
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3fa05678-90d2-4202-9c52-78494f4675f3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3fa05678-90d2-4202-9c52-78494f4675f3
-- text: 'Marler: recent government admissions are a ''game changer'' for public perception'
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:05:52.2-00:06:00.3
-  quote: The recent admissions on the part of the US government has been literally
-    a game changer with regard to the subject and with regard to the perception, public
-    perception of the UFO subject.
-  claim_id: 34b5dd32-a9aa-463d-bb07-652ccc21bbbe
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-34b5dd32-a9aa-463d-bb07-652ccc21bbbe
-- text: 'Grusch: file releases need professional handling, unlike the JFK records
-    release'
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:28:14.5-00:28:22.3
-  quote: And I think the same thing needs to happen with the UFO file drops. It needs
-    to be done in a professional way that's consumable for the public.
-  claim_id: a5360c79-1c7b-46a1-95dc-9b72939b6b2d
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a5360c79-1c7b-46a1-95dc-9b72939b6b2d
-- text: 'Coulthart: letters about ''The Legacy Program'' most changed his mind on
-    UFOs'
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:30:39.0-00:30:49.9
-  quote: probably the most significant was as a result of a whole lot of letters that
-    I wrote to people who I just assumed might know something about the legacy program
-    if it existed.
-  claim_id: 1795dcb8-62da-40e6-885f-4595329d4e5e
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
-- text: 'Coulthart: DeLonge remains engaged and has never let the subject go'
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:30:03.4-00:30:08.7
-  quote: Tom is still very much engaged and interested in the UFO subject. He never
-    let it go.
-  claim_id: 8ba9e89a-4c29-43ab-bf11-077d275c488c
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8ba9e89a-4c29-43ab-bf11-077d275c488c
-- text: 'Medick: DeLonge otherwise largely quiet bar one recent Instagram statement'
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:29:23.6-00:29:28.2
-  quote: Tom DeLonge bar one statement on instagram recently has been quiet in recent
-    years on the topic
-  claim_id: aafddc88-cec4-4217-afb0-2564b29f5a8b
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
-- text: 'Pasulka: Vallée''s approach addresses the physical, testimonial and social
-    aspects'
+- text: 'Pasulka: Vallée''s approach covers physical, testimonial and social aspects'
   source: American Cosmic
   location: ch1:55341-55734
   quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
@@ -918,7 +715,17 @@ references:
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-- text: 'Samosa: Vallée''s approach reads UFOs'' cultural impact to infer motivations'
+- text: 'Vallée: radar/satellite denials misleading, since operators log ''uncorrelated
+    targets'''
+  source: THE INVISIBLE COLLEGE
+  location: ch10:12148-12376
+  quote: Both statements were, in my opinion, misleading. It is true that radars never
+    “see” UFOs, but that is only due to the fact that the radar operators call them
+    something else! In their jargon they speak of UCTs, for “uncorrelated targets”!
+  claim_id: b0719628-7f93-4eda-aa87-0d36fdb08430
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0719628-7f93-4eda-aa87-0d36fdb08430
+- text: 'Samosa: Vallée''s approach infers motivations from UFOs'' cultural impact'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:06:15.9-00:06:28.9
   quote: what he does is he looks at the cultural impact of UFOs over time. And what
@@ -927,8 +734,18 @@ references:
   claim_id: 7a505eb5-df7a-442e-ad07-45e1d0828556
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
-- text: 'Samosa: Vallée warned a mass UFO appearance could spark cults and collapse
-    trust'
+- text: 'Samosa: extraterrestrial hypothesis inadequate given repeated landings and
+    varied craft'
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:05:07.9-00:05:16.2
+  quote: why have they continued to land over and over again? And why are there so
+    many different variations of them? So the extraterrestrial hypothesis doesn't
+    do justice to the data.
+  claim_id: cd4566ea-5292-427e-b7b2-6227ab8d9b27
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd4566ea-5292-427e-b7b2-6227ab8d9b27
+- text: 'Samosa, citing Messengers of Deception: mass UFO appearance could topple
+    government trust'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:11:07.8-00:11:20.3
   quote: He talks about how if suddenly there was a mass appearance of UFOs in the
@@ -937,66 +754,23 @@ references:
   claim_id: 2d113e2d-fd01-4042-bc90-a71e2438eff9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
-- text: 'Major Murphy: confusion around UFOs may be deliberate, to deter scientists
-    and enable social control'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch10:21905-22206
-  quote: According to Major Murphy, the confusion in the UFO mystery may have been
-    put there deliberately to achieve certain results. One of these results has been
-    to keep scientists away. The other is to create the conditions for a new form
-    of social control, a change in Man’s perception of his place in the universe.
-  claim_id: 4b6ab063-527d-4c28-ae44-2d7481a0af0d
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4b6ab063-527d-4c28-ae44-2d7481a0af0d
-- text: 'Vallée: UFO phenomenon may be a technology manipulating human perception,
-    like TV'
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch11:51045-51159
-  quote: I suggest that it represents a technology, like the television set, that
-    manipulates the perceptions of the human mind.
-  claim_id: bd71c3ed-8315-4f3f-ba4d-7a2886d892ef
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bd71c3ed-8315-4f3f-ba4d-7a2886d892ef
-- text: 'Vallée: scientific denial has cost science long-term public support'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch10:14609-14721
-  quote: In my opinion, such attitudes have contributed to the long-term loss of popular
-    support and popular respect for science.
-  claim_id: 59be2659-e1a8-4c55-bbc5-0e506be61fb2
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59be2659-e1a8-4c55-bbc5-0e506be61fb2
-- text: 'Vallée: 1960s radar/satellite denials misled by ignoring ''uncorrelated target''
-    classification'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch10:12148-12376
-  quote: Both statements were, in my opinion, misleading. It is true that radars never
-    “see” UFOs, but that is only due to the fact that the radar operators call them
-    something else! In their jargon they speak of UCTs, for “uncorrelated targets”!
-  claim_id: b0719628-7f93-4eda-aa87-0d36fdb08430
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0719628-7f93-4eda-aa87-0d36fdb08430
-- text: Pasulka coined 'meta-experiencer' for reticent scientist-observers of UFO
-    data
-  source: American Cosmic
-  location: ch1:18355-18584
-  quote: I coined the term “meta-experiencers” to describe this group of scientists.
-    I cautiously observed them, noting that most were reticent to admit they believed
-    in the reality of UFOs, but they readily scooped data from the primary experiencers.
-  claim_id: 4e8bfae4-8dc8-4824-84f2-d9eb51251afe
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4e8bfae4-8dc8-4824-84f2-d9eb51251afe
-- text: Pasulka defines a 'UFO flap' as multiple sightings over a few days
-  source: American Cosmic
-  location: ch2:18986-19139
-  quote: which were of individual sightings or of a flap—a series of sightings of
-    UFOs by several individuals and even groups of individuals over a span of a few
-    days.
-  claim_id: b5bc4028-2da1-4d5e-837a-876176ca96a4
-  record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b5bc4028-2da1-4d5e-837a-876176ca96a4
-- text: Hesemann considered one of Europe's leading experts on the UFO phenomenon
+- text: 'Strieber: UFOs display small size and seemingly limitless propulsion'
+  source: The Fourth Mind
+  location: ch21:14350-14471
+  quote: We routinely observe UFOs that display both small size, sometimes just a
+    few meters in diameter, and seemingly limitless propulsion.
+  claim_id: 9d92834a-dfef-4c94-96ca-829366f55b95
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9d92834a-dfef-4c94-96ca-829366f55b95
+- text: 'Strieber: zero-point energy the one known force that might explain it'
+  source: The Fourth Mind
+  location: ch21:14483-14583
+  quote: The one force we know of that might enable this level of functionality is
+    the release of zero-point energy.
+  claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6aeb81a1-2084-409a-a078-2415a5a27fda
+- text: Hesemann considered one of Europe's leading UFO experts
   source: The Fatima Secret
   location: ch4:15325-15442
   quote: Hesemann, although considered one of Europe’s leading experts on the UFO
@@ -1004,32 +778,14 @@ references:
   claim_id: d0b08608-9ec6-47e5-859d-fe894500e24b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0b08608-9ec6-47e5-859d-fe894500e24b
-- text: Hesemann has pointed out similarities between Marian visions and UFO sightings
+- text: Hesemann pointed out similarities between Marian visions and UFO sightings
   source: The Fatima Secret
   location: ch22:15504-15572
   quote: I have pointed out some similarities between Marian visions and UFO sightings.
   claim_id: 2766e2db-484d-449a-bd2b-b11402c01a4d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2766e2db-484d-449a-bd2b-b11402c01a4d
-- text: 'Hesemann: Hrushiv apparition presents a UFO-like image of the Virgin Mary''s
-    ''vehicle'''
-  source: The Fatima Secret
-  location: ch19:18004-18079
-  quote: Again, as in the Fatima visions, we have a UFO-like image of the Virgin’s
-    “vehicle.”
-  claim_id: ef82654a-662b-4e26-a5e3-b91a5de0ec48
-  record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ef82654a-662b-4e26-a5e3-b91a5de0ec48
-- text: Many Marian apparitions included bright, multicoloured lights and whirling
-    UFO-like disks
-  source: The Fatima Secret
-  location: ch21:750-843
-  quote: Many of these Marian appearances included bright, multicolored lights and
-    whirling, UFO-like disks.
-  claim_id: f5db10d5-1702-4bfb-983e-cb650559e166
-  record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f5db10d5-1702-4bfb-983e-cb650559e166
-- text: Hesemann avoids interpretation despite acknowledging the parallels
+- text: Hesemann avoids interpretation despite not denying the parallels
   source: The Fatima Secret
   location: ch4:14737-14986
   quote: The parallels between some of the phenomena observed during Marian apparitions
@@ -1039,74 +795,160 @@ references:
   claim_id: c0220c9a-21cd-4eef-ae8e-1a1125356fc7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0220c9a-21cd-4eef-ae8e-1a1125356fc7
-- text: 'Strieber: UFO occupants have only a localised, tangential social effect,
-    unlike Marian apparitions'
-  source: The Fatima Secret
-  location: ch4:5638-5749
-  quote: UFO occupants, like the fairy folk before them, have, at best, a localized
-    and tangential effect on the social order.
-  claim_id: 5b8e55e2-bb98-42d9-9e5a-48c7a2c4c700
-  record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5b8e55e2-bb98-42d9-9e5a-48c7a2c4c700
-- text: McDonald, as a scientist, was uneasy relying on hearsay evidence in UFO cases
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
+- text: 'MacDonald: as a scientist, uneasy relying on hearsay in UFO cases'
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald
   location: 00:00:00.0-00:00:06.1
   quote: Certainly as a scientist, I am not entirely happy with taking hearsay evidence
   claim_id: 2eb45115-f57f-4763-a04c-7c974abec922
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2eb45115-f57f-4763-a04c-7c974abec922
-- text: 'McDonald: it takes about an hour to properly assess a good sighting report'
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:03:31.4-00:03:35.8
-  quote: It takes about an hour, of course, to do justice to any good sighting
-  claim_id: 27223145-faa6-4e0b-b0b3-9c5a5c9072e0
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-27223145-faa6-4e0b-b0b3-9c5a5c9072e0
-- text: 'McDonald: a soundless, stationary object rules out meteors as an explanation'
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
+- text: 'MacDonald: a soundless stationary object rules out meteors as explanation'
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald
   location: 00:03:49.6-00:03:56.0
   quote: Soundless objects hovering stationary in conditions that do not imply ball
     lightning, rule out meteors.
   claim_id: 9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
-- text: McDonald regarded bare lights-in-the-sky reports as prone to misinterpretation
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:05:46.5-00:05:53.8
-  quote: this general category of observation in which it is simply a light in the
-    sky is an extremely dangerous category with respect to misinterpretation
-  claim_id: 3e8065aa-ee52-454b-a60e-10ddce977686
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3e8065aa-ee52-454b-a60e-10ddce977686
+- text: 'Knapp: AAWSAP likely the largest government-funded UFO study'
+  source: Statement to Congress
+  location: char:10277-10355
+  quote: It was likely the largest UFO study ever conducted with the use of government
+    funds.
+  claim_id: 8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
+- text: AAWSAP data warehouse catalogued more than 200,000 cases
+  source: Statement to Congress
+  location: char:10526-10655
+  quote: The team compiled what might be the largest and most sophisticated UFO data
+    warehouse ever created, with more than 200,000 cases catalogued.
+  claim_id: 0accc97a-0032-4d29-910c-9fa78781603a
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-0accc97a-0032-4d29-910c-9fa78781603a
+- text: 'Kean: extraordinary sightings for 60+ years, many by pilots and military'
+  source: Surviving Death
+  location: ch44:12280-12438
+  quote: There have been extraordinary UFO sightings occurring in America for more
+    than sixty years, many by pilots and military personnel, and many yielding physical
+    evidence.
+  claim_id: 3fc839e3-91af-4a3e-bf53-69579f7927e5
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3fc839e3-91af-4a3e-bf53-69579f7927e5
+- text: 'Kean: volumes of case studies published by researchers since the 1950s'
+  source: Surviving Death
+  location: ch44:12448-12666
+  quote: Volumes of case studies have been published by qualified researchers and
+    scientists since the 1950s, documenting UFO incidents all over the globe and leaving
+    a solid record begging for further analysis by contemporary scientists.
+  claim_id: 17b7b3d0-9bdf-4d9b-9319-32a6e61e243e
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17b7b3d0-9bdf-4d9b-9319-32a6e61e243e
+- text: 'Mitchells: US reverse-engineering programmes on UFOs for ~70-80 years'
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:05:23.6-00:05:31.1
+  quote: He made some pretty crazy claims, which is that the US has been engaging
+    in covert reverse engineering UFO programs for the last 70, 80 years.
+  claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+- text: 'Major Murphy: UFO confusion may have been deliberately introduced'
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch10:21905-22206
+  quote: According to Major Murphy, the confusion in the UFO mystery may have been
+    put there deliberately to achieve certain results. One of these results has been
+    to keep scientists away. The other is to create the conditions for a new form
+    of social control, a change in Man’s perception of his place in the universe.
+  claim_id: 4b6ab063-527d-4c28-ae44-2d7481a0af0d
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4b6ab063-527d-4c28-ae44-2d7481a0af0d
+- text: 'Coulthart: DeLonge remains engaged and never let the subject go'
+  source: Ross Coulthart Answers Your Biggest UAP Questions
+  location: 00:30:03.4-00:30:08.7
+  quote: Tom is still very much engaged and interested in the UFO subject. He never
+    let it go.
+  claim_id: 8ba9e89a-4c29-43ab-bf11-077d275c488c
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8ba9e89a-4c29-43ab-bf11-077d275c488c
+- text: 'Medick: DeLonge otherwise quiet on UFOs in recent years'
+  source: Ross Coulthart Answers Your Biggest UAP Questions
+  location: 00:29:23.6-00:29:28.2
+  quote: Tom DeLonge bar one statement on instagram recently has been quiet in recent
+    years on the topic
+  claim_id: aafddc88-cec4-4217-afb0-2564b29f5a8b
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
+- text: 'Coulthart: letters about The Legacy Program most changed his view'
+  source: Ross Coulthart Answers Your Biggest UAP Questions
+  location: 00:30:39.0-00:30:49.9
+  quote: probably the most significant was as a result of a whole lot of letters that
+    I wrote to people who I just assumed might know something about the legacy program
+    if it existed.
+  claim_id: 1795dcb8-62da-40e6-885f-4595329d4e5e
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
+- text: 'Strieber: Carter reportedly asked DOD to tell the public the UFO story'
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+  location: 00:52:49.5-00:53:00.6
+  quote: you're Jimmy Carter, who apparently had this happen. Uh, and you say to the
+    defense department, okay, I want to tell the story about the UFOs.
+  claim_id: ffd06e70-b87e-43de-a6aa-33eb450743d9
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ffd06e70-b87e-43de-a6aa-33eb450743d9
+- text: 'Strieber: Carter told disclosure would be a trip wire'
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+  location: 00:53:35.9-00:53:40.7
+  quote: the result of that of course was he wouldn't even talk about it anymore if
+    that if i'm right about what they're told
+  claim_id: 621446df-5e72-4b5c-91b6-6cf2159ad8f0
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-621446df-5e72-4b5c-91b6-6cf2159ad8f0
+- text: '2023 hearing: over 20% of Americans report seeing UFOs or UAP'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:16831-16951
+  quote: They have also done nothing to calm the concerns of over 20 percent of Americans
+    who have reported to have seen UFOs or UAPs.
+  claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
+- text: 'Burchett: Congress members confided their own anonymous sightings'
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:12150-12316
+  quote: Some have even confided in me that they have had UFO sightings of their own.
+    Those Members, of course, some of them wish to remain anonymous and I will keep
+    it that way.
+  claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 0a096ac17ea532b0bdf86f84b0b36a7b6544a94e58221c3278c4ef2cd676a2c7
+  prompt_sha256: 26a7441bc085040d59a2229e26fdf57ae69ef12ad18822cc31564fde77279e4e
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 105203
-    output: 51785
+    input: 106023
+    output: 38374
     real_input: 2
-    cache_read: 39325
-    cache_write: 65876
+    cache_read: 39417
+    cache_write: 66604
     calls: 0
-  body_sha256: d9173db742cdc06840bb8b62571407e98709d9332dfec1f4c6f18b3fc713ca73
+  body_sha256: d946fa2fcc97af98f57841a042dbf78758a2944b4a2b992db132effeeb61db45
 ---
 
-The term "flying saucer" entered public use the day after the 1947 Kenneth Arnold sighting, when newspapers first used it to describe what he had reported.<sup>1</sup> That December, the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) Chief of Staff established Project Sign to investigate the first recorded observations of unidentified flying objects.<sup>2</sup> In 1952, the USAF's Director of Intelligence initiated [Project Blue Book](/projects/project-blue-book) to investigate UFOs.<sup>3</sup> Between 1947 and 1969, the Air Force ran a series of studies investigating more than 12,000 claimed UFO sightings before the effort was officially ended;<sup>4</sup> 701 of those cases remained unexplained.<sup>5</sup> Some early investigators were concerned with determining whether UFOs were Soviet secret weapons or a psychological warfare operation intended to cause public fear and undermine US morale.<sup>6</sup>
+An unidentified flying object (UFO) is, at its simplest, an airborne object that an observer cannot identify - a definition that carries no inherent implication of extraterrestrial visitation, since it could equally describe a weather balloon or something misinterpreted, according to psychiatrist Benjamin Simon, who treated Betty and Barney Hill after their sighting.<sup>1</sup> The term "flying saucer" entered popular use the day after Kenneth Arnold's 1947 sighting, when newspapers first coined it.<sup>2</sup> That December, the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) Chief of Staff established Project Sign to investigate the first recorded UFO observations,<sup>3</sup> and in 1952 the Air Force Director of Intelligence launched its successor, [Project Blue Book](/projects/project-blue-book).<sup>4</sup> Between 1947 and Blue Book's closure in 1969, the Air Force investigated more than 12,000 claimed sightings.<sup>5</sup>
 
-Since 1969, the official position of the US military has been that UFOs pose no threat to national security and are not worthy of further study,<sup>7</sup> and, according to *In Plain Sight*, a 1985 USAF summary of Project Blue Book's conclusions told the public that nothing had happened to indicate the air force ought to resume investigating UFOs.<sup>8</sup> According to *Imminent: Inside the Pentagon's Hunt for UFOs*, the USAF maintained that no UFO it had reported, investigated and evaluated had ever given any indication of a threat to national security,<sup>9</sup> and David Marler said that for decades the USAF, the FBI and the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) maintained an official policy of denying, dispelling and debunking the UFO subject.<sup>10</sup> George Knapp said that documents obtained through Freedom of Information Act requests nonetheless showed high-ranking military officers privately regarding the UFO mystery as "serious business,"<sup>11</sup> and that internally, military leaders acknowledged UFOs were "real, not fictitious," metallic craft capable of manoeuvres beyond any known technology;<sup>12</sup> Knapp also said the same documents describe a number of incidents in which UFOs showed intense interest in US military assets, particularly nuclear weapons.<sup>13</sup> Not every institutional or scientific account has treated the phenomenon as anomalous, however. J. Allen Hynek, a Project Blue Book consultant, said the termination of the programme was "the coup de grace" to the UFO era, meaning science had spoken and UFOs did not exist.<sup>14</sup> Carl Sagan said his personal view was that none of the claims of past extraterrestrial visitation of Earth - historical artefacts and legends, UFO sightings, or patterns in ionospheric echo delay times - approached compelling evidence.<sup>15</sup> Edward Ruppelt noted that spikes in reported sightings tended to follow official press events that mentioned UFOs,<sup>16</sup> and that the inability to collect an object's altitude, size and speed was a recurring, significant obstacle to resolving cases.<sup>17</sup> A 2024 report on the historical record of US government involvement records that the All-domain Anomaly Resolution Office assesses some portion of UAP misidentifications almost certainly resulted from a surge in new technologies that observers understandably reported as UFOs,<sup>18</sup> and that, per a declassified CIA assessment on reconnaissance aircraft, more than half of the UFO reports investigated in the 1950s and 1960s were assessed to be US reconnaissance flights,<sup>19</sup> spiking in particular when the U-2 Dragon Lady was in flight, especially from airline pilots reporting to air traffic control.<sup>20</sup>
+Blue Book's end was described by consultant J. Allen Hynek as the "coup de grace" to the UFO era - in his account, science had spoken, and the thousands of people who had reported sightings could be dismissed as deluded, hoaxers, or mentally unbalanced.<sup>6</sup> A 1985 Air Force summary of the programme's conclusions told the public that nothing had happened to warrant resuming the investigation,<sup>7</sup> and from 1969 the official position of the United States military was that UFOs posed no threat to national security and did not merit further study.<sup>8</sup> Journalist David Marler has said that for decades the USAF, the FBI and the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) maintained a policy of denying, dispelling and debunking the subject.<sup>9</sup> A declassified CIA assessment of reconnaissance aircraft found that more than half of the UFO reports investigated during the 1950s and 1960s were in fact American reconnaissance flights.<sup>10</sup>
 
-Individual sightings recur throughout the record. During the 1994-01-27 Tajik Air Boeing 747SP UFO sighting over Kazakhstan, the crew first saw a bright light of enormous intensity approaching from over the horizon to the east, at a great rate of speed and at a much higher altitude than their own aircraft.<sup>21</sup> They watched it for approximately 40 minutes as it manoeuvred in circles, corkscrews and 90-degree turns at rapid speed under very high g-forces,<sup>22</sup> before it adopted a horizontal high-speed course and disappeared over the horizon.<sup>23</sup> Because it was dark, the crew could not discern the object's shape,<sup>24</sup> though pilot Ed Rhodes described its light as having a bow wave, resembling a high-speed photograph of a bullet in flight, in which a very small object gives off a much larger trailing wave of heat and light.<sup>25</sup> The contrails left afterwards reflected the object's manoeuvres, including circles and corkscrews.<sup>26</sup> Rhodes said he considered the object to have been extraterrestrial and under intelligent control,<sup>27</sup> and, according to the report, his crew appeared to support that view.<sup>28</sup> In 1973, Paul Brown saw an object land on the road in front of him near Athens, Georgia.<sup>29</sup> In spring 2013, a pilot named Eric, flying from Denver to Saskatchewan at cruising altitude, observed a cigar-shaped object, pointed at both ends, solid white in colour, with no visible means of propulsion and no wavy motion,<sup>30,31</sup> travelling in the opposite direction to his aircraft at the same altitude before it passed from view;<sup>32</sup> he estimated it was travelling at approximately 1,100 to 1,300 kilometres per hour.<sup>33</sup>
+That posture shifted with disclosure of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip). For years the programme investigated UFO reports, according to Department of Defense officials, participant interviews and records obtained by The New York Times.<sup>11</sup> Luis Elizondo is the former head of AATIP, the Pentagon unit that researched UFOs, now known as [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>12</sup> The programme was tasked with investigating both UFOs and UAP,<sup>13</sup> and it compiled video and audio recordings of reported incidents, including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded by a glowing aura, travelling at high speed and rotating as it moved.<sup>14</sup> Elizondo has said that Jay Stratton proposed calling the objects "Unidentified Aerial Phenomena" rather than "Unidentified Flying Objects" to make the conversation easier with leadership,<sup>15</sup> since Pentagon leadership did not want to be associated with the label's historical stigma, in Elizondo's account.<sup>16</sup> That culture of denial changed with the leaking of infrared footage captured aboard US fighter jets and Navy ships, released by the Department of Defense in 2017.<sup>17</sup> David Fravor has said the resulting 2017 New York Times report removed the stigma from the topic.<sup>18</sup>
 
-That climate of official denial shifted publicly in 2017, when infrared footage captured aboard US fighter jets and Navy ships was leaked and released by the Department of Defense.<sup>34</sup> The footage had been collected by the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), which gathered video and audio recordings of reported UFO incidents, including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded by a glowing aura, travelling at high speed and rotating as it moved.<sup>35</sup> [Luis Elizondo](/people/luis-elizondo) is the programme's former head.<sup>36</sup> Elizondo said that within the programme, Jay Stratton proposed calling the objects [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) rather than UFOs, to make the conversation with leadership easier,<sup>37</sup> and that Pentagon leadership did not want to be associated with the historical stigma attached to UFOs.<sup>38</sup> David Fravor said the 2017 New York Times report removed that stigma from the subject.<sup>39</sup> Elizondo, Harold Puthoff and Christopher Mellon subsequently spoke publicly about their work as To the Stars Academy of Arts and Science sought funding for research into UFOs;<sup>40</sup> Robert Bigelow, who had separately begun funding private UFO investigations as well as the work of UFO organisations,<sup>41</sup> said he believes UFOs have visited Earth.<sup>42</sup> [Jesse Mitchells](/people/jesse-mitchells) said the US government has been conducting covert reverse-engineering programmes on UFOs for approximately 70 to 80 years.<sup>43</sup>
+Individual witness accounts span decades. [Betty Hill](/people/betty-hill) and [Barney Hill](/people/barney-hill)'s case began with a six-page report to the National Investigations Committee on Aerial Phenomena describing their sighting.<sup>19</sup> Betty Hill's account, relayed by Benjamin Simon, described the object landing, emitting beeping sounds, stalling their car's motor and leaving silver-like spots on the vehicle,<sup>20</sup> and Betty held far more conviction that what they had seen was a UFO than Barney did.<sup>21</sup> In a later, well-documented case, the crew of a Tajik Air Boeing 747SP first saw an intensely bright light approaching from the eastern horizon at great speed and at a higher altitude than their own aircraft, during the 1994 Tajik Air Boeing 747SP sighting over Kazakhstan.<sup>22</sup> The crew watched it manoeuvre in circles, corkscrews and 90-degree turns under very high g-forces for approximately forty minutes,<sup>23</sup> before it adopted a horizontal high-speed course and disappeared over the horizon;<sup>24</sup> because the sighting occurred in darkness, the crew could not discern its shape.<sup>25</sup> Pilot Ed Rhodes has said that, on the basis of its speed and manoeuvrability, he considers the object to have been extraterrestrial and under intelligent control.<sup>26</sup> Sightings of this kind persist: [Chris Ramsay](/people/chris-ramsay)'s DEBRIEFED programme recounted a witness, Eric, who in spring 2013 saw a cigar-shaped object while flying from Denver to Saskatchewan at cruising altitude,<sup>27</sup> pointed at both ends, solid white and showing no visible means of propulsion,<sup>28</sup> travelling in the opposite direction to his aircraft at the same altitude before passing out of view,<sup>29</sup> at an estimated 1,100 to 1,300 kilometres per hour.<sup>30</sup>
 
-The subject reached the US Congress in July 2023: a hearing titled "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency" was told that over 20 percent of Americans have reported having seen UFOs or UAP,<sup>44</sup> and Representative Anna Paulina Luna cited a further poll finding that nearly half of Americans believe the Federal Government is doing a very bad or somewhat bad job of dealing with reports of UFO sightings.<sup>45</sup> Representative Tim Burchett said some of his fellow Members of Congress had confided in him that they had had UFO sightings of their own, while wishing to remain anonymous,<sup>46</sup> and the same hearing recalled that, in 1969 in Georgia, [Jimmy Carter](/people/jimmy-carter) claimed to have seen a UFO.<sup>47</sup> Robert Garcia said research on unidentified anomalous phenomena had been concealed by the Defense Intelligence Agency.<sup>48</sup> David Marler said the recent US government admissions were a "game changer" for the UFO subject and its public perception.<sup>49</sup> David Grusch said UFO file releases need to be handled professionally, rather than repeating the approach taken with the John F. Kennedy assassination records release.<sup>50</sup> Journalist [Ross Coulthart](/people/ross-coulthart) has said that writing letters to people he thought might know something about "The Legacy Program" produced responses that were the most significant thing that changed his mind about UFOs;<sup>51</sup> he has said [Tom DeLonge](/people/tom-delonge) remains engaged and interested in the subject and has never let it go,<sup>52</sup> though Meagan Medick said DeLonge had otherwise been largely quiet on the topic in recent years, aside from one recent statement on Instagram.<sup>53</sup>
+Researchers have proposed differing frameworks for the phenomenon. Religious studies scholar [Diana Walsh Pasulka](/people/diana-walsh-pasulka) has said that [Jacques Vallée](/people/jacques-vallee)'s approach addresses three aspects of the subject: the physical, the testimonial evidence of experiencers, and the social question of how belief in the phenomenon persists regardless of verifiable evidence.<sup>31</sup> Vallée himself has argued that official statements downplaying radar and satellite detection are misleading, since radar operators classify such objects as "uncorrelated targets" rather than reporting them as UFOs.<sup>32</sup> Jason Samosa has said Vallée's approach examines the cultural impact of UFOs over time on human belief systems and infers from that impact the motivations of whatever is said to operate the phenomenon,<sup>33</sup> and has separately argued that the extraterrestrial hypothesis is inadequate to the data, since craft have reportedly landed repeatedly and appear in many different forms.<sup>34</sup> Samosa has also said that, in Messengers of Deception, Vallée warned a worldwide mass appearance of UFOs could cause cults to blossom while trust in government collapsed.<sup>35</sup> [Whitley Strieber](/people/whitley-strieber) has said UFOs are routinely observed displaying both small size - sometimes only a few metres in diameter - and seemingly limitless propulsion,<sup>36</sup> and considers zero-point energy the one known force that might explain it.<sup>37</sup> Michael Hesemann, considered one of Europe's leading experts on the UFO phenomenon,<sup>38</sup> has pointed out similarities between Marian visions and UFO sightings,<sup>39</sup> though he has said he tries to avoid interpretation, preferring to relate the history of such events in their own light despite not denying the parallels.<sup>40</sup> Physicist [James MacDonald](/people/james-macdonald) took a more cautious, evidentiary approach: as a scientist, he said he was not entirely comfortable relying on hearsay in UFO cases,<sup>41</sup> and considered that a soundless object hovering stationary, in conditions that did not indicate ball lightning, also ruled out meteors as an explanation.<sup>42</sup>
 
-Interpretations of the phenomenon diverge sharply. [Diana Walsh Pasulka](/people/diana-walsh-pasulka) has described [Jacques Vallée](/people/jacques-vallee)'s approach to UFOs as addressing three aspects: the physical, the testimonial evidence of experiencers, and the social question of how belief in the phenomenon persists regardless of verifiable evidence.<sup>54</sup> Jason Samosa has said Vallée's approach separately examines the cultural impact of UFOs on human belief systems over time, inferring from it the motivations of whatever lies behind the phenomenon,<sup>55</sup> and that in *Messengers of Deception*, Vallée warned a worldwide mass appearance of UFOs could cause cults to blossom while trust in government collapsed, changing the global status quo overnight.<sup>56</sup> In that book, Major Murphy is quoted suggesting the confusion surrounding the UFO mystery may have been deliberately introduced to achieve certain ends, including keeping scientists away and creating conditions for a new form of social control.<sup>57</sup> Vallée has separately suggested that the UFO phenomenon represents a technology, comparable to television, that manipulates the perceptions of the human mind,<sup>58</sup> and that scientific attitudes denying the existence of the UFO mystery have contributed to a long-term loss of popular support for science.<sup>59</sup> He has also said that 1960s-era radar and satellite-tracking denials were misleading, since radar operators classify UFOs as "uncorrelated targets" rather than reporting them as such.<sup>60</sup> Pasulka coined the term "meta-experiencer" for scientists who drew on data from primary UFO experiencers while remaining reticent about admitting they believed in the reality of UFOs,<sup>61</sup> and defined a "UFO flap" as a series of sightings by several individuals or groups over a span of a few days.<sup>62</sup> Michael Hesemann is considered one of Europe's leading experts on the UFO phenomenon<sup>63</sup> and has pointed out similarities between [Marian apparitions](/topics/marian-apparitions) and UFO sightings,<sup>64</sup> saying that the Hrushiv apparition, like the apparitions at Fatima, presents a UFO-like image of the Virgin Mary's "vehicle."<sup>65</sup> Many Marian apparitions have indeed included bright, multicoloured lights and whirling, UFO-like disks.<sup>66</sup> Hesemann has said he does not deny the obvious parallels between the two kinds of phenomena but tries to avoid interpretation, preferring to tell the history of the Fatima events in their own light.<sup>67</sup> [Whitley Strieber](/people/whitley-strieber), by contrast, has said that UFO occupants, like the fairy folk before them, have at best a localised and tangential effect on the social order, unlike Marian apparitions.<sup>68</sup> [James MacDonald](/people/james-macdonald), writing as a scientist, said he was not entirely happy relying on hearsay evidence in UFO cases,<sup>69</sup> and that it takes about an hour to do justice to any good UFO sighting report.<sup>70</sup> He considered a soundless object hovering stationary, in conditions ruling out ball lightning, sufficient to rule out a meteor as an explanation,<sup>71</sup> and regarded reports in which the object was simply a light in the sky as an extremely dangerous category for misinterpretation.<sup>72</sup>
+Investigative reporting has probed the scale of official interest. [George Knapp](/people/george-knapp) has said the Advanced Aerospace Weapon System Applications Program (AAWSAP) - AATIP's associated research effort - was likely the largest UFO study ever conducted with government funds,<sup>43</sup> and its data set has been described as the largest and most sophisticated UFO warehouse ever created, cataloguing more than 200,000 cases.<sup>44</sup> Journalist [Leslie Kean](/people/leslie-kean) has said extraordinary UFO sightings have occurred in America for more than sixty years, many observed by pilots and military personnel and many yielding physical evidence,<sup>45</sup> and that volumes of case studies have been published by qualified researchers since the 1950s<sup>46</sup> - work that forms part of the broader field of [ufology](/topics/ufology). Podcaster [Jesse Mitchells](/people/jesse-mitchells) has said the United States government has been conducting covert reverse-engineering programmes on UFOs for approximately 70 to 80 years.<sup>47</sup> Major Murphy has suggested that confusion surrounding the UFO mystery may have been deliberately introduced to keep scientists away and create conditions for a new form of social control.<sup>48</sup> Musician [Tom DeLonge](/people/tom-delonge) remains engaged with the subject and, according to journalist [Ross Coulthart](/people/ross-coulthart), has never let it go,<sup>49</sup> despite otherwise being quiet on the topic in recent years.<sup>50</sup> Coulthart has said letters he wrote to people he believed might know something about a project called The Legacy Program produced the responses that most significantly changed his own view of UFOs.<sup>51</sup> Strieber has recounted that [Jimmy Carter](/people/jimmy-carter), while president, apparently asked the Department of Defense to tell the public the story about UFOs,<sup>52</sup> and attributes Carter's subsequent refusal to discuss the topic to having been told that presidential disclosure would be a "trip wire".<sup>53</sup> A 2023 congressional hearing on UAP heard that more than 20 percent of Americans have reported seeing UFOs or UAP,<sup>54</sup> and Representative Tim Burchett has said some members of Congress have confided in him that they had sightings of their own while wishing to remain anonymous.<sup>55</sup>

@@ -1,14 +1,31 @@
 ---
 title: Luis Elizondo
-description: Former US Department of Defense intelligence officer who led the Advanced
-  Aerospace Threat Identification Program and later became a public advocate for UAP
-  disclosure.
+aliases:
+- /people/lue-elizondo/
+- /en/people/lue-elizondo/
+- /people/luis-elizondo-lou/
+- /en/people/luis-elizondo-lou/
+- /people/luis-lou-elizondo/
+- /en/people/luis-lou-elizondo/
+- /people/luis-d-elizondo/
+- /en/people/luis-d-elizondo/
+- /people/luis-elizondo-lue/
+- /en/people/luis-elizondo-lue/
+- /people/luis-lue-elizondo/
+- /en/people/luis-lue-elizondo/
+- /people/lou-elizondo/
+- /en/people/lou-elizondo/
+description: Luis Elizondo is a former United States Department of Defense intelligence
+  officer who led the Advanced Aerospace Threat Identification Program, the Pentagon's
+  investigation into unidentified anomalous phenomena, before resigning in 2017 and
+  co-founding To the Stars Academy of Arts and Science.
 metadata:
-  role: Former Department of Defense intelligence officer; former Director, Advanced
-    Aerospace Threat Identification Program
+  role: Former Senior Intelligence Officer, Office of the Secretary of Defense (final
+    DoD position)
+  known_for: Director, Advanced Aerospace Threat Identification Program (AATIP), 2010-2017
   affiliation: To the Stars Academy of Arts and Science (TTSA)
 built_from:
-  brief_hash: f10f33099b1ad72b97767e7815addc4010f329069caf948fb3f20cd62348674f
+  brief_hash: 3ee434ece5c26b4909f8d9e6f2944bdf168c461781eeb2d451ada89b8fbbdada
   claims:
   - id: a80bf7f8-21ae-429c-95a4-0c62bf84ede8
     hash: 209636dd362642de7cffae85fc3b4d5e1d904f551e6452e6639d4cafdf4f33d5
@@ -156,8 +173,6 @@ built_from:
     hash: 4bb3a381ca1911d2e02d8c90a426cab6cf2992bd48f3968b28eb230d8f45f25d
   - id: 4902c134-150c-4d8c-b9fc-237d3bba6d78
     hash: 767441e60d008cb3943fde21d6bcfefa5fe04774874e3593b0843fbf9e82e76f
-  - id: 80023702-ddcc-4df2-8508-79e3509c5c22
-    hash: 1388516d0ffc90ebce5656261995479e00a849326e1b90c39ae0287a82580824
   - id: ac24a6b0-dab0-43ee-8c72-a5ff7c429af7
     hash: 92215338d9925f5ceee8ebdcc0049ec5b2d5624df0b0591ba443f8123c93a9d9
   - id: 555c87c5-9285-470d-9523-360e9e1474b1
@@ -404,6 +419,8 @@ built_from:
     hash: a0dda2867c5e18c99c6aa14bc192ecbb6be0220e054761f87e02f73abbfa9138
   - id: d5c04c24-1b66-4b20-bb01-73b644fa7530
     hash: 3e029847860378ec15a190cbb71783d8e9fe2fe603ccbc2c6f98b9d103341dc7
+  - id: 888fa18c-8db5-4387-9727-5315283c5ae6
+    hash: c76f71170a8895d7eaaac5fdfd6e0a43d8d94f3b773c339953ad7a1465bf44e1
   - id: a0b0152d-51bd-4f32-9581-ddcf98ff364d
     hash: b2cadefd7e92d0e8f7edfa8bd79d123e6ed2c7165a457f3bec28e1b2be1a9974
   - id: 347dab82-970f-4471-8a1e-4c6144e5298b
@@ -411,18 +428,37 @@ built_from:
   - id: 422cd7cc-ee1b-492f-9888-3cd74eedf255
     hash: ad546c17c89a9e71b4672f6c3d4441fb5d64a01739a309200af26012e57b1071
 references:
-- text: Elizondo was hired into OUSDI in 2008 by James Clapper
+- text: Elizondo describes himself as a 'career spy'
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: '27'
+  quote: the self-described “career spy” is having another big moment in the media
+    spotlight.
+  claim_id: b2188469-9136-4473-8c6b-edd1ce85a6ad
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b2188469-9136-4473-8c6b-edd1ce85a6ad
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b2188469-9136-4473-8c6b-edd1ce85a6ad
+- text: Elizondo worked at AATIP at the US DoD (Pentagon)
+  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
+    10
+  location: 00:18:11.9-00:18:18.8
+  quote: he did work at ATIP, All Domain Anomaly Threat Identification Program at
+    the Pentagon.
+  claim_id: 7cdfaa7a-5095-4299-8715-9ebf94ad5d9d
+  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
+  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7cdfaa7a-5095-4299-8715-9ebf94ad5d9d
+- text: AATIP was the secretive Pentagon unit, set up at Harry Reid's urging, that
+    Elizondo led inside AAWSAP to study UAP
   source: In Plain Sight
-  location: ch21:11763-12072
-  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
-    the office that acts as the principal staff for the Department of Defense on sensitive
-    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
-    including the Defense Intelligence Agency and the National Security Agency
-  claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
+  location: ch21:12280-12444
+  quote: Inside that program, he led the Advance Aerospace Threat Identification Program
+    (AATIP), the secretive Pentagon unit set up at Senator Harry Reid's urging to
+    study UAPs.
+  claim_id: 06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-- text: Based in OUSDI from 2008 until his 2017 retirement
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
+- text: Elizondo was based in OUSDI from 2008 until his 2017 retirement
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:16557-16753
@@ -433,27 +469,38 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2de3e303-1874-446d-82dc-ec5e4b582e2c
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2de3e303-1874-446d-82dc-ec5e4b582e2c
-- text: AATIP was launched from OUSDI and managed by career counterintelligence officer
-    Elizondo
-  source: Statement to Congress
-  location: char:8712-8867
-  quote: AATIP was launched from OUSDI, the office of the undersecretary for defense
-    intelligence and was managed by a career counterintelligence officer named Lue
-    Elizondo.
-  claim_id: b267f3e4-23d0-47f8-8216-4eb4b65bc161
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
-- text: In 2010 Elizondo took over AATIP, focused on national security implications
-    of UAP documented by US service members
+- text: James Clapper hired Elizondo into OUSDI in 2008
+  source: In Plain Sight
+  location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
+  claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
+- text: Elizondo was tasked to join AAWSAP
+  source: In Plain Sight
+  location: ch21:12081-12271
+  quote: Soon after joining OUSDI, Elizondo was tasked to join a special program described
+    by a deliberately dull-sounding military acronym, AAWSAP, the Advanced Aerospace
+    Weapon System Applications Program.
+  claim_id: 01549d52-fdb3-4597-9642-0477737e1f05
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01549d52-fdb3-4597-9642-0477737e1f05
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-01549d52-fdb3-4597-9642-0477737e1f05
+- text: Elizondo spent 20 years in military intelligence in Afghanistan, the Middle
+    East and Guantanamo
   source: Navy pilots describe encounters with UFOs
-  location: 00:02:01.6-00:02:11.4
-  quote: When Elizondo took over in 2010, he focused on the national security implications
-    of unidentified aerial phenomena documented by U.S. service members.
-  claim_id: 0cbce81d-a515-4010-a02d-2c91ea0558f9
+  location: 00:01:02.4-00:01:10.0
+  quote: Luis Elizondo spent 20 years running military intelligence operations worldwide
+    in Afghanistan, the Middle East, and Guantanamo.
+  claim_id: 555c87c5-9285-470d-9523-360e9e1474b1
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0cbce81d-a515-4010-a02d-2c91ea0558f9
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-555c87c5-9285-470d-9523-360e9e1474b1
 - text: AATIP's mission was to collect and analyse information on anomalous aerial
-    vehicles (AAV)
+    vehicles
   source: Navy pilots describe encounters with UFOs
   location: 00:01:24.1-00:01:33.3
   quote: The mission of AATIP was quite simple. It was to collect and analyze information
@@ -462,19 +509,17 @@ references:
   claim_id: 4cf1592d-660d-4d34-9307-741a9e956727
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-4cf1592d-660d-4d34-9307-741a9e956727
-- text: Elizondo maintains the Pentagon secretly continued UAP investigations after
-    2012 funding ended
-  source: In Plain Sight
-  location: ch21:12717-12797
-  quote: Elizondo maintains that the Pentagon secretly continued its investigations
-    into UAPs.
-  claim_id: 8e956a07-36ab-4cb5-9f96-fc248a70c176
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e956a07-36ab-4cb5-9f96-fc248a70c176
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e956a07-36ab-4cb5-9f96-fc248a70c176
-- text: Government funding for the effort dried up in 2012
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
+- text: In 2010 Elizondo took over AATIP, focusing on the national security implications
+    of UAP
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:01.6-00:02:11.4
+  quote: When Elizondo took over in 2010, he focused on the national security implications
+    of unidentified aerial phenomena documented by U.S. service members.
+  claim_id: 0cbce81d-a515-4010-a02d-2c91ea0558f9
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0cbce81d-a515-4010-a02d-2c91ea0558f9
+- text: Only AATIP's funding ended in 2012, not the effort
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:5515-5622
   quote: But Mr. Elizondo said the only thing that had ended was the effort’s government
     funding, which dried up in 2012.
@@ -483,8 +528,7 @@ references:
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
 - text: After 2012 Elizondo worked with US Navy and CIA officials on AATIP
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:5628-5728
   quote: From then on, Mr. Elizondo said in an interview, he worked with officials
     from the Navy and the C.I.A.
@@ -492,18 +536,293 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-- text: AATIP run from the Pentagon's fifth floor, C Ring
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:865-1000
-  quote: It was run by a military intelligence official, Luis Elizondo, on the fifth
-    floor of the Pentagon’s C Ring, deep within the building’s maze.
-  claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
+- text: The AATIP effort continued under a successor Elizondo declined to name
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:6039-6132
+  quote: Mr. Elizondo said that the effort continued and that he had a successor,
+    whom he declined to name.
+  claim_id: 48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
-- text: Pentagon spokesperson said Elizondo had no assigned AATIP responsibilities
-    while at OUSDI
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
+- text: AATIP staff were a loose-knit, often part-time mix of specialists
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:37.0-00:02:46.7
+  quote: Elizondo tells us AATIP was a loose-knit mix of scientists, electro-optical
+    engineers, avionics, and intelligence experts, often working part-time.
+  claim_id: ec4efb83-b647-48ca-8fda-c3be6fdec334
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-ec4efb83-b647-48ca-8fda-c3be6fdec334
+- text: AATIP concluded a real phenomenon is present in the sky, of unknown nature
+    and capability
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:10:36.7-00:10:49.8
+  quote: Well, I think it is very clear that our organization determined the reality
+    of something is in our sky. We don't know what it is. We don't know how it works.
+    We have no idea its intent. and only seen some of its capabilities.
+  claim_id: 2b092083-956b-46f6-b94f-838b67df7bb0
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2b092083-956b-46f6-b94f-838b67df7bb0
+- text: AAV studied by AATIP reached 600 to 700 G-forces
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:12.6-00:02:16.1
+  quote: Imagine a technology that can do 600 to 700 G-forces...
+  claim_id: 31c67cf0-04ad-48e5-9376-420e35efb44d
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-31c67cf0-04ad-48e5-9376-420e35efb44d
+- text: AAV reached approximately 21,000 km/h
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:17.0-00:02:18.8
+  quote: that can fly at 13,000 miles an hour
+  claim_id: 9c25327b-95ec-49a7-8388-36cbc2fff286
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-9c25327b-95ec-49a7-8388-36cbc2fff286
+- text: AAV could evade radar
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:19.6-00:02:20.9
+  quote: that can evade radar
+  claim_id: d8b7e413-d5b2-48f4-9d0b-aed4d08301eb
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d8b7e413-d5b2-48f4-9d0b-aed4d08301eb
+- text: AAV could fly through air, water and possibly space
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:22.3-00:02:26.0
+  quote: that can fly through air and water and possibly space
+  claim_id: 7a2da59c-30c0-493d-9220-688e197fd4d6
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-7a2da59c-30c0-493d-9220-688e197fd4d6
+- text: AAV showed no obvious signs of propulsion, wings or control surfaces
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:27.8-00:02:31.4
+  quote: has no obvious signs of propulsion, no wings, no control surfaces
+  claim_id: 4ce0f23d-12cc-4297-9ad0-95120c8150d8
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-4ce0f23d-12cc-4297-9ad0-95120c8150d8
+- text: AAV appeared to defy Earth's gravity
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:32.4-00:02:36.2
+  quote: still can defy the natural effects of Earth's gravity. That's precisely what
+    we're seeing.
+  claim_id: 519488a0-f930-4497-bb7e-bd5264302491
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-519488a0-f930-4497-bb7e-bd5264302491
+- text: The Nimitz object disappeared instantaneously and reappeared at the cap point
+    five seconds later
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:16:34.0-00:16:52.4
+  quote: and then all of a sudden, bam, it's gone. Bing, disappears instantaneously.
+    Five seconds later, you can do the math, one of the radar operators radios into
+    the F-18 and says, sir, you're not gonna believe this, but the object is now waiting
+    for you at your cap point.
+  claim_id: 5b5950e0-41f0-4b28-ba23-31269da8b761
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5b5950e0-41f0-4b28-ba23-31269da8b761
+- text: The Nimitz object showed no propulsion, lift, wings, rudders, control surfaces,
+    ailerons, elevators, cockpit or rivets
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:18:24.8-00:18:32.2
+  quote: No visible propulsion. No obvious signs of lift. No wings. No rudders. No
+    control surfaces. No ailerons. No elevators. No cockpit. No rivets.
+  claim_id: d3e254f2-f147-40dd-a1b2-5e1aac671e2a
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d3e254f2-f147-40dd-a1b2-5e1aac671e2a
+- text: Elizondo considers the Nimitz object to have responded intelligently to Fravor's
+    actions
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:15:53.9-00:15:56.1
+  quote: It is absolutely intelligent responding to his actions.
+  claim_id: d9a885af-cec0-4e2e-bc54-503f21ee1bf2
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d9a885af-cec0-4e2e-bc54-503f21ee1bf2
+- text: Elizondo compared the Gimbal video object's manoeuvring to the Apollo Lunar
+    Module's docking approach
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: 00:00:13.0-00:00:15.0
+  quote: The GIMBAL maneuvered in a way that reminded me of the old Apollo 11 lunar
+    module... If you compare that maneuver to the way in which the object in the GIMBAL
+    video rotates, you will see an uncanny resemblance.
+  claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
+- text: Elizondo resigned in October 2017 to protest excessive secrecy and internal
+    opposition
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:5731-5888
+  quote: He continued to work out of his Pentagon office until this past October,
+    when he resigned to protest what he characterized as excessive secrecy and internal
+    opposition.
+  claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
+- text: Elizondo's 2017-10-04 memorandum cited concerns over DoD inaction on anomalous
+    aerospace threats
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19080-19229
+  quote: In a memorandum dated October 4th he cited his concerns over inaction within
+    the Department over "anomalous aerospace threats" as the reason for his resignation.
+  claim_id: 2e374f73-5524-4e67-a2e2-eccfc1998f6a
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2e374f73-5524-4e67-a2e2-eccfc1998f6a
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2e374f73-5524-4e67-a2e2-eccfc1998f6a
+- text: Elizondo's letter to Mattis said officials remained opposed to research despite
+    overwhelming evidence of a possible existential threat
+  source: In Plain Sight
+  location: ch21:13155-13453
+  quote: '''Despite overwhelming evidence at both the classified and unclassified
+    levels, certain individuals in the [Defence] Department remain staunchly opposed
+    to further research on what could be a tactical threat to our pilots, sailors
+    and soldiers, and perhaps even an existential threat to our national security.'''
+  claim_id: 6fc3cd3f-cc82-461e-9be1-2002937dab0b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6fc3cd3f-cc82-461e-9be1-2002937dab0b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6fc3cd3f-cc82-461e-9be1-2002937dab0b
+- text: Reid's second memorandum said Elizondo gave three different explanations for
+    resigning
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:18851-18921
+  quote: Mr. Elizondo has provided three different explanations for his sudden resignation.
+  claim_id: 4a2644c1-4600-43cb-897c-c697e3dd104d
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
+- text: Elizondo told his supervisor on 2017-10-03 he was resigning over a fleeting
+    job opportunity
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:18934-19066
+  quote: On October 3rd he told his direct supervisor he was resigning because he
+    had a fleeting job opportunity that required his immediate availability.
+  claim_id: 9980bad2-09bd-4034-8495-79b6fcd00ff5
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
+- text: Elizondo told Reid by phone on 2017-10-06 his job was too stressful on his
+    family
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19242-19340
+  quote: On October 6th, via a phone call, he told me he resigned because his job
+    was too stressful on his family.
+  claim_id: b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+- text: Elizondo's second resignation letter was hand-delivered by someone other than
+    Elizondo
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20167-20257
+  quote: The letter was hand delivered to the USDI Chief of Staff office by someone
+    other than Mr. Elizondo.
+  claim_id: afed40fd-5cd1-4c32-b201-4ce790e9b24b
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
+- text: Elizondo's second letter was inconsistent with his first letter, personally
+    handed to his supervisor
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:20267-20365
+  quote: The letter is not consistent with the first resignation letter Mr. Elizondo
+    personally handed his supervisor.
+  claim_id: 449bfb84-09b3-4111-ad6d-8b0a18f41db2
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
+- text: OUSDI referred Elizondo's resignation to AFOSI for counterintelligence review
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19427-19510
+  quote: Yes. We referred the timing and circumstances of Mr. Elizondo's resignation
+    to the AFOSI.
+  claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+- text: AFOSI's informal assessment found no wrongdoing by Elizondo
+  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+  location: char:19517-19663
+  quote: Their informal assessment did not find any wrongdoing by Mr. Elizondo, and
+    absent any indicators of misconduct, they were unable to open a formal investigation.
+  claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
+  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
+  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
+- text: Elizondo finished his DoD career as Senior Intelligence Officer, Office of
+    the Secretary of Defense
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:09:15.9-00:09:30.5
+  quote: Lou Elizondo literally finished his career at the Department of Defense as
+    Senior Intelligent Officer in the Office of the Secretary of Defense days ago,
+    and now he is on the stage with us.
+  claim_id: bae49fb4-e5eb-4b27-95c9-9ebc931a7da1
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-bae49fb4-e5eb-4b27-95c9-9ebc931a7da1
+- text: Elizondo served as Director for the National Program Special Management Staff
+    at DoD
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:09:31.2-00:09:35.6
+  quote: He served as Director for the National Program Special Management Staff
+  claim_id: f042f9a7-96f6-4ba2-afec-2093ef6d73ae
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f042f9a7-96f6-4ba2-afec-2093ef6d73ae
+- text: Elizondo joined Puthoff and Mellon in founding To the Stars Academy
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:12517-12762
+  quote: Mr. Elizondo has now joined Mr. Puthoff and another former Defense Department
+    official, Christopher K. Mellon, who was a deputy assistant secretary of defense
+    for intelligence, in a new commercial venture called To the Stars Academy of Arts
+    and Science.
+  claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
+- text: Elizondo joined DeLonge, Mellon and Steve Justice to form To The Stars Academy
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:5783-5963
+  quote: Lue had left the Pentagon in protest and joined forces with Tom DeLonge,
+    Chris Mellon, Steve Justice and others to form To the Stars Academy
+  claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-60718dbf-3218-4794-bc22-9b5da564d285
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-60718dbf-3218-4794-bc22-9b5da564d285
+- text: TTSA involved Mellon, Elizondo, Semivan, Justice and Puthoff
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:48:19.7-00:48:35.4
+  quote: the people who went ahead and setting up to the STARS Academy, I mean, did
+    involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice from,
+    you know, So anyway, and me.
+  claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+- text: DeLonge offered Elizondo the role of chief of security and special programs,
+    at a lower salary, requiring relocation to California
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: 111-111
+  quote: he made me an offer to join TTSA as chief of security and special programs...The
+    salary offered was much less than I was earning at the Pentagon...To do this,
+    Tom insisted that I relocate to California.
+  claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
+- text: Elizondo became TTSA's public face after the NYT AATIP story
+  source: In Plain Sight
+  location: ch21:13584-13688
+  quote: In the days after the *Times* story on the AATIP program broke, Luis Elizondo
+    became the public face of TTSA
+  claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1284d17-f24a-4cb5-ac54-a16349549048
+- text: Sherwood told Kloor Elizondo had no AATIP responsibilities while in OUSDI
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:16378-16535
+  quote: Sherwood, the Pentagon spokesperson who had told me unequivocally that Elizondo
+    “had no responsibilities with regard to the AATIP program while he worked in OUSDI.”
+  claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
+- text: Gough said Elizondo had no assigned AATIP responsibilities while in OUSDI
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: char:1261-1388
@@ -513,8 +832,7 @@ references:
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
-- text: DIA administered AATIP and Elizondo was never assigned to DIA, but did interact
-    with the DIA office running it, without leading it
+- text: Gough said DIA administered AATIP and Elizondo was never assigned to DIA
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: char:3968-4058
@@ -524,8 +842,19 @@ references:
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-- text: Puthoff, as AAWSAP/AATIP contractor and senior advisor, said his work continued
-    under Elizondo's leadership until Elizondo resigned
+- text: Gough said Elizondo interacted with the DIA AATIP office but did not lead
+    it
+  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: char:4063-4183
+  quote: Elizondo did interact with the DIA office managing the program while the
+    program was still ongoing, but he did not lead it.
+  claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
+  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
+  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
+- text: Puthoff continued as AAWSAP/AATIP contractor and senior advisor under Elizondo's
+    leadership until Elizondo resigned
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: char:6307-6705
@@ -539,7 +868,7 @@ references:
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b66416e8-dd81-4130-873d-cc9433bb7263
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b66416e8-dd81-4130-873d-cc9433bb7263
-- text: 'Puthoff: Elizondo was basically the leader of AATIP'
+- text: Puthoff said Elizondo was basically the leader of AATIP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:46:18.5-00:46:25.4
   quote: Lou Elizondo was, you know, basically was, you might say, the kind of leader
@@ -547,269 +876,26 @@ references:
   claim_id: 16520d68-6a6d-432f-a3a5-12e44c692cf8
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-16520d68-6a6d-432f-a3a5-12e44c692cf8
-- text: Under the AATIP label, Elizondo gathered videotapes, some later released publicly
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:46:58.5-00:47:12.1
-  quote: was to, for example, gather up the videotapes, some of which have come out
-    and so on, and gather data from what had been successfully carried through under
-    the AAWSAP program
-  claim_id: 35397b4c-a1ff-4c58-b1c3-b2a337621d86
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-35397b4c-a1ff-4c58-b1c3-b2a337621d86
-- text: AAV studied by AATIP observed reaching 600 to 700 G-forces
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:12.6-00:02:16.1
-  quote: Imagine a technology that can do 600 to 700 G-forces...
-  claim_id: 31c67cf0-04ad-48e5-9376-420e35efb44d
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-31c67cf0-04ad-48e5-9376-420e35efb44d
-- text: AAV observed flying at approximately 21,000 kilometres per hour
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:17.0-00:02:18.8
-  quote: that can fly at 13,000 miles an hour
-  claim_id: 9c25327b-95ec-49a7-8388-36cbc2fff286
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-9c25327b-95ec-49a7-8388-36cbc2fff286
-- text: AAV can evade radar
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:19.6-00:02:20.9
-  quote: that can evade radar
-  claim_id: d8b7e413-d5b2-48f4-9d0b-aed4d08301eb
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d8b7e413-d5b2-48f4-9d0b-aed4d08301eb
-- text: AAV can fly through air and water, and possibly space
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:22.3-00:02:26.0
-  quote: that can fly through air and water and possibly space
-  claim_id: 7a2da59c-30c0-493d-9220-688e197fd4d6
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-7a2da59c-30c0-493d-9220-688e197fd4d6
-- text: AAV show no obvious signs of propulsion, wings, or control surfaces
-  source: Navy pilots describe encounters with UFOs
-  location: 00:02:27.8-00:02:31.4
-  quote: has no obvious signs of propulsion, no wings, no control surfaces
-  claim_id: 4ce0f23d-12cc-4297-9ad0-95120c8150d8
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-4ce0f23d-12cc-4297-9ad0-95120c8150d8
-- text: AATIP determined a real phenomenon is present in the sky, its nature and capabilities
-    unknown
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:10:36.7-00:10:49.8
-  quote: Well, I think it is very clear that our organization determined the reality
-    of something is in our sky. We don't know what it is. We don't know how it works.
-    We have no idea its intent. and only seen some of its capabilities.
-  claim_id: 2b092083-956b-46f6-b94f-838b67df7bb0
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2b092083-956b-46f6-b94f-838b67df7bb0
-- text: Elizondo observed the 2004 USS Nimitz object disappeared instantly and reappeared
-    five seconds later at the aircraft's cap point
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:16:34.0-00:16:52.4
-  quote: and then all of a sudden, bam, it's gone. Bing, disappears instantaneously.
-    Five seconds later, you can do the math, one of the radar operators radios into
-    the F-18 and says, sir, you're not gonna believe this, but the object is now waiting
-    for you at your cap point.
-  claim_id: 5b5950e0-41f0-4b28-ba23-31269da8b761
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5b5950e0-41f0-4b28-ba23-31269da8b761
-- text: Elizondo observed the object had no visible propulsion, no lift signs, no
-    wings, rudders, control surfaces, ailerons, elevators, cockpit or rivets
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:18:24.8-00:18:32.2
-  quote: No visible propulsion. No obvious signs of lift. No wings. No rudders. No
-    control surfaces. No ailerons. No elevators. No cockpit. No rivets.
-  claim_id: d3e254f2-f147-40dd-a1b2-5e1aac671e2a
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d3e254f2-f147-40dd-a1b2-5e1aac671e2a
-- text: Elizondo arranged release of F/A-18 cockpit videos just before leaving the
-    DoD
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: char:12489-12592
-  quote: videos taken from cockpit cameras of F-18 fighter jets that Elizondo had
-    arranged for the Pentagon to release just before he quit.
-  claim_id: 4031d0d6-a4e8-48e0-aad8-576ea3708905
-  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4031d0d6-a4e8-48e0-aad8-576ea3708905
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4031d0d6-a4e8-48e0-aad8-576ea3708905
-- text: Elizondo resigned in October 2017, characterising it as protest against excessive
-    secrecy and internal opposition
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:5731-5888
-  quote: He continued to work out of his Pentagon office until this past October,
-    when he resigned to protest what he characterized as excessive secrecy and internal
-    opposition.
-  claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-- text: 'Resignation letter to Mattis: need for serious attention to Navy accounts
-    of unusual aerial systems interfering with weapon platforms'
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:12007-12269
-  quote: Mr. Elizondo, in his resignation letter of Oct. 4, said there was a need
-    for more serious attention to “the many accounts from the Navy and other services
-    of unusual aerial systems interfering with military weapon platforms and displaying
-    beyond-next-generation capabilities.”
-  claim_id: 8d541d40-5755-47f7-a8d9-5720bae504b1
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8d541d40-5755-47f7-a8d9-5720bae504b1
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-8d541d40-5755-47f7-a8d9-5720bae504b1
-- text: Elizondo's resignation effective 2017-10-04
-  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
-    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
-  location: char:1646-1691
-  quote: up until the time he resigned effective 10/4/2017
-  claim_id: ed8ef779-4bb6-408a-ac1e-3051ae93ebcd
-  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-ed8ef779-4bb6-408a-ac1e-3051ae93ebcd
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-ed8ef779-4bb6-408a-ac1e-3051ae93ebcd
-- text: 'Second resignation letter: staunch opposition to research despite overwhelming
-    evidence, classified and unclassified'
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:10327-10616
-  quote: Despite overwhelming evidence at both the unclassified and classified levels,
-    certain individuals in the Department remain staunchly opposed to further research
-    on what could be a tactical threat to our pilots, sailors, and soldiers, and perhaps
-    even an existential threat to our national security.
-  claim_id: d9d795bf-e4b0-41d0-82e3-89d41b7584aa
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d9d795bf-e4b0-41d0-82e3-89d41b7584aa
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-d9d795bf-e4b0-41d0-82e3-89d41b7584aa
-- text: 'Reid''s memo: Elizondo gave three different explanations for his sudden resignation'
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:18851-18921
-  quote: Mr. Elizondo has provided three different explanations for his sudden resignation.
-  claim_id: 4a2644c1-4600-43cb-897c-c697e3dd104d
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
-- text: On 2017-10-03 Elizondo told his supervisor he was resigning for a fleeting
-    job opportunity requiring immediate availability
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:18934-19066
-  quote: On October 3rd he told his direct supervisor he was resigning because he
-    had a fleeting job opportunity that required his immediate availability.
-  claim_id: 9980bad2-09bd-4034-8495-79b6fcd00ff5
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
-- text: On 2017-10-06, by phone, Elizondo told Reid he resigned because the job was
-    too stressful on his family
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:19242-19340
-  quote: On October 6th, via a phone call, he told me he resigned because his job
-    was too stressful on his family.
-  claim_id: b8b97b7f-8c19-44c8-942a-f75c9f548ad1
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
-- text: OUSDI referred the timing and circumstances of the resignation to AFOSI for
-    counterintelligence review
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:19427-19510
-  quote: Yes. We referred the timing and circumstances of Mr. Elizondo's resignation
-    to the AFOSI.
-  claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-67532264-8b2e-4625-a7db-b7ce342b5100
-- text: AFOSI's informal assessment found no wrongdoing and could not open a formal
-    investigation absent misconduct indicators
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:19517-19663
-  quote: Their informal assessment did not find any wrongdoing by Mr. Elizondo, and
-    absent any indicators of misconduct, they were unable to open a formal investigation.
-  claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
-- text: Second resignation letter hand-delivered to the OUSDI Chief of Staff office
-    by someone other than Elizondo, inconsistent with his first letter which he personally
-    handed to his supervisor
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:20167-20257
-  quote: The letter was hand delivered to the USDI Chief of Staff office by someone
-    other than Mr. Elizondo.
-  claim_id: afed40fd-5cd1-4c32-b201-4ce790e9b24b
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
-- text: Joined Puthoff and Mellon in the new venture To the Stars Academy of Arts
-    and Science
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:12517-12762
-  quote: Mr. Elizondo has now joined Mr. Puthoff and another former Defense Department
-    official, Christopher K. Mellon, who was a deputy assistant secretary of defense
-    for intelligence, in a new commercial venture called To the Stars Academy of Arts
-    and Science.
-  claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-- text: Became the public face of TTSA after the New York Times AATIP story broke
-  source: In Plain Sight
-  location: ch21:13584-13688
-  quote: In the days after the *Times* story on the AATIP program broke, Luis Elizondo
-    became the public face of TTSA
-  claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1284d17-f24a-4cb5-ac54-a16349549048
-- text: DeLonge offered Elizondo the role of chief of security and special programs
-    at TTSA, at a lower salary, requiring relocation to California
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: 111-111
-  quote: he made me an offer to join TTSA as chief of security and special programs...The
-    salary offered was much less than I was earning at the Pentagon...To do this,
-    Tom insisted that I relocate to California.
-  claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-- text: TTSA team included Christopher Mellon, Jim Semivan, Steve Justice and Hal
-    Puthoff
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:48:19.7-00:48:35.4
-  quote: the people who went ahead and setting up to the STARS Academy, I mean, did
-    involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice from,
-    you know, So anyway, and me.
-  claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-- text: Told CNN's Erin Burnett the aircraft display characteristics not currently
-    within the US inventory nor any foreign inventory he is aware of
-  source: In Plain Sight
-  location: ch21:15126-15672
-  quote: Burnett pressed the question, asking, 'Let me just ask you point-blank the
-    question, do you believe that life from somewhere else while you ran this program,
-    came here, visited, observed?' Luis Elizondo answered, 'I will tell you unequivocally
-    that through the observations, scientific methodologies that were applied to look
-    at this phenomena, that these aircraft, we'll call them aircraft, are displaying
-    characteristics that are not currently within the US inventory, nor in any foreign
-    inventory that we are aware of.'
-  claim_id: 4902c134-150c-4d8c-b9fc-237d3bba6d78
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4902c134-150c-4d8c-b9fc-237d3bba6d78
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4902c134-150c-4d8c-b9fc-237d3bba6d78
-- text: Told Erin Burnett his personal belief is there is compelling evidence we may
-    not be alone, but he could not speak for the government
-  source: In Plain Sight
-  location: ch21:15836-16271
-  quote: She pushed, 'So I know you're using – you're being clear but, I mean, the
-    answer's yes?' ... 'Aaah, my personal – I can't speak on behalf of the government
-    obviously, I'm not in the US government anymore,' Elizondo responded. 'My personal
-    belief is that ah, there is very compelling evidence that we ah, *we may not be
-    alone,* whatever that means.'
-  claim_id: 80023702-ddcc-4df2-8508-79e3509c5c22
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-80023702-ddcc-4df2-8508-79e3509c5c22
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-80023702-ddcc-4df2-8508-79e3509c5c22
-- text: '2024 written testimony: entrusted for many years with protecting some of
-    the US''s most sensitive government programmes'
+- text: Fravor said Elizondo ran AATIP at the Pentagon
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:54:36.5-01:54:38.1
+  quote: He ran the AATIP program at the Pentagon.
+  claim_id: 9ba7c3f1-9af7-41a6-a88b-ee10ed692a4f
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9ba7c3f1-9af7-41a6-a88b-ee10ed692a4f
+- text: Fravor said Jay Stratton was part of AATIP, led by Elizondo
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:43767-43846
+  quote: Unbeknownst to all, he was part of the ATIP program in the Pentagon led by
+    Lue Elizondo.
+  claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+- text: Elizondo testified he had long been entrusted with protecting sensitive government
+    programmes
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
   location: char:1250-1334
@@ -819,8 +905,8 @@ references:
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
-- text: In his last government position, managed a Special Access Program on behalf
-    of the White House and National Security Council
+- text: Elizondo said his last government position managed a Special Access Program
+    for the White House and NSC
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
   location: char:1344-1455
@@ -830,8 +916,42 @@ references:
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
-- text: States a culture of suppression and intimidation exists, of which he has personally
-    been a victim
+- text: Elizondo told Congress the US government has run secret UAP crash retrieval
+    programmes
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:10:52.5-00:10:56.2
+  quote: Has the government conducted secret UAP crash retrieval programs, yes or
+    no? ... Yes.
+  claim_id: 1682029b-e987-431b-acc6-0876d4ba78b0
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-1682029b-e987-431b-acc6-0876d4ba78b0
+- text: The crash retrieval programmes were designed to identify and reverse engineer
+    alien craft
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:10:57.4-00:11:01.0
+  quote: Were they designed to identify and reverse engineer alien craft, yes or no?
+    Yes.
+  claim_id: b434f355-e2cb-483a-b910-110502c2c241
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b434f355-e2cb-483a-b910-110502c2c241
+- text: Elizondo declined to discuss 'Blue Force technologies' at the hearing
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:10:27.8-00:10:30.1
+  quote: When it comes to Blue Force technologies, I would not be able to discuss.
+  claim_id: b7d6fc21-ad50-4530-addf-0f96f90a7b57
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
+- text: Elizondo said he had signed documentation restricting discussion of crash
+    retrievals
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:10:37.4-00:10:42.9
+  quote: I signed documentation three years ago that restricts my ability to discuss
+    specifically crash retrievals.
+  claim_id: 868a66f3-fc9f-42b0-9ad3-f89daf84c588
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-868a66f3-fc9f-42b0-9ad3-f89daf84c588
+- text: Elizondo states a small cadre created a culture of suppression and intimidation,
+    of which he has been a victim
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
   location: char:2413-2601
@@ -842,79 +962,31 @@ references:
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-5aae8a50-66a5-4865-ab50-7e3a28f142bc
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-5aae8a50-66a5-4865-ab50-7e3a28f142bc
-- text: States this culture includes unwarranted criminal investigations, harassment,
-    and efforts to destroy credibility
-  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
-    the Truth'
-  location: char:2613-2705
-  quote: This includes unwarranted criminal investigations, harassment, and efforts
-    to destroy one's credibility.
-  claim_id: ea0bf316-577b-41c2-9e9c-7dca062542cd
-  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ea0bf316-577b-41c2-9e9c-7dca062542cd
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-ea0bf316-577b-41c2-9e9c-7dca062542cd
-- text: He and former colleagues have provided classified testimony to the DoD and
-    the Intelligence Community Inspector General
-  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
-    the Truth'
-  location: char:2989-3134
-  quote: Many of my former colleagues and I have provided classified testimony to
-    both the Department of Defense and the Intelligence Community Inspector General.
-  claim_id: fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
-  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
-- text: Declined to discuss what he termed "Blue Force technologies" at the 2024-11-13
-    congressional hearing
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:10:27.8-00:10:30.1
-  quote: When it comes to Blue Force technologies, I would not be able to discuss.
-  claim_id: b7d6fc21-ad50-4530-addf-0f96f90a7b57
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
-- text: Signed documentation roughly three years before the hearing restricting discussion
-    of UAP crash retrievals specifically
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:10:37.4-00:10:42.9
-  quote: I signed documentation three years ago that restricts my ability to discuss
-    specifically crash retrievals.
-  claim_id: 868a66f3-fc9f-42b0-9ad3-f89daf84c588
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-868a66f3-fc9f-42b0-9ad3-f89daf84c588
-- text: Stated the US government has conducted secret UAP crash retrieval programs
-    designed to identify and reverse engineer alien craft
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:10:52.5-00:11:01.0
-  quote: Were they designed to identify and reverse engineer alien craft, yes or no?
-    Yes.
-  claim_id: b434f355-e2cb-483a-b910-110502c2c241
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b434f355-e2cb-483a-b910-110502c2c241
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 707f1578bfdf45bda2c77c29d970c8a73ca9664f803fc0a072b4018a7af107ec
+  prompt_sha256: f0e1e4395819121a1f3edb23940cd8c9e21166e5c87a50b6675ab0211a175959
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 370354
-    output: 84941
-    real_input: 6
-    cache_read: 174989
-    cache_write: 195359
+    input: 102598
+    output: 62712
+    real_input: 2
+    cache_read: 39417
+    cache_write: 63179
     calls: 0
-  body_sha256: 9d3a9e7200740ff5166d440a48e7298efcc2bb5a491d2f087e5f90ac5ce17163
+  body_sha256: 58233671edee118b512cd193fd500d632ea60ad1d9575f0b82f60896b5e0e34e
 ---
 
-Luis Elizondo, known in some sources as Lue or Lou Elizondo, is a former [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) intelligence officer who became publicly known as director of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip). He was hired into the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) in 2008,<sup>1</sup> and remained based there until his retirement in 2017.<sup>2</sup> AATIP was launched from OUSDI and, according to a statement to Congress, was managed by Elizondo as a career counterintelligence officer.<sup>3</sup> In 2010 he took over the programme, focusing on the national security implications of unidentified anomalous phenomena (UAP) documented by US service members.<sup>4</sup> Its mission, as Elizondo described it, was to collect and analyse information on anomalous aerial vehicles (AAV).<sup>5</sup> Elizondo maintains that the [Pentagon](/organisations/the-pentagon) secretly continued its UAP investigations after 2012,<sup>6</sup> the year in which the effort's government funding dried up;<sup>7</sup> he said he continued working with [United States Navy (USN)](/organisations/united-states-navy-usn) and [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) officials on the programme afterward.<sup>8</sup> AATIP was run from the fifth floor of the Pentagon's C Ring.<sup>9</sup>
+Luis Elizondo, who describes himself as a "career spy,"<sup>1</sup> is a former intelligence officer who worked at the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod), at the Pentagon Washington DC,<sup>2</sup> where he led the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), a secretive unit established at Senator Harry Reid's urging to study [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>3</sup> He was based in the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) from 2008 until his retirement in 2017.<sup>4</sup> In 2008, James Clapper personally hired him into that office, which serves as principal staff for the Department of Defense on sensitive intelligence matters and oversees a cluster of agencies including the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) and the NSA.<sup>5</sup> He was subsequently tasked to join the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap),<sup>6</sup> inside which he went on to lead AATIP.<sup>3</sup> Before this posting, he had spent 20 years running military intelligence operations in Afghanistan, the Middle East and Cuba Guantanamo Bay.<sup>7</sup>
 
-Elizondo's precise role has been disputed. In 2019 a Pentagon spokesperson said he had no assigned responsibilities for AATIP while stationed at OUSDI.<sup>10</sup> The Pentagon further stated that the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) administered AATIP and that Elizondo was never assigned to DIA, though he did interact with the DIA office running the programme without leading it.<sup>11</sup> Against this, [Harold E. Puthoff](/people/harold-e-puthoff), an [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap)/AATIP contractor and senior advisor, said his own work continued under Elizondo's leadership and responsibility until Elizondo resigned.<sup>12</sup> In a later interview, Puthoff said Elizondo was basically the leader of AATIP,<sup>13</sup> and that under the AATIP label Elizondo gathered videotapes, some of which were later released publicly.<sup>14</sup>
+AATIP's mission was to collect and analyse information involving anomalous aerial vehicles (AAV).<sup>8</sup> In 2010, Elizondo took over the programme and directed its focus toward the national security implications of UAP reported by US service members.<sup>9</sup> He has said that when government funding for AATIP dried up in 2012, the only thing that ended was the funding, not the effort itself,<sup>10</sup> and that he went on to work with officials from the [United States Navy (USN)](/organisations/united-states-navy-usn) and the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) on the programme.<sup>11</sup> He has said the effort continued under a successor whom he declined to name.<sup>12</sup> He has described AATIP's staff as a loose-knit, often part-time mix of scientists, electro-optical engineers, avionics specialists and intelligence experts.<sup>13</sup> Its conclusion was that a real phenomenon is present in the sky, though its nature, method of operation, intent and full capabilities remain unknown.<sup>14</sup> Vehicles studied under the programme were recorded reaching 600 to 700 G-forces<sup>15</sup> and speeds of approximately 21,000 kilometres per hour,<sup>16</sup> evading radar,<sup>17</sup> transiting through air, water, and possibly space,<sup>18</sup> showing no obvious signs of propulsion, wings, or control surfaces,<sup>19</sup> and appearing to defy the effects of Earth's gravity.<sup>20</sup> Elizondo has said that the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) involved an object that disappeared instantaneously, with a radar operator reporting five seconds later that it was waiting at the aircraft's cap point,<sup>21</sup> and that it showed no visible propulsion, no obvious signs of lift, no wings, no rudders, no control surfaces, no ailerons, no elevators, no cockpit, and no rivets.<sup>22</sup> He has said he considers the object to have responded intelligently to the manoeuvres of pilot David Fravor.<sup>23</sup> He has also compared the manoeuvring of the object in the [Gimbal video](/documents/gimbal-video) to the docking manoeuvres of the Apollo Lunar Module approaching its lunar orbiter.<sup>24</sup>
 
-Material studied under AATIP, according to Elizondo, involved AAVs observed reaching 600 to 700 G-forces<sup>15</sup> and flying at approximately 21,000 kilometres per hour,<sup>16</sup> capable of evading radar<sup>17</sup> and of flying through air and water, and possibly space,<sup>18</sup> showing no obvious signs of propulsion, wings, or control surfaces.<sup>19</sup> The programme determined that a real phenomenon is present in the sky, though its nature, method of operation, intent and full capabilities remain unknown.<sup>20</sup> Of the 2004 [USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), Elizondo said the object disappeared instantaneously and, five seconds later, a radar operator reported it waiting at the aircraft's cap point,<sup>21</sup> and that it showed no visible propulsion, no obvious signs of lift, no wings, no rudders, no control surfaces, no ailerons, no elevators, no cockpit and no rivets.<sup>22</sup> Shortly before leaving the department, he arranged for the Pentagon to release cockpit videos from F/A-18 fighter jets.<sup>23</sup>
+In October 2017, Elizondo resigned from [the Pentagon](/organisations/the-pentagon), to protest what he characterised as excessive secrecy and internal opposition.<sup>25</sup> In a memorandum dated 2017-10-04, he cited his concerns over the Department of Defense's inaction on anomalous aerospace threats as the reason.<sup>26</sup> In his resignation letter to Defense Secretary [James Mattis](/people/james-mattis), Elizondo wrote that despite overwhelming evidence at both classified and unclassified levels, certain individuals within the Department of Defense remained opposed to further research into what he called a potential tactical threat to US pilots, sailors and soldiers, and perhaps even an existential threat to national security.<sup>27</sup> According to a second memorandum by [Garry Reid](/people/garry-reid), Elizondo gave three different explanations for his sudden departure.<sup>28</sup> Reid recorded that on 2017-10-03 Elizondo told his direct supervisor he was resigning because of a fleeting job opportunity requiring his immediate availability,<sup>29</sup> and that in a phone call on 2017-10-06 he told Reid his job had become too stressful on his family.<sup>30</sup> Elizondo's second resignation letter was hand-delivered to the OUSDI Chief of Staff's office by someone other than Elizondo himself,<sup>31</sup> and was inconsistent with his first resignation letter, which he had personally handed to his supervisor.<sup>32</sup> OUSDI referred the timing and circumstances of his resignation to the [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi) for immediate counterintelligence review;<sup>33</sup> Reid stated that AFOSI's informal assessment found no wrongdoing and, absent indicators of misconduct, could not open a formal investigation.<sup>34</sup>
 
-Elizondo resigned in October 2017, a departure he characterised as protest against excessive secrecy and internal opposition.<sup>24</sup> In his resignation letter to then-Defense Secretary [James Mattis](/people/james-mattis), he wrote of the need for serious attention to Navy accounts of unusual aerial systems interfering with military weapon platforms.<sup>25</sup> The Pentagon recorded his resignation as effective 2017-10-04.<sup>26</sup> A subsequent, second resignation letter stated that despite overwhelming evidence at both classified and unclassified levels, certain individuals in the department remained staunchly opposed to further research.<sup>27</sup> The circumstances of the resignation were disputed internally: a memorandum from [Garry Reid](/people/garry-reid) recorded that Elizondo gave three different explanations for it,<sup>28</sup> telling his direct supervisor on 2017-10-03 that he was resigning for a fleeting job opportunity requiring immediate availability,<sup>29</sup> then telling Reid by phone on 2017-10-06 that the job had been too stressful on his family.<sup>30</sup> OUSDI referred the timing and circumstances to the [Air Force Office of Special Investigations (AFOSI)](/organisations/air-force-office-of-special-investigations-afosi) for counterintelligence review;<sup>31</sup> its informal assessment found no wrongdoing and, absent indicators of misconduct, could not open a formal investigation.<sup>32</sup> Reid's memorandum also noted that the second resignation letter was hand-delivered to the OUSDI Chief of Staff office by someone other than Elizondo, inconsistent with his first letter, which he had personally handed to his supervisor.<sup>33</sup>
+Elizondo finished his Department of Defense career as Senior Intelligence Officer in the Office of the Secretary of Defense, days before joining [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa).<sup>35</sup> He had earlier served as Director for the National Program Special Management Staff at the Department of Defense.<sup>36</sup> He joined [Harold E. Puthoff](/people/harold-e-puthoff) and [Christopher K. Mellon](/people/christopher-k-mellon) - a former DoD official who had served as deputy assistant secretary of defense for intelligence - in founding TTSA,<sup>37</sup> alongside [Tom DeLonge](/people/tom-delonge) and Steve Justice,<sup>38</sup> and [Jim Semivan](/people/jim-semivan).<sup>39</sup> DeLonge offered him the role of chief of security and special programs at TTSA, at a salary lower than he had earned at the Pentagon, requiring him to relocate to California.<sup>40</sup> Following the New York Times report on AATIP in December 2017, Elizondo became the organisation's public face.<sup>41</sup>
 
-After leaving the Pentagon, Elizondo joined Puthoff and [Christopher K. Mellon](/people/christopher-k-mellon) in a new venture, [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa),<sup>34</sup> becoming its public face after the New York Times story on AATIP broke.<sup>35</sup> [Tom DeLonge](/people/tom-delonge) offered him the role of chief of security and special programmes at TTSA, at a salary lower than he had earned at the Pentagon and requiring relocation to California.<sup>36</sup> The TTSA team also included [Jim Semivan](/people/jim-semivan) and Steve Justice alongside Mellon and Puthoff.<sup>37</sup> In a CNN interview, Elizondo said the observed aircraft display characteristics not currently within the US inventory nor any foreign inventory he was aware of;<sup>38</sup> pressed further on whether life from elsewhere had visited, he said his personal belief was that there is compelling evidence we may not be alone, while noting he could not speak on behalf of the government since he was no longer in it.<sup>39</sup>
+Elizondo's role at AATIP has been disputed. In 2019, [Christopher Sherwood](/people/christopher-sherwood) told journalist Keith Kloor unequivocally that Elizondo had no responsibilities regarding AATIP while working in OUSDI.<sup>42</sup> Susan Gough said Elizondo had no assigned responsibilities for the programme while in that office,<sup>43</sup> that the programme was administered by the DIA, to which Elizondo was never assigned,<sup>44</sup> and that while he interacted with the DIA office managing AATIP, he did not lead it.<sup>45</sup> Harold E. Puthoff, who continued as an AAWSAP/AATIP contractor and senior advisor under Elizondo's leadership until Elizondo resigned,<sup>46</sup> has said Elizondo was basically the leader of AATIP.<sup>47</sup> David Fravor has likewise stated that Elizondo ran AATIP at the Pentagon,<sup>48</sup> and that [Jay Stratton](/people/jay-stratton) was also part of the programme, led by Elizondo.<sup>49</sup>
 
-In written testimony to the [United States Congress](/organisations/united-states-congress) on 2024-11-13, Elizondo stated that for many years he had been entrusted with protecting some of the US's most sensitive government programmes,<sup>40</sup> and that in his last government position he managed a Special Access Program on behalf of the White House and the National Security Council.<sup>41</sup> He stated that a culture of suppression and intimidation exists around the UAP topic, of which he has personally been a victim,<sup>42</sup> including unwarranted criminal investigations, harassment, and efforts to destroy credibility.<sup>43</sup> He said he and former colleagues have provided classified testimony to the DoD and the Intelligence Community Inspector General.<sup>44</sup> At that same hearing he declined to discuss what he termed "Blue Force technologies",<sup>45</sup> citing documentation he had signed roughly three years earlier restricting his discussion of UAP crash retrievals specifically.<sup>46</sup> He stated that the US government has conducted secret UAP crash retrieval programmes designed to identify and reverse engineer alien craft.<sup>47</sup>
+Elizondo testified before the [United States Congress](/organisations/united-states-congress) on 2024-11-13, saying that for many years he had been entrusted with protecting some of the United States' most sensitive government programmes,<sup>50</sup> and that in his last government position he had managed a Special Access Program on behalf of the White House and the National Security Council.<sup>51</sup> He told lawmakers that the United States government has conducted secret UAP crash retrieval programmes,<sup>52</sup> designed to identify and reverse engineer alien craft.<sup>53</sup> At the same hearing, he declined to discuss what he termed "Blue Force technologies,"<sup>54</sup> citing documentation he had signed roughly three years earlier restricting his ability to discuss crash retrievals specifically.<sup>55</sup> Elizondo states that a small cadre within the United States Government involved in the UAP topic has created a culture of suppression and intimidation, of which he says he has personally been a victim.<sup>56</sup>

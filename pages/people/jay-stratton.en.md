@@ -1,13 +1,11 @@
 ---
 title: Jay Stratton
-description: Jay Stratton is a former US Navy intelligence official who helped establish
-  the Pentagon's UAP investigations and became the first director of its Unidentified
-  Aerial Phenomena Task Force.
+description: Jay Stratton is a former US Navy intelligence officer and 32-year military
+  veteran who investigated UAP for the US government for sixteen years, including
+  as the first director of the Pentagon's Unidentified Aerial Phenomena Task Force.
 metadata:
-  role: First director, Unidentified Aerial Phenomena Task Force (UAPTF)
-  affiliation: United States Navy; Office of Naval Intelligence; Advanced Aerospace
-    Threat Identification Program (AATIP)
-  service: 32 years in the US military; Senior Executive Service
+  role: First Director, Unidentified Aerial Phenomena Task Force (UAPTF)
+  affiliation: United States Navy; Office of Naval Intelligence
 built_from:
   brief_hash: ce2d76dd663a6ba426bb93840c6fb6cba18aa3caec769e909c436efdaeb2d2ef
   claims:
@@ -152,7 +150,7 @@ built_from:
   - id: f781af18-46b8-4c78-9afb-dd89541804bd
     hash: 734a6275ae4c83ed39d0d6980cecad55e30158c01f4d0e778e88a28e2ed417e3
 references:
-- text: 32 years in the US military, Senior Executive Service, culminating in the
+- text: 32 years of military service across different arms, Senior Executive Service,
     Office of Naval Intelligence
   source: In Plain Sight
   location: ch30:12162-12350
@@ -163,27 +161,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
-- text: Member of AATIP, led by Luis Elizondo, in the Pentagon
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:43767-43846
-  quote: Unbeknownst to all, he was part of the ATIP program in the Pentagon led by
-    Lue Elizondo.
-  claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
-- text: Secretary of Defense announced the task force and named Stratton its first
-    director
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:6057-6224
-  quote: After a couple of years of Jay quietly building the UAP Task Force behind
-    the scenes, the secretary of defense announced the UAP Task Force and named Jay
-    as its first director.
-  claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
 - text: Retired after sixteen years investigating UAP for the US government
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26408-26563
@@ -194,7 +171,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
-- text: Stratton and Rosemary Caine visited Elizondo in early 2009 to recruit him
+- text: Early 2009 visit with Rosemary Caine to recruit Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:3705-3771
   quote: had two guests waiting for me in our reception area. It was early 2009.
@@ -202,17 +179,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-109196fa-ec42-492c-81f2-e205623b9bc6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-109196fa-ec42-492c-81f2-e205623b9bc6
-- text: Stratton and Caine wore blue government intelligence credentials
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:5911-6013
-  quote: The blue credentials around their necks were the giveaway that they were
-    both government intelligence officials.
-  claim_id: fc5153f1-9ec1-468c-adbe-1ad93f9ec099
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc5153f1-9ec1-468c-adbe-1ad93f9ec099
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc5153f1-9ec1-468c-adbe-1ad93f9ec099
-- text: Recruited Elizondo for a classified DIA programme, citing his counterintelligence
-    experience
+- text: Recruited Elizondo for counterintelligence experience, DIA-run programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:6367-6494
   quote: '"We are interested in your counterintelligence and security experience for
@@ -221,7 +188,25 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
-- text: Stratton helped create AAWSAP, which became AATIP
+- text: Puthoff suggested Stratton meet Semivan at the Pentagon
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch25:25289-25339
+  quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
+  claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
+- text: Semivan and Stratton invited Elizondo to a team dinner in Roslyn, Virginia
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch10:90-249
+  quote: Shortly after I accepted the role, Jim and Jay invited me to a large group
+    dinner for the team that was held in the private meeting room of a hotel in Roslyn,
+    Virginia.
+  claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
+- text: Helped create AAWSAP, which became AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:6867-7061
   quote: Jay explained that he helped create something called the AAWSAP, Advanced
@@ -231,7 +216,17 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87a98318-1013-4e7e-a49a-32481823440f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87a98318-1013-4e7e-a49a-32481823440f
-- text: Stratton and Elizondo personally handpicked everyone in AATIP
+- text: AATIP led within the Pentagon by Elizondo
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:43767-43846
+  quote: Unbeknownst to all, he was part of the ATIP program in the Pentagon led by
+    Lue Elizondo.
+  claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+- text: Stratton and Elizondo handpicked everyone in AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:2389-2419
   quote: Jay and I handpicked everyone involved.
@@ -239,17 +234,15 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-023b4981-3ddd-4626-a4ad-3da74e656353
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-023b4981-3ddd-4626-a4ad-3da74e656353
-- text: Stratton secured $10 million in new AATIP funding from Harry Reid
+- text: Skilled at getting Navy personnel to discuss UAP encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch16:23014-23130
-  quote: Jay ran point on pulling off miracle after miracle and succeeded in getting
-    Senator Reid to give us new funding—$10 million!
-  claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
+  location: ch17:8162-8213
+  quote: Jay excelled at getting his fellow Navy members to talk.
+  claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
-- text: Stratton changed the acronym from UFO to UAP while at Skinwalker Ranch with
-    the AATIP team
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
+- text: Changed acronym from UFO to UAP while at Skinwalker Ranch
   source: In Plain Sight
   location: ch30:12508-12702
   quote: Stratton also acknowledged he changed the offi cial acronym describing the
@@ -259,7 +252,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d8741fe-a48a-4616-9b3a-225433de1082
-- text: Stratton concluded UFO did not cover what he witnessed at Skinwalker Ranch
+- text: Concluded UFO did not cover the phenomena witnessed
   source: In Plain Sight
   location: ch30:12708-12838
   quote: He did this because he recognised that 'UFO' – Unidentified Flying Objects
@@ -268,7 +261,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
-- text: Stratton contacted David Fravor in 2009 to investigate the Nimitz encounter
+- text: 2009 contact with Fravor to investigate the Nimitz encounter
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:43692-43754
@@ -277,7 +270,7 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-677707c5-9a5e-4c1a-bcfc-24368dfde990
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-677707c5-9a5e-4c1a-bcfc-24368dfde990
-- text: Stratton investigated the Nimitz encounter before Elizondo joined AAWSAP/AATIP
+- text: Investigated Nimitz encounter before Elizondo joined the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:301-360
   quote: Jay Stratton investigated the incident before I joined the team.
@@ -285,7 +278,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4968721b-e548-4f39-9b61-9d1726621fda
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4968721b-e548-4f39-9b61-9d1726621fda
-- text: Stratton wrote a detailed AAWSAP/AATIP report on the Nimitz encounter
+- text: Wrote detailed AAWSAP/AATIP report on the Nimitz encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:366-461
   quote: He had written a detailed AAWSAP/AATIP report on the event, which is how
@@ -294,7 +287,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82125e22-529a-4617-a678-2ea35a1da21f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82125e22-529a-4617-a678-2ea35a1da21f
-- text: Some witnesses were reluctant to talk; those who did asked for anonymity
+- text: Witnesses reluctant to speak, asked not to be identified
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: p78-79
   quote: As Jay interviewed these witnesses, he encountered instances where people
@@ -305,37 +298,16 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-780e9354-9b5d-4b24-9646-7ac219711e77
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-780e9354-9b5d-4b24-9646-7ac219711e77
-- text: Pilots said they were debriefed but saw no follow-up investigation
+- text: Secured $10 million in new AATIP funding from Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:13603-13791
-  quote: Several of the pilots later told Jay that they had been debriefed by intelligence
-    officers. They saw no evidence of a subsequent investigation. Kicked up the chain
-    of command, their story died.
-  claim_id: b4f4492e-8210-4741-8803-e61c67e19d00
+  location: ch16:23014-23130
+  quote: Jay ran point on pulling off miracle after miracle and succeeded in getting
+    Senator Reid to give us new funding—$10 million!
+  claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b4f4492e-8210-4741-8803-e61c67e19d00
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b4f4492e-8210-4741-8803-e61c67e19d00
-- text: Stratton was skilled at getting Navy personnel to discuss UAP encounters
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch17:8162-8213
-  quote: Jay excelled at getting his fellow Navy members to talk.
-  claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
-- text: Stratton and Elizondo told witnesses they worked for a Special Access Program
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch17:8352-8685
-  quote: we work for a Special Access Program, and it's very likely you came across
-    one of our technologies. We do our best to hide these things, but sometimes people
-    who are observant, such as yourself, see one. We would really appreciate it if
-    you could tell us exactly what you saw, so if it *is* one of ours, we can hide
-    it better in the future.
-  claim_id: 2972262e-04fb-4283-9706-5c6ede4769da
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2972262e-04fb-4283-9706-5c6ede4769da
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2972262e-04fb-4283-9706-5c6ede4769da
-- text: Stratton shared a video of a wedge-shaped craft near a cockpit
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
+- text: Shared cockpit video of a wedge-shaped craft near an aviator
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:10083-10154
   quote: Just then, a wedge-shaped craft zooms by the cockpit as close as fifty feet.
@@ -343,7 +315,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
-- text: 2015 emails from Fleet Forces Command detailing USS Roosevelt UAP incursions
+- text: 2015 emails from Fleet Forces Command on USS Roosevelt incursions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:101-303
   quote: In 2015, Jay received a string of emails from senior leaders with the Navy’s
@@ -353,7 +325,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e701a7-187f-42c9-964b-98983b9307ca
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e701a7-187f-42c9-964b-98983b9307ca
-- text: Senior intelligence officer asked Stratton to lead a larger investigation
+- text: Senior intelligence officer at Fleet Forces Command reached out to Stratton
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:5893-6184
   quote: This ultimately led the senior intelligence officer at Fleet Forces Command
@@ -364,7 +336,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
-- text: Stratton created OPLAN Interloper from 22 USS Roosevelt incidents
+- text: Created OPLAN Interloper from 22 USS Roosevelt incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:9805-10038
   quote: Based on these twenty-two UAP incidents involving the Roosevelt Carrier Strike
@@ -374,7 +346,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
-- text: OPLAN Interloper documentation contents
+- text: 'OPLAN Interloper contents: dates, call signs, radar data'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:10224-10483
   quote: Jay inserted more data in the proposal to bolster our argument. Dates, times,
@@ -414,34 +386,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
-- text: Puthoff suggested Stratton meet Jim Semivan at the Pentagon
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch25:25289-25339
-  quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
-  claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
-- text: Stratton contacted the Legacy Program contractor about nonhuman materials
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch21:305-409
-  quote: When Jay went to inquire for us, the contractor acknowledged that, yes, they
-    were in possession of this material.
-  claim_id: 3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
-- text: Elizondo, Stratton, Puthoff and John Robert shared Cherokee heritage
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch22:10985-11193
-  quote: Even more surprising, socializing this revelation led to also discovering
-    that almost everyone who was involved with AATIP had this background as well.
-    I did. Jay did. Hal did. John Robert did. And others as well.
-  claim_id: 0b9ee53b-2ced-430a-9765-3df8fe4dc4a4
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0b9ee53b-2ced-430a-9765-3df8fe4dc4a4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0b9ee53b-2ced-430a-9765-3df8fe4dc4a4
-- text: Stratton and Elizondo made plans to pursue UAP disclosure
+- text: Made plans to bring about UAP disclosure
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:20766-20860
   quote: At work, Jay Stratton and I made a plan that would go against all odds. A
@@ -450,7 +395,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
-- text: Stratton planned to stay in government to use momentum from disclosure
+- text: Planned to remain in government to use disclosure momentum
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:20990-21214
   quote: Jay would stay with the government and use the momentum gained by the public
@@ -460,25 +405,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
-- text: Stratton positioned to run the next version of AATIP
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:21321-21382
-  quote: And he’d be positioned to run whatever version of AATIP came next.
-  claim_id: 50341411-6e07-43af-9c9a-308c76882d5d
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50341411-6e07-43af-9c9a-308c76882d5d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-50341411-6e07-43af-9c9a-308c76882d5d
-- text: Elizondo let Mellon share his name to help reach Mattis
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:654-825
-  quote: A week prior, I had given permission to Chris Mellon to share my name with
-    some senior-level officials he knew who would be in a position to help Jay and
-    me get to Mattis appropriately.
-  claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
-- text: Concluded Congress had to force change at the Pentagon
+- text: Concluded Congress had to force change on UAP handling
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:7879-8058
   quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
@@ -488,44 +415,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
-- text: Congress began requesting UAP briefings from Stratton
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch29:26235-26467
-  quote: Our plan was working. My going public caused Congress to pay attention and
-    Jay started getting requests for briefings from members of Congress who previously
-    would have never been aware of the facts, due to the stigma and layers of bureaucracy.
-  claim_id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
-- text: Stratton, Mellon and Elizondo funnelled credible witnesses to Congress
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch29:26528-26647
-  quote: Jay, Chris, and I all funneled credible members of the military and intelligence
-    community who had knowledge of UAP to Congress.
-  claim_id: 3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
-- text: Pentagon public affairs planned to deny Elizondo's AATIP involvement
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch30:4891-5020
-  quote: Jay got an email from the Pentagon's public affairs office saying that they
-    planned to tell press that I was never involved with AATIP.
-  claim_id: 09696a6b-d710-469d-8e8c-b8d2ecef8c0b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-09696a6b-d710-469d-8e8c-b8d2ecef8c0b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-09696a6b-d710-469d-8e8c-b8d2ecef8c0b
-- text: Stratton told public affairs the denial would be false
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch30:5027-5155
-  quote: He replied that it would be wrong of them to do that and said it wasn't true,
-    but they ran with the fake and damaging narrative anyway.
-  claim_id: 2a11392f-3cf7-44fe-b7b9-bab0f93baef5
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a11392f-3cf7-44fe-b7b9-bab0f93baef5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a11392f-3cf7-44fe-b7b9-bab0f93baef5
-- text: Mellon and Stratton developed a multiyear congressional strategy
+- text: Developed multiyear strategy to educate Congress on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1435-1687
   quote: Chris recognized the vital role that Congress could play in advancing the
@@ -535,7 +425,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
-- text: Messaging focused on flight safety and historic lack of transparency
+- text: Focused messaging on flight safety and historic lack of transparency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1906-2129
   quote: Due to the stigma and political risk politicians were concerned with, we
@@ -545,7 +435,26 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
-- text: NSC members requested briefings, later briefing Trump
+- text: Began receiving congressional briefing requests
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:26235-26467
+  quote: Our plan was working. My going public caused Congress to pay attention and
+    Jay started getting requests for briefings from members of Congress who previously
+    would have never been aware of the facts, due to the stigma and layers of bureaucracy.
+  claim_id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+- text: Funnelled credible military/intelligence figures to Congress
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:26528-26647
+  quote: Jay, Chris, and I all funneled credible members of the military and intelligence
+    community who had knowledge of UAP to Congress.
+  claim_id: 3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
+- text: Briefing requests from NSC members who briefed Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
   quote: We were making enough noise in the press that Jay was getting requests for
@@ -556,7 +465,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af73f27e-6d01-4702-86f0-925398868a92
-- text: Worked with Congress on permanent, directly-funded UAP programme legislation
+- text: Proposed legislation for a permanent, Congress-funded UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26703-26886
   quote: Before Jay retired, we worked with Congress to get new legislation proposed
@@ -574,7 +483,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
-- text: Worked network across military, FBI, CIA and Department of Energy
+- text: Network of contacts across military, FBI, CIA, Department of Energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4434-4548
   quote: Meanwhile, Jay and I worked our network of friends in the military branches,
@@ -583,7 +492,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-862a7909-f591-481f-ae3d-c99172c44870
-- text: Tasked with quietly building an interagency UAP task force
+- text: Tasked with building a whole-of-government UAP task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4612-4909
   quote: leadership in Navy intelligence, who understood the national security threats
@@ -594,7 +503,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
-- text: Handpicked task force members from FBI, NRO, NASA and FAA
+- text: Handpicked task force members from intelligence and civilian agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4914-5148
   quote: So Jay started putting that together, handpicking his members/reps from all
@@ -604,7 +513,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
-- text: The interagency effort became the Pentagon's UAP Task Force
+- text: Task force became the Pentagon's UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5154-5231
   quote: Once it was put together, this would go on to became the Pentagon’s UAP Task
@@ -613,7 +522,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
-- text: USSF did not yet have a UAP programme when a representative was needed
+- text: Space Force did not yet have its own UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5357-5474
   quote: Jay needed a rep from Space Force (USSF), but that agency was still getting
@@ -622,7 +531,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
-- text: Elizondo became a USSF contractor supporting Stratton's task force
+- text: Elizondo became a Space Force contractor supporting Stratton's task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5830-6022
   quote: Soon after that, I started working as a contractor for USSF on the UAP front
@@ -632,7 +541,17 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
-- text: Legacy Program began pushing back once the task force was official
+- text: Secretary of Defense announced UAPTF, named Stratton first director
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:6057-6224
+  quote: After a couple of years of Jay quietly building the UAP Task Force behind
+    the scenes, the secretary of defense announced the UAP Task Force and named Jay
+    as its first director.
+  claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
+- text: Legacy Program pushed back on Stratton and the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6381-6592
   quote: From the moment the UAP Task Force became official, the Legacy Program started
@@ -642,22 +561,14 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
-- text: Stratton led the Task Force for approximately 16 years
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:28:29.0-00:28:37.4
-  quote: the best opportunity you might have would be to go to somebody like Jay Stratton
-    who was in charge of the UAP task force for like 16 years
-  claim_id: eded00bc-01d6-498a-9844-0a8ae9701ef8
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-eded00bc-01d6-498a-9844-0a8ae9701ef8
-- text: Encountered gatekeepers controlling Legacy Program access
+- text: Encountered gatekeepers controlling access to the Legacy Program
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:28:44.8-00:28:48.0
   quote: he ran into the, quote, gatekeepers for the legacy program.
   claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
-- text: Involved ~16 contractors/units to move beyond the Legacy Program; unsuccessful
+- text: Involved 16 contractors/units to move beyond the Legacy Program, unsuccessfully
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:36:18.1-00:36:34.1
   quote: he got all... kinds of different defense contractors and intelligence units,
@@ -666,22 +577,7 @@ references:
   claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
-- text: Stratton recently signed a book publishing deal
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:02:31.5-00:02:35.5
-  quote: Jay Stratton also recently signed a book publishing deal.
-  claim_id: 39054695-6d90-4cb5-8795-0380098444fd
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39054695-6d90-4cb5-8795-0380098444fd
-- text: Stratton visited Skinwalker Ranch in July 2009
-  source: In Plain Sight
-  location: ch30:11548-11608
-  quote: For more than 12 years following his July 2009 visit to the ranch.
-  claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e57f7600-6f51-4a94-9da4-b990778c705e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e57f7600-6f51-4a94-9da4-b990778c705e
-- text: In March 2023 Stratton spoke at a conference about his Ranch experiences
+- text: March 2023 conference talk on Skinwalker Ranch experiences
   source: In Plain Sight
   location: ch30:10063-10245
   quote: In March 2023, no less than the former head of the Pentagon's UAP investigations
@@ -691,7 +587,15 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
-- text: Stratton witnessed a translucent, Predator-like entity near his trailer
+- text: First visited Skinwalker Ranch in July 2009
+  source: In Plain Sight
+  location: ch30:11548-11608
+  quote: For more than 12 years following his July 2009 visit to the ranch.
+  claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e57f7600-6f51-4a94-9da4-b990778c705e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e57f7600-6f51-4a94-9da4-b990778c705e
+- text: Witnessed a translucent humanoid entity near his trailer
   source: In Plain Sight
   location: ch30:10595-10784
   quote: he told conference attendees that he saw a translucent entity evocative of
@@ -701,7 +605,15 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56c2fd15-7c62-4815-bdac-38448f311583
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56c2fd15-7c62-4815-bdac-38448f311583
-- text: Stratton saw a hovering delta-shaped UAP on his first day at the Ranch
+- text: Sighting corroborated by colleague Travis Taylor
+  source: In Plain Sight
+  location: ch30:10791-10856
+  quote: a sighting independently corroborated by his colleague Dr Travis Taylor
+  claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
+- text: Saw a hovering delta-shaped UAP on his first day at the ranch
   source: In Plain Sight
   location: ch30:10864-10961
   quote: He also described seeing a hovering delta-shaped UAP directly above him on
@@ -710,15 +622,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
-- text: Travis Taylor corroborated the entity sighting
-  source: In Plain Sight
-  location: ch30:10791-10856
-  quote: a sighting independently corroborated by his colleague Dr Travis Taylor
-  claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
-- text: Stratton coined the term 'the hitchhiker effect'
+- text: Coined the term 'the hitchhiker effect'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:1877-1962
   quote: I later learned that Jay had coined the term that now describes this—“the
@@ -727,7 +631,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
-- text: Kelleher/Knapp book describes hitchhiker-effect incidents at Stratton's home
+- text: Paranormal incidents at Stratton's Virginia home
   source: In Plain Sight
   location: ch30:10969-11238
   quote: The Kelleher/Knapp Skinwalkers at the Pentagon book also mentions even more
@@ -738,7 +642,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
-- text: Stratton's son found with contusions as if forcibly struck
+- text: Son found with contusions on stomach and chest
   source: In Plain Sight
   location: ch30:11262-11382
   quote: his son woke with multiple red contusions on his stomach and chest, 'as if
@@ -747,7 +651,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
-- text: Stratton's son described orb assaults and shadowy figures
+- text: Son described orb assaults and shadowy telepathic figures
   source: In Plain Sight
   location: ch30:11389-11542
   quote: The boy described being assaulted by blue and red orbs in his bedroom and
@@ -757,7 +661,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
-- text: Family witnessed orbs, a dogman entity and footsteps for 12+ years
+- text: Family witnessed orbs, a 'dogman', and footsteps for 12+ years
   source: In Plain Sight
   location: ch30:11615-11813
   quote: Stratton's wife and teenage children were all witnesses to the orbs and to
@@ -767,33 +671,38 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538
+- text: Signed a book publishing deal
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:02:31.5-00:02:35.5
+  quote: Jay Stratton also recently signed a book publishing deal.
+  claim_id: 39054695-6d90-4cb5-8795-0380098444fd
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39054695-6d90-4cb5-8795-0380098444fd
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 9381083ed23df04d0c1275ae2de3486394f576fe0d67d29cdee11dfc98bbecd5
+  prompt_sha256: 66ff063597329b5ea2099803b36a93ac63f36c1ad52b2c07d4e707b9d00ab042
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 77240
-    output: 49544
+    input: 77463
+    output: 52583
     real_input: 2
-    cache_read: 39325
-    cache_write: 37913
+    cache_read: 39417
+    cache_write: 38044
     calls: 0
-  body_sha256: a7934a67308e17617807154e5b04d9ff579351d44ae76722143066968e81296a
+  body_sha256: daff7e00e42eddcd0d15635605c83d843f3581fc3d84f17be967757b48690047
 ---
 
-Jay Stratton served for 32 years across different arms of the US military, rising to the Senior Executive Service and culminating his career in the Office of Naval Intelligence.<sup>1</sup> He was a member of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), a Pentagon programme led by [Luis Elizondo](/people/luis-elizondo).<sup>2</sup> Stratton went on to serve as the first director of the Pentagon's [Unidentified Aerial Phenomena Task Force (UAPTF)](/projects/unidentified-aerial-phenomena-task-force-uaptf)<sup>3</sup> before retiring from government service after sixteen years investigating [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) for the US government.<sup>4</sup>
+Jay Stratton is a former US intelligence officer who spent 32 years across various branches of the US military, reaching the Senior Executive Service and working with the Office of Naval Intelligence, for which he was highly decorated.<sup>1</sup> He retired from government service after sixteen years investigating [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) for the US government.<sup>2</sup> In early 2009, Stratton and a colleague identified as Rosemary Caine visited [Luis Elizondo](/people/luis-elizondo) at his office to recruit him.<sup>3</sup> The pair recruited Elizondo for his counterintelligence and security experience, for a highly classified programme run out of their office at the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>4</sup> [Harold E. Puthoff](/people/harold-e-puthoff) had earlier suggested to Stratton that they meet with [Jim Semivan](/people/jim-semivan) at the Pentagon.<sup>5</sup> Semivan and Stratton subsequently invited Elizondo to a dinner for the programme team held in a hotel meeting room in Roslyn, Virginia.<sup>6</sup> Stratton helped create the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap), which later became the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip).<sup>7</sup> The programme was led within the Pentagon by Elizondo.<sup>8</sup> Stratton and Elizondo personally handpicked everyone involved in it,<sup>9</sup> and Stratton proved skilled at getting [United States Navy (USN)](/organisations/united-states-navy-usn) personnel to talk about their UAP encounters.<sup>10</sup> While working with the AATIP team at Skinwalker Ranch, Stratton changed the official acronym describing the phenomenon from [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) to UAP, having concluded that "UFO" did not cover the phenomena he had witnessed there.<sup>11</sup><sup>12</sup>
 
-In early 2009, Stratton and a colleague identified as Rosemary Caine visited Elizondo at his office to recruit him,<sup>5</sup> both wearing blue government intelligence credentials.<sup>6</sup> The pair recruited Elizondo for his counterintelligence and security experience, for a highly classified programme run out of their office at the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>7</sup> Stratton helped create a programme called the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap), which later became AATIP.<sup>8</sup> Stratton and Elizondo personally handpicked everyone involved in AATIP,<sup>9</sup> and Stratton secured $10 million in new funding for the programme from [Harry Reid](/people/harry-reid).<sup>10</sup> Stratton changed the official acronym for the phenomenon from UFO to UAP while working at Skinwalker Ranch with the AATIP team, having concluded that the term [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) did not cover what he had witnessed there.<sup>11</sup><sup>12</sup>
+In 2009, Stratton contacted [David Fravor](/people/david-fravor) to investigate the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter),<sup>13</sup> having already investigated the incident before Elizondo joined the AAWSAP/AATIP team.<sup>14</sup> He went on to write a detailed AAWSAP/AATIP report on the encounter.<sup>15</sup> Elizondo said that as Stratton interviewed witnesses to the encounter, some did not want to talk, including people who had since retired into civilian life, and that even those who did speak asked him not to reveal their identities.<sup>16</sup> Stratton also secured $10 million in new funding for AATIP from [Harry Reid](/people/harry-reid).<sup>17</sup> Elizondo said Stratton later shared with him a video, filmed on a cockpit camera, showing a wedge-shaped craft flying within approximately fifteen metres of a naval aviator's cockpit during a routine mission.<sup>18</sup>
 
-In 2009, Stratton contacted [David Fravor](/people/david-fravor) to investigate the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter),<sup>13</sup> having begun looking into the incident before Elizondo joined the AAWSAP/AATIP team.<sup>14</sup> Stratton wrote a detailed AAWSAP/AATIP report on the encounter.<sup>15</sup> Elizondo said that as Stratton interviewed witnesses, some did not want to talk, including retirees who had entered civilian life, and that even those who did speak asked Stratton not to reveal their identities.<sup>16</sup> Elizondo also said that several pilots involved in the 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter later told Stratton they had been debriefed by intelligence officers but saw no evidence of a subsequent investigation, and that their account died after being passed up the chain of command.<sup>17</sup> Stratton was skilled at getting fellow [United States Navy (USN)](/organisations/united-states-navy-usn) personnel to talk about their UAP encounters,<sup>18</sup> and the two of them would tell military witnesses they worked for a Special Access Program, encouraging them to describe what they had seen so it could be better concealed in future.<sup>19</sup> Elizondo said that Stratton shared with him a video showing a wedge-shaped craft flying within approximately fifteen metres of a naval aviator's cockpit during a routine mission, filmed on the cockpit camera.<sup>20</sup>
+According to Elizondo, in 2015 Stratton received a series of emails from senior leaders at Fleet Forces Command in Norfolk, Virginia, detailing UAP incursions involving the aircraft carrier USS Roosevelt.<sup>19</sup> A senior intelligence officer at Fleet Forces Command subsequently reached out to Stratton, who worked in naval intelligence on the Navy staff at the Pentagon, to open a larger investigation into the incidents.<sup>20</sup> Based on twenty-two UAP incidents involving the USS Roosevelt Carrier Strike Group, Stratton created an operation plan codenamed OPLAN Interloper,<sup>21</sup> a document that included dates, times, locations, call signs and ship names, together with radar data substantiating pilot and aircrew eyewitness testimony.<sup>22</sup> Stratton and Elizondo submitted the plan through an Alternative Compensatory Control Measure (Alternative Compensatory Control Measures (ACCM)) process directly to the Joint Chiefs of Staff, bypassing the Office of the Undersecretary of Defense for Intelligence,<sup>23</sup> though before the end of 2016 the Joint Staff rejected assigning it an ACCM designation.<sup>24</sup> The two men spent considerable time coordinating the plan.<sup>25</sup>
 
-According to Elizondo, in 2015 Stratton received a series of emails from senior leaders at Fleet Forces Command in Norfolk, Virginia, detailing UAP incursions involving the aircraft carrier USS Roosevelt.<sup>21</sup> The senior intelligence officer at Fleet Forces Command reached out to Stratton, who worked in naval intelligence on the Navy staff at the Pentagon, to initiate a larger investigation into the USS Roosevelt incidents.<sup>22</sup> Based on twenty-two UAP incidents involving the USS Roosevelt Carrier Strike Group, supported by eyewitness and video evidence, Stratton created an operation plan codenamed OPLAN Interloper.<sup>23</sup> The plan's documentation included dates, times, locations, call signs and ship names of vessels involved in UAP encounters, together with radar data substantiating pilot and aircrew eyewitness testimony.<sup>24</sup> Stratton and Elizondo submitted OPLAN Interloper through an Alternative Compensatory Control Measure (ACCM) process directly to the Joint Chiefs of Staff, bypassing the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).<sup>25</sup> Before the end of 2016, however, the Joint Staff rejected assigning the plan an ACCM designation,<sup>26</sup> though Elizondo and Stratton had already spent considerable time coordinating it.<sup>27</sup> [Harold E. Puthoff](/people/harold-e-puthoff) suggested to Stratton that the two of them meet with [Jim Semivan](/people/jim-semivan) at the Pentagon.<sup>28</sup> Elizondo said that Stratton contacted the defense contractor associated with the [Legacy Program](/projects/legacy-program) to inquire, on behalf of Elizondo's team, about nonhuman UAP materials, and that the contractor acknowledged possessing the material.<sup>29</sup> Elizondo, Stratton, Puthoff and John Robert all had Cherokee heritage and were all involved with AATIP.<sup>30</sup>
+He and Elizondo made plans at work to bring about disclosure of UAP,<sup>26</sup> with Stratton intending to remain in government and use the momentum generated by Elizondo's later public disclosures to advance the effort from within.<sup>27</sup> Together with [Christopher K. Mellon](/people/christopher-k-mellon), the two concluded that the only way to change how the Pentagon handled UAP was to get the [United States Congress](/organisations/united-states-congress) to force change,<sup>28</sup> and developed a multiyear strategy to educate Congress on the subject,<sup>29</sup> focusing their message on risks to flight safety and the historic lack of transparency from the executive branch dating back to the 1940s.<sup>30</sup> Once Elizondo's public disclosures drew congressional attention, Stratton began receiving briefing requests from members of Congress who had previously been unaware of the facts about UAP because of stigma and bureaucracy,<sup>31</sup> and the three men funnelled credible military and intelligence figures with knowledge of UAP to Congress.<sup>32</sup> Stratton also received requests for briefings from members of the White House National Security Council, who went on to brief President [Donald Trump](/people/donald-trump) at some level on UAP.<sup>33</sup> Before he retired, Stratton and Elizondo worked with Congress to propose legislation creating a permanent UAP programme funded directly by Congress, so that its funding could not be blocked or misused,<sup>34</sup> and the three called their advocacy effort the Five Pillars of Engagement.<sup>35</sup> Stratton and Elizondo also drew on a network of contacts across the US military, the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi), the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), and the Department of Energy.<sup>36</sup>
 
-Following Elizondo's public disclosure of his UAP work, Stratton and Elizondo made plans at work to bring about disclosure of UAP,<sup>31</sup> and Stratton intended to remain in government to use the resulting attention to move disclosure forward from within.<sup>32</sup> Stratton was positioned to run whatever version of AATIP came next.<sup>33</sup> Elizondo gave [Christopher K. Mellon](/people/christopher-k-mellon) permission to share his name with senior officials who could help Stratton and Elizondo reach then-Secretary of Defense James Mattis.<sup>34</sup> Elizondo, Stratton and Mellon concluded that the only way to change how the Pentagon handled UAP was to get the [United States Congress](/organisations/united-states-congress) to force change,<sup>35</sup> and once Congress began paying attention, Stratton started receiving requests for briefings from members who had previously been unaware of the facts about UAP because of stigma and bureaucracy.<sup>36</sup> Stratton, Mellon and Elizondo funnelled credible members of the military and intelligence community with knowledge of UAP to Congress.<sup>37</sup> Elizondo said that Stratton received an email from the Pentagon's public affairs office stating that it planned to tell the press Elizondo had never been involved with AATIP,<sup>38</sup> and that Stratton told the office this would be wrong and untrue.<sup>39</sup> Mellon and Stratton developed a multiyear strategy to educate Congress on UAP and to legally address hurdles to disclosure,<sup>40</sup> focusing their messaging on growing risks to flight safety and the historic lack of transparency from the executive branch dating back to the 1940s.<sup>41</sup> Stratton also received requests for briefings from members of the White House National Security Council, who went on to brief [Donald Trump](/people/donald-trump) on UAP to some degree.<sup>42</sup>
+Leadership in Navy intelligence tasked Stratton with quietly building a whole-of-government interagency UAP task force with greater authority than AATIP had ever had,<sup>37</sup> and he handpicked its members and representatives from across the intelligence community and civilian agencies, including the FBI.<sup>38</sup> The task force he built went on to become the Pentagon's [Unidentified Aerial Phenomena Task Force (UAPTF)](/projects/unidentified-aerial-phenomena-task-force-uaptf).<sup>39</sup> At the time, the [United States Space Force (USSF)](/organisations/united-states-space-force-ussf) did not yet have its own UAP programme;<sup>40</sup> Elizondo began working as a contractor for the USSF to help build its UAP effort and support Stratton's task force.<sup>41</sup> After Stratton had spent a couple of years quietly building it, the United States Secretary of Defense announced the Pentagon's UAP Task Force and named Stratton as its first director.<sup>42</sup> From the moment the task force became official, the [Legacy Program](/projects/legacy-program) began quietly pushing back on Stratton and the task force, creating bureaucratic hurdles.<sup>43</sup> Puthoff later said that Stratton, while leading the task force, encountered gatekeepers who controlled access to the Legacy Program,<sup>44</sup> and that Stratton involved around sixteen different defence contractors and intelligence units in an effort to move UAP investigation forward beyond it, though the effort was not successful.<sup>45</sup>
 
-Before retiring, Stratton and Elizondo worked with Congress to propose legislation creating a permanent UAP programme directly funded by Congress, so that its funding could not be blocked or misused.<sup>43</sup> Stratton, Mellon and Elizondo called their advocacy plan the Five Pillars of Engagement.<sup>44</sup> Stratton and Elizondo also worked their network of contacts across the US military branches, the [Federal Bureau of Investigation (FBI)](/organisations/federal-bureau-of-investigation-fbi), the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) and the US Department of Energy.<sup>45</sup> Leadership in United States Navy intelligence tasked Stratton with quietly building a whole-of-government interagency UAP task force with more authorities than AATIP had ever held,<sup>46</sup> and Stratton handpicked members and representatives for it from across the intelligence agencies and civilian-led agencies, including the FBI, the National Reconnaissance Office, NASA and the FAA.<sup>47</sup> That interagency task force went on to become the Pentagon's UAP Task Force.<sup>48</sup> At the time Stratton needed a representative from the United States Space Force (USSF) for the task force, that service did not yet have its own UAP programme,<sup>49</sup> and Elizondo began working as a USSF contractor to help build its UAP effort and support Stratton's task force.<sup>50</sup> After a couple of years of Stratton quietly building it, the Secretary of Defense announced the task force and named Stratton as its first director.<sup>3</sup> From the moment it became official, the Legacy Program began quietly pushing back on Stratton and the task force, creating bureaucratic hurdles.<sup>51</sup> Stratton led the task force for approximately sixteen years.<sup>52</sup> Puthoff said that while doing so, Stratton encountered gatekeepers controlling access to the Legacy Program,<sup>53</sup> and that Stratton involved around sixteen different defense contractors and intelligence units in an effort to move UAP investigation forward beyond it, an effort that was not successful.<sup>54</sup> Stratton has since signed a deal to publish a book about his experiences.<sup>55</sup>
-
-Separately from his official UAP work, Stratton visited Skinwalker Ranch in July 2009<sup>56</sup> and in March 2023 spoke at a UAP conference about his experiences there.<sup>57</sup> Stratton personally witnessed a translucent entity evocative of the creature from the film Predator near his trailer at the ranch, with a rectangular shape on its chest,<sup>58</sup> and a hovering delta-shaped UAP directly above him on his first day at the ranch.<sup>59</sup> According to In Plain Sight, the sighting of the translucent entity was independently corroborated by his colleague Travis Taylor.<sup>60</sup> Stratton coined the term the hitchhiker effect to describe anomalous activity at the ranch that appeared to follow people home and harass their loved ones after they left the property.<sup>61</sup> The same source recounts, from the book Skinwalkers at the Pentagon: An Insiders' Account of the Secret Government UFO Program by Kelleher and Knapp, disturbing incidents at Stratton's family home in Virginia said to be an instance of this effect,<sup>62</sup> including his son once waking with multiple red contusions on his stomach and chest as if he had been repeatedly and forcibly hit,<sup>63</sup> and describing being assaulted by blue and red orbs in his bedroom and witnessing black, shadowy humanoid figures that screamed telepathically in his head.<sup>64</sup> It further states that for more than twelve years following Stratton's 2009 visit, his wife and teenage children witnessed orbs and a strange dogman-like entity in the family's backyard, as well as unexplained footsteps in their home.<sup>65</sup>
+In March 2023, by then described as the former head of the Pentagon's UAP investigations team, Stratton spoke at a UAP conference about his experiences at Skinwalker Ranch.<sup>46</sup> He had first visited the ranch in July 2009.<sup>47</sup> He has described witnessing a translucent, humanoid entity evocative of the creature in the film Predator near his trailer at the ranch, with a rectangular shape on its chest.<sup>48</sup> According to In Plain Sight (2021), the sighting was independently corroborated by his colleague Travis Taylor.<sup>49</sup> Stratton has also described seeing a hovering, delta-shaped UAP directly above him on his first day at the ranch.<sup>50</sup> He coined the term the "hitchhiker effect" to describe anomalous activity at the ranch that followed people home and harassed their loved ones after they left the property.<sup>51</sup> According to In Plain Sight (2021), which cites Kelleher and Knapp's Skinwalkers at the Pentagon, disturbing incidents consistent with the hitchhiker effect occurred at Stratton's family home in Virginia.<sup>52</sup> His son reportedly woke on one occasion with multiple red contusions on his stomach and chest, as if he had been repeatedly and forcibly struck,<sup>53</sup> and described being assaulted by blue and red orbs in his bedroom and seeing black, shadowy humanoid figures that screamed telepathically inside his head.<sup>54</sup> The same account states that for more than twelve years following Stratton's 2009 visit, his wife and teenage children all witnessed orbs and a shadowlike "dogman" entity in the family's garden, as well as unexplained footsteps on the stairs of their home.<sup>55</sup> Stratton has since signed a deal to publish a book.<sup>56</sup>

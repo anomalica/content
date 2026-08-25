@@ -1,11 +1,12 @@
 ---
 title: Whitley Strieber
-description: American writer and self-described experiencer best known for Communion,
-  his 1987 account of alleged encounters with nonhuman beings he called the visitors.
+description: American author best known for Communion (1987), his account of claimed
+  encounters with beings he calls the visitors, which became a bestseller and helped
+  popularise the image of the grey alien.
 metadata:
-  role: Author; self-described experiencer of contact with nonhuman beings
-  notable_works: Communion (1987), Transformation (1988), Breakthrough, The Fourth
-    Mind (2025)
+  role: Author
+  notableWorks: Communion (1987); Transformation (1988); Breakthrough (1995); The
+    Fourth Mind (2025)
 built_from:
   brief_hash: 7ddd6ff8724378c30228a8e1a4a763d361159b411e401e6ff952fb2d4b61061c
   claims:
@@ -410,43 +411,15 @@ built_from:
   - id: 0b9fa240-5d1e-48a6-aa4c-a7a9e3b42a15
     hash: 55188b888c4e9e6cd1b776c2ced04a5ce58ffd631d69c958d681da33b46fa823
 references:
-- text: Ross Coulthart calls Strieber a controversial and leading figure in experiencer
-    close-encounter research.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:00:40.7-00:00:46.8
-  quote: have made him a controversial and leading figure in the study of alleged
-    experiencer close encounters
-  claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
-- text: Strieber is the author of the book Communion.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+- text: Whitley Strieber is the author of the book Communion.
+  source: The UFO Cover-Up Leads to One Secret Society - and One Final Event
   location: line 315
   quote: '[note: Whitley Strieber - Author of "Communion"]'
   claim_id: dac24791-7f78-4e04-8300-8c954ee14039
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dac24791-7f78-4e04-8300-8c954ee14039
-- text: Strieber calls the nonhuman beings he describes encountering 'the visitors'.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:00:36.3-00:00:40.0
-  quote: His experiences with the beings he calls the visitors
-  claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
-- text: Strieber's accounts of his alleged abduction experiences began at his upstate
-    New York cabin in December 1985.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:00:49.7-00:00:57.9
-  quote: his personal accounts of his own paranormal abduction experiences from his
-    remote cabin in upstate New York in December 1985
-  claim_id: 3f0c5ae3-2f73-40be-ad1e-3102858cd58e
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
-- text: Communion, Strieber's 1987 account of his claimed encounters, sold millions
-    of copies.
+- text: Communion, Strieber's 1987 account of his claimed encounters with aliens,
+    sold millions of copies.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:2462-2659
   quote: Communion, Whitley Strieber's 1987 account of his claimed encounters with
@@ -455,6 +428,40 @@ references:
   claim_id: 8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
+- text: Strieber calls the non-human beings he describes encountering 'the visitors'.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:00:36.3-00:00:40.0
+  quote: His experiences with the beings he calls the visitors
+  claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+- text: Coulthart calls Strieber a controversial and leading figure in the study of
+    alleged experiencer close encounters.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:00:40.7-00:00:46.8
+  quote: have made him a controversial and leading figure in the study of alleged
+    experiencer close encounters
+  claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+- text: Strieber has written over 30 novels and non-fiction works.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:00:27.0-00:00:31.6
+  quote: the hugely successful author of over 30 novels and nonfiction works
+  claim_id: d2d87689-3e29-4383-84e5-96697063e07a
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d2d87689-3e29-4383-84e5-96697063e07a
+- text: Communion and Breakthrough are described as Strieber's bestselling books.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:00:32.6-00:00:35.1
+  quote: including the bestsellers Communion and Breakthrough
+  claim_id: 8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
 - text: Communion was a New York Times bestseller.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -464,42 +471,47 @@ references:
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
-- text: Strieber has written over 30 novels and non-fiction works.
+- text: After Communion's publication, Strieber received thousands of letters from
+    readers reporting similar encounters.
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch15:722-799
+  quote: the thousands of letters that were sent to him in the wake of the success
+    of Communion
+  claim_id: c62d5b18-9913-45ec-8801-ed0b276f99b8
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c62d5b18-9913-45ec-8801-ed0b276f99b8
+- text: The cover painting of the alien visitor on Communion helped entrench the gray
+    alien stereotype in public consciousness.
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch15:350-485
+  quote: The cover painting of the alien "visitor" on Whitley Strieber's 1987 book
+    Communion served to entrench this image widely in the public consciousness.
+  claim_id: 7c2a3f90-bc61-4021-9b30-b352b8f5069d
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c2a3f90-bc61-4021-9b30-b352b8f5069d
+- text: Coulthart has met many people whose encounter experiences were triggered by
+    the cover image of the grey alien on Communion's original edition.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
-  location: 00:00:27.0-00:00:31.6
-  quote: the hugely successful author of over 30 novels and nonfiction works
-  claim_id: d2d87689-3e29-4383-84e5-96697063e07a
+  location: 00:01:09.8-00:01:21.3
+  quote: I've lost count of the number of people I've met who describe experiences
+    and how they were triggered by the image of the grey alien on the front cover
+    of the original copy of Communion
+  claim_id: 39bbf813-b4b3-4dc8-8dd8-1caccd943490
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d2d87689-3e29-4383-84e5-96697063e07a
-- text: Transformation was the sequel to Communion.
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-39bbf813-b4b3-4dc8-8dd8-1caccd943490
+- text: Strieber's accounts of his own abduction experiences began at his cabin in
+    upstate New York in December 1985.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
-  location: 00:01:34.6-00:01:36.1
-  quote: which was the sequel to Communion
-  claim_id: 371af71a-156c-4c0e-be0d-7322784c06dc
+  location: 00:00:49.7-00:00:57.9
+  quote: his personal accounts of his own paranormal abduction experiences from his
+    remote cabin in upstate New York in December 1985
+  claim_id: 3f0c5ae3-2f73-40be-ad1e-3102858cd58e
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-371af71a-156c-4c0e-be0d-7322784c06dc
-- text: Communion and Breakthrough are bestselling books by Strieber.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:00:32.6-00:00:35.1
-  quote: including the bestsellers Communion and Breakthrough
-  claim_id: 8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
-- text: Strieber was severely injured during his 1985 close encounter and the injuries
-    took him to a doctor.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:03:52.7-00:03:59.5
-  quote: I was injured quite severely in some areas. And so the injuries took me to
-    the doctor
-  claim_id: 5e05d0af-d66e-4356-ad2b-28c0a9314165
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
-- text: Strieber initially believed he had been assaulted by masked people and did
-    not connect it to aliens.
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
+- text: Strieber initially believed he had been assaulted by people wearing masks
+    and did not connect the experience with aliens.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:04:02.7-00:04:09.2
@@ -508,8 +520,18 @@ references:
   claim_id: b0388b86-ee66-4b8a-b343-376b94de79d0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-b0388b86-ee66-4b8a-b343-376b94de79d0
-- text: Strieber involved the New York State Criminal Investigation Division, who
-    could do nothing without evidence.
+- text: Strieber was severely injured in some areas during the 1985 encounter and
+    the injuries took him to a doctor.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:03:52.7-00:03:59.5
+  quote: I was injured quite severely in some areas. And so the injuries took me to
+    the doctor
+  claim_id: 5e05d0af-d66e-4356-ad2b-28c0a9314165
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
+- text: Strieber involved the New York State Criminal Investigation Division, but
+    they could do nothing because he had no evidence.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:04:11.7-00:04:17.6
@@ -526,8 +548,8 @@ references:
   claim_id: 6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
-- text: Hopkins wanted to hypnotise Strieber himself; Strieber refused as Hopkins
-    had no professional degrees.
+- text: Hopkins wanted to hypnotise Strieber, who refused because Hopkins displayed
+    no professional degrees.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:04:44.7-00:04:53.2
@@ -536,6 +558,15 @@ references:
   claim_id: 4de79e48-185d-4516-85b2-256206147d95
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4de79e48-185d-4516-85b2-256206147d95
+- text: Strieber chose not to approach any hypnotist to whom Hopkins had made previous
+    referrals.
+  source: Communion
+  location: ch10:1210-1325
+  quote: I chose not to approach any hypnotist to whom Hopkins had made previous referrals,
+    despite the excellence of their credentials.
+  claim_id: 9453789c-df50-4e1e-8cbb-7f56bbeb3275
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9453789c-df50-4e1e-8cbb-7f56bbeb3275
 - text: Hopkins put Strieber in touch with Donald Klein, who then hypnotised him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -545,36 +576,43 @@ references:
   claim_id: 8a00c3b0-8e53-4b8f-bc74-1367dd01a141
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
-- text: Strieber regarded Klein as one of the world's leading forensic hypnotists
-    of the mid-1980s.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:04:56.0-00:05:00.4
-  quote: probably one of the world's leading forensic hypnotists at that time, Dr.
-    Donald Klein
-  claim_id: 7867f5d0-7b8e-48e4-a304-034cb436b3b8
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7867f5d0-7b8e-48e4-a304-034cb436b3b8
-- text: In Strieber's assessment, Klein understood the neurology of the brain.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:05:09.3-00:05:16.6
-  quote: This is a man who understood the neurology of the brain and therefore understood
-    how this all works.
-  claim_id: 8f016495-560f-40ca-9777-7c1a7f4ea8ed
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8f016495-560f-40ca-9777-7c1a7f4ea8ed
-- text: Klein had solved 72 legal cases using forensic hypnosis by the mid-1980s.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:05:18.7-00:05:26.6
-  quote: he had solved legal cases, 72 of them by that point in his career, using
-    forensic hypnosis
-  claim_id: d8c6c010-ca2e-4cc1-9050-78439db97722
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d8c6c010-ca2e-4cc1-9050-78439db97722
-- text: Under Klein's hypnosis, Strieber recalled appearing to have been abducted
-    by aliens rather than assaulted by masked people.
+- text: Dr. Donald Klein induced hypnosis using an eye-fixation technique followed
+    by relaxation and warmth suggestions.
+  source: Communion
+  location: 74-76
+  quote: Dr. Klein stood before me and asked me to look up at his finger... he began
+    saying that my eyelids were getting heavy... soon Dr. Klein began to say that
+    my right hand was getting warm.
+  claim_id: a67edea8-5973-4968-834f-cff7f02e769f
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a67edea8-5973-4968-834f-cff7f02e769f
+- text: Strieber underwent a three-hour pre-interview in Klein's office before hypnosis.
+  source: Communion
+  location: ch10:1838-1914
+  quote: A few weeks later I was in his office undergoing a searching three-hour pre-interview.
+  claim_id: 57181f11-0b26-4d64-9401-d7c451812048
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
+- text: Strieber provided Klein with a document outlining all his memories related
+    to the visitor experiences.
+  source: Communion
+  location: ch10:1925-1977
+  quote: I had provided him with a document outlining all my memories.
+  claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cae8e9f-89c9-4bf5-a969-ba80c05fe498
+- text: Budd Hopkins was present at both hypnosis sessions, recording them and permitted
+    to ask questions only at the end.
+  source: Communion
+  location: ch10:10156-10363
+  quote: I wish to add that Budd Hopkins was present at both of these sessions, recording
+    them. He was allowed to ask questions, but only at the end of each session, and
+    it was understood that his questions would be few.
+  claim_id: de23db32-39b4-4419-abd9-38cc4fb60edf
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
+- text: Under hypnosis, Strieber recalled appearing to have been abducted by aliens
+    rather than assaulted by people in masks.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:05:37.3-00:05:46.6
@@ -584,105 +622,8 @@ references:
   claim_id: 116d5684-c0d2-418c-8c29-a63842866719
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
-- text: Strieber underwent a three-hour pre-interview in Klein's office before hypnosis.
-  source: Communion
-  location: ch10:1838-1914
-  quote: A few weeks later I was in his office undergoing a searching three-hour pre-interview.
-  claim_id: 57181f11-0b26-4d64-9401-d7c451812048
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
-- text: Strieber gave Klein a document outlining all his memories related to the visitor
-    experiences.
-  source: Communion
-  location: ch10:1925-1977
-  quote: I had provided him with a document outlining all my memories.
-  claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cae8e9f-89c9-4bf5-a969-ba80c05fe498
-- text: After a week of failed recall attempts causing dizziness and nightmares, Strieber
-    and Klein decided on a trial hypnosis session.
-  source: Communion
-  location: ch10:2147-2274
-  quote: When I was not successful — in fact, all I got out of it was dizziness and
-    strange nightmares — we decided on a trial hypnosis session.
-  claim_id: 6e712385-5702-4626-89ce-1735a550503b
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6e712385-5702-4626-89ce-1735a550503b
-- text: Klein induced hypnosis using an eye-fixation technique followed by relaxation
-    and warmth suggestions.
-  source: Communion
-  location: 74-76
-  quote: Dr. Klein stood before me and asked me to look up at his finger... he began
-    saying that my eyelids were getting heavy... soon Dr. Klein began to say that
-    my right hand was getting warm.
-  claim_id: a67edea8-5973-4968-834f-cff7f02e769f
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a67edea8-5973-4968-834f-cff7f02e769f
-- text: Klein told Strieber he was an excellent hypnotic subject.
-  source: Communion
-  location: ch10:17794-17837
-  quote: '"Was I a good hypnotic subject?" "You were excellent."'
-  claim_id: 2cdf709e-ffde-4d2b-a19b-cccaa5dfa238
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2cdf709e-ffde-4d2b-a19b-cccaa5dfa238
-- text: Hopkins was present at both hypnosis sessions, recording them and asking questions
-    only at the end.
-  source: Communion
-  location: ch10:10156-10363
-  quote: I wish to add that Budd Hopkins was present at both of these sessions, recording
-    them. He was allowed to ask questions, but only at the end of each session, and
-    it was understood that his questions would be few.
-  claim_id: de23db32-39b4-4419-abd9-38cc4fb60edf
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
-- text: During the December 26, 1985 experience, Strieber found himself in a messy
-    round room, overwhelmed by dread.
-  source: Communion
-  location: '110'
-  quote: The next thing I knew, I was sitting in a messy round room... this now left
-    me and I became entirely given over to extreme dread. The fear was so powerful
-    that it seemed to make my personality completely evaporate.
-  claim_id: 8d095b8b-f767-4741-a47e-5a03d022882c
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8d095b8b-f767-4741-a47e-5a03d022882c
-- text: Under hypnosis, Strieber recalled asking to go home and not wanting the round
-    door opened.
-  source: Communion
-  location: 237-247
-  quote: '"I don''t want to go home.''" ... "''I do not want you to open that door!
-    I belong with my momma and my wife . . . and my boy. That is where I belong."
-    [Sobs.] I don''t belong here. I don''t know how I ended up here.'
-  claim_id: d2bb5b10-3448-4d84-a06b-dce58e0d5e43
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d2bb5b10-3448-4d84-a06b-dce58e0d5e43
-- text: The only smell Strieber noticed inside the beings' place was a mild odour
-    of cinnamon.
-  source: The Fourth Mind
-  location: ch11:10312-10510
-  quote: As I recall, the only smell that I noticed while I was inside their place
-    with them on December 26, 1985, was a mild odor of cinnamon. Therefore, they were
-    wearing something over their skin at that time.
-  claim_id: 414e20fc-b9a1-4f6a-b3a5-3e00dd6c8212
-  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-414e20fc-b9a1-4f6a-b3a5-3e00dd6c8212
-- text: Strieber recalled a pale-skinned being that almost looked like a human woman
-    with a strange face.
-  source: The Fourth Mind
-  location: ch11:11356-11453
-  quote: I can recall at one point thinking that she almost looked like a human woman
-    with a very strange face.
-  claim_id: 176536b0-913d-4eaf-85c2-ae73d26d886e
-  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-176536b0-913d-4eaf-85c2-ae73d26d886e
-- text: Unlike the grays, this pale-skinned being had human-looking legs.
-  source: The Fourth Mind
-  location: ch11:11459-11510
-  quote: Unlike the grays I had seen, she had human-looking legs.
-  claim_id: efc6acc3-9a75-4464-b277-9ee0b343e97a
-  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-efc6acc3-9a75-4464-b277-9ee0b343e97a
-- text: Communion states the hypnosis session recalling the October 4, 1985 memories
-    took place on March 1, 1986, with Klein as psychiatrist.
+- text: The hypnosis session recalling the October 4, 1985 memories took place on
+    March 1, 1986, with Klein as psychiatrist.
   source: Communion
   location: ch10:10508-10582
   quote: 'SESSION DATE: March 1, 1986 SUBJECT: Whitley Strieber PSYCHIATRIST: Donald
@@ -690,17 +631,8 @@ references:
   claim_id: 60ffb135-507e-4cb5-8316-488c8c51f1c0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
-- text: Under hypnosis, Strieber recalled planning to take Annie Gottlieb to the country
-    for the weekend in a Jeep Wagoneer.
-  source: Communion
-  location: ch10:11324-11446
-  quote: '"Yeah, we''re gonna take Jacques and Annie up to the country and I don''t
-    know whether or not Jacques is going to fit in the jeep."'
-  claim_id: b320165b-8cb3-4157-9546-fdb2a715c596
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b320165b-8cb3-4157-9546-fdb2a715c596
-- text: Under hypnosis, Strieber recalled seeing something pass an octagonal window
-    roughly nine metres above the ground.
+- text: Strieber recalled waking to see something pass an octagonal window beneath
+    the peak of his living room's cathedral ceiling.
   source: Communion
   location: ch10:12832-13000
   quote: there's something went past the window?... I referred to an octagonal window
@@ -709,7 +641,8 @@ references:
   claim_id: f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
-- text: Strieber recalled a dark shape about one metre tall standing in his bedroom.
+- text: Strieber recalled a dark shape about one metre tall in the far corner of his
+    bedroom.
   source: Communion
   location: ch10:13516-13629
   quote: I was looking into the far corner of the bedroom, where I saw a dark shape
@@ -717,7 +650,7 @@ references:
   claim_id: 2a6312ee-f925-42a9-93af-baad578769c9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2a6312ee-f925-42a9-93af-baad578769c9
-- text: The figure appeared hooded with no visible head.
+- text: Strieber recalled the figure as hooded with no visible head.
   source: Communion
   location: ch10:13951-14054
   quote: '"I saw something that looked like it had a hood on it, standing over by
@@ -725,7 +658,8 @@ references:
   claim_id: 6b60ef4b-262f-4c93-b28c-16e624b39e82
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6b60ef4b-262f-4c93-b28c-16e624b39e82
-- text: The figure approached his bed making a sucking, smacking, squeaking sound.
+- text: Strieber recalled the figure making a sucking, smacking, squeaking sound as
+    if pressing something into his mind.
   source: Communion
   location: ch10:15491-15698
   quote: 'comes over to the bed and he starts like sucking something in-not into my
@@ -734,7 +668,36 @@ references:
   claim_id: 7f4ad424-18d1-449b-8001-ed72b7426d26
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7f4ad424-18d1-449b-8001-ed72b7426d26
-- text: Strieber screamed for twenty seconds before spontaneously emerging from hypnosis.
+- text: Strieber recalled planning to take Jacques Sandulescu and his girlfriend Annie
+    Gottlieb to the country for the weekend.
+  source: Communion
+  location: ch10:11324-11446
+  quote: '"Yeah, we''re gonna take Jacques and Annie up to the country and I don''t
+    know whether or not Jacques is going to fit in the jeep."'
+  claim_id: b320165b-8cb3-4157-9546-fdb2a715c596
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b320165b-8cb3-4157-9546-fdb2a715c596
+- text: Strieber recalled a small being holding a silver-tipped, ruler-like object
+    that touched his head and produced visions of a nuclear blast.
+  source: Communion
+  location: ch10:18613-18966
+  quote: He looks mean. He's little. Goes up to about the top of the lamp. Looking
+    down at me. Got eyes. Big eyes. Big slanted eyes. A bald head... He's got a ruler
+    in his hand. Has a tip of silver... I see pictures of the whole place just blowing
+    up when he touches my head with this thing.
+  claim_id: aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
+- text: Strieber recalled hearing a voice tell him 'That's your home'.
+  source: Communion
+  location: ch10:19154-19231
+  quote: 'Remembered voice: That''s your home. That''s your home. You know why this
+    will happen.'''
+  claim_id: d987aa80-12b9-4c6a-9392-50c5a5df9c0c
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d987aa80-12b9-4c6a-9392-50c5a5df9c0c
+- text: Strieber screamed for a prolonged twenty seconds before spontaneously emerging
+    from hypnosis.
   source: Communion
   location: '162'
   quote: '[Screams, prolonged, twenty seconds.]... I then emerged spontaneously from
@@ -743,8 +706,28 @@ references:
   claim_id: 62a2f613-39d1-4650-bde6-deb95465bcdf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-62a2f613-39d1-4650-bde6-deb95465bcdf
-- text: During hypnotic recall of the 1957 train trip memory, Strieber recalled his
-    father appearing terrified and screaming faintly.
+- text: During the December 26 experience, Strieber found himself in a messy, round
+    room, overwhelmed by dread and a sense his personality had evaporated.
+  source: Communion
+  location: '110'
+  quote: The next thing I knew, I was sitting in a messy round room... this now left
+    me and I became entirely given over to extreme dread. The fear was so powerful
+    that it seemed to make my personality completely evaporate.
+  claim_id: 8d095b8b-f767-4741-a47e-5a03d022882c
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8d095b8b-f767-4741-a47e-5a03d022882c
+- text: Under hypnosis, Strieber recalled asking to go home and wanting to remain
+    with his mother, his wife and his son.
+  source: Communion
+  location: 237-247
+  quote: '"I don''t want to go home.''" ... "''I do not want you to open that door!
+    I belong with my momma and my wife . . . and my boy. That is where I belong."
+    [Sobs.] I don''t belong here. I don''t know how I ended up here.'
+  claim_id: d2bb5b10-3448-4d84-a06b-dce58e0d5e43
+  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
+  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d2bb5b10-3448-4d84-a06b-dce58e0d5e43
+- text: Strieber recalled his father standing up, appearing terrified, and making
+    a convulsive mouth movement as though trying to get something out of his throat.
   source: Communion
   location: '139'
   quote: he was standing up and he looked totally bereft and terrified... And then
@@ -753,57 +736,8 @@ references:
   claim_id: 158c77e5-3ff7-49bf-b202-2842d6443c35
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-158c77e5-3ff7-49bf-b202-2842d6443c35
-- text: Strieber recalled seeing other people lying down in rows in a room full of
-    beds at age twelve.
-  source: Communion
-  location: 289-303
-  quote: I've seen some of the others before. All lying down there." ... "How old
-    were you?" "Twelve." "Where were you?" "I was sittin' up in bed. And everybody
-    else was asleep. There's a whole bunch of beds"
-  claim_id: 82a50a87-36c7-41c3-b1e5-fc83b99fd7fa
-  record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-82a50a87-36c7-41c3-b1e5-fc83b99fd7fa
-- text: Communion's cover painting helped entrench the grey alien stereotype in public
-    consciousness.
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch15:350-485
-  quote: The cover painting of the alien "visitor" on Whitley Strieber's 1987 book
-    Communion served to entrench this image widely in the public consciousness.
-  claim_id: 7c2a3f90-bc61-4021-9b30-b352b8f5069d
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c2a3f90-bc61-4021-9b30-b352b8f5069d
-- text: After Communion's publication, Strieber received thousands of letters reporting
-    similar encounters.
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch15:722-799
-  quote: the thousands of letters that were sent to him in the wake of the success
-    of Communion
-  claim_id: c62d5b18-9913-45ec-8801-ed0b276f99b8
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c62d5b18-9913-45ec-8801-ed0b276f99b8
-- text: Strieber told Bill Chalker he had deliberately omitted hair from his Communion
-    descriptions to test authenticity of later reports.
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch15:1337-1589
-  quote: The key element that Whitley Strieber told me he had left out in his descriptions
-    of his "visitors" was the presence of hair. He had omitted this element from his
-    book in order to have a way of later identifying possibly authentic descriptions
-    of the "visitors."
-  claim_id: e5ba572b-944a-430c-adee-f2604724fdfa
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e5ba572b-944a-430c-adee-f2604724fdfa
-- text: Chalker noted Strieber's later books referred to hair on the beings without
-    linking back to his earlier hairless descriptions.
-  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
-  location: ch23:15844-16016
-  quote: Strieber doesn't link the account here to the reference in his previous book,
-    nor does he highlight that he had kept the presence of hair out of his own original
-    "visitor" descriptions.
-  claim_id: 93809175-0bfb-40c1-8737-3382e6845d65
-  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-93809175-0bfb-40c1-8737-3382e6845d65
-- text: By mid-1986, Strieber and Anne Strieber were discussing whether to resume
-    contact or leave the cabin.
+- text: By mid-1986 Strieber and Anne Strieber were discussing whether to re-establish
+    contact with the visitors or leave the cabin permanently.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:05:55.9-00:06:06.6
@@ -812,8 +746,71 @@ references:
   claim_id: 37384042-dc01-4a58-8dbd-4ea97cf06b45
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-37384042-dc01-4a58-8dbd-4ea97cf06b45
-- text: In January 1987, Strieber had been going nightly to the clearing where the
-    visitors first appeared.
+- text: Anne Strieber urged him to go back to the woods where the first encounter
+    happened, to show the visitors he was interested.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:06:21.4-00:06:26.6
+  quote: She said, well, let's go back. You go back out to the woods where it first
+    happened, and that'll show them you're interested.
+  claim_id: fdb0e667-5c35-4082-8376-e3f52a1dc75a
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-fdb0e667-5c35-4082-8376-e3f52a1dc75a
+- text: Anne Strieber declined to go into the woods herself because she had to care
+    for their young son.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:06:33.7-00:06:37.5
+  quote: I've got a little boy in the bedroom who I have to take care of, so you go
+    out there by yourself.
+  claim_id: 0f5ad2be-91cc-4953-8524-10d30cda8254
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-0f5ad2be-91cc-4953-8524-10d30cda8254
+- text: After three or four attempts Strieber went alone into the woods at night,
+    and the visitors appeared within a few days and began coming to the house.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:06:45.9-00:06:54.9
+  quote: But eventually, after three or four tries, I did it. They showed up very
+    promptly. Within a few days, actually, they began to come to the house.
+  claim_id: 13df3478-b289-49b9-8db5-9431650bf472
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-13df3478-b289-49b9-8db5-9431650bf472
+- text: Within a year, the visitors were coming to the cabin while gathered friends
+    and correspondents were present.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:06:57.3-00:07:13.3
+  quote: by the time a year was out, I was definitely involved with them. And they
+    were coming up to the house. gathering people together, their friends and people
+    who had written us about their experiences.
+  claim_id: 1dff40a3-acc5-4f68-930d-66157cc692a1
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-1dff40a3-acc5-4f68-930d-66157cc692a1
+- text: Strieber's book Transformation names 31 witnesses, many of whom had experiences
+    at his cabin.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:10:31.0-00:10:36.5
+  quote: in transformation, there are 31 witnesses named, many of whom had experiences
+    at the cabin
+  claim_id: bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
+- text: Strieber does not believe any of the witnesses saw the visitors engaging with
+    him personally; they had their own encounters.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:07:39.4-00:08:01.0
+  quote: 'Ross Coulthart: there are like corroborative witnesses who say they saw
+    non-human beings engaging with you. Whitley Strieber: Well, yeah, well, no, they
+    engaged with them personally. and with me, but they didn''t, did anyone see them
+    engaging with me? No, I don''t think so.'
+  claim_id: e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
+- text: In January 1987 Strieber had been going nightly to the clearing where the
+    visitors first appeared, after asking them for a meeting.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:13:09.0-00:13:28.8
@@ -823,7 +820,8 @@ references:
   claim_id: 3d0ff878-e53c-4c8c-9736-3fc373f86e9a
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3d0ff878-e53c-4c8c-9736-3fc373f86e9a
-- text: Just before dawn, Strieber heard a low mournful horn-like sound from the woods.
+- text: Just before dawn, Strieber heard a low, mournful, horn-like sound from the
+    woods near his cabin.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:13:42.3-00:13:56.8
@@ -842,7 +840,8 @@ references:
   claim_id: f961dc8f-33a5-439b-bc0e-4663efa85388
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-f961dc8f-33a5-439b-bc0e-4663efa85388
-- text: A harsh voice said 'come on, come on', frightening Strieber back to the house.
+- text: Strieber heard a harsh voice in his head saying 'come on, come on', frightening
+    him into turning back.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:14:55.5-00:15:05.8
@@ -851,7 +850,8 @@ references:
   claim_id: 84c0b566-7185-4194-822f-a14b6edb8c47
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-84c0b566-7185-4194-822f-a14b6edb8c47
-- text: Strieber turned back fearing he might not return to his wife and son.
+- text: Strieber turned back because he feared he might not return and could not disappear
+    on his wife and son.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:15:12.3-00:15:18.0
@@ -861,7 +861,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-690ee754-a8e9-4229-9f09-d692115f927f
 - text: As he touched the doorknob, Strieber heard three cries above the forest that
-    he describes as not of this world.
+    sounded like disappointment, which he describes as not of this world.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:15:44.7-00:16:01.2
@@ -871,29 +871,47 @@ references:
   claim_id: 99e39740-c17c-4115-96cb-aa8113b9327f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-99e39740-c17c-4115-96cb-aa8113b9327f
-- text: Strieber's book Transformation names 31 witnesses, many with experiences at
-    the cabin.
+- text: For a year afterwards, classical music sounded muddy and indistinct to Strieber.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
-  location: 00:10:31.0-00:10:36.5
-  quote: in transformation, there are 31 witnesses named, many of whom had experiences
-    at the cabin
-  claim_id: bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
+  location: 00:16:20.0-00:16:31.4
+  quote: it sounded for a year after hearing those three perfect sounds, it sounded
+    muddy. The best classical music in the world sounded muddy and indistinct - for
+    a year
+  claim_id: dcd97eb8-384e-4714-a796-c9570d65c2fc
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
-- text: Strieber does not believe witnesses saw the visitors engage with him personally.
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-dcd97eb8-384e-4714-a796-c9570d65c2fc
+- text: Sitting on his bedside, Strieber felt an invisible presence directly in front
+    of him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
-  location: 00:07:39.4-00:08:01.0
-  quote: 'Ross Coulthart: there are like corroborative witnesses who say they saw
-    non-human beings engaging with you. Whitley Strieber: Well, yeah, well, no, they
-    engaged with them personally. and with me, but they didn''t, did anyone see them
-    engaging with me? No, I don''t think so.'
-  claim_id: e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
+  location: 00:16:50.3-00:16:56.2
+  quote: something I can feel but not see is right in front of me. And it was really
+    scary. It was a real presence.
+  claim_id: cdd6bd0c-c9d3-4c1b-9951-e48f07863f34
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
-- text: Strieber sent a letter to Senator Strom Thurmond on 1997-06-16, held in the
-    Edgar Mitchell archive.
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cdd6bd0c-c9d3-4c1b-9951-e48f07863f34
+- text: Strieber believes the visitors took his adult consciousness back into his
+    infant body at the moment he first walked, breaking through childhood amnesia.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:17:49.7-00:18:17.2
+  quote: I'm back in Texas in my baby body. And what is happening is they have taken
+    my adult consciousness back to the moment I first walked... I broke through childhood
+    amnesia and went back to that moment.
+  claim_id: 8200f835-b09b-40a3-8342-2206f4cbadaf
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8200f835-b09b-40a3-8342-2206f4cbadaf
+- text: In 1988, while making the Communion film, Strieber and Anne Strieber travelled
+    to Roswell to meet surviving witnesses of the 1947 Roswell UFO incident.
+  source: The Fourth Mind
+  location: ch11:1211-1361
+  quote: When we were making the Communion movie in 1988, Anne and I took a side trip
+    to Roswell to meet with witnesses, some of whom were still alive at that time.
+  claim_id: 63df11cb-d372-4f21-8974-20791f0d823b
+  record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-63df11cb-d372-4f21-8974-20791f0d823b
+- text: Strieber sent a letter to Senator Strom Thurmond on 1997-06-16.
   source: In Plain Sight
   location: ch34:57725-57809
   quote: Letter from Whitley Strieber to Senator Strom Thurmond, 16 Jun 1997, Edgar
@@ -902,8 +920,9 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
-- text: Strieber wrote that Arthur Exon told him of a 'completely unequivocal cover-up'
-    of a retrieved craft at Roswell.
+- text: Strieber told Strom Thurmond that Brigadier General Arthur Exon had told him
+    personally in 1989 of a 'completely unequivocal cover-up' of a retrieved craft
+    at Roswell that 'went from Truman on down'.
   source: In Plain Sight
   location: ch25:22926-23176
   quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
@@ -914,45 +933,37 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-- text: Edgar Mitchell said his scepticism of the Corso and Strieber Roswell accounts
-    turned to amazement.
-  source: In Plain Sight
-  location: ch25:23327-23526
-  quote: '''My initial scepticism of the Corso and Strieber type accounts has slowly
-    turned to amazement as I dug through reams of documents and interviewed military
-    colleagues,'' Mitchell confided in his fax to Thurmond.'
-  claim_id: 8c81cd62-43fa-47c9-95af-b3508f95330a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c81cd62-43fa-47c9-95af-b3508f95330a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8c81cd62-43fa-47c9-95af-b3508f95330a
-- text: Strieber states The Fourth Mind is not intended to be hostile to the visitors
-    or to governments and defence contractors.
+- text: Strieber wrote that the US Department of Defense ensures nobody outside a
+    small security-cleared group has definite knowledge concerning nonhuman visitors.
   source: The Fourth Mind
-  location: ch10:3112-3269
-  quote: it is not intended to be hostile to our visitors or to the governments and
-    defense contractors worldwide who have kept secrets related to their presence
-    and intentions
-  claim_id: d67a88e6-0417-4b79-a181-fba0bd0365e3
+  location: ch10:3834-4051
+  quote: The United States Department of Defense makes certain that nobody outside
+    of a small coterie of individuals whose activities are controlled by security
+    clearances has any definite knowledge of anything to do with the visitors.
+  claim_id: 68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d67a88e6-0417-4b79-a181-fba0bd0365e3
-- text: Strieber has had a lifetime of contact with nonhuman visitors and opportunities
-    to observe them as an adult.
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
+- text: Strieber considers that every US presidential administration since Harry Truman
+    in 1947 has kept the secret of nonhuman visitors.
   source: The Fourth Mind
-  location: ch10:4061-4205
-  quote: I do have something that they don't, though, which is a lifetime of contact
-    with them, and, in my adult life, opportunities to usefully observe them.
-  claim_id: f9b62c02-eb84-4a1e-af7e-387cf6ef7f6e
+  location: ch10:5589-5680
+  quote: From Truman in 1947 until the present, all U.S. presidential administrations
+    have kept the secret
+  claim_id: 080a72f9-28f2-4a49-8e6d-051f117a3260
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f9b62c02-eb84-4a1e-af7e-387cf6ef7f6e
-- text: Strieber states he is not personally keeping any secrets about the visitors.
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-080a72f9-28f2-4a49-8e6d-051f117a3260
+- text: The United States government classifies between 60 million and 70 million
+    documents a year.
   source: The Fourth Mind
-  location: ch10:4739-4771
-  quote: I am not personally keeping any secrets.
-  claim_id: ade74985-ace3-43b8-8457-8969dcf99ae4
+  location: ch10:10978-11064
+  quote: The United States government classifies between 60 million and 70 million
+    documents a year
+  claim_id: eff9d015-d7fe-415f-9f04-7d272f4b68c0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ade74985-ace3-43b8-8457-8969dcf99ae4
-- text: Strieber considers much is known within the US defence establishment about
-    UAP materials and biology, but not motives.
+  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-eff9d015-d7fe-415f-9f04-7d272f4b68c0
+- text: Strieber considers that much is known about UAP and some of their occupants
+    within the US defence establishment, concentrated on materials and biology rather
+    than aims or motives.
   source: The Fourth Mind
   location: ch10:6707-7025
   quote: There is much known about UAPs and some of their occupants within the U.S.
@@ -962,8 +973,9 @@ references:
   claim_id: 714a9560-6407-480d-a990-bc73f962f9d2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-714a9560-6407-480d-a990-bc73f962f9d2
-- text: The alleged Reddit whistleblower was described as a biologist and geneticist
-    who worked on crash-retrieval bodies.
+- text: An alleged whistleblower described in a Reddit document referenced in one
+    of Strieber's recent books was a biologist and geneticist who examined the blood,
+    organs, eyes and fingers of the beings.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
   location: 01:20:56.8-01:21:30.2
@@ -976,42 +988,51 @@ references:
   claim_id: ff5998b9-ca6d-409a-a0b4-9b94b91640e4
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ff5998b9-ca6d-409a-a0b4-9b94b91640e4
-- text: The whistleblower described the beings' lung sacs as resembling those of birds,
-    with no vocal cords.
-  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
-    ep. 58
-  location: 01:21:42.2-01:21:56.2
-  quote: when it came to the lung sacs, there was uh they were like birds... he described
-    them like birds lung sacks... in the way that um they they had no vocal cords
-    and so kind of like a bird
-  claim_id: 9e836f46-11eb-48a6-833d-e84489f1a5b4
-  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9e836f46-11eb-48a6-833d-e84489f1a5b4
+- text: Strieber considers the contact experience with non-human beings to be primarily
+    about the human soul rather than the body.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:02:12.6-00:02:20.5
+  quote: I think that the experience, the whole contact experience is primarily about
+    the soul. I think it's much more that than about the body.
+  claim_id: c070f0ef-4ead-4374-b5ed-e9fc5d32d552
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-c070f0ef-4ead-4374-b5ed-e9fc5d32d552
+- text: Strieber believes the non-human beings he encountered understand the soul
+    and the afterlife, while humans do not.
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:02:59.8-00:03:08.2
+  quote: either we don't believe in it, we can't feel it, we don't understand it,
+    and yet they do. They do.
+  claim_id: e1181a66-3811-490a-bffd-0d4d55f3890c
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e1181a66-3811-490a-bffd-0d4d55f3890c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 11caa121e22c6adda5e757d7ede469979b9fdf16505d47e3d516d25b3e9792b9
+  prompt_sha256: eef6b81ae3f0c15ea159c4b42fd7a188ea13331618101cf22136714531c93859
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 101332
-    output: 56186
+    input: 101766
+    output: 55465
     real_input: 2
-    cache_read: 39325
-    cache_write: 62005
+    cache_read: 39424
+    cache_write: 62340
     calls: 0
-  body_sha256: ce90ab6a8b6481827eef9a6c2c926c24ff63ba58cf4f1b5838e1a86c6989d307
+  body_sha256: a4e3e1a946367e1fd5f868bfc9e4a5de3792a492cb8406b2400645f4abe98e56
 ---
 
-Ross Coulthart describes Strieber as a controversial and leading figure in the study of alleged experiencer close encounters.<sup>1</sup> Strieber is the author of [Communion](/documents/communion),<sup>2</sup> in which he described his own alleged encounters with nonhuman beings he called "the visitors".<sup>3</sup> His accounts of these experiences began at his remote cabin in upstate New York in December 1985.<sup>4</sup> Published in 1987, Communion sold millions of copies<sup>5</sup> and became a New York Times bestseller.<sup>6</sup> Strieber has written over 30 novels and non-fiction works,<sup>7</sup> including Transformation, the sequel to Communion,<sup>8</sup> and Breakthrough, also among his bestselling titles.<sup>9</sup>
+Whitley Strieber is the author of [Communion](/documents/communion)<sup>1</sup> (1987),<sup>2</sup> an account of his own claimed encounters with beings he refers to as the visitors.<sup>3</sup> Ross Coulthart has described him as a controversial and leading figure in the study of alleged experiencer close encounters.<sup>4</sup> He has written over thirty novels and non-fiction works,<sup>5</sup> and Communion, together with its sequel Breakthrough, are described as his bestselling titles.<sup>6</sup> Communion sold millions of copies<sup>2</sup> and, according to Ross Coulthart, was a New York Times bestseller.<sup>7</sup> After its publication Strieber received thousands of letters from readers reporting similar encounters,<sup>8</sup> and the cover painting created for the book helped entrench the "gray" alien stereotype in public consciousness.<sup>9</sup> Coulthart has said he has met many people whose own encounter experiences were triggered by the image of the grey alien on that cover.<sup>10</sup>
 
-Strieber was severely injured in some areas during his 1985 close encounter, and the injuries took him to a doctor.<sup>10</sup> He initially believed he had been assaulted by people wearing masks and did not connect the experience with aliens.<sup>11</sup> He involved the New York State Criminal Investigation Division, but they could do nothing because he had no evidence.<sup>12</sup> After reading Science and the UFOs, he telephoned [Budd Hopkins](/people/budd-hopkins).<sup>13</sup> Hopkins, an artist with no professional degrees on display, wanted to hypnotise Strieber himself; Strieber refused, and Hopkins instead put him in touch with psychiatrist [Donald Klein](/people/donald-klein), who then hypnotised him.<sup>14</sup><sup>15</sup> Strieber later regarded Klein as one of the world's leading forensic hypnotists of the mid-1980s<sup>16</sup> who, in Strieber's assessment, understood the neurology of the brain.<sup>17</sup> Klein had solved 72 legal cases using forensic hypnosis by the mid-1980s.<sup>18</sup> Under Klein's hypnosis, Strieber recalled appearing to have been abducted by aliens rather than assaulted by people in masks.<sup>19</sup>
+Strieber's accounts of his own alleged abduction experiences began at his remote cabin in upstate New York<sup>11</sup> in December 1985. He initially believed he had been assaulted by people wearing masks and did not connect the experience with aliens,<sup>12</sup> though he had been severely injured in some areas, and the injuries took him to a doctor.<sup>13</sup> He involved the New York State Criminal Investigation Division, but they could do nothing because he had no evidence.<sup>14</sup> After reading Science and the UFOs, he telephoned [Budd Hopkins](/people/budd-hopkins).<sup>15</sup> Hopkins wanted to hypnotise him, but Strieber refused because Hopkins, an artist, displayed no professional degrees;<sup>16</sup> he also chose not to approach any hypnotist to whom Hopkins had made previous referrals.<sup>17</sup> Hopkins instead put him in touch with [Donald Klein](/people/donald-klein), who then hypnotised him.<sup>18</sup> Klein induced hypnosis using an eye-fixation technique with his finger, followed by relaxation and warmth suggestions,<sup>19</sup> after Strieber underwent a three-hour pre-interview and provided him with a document outlining his memories of the visitor experiences.<sup>20</sup><sup>21</sup> Hopkins was present at the resulting sessions, recording them and permitted to ask questions only at their end.<sup>22</sup>
 
-Before hypnosis began, Strieber underwent a three-hour pre-interview in Klein's office<sup>20</sup> and provided him with a document outlining all of his memories related to the visitor experiences.<sup>21</sup> After a week of unsuccessfully trying to recall further memories, resulting only in dizziness and strange nightmares, Strieber and Klein decided on a trial hypnosis session.<sup>22</sup> Klein induced hypnosis using an eye-fixation technique with his finger, followed by suggestions of relaxation and warmth,<sup>23</sup> and told Strieber he was an excellent hypnotic subject.<sup>24</sup> Hopkins was present at both of the resulting sessions, recording them and permitted to ask questions only at the end of each.<sup>25</sup> During the 1985 abduction experience December 26, Strieber found himself in a messy, round room and felt overwhelmed by extreme dread and a sense that his personality had completely evaporated;<sup>26</sup> under hypnosis he recalled asking to go home, wanting to remain with his mother, his wife and his son, and not wanting the room's round door opened.<sup>27</sup> The only smell he noticed inside the beings' space was a mild odour of cinnamon, which he suggested indicated they were wearing a skin covering at the time,<sup>28</sup> and he recalled a pale-skinned being that almost looked like a human woman with a very strange face,<sup>29</sup> with human-looking legs unlike the grey beings he had otherwise seen.<sup>30</sup> A separate set of memories, from the night of 1985 October 4, was recovered during a hypnosis session held on 1986-03-01; according to Communion, Klein conducted that session as psychiatrist.<sup>31</sup> Under hypnosis, Strieber recalled that earlier that day he had planned to take Annie Gottlieb to the country for the weekend in a Jeep Wagoneer,<sup>32</sup> before that night waking to see something pass an octagonal window beneath the peak of his living room's cathedral ceiling, roughly nine metres above the ground,<sup>33</sup> then a dark shape about one metre tall standing in the corner of his bedroom,<sup>34</sup> appearing hooded with no visible head.<sup>35</sup> He recalled the figure approaching his bed and making a sucking, smacking, squeaking sound, as if pressing something into his mind,<sup>36</sup> and screamed for a prolonged twenty seconds before spontaneously emerging from hypnosis, describing the fear he relived as more raw and profound than any he had previously experienced.<sup>37</sup> Hypnosis also elicited an earlier memory from the 1957 train trip, when Strieber was twelve: he recalled his father standing up, appearing terrified and making a convulsive mouth movement as though trying to get something out of his throat, then heard him screaming faintly despite being close by,<sup>38</sup> and recalled seeing other people lying down in rows in a room full of beds while he alone sat up awake.<sup>39</sup>
+Under hypnosis, Strieber came to recall that he had apparently been abducted by non-human beings rather than assaulted by people in masks.<sup>23</sup> According to Communion, the 1986 hypnosis session March 1 recovered his memories of the 1985 abduction experience October 4.<sup>24</sup> He recalled waking to see something pass an octagonal window beneath the peak of his living room's cathedral ceiling,<sup>25</sup> then a dark shape about a metre tall standing in the far corner of his bedroom, appearing hooded with no visible head,<sup>26</sup><sup>27</sup> which approached his bed making a sucking, smacking, squeaking sound as if pressing something into his mind.<sup>28</sup> He recalled planning to take guests, including Jacques Sandulescu and his girlfriend Annie Gottlieb, to the country for the weekend.<sup>29</sup> In a second induction during the same session, he recalled a small being with a mean-looking face, large slanted eyes and a bald head, holding a silver-tipped, ruler-like object that touched his head and produced visions of a nuclear blast,<sup>30</sup> accompanied by a voice telling him "That's your home".<sup>31</sup> He recalled screaming for a prolonged twenty seconds before spontaneously emerging from hypnosis, describing the fear he relived as more raw and profound than any he had previously experienced.<sup>32</sup> Regarding the 1985 abduction experience December 26, he recalled finding himself in a messy, round room, overwhelmed by dread and a sense that his personality had completely evaporated,<sup>33</sup> and asking, under hypnosis, to go home and to remain with his mother, his wife [Anne Strieber](/people/anne-strieber) and their son Andrew Strieber.<sup>34</sup> The same hypnotic process reached back further, to a 1957 train trip abduction memory from when Strieber was twelve: he recalled his father, Karl Strieber, standing up, appearing terrified, and making a convulsive mouth movement as though trying to get something out of his throat.<sup>35</sup>
 
-Communion's cover painting, depicting one of the beings, helped entrench the grey alien stereotype in public consciousness,<sup>40</sup> and after publication Strieber received thousands of letters from readers reporting similar encounters.<sup>41</sup> Strieber told researcher Bill Chalker that he had deliberately omitted the detail of hair on the visitors from his descriptions in Communion, as a way of later evaluating the authenticity of reports he expected to receive.<sup>42</sup> Chalker later observed that Strieber's subsequent books referred to hair on the beings in a case he had called among the best descriptions of the "grays" he had received, without linking the account back to his earlier book or noting that he had kept hair out of his own original descriptions.<sup>43</sup>
+By mid-1986, Strieber and Anne Strieber were discussing whether to attempt to re-establish contact with the visitors or to leave the cabin permanently.<sup>36</sup> Strieber has said Anne urged him to go back to the woods where the first encounter had happened, to show the visitors he was interested, while she herself declined to go into the woods because she needed to care for their son.<sup>37</sup><sup>38</sup> After three or four attempts, Strieber went alone into the woods at night, and the visitors appeared within a few days and began coming to the house.<sup>39</sup> Within a year, they were coming to the cabin while gathered friends and correspondents were present.<sup>40</sup> His book Transformation names thirty-one witnesses, many of whom had experiences at the cabin,<sup>41</sup> though Strieber does not believe any of them saw the visitors engaging with him personally; each had their own encounters.<sup>42</sup>
 
-By mid-1986, Strieber and [Anne Strieber](/people/anne-strieber) were discussing whether to attempt to re-establish contact with the visitors or leave the cabin permanently.<sup>44</sup> In January 1987, having asked the visitors for a meeting, Strieber had been going nightly to the clearing near his cabin where they had first appeared.<sup>45</sup> Just before dawn one morning, he heard a low, mournful, horn-like sound coming from the woods,<sup>46</sup> and from a hill above the clearing he saw a dark object with figures standing in front of it.<sup>47</sup> A harsh voice in his head said "come on, come on", which frightened him into turning back to the house;<sup>48</sup> he turned back for fear he might not return and could not disappear on his wife and son.<sup>49</sup> As he touched the doorknob, he heard three cries above the forest that sounded like disappointment, which he describes as not of this world.<sup>50</sup> Strieber's book Transformation names 31 witnesses, many of whom had experiences at the cabin,<sup>51</sup> though he does not believe any of them saw the visitors engaging with him personally - they had their own, separate encounters.<sup>52</sup>
+In January 1987, Strieber had been going nightly to the clearing near the cabin where the visitors first appeared, after asking them for a meeting.<sup>43</sup> Just before dawn one morning he heard a low, mournful, horn-like sound from the woods,<sup>44</sup> and from a hill above the clearing saw a dark object with figures standing in front of it.<sup>45</sup> A harsh voice in his head said "come on, come on", frightening him into turning back;<sup>46</sup> he feared he might not return and could not disappear on his wife and son.<sup>47</sup> As he touched the doorknob of the cabin, he heard three cries above the forest that sounded like disappointment, which he describes as not of this world.<sup>48</sup> For a year afterwards, classical music sounded muddy and indistinct to him.<sup>49</sup> Sitting on his bedside, he felt an invisible presence directly in front of him,<sup>50</sup> and came to believe the visitors had taken his adult consciousness back into his infant body at the moment he first walked, breaking through his childhood amnesia.<sup>51</sup>
 
-According to In Plain Sight, Strieber sent a letter to Senator Strom Thurmond on 1997-06-16, now held in the Edgar Mitchell archive,<sup>53</sup> in which he wrote that US Army Brigadier General [Arthur Exon](/people/arthur-exon) had told him personally in 1989 that there was a "completely unequivocal cover-up" of a retrieved alien craft at Roswell, New Mexico, "that went from Truman on down".<sup>54</sup> Edgar Mitchell said that his own initial scepticism of the Corso and Strieber accounts of Roswell slowly turned to amazement as he examined documents and interviewed military colleagues.<sup>55</sup> In his 2025 book The Fourth Mind, Strieber states the book is not intended to be hostile to the nonhuman visitors or to the governments and defence contractors worldwide that have kept secrets related to their presence.<sup>56</sup> He states that he has had a lifetime of contact with nonhuman visitors and, in his adult life, opportunities to observe them,<sup>57</sup> and that he is not personally keeping any secrets about them.<sup>58</sup> He considers that there is much already known about [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) and some of their occupants within the US defence establishment, concentrated on materials and biology rather than aims, motives, or their relationship to the soul.<sup>59</sup> One of Strieber's recent books references an anonymous Reddit document on nonhuman anatomy; Chris Ramsay described its alleged author as a whistleblower who had worked on crash-retrieval bodies, a biologist and geneticist,<sup>60</sup> who described the beings' lung sacs as resembling those of birds, with no vocal cords.<sup>61</sup>
+In 1988, while making the Communion film, Strieber and Anne Strieber travelled to Roswell to meet surviving witnesses of the 1947 Roswell [UFO](/topics/unidentified-flying-object-ufo) incident.<sup>52</sup> In a letter to Senator Strom Thurmond dated 1997-06-16,<sup>53</sup> Strieber wrote that United States Army Brigadier General [Arthur Exon](/people/arthur-exon) had told him personally in 1989 that there was a "completely unequivocal cover-up" of a retrieved alien craft at Roswell, New Mexico, that "went from Truman on down".<sup>54</sup> In his 2025 book The Fourth Mind, Strieber wrote that the US Department of Defense ensures that no one outside a small, security-cleared group has definite knowledge of matters concerning nonhuman visitors,<sup>55</sup> and that every US presidential administration since Harry Truman in 1947 has kept the secret.<sup>56</sup> He noted that the US government classifies between 60 million and 70 million documents a year.<sup>57</sup> He wrote that much is already known about [UAP](/topics/unidentified-anomalous-phenomena-uap) and some of their occupants within the US defence establishment, concentrated on materials and biology rather than on aims, motives or the soul.<sup>58</sup> The book also drew on an anonymous Reddit document on nonhuman anatomy referenced in one of Strieber's recent books; according to Chris Ramsay, an alleged whistleblower who had worked on crash-retrieval bodies was described in it as a biologist and geneticist who had examined the blood, organs, eyes and fingers of the beings.<sup>59</sup> Strieber has said the contact experience with the beings is primarily about the human soul rather than the body,<sup>60</sup> and that the beings understand the soul and the afterlife in ways he believes humans do not.<sup>61</sup>

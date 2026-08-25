@@ -1,12 +1,11 @@
 ---
 title: Tom DeLonge
-description: American musician, Blink-182 frontman, and co-founder of To the Stars
-  Academy of Arts and Science who became a prominent, controversial figure in UFO
-  disclosure advocacy after describing secret briefings by senior US military and
-  intelligence officials.
+description: American musician and Blink-182 frontman who co-founded To the Stars
+  Academy of Arts and Science and has said senior US military, intelligence and aerospace
+  figures secretly briefed him on recovered anomalous craft and technology.
 metadata:
-  role: Musician; co-founder and former interim chief executive of To the Stars Academy
-    of Arts and Science (TTSA)
+  role: Musician; co-founder and former interim CEO, To the Stars Academy of Arts
+    and Science (TTSA)
   affiliation: Blink-182; To the Stars Academy of Arts and Science (TTSA)
 built_from:
   brief_hash: cbdc5f5962edfb3174548e92da3ff1977b77083801d6d48ac7aa0b19b1789cc1
@@ -412,16 +411,7 @@ built_from:
   - id: 8ba9e89a-4c29-43ab-bf11-077d275c488c
     hash: 5f4cfc56e3a98b182d5beb9a1e46426cc64271ce45f6db441f8e1bf56cc32d9d
 references:
-- text: DeLonge is the front man of Blink-182
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch29:11264-11339
-  quote: Tom DeLonge, the front man of Blink-182, was only a few years younger than
-    me
-  claim_id: 22410738-59ee-43df-81ef-6c4638747374
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22410738-59ee-43df-81ef-6c4638747374
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22410738-59ee-43df-81ef-6c4638747374
-- text: DeLonge is a musician known for Blink-182 and a longtime UFO enthusiast
+- text: Tom DeLonge is a musician known for Blink-182 and a longtime UFO enthusiast
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:5114-5170
@@ -439,27 +429,18 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-3be78208-ae8c-40d0-ba4d-8b8e20db8ef1
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-3be78208-ae8c-40d0-ba4d-8b8e20db8ef1
-- text: TTSA was presented as a public benefit corporation
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:31:54.2-00:31:58.9
-  quote: Today we are presenting you with To The Stars Academy of Arts and Science,
-    a public benefit corporation.
-  claim_id: be19897a-dc16-4e3f-8c06-71bd5aa3732b
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-be19897a-dc16-4e3f-8c06-71bd5aa3732b
-- text: 'TTSA''s stated aim: motion pictures on historic events, public involvement
-    in science, an exotic craft with a revolutionary energy source'
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:07:29.3-00:07:44.4
-  quote: To the Stars Academy of Arts and Science aims to communicate historic events
-    and forward-thinking ideas through motion picture and include you on ongoing scientific
-    discovery and build an exotic craft with an energy source that can revolutionize
-    the world.
-  claim_id: 9e1e2314-01cd-49c2-aae9-4539e80be739
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-9e1e2314-01cd-49c2-aae9-4539e80be739
-- text: 'DeLonge listed as executive producer and prominently featured in Unidentified:
-    Inside America''s UFO Investigation'
+- text: 'DeLonge is executive producer of Unidentified: Inside America''s UFO Investigation'
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:4939-5107
+  quote: the relationship between its executive producer, Tom DeLonge, Elizondo, and
+    other former Pentagon officials and members of the intelligence community who
+    appear in the show.
+  claim_id: fc005bdd-43e0-4fee-be9b-0ac75db485e5
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-fc005bdd-43e0-4fee-be9b-0ac75db485e5
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-fc005bdd-43e0-4fee-be9b-0ac75db485e5
+- text: DeLonge is also prominently featured in the show
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:11128-11211
@@ -469,18 +450,17 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-6f9ea08a-f0be-4f3a-80f0-2e5fb934f26c
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-6f9ea08a-f0be-4f3a-80f0-2e5fb934f26c
-- text: 'Fravor: DeLonge became interested in UFOs after reading a book while touring'
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:48:08.2-01:48:20.0
-  quote: he goes oh when i was traveling around with blink 182 he goes you read a
-    lot of books when you're laying in a van as you're driving to your next gig before
-    you make it big and he goes and he read he was reading books and he read one of
-    them on UFOs
-  claim_id: 97388e07-5f21-493a-a716-bd2946ed8b7e
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-97388e07-5f21-493a-a716-bd2946ed8b7e
-- text: '''Aliens Exist'' inspired by books/articles DeLonge read on tour, 1999'
+- text: By 1999, as Blink-182's lead singer, DeLonge was a megastar packing stadiums
+    worldwide
+  source: In Plain Sight
+  location: ch18:9536-9656
+  quote: By 1999, as Blink-182's lead singer, DeLonge was a megastar, packing stadiums
+    full of fans across the US and around the world.
+  claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
+- text: '''Aliens Exist'' was inspired by UAP books and articles DeLonge read on tour'
   source: In Plain Sight
   location: ch18:10032-10189
   quote: One of the new songs was Aliens Exist, which owes a lot to the many books
@@ -490,7 +470,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e9a5478-a436-4b8e-b60f-384d4c003d75
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4e9a5478-a436-4b8e-b60f-384d4c003d75
-- text: DeLonge told the LA Times the song's subject was 'true'
+- text: DeLonge told the LA Times the song is about aliens and 'it's true'
   source: In Plain Sight
   location: ch18:10196-10306
   quote: He told the Los Angeles Times the track was about aliens that come to Earth
@@ -499,27 +479,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-78c790d9-b419-4739-b772-47392e913efd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-78c790d9-b419-4739-b772-47392e913efd
-- text: By 1999 DeLonge was a megastar packing stadiums
-  source: In Plain Sight
-  location: ch18:9536-9656
-  quote: By 1999, as Blink-182's lead singer, DeLonge was a megastar, packing stadiums
-    full of fans across the US and around the world.
-  claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
-- text: DeLonge created the Strange Times UFO clearinghouse website
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: char:9873-10048
-  quote: several years before DeLonge took on this momentous communications assignment,
-    he created a website called Strange Times that was essentially a clearinghouse
-    for UFO news and conspiracies.
-  claim_id: 6aeed8aa-da16-414e-8b05-ad5ff1c1a26c
-  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-6aeed8aa-da16-414e-8b05-ad5ff1c1a26c
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-6aeed8aa-da16-414e-8b05-ad5ff1c1a26c
-- text: By 2014 DeLonge was fascinated with CE5 meditation-contact practice
+- text: By 2014 DeLonge was fascinated with Close Encounters of the Fifth Kind (CE5)
   source: In Plain Sight
   location: ch18:6719-7042
   quote: By 2014, DeLonge had also become increasingly fascinated with what is called
@@ -531,7 +491,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fb522be-f0eb-480a-91ba-4031b63db5fa
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fb522be-f0eb-480a-91ba-4031b63db5fa
-- text: DeLonge camped near Area 51 with two friends before quitting Blink-182
+- text: DeLonge camped near Area 51, north of Tonopah, with two friends
   source: In Plain Sight
   location: ch18:6005-6330
   quote: DeLonge does not put an exact date on an event that convinced him the phenomenon
@@ -543,7 +503,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
-- text: The group ran CE5 protocols overnight with no result
+- text: The group followed CE5 protocols; nothing happened despite staying up late
   source: In Plain Sight
   location: ch18:7297-7637
   quote: 'We were up mad late, but nothing happened,'' DeLonge recalls. ''I kept telling
@@ -555,7 +515,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1875bfea-804b-4a88-8757-5eb974ebb03c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1875bfea-804b-4a88-8757-5eb974ebb03c
-- text: At 3am DeLonge woke to voices and reports paralysis
+- text: DeLonge woke at 3am hearing voices and reports being paralysed
   source: In Plain Sight
   location: ch18:7644-7791
   quote: At 3 am, the world-famous rock musician, author and filmmaker woke up hearing
@@ -564,31 +524,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a0b5aa1e-a218-418a-949f-c17bdb41a78d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a0b5aa1e-a218-418a-949f-c17bdb41a78d
-- text: Around three hours of lost time reported
-  source: In Plain Sight
-  location: ch18:7803-8324
-  quote: '''My whole body felt like it had static electricity and I open my eyes and
-    the [campfire] is still going and there''s a conversation going on outside the
-    tent,'' DeLonge recalls. ''It sounded like there were about 20 people there, talking.
-    And instantly my mind goes, "Okay, they''re at our campsite, they''re not here
-    to hurt us, they''re talking about shit, but I can''t make out what they''re saying.
-    But they''re working on something". Then I close my eyes and wake up, and the
-    fire is out, and I have about three hours of lost time.'''
-  claim_id: ae0472a8-dfef-4252-ac28-44b8cf35e4a3
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae0472a8-dfef-4252-ac28-44b8cf35e4a3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ae0472a8-dfef-4252-ac28-44b8cf35e4a3
-- text: Friends gave differing accounts the next morning
-  source: In Plain Sight
-  location: ch18:8332-8508
-  quote: Next morning, DeLonge roused his friends and asked if they heard anything.
-    One had slept right through; however, the other said, 'Yes! They were all around
-    our tent. They were talking.'
-  claim_id: c6b21ba1-bcca-461f-9a49-b711b59be452
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c6b21ba1-bcca-461f-9a49-b711b59be452
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c6b21ba1-bcca-461f-9a49-b711b59be452
-- text: 'Early 2015: Blink-182 hiatus, partly to focus on UAP research'
+- text: Early 2015 hiatus from Blink-182 partly to focus on UAP research
   source: In Plain Sight
   location: ch18:12272-12446
   quote: In early 2015, DeLonge quit Blink-182, or rather his relationship with the
@@ -607,7 +543,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
-- text: DeLonge told press he'd met people gathering Congressional testimony
+- text: DeLonge told the press he'd met people gathering Congressional testimony
   source: In Plain Sight
   location: ch18:12452-12760
   quote: There were hints in interviews he gave just before the split, revealing just
@@ -618,7 +554,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c0ff3c1e-0c1f-4c39-b918-10950ef9679a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c0ff3c1e-0c1f-4c39-b918-10950ef9679a
-- text: DeLonge told press he feared his phone was tapped
+- text: DeLonge told the press he feared his phone was tapped
   source: In Plain Sight
   location: ch18:12838-12885
   quote: DeLonge told the press he feared his phone was tapped...
@@ -626,28 +562,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-decf1048-3b06-4fe0-a042-2d82837b0249
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-decf1048-3b06-4fe0-a042-2d82837b0249
-- text: DeLonge invited to MC an aerospace contractor family open house
-  source: In Plain Sight
-  location: ch18:14707-14951
-  quote: Shortly before he left Blink-182, the rock star was invited to an open house
-    for families of a top defence aerospace contracting company to MC at a function
-    where his job would be to introduce someone he would only describe as a lead aerospace
-    executive.
-  claim_id: 7822dcc3-ea39-4a9c-a637-9be738869008
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7822dcc3-ea39-4a9c-a637-9be738869008
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7822dcc3-ea39-4a9c-a637-9be738869008
-- text: He agreed on condition of five minutes alone with the lead executive
-  source: In Plain Sight
-  location: ch18:14962-15112
-  quote: 'DeLonge says that he agreed to do the families'' event on one condition:
-    that he got five minutes alone with that executive to discuss an issue of his
-    choosing.'
-  claim_id: 44643a22-400d-4db2-bef9-d6977a3f6a42
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44643a22-400d-4db2-bef9-d6977a3f6a42
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44643a22-400d-4db2-bef9-d6977a3f6a42
-- text: Lockheed Martin's statement on DeLonge's documentary approach
+- text: Lockheed Martin statement on DeLonge's documentary pitch to Skunk Works
   source: In Plain Sight
   location: ch18:15278-15884
   quote: '''Tom DeLonge reached out to Skunk Works with interest in collaborating
@@ -662,7 +577,40 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
-- text: 'Coulthart: fair bet the executive was Rob Weiss'
+- text: DeLonge's SeKret Machines foreword on his pitch to a Skunk Works executive
+  source: In Plain Sight
+  location: ch18:16835-17124
+  quote: '''When the meeting came, I took the bull by the horns and I pitched him
+    the idea . . . I had for a project that could help the youth lose their cynical
+    view of the government and Department of Defense,'' Tom writes in a foreword to
+    his 2016 science-fiction thriller SeKret Machines: Chasing Shadows.'
+  claim_id: b101e897-11bb-41ab-b8ef-52b3c9bc1fb2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b101e897-11bb-41ab-b8ef-52b3c9bc1fb2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b101e897-11bb-41ab-b8ef-52b3c9bc1fb2
+- text: DeLonge describes a second meeting inside a secure Area 51 bunker
+  source: In Plain Sight
+  location: ch18:17134-17467
+  quote: 'He says he was invited back a second time, this time to a secure concrete
+    bunker actually inside Area 51. He says he went through four layers of security:
+    guns, electronic code entry systems, hallways with speakers playing ''white noise,
+    and a series of solid doors flanking my view, each with rotary locks and not a
+    single window in sight''.'
+  claim_id: 5aedd31b-47ee-4ec2-9190-c10a67c2595d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
+- text: DeLonge agreed to MC a families' event for five minutes alone with the executive
+  source: In Plain Sight
+  location: ch18:14962-15112
+  quote: 'DeLonge says that he agreed to do the families'' event on one condition:
+    that he got five minutes alone with that executive to discuss an issue of his
+    choosing.'
+  claim_id: 44643a22-400d-4db2-bef9-d6977a3f6a42
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44643a22-400d-4db2-bef9-d6977a3f6a42
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44643a22-400d-4db2-bef9-d6977a3f6a42
+- text: Coulthart considers it a fair bet the executive was Rob Weiss
   source: In Plain Sight
   location: ch18:16530-16704
   quote: It is also a fair bet that the executive whom DeLonge subsequently met at
@@ -672,7 +620,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
-- text: DeLonge told Weiss he knew about 'some bad things'
+- text: DeLonge says he told Weiss he knew about 'some bad things'
   source: In Plain Sight
   location: ch18:20290-20384
   quote: DeLonge also claims he told BossMan he knew about ‘some bad things that have
@@ -681,7 +629,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
-- text: Weiss demanded to know what DeLonge meant
+- text: Weiss demanded to know what bad things the government had done
   source: In Plain Sight
   location: ch18:20394-20487
   quote: He says BossMan demanded to know, ‘What kind of bad things has the government
@@ -690,7 +638,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
-- text: DeLonge said he would need advisers to avoid disinforming people
+- text: DeLonge told Weiss he would need advisers to avoid disinforming people
   source: In Plain Sight
   location: ch18:20577-20747
   quote: ‘If you allow me to do this, what I am trying to do then I am going to ask
@@ -700,301 +648,17 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
-- text: DeLonge calls this exchange the breakthrough point in gaining access
-  source: In Plain Sight
-  location: ch18:20758-20797
-  quote: DeLonge says that was the breakthrough point.
-  claim_id: b6ac7585-c645-4c09-9c60-e7861caf8963
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
-- text: Within two weeks introduced to USAF generals, NASA and White House officials
-  source: In Plain Sight
-  location: ch18:21797-22035
-  quote: DeLonge claims that within two weeks of that meeting he was introduced to
-    senior top brass from across the military, including US Air Force generals, intelligence
-    officials, high-ranking NASA bureaucrats and senior officials in the White House.
-  claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-271deefa-c35a-4e99-ab78-659455e671d2
-- text: 'Coulthart: strong evidence senior officials met with and briefed DeLonge'
-  source: In Plain Sight
-  location: ch19:1184-1365
-  quote: I believe there is strong evidence that certain former and serving senior
-    officials of the US government and military definitely met with and briefed Tom
-    DeLonge.
-  claim_id: 80561cb0-785c-41d3-b177-a7b1eeb6f230
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-80561cb0-785c-41d3-b177-a7b1eeb6f230
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-80561cb0-785c-41d3-b177-a7b1eeb6f230
-- text: DeLonge describes meeting 'The General' at an airport hangar restaurant
-  source: In Plain Sight
-  location: ch18:22109-22257
-  quote: DeLonge described being told to fly to a regional American airport and found
-    himself sitting down at its hangar restaurant with a man he calls 'The General'.
-  claim_id: 696db94c-c794-4259-8dcf-1be9d0f81387
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-696db94c-c794-4259-8dcf-1be9d0f81387
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-696db94c-c794-4259-8dcf-1be9d0f81387
-- text: '''It was the Cold War and we found a lifeform'''
-  source: In Plain Sight
-  location: ch18:22267-22417
-  quote: 'The very first thing The General said to him he found terrifying: ‘“It was
-    the Cold War and we found a lifeform”. And that’s when I start shitting my pants.’'
-  claim_id: 45787ba7-1bfd-4333-847f-b60a66cdce44
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45787ba7-1bfd-4333-847f-b60a66cdce44
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-45787ba7-1bfd-4333-847f-b60a66cdce44
-- text: DeLonge told the US government had cracked gravity and built anti-gravity
-    machinery
-  source: In Plain Sight
-  location: ch19:14761-14953
-  quote: ‘Yes, we have cracked gravity, and we are building machinery that has anti-gravity.
-    And yes, I was told that it’s a big deal . . . They may be building things that
-    truly have anti-gravity,’ he said.
-  claim_id: adcee64e-207f-480e-8eae-2125b6d87cff
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-adcee64e-207f-480e-8eae-2125b6d87cff
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-adcee64e-207f-480e-8eae-2125b6d87cff
-- text: 'Coulthart: this contradicts DeLonge''s earlier no-back-engineering claim'
-  source: In Plain Sight
-  location: ch19:14960-15129
-  quote: (Here is where he or his advisers contradicted themselves; remember DeLonge
-    said earlier that his mentors admitted they still had no idea how to back-engineer
-    this alien technology?)
-  claim_id: 4d63433d-a6cc-4f04-866f-2425a5c56c04
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d63433d-a6cc-4f04-866f-2425a5c56c04
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d63433d-a6cc-4f04-866f-2425a5c56c04
-- text: DeLonge told officials had secretly retrieved alien spacecraft and aliens
-  source: In Plain Sight
-  location: ch19:1459-1592
-  quote: DeLonge claims he was told by these senior officials that the US government
-    had indeed secretly retrieved alien spacecraft . . . and aliens
-  claim_id: 5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
-- text: 'DeLonge: hidden UAP programme since the 1940s inside private industry'
-  source: In Plain Sight
-  location: ch19:14558-14746
-  quote: The grand conspiracy that Tom DeLonge painted was that, since the 1940s,
-    the US government has hidden a UAP research program, including developing their
-    own craft, inside private industry corporations.
-  claim_id: d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
-- text: Summoned to Colorado Springs, home of US Air Force Space Command
-  source: In Plain Sight
-  location: ch19:12241-12523
-  quote: He said that two weeks after asking his informants for insiders who could
-    give him the UAP information he needed, he was summonsed to meet a general and
-    a colonel at Colorado Springs (the base for the US Air Force Space Command), who
-    greenlighted his access and his media awareness campaign.
-  claim_id: 8799223b-109f-461b-bf4f-012f7c1ff7ab
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8799223b-109f-461b-bf4f-012f7c1ff7ab
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8799223b-109f-461b-bf4f-012f7c1ff7ab
-- text: The general and colonel greenlit his access and media campaign
-  source: In Plain Sight
-  location: ch19:12471-12523
-  quote: who greenlighted his access and his media awareness campaign.
-  claim_id: e7862a62-a327-476f-b8ee-14a97e47ae32
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7862a62-a327-476f-b8ee-14a97e47ae32
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e7862a62-a327-476f-b8ee-14a97e47ae32
-- text: Coulthart in no doubt the briefings happened
-  source: In Plain Sight
-  location: ch19:1715-1786
-  quote: I am in no doubt whatsoever that, whether true or not, these briefings happened.
-  claim_id: 4cc2971a-f05a-45fd-a2ca-a86475d3f0de
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4cc2971a-f05a-45fd-a2ca-a86475d3f0de
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4cc2971a-f05a-45fd-a2ca-a86475d3f0de
-- text: DeLonge described his first meeting with The General to George Knapp
-  source: In Plain Sight
-  location: ch19:15143-15330
-  quote: DeLonge also expanded, in his interview with George Knapp,10 on that first
-    meeting with ‘The General’ who made the extraordinary and apparently terrifying
-    claims about a recovered alien ‘lifeform’.
-  claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da962277-5c76-4f4e-8cb1-b21897f69099
-- text: 'DeLonge: hugely significant revelations imminent, breakthroughs like magic'
-  source: In Plain Sight
-  location: ch19:13976-14071
-  quote: ‘We’re also going to be shown scientific breakthroughs that will seem like
-    magic to people,’ he gushed.
-  claim_id: 529f01ad-a0cb-40fd-8344-d9ac40c29411
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529f01ad-a0cb-40fd-8344-d9ac40c29411
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529f01ad-a0cb-40fd-8344-d9ac40c29411
-- text: DeLonge told Knapp public would be grateful once truth was out
-  source: In Plain Sight
-  location: ch19:14155-14301
-  quote: He told Knapp that when the public learned about the secret spending there
-    would be an uproar but that once the truth was out the public would be grateful.
-  claim_id: a0d23532-3371-4e86-91a4-66f8831291ec
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a0d23532-3371-4e86-91a4-66f8831291ec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a0d23532-3371-4e86-91a4-66f8831291ec
-- text: Knapp asked why officials would confide in a rock musician
-  source: In Plain Sight
-  location: ch19:4741-5028
-  quote: George Knapp pulled DeLonge up at one stage and asked, ‘People will say,
-    this guy’s a rock musician, they’re not going to tell this stuff to him or they’re
-    going to tell him stuff that they’re going to have plausible deniability . . .
-    if this goes wrong, they can discredit you, or deny it?’
-  claim_id: df5f5d82-80f6-485b-b91e-769db4334e6e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
-- text: 'DeLonge: officials could deny or discredit anybody, even presidents'
-  source: In Plain Sight
-  location: ch19:5035-5330
-  quote: ‘Well, they can do that to anybody,’ DeLonge replied. ‘They can do that to
-    presidents. You’re talking about levels of power that we can’t comprehend as civilians.
-    Frankly, I don’t care if anyone doesn’t believe me. I’m in the middle of something
-    very important. I just gotta’ do what I said I’ll do.’
-  claim_id: a39f8857-f663-47ed-8a61-34af002a0c3a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
-- text: The Joe Rogan interview ran for roughly 100 minutes
-  source: In Plain Sight
-  location: ch19:871-972
-  quote: It is instructive to get across the detail of what DeLonge said in his 100-minute-duration
-    Joe Rogan interview
-  claim_id: 738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
-- text: DeLonge told Rogan about a recovered crashed spacecraft in the 1940s
-  source: In Plain Sight
-  location: ch19:11246-11371
-  quote: When he told Rogan that The General had told him in the airport restaurant
-    about a recovered crashed alien spacecraft in the 1940s
-  claim_id: 46edc10f-e440-411a-97f1-4d31d56bc3d0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46edc10f-e440-411a-97f1-4d31d56bc3d0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46edc10f-e440-411a-97f1-4d31d56bc3d0
-- text: DeLonge denied The General had lied to him
-  source: In Plain Sight
-  location: ch19:11378-11577
-  quote: Rogan quite reasonably asked what we were all thinking, ‘Ever think this
-    guy is bullshitting you?’ ‘Oh, fuck no,’ DeLonge replied. ‘That’s why you’ve got
-    to hear the real story.’
-  claim_id: 82684202-8d7f-4763-b520-bab8d4ba86e9
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82684202-8d7f-4763-b520-bab8d4ba86e9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-82684202-8d7f-4763-b520-bab8d4ba86e9
-- text: Leaked Podesta emails show contact with an aerospace CEO, a campaign staffer,
-    and two retired generals
-  source: In Plain Sight
-  location: ch20:10178-10455
-  quote: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge
-    truly was in contact with one of America's most senior private aerospace chief
-    executives, a campaign manager for Hillary Clinton, and two very senior recently
-    retired air force generals – and UAPs were discussed
-  claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
-- text: Proposed Google Hangout attendee list
-  source: In Plain Sight
-  location: 29-31
-  quote: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works'
-    boss Rob Weiss, an assistant to the Hillary Clinton campaign Milia Fisher, and
-    retired Major General Michael Carey.
-  claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
-- text: 'Samosa: roughly 35 messages between DeLonge and Podesta''s team'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:40:05.4-00:40:09.2
-  quote: I think there were 35 emails back and forth between Tom DeLonge and Podesta's
-    team.
-  claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
-- text: 'Samosa: Vallée''s journals corroborate the conversations took place'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:41:10.4-00:41:14.7
-  quote: these conversations really were going on, which was then further validated
-    by Jacques Vallée ... You read his journals, it absolutely did happen.
-  claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b9bcc60e-568b-406f-8e88-e61654e62876
-- text: 'Samosa: Vallée expressed significant scepticism about the effort'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:41:15.6-00:41:20.5
-  quote: someone who has huge questions about that whole thing, by the way. He's a
-    big skepticism about what they were trying to achieve.
-  claim_id: 3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
-- text: Contact with William Neal McCasland's group dated to 2015-2016
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:35:04.8-00:35:08.2
-  quote: Neil McCasland and, and the people that come later, that's 2015, 2016
-  claim_id: bf1548e7-3b1b-48fa-a690-4470155d05f8
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
-- text: Michael Carey introduced DeLonge to McCasland
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:38:24.7-00:38:31.5
-  quote: He's meeting with, I think General Mike Carey was one of the individuals
-    who eventually introduced him to General William Neal McCasland.
-  claim_id: 3d22f230-9a6e-4c2e-bda8-7ed2968de241
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3d22f230-9a6e-4c2e-bda8-7ed2968de241
-- text: McCasland's 'stumbling around an elephant' warning, per Samosa
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:32:50.0-00:33:00.8
-  quote: It brings me back to Tom DeLonge when he met Neil McCasland. And after that
-    initial phone call, I think, you know, McCasland had said, you know, I'm worried
-    that you might find a group of people stumbling around an elephant.
-  claim_id: ac782b6f-d7af-48d0-9b95-02648cf20b87
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac782b6f-d7af-48d0-9b95-02648cf20b87
-- text: 'Mitchells: little doubt about DeLonge''s sincerity and long-standing interest'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:42:13.9-00:42:25.1
-  quote: i have personally very little doubt of uh Tom deLonge's sincerity and his
-    intelligence and actually a long interest and his standing interest and organically
-    in the topic
-  claim_id: 59a88a7f-2be4-43d7-a70d-bc86eb3838a3
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-59a88a7f-2be4-43d7-a70d-bc86eb3838a3
-- text: 'Mitchells: confluence of DeLonge''s interest and government intent'
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: 00:42:30.6-00:42:40.4
-  quote: But it also seems like there was a confluence between that organic interest
-    on his part and then like people in the government wanting to do something on
-    UFOs.
-  claim_id: 8360dd74-6d47-4f2d-b896-72b7bd56696c
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8360dd74-6d47-4f2d-b896-72b7bd56696c
-- text: DeLonge founded TTSA after two years combining aerospace, science and entertainment
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: line 57-67
-  quote: i've worked for two years to construct a mechanism... It's called To the
-    Stars Academy of Arts and Science... aerospace, science, and entertainment.
-  claim_id: 52ff1367-7046-455a-8389-9858fcb58a8a
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-52ff1367-7046-455a-8389-9858fcb58a8a
-- text: 'Jim Semivan: former senior CIA Directorate of Operations officer'
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:08:05.5-00:08:11.5
-  quote: Jim Simivan, a career spy, former senior intelligence service in the CIA's
-    Directorate of Operations.
-  claim_id: b2fdd15b-3240-4ceb-b026-0a1442372f8c
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2fdd15b-3240-4ceb-b026-0a1442372f8c
+- text: Elizondo left the Pentagon and joined DeLonge, Mellon and Justice to form
+    TTSA
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:44234-44367
+  quote: Lue had left the Pentagon in protest and joined forces with Tom DeLonge,
+    Chris Mellon, Steve Justice and others to form To the Stars Academy
+  claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-60718dbf-3218-4794-bc22-9b5da564d285
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-60718dbf-3218-4794-bc22-9b5da564d285
 - text: TTSA co-founded by DeLonge and Semivan, pursuing a triple directive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10033-10494
@@ -1008,7 +672,18 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
-- text: Steve Justice spent 31 years at Skunk Works before joining
+- text: DeLonge offered Elizondo the role of chief of security and special programs
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: 111-111
+  quote: he made me an offer to join TTSA as chief of security and special programs...The
+    salary offered was much less than I was earning at the Pentagon...To do this,
+    Tom insisted that I relocate to California.
+  claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
+- text: Steve Justice spent thirty-one years at Skunk Works before joining the advisory
+    board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13378-13547
   quote: DeLonge’s advisory board included Steve Justice, a highly respected aerospace
@@ -1026,7 +701,7 @@ references:
   claim_id: fb85a1e1-7e4a-40d6-aad5-9a03ab232e2d
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-fb85a1e1-7e4a-40d6-aad5-9a03ab232e2d
-- text: Puthoff was a programme director for classified CIA and DOD programmes
+- text: Puthoff was a programme director for classified CIA and DoD programmes
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:23.4-00:08:30.6
   quote: Dr. Hal Pudoff is a theoretical physicist and program director for numerous
@@ -1042,53 +717,280 @@ references:
   claim_id: 2337e7a9-71c9-4993-8ffc-9748eb5f135e
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-2337e7a9-71c9-4993-8ffc-9748eb5f135e
-- text: Chris Mellon chaired TTSA's National Security Policy and Scientific Advisory
-    Board
+- text: Jim Semivan is a former senior CIA Directorate of Operations officer
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:09:54.2-00:09:59.7
-  quote: Chairman of the To The Stars Academy National Security Policy and Scientific
-    Advisory Board
-  claim_id: f28f00b9-d067-4634-8e76-41cdf1195281
+  location: 00:08:05.5-00:08:11.5
+  quote: Jim Simivan, a career spy, former senior intelligence service in the CIA's
+    Directorate of Operations.
+  claim_id: b2fdd15b-3240-4ceb-b026-0a1442372f8c
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f28f00b9-d067-4634-8e76-41cdf1195281
-- text: Mellon was Deputy Assistant Secretary of Defense for Intelligence
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:10:00.5-00:10:08.2
-  quote: has a long career at the DOD as Deputy Assistant Secretary of Defense for
-    Intelligence and Minority Staff Director of the Senate Intelligence Committee.
-  claim_id: c9bf8310-bdda-4f97-aa00-36de4c75c953
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-c9bf8310-bdda-4f97-aa00-36de4c75c953
-- text: Mellon was Minority Staff Director of the Senate Select Committee on Intelligence
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:10:00.5-00:10:08.2
-  quote: has a long career at the DOD as Deputy Assistant Secretary of Defense for
-    Intelligence and Minority Staff Director of the Senate Intelligence Committee.
-  claim_id: c602bdc5-1b14-45d6-b924-43c6a1c50779
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-c602bdc5-1b14-45d6-b924-43c6a1c50779
-- text: Elizondo left the Pentagon in protest and joined to form the academy
-  source: David Fravor Statement for the House Oversight Committee
-  location: char:5783-5963
-  quote: In the weeks that passed I was made aware that Lue had left the pentagon
-    in protest and joined forces with Tom Delonge, Chris Mellon, Steve Justice and
-    others to form To The Stars Academy.
-  claim_id: 5f155a23-b54a-4d82-adbb-33675b47e448
-  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-5f155a23-b54a-4d82-adbb-33675b47e448
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-5f155a23-b54a-4d82-adbb-33675b47e448
-- text: DeLonge offered Elizondo chief of security and special programs, at lower
-    pay, requiring relocation
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2fdd15b-3240-4ceb-b026-0a1442372f8c
+- text: TTSA's planned location was Encinitas, California
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: 111-111
-  quote: he made me an offer to join TTSA as chief of security and special programs...The
-    salary offered was much less than I was earning at the Pentagon...To do this,
-    Tom insisted that I relocate to California.
-  claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
+  location: ch29:15232-15374
+  quote: DeLonge was a proud son of Poway, near San Diego. TTSA’s planned location
+    was in Encinitas, about thirty minutes north of the city, along the coast.
+  claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-- text: DeLonge cut Elizondo's salary in half, citing restructuring
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5242da16-a248-4220-93c8-a00b043f7cb6
+- text: TTSA was presented as a public benefit corporation
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:31:54.2-00:31:58.9
+  quote: Today we are presenting you with To The Stars Academy of Arts and Science,
+    a public benefit corporation.
+  claim_id: be19897a-dc16-4e3f-8c06-71bd5aa3732b
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-be19897a-dc16-4e3f-8c06-71bd5aa3732b
+- text: TTSA offered Regulation A equity crowdfunding via its website
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:36:53.9-00:37:03.5
+  quote: You have to visit tothestarsacademy.com and click on the invest button. And
+    you will learn about the Regulation A equity crowdfunding.
+  claim_id: af71025e-25fe-4bb7-b566-ff6c56b25397
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-af71025e-25fe-4bb7-b566-ff6c56b25397
+- text: Within two weeks DeLonge was introduced to senior military, NASA and White
+    House figures
+  source: In Plain Sight
+  location: ch18:21797-22035
+  quote: DeLonge claims that within two weeks of that meeting he was introduced to
+    senior top brass from across the military, including US Air Force generals, intelligence
+    officials, high-ranking NASA bureaucrats and senior officials in the White House.
+  claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-271deefa-c35a-4e99-ab78-659455e671d2
+- text: DeLonge describes being flown to meet 'The General' at an airport hangar restaurant
+  source: In Plain Sight
+  location: ch18:22109-22257
+  quote: DeLonge described being told to fly to a regional American airport and found
+    himself sitting down at its hangar restaurant with a man he calls 'The General'.
+  claim_id: 696db94c-c794-4259-8dcf-1be9d0f81387
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-696db94c-c794-4259-8dcf-1be9d0f81387
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-696db94c-c794-4259-8dcf-1be9d0f81387
+- text: '''The General'' told DeLonge: ''It was the Cold War and we found a lifeform'''
+  source: In Plain Sight
+  location: ch18:22267-22417
+  quote: 'The very first thing The General said to him he found terrifying: ‘“It was
+    the Cold War and we found a lifeform”. And that’s when I start shitting my pants.’'
+  claim_id: 45787ba7-1bfd-4333-847f-b60a66cdce44
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45787ba7-1bfd-4333-847f-b60a66cdce44
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-45787ba7-1bfd-4333-847f-b60a66cdce44
+- text: DeLonge summoned to meet a general and colonel at Colorado Springs
+  source: In Plain Sight
+  location: ch19:12241-12523
+  quote: He said that two weeks after asking his informants for insiders who could
+    give him the UAP information he needed, he was summonsed to meet a general and
+    a colonel at Colorado Springs (the base for the US Air Force Space Command), who
+    greenlighted his access and his media awareness campaign.
+  claim_id: 8799223b-109f-461b-bf4f-012f7c1ff7ab
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8799223b-109f-461b-bf4f-012f7c1ff7ab
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8799223b-109f-461b-bf4f-012f7c1ff7ab
+- text: The general and colonel greenlit DeLonge's access and media campaign
+  source: In Plain Sight
+  location: ch19:12471-12523
+  quote: who greenlighted his access and his media awareness campaign.
+  claim_id: e7862a62-a327-476f-b8ee-14a97e47ae32
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7862a62-a327-476f-b8ee-14a97e47ae32
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e7862a62-a327-476f-b8ee-14a97e47ae32
+- text: DeLonge described the first meeting with 'The General' in his George Knapp
+    interview
+  source: In Plain Sight
+  location: ch19:15143-15330
+  quote: DeLonge also expanded, in his interview with George Knapp,10 on that first
+    meeting with ‘The General’ who made the extraordinary and apparently terrifying
+    claims about a recovered alien ‘lifeform’.
+  claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da962277-5c76-4f4e-8cb1-b21897f69099
+- text: DeLonge's Joe Rogan interview ran approximately 100 minutes
+  source: In Plain Sight
+  location: ch19:871-972
+  quote: It is instructive to get across the detail of what DeLonge said in his 100-minute-duration
+    Joe Rogan interview
+  claim_id: 738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
+- text: DeLonge said he was told the government secretly ran a UAP programme since
+    the 1940s
+  source: In Plain Sight
+  location: ch19:14558-14746
+  quote: The grand conspiracy that Tom DeLonge painted was that, since the 1940s,
+    the US government has hidden a UAP research program, including developing their
+    own craft, inside private industry corporations.
+  claim_id: d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
+- text: DeLonge said officials told him the government had secretly retrieved alien
+    spacecraft
+  source: In Plain Sight
+  location: ch19:1459-1592
+  quote: DeLonge claims he was told by these senior officials that the US government
+    had indeed secretly retrieved alien spacecraft . . . and aliens
+  claim_id: 5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
+- text: DeLonge said his advisers had no idea how to back-engineer the technology
+  source: In Plain Sight
+  location: ch19:10734-11116
+  quote: ‘The problem is these are extraordinarily advanced civilisations that have
+    been coming here like, forever. That’s why it’s in all the ancient fucking scripts
+    and texts and carved into rocks and all that shit. But, trying to figure it out,
+    trying to connect the dots, and looking at debris that they probably still have,
+    we have no fuckin’ clue how to make this or back-engineer this stuff.’
+  claim_id: de7664b0-48dd-408f-bcbb-9a418fcfb923
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de7664b0-48dd-408f-bcbb-9a418fcfb923
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-de7664b0-48dd-408f-bcbb-9a418fcfb923
+- text: DeLonge said the government had 'cracked gravity' and anti-gravity capability
+  source: In Plain Sight
+  location: ch19:14761-14953
+  quote: ‘Yes, we have cracked gravity, and we are building machinery that has anti-gravity.
+    And yes, I was told that it’s a big deal . . . They may be building things that
+    truly have anti-gravity,’ he said.
+  claim_id: adcee64e-207f-480e-8eae-2125b6d87cff
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-adcee64e-207f-480e-8eae-2125b6d87cff
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-adcee64e-207f-480e-8eae-2125b6d87cff
+- text: Coulthart notes this contradicts DeLonge's earlier back-engineering claim
+  source: In Plain Sight
+  location: ch19:14960-15129
+  quote: (Here is where he or his advisers contradicted themselves; remember DeLonge
+    said earlier that his mentors admitted they still had no idea how to back-engineer
+    this alien technology?)
+  claim_id: 4d63433d-a6cc-4f04-866f-2425a5c56c04
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d63433d-a6cc-4f04-866f-2425a5c56c04
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d63433d-a6cc-4f04-866f-2425a5c56c04
+- text: DeLonge spent eighteen months travelling to meet NASA, DoD and other agencies
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:03:24.1-00:03:33.1
+  quote: I was traveling around the country secretly for 18 months at the time. I
+    was working my way through NASA, the Department of Defense, and various other
+    agencies.
+  claim_id: 16c80ad3-263e-40f0-b934-8eee7e842632
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-16c80ad3-263e-40f0-b934-8eee7e842632
+- text: Leaked Podesta emails show DeLonge in contact with an aerospace executive,
+    a campaign staffer and two generals
+  source: In Plain Sight
+  location: ch20:10178-10455
+  quote: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge
+    truly was in contact with one of America's most senior private aerospace chief
+    executives, a campaign manager for Hillary Clinton, and two very senior recently
+    retired air force generals – and UAPs were discussed
+  claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+- text: Samosa says the hacked Podesta emails contain roughly 35 messages with DeLonge
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:40:05.4-00:40:09.2
+  quote: I think there were 35 emails back and forth between Tom DeLonge and Podesta's
+    team.
+  claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+- text: Michael Carey introduced DeLonge to General William McCasland
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:38:24.7-00:38:31.5
+  quote: He's meeting with, I think General Mike Carey was one of the individuals
+    who eventually introduced him to General William Neal McCasland.
+  claim_id: 3d22f230-9a6e-4c2e-bda8-7ed2968de241
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3d22f230-9a6e-4c2e-bda8-7ed2968de241
+- text: Contact with McCasland's group of advisers occurred in 2015 and 2016
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:35:04.8-00:35:08.2
+  quote: Neil McCasland and, and the people that come later, that's 2015, 2016
+  claim_id: bf1548e7-3b1b-48fa-a690-4470155d05f8
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
+- text: McCasland warned DeLonge he might find blind men touching an elephant
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:32:50.0-00:33:00.8
+  quote: It brings me back to Tom DeLonge when he met Neil McCasland. And after that
+    initial phone call, I think, you know, McCasland had said, you know, I'm worried
+    that you might find a group of people stumbling around an elephant.
+  claim_id: ac782b6f-d7af-48d0-9b95-02648cf20b87
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac782b6f-d7af-48d0-9b95-02648cf20b87
+- text: George Knapp was a vocal defender of DeLonge and Elizondo
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:14740-14890
+  quote: Knapp has been a vocal defender of Elizondo and DeLonge for the past two
+    years, pushing back on critics who have raised thorny questions about To the Stars.
+  claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+- text: Some observers suspect DeLonge is an unwitting front for a black-ops project
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:9029-9160
+  quote: some suspect that DeLonge is being played like a useful idiot — and that
+    his To the Stars Academy is a front for some kind of black ops project.
+  claim_id: 45996b72-9474-413f-84f1-31279939f290
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-45996b72-9474-413f-84f1-31279939f290
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-45996b72-9474-413f-84f1-31279939f290
+- text: Coulthart describes 'bravado alpha-male talk' in DeLonge's account
+  source: In Plain Sight
+  location: ch19:2685-2923
+  quote: From DeLonge’s account, there was a lot of this bravado alpha male talk from
+    these anonymous men in uniform and the spook world that is downright disturbing;
+    it suggests an egregious disregard for democratic accountability and government
+    oversight.
+  claim_id: 26f6097f-7220-4fa4-b8ad-860e8c8f7458
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26f6097f-7220-4fa4-b8ad-860e8c8f7458
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26f6097f-7220-4fa4-b8ad-860e8c8f7458
+- text: Coulthart suggests a 'glint of fanaticism' in the secrecy DeLonge describes
+  source: In Plain Sight
+  location: ch19:3508-3732
+  quote: but on reflection DeLonge’s account suggests there is a glint of fanaticism
+    in The General’s embrace of secrecy that suggests he and his colleagues are zealots
+    who are desperate to conceal what are potentially crimes on the Republic.
+  claim_id: dc7f10c8-b259-42db-b6f1-0de937dfd975
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dc7f10c8-b259-42db-b6f1-0de937dfd975
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dc7f10c8-b259-42db-b6f1-0de937dfd975
+- text: Coulthart is in no doubt the briefings happened, whatever their content
+  source: In Plain Sight
+  location: ch19:1715-1786
+  quote: I am in no doubt whatsoever that, whether true or not, these briefings happened.
+  claim_id: 4cc2971a-f05a-45fd-a2ca-a86475d3f0de
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4cc2971a-f05a-45fd-a2ca-a86475d3f0de
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4cc2971a-f05a-45fd-a2ca-a86475d3f0de
+- text: Vallée holds significant scepticism about the DeLonge disclosure effort
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:41:15.6-00:41:20.5
+  quote: someone who has huge questions about that whole thing, by the way. He's a
+    big skepticism about what they were trying to achieve.
+  claim_id: 3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
+- text: Jesse Michels has very little doubt about DeLonge's sincerity and interest
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: 00:42:13.9-00:42:25.1
+  quote: i have personally very little doubt of uh Tom deLonge's sincerity and his
+    intelligence and actually a long interest and his standing interest and organically
+    in the topic
+  claim_id: 59a88a7f-2be4-43d7-a70d-bc86eb3838a3
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-59a88a7f-2be4-43d7-a70d-bc86eb3838a3
+- text: DeLonge cut Elizondo's TTSA salary in half without warning
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:8524-8635
   quote: a few months later, without warning, TTSA cut my salary in half. They said
@@ -1097,7 +999,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-07fc1709-84c6-440b-897c-5e42854a1562
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-07fc1709-84c6-440b-897c-5e42854a1562
-- text: 'December 2020: DeLonge ended the business relationship by phone'
+- text: DeLonge ended his business relationship with Elizondo in December 2020
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:11721-11985
   quote: Shortly after, I received an unpleasant Christmas present. Just a few days
@@ -1108,7 +1010,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e7d30b8b-e3f9-4ecf-bb51-92badc32778a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e7d30b8b-e3f9-4ecf-bb51-92badc32778a
-- text: 'Medick: one recent Instagram statement, otherwise quiet'
+- text: DeLonge has been largely quiet on the UFO subject recently, per Medick
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:29:23.6-00:29:28.2
@@ -1117,7 +1019,7 @@ references:
   claim_id: aafddc88-cec4-4217-afb0-2564b29f5a8b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
-- text: Coulthart said he had spoken with DeLonge shortly before the episode
+- text: Coulthart and DeLonge spoke shortly before the 2026-08-11 episode
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:29:43.6-00:29:45.4
@@ -1125,7 +1027,7 @@ references:
   claim_id: 4062976d-7dbf-460a-8fbf-dd8ed2d042da
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-4062976d-7dbf-460a-8fbf-dd8ed2d042da
-- text: 'Coulthart: DeLonge remains engaged and has never let the subject go'
+- text: Coulthart says DeLonge remains engaged and never let the subject go
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:30:03.4-00:30:08.7
@@ -1138,27 +1040,27 @@ built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 88110f2f261afceadea6a0d6ca1b745a7fd3af2422b3ae9cc10a07126930e12d
+  prompt_sha256: e0014d1c7548fa2076c0bc4a76ef7e39ea26db16ea86e23fe0894fcc39196abf
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 100731
-    output: 60735
+    input: 100746
+    output: 46988
     real_input: 2
-    cache_read: 39377
-    cache_write: 61352
+    cache_read: 39417
+    cache_write: 61327
     calls: 0
-  body_sha256: ec929d1cac984611879e9d7d4058dfd077f5f02bb5c14a2b184e447ed998fcfa
+  body_sha256: aeb73b6a235c93b259ff6c454110900c9ad35790f0bc41447fff9e4aaa9e7f81
 ---
 
-Tom DeLonge is the frontman of the rock band [Blink-182](/organisations/blink-182)<sup>1</sup> and a longtime enthusiast of the [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) subject<sup>2</sup>. He co-founded [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa) and served as its interim chief executive<sup>3</sup>, an organisation presented as a public benefit corporation<sup>4</sup> with a stated aim of communicating historic events and forward-thinking ideas through motion pictures, involving the public in ongoing scientific discovery, and building an exotic craft with a revolutionary energy source<sup>5</sup>. He is also credited as executive producer of, and is prominently featured in, the television series Unidentified: Inside America's UFO Investigation<sup>6</sup>.
+Tom DeLonge is a musician known for [Blink-182](/organisations/blink-182) and a longtime enthusiast of the [UFO](/topics/unidentified-flying-object-ufo) subject.<sup>1</sup> He is the co-founder and interim chief executive officer of [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa),<sup>2</sup> and served as executive producer of<sup>3</sup> and a prominently featured participant in<sup>4</sup> the television series Unidentified: Inside America's UFO Investigation.
 
-According to fellow investigator David Fravor, DeLonge became interested in UFOs after reading a book on the subject while touring with his band<sup>7</sup>. In 1999, Blink-182's song 'Aliens Exist', on the album Enema of the State, was inspired by the many books and articles on the phenomenon that DeLonge read on the band's road trips<sup>8</sup>; he later told the Los Angeles Times that the song - about aliens that "fly up your butt" - was, in his words, "true"<sup>9</sup>. By 1999, as Blink-182's lead singer, he was a megastar, packing stadiums full of fans across the United States and around the world<sup>10</sup>. Several years before TTSA's 2017 launch, he created a website called Strange Times, a clearinghouse for UFO news and conspiracy material<sup>11</sup>. By 2014 he had become increasingly fascinated with Close Encounters of the Fifth Kind (CE5), the practice of meditating and focusing one's mind, often with paid instruction, to attempt contact with extra-terrestrial intelligence<sup>12</sup>. Before he quit Blink-182 he camped overnight near Area 51 in Nevada with two friends<sup>13</sup>, an episode later recorded as Tom DeLonge's Area 51-area Close Encounters of the Fifth Kind (CE5) desert experience. The group worked through CE5 protocols overnight without result<sup>14</sup>; at 3am DeLonge woke hearing dozens of strange voices outside his tent and reports having been paralysed<sup>15</sup>, with around three hours of lost time<sup>16</sup>. DeLonge has said that afterwards one friend reported sleeping through the night, while the other said he too had heard voices around the tent<sup>17</sup>.
+By 1999, as Blink-182's lead singer, DeLonge was a megastar packing stadiums across the United States and around the world.<sup>5</sup> The band's 1999 song 'Aliens Exist', on the album Enema of the State, was inspired by the many books and articles on the UAP mystery that DeLonge had read while touring.<sup>6</sup> He told the Los Angeles Times that the song is about aliens that 'fly up your butt' and that 'it's true'.<sup>7</sup> By 2014 he had become increasingly fascinated with Close Encounters of the Fifth Kind (CE5), the practice of meditating in an attempt to make contact with extra-terrestrial intelligence.<sup>8</sup> He put this into practice during his Area 51-area CE5 desert experience, camping overnight with two friends near Area 51 in Nevada, north of Tonopah.<sup>9</sup> The group followed CE5 protocols, meditating and attempting to project their intent, without result, despite staying up late,<sup>10</sup> until, DeLonge said, he woke at 3am hearing dozens of strange voices outside the tent and recalled being paralysed.<sup>11</sup> In early 2015 his commitment to Blink-182 lapsed into an indefinite hiatus, driven partly by his wish to focus on UAP research,<sup>12</sup> and he left the band outright later that year.<sup>13</sup> Shortly before departing, he told the press that he had met people secretly gathering testimony for Congressional hearings intended to expose US government UAP projects and a supposed secret space programme,<sup>14</sup> and that he feared his phone was being tapped.<sup>15</sup>
 
-In early 2015 DeLonge's relationship with Blink-182 went on indefinite hiatus, in part so he could focus on his UAP research<sup>18</sup>, and he left the band later that year<sup>19</sup>. Shortly before the split he told the press he had met people who were secretly gathering testimony for Congressional hearings intended to expose US government UAP projects and a supposed secret US space programme<sup>20</sup>, and said he feared his phone was tapped<sup>21</sup>. Around this time he was invited to serve as master of ceremonies at an open house for the families of a defence aerospace contracting company<sup>22</sup>, agreeing on condition that he receive five minutes alone with the event's lead aerospace executive<sup>23</sup>. [Lockheed Martin Skunk Works](/organisations/lockheed-martin-skunk-works) has stated that DeLonge reached out with interest in collaborating on a documentary about secret machines and advanced development projects, that several Skunk Works team members met him to explore the idea, and that the company ultimately decided not to participate<sup>24</sup>. [Ross Coulthart](/people/ross-coulthart) considers it a fair bet that the executive DeLonge met was [Robert Weiss](/people/robert-weiss), Lockheed's executive vice-president and general manager of Skunk Works until 2019<sup>25</sup>. DeLonge told Weiss he knew about "some bad things" the government had done regarding the UAP subject<sup>26</sup>; Weiss demanded to know what he meant<sup>27</sup>. DeLonge said that if he was to pursue his disclosure work he would need advisers to help guide him so he did not keep "disinforming people"<sup>28</sup> - an exchange he has described as the breakthrough point in gaining access to military and intelligence gatekeepers on the UAP subject<sup>29</sup>. Within two weeks, DeLonge was introduced to senior figures including United States Air Force generals and intelligence officials briefing Tom DeLonge, high-ranking [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) officials, and senior White House officials<sup>30</sup>. Coulthart has said there is strong evidence that certain former and serving senior US government and military officials did meet with and brief DeLonge<sup>31</sup>.
+Around this time, DeLonge began pursuing a project connecting entertainment and aerospace. According to a statement from [Lockheed Martin](/organisations/lockheed-martin), he approached its [Skunk Works](/organisations/lockheed-martin-skunk-works) division about collaborating on a documentary concerning secret machines and advanced development projects; several Skunk Works staff met with him, but Lockheed ultimately decided not to participate.<sup>16</sup> In the foreword to his 2016 novel SeKret Machines: Chasing Shadows, DeLonge wrote that he had pitched a Skunk Works executive an idea intended to help young people lose their cynical view of the government and the [US Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod),<sup>17</sup> and said he was then invited to a second meeting inside a secure concrete bunker at Area 51, passing through several layers of security.<sup>18</sup> He had earlier agreed to serve as master of ceremonies at a Skunk Works families' open house on condition of five minutes alone with the lead executive;<sup>19</sup> journalist [Ross Coulthart](/people/ross-coulthart) considers it a fair bet that this was [Rob Weiss](/people/robert-weiss), Lockheed's executive vice-president and general manager of Skunk Works until 2019.<sup>20</sup> DeLonge later said he told Weiss he knew about 'some bad things' the government had done regarding UAP,<sup>21</sup> prompting Weiss to demand specifics,<sup>22</sup> and that he told Weiss he would need expert advisers to guide him so he did not keep 'disinforming' people.<sup>23</sup> [Luis Elizondo](/people/luis-elizondo) left the Pentagon and joined DeLonge, [Christopher K. Mellon](/people/christopher-k-mellon) and [Steve Justice](/people/steve-justice) to form TTSA;<sup>24</sup> the organisation was co-founded by DeLonge and [Jim Semivan](/people/jim-semivan), pursuing what was described as a triple directive covering UAP science and engineering, public and journalist education, and film, television and publishing content.<sup>25</sup> DeLonge offered Elizondo the role of chief of security and special programs, at a salary lower than Elizondo had earned at the Pentagon and requiring relocation to California.<sup>26</sup> The advisory team also included Justice, an aerospace engineer who had spent thirty-one years at Skunk Works before joining;<sup>27</sup> theoretical physicist [Harold E. Puthoff](/people/harold-e-puthoff),<sup>28</sup> a former programme director for classified CIA and Department of Defense projects<sup>29</sup> who had created the CIA's psychic-spy programme;<sup>30</sup> and Semivan, a former senior CIA Directorate of Operations officer.<sup>31</sup> TTSA was based in Encinitas, California,<sup>32</sup> structured as a public benefit corporation,<sup>33</sup> and raised capital from the public via Regulation A equity crowdfunding through its website.<sup>34</sup>
 
-Among those DeLonge met was a senior military or intelligence contact he refers to only as "The General", whom he describes meeting at an airport hangar restaurant after being told to fly to a regional American airport<sup>32</sup>. According to DeLonge, The General told him: "It was the Cold War and we found a lifeform"<sup>33</sup>. DeLonge has said he was told the US government had cracked gravity and was building machinery with [Anti-Gravity Propulsion](/topics/anti-gravity-propulsion) capability<sup>34</sup>; Coulthart has noted that this claim contradicts DeLonge's earlier account that his advisers had admitted they had no idea how to back-engineer the recovered technology<sup>35</sup>. DeLonge has also claimed that senior officials told him the US government had secretly retrieved alien spacecraft and aliens<sup>36</sup>, and that since the 1940s it had hidden a UAP research programme, including development of its own craft, inside private industry corporations<sup>37</sup>. He has said that, after asking his informants for insiders who could give him UAP information, he was summoned to meet a general and a colonel at Colorado Springs, home of US Air Force Space Command<sup>38</sup>, who green-lit his access to information and his media awareness campaign<sup>39</sup>. Coulthart has said he is in no doubt that briefings of DeLonge by former and serving military officials happened, irrespective of whether their content was true<sup>40</sup>. DeLonge described his first meeting with The General in a lengthy interview with [George Knapp](/people/george-knapp), recorded as the 2016-03 George Knapp interview with Tom DeLonge<sup>41</sup>, in which he said hugely significant revelations were imminent and that people would be shown scientific breakthroughs that would seem like magic<sup>42</sup>. He told Knapp that when the public learned of the secret spending involved there would be an uproar, but that once the truth was out the public would be grateful<sup>43</sup>. Knapp asked DeLonge why officials would confide secret information in a rock musician, suggesting they might be using him with plausible deniability so they could discredit or deny the material if things went wrong<sup>44</sup>; DeLonge replied that the officials could deny or discredit anybody, even presidents<sup>45</sup>. In a roughly hundred-minute interview<sup>46</sup> later recorded as the 2017-10 Tom DeLonge interview with Joe Rogan, DeLonge told Joe Rogan that The General had told him about a recovered crashed alien spacecraft in the 1940s<sup>47</sup>; when Rogan asked whether he ever thought The General had been lying to him, DeLonge denied it<sup>48</sup>.
+DeLonge has said that within two weeks of this conversation he was introduced to senior figures including the United States Air Force generals and intelligence officials briefing Tom DeLonge, high-ranking [NASA](/organisations/national-aeronautics-and-space-administration-nasa) officials, and senior White House staff,<sup>35</sup> describing being told to fly to a regional airport where he met a man he referred to only as 'The General' in the airport's hangar restaurant.<sup>36</sup> DeLonge said the man told him: 'It was the Cold War and we found a lifeform.'<sup>37</sup> He has also said he was later summoned to meet a general and a colonel at Colorado Springs, headquarters of US Air Force Space Command,<sup>38</sup> who authorised his access to information and his media campaign.<sup>39</sup> He gave a detailed account of the first meeting with 'The General' to [George Knapp](/people/george-knapp) in a March 2016 interview,<sup>40</sup> and discussed the claims further in an October 2017 interview with Joe Rogan lasting approximately 100 minutes.<sup>41</sup> In these and other interviews, DeLonge said he had been told that since the 1940s the US government had secretly run a UAP research programme, including developing its own craft, hidden inside private industry,<sup>42</sup> and that senior officials had told him the government had secretly retrieved alien spacecraft and their occupants.<sup>43</sup> He also said his advisers had told him they had no idea how to back-engineer the recovered technology,<sup>44</sup> before separately claiming the government had 'cracked gravity' and was building machinery with [anti-gravity](/topics/anti-gravity-propulsion) capability<sup>45</sup> — a contradiction Coulthart has noted.<sup>46</sup> DeLonge has also said he spent eighteen months travelling around the United States to meet with NASA, the Department of Defense, and other agencies.<sup>47</sup>
 
-According to "In Plain Sight", leaked emails from [John Podesta](/people/john-podesta)'s campaign account show that DeLonge was in contact with a senior private aerospace chief executive, a Hillary Clinton campaign staffer, and two recently retired senior US Air Force generals, with UAP discussed among them<sup>49</sup>; the same account lists proposed attendees for a related Google Hangout meeting as DeLonge, Podesta, Weiss, Clinton campaign aide Milia Fisher, and retired Major General Michael Carey<sup>50</sup>. Podcast host Jason Samosa has put the number of messages in the hacked Podesta emails between DeLonge and Podesta's team at roughly thirty-five<sup>51</sup>, and says [Jacques Vallée](/people/jacques-vallee)'s journals corroborate that these conversations took place<sup>52</sup>, though he says Vallée himself has expressed significant scepticism about what DeLonge's disclosure effort was trying to achieve<sup>53</sup>. DeLonge's contact with General [William McCasland](/people/william-mccasland) and his associated group of advisers dated to 2015 and 2016<sup>54</sup>, following an introduction by Michael Carey<sup>55</sup>. According to Samosa, after their first phone call McCasland warned DeLonge that he might find "a group of people stumbling around an elephant" - blind men touching different parts with no one holding the full picture<sup>56</sup>. [Jesse Mitchells](/people/jesse-mitchells) has said he has very little doubt about DeLonge's sincerity, intelligence and long-standing organic interest in the UFO topic<sup>57</sup>, and considers that this interest coincided with people in government wanting to do something on the subject<sup>58</sup>.
+According to the book In Plain Sight, leaked emails from [John Podesta](/people/john-podesta)'s campaign account show DeLonge in contact with a senior private aerospace chief executive, a Clinton campaign staffer, and two recently retired US Air Force generals, discussing UAP.<sup>48</sup> Researcher Jason Samosa has said the hacked emails contain roughly 35 messages exchanged between DeLonge and Podesta's team.<sup>49</sup> Separately, DeLonge was introduced to General [William McCasland](/people/william-mccasland) by Michael Carey,<sup>50</sup> with contact between DeLonge and McCasland's associated group of advisers reportedly taking place in 2015 and 2016.<sup>51</sup> According to Samosa, McCasland warned DeLonge after their first phone call that he might find himself dealing with a group of people each holding only part of the picture, comparing it to blind men touching different parts of an elephant.<sup>52</sup> George Knapp was a vocal defender of DeLonge and Elizondo, pushing back on critics who questioned TTSA.<sup>53</sup> Some observers in the UFO research community have suggested DeLonge may be an unwitting front, with TTSA serving as cover for a black-ops project, according to one 2019 profile of him.<sup>54</sup> Coulthart has described DeLonge's accounts of the briefings as containing 'a lot of...bravado alpha-male talk' that he finds disturbing,<sup>55</sup> and has suggested a 'glint of fanaticism' in the secrecy embraced by DeLonge's contacts,<sup>56</sup> while saying he is in no doubt that the briefings themselves occurred, whatever the truth of their content.<sup>57</sup> According to Samosa, [Jacques Vallée](/people/jacques-vallee) has expressed significant scepticism about what the DeLonge disclosure effort was trying to achieve,<sup>58</sup> while podcaster [Jesse Mitchells](/people/jesse-mitchells) has said he has 'very little doubt' about DeLonge's sincerity, intelligence and long-standing interest in the subject.<sup>59</sup>
 
-In 2017, after two years of work intended to combine aerospace, science and entertainment - recounted in his documentary Secret Machines<sup>59</sup> - DeLonge founded [To The Stars Academy (TTSA)](/organisations/to-the-stars-academy-ttsa) with [Jim Semivan](/people/jim-semivan), a former senior CIA officer in the agency's Directorate of Operations<sup>60</sup>, pursuing what the organisation described as a triple directive covering UAP science and engineering, educating laymen and journalists, and producing film, television and publishing content about UAP<sup>61</sup>. Its advisory board included aerospace engineer [Steve Justice](/people/steve-justice), who had spent thirty-one years at Lockheed Martin's Skunk Works before joining<sup>62</sup>; theoretical physicist [Harold E. Puthoff](/people/harold-e-puthoff)<sup>63</sup>, a former programme director for numerous classified CIA and [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) programmes<sup>64</sup> who had created the CIA's psychic spy programme<sup>65</sup>; and [Christopher K. Mellon](/people/christopher-k-mellon), who chaired TTSA's National Security Policy and Scientific Advisory Board<sup>66</sup> after a Department of Defense career as Deputy Assistant Secretary of Defense for Intelligence<sup>67</sup> and Minority Staff Director of the US Senate Select Committee on Intelligence<sup>68</sup>. [Luis Elizondo](/people/luis-elizondo) left the Pentagon in protest and joined DeLonge, Mellon and Justice to form the organisation<sup>69</sup>; DeLonge offered him the role of chief of security and special programs, at a salary lower than he had earned at the Pentagon and requiring relocation to California<sup>70</sup>. The relationship later soured: DeLonge cut Elizondo's salary in half without warning, citing temporary corporate restructuring<sup>71</sup>, and in December 2020 telephoned Elizondo shortly before Christmas to end their business relationship, saying it had not brought in the money he expected or needed<sup>72</sup>. As of mid-2026, DeLonge had made only one recent public statement on the UFO topic, on Instagram, according to podcast host Meagan Medick<sup>73</sup>; Ross Coulthart, who said he had spoken with DeLonge shortly before an episode broadcast on 2026-08-11<sup>74</sup>, has said DeLonge remains engaged and interested in the subject and has never let it go<sup>75</sup>.
+The relationship between DeLonge and Elizondo deteriorated within TTSA: DeLonge cut Elizondo's salary in half without warning, citing temporary corporate restructuring,<sup>60</sup> and in December 2020 called Elizondo to end their business relationship, stating that the venture had not brought in the money he had expected or needed.<sup>61</sup> DeLonge has largely been quiet on the UFO subject in recent years, aside from one recent Instagram statement, according to journalist Meagan Medick.<sup>62</sup> Coulthart said he and DeLonge spoke shortly before the 2026-08-11 episode of Reality Check with Ross Coulthart,<sup>63</sup> and that DeLonge remains engaged in the UFO subject and has never let it go.<sup>64</sup>

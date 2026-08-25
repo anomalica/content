@@ -1,11 +1,19 @@
 ---
 title: Christopher K. Mellon
-description: Former US Deputy Assistant Secretary of Defense for Intelligence who
-  became a leading advocate for congressional and public scrutiny of unidentified
+aliases:
+- /people/christopher-mellon/
+- /en/people/christopher-mellon/
+- /people/chris-mellon/
+- /en/people/chris-mellon/
+description: Christopher K. Mellon is a former US Deputy Assistant Secretary of Defense
+  for Intelligence who co-founded To the Stars Academy of Arts and Science and has
+  since campaigned publicly, including before Congress, on the subject of unidentified
   anomalous phenomena.
 metadata:
-  role: Former Deputy Assistant Secretary of Defense for Intelligence; UAP advocate
-  affiliation: To the Stars Academy of Arts and Science (TTSA)
+  role: Former Deputy Assistant Secretary of Defense for Intelligence, US Department
+    of Defense
+  affiliation: To the Stars Academy of Arts and Science (co-founder; Chairman, National
+    Security Policy and Scientific Advisory Board)
 built_from:
   brief_hash: a2bd540ee16e047016cb033dc31b6f51ea7958b6e852c1fa2d37ebc3c27bbce0
   claims:
@@ -410,8 +418,8 @@ built_from:
   - id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
     hash: d2f7fb43b338caf7b575ea367926fd909dd3604f3d47fc6936fa32e55c8d8b05
 references:
-- text: Mellon was Deputy Assistant Secretary of Defense for Intelligence in the Clinton
-    and Bush administrations
+- text: Served as Deputy Assistant Secretary of Defense for Intelligence under Presidents
+    Clinton and George W. Bush.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:5840-5945
@@ -421,69 +429,36 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
-- text: He was a Senate Intelligence Committee staffer and later a legislative assistant
-    for Senator William Cohen
+- text: Spent nearly twenty years in the US Intelligence Community.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:4146-4291
+  quote: Christopher Mellon, who spent nearly twenty years in the U.S. Intelligence
+    Community and served as the Deputy Assistant Secretary of Defense for Intelligence
+  claim_id: 81393cba-1089-4321-998e-e545e5070fbc
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81393cba-1089-4321-998e-e545e5070fbc
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81393cba-1089-4321-998e-e545e5070fbc
+- text: Held the Pentagon's third-highest intelligence position, Deputy Assistant
+    Secretary of Defense for Intelligence and Security and Information Operations.
   source: In Plain Sight
-  location: ch13:7678-7875
-  quote: A staffer to the powerful US Senate Select Committee on Intelligence in Washington
-    DC
-  claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
+  location: ch13:7886-8061
+  quote: He would go on to serve as a US Deputy Assistant Secretary of Defense for
+    Intelligence and Security and Information Operations, the third highest intelligence
+    position at the Pentagon.
+  claim_id: 5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
-- text: Followed Cohen to the Pentagon in 1997 as part of his transition team when
-    Cohen became Defense Secretary
-  source: In Plain Sight
-  location: ch13:8774-8881
-  quote: (In 1997, he followed William Cohen into the Pentagon as a member of the
-    new Defence Secretary's transition team.)
-  claim_id: cd381e01-1602-40d7-8117-030246ae9b3b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd381e01-1602-40d7-8117-030246ae9b3b
-- text: As Senate Intelligence Committee staff he reviewed classified Special Access
-    Program projects and monitored Area 51
-  source: In Plain Sight
-  location: ch13:9050-9479
-  quote: His role on the Senate Intelligence Committee staff required him to review
-    top-secret Sensitive Compartmented Information (SCI) projects inside Special Access
-    Programs (SAPs), most of which still remain classified.
-  claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3001af87-f811-4ab3-8454-e641775abf6d
-- text: He was ordered by Senator Robert Byrd to investigate claims of a secret aerospace
-    project called Aurora
-  source: In Plain Sight
-  location: ch13:9904-10120
-  quote: Mellon says he was ordered by the then chairman of the Senate Appropriations
-    Committee, Senator Robert Byrd, to investigate claims that the US was secretly
-    working on a black high-technology aerospace project called Aurora.
-  claim_id: 97d2d6c7-7435-42f1-b4bd-8419e58cdc70
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
-- text: Mellon visited Area 51 with full access to review classified projects there
-  source: In Plain Sight
-  location: ch13:10834-10913
-  quote: Mellon visited Area 51, and had full access to review every classified project
-    onsite.
-  claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e635035-bc66-4b80-910c-81198bf2572c
-- text: He says he never saw technology matching the sighted UAP, nor a captured alien
-    spacecraft
-  source: In Plain Sight
-  location: ch13:10921-11077
-  quote: But he says he never saw anything there that equated to the kind of technology
-    demonstrated by the UAPs that were sighted – and certainly no captured alien spacecraft.
-  claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
-- text: As a seven-year-old he saw a home movie of a disc-shaped object filmed by
-    a schoolmate
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
+- text: Part of the Mellon family associated with Carnegie Mellon University.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:48:36.7-01:48:40.6
+  quote: he's part of the mellon you know dynasty you know from carnegie mellon type
+  claim_id: 67790600-64ad-44f3-bef6-90ee4005b3cf
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-67790600-64ad-44f3-bef6-90ee4005b3cf
+- text: As a child, was shown a home movie of a golden disc-shaped object moving across
+    the sky.
   source: In Plain Sight
   location: ch13:12024-12299
   quote: When he was seven, the principal of his boarding school showed a home movie
@@ -494,7 +469,87 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1925e832-a0c7-44c8-a8af-8f6d5187e484
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1925e832-a0c7-44c8-a8af-8f6d5187e484
-- text: He led inquiries attempting to explain the Belgian Wave sightings
+- text: Read widely about UFOs and completed a college research project on the subject
+    for a physics professor.
+  source: In Plain Sight
+  location: ch13:12437-12586
+  quote: He admitted he read everything he could get his hands on about the mystery
+    and he eventually did a research project on UFOs in college for a physics professor.
+  claim_id: 5b0a9cc3-b148-4e11-b647-650d339ec460
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0a9cc3-b148-4e11-b647-650d339ec460
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b0a9cc3-b148-4e11-b647-650d339ec460
+- text: Worked as a legislative assistant for Senator William Cohen, who later became
+    Defense Secretary.
+  source: In Plain Sight
+  location: ch13:7765-7875
+  quote: Mellon had previously worked as a legislative assistant for US Senator William
+    Cohen, later to become Defence Secretary.
+  claim_id: 1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+- text: Was Cohen's closest adviser on Capitol Hill while Cohen was a US Senator.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:1012-1087
+  quote: While a senator, William Cohen’s closest advisor on Capitol Hill was Chris
+    Mellon.
+  claim_id: d5dc00ca-e86e-4668-8ee8-841c57c4100e
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
+- text: Followed William Cohen into the Pentagon in 1997 as part of the new Defense
+    Secretary's transition team.
+  source: In Plain Sight
+  location: ch13:8774-8881
+  quote: (In 1997, he followed William Cohen into the Pentagon as a member of the
+    new Defence Secretary's transition team.)
+  claim_id: cd381e01-1602-40d7-8117-030246ae9b3b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd381e01-1602-40d7-8117-030246ae9b3b
+- text: Was a staffer for the US Senate Select Committee on Intelligence.
+  source: In Plain Sight
+  location: ch13:7678-7761
+  quote: A staffer to the powerful US Senate Select Committee on Intelligence in Washington
+    DC
+  claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
+- text: Role required review of top-secret SCI projects inside Special Access Programs.
+  source: In Plain Sight
+  location: ch13:9050-9253
+  quote: His role on the Senate Intelligence Committee staff required him to review
+    top-secret Sensitive Compartmented Information (SCI) projects inside Special Access
+    Programs (SAPs), most of which still remain classified.
+  claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3001af87-f811-4ab3-8454-e641775abf6d
+- text: Monitored Area 51, a highly secure US Air Force facility, for the Senate Intelligence
+    Committee.
+  source: In Plain Sight
+  location: ch13:9266-9479
+  quote: One of the top-secret Department of Defense sites Mellon monitored for the
+    Senate Intelligence Committee was Area 51, a highly secure US Air Force facility
+    within the massive Nevada test range.
+  claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
+- text: Was ordered by Senator Robert Byrd to investigate claims of a secret black
+    aerospace project called Aurora.
+  source: In Plain Sight
+  location: ch13:9904-10120
+  quote: Mellon says he was ordered by the then chairman of the Senate Appropriations
+    Committee, Senator Robert Byrd, to investigate claims that the US was secretly
+    working on a black high-technology aerospace project called Aurora.
+  claim_id: 97d2d6c7-7435-42f1-b4bd-8419e58cdc70
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
+- text: Led the inquiries that attempted to explain the mass Belgian Wave sightings.
   source: In Plain Sight
   location: ch13:7541-7670
   quote: The man who led the inquiries that attempted to explain the mysterious mass
@@ -503,7 +558,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
-- text: He made exhaustive investigations of the 1989-1990 Belgian Wave sightings
+- text: Made exhaustive investigations with the Pentagon and intelligence services
+    regarding the 1989-1990 Belgian Wave sightings.
   source: In Plain Sight
   location: ch13:8109-8216
   quote: Mellon recalls that he made exhaustive investigations with the Pentagon and
@@ -512,8 +568,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a80c1ea1-77de-4108-8bd4-8eba6862345b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a80c1ea1-77de-4108-8bd4-8eba6862345b
-- text: He concluded there was no secret US triangular craft programme matching the
-    Belgian Wave sightings
+- text: Concluded there is no secret US triangular-craft programme matching the Belgian
+    Wave sightings.
   source: In Plain Sight
   location: ch13:8228-8506
   quote: '''There is no such [secret US triangular craft] program, we don''t have
@@ -524,8 +580,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92e280b1-e05e-4024-9c9b-8e32e08eb1a3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-92e280b1-e05e-4024-9c9b-8e32e08eb1a3
-- text: He described the craft in the Belgian Wave sightings as definitely not something
-    the US had on the books
+- text: Said the craft observed in the Belgian Wave sightings was definitely not something
+    the US had on the books.
   source: In Plain Sight
   location: ch13:8511-8606
   quote: Secondly, it was definitely not, it was not something we had on the books,
@@ -534,8 +590,197 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
-- text: He was present at the 2017 To The Stars Academy launch and joined as national
-    security affairs adviser
+- text: Visited Area 51 with full access to review every classified project onsite.
+  source: In Plain Sight
+  location: ch13:10834-10913
+  quote: Mellon visited Area 51, and had full access to review every classified project
+    onsite.
+  claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e635035-bc66-4b80-910c-81198bf2572c
+- text: Said he never saw technology at Area 51 equating to that demonstrated by sighted
+    UAP, and no captured alien spacecraft.
+  source: In Plain Sight
+  location: ch13:10921-11077
+  quote: But he says he never saw anything there that equated to the kind of technology
+    demonstrated by the UAPs that were sighted – and certainly no captured alien spacecraft.
+  claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
+- text: Said Lockheed Martin colleagues told him privately that if a TR3B craft exists,
+    it is not made by Lockheed Martin.
+  source: In Plain Sight
+  location: ch28:10916-11079
+  quote: Mellon says, 'My current and former colleagues at Lockheed Martin and the
+    Skunk Works are very clear in private settings that if there is a TR3B it is not
+    made by Lockheed.
+  claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c637488-34ff-4e19-97d8-82a393d101d7
+- text: Said he never saw a large spending line or other evidence for a TR3B-type
+    craft during his visits to Area 51 and adjacent ranges.
+  source: In Plain Sight
+  location: ch28:11340-11535
+  quote: One would think there would have been an enormous spending line for something
+    like that, but I at least never saw it, nor did I see evidence of such a craft
+    during visits to Area 51 and adjacent ranges.
+  claim_id: 233982bc-14f8-40a8-8e25-af3400571456
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233982bc-14f8-40a8-8e25-af3400571456
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-233982bc-14f8-40a8-8e25-af3400571456
+- text: Said he was aware of one data point suggesting a US connection to the TR3B,
+    but described it as tangential and not public.
+  source: In Plain Sight
+  location: ch28:11659-11803
+  quote: I am aware of one data point that suggests there could be a US connection,
+    but it's a bit tangential, far from definitive and not in the public realm.
+  claim_id: be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
+- text: First met Luis Elizondo at a closed-door Pentagon meeting in early 2017.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:1234-1298
+  quote: When I first met Lue at a closed-door Pentagon meeting early in 2017...
+  claim_id: 7b2de6fe-3895-4154-9612-7aa4ef790c08
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
+- text: Already knew that AATIP was called AATIP, despite the programme's secrecy.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:1649-1729
+  quote: He was pleased to have learned our program existed and even knew we were
+    called AATIP.
+  claim_id: 6cac0a9b-06c0-45a0-b5bf-a790c3228875
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6cac0a9b-06c0-45a0-b5bf-a790c3228875
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6cac0a9b-06c0-45a0-b5bf-a790c3228875
+- text: Asked Elizondo how he could get read onto AATIP.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:1821-1868
+  quote: Then Chris asked, "How do I get read onto your program?"
+  claim_id: fd994381-7e87-45fd-81e3-5e59aa134ea5
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fd994381-7e87-45fd-81e3-5e59aa134ea5
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fd994381-7e87-45fd-81e3-5e59aa134ea5
+- text: Admitted he had had zero visibility into the UAP topic despite years overseeing
+    all DoD Special Access Programs.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:5297-5424
+  quote: He had spent years having oversight of all the SAPs for the DoD and he admitted
+    to us that he had zero visibility into the UAP topic.
+  claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
+- text: Obtained all required security clearances within one week.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:4526-4657
+  quote: He got all the correct tickets in just one week? ... he sure as hell had
+    them. Every single one of them.
+  claim_id: 1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
+- text: Was briefed by Elizondo for three hours in a SCIF, with reports, photographs,
+    data and intelligence on legacy UAP efforts.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:4997-5137
+  quote: For the next three hours, I proceeded to share with Chris our reports, photographs,
+    pictures, and data, and intel we had gathered on legacy efforts.
+  claim_id: 85942a3a-ae62-41a6-a9da-e60e2c6f79e6
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
+- text: Pledged his support to AATIP and became a trusted member of the team.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch26:5626-5703
+  quote: he pledged his loyalty to our efforts, and he became a trusted member of
+    the team.
+  claim_id: 13cd7da0-54db-47d0-bb51-9cb9a245939b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
+- text: Journalist Ross Coulthart said he found PowerPoint slides for a DoD officials'
+    briefing while examining Mellon's personal website in August 2018.
+  source: In Plain Sight
+  location: ch25:17228-17439
+  quote: The individual behind that site told me he found the intriguing PowerPoint
+    slides in early August 2018 while he was trawling through former US Deputy Assistant
+    Secretary of Defense Christopher Mellon's personal website.
+  claim_id: d3a2971d-c2fa-4dda-a324-fa00a1e3064d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3a2971d-c2fa-4dda-a324-fa00a1e3064d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d3a2971d-c2fa-4dda-a324-fa00a1e3064d
+- text: A slide on Mellon's website headed 'DoD Threat Scenario' asserted the science
+    exists to manipulate physical and cognitive environments to penetrate US facilities
+    and compromise national security.
+  source: In Plain Sight
+  location: ch25:19028-19397
+  quote: Another of the retrieved Advanced Aerospace Threat Identification Program
+    slides found on Christopher Mellon's website was headed *DoD Threat Scenario*.
+    It flatly asserted, 'The science exists for an enemy of the United States to manipulate
+    both physical and cognitive environments in order to penetrate US facilities,
+    influence decision makers and compromise national security.'
+  claim_id: c5df4a0a-2e48-4460-ba85-31013633631e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5df4a0a-2e48-4460-ba85-31013633631e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5df4a0a-2e48-4460-ba85-31013633631e
+- text: Met with Elizondo and journalist Leslie Kean, alongside Semivan and Puthoff,
+    in a hotel lobby near the Pentagon.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:7273-7552
+  quote: 'Chris Mellon and Jim Semivan awaited me in the lobby of a hotel not far
+    from the Pentagon. Hal Puthoff arrived shortly after, as did the individual we
+    had all gathered to meet: an independent investigative journalist by the name
+    of Leslie Kean, whom Chris had arranged for us to meet.'
+  claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+- text: The meeting with Kean lasted four hours.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:8535-8579
+  quote: Meeting with Kean lasted an exhausting four hours.
+  claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
+- text: Urged Elizondo to connect with the media to reach the American public on the
+    UAP issue.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:9769-9935
+  quote: Chris Mellon, Hal, and Semivan urged me to consider a different path. If
+    you want to reach the American people on this issue, they said, you need to connect
+    with the media.
+  claim_id: 9af1dc84-46d0-4114-a6ff-826cb5bd925f
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
+- text: TTSA involved Christopher Mellon, Luis Elizondo, Jim Semivan, Steve Justice
+    and Hal Puthoff.
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:48:19.7-00:48:35.4
+  quote: the people who went ahead and setting up to the STARS Academy, I mean, did
+    involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice from,
+    you know, So anyway, and me.
+  claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+- text: TTSA aims to raise money for research into UFOs.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:12771-12879
+  quote: They are speaking publicly about their efforts as their venture aims to raise
+    money for research into U.F.O.s.
+  claim_id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
+- text: Was present at the 2017 launch of To The Stars Academy of Arts & Sciences.
   source: In Plain Sight
   location: ch21:1950-2035
   quote: Christopher Mellon was another of the people gathered on stage for the launch
@@ -544,8 +789,27 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4ce862e6-e516-4afb-b7ca-cc7330818a61
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4ce862e6-e516-4afb-b7ca-cc7330818a61
-- text: According to the company's website he holds the role of national security
-    affairs adviser at TTSA
+- text: In his October 2017 launch speech, pointed out that the date marked precisely
+    60 years since the Soviet Union launched Sputnik.
+  source: In Plain Sight
+  location: ch21:2308-2505
+  quote: it was precisely 60 years ago to the month that, in the darkest days of the
+    Cold War, the communist Soviet Union humiliated America by launching Sputnik in
+    October 1957, the first human-made Earth satellite
+  claim_id: 757604df-81f7-41b5-8d1b-61c86a4ffd50
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
+- text: Is Chairman of TTSA's National Security Policy and Scientific Advisory Board.
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:09:54.2-00:09:59.7
+  quote: Chairman of the To The Stars Academy National Security Policy and Scientific
+    Advisory Board
+  claim_id: f28f00b9-d067-4634-8e76-41cdf1195281
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f28f00b9-d067-4634-8e76-41cdf1195281
+- text: Works for TTSA as national security affairs adviser, according to the company's
+    website.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:6148-6271
@@ -555,8 +819,304 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2208e199-629c-4035-af8c-ef322970e958
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2208e199-629c-4035-af8c-ef322970e958
-- text: Bender described Elizondo and Mellon as an unmatched team of former officials
-    with security clearances and Washington networks
+- text: Speculation mounted for months that Mellon, Elizondo and Steve Justice were
+    leaving TTSA.
+  source: In Plain Sight
+  location: ch21:23469-23624
+  quote: Speculation had mounted for months that former Defence Department mandarin
+    Christopher Mellon and key figures Luis Elizondo and Steve Justice were leaving
+    TTSA.
+  claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
+- text: It took Tom DeLonge several months to formally confirm their departure from
+    TTSA to the SEC.
+  source: In Plain Sight
+  location: ch21:23699-23837
+  quote: it took Tom DeLonge several more months to formally admit to the Securities
+    Exchange Commission not only their departure
+  claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+- text: His Washington Post story revealed the Go-Fast video was filmed off the US
+    east coast in late 2014 or early 2015.
+  source: In Plain Sight
+  location: ch21:23042-23182
+  quote: His story revealed that this latest newly declassified Go-Fast video was
+    filmed off the east coast of the US sometime in late 2014 or early 2015.
+  claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
+- text: Used his Pentagon contacts to obtain copies of three unclassified UAP videos.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch28:22079-22164
+  quote: He had used his contacts at the Pentagon to get copies of the three unclassified
+    UAP videos.
+  claim_id: 4633371f-0bdf-475e-a965-727abcb45b9f
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4633371f-0bdf-475e-a965-727abcb45b9f
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4633371f-0bdf-475e-a965-727abcb45b9f
+- text: His long service in the intelligence community meant he knew where the UAP
+    videos had been kept and how to extract them.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch28:22421-22552
+  quote: Mellon’s long service in the intelligence community meant he knew exactly
+    where the videos had been tucked away and how to extract them.
+  claim_id: 97e787ea-14a1-4465-a307-5a735da1a2c1
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-97e787ea-14a1-4465-a307-5a735da1a2c1
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-97e787ea-14a1-4465-a307-5a735da1a2c1
+- text: Concluded with Elizondo and Stratton that only Congress could force change
+    in how the Pentagon handled UAP.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch28:7879-8058
+  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
+    change the way the Pentagon was handling this was to get Congress to make them
+    change.
+  claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+- text: Gave Elizondo permission to share his name with officials who could help reach
+    Defense Secretary James Mattis.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch28:654-825
+  quote: A week prior, I had given permission to Chris Mellon to share my name with
+    some senior-level officials he knew who would be in a position to help Jay and
+    me get to Mattis appropriately.
+  claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
+- text: Tried, with Elizondo, to raise AATIP with Defense Secretary James Mattis but
+    could not get past his gatekeepers.
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:47:19.9-00:47:31.6
+  quote: Chris Mellon took on the task of trying to get this further up the chain
+    of command to General Mattis, who's defense secretary, and they couldn't get through
+    his gatekeepers.
+  claim_id: dc3c9cc5-9095-4d37-b8a9-ded30d961331
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-dc3c9cc5-9095-4d37-b8a9-ded30d961331
+- text: Drafted the UAP report legislative language with Elizondo during the COVID-19
+    pandemic.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:10064-10182
+  quote: By now, the Covid pandemic was in full swing. Chris and I did our homework
+    while the rest of the nation was hunkering down.
+  claim_id: 245ef627-faac-4bea-ab3f-c5cc1b893a15
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
+- text: Assisted senators and a representative in crafting UAP language for the National
+    Defense Authorization Act.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:25733-26056
+  quote: Republican senators Roy Blunt of Missouri, Lindsey Graham of South Carolina,
+    and Marco Rubio of Florida; Democratic senators Kirsten Gillibrand of New York
+    and Martin Heinrich of Arizona; and Democratic representative Ruben Gallego of
+    Arizona all worked together to craft aggressive language, with some help from
+    Chris and me.
+  claim_id: adea157c-4485-459e-9776-d1a66737c42e
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea157c-4485-459e-9776-d1a66737c42e
+- text: Information provided to Congress acknowledges 11 near mid-air collisions between
+    military aircraft and UAP since 2004.
+  source: In Plain Sight
+  location: ch29:21921-22043
+  quote: Information subsequently provided to Congress acknowledges 11 near mid-air
+    collisions with UAP by military aircraft since 2004.
+  claim_id: 0aa44f96-0062-48b4-be77-7902947dbc72
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0aa44f96-0062-48b4-be77-7902947dbc72
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0aa44f96-0062-48b4-be77-7902947dbc72
+- text: Instrumental in arranging classified briefings for Congress members on UAP,
+    including exotic retrieved materials.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:16171-16402
+  quote: Mellon, the former Deputy Assistant Secretary of Defense for Intelligence,
+    has been instrumental in arranging classified briefings for members of Congress
+    and other officials about UAP, which include references to exotic retrieved materials.
+  claim_id: a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+- text: First briefing facilitated was to Senate Armed Services Committee staff on
+    2019-10-21, and Senate Select Committee on Intelligence staff two days later.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:16413-16649
+  quote: The first briefing he facilitated on retrievals of unexplained objects was
+    provided to staff members of the Senate Armed Services Committee on Oct. 21, 2019,
+    and to staff members of the Senate Intelligence Committee two days later, as reported
+    by The New York Times.
+  claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ba82812a-2d1c-479b-9249-60187dbf5494
+- text: Says Congress will be able to quickly determine the truth once members are
+    fully aware of the information provided to staff.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:16932-17157
+  quote: Mellon says that once the members of Congress gain greater awareness of the
+    information provided to their staff and the Inspector General, they will be in
+    a position to quickly determine the truth if they have the will to do so.
+  claim_id: b65ab58d-46e3-4239-b43f-6d3ceea426f0
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
+- text: 'Quote: ''This is an unprecedented oversight challenge for the committees,
+    but I believe we have leaders in Congress who are up to the task.'''
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:17163-17302
+  quote: “This is an unprecedented oversight challenge for the committees, but I believe
+    we have leaders in Congress who are up to the task,” Mellon said.
+  claim_id: 3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
+- text: Believes with high confidence, based on his DoD positions, that unidentified
+    objects reported by pilots are not US technology.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:11:08.5-00:11:17.8
+  quote: So it's not us, that's one thing we know... I could say that with a very
+    high degree of confidence, in part because of the positions I held in the department,
+    and I know the process.
+  claim_id: 30129510-6f53-4779-b196-e3aa65c80138
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-30129510-6f53-4779-b196-e3aa65c80138
+- text: Says the Navy and DoD first checked to make sure the UAP were not their own
+    technology.
+  source: In Plain Sight
+  location: ch28:22771-22887
+  quote: What our pilots are seeing is NOT secret US stuff. First thing navy and DoD
+    did was check to make sure they weren't ours.
+  claim_id: 7b28df71-9f02-4850-936b-1f2cb8498424
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b28df71-9f02-4850-936b-1f2cb8498424
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7b28df71-9f02-4850-936b-1f2cb8498424
+- text: Considers Russian or Chinese technology a possible explanation, though the
+    performance is so extraordinary it is hard to imagine terrestrial rivals mastering
+    it.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:08:21.0-00:08:50.3
+  quote: Could they be Russian, Chinese, or any other... Conceivably. We're entertaining
+    that possibility, sure. What do you think? The problem with that is that in some
+    cases the performance of these vehicles is so extraordinary, it's so radical,
+    that we don't understand how it's possible even. And so it's difficult for us
+    to imagine how our terrestrial rivals could master that kind of technology.
+  claim_id: adb9c57e-5723-4438-92a2-a41260982aa8
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-adb9c57e-5723-4438-92a2-a41260982aa8
+- text: Considers it necessary to entertain an alien origin for the UAP filmed by
+    US fighter pilots, given they appear not to be American, Russian or Chinese.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:09:23.5-00:09:36.1
+  quote: So, if they're not ours, …if they're probably not Russian or Chinese or any
+    other potential adversaries… …does that mean they're… alien? I think that we have
+    to entertain that possibility.
+  claim_id: 5a526d78-f144-4790-925d-7ebc3e06554b
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5a526d78-f144-4790-925d-7ebc3e06554b
+- text: Says the NRO, CIA, NGA, FBI and NSA appeared to hold important UAP data they
+    were not sharing with each other.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:17564-17844
+  quote: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence
+    Agency (CIA), the National Geospatial-Intelligence Agency (NGA), the Federal Bureau
+    of Investigation (FBI), and the National Security Agency (NSA) also appeared to
+    have important UAP data they were not sharing.
+  claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+- text: Said in May 2020 that some materials he was aware of had genuinely extraordinary
+    properties.
+  source: In Plain Sight
+  location: ch23:22320-22572
+  quote: The conservative political commentator and conspiracy theorist TV host Glen
+    Beck asked Mellon if he believed the United States had physical materials recovered
+    from UAPs. Mellon said some of the materials he was aware of had ‘genuinely extraordinary
+    properties’
+  claim_id: 957fdfd4-155e-4e2f-95cf-7cd934c1601b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
+- text: Said some recovered materials had isotopic ratios different from terrestrial
+    metals.
+  source: In Plain Sight
+  location: ch23:22585-22657
+  quote: that some of the samples had different isotopic ratios from terrestrial metals
+  claim_id: 40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
+- text: Says well-placed officials shared detailed information with him about an alleged
+    non-human craft recovery programme, including its history and recovery location.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:4376-4637
+  quote: “A number of well-placed current and former officials have shared detailed
+    information with me regarding this alleged program, including insights into the
+    history, governing documents and the location where a craft was allegedly abandoned
+    and recovered,” Mellon said.
+  claim_id: 85e9d85f-89ed-4105-966f-0c51b78115ef
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
+- text: Mellon and Eric Davis have said the legacy programme ceased in 1989 due to
+    a lack of progress.
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:32:57.0-00:33:04.5
+  quote: are you echoing the sentiments of some of your compatriots like Eric Davis
+    and Christopher Mellon that the program was ceased in 1989 due to lack of progress?
+  claim_id: 46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+- text: Considers the object encountered by the USS Nimitz not to be an experimental
+    US aircraft.
+  source: In Plain Sight
+  location: ch21:3329-3394
+  quote: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon
+    asked.'
+  claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+- text: Met with one of the pilots involved in the 2004 USS Nimitz encounter and confirmed
+    the account.
+  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+  location: 00:16:15.0-00:16:21.0
+  quote: I've met with one of the pilots and confirmed the account, as have other
+    members of the To The Stars Academy team
+  claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
+  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+- text: States the USS Nimitz events can be verified by the US government itself.
+  source: In Plain Sight
+  location: ch21:3553-3656
+  quote: Better yet the US government itself can verify the events involving the USS
+    *Nimitz* on November 14th, 2004.
+  claim_id: 070c8c4c-cf19-40c0-8322-ebc21391d95b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
+- text: A Fox & Friends segment did not mention Mellon's employment by TTSA or that
+    a companion documentary was made by his employer.
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:6282-6434
+  quote: “Fox & Friends” neglected to mention this connection, along with the fact
+    that the History Channel show was made by the company Elizondo and Mellon work
+    for.
+  claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+- text: Journalist Bryan Bender described Elizondo and Mellon as an unmatched team
+    retaining security clearances and Washington networks.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:7829-8169
@@ -569,474 +1129,31 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-a768d42f-51cd-4189-9420-46c88f54a07e
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-a768d42f-51cd-4189-9420-46c88f54a07e
-- text: In his October 2017 launch speech he noted the 60th anniversary of Sputnik's
-    launch
-  source: In Plain Sight
-  location: ch21:2308-2505
-  quote: it was precisely 60 years ago to the month that, in the darkest days of the
-    Cold War, the communist Soviet Union humiliated America by launching Sputnik in
-    October 1957, the first human-made Earth satellite
-  claim_id: 757604df-81f7-41b5-8d1b-61c86a4ffd50
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
-- text: He considers Sputnik's significance to be that the US is again in a technology
-    race, this time against an unknown challenger
-  source: In Plain Sight
-  location: ch21:2731-2882
-  quote: He argued Sputnik's significance to the UAP issue was that the US was once
-    again in a race for technological innovation, but this time with an unknown challenger
-  claim_id: 857deeae-38b7-486a-b48c-ad8de9875d14
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-857deeae-38b7-486a-b48c-ad8de9875d14
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-857deeae-38b7-486a-b48c-ad8de9875d14
-- text: His Washington Post story revealed the Go-Fast video was filmed off the US
-    east coast in late 2014 or early 2015
-  source: In Plain Sight
-  location: ch21:23042-23182
-  quote: His story revealed that this latest newly declassified Go-Fast video was
-    filmed off the east coast of the US sometime in late 2014 or early 2015.
-  claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
-- text: He considers the object encountered by the USS Nimitz not to be an experimental
-    US aircraft
-  source: In Plain Sight
-  location: ch21:3329-3394
-  quote: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon
-    asked.'
-  claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
-- text: Speculation mounted that Mellon, Elizondo and Steve Justice were leaving TTSA
-  source: In Plain Sight
-  location: ch21:23469-23624
-  quote: Speculation had mounted for months that former Defence Department mandarin
-    Christopher Mellon and key figures Luis Elizondo and Steve Justice were leaving
-    TTSA.
-  claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
-- text: Mellon first met Elizondo at a closed-door Pentagon meeting in early 2017
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:1234-1298
-  quote: When I first met Lue at a closed-door Pentagon meeting early in 2017...
-  claim_id: 7b2de6fe-3895-4154-9612-7aa4ef790c08
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
-- text: Jim Semivan told Elizondo he was the one who had informed Mellon about AATIP
-    and where to find it
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch26:3309-3431
-  quote: After Chris left, I heard from Jim Semivan, who revealed that he was the
-    one who told Chris about AATIP and where to find us.
-  claim_id: 94906258-39ea-419a-9ce9-96e2e138cf8a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94906258-39ea-419a-9ce9-96e2e138cf8a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-94906258-39ea-419a-9ce9-96e2e138cf8a
-- text: Mellon obtained the required security clearances within one week
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch26:4526-4657
-  quote: He got all the correct tickets in just one week? ... he sure as hell had
-    them. Every single one of them.
-  claim_id: 1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
-- text: Elizondo shared reports, photographs, data and intelligence on legacy UAP
-    efforts with Mellon for three hours in a Sensitive Compartmented Information Facility
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch26:4997-5137
-  quote: For the next three hours, I proceeded to share with Chris our reports, photographs,
-    pictures, and data, and intel we had gathered on legacy efforts.
-  claim_id: 85942a3a-ae62-41a6-a9da-e60e2c6f79e6
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
-- text: Mellon had overseen all Special Access Programs for the Department of Defense
-    but had had zero prior visibility into UAP
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch26:5297-5424
-  quote: He had spent years having oversight of all the SAPs for the DoD and he admitted
-    to us that he had zero visibility into the UAP topic.
-  claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
-- text: After being briefed he pledged his loyalty to the AATIP effort and became
-    a trusted team member
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch26:5626-5703
-  quote: he pledged his loyalty to our efforts, and he became a trusted member of
-    the team.
-  claim_id: 13cd7da0-54db-47d0-bb51-9cb9a245939b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
-- text: Elizondo gave Mellon permission to share his name with officials who could
-    help reach Defense Secretary James Mattis
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:654-825
-  quote: A week prior, I had given permission to Chris Mellon to share my name with
-    some senior-level officials he knew who would be in a position to help Jay and
-    me get to Mattis appropriately.
-  claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
-- text: Puthoff said Elizondo and Mellon tried to reach Mattis but could not get through
-    his gatekeepers
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:47:19.9-00:47:31.6
-  quote: Chris Mellon took on the task of trying to get this further up the chain
-    of command to General Mattis, who's defense secretary, and they couldn't get through
-    his gatekeepers.
-  claim_id: dc3c9cc5-9095-4d37-b8a9-ded30d961331
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-dc3c9cc5-9095-4d37-b8a9-ded30d961331
-- text: Mellon, Elizondo and Jay Stratton concluded that the only way to change how
-    the Pentagon handled UAP was to get Congress to force change
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:7879-8058
-  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
-    change the way the Pentagon was handling this was to get Congress to make them
-    change.
-  claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
-- text: Mellon told Elizondo that the way to get Congress to pay attention was to
-    take the issue to the press
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:8070-8182
-  quote: as Mellon reminded us, the way to get Congress to pay attention was to take
-    it to the streets and get the press involved.
-  claim_id: 5d5d85b4-63c4-4a58-a2ee-42d4fb8ea840
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d5d85b4-63c4-4a58-a2ee-42d4fb8ea840
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d5d85b4-63c4-4a58-a2ee-42d4fb8ea840
-- text: Mellon used his Pentagon contacts to obtain copies of three unclassified UAP
-    videos
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:22079-22164
-  quote: He had used his contacts at the Pentagon to get copies of the three unclassified
-    UAP videos.
-  claim_id: 4633371f-0bdf-475e-a965-727abcb45b9f
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4633371f-0bdf-475e-a965-727abcb45b9f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4633371f-0bdf-475e-a965-727abcb45b9f
-- text: He met a journalist in a parking lot and handed over a padded envelope of
-    CDs encoded with data
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:21764-22073
-  quote: A few days later, Chris Mellon took to a parking lot somewhere inside the
-    Beltway, where he met with a journalist he knew.
-  claim_id: 5e4e607f-b611-4576-914b-bd50cb2660d6
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5e4e607f-b611-4576-914b-bd50cb2660d6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5e4e607f-b611-4576-914b-bd50cb2660d6
-- text: He said it was bizarre and unfortunate that he had to leak the declassified
-    Navy videos to get the issue addressed
-  source: Navy pilots describe encounters with UFOs
-  location: 00:11:37.0-00:11:45.4
-  quote: It's bizarre and unfortunate that someone like myself has to do something
-    like that to get a national security issue like this on the agenda.
-  claim_id: 99309e0e-6f89-41de-8616-e2f7634249a0
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-99309e0e-6f89-41de-8616-e2f7634249a0
-- text: Mellon, Harold Puthoff and Jim Semivan met with Elizondo and journalist Leslie
-    Kean in a hotel lobby near the Pentagon for four hours
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch29:7273-8579
-  quote: Meeting with Kean lasted an exhausting four hours.
-  claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
-- text: Kean was summoned to a hotel lobby meeting in Washington DC where Mellon was
-    present, to be introduced to Elizondo
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:13:06.6-00:13:15.2
-  quote: Chris Mellon was there, and of course the purpose of it was for me to meet
-    Lou Elizondo, so he was there. I was shown these documents that blew my mind.
-  claim_id: 3225efc5-1fc3-47b6-b908-9bc20b50f42d
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-3225efc5-1fc3-47b6-b908-9bc20b50f42d
-- text: He and Elizondo began engaging with people on Capitol Hill to push for congressional
-    change
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch30:7791-7884
-  quote: Chris Mellon and I had begun to engage people on Capitol Hill in an effort
-    to make change in Congress.
-  claim_id: 7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-- text: He and Elizondo drafted the UAP report legislative language during the COVID-19
-    pandemic
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:10064-10182
-  quote: By now, the Covid pandemic was in full swing. Chris and I did our homework
-    while the rest of the nation was hunkering down.
-  claim_id: 245ef627-faac-4bea-ab3f-c5cc1b893a15
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
-- text: He and Jay Stratton developed a multiyear strategy to educate Congress on
-    UAP and address disclosure hurdles
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:1435-1687
-  quote: Chris recognized the vital role that Congress could play in advancing the
-    UAP issue, so we and Jay had made a multiyear strategy, a war plan of sorts, to
-    educate Congress and eventually legally address the hurdles that faced disclosure.
-  claim_id: 2ef743ad-1fdd-4408-a286-9ca0d8db9549
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
-- text: 'Elizondo considers securing publication of the Preliminary Assessment: Unidentified
-    Aerial Phenomena report one of Mellon''s greatest contributions'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:22117-22250
-  quote: I regard this as one of Chris’s greatest contributions to our overall efforts
-    and to history in general. It was his idea, he made it happen
-  claim_id: 6f836be4-d747-4c88-8774-929b0cb77cca
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6f836be4-d747-4c88-8774-929b0cb77cca
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6f836be4-d747-4c88-8774-929b0cb77cca
-- text: Several senators and a representative, assisted by Mellon and Elizondo, crafted
-    UAP language for the National Defense Authorization Act
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:25733-26056
-  quote: Republican senators Roy Blunt of Missouri, Lindsey Graham of South Carolina,
-    and Marco Rubio of Florida; Democratic senators Kirsten Gillibrand of New York
-    and Martin Heinrich of Arizona; and Democratic representative Ruben Gallego of
-    Arizona all worked together to craft aggressive language, with some help from
-    Chris and me.
-  claim_id: adea157c-4485-459e-9776-d1a66737c42e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea157c-4485-459e-9776-d1a66737c42e
-- text: Elizondo considers the 2023 NDAA UAP language to be Mellon's magnum opus
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:35744-35899
-  quote: I contributed to the creation of the language and worked hard to get Congress
-    members to help support it, but I must say this one was truly Chris’s magnum opus.
-  claim_id: 1c19e263-179e-4aa8-a9cb-a1283767806b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1c19e263-179e-4aa8-a9cb-a1283767806b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1c19e263-179e-4aa8-a9cb-a1283767806b
-- text: He was formerly deputy staff director of the Senate Intelligence Committee
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:2289-2363
-  quote: Being a former deputy staff director of the Senate Intelligence Committee
-    himself
-  claim_id: ad191c63-7401-44d4-9c2e-d0d9b7d90470
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ad191c63-7401-44d4-9c2e-d0d9b7d90470
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ad191c63-7401-44d4-9c2e-d0d9b7d90470
-- text: He has been instrumental in arranging classified congressional briefings on
-    UAP that include references to exotic retrieved materials
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:16171-16402
-  quote: Mellon, the former Deputy Assistant Secretary of Defense for Intelligence,
-    has been instrumental in arranging classified briefings for members of Congress
-    and other officials about UAP, which include references to exotic retrieved materials.
-  claim_id: a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
-- text: According to the article, the first briefing he facilitated on retrievals
-    of unexplained objects went to Senate Armed Services Committee staff on 2019-10-21
-    and Senate Select Committee on Intelligence staff two days later
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:16413-16649
-  quote: The first briefing he facilitated on retrievals of unexplained objects was
-    provided to staff members of the Senate Armed Services Committee on Oct. 21, 2019,
-    and to staff members of the Senate Intelligence Committee two days later, as reported
-    by The New York Times.
-  claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ba82812a-2d1c-479b-9249-60187dbf5494
-- text: He spent nearly twenty years in the US Intelligence Community, including as
-    Deputy Assistant Secretary of Defense for Intelligence
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:4146-4291
-  quote: Christopher Mellon, who spent nearly twenty years in the U.S. Intelligence
-    Community and served as the Deputy Assistant Secretary of Defense for Intelligence
-  claim_id: 81393cba-1089-4321-998e-e545e5070fbc
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81393cba-1089-4321-998e-e545e5070fbc
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81393cba-1089-4321-998e-e545e5070fbc
-- text: He said a number of well-placed officials shared detailed information with
-    him about an alleged non-human craft recovery programme
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:4376-4637
-  quote: “A number of well-placed current and former officials have shared detailed
-    information with me regarding this alleged program, including insights into the
-    history, governing documents and the location where a craft was allegedly abandoned
-    and recovered,” Mellon said.
-  claim_id: 85e9d85f-89ed-4105-966f-0c51b78115ef
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
-- text: He said once Congress gains greater awareness of information given to staff,
-    members will be able to determine the truth if they have the will
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:16932-17157
-  quote: Mellon says that once the members of Congress gain greater awareness of the
-    information provided to their staff and the Inspector General, they will be in
-    a position to quickly determine the truth if they have the will to do so.
-  claim_id: b65ab58d-46e3-4239-b43f-6d3ceea426f0
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
-- text: He believes with high confidence, based on his DOD positions, that the objects
-    reported by pilots are not US technology
-  source: Navy pilots describe encounters with UFOs
-  location: 00:11:08.5-00:11:17.8
-  quote: So it's not us, that's one thing we know... I could say that with a very
-    high degree of confidence, in part because of the positions I held in the department,
-    and I know the process.
-  claim_id: 30129510-6f53-4779-b196-e3aa65c80138
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-30129510-6f53-4779-b196-e3aa65c80138
-- text: He said US Navy pilots are not seeing secret US technology, and that the Navy
-    and DOD first checked the objects were not their own
-  source: In Plain Sight
-  location: ch28:22771-22887
-  quote: What our pilots are seeing is NOT secret US stuff. First thing navy and DoD
-    did was check to make sure they weren't ours.
-  claim_id: 7b28df71-9f02-4850-936b-1f2cb8498424
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b28df71-9f02-4850-936b-1f2cb8498424
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7b28df71-9f02-4850-936b-1f2cb8498424
-- text: He considers Russian or Chinese technology a possible explanation, while noting
-    the performance is so extraordinary it is hard to imagine terrestrial rivals mastering
-    it
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:08:21.0-00:08:50.3
-  quote: Could they be Russian, Chinese, or any other... Conceivably. We're entertaining
-    that possibility, sure. What do you think? The problem with that is that in some
-    cases the performance of these vehicles is so extraordinary, it's so radical,
-    that we don't understand how it's possible even. And so it's difficult for us
-    to imagine how our terrestrial rivals could master that kind of technology.
-  claim_id: adb9c57e-5723-4438-92a2-a41260982aa8
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-adb9c57e-5723-4438-92a2-a41260982aa8
-- text: He considers it necessary to entertain an alien origin given the objects appear
-    not to be American, Russian or Chinese
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:09:23.5-00:09:36.1
-  quote: So, if they're not ours, …if they're probably not Russian or Chinese or any
-    other potential adversaries… …does that mean they're… alien? I think that we have
-    to entertain that possibility.
-  claim_id: 5a526d78-f144-4790-925d-7ebc3e06554b
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5a526d78-f144-4790-925d-7ebc3e06554b
-- text: Asked in May 2020 whether the US held recovered physical materials, he said
-    some materials he knew of had genuinely extraordinary properties
-  source: In Plain Sight
-  location: ch23:22320-22572
-  quote: The conservative political commentator and conspiracy theorist TV host Glen
-    Beck asked Mellon if he believed the United States had physical materials recovered
-    from UAPs. Mellon said some of the materials he was aware of had ‘genuinely extraordinary
-    properties’
-  claim_id: 957fdfd4-155e-4e2f-95cf-7cd934c1601b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
-- text: He said some recovered materials had different isotopic ratios from terrestrial
-    metals
-  source: In Plain Sight
-  location: ch23:22585-22657
-  quote: that some of the samples had different isotopic ratios from terrestrial metals
-  claim_id: 40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
-- text: Information provided to Congress acknowledges 11 near mid-air collisions between
-    military aircraft and UAP since 2004
-  source: In Plain Sight
-  location: ch29:21921-22043
-  quote: Information subsequently provided to Congress acknowledges 11 near mid-air
-    collisions with UAP by military aircraft since 2004.
-  claim_id: 0aa44f96-0062-48b4-be77-7902947dbc72
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0aa44f96-0062-48b4-be77-7902947dbc72
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0aa44f96-0062-48b4-be77-7902947dbc72
-- text: He said the extent of UAP activity over restricted US military airspace revealed
-    by Navy aviators was staggering
-  source: In Plain Sight
-  location: ch29:21277-21372
-  quote: '''The extent of the UAP activity over restricted military airspace revealed
-    by Navy aviators was staggering.'
-  claim_id: 2fa5cf2e-e04b-458c-b5d9-23792f049ae6
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fa5cf2e-e04b-458c-b5d9-23792f049ae6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fa5cf2e-e04b-458c-b5d9-23792f049ae6
-- text: He said the US Air Force was notably unhelpful, if not hostile, to inquiries
-    on UAP when he and Elizondo facilitated meetings with pilots and oversight committees
-  source: In Plain Sight
-  location: ch29:23734-23982
-  quote: Pointedly, Mellon went on to savage the US Air Force for being, 'notably
-    *unhelpful* [his emphasis], if not hostile to inquiries on the subject,' when
-    he and Luis Elizondo facilitated meetings between US Navy pilots and the congressional
-    oversight committees.
-  claim_id: 75e73ea1-13a2-4506-b3f1-67a04e9cf81e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75e73ea1-13a2-4506-b3f1-67a04e9cf81e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-75e73ea1-13a2-4506-b3f1-67a04e9cf81e
-- text: He considers the broader UAP story arguably the biggest story mainstream news
-    organisations have ever failed to cover
-  source: In Plain Sight
-  location: ch29:24469-24554
-  quote: '''This is arguably the biggest story mainstream news organizations have
-    ever failed to cover.'''
-  claim_id: 7169e29a-62a7-4993-8004-3bb9459d9369
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7169e29a-62a7-4993-8004-3bb9459d9369
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7169e29a-62a7-4993-8004-3bb9459d9369
-- text: He was in the Pentagon when American Airlines Flight 77 struck the building
-    on 2001-09-11
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:14484-14595
-  quote: I was in the Pentagon when American Airlines Flight 77 struck the building,
-    so that failure was burned into my memory.
-  claim_id: b73e8996-4ecf-46ed-ab6a-a8727d9e5dc2
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b73e8996-4ecf-46ed-ab6a-a8727d9e5dc2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b73e8996-4ecf-46ed-ab6a-a8727d9e5dc2
-references_note: '"'
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 6c184db0ab00d03e59eec73a070686ae270aac44495142010a61e664c79cba2c
+  prompt_sha256: 2f6950f68df4800d008e0448c4bac5a6213d6b1dcbc0b5f55528bb9a354060b9
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 101908
-    output: 8621
+    input: 102322
+    output: 63942
     real_input: 2
-    cache_read: 39325
-    cache_write: 62581
+    cache_read: 39417
+    cache_write: 62903
     calls: 0
-  body_sha256: 3efc7ac5e20c0eaadd07d2aeb292196965cc38ad62d1039506857cc6e0290ca8
+  body_sha256: 2335f349dafa10769758c1a0c28fc3f35139f0761982c42b92428b7526ac7521
 ---
 
-Christopher K. Mellon is a former US Deputy Assistant Secretary of Defense for Intelligence who became one of the most prominent public advocates for congressional and government scrutiny of unidentified anomalous phenomena (UAP). He served in that Pentagon intelligence role during the Clinton and George W. Bush administrations,<sup>1</sup> having previously worked as a staffer on the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence) and as a legislative assistant to Senator William Cohen.<sup>2</sup> When Cohen became Defense Secretary, Mellon followed him into the Pentagon as part of his transition team in 1997.<sup>3</sup> As a Senate Intelligence Committee staffer he reviewed classified Special Access Program (SAP) projects and monitored [Area 51](/places/nevada-area-51-usa),<sup>4</sup> and was separately ordered by Senator Robert Byrd to investigate claims of a secret US aerospace project known as Aurora.<sup>5</sup> Mellon has said he visited Area 51 with full access to review classified projects there,<sup>6</sup> and that he never saw technology matching the UAP later reported by military personnel, nor any captured alien spacecraft.<sup>7</sup> He has traced his interest in the subject to childhood, recalling a home movie shown at his boarding school of a disc-shaped object filmed by a schoolmate.<sup>8</sup>
+Christopher K. Mellon is a former US intelligence official who served as Deputy Assistant Secretary of Defense for Intelligence under Presidents Bill Clinton and George W. Bush.<sup>1</sup> Over nearly twenty years in the US Intelligence Community,<sup>2</sup> he held the Pentagon's third-highest intelligence position, Deputy Assistant Secretary of Defense for Intelligence and Security and Information Operations.<sup>3</sup> He is part of the Mellon family associated with Carnegie Mellon University.<sup>4</sup> At the age of seven, Mellon was shown a home movie, filmed by a friend, of a golden disc-shaped object moving across clear skies and through cumulus clouds in a manner that would be very hard to fake.<sup>5</sup> He went on to read widely about [UFOs](/topics/unidentified-flying-object-ufo) and completed a college research project on the subject for a physics professor.<sup>6</sup>
 
-Earlier in his career, Mellon led inquiries that attempted to explain the mass Belgian sightings of 1989-1990,<sup>9</sup> making exhaustive investigations with the Pentagon and intelligence services.<sup>10</sup> He concluded there was no secret US triangular craft programme matching what witnesses described,<sup>11</sup> and said the craft observed was definitely not something the United States had on its books.<sup>12</sup>
+Mellon began his career as a legislative assistant to US Senator [William Cohen](/people/william-cohen),<sup>7</sup> becoming Cohen's closest adviser on Capitol Hill.<sup>8</sup> When Cohen became Secretary of Defense in 1997, Mellon followed him into the Pentagon as part of the new secretary's transition team.<sup>9</sup> Earlier, as a staffer for the [US Senate Select Committee on Intelligence](/organisations/us-senate-select-committee-on-intelligence),<sup>10</sup> Mellon's role required him to review top-secret Sensitive Compartmented Information projects inside [Special Access Programs (SAP)](/topics/special-access-program-sap),<sup>11</sup> including monitoring [Area 51](/places/nevada-area-51-usa), a secure [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) facility within the Nevada Test Range.<sup>12</sup> He was also ordered by then-Senate Appropriations Committee chairman Robert Byrd to investigate claims that the United States was secretly developing a classified aerospace project known as Aurora.<sup>13</sup> In the early 1990s he led Senate inquiries into the mass sightings of triangular craft during the 1989-1990 Belgian Wave,<sup>14</sup> conducting what he described as exhaustive investigations with the Pentagon and US intelligence services.<sup>15</sup> He said he concluded there was no secret US triangular-craft programme matching what was reported,<sup>16</sup> and that the craft observed was "definitely not something the United States had on the books."<sup>17</sup> Mellon separately visited Area 51 with full access to review every classified project onsite,<sup>18</sup> and said he never saw anything there that matched the technology later demonstrated by observed UAP, and certainly no captured alien spacecraft.<sup>19</sup> He has also said that current and former Lockheed Martin colleagues told him privately that if a TR3B craft exists, it is not made by Lockheed Martin,<sup>20</sup> that he never saw an enormous spending line or other evidence of such a craft during his visits to Area 51 and adjacent ranges,<sup>21</sup> and that he was aware of one data point suggesting a US connection to the TR3B, which he described as tangential, far from definitive, and not in the public realm.<sup>22</sup>
 
-Mellon joined [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa) at its 2017 launch as national security affairs adviser, according to the company's website.<sup>14</sup> Journalist Bryan Bender described [Luis Elizondo](/people/luis-elizondo) and Mellon as an unmatched team of former high-level officials, still holding security clearances and Washington networks.<sup>15</sup> In his October 2017 launch speech, Mellon noted the coincidence that the event fell 60 years after the launch of Sputnik,<sup>16</sup> a moment he considered significant because it put the United States once again in a technology race, this time against an unknown challenger.<sup>17</sup> A Washington Post story he wrote revealed that the Go-Fast video had been filmed off the US east coast in late 2014 or early 2015.<sup>18</sup> He has said he does not believe the object encountered by the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) was an experimental US aircraft.<sup>19</sup> Speculation later mounted that Mellon, Elizondo and [Steve Justice](/people/steve-justice) were leaving TTSA.<sup>20</sup>
+Mellon first met [Luis Elizondo](/people/luis-elizondo) at a closed-door Pentagon meeting in early 2017.<sup>23</sup> At the time Mellon already knew that the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) existed under that name despite the programme's secrecy,<sup>24</sup> and he asked Elizondo how he could be read onto it.<sup>25</sup> Although he had spent years with oversight of all of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod)'s Special Access Programs, Mellon admitted he had had zero prior visibility into the [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) topic.<sup>26</sup> He obtained the required security clearances within a week,<sup>27</sup> after which Elizondo briefed him for three hours inside a [Sensitive Compartmented Information Facility (SCIF)](/topics/sensitive-compartmented-information-facility-scif), sharing reports, photographs, data and intelligence on legacy UAP efforts.<sup>28</sup> Mellon subsequently pledged his support to AATIP and became a trusted member of the effort.<sup>29</sup> In August 2018, the journalist Ross Coulthart said he found PowerPoint slides prepared for a briefing of senior DoD officials while examining Mellon's personal website.<sup>30</sup> One such slide, the 'Department of Defense (DoD) Threat Scenario' briefing slide, asserted - according to the same account - that the science exists for an adversary of the United States to manipulate both physical and cognitive environments to penetrate US facilities, influence decision-makers and compromise national security.<sup>31</sup>
 
-According to Elizondo's account, Mellon first met him at a closed-door Pentagon meeting in early 2017,<sup>21</sup> after [Jim Semivan](/people/jim-semivan) told Elizondo he had informed Mellon of the existence of the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) and where to find it.<sup>22</sup> Mellon obtained the required security clearances within a week,<sup>23</sup> after which Elizondo shared reports, photographs, data and intelligence on legacy UAP efforts with him over three hours in a Sensitive Compartmented Information Facility (SCIF).<sup>24</sup> Mellon, who had overseen all Special Access Programs for the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) but had had no prior visibility into the UAP topic,<sup>25</sup> pledged his loyalty to the AATIP effort after being briefed and became a trusted member of the team.<sup>26</sup> Elizondo gave him permission to share his name with senior officials who might help reach Defense Secretary [James Mattis](/people/james-mattis),<sup>27</sup> though [Harold E. Puthoff](/people/harold-e-puthoff) has said the pair could not get past Mattis's gatekeepers.<sup>28</sup> Mellon, Elizondo and [Jay Stratton](/people/jay-stratton) then concluded that the only way to change how the Pentagon handled UAP was to force change through the [United States Congress](/organisations/united-states-congress),<sup>29</sup> with Mellon proposing they take the issue to the press instead.<sup>30</sup> He used his Pentagon contacts to obtain copies of three unclassified UAP videos,<sup>31</sup> at one point meeting a journalist in a parking lot to hand over a padded envelope of CDs.<sup>32</sup> Mellon has said it was bizarre and unfortunate that leaking the declassified Navy videos was what it took to get the issue addressed.<sup>33</sup> He, Puthoff and Semivan also met Elizondo and journalist [Leslie Kean](/people/leslie-kean) in a Pentagon-area hotel lobby for a four-hour session,<sup>34</sup> the same meeting at which Kean has said she was introduced to Elizondo.<sup>35</sup>
+In 2017, Mellon, [Jim Semivan](/people/jim-semivan) and [Harold E. Puthoff](/people/harold-e-puthoff) met with Elizondo and journalist [Leslie Kean](/people/leslie-kean) in a hotel lobby near the Pentagon,<sup>32</sup> a meeting that lasted four hours,<sup>33</sup> and urged Elizondo to connect with the media in order to reach the American public on the UAP issue.<sup>34</sup> That December, Mellon joined Elizondo, Puthoff, Semivan and [Steve Justice](/people/steve-justice) in founding [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa),<sup>35</sup> a venture that aimed to raise money for research into UFOs.<sup>36</sup> Mellon was present at the venture's launch event in October 2017,<sup>37</sup> where, in his launch speech, he pointed out that the date marked precisely sixty years since the Soviet Union's launch of Sputnik.<sup>38</sup> He went on to chair TTSA's National Security Policy and Scientific Advisory Board,<sup>39</sup> and, according to the company's website, served as its national security affairs adviser.<sup>40</sup> By 2020, speculation had mounted for months that Mellon, Elizondo and Justice were leaving TTSA;<sup>41</sup> it took [Tom DeLonge](/people/tom-delonge) several months to formally confirm their departure to the US Securities and Exchange Commission.<sup>42</sup>
 
-Mellon and Elizondo went on to lobby Capitol Hill,<sup>36</sup> drafting UAP reporting legislation during the COVID-19 pandemic<sup>37</sup> and, together with Stratton, developing a multiyear congressional strategy on the issue.<sup>38</sup> Elizondo has credited Mellon with helping secure publication of the Preliminary Assessment: Unidentified Aerial Phenomena report as one of his greatest contributions,<sup>39</sup> and has called the UAP provisions Mellon helped craft for the National Defense Authorization Act his "magnum opus," work that also involved several senators and a representative.<sup>40</sup> Mellon had previously served as deputy staff director of the Senate Intelligence Committee.<sup>41</sup> He has been instrumental in arranging classified congressional briefings on UAP that reference exotic retrieved materials;<sup>42</sup> the first such briefing on alleged retrievals of unexplained objects went to Senate Armed Services Committee staff on 2019-10-21, followed two days later by Senate Select Committee on Intelligence staff.<sup>43</sup> Over nearly twenty years in the US Intelligence Community, including his time as Deputy Assistant Secretary of Defense for Intelligence,<sup>44</sup> Mellon has said a number of well-placed current and former officials shared detailed information with him about an alleged non-human craft recovery programme,<sup>45</sup> and that once Congress gains fuller awareness of what has already been shared with staff, members will be able to determine the truth if they have the will to do so.<sup>46</sup>
+Mellon went on to work with Elizondo on bringing the UAP issue before Congress. His reporting for the Washington Post revealed that the Go-Fast video, part of the [2014-2015 US East Coast UAP encounters](/events/2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters), had been filmed off the east coast of the United States in late 2014 or early 2015.<sup>43</sup> According to Elizondo, Mellon used his contacts at the Pentagon to obtain copies of three unclassified UAP videos,<sup>44</sup> drawing on long service in the intelligence community that meant he knew where the footage had been kept and how to extract it.<sup>45</sup> With [Jay Stratton](/people/jay-stratton), Mellon and Elizondo concluded that the only way to change how the Pentagon handled UAP was to get the [United States Congress](/organisations/united-states-congress) to force change,<sup>46</sup> and Mellon gave Elizondo permission to share his name with senior officials who could help reach Defense Secretary [James Mattis](/people/james-mattis).<sup>47</sup> Elizondo and Mellon tried to raise AATIP with Mattis directly but could not get past his gatekeepers.<sup>48</sup> During the COVID-19 pandemic, Mellon and Elizondo drafted the legislative language for what became the government's UAP reporting requirement,<sup>49</sup> and Mellon assisted a bipartisan group of senators and representatives in crafting UAP language for the National Defense Authorization Act.<sup>50</sup> Information provided to Congress acknowledges 11 near mid-air collisions between military aircraft and UAP since 2004.<sup>51</sup> Mellon has also been instrumental in arranging classified briefings for members of Congress on UAP, including references to exotic retrieved materials;<sup>52</sup> the first such briefing he facilitated, according to the same reporting, was provided to staff of the Senate Armed Services Committee on 2019-10-21, and to staff of the US Senate Select Committee on Intelligence two days later.<sup>53</sup> Mellon has said that once members of Congress gain fuller awareness of the information provided to committee staff, they will be able to quickly determine the truth if they have the will to do so.<sup>54</sup> "This is an unprecedented oversight challenge for the committees," he said, "but I believe we have leaders in Congress who are up to the task."<sup>55</sup>
 
-On the substance of what he has observed, Mellon has said that, based on the positions he held within the Department of Defense, he believes with high confidence that the unidentified objects reported by pilots are not US technology,<sup>47</sup> adding separately that Navy and DoD officials first checked to rule out the objects being their own.<sup>48</sup> He has said he considers Russian or Chinese origin a possible explanation, while noting that the performance involved is so extraordinary it is difficult to imagine a terrestrial rival mastering it,<sup>49</sup> and that it is therefore necessary to entertain the possibility of an alien origin given the objects appear to be neither American, Russian nor Chinese.<sup>50</sup> Asked in May 2020 whether the United States held physical materials recovered from UAP, Mellon said some materials he was aware of had genuinely extraordinary properties,<sup>51</sup> including isotopic ratios differing from terrestrial metals.<sup>52</sup> He has also said that information provided to Congress acknowledges 11 near mid-air collisions between military aircraft and UAP since 2004,<sup>53</sup> and described the extent of UAP activity over restricted US military airspace revealed by Navy aviators as staggering.<sup>54</sup> He has said the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) was notably unhelpful, if not hostile, to inquiries on the subject when he and Elizondo arranged meetings between pilots and congressional oversight committees,<sup>55</sup> and considers the broader UAP story arguably the biggest one mainstream news organisations have ever failed to cover.<sup>56</sup> Mellon was in the Pentagon when American Airlines Flight 77 struck the building on 2001-09-11.<sup>57</sup>
+Mellon has said he believes, with high confidence based on the positions he held within the Department of Defense, that the unidentified objects reported by pilots are not US technology,<sup>56</sup> noting that the [United States Navy (USN)](/organisations/united-states-navy-usn) and Department of Defense first checked to make sure the objects were not their own.<sup>57</sup> He has said Russian or Chinese technology is a possible explanation, while noting that the performance of the vehicles is so extraordinary that it is difficult to imagine terrestrial rivals mastering it,<sup>58</sup> and that it is necessary to entertain the possibility that the UAP filmed by US fighter pilots are of alien origin, given they appear not to be American, Russian or Chinese.<sup>59</sup> He has said that the National Reconnaissance Office, the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia), the National Geospatial-Intelligence Agency, the FBI and the NSA appeared to hold important UAP data that they were not sharing with each other.<sup>60</sup> Asked in a May 2020 interview whether the United States held physical materials recovered from UAP, Mellon said some of the materials he was aware of had genuinely extraordinary properties,<sup>61</sup> with isotopic ratios differing from terrestrial metals.<sup>62</sup> He has also said that a number of well-placed current and former officials have shared detailed information with him about an alleged non-human craft recovery programme, including its history, governing documents, and the location where a craft was allegedly abandoned and recovered.<sup>63</sup> According to the podcast Science vs. Secrecy, Mellon and [Eric Davis](/people/eric-davis) have said that programme ceased in 1989 due to a lack of progress.<sup>64</sup> Regarding the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), Mellon has said the object involved was not an experimental US aircraft,<sup>65</sup> has met with one of the pilots involved and confirmed the account,<sup>66</sup> and has said the events can be verified by the US government itself.<sup>67</sup> Coverage of his claims has drawn scrutiny: a 2019 profile noted that a Fox & Friends segment did not mention Mellon's employment by TTSA, nor that a companion documentary was produced by the company that employed both him and Elizondo.<sup>68</sup> The journalist Bryan Bender described Elizondo and Mellon as part of an unmatched team of former high-level officials to come forward on the UFO issue, noting they retained security clearances and networks in Washington, D.C.<sup>69</sup>

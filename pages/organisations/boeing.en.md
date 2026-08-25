@@ -1,11 +1,12 @@
 ---
 title: Boeing
-description: Boeing is an American aerospace and defence manufacturer named across
-  UAP-related source material in connection with advanced military aircraft, alleged
-  crash-retrieval programmes, and a disputed 1989 poster tied to NASA's Mars exploration
-  plans.
+description: Boeing is a major American aerospace, defence, and space manufacturer
+  whose aircraft, engineers, and contractors recur in accounts of unidentified aerial
+  phenomena, from a 1989 NASA-themed poster to fighter jet production and defence-industry
+  counterintelligence.
 metadata:
-  industry: Aerospace and defence
+  industry: Aerospace, defence, and space manufacturing
+  notable_division: Boeing Phantom Works
 built_from:
   brief_hash: b3dca10cf3fc8503ebcb21bfd910348aef394f2da7695d6e3e5485c7e90886f7
   claims:
@@ -64,140 +65,16 @@ built_from:
   - id: b5c87687-4878-4768-b435-084dc902ecea
     hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
 references:
-- text: Fravor describes Northrop Grumman, Lockheed Martin, and Boeing as the big
-    three US defence companies
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:17:17.4-02:17:22.7
-  quote: there's the big three in defense, which is really, you know, Northrop, Lockheed,
-    and Boeing.
-  claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-43130faf-5eb5-42b4-8861-c28b2737d2a0
-- text: Elizondo's counterintelligence work protected technology at TRW, Raytheon,
-    Boeing and Lockheed
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch11:20529-20690
-  quote: My primary job was to lock down sensitive, top secret technology from foreign
-    spies who were targeting major defense contractors like TRW, Raytheon, Boeing,
-    and Lockheed.
-  claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e59c0f57-d34c-4691-b499-4cc425233baf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e59c0f57-d34c-4691-b499-4cc425233baf
-- text: Elizondo's Arlington office was in a building that also housed Boeing Phantom
-    Works
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:1871-2184
-  quote: 'At the time, I had a large corner office in a building the Pentagon rented
-    in {{redacted: ~3 words}} {{redacted: ~2 words}} Arlington, Virginia. Among other
-    things, the building housed various departments of Boeing Aerospace, including
-    Phantom Works, the division that is charged with dreaming up Boeing''s future
-    tech.'
-  claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
-- text: Boeing Phantom Works is Boeing's future-technology division
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:2036-2184
-  quote: the building housed various departments of Boeing Aerospace, including Phantom
-    Works, the division that is charged with dreaming up Boeing's future tech.
-  claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
-- text: 'Elizondo: senior officials named Boeing among firms involved in the Legacy
-    Program'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch21:4633-4853
-  quote: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop
-    Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation, all of
-    which have long been principal members of the US military-industrial complex.
-  claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
-- text: 'Graves: Boeing contractors at Vandenberg AFB saw a red square object approach
-    from the ocean in 2003'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:73551-73830
-  quote: In the 2003 timeframe, a large group of Boeing contractors were operating
-    near one of the launch facilities at Vandenberg Air Force Base when they observed
-    a very large 100-yard sighted red square approach the base from the ocean and
-    hover at low altitude over one of the launch facilities.
-  claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-- text: 'Graves: the contractor detail came from a witness, with no further specifics
-    known to him'
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:97034-97175
-  quote: So, I will just say that the information about the contractors themselves
-    were provided by a witness and I have no particular detail in that relationship.
-  claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
-- text: Lockheed Martin, Boeing and DARPA developed the RQ-3 Dark Star in the mid-to-late
-    1990s
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:141208-141282
-  quote: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late
-    1990s.
-  claim_id: b5c87687-4878-4768-b435-084dc902ecea
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5c87687-4878-4768-b435-084dc902ecea
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5c87687-4878-4768-b435-084dc902ecea
-- text: Boeing planned to redesign the F/A-18F Super Hornet's pilot display
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:33:46.6-00:33:49.3
-  quote: they're, they're getting ready to redesign that Boeing is.
-  claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9a2bdc28-7e4b-4287-a079-ff2812971c61
-- text: Fravor visited the Boeing factory in St. Louis after his first Super Hornet
-    cruise
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:54:52.2-00:54:56.2
-  quote: We had went to the Boeing factory in St. Louis, where they were building
-    my new jets that I was going to get.
-  claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8b4829dc-9fc8-4b29-8a37-22e1033aa679
-- text: Fravor signed the inside of a Super Hornet wing during assembly
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:54:56.3-00:54:59.6
-  quote: And I actually signed the inside of one of the wings while they were putting
-    it together.
-  claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ffc8ea23-c493-4acb-8573-b12347549e9a
-- text: 'Fravor: SpaceX delivered a Boeing-contracted project faster and cheaper'
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:18:15.8-02:18:20.5
-  quote: Elon did what Boeing has contracted to do in less time for half the money.
-  claim_id: 78dfe87d-e972-4f39-997c-86557385215c
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-78dfe87d-e972-4f39-997c-86557385215c
-- text: By spring 2006, Northrop Grumman and Boeing were expected to win the CEV contract
+- text: Ken Johnston was a Boeing engineer and licensed pilot when he met Richard
+    C. Hoagland.
   source: Dark Mission
-  location: ch19:80349-80445
-  quote: As the spring of 2006 bloomed, all signs pointed to Northrop-Grumman-Boeing
-    getting the initial contract.
-  claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+  location: ch11:75549-75615
+  quote: he met Ken Johnston, a Boeing engineer at the time and a licensed pilot
+  claim_id: 908abf28-41ba-4aaf-8a4d-9d61ba48b085
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
-- text: The 1989 Boeing Mars poster depicted NASA astronauts ascending a cliff to
-    find artificial ruins
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-908abf28-41ba-4aaf-8a4d-9d61ba48b085
+- text: A 1989 poster commissioned by Boeing depicted NASA astronauts ascending a
+    cliff and finding artificial ruins.
   source: Dark Mission
   location: ch19:14127-14565
   quote: The poster had been commissioned by the Boeing Company and designed, as all
@@ -209,42 +86,8 @@ references:
   claim_id: 2f41a971-ff9c-4802-a6fb-2f38247c896a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2f41a971-ff9c-4802-a6fb-2f38247c896a
-- text: The poster commission came via Boeing Aerospace and Bush's office around 1985
-  source: Dark Mission
-  location: ch5:25600-25768
-  quote: The commission for the painting came through the President's [George Herbert
-    Walker Bush] office via Boeing Aerospace, with whom I was working for at the time
-    (1985 or so?)
-  claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
-- text: Hudson's concept drawings were accepted through Boeing and he completed the
-    painting
-  source: Dark Mission
-  location: ch5:26170-26297
-  quote: I submitted the rough concept drawings through Boeing, was accepted, and
-    continued on to finish the painting as you see in the poster.
-  claim_id: 43b9de95-64ce-49ab-9291-876a214ce3a1
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-43b9de95-64ce-49ab-9291-876a214ce3a1
-- text: Bara asked Hudson about the poster and the Planetary Society's edited version
-  source: Dark Mission
-  location: ch5:24539-24670
-  quote: I've even seen a version of this poster used by the Planetary Society but
-    with the artifacts removed, because they felt it wasn't "appropriate."
-  claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf513a25-ad19-4c4d-8486-97c0302d82ed
-- text: 'Hudson: Boeing was told not to distribute the posters at trade shows'
-  source: Dark Mission
-  location: ch5:27205-27410
-  quote: as far as I was told, no one knew what ever became of the original painting
-    or all of the posters (again, if I remember correctly, Boeing was told not to
-    give the posters out at any of the numerable trade shows)
-  claim_id: 4feed9f6-b645-479a-9c15-9e401e26d76d
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4feed9f6-b645-479a-9c15-9e401e26d76d
-- text: Dave Bara found a poster in a vacated Boeing office in Renton in 1997
+- text: Dave Bara found a copy of the poster in a vacated Boeing office in Renton,
+    Washington, in 1997.
   source: Dark Mission
   location: ch19:13738-14121
   quote: In 1997, the brother of one of the authors, Dave Bara, was walking through
@@ -255,14 +98,104 @@ references:
   claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2909aefe-359c-4b38-b2c0-4882c3ccfab6
-- text: Ken Johnston was a Boeing engineer and licensed pilot when he met Hoagland
+- text: The poster commission reached Paul Hudson, then a Boeing employee, via Boeing
+    Aerospace and President Bush's office around 1985.
   source: Dark Mission
-  location: ch11:75549-75615
-  quote: he met Ken Johnston, a Boeing engineer at the time and a licensed pilot
-  claim_id: 908abf28-41ba-4aaf-8a4d-9d61ba48b085
+  location: ch5:25600-25768
+  quote: The commission for the painting came through the President's [George Herbert
+    Walker Bush] office via Boeing Aerospace, with whom I was working for at the time
+    (1985 or so?)
+  claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-908abf28-41ba-4aaf-8a4d-9d61ba48b085
-- text: William Blair, a Boeing anthropologist, on the Blair Cuspids' geometric relationships
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
+- text: Hudson's concept drawings were accepted through Boeing and he completed the
+    painting.
+  source: Dark Mission
+  location: ch5:26170-26297
+  quote: I submitted the rough concept drawings through Boeing, was accepted, and
+    continued on to finish the painting as you see in the poster.
+  claim_id: 43b9de95-64ce-49ab-9291-876a214ce3a1
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-43b9de95-64ce-49ab-9291-876a214ce3a1
+- text: Mike Bara asked Hudson about the poster and noted the Planetary Society's
+    version had the ruins removed.
+  source: Dark Mission
+  location: ch5:24539-24670
+  quote: I've even seen a version of this poster used by the Planetary Society but
+    with the artifacts removed, because they felt it wasn't "appropriate."
+  claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf513a25-ad19-4c4d-8486-97c0302d82ed
+- text: Hudson said Boeing withheld the poster from trade shows and the original's
+    fate was unknown.
+  source: Dark Mission
+  location: ch5:27205-27410
+  quote: as far as I was told, no one knew what ever became of the original painting
+    or all of the posters (again, if I remember correctly, Boeing was told not to
+    give the posters out at any of the numerable trade shows)
+  claim_id: 4feed9f6-b645-479a-9c15-9e401e26d76d
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4feed9f6-b645-479a-9c15-9e401e26d76d
+- text: Hudson said the poster has been used to support claims about Bush's alleged
+    Nazi heritage and Masonic ties.
+  source: Dark Mission
+  location: ch5:27577-27843
+  quote: it has come to my attention that the image is used to bolster claims of the
+    President's Nazi heritage, and that, being both a Mason and a Nazi, the only reason
+    he wanted to send men to Mars was to return the Brotherhood back to the old stomping
+    grounds of the Aryan race
+  claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0cb7975-108d-4fd3-a886-8356d22b57ff
+- text: Hudson said the painting contains Masonic symbols, included accidentally or
+    without his knowledge.
+  source: Dark Mission
+  location: ch5:27920-28129
+  quote: Apparently there are quite a few Masonic symbols embedded in the painting
+    as well... if there is any credence to these theories, they were quite by accident,
+    or entirely without my knowing.
+  claim_id: 6939279d-343e-44f9-a1ca-5359487817f6
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6939279d-343e-44f9-a1ca-5359487817f6
+- text: Hudson confirmed a depicted black man among the painting's pillars was intentional.
+  source: Dark Mission
+  location: ch5:28441-28601
+  quote: We had one further communication regarding the apparent image of a black
+    man in the stack of pillars in the painting, and he confirmed that the ethnic
+    take was intentional.
+  claim_id: e980a36b-d275-4394-a26c-b474972afb25
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e980a36b-d275-4394-a26c-b474972afb25
+- text: Bara doubted Hudson could have missed the Masonic symbols in his own painting.
+  source: Dark Mission
+  location: ch5:28754-28954
+  quote: I found it fascinating that he volunteered information about Masonic symbols
+    on his own work, which he denied knowing were there. It seems improbable that
+    he didn't notice them; after all, he painted them.
+  claim_id: c3c80f6d-d9d0-4f65-ba14-df7b328dd929
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3c80f6d-d9d0-4f65-ba14-df7b328dd929
+- text: Bara said Hudson seemed anxious to deny Bush administration backing despite
+    submitting a detailed proposal.
+  source: Dark Mission
+  location: ch5:28960-29120
+  quote: He seemed anxious to dispel any notion that the Bush administration supported
+    his work, even though he submitted a detailed proposal before starting the actual
+    painting.
+  claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48ab2b11-9178-4edc-bb7f-11f841573dd9
+- text: By March 2006, signs pointed to Northrop Grumman and Boeing winning the initial
+    CEV contract.
+  source: Dark Mission
+  location: ch19:80349-80445
+  quote: As the spring of 2006 bloomed, all signs pointed to Northrop-Grumman-Boeing
+    getting the initial contract.
+  claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+- text: Boeing anthropologist William Blair described geometric relationships among
+    the Blair Cuspids.
   source: Dark Mission
   location: ch8:22463-22587
   quote: William Blair, a Boeing anthropologist, noted that the "spires" had a series
@@ -270,8 +203,8 @@ references:
   claim_id: b6c9228f-b037-4c60-b33e-f5294abb4575
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6c9228f-b037-4c60-b33e-f5294abb4575
-- text: A Boeing study on the population's ability to perceive 3D structure in 2D
-    images
+- text: A Boeing study found only about a third of people can mentally rotate 2D images
+    into 3D structures.
   source: Dark Mission
   location: ch6:8006-8212
   quote: According to a Boeing Study (that Mike reminds me about constantly), only
@@ -280,31 +213,155 @@ references:
   claim_id: d015db9f-9c48-4603-b17f-859a7862a9e9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d015db9f-9c48-4603-b17f-859a7862a9e9
+- text: Boeing was planning to redesign the F/A-18F Super Hornet's pilot display.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:33:46.6-00:33:49.3
+  quote: they're, they're getting ready to redesign that Boeing is.
+  claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9a2bdc28-7e4b-4287-a079-ff2812971c61
+- text: Fravor visited the Boeing factory in St Louis where his squadron's new Super
+    Hornets were built.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:54:52.2-00:54:56.2
+  quote: We had went to the Boeing factory in St. Louis, where they were building
+    my new jets that I was going to get.
+  claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8b4829dc-9fc8-4b29-8a37-22e1033aa679
+- text: Fravor signed inside the wing of one of the jets during assembly.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:54:56.3-00:54:59.6
+  quote: And I actually signed the inside of one of the wings while they were putting
+    it together.
+  claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ffc8ea23-c493-4acb-8573-b12347549e9a
+- text: Fravor named Northrop Grumman, Lockheed Martin, and Boeing the 'big three'
+    US defence firms.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 02:17:17.4-02:17:22.7
+  quote: there's the big three in defense, which is really, you know, Northrop, Lockheed,
+    and Boeing.
+  claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-43130faf-5eb5-42b4-8861-c28b2737d2a0
+- text: Fravor said SpaceX delivered a Boeing-contracted project faster and cheaper.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 02:18:15.8-02:18:20.5
+  quote: Elon did what Boeing has contracted to do in less time for half the money.
+  claim_id: 78dfe87d-e972-4f39-997c-86557385215c
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-78dfe87d-e972-4f39-997c-86557385215c
+- text: Elizondo's counterintelligence work protected contractors including TRW, Raytheon,
+    Boeing, and Lockheed.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch11:20529-20690
+  quote: My primary job was to lock down sensitive, top secret technology from foreign
+    spies who were targeting major defense contractors like TRW, Raytheon, Boeing,
+    and Lockheed.
+  claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e59c0f57-d34c-4691-b499-4cc425233baf
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e59c0f57-d34c-4691-b499-4cc425233baf
+- text: Elizondo's Arlington office building also housed Boeing Aerospace departments,
+    including Phantom Works.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch9:1871-2184
+  quote: 'At the time, I had a large corner office in a building the Pentagon rented
+    in {{redacted: ~3 words}} {{redacted: ~2 words}} Arlington, Virginia. Among other
+    things, the building housed various departments of Boeing Aerospace, including
+    Phantom Works, the division that is charged with dreaming up Boeing''s future
+    tech.'
+  claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
+- text: Boeing Phantom Works is the division developing Boeing's future technology.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch9:2036-2184
+  quote: the building housed various departments of Boeing Aerospace, including Phantom
+    Works, the division that is charged with dreaming up Boeing's future tech.
+  claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
+- text: Elizondo said Boeing and other named firms were involved in the Legacy Program
+    to retrieve and reverse-engineer crash materials.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch21:4633-4853
+  quote: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop
+    Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation, all of
+    which have long been principal members of the US military-industrial complex.
+  claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
+- text: Graves said Boeing contractors near Vandenberg saw a roughly 90-metre red
+    square object approach from the sea in 2003.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:73551-73830
+  quote: In the 2003 timeframe, a large group of Boeing contractors were operating
+    near one of the launch facilities at Vandenberg Air Force Base when they observed
+    a very large 100-yard sighted red square approach the base from the ocean and
+    hover at low altitude over one of the launch facilities.
+  claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+- text: Graves said his account came from a witness and he had no further detail on
+    that relationship.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:97034-97175
+  quote: So, I will just say that the information about the contractors themselves
+    were provided by a witness and I have no particular detail in that relationship.
+  claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
+- text: Lockheed Martin, Boeing, and DARPA developed the RQ-3 Dark Star in the mid-to-late
+    1990s.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:141208-141282
+  quote: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late
+    1990s.
+  claim_id: b5c87687-4878-4768-b435-084dc902ecea
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5c87687-4878-4768-b435-084dc902ecea
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5c87687-4878-4768-b435-084dc902ecea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: d2c6c9695820dd730a6f713ed3ae2329ad2970a8730f258e680572c51c5bc33f
+  prompt_sha256: 7dcc35e9fcbb8b1b20580dda2deeb7acb1c77c68cf317cbd37fc7e0dd390bc60
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 70926
-    output: 27346
+    input: 71378
+    output: 23692
     real_input: 2
-    cache_read: 39398
-    cache_write: 31526
+    cache_read: 39422
+    cache_write: 31954
     calls: 0
-  body_sha256: b2502609214dd2e70d9132325a16858a5e9d8b72b8f8ceab80b7146c37f24f69
+  body_sha256: 3eaffe0a298edfe31b4bed1ae5648d419b820d0da14997c133bf01d3c3f9ab46
 ---
 
-Boeing is named throughout Anomalica's source material as one of the major American aerospace and defence contractors linked to advanced military aircraft, alleged crash-retrieval programmes, and a disputed 1989 poster tied to NASA's Mars exploration planning. [David Fravor](/people/david-fravor) has described [Northrop Grumman](/organisations/northrop-grumman), [Lockheed Martin](/organisations/lockheed-martin), and Boeing as the big three companies in the United States defence industry.<sup>1</sup> [Luis Elizondo](/people/luis-elizondo)'s primary job in counterintelligence was to lock down sensitive, top secret technology from foreign spies targeting major defence contractors including TRW Inc., Raytheon, Boeing, and Lockheed.<sup>2</sup> Elizondo had an office in a building in Arlington, Virginia that the Pentagon rented, which also housed departments of Boeing Aerospace, including Boeing Phantom Works,<sup>3</sup> the Boeing division charged with developing the company's future technology.<sup>4</sup> Elizondo has said that senior officials named Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation as companies involved in the [Legacy Program](/projects/legacy-program), a programme said to retrieve and reverse-engineer crash materials.<sup>5</sup>
+Boeing is a major American aerospace, defence, and space manufacturer whose personnel, aircraft, and internal projects recur across UAP-related testimony and Cold War-era space imagery. Ken Johnston was a Boeing engineer and licensed pilot at the time he met Richard C. Hoagland.<sup>1</sup> One of the company's most discussed artefacts in this context is a 1989 poster, commissioned by Boeing, depicting [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) astronauts ascending The Cliff (Cydonia) and encountering artificial ruins.<sup>2</sup> According to *Dark Mission*, Dave Bara, brother of one of the book's authors, came across a copy of the 1989 White House Mars Exploration Program poster (Boeing) in a vacated office area of Boeing's Renton, Washington facility in 1997.<sup>3</sup> The commission reached artist Paul Hudson, then working for Boeing, through President [George Herbert Walker Bush](/people/george-herbert-walker-bush)'s office via Boeing Aerospace around 1985.<sup>4</sup> Hudson submitted rough concept drawings through Boeing, which were accepted, and went on to complete the painting.<sup>5</sup> [Mike Bara](/people/mike-bara) later wrote to Hudson asking about the poster, noting that a version used by the Planetary Society had the artificial ruins removed as the organisation felt they were inappropriate.<sup>6</sup>
 
-According to [Ryan Graves](/people/ryan-graves), in 2003 a large group of Boeing contractors operating near a launch facility at Vandenberg Air Force Base observed a large, approximately 90-metre red square object approach the base from the ocean and hover at low altitude over one of the launch facilities, an account now referred to as the 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident.<sup>6</sup> Graves has said the information about the contractors came to him from a witness, and that he has no particular detail on that relationship.<sup>7</sup> In a separate programme, Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star in the mid-to-late 1990s.<sup>8</sup>
+Hudson has said Boeing was told not to distribute the poster at trade shows, and that no one knew what became of the original painting or the posters themselves.<sup>7</sup> He has also said the image has since been used to support claims about George Herbert Walker Bush's alleged Nazi heritage and Masonic membership, including the assertion that he wanted to send men to Mars to return "the Brotherhood" to the ancestral territory of the Aryan race.<sup>8</sup> Hudson has stated that Masonic symbols are present in the painting but, if such theories carry any credence, that they were included by accident or without his knowledge.<sup>9</sup> He has also said an apparent depiction of a black man among a stack of pillars in the painting was intentional.<sup>10</sup> Bara has said he considers it improbable that Hudson would not have noticed the Masonic symbols in a painting he made himself.<sup>11</sup> Bara has also said Hudson seemed anxious to dispel any notion that the Bush administration supported the poster's creation, despite Hudson having submitted a detailed proposal before starting the work.<sup>12</sup> Separately, by March 2006 all signs pointed to [Northrop Grumman](/organisations/northrop-grumman) and Boeing winning the initial Crew Exploration Vehicle (CEV) contract.<sup>13</sup>
 
-Fravor recounted several interactions with Boeing during his time flying the [F/A-18F Super Hornet](/objects/fa-18f-super-hornet). Boeing was planning to redesign the pilot's display in the aircraft,<sup>9</sup> and after completing his first Super Hornet cruise he visited the Boeing factory in St. Louis, Missouri, where his squadron's new Super Hornets were being built,<sup>10</sup> signing the inside of the wing of one of the aircraft while it was being assembled.<sup>11</sup> He has also said that Elon Musk's SpaceX delivered a project that Boeing had been contracted to do, but in less time and for half the cost.<sup>12</sup>
+Boeing anthropologist William Blair observed that the Blair Cuspids displayed a series of contextual, geometric relationships to one another.<sup>14</sup> According to *Dark Mission*, a Boeing study found that only about one-third of the population is able to mentally rotate two-dimensional images and perceive the three-dimensional geometric structures within them.<sup>15</sup>
 
-By spring 2006, all signs pointed to Northrop Grumman and Boeing winning the initial Crew Exploration Vehicle (CEV) contract.<sup>13</sup> Boeing's association with [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa)-related imagery predates this: the company commissioned a 1989 poster, the 1989 White House Mars Exploration Program poster (Boeing), depicting NASA astronauts ascending a cliff and encountering artificial ruins.<sup>14</sup> The commission came through President [George Herbert Walker Bush](/people/george-herbert-walker-bush)'s office via Boeing Aerospace, around 1985, while artist Paul Hudson was working for Boeing.<sup>15</sup> Hudson submitted rough concept drawings through Boeing, which were accepted, and he went on to complete the painting.<sup>16</sup>
+Boeing's conventional defence work also features in UAP-related testimony. Boeing was planning to redesign the pilot's display in the [F/A-18F Super Hornet](/objects/fa-18f-super-hornet).<sup>16</sup> After completing his first Super Hornet cruise, [David Fravor](/people/david-fravor) visited the Boeing factory in St Louis, Missouri, where his squadron's new Super Hornets were being built,<sup>17</sup> and signed the inside of a wing while one of the aircraft was being assembled.<sup>18</sup> Fravor has said he considers Northrop Grumman, [Lockheed Martin](/organisations/lockheed-martin), and Boeing to be the "big three" companies in the US defence industry,<sup>19</sup> and has also said he regards Elon Musk's SpaceX as having delivered a project Boeing had been contracted to do, in less time and for half the cost.<sup>20</sup>
 
-Mike Bara wrote to Hudson asking about the poster, noting that a version used by the Planetary Society had the artefacts removed because the organisation felt it was not appropriate.<sup>17</sup> Hudson said that Boeing was told not to give out the posters at any of the trade shows, and that no one knew what became of the original painting or the posters.<sup>18</sup> According to Dark Mission, in 1997 Dave Bara, the brother of one of the book's authors, was walking through a vacated Boeing office area in Renton, Washington, and spotted one of the posters.<sup>19</sup>
+[Luis Elizondo](/people/luis-elizondo)'s primary counterintelligence role was to protect sensitive, top-secret technology at major defence contractors, including TRW Inc., Raytheon, Boeing, and Lockheed, from foreign intelligence targeting.<sup>21</sup> Elizondo's own office, in a Pentagon-rented building in Arlington, Virginia, also housed departments of Boeing Aerospace, including Boeing Phantom Works,<sup>22</sup> the division charged with developing the company's future technology.<sup>23</sup> Elizondo has said senior officials named Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation as companies involved in the [Legacy Program](/projects/legacy-program), a programme to retrieve and reverse-engineer crash materials.<sup>24</sup>
 
-Two further Boeing employees appear in accounts concerning the Cydonia region of Mars. Ken Johnston was a Boeing engineer and a licensed pilot at the time he met Richard C. Hoagland.<sup>20</sup> William Blair, a Boeing anthropologist, observed that the Blair Cuspids had a series of contextual, geometric relationships to each other.<sup>21</sup> According to Dark Mission, a Boeing study found that only about one-third of the population can rotate two-dimensional images in their brains and perceive the three-dimensional geometric structures present in those images.<sup>22</sup>
+[Ryan Graves](/people/ryan-graves) has said that during the 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident, a large group of Boeing contractors near a launch facility observed an approximately 90-metre red square object approach the base from the ocean and hover at low altitude over one of the launch facilities.<sup>25</sup> He has said the information came from a witness and that he has no further detail on that person's relationship to the contractors involved.<sup>26</sup> Separately, Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star unmanned aircraft in the mid-to-late 1990s.<sup>27</sup>

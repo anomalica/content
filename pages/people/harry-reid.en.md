@@ -1,15 +1,12 @@
 ---
 title: Harry Reid
-description: Harry Reid was a United States Senator from Nevada and Senate Majority
-  Leader who secured congressional funding for government investigation of unidentified
-  aerial phenomena and pushed for special protection of the resulting programme.
+description: Harry Reid was a United States Senator for Nevada and Senate Majority
+  Leader who secured congressional funding for Pentagon investigations into UAP, including
+  the programme that became the Advanced Aerospace Threat Identification Program.
 metadata:
-  role: United States Senator for Nevada; Senate Majority Leader
-  party: Democrat
-  senate_tenure: 1987-2017
-  house_tenure: 1983-1987
+  role: US Senator for Nevada (1987-2017); Senate Majority Leader
   born: Searchlight, Nevada
-  died: '2021-12-28'
+  died: December 2021
 built_from:
   brief_hash: a7f97e249d54f9e167d186039d9dedbe95fae1bd016c8bf33a4cbaba5c4ec45a
   claims:
@@ -224,6 +221,14 @@ built_from:
   - id: 07340c35-9a54-492b-ab79-d52fd404edf3
     hash: dd28802eaa535d50fe183c1d8fedf8b8cb8b7a119fcaf4db2a247572cef2e1ec
 references:
+- text: Reid served as a Congressman in the US House of Representatives from 1983.
+  source: In Plain Sight
+  location: ch17:963-1018
+  quote: serving first as a Congressman in the Lower House from 1983
+  claim_id: e58611f3-714a-4058-8bb9-20d159c8a33a
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e58611f3-714a-4058-8bb9-20d159c8a33a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e58611f3-714a-4058-8bb9-20d159c8a33a
 - text: Reid served as a US Senator from 1987 to 2017.
   source: In Plain Sight
   location: ch17:1027-1058
@@ -232,14 +237,15 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7ffd06c-0c41-43f5-90d0-2fa0ef792444
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b7ffd06c-0c41-43f5-90d0-2fa0ef792444
-- text: Reid served in the US House of Representatives from 1983.
+- text: Reid rose to Senate Majority Leader over 30 years of Senate service.
   source: In Plain Sight
-  location: ch17:963-1018
-  quote: serving first as a Congressman in the Lower House from 1983
-  claim_id: e58611f3-714a-4058-8bb9-20d159c8a33a
+  location: ch17:1064-1206
+  quote: Over his 30 years of Senate service, he rose to become one of the most influential
+    senators in the Democratic Party, reaching Senate Majority Leader.
+  claim_id: fd389e05-0eff-484d-a225-3b38a558da1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e58611f3-714a-4058-8bb9-20d159c8a33a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e58611f3-714a-4058-8bb9-20d159c8a33a
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd389e05-0eff-484d-a225-3b38a558da1a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fd389e05-0eff-484d-a225-3b38a558da1a
 - text: Reid was born the son of a rock miner in Searchlight, Nevada.
   source: In Plain Sight
   location: ch17:833-955
@@ -249,7 +255,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98cb42d6-6e97-416b-87a0-8c7c2d5652c2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-98cb42d6-6e97-416b-87a0-8c7c2d5652c2
-- text: Reid worked as a US Capitol Police Officer while attending law school.
+- text: Reid worked as a US Capitol Police officer while putting himself through law
+    school.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18836-18948
   quote: Reid had grown up boxing and worked as a United States Capitol Police Officer
@@ -258,79 +265,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-964884c7-32e6-4406-ae16-71b28f377f38
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-964884c7-32e6-4406-ae16-71b28f377f38
-- text: Reid rose to become Senate Majority Leader over 30 years of Senate service.
-  source: In Plain Sight
-  location: ch17:1064-1206
-  quote: Over his 30 years of Senate service, he rose to become one of the most influential
-    senators in the Democratic Party, reaching Senate Majority Leader.
-  claim_id: fd389e05-0eff-484d-a225-3b38a558da1a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd389e05-0eff-484d-a225-3b38a558da1a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fd389e05-0eff-484d-a225-3b38a558da1a
-- text: Reid served two years on the Senate Select Committee on Intelligence.
-  source: In Plain Sight
-  location: ch17:1214-1343
-  quote: He also served for two years on one of the Senate's most powerful committees,
-    the Select Committee on Intelligence.
-  claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
-- text: Reid was for years a member of the Gang of Eight.
-  source: In Plain Sight
-  location: ch17:1357-1589
-  quote: Having served as both a Senate Minority and Majority leader, Reid was for
-    years one of the so-called 'Gang of Eight', entitled to be briefed into highly
-    classified intelligence matters including Waived Unacknowledged Special Access
-    Programs.
-  claim_id: 6e3af895-32c1-4931-89e5-e0d58167d670
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e3af895-32c1-4931-89e5-e0d58167d670
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e3af895-32c1-4931-89e5-e0d58167d670
-- text: Reid was senator for Nevada, the state housing Area 51.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:18956-19067
-  quote: He was also the senator of the state that housed Area 51, and that came with
-    insider knowledge that piqued his curiosity.
-  claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-51a26607-4e81-4844-ac34-1800c58ac7df
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-51a26607-4e81-4844-ac34-1800c58ac7df
-- text: Reid visited Area 51 during his Senate term.
-  source: In Plain Sight
-  location: ch17:1865-2092
-  quote: One of the secret sites he visited during his term was the Area 51 air force
-    base in his Nevada home state, the scene of so much conspiratorial speculation
-    about strange glowing craft and science-fiction-style future aerospace technology.
-  claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
-- text: Reid retired from Congress in 2017.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:3153-3225
-  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
-  claim_id: e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-- text: Reid has long admitted a strong interest in UAP.
-  source: In Plain Sight
-  location: ch17:1815-1859
-  quote: Reid has long admitted a strong interest in UAPs.
-  claim_id: 5bbb60b0-cb81-4a6e-b700-800ca733e7e6
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5bbb60b0-cb81-4a6e-b700-800ca733e7e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5bbb60b0-cb81-4a6e-b700-800ca733e7e6
-- text: Reid has long had an interest in space phenomena.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:1776-1814
-  quote: who has long had an interest in space phenomena
-  claim_id: 0fcaada1-c3d2-4056-9ddb-c6e716c545e0
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-0fcaada1-c3d2-4056-9ddb-c6e716c545e0
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-0fcaada1-c3d2-4056-9ddb-c6e716c545e0
-- text: Knapp first told Reid about crashed-saucer accounts in 1989.
+- text: The first person Knapp told about the crashed-saucer accounts was Reid, then
+    in his first Senate term, in 1989.
   source: Statement to Congress
   location: char:2661-2783
   quote: The first person I told about this - outside of our newsroom - was U.S. Senator
@@ -338,8 +274,8 @@ references:
   claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
-- text: Reid told Knapp he was interested in hearing more, beginning a decades-long
-    conversation.
+- text: Reid told Knapp he wanted to hear more, beginning a conversation that continued
+    three decades.
   source: Statement to Congress
   location: char:2791-2917
   quote: Reid said he was interested in hearing more, and that began a private, two-way
@@ -347,7 +283,8 @@ references:
   claim_id: df3f5a3a-491b-46ce-91a2-0475ae6e8d97
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-df3f5a3a-491b-46ce-91a2-0475ae6e8d97
-- text: Knapp kept Reid informed of UFO developments; Reid helped him obtain information.
+- text: Knapp kept Reid informed of UFO developments; Reid helped him obtain otherwise-inaccessible
+    information.
   source: Statement to Congress
   location: char:2926-3095
   quote: I kept Sen. Reid in the loop about UFO developments I was pursuing as a journalist,
@@ -356,7 +293,8 @@ references:
   claim_id: 763f1947-5052-4c7c-bddb-ef1dc573f7e2
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-763f1947-5052-4c7c-bddb-ef1dc573f7e2
-- text: Knapp introduced Reid to the National Institute for Discovery Science.
+- text: After NIDS began its investigations, Knapp told Reid about it and arranged
+    an introduction.
   source: Statement to Congress
   location: char:4341-4458
   quote: After NIDS began its own investigations and projects, I informed Senator
@@ -364,8 +302,8 @@ references:
   claim_id: 35e5bb1a-5a40-476e-8f53-60684432d7ad
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-35e5bb1a-5a40-476e-8f53-60684432d7ad
-- text: Reid attended an early NIDS board meeting and was impressed by its Science
-    Advisory Board.
+- text: Reid attended one of NIDS's first board meetings and was impressed by its
+    Science Advisory Board.
   source: Statement to Congress
   location: char:4472-4634
   quote: Reid attended one of the first board meetings of NIDS and was impressed by
@@ -374,8 +312,8 @@ references:
   claim_id: c152502c-a25f-47f0-bc70-71a878f55d0f
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-c152502c-a25f-47f0-bc70-71a878f55d0f
-- text: Russia's ongoing interest in UFOs was a topic of interest to Reid, Bigelow,
-    and NIDS.
+- text: Topics of interest to Reid, Bigelow and NIDS included Russia's ongoing interest
+    in UFOs.
   source: Statement to Congress
   location: char:4806-4905
   quote: One of the topics that was of interest to Reid, Bigelow, and NIDS was Russia's
@@ -383,7 +321,8 @@ references:
   claim_id: 091269bb-ce73-4706-ac1f-3a06a224d0d7
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-091269bb-ce73-4706-ac1f-3a06a224d0d7
-- text: Knapp's information from Russia made a lasting impression on Reid.
+- text: The Russia information made a lasting impression on Reid and became a factor
+    in a later secretive programme.
   source: Statement to Congress
   location: char:8132-8276
   quote: The information made lasting impression on Senator Reid and others and became
@@ -399,8 +338,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ce8eff2d-30cb-4e3f-910c-6759c01a83e1
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ce8eff2d-30cb-4e3f-910c-6759c01a83e1
-- text: Around 2008 Reid received a letter from a senior DIA scientist transformed
-    by events at Skinwalker Ranch.
+- text: Around 2008 Reid received a letter from a DIA scientist, likely James Lacatski,
+    transformed by events at Skinwalker Ranch.
   source: In Plain Sight
   location: ch17:113-470
   quote: In about 2008, one of the most powerful politicians in Washington DC, Democrat
@@ -412,7 +351,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
-- text: Bigelow sent Reid the letter from the DIA scientist.
+- text: Bigelow sent Reid the letter.
   source: In Plain Sight
   location: ch17:2105-2231
   quote: It was billionaire aerospace entrepreneur Robert Bigelow who sent Reid the
@@ -421,8 +360,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-498880d7-d2c2-4514-8143-828329e289dd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-498880d7-d2c2-4514-8143-828329e289dd
-- text: Reid said he visited Skinwalker Ranch and what the scientist saw convinced
-    him it was real.
+- text: Reid said he visited Skinwalker Ranch and the scientist's account convinced
+    him it was a real phenomenon.
   source: In Plain Sight
   location: ch17:2242-2446
   quote: Reid did not name the scientist, but he said he visited Bigelow's Skinwalker
@@ -432,28 +371,19 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
-- text: In 2007 Bigelow told Reid a DIA official had approached wanting to visit his
-    Utah ranch.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:7154-7354
-  quote: In 2007, Mr. Reid said in the interview, Mr. Bigelow told him that an official
-    with the Defense Intelligence Agency had approached him wanting to visit Mr. Bigelow’s
-    ranch in Utah, where he conducted research.
-  claim_id: a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
-- text: Reid met DIA officials shortly after and learned they wanted a UFO research
-    programme.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:7365-7517
-  quote: Mr. Reid said he met with agency officials shortly after his meeting with
-    Mr. Bigelow and learned that they wanted to start a research program on U.F.O.s.
-  claim_id: ffb017f9-6b4d-410b-b830-ba613d4b2533
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
-- text: Reid claims the scientist's account prompted him to seek congressional funding.
+- text: Reid said the scientist was rattled and told him it was time such phenomena
+    be investigated.
+  source: In Plain Sight
+  location: ch17:2881-3069
+  quote: Senator Reid also says the scientist was clearly very rattled by his purported
+    paranormal Skinwalker experience and that he told the Senator he felt it was time
+    such phenomena be properly investigated.
+  claim_id: 88acb1b5-b71e-4a70-8d04-383e69cf3e11
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88acb1b5-b71e-4a70-8d04-383e69cf3e11
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-88acb1b5-b71e-4a70-8d04-383e69cf3e11
+- text: Reid says the account prompted him to seek Congressional funding for a UAP
+    study.
   source: In Plain Sight
   location: ch17:3083-3167
   quote: Reid claims that this one incident prompted him to seek Congressional funding
@@ -462,17 +392,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
-- text: Reid claims the letter alone prompted a new secret multimillion-dollar investigation.
-  source: In Plain Sight
-  location: ch17:477-634
-  quote: As Reid somewhat implausibly tells it, that letter alone prompted a new secret
-    multimillion-dollar investigation by the US military into Unidentified Aerial
-    Phenomena.
-  claim_id: 801843ea-b6cb-49ff-959a-e3060efc3938
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-801843ea-b6cb-49ff-959a-e3060efc3938
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-801843ea-b6cb-49ff-959a-e3060efc3938
-- text: Coulthart suspects Reid was being deliberately vague.
+- text: Coulthart suspects Reid knew far more from the classified world than the one
+    letter suggested.
   source: In Plain Sight
   location: ch17:3175-3395
   quote: I suspect Harry Reid was being deliberately vague and that he knew a lot
@@ -482,16 +403,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4abb22cb-2e15-41f2-94f8-08d13d2b6c34
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4abb22cb-2e15-41f2-94f8-08d13d2b6c34
-- text: Reid summoned Ted Stevens and Daniel Inouye to a secure Capitol room.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:7520-7594
-  quote: Mr. Reid then summoned Mr. Stevens and Mr. Inouye to a secure room in the
-    Capitol.
-  claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
-- text: Reid said John Glenn told him the government should look seriously into UFOs.
+- text: Reid said John Glenn had told him the government should be looking seriously
+    into UFOs.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:7605-7866
   quote: “I had talked to John Glenn a number of years before,” Mr. Reid said, referring
@@ -502,8 +415,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
-- text: Glenn told Reid the government should talk to pilots reporting unidentified
-    aircraft.
+- text: Glenn also told Reid the military should be talking to pilots who had reported
+    unidentified aircraft.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:7869-8001
   quote: and should be talking to military service members, particularly pilots, who
@@ -512,46 +425,27 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a93673f9-3f0c-435c-84e0-66d263ff878f
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a93673f9-3f0c-435c-84e0-66d263ff878f
-- text: Reid said sightings weren't reported up the chain of command for fear of stigma.
+- text: Reid approached Senators Inouye and Stevens to secure funding for a UAP study.
+  source: In Plain Sight
+  location: ch17:3449-3607
+  quote: The Senator approached his colleagues, Democrat Senator Daniel Inouye and
+    Republican Senator Ted Stevens, to get $22 million funding for a study into the
+    UAP mystery.
+  claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+- text: Reid summoned Stevens and Inouye to a secure room in the Capitol.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:8011-8164
-  quote: The sightings were not often reported up the military’s chain of command,
-    Mr. Reid said, because service members were afraid they would be laughed at or
-    stigmatized.
-  claim_id: 5dec1d88-82e6-490d-8730-fa492dfc3df5
+  location: char:7520-7594
+  quote: Mr. Reid then summoned Mr. Stevens and Mr. Inouye to a secure room in the
+    Capitol.
+  claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5dec1d88-82e6-490d-8730-fa492dfc3df5
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5dec1d88-82e6-490d-8730-fa492dfc3df5
-- text: Reid said the meeting with Stevens and Inouye was one of the easiest he ever
-    had.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:8178-8278
-  quote: The meeting with Mr. Stevens and Mr. Inouye, Mr. Reid said, “was one of the
-    easiest meetings I ever had.”
-  claim_id: 7b9e3b16-62b1-4d9d-88de-0076232201d8
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-7b9e3b16-62b1-4d9d-88de-0076232201d8
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-7b9e3b16-62b1-4d9d-88de-0076232201d8
-- text: Stevens said 'I've been waiting to do this since I was in the Air Force.'
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:8285-8367
-  quote: He added, “Ted Stevens said, ‘I’ve been waiting to do this since I was in
-    the Air Force.’”
-  claim_id: e3feea59-ab21-4200-b82b-f32396162341
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e3feea59-ab21-4200-b82b-f32396162341
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e3feea59-ab21-4200-b82b-f32396162341
-- text: Reid said Stevens recounted being tailed for miles by a strange aircraft.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:8498-8653
-  quote: During the meeting, Mr. Reid said, Mr. Stevens recounted being tailed by
-    a strange aircraft with no known origin, which he said had followed his plane
-    for miles.
-  claim_id: b040446a-65b7-41a8-8ddc-b570520d014a
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b040446a-65b7-41a8-8ddc-b570520d014a
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b040446a-65b7-41a8-8ddc-b570520d014a
-- text: Stevens told Reid he saw a UAP during a wartime flight.
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
+- text: Stevens told Reid he had seen a UAP during a wartime flight and said they
+    needed to look into it.
   source: In Plain Sight
   location: ch17:4971-5133
   quote: '''Whatever you want, you get it from me,'' Stevens told Senator Reid. He
@@ -571,7 +465,17 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
-- text: 'Reid: ''This was so-called black money...'''
+- text: Reid, Stevens and Inouye together controlled congressional spending for black-budget
+    Pentagon programmes.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch9:19229-19315
+  quote: Together, these three men controlled congressional spending for black-budget
+    Pentagon programs.
+  claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
+- text: 'Reid: ''This was so-called black money... that''s how we wanted it.'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:8782-8980
   quote: “This was so-called black money,” he said. “Stevens knows about it, Inouye
@@ -581,8 +485,20 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-- text: Defense Appropriations Acts FY2008/2010 appropriated $22 million for DIA at
-    Reid's direction.
+- text: Reid was a member of the 'Gang of Eight', briefed on Waived Unacknowledged
+    Special Access Programs.
+  source: In Plain Sight
+  location: ch17:1357-1589
+  quote: Having served as both a Senate Minority and Majority leader, Reid was for
+    years one of the so-called 'Gang of Eight', entitled to be briefed into highly
+    classified intelligence matters including Waived Unacknowledged Special Access
+    Programs.
+  claim_id: 6e3af895-32c1-4931-89e5-e0d58167d670
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e3af895-32c1-4931-89e5-e0d58167d670
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e3af895-32c1-4931-89e5-e0d58167d670
+- text: At Reid's direction, the FY2008 and FY2010 Defense Appropriations Acts gave
+    the DIA 22 million US dollars to assess advanced aerospace threats.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:58973-59224
@@ -594,7 +510,8 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
-- text: Reid guaranteed black-budget funding for AAWSAP, arriving July 2008.
+- text: The Bigelow team's investigations began before DIA funding arrived in July
+    2008, when Reid guaranteed the funding for what became AAWSAP.
   source: In Plain Sight
   location: ch17:7865-8337
   quote: Their UAP investigations began even before the Defense Intelligence Agency
@@ -607,36 +524,16 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0edc79-a794-4335-90b2-d450ae1d7516
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b0edc79-a794-4335-90b2-d450ae1d7516
-- text: AAWSAP was supported by DIA Director Maples and funded through Reid, Stevens
-    and Inouye.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:17304-17583
-  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
-    then director, Lieutenant General Michael D. Maples, and was funded through the
-    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
-    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
-  claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-- text: Reid, Stevens and Inouye together controlled black-budget congressional spending.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:19229-19315
-  quote: Together, these three men controlled congressional spending for black-budget
-    Pentagon programs.
-  claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
-- text: Reid's AAWSAP funding from Congress ran out in 2012.
+- text: Stevens died in a plane crash two years after backing the funding.
   source: In Plain Sight
-  location: ch21:12644-12711
-  quote: While Senator Harry Reid's AAWSAP funding from Congress ran out in 2012
-  claim_id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
+  location: ch17:4796-4901
+  quote: Reid's other backer, Senator Ted Stevens, who died in a plane crash only
+    two years later, also needed no convincing
+  claim_id: c5d330e1-1da9-49c9-a185-516ebdb88176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
-- text: Elizondo led AATIP inside AAWSAP, set up at Reid's urging.
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
+- text: Inside AAWSAP, Elizondo led AATIP, set up at Reid's urging to study UAP.
   source: In Plain Sight
   location: ch21:12280-12444
   quote: Inside that program, he led the Advance Aerospace Threat Identification Program
@@ -646,35 +543,15 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
-- text: Most of the AATIP money went to Bigelow's company, a longtime friend of Reid.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:1825-2120
-  quote: Most of the money went to an aerospace research company run by a billionaire
-    entrepreneur and longtime friend of Mr. Reid’s, Robert Bigelow, who is currently
-    working with NASA to produce expandable craft for humans to use in space.
-  claim_id: 13146c89-f9d8-4175-8bc7-3f8c990e9f9c
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-13146c89-f9d8-4175-8bc7-3f8c990e9f9c
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-13146c89-f9d8-4175-8bc7-3f8c990e9f9c
-- text: Jay Stratton secured $10 million in new AATIP funding from Reid.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch16:23014-23130
-  quote: Jay ran point on pulling off miracle after miracle and succeeded in getting
-    Senator Reid to give us new funding—$10 million!
-  claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
-- text: The $22 million secured by Reid did not fund AATIP but a separate DIA-managed
-    effort.
-  source: Statement to Congress
-  location: char:9602-9740
-  quote: The $22 million secured by Reid did not fund AATIP. Rather, it went into
-    an entirely different effort managed by the Defense Intelligence Agency.
-  claim_id: 6803435a-e722-408c-8927-aec17b1adc11
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-6803435a-e722-408c-8927-aec17b1adc11
-- text: By 2009 Reid argued for heightened security given AATIP's discoveries.
+- text: AAWSAP's congressional funding ran out in 2012.
+  source: In Plain Sight
+  location: ch21:12644-12711
+  quote: While Senator Harry Reid's AAWSAP funding from Congress ran out in 2012
+  claim_id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
+- text: By 2009 Reid decided AATIP's discoveries warranted heightened security.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:11226-11359
   quote: By 2009, Mr. Reid decided that the program had made such extraordinary discoveries
@@ -683,7 +560,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-79187ba0-57bb-476e-9f64-809330532790
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-79187ba0-57bb-476e-9f64-809330532790
-- text: On 2009-06-24 Reid sent a letter to William Lynn III requesting SAP status.
+- text: On 2009-06-24 Reid sent a letter to William Lynn III requesting AAWSAP/AATIP
+    be made a DoD Special Access Program.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:61905-62060
@@ -693,7 +571,20 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d09a9f0a-7fa6-4a08-bc55-006212fcaca8
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d09a9f0a-7fa6-4a08-bc55-006212fcaca8
-- text: Reid's letter to Lynn III described progress made and requested SAP status.
+- text: The 2009 memo outlined Reid's request and reasoning for SAP status, addressed
+    to William Lynn III.
+  source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: char:2546-2725
+  quote: The memo outlined Senator Reid’s request and reasoning to get the AATIP a
+    “Special Access Program” or SAP status, and was written to the Deputy Secretary
+    of Defense, William Lynn III.
+  claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
+  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+- text: Reid wrote that substantial progress had been made and requested a restricted
+    special access programme.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:11364-11671
   quote: “Much progress has been made with the identification of several highly sensitive,
@@ -704,7 +595,16 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-031cf298-4ac8-4b8f-b903-7200eb54a203
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-031cf298-4ac8-4b8f-b903-7200eb54a203
-- text: DoD received the memo and responded to Reid.
+- text: Reid's 2009 request for special designation was denied.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:11947-11998
+  quote: Mr. Reid’s request for the special designation was denied.
+  claim_id: c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
+- text: The Department of Defense received Reid's memo and responded to him, Gough
+    said.
   source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: char:3589-3644
@@ -713,7 +613,8 @@ references:
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-63804801-eb60-4ab6-a5b1-78c3ca89a6df
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-63804801-eb60-4ab6-a5b1-78c3ca89a6df
-- text: Gough's office couldn't provide a full copy of the DoD response.
+- text: Gough's office could not provide a full copy of the response, since Public
+    Affairs does not release Congressional correspondence.
   source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
   location: char:3650-3813
@@ -724,34 +625,46 @@ references:
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-0382a0ad-52b0-4b0e-b07a-6e7f2133345f
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-0382a0ad-52b0-4b0e-b07a-6e7f2133345f
-- text: Reid's SAP request was denied.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:11947-11998
-  quote: Mr. Reid’s request for the special designation was denied.
-  claim_id: c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
-- text: Reid said he didn't know where the objects came from.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:13173-13342
-  quote: For his part, Mr. Reid said he did not know where the objects had come from.
-    “If anyone says they have the answers now, they’re fooling themselves,” he said.
-    “We do not know.”
-  claim_id: 3be568a8-f9b8-4015-80b5-b33f3b7e1853
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-3be568a8-f9b8-4015-80b5-b33f3b7e1853
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-3be568a8-f9b8-4015-80b5-b33f3b7e1853
-- text: 'Reid: ''we have to start someplace.'''
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
-  location: char:13350-13382
-  quote: But, he said, “we have to start someplace.”
-  claim_id: 34cc40ec-b90c-4703-86ae-609d9c0af3c1
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-34cc40ec-b90c-4703-86ae-609d9c0af3c1
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-34cc40ec-b90c-4703-86ae-609d9c0af3c1
-- text: Reid told The New Yorker he'd been told for decades Lockheed had retrieved
-    materials.
+- text: Reid was senator of Nevada, the state that housed Area 51.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch9:18956-19067
+  quote: He was also the senator of the state that housed Area 51, and that came with
+    insider knowledge that piqued his curiosity.
+  claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-51a26607-4e81-4844-ac34-1800c58ac7df
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-51a26607-4e81-4844-ac34-1800c58ac7df
+- text: Reid visited the Area 51 air force base during his Senate term.
+  source: In Plain Sight
+  location: ch17:1865-2092
+  quote: One of the secret sites he visited during his term was the Area 51 air force
+    base in his Nevada home state, the scene of so much conspiratorial speculation
+    about strange glowing craft and science-fiction-style future aerospace technology.
+  claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
+- text: Reid provided the Unofficial Official Report on the Nimitz Tic Tac incident
+    to Knapp, making it public.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:46:02.6-01:46:05.2
+  quote: The report is now out because Harry Reid got it to George Knapp.
+  claim_id: 7b8ddb92-e579-4426-9e3a-2fe1baf90104
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-7b8ddb92-e579-4426-9e3a-2fe1baf90104
+- text: Knapp knew the identities of those involved because he obtained the report
+    from Reid.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 01:46:37.8-01:46:41.4
+  quote: But George knew who the names were because he got the report from Senator
+    Reid.
+  claim_id: 6f4fddfd-9b85-4086-8db2-e293f51726f6
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-6f4fddfd-9b85-4086-8db2-e293f51726f6
+- text: In a May 2021 New Yorker interview, Reid said he was told for decades Lockheed
+    held retrieved materials from recovered craft.
   source: In Plain Sight
   location: ch17:21235-21315
   quote: ‘I was told for decades that Lockheed had some of these retrieved materials,’
@@ -760,7 +673,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d246b639-801b-4df4-b208-2812d253ed09
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d246b639-801b-4df4-b208-2812d253ed09
-- text: Reid tried to get Pentagon approval to view the materials; refused.
+- text: Reid said he tried to get classified Pentagon approval to view the alleged
+    materials, but was refused.
   source: In Plain Sight
   location: ch17:21322-21590
   quote: ‘And I tried to get, as I recall, a classified approval by the Pentagon to
@@ -771,7 +685,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-924efd42-76c9-41f6-a16b-38beee31fea5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-924efd42-76c9-41f6-a16b-38beee31fea5
-- text: Pentagon gave no explanation for its refusal.
+- text: The Pentagon gave Reid no explanation for its refusal.
   source: In Plain Sight
   location: ch17:21595-21674
   quote: Reid told The New Yorker the Pentagon provided him with no explanation for
@@ -780,7 +694,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e55e47f8-d59b-48d6-b02a-cf41d86248db
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e55e47f8-d59b-48d6-b02a-cf41d86248db
-- text: Reid confirmed the refusal was why he sought SAP status for AATIP.
+- text: Reid confirmed the refusal was why he had requested SAP status for AATIP.
   source: In Plain Sight
   location: ch17:21686-21863
   quote: he confirmed that was why he’d requested Special Access Program status for
@@ -790,40 +704,51 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
-- text: Reid gave the Unofficial Official Nimitz report to Knapp.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:46:02.6-01:46:05.2
-  quote: The report is now out because Harry Reid got it to George Knapp.
-  claim_id: 7b8ddb92-e579-4426-9e3a-2fe1baf90104
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-7b8ddb92-e579-4426-9e3a-2fe1baf90104
-- text: Knapp learned identities via the report Reid supplied.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 01:46:37.8-01:46:41.4
-  quote: But George knew who the names were because he got the report from Senator
-    Reid.
-  claim_id: 6f4fddfd-9b85-4086-8db2-e293f51726f6
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-6f4fddfd-9b85-4086-8db2-e293f51726f6
-- text: Reid counted Bigelow among his friends.
+- text: Reid said he concluded there were reports the government and private sector
+    had actual physical materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch10:1521-1562
-  quote: Senator Harry Reid counted Bob among his friends
-  claim_id: 48ab67bf-2318-4db8-b4f3-6a8adcd0b356
+  location: ch35:5688-5852
+  quote: “After looking into this, I came to the conclusion that there were reports…
+    that there were actual materials that the government and the private sector had
+    in their possession.” —Senator Harry Reid
+  claim_id: 49f2e5e1-fe42-4296-90f2-ca27732a412b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48ab67bf-2318-4db8-b4f3-6a8adcd0b356
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48ab67bf-2318-4db8-b4f3-6a8adcd0b356
-- text: Reid was a longtime benefactor of Elizondo and Mellon's UAP advocacy.
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49f2e5e1-fe42-4296-90f2-ca27732a412b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-49f2e5e1-fe42-4296-90f2-ca27732a412b
+- text: Reid said he considered it extremely important that such information come
+    out.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:508-555
-  quote: such as our longtime benefactor, Senator Harry Reid
-  claim_id: 22331738-385b-4a4e-be29-8f9176b22e91
+  location: ch35:5864-5973
+  quote: It is extremely important that information about the discovery of physical
+    materials or retrieved craft come out.
+  claim_id: 95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22331738-385b-4a4e-be29-8f9176b22e91
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22331738-385b-4a4e-be29-8f9176b22e91
-- text: Reid wrote a letter countering DoD claims Elizondo had no part in AATIP.
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
+- text: Reid publicly corroborated his role in funding the original programme and
+    Elizondo's leadership of it.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:19979-20144
+  quote: retired senator Harry Reid, who had unabashedly corroborated his and his
+    colleagues' involvement in funding the original program that led to AATIP and
+    my leadership role.
+  claim_id: b6c1a883-c5d2-49ff-9b4d-153686de89b7
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b6c1a883-c5d2-49ff-9b4d-153686de89b7
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b6c1a883-c5d2-49ff-9b4d-153686de89b7
+- text: Elizondo said Reid remained his ally and champion, defending him after his
+    resignation.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:31976-32171
+  quote: Former senator Harry Reid—who was our ally and champion at AATIP, who stood
+    up for me in the painful months after my resignation when DoD was trying to erase
+    and smear me
+  claim_id: 7edd6cb2-7407-44f9-a006-4b743fc53086
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7edd6cb2-7407-44f9-a006-4b743fc53086
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7edd6cb2-7407-44f9-a006-4b743fc53086
+- text: Reid wrote a letter countering the DoD's later claim that Elizondo had no
+    part in AATIP.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:2746-2908
   quote: Official letter from former Senate Majority Leader and AATIP sponsor Harry
@@ -833,8 +758,34 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
-- text: Reid was in the final days of a three-year cancer battle while supporting
-    UAP legislation.
+- text: Reid was a longtime benefactor of Elizondo and Mellon's UAP advocacy.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:508-555
+  quote: such as our longtime benefactor, Senator Harry Reid
+  claim_id: 22331738-385b-4a4e-be29-8f9176b22e91
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22331738-385b-4a4e-be29-8f9176b22e91
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22331738-385b-4a4e-be29-8f9176b22e91
+- text: Reid retired from the United States Congress in 2017.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:3153-3225
+  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
+  claim_id: e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+- text: Reid said he was proud of AATIP, one of the good things he did in his service.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
+  location: char:3235-3460
+  quote: “I’m not embarrassed or ashamed or sorry I got this thing going,” Mr. Reid
+    said in a recent interview in Nevada. “I think it’s one of the good things I did
+    in my congressional service. I’ve done something that no one has done before.”
+  claim_id: aa076d87-1836-4ddb-9927-8bbfcddebe95
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-aa076d87-1836-4ddb-9927-8bbfcddebe95
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-aa076d87-1836-4ddb-9927-8bbfcddebe95
+- text: Reid was in the final days of a three-year battle with pancreatic cancer while
+    still supporting the UAP legislative effort.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:32392-32456
   quote: he was in the final days of a three-year battle with pancreatic cancer
@@ -842,7 +793,18 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6723f6c6-3f36-4ada-872c-c5dc5610b23e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6723f6c6-3f36-4ada-872c-c5dc5610b23e
-- text: Reid died the day after Biden signed UAP legislation into law, on 2021-12-28.
+- text: Elizondo said Reid told him he would keep fighting until Biden signed the
+    UAP legislation into law.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:32656-32731
+  quote: Senator Reid said he would keep fighting his cancer until Biden signed the
+    act.
+  claim_id: 03210439-c771-4c25-93c1-1e884b20ae4b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-03210439-c771-4c25-93c1-1e884b20ae4b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-03210439-c771-4c25-93c1-1e884b20ae4b
+- text: Reid died peacefully in his sleep the day after Biden signed the legislation,
+    in December 2021.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:33049-33110
   quote: A day later, my old friend Harry Reid died peacefully in his sleep.
@@ -850,41 +812,31 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c
-- text: Schumer called Reid his mentor, honoured to carry on his legacy.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:5954-6124
-  quote: I am honored to carry on the legacy of my mentor and dear friend, Harry Reid,
-    and fight for the transparency that the public has long demanded surround these
-    unexplained phenomena.
-  claim_id: 1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: b1623169a442f0aeab77c760fd9b23e7a5bff7bb0c5cd6bb099ba520f4ed41cc
+  prompt_sha256: bf7fb7e895e692bf6632c0fa5863e8e69534ad1f5fa13c4a52fc4b38d796d395
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 545447
-    output: 153569
-    real_input: 10
-    cache_read: 283938
-    cache_write: 261499
+    input: 84019
+    output: 50410
+    real_input: 2
+    cache_read: 39417
+    cache_write: 44600
     calls: 0
-  body_sha256: 06ccbf5feb00f60a5c61259651b360b231a9c3e799558d04a21c995c1e17b685
+  body_sha256: e789442508555a0d4ad2f3809c85ce7078e4c22ce936c79d5ad6ee8ca997b638
 ---
 
-Harry Reid was a United States Senator from Nevada, serving in the [United States Senate](/organisations/united-states-senate) from 1987 to 2017<sup>1</sup>, having previously served in the [United States Congress](/organisations/united-states-congress)' House of Representatives from 1983<sup>2</sup>. He was born the son of a rock miner in Searchlight, Nevada<sup>3</sup>, and worked as a United States Capitol Police Officer while putting himself through law school<sup>4</sup>. Over three decades in the Senate he rose to become Senate Majority Leader<sup>5</sup>, served two years on the Senate Select Committee on Intelligence<sup>6</sup>, and was for years a member of the so-called Gang of Eight, entitled to be briefed on highly classified intelligence matters<sup>7</sup>. As senator for Nevada, the state that housed [Area 51](/places/nevada-area-51-usa)<sup>8</sup>, he visited the base during his Senate term<sup>9</sup>. Reid retired from Congress in 2017<sup>10</sup>.
+Harry Reid was an American politician who represented Nevada in the [United States Congress](/organisations/united-states-congress), serving in the US House of Representatives from 1983<sup>1</sup> and the [United States Senate](/organisations/united-states-senate) from 1987 to 2017,<sup>2</sup> rising to Senate Majority Leader over his three decades there.<sup>3</sup> Born the son of a rock miner in Searchlight, Nevada,<sup>4</sup> he worked as a United States Capitol Police officer while putting himself through law school.<sup>5</sup> The first person [George Knapp](/people/george-knapp) told about accounts of a crashed saucer outside his newsroom was Reid, then in his first Senate term, in 1989.<sup>6</sup> Knapp said Reid told him he wanted to hear more, beginning a private conversation between the two that continued for the next three decades.<sup>7</sup> Knapp kept Reid informed of [UFO](/topics/unidentified-flying-object-ufo) developments he was pursuing as a journalist, and Reid helped him obtain information otherwise inaccessible.<sup>8</sup> After the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science) began its own investigations, Knapp told Reid about the organisation and arranged an introduction.<sup>9</sup> Knapp said Reid attended one of its first board meetings and was impressed by the professionalism of its Science Advisory Board.<sup>10</sup> Topics of interest to Reid, [Robert Bigelow](/people/robert-bigelow), and the Institute included Russia's ongoing interest in UFOs;<sup>11</sup> Knapp said this information made a lasting impression on Reid and became a key factor in a secretive programme launched a few years later.<sup>12</sup> Reid said his interest in UFOs came from Bigelow.<sup>13</sup>
 
-Reid had long admitted a strong interest in [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap)<sup>11</sup> and in space phenomena generally<sup>12</sup>. Journalist [George Knapp](/people/george-knapp) was the first person to tell Reid, then in his first Senate term, about crashed-saucer accounts, in 1989<sup>13</sup>. According to Knapp, Reid said he was interested in hearing more, beginning a private conversation between the two that continued for the next three decades<sup>14</sup>. Knapp kept Reid informed of [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) developments he was pursuing as a journalist, and Reid helped him obtain information otherwise inaccessible<sup>15</sup>. After the [National Institute for Discovery Science](/organisations/national-institute-for-discovery-science) began its own investigations, Knapp introduced Reid to the organisation<sup>16</sup>; according to Knapp, Reid attended one of its first board meetings and was impressed by the professionalism of its Science Advisory Board<sup>17</sup>. Among the topics of interest to Reid, [Robert Bigelow](/people/robert-bigelow), and the Institute was Russia's ongoing interest in UFOs<sup>18</sup>, and according to Knapp, information he gathered from Russia made a lasting impression on Reid and became a key factor in a secretive programme launched a few years later<sup>19</sup>. Reid later said his own interest in UFOs had come from Bigelow<sup>20</sup>.
+Around 2008, Reid received a letter from a senior [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) scientist - according to the book *In Plain Sight*, likely the physicist James Lacatski, though he was never publicly named - whose world view had reportedly been transformed by events he witnessed at Skinwalker Ranch.<sup>14</sup> Bigelow sent Reid the letter.<sup>15</sup> Reid did not name the scientist but said he had visited Bigelow's Skinwalker Ranch, presumably around 2007-2008, and that what the scientist saw there convinced him it was a real phenomenon needing investigation.<sup>16</sup> Reid said the scientist was clearly rattled by the experience and told him it was time such phenomena be properly investigated,<sup>17</sup> and Reid has said the account prompted him to seek Congressional funding for a study into [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>18</sup> Journalist [Ross Coulthart](/people/ross-coulthart) has said he suspects Reid already knew far more from the classified intelligence world than the single scientist's letter suggested.<sup>19</sup>
 
-Around 2008, according to the book *In Plain Sight*, Reid received a letter from a senior [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) scientist - likely a physicist named James Lacatski, though never publicly named - whose worldview had been transformed by events he witnessed at Skinwalker Ranch<sup>21</sup>; Bigelow sent Reid the letter<sup>22</sup>. Reid did not name the scientist but said he had visited Bigelow's Skinwalker Ranch, presumably around 2007-2008, and that what the scientist saw there convinced him it was a real phenomenon needing investigation<sup>23</sup>. Reid separately said that in 2007 Bigelow told him a DIA official had approached wanting to visit Bigelow's ranch in Utah<sup>24</sup>, and that he met DIA officials shortly afterwards and learned they wanted to start a research programme on UFOs<sup>25</sup>. Reid claimed the scientist's account prompted him to seek congressional funding for a study into UAP<sup>26</sup>, and that the letter alone prompted a new secret, multimillion-dollar military investigation into UAP<sup>27</sup>. Journalist [Ross Coulthart](/people/ross-coulthart) has suggested Reid was being deliberately vague, and knew more from the classified intelligence world than the single letter implied<sup>28</sup>.
+Reid recalled that he had spoken with [John Glenn](/people/john-glenn), the astronaut and former senator from Ohio, some years earlier, who he said had told him the federal government should be looking seriously into UFOs.<sup>20</sup> Glenn had also told him, Reid said, that the military should be talking to pilots who had reported aircraft they could not identify.<sup>21</sup> Reid approached Senators [Daniel K. Inouye](/people/daniel-k-inouye) and [Ted Stevens](/people/ted-stevens) to secure funding for a study into the UAP mystery.<sup>22</sup> Reid said he summoned the two men to a secure room in the Capitol,<sup>23</sup> where Stevens recounted that he had seen a UAP during a wartime flight and said they needed to look into it.<sup>24</sup> None of the three wanted a public debate on the Senate floor about the funding.<sup>25</sup> Reid, Stevens and Inouye together controlled congressional spending for black-budget Pentagon programmes,<sup>26</sup> and Reid recalled: "This was so-called black money. Stevens knows about it, Inouye knows about it. But that was it, and that's how we wanted it."<sup>27</sup> Reid was for years a member of the so-called "Gang of Eight", entitled to briefings on highly classified intelligence matters including Waived Unacknowledged [Special Access Programs (WUSAPs)](/topics/special-access-program-sap).<sup>28</sup> At Reid's direction, then Senate Majority Leader, the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated 22 million US dollars for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.<sup>29</sup> The Bigelow team's UAP investigations had begun before that funding arrived in July 2008, when Reid guaranteed black-budget funding for the programme that became the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap).<sup>30</sup> Stevens died in a plane crash two years after backing the funding.<sup>31</sup>
 
-To pursue funding, Reid summoned Senators [Ted Stevens](/people/ted-stevens) and [Daniel K. Inouye](/people/daniel-k-inouye) to a secure room in the Capitol<sup>29</sup>. Reid recounted that he had spoken some years earlier with [John Glenn](/people/john-glenn), the astronaut and former senator from Ohio, and that Glenn had told him the federal government should be looking seriously into UFOs<sup>30</sup> and should be talking to military pilots who had reported aircraft they could not identify<sup>31</sup>; Reid said such sightings were not often reported up the chain of command because service members feared being laughed at or stigmatised<sup>32</sup>. He described the meeting with Stevens and Inouye as one of the easiest he ever had<sup>33</sup>: Reid recalled Stevens saying, "I've been waiting to do this since I was in the Air Force,"<sup>34</sup> and recounted Stevens describing having been tailed for miles by a strange aircraft of no known origin<sup>35</sup>. Stevens separately told Reid he had seen a UAP during a wartime flight and that they needed to look into it<sup>36</sup>. None of the three wanted a public debate on the Senate floor about the funding<sup>37</sup>; Reid later said, "This was so-called black money. Stevens knows about it, Inouye knows about it. But that was it, and that's how we wanted it," referring to the Pentagon budget for classified programmes<sup>38</sup>. At Reid's direction, the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated 22 million US dollars for the Defense Intelligence Agency to assess long-term and over-the-horizon foreign advanced aerospace threats<sup>39</sup>. The Bigelow team's investigations began before this Defense Intelligence Agency funding arrived, in July 2008, when Reid guaranteed black-budget funding for the resulting programme, the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap)<sup>40</sup>. AAWSAP was supported by then-Director of the Defense Intelligence Agency Lieutenant General Michael D. Maples, and funded through the efforts of Reid, Stevens (Republican, Alaska), and Inouye (Democrat, Hawaii)<sup>41</sup>; the three together controlled congressional spending for black-budget Pentagon programmes<sup>42</sup>. Reid's AAWSAP funding from Congress ran out in 2012<sup>43</sup>. Inside AAWSAP, [Luis Elizondo](/people/luis-elizondo) led the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), the secretive Pentagon unit set up at Reid's urging to study UAP<sup>44</sup>. Most of the money for AATIP went to an aerospace research company run by Bigelow, described as a longtime friend of Reid<sup>45</sup>; Jay Stratton later secured 10 million US dollars in further AATIP funding from Reid<sup>46</sup>. The 22 million US dollars Reid originally secured did not itself fund AATIP, however, but went to a separate Defense Intelligence Agency-managed effort that preceded it<sup>47</sup>.
+Inside AAWSAP, [Luis Elizondo](/people/luis-elizondo) went on to lead the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), the secretive Pentagon unit set up at Reid's urging to study UAP.<sup>32</sup> Congressional funding for AAWSAP ran out in 2012.<sup>33</sup> By 2009 Reid had concluded that the programme's work had produced findings extraordinary enough to warrant heightened security,<sup>34</sup> and, according to a subsequent US government historical-record report, on 2009-06-24 he sent a letter to Deputy Secretary of Defense [William Lynn III](/people/william-lynn-iii) requesting that AAWSAP/AATIP be made a [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) Special Access Program.<sup>35</sup> According to The Black Vault, the resulting memo outlined Reid's request and reasoning for SAP designation.<sup>36</sup> Reid wrote that substantial progress had been made identifying several highly sensitive, unconventional aerospace-related findings, and requested a restricted special access programme limited to a few listed officials;<sup>37</sup> the request was denied.<sup>38</sup> The Department of Defense received Reid's memo and responded to him, spokesperson Susan Gough later said,<sup>39</sup> though her office told The Black Vault it could not provide a full copy of that response, since the Department's Public Affairs office does not release Congressional correspondence.<sup>40</sup>
 
-By 2009 Reid had concluded that the programme's findings were extraordinary enough to warrant heightened security<sup>48</sup>. According to a subsequent Pentagon historical review, on 2009-06-24 Reid sent the 2009 Harry Reid letter requesting Special Access Program status for AATIP to Deputy Secretary of Defense William Lynn III, requesting that AAWSAP/AATIP be made a [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) [Special Access Program (SAP)](/topics/special-access-program-sap) - an episode recorded as the 2009 Harry Reid Special Access Program request for AATIP<sup>49</sup>. In the Harry Reid memo to William Lynn III on AATIP Special Access Program status (2009-07-24), Reid wrote that much progress had been made identifying several highly sensitive, unconventional aerospace-related findings, and asked that the programme be designated a restricted special access programme limited to a few listed officials<sup>50</sup>. According to Pentagon spokesperson Susan Gough, the Department of Defense received the memo and responded to Reid<sup>51</sup>, though her office could not provide a full copy of that response, since the Public Affairs office does not release Congressional correspondence<sup>52</sup>. The request was denied<sup>53</sup>. Reid said he did not know where the objects studied by the programme had come from, and that anyone claiming to have the answers was fooling themselves<sup>54</sup>; regarding continued investigation of the phenomena studied by AATIP, he said, "we have to start someplace."<sup>55</sup>
+As the senator representing Nevada, home to [Area 51](/places/nevada-area-51-usa),<sup>41</sup> Reid visited the base during his Senate term.<sup>42</sup> He provided the so-called Unofficial Official Report on the Nimitz Tic Tac incident to Knapp, making it public;<sup>43</sup> Knapp knew the identities of those involved because he had obtained the report from Reid.<sup>44</sup> In a May 2021 interview with Gideon Lewis-Kraus of The New Yorker, Reid said he had been told for decades that Lockheed held retrieved materials from recovered craft.<sup>45</sup> Reid said he tried to obtain classified approval from the Pentagon to view the alleged materials, but the Pentagon would not approve it,<sup>46</sup> giving him no explanation for the refusal;<sup>47</sup> he confirmed that this refusal was what had prompted his 2009 request for SAP status for AATIP.<sup>48</sup> Reid said he had concluded that there were reports the government and private sector had actual physical materials in their possession,<sup>49</sup> and he said he considered it extremely important that information about the discovery of such materials come out.<sup>50</sup>
 
-In May 2021, in what is recorded as the 2021-05 Harry Reid New Yorker interview on alleged retrieved materials, Reid told The New Yorker's Gideon Lewis-Kraus that he had been told for decades that Lockheed held retrieved materials from a recovered craft<sup>56</sup>. He tried to obtain classified Pentagon approval to view the alleged materials, but the Pentagon would not approve it<sup>57</sup> and gave him no explanation<sup>58</sup>; Reid confirmed that this refusal was why he had sought Special Access Program status for AATIP<sup>59</sup>. Reid also gave the so-called Unofficial Official Report on the Nimitz incident to Knapp, making it public<sup>60</sup>; Knapp knew the identities of those involved because he had obtained the report from Reid<sup>61</sup>. Reid counted Bigelow among his friends<sup>62</sup> and was a longtime benefactor of Elizondo and [Christopher K. Mellon](/people/christopher-k-mellon)'s UAP advocacy<sup>63</sup>; he wrote an official letter countering later Department of Defense claims that Elizondo had no part in AATIP<sup>64</sup>. Reid was in the final days of a three-year battle with pancreatic cancer while continuing to support the UAP legislative effort<sup>65</sup>. He died peacefully in his sleep on 2021-12-28, the day after President [Joe Biden](/people/joe-biden) signed UAP legislation into law<sup>66</sup>. Chuck Schumer described Reid as his mentor and dear friend, and said he was honoured to carry on Reid's legacy of fighting for transparency about unexplained phenomena<sup>67</sup>.
+After AATIP became public, Reid publicly corroborated his and his colleagues' role in funding the original programme and Elizondo's leadership of it.<sup>51</sup> Elizondo later said Reid remained his ally and champion, defending him in the months after his resignation when the Department of Defense was disputing his role;<sup>52</sup> Reid wrote a letter that countered the Department's later claim that Elizondo had had no part in AATIP.<sup>53</sup> Elizondo also described Reid as a longtime benefactor of his and [Christopher K. Mellon](/people/christopher-k-mellon)'s UAP advocacy.<sup>54</sup> Reid retired from Congress in 2017,<sup>55</sup> and said he was proud of AATIP, considering it one of the good things he had done in his congressional service.<sup>56</sup> In his final months, while in the last stages of a three-year battle with pancreatic cancer, Reid continued to support the UAP legislative effort then before Congress;<sup>57</sup> Elizondo said Reid told him he would keep fighting his cancer until President [Joe Biden](/people/joe-biden) signed the UAP legislation into law.<sup>58</sup> Reid died peacefully in his sleep the day after Biden signed that legislation, in December 2021.<sup>59</sup>

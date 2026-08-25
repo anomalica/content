@@ -1,10 +1,14 @@
 ---
 title: Robert Monroe
+aliases:
+- /people/bob-monroe/
+- /en/people/bob-monroe/
 description: Robert Monroe was an American businessman who conducted a systematic
-  investigation of out-of-body experiences and founded The Monroe Institute.
+  investigation of out-of-body experiences, founded The Monroe Institute, and wrote
+  the book Journeys Out of the Body.
 metadata:
-  role: Businessman; out-of-body experience researcher
-  affiliation: The Monroe Institute (founder)
+  role: Businessman and out-of-body experience researcher
+  founded: The Monroe Institute
   notable_work: Journeys Out of the Body
 built_from:
   brief_hash: 6738d8610a899f2c478c85e45f0a643496bdda847b0e0ed0ef1587da8cd86bc4
@@ -410,8 +414,7 @@ built_from:
   - id: aef5b753-bd52-488c-a9d2-e19895a29ae9
     hash: 0105da61dbb26a543e6dc774a1a6a64a0bcbc6628f1da963cc3b8268657fa505
 references:
-- text: Robert Monroe is an American businessman who systematically investigates out-of-the-body
-    travel.
+- text: American businessman who systematically investigates out-of-the-body travel.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch13:24585-24755
@@ -421,15 +424,6 @@ references:
   claim_id: f4178317-f088-4e6b-952f-05a3120bf573
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f4178317-f088-4e6b-952f-05a3120bf573
-- text: Monroe set up learning centres with training tapes to help people leave their
-    bodies.
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch7:3550-3674
-  quote: An American businessman, Robert Monroe, has set up learning centers complete
-    with training tapes to help people leave their bodies.
-  claim_id: 8c6eaa19-e073-4489-9b81-a1e013c72f06
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8c6eaa19-e073-4489-9b81-a1e013c72f06
 - text: Robert Monroe is the founder of The Monroe Institute.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -455,77 +449,7 @@ references:
   claim_id: 92de3b7a-0ee9-41a9-b6cb-3cba133d918d
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-92de3b7a-0ee9-41a9-b6cb-3cba133d918d
-- text: 'McMoneagle: Monroe had experienced OBEs since 1958 and had demonstrated control
-    over them.'
-  source: Remote Viewing Secrets
-  location: ch25:16308-16405
-  quote: He had been experiencing OBEs since 1958, and had demonstrated his control
-    over these remarkable events.
-  claim_id: fe0da3a3-8547-405c-b5d7-5ef4ced12d7a
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fe0da3a3-8547-405c-b5d7-5ef4ced12d7a
-- text: Monroe determined there was no physiological cause for his condition.
-  source: Journeys Out of the Body
-  location: ch10:2204-2339
-  quote: Even after I had determined that there was no physiological cause, and that
-    I was no more insane than most of my fellow men, the fears persisted.
-  claim_id: 10003a7c-3b66-46ac-a965-a21682ed38b1
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-10003a7c-3b66-46ac-a965-a21682ed38b1
-- text: Monroe began experimenting and keeping notes of each event.
-  source: Journeys Out of the Body
-  location: ch10:2769-2852
-  quote: Finally, I began to experiment with this strange aberration, keeping notes
-    of each event.
-  claim_id: 8e87939f-04b2-47fd-8998-c29d800f1b91
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8e87939f-04b2-47fd-8998-c29d800f1b91
-- text: Monroe feared being classified as a patient by psychologist/psychiatrist friends.
-  source: Journeys Out of the Body
-  location: ch10:834-948
-  quote: I was afraid that I would then be classified as their “patients,” and lose
-    the closeness that equality (normalcy) brings.
-  claim_id: 25277b0e-00b7-42f0-a631-7827e7c6ef5b
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-25277b0e-00b7-42f0-a631-7827e7c6ef5b
-- text: Foster Bradshaw was Monroe's only outlet to discuss his condition.
-  source: Journeys Out of the Body
-  location: ch10:2433-2522
-  quote: There was no one to talk to about the problem, other than an occasional meeting
-    with Dr. Bradshaw.
-  claim_id: 41cbaba6-6bde-4414-8e90-476b358dcd46
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-41cbaba6-6bde-4414-8e90-476b358dcd46
-- text: Bradshaw suggested it was astral projection, though he'd only heard of it
-    remotely.
-  source: Journeys Out of the Body
-  location: ch10:16982-17071
-  quote: Dr. Bradshaw had given me the clue, although he himself had heard about such
-    things only remotely.
-  claim_id: 53f0cb9b-3411-405b-bdf3-75619493b0ea
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-53f0cb9b-3411-405b-bdf3-75619493b0ea
-- text: Monroe's wife accepted his condition reluctantly, having no other real choice.
-  source: Journeys Out of the Body
-  location: ch10:1342-1511
-  quote: She accepted it reluctantly because there was no other real choice, and thus
-    she became a worried witness to incidents and events much in contradiction to
-    her religious training.
-  claim_id: 1e5c58c5-39b4-4075-b13b-5e6699502565
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1e5c58c5-39b4-4075-b13b-5e6699502565
-- text: '1959-05-05: floated up, rolled in the air, dove through the floor into an
-    unfinished house on a hillside.'
-  source: Journeys Out of the Body
-  location: '26'
-  quote: I mentally “wanted” upward, and I floated up... I was standing in an unfinished
-    house, with no windows installed as yet, and materials and scraps lying around
-    on the rough floor.
-  claim_id: dcc8f5aa-76bf-45e6-bc9d-3f0049516357
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dcc8f5aa-76bf-45e6-bc9d-3f0049516357
-- text: Research spanned hundreds of experiments over twelve years, still ongoing
-    at time of writing.
+- text: Research spanned hundreds of experiments over twelve years and was still continuing.
   source: Journeys Out of the Body
   location: ch10:24543-24698
   quote: Hundreds of experiments spread over twelve years, and still continuing, have
@@ -534,106 +458,108 @@ references:
   claim_id: dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
-- text: Monroe described a beam-of-light phenomenon in his investigations.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:20752-20881
-  quote: Another psychic experimenter, Mr. Robert Monroe, has described a similar
-    phenomenon in his own investigations of out-of-the-body consciousness.
-  claim_id: 5d6f0500-ec7b-4273-ba7d-6c6b22654257
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5d6f0500-ec7b-4273-ba7d-6c6b22654257
-- text: '1960-09-09: bathed in a beam from the north, about 30 degrees above the horizon.'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:20897-21085
-  quote: On the night of September 9, 1960... I suddenly felt bathed in and transfixed
-    by a very powerful beam that seemed to come from the North, about 30° above the
-    horizon.
-  claim_id: bf131436-0b66-4f30-9b47-9276dc5ba83d
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf131436-0b66-4f30-9b47-9276dc5ba83d
-- text: Felt completely powerless, as if in personal contact with a strong force.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:21108-21249
-  quote: I was completely powerless, with no will of my own, and I felt as if I were
-    in the presence of a very strong force, in personal contact with it.
-  claim_id: d805caec-e93a-4d81-b23a-bf0da81bfadc
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d805caec-e93a-4d81-b23a-bf0da81bfadc
-- text: Perceived an intelligence beyond his comprehension searching his memory.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:21254-21407
-  quote: It had intelligence of a form beyond my comprehension, and it came directly
-    (down the beam?) into my head, and seemed to be searching every memory in my mind.
-  claim_id: e1be75ec-535c-43aa-9cae-81e9c582a1e8
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e1be75ec-535c-43aa-9cae-81e9c582a1e8
-- text: '1960-09-16: the same impersonal probing beam recurred, from the same angle.'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:21498-21633
-  quote: 'On September 16, at night, again from the verbatim notes of Robert Monroe:
-    The same impersonal probing, the same power, from the same angle.'
-  claim_id: 3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
-- text: Impression of being bound by loyalty, with a job to perform on earth.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:21659-21815
-  quote: I received the firm impression that I was inextricably bound by loyalty to
-    this intelligent force, always had been, and that I had a job to perform here
-    on earth.
-  claim_id: 668cc835-459a-439c-b5e4-280a5e35a98b
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-668cc835-459a-439c-b5e4-280a5e35a98b
-- text: Impression of huge ancient rusty pipes with oil-like substance passing through.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:21824-22036
-  quote: I got the impression of huge pipes, so ancient they were covered with undergrowth
-    and rust. Something like oil was passing through them, but it was much higher
-    in energy than oil, and vitally needed and valuable elsewhere.
-  claim_id: e6625587-4101-4077-9431-733050f8279f
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6625587-4101-4077-9431-733050f8279f
-- text: '1960-09-30: same pattern, beings soaring into the sky while he pleaded after
-    them.'
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:22090-22190
-  quote: 'On September 30, the same pattern: They seemed to soar up into the sky,
-    while I called after them, pleading.'
-  claim_id: be481137-f207-440a-a3ea-6caf75f463cf
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-be481137-f207-440a-a3ea-6caf75f463cf
-- text: Monroe concluded the intelligence was impersonal and cold, possibly the basis
-    of religion.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:22288-22542
-  quote: It is an impersonal, cold intelligence, with none of the emotions of love
-    or compassion which we respect so much, yet this may be the omnipotence we call
-    God. Visits such as these in mankind's past could well have been the basis for
-    all of our religious beliefs.
-  claim_id: 17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
-- text: Afterwards he cried, concluding the God of his childhood was not as taught.
-  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
-    UFO Influences on the Human Race'
-  location: ch14:22685-22937
-  quote: I sat down and cried, great deep sobs and I have never cried before, because
-    then I knew without any qualification or future hope of change that the God of
-    my childhood, of the churches, of religion throughout the world was not as we
-    worshipped him to be.
-  claim_id: 5a527b15-94fc-4bbc-88d3-7efa0720838b
-  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5a527b15-94fc-4bbc-88d3-7efa0720838b
-- text: The only evidential results took place via the Second Body in Locale I.
+- text: No physiological cause found for the condition.
+  source: Journeys Out of the Body
+  location: ch10:2204-2339
+  quote: Even after I had determined that there was no physiological cause, and that
+    I was no more insane than most of my fellow men, the fears persisted.
+  claim_id: 10003a7c-3b66-46ac-a965-a21682ed38b1
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-10003a7c-3b66-46ac-a965-a21682ed38b1
+- text: Began experimenting, keeping notes of each event.
+  source: Journeys Out of the Body
+  location: ch10:2769-2852
+  quote: Finally, I began to experiment with this strange aberration, keeping notes
+    of each event.
+  claim_id: 8e87939f-04b2-47fd-8998-c29d800f1b91
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8e87939f-04b2-47fd-8998-c29d800f1b91
+- text: Feared being classified as a patient by psychologist/psychiatrist friends.
+  source: Journeys Out of the Body
+  location: ch10:834-948
+  quote: I was afraid that I would then be classified as their “patients,” and lose
+    the closeness that equality (normalcy) brings.
+  claim_id: 25277b0e-00b7-42f0-a631-7827e7c6ef5b
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-25277b0e-00b7-42f0-a631-7827e7c6ef5b
+- text: Foster Bradshaw was his only outlet to discuss the condition.
+  source: Journeys Out of the Body
+  location: ch10:2433-2522
+  quote: There was no one to talk to about the problem, other than an occasional meeting
+    with Dr. Bradshaw.
+  claim_id: 41cbaba6-6bde-4414-8e90-476b358dcd46
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-41cbaba6-6bde-4414-8e90-476b358dcd46
+- text: The Bradshaws lived about eight kilometres from Monroe's office.
+  source: Journeys Out of the Body
+  location: ch11:2230-2305
+  quote: Dr. and Mrs. Bradshaw live in a house some five miles from my office, up
+    a hill
+  claim_id: 6963414c-ebff-49f4-9c1b-8d1d73b8e4cf
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6963414c-ebff-49f4-9c1b-8d1d73b8e4cf
+- text: Bradshaw suggested the experience was astral projection.
+  source: Journeys Out of the Body
+  location: ch10:16982-17071
+  quote: Dr. Bradshaw had given me the clue, although he himself had heard about such
+    things only remotely.
+  claim_id: 53f0cb9b-3411-405b-bdf3-75619493b0ea
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-53f0cb9b-3411-405b-bdf3-75619493b0ea
+- text: Wife accepted the condition reluctantly.
+  source: Journeys Out of the Body
+  location: ch10:1342-1511
+  quote: She accepted it reluctantly because there was no other real choice, and thus
+    she became a worried witness to incidents and events much in contradiction to
+    her religious training.
+  claim_id: 1e5c58c5-39b4-4075-b13b-5e6699502565
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1e5c58c5-39b4-4075-b13b-5e6699502565
+- text: Monroe preferred Second Body/Second State to 'astral'.
+  source: Journeys Out of the Body
+  location: ch10:17824-17990
+  quote: As no attempt was made to delve deeply into this area, I still don’t know
+    what the word “astral” means. Thus I prefer to stick to the terms “Second Body”
+    and “Second State.”
+  claim_id: bce67ebe-3215-43bb-bbf0-479e8b6afc7c
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-bce67ebe-3215-43bb-bbf0-479e8b6afc7c
+- text: Locale I defined as real people/places in the material world.
+  source: Journeys Out of the Body
+  location: ch12:464-580
+  quote: It consists of people and places that actually do exist in the material,
+    well-known world at the very moment of the experiment.
+  claim_id: eebece31-6820-4e3c-b2ce-ec99e81483d8
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-eebece31-6820-4e3c-b2ce-ec99e81483d8
+- text: Locale II held to be the natural environment of the Second Body.
+  source: Journeys Out of the Body
+  location: ch13:5087-5256
+  quote: Locale II is the natural environment of the Second Body. The principles involved
+    in its action, composition, perception, and control all correspond to those in
+    Locale II.
+  claim_id: 7be4e3eb-9a25-489a-859a-52c6f6d3875b
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7be4e3eb-9a25-489a-859a-52c6f6d3875b
+- text: The Barrier blots out memory of dreams/Locale II visits.
+  source: Journeys Out of the Body
+  location: ch13:23927-24058
+  quote: This is the same screen that lowers when you awaken from sleep, blotting
+    out your last dream—or the memory of your visit to Locale II.
+  claim_id: 8c9ac722-ac41-4a75-8166-5774be91ec19
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8c9ac722-ac41-4a75-8166-5774be91ec19
+- text: '1959-05-05 three-way device experience: floated, dove through the floor into
+    an unfinished house.'
+  source: Journeys Out of the Body
+  location: '26'
+  quote: I mentally “wanted” upward, and I floated up... I was standing in an unfinished
+    house, with no windows installed as yet, and materials and scraps lying around
+    on the rough floor.
+  claim_id: dcc8f5aa-76bf-45e6-bc9d-3f0049516357
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dcc8f5aa-76bf-45e6-bc9d-3f0049516357
+- text: Only provable evidential results came from Locale I travel.
   source: Journeys Out of the Body
   location: ch12:900-1055
   quote: Thus it is that the only evidential results provable by standard methods
@@ -642,105 +568,17 @@ references:
   claim_id: 5a40dbf2-fb05-428c-8bd8-b62fd95206cf
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5a40dbf2-fb05-428c-8bd8-b62fd95206cf
-- text: Locale I consists of people and places that actually exist in the material
-    world.
+- text: Fantasy theory undermined by data known only to the other party.
   source: Journeys Out of the Body
-  location: ch12:464-580
-  quote: It consists of people and places that actually do exist in the material,
-    well-known world at the very moment of the experiment.
-  claim_id: eebece31-6820-4e3c-b2ce-ec99e81483d8
+  location: '62'
+  quote: At first, it was suggested that I was fantasizing these communications...
+    This theory received a setback when a number of such communications brought out
+    data known only to the second party.
+  claim_id: 349dd13f-f3ca-4153-a29f-68102ab04104
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-eebece31-6820-4e3c-b2ce-ec99e81483d8
-- text: Evidential Locale I data were pitifully few in proportion to all recorded
-    experiments.
-  source: Journeys Out of the Body
-  location: ch12:1126-1216
-  quote: these and others in the same category are pitifully few in proportion to
-    all the recorded experiments.
-  claim_id: 7f4f96fa-cb58-4f39-a4f7-b76fc7649118
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7f4f96fa-cb58-4f39-a4f7-b76fc7649118
-- text: Pinched R.W. to test whether she would remember his visit.
-  source: Journeys Out of the Body
-  location: ch11:20697-20848
-  quote: I said I had to be sure, so I reached over and tried to pinch her, gently,
-    I thought. I pinched her in the side, just above the hips and below the rib cage.
-  claim_id: db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
-- text: She cried out; he was surprised he could physically pinch her.
-  source: Journeys Out of the Body
-  location: ch11:20854-20989
-  quote: She let out a good loud “Ow,” and I backed up, because I was somewhat surprised.
-    I really hadn’t expected to be able actually to pinch her.
-  claim_id: 8f110a36-1960-449c-8ac0-83b4d4abc998
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8f110a36-1960-449c-8ac0-83b4d4abc998
-- text: She showed astonishment and asked 'Was that you?'
-  source: Journeys Out of the Body
-  location: ch11:22305-22433
-  quote: Finally, in impatience, I asked her if she remembered the pinch. A look of
-    complete astonishment crossed her face. “Was that you?”
-  claim_id: aa13ad40-29df-46e3-ac1d-b59f1b9974bd
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-aa13ad40-29df-46e3-ac1d-b59f1b9974bd
-- text: She showed two marks on her left side at exactly the spot pinched.
-  source: Journeys Out of the Body
-  location: ch11:22619-22695
-  quote: There were two brown and blue marks at exactly the spot where I had pinched
-    her.
-  claim_id: b788eb4d-bfaa-4844-a645-7245ceb4690c
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b788eb4d-bfaa-4844-a645-7245ceb4690c
-- text: Monroe categorised the episode as involving preknowledge of R.W.'s general
-    location.
-  source: Journeys Out of the Body
-  location: ch11:23157-23360
-  quote: In this episode, the time coincides with the actual events. Autosuggestion
-    hallucination, indeterminate, as willful desire was suggested, and preknowledge
-    was present of general location of R.W. at that time.
-  claim_id: f0dd8814-2eca-4bef-84db-6fe4155e970d
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f0dd8814-2eca-4bef-84db-6fe4155e970d
-- text: Encountered Bradshaw and Mrs Bradshaw outside their house, walking toward
-    a garage.
-  source: Journeys Out of the Body
-  location: ch11:2959-3244
-  quote: Then I came upon Dr. and Mrs. Bradshaw. They were outside the house... Dr.
-    Bradshaw was dressed in light overcoat and hat, his wife in a dark coat and all
-    dark clothes... walked past me unseeing, in the direction of a smaller building,
-    like a garage
-  claim_id: 379941df-af4c-491a-b8b6-1f432de12136
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-379941df-af4c-491a-b8b6-1f432de12136
-- text: Expected to find Bradshaw in bed at home; instead found him outside, which
-    puzzled him.
-  source: Journeys Out of the Body
-  location: ch11:5114-5182
-  quote: The great point is that I had expected to find him in bed, and didn't.
-  claim_id: 240eefe4-04aa-4e1f-8b7f-38a56ffc21fc
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-240eefe4-04aa-4e1f-8b7f-38a56ffc21fc
-- text: Monroe telephoned Mrs Bradshaw that evening; she confirmed the walk and time.
-  source: Journeys Out of the Body
-  location: ch11:4281-4481
-  quote: She stated that roughly at four twenty-five they were walking out of the
-    house toward the garage. She was going to the post office, and Dr. Bradshaw had
-    decided that perhaps some fresh air might help him
-  claim_id: 35570193-52f3-4b52-bb59-5f7f9c6b1a38
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-35570193-52f3-4b52-bb59-5f7f9c6b1a38
-- text: Neither Bradshaw was aware of his presence; Bradshaw had no memory of speaking
-    to him.
-  source: Journeys Out of the Body
-  location: ch11:5003-5110
-  quote: neither "saw" me in any way or were aware of my presence. Dr. Bradshaw had
-    no memory of saying anything to me.
-  claim_id: 37f02ead-9f8a-4ec9-b01b-147546894c04
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-37f02ead-9f8a-4ec9-b01b-147546894c04
-- text: '1959-03-05 motel vision: boy tossing a baseball, man loading a device, cards
-    dealt at a table.'
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-349dd13f-f3ca-4153-a29f-68102ab04104
+- text: '1959-03-05 Bahnson visit: boy with baseball, man loading device, people dealing
+    cards.'
   source: Journeys Out of the Body
   location: ch11:6527-6943
   quote: 3/5/59 Morning / In a motel in Winston-Salem... the first thing I saw was
@@ -751,15 +589,7 @@ references:
   claim_id: 510d4611-550b-4191-8cf4-9d62b71a9b95
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-510d4611-550b-4191-8cf4-9d62b71a9b95
-- text: That evening he visited Agnew Bahnson and his wife.
-  source: Journeys Out of the Body
-  location: ch11:7862-7962
-  quote: 'Important aftermath: The same evening, I visited some friends, Mr. and Mrs.
-    Agnew Bahnson, at their home.'
-  claim_id: 2829da4f-255c-47c2-9044-d98f72e78413
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2829da4f-255c-47c2-9044-d98f72e78413
-- text: Bahnson's son confirmed he had been tossing a baseball walking to school.
+- text: Bahnson's son confirmed tossing a baseball at that time.
   source: Journeys Out of the Body
   location: ch11:8218-8369
   quote: He said he was going to school. When asked more specifically what he was
@@ -768,7 +598,7 @@ references:
   claim_id: 24de365d-6723-450c-b06a-18feda739376
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-24de365d-6723-450c-b06a-18feda739376
-- text: Bahnson confirmed he had been loading a Van de Graaff generator into his car.
+- text: Bahnson confirmed loading a Van de Graaff generator.
   source: Journeys Out of the Body
   location: ch11:8579-8763
   quote: Exactly at that time, he told me, he was loading a Van DeGraff generator
@@ -777,8 +607,145 @@ references:
   claim_id: 76c62fe4-28fd-475f-87c0-d73b7c40e6f0
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-76c62fe4-28fd-475f-87c0-d73b7c40e6f0
-- text: '1966-07-19: drove ~110km from Richmond, Virginia to the EEG laboratory, arriving
-    9:00pm.'
+- text: Mrs. Bahnson confirmed handing out white envelopes.
+  source: Journeys Out of the Body
+  location: ch11:8979-9199
+  quote: It seems that for the first time in two years, because they had all arisen
+    late, she had brought the morning mail to the breakfast table and had passed out
+    the letters to them as she sorted the mail. Large white playing cards!
+  claim_id: e6b5bcb2-448c-4031-9f53-1ea65367086c
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e6b5bcb2-448c-4031-9f53-1ea65367086c
+- text: Monroe pinched R.W. during the 1960-10-10 out-of-body visit.
+  source: Journeys Out of the Body
+  location: ch11:20697-20848
+  quote: I said I had to be sure, so I reached over and tried to pinch her, gently,
+    I thought. I pinched her in the side, just above the hips and below the rib cage.
+  claim_id: db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
+- text: R.W. cried out when pinched.
+  source: Journeys Out of the Body
+  location: ch11:20854-20989
+  quote: She let out a good loud “Ow,” and I backed up, because I was somewhat surprised.
+    I really hadn’t expected to be able actually to pinch her.
+  claim_id: 8f110a36-1960-449c-8ac0-83b4d4abc998
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8f110a36-1960-449c-8ac0-83b4d4abc998
+- text: R.W. showed marks matching the pinch location.
+  source: Journeys Out of the Body
+  location: ch11:22619-22695
+  quote: There were two brown and blue marks at exactly the spot where I had pinched
+    her.
+  claim_id: b788eb4d-bfaa-4844-a645-7245ceb4690c
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b788eb4d-bfaa-4844-a645-7245ceb4690c
+- text: Monroe apologised for pinching hard.
+  source: Journeys Out of the Body
+  location: ch11:22995-23149
+  quote: I apologized for pinching so hard, and she obtained from me a promise that
+    if I tried any such thing again, I would try something other than a pinch that
+    hard.
+  claim_id: 100c565c-4f80-412b-8edd-00d83dcd6729
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-100c565c-4f80-412b-8edd-00d83dcd6729
+- text: Monroe listed six matching details of the episode.
+  source: Journeys Out of the Body
+  location: ch11:23366-23614
+  quote: 'Identical reports with conditions of actual events: (1) Location (inside
+    rather than outside). (2) Number of people present. (3) Description of girls.
+    (4) Actions of people present. (5) The acknowledgment of pinching. (6) Physical
+    marks from pinching.'
+  claim_id: 325bdc43-7224-472e-a498-d3cadbddf3f7
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-325bdc43-7224-472e-a498-d3cadbddf3f7
+- text: Monroe categorised the episode as indeterminate autosuggestion with preknowledge.
+  source: Journeys Out of the Body
+  location: ch11:23157-23360
+  quote: In this episode, the time coincides with the actual events. Autosuggestion
+    hallucination, indeterminate, as willful desire was suggested, and preknowledge
+    was present of general location of R.W. at that time.
+  claim_id: f0dd8814-2eca-4bef-84db-6fe4155e970d
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f0dd8814-2eca-4bef-84db-6fe4155e970d
+- text: 'Vallée: Monroe described a beam-of-light phenomenon.'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:20752-20881
+  quote: Another psychic experimenter, Mr. Robert Monroe, has described a similar
+    phenomenon in his own investigations of out-of-the-body consciousness.
+  claim_id: 5d6f0500-ec7b-4273-ba7d-6c6b22654257
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5d6f0500-ec7b-4273-ba7d-6c6b22654257
+- text: '1960-09-09: bathed in a powerful beam from the north.'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:20897-21085
+  quote: On the night of September 9, 1960... I suddenly felt bathed in and transfixed
+    by a very powerful beam that seemed to come from the North, about 30° above the
+    horizon.
+  claim_id: bf131436-0b66-4f30-9b47-9276dc5ba83d
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf131436-0b66-4f30-9b47-9276dc5ba83d
+- text: Felt completely powerless during the beam experience.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:21108-21249
+  quote: I was completely powerless, with no will of my own, and I felt as if I were
+    in the presence of a very strong force, in personal contact with it.
+  claim_id: d805caec-e93a-4d81-b23a-bf0da81bfadc
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d805caec-e93a-4d81-b23a-bf0da81bfadc
+- text: Perceived the beam's force as intelligent, searching his memory.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:21254-21407
+  quote: It had intelligence of a form beyond my comprehension, and it came directly
+    (down the beam?) into my head, and seemed to be searching every memory in my mind.
+  claim_id: e1be75ec-535c-43aa-9cae-81e9c582a1e8
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e1be75ec-535c-43aa-9cae-81e9c582a1e8
+- text: The same beam recurred on 1960-09-16.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:21498-21633
+  quote: 'On September 16, at night, again from the verbatim notes of Robert Monroe:
+    The same impersonal probing, the same power, from the same angle.'
+  claim_id: 3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
+- text: '1960-09-30: beings seemed to soar into the sky.'
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:22090-22190
+  quote: 'On September 30, the same pattern: They seemed to soar up into the sky,
+    while I called after them, pleading.'
+  claim_id: be481137-f207-440a-a3ea-6caf75f463cf
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-be481137-f207-440a-a3ea-6caf75f463cf
+- text: Monroe concluded the intelligence was impersonal and cold.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:22288-22542
+  quote: It is an impersonal, cold intelligence, with none of the emotions of love
+    or compassion which we respect so much, yet this may be the omnipotence we call
+    God. Visits such as these in mankind's past could well have been the basis for
+    all of our religious beliefs.
+  claim_id: 17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
+- text: Monroe concluded God was not as he'd been taught.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch14:22685-22937
+  quote: I sat down and cried, great deep sobs and I have never cried before, because
+    then I knew without any qualification or future hope of change that the God of
+    my childhood, of the churches, of religion throughout the world was not as we
+    worshipped him to be.
+  claim_id: 5a527b15-94fc-4bbc-88d3-7efa0720838b
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5a527b15-94fc-4bbc-88d3-7efa0720838b
+- text: Drove roughly 110km to the EEG lab, arriving 9pm on 1966-07-19.
   source: Journeys Out of the Body
   location: ch12:17739-17838
   quote: July 19th, 1966. Arrived at the hospital EEG lab at 9:00 P.M., after driving
@@ -786,7 +753,16 @@ references:
   claim_id: 0678738a-789d-490d-a1c2-3688a2427cd4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0678738a-789d-490d-a1c2-3688a2427cd4
-- text: Used a fractional relaxation technique for ~45 minutes without full relaxation.
+- text: Technician attached electrodes.
+  source: Journeys Out of the Body
+  location: ch12:18002-18183
+  quote: By nine-thirty in the evening, all electrodes had been attached by the technician,
+    who was the only person present when I arrived. I reclined on a temporary cot,
+    in a semi-darkened room...
+  claim_id: 3bd8fa58-9ce4-413e-931a-100e0d3a7871
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
+- text: Fractional relaxation technique; cigarette break after 45 minutes.
   source: Journeys Out of the Body
   location: ch12:18564-18782
   quote: I went finally into the fractional relaxation pattern (count up from number
@@ -796,7 +772,17 @@ references:
   claim_id: 5b839ccd-f488-46bf-8fd1-41d1c8316d56
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5b839ccd-f488-46bf-8fd1-41d1c8316d56
-- text: Floated to the floor, feeling himself pass through the EEG wires.
+- text: Attempted the roll-out separation method.
+  source: Journeys Out of the Body
+  location: ch12:19612-19979
+  quote: I decided to try the "roll-out" method (i.e., start to turn over gently...).
+    I started to feel as if I were turning, and at first thought I truly was moving
+    the physical body. I felt myself roll off the edge of the cot, and braced for
+    the fall to the floor. When I didn't hit immediately, I knew that I
+  claim_id: 6cca546e-3633-42e0-9b5d-61df889643a1
+  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
+  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6cca546e-3633-42e0-9b5d-61df889643a1
+- text: Floated through the EEG wires.
   source: Journeys Out of the Body
   location: ch12:20926-21071
   quote: This time, I let myself float to the floor beside the cot. I fell slowly,
@@ -804,16 +790,7 @@ references:
   claim_id: c44ee9a7-c39b-4873-9425-0efd58122b57
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c44ee9a7-c39b-4873-9425-0efd58122b57
-- text: Technician reacted with a burst of warm joy and embraced him.
-  source: Journeys Out of the Body
-  location: ch12:21724-21954
-  quote: I tried to attract her attention, and was almost immediately rewarded with
-    a burst of warm joy and happiness that I had finally achieved the thing we had
-    been working for. She was truly excited, and happily and excitedly embraced me.
-  claim_id: 3c670554-528b-4ebc-b127-c9f499518259
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3c670554-528b-4ebc-b127-c9f499518259
-- text: She confirmed the man seen with her was her husband.
+- text: Technician confirmed the man seen was her husband.
   source: Journeys Out of the Body
   location: ch12:22955-23141
   quote: I opened my eyes, sat up, and called to the technician. She came in, and
@@ -822,8 +799,7 @@ references:
   claim_id: 2ad9f0de-72c1-48f4-a94f-784370e77ff8
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2ad9f0de-72c1-48f4-a94f-784370e77ff8
-- text: He was unaware of the husband's presence beforehand; considered it the only
-    supporting evidence.
+- text: Monroe hadn't known of the husband's presence beforehand.
   source: Journeys Out of the Body
   location: ch12:24188-24337
   quote: The only supporting evidence other than what might have appeared on the EEG
@@ -831,7 +807,7 @@ references:
   claim_id: cd548142-3819-4e8c-ae83-67dda1c3f274
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-cd548142-3819-4e8c-ae83-67dda1c3f274
-- text: The technician confirmed Monroe did not know her husband was present.
+- text: Technician confirmed Monroe hadn't known/met her husband before.
   source: Journeys Out of the Body
   location: ch12:24566-24648
   quote: She also confirmed that I did not know he was present, and that I had not
@@ -839,47 +815,7 @@ references:
   claim_id: 1705f122-85c1-44b7-a4a7-f2e7cf10151e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1705f122-85c1-44b7-a4a7-f2e7cf10151e
-- text: Felt an object extending from his back, base like spread-out tree roots (silver
-    cord).
-  source: Journeys Out of the Body
-  location: '94'
-  quote: In response to a question brought up in discussion with Mrs. Bradshaw, I
-    decided to see if there truly was a "cord" between the physical and the Second
-    Body. ... Whatever it was extended out from a spot in my back directly between
-    my shoulder blades ... I felt the base, and it felt exactly like the spread-out
-    roots of a tree radiating out from the basic trunk.
-  claim_id: d1fce119-ddbc-4f14-baf7-c04d406832b9
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d1fce119-ddbc-4f14-baf7-c04d406832b9
-- text: Identified fear of the unknown as a third basic fear within the Fear Barrier.
-  source: Journeys Out of the Body
-  location: '38'
-  quote: The third basic fear was fear of the unknown... Now, suddenly, here is another,
-    completely different set of rules, another world of entirely different possibilities.
-  claim_id: 8014358a-ad86-4d70-b3c2-6ea92bed02a1
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8014358a-ad86-4d70-b3c2-6ea92bed02a1
-- text: Believed the Barrier is the same mechanism that blots out dream memory on
-    waking.
-  source: Journeys Out of the Body
-  location: ch13:23927-24058
-  quote: This is the same screen that lowers when you awaken from sleep, blotting
-    out your last dream—or the memory of your visit to Locale II.
-  claim_id: 8c9ac722-ac41-4a75-8166-5774be91ec19
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8c9ac722-ac41-4a75-8166-5774be91ec19
-- text: Considered the wave-vibration concept the most acceptable theory of Locale
-    II's location.
-  source: Journeys Out of the Body
-  location: ch13:6388-6563
-  quote: The most acceptable is the wave-vibration concept, which presumes the existence
-    of an infinity of worlds all operating at different frequencies, one of which
-    is this physical world.
-  claim_id: d6c0464d-3e22-4f17-9d13-9db80ee3cd68
-  record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d6c0464d-3e22-4f17-9d13-9db80ee3cd68
-- text: Wrote to Richard Gordon describing his OOB technique; Mrs Gordon read it to
-    him in hospital.
+- text: Letter to Richard Gordon describing his out-of-body technique.
   source: Journeys Out of the Body
   location: 60-66
   quote: “Why don’t you write him a letter,” she suggested... She read it again and
@@ -888,8 +824,7 @@ references:
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
-- text: McMoneagle regarded Monroe as the one person he trusted who could control
-    OBEs.
+- text: McMoneagle regarded Monroe as the one person he trusted to control OBEs.
   source: Remote Viewing Secrets
   location: ch25:16180-16300
   quote: In 1983, there was one man in the world who I felt I could trust who claimed
@@ -897,8 +832,8 @@ references:
   claim_id: fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
-- text: McMoneagle attended a Gateway Voyage seminar in 1983 and asked Monroe for
-    help.
+- text: McMoneagle attended a Gateway Voyage seminar at the Monroe Institute in Virginia,
+    1983.
   source: Remote Viewing Secrets
   location: ch25:16413-16546
   quote: So, I attended a Gateway Voyage seminar at the Monroe Institute, Virginia,
@@ -906,8 +841,7 @@ references:
   claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a65a29f4-2a39-4e68-bf7d-c23b534bb304
-- text: McMoneagle worked in Monroe's lab for nearly fourteen months, learning partial
-    control.
+- text: McMoneagle worked in Monroe's lab for ~14 months, gaining partial control.
   source: Remote Viewing Secrets
   location: ch25:16550-16710
   quote: We worked together in his lab for a period of nearly fourteen months, where
@@ -916,7 +850,7 @@ references:
   claim_id: 63fceb6b-f794-4524-873a-38d3674cddbf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fceb6b-f794-4524-873a-38d3674cddbf
-- text: McMoneagle found substantial increase in remote-viewing control from the training.
+- text: OOB training with Monroe increased McMoneagle's remote viewing control.
   source: Remote Viewing Secrets
   location: ch25:16938-17046
   quote: I did find that there was substantial increase in control over my remote
@@ -924,7 +858,7 @@ references:
   claim_id: d2a44173-7920-4c9b-95ec-79398b60c33f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d2a44173-7920-4c9b-95ec-79398b60c33f
-- text: Ed Dames used Monroe's programme to evaluate recruits for Project Stargate.
+- text: Ed Dames used Monroe's programme to evaluate Stargate recruits.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
   location: 00:37:42.6-00:37:55.8
@@ -934,8 +868,7 @@ references:
   claim_id: 41f89d54-ed22-4bae-8511-601c81902457
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-41f89d54-ed22-4bae-8511-601c81902457
-- text: Whitley Strieber never met Monroe but attended a gateway programme at the
-    Institute.
+- text: Strieber never met Monroe but attended a Gateway programme.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:24:42.1-00:24:51.7
@@ -948,27 +881,27 @@ built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 5503cb30be243c981c1f1272e319a59eee86d8c1464c329f2814c5dc3029a63a
+  prompt_sha256: 766d40068e68e0042c92dd03830ab6ba33c2d93bd4aa7277851eb890acbb6059
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 98340
-    output: 39298
+    input: 98780
+    output: 47622
     real_input: 2
-    cache_read: 39325
-    cache_write: 59013
+    cache_read: 39422
+    cache_write: 59356
     calls: 0
-  body_sha256: 1f5fa3387b76c92977bd6f31b4f9e7a0370c3362e637e14777aa4f5f37322370
+  body_sha256: d134bba735cfbc18dc91f8df66dcd2877ca5ff8d3888293e0cceca46b337491b
 ---
 
-Robert Monroe was an American businessman who conducted a systematic investigation of [out-of-body](/topics/out-of-body-experience-obe) travel.<sup>1</sup> He set up learning centres using training tapes intended to help people leave their bodies,<sup>2</sup> and founded [The Monroe Institute](/organisations/the-monroe-institute).<sup>3</sup> His account of his own experiences, Journeys Out of the Body,<sup>4</sup> argues that a person is more than their physical self.<sup>5</sup>
+Robert Monroe was an American businessman who conducted a systematic investigation of [out-of-body](/topics/out-of-body-experience-obe) travel<sup>1</sup>, later founding [The Monroe Institute](/organisations/the-monroe-institute)<sup>2</sup>. He wrote the book Journeys Out of the Body<sup>3</sup>, which argues that a person is more than their physical self<sup>4</sup>. By the time of writing, his research spanned hundreds of experiments carried out over twelve years and was still continuing<sup>5</sup>.
 
-According to Joseph McMoneagle, Monroe had been experiencing Out-of-Body Experiences since 1958 and had demonstrated control over them.<sup>6</sup> Monroe determined that there was no physiological cause for his condition,<sup>7</sup> and, during the Beginning Stage of his research, began experimenting with it and keeping notes of each event.<sup>8</sup> He was afraid that discussing it with his psychologist and psychiatrist friends would see him classified as their patient,<sup>9</sup> and for years his only outlet was occasional meetings with Foster Bradshaw,<sup>10</sup> who suggested that what he was experiencing was astral projection, although Bradshaw himself had only heard about such things remotely.<sup>11</sup> His wife accepted his condition, reluctantly, because she had no other real choice.<sup>12</sup> One early experiment, the 1959-05-05 three-way device out-of-body experience, saw him float up, roll in the air, dive through the floor, and find himself standing in an unfinished house on the side of a hill overlooking a valley.<sup>13</sup> Over the following years his research grew to span hundreds of experiments over twelve years, and was still continuing at the time of writing.<sup>14</sup>
+Monroe found no physiological cause for the condition<sup>6</sup> and began experimenting with it, keeping notes of each event<sup>7</sup> — what the record frames as the beginning stage of his out-of-body research. Wary that discussing the phenomenon with his psychologist and psychiatrist friends would see him classified as their patient<sup>8</sup>, his only outlet, through occasional meetings, was Foster Bradshaw<sup>9</sup>, who lived with Mrs. Bradshaw about eight kilometres from Monroe's office<sup>10</sup> and who suggested that what Monroe was experiencing was astral projection<sup>11</sup>; Monroe's wife, for her part, accepted his condition reluctantly, having no other real choice<sup>12</sup>. Monroe said he preferred the terms Second Body and Second State to "astral", because he did not know what the word meant<sup>13</sup>. Within the Second State he distinguished Locale I — people and places that actually exist in the material world at the moment of the experiment<sup>14</sup> — from Locale II, which he held was the natural environment of the Second Body<sup>15</sup>. He held that The Barrier was the same mechanism that blots out the memory of a dream, or of a Locale II visit, on waking<sup>16</sup>.
 
-In the course of his investigations Monroe described a beam-of-light phenomenon.<sup>15</sup> During the 1960 out-of-body beam experiences, on 1960-09-09 he felt bathed in and transfixed by a powerful beam that seemed to come from the north, about 30 degrees above the horizon,<sup>16</sup> and felt completely powerless, as if in the presence of a very strong force in personal contact with him.<sup>17</sup> He perceived that the force behind the beam had an intelligence beyond his comprehension, and that it searched every memory in his mind.<sup>18</sup> The same impersonal, probing beam recurred from the same angle on 1960-09-16,<sup>19</sup> during which he received the impression that he was bound by loyalty to the intelligent force and had a job to perform on earth,<sup>20</sup> along with an impression of huge, ancient pipes covered with undergrowth and rust, through which something like oil, but higher in energy, was passing.<sup>21</sup> A further episode on 1960-09-30 followed the same pattern, with beings he perceived seeming to soar up into the sky while he pleaded after them.<sup>22</sup> Monroe said that he concluded the intelligence behind the beam was far beyond his understanding, describing it as impersonal and cold, and speculated that visits like these could be the basis for humanity's religious beliefs;<sup>23</sup> afterwards he cried and concluded that the God of his childhood and of organised religion was not as he had been taught to worship.<sup>24</sup>
+In what the record frames as the middle stage of his research, Monroe pursued experiments intended to produce evidence verifiable by ordinary means. In an early instance, the 1959-05-05 three-way device experience, he floated up, rolled in the air, and dove through the floor to find himself standing in an unfinished house overlooking a valley<sup>17</sup>. He considered the only results provable by standard confirmation to come from travel via the Second Body in Locale I<sup>18</sup>, and found that a theory that he was merely fantasising these visits, drawing on knowledge he already held of the person concerned, was undermined when several of his reported conversations produced information known only to the other party<sup>19</sup>. During an out-of-body visit to [Agnew Bahnson](/people/agnew-bahnson) on 1959-03-05, he reported seeing a boy tossing a baseball, a man loading an awkward device into a car, and people at a table dealing large white cards<sup>20</sup>. Monroe recorded that Bahnson's son later confirmed he had been tossing a baseball on his way to school at that time<sup>21</sup>, that Bahnson confirmed he had been loading a Van de Graaff generator into his car<sup>22</sup>, and that Mrs. Bahnson confirmed that, for the first time in two years, she had handed out large white envelopes with the morning mail<sup>23</sup>. During the out-of-body visit to R.W. dated 1960-10-10, Monroe pinched her side to test whether she would recall the contact<sup>24</sup>; she cried out at the time<sup>25</sup>, and when questioned days later showed bruises at exactly the spot he had pinched<sup>26</sup>, prompting Monroe to apologise for pinching so hard<sup>27</sup>. Monroe himself assessed six details of the episode — the indoor location, the number of people present, their description, their actions, the acknowledgement of the pinch, and the physical marks — as matching between his impression and the confirmed facts<sup>28</sup>, though he categorised the episode overall as an indeterminate case involving [precognition](/topics/precognition) or autosuggestion, noting that some prior knowledge of R.W.'s general whereabouts had been present<sup>29</sup>.
 
-During the Middle Stage of his research, Monroe pursued visits intended to produce confirmable, evidential data. The only such results provable by standard methods of confirmation took place while travelling via the Second Body in Locale I,<sup>25</sup> which consists of people and places that actually exist in the material world at the moment of the experiment;<sup>26</sup> even so, experiments producing this kind of evidential data were pitifully few in proportion to his recorded experiences.<sup>27</sup> During the 1960-10-10 out-of-body visit to R.W., Monroe pinched R.W. to test whether she would remember his visit;<sup>28</sup> she let out a loud cry, and he backed away, surprised that he had been able to physically pinch her.<sup>29</sup> When he later asked her about that afternoon, without telling her his reason, she showed complete astonishment and asked, "Was that you?"<sup>30</sup> and showed him two marks on her left side at exactly the spot where he had pinched her.<sup>31</sup> Monroe said that the episode's timing coincided with the actual events, and he categorised it as involving preknowledge of R.W.'s general location, a form of [precognition](/topics/precognition).<sup>32</sup> A similar pattern arose on 1958-09-10, when an out-of-body visit intended for Foster Bradshaw instead found him and Mrs. Bradshaw outside their house, walking toward a smaller, garage-like building<sup>33</sup> - though he had expected to find Bradshaw in bed at home, which puzzled him at the time.<sup>34</sup> Monroe said that when he telephoned Mrs Bradshaw that evening, she confirmed the time and route of the walk,<sup>35</sup> and that neither she nor her husband had been aware of his presence, and that Bradshaw had no memory of speaking to him.<sup>36</sup>
+Jacques Vallée, describing Monroe as a psychic experimenter, wrote that he reported a beam-of-light phenomenon during his investigations of out-of-body consciousness<sup>30</sup>. Monroe recorded that on 1960-09-09, while lying on his bed, he felt bathed in and transfixed by a powerful beam seeming to come from the north, about 30 degrees above the horizon<sup>31</sup>, leaving him feeling completely powerless, as though in the personal presence of a very strong force<sup>32</sup>, and perceiving that the force carried an intelligence beyond his comprehension that searched every memory in his mind<sup>33</sup>. He reported the same probing beam recurring from the same angle on 1960-09-16<sup>34</sup>, and on 1960-09-30 experienced the same pattern again, this time perceiving beings that seemed to soar up into the sky as he pleaded after them<sup>35</sup>. Monroe concluded that the intelligence behind the beam was impersonal and cold, and speculated that such visits could be the basis for humanity's religious beliefs<sup>36</sup>; he wrote that he cried afterwards and concluded that the God of his childhood and of organised religion was not as he had been taught to worship<sup>37</sup>.
 
-A further such visit took place on the morning of 1959-03-05, when, staying in a motel in Winston-Salem, Monroe reported seeing a boy tossing a baseball, a man loading an awkward device into a car, and people at a table with a person dealing large white cards;<sup>37</sup> that evening he visited [Agnew Bahnson](/people/agnew-bahnson) and his wife in connection with the experience.<sup>38</sup> Monroe said that Bahnson's son later confirmed he had been tossing a baseball while walking to school at the time Monroe had observed him,<sup>39</sup> and that Bahnson himself confirmed he had been loading a Van de Graaff generator into his car.<sup>40</sup> During the Later Stage of his research, on 1966-07-19 Monroe drove approximately 110 kilometres from Richmond, Virginia, to an [electroencephalography](/topics/electroencephalography-electroencephalogram-eeg) laboratory for EEG Experiment #EEG-5.<sup>41</sup> After using a fractional relaxation technique for around forty-five minutes without achieving full relaxation,<sup>42</sup> he attempted separation and, on a second attempt, floated to the floor beside the cot, feeling himself pass through the various EEG wires on the way down.<sup>43</sup> Out of body, he found the technician in an adjoining room accompanied by an unidentified man; she reacted, he wrote, with a burst of warm joy and embraced him.<sup>44</sup> Afterwards, when Monroe told her he had seen her with a man, she confirmed the man was her husband.<sup>45</sup> He had been unaware of the husband's presence beforehand, which he considered the only supporting evidence beyond whatever might have appeared on the EEG recording;<sup>46</sup> according to Journeys Out of the Body, the technician confirmed that Monroe did not know her husband was present and had not met him previously.<sup>47</sup>
+In what the record frames as the later stage of his research, Monroe undertook a psycho-physiological experiment at Topeka VA Hospital, driving approximately 110 kilometres from Richmond, Virginia, to arrive at an [electroencephalography](/topics/electroencephalography-electroencephalogram-eeg) laboratory at 9:00 p.m. on 1966-07-19, for the session logged as EEG Experiment #EEG-5<sup>38</sup>. A technician attached electrodes while he reclined on a cot in a semi-darkened room<sup>39</sup>; after roughly forty-five minutes, a fractional relaxation technique had failed to bring full relaxation, so he broke to smoke a cigarette before trying again<sup>40</sup>, then attempted a "roll-out" separation, felt himself rolling off the cot, and braced for a fall to the floor that never came<sup>41</sup>, before floating down and feeling himself pass through the EEG wires<sup>42</sup>. During the experience he reported seeing the technician together with an unidentified curly-haired man; afterwards she confirmed the man was her husband<sup>43</sup>, whose presence Monroe had not known about beforehand and which he considered the only supporting evidence beyond whatever might appear on the EEG recording itself<sup>44</sup>. According to Journeys Out of the Body, the technician confirmed that Monroe had not known her husband was present and had not met him previously<sup>45</sup>.
 
-Monroe's accounts describe a wider framework distinguishing the Second State of consciousness from the Second Body that inhabits it. During a 1961-01-09 experiment prompted by a discussion with Mrs Bradshaw about whether a "cord" connected the physical and Second Body, Monroe felt an object extending from a spot in his back between his shoulder blades, with a base like the spread-out roots of a tree.<sup>48</sup> He identified a third basic fear within what he called the Fear Barrier, later linked in his accounts to The Barrier: fear of the unknown, arising because out-of-body existence follows a completely different set of rules from the physical world.<sup>49</sup> Monroe said he believed the Barrier was the same mechanism that lowers when a person awakens from sleep, blotting out the memory of the last dream or of a visit to a further, non-material environment he called Locale II;<sup>50</sup> he also said that the most acceptable theory of that environment's location was a wave-vibration concept, presuming an infinity of worlds operating at different frequencies with minimal interaction between them.<sup>51</sup> He also wrote a letter to [Richard Gordon](/people/richard-gordon) describing his out-of-body experiences and a technique for leaving the physical body, which Mrs Gordon read to Gordon repeatedly in hospital at his own request.<sup>52</sup> Monroe's methods were later taken up by others: Joseph McMoneagle regarded him as the one person he trusted who claimed he could control Out-of-Body Experiences,<sup>53</sup> attended a Gateway Voyage seminar at The Monroe Institute in the autumn of 1983, and afterward asked Monroe for help controlling his own experiences;<sup>54</sup> he went on to work in Monroe's lab for nearly fourteen months, learning a measure of control over the ability, though not to Monroe's own level,<sup>55</sup> and found the training brought a substantial increase in control over his separate remote-viewing ability.<sup>56</sup> Ed Dames used Monroe's programme on altered states and out-of-body experiences to evaluate potential recruits for Project Stargate.<sup>57</sup> The Monroe Institute's programmes later drew other researchers of anomalous experience; Whitley Strieber, for instance, never met Monroe himself but attended a gateway programme there.<sup>58</sup>
+Monroe also corresponded directly with others seeking the technique, writing to [Richard Gordon](/people/richard-gordon) to describe his out-of-body experiences and his method for leaving the physical body — a letter Mrs. Gordon read to Gordon repeatedly, at his own request, while he was in hospital<sup>46</sup>. His influence extended into US government-linked remote-viewing research: the remote viewer Joseph McMoneagle came to regard Monroe as the one person he trusted who could control out-of-body experiences<sup>47</sup>, and after attending a Gateway Voyage seminar at The Monroe Institute in Virginia in the autumn of 1983<sup>48</sup>, worked in Monroe's laboratory for close to fourteen months, eventually gaining a measure of control over his own experiences, though not as well as Monroe himself<sup>49</sup>, which he found brought a substantial increase in control over his separate remote-viewing ability<sup>50</sup>. Ed Dames later used Monroe's programme on altered states and out-of-body experiences to evaluate potential recruits for Project Stargate<sup>51</sup>. The author Whitley Strieber never met Monroe himself but attended a Gateway programme at the institute<sup>52</sup>.

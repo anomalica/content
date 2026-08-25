@@ -1,9 +1,14 @@
 ---
 title: Chris Ramsay
-description: American YouTube creator and magician who hosts the DEBRIEFED podcast
-  covering UFO and UAP topics, and has documented his own out-of-body experience practice.
+aliases:
+- /people/chris-ramsey/
+- /en/people/chris-ramsey/
+description: Chris Ramsay is a magician and YouTuber who hosts the DEBRIEFED video
+  series and podcast, interviewing witnesses and researchers on UFO, UAP, and psi-related
+  topics, and who has recounted his own reported orb sightings and out-of-body experiences.
 metadata:
-  role: Host, DEBRIEFED podcast; magician and YouTube creator
+  role: Magician; host of the DEBRIEFED video series and podcast
+  channel: Area 52 (YouTube)
 built_from:
   brief_hash: f58564bff0aff7ef8d1251153d9c9f0499c795e580ced77ad96716cba87bdceb
   claims:
@@ -408,22 +413,22 @@ built_from:
   - id: 536fe20f-efcc-4d93-a641-6c7ff70c9a75
     hash: 73800254a579007fd75dd6d90ff27b45357ac90d2575c377613a97f96d73f4e6
 references:
-- text: Chris Ramsay's main YouTube channel is focused on magic and puzzles
+- text: Main YouTube channel is focused on magic and puzzles
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:00:43.2-00:00:45.8
   quote: I know some of you may know me from my main channel doing magic and puzzles.
   claim_id: 1c5591a4-eddd-4190-8fe4-17e898a14157
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
-- text: Chris Ramsay performs as a magician
+- text: Performs as a magician
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:06:39.6-00:06:40.2
   quote: I am a magician.
   claim_id: 39789dce-3ee9-4403-afa7-848dc7748c2d
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39789dce-3ee9-4403-afa7-848dc7748c2d
-- text: He named his channel 'Area 52' partly from his handle, referencing the 52
-    cards in a deck
+- text: Named channel Area 52 partly from handle 'Chris Ramsey 52', referencing the
+    52 cards in a deck
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:06:56.6-00:07:05.6
   quote: the name itself 52 comes from, you know, all my handles, which is Chris Ramsey
@@ -431,15 +436,15 @@ references:
   claim_id: d1c86634-75a8-4dd9-aaac-967ed4b0657d
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-d1c86634-75a8-4dd9-aaac-967ed4b0657d
-- text: The real Area 52 was also part of the inspiration for the channel name
+- text: Area 52, the real place, was part of the inspiration for the channel name
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:07:08.7-00:07:11.5
   quote: Also, I thought it was fitting, you know, the Area 52 is a real place.
   claim_id: 4c014ebe-d696-4e93-ba39-8b7ec857d161
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-4c014ebe-d696-4e93-ba39-8b7ec857d161
-- text: During an overnight flight to Germany, Ramsay observed orange orbs illuminating
-    clouds at approximately 9,000 metres
+- text: Observed orange orbs illuminating clouds during an overnight flight to Germany
+    at approximately 9,000 metres
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:00:201.0-00:00:219.0
   quote: I was flying to Germany... 30,000 feet in the air... in the clouds below
@@ -448,8 +453,7 @@ references:
   claim_id: c22ba299-656a-40ca-b381-1da8beefa5b7
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
-- text: He observed that the orbs did not appear to be moving, though it was hard
-    to tell
+- text: The orbs did not appear to be moving, though it was hard to tell
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:15:08.5-00:15:14.4
   quote: They didn't seem to be moving, although it was hard to tell, and they were
@@ -457,57 +461,7 @@ references:
   claim_id: 6abeefb2-9af3-4df2-9442-286fbebf248f
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-6abeefb2-9af3-4df2-9442-286fbebf248f
-- text: He practised remote viewing for over a year
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:10:57.9-00:11:00.1
-  quote: I did remote viewing for a year and more.
-  claim_id: e21075fd-d62c-4ca1-8134-499e1b10611f
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-e21075fd-d62c-4ca1-8134-499e1b10611f
-- text: He has spoken with physicists who have studied and researched remote viewing
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:11:01.4-00:11:06.2
-  quote: I've spoken to physicists who have studied and researched remote viewing.
-  claim_id: 4da89248-1acd-4f56-9a85-1d132f260d95
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-4da89248-1acd-4f56-9a85-1d132f260d95
-- text: He has spoken with people hired by government agencies for over 20 years as
-    professional remote viewers
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:11:07.1-00:11:13.0
-  quote: I've spoken to people who were hired by government agencies for over 20 years
-    to be professional remote viewers.
-  claim_id: 1839302a-5f5a-42e2-a435-e0901399ca84
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1839302a-5f5a-42e2-a435-e0901399ca84
-- text: Ramsay considers remote viewing to be real, believing there is something to
-    it
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:11:23.5-00:11:28.0
-  quote: I've come to the conclusion that remote viewing is real, that there is something
-    there.
-  claim_id: 33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
-- text: He has personally investigated and come to accept out-of-body experience as
-    something real to him
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:11:59.4-00:12:03.5
-  quote: The second, out-of-body experience. I got to know out-of-body experience.
-    I know you.
-  claim_id: 924aceaf-3073-470e-9158-9842e8d16a6d
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-924aceaf-3073-470e-9158-9842e8d16a6d
-- text: He considers UFOs confirmed to exist, based on video, photo and testimonial
-    evidence
-  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
-  location: 00:13:26.4-00:13:31.5
-  quote: UFOs, you're allowed in. We know you exist. We have videos. We have photos.
-    We have testimony.
-  claim_id: 9eaae3fb-9978-41d0-af63-01cc4ef1f32d
-  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-9eaae3fb-9978-41d0-af63-01cc4ef1f32d
-- text: He visited Chris Bledsoe in North Carolina
+- text: Visited Chris Bledsoe in North Carolina
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
   location: 00:04:48.1-00:04:55.2
@@ -516,8 +470,8 @@ references:
   claim_id: 92ff6310-e1df-4f98-bf04-8db4c8e96d28
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-92ff6310-e1df-4f98-bf04-8db4c8e96d28
-- text: While there, he saw a row of nine orange glowing orbs over the ocean, resembling
-    the Navy pilot's description in the Immaculate Constellation report
+- text: Saw a row of nine orange glowing orbs over the ocean, resembling the Navy
+    pilot's description
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
   location: 00:05:15.7-00:05:25.3
@@ -527,15 +481,7 @@ references:
   claim_id: fa405f37-ffd6-46b0-9caa-e56c1357c843
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-fa405f37-ffd6-46b0-9caa-e56c1357c843
-- text: Onlookers unknown to Ramsay who saw the orbs ended up calling the Coast Guard
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:05:25.6-00:05:28.2
-  quote: There were people who we didn't know that ended up calling the Coast Guard.
-  claim_id: 3e37a147-27e1-4954-b63d-e5d70ae47387
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3e37a147-27e1-4954-b63d-e5d70ae47387
-- text: He documented and filmed the sighting
+- text: Documented and filmed the sighting of the orange orbs
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
   location: 00:05:37.8-00:05:39.9
@@ -543,115 +489,55 @@ references:
   claim_id: 1bcbc105-b98f-4cc5-ba95-f19bc71e7105
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-1bcbc105-b98f-4cc5-ba95-f19bc71e7105
-- text: He considers his own primary motivation for the channel to be personal fascination
-    with the phenomenon rather than helping people find solace
-  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
-    ep. 58
-  location: 01:52:28.6-01:52:50.0
-  quote: For me, the number one purpose, my audience knows this, it's I'm fascinated
-    by this stuff. And it's a bit of a selfish endeavor to not only figure this out,
-    but to be able to tell a story around it... the symptom, the offset, the offshoot
-    of that is... people finding solace in the stories
-  claim_id: 53faea10-1ec1-4799-9f8c-8531661bdc2f
-  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-53faea10-1ec1-4799-9f8c-8531661bdc2f
-- text: He considers Peter Khoury's case documented in Hair of the Alien to be the
-    most important UFO case
-  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
-    ep. 58
-  location: 02:06:36.4-02:06:45.7
-  quote: not only for me, I mean, is literally, I think the most important case. I
-    think this is the most important case.
-  claim_id: f687bbda-f49f-45a9-b2a5-c7b84030e7aa
-  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-f687bbda-f49f-45a9-b2a5-c7b84030e7aa
-- text: Ramsay, a magician who has used hypnosis for entertainment, considers that
-    knowing how hypnosis works gives a person an edge in resisting being hypnotised
-  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
-    | DEBRIEFED ep. 85'
-  location: 00:30:00.3-00:31:16.2
-  quote: as a magician myself, I've been able to use hypnosis for entertainment purposes...
-    as a magician, I am ironically disillusioned by this because I know how it works...
-    someone who's readily read into how to hypnotize people whether clinically or
-    whether you know for entertainment does have an edge on not being hypnotized
-  claim_id: 267cb788-34ea-43ea-8f64-15acc7de4f9b
-  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-267cb788-34ea-43ea-8f64-15acc7de4f9b
-- text: He has had out-of-body experiences that were neither awake experiences nor
-    lucid dreams
-  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
-    | DEBRIEFED ep. 85'
-  location: 02:28:16.8-02:28:35.5
-  quote: i've had out-of-body experiences and i can tell you that those were not awake
-    experiences but they weren't lucid dreams either and so you know i don't know
-    if i'm describing a new type of dream that we haven't really defined yet
-  claim_id: 601cc3b6-449e-4edf-b8da-aca99f81e85e
-  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-601cc3b6-449e-4edf-b8da-aca99f81e85e
-- text: He experienced involuntary out-of-body experiences he found terrifying but
-    immediately wanted to repeat
-  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
-    | DEBRIEFED ep. 85'
-  location: 02:30:33.3-02:30:46.6
-  quote: it happened to me a few times involuntarily. And it was one of the most terrifying
-    experiences of my life. But instantly after it happened, I was like, I got to
-    do that again.
-  claim_id: 5ce722f0-1c91-4533-8520-630465314088
-  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5ce722f0-1c91-4533-8520-630465314088
-- text: He pursued out-of-body experiences through the Gateway Process, meditating
-    one hour a day at about 04:30 for four months, leaving his body many times
-  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
-    | DEBRIEFED ep. 85'
-  location: 02:31:21.3-02:31:32.3
-  quote: I pursued it through the gateway process and ended up, you know, meditating
-    four months straight, one hour a day at like 430 in the morning and ended up leaving
-    my body a whole bunch of times after that.
-  claim_id: 412fdeeb-03a7-4e6f-8716-42321f774f3e
-  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-412fdeeb-03a7-4e6f-8716-42321f774f3e
-- text: Chris Ramsay attended school on military bases his entire life
-  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
-    | ep. 99
-  location: 00:22:47.9-00:22:51.6
-  quote: we lived on, I went to school on military bases my entire life.
-  claim_id: 83357e5b-17c9-4065-8a38-381493d5e99f
-  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-83357e5b-17c9-4065-8a38-381493d5e99f
-- text: He was offered the chance to skip a grade in third grade and declined, fearing
-    the social consequences
-  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
-    | ep. 99
-  location: 00:22:41.7-00:22:55.2
-  quote: I remember in third grade, I was offered to skip ahead ... And I remember
-    my mom turning to me and asking me, do you want to go ahead? And I said, no, because
-    I feared the social consequences.
-  claim_id: 4d80bff1-07a2-4dd4-a0bf-4740b8b5b58e
-  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4d80bff1-07a2-4dd4-a0bf-4740b8b5b58e
-- text: His third-grade teacher told his mother he was incredibly bored at school,
-    something he had never vocalised himself
-  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
-    | ep. 99
-  location: 00:22:54.3-00:23:02.8
-  quote: sitting there with my mom and the teacher and her explaining to my mom that
-    I'm incredibly bored here. And I was like, I'd never vocalized that.
-  claim_id: 277a2501-c422-4072-9eda-20912c218ecd
-  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-277a2501-c422-4072-9eda-20912c218ecd
-- text: He woke up hovering over his own body on two consecutive nights, while fully
-    awake, roughly two years before this episode was recorded
-  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
-    | ep. 99
-  location: 00:38:42.1-00:38:55.4
-  quote: yeah i have uh two years ago or two years ago i suppose it was two years
-    ago now um yeah i had uh involuntarily two nights in a row woke up hovering over
-    my body like woke up i was wide awake
-  claim_id: 27088d8b-3789-4214-8cd7-448da596ab09
-  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-27088d8b-3789-4214-8cd7-448da596ab09
-- text: His first out-of-body experiences happened at his home, not at the Monroe
-    Institute
+- text: Other observers of the orbs called the Coast Guard
+  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
+    10
+  location: 00:05:25.6-00:05:28.2
+  quote: There were people who we didn't know that ended up calling the Coast Guard.
+  claim_id: 3e37a147-27e1-4954-b63d-e5d70ae47387
+  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
+  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3e37a147-27e1-4954-b63d-e5d70ae47387
+- text: Practised remote viewing for over a year
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:10:57.9-00:11:00.1
+  quote: I did remote viewing for a year and more.
+  claim_id: e21075fd-d62c-4ca1-8134-499e1b10611f
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-e21075fd-d62c-4ca1-8134-499e1b10611f
+- text: Has spoken with physicists who have studied and researched remote viewing
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:11:01.4-00:11:06.2
+  quote: I've spoken to physicists who have studied and researched remote viewing.
+  claim_id: 4da89248-1acd-4f56-9a85-1d132f260d95
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-4da89248-1acd-4f56-9a85-1d132f260d95
+- text: Has spoken with people hired by government agencies for over 20 years as professional
+    remote viewers
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:11:07.1-00:11:13.0
+  quote: I've spoken to people who were hired by government agencies for over 20 years
+    to be professional remote viewers.
+  claim_id: 1839302a-5f5a-42e2-a435-e0901399ca84
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1839302a-5f5a-42e2-a435-e0901399ca84
+- text: Considers remote viewing real, believing there is something to it
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:11:23.5-00:11:28.0
+  quote: I've come to the conclusion that remote viewing is real, that there is something
+    there.
+  claim_id: 33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
+- text: Personally investigated and came to accept out-of-body experience as something
+    real to him
+  source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+  location: 00:11:59.4-00:12:03.5
+  quote: The second, out-of-body experience. I got to know out-of-body experience.
+    I know you.
+  claim_id: 924aceaf-3073-470e-9158-9842e8d16a6d
+  record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
+  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-924aceaf-3073-470e-9158-9842e8d16a6d
+- text: First out-of-body experiences happened at his home, not at The Monroe Institute
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:38:55.7-00:38:59.4
@@ -660,7 +546,7 @@ references:
   claim_id: ce74fe32-8a20-4699-99d9-97af5cb78cb8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ce74fe32-8a20-4699-99d9-97af5cb78cb8
-- text: He had never heard of out-of-body experiences before his first one occurred
+- text: Had never heard of out-of-body experiences before his first one occurred
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:38:56.8-00:38:59.4
@@ -668,8 +554,8 @@ references:
   claim_id: dd9d09a8-4607-4502-a128-89fcc0c2f8e3
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dd9d09a8-4607-4502-a128-89fcc0c2f8e3
-- text: He entered his first out-of-body experience by forcing his eyes open inside
-    a nightmare while aware it was a nightmare, having been in deep sleep
+- text: Entered his first out-of-body experience by forcing his eyes open inside a
+    nightmare while aware it was a nightmare
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:39:06.7-00:39:13.5
@@ -678,8 +564,7 @@ references:
   claim_id: c42fc401-988d-4fd2-be76-a49ef8d32c26
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c42fc401-988d-4fd2-be76-a49ef8d32c26
-- text: During the experience he saw his bedroom as grainy, out of focus and low in
-    saturation
+- text: Saw his bedroom as grainy, out of focus and low in saturation
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:39:22.8-00:39:25.3
@@ -687,8 +572,7 @@ references:
   claim_id: 7dec640c-122f-4d9c-84d8-f159b990f5a7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7dec640c-122f-4d9c-84d8-f159b990f5a7
-- text: He felt a deep buzzing hum through his body, comparable to a struck tuning
-    fork, almost euphoric
+- text: Felt a deep buzzing hum, compared to a struck tuning fork, almost euphoric
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:39:29.7-00:39:40.0
@@ -697,8 +581,8 @@ references:
   claim_id: 5039e522-8b95-416d-94d4-594a3946927c
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5039e522-8b95-416d-94d4-594a3946927c
-- text: He had flown in dreams before and recognised the same sensation of willing
-    himself upwards
+- text: Recognised the sensation of willing himself upward from having flown in dreams
+    before
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:39:47.2-00:39:51.4
@@ -707,8 +591,8 @@ references:
   claim_id: 0f09f587-32b8-4956-9e52-d5e48358bfb9
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0f09f587-32b8-4956-9e52-d5e48358bfb9
-- text: He willed himself up out of his body, became frightened, and paddled back
-    down to his bed
+- text: Willed himself up out of his body, became frightened, and paddled back down
+    to his bed
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:39:50.4-00:39:54.3
@@ -717,8 +601,7 @@ references:
   claim_id: 5e98be21-834b-4c57-8b55-f269f22735a1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5e98be21-834b-4c57-8b55-f269f22735a1
-- text: He had taken melatonin, which he does not usually take, on the night of the
-    first experience
+- text: Had taken melatonin, which he does not usually take, that night
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:40:11.6-00:40:15.3
@@ -726,8 +609,7 @@ references:
   claim_id: b3765cff-104f-4f79-9030-f20e24d642fc
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-b3765cff-104f-4f79-9030-f20e24d642fc
-- text: He wished for the experience to recur, and it happened again the following
-    night
+- text: Wished for the experience to recur, and it happened again the following night
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:40:17.4-00:40:21.2
@@ -735,7 +617,7 @@ references:
   claim_id: a5a42224-b265-483b-bab0-d3827ee21ac8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a5a42224-b265-483b-bab0-d3827ee21ac8
-- text: During the second experience he turned around and saw his own body lying on
+- text: During the second experience, turned around and saw his own body lying on
     the bed
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -745,8 +627,8 @@ references:
   claim_id: 7a6577c2-f6cb-4b71-bc26-a4add57ee089
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7a6577c2-f6cb-4b71-bc26-a4add57ee089
-- text: He considers his out-of-body state objectively different from a lucid dream,
-    having woken from a lucid dream into it
+- text: Considers the state objectively different from a lucid dream, having woken
+    from a lucid dream into it
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
   location: 00:40:04.0-00:40:09.0
@@ -755,29 +637,197 @@ references:
   claim_id: 69dbd269-a71e-49e5-a62b-80eeb756b28f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-69dbd269-a71e-49e5-a62b-80eeb756b28f
+- text: Woke up hovering over his own body on two consecutive nights, fully awake,
+    about two years before recording
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:38:42.1-00:38:55.4
+  quote: yeah i have uh two years ago or two years ago i suppose it was two years
+    ago now um yeah i had uh involuntarily two nights in a row woke up hovering over
+    my body like woke up i was wide awake
+  claim_id: 27088d8b-3789-4214-8cd7-448da596ab09
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-27088d8b-3789-4214-8cd7-448da596ab09
+- text: Pursued out-of-body experiences through the Gateway Process, meditating one
+    hour a day at about 04:30 for four months
+  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
+    | DEBRIEFED ep. 85'
+  location: 02:31:21.3-02:31:32.3
+  quote: I pursued it through the gateway process and ended up, you know, meditating
+    four months straight, one hour a day at like 430 in the morning and ended up leaving
+    my body a whole bunch of times after that.
+  claim_id: 412fdeeb-03a7-4e6f-8716-42321f774f3e
+  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
+  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-412fdeeb-03a7-4e6f-8716-42321f774f3e
+- text: Understands Jordan Jozak's described goal as getting participants out of body
+    to build a construct for the programme's operators
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:35:24.3-00:35:39.0
+  quote: you mentioned Jordan Jozak which also you know that was kind of the goal
+    from his conversations and and what you know hearing him and reading you know
+    what he put out ... was this kind of idea of like yeah get get out of body ...
+    and like build this construct or whatever for them
+  claim_id: 224e1c21-355c-4182-b44e-789f228c92bb
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-224e1c21-355c-4182-b44e-789f228c92bb
+- text: Considers Peter Khoury's case, documented in Hair of the Alien, the most important
+    UFO case
+  source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
+    ep. 58
+  location: 02:06:36.4-02:06:45.7
+  quote: not only for me, I mean, is literally, I think the most important case. I
+    think this is the most important case.
+  claim_id: f687bbda-f49f-45a9-b2a5-c7b84030e7aa
+  record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
+  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-f687bbda-f49f-45a9-b2a5-c7b84030e7aa
+- text: Bob Lazar worked on Project Gravator
+  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
+    10
+  location: 00:06:41.2-00:06:45.6
+  quote: I know recently I did a video deep dive into Bob Lazar's latest project,
+    Project Gravator.
+  claim_id: ae4ffed6-1b45-4d1c-94ae-1c99024807a4
+  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
+  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-ae4ffed6-1b45-4d1c-94ae-1c99024807a4
+- text: Dennis Mariani would stare at Bob Lazar for 20 minutes in a menacing way during
+    the bus ride to S4
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:19:58.3-00:20:02.9
+  quote: the same guy who'd stare at you for 20 minutes in that ride to S4 menacingly
+  claim_id: 2d51a4cb-8b3a-4adc-8318-0971e14204ea
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-2d51a4cb-8b3a-4adc-8318-0971e14204ea
+- text: Dennis Mariani invited Bob Lazar to come see a test flight outside at S4
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:20:30.0-00:20:36.4
+  quote: But he's also the guy that was like, hey, come see this launch outside. Come
+    see this test flight, right?
+  claim_id: e076a4a4-d3b6-4744-a02a-5896636ea015
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e076a4a4-d3b6-4744-a02a-5896636ea015
+- text: A former Janet Airlines co-pilot who flew into Groom Lake between about 1987
+    and 1991 reached out to Ramsay
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:11:20.5-00:11:27.0
+  quote: He was a co-pilot for EG&G flying the Janet flights into Groom Lake between
+    87 and 91, something like that.
+  claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
+- text: The co-pilot said he had met Dennis Mariani over a dozen times and was later
+    informed of his passing
+  source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+  location: 00:11:42.5-00:11:58.5
+  quote: I had reached out to a Janet Airlines co-pilot that knew Dennis and that...
+    was also informed of his passing and said that, you know, he'd met Dennis over
+    a dozen times and had exchanged with him just sort of, you know, regular rapport.
+  claim_id: 73b59f4d-6385-44b1-a655-b0b5d1a01841
+  record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
+  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
+- text: Described Michael Herrera as a military whistleblower who encountered an octagonal
+    black disc while on a SEAL humanitarian flood mission in Indonesia
+  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
+    | DEBRIEFED ep. 85'
+  location: 02:42:06.8-02:42:45.5
+  quote: Michael Herrera is a military whistleblower who had an encounter, I believe,
+    in Indonesia, where he was part of like some elite sort of SEAL team... they spot
+    this octagonal black disc hovering over the trees
+  claim_id: 79c0f3c9-17bb-4324-b5ce-900e6de4fac9
+  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
+  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
+- text: Described unbadged military personnel loading people, including children,
+    into reverse-engineered craft during the encounter
+  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
+    | DEBRIEFED ep. 85'
+  location: 02:42:45.5-02:43:10.7
+  quote: they are met with just guns pointed at their heads immediately, unbadged
+    military personnel who were loading up what seemed like people... these uh reverse
+    engineered craft were used to take people um children and all types of people
+    for whatever use
+  claim_id: f16c8257-7f75-4f7b-ac19-b380850fd79c
+  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
+  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
+- text: Found forced-perspective imperfections in the wedding cake UFO photographs,
+    drawing on his background in illusion
+  source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+  location: 00:19:31.5-00:20:21.3
+  quote: some uh imperfections or inconsistencies with reality when taking photos
+    from objects and mainly due to my background in illusion uh there's a forced perspective
+    that simply doesn't work for me
+  claim_id: 46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
+  record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
+  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
+- text: Concluded the close-up nighttime wedding cake photograph was a hoax because
+    the object being out of focus indicated it was very close and very small
+  source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+  location: 00:35:46.4-00:36:46.2
+  quote: the only way that that can be is if this object was very small. size of a
+    toy car say ... i'm pretty convinced that that was not a genuine like this was
+    this was hoax this photo particularly
+  claim_id: 5634cb7d-9239-434b-8910-4608973e8163
+  record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
+  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5634cb7d-9239-434b-8910-4608973e8163
+- text: Says that although coverage of the abduction phenomenon seems to have dissipated,
+    many abductees he speaks to maintain it is still happening
+  source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
+    | DEBRIEFED ep. 85'
+  location: 00:40:31.2-00:40:52.2
+  quote: it seems to have dissipated in some way compared to... But I speak to a lot
+    of people who are abductees and they, they tend to disagree. They're like, no,
+    this is ongoing. This is still happening today.
+  claim_id: 25a0a273-2220-4a77-97d2-fa6b3f71d8f9
+  record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
+  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-25a0a273-2220-4a77-97d2-fa6b3f71d8f9
+- text: Julia Mossbridge has carried out work in the study of psi and precognition
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:03:23.5-00:03:33.4
+  quote: You've done incredible work in the study of psi and the study of precognitive
+    you know, precognition, all sorts of really interesting size stuff.
+  claim_id: dc725a03-5046-4121-a0e4-93b27c860caf
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dc725a03-5046-4121-a0e4-93b27c860caf
+- text: Julia Mossbridge is a cognitive neuroscientist
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:05:04.0-00:05:09.9
+  quote: But hearing it from a cognitive neuroscientist, I think adds a little gravitas
+    to it for myself, at least.
+  claim_id: 487c72aa-0651-4b41-b698-cab837777fa9
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-487c72aa-0651-4b41-b698-cab837777fa9
+- text: Julia Mossbridge was in the gifted programme Students on Active Research (SOAR)
+  source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
+    | ep. 99
+  location: 00:13:54.0-00:13:56.2
+  quote: I think SOAR, the program that you were in.
+  claim_id: c234cdd5-3555-45df-855e-3789702c8291
+  record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
+  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c234cdd5-3555-45df-855e-3789702c8291
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 24da523cb80e7e09996e0112322f9970efdefe2e069412995e91b90d9ff96e1d
+  prompt_sha256: aec30054307091dbeedcc716c65cd4173e621dc8362f1882ace208a1d986bd08
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 107675
-    output: 6485
+    input: 107780
+    output: 23794
     real_input: 2
-    cache_read: 39344
-    cache_write: 68329
+    cache_read: 39417
+    cache_write: 68361
     calls: 0
-  body_sha256: 8bddee75aca621b59c762132e12e25fbe5538e3f943c79e229adb98f81cdd5cf
+  body_sha256: b9ff5acbce03f8f163c8145ab10e5181a9391e102401bb633727942604fe0ea9
 ---
 
-Chris Ramsay is an American YouTube creator and magician who hosts DEBRIEFED, a podcast and video series covering UFO and UAP topics, alien abduction accounts, and related fringe research. His main channel, Area 52, was originally focused on magic and puzzles<sup>1</sup>, reflecting his background as a performing magician<sup>2</sup>; he has said the channel's name draws partly from his handle, which references the 52 cards in a deck<sup>3</sup>, and partly from the real Area 52<sup>4</sup>.
+Chris Ramsay is a magician whose main YouTube channel is focused on magic and puzzles<sup>1</sup> and on which he performs as a magician.<sup>2</sup> He named the channel "Area 52" partly from his handle "Chris Ramsey 52", a reference to the 52 cards in a deck,<sup>3</sup> and partly after the real Area 52 installation.<sup>4</sup> Alongside this, Ramsay hosts DEBRIEFED, a video series and podcast on which he interviews witnesses, researchers, and other figures associated with the UFO and UAP field.
 
-Ramsay has described his own sightings on the programme. During an overnight flight to Germany he said he observed orange orbs illuminating clouds below the aircraft at approximately 9,000 metres<sup>5</sup>, though he noted it was hard to tell whether the orbs were moving<sup>6</sup>. While visiting [Christopher Bledsoe](/people/christopher-bledsoe) in North Carolina<sup>7</sup>, he said he saw a row of nine orange glowing orbs over the ocean, resembling a description he attributed to a Navy pilot in reporting on the "Immaculate Constellation" programme<sup>8</sup>; he said other onlookers who saw the orbs called the Coast Guard<sup>9</sup>, and that he documented and filmed the sighting himself<sup>10</sup>.
+Ramsay has also described his own reported sightings. During an overnight flight to Germany, he said he observed multiple orange orbs illuminating clouds below the aircraft at an altitude of approximately 9,000 metres,<sup>5</sup> though he noted the orbs did not appear to be moving, while acknowledging it was hard to tell.<sup>6</sup> He has said he visited [Christopher Bledsoe](/people/christopher-bledsoe) in North Carolina,<sup>7</sup> where he saw a row of nine orange glowing orbs over the ocean, which he said resembled a description given by a Navy pilot in reporting connected to the "Immaculate Constellation" programme.<sup>8</sup> He documented and filmed the sighting,<sup>9</sup> and said other people who separately observed the orbs ended up calling the Coast Guard.<sup>10</sup>
 
-Ramsay has said he practised [Remote Viewing (RV)](/topics/remote-viewing-rv) for over a year<sup>11</sup>, and has spoken with physicists who have studied the subject<sup>12</sup> as well as people who worked as professional remote viewers for government agencies for over 20 years<sup>13</sup>, including [Joseph McMoneagle](/people/joseph-mcmoneagle). He has said he considers remote viewing real<sup>14</sup>, and that he has personally investigated and come to accept [Out-of-Body Experience (OBE)](/topics/out-of-body-experience-obe) as real to him<sup>15</sup>, alongside stating that he considers UFOs confirmed to exist based on video, photo and testimonial evidence<sup>16</sup>. He has interviewed guests including Julia Mossbridge, [Bob Lazar](/people/bob-lazar), [Peter Khoury](/people/peter-khoury), and Michael Herrera, and has covered figures and topics including Jeremy Corbell, Michael Phillip, [Wilbert Smith](/people/wilbert-smith) and the Wilbert Smith 1950 memorandum on flying saucers, the Michael Herrera Indonesia black disc encounter, Hair Of The Alien, synchronicity, synesthesia, unconditional love, [Lucid Dreaming](/topics/lucid-dreaming), the Ganzfeld effect, [nonlocal consciousness](/topics/nonlocal-consciousness), the informational substrate, [nonhuman intelligence (Nonhuman Intelligence (NHI))](/topics/nonhuman-intelligence-nonhuman-intelligence-nhi), the [alien abduction phenomenon](/topics/alien-abduction-phenomenon), [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) cases generally, [Edwin C. May](/people/edwin-c-may), Janet Airlines, [The Monroe Institute](/organisations/the-monroe-institute), the Time Machine (timemachine.love) project, and has appeared at Contact in the Desert.
+Ramsay has said he practised [Remote Viewing (RV)](/topics/remote-viewing-rv) for over a year,<sup>11</sup> and that he has spoken with physicists who have studied the practice<sup>12</sup> as well as with people who were reportedly hired by government agencies for more than 20 years to work as professional remote viewers.<sup>13</sup> He has said he considers remote viewing real.<sup>14</sup> He has also said he personally investigated and came to accept [Out-of-Body Experience (OBE)](/topics/out-of-body-experience-obe) as something real to him.<sup>15</sup> His first such experiences happened at his home, not at [The Monroe Institute](/organisations/the-monroe-institute),<sup>16</sup> at a time when he had never previously heard of out-of-body experiences.<sup>17</sup> He entered the first one by forcing his eyes open inside a nightmare while aware it was a nightmare;<sup>18</sup> he described his bedroom as grainy, out of focus and low in saturation,<sup>19</sup> and said he felt a deep buzzing hum through his body, comparing the sensation to a struck tuning fork and describing it as almost euphoric.<sup>20</sup> He said he recognised the feeling of willing himself upward from having flown in dreams before,<sup>21</sup> and that he willed himself up out of his body, became frightened, and paddled back down to his bed.<sup>22</sup> He had taken melatonin that night, something he does not usually do.<sup>23</sup> Having wished for the experience to recur, he said it happened again the following night, during which he turned around and saw his own body lying on the bed.<sup>24</sup>,<sup>25</sup> He has said he considers this state objectively different from a [lucid dream](/topics/lucid-dreaming), having on one occasion woken from a lucid dream directly into it,<sup>26</sup> and that about two years before recording an episode on non-human intelligence he woke up fully awake and hovering over his own body on two consecutive nights.<sup>27</sup> He has also said he later pursued the experience deliberately through the Gateway Process, meditating for one hour a day at around 04:30 for four months, during which he said he left his body many times,<sup>28</sup> and that he understands the goal described by Jordan Jozak in his writing to have been getting participants out of body to build a construct for the programme's operators.<sup>29</sup>
 
-Ramsay has said that his primary motivation for the channel is personal fascination with the UFO and alien phenomenon and a desire to tell stories around it, with helping people find solace as a secondary effect rather than the main purpose<sup>17</sup>. He has described the Peter Khoury case documented in *Hair of the Alien* as, in his own assessment, the most important UFO case<sup>18</sup>. Drawing on his background as a magician who has used hypnosis for entertainment, he has said that knowing how hypnosis works gives a person an edge in resisting being hypnotised<sup>19</sup>.
+Through DEBRIEFED, Ramsay has covered a range of UFO- and UAP-related figures and cases. He has called [Peter Khoury](/people/peter-khoury)'s case, documented in Hair Of The Alien, the most important [UFO](/topics/unidentified-flying-object-ufo) case.<sup>30</sup> He has said [Bob Lazar](/people/bob-lazar) worked on a programme referred to as Project Gravator,<sup>31</sup> and recounted that Dennis Mariani would stare menacingly at Lazar for 20 minutes during bus rides to the S4 facility<sup>32</sup> before later inviting him to see a test flight outside the site.<sup>33</sup> Ramsay has said a former Janet Airlines co-pilot who flew into Groom Lake between roughly 1987 and 1991 reached out to him,<sup>34</sup> and told him he had met Mariani over a dozen times before later being informed of his death.<sup>35</sup> He has described Michael Herrera as a military whistleblower who, during a SEAL humanitarian flood mission in Indonesia, encountered an octagonal black disc hovering over trees, an episode referred to as the Michael Herrera Indonesia black disc encounter,<sup>36</sup> during which he said unbadged military personnel were loading people, including children, into reverse-engineered craft.<sup>37</sup> Drawing on his background in illusion, Ramsay has said he found forced-perspective imperfections in the Wedding cake Unidentified Flying Object (UFO) photographs,<sup>38</sup> concluding that a close-up nighttime photograph of the object was a hoax, reasoning that its being sharply out of focus indicated it was very close to the camera and therefore very small.<sup>39</sup> He has also said that although public coverage of the [alien abduction](/topics/alien-abduction) phenomenon appears to have dissipated, many abductees he speaks to maintain it is still happening today.<sup>40</sup>
 
-Ramsay has also discussed his own history with out-of-body states at length. He has said he attended school on military bases throughout his childhood<sup>20</sup>, was offered the chance to skip a grade in third grade and declined out of fear of the social consequences<sup>21</sup>, and that his teacher at the time told his mother he was incredibly bored at school, something he had never said himself<sup>22</sup>. He has said that, roughly two years before recording one episode, he woke up hovering over his own body on two consecutive nights while fully awake<sup>23</sup>, and that these first experiences happened at his home rather than during a programme at [The Monroe Institute](/organisations/the-monroe-institute)<sup>24</sup>, before he had ever heard of the phenomenon<sup>25</sup>. He described entering the first experience by forcing his eyes open inside a nightmare while aware it was a nightmare, having been in deep sleep<sup>26</sup>, seeing his bedroom as grainy, out of focus and low in saturation<sup>27</sup>, and feeling a deep buzzing hum through his body that he compared to a struck tuning fork and found almost euphoric<sup>28</sup>. He said he had flown in dreams before and recognised the same sensation of willing himself upward<sup>29</sup>, that he willed himself out of his body before becoming frightened and paddling back down to his bed<sup>30</sup>, and that he had taken melatonin that night, which he said he does not usually take<sup>31</sup>. He said he wished for the experience to recur and that it did, the following night, when he turned and saw his own body lying on the bed<sup>32</sup>; he has said he considers this out-of-body state objectively different from a lucid dream, having woken from a lucid dream directly into it<sup>33</sup>.
+In an episode on non-human intelligence, the GATE Program and psi ability, Ramsay interviewed Julia Mossbridge, described as having carried out work in the study of psi and precognition<sup>41</sup> and as a cognitive neuroscientist.<sup>42</sup> The episode also noted that Mossbridge had taken part in the gifted programme Students on Active Research (SOAR).<sup>43</sup>

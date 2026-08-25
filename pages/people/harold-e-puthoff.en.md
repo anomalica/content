@@ -1,15 +1,21 @@
 ---
 title: Harold E. Puthoff
-description: Harold E. Puthoff is an American physicist and engineer known for CIA-funded
-  remote viewing research at SRI International and for his subsequent role in Pentagon
-  UAP study programmes and To the Stars Academy of Arts and Science.
+aliases:
+- /people/hal-puthoff/
+- /en/people/hal-puthoff/
+- /people/harold-puthoff/
+- /en/people/harold-puthoff/
+description: Harold E. Puthoff is a theoretical physicist and engineer who worked
+  for decades on classified US government research, including CIA-sponsored extrasensory
+  perception studies, the Stargate remote-viewing programme, and later UAP-related
+  contract work for the Advanced Aerospace Threat Identification Program and To the
+  Stars Academy of Arts and Science.
 metadata:
   role: Theoretical physicist and engineer
-  affiliations: SRI International; Stanford University; Bigelow Aerospace; To the
-    Stars Academy of Arts and Science (TTSA); EarthTech International
-  education: PhD, Stanford University (1967)
+  known_for: Extrasensory perception and remote-viewing research for the CIA; contractor
+    for AAWSAP/AATIP; co-founder of To the Stars Academy of Arts and Science
 built_from:
-  brief_hash: 240ac38bd7cd772388026da5ff1e937c86a2b879013449aee1908d029eaf0760
+  brief_hash: 7d3b1d1779a38a6f7a8548f271fc466ee3fa7768a0d79b750570660c92cf6a1b
   claims:
   - id: 0f6b0857-7622-47bb-80fc-a1ef8f2b29cb
     hash: 14e919945afb6fbb434ccbec3021fd26522672e8f991b163b2daaed6d873ca6b
@@ -23,6 +29,16 @@ built_from:
     hash: b8e3788ec9fb60c47a52c88e85ea88d380ca4cd04b00b6367b3355d6da08c4e7
   - id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
     hash: 9b6ab1eb063631530705a263059572a728fed31550346e9438d9b80e7bd6c8d1
+  - id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
+    hash: 7d198c0dda0a9a6552b27838bc2d8a73370a8eb6631a1d84f90314014b7ef5ee
+  - id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
+    hash: a60097a0538bd1ec46d054c1e1bc32f4b982b98611249312ea429e1edb15e3bb
+  - id: 8096a778-1d99-4174-aebc-b6f612d293a5
+    hash: 7a22fce0d35d1cd0ca597b3e3d9adcdb0c89599aa06b9c2799858e41836b5cd6
+  - id: 7b5d0c07-3f46-444f-bf8b-d6879d872962
+    hash: 13fb9e0909bea33a731273c53287816ab584c56d2d40847508fcc9f3875b84c5
+  - id: cf93ff54-d6ea-4730-919f-db3ed81bf535
+    hash: fa3c4ba6d1028ae705db802028efc2ee5c1e128469cd3695786b403affbf8326
   - id: fadb57c8-ea4e-41aa-ac48-caede7a11946
     hash: aaaeeed961456d112cc763aaf965c6a6971b465f643d53fd96ea815424750762
   - id: b38c3f0f-e758-4bc5-bbca-248464eca087
@@ -269,12 +285,6 @@ built_from:
     hash: de5c0b2c3b37f9cc47db320124aaa24ee0e0ae6051f60f3fc01c9b18aa67eb23
   - id: 48da34aa-835b-4e37-85ab-c46b569ba73a
     hash: d8eed60e710f5060edee1926c9812745742fbe79c04bb3ff18afe5411491ac4a
-  - id: 35b8b447-4d55-4c19-aec7-53fdc9169b46
-    hash: 04fc0ebebc6cbd2820e5a670f41944ccc10a09d1cd67e52f2741bba0be8d22f7
-  - id: 712e2298-d57a-4560-804a-8d646633aae5
-    hash: 75b283a6f8ffe0041e458f23f827ea8316d0d37bc8d4bcc21f8ee4d9c4c374d1
-  - id: 57871265-e114-41cc-8ca0-406a100d662d
-    hash: 37f6c0445cf2eeee0f1e6dda437c72932c856f6d7d5805a293dd4ba056a59e5c
   - id: b42c20b8-9bb8-44c8-96b2-9cd94b953356
     hash: 3efcadbab4c6192c41221f62cbd0e13553947f145d8b6aa5e42b5cbac96516c2
   - id: fb85a1e1-7e4a-40d6-aad5-9a03ab232e2d
@@ -403,10 +413,6 @@ built_from:
     hash: 67ce00193c9d8bbb2053644cc96665013361af1c4a98c2da94fb72e0dbf803fb
   - id: a1075e49-7cbb-41ec-a290-3cac77624d45
     hash: f73419d96f10c92aaf314fe10e2aaa7e9b64717e5b9a61ec35890f1027a2c742
-  - id: 6377a784-2ba3-433c-b48c-dba9cb1b2fd9
-    hash: e48c69fd5dd25b3f163e951c5b4b14ff4d7f64aa45fea5b6429c22c4297fc17c
-  - id: 46bb700e-117a-439e-aa5b-66c54ffddb88
-    hash: 7757a627e69afaa48d079f879769e52680dc43225fd3e0bf832cc64a2278d346
   - id: 5524636f-7061-45d4-85e6-5bdd36c0e96d
     hash: 592e4bb2eddb9ce59ad79967dca3e997a9fb001d33af87389c03273880d8fa61
   - id: ea8a953b-d421-4c6d-b658-1171e714b8b3
@@ -421,6 +427,16 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-19bba9c6-a8ad-4e58-be5b-0719f3911257
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-19bba9c6-a8ad-4e58-be5b-0719f3911257
+- text: Spent more than fifty years as chief scientist on highly classified US government
+    projects
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch10:1952-2045
+  quote: For over fifty years, he worked as the chief scientist on highly classified
+    projects for the government.
+  claim_id: 10c1dbf7-8d33-4182-a63c-0c207711dd27
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10c1dbf7-8d33-4182-a63c-0c207711dd27
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10c1dbf7-8d33-4182-a63c-0c207711dd27
 - text: Earned his PhD from Stanford University in 1967
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2368-2415
@@ -429,7 +445,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a204dd47-287c-48cb-b4a7-99a80528c391
-- text: Career spans General Electric, Sperry, NSA, Stanford University, SRI International
+- text: Career spanned General Electric, Sperry Corporation, NSA, Stanford University,
+    and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2421-2542
   quote: His professional background spans decades of research at General Electric,
@@ -438,25 +455,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
-- text: Worked for the NSA and the CIA
-  source: In Plain Sight
-  location: ch24:8072-8107
-  quote: Hal Puthoff worked for the NSA and CIA.
-  claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
-- text: Conducted ESP research for the CIA, later AATIP contractor
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:9966-10112
-  quote: said Harold E. Puthoff, an engineer who has conducted research on extrasensory
-    perception for the C.I.A. and later worked as a contractor for the program.
-  claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
-- text: Served as senior scientific advisor across US government and DoD/NSA
+- text: Senior scientific advisor to almost every US government entity, including
+    DoD and NSA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2561-2734
   quote: he has served almost every government entity (for example, the Department
@@ -466,7 +466,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
-- text: Published papers on quantum physics, lasers, space propulsion
+- text: Published numerous papers on quantum physics, lasers, and space propulsion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2743-2810
   quote: He published numerous papers on quantum physics, lasers, and space propulsion
@@ -474,7 +474,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0972f2ae-6488-4ef5-92ea-d1cb7594f597
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0972f2ae-6488-4ef5-92ea-d1cb7594f597
-- text: Held patents in laser, energy, communications fields
+- text: Held patents in the laser, energy, and communications fields
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2826-2910
   quote: had patents issued in the laser, energy, and communications fields, which
@@ -483,7 +483,26 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fec64ee5-a550-49a7-8d36-52f16499377c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fec64ee5-a550-49a7-8d36-52f16499377c
-- text: Pioneered remote viewing technique at Stanford in late 1960s
+- text: Reported directly to the White House and the CIA director in various capacities
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch10:2057-2163
+  quote: In various past capacities, he had regularly reported directly to the White
+    House and the director of the CIA.
+  claim_id: d267f396-9477-4118-9435-449a2ca88ffd
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d267f396-9477-4118-9435-449a2ca88ffd
+- text: Conducted ESP research for the CIA
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:9966-10112
+  quote: said Harold E. Puthoff, an engineer who has conducted research on extrasensory
+    perception for the C.I.A. and later worked as a contractor for the program.
+  claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
+- text: Pioneered the remote viewing technique at Stanford in the late 1960s
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25107-25203
   quote: The program, pioneered at Stanford University in the late 1960s, was led
@@ -492,7 +511,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c17217b6-187a-479f-abcb-d31254a39eb7
-- text: Approached by CIA with Targ over Russian remote viewing programme
+- text: He and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
   quote: Hal had been a Stanford University researcher and an employee of the NSA
@@ -502,125 +521,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
-- text: Published Outbounder RV protocol in IEEE journal, 1976
-  source: Remote Viewing Secrets
-  location: ch17:4388-4541
-  quote: Historically this is the baseline protocol that brought notoriety to remote
-    viewing following publication in the IEEE by Hal Puthoff and Russell Targ in 1976.
-  claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28ae29f3-6fce-459c-b88b-a56ed32a6fc8
-- text: Directly responsible for Cognitive Sciences Laboratory's accomplishments 1972-1986
-  source: Remote Viewing Secrets
-  location: ch9:7692-7822
-  quote: These accomplishments were and are directly attributable to Dr. Hal Puthoff
-    and Mr. Russell Targ in the early years, 1972 through 1986
-  claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
-  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4cb33f4-fcae-4d9c-ac99-b5f27a536892
-- text: Reported directly to CIA director and White House
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch11:25998-26111
-  quote: Stargate became so successful, Hal reported directly to the director of the
-    CIA and the White House on a regular basis.
-  claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
-- text: Ingo Swann worked with Puthoff and Targ
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:04:34.1-00:04:39.7
-  quote: He soon began to work with Dr. Hal Puthoff and Russell Targ, two of the leading
-    researchers in the field of parapsychology.
-  claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3f74a70d-1e63-437a-9074-2c875c7ad747
-- text: Created the CIA's psychic spy programme
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:08:31.9-00:08:37.3
-  quote: Dr. Pudoff is the creator of the CIA's own revolutionary psychic spy program
-    still used to this day
-  claim_id: 2337e7a9-71c9-4993-8ffc-9748eb5f135e
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-2337e7a9-71c9-4993-8ffc-9748eb5f135e
-- text: Programme director for numerous classified CIA and DoD programmes
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:08:23.4-00:08:30.6
-  quote: Dr. Hal Pudoff is a theoretical physicist and program director for numerous
-    CIA and Department of Defense classified programs.
-  claim_id: b42c20b8-9bb8-44c8-96b2-9cd94b953356
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b42c20b8-9bb8-44c8-96b2-9cd94b953356
-- text: Puthoff was Davis's boss at time of alleged 2002 Wilson meeting
-  source: In Plain Sight
-  location: ch26:2344-2441
-  quote: probably by the recipient of the memorandum, Dr Hal Puthoff, who was Dr Eric
-    Davis’s boss at the time
-  claim_id: 407d7d41-7c3e-4e50-a022-be5969bf68a4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
-- text: Wilson said he was not familiar with names Puthoff and Kit Green
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:23637-23691
-  quote: TW not familiar with names, heard about RV program in 1990.
-  claim_id: 0f6b0857-7622-47bb-80fc-a1ef8f2b29cb
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-0f6b0857-7622-47bb-80fc-a1ef8f2b29cb
-- text: Miller offered to assist Davis's and Puthoff's crash-retrieval research, subject
-    to caveats
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:3984-4191
-  quote: I would be willing to assist you and Hal with your ongoing research into
-    UFO crash retrievals and the entities within the government (or outside of it)
-    that are involved in that business, with the following caveats.
-  claim_id: 27dc18f0-c35d-41a8-bb8a-628d118bba6d
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-27dc18f0-c35d-41a8-bb8a-628d118bba6d
-- text: Miller required his name not be associated with the work
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:4201-4394
-  quote: First, there must be absolutely NO mention or association of my name with
-    your work or investigation. I have absolutely nothing to gain from such association
-    at this time, and possibly much to lose.
-  claim_id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d04441ba-6292-498e-9d6e-1b33b1eb84b2
-- text: Puthoff's February 2020 remarks on the Wilson memo at Arlington Institute
-  source: In Plain Sight
-  location: ch26:10770-11128
-  quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
-    February 2020, he responded, ‘That is a question about the Wilson documents. They
-    probably got leaked on the internet. *And Wilson was one of the joint chiefs of
-    staff interviewed by my senior scientist colleague Eric Davis*. Since it discusses
-    potentially ongoing programs, I have no comment.’
-  claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-- text: Puthoff told Basterfield he did not mean to confirm authenticity
-  source: In Plain Sight
-  location: ch26:11375-11591
-  quote: Dr Puthoff did subsequently tell Keith Basterfield that he did not mean to
-    confirm that the Wilson interview and notes were authentic, but his explanation
-    does not address what he actually said.
-  claim_id: 88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
-- text: Conceived and commissioned studies incl. cloaking, wormholes, antigravity,
-    warp drives
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:44339-44555
-  quote: Even before I’d come aboard, Hal conceived and commissioned fascinating studies
-    for AAWSAP/AATIP, including invisibility cloaking, traversable wormholes and stargates,
-    antigravity, brain/machine interfaces, and warp drives.
-  claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
-- text: Previously managed the CIA's Stargate programme
+- text: Puthoff previously managed the CIA's Stargate program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45073-45180
   quote: The last time Hal had made this much progress on a program was during his
@@ -629,126 +530,189 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-401b6b38-170a-4e42-9d6e-697b04b42951
-- text: Senior scientist for Bigelow Aerospace working on AATIP, DIA-funded
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:09:33.4-00:09:46.9
-  quote: When I consider some of the things that we did in the AATIP program, I was
-    a senior scientist for Bigelow Aerospace on looking at what was happening out
-    of the DIA-funded program.
-  claim_id: 387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
-- text: Six UAP observables tracked by his team
+- text: Puthoff and Targ directly responsible for the Cognitive Sciences Laboratory's
+    output, 1972-1986
+  source: Remote Viewing Secrets
+  location: ch9:7692-7822
+  quote: These accomplishments were and are directly attributable to Dr. Hal Puthoff
+    and Mr. Russell Targ in the early years, 1972 through 1986
+  claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4cb33f4-fcae-4d9c-ac99-b5f27a536892
+- text: Outbounder protocol, published by Puthoff and Targ in the IEEE journal in
+    1976, brought notoriety to the field
+  source: Remote Viewing Secrets
+  location: ch17:4388-4541
+  quote: Historically this is the baseline protocol that brought notoriety to remote
+    viewing following publication in the IEEE by Hal Puthoff and Russell Targ in 1976.
+  claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28ae29f3-6fce-459c-b88b-a56ed32a6fc8
+- text: Programme became successful enough that Puthoff reported to the CIA director
+    and White House regularly
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch24:695-864
-  quote: Hypersonic velocities? Check. Instantaneous acceleration? Check. Low observability?
-    Check. Transmedium travel? Check. Antigravity? Check. Biological effects? Check.
-  claim_id: 712e2298-d57a-4560-804a-8d646633aae5
+  location: ch11:25998-26111
+  quote: Stargate became so successful, Hal reported directly to the director of the
+    CIA and the White House on a regular basis.
+  claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-712e2298-d57a-4560-804a-8d646633aae5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-712e2298-d57a-4560-804a-8d646633aae5
-- text: Commissioned ~36 papers on 2050 expertise without disclosing UAP link
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:11:31.2-00:11:51.7
-  quote: I commissioned, I think it was 36 papers from leading experts all over the
-    world. asking them, saying, I was just doing a survey for Bigelow Aerospace. Where
-    will your area of expertise be by the year 2050? I didn't tell them it had anything
-    to do with, quote, ETs or UAPs or whatever.
-  claim_id: 65232dd7-cf3f-41f1-84be-70127118b855
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-65232dd7-cf3f-41f1-84be-70127118b855
-- text: Compartmentalisation/stovepiping within AATIP extremely severe
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:10:16.2-00:10:26.2
-  quote: that's when we saw that the compartmentalization and the stovepiping was
-    just so far off the charts. that you sort of weren't going to get anywhere with
-    that.
-  claim_id: 0df45dbf-93da-4577-a822-7f00756e871b
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0df45dbf-93da-4577-a822-7f00756e871b
-- text: Kona Blue SAP followed on from AAWSAP
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:12:40.2-00:12:44.9
-  quote: Well, that was at the end of it, following on AAWSAP.
-  claim_id: c0cf735c-d7d5-448c-aa8d-5750e0dc2e0e
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-c0cf735c-d7d5-448c-aa8d-5750e0dc2e0e
-- text: Reid arranged further funding for AAWSAP
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:13:00.4-00:13:12.8
-  quote: Actually, Senator Harry Reid, who was Majority Leader at the time, Majority
-    Senator, had set up the next part of funding that was supposed to go forward as
-    part of AAWSAP.
-  claim_id: 4eb4f686-e894-4c87-8588-7d13dd868385
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-4eb4f686-e894-4c87-8588-7d13dd868385
-- text: Kona Blue SAP at DHS ultimately failed after pressure
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:15:05.3-00:15:18.2
-  quote: at the very end, I ran into some... pressure against not funding it by a
-    couple of individuals, which I don't feel like a name.
-  claim_id: a0de6c1e-f6a5-419c-9259-3bed121e8d3e
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a0de6c1e-f6a5-419c-9259-3bed121e8d3e
-- text: AAWSAP was a classified programme to obtain answers about UAP
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:24:36.8-00:24:43.5
-  quote: Well, basically, AAWSAP was the program to actually try to get the answers,
-    although it was at a classified level.
-  claim_id: d740437e-c561-4044-a51a-32d599359751
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d740437e-c561-4044-a51a-32d599359751
-- text: AATIP was not funded by congressional mandate
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:25:13.4-00:25:15.2
-  quote: So, no, AATIP was not actually funded.
-  claim_id: 8c6ddc06-e19c-4e57-bf18-c85039b47a78
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8c6ddc06-e19c-4e57-bf18-c85039b47a78
-- text: AATIP was a nickname for AAWSAP, not an independent programme
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:46:39.0-00:46:48.9
-  quote: AATIP actually had been a nickname for AAWSAP, you know, along the way, but
-    it was not itself an independent program.
-  claim_id: c7b6265a-8086-439f-8273-426c9948328e
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-c7b6265a-8086-439f-8273-426c9948328e
-- text: Legacy Program had access to crash material and biologics
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:32:00.9-00:32:01.7
-  quote: they certainly had access
-  claim_id: 54644aec-9eee-4f8d-86e4-f7b18c79af23
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
-- text: Legacy Program shut down for lack of progress
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:32:18.5-00:32:33.8
-  quote: The program got shut down, actually, I don't quite remember the date, because
-    no progress had been made. Because they couldn't get materials in front of scientists
-    who could do a good job of evaluating them. So it died, more or less.
-  claim_id: 726e2e3b-8b07-4287-a79d-a82174c33da6
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-726e2e3b-8b07-4287-a79d-a82174c33da6
-- text: 'Only remaining AATIP contractors: Puthoff, Livingston, Davis'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch16:17028-17127
-  quote: The only contractors who would remain involved with Jay and me were Hal,
-    Will Livingston, and Eric Davis.
-  claim_id: 1b038263-4646-4507-8b20-885455dead54
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b038263-4646-4507-8b20-885455dead54
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b038263-4646-4507-8b20-885455dead54
-- text: Davis, astrophysicist, worked with Puthoff as AAWSAP/AATIP contractor
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:6336-6498
-  quote: It wasn’t until much later that I met Eric Davis, an astrophysicist with
-    high-level national security clearances who also worked with Hal as a contractor
-    for the program.
-  claim_id: 271695f2-2f93-4103-9532-36a12d5aba5f
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-271695f2-2f93-4103-9532-36a12d5aba5f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-271695f2-2f93-4103-9532-36a12d5aba5f
-- text: Elizondo joined Puthoff and Mellon in TTSA venture
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
+- text: Subjects with no prior exposure learned to perform well under SRI's experimental
+    procedure
+  source: Remote Viewing Secrets
+  location: ch16:2166-2423
+  quote: The development at SRI of a successful experimental procedure to elicit this
+    capability has evolved to the point where persons such as visiting government
+    scientists and contract monitors, with no previous exposure to such concepts,
+    have learned to perform well
+  claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fadb57c8-ea4e-41aa-ac48-caede7a11946
+- text: Most subjects displayed some remote-viewing talent from the outset
+  source: Remote Viewing Secrets
+  location: ch16:3847-3958
+  quote: 'most of the people Hal and Russell worked with were the ones who: A: Displayed
+    some degree of talent from the outset.'
+  claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
+- text: Subjects typically continued out of personal interest, a form of self-selection
+  source: Remote Viewing Secrets
+  location: ch16:3967-4096
+  quote: 'B: Voluntarily chose to continue involvement out of a strong personal interest
+    in the subject (which is obviously a form of self-selection).'
+  claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+  record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
+  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+- text: Ingo Swann worked with Puthoff and Targ, two leading researchers in the field
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:04:34.1-00:04:39.7
+  quote: He soon began to work with Dr. Hal Puthoff and Russell Targ, two of the leading
+    researchers in the field of parapsychology.
+  claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3f74a70d-1e63-437a-9074-2c875c7ad747
+- text: Swann recalled Puthoff told him he was the first to find a ring around Jupiter
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:05:50.6-00:05:56.1
+  quote: So Hal came and said, you're the first to find a ring around Jupiter. I said,
+    I am.
+  claim_id: 4c9120b0-56cd-4f5a-9304-d99632dd6bf6
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4c9120b0-56cd-4f5a-9304-d99632dd6bf6
+- text: Pat Price gave Puthoff an unsolicited package of RV notes describing four
+    alleged UFO bases, 1973
+  source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+  location: ch23:30560-30821
+  quote: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s
+    (SRI) genesis RV program, gave an unsolicited package to Hal Puthoff, one of the
+    key scientists running the SRI project. It contained Price’s remote viewing notes
+    of four “UFO bases” on Earth.
+  claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
+  record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
+  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
+- text: 1997 paper commenting on possible UFO artefact samples from the Ubatuba object
+  source: In Plain Sight
+  location: ch24:10686-10976
+  quote: In a 1997 paper, Hal Puthoff commented about 'possible UFO artifact' samples
+    recovered from a Brazilian UAP – the so-called Ubatuba object, which reportedly
+    ejected pure magnesium metal fragments as it flew over Ubatuba in San Paulo province
+    in Brazil in two separate incidents in 1954 and 1957.
+  claim_id: 49d58839-8747-498b-9c46-21b82c9704fa
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49d58839-8747-498b-9c46-21b82c9704fa
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-49d58839-8747-498b-9c46-21b82c9704fa
+- text: Magnesium of exceptional purity, anomalous trace composition, 6.7% denser
+    than ordinary magnesium
+  source: In Plain Sight
+  location: ch24:10983-11281
+  quote: '''Laboratory analysis of the samples found the magnesium to be not only
+    of exceptional purity, and anomalous in its trace composition of other elements,
+    but 6.7% denser than ordinary pure magnesium, a figure well beyond the experimental
+    error of the measurement,'' Puthoff wrote in the same 1997 book review.'
+  claim_id: d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
+- text: Result considered anomalous, possibly evidence of extraterrestrial manufacture
+  source: In Plain Sight
+  location: ch24:11479-11741
+  quote: '''Since the only isotope separation on a significant scale in terrestrial
+    manufacture is that of uranium, such a result must be considered at least anomalous,
+    and possibly as evidence for extra-terrestrial manufacture,'' Puthoff wrote in
+    1997.'
+  claim_id: 084db541-92b6-4855-a360-9a45aafd9fb6
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-084db541-92b6-4855-a360-9a45aafd9fb6
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-084db541-92b6-4855-a360-9a45aafd9fb6
+- text: No evidence anybody had made a sample like the Art's Parts bismuth/magnesium-zinc
+    material
+  source: In Plain Sight
+  location: ch24:2948-3154
+  quote: '''Nowhere could we find any evidence that anybody ever made one of these.
+    When we talked to people in the materials field who should know, they said we
+    don''t know why anybody would want to make anything like this.'''
+  claim_id: ba8529e8-7980-47d6-9312-1c5dd7138404
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
+- text: '2012 letter to Linda Moulton Howe: tests did not produce an anomalous outcome'
+  source: In Plain Sight
+  location: ch24:3163-3486
+  quote: A letter from Dr Hal Puthoff (formerly with TTSA) to Linda Moulton Howe in
+    2012, revealed by journalist M.J. Banias on Motherboard, admitted that tests he
+    did back then on the Art's Parts samples 'did not yield an interesting/anomalous
+    outcome in the tests involving the application of various fields'.
+  claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
+- text: '2018 conference remark: material an excellent microscopic waveguide at terahertz
+    frequencies'
+  source: In Plain Sight
+  location: ch24:3496-3701
+  quote: But then Puthoff later told a Las Vegas conference in 2018 that the bismuth/magnesium
+    samples 'turn out to be an excellent microscopic waveguide for very high frequency
+    electromagnetic radiation terahertz frequencies'.
+  claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
+- text: '2019 TTSA SEC disclosure: DeLonge sold six samples for $35,000, Puthoff to
+    analyse them'
+  source: In Plain Sight
+  location: ch23:12669-12902
+  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
+    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
+    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
+  claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
+- text: '2018 TTSA SEC disclosure: EarthTech retained for materials analysis and beamed
+    energy propulsion plans'
+  source: In Plain Sight
+  location: ch23:17382-17615
+  quote: An earlier 2018 disclosure TTSA made to the US Securities and Exchange Commission
+    revealed that TTSA has already retained Hal Puthoff's EarthTech International
+    Inc. to prepare plans on materials analysis and beamed energy propulsion launch
+    systems
+  claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
+- text: Puthoff worked for the NSA and the CIA
+  source: In Plain Sight
+  location: ch24:8072-8107
+  quote: Hal Puthoff worked for the NSA and CIA.
+  claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
+- text: Elizondo joined Puthoff and Mellon in new venture called TTSA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:12517-12762
@@ -760,7 +724,17 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-- text: Puthoff was third co-founder of TTSA
+- text: TTSA aims to raise money for research into UFOs
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:12771-12879
+  quote: They are speaking publicly about their efforts as their venture aims to raise
+    money for research into U.F.O.s.
+  claim_id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
+- text: Puthoff was TTSA's third co-founder
   source: In Plain Sight
   location: ch21:970-1045
   quote: There was also the third co-founder of TTSA, Dr Hal Puthoff, a theoretical
@@ -769,16 +743,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
-- text: TTSA involved Mellon, Elizondo, Semivan, Justice, Puthoff
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:48:19.7-00:48:35.4
-  quote: the people who went ahead and setting up to the STARS Academy, I mean, did
-    involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice from,
-    you know, So anyway, and me.
-  claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-- text: Helped lead campaign through TTSA for UAP disclosure
+- text: Helped lead TTSA's campaign for government UAP disclosure
   source: In Plain Sight
   location: ch28:6667-6924
   quote: Is it also just a coincidence that Dr Hal Puthoff, one of those who led the
@@ -789,7 +754,16 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
-- text: Resignation as TTSA director disclosed by DeLonge
+- text: TTSA involved Mellon, Elizondo, Semivan, Justice, and Puthoff
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:48:19.7-00:48:35.4
+  quote: the people who went ahead and setting up to the STARS Academy, I mean, did
+    involve Chris Mellon, involved Lou Elizondo, Jim Simivan, Steve Justice from,
+    you know, So anyway, and me.
+  claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+- text: DeLonge disclosed Puthoff's resignation as TTSA director, 2021
   source: In Plain Sight
   location: ch21:23850-23908
   quote: but also, a week later, Dr Hal Puthoff's resignation as a director.
@@ -797,7 +771,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
-- text: Transitioned to TTSA scientific advisory board
+- text: Puthoff transitioned to TTSA's scientific advisory board
   source: In Plain Sight
   location: ch21:24145-24301
   quote: As a result, Dr. Harold E. Puthoff, one of TTSA's board members, has transitioned
@@ -806,68 +780,107 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
-- text: 1997 paper on possible Ubatuba object artefacts
-  source: In Plain Sight
-  location: ch24:10686-10976
-  quote: In a 1997 paper, Hal Puthoff commented about 'possible UFO artifact' samples
-    recovered from a Brazilian UAP – the so-called Ubatuba object, which reportedly
-    ejected pure magnesium metal fragments as it flew over Ubatuba in San Paulo province
-    in Brazil in two separate incidents in 1954 and 1957.
-  claim_id: 49d58839-8747-498b-9c46-21b82c9704fa
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49d58839-8747-498b-9c46-21b82c9704fa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-49d58839-8747-498b-9c46-21b82c9704fa
-- text: Lab analysis found magnesium 6.7% denser than ordinary
-  source: In Plain Sight
-  location: ch24:10983-11281
-  quote: '''Laboratory analysis of the samples found the magnesium to be not only
-    of exceptional purity, and anomalous in its trace composition of other elements,
-    but 6.7% denser than ordinary pure magnesium, a figure well beyond the experimental
-    error of the measurement,'' Puthoff wrote in the same 1997 book review.'
-  claim_id: d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
-- text: Mg26 result anomalous, possibly extraterrestrial manufacture
-  source: In Plain Sight
-  location: ch24:11479-11741
-  quote: '''Since the only isotope separation on a significant scale in terrestrial
-    manufacture is that of uranium, such a result must be considered at least anomalous,
-    and possibly as evidence for extra-terrestrial manufacture,'' Puthoff wrote in
-    1997.'
-  claim_id: 084db541-92b6-4855-a360-9a45aafd9fb6
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-084db541-92b6-4855-a360-9a45aafd9fb6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-084db541-92b6-4855-a360-9a45aafd9fb6
-- text: '2019 TTSA SEC disclosure: Puthoff to analyse Art''s Parts samples'
-  source: In Plain Sight
-  location: ch23:12669-12902
-  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
-    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
-    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
-  claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
-- text: No evidence anyone had made a sample like the bismuth/magnesium-zinc material
-  source: In Plain Sight
-  location: ch24:2948-3154
-  quote: '''Nowhere could we find any evidence that anybody ever made one of these.
-    When we talked to people in the materials field who should know, they said we
-    don''t know why anybody would want to make anything like this.'''
-  claim_id: ba8529e8-7980-47d6-9312-1c5dd7138404
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
-- text: Possessed a piece of material allegedly from the Roswell crash
+- text: Puthoff continued AAWSAP/AATIP work under Elizondo's leadership until his
+    resignation
+  source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: char:6307-6705
+  quote: I have no problem asserting that as an AAWSAP [Advanced Aerospace Weapon
+    System Applications Program]/AATIP Contractor & Senior Advisor I continued to
+    attend meetings, provide briefings, gain access to videos, provide Proposed Program
+    Plans, meet with staff, etc., all under the aegis of Elizondo’s leadership and
+    responsibility for maintaining continuity of the Program effort and goals until
+    he resigned.
+  claim_id: b66416e8-dd81-4130-873d-cc9433bb7263
+  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
+  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b66416e8-dd81-4130-873d-cc9433bb7263
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b66416e8-dd81-4130-873d-cc9433bb7263
+- text: Puthoff was the programme's chief scientist
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch24:18638-18710
-  quote: Hal had in his possession material allegedly recovered from the Roswell crash.
-  claim_id: 8f15faa7-ac27-480a-9c26-69100b49678b
+  location: ch10:2329-2356
+  quote: He was the program’s chief scientist.
+  claim_id: 013b3bf8-77fd-4458-9e8f-419c082aa02a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f15faa7-ac27-480a-9c26-69100b49678b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f15faa7-ac27-480a-9c26-69100b49678b
-- text: Told Elizondo a UAP crash occurred at Roswell in 1947, covered up
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-013b3bf8-77fd-4458-9e8f-419c082aa02a
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-013b3bf8-77fd-4458-9e8f-419c082aa02a
+- text: Puthoff had conceived and commissioned studies into cloaking, wormholes, antigravity,
+    brain-machine interfaces, and warp drives
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:44339-44555
+  quote: Even before I’d come aboard, Hal conceived and commissioned fascinating studies
+    for AAWSAP/AATIP, including invisibility cloaking, traversable wormholes and stargates,
+    antigravity, brain/machine interfaces, and warp drives.
+  claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
+- text: Commissioned ~36 papers from experts on their field's future, without disclosing
+    UAP connection
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:11:31.2-00:11:51.7
+  quote: I commissioned, I think it was 36 papers from leading experts all over the
+    world. asking them, saying, I was just doing a survey for Bigelow Aerospace. Where
+    will your area of expertise be by the year 2050? I didn't tell them it had anything
+    to do with, quote, ETs or UAPs or whatever.
+  claim_id: 65232dd7-cf3f-41f1-84be-70127118b855
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-65232dd7-cf3f-41f1-84be-70127118b855
+- text: Papers posted to a classified JWICS website
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:11:55.7-00:12:00.3
+  quote: they were all put up on a classified website, JWICS website.
+  claim_id: 9bf1e79e-ac1f-4792-ac2f-51678843d6f2
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-9bf1e79e-ac1f-4792-ac2f-51678843d6f2
+- text: Most papers later released under FOIA requests
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:12:01.4-00:12:08.6
+  quote: But by now, most of those papers have been released through FOIA, so there's
+    a lot of good data in there.
+  claim_id: df26d04c-2cf2-4e9b-935d-aac528ecaac3
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-df26d04c-2cf2-4e9b-935d-aac528ecaac3
+- text: AAWSAP was a classified programme intended to obtain answers about UAP
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:24:36.8-00:24:43.5
+  quote: Well, basically, AAWSAP was the program to actually try to get the answers,
+    although it was at a classified level.
+  claim_id: d740437e-c561-4044-a51a-32d599359751
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d740437e-c561-4044-a51a-32d599359751
+- text: AAWSAP began in 2008
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:29:35.9-00:29:43.6
+  quote: So, AAWSAP and what we did starting in 2008 was completely separate from
+    the legacy program.
+  claim_id: 2ff8c7f5-8482-487a-ae39-5050f5128480
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
+- text: AAWSAP started by Senator Harry Reid and a couple of other senators
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:28:51.0-00:28:55.7
+  quote: the AAWSAP program was started by Senator Harry Reid and a couple of other
+    senators.
+  claim_id: c2cd827c-ff1c-491f-bc45-ef1e9559c07f
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-c2cd827c-ff1c-491f-bc45-ef1e9559c07f
+- text: AATIP was a nickname for AAWSAP, not an independent programme
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:46:39.0-00:46:48.9
+  quote: AATIP actually had been a nickname for AAWSAP, you know, along the way, but
+    it was not itself an independent program.
+  claim_id: c7b6265a-8086-439f-8273-426c9948328e
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-c7b6265a-8086-439f-8273-426c9948328e
+- text: AATIP not funded by congressional mandate
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:25:13.4-00:25:15.2
+  quote: So, no, AATIP was not actually funded.
+  claim_id: 8c6ddc06-e19c-4e57-bf18-c85039b47a78
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8c6ddc06-e19c-4e57-bf18-c85039b47a78
+- text: Puthoff told Elizondo a UAP crash occurred at Roswell in 1947, covered up
+    by the government
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 78-94
   quote: “Well… it all goes back to Roswell in 1947.” ... “You mean to tell me that
@@ -877,7 +890,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ece2b801-e4cf-4412-8370-a8315e788ef7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ece2b801-e4cf-4412-8370-a8315e788ef7
-- text: Told Elizondo four nonhuman bodies recovered from Roswell
+- text: Puthoff told Elizondo four deceased nonhuman bodies were recovered from the
+    Roswell crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:13773-13911
   quote: Hal went on to tell me something else that truly blew my mind. Four deceased
@@ -886,57 +900,121 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d33d7a2-94cd-4fe1-8625-2d07866d6d96
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d33d7a2-94cd-4fe1-8625-2d07866d6d96
-- text: Expert on zero-point energy theory
+- text: Puthoff possessed a piece of material allegedly recovered from the Roswell
+    crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch22:1018-1173
-  quote: Hal was an expert on the theory of zero-point energy, a holy grail of science
-    that stipulates there is free energy even in the vacuum of space that we can harness.
-  claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
+  location: ch24:18638-18710
+  quote: Hal had in his possession material allegedly recovered from the Roswell crash.
+  claim_id: 8f15faa7-ac27-480a-9c26-69100b49678b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
-- text: Estimated warp bubble energy at 3.2 or 5.6 terahertz
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch24:15809-15916
-  quote: It would take a lot of energy to create and sustain the bubble, say, somewhere
-    in the 3.2 or 5.6 Terahertz range.
-  claim_id: c892bba8-3b12-4007-b930-a9d4e9b2186e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c892bba8-3b12-4007-b930-a9d4e9b2186e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c892bba8-3b12-4007-b930-a9d4e9b2186e
-- text: Considers warp drive not out of the question given physics advances
-  source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
-  location: 00:32:47.9-00:32:54.4
-  quote: The truth of the matter is we now know in our physics, which has been advancing,
-    that something like warp drive is not out of the question.
-  claim_id: bcbe1c72-61c5-4c3b-bd3e-5d38e0de6bd7
-  record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-bcbe1c72-61c5-4c3b-bd3e-5d38e0de6bd7
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f15faa7-ac27-480a-9c26-69100b49678b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f15faa7-ac27-480a-9c26-69100b49678b
+- text: Puthoff has spoken of a legacy program with access to crash material and biologics
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:32:00.9-00:32:01.7
+  quote: they certainly had access
+  claim_id: 54644aec-9eee-4f8d-86e4-f7b18c79af23
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
+- text: Gatekeepers of the legacy program are unelected security personnel ensuring
+    it is not exposed
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:37:06.8-00:37:23.9
+  quote: there are certain people who their job is to make sure that the Deep Legacy
+    program doesn't get exposed or doesn't come to light. / Unelected individuals,
+    yes. They're security type people.
+  claim_id: ca327014-a88f-428e-9fb7-1df4ee5b52b5
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ca327014-a88f-428e-9fb7-1df4ee5b52b5
+- text: Legacy program said to have been shut down after participants could not get
+    materials properly evaluated
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:32:18.5-00:32:33.8
+  quote: The program got shut down, actually, I don't quite remember the date, because
+    no progress had been made. Because they couldn't get materials in front of scientists
+    who could do a good job of evaluating them. So it died, more or less.
+  claim_id: 726e2e3b-8b07-4287-a79d-a82174c33da6
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-726e2e3b-8b07-4287-a79d-a82174c33da6
+- text: Puthoff later clarified only the AAWSAP-era attempt was halted, not the legacy
+    program itself
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:34:19.3-00:34:21.7
+  quote: Yeah, the legacy program didn't get shut down. I'm just saying- / The attempt
+    to make progress via AAWSAP.
+  claim_id: ed018f81-4803-4b99-8a74-11622aed0367
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ed018f81-4803-4b99-8a74-11622aed0367
+- text: Eric Davis worked for Puthoff
+  source: 'Episode 73: Science vs. Secrecy'
+  location: 00:33:07.4-00:33:08.5
+  quote: you know, Eric Davis worked for me
+  claim_id: f2a4200d-8871-4ea4-a899-0585e70d8227
+  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
+  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f2a4200d-8871-4ea4-a899-0585e70d8227
+- text: Puthoff was Davis's boss at the time of the alleged 2002 Wilson meeting
+  source: In Plain Sight
+  location: ch26:2344-2441
+  quote: probably by the recipient of the memorandum, Dr Hal Puthoff, who was Dr Eric
+    Davis’s boss at the time
+  claim_id: 407d7d41-7c3e-4e50-a022-be5969bf68a4
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
+- text: Willard Miller offered to assist Davis and Puthoff with crash-retrieval research
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:3984-4191
+  quote: I would be willing to assist you and Hal with your ongoing research into
+    UFO crash retrievals and the entities within the government (or outside of it)
+    that are involved in that business, with the following caveats.
+  claim_id: 27dc18f0-c35d-41a8-bb8a-628d118bba6d
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-27dc18f0-c35d-41a8-bb8a-628d118bba6d
+- text: Miller required no association of his name with their work
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:4201-4394
+  quote: First, there must be absolutely NO mention or association of my name with
+    your work or investigation. I have absolutely nothing to gain from such association
+    at this time, and possibly much to lose.
+  claim_id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d04441ba-6292-498e-9d6e-1b33b1eb84b2
+- text: Puthoff, asked about the Wilson memo in Feb 2020, said it was leaked online
+    and declined further comment
+  source: In Plain Sight
+  location: ch26:10770-11128
+  quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
+    February 2020, he responded, ‘That is a question about the Wilson documents. They
+    probably got leaked on the internet. *And Wilson was one of the joint chiefs of
+    staff interviewed by my senior scientist colleague Eric Davis*. Since it discusses
+    potentially ongoing programs, I have no comment.’
+  claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 8c0be38a47c3009cff883bb5da648cedc5ca219c92550a5fe72d7820fc5d31ff
+  prompt_sha256: f9348c4a7e04c46147b73b996c915df8e01fc6d366b4ef4c6daf4b141a81cbe8
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 100296
-    output: 55241
+    input: 100941
+    output: 62460
     real_input: 2
-    cache_read: 39313
-    cache_write: 60981
+    cache_read: 39417
+    cache_write: 61522
     calls: 0
-  body_sha256: b2fb3a6c304c017738ea0a0a5d65333981f87bc03dc173d8d71f4bd2fb1ebae4
+  body_sha256: 0b75b1f59ad710c1bb94ed99b1cf10c7e512a04bb32652f1a76db1510bec890d
 ---
 
-Harold E. Puthoff, commonly known as Hal Puthoff, is a physicist and engineer<sup>1</sup> who earned his PhD from [Stanford University](/organisations/stanford-university) in 1967<sup>2</sup>. His professional background spans decades of research at General Electric, Sperry Corporation, the [National Security Agency (NSA)](/organisations/national-security-agency-nsa), Stanford University, and [SRI International](/organisations/sri-international)<sup>3</sup>, including work for both the NSA and the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia)<sup>4</sup>. He conducted research on extrasensory perception (ESP) for the CIA before later working as a contractor for the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip)<sup>5</sup>. Puthoff served almost every US government entity, including the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) and agencies within the intelligence community, as a senior scientific advisor<sup>6</sup>, publishing numerous papers on quantum physics, lasers, and space propulsion<sup>7</sup> and holding patents in the laser, energy, and communications fields<sup>8</sup>.
+Harold E. Puthoff, widely known as Hal Puthoff, is a physicist and engineer<sup>1</sup> who spent more than fifty years as a chief scientist on highly classified projects for the United States government.<sup>2</sup> He earned his PhD from [Stanford University](/organisations/stanford-university) in 1967,<sup>3</sup> and his career subsequently spanned research posts at General Electric, Sperry Corporation, the [National Security Agency (NSA)](/organisations/national-security-agency-nsa), Stanford University, and [SRI International](/organisations/sri-international).<sup>4</sup> He served as a senior scientific advisor to almost every US government entity, including the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) and agencies within the intelligence community such as the NSA,<sup>5</sup> published numerous papers on quantum physics, lasers, and space propulsion,<sup>6</sup> and held patents in the laser, energy, and communications fields.<sup>7</sup> In various capacities he reported directly to the White House and the director of the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia).<sup>8</sup>
 
-The [Remote Viewing (RV)](/topics/remote-viewing-rv) technique used in Project [Stargate](/projects/stargate) was pioneered at Stanford University in the late 1960s and led by Puthoff<sup>9</sup>. He was a Stanford researcher and NSA employee when he and [Russell Targ](/people/russell-targ) were approached by the CIA and told that Russia had a remote-viewing programme<sup>10</sup>; the pair went on to publish the Outbounder remote-viewing protocol in the Institute of Electrical and Electronics Engineers (IEEE) journal in 1976<sup>11</sup>, and were directly responsible for the accomplishments of SRI International's Cognitive Sciences Laboratory between 1972 and 1986<sup>12</sup>. The programme became successful enough that Puthoff reported directly to the director of the CIA and the White House on a regular basis<sup>13</sup>. [Ingo Swann](/people/ingo-swann) was among those who worked with Puthoff and Targ at SRI<sup>14</sup>. Puthoff created the CIA's psychic-spy programme<sup>15</sup> and served as a programme director for numerous other classified CIA and DoD programmes<sup>16</sup>.
+Puthoff conducted research into extrasensory perception for the CIA,<sup>9</sup> and pioneered the [Remote Viewing (RV)](/topics/remote-viewing-rv) technique at Stanford University in the late 1960s.<sup>10</sup> He and [Russell Targ](/people/russell-targ) were then approached by the CIA and told that Russia had a remote-viewing programme, prompting the effort that became Project [Stargate](/projects/stargate).<sup>11</sup> Puthoff went on to manage the CIA's Stargate program.<sup>12</sup> He and Targ were directly responsible for the Cognitive Sciences Laboratory's output between 1972 and 1986,<sup>13</sup> and their 1976 paper describing what became known as the Outbounder remote-viewing protocol, published in the Institute of Electrical and Electronics Engineers (IEEE) journal, brought notoriety to the field.<sup>14</sup> The programme became successful enough that Puthoff reported directly to the CIA director and the White House on a regular basis.<sup>15</sup> According to Puthoff and Targ's SRI report, individuals with no previous exposure to remote viewing, including visiting government scientists and contract monitors, were able to learn to perform well under the experimental procedure the pair developed.<sup>16</sup> Most of the subjects they worked with displayed some degree of remote-viewing talent from the outset,<sup>17</sup> and typically chose to continue their involvement out of personal interest, a form of self-selection.<sup>18</sup> [Ingo Swann](/people/ingo-swann) worked with Puthoff and Targ, two of the field's leading researchers,<sup>19</sup> and recalled that Puthoff told him he had been the first to find a ring around Jupiter.<sup>20</sup> [Pat Price](/people/pat-price), another SRI remote viewer, gave Puthoff an unsolicited package of his remote-viewing notes in 1973 describing four alleged "UFO bases" on Earth.<sup>21</sup>
 
-Puthoff was [Eric Davis](/people/eric-davis)'s superior at the time of Davis's alleged 2002 meeting with Admiral [Thomas Wilson](/people/thomas-wilson), notes of which later circulated as The Admiral Wilson Memo<sup>17</sup>. During that meeting, Wilson said he was not familiar with the names Puthoff and Kit Green<sup>18</sup>. [Willard Miller](/people/willard-miller), corresponding separately with Davis and Puthoff around the same period, said he could offer to assist their ongoing research into UFO crash retrievals, subject to caveats<sup>19</sup>, but required that his own name not be associated with their work<sup>20</sup>. Asked about the memo at an Arlington Institute address in February 2020, Puthoff said it had been leaked on the internet and that Wilson was one of the joint chiefs of staff interviewed by Davis, declining to comment further because it discussed potentially ongoing programmes<sup>21</sup>; he subsequently told researcher Keith Basterfield that he had not meant to confirm the interview and notes were authentic<sup>22</sup>.
+Puthoff's work also extended to physical evidence associated with [UAP](/topics/unidentified-anomalous-phenomena-uap). In a 1997 paper, he commented on possible UFO artefact samples recovered from the Ubatuba object, a Brazilian UAP reported to have ejected pure magnesium fragments in two separate incidents in 1954 and 1957.<sup>22</sup> He wrote that laboratory analysis found the magnesium to be of exceptional purity, anomalous in its trace composition of other elements, and 6.7% denser than ordinary pure magnesium, a difference he stated was well beyond the experimental error of the measurement.<sup>23</sup> He wrote that the result must be considered at least anomalous, and possibly evidence of extraterrestrial manufacture of the sample.<sup>24</sup> His findings were published as the 1997 Hal Puthoff paper on Ubatuba magnesium samples. Puthoff also examined samples associated with Art's Parts (alleged Roswell metal samples). He said that no evidence could be found that anybody had ever made a sample like the bismuth/magnesium-zinc material, and that people in the materials field did not know why anyone would want to make anything like it.<sup>25</sup> In a 2012 letter to Linda Moulton Howe, he stated that tests he had carried out on the samples had not produced an interesting or anomalous outcome when various fields were applied,<sup>26</sup> though he told a Las Vegas conference in 2018 that the bismuth/magnesium material turned out to be an excellent microscopic waveguide for very high-frequency electromagnetic radiation at terahertz frequencies.<sup>27</sup> A 2019 To The Stars Academy of Arts & Sciences (TTSA) Securities and Exchange Commission (SEC) disclosure on Art's Parts purchase recorded that Tom DeLonge sold six of the samples to the company for $35,000, and that Puthoff would analyse them for TTSA.<sup>28</sup> An earlier 2018 disclosure by TTSA to the SEC had already revealed that the organisation retained Puthoff's company, EarthTech International Inc., to prepare plans on materials analysis and beamed energy propulsion launch systems.<sup>29</sup>
 
-Before [Luis Elizondo](/people/luis-elizondo) joined the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap)/AATIP effort, Puthoff had already conceived and commissioned studies into invisibility cloaking, traversable wormholes and stargates, antigravity, brain-machine interfaces, and [warp drives](/topics/warp-drive)<sup>23</sup>, and had previously managed the CIA's Stargate programme<sup>24</sup>. He served as a senior scientist for Bigelow Aerospace working on AATIP, examining activity funded by the Defense Intelligence Agency (DIA)<sup>25</sup>, and the six [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) observables tracked by his team were hypersonic velocity, instantaneous acceleration, low observability, transmedium travel, antigravity, and biological effects<sup>26</sup>. On Bigelow's behalf he commissioned around 36 papers from outside experts on the future of their fields by 2050, without disclosing any connection to UAP<sup>27</sup>, and he has said that compartmentalisation and "stovepiping" within AATIP was extremely severe, hindering access to materials<sup>28</sup>. A follow-on effort, the Kona Blue Special Access Program (SAP), succeeded AAWSAP<sup>29</sup>, with then-Senate Majority Leader Harry Reid arranging further funding intended to continue the programme's work<sup>30</sup>, but the Department of Homeland Security (DHS) effort ultimately failed after Puthoff encountered pressure against funding it from individuals he declined to name<sup>31</sup>. Puthoff has described AAWSAP as a classified programme intended to obtain answers about UAP<sup>32</sup> that was not funded by congressional mandate<sup>33</sup>, with AATIP itself merely a nickname for AAWSAP rather than an independent programme<sup>34</sup>. He has said the [Legacy Program](/projects/legacy-program) had access to crash material and biological specimens<sup>35</sup>, but was shut down because its participants could not get that material in front of scientists able to evaluate it properly<sup>36</sup>. Puthoff, alongside Davis and William Livingston, was among the only contractors who remained involved with AATIP once Elizondo and [Jim Semivan](/people/jim-semivan) took charge<sup>37</sup>; Davis, an astrophysicist with high-level national security clearances, had worked with Puthoff as an AAWSAP/AATIP contractor<sup>38</sup>.
+Puthoff worked for the NSA and the CIA<sup>30</sup> before, in 2017, joining [Luis Elizondo](/people/luis-elizondo) and [Christopher K. Mellon](/people/christopher-k-mellon), another former DoD official, in a new commercial venture called the [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa),<sup>31</sup> which aimed to raise money for research into UFOs.<sup>32</sup> He was TTSA's third co-founder<sup>33</sup> and helped lead the organisation's campaign to get the US government to disclose what it knows about UAP.<sup>34</sup> The venture also involved [Jim Semivan](/people/jim-semivan) and [Steve Justice](/people/steve-justice).<sup>35</sup> In 2021, a week after disclosing the departures of Mellon, Elizondo, and Justice, Tom DeLonge disclosed Puthoff's resignation as a TTSA director;<sup>36</sup> he then transitioned to the company's scientific advisory board.<sup>37</sup> Separately, Puthoff was a contractor and senior advisor to the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) and the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), continuing to attend meetings, provide briefings, and prepare Proposed Program Plans under Elizondo's leadership until Elizondo's resignation.<sup>38</sup> Puthoff was the programme's chief scientist,<sup>39</sup> and before Elizondo joined the effort, Puthoff had already conceived and commissioned studies into invisibility cloaking, traversable wormholes, antigravity, brain-machine interfaces, and [warp drive](/topics/warp-drive).<sup>40</sup> As a senior scientist for Bigelow Aerospace working on AATIP, Puthoff commissioned around 36 papers from experts worldwide on where their field of expertise would stand by 2050, without disclosing any connection to UAP or extraterrestrials;<sup>41</sup> the papers were posted to a classified Joint Worldwide Intelligence Communications System (JWICS) website,<sup>42</sup> and most were later released under Freedom of Information Act (FOIA) requests.<sup>43</sup> Puthoff has said AAWSAP was a classified programme intended to obtain answers about UAP,<sup>44</sup> begun in 2008,<sup>45</sup> and started by Senator Harry Reid and a couple of other senators,<sup>46</sup> and that AATIP was a nickname for AAWSAP rather than an independent programme,<sup>47</sup> which had not itself been funded by congressional mandate.<sup>48</sup>
 
-Elizondo joined Puthoff and [Christopher K. Mellon](/people/christopher-k-mellon) in a new commercial venture called [To the Stars Academy of Arts and Science (TTSA)](/organisations/to-the-stars-academy-of-arts-and-science-ttsa)<sup>39</sup>, of which Puthoff was the third co-founder<sup>40</sup>. [To The Stars Academy (TTSA)](/organisations/to-the-stars-academy-ttsa) also involved Mellon, Elizondo, Semivan, and [Steve Justice](/people/steve-justice)<sup>41</sup>, and through it Puthoff helped lead a campaign to get the US government to disclose what it knows about UAP<sup>42</sup>. A week after the departures of Mellon, Elizondo and Justice were disclosed, Tom DeLonge disclosed Puthoff's resignation as a TTSA director<sup>43</sup>; Puthoff transitioned to the company's scientific advisory board<sup>44</sup>.
-
-Puthoff has conducted materials analysis connected to alleged UAP debris. In a 1997 paper he discussed possible artefacts recovered from the Ubatuba object, a Brazilian UAP reported to have ejected magnesium fragments during incidents in 1954 and 1957<sup>45</sup> (see the 1997 Hal Puthoff paper on Ubatuba magnesium samples); he wrote that laboratory analysis found the magnesium to be of exceptional purity and 6.7% denser than ordinary pure magnesium<sup>46</sup>, a result he considered at least anomalous and possibly evidence of extraterrestrial manufacture<sup>47</sup>. According to a 2019 disclosure notice by TTSA to the Securities and Exchange Commission, Puthoff would be analysing the Art's Parts (alleged Roswell metal samples) for the company (see the 2019 To The Stars Academy of Arts & Sciences (TTSA) Securities and Exchange Commission (SEC) disclosure on Art's Parts purchase)<sup>48</sup>; Puthoff has said no evidence could be found that anyone had ever made a sample like the bismuth/magnesium-zinc material<sup>49</sup>. Puthoff has possessed a piece of material allegedly recovered from the 1947 Roswell Unidentified Aerial Phenomena (UAP) crash<sup>50</sup>, and has told Elizondo that a UAP crash occurred at Roswell, New Mexico, in 1947 and was covered up by the government<sup>51</sup>, and that four deceased nonhuman bodies were recovered from the crash<sup>52</sup>. He is an expert on the theory of zero-point energy, which posits that free energy exists within the vacuum of space and could be harnessed<sup>53</sup>, and has estimated that generating and sustaining a space-time warp bubble would require energy somewhere in the 3.2 or 5.6 terahertz range<sup>54</sup>. Puthoff considers that advances in physics mean warp drive is not out of the question<sup>55</sup>.
+Puthoff has told Elizondo that a UAP crash occurred at the 1947 Roswell Unidentified Aerial Phenomena (UAP) crash site in New Mexico and that the crash was covered up by the government,<sup>49</sup> and that four deceased nonhuman bodies were recovered from the crash.<sup>50</sup> He has possessed a piece of material allegedly recovered from the crash.<sup>51</sup> Puthoff has also spoken of a [Legacy Program](/projects/legacy-program) with access to crash material and biologics,<sup>52</sup> whose gatekeepers he describes as unelected security personnel whose job is to ensure the programme is not exposed.<sup>53</sup> He has said the programme was shut down because no progress had been made, as its participants could not get materials in front of scientists able to evaluate them properly,<sup>54</sup> but later clarified that it was specifically the attempt to make progress via AAWSAP that was halted, not the Legacy Program itself.<sup>55</sup> Separately, [Eric Davis](/people/eric-davis), who worked for Puthoff,<sup>56</sup> interviewed retired admiral [Thomas Wilson](/people/thomas-wilson) in 2002; Puthoff was Davis's boss at the time of the alleged meeting.<sup>57</sup> The notes of that meeting later circulated as The Admiral Wilson Memo. [Willard Miller](/people/willard-miller) said he would assist Davis and Puthoff with their ongoing research into UFO crash retrievals, subject to caveats,<sup>58</sup> but required that his name not be mentioned or associated with their work.<sup>59</sup> Asked about the memo at an Arlington Institute address in February 2020, Puthoff said it had been leaked on the internet and that Wilson was one of the joint chiefs of staff interviewed by Davis, declining to comment further because it discussed potentially ongoing programmes.<sup>60</sup>

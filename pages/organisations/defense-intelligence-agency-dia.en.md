@@ -1,13 +1,16 @@
 ---
 title: Defense Intelligence Agency (DIA)
-description: The Defense Intelligence Agency (DIA) is a United States Department of
-  Defense intelligence agency that has run or overseen several programmes examining
-  unidentified anomalous phenomena, including the Advanced Aerospace Weapon System
-  Applications Program and its successor, the Advanced Aerospace Threat Identification
-  Program.
+aliases:
+- /organisations/defense-intelligence-agency/
+- /en/organisations/defense-intelligence-agency/
+- /organisations/united-states-defense-intelligence-agency-dia/
+- /en/organisations/united-states-defense-intelligence-agency-dia/
+description: The Defense Intelligence Agency is a United States Department of Defense
+  intelligence agency that administered several government programmes examining unidentified
+  anomalous phenomena, including AAWSAP and the early years of AATIP.
 metadata:
-  type: Intelligence agency
-  parent_organisation: United States Department of Defense (DoD)
+  type: Government intelligence agency
+  affiliation: United States Department of Defense (DoD)
 built_from:
   brief_hash: 202237f8399104a6e1a187bccc6e71ddcb442728ddcba48247652b6275f88b56
   claims:
@@ -194,52 +197,198 @@ built_from:
   - id: 29b89059-e3fc-4ce5-ae5e-426b86787d82
     hash: daf1263754ebef44ce3cb45af624d1120b1852ea30b2977e6321d22e3055c630
 references:
-- text: DIA, CIA and US Army recruited people claiming ESP to uncover intelligence
-    secrets
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:03:02.7-00:03:12.8
-  quote: The CIA Army and Defense Intelligence Agency recruited people who claimed
-    to have extrasensory perception, otherwise known as ESP, to help them uncover
-    intelligence secrets.
-  claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
-- text: Remote-viewing programme funded by DIA after move to Fort Meade
-  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
-    1 of 3)'
-  location: 00:07:06.2-00:07:08.3
-  quote: where it was funded by the Defense Intelligence Agency.
-  claim_id: 0f64cf8f-62f7-41f1-bf67-5b1b8ac5c9e7
-  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-0f64cf8f-62f7-41f1-bf67-5b1b8ac5c9e7
-- text: Project Stargate run by CIA then DIA, training psychic spies
+- text: Reid secured 22 million US dollars in appropriations for a Defense Intelligence
+    Agency effort to assess advanced aerospace threats
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:58973-59224
+  quote: At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense
+    Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for
+    the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats
+    to the United States.
+  claim_id: e666ef12-6a1a-4108-8812-ff20fd4c843f
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
+- text: DIA established AAWSAP, also known as AATIP, in coordination with the Office
+    of the Under Secretary of Defense for Intelligence
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:59232-59369
+  quote: In coordination with the Office of the Under Secretary of Defense for Intelligence,
+    DIA established AAWSAP in 2009, which was also known AATIP.
+  claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
+- text: AAWSAP was initiated and managed for DIA by James Lacatski
+  source: Statement to Congress
+  location: char:9837-9960
+  quote: The man who initiated and managed the program for DIA was a veteran intelligence
+    analyst and rocket expert named Dr. James Lacatski.
+  claim_id: 15d09546-9c85-4e5c-be2a-7f4c20084c3e
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-15d09546-9c85-4e5c-be2a-7f4c20084c3e
+- text: An invitation to tender for AAWSAP was issued by DIA in August 2008 and Bigelow
+    was the sole bidder, securing $10 million for the first year with a five-year
+    option
+  source: In Plain Sight
+  location: ch17:8347-8563
+  quote: An invitation to tender for the contract was issued by the Defence Intelligence
+    Agency in August 2008 and Bigelow was the sole bidder, securing $10 million funding
+    for the first year, with a five-year option for the contract.
+  claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
+- text: A condition of the Bigelow contract was that its Las Vegas plant be engineered
+    to accept, store, and study exotic materials
+  source: Statement to Congress
+  location: char:11572-11743
+  quote: One condition of the Bigelow contract with DIA was that Bigelow's Aerospace
+    plant in Las Vegas must be engineered so that it could accept, store, and study
+    certain exotic materials.
+  claim_id: 761022c7-f81c-479f-b0c6-5c3bfec1942d
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
+- text: AAWSAP lasted only 27 months rather than the five-year operation DIA had planned
+  source: Statement to Congress
+  location: char:12104-12206
+  quote: It lasted a mere 27 months before the plug was pulled, instead of a five
+    year operation as planned by DIA.
+  claim_id: 436e3cff-0ec4-447f-9ab6-ac40c8481c55
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
+- text: AAWSAP was supported by then-Director Lieutenant General Michael D. Maples
+    and funded through Reid, Ted Stevens, and Daniel Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch11:24728-24968
-  quote: Stargate was embedded in the federal government, run for years by the CIA,
-    and later the DIA. Recruits were trained to spy upon enemies, but not in the usual
-    way. Stargate trained "supersoldiers" to spy on hard targets using their psychic
-    gifts.
-  claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
+  location: ch9:17304-17583
+  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
+    then director, Lieutenant General Michael D. Maples, and was funded through the
+    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
+    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
+  claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
-- text: Bobby Inman was a former vice director of the DIA
-  source: Dark Mission
-  location: ch14:22713-22755
-  quote: vice director of the Defense Intelligence Agency
-  claim_id: 4fdc4d30-ce22-405f-9984-bdf68944fbda
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fdc4d30-ce22-405f-9984-bdf68944fbda
-- text: 1993 White House press release on Inman's DIA Defense Superior Service Medal
-  source: Dark Mission
-  location: ch14:23171-23265
-  quote: and the DIA’s Defense Superior Service Medal for “achievements unparalleled
-    in the history of intelligence.”
-  claim_id: 484826d0-e522-4506-a4f0-401e799511a1
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-484826d0-e522-4506-a4f0-401e799511a1
-- text: 'April 1997: Greer escorted to office of DIA Deputy Director'
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
+- text: The programme reported directly to the DIA director and to Congress, according
+    to Lacatski
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch9:9945-10085
+  quote: Nestled deep inside DIA, a member of the US intelligence community (the IC),
+    AAWSAP drew its authority directly from Congress, according to Jim.
+  claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
+- text: AATIP was initially run out of DIA, but Elizondo ran it out of OUSDI from
+    2010
+  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
+    Program. Did He?
+  location: char:3572-3826
+  quote: “The program was initially run out of [the Defense Intelligence Agency] but
+    when Lue took it over in 2010 as Director, he ran it out of the Office for the
+    Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence
+    (USDI). Hope that clarifies.”
+  claim_id: e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
+  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
+  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
+  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
+- text: Susan Gough said DIA administered AATIP and that Elizondo was never assigned
+    to DIA
+  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: char:3968-4058
+  quote: DIA [Defense Intelligence Agency] administered AATIP, and Elizondo was never
+    assigned to DIA.
+  claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
+  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
+  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
+- text: Gough said Elizondo interacted with the DIA office managing AATIP while it
+    was ongoing, but did not lead it
+  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
+    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
+  location: char:4063-4183
+  quote: Elizondo did interact with the DIA office managing the program while the
+    program was still ongoing, but he did not lead it.
+  claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
+  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
+  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
+  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
+- text: Pentagon officials acknowledged AATIP's existence to the New York Times in
+    December 2017, saying it began as part of DIA
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:5026-5188
+  quote: In response to questions from The Times, Pentagon officials this month acknowledged
+    the existence of the program, which began as part of the Defense Intelligence
+    Agency.
+  claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+- text: AAWSAP/AATIP was terminated in 2012 upon completion of its deliverables due
+    to DIA and DoD concerns
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:63708-63822
+  quote: AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables
+    due to DIA and DoD concerns about the project.
+  claim_id: 630de01c-0f3f-418d-9450-07e4d982059e
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-630de01c-0f3f-418d-9450-07e4d982059e
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-630de01c-0f3f-418d-9450-07e4d982059e
+- text: Its supporters proposed a successor programme to the Department of Homeland
+    Security, codenamed KONA BLUE
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:99735-99987
+  quote: When DIA cancelled this program, its supporters proposed to DHS that they
+    create and fund a new version of AAWSAP/AATIP under a SAP. (AARO case files) This
+    proposal, codenamed KONA BLUE, would restart UAP investigations, paranormal research
+    (including alleged "huma
+  claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
+- text: Elizondo, Semivan, and Robert moved the remnants of AATIP away from DIA into
+    Elizondo's portfolio
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch16:16305-16509
+  quote: Jay, John Robert, and I decided to move the remnants of the effort away from
+    DIA and house it within my portfolio of national programs, ensuring the prying
+    eyes of our detractors would no longer have any visibility.
+  claim_id: 66b40ce5-fa68-4695-a91a-6df339ce165c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
+- text: In 1997, Thomas Wilson was DIA Deputy Director and J-2, under Director Patrick
+    Hughes
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:12533-12639
+  quote: (TW was Deputy Director DIA/Assistant Joint Chief of Staff J-2 at time; boss
+    was Director DIA Gen. Patrick Hughes)
+  claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
+- text: Wilson left DIA in July 2002 and was replaced by Admiral Lowell Jacoby
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:7577-7649
+  quote: Three years pass and retiring - left DIA July (2002) - replaced by Adm. Jacoby.
+  claim_id: ab4fc362-c92f-40df-981c-31a45687dd88
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ab4fc362-c92f-40df-981c-31a45687dd88
+- text: Thomas R. Wilson later became the 13th Director of DIA
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch43:260-326
+  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
+  claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+- text: In April 1997, Greer was escorted to the offices of the Deputy Director of
+    DIA
   source: In Plain Sight
   location: ch14:7920-8196
   quote: When Greer went into the Pentagon in April 1997 as part of an unusual group
@@ -250,15 +399,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
-- text: Thomas Wilson was DIA Deputy Director/J-2 in 1997, reporting to Patrick Hughes
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:12533-12639
-  quote: (TW was Deputy Director DIA/Assistant Joint Chief of Staff J-2 at time; boss
-    was Director DIA Gen. Patrick Hughes)
-  claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
-- text: '1998: Greer and Willard Miller invited back to DIA to brief Hughes on UFOs'
+- text: In 1998, Greer was invited back with Willard Miller to brief Director Patrick
+    Hughes on UFOs
   source: In Plain Sight
   location: ch14:18395-18635
   quote: It is to Greer's credit, for example, that he was invited back in 1998 to
@@ -269,90 +411,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-- text: Hughes invited Greer and Miller back months after the April 1997 meeting
-  source: In Plain Sight
-  location: ch14:23223-23369
-  quote: it begs the question why Wilson’s Defense Intelligence Agency boss General
-    Patrick Hughes invited Greer and Miller back to talk about UAPs months later
-  claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-- text: Coulthart's assessment of Greer's DIA briefings and the cover-up claim
-  source: In Plain Sight
-  location: ch14:18973-19315
-  quote: It is remarkable that Greer achieved the extraordinary feat of being invited
-    to brief top Defense Intelligence Agency officials on UAPs on at least two occasions,
-    but the claim that both a senior admiral and a general confirmed at their first
-    meeting with him that they both believed in a 'UFO cover-up' strains credibility
-    for many who hear it.
-  claim_id: 6370b973-8d9b-46e7-9c43-8a3113f236e4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6370b973-8d9b-46e7-9c43-8a3113f236e4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6370b973-8d9b-46e7-9c43-8a3113f236e4
-- text: Wilson told to discuss DIA careers with Eric Davis
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:8317-8420
-  quote: Rich/Doug told me I should talk to you about DIA careers, discuss history,
-    mission, my career in that, etc.
-  claim_id: add5172d-aff8-408b-b357-6dcdd4ffa2d7
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-add5172d-aff8-408b-b357-6dcdd4ffa2d7
-- text: Wilson demanded a formal briefing citing his DIA oversight authority
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:16210-16437
-  quote: 'TW: I told threesome I wanted formal briefing, tour, etc. - was exploiting
-    my regulatory authority as Deputy Director DIA/Assistant Joint Chief of Staff
-    J-2 - Told them my not being briefed was oversight they needed to correct - I
-    demanded!'
-  claim_id: 2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-- text: Watch Committee dismissed Wilson's DIA authority, produced 1990/1993 bigot
-    list
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:19763-19983
-  quote: '- Regulatory and statutory authority as Deputy Director DIA not relevant
-    or pertinent to nature of their program!
-
-    - Then they pulled out their bigot list to convince me otherwise - several pages
-    long - dated 1990, updated 1993.'
-  claim_id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-- text: Senior Review Group chairman warned Wilson against promotion to DIA Director
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:22059-22175
-  quote: Told Miller Senior Review Group chairman said if I didn't follow their suggestion
-    that I would not see Director DIA promotion
-  claim_id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d1f3d976-9ff0-4e77-8033-90c748bcf11f
-- text: Wilson declined to say who funded the reverse-engineering programme
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:22485-22580
-  quote: 'EWD: Is it because funding comes from you or through you? Or Director DIA?
-
-    TW: Core secret - can''t answer'
-  claim_id: 67eac303-0465-413a-a202-6b40181d83dc
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-67eac303-0465-413a-a202-6b40181d83dc
-- text: Wilson left DIA in July 2002, replaced by Admiral Lowell Jacoby
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:7577-7649
-  quote: Three years pass and retiring - left DIA July (2002) - replaced by Adm. Jacoby.
-  claim_id: ab4fc362-c92f-40df-981c-31a45687dd88
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ab4fc362-c92f-40df-981c-31a45687dd88
-- text: Wilson later became 13th Director of the DIA
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch43:260-326
-  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
-  claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-- text: '2007: Bigelow told Reid a DIA official wanted to visit his ranch'
+- text: Reid said Bigelow told him in 2007 that a DIA official had approached wanting
+    to visit Bigelow's Utah ranch
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:7154-7354
@@ -363,7 +423,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
-- text: Reid met DIA officials who wanted to start a UFO research programme
+- text: Reid said he met with DIA officials after his meeting with Bigelow and learned
+    they wanted a research programme on UFOs
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:7365-7517
@@ -373,28 +434,19 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
-- text: Around 2008, Reid received a letter from a DIA scientist re Skinwalker Ranch
+- text: Reid visited Skinwalker Ranch and said what the DIA scientist saw there convinced
+    him it was a real phenomenon needing investigation
   source: In Plain Sight
-  location: ch17:113-470
-  quote: In about 2008, one of the most powerful politicians in Washington DC, Democrat
-    Senator Harry Reid, received an intriguing letter written by a senior US Defence
-    Intelligence Agency (DIA) scientist (likely a physicist named James Lacatski,
-    although he was never named), whose world view had been transformed by extraordinary
-    events he witnessed at Skinwalker Ranch.
-  claim_id: 37be4bef-43f5-47fb-b9ae-afcb0ac75a74
+  location: ch17:2242-2446
+  quote: Reid did not name the scientist, but he said he visited Bigelow's Skinwalker
+    Ranch, presumably about 2007–08, and what the DIA scientist saw there convinced
+    him it was a real phenomenon that needed to be investigated.
+  claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
-- text: Bigelow sent Reid the letter
-  source: In Plain Sight
-  location: ch17:2105-2231
-  quote: It was billionaire aerospace entrepreneur Robert Bigelow who sent Reid the
-    letter from the senior Defense Intelligence Agency physicist.
-  claim_id: 498880d7-d2c2-4514-8143-828329e289dd
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-498880d7-d2c2-4514-8143-828329e289dd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-498880d7-d2c2-4514-8143-828329e289dd
-- text: Bigelow's account of the scientist's Tubular Bells-like Skinwalker incident
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
+- text: Bigelow said the DIA scientist described a triangular object materialising
+    in front of him at Skinwalker Ranch
   source: In Plain Sight
   location: ch17:2460-2873
   quote: Bob Bigelow has also revealed that the DIA scientist told him that what shocked
@@ -407,169 +459,15 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1ffde043-e53b-4446-884d-6bc289deeee6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1ffde043-e53b-4446-884d-6bc289deeee6
-- text: Reid's account of the scientist being rattled and urging investigation
-  source: In Plain Sight
-  location: ch17:2881-3069
-  quote: Senator Reid also says the scientist was clearly very rattled by his purported
-    paranormal Skinwalker experience and that he told the Senator he felt it was time
-    such phenomena be properly investigated.
-  claim_id: 88acb1b5-b71e-4a70-8d04-383e69cf3e11
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88acb1b5-b71e-4a70-8d04-383e69cf3e11
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-88acb1b5-b71e-4a70-8d04-383e69cf3e11
-- text: Coulthart suspects Reid knew more than the letter suggested
-  source: In Plain Sight
-  location: ch17:3175-3395
-  quote: I suspect Harry Reid was being deliberately vague and that he knew a lot
-    more from the classified intelligence world to prompt his interest in the phenomenon
-    than just that one DIA scientist's letter.
-  claim_id: 4abb22cb-2e15-41f2-94f8-08d13d2b6c34
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4abb22cb-2e15-41f2-94f8-08d13d2b6c34
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4abb22cb-2e15-41f2-94f8-08d13d2b6c34
-- text: Reid guaranteed black-budget funding in July 2008 for what became AAWSAP
-  source: In Plain Sight
-  location: ch17:7865-8337
-  quote: Their UAP investigations began even before the Defense Intelligence Agency
-    money came through in July 2008, when Senator Reid guaranteed the black budget
-    funding for what was to become known by its clunky acronym, AAWSAP. The full title
-    was a mouthful, no doubt intended to be as opaque as possible since this was a
-    secret 'black' UAP investigation program hidden in plain sight on the Pentagon
-    books. AAWSAP stood for the 'Advanced Aerospace Weapons Systems Applications Program'.
-  claim_id: 5b0edc79-a794-4335-90b2-d450ae1d7516
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0edc79-a794-4335-90b2-d450ae1d7516
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b0edc79-a794-4335-90b2-d450ae1d7516
-- text: $22 million appropriated FY2008/2010 for DIA to assess aerospace threats
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:58973-59224
-  quote: At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense
-    Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for
-    the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats
-    to the United States.
-  claim_id: e666ef12-6a1a-4108-8812-ff20fd4c843f
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
-- text: 'Knapp: the $22 million did not fund AATIP but a separate DIA effort'
-  source: Statement to Congress
-  location: char:9602-9740
-  quote: The $22 million secured by Reid did not fund AATIP. Rather, it went into
-    an entirely different effort managed by the Defense Intelligence Agency.
-  claim_id: 6803435a-e722-408c-8927-aec17b1adc11
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-6803435a-e722-408c-8927-aec17b1adc11
-- text: August 2008 invitation to tender; Bigelow Aerospace sole bidder, $10M first
-    year
-  source: In Plain Sight
-  location: ch17:8347-8563
-  quote: An invitation to tender for the contract was issued by the Defence Intelligence
-    Agency in August 2008 and Bigelow was the sole bidder, securing $10 million funding
-    for the first year, with a five-year option for the contract.
-  claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
-- text: DIA formally established AAWSAP/AATIP in 2009 with OUSDI
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:59232-59369
-  quote: In coordination with the Office of the Under Secretary of Defense for Intelligence,
-    DIA established AAWSAP in 2009, which was also known AATIP.
-  claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
-- text: AAWSAP initiated and managed for DIA by James Lacatski
-  source: Statement to Congress
-  location: char:9837-9960
-  quote: The man who initiated and managed the program for DIA was a veteran intelligence
-    analyst and rocket expert named Dr. James Lacatski.
-  claim_id: 15d09546-9c85-4e5c-be2a-7f4c20084c3e
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-15d09546-9c85-4e5c-be2a-7f4c20084c3e
-- text: AAWSAP supported by DIA Director Lt. Gen. Michael D. Maples
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:17304-17583
-  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
-    then director, Lieutenant General Michael D. Maples, and was funded through the
-    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
-    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
-  claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-- text: Programme sat within DIA and drew authority from Congress
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch9:9945-10085
-  quote: Nestled deep inside DIA, a member of the US intelligence community (the IC),
-    AAWSAP drew its authority directly from Congress, according to Jim.
-  claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
-- text: AAWSAP lasted 27 months rather than the planned five years
-  source: Statement to Congress
-  location: char:12104-12206
-  quote: It lasted a mere 27 months before the plug was pulled, instead of a five
-    year operation as planned by DIA.
-  claim_id: 436e3cff-0ec4-447f-9ab6-ac40c8481c55
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
-- text: '2010: extra $12 million appropriated for a dozen more reports'
-  source: In Plain Sight
-  location: ch17:19170-19407
-  quote: We now know that the Defense Intelligence Agency's Advanced Aerospace Weapons
-    Systems Applications Program (AAWSAP) investigation was given an extra US$12 million
-    in 2010 appropriations to produce a dozen more reports.
-  claim_id: b78889bb-3e4c-40f5-bcd2-a3ccf12fd33f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b78889bb-3e4c-40f5-bcd2-a3ccf12fd33f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b78889bb-3e4c-40f5-bcd2-a3ccf12fd33f
-- text: DIA commissioned DIRDs on individual technologies explaining UAP performance
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch24:1250-1501
-  quote: many of the academic studies that were previously commissioned by the DIA
-    and resulted in the Defense Intelligence Research Documents (DIRDs) had all focused
-    on individual technologies which tried to explore and explain UAP performance.
-  claim_id: 7c193286-ab65-478d-b3b6-e748c8d3966a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7c193286-ab65-478d-b3b6-e748c8d3966a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7c193286-ab65-478d-b3b6-e748c8d3966a
-- text: 'Gough: DIA administered AATIP; Elizondo never assigned to DIA'
-  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
-    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
-  location: char:3968-4058
-  quote: DIA [Defense Intelligence Agency] administered AATIP, and Elizondo was never
-    assigned to DIA.
-  claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
-  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-- text: 'Gough: Elizondo interacted with the DIA office but did not lead it'
-  source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
-    Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
-  location: char:4063-4183
-  quote: Elizondo did interact with the DIA office managing the program while the
-    program was still ongoing, but he did not lead it.
-  claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
-  record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
-- text: AATIP initially run from DIA; Elizondo moved it to OSD/OUSDI in 2010
-  source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
-    Program. Did He?
-  location: char:3572-3826
-  quote: “The program was initially run out of [the Defense Intelligence Agency] but
-    when Lue took it over in 2010 as Director, he ran it out of the Office for the
-    Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence
-    (USDI). Hope that clarifies.”
-  claim_id: e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
-  record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
-- text: James Clapper, Deputy Sec Def for Intelligence, former DIA Director
+- text: Bobby Inman was a former vice director of DIA
+  source: Dark Mission
+  location: ch14:22713-22755
+  quote: vice director of the Defense Intelligence Agency
+  claim_id: 4fdc4d30-ce22-405f-9984-bdf68944fbda
+  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fdc4d30-ce22-405f-9984-bdf68944fbda
+- text: James Clapper was a former director of DIA and Deputy Secretary of Defense
+    for Intelligence
   source: In Plain Sight
   location: ch21:11636-11755
   quote: The then US Deputy Secretary of Defense for Intelligence, James Clapper,
@@ -578,7 +476,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
-- text: '2008: Clapper hired Elizondo into office overseeing DIA and NSA'
+- text: In 2008 Clapper hired Elizondo into the office overseeing DIA and NSA among
+    other agencies
   source: In Plain Sight
   location: ch21:11763-12072
   quote: recognised Elizondo's skills and, in 2008, had personally hired him into
@@ -589,26 +488,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-- text: AAWSAP/AATIP initially enjoyed support from DIA leadership
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:46955-47030
-  quote: Initially, the AAWSAP/AATIP crew enjoyed a good degree of support from DIA
-    leadership.
-  claim_id: ce08ae4d-94d9-4d48-8efb-0681894dfd98
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce08ae4d-94d9-4d48-8efb-0681894dfd98
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce08ae4d-94d9-4d48-8efb-0681894dfd98
-- text: Detractors rose to senior DIA positions, increasing scrutiny
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:47700-47912
-  quote: An increasing number of AAWSAP detractors now worked at the senior level
-    within DIA. More and more scrutiny was being placed on AAWSAP every day and new
-    executive leadership at DIA was getting settled into their roles.
-  claim_id: 4b031331-4f65-4c05-97cc-13c42161dc1e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
-- text: '2010: Devon Woods became a senior director at DIA'
+- text: In 2010, Devon Woods became a senior director at DIA after previously serving
+    at ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:48858-48974
   quote: In 2010, a man I’ll call Devon Woods, who previously served as a senior leader
@@ -617,24 +498,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
-- text: Clapper offered Woods the DIA job despite disagreements
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:49291-49421
-  quote: Clapper and Woods didn’t always see eye to eye, but when Clapper made the
-    move to become the DNI, he offered Woods the job at DIA regardless.
-  claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
-- text: Woods accepted the post of DIA deputy director
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch16:6181-6308
-  quote: When I next heard that Woods had accepted the position of the deputy director
-    of DIA, I took this to be a consolation prize of sorts.
-  claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
 - text: Woods brought in CIA colleagues after moving to DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:6629-6666
@@ -643,38 +506,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6dd328-033d-4485-b5a5-76bee2fe256a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5c6dd328-033d-4485-b5a5-76bee2fe256a
-- text: Within weeks of Woods's move, DIA's attitude to AAWSAP shifted
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch16:6497-6762
-  quote: Within thirty to forty-five days of my mentor's reassignment to DIA, the
-    atmosphere at the agency changed with respect to our work. Woods brought in colleagues
-    from the CIA. Suddenly the response to Lacatski's well-crafted reports to higher-ups
-    elicited a shift in tone.
-  claim_id: 7ef53de4-cc6d-4955-a5a2-c248f0b1292b
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ef53de4-cc6d-4955-a5a2-c248f0b1292b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ef53de4-cc6d-4955-a5a2-c248f0b1292b
-- text: Lacatski spent time defending AAWSAP as DIA leadership tried to end it
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:47919-48127
-  quote: Within a matter of weeks of the transition, Lacatski began spending most
-    of his time defending his efforts instead of conducting research. The powers that
-    be in the ivory tower now actively tried to kill the program.
-  claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
-- text: DIA bureaucrats killed or buried reports on Lacatski's work
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch12:48136-48348
-  quote: If the slightest glimmer of the truth of Jim’s work got released in a broader
-    report destined for the eyes of others in power, it got kicked upstairs, where
-    DIA’s bureaucrats killed it, filed it away, or ignored it.
-  claim_id: 6740fcd2-1c1b-45e6-81bc-ec60872ad141
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6740fcd2-1c1b-45e6-81bc-ec60872ad141
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6740fcd2-1c1b-45e6-81bc-ec60872ad141
-- text: Michael Higgins had recently become DIA's Director of Operations
+- text: Higgins had recently taken over as DIA's Director of Operations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:18431-18506
   quote: As it so happened, he had recently taken over as the DIA's new Director of
@@ -683,7 +515,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3852f674-2ea8-4d32-b3f0-651513d12b9d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3852f674-2ea8-4d32-b3f0-651513d12b9d
-- text: Elizondo asked Higgins to protect Lacatski within DIA
+- text: Elizondo called Higgins asking him to protect Lacatski from internal persecution
+    within DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:18562-18794
   quote: '"Michael, I need you to protect one of our scientists. He is a good man
@@ -694,121 +527,70 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-427be487-8a34-4076-b078-fbb64dac409a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-427be487-8a34-4076-b078-fbb64dac409a
-- text: 'Davis: DIA-funded investigation concluded the Tic Tac object was a genuine
-    UFO'
-  source: In Plain Sight
-  location: ch17:12368-12671
-  quote: '''the take on it is that it''s a legitimate UFO . . . this is not a technology
-    that is made on Earth by humans, anywhere. . . . we came to the conclusion that
-    these are legitimate unidentified objects. They are anomalous. They are real vehicles.
-    They are under intelligent control and they are an advanced technology.'''
-  claim_id: 1a02e04d-bbdf-49fd-963a-f8d0efcab7b9
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a02e04d-bbdf-49fd-963a-f8d0efcab7b9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1a02e04d-bbdf-49fd-963a-f8d0efcab7b9
-- text: 'Davis: UAP were a mystery to DIA superiors, interfering with deployments'
-  source: In Plain Sight
-  location: ch17:12684-13021
-  quote: Importantly, Davis suggested the UAPs were also a mystery to his masters
-    at the Defense Intelligence Agency. 'And we got to do something about them because
-    they are interfering with military deployments in the ocean and they have interfered
-    with air force deployments in the atmosphere wherever the air force is flying
-    their planes,' he said.
-  claim_id: 91b44a15-aa70-4534-9eb1-f62b4bb4d5a8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91b44a15-aa70-4534-9eb1-f62b4bb4d5a8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-91b44a15-aa70-4534-9eb1-f62b4bb4d5a8
-- text: Davis told Knapp recovered extraterrestrial craft existed, unpublished
-  source: In Plain Sight
-  location: ch17:15421-15637
-  quote: Talking about his work for the Bigelow BAASS Defense Intelligence Agency
-    contract, Dr Davis went on to tell George Knapp there were indeed recovered ET
-    craft, the information about which had not yet been revealed or published.
-  claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
-- text: Puthoff was a Bigelow Aerospace senior scientist examining the DIA-funded
-    AATIP
-  source: 'Episode 73: Science vs. Secrecy'
-  location: 00:09:33.4-00:09:46.9
-  quote: When I consider some of the things that we did in the AATIP program, I was
-    a senior scientist for Bigelow Aerospace on looking at what was happening out
-    of the DIA-funded program.
-  claim_id: 387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
-  record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
-- text: AAWSAP/AATIP terminated in 2012 amid DIA/DoD concerns
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:63708-63822
-  quote: AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables
-    due to DIA and DoD concerns about the project.
-  claim_id: 630de01c-0f3f-418d-9450-07e4d982059e
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-630de01c-0f3f-418d-9450-07e4d982059e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-630de01c-0f3f-418d-9450-07e4d982059e
-- text: DIA cited lack of merit and utility of deliverables
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:99317-99395
-  quote: DIA cancelled the program in 2012 due to lack of merit and the utility of
-    the deliverables.
-  claim_id: 8b578fc9-6975-4416-abed-6a7ccd6eec10
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8b578fc9-6975-4416-abed-6a7ccd6eec10
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8b578fc9-6975-4416-abed-6a7ccd6eec10
-- text: Supporters proposed a DHS-funded successor, KONA BLUE
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:99735-99987
-  quote: When DIA cancelled this program, its supporters proposed to DHS that they
-    create and fund a new version of AAWSAP/AATIP under a SAP. (AARO case files) This
-    proposal, codenamed KONA BLUE, would restart UAP investigations, paranormal research
-    (including alleged "huma
-  claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
-- text: KONA BLUE traced its origins to the DIA-managed AAWSAP/AATIP
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:99127-99303
-  quote: KONA BLUE traces its origins to the DIA-managed AAWSAP/AATIP program, which
-    was funded through a special appropriation and executed by its primary contractor,
-    a private sector organization.
-  claim_id: a3fc0ded-1270-40d9-b8eb-23acb3fb758e
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a3fc0ded-1270-40d9-b8eb-23acb3fb758e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a3fc0ded-1270-40d9-b8eb-23acb3fb758e
-- text: Individuals behind reverse-engineering claims linked to cancelled DIA programme
-    and KONA BLUE
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:12156-12329
-  quote: Many of these individuals were involved in or supportive of a cancelled DIA
-    program and the subsequent but failed attempt to reestablish this program under
-    DHS, called KONA BLUE.
-  claim_id: 2f08c4b1-a303-478c-976d-c997c5a0f454
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2f08c4b1-a303-478c-976d-c997c5a0f454
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-2f08c4b1-a303-478c-976d-c997c5a0f454
-- text: DoD did not revisit UAP again until 2008 Congress-funded AAWSAP under DIA
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:1813-2066
-  quote: The DoD did not officially look at UAP again until mid-2000, when select
-    members of Congress initiated and funded a program to study UAP, called the Advanced
-    Aerospace Weapon Systems Applications program, under the direction of the Defense
-    Intelligence Agency.
-  claim_id: 7b527140-6627-42ac-a2de-3e550e9beb3b
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-- text: IG interviewed officials and requested UAP data from OUSDI, AARO, services,
-    DIA
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+- text: DIA leadership transition brought increasing scrutiny and detractors of AAWSAP
+    at senior level
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:47700-47912
+  quote: An increasing number of AAWSAP detractors now worked at the senior level
+    within DIA. More and more scrutiny was being placed on AAWSAP every day and new
+    executive leadership at DIA was getting settled into their roles.
+  claim_id: 4b031331-4f65-4c05-97cc-13c42161dc1e
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
+- text: Lacatski spent his time defending his efforts as senior DIA leadership tried
+    to kill AAWSAP
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:47919-48127
+  quote: Within a matter of weeks of the transition, Lacatski began spending most
+    of his time defending his efforts instead of conducting research. The powers that
+    be in the ivory tower now actively tried to kill the program.
+  claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
+- text: The CIA, US Army, and DIA recruited people claiming extrasensory perception
+    to help uncover intelligence secrets
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:03:02.7-00:03:12.8
+  quote: The CIA Army and Defense Intelligence Agency recruited people who claimed
+    to have extrasensory perception, otherwise known as ESP, to help them uncover
+    intelligence secrets.
+  claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+- text: Project Stargate was run for years by the CIA and later by DIA, training recruits
+    to use psychic abilities
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch11:24728-24968
+  quote: Stargate was embedded in the federal government, run for years by the CIA,
+    and later the DIA. Recruits were trained to spy upon enemies, but not in the usual
+    way. Stargate trained "supersoldiers" to spy on hard targets using their psychic
+    gifts.
+  claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
+- text: Grusch said DIA has refused to release classified foreign intelligence reporting
+    on UAP retrieval and reverse engineering to Congress
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:31:26.7-00:31:36.4
+  quote: And once again, that foreign intelligence reporting, the Defense Intelligence
+    Agency has refused to release those classified documents to Congress
+  claim_id: 72e0b848-9ad6-4832-a9e4-7dda27c52f4a
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
+- text: Grusch said DIA ran AAWSAP in the early 2000s
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:48:39.6-00:48:42.0
+  quote: there was a DIA program in the early 2000s called AAWSAP
+  claim_id: 29b89059-e3fc-4ce5-ae5e-426b86787d82
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-29b89059-e3fc-4ce5-ae5e-426b86787d82
+- text: The Inspector General requested UAP-related data from OUSDI, AARO, and defense
+    intelligence agencies including DIA
+  source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:26132-26714
   quote: 'We interviewed senior officials and requested UAP-related data and organizational
     policies, procedures, and guidance from the following DoD organizations: OUSD(I&S),
@@ -821,51 +603,41 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
-- text: AARO historical report sought to partner with DIA, CIA, DOE, NSA, NGA archives
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:23031-23339
-  quote: Partner with the archives of key intelligence and national security agencies
-    such as the Defense Intelligence Agency (DIA), the Central Intelligence Agency
-    (CIA), Department of Energy (DOE), National Security Agency (NSA), the National
-    Geospatial-Intelligence Agency (NGA), the Services, and DoD Combatant Commands.
-  claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-03d65f79-431b-4dcb-9412-ce121509179c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-03d65f79-431b-4dcb-9412-ce121509179c
-- text: 'Grusch: DIA refused to release classified reporting on UAP retrieval to Congress'
-  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
-  location: 00:31:26.7-00:31:36.4
-  quote: And once again, that foreign intelligence reporting, the Defense Intelligence
-    Agency has refused to release those classified documents to Congress
-  claim_id: 72e0b848-9ad6-4832-a9e4-7dda27c52f4a
-  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
+- text: Select members of Congress initiated and funded AAWSAP under DIA direction
+    to study UAP
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: char:1813-2066
+  quote: The DoD did not officially look at UAP again until mid-2000, when select
+    members of Congress initiated and funded a program to study UAP, called the Advanced
+    Aerospace Weapon Systems Applications program, under the direction of the Defense
+    Intelligence Agency.
+  claim_id: 7b527140-6627-42ac-a2de-3e550e9beb3b
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: f6505ea90a88d15619d64cd6bb66ead671c1b10c645421f92f7785b48fc49627
+  prompt_sha256: 04d121357f900763bdc00cd7502dc58873a91a5b40482ad271dfdc8b293d6fc5
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 308346
-    output: 125225
-    real_input: 6
-    cache_read: 121399
-    cache_write: 186941
+    input: 229086
+    output: 66530
+    real_input: 4
+    cache_read: 121926
+    cache_write: 107156
     calls: 0
-  body_sha256: 823e8de6b7f8f2a1ae3eb27033a8d8b953a8b8596281a03fdabe18cd3969ac23
+  body_sha256: 0d6aae7a145508a24d47cb5ff5e6ec912d952098afe785e19cec26b41b431490
 ---
 
-The Defense Intelligence Agency (DIA) is an intelligence agency of the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) whose activity recurs across several strands of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap)-related government work, from Cold War-era psychic-espionage research to the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) and its successor, the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip). The DIA, alongside the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) and the US Army, recruited individuals who claimed to have extrasensory perception to help uncover intelligence secrets,<sup>1</sup> and after the resulting remote-viewing programme relocated to Fort Meade, Maryland, it was funded by the DIA.<sup>2</sup> That effort, known as Project Stargate, was run for years first by the CIA and later by the DIA, training recruits to use psychic abilities to spy on adversaries.<sup>3</sup> Bobby Inman, a former vice director of the DIA,<sup>4</sup> received the agency's Defense Superior Service Medal in 1993, according to a White House press release describing "achievements unparalleled in the history of intelligence."<sup>5</sup>
+The Defense Intelligence Agency (DIA) is a United States Department of Defense (DoD) intelligence agency that has, at several points, administered or hosted government programmes examining reports of unidentified anomalous phenomena (UAP). At the direction of Senate Majority Leader [Harry Reid](/people/harry-reid), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated 22 million US dollars for DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.<sup>1</sup> In coordination with the Office of the Under Secretary of Defense for Intelligence (OUSDI), DIA established the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap), also known as the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip).<sup>2</sup> The programme was initiated and managed for the agency by veteran intelligence analyst [James Lacatski](/people/james-lacatski).<sup>3</sup> An invitation to tender was issued in August 2008, and [Robert Bigelow](/people/robert-bigelow) was the sole bidder, securing 10 million US dollars in first-year funding with a five-year option.<sup>4</sup> One condition of the resulting contract was that [Bigelow Aerospace](/organisations/bigelow-aerospace)'s Las Vegas plant be engineered to accept, store, and study certain exotic materials.<sup>5</sup> In practice the programme ran for only 27 months rather than the five-year operation DIA had planned.<sup>6</sup> It was supported by then-Director Lieutenant General Michael D. Maples and funded through the efforts of Senators Reid, Ted Stevens, and Daniel Inouye,<sup>7</sup> reporting, according to Lacatski, directly to the agency's director and to the [United States Congress](/organisations/united-states-congress).<sup>8</sup>
 
-In April 1997, [Steven Greer](/people/steven-greer), as part of a group of [UFO](/topics/unidentified-flying-object-ufo) disclosure activists and former military servicemen, was escorted into the Pentagon to the office of the Deputy Director of the DIA.<sup>6</sup> At the time that Deputy Director was [Thomas Wilson](/people/thomas-wilson), who also held the title Assistant Joint Chief of Staff for Intelligence (J-2) and reported to DIA Director General Patrick Hughes.<sup>7</sup> Hughes invited Greer and Commander [Willard Miller](/people/willard-miller) back to the DIA in 1998 to brief him on UFOs,<sup>8</sup> and again some months after the original 1997 meeting.<sup>9</sup> [Ross Coulthart](/people/ross-coulthart) has said he finds it remarkable that Greer secured at least two such briefings with senior DIA officials, though he considers the idea that a senior admiral and a general both confirmed belief in a UFO cover-up at their first meeting hard for many to credit.<sup>10</sup> Wilson was separately told by two colleagues that he should discuss DIA careers with researcher [Eric Davis](/people/eric-davis);<sup>11</sup> he went on to invoke his oversight authority as Deputy Director to demand a formal briefing and tour on a compartment he said he should already have been read into.<sup>12</sup> According to Wilson, when he pressed the point a Watch Committee argued that his statutory authority was not relevant to their programme's need-to-know criteria and produced a "bigot list", dated 1990 and updated in 1993, to make their case;<sup>13</sup> Wilson also said the chairman of a Senior Review Group warned him, via an intermediary, that unless he dropped the matter he would not be promoted to Director of the DIA.<sup>14</sup> Wilson declined to say whether funding for a reverse-engineering programme had come from him or through the DIA Director, citing it as a core secret,<sup>15</sup> and left the DIA in July 2002, being replaced by Admiral Lowell Jacoby.<sup>16</sup> He later became the 13th Director of the DIA.<sup>17</sup>
+Accounts of who led AATIP within DIA differ. One account describes the programme as initially run out of DIA before [Luis Elizondo](/people/luis-elizondo) took it over in 2010 as Director, running it thereafter out of the Office of the Secretary of Defense under OUSDI.<sup>9</sup> DIA spokesperson Susan Gough, however, said the agency administered AATIP and that Elizondo was never assigned to DIA,<sup>10</sup> while stating separately that Elizondo did interact with the DIA office managing the programme while it was still ongoing, without leading it.<sup>11</sup> Pentagon officials, responding to questions from The New York Times in December 2017, acknowledged the existence of AATIP and said it began as part of DIA.<sup>12</sup> The programme was eventually terminated in 2012 upon completion of its deliverables amid DIA and DoD concerns,<sup>13</sup> and its supporters subsequently proposed a successor programme to the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs), codenamed KONA BLUE.<sup>14</sup> Elizondo has said that he, Jim Semivan, and John Robert later moved the remnants of AATIP away from DIA and into Elizondo's own portfolio.<sup>15</sup>
 
-In 2007, [Robert Bigelow](/people/robert-bigelow) told Senator [Harry Reid](/people/harry-reid) that a DIA official had approached him wanting to visit his ranch in Utah, where he conducted research, according to Reid.<sup>18</sup> Reid subsequently met with DIA officials and learned that they wanted to start a research programme on UFOs.<sup>19</sup> Around 2008, Reid received a letter from a senior DIA scientist - likely the physicist [James Lacatski](/people/james-lacatski), though he was never publicly named, according to the book In Plain Sight - describing events at Skinwalker Ranch that had transformed the scientist's world view.<sup>20</sup> Bigelow sent Reid the letter.<sup>21</sup> Bigelow said the scientist told him he had been shocked at Skinwalker Ranch by an incident in which a three-dimensional object suddenly materialised, resembling the cover art of the Mike Oldfield album Tubular Bells.<sup>22</sup> Reid said the scientist seemed rattled by the experience and told him it was time such phenomena were properly investigated.<sup>23</sup> According to Coulthart, Reid was likely being deliberately vague, and may have known more from the classified intelligence world than a single letter would suggest.<sup>24</sup>
+DIA's connection to UAP matters predates AAWSAP. In 1997, [Thomas Wilson](/people/thomas-wilson) was Deputy Director of DIA and Assistant Joint Chief of Staff for Intelligence (J-2), serving under Director [Patrick Hughes](/people/patrick-hughes).<sup>16</sup> He left the agency in July 2002 and was replaced by Admiral Lowell Jacoby,<sup>17</sup> and later became the agency's 13th Director.<sup>18</sup> In April 1997, [Steven Greer](/people/steven-greer) was escorted, as part of a group of UFO disclosure activists and former military servicemen, to the offices of the Deputy Director of DIA,<sup>19</sup> and in 1998 was invited back with [Willard Miller](/people/willard-miller) to brief Director Hughes on UFOs.<sup>20</sup> Separately, Reid said that in 2007 Bigelow told him a DIA official had approached wanting to visit Bigelow's ranch in Utah,<sup>21</sup> after which Reid said he met with DIA officials and learned they wanted to start a research programme on UFOs.<sup>22</sup> Reid also visited Skinwalker Ranch and said that whatever a DIA scientist saw there convinced him it was a real phenomenon needing investigation;<sup>23</sup> Bigelow said the scientist described a triangular object materialising in front of him at the ranch.<sup>24</sup>
 
-The Bigelow team's UAP investigations had begun before DIA funding arrived; Reid guaranteed black-budget funding in July 2008 for the programme that became AAWSAP.<sup>25</sup> At Reid's direction, the Defense Appropriations Acts of fiscal years 2008 and 2010 appropriated 22 million US dollars for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.<sup>26</sup> According to researcher George Knapp, that 22 million US dollars did not fund AATIP directly, but instead went into a separate DIA-managed effort.<sup>27</sup> The DIA issued an invitation to tender for the AAWSAP contract in August 2008; [Bigelow Aerospace](/organisations/bigelow-aerospace) was the sole bidder, securing 10 million US dollars for the first year with a five-year option.<sup>28</sup> In coordination with the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi), the DIA formally established AAWSAP, also known as AATIP, in 2009.<sup>29</sup> The programme was initiated and managed for the DIA by veteran intelligence analyst James Lacatski,<sup>30</sup> and was supported by then-DIA Director Lieutenant General Michael D. Maples.<sup>31</sup> It sat within the DIA, a member of the US intelligence community, and drew its authority directly from the [United States Congress](/organisations/united-states-congress).<sup>32</sup> The programme lasted only 27 months, rather than the five-year operation the DIA had planned,<sup>33</sup> though in 2010 it received an extra 12 million US dollars in appropriations to produce a dozen more reports.<sup>34</sup> The DIA also commissioned academic studies, the Defense Intelligence Research Documents (DIRDs), each examining an individual technology attempting to explain UAP performance.<sup>35</sup>
+Several senior officials moved between DIA and other parts of the intelligence community in connection with these programmes. Bobby Inman was a former vice director of DIA.<sup>25</sup> [James R. Clapper](/people/james-r-clapper) was a former DIA director and Deputy Secretary of Defense for Intelligence,<sup>26</sup> and in 2008 personally hired Elizondo into the office overseeing a cluster of DoD agencies including DIA and the [National Security Agency (NSA)](/organisations/national-security-agency-nsa).<sup>27</sup> Devon Woods, previously a senior leader at the Office of the Director of National Intelligence, became a senior director at DIA in 2010,<sup>28</sup> later bringing in colleagues from the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia).<sup>29</sup> Michael Higgins had recently taken over as the agency's Director of Operations,<sup>30</sup> and Elizondo said he called Higgins asking him to protect Lacatski from internal persecution within DIA<sup>31</sup> as leadership scrutiny of AAWSAP increased<sup>32</sup> and Lacatski found himself spending his time defending the programme against senior officials trying to end it.<sup>33</sup>
 
-By 2010, accounts diverge over who led the programme. DIA spokesperson Susan Gough has said the DIA administered AATIP and that [Luis Elizondo](/people/luis-elizondo) was never assigned to the agency,<sup>36</sup> though she said he did interact with the DIA office managing it while the programme was still ongoing, without leading it.<sup>37</sup> AATIP was initially run out of the DIA; when Elizondo took it over in 2010, he ran it out of the Office of the Secretary of Defense under OUSDI.<sup>38</sup> [James R. Clapper](/people/james-r-clapper), then Deputy Secretary of Defense for Intelligence and a former DIA Director,<sup>39</sup> had in 2008 personally hired Elizondo into the Office of the Under-Secretary of Defense for Intelligence and Security, which oversees a cluster of Department of Defense agencies including the DIA and the [National Security Agency (NSA)](/organisations/national-security-agency-nsa).<sup>40</sup> Elizondo has written that the AAWSAP/AATIP team initially enjoyed considerable support from DIA leadership,<sup>41</sup> but that an increasing number of detractors rose to senior DIA positions as new executive leadership settled in, intensifying scrutiny of the programme.<sup>42</sup> In 2010, Devon Woods, previously a senior leader at the Office of the Director of National Intelligence, became a senior director at the DIA;<sup>43</sup> Clapper, who did not always see eye to eye with Woods, offered him the DIA post regardless after Clapper became Director of National Intelligence.<sup>44</sup> Woods went on to accept the post of deputy director of the DIA<sup>45</sup> and brought in colleagues from the CIA after the move.<sup>46</sup> Elizondo has written that within thirty to forty-five days of Woods's reassignment, the DIA's attitude towards the programme shifted, with officials who had previously welcomed its reports beginning to question the work;<sup>47</sup> that Lacatski began spending most of his time defending the programme rather than conducting research as senior DIA leadership tried to have it shut down;<sup>48</sup> and that DIA bureaucrats killed, filed away, or ignored any report that risked exposing the details of Lacatski's work to a broader readership.<sup>49</sup> Michael Higgins, who had recently taken over as the DIA's Director of Operations,<sup>50</sup> was called by Elizondo and asked to protect Lacatski from internal persecution within the agency.<sup>51</sup> Eric Davis has said that his DIA-funded investigation concluded that the object encountered in the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) was a legitimate unidentified craft rather than a terrestrial technology.<sup>52</sup> Davis has also said the UAP were a mystery to his DIA superiors, who felt something needed to be done because the objects were interfering with military deployments at sea and in the air.<sup>53</sup> Discussing his work on the Bigelow Aerospace Advanced Space Studies contract with the DIA, Davis told journalist George Knapp that recovered extraterrestrial craft existed, though information about them had not yet been made public.<sup>54</sup> [Harold E. Puthoff](/people/harold-e-puthoff) was a senior scientist for Bigelow Aerospace working on AATIP, examining activity from the DIA-funded programme.<sup>55</sup>
-
-The AAWSAP/AATIP programme was terminated in 2012 on completion of its deliverables, amid DIA and DoD concerns about the project,<sup>56</sup> with the DIA citing a lack of merit and utility in the deliverables.<sup>57</sup> Supporters of the programme then proposed that the [Department of Homeland Security (DHS)](/organisations/department-of-homeland-security-dhs) create and fund a new version under a special access programme codenamed KONA BLUE,<sup>58</sup> which traced its origins directly to the DIA-managed AAWSAP/AATIP effort.<sup>59</sup> Many of the individuals behind later claims of a hidden US government reverse-engineering programme were involved in or supportive of the cancelled DIA programme and the subsequent failed attempt to reestablish it as KONA BLUE under DHS.<sup>60</sup> A DoD Inspector General evaluation of the DoD's handling of UAP found that the DoD did not officially revisit the topic again until 2008, when select members of Congress initiated and funded AAWSAP under DIA direction,<sup>61</sup> and the Inspector General's office interviewed senior officials and requested UAP-related data and organisational policies from the Office of the Under Secretary of Defense for Intelligence and Security, the All-domain Anomaly Resolution Office, the military services, and defense intelligence agencies.<sup>62</sup> According to the Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I, the All-domain Anomaly Resolution Office sought to partner with the archives of key intelligence and national security agencies, including the DIA, the CIA, the Department of Energy, the NSA, and the [National Geospatial-Intelligence Agency (NGA)](/organisations/national-geospatial-intelligence-agency-nga).<sup>63</sup> In congressional testimony, [David Charles Grusch](/people/david-charles-grusch) said the DIA had refused to release to Congress classified foreign intelligence reporting on US retrieval and reverse-engineering of UAP.<sup>64</sup>
+DIA's involvement in unconventional research extends beyond UAP. The agency, together with the CIA and the US Army, recruited people who claimed extrasensory perception in an effort to uncover intelligence secrets,<sup>34</sup> and Project Stargate, a remote-viewing programme, was run for years by the CIA and later by DIA.<sup>35</sup> More recently, [David Charles Grusch](/people/david-charles-grusch) has said that DIA ran AAWSAP in the early 2000s<sup>36</sup> and that the agency has refused to release classified foreign intelligence reporting on the retrieval and reverse engineering of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) to Congress.<sup>37</sup> The Department of Defense Inspector General's 2023 evaluation records that select members of Congress initiated and funded AAWSAP to study UAP under DIA's direction,<sup>38</sup> and that investigators subsequently requested UAP-related data and policy documentation from OUSDI, the All-domain Anomaly Resolution Office, and defense intelligence agencies including DIA.<sup>39</sup>
