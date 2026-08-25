@@ -1,5 +1,7 @@
 ---
 title: David Charles Grusch
+aliases:
+  - /people/david-grusch/
 description: David Charles Grusch is a former US intelligence officer who became a
   whistleblower, alleging before Congress that the government has secretly recovered
   and reverse-engineered craft of non-human origin.

@@ -1,17 +1,20 @@
 ---
 title: United States Congress
 description: The bicameral national legislature of the United States, which has funded,
-  investigated and legislated on federal government programmes and disclosures relating
-  to unidentified anomalous phenomena.
+  investigated, and legislated on unidentified anomalous phenomena programmes since
+  the 1960s.
+metadata:
+  type: Legislative body
+  jurisdiction: United States
 built_from:
-  brief_hash: df3c5db7a6a09bedc6607b5ba9e3795525815d2a25b1618217e2a70cfa645dd9
+  brief_hash: 0d5c224b8e41ed0ae82a774ef716470941fc7d986de5f1d44abdfd2092657711
   claims:
   - id: 447e52d5-3d75-41da-8b0b-706f5d2b23a6
-    hash: 8c2b8a8a23cfb059b3fa309d04975d342a33f3b1d78b543c7ed7ed2fe1807c6e
+    hash: ea2cceb022e2e59308118d80edf6ec5ddb70449420abcf1eb7bca66cf813b660
   - id: 0ef68fe2-c040-46ba-a3d3-7e79348a9f81
-    hash: bbe5b17eaf0bcc9f684df9473be1d6dc311efd4c6d2340b284edbaad283b95ac
+    hash: 2d1a04f0f5e02aabf771fdca52e7a7530367e80ea1eeccdf508c8bfb3959f027
   - id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
-    hash: 683dd6a6bb46745b0d3a85bdc1bd157d539ccae0c04b407233f76f35a3c17ef5
+    hash: d06c54b0b9be8764df6be2d71bb7fc97063fad49bc1bf89947eb45f4601ca45e
   - id: 3cce3fea-5675-4d2c-8aa8-e23853fc8f8c
     hash: b96d6ffb9452e210b0383408422131a0da178e2b45acd7160bd11039e538e228
   - id: b7942d85-da22-421a-9099-baa6f053942e
@@ -63,7 +66,7 @@ built_from:
   - id: e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
     hash: d8b3389ede1f4c2b5c4809d2e56945aa315f7facb5dd9635e60fda6b08e16bdc
   - id: 78507acc-c6cb-4af6-85bc-73082cdae6a0
-    hash: 6002d134f9443a652e5d43c03de9a401a71513baeacd90cdd6c91a248c340f47
+    hash: cf1031208a2a66454003ff7f077d76cbc2363ced48594b56a39d024284f98225
   - id: 68b43d23-894d-43bc-b84b-86154ea3b0b9
     hash: edbd0b4c3c6bb3b80516bff6f69b63b823284ec52c0c795e2616c8114e634002
   - id: 5329bae1-adc0-4bd1-b8f7-2e0748a23fa0
@@ -71,7 +74,7 @@ built_from:
   - id: e0e0d35c-ffd3-4552-83cc-755d5b258ab1
     hash: c8e4cb788b13443ec598841e882cc8f377af17759457469376477bad2d258aa6
   - id: 73ebff84-c6dd-468e-8e88-f3568894d70a
-    hash: ffa56738690d4305561cfab9048658d3c205a8adae0a67bdd46251257339bdc5
+    hash: 36ca0f2bdb530bb7b4a2263d415c27b655f28217510d3eea8345d37104e81661
   - id: 0031b14a-f294-4dda-8c4f-188dca549c9b
     hash: 033461b6a26836b3e50b81414b649f07db47f6e68ffe12cbb0ebe1e08a0228c2
   - id: 83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
@@ -83,7 +86,7 @@ built_from:
   - id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
     hash: a1fd2b3b807566cb15114dcf0a7a0f7721b94dd51b8929dd009be07dd1df255f
   - id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-    hash: 8f93859305fe64cd30676f923dc4d37bd8c5ea487d5da85d00547f49a928b1da
+    hash: daeebda47036b7f1d75443f4a2d302844b4f32b91aa224cdd0eadcd1f51b0dfe
   - id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
     hash: f15844d65dfc0c29638a23811ad656df12ae1f0a91b36619f4916d58590b1baa
   - id: 2207fbaa-60b6-42bd-be87-0933d1053bd4
@@ -95,61 +98,61 @@ built_from:
   - id: 22ab32d4-2b63-4143-adcf-1421c73616ed
     hash: 2f73a0c15aa4e8a39f6c3d7e1b8d02c9952394b1053fc893adba5b6ae62f3414
   - id: 826cbc9d-d251-432b-a3c9-b84b8fd45a49
-    hash: 56fc560619cac41f1d9e21c6e677454e9521c643781f0a52647c64a815d2aa1e
+    hash: a0ae0617a0429dd994b3af01a82f5a51bea9084a99c9c6f7ff5e79c523b231d5
   - id: 0aa44f96-0062-48b4-be77-7902947dbc72
-    hash: 844a89127264564cfc1c4701dfd3ae4b2daa315e3990c6c474b92a40c1f1bc7a
+    hash: 49faa0fe6805b5f4e61179b05ecd896ed45348e6caed3d86716d6aa3f2675395
   - id: aa19c83c-25d2-4bfb-a428-dd36af574d56
     hash: beaee3cd4b7c5b36bacb559bc869e8db556be5d67c58974c0cb5b8f18e6619c8
   - id: 6d2e9199-368e-4d1b-ae52-d491db7efc65
-    hash: 2ab27130bd947362a30fad9f64d72f08ff25b2ad31bd5b550093eabc026d7c2b
+    hash: 88860c37d006bab6603c6af78f5021dac4a9787e340c0d00b49f9dcc83974265
   - id: 341fb24f-ed51-4a2a-83bf-94f5542af655
-    hash: c36d7f69de0ea88e3cfc134d55b2c756a10e3d1014c67015668e0147fc0ed477
+    hash: a555cd70b5833d7f868f7aed777d0f1bcc1d4515c8c567930ef27f43ef580869
   - id: db4bbe47-489e-4392-8767-9af224fd0322
     hash: ba3eab4a97d41636b2ef274503a72712d78ee94f5240a2181e06e5de77aa595f
   - id: 5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
     hash: 7cacd347d8cb0c6c6fe3c140c580012589b3e1096f4e6c8d29df7c7bc47cfd48
   - id: 42642afa-6bec-4a82-b2d6-abf088023215
-    hash: 131b4b54e6de00ccfd6acc8e3e6d6e594a729ba0d55417ed083accf2acdbb645
+    hash: 9626e5bd409e161413925421d44b561ef38b2630d85a4239ccf00fc324f45ea7
   - id: 1ab16c16-854b-4f8c-b777-864452a1b17d
-    hash: a9c1f3e33dcd99b23105cab4f36f66494bb38c1f3e1523ec65292aa336e52b4f
+    hash: c107566b038462e0f2e521026d6b4ef754b9a30a2eeb4b548e26780245e94254
   - id: b331eaae-d754-4ebb-9a23-fe620b3f5d85
     hash: fb9f70533b8d39feb9d3da614d67821c35c163c0aafe8c12f8bc71b484766cb3
   - id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
     hash: 3543d510a3bd1fbeb9b04a92a59841ead874c4cbf977761bb8d70f4e3c734e90
   - id: d6980c22-651b-4ef3-a4e2-a4edd60a2a73
-    hash: 67aebf0dc95096b300d8fddab9bac793543428fd8f8575dc8a8af0473a410526
+    hash: 647f14e47693e4c9530c16acfc1d2b17c6aab8badd0f8591c2593c03bd265a83
   - id: d29ae603-3c13-4f62-91ec-33eba1605ead
-    hash: 5f479385bdc07bc8d1e13e573dfa163d9036b0f0c3cd7e6b689edf93df2a273b
+    hash: 9a5f980af10dd49d809d22d23291fb1ad5407e72330ec5da32be43b32cb873d3
   - id: 432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-    hash: 6aab6a57b1407e4fd96ea2f335ca0bfc9e40b1c1cc7fd59629d7089e21a61d40
+    hash: 0f5aa41fe38f0cd72f65e80463ab89fcc314a616571911a43819d6a4d8f3d4b0
   - id: 34aa94eb-efc7-4479-8b6c-8cf4a9740742
-    hash: 04407656124451cc967a4e673afc53c0e9e1daae76b310cce9a49b09d320cd81
+    hash: 280bfdab2b79538b44f983ae3c34dfc08c591cee935ba768dd0cc93dc4a3fb0e
   - id: a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
-    hash: acfb2df9fff3692d2b2864f93ea57de1af65f3e917008c76ad0a0ae72663ce33
+    hash: d67e8b084d827a165fb808d8c9d7c02f689039eb23dff59dece9c1f593f0ceae
   - id: b65ab58d-46e3-4239-b43f-6d3ceea426f0
     hash: 3a730fbf0b51ef9f036deb09afdfa8ebe5be9a716f0bbf5f033572edc9693240
   - id: 3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
     hash: f14b36ab5358108ba85b184e32b5e99356c33aaddd5871041cff2136c1b00645
   - id: 46b1748b-3951-475a-8681-0324358d58a4
-    hash: aeeefec1c46b29d1569170547bf4c4cffaf4b11d21357cd1d1c949ffc6208983
+    hash: 88273bc85437647a271ca3c8a4f60599f6d2493f3eb3940b36fb3c770cb8d9f0
   - id: 820875ac-d3d4-4970-9972-12fdd2ad8726
-    hash: aa65fcf7384fe404f0753ff3aa4f237bbd6050b4a2c804d739bf103ef8072c07
+    hash: 000c8909a2034d60ec34b65162ccc4a63474ee3fcb1c6cf0a14025d7b5117383
   - id: b589669d-2ade-4118-8612-f832a03960ea
     hash: 4fbc4e19916e18e9dbf3293d47cc71d3adc3ef13fd9ef9ab44e27631bc6d99c0
   - id: 7d1ae33f-daa8-4c46-834e-46a26bd548b1
-    hash: b052c6d1aeeb873435b6865db9241f21506733d607bb9f2528e530e5e0376ab5
+    hash: 1c5340bb1fb2039a95ac3706c9701195115c7afc3aebcb335beb479f8b50154f
   - id: d6b7cb7c-777b-48bd-a63c-ec3adc9ffef8
-    hash: df0fff1ed58303d68071c231c9b70cf757d708a57480441461f632db81065344
+    hash: a8cc5833fd327d7d8c51eb2e50c2d3f94d628cd9471e776351f05f9ea258eb59
   - id: 68c6863e-92d9-448b-a773-e43b72b50bf0
-    hash: 5c603c2e2955561a304541308a977f9475f81f8c0297f192eaca3f30d7678f8f
+    hash: 8871e8fffc96994916be914e1933c8c171eda62fab4662a9e5b31a4a194f075c
   - id: 5dd9300e-0be9-4053-90f8-365a2485528c
     hash: 10c7b0734136b2cc82cabe4b8a2b8e72ba33fbbc1e7a501c98437dc80825e7a6
   - id: 3330c459-bb81-4ecb-88ae-68b7e8e272f4
-    hash: 687e01f2d4eaa0d793883e09265d3e3d3e9be0538c48776065d4f73a821f27d5
+    hash: 843c0c752c5cc8d19a6f494753cadd7f2f333238b15790f93a4c6a09fb3b699d
   - id: 1b00c41d-8327-41d1-a57a-73e9dbdb73c7
-    hash: 3ff43d54c7a5466d18a69b90e7afd212d77133b9dbd8a85bc130e98c3cb66391
+    hash: b3c768bcfc8dfa1e31353c242b930808e1c979e980eaddf92e75e9a328d5f2ea
   - id: 0729a02d-fab4-49de-b8e2-5c9f3f7296ab
-    hash: ff9012d940a95652e59667be6a74b7fbdc092d7f0dac09e51d2cb7242605b760
+    hash: fc334e9e2171e951649368828b9c7c656526d6db0db77642ef5323ad7c317da6
   - id: 7e1d20f7-45e4-4342-b50a-d17a271ee6ee
     hash: 4001eb28f05d6b20520dd68a3fec1d6ef571375dc33bb1007c80b87bf6d75f54
   - id: ac4e2fea-b09d-4cc1-bd79-d157d8356a88
@@ -177,125 +180,125 @@ built_from:
   - id: f49766f1-0de1-47c4-994c-a36bb49c8720
     hash: 0d9ee7deb8b0a8b6ad25cd3567255cfc2d47d9ee7ebbf06da13c3552c294a8dc
   - id: 87c31854-6693-4007-b024-e2a999c013aa
-    hash: 9587eda1bd5fc9711b5e997b29df5f6f3470813e8db18b8101edb4015178d519
+    hash: ddfc7a9ddfe77b75d0409e8bcb67bf8683617a4729ed0a818f104ef21de57f03
   - id: aeb582d6-e1ad-47cf-a98b-a6664b79e898
-    hash: 3ba4540938635087e7c1183b7fc52e3b294ca2334e46ea5036d6082c522e8572
+    hash: a8d9713b57b957e5ef324cc4e26636ec28442f27b17a128c3ee6c9f39601ba7d
   - id: 6c416be9-a95b-4328-9fe7-da635b8fccf6
     hash: e62b6df2322e2ad10842cc194f5400cbd303b93500b0440869095c23bf26f9a6
   - id: 4cdb6015-39b2-49ff-9def-16f34bbc2707
     hash: 8af6b21c18e8d865797b2c05a48d3445e26d4e42bbbd13aa84bdf3b99816d458
   - id: 4d0a32c4-82b0-4006-ae75-e6fc5e85f45e
-    hash: d0a31f77cb6408c99b79ad720e018105d38a4e4651b0f3114a465b9929e01d79
+    hash: ae449ca696879ca064d1ae7b9f54432db45dac7d1b0b4d8fbfe2cc03767114d8
   - id: 23dda96c-cf33-41c6-80ae-ca073dd808c4
     hash: 9347442f3c5e8c16e7a8aba1ba03ab8512e44e612d9e666a8a6e6d8941f93aed
   - id: 3288c596-a36e-464b-8ed9-268933736adf
     hash: 14bd31f86680834e2a5ddaf98cf8dec634e7b787ae5ef3805a5448925a5ffd2e
   - id: ea4f49d0-e0bb-4fc4-816e-6601621cbacf
-    hash: 5d009bb7c10af8552858cefea9b5e5092d24eda249cf447a9c3a00d8a529c288
+    hash: 4ceb0f7f57de1aec8814c9fd858a82120b1db67b7444d959fcce91af7f1ac2cf
   - id: c1c9e2ee-f000-418a-805c-2a4828fb950e
-    hash: 69ecf78c4dd33748d3391593f13a371a623033c5534addd73be4b01076fe815c
+    hash: f921ca8dfe616c57bc343ab43d2c11f0a1f0a7764451be76628e87b3c9c83f5b
   - id: f3c2958f-f0b3-4311-a327-4f9310838396
-    hash: 326ba4cd774ca8d8c350b11de45b3feeb4941d9c639fed33ba68fc83ba81fc08
+    hash: cd9469f71f1e2fe9f4e3394265a1bb0a4d056f49459cbcc2c0388a0d14119049
   - id: 5d5d85b4-63c4-4a58-a2ee-42d4fb8ea840
     hash: 09d3f213c358ebb6741f1ff16048a7a98c3eca2ad48cc92b5139677f3bedaac3
   - id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
-    hash: c14541383838665097cc0a59d6749897821071c14a6c0d728b9f66a40eb4aeb1
+    hash: b22d331ff3a2b3e9ece947ea1552c7460c2ac6496974a7c7a65fcf6ec95bd888
   - id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
     hash: ce7c59755f052795daed65ec3c12d6639866b18d8704123bf43910feb327bd80
   - id: 3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
-    hash: 375c3aa697135d4bf06caa8b85c25c56d012eda9435580d28003a700e00cf0dc
+    hash: af52f0752e2680e4b21999d907f6e0d31d0efa5e229a4639e2169a62788310ce
   - id: acaa3294-98d2-4888-b580-4e993d213262
-    hash: dcd29472c0059e30f1fc857251fae5d77ee5fe8d983e0ecf94b3deba9ecec32f
+    hash: 2fd84d46482de5c40c2199f2af0f6e10de8b1fbe35aad83fb7cfd6a5a5197342
   - id: 7d9d2a80-2c2b-4696-b9df-4cc47766ec65
     hash: e2bfbc7c3893a9ecba83ebc39c9b34b56d9bcd2bd16b1303ec1acb06589c0652
   - id: 2ef743ad-1fdd-4408-a286-9ca0d8db9549
-    hash: c7a044b6bfb8e20ad847bdca9273fff6560d91545b9990d4fc59628f4ae0bbc8
+    hash: bdcedbf66b1d008ed5ce2c2016d5d69d0582c9489adecf737e50904e1adab4ea
   - id: 4bd1a106-7164-402c-a625-ab24ffd3c681
     hash: dcc265f359ad401db23d26bf9c622c9532ce74bc2f21f935882368a938e85613
   - id: 710b1529-12d1-4c68-97ae-2f98daae41bb
-    hash: 59d4300a0e22a56328c655645e224700b845c11c058abb25a749ce8c41b3616d
+    hash: 0df541d5d6d457ec3558e2b31f94701c757bb45651defba131808e45dcfc96b5
   - id: 4568b1c0-edab-4ce5-a0f8-871f64335663
-    hash: 677da3dafac70825c5c6165d4d0131453b09fe603f5bde7691f32f228a4266d6
+    hash: 4ec0f6ca4ede88a2774d5a32d72999fa3027e3187da57051f1ead56930213bdb
   - id: 9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
     hash: e03db2701daae607c691fe9ae9dfe462d5a736f726c9e2835e6ebe3da110a550
   - id: 53367f2d-7bac-40cb-ada3-626e5b4b0b11
-    hash: 7615fdc6c14dc75f274f053ea89ef2b38854e229dec2cd0b95b8086d7e9a46df
+    hash: 83494abcebb08abfe3373eff1e3d54a021fab75d14e44bcaf3f7e3dc159f38bd
   - id: 8c972a50-aa73-4903-8c88-9e56bf774189
     hash: 5836229e2263334207dca8fce3b1d4a437038fc5183d043bc8e50b290a882379
   - id: cc27e93e-f606-49df-8e50-bb078b808ffc
     hash: 6516480a3beceb543557fb272596adc900bf8ed7a4e17e666e9fd011c14359e2
   - id: 50d74b1e-4294-42d4-b6c0-d601fb463f76
-    hash: 41da2527de1397a9fd1051a074d36673d89199a121f71e05b8c9a282ca08093c
+    hash: dc3174ea9f5fb741da3ca006c4de0087e3c856891dd7b8847bfbb46295d3b935
   - id: 4060f280-e422-4f3d-97c4-bc702c550e76
-    hash: dd8c11925b73ad3b7b4b75c3d81ebfa5a62c7a955955515ecea0e7584e9b0ac5
+    hash: e835e405a5c5474a11c3e1cde80717e478391308fa7488f9ceb09c7a5e7eb7f7
   - id: e6f32e9f-7fdd-44e8-9d03-46d9fe5236d5
-    hash: b985434e4e9fba11a32ba0ff242dfb7685ce1e09890629271266bae052ec7838
+    hash: cfff66ee204683e773c2803e9cd7c35cde3eeb85b06646f72bd45a97f7c0f442
   - id: 12cc6819-5153-4abf-8895-378943c8650c
-    hash: 034c0cb34ecc3028ae43ee6160ad8f7f714238f576640f087dfc6d7ba69a6954
+    hash: a33f47d5d864bd7517406909af739439110bc91a988a6883873212f2ce37cf48
   - id: aeeac4c7-254c-4fa3-b3c2-bfd8e527af4c
-    hash: 5fc82c221327082e065cc33cab01cb679e37e9b23b22a1d5bd9592313f71b34e
+    hash: 2a0e35c59dca65002af4f2cf66de4b5cd8f4b89068476dd1018312cd2813fe46
   - id: 31d47334-022c-4a89-b082-db893cddf182
-    hash: 0023e7e59d179f3c51d8dbbb0b612fe22687bb953bce28f656e0ca45e3dde0b9
+    hash: 9571b83409f9f41da9b5cd12af8d8e3f0ca24b906f5dfa932d68647d5d8e4a0b
   - id: 2cefbc93-fdb1-4597-9591-c347930937c0
-    hash: c6263654814e5012dce476a6f927be6bd8b4cabff1ce5b207fd89e8a8661d494
+    hash: b83ee151cf5f2853446bab20d530388a57cb444cf7d1e82787f630c541ce0c7d
   - id: 8534316b-6faa-4ddf-95be-f89085e4d7e8
-    hash: 248a364abdd99bc16b31bf9b713ee2571e76f346f9207f0c4b942740a9fc2930
+    hash: 4a989d7d144a9acf88c668f96a5a40c93e6d7c19ea2cf1597565ce372f0ac50e
   - id: 01525b0d-be99-4940-8680-5f1a02f37f9f
-    hash: e2ddcacdded4b7534364d66ed77eeae597a6c0b9ae85bd5ba67774379a373d8e
+    hash: c93eaed09dc252e6e255ba23883368a3edd6bfcb26710ac8226119930c2030df
   - id: c084cc9c-270b-436d-8361-e2c06927c0a0
-    hash: 235a5ccf76e64910094fa7e78887e525df09e7dbe1277f7e3129a6ab0acfedd8
+    hash: 4085be03e2cb09602356309d82c1eb679c13f36be7e5f0986c3dff551d1a5902
   - id: 75937ffa-2a59-4728-a7c5-c942a9ee6e9b
-    hash: cb6a253540771b6377cc3335f294aa0a7dac1350d2b8d220bb1332d2d073ca99
+    hash: 92f284fb52098bbdcf8824615778b4d4efabf0a6585af384c420488e7c606d5b
   - id: fb6dee49-7d50-4389-ad95-1b269245afba
-    hash: e63ab82c5a7313ea0b88c598325d94419b4e1387ced91afb8cf4d769dc1f5038
+    hash: 90eab532fdaacf25fe182a4402c7be5c0f96cb57a8c9f103f3eb0485d9c7a0a0
   - id: 7a05ce51-114c-41b1-a6f0-089aa87f218b
-    hash: 316ca0342d81b01d2eafa84127ea4ffa40f788aee3e29e1d6d66bf3216a37ef9
+    hash: c3df496110259a42d79b7cce2b35af57d1c37a945d2e333c56ec5c913d179e95
   - id: 5559e17b-a453-4493-a73a-eb82a51261bb
-    hash: a8c9c893e041d17277b9903109c5686fed79c555b682d7fae0afecdcb2f5bd57
+    hash: 8e0feb5453cc5a5e9a56d2b7ce338b7339f79d9979f9678916b923e3e728236c
   - id: e00769d7-6807-4176-8ae1-c9d1b142091c
-    hash: 0134a8794ab45c4925693fcbab3a5b8de9f571292cbbc7c24461fc385084f570
+    hash: f62b33a4b16651119aa33d216c61cc0906bad0c708045f75b8293dfe2bb194ad
   - id: f5d7e781-6271-4c3c-b4aa-3e7ef5ec580f
-    hash: 7e61ff05b11bd468c11e8e2dcf617e917309f38cca2b39361eeea70634c5b554
+    hash: 2a70772b048550916c31347401a84eafbefdf65e73f64e725079b70c2534d673
   - id: 9373e68f-2105-4e38-910d-75d023372993
-    hash: 9b556f2cecf1b0b59a02ec3bf1b89c5ac578aef2dba0d371529a95a172afaac7
+    hash: 2d4f85a2056f2200080538b9fd52a36df59d6c4d97715832d67caffa38fa2a88
   - id: 707ab930-8546-4245-8ba8-e6e211a82312
-    hash: d36da00c32b536e36bf66bf41d344b682cd5f80fa477cde9411fec574242efc6
+    hash: dfa5246b4b951fe5848e8af806489186da0983951851bcda63c9b9ad68666347
   - id: afd5cb7d-2eba-4a82-8383-783ae029bdd5
-    hash: 29465360d927a471cf2ca818195ca2afffec6729851a1e4cd03204700c6fc839
+    hash: 75921c6a595d3cde900b41f9a81536c5880319226cc429f4fcf7dc2b7d7b478e
   - id: ae78eb4f-22c5-4e44-b8be-e2f0f71c5ea8
-    hash: b6f99dfb7ed7f92fc863d38fa0178c6ee0065db5ecb6f70e8892e717e6685845
+    hash: 9f7250e55f6acfa8e18d1bf0e97421b803225b3f0ae8c4950f174644396392fa
   - id: 791a29bf-77c5-4bc0-917d-c31388eee4a9
     hash: c483a53a3ad60ad8721c9ea9054ce1472b4d2c55a532e6d63e85bfc3a84a78e2
   - id: b19d5f0f-c5f6-406e-b359-57eb5a56f31e
     hash: c5ca4fd68b180022650578c2215f5d17d162c7bf45263a825e0e8b83e9bae2a4
   - id: 8c9ab7df-559d-49ea-a526-56cd45e1d152
-    hash: 497be1806f67c37e29340f888779c3ac78763ac44cce44353fa5aa89af8e617b
+    hash: 2ac6a91c6939f9bc352e010787ccba994a6bb0c2e7050922c4f8c2c898397b8a
   - id: a62769f4-0642-4490-a508-8801063f88b9
     hash: 488582f771eeccdfc2c41beba165afc7438c18329bf67b06ed917dae0ec3a4ed
   - id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-    hash: 9c1af4104c99da9273516b843a878983b8785beadda29d7950efd1d29adec34d
+    hash: b6f7ea845440f0666712c02610c01518eb508d581365d3fea7b6fd5e11272dcf
   - id: b039e676-ef54-4e80-91aa-440a88620766
-    hash: 1d6b53869396966d94b5d7c3a9b4288722a8b3bf7992f12668784994bb703391
+    hash: 0904bac04c962b71eacd2e2f7077a40b432aaaa85328377c2bcd4984a7431967
   - id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
     hash: 07da47915e2e9a50d2c463509877bcd8fba9d83b017d5f7ab0893ae612032faf
   - id: 5303835b-b843-4604-96e3-61a11063937d
     hash: 2ef4ab6628fba7ef10bb9fa3572af9f27864844117dd61a3f315db52b6b1a89a
   - id: 04e5d893-3680-41db-b4c5-d392c7b990de
-    hash: c3bdcad8ecb09b6a329cfd173d592fbc602792336b1deee80319dabf5b479448
+    hash: e052e0c1ef2bfb143552c958929cda7f714e4bbd0ed072915ffcd7629b604fe7
   - id: f0cc10b5-0ced-45d4-b487-b579560c7753
     hash: 8cbf76abeb46e8f9c913ae1232be5d63cf7db5258bba7cea4fee78389b1bae81
   - id: 817b6454-ee77-494f-8ea4-458d3476a430
     hash: 9dc7a41aeffef9f13b6d7fc207991f8f614ecacd46fa06b11281f3219be407b3
   - id: 0bc452ef-1bd7-4432-affc-b7d575f972db
-    hash: 5ca624fd301211460d821e8f10ecece47c956faca1dc619782de3e6e43493c90
+    hash: 251a3b2c99cb79a1d45e4ae693e20dea1618b7a61bf912113a3ad4ecf03fc7fb
   - id: 0ead81e1-1f21-4979-9b9f-bc4d5ec79005
     hash: 2af37cb563985c64e71b81cef5eb0fa797ebcde927fee168ecc6d0c33c0c6e70
   - id: 7b527140-6627-42ac-a2de-3e550e9beb3b
-    hash: b9820c53ede834d751dd421a7f4e62ebfcede97bdccb57a6b566f09deeb6ea4f
+    hash: 256d2f23bfbbd4e1c145a98585f812cb60d0396b87f8ec27de30ca413ed931f2
   - id: abf4b9ff-6de1-4428-a7f7-9fc33485c05f
-    hash: 5db2cebe8ec689d2ded6900d86e5ab33a474ad0a5b3b84150a60e9e839acd2de
+    hash: bbdcc570169bd151e416b5a94086a7e883a6baa882fd8db300a22935501cdbbc
   - id: cf742e52-c274-492e-b12a-1c4dc09d4ea1
-    hash: 94119cea254ad14dcd61271d6f5ab2d366fc26cb95933916f1900dd7eefd7c11
+    hash: 2728e2e165a3b4f1d6f205dd1caa107868ad5d8660248cf8136ad18e931a92c8
   - id: 5d0aadc0-14b4-4bb1-b9a6-1319cd805061
     hash: 6bd7e8b48634a27598e35fb543c82b073ea59cfc0de5753316c5f48271db0d00
   - id: 440c7b92-2015-4395-b214-c9a0debed5d2
@@ -339,13 +342,13 @@ built_from:
   - id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
     hash: 524f34d29ef98c8ae421c7306128a9fb012fdb75986dbe5dd6690a51d2e6705d
   - id: 4c95df5a-a713-459c-afb0-2a616b3074f0
-    hash: 01a0da161743f053de125e709ff02dc3cf583de354cb5b4baf8e5f2b9b78094a
+    hash: aaf5d54c19ad681a5651a2774bc6737a6f3c64771e8b1f7c55d605f2ab07031a
   - id: c44b5d0a-0bed-41ba-a99e-0f9afca6c73d
-    hash: f79e9ce9149ffa58adb1a29826f280fa78d09644d18838e53df827bb8f053ce0
+    hash: 06cde65865bf59be1986cacc2383e995e88eee302321c0978a9dd36358200d48
   - id: 3e3fcb90-5510-4846-bb89-80538e0ae2fa
-    hash: 4454ab022b071e7d8cfa47f2bc1407cd0de3aee4a2548cc212b84f9a90a449b7
+    hash: ae672199286283853b4dcc8bcf43b3140af3f2af5c9565f744163263547da21f
   - id: d6334183-d7e6-4938-a00b-e8952d59a556
-    hash: 9983dac0729db3e4da93c075e8561e0c3708908bad42e3ef004c97c141cc89f9
+    hash: 515a22f357c51e9224970e7ca96a5a30bbd015eda8cb468ccd50201b611efe4f
   - id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
     hash: 10f11926f3a965d3eb590c514f8e46c1808f3be0e885fac00f8e149a9734d767
   - id: 282d7b37-246f-4a3a-b47f-c3903ea38983
@@ -353,7 +356,7 @@ built_from:
   - id: eb204f81-feac-452c-87d8-566d5d0c20ba
     hash: 834d3e25d97ce18ac31b32c086992f3782ce43cb6e74d4a9e5c1edfb02c2c581
   - id: e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
-    hash: 6b673f62dbc8c693d01b291cdb3c5dad078841d32dd071dfb93a99e8003e8b9b
+    hash: 6e61de07319ba1031a1e68b079232d95487e97c01deb34eb81962fb84be5c0cb
   - id: eff9d015-d7fe-415f-9f04-7d272f4b68c0
     hash: 9d8d7927c6cfd14bacfc2ad52a744cac4c594aca68d8b9e51b7269833abd0d5e
   - id: 5f47635e-3a52-4825-8d30-260edfe6ad8e
@@ -373,7 +376,7 @@ built_from:
   - id: e0f8ad74-dffe-4656-a0ba-11a22b438953
     hash: af0d3cec84df39392079d07f43402752533e6bf360c01bae444fbcebc32d9abe
   - id: 9dc78844-cfb5-490d-8c34-307a6e3d90fe
-    hash: 437e68ac364654cc6e06c885da68e9536dd6a69eebc09d6d6c783931b5a6a857
+    hash: ccc6620e90c190dafec2170572230b7fa9bacafffdaad58c623ca7ca27c4ab43
   - id: 65180e68-0486-4a6c-b1c8-5d0fd8c45a58
     hash: 246bc5c45b875f47cd6c18b027e41351d950b4521adb4c06a354f74e95e1a058
   - id: 5c34ec5c-fd6b-431b-aa78-690bb763e45a
@@ -385,7 +388,7 @@ built_from:
   - id: 5c536172-652d-437a-8d98-9ac2de2ffbc4
     hash: 00e3e248a41c4f1e6c1c566435ffab5419ec3536f614691de84ccf850f9e9595
   - id: f6d62613-eef2-43c5-9196-bc9f2e443196
-    hash: 78c0bd735cfe2b267eca24d3bdd659505f16fdbc2375e5a370b0cab80f32c809
+    hash: a615fdcb8f42f703528f704b7631878cb807660910e7a4e0dd7fb7866ee16737
   - id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
     hash: 8c993f39238eb3b12d84b5d2d13617b73584a1f8d0a62ded4f13ae7fb9f70cac
   - id: 5d92d7ac-169a-4074-b10e-596900bc2664
@@ -399,55 +402,34 @@ built_from:
   - id: a6e0834d-0578-428c-9fcb-873040a56277
     hash: 98165398f373144cb89c2775ce34569b7a22bb91b9a6d9bc8ccee96e282d83e1
   - id: 72e0b848-9ad6-4832-a9e4-7dda27c52f4a
-    hash: a25f5dbce7ec0f8e198d908b54630d38bbaf8ea6f958ca1e17e7e04d6b7ee56e
+    hash: 28bed328d6513b7d1aef68623f1e1c5fa80e41c6741f362e61d0c709031269b7
   - id: 3af5c996-f4f2-44f5-a842-eab2dd11cb21
     hash: a8d92e0f58601bab2a15ea8d7a90c3575522a6c67e6e3898157b5ae530aa7903
   - id: f07a9863-8869-426f-a69e-123e1769fd11
     hash: 84f59b23b6e7b0b3f5da851ff88fc5e465af938a2d91cba8ead0a7e51e0ee4be
   - id: 2e864102-c203-406f-8b5d-fc297dbd0abd
-    hash: b405019b17888d25e83e0c76e74e42ccd6b0bd3f21bf132535975bf4982bf541
+    hash: 75493d8f8cc9b752bf8fe4ef16f14c9dffb2b2fa198678f818e92ad8628e74a1
 references:
-- text: Congress made a serious attempt to investigate the UAP phenomenon as early
-    as 1968.
-  source: In Plain Sight
-  location: ch30:1404-1485
-  quote: as Congress was in 1968, the last time it attempted to seriously investigate
-    the phenomenon?
-  claim_id: 341fb24f-ed51-4a2a-83bf-94f5542af655
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-341fb24f-ed51-4a2a-83bf-94f5542af655
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-341fb24f-ed51-4a2a-83bf-94f5542af655
-- text: Hillenkoetter told Congress senior air force officers were privately concerned
-    about UFOs despite public ridicule.
-  source: In Plain Sight
-  location: ch9:15353-15570
-  quote: He would tell Congress, ‘Behind the scenes, high-ranking air force officers
-    are soberly concerned about UFOs. But through official secrecy and ridicule, many
-    citizens are led to believe the unknown flying objects are nonsense.’
-  claim_id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
-- text: Andre Carson presided over the first open congressional UAP hearing since
-    1968, in May 2022.
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:19658-19742
-  quote: In May 2022, Carson presided over the first open Congressional hearing on
-    UAP since 1968.
-  claim_id: 46b1748b-3951-475a-8681-0324358d58a4
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-46b1748b-3951-475a-8681-0324358d58a4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-46b1748b-3951-475a-8681-0324358d58a4
-- text: NASA was created by an act of Congress on 1958-07-29.
-  source: Dark Mission
-  location: ch12:107514-107620
-  quote: The National Aeronautics and Space Administration (NASA), was created by
-    an act of Congress98 on July 29, 1958.
-  claim_id: b7c0f4ee-813b-4dcc-92ed-6c82796e4d1f
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b7c0f4ee-813b-4dcc-92ed-6c82796e4d1f
-- text: Hoagland and Torun lobbied Congress to make Cydonia an imaging priority for
-    Mars Observer.
+- text: Neither Congress nor the public has ever seen the AAWSAP Tic Tac report or
+    the other 100-plus research papers it produced
+  source: Statement to Congress
+  location: char:11316-11419
+  quote: Neither Congress nor the public has ever seen the Tic Tac report or any of
+    the other 100-plus research papers.
+  claim_id: 447e52d5-3d75-41da-8b0b-706f5d2b23a6
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-447e52d5-3d75-41da-8b0b-706f5d2b23a6
+- text: The New York Times AATIP article was largely responsible for Congress creating
+    the task force that became AARO
+  source: Statement to Congress
+  location: char:9218-9361
+  quote: was largely responsible for the creation by Congress of the UAP Task Force,
+    which later morphed into AARO, the current UFO program approved by Congress.
+  claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
+  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
+- text: Hoagland and Torun made inroads in Congress to make Cydonia an imaging priority
+    for Mars Observer
   source: Dark Mission
   location: ch10:14218-14400
   quote: When Hoagland and Erol Torun began making inroads in the United States Congress
@@ -456,18 +438,8 @@ references:
   claim_id: 52ca4f64-97a8-4c51-90eb-0fa4cf7376b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-52ca4f64-97a8-4c51-90eb-0fa4cf7376b5
-- text: Neither NASA nor Congress had authority over Mars Orbiter Camera targeting.
-  source: Dark Mission
-  location: ch10:25468-25716
-  quote: Hoagland and the other researchers then began to lobby NASA and Congress
-    to target the formations, only to make an extremely unpleasant discovery. Neither
-    NASA nor Congress had anything to say about where Michael Malin had pointed his
-    Mars Orbiter camera.
-  claim_id: 57cb3e6f-4d0e-4283-b0c1-e93cf741a561
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57cb3e6f-4d0e-4283-b0c1-e93cf741a561
-- text: The Brookings Report reached Congress on 1961-04-18, six days after Gagarin's
-    flight.
+- text: The Brookings Report was delivered to Congress six days after Yuri Gagarin's
+    spaceflight, on 1961-04-18
   source: Dark Mission
   location: ch10:60053-60205
   quote: Six days later, NASA finally delivered a report they had commissioned on
@@ -476,23 +448,25 @@ references:
   claim_id: 8555a5e1-e862-407e-9560-754b9e9527a6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8555a5e1-e862-407e-9560-754b9e9527a6
-- text: The Space Exploration Initiative had little success in Congress.
+- text: NASA was created by an act of Congress on 1958-07-29
   source: Dark Mission
-  location: ch5:25773-25835
-  quote: The President was pushing hard for the Initiative with little luck
-  claim_id: cafa3c5e-6c3b-4633-bea7-875bd82e3571
+  location: ch12:107514-107620
+  quote: The National Aeronautics and Space Administration (NASA), was created by
+    an act of Congress98 on July 29, 1958.
+  claim_id: b7c0f4ee-813b-4dcc-92ed-6c82796e4d1f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafa3c5e-6c3b-4633-bea7-875bd82e3571
-- text: Paul Hudson on SEI's acronym confusion with SDI in Congress.
-  source: Dark Mission
-  location: ch5:25841-26043
-  quote: a poor choice of acronyms, as SEI, "Space Exploration Initiative, sounded
-    very much like SDI, Strategic Defense Initiative, which left congress saying things
-    like, "Didn't we already give you money for that?"
-  claim_id: 7ff8c90f-7d34-4490-a51e-feb68bb404aa
-  record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ff8c90f-7d34-4490-a51e-feb68bb404aa
-- text: NYT contracts show ~$22 million congressional appropriation for AATIP, 2008-2011.
+  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b7c0f4ee-813b-4dcc-92ed-6c82796e4d1f
+- text: Harry Reid retired from Congress in 2017
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:3153-3225
+  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
+  claim_id: e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
+- text: Contracts show a congressional appropriation of just under $22 million for
+    AATIP from late 2008 through 2011
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:8991-9115
@@ -502,33 +476,8 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-78507acc-c6cb-4af6-85bc-73082cdae6a0
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-78507acc-c6cb-4af6-85bc-73082cdae6a0
-- text: 'Reid: a DIA scientist''s account prompted him to seek congressional UAP funding.'
-  source: In Plain Sight
-  location: ch17:3083-3167
-  quote: Reid claims that this one incident prompted him to seek Congressional funding
-    for a study.
-  claim_id: 83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
-- text: Reid's AAWSAP funding from Congress ran out in 2012.
-  source: In Plain Sight
-  location: ch21:12644-12711
-  quote: While Senator Harry Reid's AAWSAP funding from Congress ran out in 2012
-  claim_id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
-- text: Reid was a former member of the Gang of Eight.
-  source: In Plain Sight
-  location: ch17:22355-22416
-  quote: a former member of the Congress’ Gang of Eight SAP oversight group
-  claim_id: 0031b14a-f294-4dda-8c4f-188dca549c9b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0031b14a-f294-4dda-8c4f-188dca549c9b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0031b14a-f294-4dda-8c4f-188dca549c9b
-- text: Definition of a Waived Unacknowledged Special Access Program, overseen only
-    by the Gang of Eight.
+- text: A Waived Unacknowledged Special Access Program is overseen only by the Gang
+    of Eight in Congress
   source: In Plain Sight
   location: ch14:11734-11936
   quote: A WUSAP means the Secretary of Defense has waived all the normal oversight
@@ -538,56 +487,48 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e0e0d35c-ffd3-4552-83cc-755d5b258ab1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e0e0d35c-ffd3-4552-83cc-755d5b258ab1
-- text: Reid retired from Congress in 2017.
-  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
-    (Published 2017)'
-  location: char:3153-3225
-  quote: Mr. Reid, who retired from Congress this year, said he was proud of the program.
-  claim_id: e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e5bd36de-f45c-41e7-a09d-f7801ed9eb0f
-- text: NYT's AATIP reporting led to Congress's Task Force, later AARO.
-  source: Statement to Congress
-  location: char:9218-9361
-  quote: was largely responsible for the creation by Congress of the UAP Task Force,
-    which later morphed into AARO, the current UFO program approved by Congress.
-  claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
-  record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
-- text: Rubio asked ODNI and the Pentagon for an unclassified UAP report within a
-    month, December 2020.
-  source: Navy pilots describe encounters with UFOs
-  location: 00:12:34.0-00:12:45.5
-  quote: This past December, while he was still head of the Intelligence Committee,
-    he asked the Director of National Intelligence and the Pentagon to present Congress
-    an unclassified report by next month.
-  claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
-- text: Not since the 1960s had Congress instructed DoD to act on UAP or issue a public
-    report.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:19635-19816
-  quote: Not since the 1960s had Congress instructed the DoD to take any action regarding
-    UAP, let alone issue an *unclassified* report that could be shared with the American
-    people and the world.
-  claim_id: 710b1529-12d1-4c68-97ae-2f98daae41bb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-710b1529-12d1-4c68-97ae-2f98daae41bb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-710b1529-12d1-4c68-97ae-2f98daae41bb
-- text: Congress required the UAP report to be produced annually after the Preliminary
-    Assessment.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:21824-21964
-  quote: This official government UAP report had proven so important, and of such
-    great public interest, that Congress then required it on an annual basis.
-  claim_id: 4568b1c0-edab-4ce5-a0f8-871f64335663
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4568b1c0-edab-4ce5-a0f8-871f64335663
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4568b1c0-edab-4ce5-a0f8-871f64335663
-- text: 'Mellon''s strategy: interest the public to interest Congress, which would
-    pressure DoD.'
+- text: Harry Reid was a former member of Congress's Gang of Eight oversight group
+  source: In Plain Sight
+  location: ch17:22355-22416
+  quote: a former member of the Congress’ Gang of Eight SAP oversight group
+  claim_id: 0031b14a-f294-4dda-8c4f-188dca549c9b
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0031b14a-f294-4dda-8c4f-188dca549c9b
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0031b14a-f294-4dda-8c4f-188dca549c9b
+- text: Reid says a DIA scientist's account prompted him to seek Congressional funding
+    for a UAP study
+  source: In Plain Sight
+  location: ch17:3083-3167
+  quote: Reid claims that this one incident prompted him to seek Congressional funding
+    for a study.
+  claim_id: 83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
+- text: Graves and other Theodore Roosevelt pilots were summonsed to give confidential
+    briefings to Congress
+  source: In Plain Sight
+  location: ch22:12069-12198
+  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
+    to give confidential briefings to members of Congress.
+  claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+- text: Senators were given a classified Pentagon briefing on the sightings in 2019,
+    with committees requesting more information
+  source: In Plain Sight
+  location: ch22:12208-12460
+  quote: US Senators were also given a classified briefing by the Pentagon (including
+    the Office of Naval Intelligence) about the UAV sightings; there were multiple
+    requests from members of key Congressional oversight committees for more information
+    throughout 2019.
+  claim_id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
+- text: Mellon says their strategy was to get the public interested so Congress would
+    pressure the DoD
   source: Navy pilots describe encounters with UFOs
   location: 00:11:57.6-00:12:06.7
   quote: We knew and understood that you had to go to the public, get the public interested
@@ -596,48 +537,18 @@ references:
   claim_id: d6980c22-651b-4ef3-a4e2-a4edd60a2a73
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d6980c22-651b-4ef3-a4e2-a4edd60a2a73
-- text: Elizondo, Stratton and Mellon concluded Congress had to force change at the
-    Pentagon.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch28:7879-8058
-  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
-    change the way the Pentagon was handling this was to get Congress to make them
-    change.
-  claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
-- text: Mellon and Elizondo began engaging congressional staff on Capitol Hill.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch30:7791-7884
-  quote: Chris Mellon and I had begun to engage people on Capitol Hill in an effort
-    to make change in Congress.
-  claim_id: 7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d9d2a80-2c2b-4696-b9df-4cc47766ec65
-- text: 'First step: engaging SSCI and SASC professional staff and members of Congress.'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:1700-1896
-  quote: The first step of the strategy would be to engage key professional staff
-    on the Senate Select Committee on Intelligence (SSCI) and the Senate Armed Services
-    Committee (SASC) as well as members of Congress.
-  claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
-- text: By June 2023, Congress had held two public hearings and many classified briefings
-    on UAP.
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:3749-3850
-  quote: Now, with two public hearings and many classified briefings under its belt,
-    Congress is pressing for answers.
-  claim_id: 7d1ae33f-daa8-4c46-834e-46a26bd548b1
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
-- text: 'Grusch''s unclassified complaint: UAP information withheld from Congress
-    to thwart oversight.'
+- text: In December 2020, Rubio asked ODNI and the Pentagon to give Congress an unclassified
+    UAP report within a month
+  source: Navy pilots describe encounters with UFOs
+  location: 00:12:34.0-00:12:45.5
+  quote: This past December, while he was still head of the Intelligence Committee,
+    he asked the Director of National Intelligence and the Pentagon to present Congress
+    an unclassified report by next month.
+  claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
+- text: Grusch's complaint states UAP information was withheld from Congress to thwart
+    oversight
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:11364-11678
   quote: An unclassified version of the complaint provided to us states that Grusch
@@ -649,8 +560,29 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-- text: Grusch gave Congress and the ICIG classified information about covert recovery
-    programmes.
+- text: Mellon has arranged classified briefings for Congress on UAP referencing exotic
+    retrieved materials
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:16171-16402
+  quote: Mellon, the former Deputy Assistant Secretary of Defense for Intelligence,
+    has been instrumental in arranging classified briefings for members of Congress
+    and other officials about UAP, which include references to exotic retrieved materials.
+  claim_id: a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+- text: In May 2022, Andre Carson presided over the first open Congressional UAP hearing
+    since 1968
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:19658-19742
+  quote: In May 2022, Carson presided over the first open Congressional hearing on
+    UAP since 1968.
+  claim_id: 46b1748b-3951-475a-8681-0324358d58a4
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-46b1748b-3951-475a-8681-0324358d58a4
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-46b1748b-3951-475a-8681-0324358d58a4
+- text: Grusch gave Congress and the ICIG extensive classified information about programmes
+    he says hold non-human craft
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:258-518
   quote: A former intelligence official turned whistleblower has given Congress and
@@ -661,7 +593,28 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
-- text: ICIG found the whistleblower's assertion 'urgent and credible.'
+- text: By June 2023, Congress had held two public hearings and many classified briefings
+    on UAP
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:3749-3850
+  quote: Now, with two public hearings and many classified briefings under its belt,
+    Congress is pressing for answers.
+  claim_id: 7d1ae33f-daa8-4c46-834e-46a26bd548b1
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
+- text: The FY2023 NDAA provision lets any person with relevant UAP information inform
+    Congress without retaliation
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:7415-7565
+  quote: The provision states that any person with relevant UAP information can inform
+    Congress without retaliation, regardless of any previous non-disclosure agreements.
+  claim_id: 1b00c41d-8327-41d1-a57a-73e9dbdb73c7
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-1b00c41d-8327-41d1-a57a-73e9dbdb73c7
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-1b00c41d-8327-41d1-a57a-73e9dbdb73c7
+- text: The Intelligence Community Inspector General found the whistleblower's assertion
+    'urgent and credible'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
   location: char:383-603
@@ -672,7 +625,214 @@ references:
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-9a512374-dbec-4552-b5c8-b501926e0ba5
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-9a512374-dbec-4552-b5c8-b501926e0ba5
-- text: Fravor, Graves and Grusch testified under oath at a bipartisan July 2023 hearing.
+- text: Tim Burchett proposed FAA reauthorization legislation requiring pilot UAP
+    reports be forwarded to Congress
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:13416-13586
+  quote: I proposed legislation to go in the FAA reauthorization that just said if
+    an airline pilot has a sighting that when he makes that report to the FAA that
+    it would come to Congress.
+  claim_id: 0aff9851-b38a-41cb-967d-01860b6b4871
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0aff9851-b38a-41cb-967d-01860b6b4871
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0aff9851-b38a-41cb-967d-01860b6b4871
+- text: Congress created AARO in the National Defense Authorization Act of 2022
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:28915-28980
+  quote: Congress created the All-domain Resolution Office in the NDAA of 2022.
+  claim_id: 87c31854-6693-4007-b024-e2a999c013aa
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-87c31854-6693-4007-b024-e2a999c013aa
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-87c31854-6693-4007-b024-e2a999c013aa
+- text: The Aviation Safety Reporting System has built-in analytics capability and
+    is funded by Congress
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:85783-85842
+  quote: It also has built-in analytics capability and is funded by Congress.
+  claim_id: 6c416be9-a95b-4328-9fe7-da635b8fccf6
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
+- text: Grusch says SAP notifications to Congress go through the Periodic Program
+    Review process to SASC and HASC
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:99097-99311
+  quote: A lot of it comes through what they call the PPR—Periodic Program Review
+    process—if it is, you know, a SAP or controlled access program equity, and then
+    those go to the specific committees, whether it be the SASC, HASC
+  claim_id: 4cdb6015-39b2-49ff-9def-16f34bbc2707
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4cdb6015-39b2-49ff-9def-16f34bbc2707
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4cdb6015-39b2-49ff-9def-16f34bbc2707
+- text: Congress continued approving funds for the remote-viewing programme for almost
+    two decades
+  source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
+    1 of 3)'
+  location: 00:07:13.8-00:07:19.0
+  quote: Congress continued to approve funds for the remote viewing program for almost
+    two decades.
+  claim_id: 4d0a32c4-82b0-4006-ae75-e6fc5e85f45e
+  record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
+  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4d0a32c4-82b0-4006-ae75-e6fc5e85f45e
+- text: Congress pulled funding for Project Stargate prior to Elizondo's recruitment
+    into remote viewing work
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch11:27179-27260
+  quote: Congress had pulled the funding for the psychic spy program sometime prior
+    to my recruitment
+  claim_id: 23dda96c-cf33-41c6-80ae-ca073dd808c4
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-23dda96c-cf33-41c6-80ae-ca073dd808c4
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-23dda96c-cf33-41c6-80ae-ca073dd808c4
+- text: Elizondo, Stratton, and Mellon concluded the only way to change the Pentagon's
+    handling of UAP was to get Congress to force change
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch28:7879-8058
+  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
+    change the way the Pentagon was handling this was to get Congress to make them
+    change.
+  claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+- text: Elizondo's disclosure caused Congress to pay attention, and Stratton began
+    receiving briefing requests
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:26235-26467
+  quote: Our plan was working. My going public caused Congress to pay attention and
+    Jay started getting requests for briefings from members of Congress who previously
+    would have never been aware of the facts, due to the stigma and layers of bureaucracy.
+  claim_id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+- text: Not since the 1960s had Congress instructed the DoD to produce an unclassified
+    UAP report
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:19635-19816
+  quote: Not since the 1960s had Congress instructed the DoD to take any action regarding
+    UAP, let alone issue an *unclassified* report that could be shared with the American
+    people and the world.
+  claim_id: 710b1529-12d1-4c68-97ae-2f98daae41bb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-710b1529-12d1-4c68-97ae-2f98daae41bb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-710b1529-12d1-4c68-97ae-2f98daae41bb
+- text: Following the Preliminary Assessment, Congress required the UAP report to
+    be produced annually
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:21824-21964
+  quote: This official government UAP report had proven so important, and of such
+    great public interest, that Congress then required it on an annual basis.
+  claim_id: 4568b1c0-edab-4ce5-a0f8-871f64335663
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4568b1c0-edab-4ce5-a0f8-871f64335663
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4568b1c0-edab-4ce5-a0f8-871f64335663
+- text: The DoD's account of recent UAP incidents given to Congress began with the
+    2004 USS Nimitz encounter
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:22586-22698
+  quote: what they provided to Congress was a watered-down version of recent incidents,
+    beginning with the 2004 Nimitz case
+  claim_id: 9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
+- text: Congress authorises the US defence budget every year through the NDAA
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:25369-25481
+  quote: Every year, Congress authorizes the US defense budget in what is called the
+    National Defense Authorization Act (NDAA).
+  claim_id: 8c972a50-aa73-4903-8c88-9e56bf774189
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8c972a50-aa73-4903-8c88-9e56bf774189
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8c972a50-aa73-4903-8c88-9e56bf774189
+- text: The Legacy Program and its associates blocked funding Congress had appropriated
+    to the Pentagon's UAP Task Force
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:26232-26383
+  quote: the powers that be, took their pushback to the next level and somehow managed
+    to block the funding that had been appropriated to the UAP Task Force by Congress
+  claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
+- text: In September 2021, the House passed the NDAA bill containing UAP language
+    and advanced it to the Senate
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:31108-31176
+  quote: In September 2021, the House passed the bill and advanced it to the Senate.
+  claim_id: 31d47334-022c-4a89-b082-db893cddf182
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31d47334-022c-4a89-b082-db893cddf182
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31d47334-022c-4a89-b082-db893cddf182
+- text: In May 2022, Congress held a public hearing on UAP as required under the new
+    legislation
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:33165-33274
+  quote: In May 2022, one requirement of the new law went on full display. Congress
+    held a historic public hearing on UAP.
+  claim_id: 8534316b-6faa-4ddf-95be-f89085e4d7e8
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8534316b-6faa-4ddf-95be-f89085e4d7e8
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8534316b-6faa-4ddf-95be-f89085e4d7e8
+- text: In July 2022, AARO was announced as a new permanent UAP office required to
+    report to Congress
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:34980-35102
+  quote: In July 2022, AARO—the All-domain Anomaly Resolution Office—was announced.
+    This new permanent UAP office had to report to Congress.
+  claim_id: 01525b0d-be99-4940-8680-5f1a02f37f9f
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01525b0d-be99-4940-8680-5f1a02f37f9f
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-01525b0d-be99-4940-8680-5f1a02f37f9f
+- text: Congress pushed proposed UAP legislation into the NDAA covering the 2023 budget
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:35510-35737
+  quote: Congress pushed the proposed legislation into the annual National Defense
+    Authorization Act that year—the budget that spells out what money Congress will
+    outlay to the Department of Defense in the following year (in this case, 2023).
+  claim_id: c084cc9c-270b-436d-8361-e2c06927c0a0
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c084cc9c-270b-436d-8361-e2c06927c0a0
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c084cc9c-270b-436d-8361-e2c06927c0a0
+- text: The 2023 NDAA UAP language required the new office to report on all cases
+    from 1945-01-01 onward
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:36137-36249
+  quote: it described how this new office would report to Congress on all cases pertaining
+    to UAP from January 1, 1945, on.
+  claim_id: 7a05ce51-114c-41b1-a6f0-089aa87f218b
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7a05ce51-114c-41b1-a6f0-089aa87f218b
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7a05ce51-114c-41b1-a6f0-089aa87f218b
+- text: The 2023 NDAA legislation protected whistleblowers from reprisals, including
+    releasing NDA signatories to speak to Congress
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:36571-36822
+  quote: It also provided protection from reprisals for those who came forward with
+    their stories. This meant that anyone—civilian or military—who ever signed an
+    NDA relating to UAP would be free to speak to Congress in a classified setting.
+  claim_id: 5559e17b-a453-4493-a73a-eb82a51261bb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5559e17b-a453-4493-a73a-eb82a51261bb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5559e17b-a453-4493-a73a-eb82a51261bb
+- text: In July 2022, Congress unanimously voted for inclusion of UAP legislation
+    in the FY2023 NDAA
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch31:41961-42137
+  quote: In July 2022, Congress unanimously voted for inclusion of the most historic
+    UAP legislation written at that point in the National Defense Authorization Act
+    for the fiscal year 2023.
+  claim_id: e00769d7-6807-4176-8ae1-c9d1b142091c
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e00769d7-6807-4176-8ae1-c9d1b142091c
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e00769d7-6807-4176-8ae1-c9d1b142091c
+- text: In July 2023, Congress held a bipartisan hearing at which Fravor, Graves,
+    and Grusch testified under oath
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:2345-2593
   quote: members of Congress held another historic bipartisan UAP hearing. This time
@@ -683,93 +843,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-- text: Graves and other USS Theodore Roosevelt pilots gave confidential briefings
-    to Congress.
-  source: In Plain Sight
-  location: ch22:12069-12198
-  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
-    to give confidential briefings to members of Congress.
-  claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
-- text: Information to Congress acknowledged 11 near mid-air collisions with UAP since
-    2004.
-  source: In Plain Sight
-  location: ch29:21921-22043
-  quote: Information subsequently provided to Congress acknowledges 11 near mid-air
-    collisions with UAP by military aircraft since 2004.
-  claim_id: 0aa44f96-0062-48b4-be77-7902947dbc72
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0aa44f96-0062-48b4-be77-7902947dbc72
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0aa44f96-0062-48b4-be77-7902947dbc72
-- text: Congress passed the NDAA 2023 UAP provisions with bipartisan support.
-  source: In Plain Sight
-  location: ch30:20763-20967
-  quote: By any measure, the fact that Congress has, with bi-partisan support, passed
-    such extraordinary laws suggests very strongly that they have learned something
-    in secret hearings to make them take the issue seriously.
-  claim_id: 42642afa-6bec-4a82-b2d6-abf088023215
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42642afa-6bec-4a82-b2d6-abf088023215
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-42642afa-6bec-4a82-b2d6-abf088023215
-- text: 'NDAA 2023: Congress must be notified within 72 hours of an unreported UAP
-    programme.'
-  source: In Plain Sight
-  location: ch30:16719-16950
-  quote: It requires that Congress must be notified within 72 hours after evidence
-    has emerged of a UAP program that, '… has not been explicitly and clearly reported
-    to the congressional defense committees or the congressional intelligence committees.'
-  claim_id: db4bbe47-489e-4392-8767-9af224fd0322
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db4bbe47-489e-4392-8767-9af224fd0322
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db4bbe47-489e-4392-8767-9af224fd0322
-- text: NDAA 2023 threshold exception for special/compartmented access programmes
-    already reported.
-  source: In Plain Sight
-  location: ch30:17078-17485
-  quote: if those administering this program, '… conclude that the preponderance of
-    information available regarding the disclosure indicates that the observed object
-    and associated events and activities likely relate to a special access program
-    or compartmented access program that, as of the date of the disclosure, has been
-    explicitly and clearly reported …' to the relevant committee, then it does not
-    have to be disclosed.
-  claim_id: 5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
-- text: NDAA legislation required reporting to Congress on UAP activity since 1945-01-01.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:43676-43888
-  quote: reporting to Congress on all UAP activity since January 1, 1945, including
-    a compilation and itemization of the key historical records of the involvement
-    of the intelligence community with unidentified anomalous phenomena
-  claim_id: ae78eb4f-22c5-4e44-b8be-e2f0f71c5ea8
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ae78eb4f-22c5-4e44-b8be-e2f0f71c5ea8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ae78eb4f-22c5-4e44-b8be-e2f0f71c5ea8
-- text: NDAA 2023 protected reprisal-free disclosure to Congress, releasing NDA signatories.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:36571-36822
-  quote: It also provided protection from reprisals for those who came forward with
-    their stories. This meant that anyone—civilian or military—who ever signed an
-    NDA relating to UAP would be free to speak to Congress in a classified setting.
-  claim_id: 5559e17b-a453-4493-a73a-eb82a51261bb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5559e17b-a453-4493-a73a-eb82a51261bb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5559e17b-a453-4493-a73a-eb82a51261bb
-- text: 'FY2023 NDAA provision: anyone with UAP information may inform Congress without
-    retaliation.'
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:7415-7565
-  quote: The provision states that any person with relevant UAP information can inform
-    Congress without retaliation, regardless of any previous non-disclosure agreements.
-  claim_id: 1b00c41d-8327-41d1-a57a-73e9dbdb73c7
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-1b00c41d-8327-41d1-a57a-73e9dbdb73c7
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-1b00c41d-8327-41d1-a57a-73e9dbdb73c7
-- text: DoD did not officially examine UAP again until AAWSAP, funded by select members
-    of Congress.
+- text: The United States Department of Defense did not officially look at UAP again
+    until AAWSAP was funded under DIA direction
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1813-2066
   quote: The DoD did not officially look at UAP again until mid-2000, when select
@@ -780,8 +855,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-- text: '2020: Congress directed DoD, via FY2022 NDAA, to fund a formal UAP interagency
-    entity.'
+- text: In 2020, Congress directed the DoD via the FY2022 NDAA to develop a formal
+    interagency entity on UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:2238-2535
   quote: In 2020, as a result of increased concerns of flight crew safety, national
@@ -792,8 +867,8 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-abf4b9ff-6de1-4428-a7f7-9fc33485c05f
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-abf4b9ff-6de1-4428-a7f7-9fc33485c05f
-- text: Congress included UAP language in NDAAs FY2019-2023 and an SSCI report on
-    FY2021 IAA.
+- text: Congress included UAP language in NDAAs for FY2019 through FY2023 and in a
+    Senate Intelligence Committee report
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:5017-5228
   quote: As a result, Congressional committees included language about their UAP concerns
@@ -803,43 +878,21 @@ references:
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-cf742e52-c274-492e-b12a-1c4dc09d4ea1
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-cf742e52-c274-492e-b12a-1c4dc09d4ea1
-- text: AARO provides quarterly reports, semiannual briefings and an annual report
-    to Congress via ODNI.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:70175-70329
-  quote: Consistent with congressional direction, AARO provides quarterly reports,
-    semiannual briefings, and an annual report to Congress in coordination with the
-    ODNI.
-  claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f4752996-d097-401d-ab3f-3d608104c9b7
-- text: ODNI submitted the 2022 Annual Report on UAP to Congress on 2023-01-12.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:70348-70447
-  quote: on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified
-    Aerial Phenomena to Congress.
-  claim_id: 7d56d186-56f3-45c9-9823-e259eaae6666
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7d56d186-56f3-45c9-9823-e259eaae6666
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7d56d186-56f3-45c9-9823-e259eaae6666
-- text: 'AARO: the reverse-engineering/concealment claim stems largely from circular
-    reporting.'
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:11586-11858
-  quote: AARO assesses that the inaccurate claim that the USG is reverse-engineering
-    extraterrestrial technology and is hiding it from Congress is, in large part,
-    the result of circular reporting from a group of individuals who believe this
-    to be the case, despite the lack of any evidence.
-  claim_id: 1072ccc6-33e4-4c63-b7a5-df4b6a5b33cf
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1072ccc6-33e4-4c63-b7a5-df4b6a5b33cf
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1072ccc6-33e4-4c63-b7a5-df4b6a5b33cf
-- text: 'AARO: none of the cited programmes are UAP reverse-engineering programmes;
-    all properly reported.'
+- text: In FY2019 and FY2020, Congress required OUSD(I&S) and the intelligence community
+    to establish an interagency task force
+  source: Unclassified Summary of Report No. DODIG-2023-109
+  location: char:5234-5586
+  quote: In FY 2019 and FY 2020, Congress noted its concern regarding unidentified
+    and unexplained airborne activity in sensitive areas and required the Office of
+    the Under Secretary of Defense for Intelligence and Security (OUSD[I&S]) and the
+    intelligence community (IC) to establish an interagency task force and develop
+    a plan to investigate and address the activity.
+  claim_id: 5d0aadc0-14b4-4bb1-b9a6-1319cd805061
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5d0aadc0-14b4-4bb1-b9a6-1319cd805061
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5d0aadc0-14b4-4bb1-b9a6-1319cd805061
+- text: All authentic programmes assessed by AARO have been properly reported to Congress
+    through the defense or intelligence committees
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
   location: char:12877-13100
@@ -850,67 +903,20 @@ references:
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e6701153-dccb-477f-9033-2308e12ff71b
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e6701153-dccb-477f-9033-2308e12ff71b
-- text: Grusch told Congress and an inspector general what he knew about the Legacy
-    Program.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:1074-1162
-  quote: Not only did Dave tell Congress and the inspector general what he knew about
-    the Legacy Program
-  claim_id: a62769f4-0642-4490-a508-8801063f88b9
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a62769f4-0642-4490-a508-8801063f88b9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a62769f4-0642-4490-a508-8801063f88b9
-- text: 'Elizondo: the Legacy Program blocked funding Congress had appropriated to
-    the UAP Task Force.'
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:26232-26383
-  quote: the powers that be, took their pushback to the next level and somehow managed
-    to block the funding that had been appropriated to the UAP Task Force by Congress
-  claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
-- text: The UAP Disclosure Act withdraws funding from UAP activity not approved by
-    relevant committees.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:7152-7258
-  quote: the new law pulls the funding of any activity involving UAP that has not
-    been approved by the appropriate committees
-  claim_id: f0cc10b5-0ced-45d4-b487-b579560c7753
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0cc10b5-0ced-45d4-b487-b579560c7753
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f0cc10b5-0ced-45d4-b487-b579560c7753
-- text: Congress changed the statutory term to 'unidentified anomalous phenomena'
-    to cover all domains.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:28800-28990
-  quote: Congress now included space and undersea anomalies as part of the UAP definition,
-    and changed it from “unidentified aerial phenomena” to “unidentified anomalous
-    phenomena,” to cover all domains.
-  claim_id: 12cc6819-5153-4abf-8895-378943c8650c
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-12cc6819-5153-4abf-8895-378943c8650c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-12cc6819-5153-4abf-8895-378943c8650c
-- text: Members of Congress received the Immaculate Constellation document minutes
-    before the hearing.
-  source: UAPs in Washington - I wasn't supposed to be there..
-  location: 00:13:35.8-00:13:47.2
-  quote: the folks in Congress apparently received the Immaculate Constellation docs.
-    minutes before the hearing, so they did not have time to review it.
-  claim_id: eb204f81-feac-452c-87d8-566d5d0c20ba
-  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
-- text: 'Shellenberger: the Immaculate Constellation whistleblower gave a report to
-    members of Congress.'
-  source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
-    10
-  location: 00:02:17.5-00:02:20.8
-  quote: They have written a report and provided it to members of Congress.
-  claim_id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
-  record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
-- text: 'Shellenberger: the report alleges DoD illegally withheld UAP information
-    from Congress.'
+- text: AARO provides quarterly reports, semiannual briefings, and an annual report
+    to Congress in coordination with ODNI
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:70175-70329
+  quote: Consistent with congressional direction, AARO provides quarterly reports,
+    semiannual briefings, and an annual report to Congress in coordination with the
+    ODNI.
+  claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f4752996-d097-401d-ab3f-3d608104c9b7
+- text: Immaculate Constellation whistleblower's report claims the Pentagon is illegally
+    withholding information from Congress
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
   location: 00:02:21.6-00:02:31.5
@@ -919,8 +925,8 @@ references:
   claim_id: 4c95df5a-a713-459c-afb0-2a616b3074f0
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
-- text: 'Elizondo: UAP programmes operated without a watchful Congress for over a
-    decade.'
+- text: Elizondo learned certain UAP programmes were operating without a watchful
+    Congress
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
   location: char:2036-2151
@@ -930,37 +936,17 @@ references:
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-c44b5d0a-0bed-41ba-a99e-0f9afca6c73d
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-c44b5d0a-0bed-41ba-a99e-0f9afca6c73d
-- text: Elizondo proposes Congress and the President create a single UAP point of
-    contact.
-  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
-    the Truth'
-  location: char:3398-3530
-  quote: First, Congress and the President should create a single point-of-contact
-    responsible for a whole-of-government approach to the UAP issue.
-  claim_id: 3e3fcb90-5510-4846-bb89-80538e0ae2fa
-  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-3e3fcb90-5510-4846-bb89-80538e0ae2fa
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-3e3fcb90-5510-4846-bb89-80538e0ae2fa
-- text: Elizondo proposes Congress create a protected environment for whistleblowers.
-  source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
-    the Truth'
-  location: char:4091-4222
-  quote: Third, Congress should create a protected environment so whistleblowers,
-    desperate to do the right thing, can come forward without fear.
-  claim_id: d6334183-d7e6-4938-a00b-e8952d59a556
-  record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-d6334183-d7e6-4938-a00b-e8952d59a556
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-d6334183-d7e6-4938-a00b-e8952d59a556
-- text: Corbell and Knapp made considerable effort to provide UAP videos to Congress.
-  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
-    Coulthart
-  location: 00:13:57.3-00:14:05.5
-  quote: Jeremy and George, George Knapp, have received a series of videos that they've
-    gone to an enormous amount of effort to provide to the Congress.
-  claim_id: 6733cb31-67f8-4b98-a67f-0eaa330136d2
-  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-6733cb31-67f8-4b98-a67f-0eaa330136d2
-- text: 'Coulthart: around 46 videos reached Congress via the Congressional UAP Caucus.'
+- text: Members of Congress received the Immaculate Constellation document only minutes
+    before the 13 November 2024 hearing
+  source: UAPs in Washington - I wasn't supposed to be there..
+  location: 00:13:35.8-00:13:47.2
+  quote: the folks in Congress apparently received the Immaculate Constellation docs.
+    minutes before the hearing, so they did not have time to review it.
+  claim_id: eb204f81-feac-452c-87d8-566d5d0c20ba
+  record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
+  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
+- text: Around 46 videos were provided to Congress, many first brought to the Congressional
+    UAP Caucus via Corbell and Knapp
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:14:06.8-00:14:22.8
@@ -971,31 +957,41 @@ references:
   claim_id: 5c536172-652d-437a-8d98-9ac2de2ffbc4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c536172-652d-437a-8d98-9ac2de2ffbc4
+- text: Grusch briefed Congress, in classified and public settings, that the US has
+    a programme recovering evidence from crashed UAP
+  source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+  location: 00:06:34.9-00:06:45.9
+  quote: simply what I brought to the Inspector General and what I briefed Congress
+    both, you know, classified and in a public setting is the fact that we've had
+    this recovery program of actually recovering that empirical evidence.
+  claim_id: 5d92d7ac-169a-4074-b10e-596900bc2664
+  record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
+  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-5d92d7ac-169a-4074-b10e-596900bc2664
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 710b70bad65685ab8e8b61b3bac92a782220de8c0b2065f81ed58e44f82f8b4d
+  prompt_sha256: ece321e4e9c771383c00d89d19bb723bba2b67d6b982705e597dcd37c52a71c6
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 102255
-    output: 56931
-    real_input: 2
-    cache_read: 39244
-    cache_write: 63009
+    input: 201603
+    output: 72661
+    real_input: 4
+    cache_read: 78606
+    cache_write: 122993
     calls: 0
-  body_sha256: 692aaaa5b159421575f4150bedb5e8ef9c85bc3d802c8f1a61db56e23e6eb2c0
+  body_sha256: 049e74ec65f4576804145f93f319a0c1a4a1e83cea331c6ca217d14913395943
 ---
 
-Congress made a serious attempt to investigate the Unidentified Anomalous Phenomena (UAP) phenomenon as early as 1968.<sup>1</sup> Decades earlier, Roscoe Hillenkoetter told Congress that senior air force officers were privately concerned about UFOs even as official secrecy and ridicule led much of the public to dismiss the subject.<sup>2</sup> Congress did not hold another open hearing on UAP until May 2022, when Andre Carson presided over the first such session since 1968.<sup>3</sup>
+The United States Congress is the bicameral national legislature of the United States, comprising the Senate and House of Representatives. It is a recurring institutional actor in the history of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) research and oversight, having funded, investigated, and periodically legislated on UAP-related activity from the Cold War era through to the present day.
 
-Congress's relationship with the [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) has also drawn UAP-adjacent scrutiny. NASA itself was created by an act of Congress on 1958-07-29.<sup>4</sup> Researcher Richard C. Hoagland and Erol Torun made inroads in Congress to establish the Cydonia region as an imaging priority for the Mars Observer mission,<sup>5</sup> though Hoagland found that neither NASA nor Congress in fact had authority over where the Mars Orbiter Camera was pointed.<sup>6</sup> Congress received the Brookings Report on 1961-04-18, six days after Yuri Gagarin's spaceflight.<sup>7</sup> During the George H. W. Bush administration, the Space Exploration Initiative (SEI) had little success in Congress;<sup>8</sup> Paul Hudson said the programme's acronym, SEI, sounded similar to the Strategic Defense Initiative's SDI, prompting members of Congress to question why they were being asked for money again.<sup>9</sup>
+Congress's engagement with the subject predates the modern UAP era. It received the Brookings Report from the National Aeronautics and Space Administration (NASA) six days after Yuri Gagarin's 1961-04-18 spaceflight,<sup>1</sup> having created NASA itself by act of Congress on 1958-07-29.<sup>2</sup> Richard C. Hoagland and Erol Torun later lobbied members of Congress to make the Cydonia region of Mars an imaging priority for the Mars Observer programme.<sup>3</sup> According to the Department of Defense Inspector General's 2023 summary report, the Department of Defense did not officially examine the UAP issue again until select members of Congress initiated and funded the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) under the direction of the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia).<sup>4</sup> Records show a congressional appropriation of just under $22 million for the Advanced Aerospace Threat Identification Program (AATIP) beginning in late 2008 through 2011.<sup>5</sup> [Harry Reid](/people/harry-reid) later said that an account from a DIA scientist prompted him to seek congressional funding for a UAP study,<sup>6</sup> and Reid was a former member of Congress's Gang of Eight oversight group before retiring from Congress in 2017.<sup>7,8</sup>
 
-Congress has also funded and overseen classified UAP-related programmes through the appropriations process. According to reporting in The New York Times, Congress appropriated just under $22 million for the Advanced Aerospace Threat Identification Program (AATIP) from late 2008 through 2011.<sup>10</sup> [Harry Reid](/people/harry-reid) said that an account from a [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) scientist prompted him to seek Congressional funding for a study into UAP;<sup>11</sup> the resulting [Advanced Aerospace Weapon Systems Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-systems-applications-program-advanced-aerospace-weapon-system-applications-program-advanced-aerospace-weapon-systems-applications-program-aawsap) funding from Congress ran out in 2012.<sup>12</sup> Reid was a former member of Congress's Gang of Eight,<sup>13</sup> the group of congressional leaders cleared into oversight of the government's most sensitive [Special Access Program (SAP)](/topics/special-access-program-sap) activities; a Waived Unacknowledged Special Access Program is one for which the Secretary of Defense has waived normal oversight and reporting procedures, with its existence concealed and overseen only by the Gang of Eight.<sup>14</sup> Reid retired from Congress in 2017.<sup>15</sup>
+Public congressional attention resumed after 2017. Following the 2017 New York Times reporting on AATIP, [Ryan Graves](/people/ryan-graves) and other pilots from the USS Theodore Roosevelt were summonsed to give confidential briefings to members of Congress about their encounters,<sup>9</sup> and in 2019 US Senators received a classified Pentagon briefing on the sightings, with members of key congressional oversight committees making multiple requests for further information throughout the year.<sup>10</sup> In December 2020, while chairing the US Senate Select Committee on Intelligence, Marco Rubio asked the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Pentagon to present Congress with an unclassified report on UAP within a month.<sup>11</sup> [Christopher K. Mellon](/people/christopher-k-mellon) later said their strategy was to generate public interest in the issue so that Congress would, in turn, pressure the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) to examine it.<sup>12</sup> In 2020 Congress directed the DoD, through the National Defense Authorization Act for Fiscal Year 2022, to develop, fund, and staff a formal interagency entity to study and report on UAP,<sup>13</sup> building on UAP-related language Congress had already included in NDAAs from Fiscal Years 2019 through 2023 and in a Senate Select Committee on Intelligence report.<sup>14</sup> Congress had earlier, in Fiscal Years 2019 and 2020, required the intelligence community to establish an interagency task force on unidentified and unexplained airborne activity.<sup>15</sup> In September 2021 the US House of Representatives passed an NDAA bill containing UAP language and advanced it to the Senate,<sup>16</sup> and in July 2022 Congress unanimously voted to include UAP legislation in the FY2024 National Defense Authorization Act framework then under negotiation for fiscal year 2023.<sup>17</sup> That legislation created the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro), announced in July 2022 as a new permanent UAP office required to report to Congress,<sup>18</sup> which Jared Moskowitz stated Congress had established in the National Defense Authorization Act of 2022.<sup>19</sup> The [National Defense Authorization Act for Fiscal Year 2023 (FY2023 National Defense Authorization Act (NDAA))](/documents/national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa) required the new office to report on all UAP cases dating back to 1945-01-01,<sup>20</sup> and included protections for whistleblowers, releasing anyone who had signed a non-disclosure agreement to speak to Congress in a classified setting.<sup>21</sup> The Act also permits any person with relevant UAP information to inform Congress without retaliation, regardless of prior non-disclosure agreements.<sup>22</sup> Congress continues to authorise the US defence budget annually through the National Defense Authorization Act.<sup>23</sup> [Luis Elizondo](/people/luis-elizondo) later stated that the Legacy Program and its associates managed to block funding Congress had appropriated to the Pentagon's UAP Task Force.<sup>24</sup>
 
-Reporting on AATIP by The New York Times was largely responsible for Congress's creation of the Unidentified Aerospace Phenomena Task Force, which later became the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro).<sup>16</sup> In December 2020, while chairing the Senate Select Committee on Intelligence, Marco Rubio asked the [Office of the Director of National Intelligence (ODNI)](/organisations/office-of-the-director-of-national-intelligence-odni) and the Pentagon to present Congress with an unclassified report on UAP within a month.<sup>17</sup> Not since the 1960s had Congress instructed the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) to take action on UAP, let alone produce an unclassified report for the public.<sup>18</sup> Following the release of the resulting Preliminary Assessment: Unidentified Aerial Phenomena report, Congress required the report to be produced annually.<sup>19</sup> [Christopher K. Mellon](/people/christopher-k-mellon) said his strategy was to generate public interest in UAP in order to interest Congress, which would in turn pressure the DoD to examine the issue;<sup>20</sup> Mellon, [Luis Elizondo](/people/luis-elizondo) and [Jay Stratton](/people/jay-stratton) concluded that the only way to change how the Pentagon handled UAP was to get Congress to force change.<sup>21</sup> Mellon and Elizondo began engaging congressional staff on Capitol Hill,<sup>22</sup> starting with professional staff on the Senate Select Committee on Intelligence and the Senate Armed Services Committee.<sup>23</sup>
+In May 2022, Andre Carson presided over the first open congressional hearing on UAP since 1968,<sup>25</sup> held as required under the new legislation.<sup>26</sup> By June 2023, Congress had held two public hearings and numerous classified briefings on the subject.<sup>27</sup> [David Charles Grusch](/people/david-charles-grusch) gave Congress and the [Inspector General of the Intelligence Community](/organisations/inspector-general-of-the-intelligence-community) extensive classified information about deeply covert programmes he says hold retrieved intact and partially intact craft of non-human origin.<sup>28</sup> Grusch's complaint states that UAP-related information has been withheld from Congress in order to thwart legitimate congressional oversight.<sup>29</sup> The Intelligence Community Inspector General subsequently found the whistleblower's assertions "urgent and credible", according to a Compass Rose press release.<sup>30</sup> Mellon has been instrumental in arranging classified briefings for members of Congress on UAP that reference exotic retrieved materials.<sup>31</sup> Grusch said he would provide Congress with a specific list of cooperative and hostile witnesses after his hearing.<sup>32</sup> In July 2023, members of Congress held a bipartisan hearing at which Commander Dave Fravor, Lieutenant Ryan Graves, and Grusch testified under oath.<sup>33</sup> Tim Burchett separately proposed legislation for FAA reauthorization that would require pilot UAP sighting reports made to the FAA to be forwarded to Congress.<sup>34</sup> Grusch has stated that when a [Special Access Program (SAP)](/topics/special-access-program-sap) has a notification requirement to Congress, it proceeds through the Periodic Program Review process to specific committees such as the Senate Armed Services Committee and House Armed Services Committee.<sup>35</sup> The Aviation Safety Reporting System, which has built-in analytics capability, is funded by Congress.<sup>36</sup>
 
-By June 2023, Congress had held two public hearings and numerous classified briefings on UAP.<sup>24</sup> In his unclassified complaint, [David Charles Grusch](/people/david-charles-grusch) stated that he had direct knowledge that UAP-related classified information had been withheld and/or concealed from Congress by "elements" of the intelligence community "to purposely and intentionally thwart legitimate Congressional oversight of the UAP Program."<sup>25</sup> Grusch gave Congress and the Inspector General of the Intelligence Community (ICIG) extensive classified information about covert programmes that he said hold retrieved intact and partially intact craft of non-human origin.<sup>26</sup> According to Marik von Rennenkampff, the ICIG found the whistleblower's assertion that UFO-related information had been inappropriately concealed from Congress to be "urgent and credible."<sup>27</sup> In July 2023, members of Congress held a bipartisan hearing at which Commander Dave Fravor, Lieutenant [Ryan Graves](/people/ryan-graves) and Grusch testified under oath;<sup>28</sup> Graves and other pilots from the USS Theodore Roosevelt had earlier been summonsed to give confidential briefings to Congress about their UAP encounters.<sup>29</sup> Information provided to Congress by Mellon acknowledged 11 near mid-air collisions between military aircraft and UAP since 2004.<sup>30</sup> Congress passed the [FY2023 National Defense Authorization Act (NDAA)](/documents/national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa) UAP provisions with bipartisan support.<sup>31</sup> According to In Plain Sight, the Act requires Congress to be notified within 72 hours of evidence emerging of a UAP programme not explicitly and clearly reported to the congressional defense or intelligence committees,<sup>32</sup> though a programme need not be disclosed if the preponderance of available information indicates it likely relates to a special access or compartmented access programme already reported to the relevant committee.<sup>33</sup> The legislation required reporting to Congress on all UAP activity dating back to 1945-01-01,<sup>34</sup> and included protection from reprisals for people coming forward with UAP-related information, including releasing anyone who had signed a non-disclosure agreement to speak to Congress about UAP in a classified setting.<sup>35</sup> According to The Debrief, a further provision allows any person with relevant UAP information to inform Congress without retaliation, regardless of any previous non-disclosure agreement.<sup>36</sup>
+The [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro)'s 2024 historical-record report describes its own reporting relationship with Congress: it states that all authentic programmes it assessed have been properly reported to Congress through the congressional defense or intelligence committees,<sup>33</sup> and that, consistent with congressional direction, AARO provides quarterly reports, semiannual briefings, and an annual report to Congress in coordination with [ODNI](/organisations/office-of-the-director-of-national-intelligence-odni).<sup>34</sup> Elizondo's written testimony to Congress in 2024 stated that he had learned certain UAP programmes were operating without a watchful Congress, a responsive Executive Branch, or an informed public.<sup>35</sup> At the 2024 United States congressional hearing on UAPs (13 November), members of Congress reportedly received the [Immaculate Constellation](/projects/immaculate-constellation) document only minutes before the session began, leaving them no time to review it.<sup>36</sup> Journalist Michael Shellenberger has reported that the Immaculate Constellation whistleblower's document claims the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) is illegally withholding information from Congress about a secret UAP programme.<sup>37</sup> Grusch has also told Congress that the [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) has refused to release classified foreign intelligence reporting on US retrieval and reverse engineering of UAP.<sup>38</sup>
 
-The DoD did not officially examine UAP again until the mid-2000s, when select members of Congress initiated and funded AAWSAP to study the phenomenon under the direction of the DIA.<sup>37</sup> In 2020, Congress directed the DoD, through the National Defense Authorization Act for Fiscal Year 2022, to develop, fund and staff a formal interagency entity to study, collect data on and report on UAP.<sup>38</sup> Congress included UAP-related language in the NDAAs for fiscal years 2019 through 2023, as well as in a Senate Select Committee on Intelligence report accompanying the FY2021 Intelligence Authorization Act.<sup>39</sup> Consistent with this direction, AARO provides quarterly reports, semiannual briefings and an annual report to Congress in coordination with the ODNI;<sup>40</sup> according to AARO's 2024 historical report, the ODNI submitted its 2022 Annual Report on UAP to Congress on 2023-01-12.<sup>41</sup> That report also assessed that the inaccurate claim that the government is reverse-engineering extraterrestrial technology and hiding it from Congress is, in large part, the result of circular reporting among individuals who believe this despite the absence of evidence,<sup>42</sup> and stated that none of the programmes cited by interviewees as evidence of an extraterrestrial cover-up are UAP reverse-engineering programmes, with all authentic programmes properly reported to Congress through the congressional defense or intelligence committees.<sup>43</sup> Grusch told Congress and an inspector general what he knew about the [Legacy Program](/projects/legacy-program);<sup>44</sup> Elizondo said the Legacy Program and its associates had managed to block funding Congress had appropriated to the Pentagon's UAP Task Force.<sup>45</sup> The [Unidentified Aerial Phenomena (UAP) Disclosure Act](/documents/unidentified-aerial-phenomena-uap-disclosure-act) withdraws funding from any UAP-related activity not approved by the appropriate congressional committees.<sup>46</sup> Congress later expanded the scope of its UAP legislation to include space and undersea anomalies, changing the statutory term from "unidentified aerial phenomena" to "[unidentified anomalous phenomena](/topics/unidentified-aerial-phenomena-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap)" to cover all domains.<sup>47</sup> According to a video account of the hearing, members of Congress received the [Immaculate Constellation](/projects/immaculate-constellation) document only minutes before the 2024 United States congressional hearing on UAPs (13 November), leaving them no time to review it.<sup>48</sup> Michael Shellenberger said the whistleblower behind the Immaculate Constellation programme wrote a report and provided it to members of Congress,<sup>49</sup> alleging that the DoD was illegally withholding information from Congress about a secret UAP programme.<sup>50</sup> In written testimony to Congress that day, Elizondo said that, over the preceding decade and a half, certain UAP programmes had operated without a watchful Congress, a responsive Executive Branch or an informed public;<sup>51</sup> he proposed that Congress and the President create a single point of contact for a whole-of-government approach to UAP,<sup>52</sup> and that Congress create a protected environment allowing whistleblowers to come forward without fear of retaliation.<sup>53</sup> Jeremy Corbell and George Knapp made considerable effort to provide a series of UAP videos to Congress;<sup>54</sup> according to [Ross Coulthart](/people/ross-coulthart), around 46 such videos were subsequently brought to Congress's attention, many of them first noticed by the Congressional UAP Caucus through Corbell and [George Knapp](/people/george-knapp)'s work.<sup>55</sup>
+Separately from formal hearings, individual members and committees of Congress have engaged with UAP material through informal channels. [George Knapp](/people/george-knapp) and Jeremy Corbell reportedly went to considerable effort to provide a series of videos to Congress, according to [Ross Coulthart](/people/ross-coulthart);<sup>39</sup> Coulthart has said around 46 such videos were provided or brought to Congress's attention, many first surfacing via the Congressional UAP Caucus.<sup>40</sup> The [Unidentified Aerial Phenomena (UAP) Disclosure Act](/documents/unidentified-aerial-phenomena-uap-disclosure-act), introduced in this period, has not been enacted in the form its advocates sought, and its consideration illustrates the continuing tension between congressional oversight ambitions and the classification structures governing UAP-related programmes.

@@ -1,275 +1,275 @@
 ---
 title: Thomas Wilson
-description: US Navy vice admiral who served as Deputy Director and later Director
-  of the Defense Intelligence Agency, at the centre of disputed accounts of a 1997
-  Pentagon briefing on UAPs and a 2002 memo attributed to Eric Davis.
+description: Vice Admiral Thomas R. Wilson was a US Navy intelligence officer who
+  served as Deputy Director and later Director of the Defense Intelligence Agency,
+  at the centre of disputed accounts of a 1997 investigation into a secret reverse-engineering
+  programme and a leaked 2002 memo describing a meeting with Eric Davis.
 metadata:
-  role: Deputy Director, later Director, Defense Intelligence Agency (DIA); Vice Director
-    of Intelligence, Joint Staff (J-2)
+  role: Deputy Director and 13th Director, Defense Intelligence Agency (DIA)
   rank: Vice Admiral, US Navy (retired)
 built_from:
-  brief_hash: a947a97a0bdbd48431dd5c1ed0f07e1813810d2de1affc80239e30a7152ec7f9
+  brief_hash: e22b50f04102c12e18d217e4aec0b4794b4d43660003b4b2268b8e3003de9485
   claims:
   - id: 19fca337-741d-421c-b082-7ed744458741
-    hash: d88c8f8f462bc567238c9413160049ee2b9c60862cf603f7ab982208b7421b9c
+    hash: 3c291083ccc210be769aa1626c7b9beaddc6342fe12b9caab51262d6d5626a56
   - id: 5285a997-21fd-4132-b394-1003a74efc9f
-    hash: 6e3b1013dc269bc0c13a5ed1d2ac53adf5547b489e6d96869516054e68711e3b
+    hash: 14fc9d154bfc5e7d038203ae04ead571fcbee56ed0e96c5e6c085f151789b3d7
   - id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
-    hash: f4e461f9d6afeda05feeabda13013625ddf1e956718442dbf37a940a2b7d4e82
+    hash: 7498b0f54a651296cc87cc6e91489b2d3edf3036dfde2f15509d794191064cc0
   - id: fadf9347-0547-42fa-8ee0-3f0f365d32f9
-    hash: 5e111127d64e406fdd3362d91e6a7562de7e5e7f1d2f4ac42fcbcec2d33dd523
+    hash: bb2a950d2a68d8d205229900f4c78bee48e2b2e7ca763fcd5080a0369f7327a7
   - id: 6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
-    hash: f99bc82167225e033d5c5c745e42fcfad7472f961b2e590d65621bf31525519c
+    hash: 7c4de22b7cbbc17debeac37565be9ed75cf6e69d3a1f29e9e829b70eed0a1dd2
   - id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
-    hash: fa882b318b4e3142d894135979bae8d07485657b18483013769ab4da97c9d2c1
+    hash: 99f22063b248d4e2bd3c8376e48b543b4cf9d498ab7be476eb3dddf59f39296d
   - id: 7a8c0733-8517-44f0-82eb-8aec31c24554
-    hash: 446fcf1f2ca141bd911c4a5171cd3b8634f291d9ad972078303e5acec850e0c9
+    hash: 49a17f37397fed35cb8cf4aaa83a3c31f57c1af6e3c48e64df637f84e40c5139
   - id: 6256c21a-1f98-49e6-9e5d-db7468b48731
-    hash: 0cb202c792fa5a5dc7bfcfdb9ed7e00fedd05c25a01948685aa8e63a8665e5a9
+    hash: d972b585ef6a99fefe0c67a60dbcfe417bb75e8f032680010e1120360b8795e1
   - id: 0f2d1479-b28c-4be4-bd72-41b1d5340be1
-    hash: 8817a9060682f39283d091a7e4d18222d9daccc6f3823bdaac9cd98884cda992
+    hash: dfea4cf8818b429a95d9a8372d6f36a8edf1d909b3156008ea13a3a51c54f694
   - id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
-    hash: f7cb416b0556a84440b67e742ff2d36540d1be15e885d8703755d96c95e07ab0
+    hash: 3f93de8fbdeee633ec1ad91d8a5be030da5c374837de731d34a27c9e30589bf6
   - id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
-    hash: 33cb15b13741cba1951e816d16180e015c89baba179aa481e79bf6258e4fa560
+    hash: 86206e5fc87adde3348cfecb2ab913a52cf199cba5b99329dd86510ff61b5dec
   - id: 6b81ff82-0030-43b5-bb9d-87ba44604433
-    hash: 15c86e826f88559274cef881e38d86a3ef6f7dc90c1f548833a9943ff6c50861
+    hash: 0c0758bb69380ab8f8d1e13dec246f7c4b8e207c07345eb64e03989460de5a80
   - id: 4adf89e5-79f4-4a60-b311-da7c1a81b31a
-    hash: ed128f35c5cd151bc001ff129ea376a8d1fac67be5c3fb3f7b92651569bebbf0
+    hash: ca7cdb315d8358e0749e8c01cfefd228d6ba22d4ab28b04925c13898d4213434
   - id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
-    hash: a1b0f0014e2f3603a92ea5008435e058196d8a7ede0a1825aaebb144091e504f
+    hash: 161bdd54a12525eb4fd81dc091b1149f9b2d343d1596abd99c1526408fd6d745
   - id: 3df64293-e6b6-484f-aa25-a4d074b69359
-    hash: 676461f1eab2746cecd7b08222d164bf049aa5b5e59d1fb8cae42ce984580b65
+    hash: f8f132c59a9f46cfc56883abead8515d4df75b108453125353993e6c2cb22873
   - id: 44811610-ac06-4274-bf09-8f7e908de76d
-    hash: 5d46cf1b8f400eb1582b80057900d5a7d6a1c30f7cba46633e26210963068ac3
+    hash: bd5379356630d73a91a89cbdcee53bf34038310b4c3fc743a3041f186cc2dcbb
   - id: 091ec8ac-b0a2-4292-a51f-3dff76f273b1
-    hash: bb4bd8009f79133710a23d01a974089fb2fdad55dbf9bfc4a8573079a10a808a
+    hash: a65d7dcdfb70886db75e8d454c4cd5a5d4a0bff0ae84a22190aaba5b2afdc5d1
   - id: 90c1a80c-d642-4b54-b26e-8d2a60519f41
-    hash: 0872beee441ce255c78742658773835b7fcfad9f88b04bf4ded2df3851969d0a
+    hash: 3318cf53fb1fde793ff49f8f2418edbaabb96fb3f6b5bf904b32a90744991031
   - id: 984824c5-a5bb-4f39-bee1-33946875563a
-    hash: bef39cc9a586ba33c5fc77a76c927f32a236175b29ea2b78deda542a433f72a8
+    hash: 5572507ec8131654305903c2a73c298f36e01df902b229fd735301e398ef4a4e
   - id: 48f50bb4-95d0-4278-8fe8-5711a215a992
-    hash: 9f990545f4cb4fdf4978caac68e90d7cb5bc2f98b53278cf457d73057e7ebb8d
+    hash: 0c92fdbc290a0173ceb23fc5f808797f213f8700110a3f9eb8f620aed87a297b
   - id: 89cab456-3793-4d73-b089-d2ec1f7dee10
-    hash: 4e6ea0f5de9a11908cbfbf98246aa9a6e30b2c8291890e549f8afcbf74595065
+    hash: 79070dcc1cfceb3a4e5c1d7714d1830420b862763651a442673002664726b601
   - id: b96a9a92-b893-4903-a0f3-9db8fcfca529
-    hash: f93e3e6d1ff09fc5f19faf656aa26e8258bd9d7490a25997776c0848d90b090e
+    hash: 485027bb283fe87ed788fb4253f29918d83805b5b5e39ccac6ed0edc6ea9ff85
   - id: 2d6febb4-5676-4b2b-a2f1-85138b3c300d
-    hash: 2ce8d10750a82830d9825265aea60be9cd896b245e60f7ab6382440d451774c2
+    hash: dfeebd5bf6cc6bdb33610592abda00b33d638facc19d172569700e2ca4734664
   - id: a3ed25a5-314d-4308-b163-3974187aebb6
-    hash: b58803b6e0bfa6ea4a9fdfc7734b499d171da0283abcaccd22fb5ba78591014a
+    hash: cdd68e0c84a31955bf2a1fd63cd39813f35fb2142bf06ab4d1e3d3f9d546ed0d
   - id: a4c0274f-c2cb-4c6c-b682-6fb789b8afe5
-    hash: 6addbf684a4b4d0a5d8b932764409e9d4a8341c13d38a28bcdfc61115b49d5e2
+    hash: 6508cb61fd5081c89c2e1732e96c860951f7f762e9ff20453c936666443d3b1e
   - id: 161d5ad0-c451-4f01-92c3-9313e7f35352
-    hash: c4ddddfab26d9789cc9ae27a8898ca1cb237c90a3c6f4c57fc630bace179683c
+    hash: 4d51b82ac047ba6422cc3fb3c6a173eb8d264433aedbaf52320916d1210e97ca
   - id: 378c4c64-b883-478d-8589-4b921c78dba8
-    hash: 071e0409d2b760884611f7dec2465c3914f419510a0c61c4b02c962790a98ad7
+    hash: d001031a62c3963f4839a1e83b0476c2fd6fadd5558e9ea2699e82e4ab05a086
   - id: b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
-    hash: 84693999f92c28fbcd4053cf8c5357fe67c678ddd93620a52ee95be6a1d128d3
+    hash: cf96cbf2a780f29bae5c299caa1698b0d93f0a793798d8d55a078e0e7f8dda9e
   - id: 151d08cc-a521-472b-99ff-4cd4445fe138
-    hash: 2324201a02bb8ef0d0f136eba112dd90d72c3a948469bef490ffa7e8c2068395
+    hash: c829c408a578248d3e4d608706942abf379c56f7b318441ed4ee9cd97bf9c86c
   - id: 75712e51-5c10-47db-b1e9-4f90136a1c2e
-    hash: 96ddf95119fc4ac2e9e51901f829dbe6b22d6c878bbb2759f93e2c5c2e6ee83c
+    hash: da8450cbd9b35169a7dd2ecac1a9d73ee639793b14ba4714d517e604e12d81e7
   - id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
-    hash: 4e95c5dcdb41c113a6e56fa49b774a7d27ae543b3886877393bd206346722399
+    hash: 2d20148feed9e523a3577c74d30798bd4d62f8fecd893d3d2d83fcdef87ca7fb
   - id: f9736829-e823-4c7b-a7e3-5958371fd07a
-    hash: a1f55b95660815736bd629e5227e7d0dfddf22e7598dcad5702a212b524f4c33
+    hash: 53ecf9ae6d3fe336a75a6b85f5c09c1e8ff90358cc304f419338e6ad787d8f5a
   - id: 28293f65-b441-4a9c-96cf-bcdf2293d479
-    hash: 020168e02520ffa35a86c596719f00aa3e69f6d1d5327bd1cb9b8ff12f4c7cf8
+    hash: ae087ea50f0ba27d3b79f77c1b1e69b3c654a34fd6c886011d8afc824b87063b
   - id: 3622f20f-80b7-469a-a23a-d0f44d75ecbc
-    hash: 05c7d8d7106c29f3786d6a8df24b9da34631242b42a90ccdb388eb2ca66658bd
+    hash: b64e42ec518de2f15f17245cfb9357569f145fb85a76bd3713ad2e6aaf7c019d
   - id: 7d7ef1af-968e-4f7d-8e41-0ec3ab05e161
-    hash: 021edffa944a423431339774b0afc0cfba8c81a1f86dfb07e9ad80af76528966
+    hash: cc4eb9d0efa30901c5ea0797ec0942003f524a2887bcd4895e209e5486a8c5d9
   - id: 2cfc9df5-134f-459d-8895-36e57b5660a3
-    hash: 50ce1ba5f9b44a753624019e436a0ecc63f5d800d223e702518832ba64fc1af9
+    hash: e9cce0a7c735256dca591476d02e2c6562169faa60ff75393e4903db9cc6103e
   - id: 1400416e-7589-4313-b46a-75623658c3b1
-    hash: 4aeaaffbbb1d652683d89d574cc2aeeff64735ce5207946b1f624ded0d81dbca
+    hash: 6c6e96193a6aae84e101d026cb8106fdcbf762e37e02500939f411e7ec24f6cc
   - id: 96a43284-04de-45c7-b81c-b478bc013267
-    hash: cc8745ead338a84de611cc0bdfdae8155abf141fce5accdeb8572e18c760fa41
+    hash: c05acf2f44538e71180ffe1bcf9ddbaad00f0250747f89183e948bedfa6efc2c
   - id: 2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-    hash: 17d935da7e9c393f028df98d5d23a0f92ea0086ab4efe047837d2b522d92a6c2
+    hash: 0b301860a1b62a76f325233e123f0f8758106d6e9ecccda8e9b5ae99cb2aaa59
   - id: 47e58a5f-14ba-4f10-a257-3f203e03ce00
-    hash: 09595202c95dc3815cce67ae66902473c20ed9cb86231a7a985f951b3cb33704
+    hash: 0805a110d153006fa2520f94baf8649119595726a3d516e410c00e79d7ddeadf
   - id: 96ce9937-d09c-4e7b-b509-628f9102ee62
-    hash: 04b55f2ba399a61165a4a3eda07b2671241a3bb5cac2e92eafb9f88dc62b692a
+    hash: 9c6b7e8c8ab52523eb62f021a630ad1cd2c07e72f4d45582ab2a39979921aea3
   - id: 9de8dbae-e9af-47f9-9e75-d0937aa77193
-    hash: fee2eac852e8281589a2d711b5cf4caf21c39066d24f5328c4a0187b5bb84b54
+    hash: c3f2b1f7e409c3dda1c0bae04d22bcbfc7fb8e27bb219f64db61b4f619fd26f5
   - id: 7cfff41a-bce3-42d5-be0e-074adc3f5fa8
-    hash: 41fe0a2f737b98ebaae567b3f8a211862f640a2e5f693e4386be2ea98ebcac83
+    hash: 1faddd5967483f71d22c5edaeb945349d4caa23574c61d86edd8520ca42b2320
   - id: 4ad25ed3-9a8b-4d65-bb9f-fe0cdec983ac
-    hash: 8ab798fa88532431862cbdd896dda3be0ce99edcf29891c68f7f486ef5a140a2
+    hash: 92e13bb278e786d708089ea56a0333285eb0c32d96cec7d39cfe37723e9b6ed0
   - id: 7e453fb5-de9c-4569-8caf-e3413a2627ce
-    hash: d002d35ee6ac20ae3434823cab09f0d24d566ac5d350e79ad32bc00fb665b7bc
+    hash: 340906720f1714e0fc1cb4a7e0ccb90f2c3b35b3c49eb86c976c2bdbcbe2f0ec
   - id: e687203d-b792-4bcf-92e5-f0ccc4e06075
-    hash: 4d5fcf4a5983ff8054267b1bfac9edba3c2da82cd105686f99e7d7b52582aae5
+    hash: fe2dc43519a9291aa9e157587fc5c5890d1f06511b946b6a4e1aa733de446c01
   - id: dac3bd86-6118-408a-9675-475b888d5fb3
-    hash: 9f9d269fa13c64ababb31f5340d8ca65ab8ad0a52e6cf30d5005bbd77e00b1af
+    hash: 0ad8d066a6426492aa6d2571763a13bd7bc4ec17148011fd3c7a79b1283e1398
   - id: e30cf449-f005-45e4-9138-763a5df4e65f
-    hash: 02b6614e213ab14bf1f49d869ef668f47d2382ce5f80b5112db07e232b5830db
+    hash: 278b538bb2e394624f54b5669ffbea83a68b240232777c32d1256a1bced510b9
   - id: 4a546055-d134-4734-b6e2-79e2b0346404
-    hash: df8dd310d882797b6ac7232fcb605c1b5c71a84ab0c697a7d7518045f9c28fd8
+    hash: b7aa702ff9585a52215bbff4ddecb849bcb7e75bc8cb47457e4755f0a53bcf1e
   - id: 45eb2a52-91f1-4541-a890-89f26c48f465
-    hash: 88dec7fde1537831fcc6d27b19beebd3c986162bac7fa567369997dde0bd529a
+    hash: 5abd47a261efb6d93d05448c4e7255131f15b70fd44646c8a778ae6e6106e1d0
   - id: d393374f-291e-408a-8942-3013fd9a134b
-    hash: 9621787415661ac0e99f184e7008f070dc73c5eee8c4b1ac6d3eee56e03f6c5b
+    hash: f4c904524b308878deb64e12e2aca3e35ee64d6007b6a63a8342623b2d36e426
   - id: c408147c-c2ba-4b8f-af1d-eaaec7d00b96
-    hash: 60aab71432a6768e01be724c4cb2e2a401fd5904709b8c2a02ecd6d3d6491ffa
+    hash: efb016d718c7deae4e848c081c25f8923c0dd6a9586e97a6a5e74983917baf70
   - id: 0e52a0d4-f650-43cb-a474-13ef7fe6d17f
-    hash: 1b48076caa198cc15f4f4e739bd4540458e8d496810a3142586bea0e1bf8fe9a
+    hash: 09dbdec9b56c5966d2ffa02f84b4896b25292fc48fb4cda7c49ba1ed9e0932c2
   - id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
-    hash: 02bba4c747334a8082013e7251764566634085090d9528aba87891e0a142cceb
+    hash: 243d79d6462882d0f029068145753afdb83fdc88fd87eb471baa4738863733ef
   - id: 7fe48f97-1c02-4ff4-ae4b-44a713ebd4b4
-    hash: b0a14fafc765d8b141a74f6e8bf6f9b727176dae2f01b8a3853afd381eed959a
+    hash: b6548932b433aa8fc9720e15f5dc171c4d51e77f075a989a27e8dd4e59fec3e1
   - id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-    hash: c8209c4656a2e3e90434375580fa6e528732763b300c86e42cd1548ac98be125
+    hash: 3347714e55c91a3e46d838ada76a9cb7fe69309055895c3122d384d85cbad9aa
   - id: 124c7fe7-4823-45ed-a68a-4c07b49f483b
-    hash: 9c450423de32ed9bcd0b65b714284a67eb76b4e6202b2e14e4a92eb84e7b8d60
+    hash: c933545c39afa74dd340fe415529798c7540c6ef00dcc53c3b2cb3702f701558
   - id: 5cfaea78-a3d2-42dd-b5bf-bf011f90a10c
-    hash: 9c168b6eba1a50ee8b37f23b4c08f456dc21eceb889d3bc39fb0308d317b80da
+    hash: 76f43b882d8b501a5cb223391a7ffe9faa5341fee206073604f7fcec54c6e8df
   - id: 214f8db3-f3a4-4647-8053-2bb00bbe3ae1
-    hash: a591ac93b457bb0e588b79aadd0e96053799dbdd6dfe43f736a6d68ba5f03334
+    hash: 770ee974f6ecfb4ca4fe904a8fe6548d1284070a06c737c3252a18bfc8fb0532
   - id: e51e3639-fc6e-4de0-a265-e3d2db554a9b
-    hash: 0fe7b4b6d9ec2282699777de631b1fcf77d5e9447666e6a50f9a307d3ea4907e
+    hash: c786b4f41c8a78c52fa31407916a5a5d17b53d7be9bc67c91a26bb484c63cce5
   - id: 203ea97a-6951-4a8c-bdac-e33b6e45595e
-    hash: 52f43c83f7e1789304839cf377461fc37404eb36080183eb1d09412dfc1b9be9
+    hash: afcafaf85e00fdf3478f779de8e8e31307744dd4cdd66e01a0f9d4b52f5b30df
   - id: bebdc0e9-73f9-495a-afed-873d4bf78b39
-    hash: bd708658ec83bf03eac3e9623daa7188adf63b7dd37ea47a7f5ebc351ebc2d1c
+    hash: 00a894a5c1f803c297b2a26e7f193444d058cc71b17e9fdf93e36982f24d32a8
   - id: f2d3d1c6-6f86-462d-a0bd-119e43c59f5a
-    hash: 2e7d08453b826098a1e539a4b4f82882c49500433c75af85a1fdf4d264956d50
+    hash: 971089adc8113fc826885e01d81f97c83dca36b1e4fa29b3e94160bba60e991c
   - id: 3143679e-89d9-4d7f-86a3-c0faf8de3a4f
-    hash: d3fc14e7a6eac9a5024eaa14ba0ee4598621224f9f9c5d318f02a0cd34bffa47
+    hash: a3db40595017c5dd5fdc25745ed2f65de81e1de907042a1f2d97d7a98250d0d4
   - id: 96567474-7eb9-4721-a8f4-895ca1b51596
-    hash: 3611f1b0d39b5dcf259ffdceea6bc3a6a1e62b82832328ada91de8804f66c790
+    hash: 6f923b948f61b01365efe8c0f8d59d7fcb3fe85b1582aa184627f2995c9caa09
   - id: 1a77ea14-dd48-48b3-99dd-7e7e539e710d
-    hash: 521bbc601a06eff9da07626eb9f6969f1f73f118406c8303d09f1c819506018a
+    hash: 15a4a0e57fff3d4e1a96a1b9afd08b0355dc3576380de54222426b1f6203acce
   - id: ef028371-d2e6-43f7-b15d-576a87dda0e7
-    hash: e1e91d16caecf28a154c0229b82068de0790a959b3df59caf459eab374b77807
+    hash: b58dd65ece58c80618dc39e56fef4fdc523dda39b319b17b59b4c48ee275abba
   - id: 1bc8dcce-bef6-4b5a-82d3-bdd77f297a7f
-    hash: c4e92370d9a0d53b3ef0a0468be2f1138cf9dbc4c63d56d87ac7cf0b31663347
+    hash: d1240381f59b2b781092e26f54bb6fe711ad7b0f55e5f0a7c8b6ca7483c7d272
   - id: a5c9bd99-9d11-4e3f-9552-6f4412071b7d
-    hash: 3563d10ed90d8cb03d4857e91dd6f0144203c9ea25bcdb131ffc8086fc521020
+    hash: eb1b3c03ca17b89993299c6141863b39857368e470b41934eed60dcba0f245e0
   - id: f9afdf0d-076a-4f91-8ee3-d99dc5c06bd4
-    hash: 13844d31386a65f90593c1046b2326b4a74b4ca4421d3f01898f6a93b41807b2
+    hash: 9349f4e64ea2bb21e26210997df0aca655458f811c7270a1d3d6d5c03fca9e6e
   - id: 56716d01-2736-49d4-b8f3-f362fdc564cb
-    hash: eaef8776b2ba2bbc58431ae229a6caa373ab12a9b6ae2a8b82717ae52567d98c
+    hash: 528b3f76469e8a5b692519faa8dc846f96b02f3a870932b36e3b4eb72263fe57
   - id: 0e77a391-635a-4b33-9bb9-d5e64beff787
-    hash: b5aeb80df91bb1650b4778642a31c37bbb40ea93bda21fdfe1a51ed4bd4854ec
+    hash: 983c47253b57902110d431385714a8d373497b66b759b0df0a230f6d93eae75a
   - id: f5293487-4dbd-43e8-8235-846c7ef7b0fc
-    hash: b594d4905f57b09bf60a718265eb9895a4b27ce975289f96d33d403952f3b2ff
+    hash: 28adcee403d5799bef0c2494dbaebbd774ab40f3c3384cdeb2e550e0be89aada
   - id: ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
-    hash: 2f8e3bdf35b04b713179264859d0d60aaa059be37816c3b494f5abc09fe4202c
+    hash: 432c114d1e51531650a7a67033883abf381516ecd04755f35898837982d88266
   - id: f7c822a4-b3ae-4d85-bc5a-d36a21f7971c
-    hash: 833d4fd3e5abc5c36a7ab5b8218b6db9ac58d383f1ce33568779b23335bb3657
+    hash: fa96be54cb8090c3d013a47de628facedcbc2bea6ad8acea72879057f74aa2ac
   - id: b2e984b3-31bc-42ae-9323-5be94ba331e5
-    hash: 3ebafe933c8b53c36d20c21255485338baa4e4f1b3448b5180bcbb45b9e2868c
+    hash: 87c0438a4466fb306c0a86fd1ff482478dfc49c670df7d099c298ad10c0dbb24
   - id: 30ab430a-0625-4288-b178-439c14235fba
-    hash: b5f12b323a79a97b2f83bbf71771084b195f1a87b195eeb37f5edd7490860a34
+    hash: 83793ecf9931b0f78443921bd23ed2aa1fa8344d4a03921818de6241b20216c1
   - id: 0f7f3bef-b48a-4198-be1e-34a5b928063b
-    hash: 845b61b8b0fc6582d8b620721b3b97fea6f659fca8a13b723b87351f207ce030
+    hash: b556a9844946d225d6405d9b909f0b2f1bad01e597bcdbf0661e39e0c1031bd2
   - id: 1a25c779-d388-49a6-a2f2-32a0f53069d5
-    hash: c0b79be9f225089dd69cb1c2c148cd2eefd437a0182ea9f686c7cf18ae46c9de
+    hash: 8f94324b4a995505479b9382276b87a604331c46e3de5d02cbf6050b9485c15f
   - id: 5ba71f94-8941-4c15-acd6-6edbac2e50f7
-    hash: d240ddd550c96f67307445f11890905ce86eecb8005cdbf5f621a56ed422c210
+    hash: 6d6df08f9a2783aefc67eed5a3d8d85db117675349269931158ba7b58fbba61c
   - id: b948149f-79e3-45a2-b45d-ee983529b780
-    hash: bf6a7dcf9f9bc76dbd34ffbedb8a37c45bd9484391ac0102d043b32ce1336cf2
+    hash: 5a5a5bf3b514d43b6cdf89522839c09e00a30f5071a717c948e714fe64e36f8f
   - id: e00b851c-326b-4c1b-b713-3c4fca08387a
-    hash: f86d52d19734699f08ffc2c3850efaa62a4b2aa2b4c66cdcd6c5ca48a9718f33
+    hash: 19fcc48e0100a0a84495f6f30f60293702f3ebfada2b1e4ca51aea0b89cb444a
   - id: d6c9f559-ce85-406b-9bca-742a3285d9e5
-    hash: 18632d04aca7ae7ccb5ba33c5489b327914a223a7570d0d6378e091013fc99ca
+    hash: 42e334099fce7f68133862bf0c653558c62346f96c665480bf2eb1f3a953c190
   - id: 298251dd-257c-4cb1-adf1-501409d9c677
-    hash: fd6f628750c7b969f3a1ad308f501fc094f281810726ab37fbfb5a9a835f6677
+    hash: 1c055c9bb6b3c18036a4f9ad0bb51ae025c99b1f6b549733868111ba1cc17b18
   - id: d90895bd-bcbf-4c42-bebe-789f0e649e52
-    hash: 060e14a38e9eff645a6f525e30ba4c1ccdbd2c845af1ca8f0abfd344bb8c6345
+    hash: d468d60df8069ea841a4cd6ab6834f6bc4039015f789b237dd522b263250620f
   - id: de117bc8-f450-4f63-9382-008719814064
-    hash: ccfffec931ab8dc6c5f5314c6cf73d0eb457d53ddf04c53900503bad6a265cad
+    hash: ec11dbc6d1d5874782361986e3b6236c2edf1c0c50f500a836a9158ce1144ecd
   - id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
-    hash: 1fe959fa9656642f96c2df50aa448cc06ef354b1300b7eba2c55d9f62e49967c
+    hash: c3a0d7c3be1c1784dc09221f7a7f1a2b9349f8efbbbd635d2fbe1d0d7492614d
   - id: b27f5d2f-ce7e-49de-a9ee-8983ad80f752
-    hash: 621e68382c6227f86a9af008ff12a9033be8382a41fcc8ec1b23970c7dce2886
+    hash: 6899534f9890badda7426b6ffe743ee09d6e31b6623b10877de95ef3eac14078
   - id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
-    hash: 36064ea18567d6d5bf062ae996d0ff0fecf5e82be9a98a98383ce8251d0d9e50
+    hash: c0c53ff4577a046ef4d1aa12d7254608f1083bcd17491ecb363420d5673212ab
   - id: cf6366a4-16a7-406b-8491-916251a62227
-    hash: fab9dcb6c5a1041779af120d8fd0250cff070d0d60140e9f2aed7d35f0f7bc95
+    hash: 8d4a328fb2f813677d25c0c6d44637b7b4d3603674ca9e16a977c5538b63a334
   - id: 165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
-    hash: de3bb41fae701cdcd6bab1d55b7752b8c3d9a5db5bff6eab85954a955ed481a2
+    hash: 0303966fd11f3f728c2c7a1103e9264ee2f532fab241f8629cda71755a18b9bd
   - id: a273c9eb-af83-4c75-8447-7c3efd606e87
-    hash: 17cec9d5148639dfe2b12d974b0dff39ee3ad0edfc0e42f6841e6244c6c34c84
+    hash: 83e1faf1cae6687ed12fea6ea988ccaca16e444960449b9822d4d8b0f2cef011
   - id: 67eac303-0465-413a-a202-6b40181d83dc
-    hash: d52973e9569faef9a15faea1e858d2c7e512b25b859fe7640f005bb2835541f8
+    hash: edafdabb578ddb6d35cb7fba35abec1aa4e9e8651bc95b1474f2c72582241621
   - id: 31a45f1a-bf83-4167-a163-1d732dc94892
-    hash: d59a7b21deec1c442956bbd8d0cc5d572556b9a52b561f4d36c7c1c8260af2b9
+    hash: 462eac067a043722522b6ba6dd5d01708c0b78f23940896ad3c639e2c005ccc6
   - id: 91801f51-32d7-44a4-9de2-bd1af2c41f2c
-    hash: 205540433824d83ba7c0a0c5d4a9a696ab6112f5a8a9b6ece97b99d28d9997c4
+    hash: 1d5214aaefde7e0656ba40f5b2a51332f204a04b0e713c1267597325d8a78213
   - id: 0728909b-6aae-41af-921d-8edc589d722c
-    hash: b6a4f26627a622b110872129fc7e7a3873a648cb8f9c555629202125871e8154
+    hash: fd6097dfc7cfcb01769ea81491410baac22633e4f5e83c6db92c7e71f06f7ce9
   - id: 925bcf87-b5e1-4cad-a14b-27ca7132f536
-    hash: c23a7c70a8b94475c0bf553610280692132989b5e01bf79d952b94cb5c6036e3
+    hash: 3c0c8fbf70d83553a32eaeb3ac231be50c182522ed62458ed2f08a2942597c53
   - id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
-    hash: 14d90e66049fadd7cab95a5f90776ebabc45fd45066d3bc3f42673411a71fba8
+    hash: ca3d99213763f5f9067e7f6fd096e740005853af78205e2bc95fd4b77c78ea38
   - id: b3b22453-88de-4282-8abe-c289607fe19d
-    hash: b75d59d760bfe617204686714488374175b590e41530b68217294e6f3e6dcda2
+    hash: b663ee99b4de49cb345030cfaf6c7392f2cdefc8d068b2688e8644b5f66de578
   - id: 672c4936-34c3-4b7f-ba71-940f39a64eab
-    hash: c82a9bcd014c58ac7d9da75d9f0b84ddc37e46eac004903c863d78f81f3de2d4
+    hash: 9e021fcadd0f17f630a4a63b5048c0505b168b9bdd03ef9dab1a0555ce54e07f
   - id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
-    hash: 1d4eee2a679d8f705aefd3daa9526c3e281e7761926fc2d0804cb05ec6e1a9cf
+    hash: 008e7c12fa6245dc285e69ec7b574dcb16f60ccca155c87053af52c4cd418ecf
   - id: 94f565f5-4115-4176-b4de-fc3dec1167ab
-    hash: 722cee974fce5ecc71ed5d558a55eed343881d50ab9569afbbe000d42956f908
+    hash: a9ba538387fedf4e123c426fec6462897512ab792f168d15ed66556fe065bd72
   - id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-    hash: 1b2025a16946c9079b7e9e5ec5b29a0f7e21337db83d97b78286a253ef282f2d
+    hash: 37970dfd6d6cae131dcd7312fd0f20471fda1a0b3006693b7f2cb427b696e599
   - id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
-    hash: c618adc9cfe86eae8a74225447848cd4a30b2277c370b6de5ef6d7e8a4bc1602
+    hash: 4978885db2885e0914785308d80dc7777b7f33e379e400a56fb12f51896e3d75
   - id: ade03666-fb02-471b-91e5-44b987726c58
-    hash: 25cab1963de392b7976e1b16de9f9afff5952c3d37cc594de42c1d321ae58c1d
+    hash: b8da72d4b86567e3ef7d818e629017fb261c8ba539a5dbaf26e844872c7dc9e7
   - id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
-    hash: dd6023f7d32178820bfa36c79b1d47d91f7aba5db429e87b8dc7c6cb030cfe28
+    hash: ef381c864fa85dbdf8715ebbfb05f8fcb60c0a6561425efc3d4425e01953761d
   - id: 97e71932-9336-475b-9c9b-320b2f0e8228
-    hash: 61ce342aa02fba9270032897c24f0c9dbdbbbda6423fbf07c3bc1b60b8914ed4
+    hash: 671239027ca65c06cc4c70193b29bcb6c75e9b8f4045473307338bc37b42e808
   - id: b79323bc-807d-4c02-8888-dbd9e34bd663
-    hash: 384abf2e081d6b51405e4bd5fbf486cd4021b3f398b3b5582f06d3ab777eb093
+    hash: 61a416d623b1f9d068e8198f7caab9dfb489fe80772fa571922df66cb21c0257
   - id: dd01e1a8-054f-4770-bd64-936d1c61d019
-    hash: 4bb25124aae4f137f7d048a3e1d8b988e3cba79bd352c3848ae00d94541f26c8
+    hash: 456f6c0089f8983613c1b5d8ccab8470b429fe3a9416add2e7c695ea59cc0c38
   - id: 69a61d8d-c680-46a5-84a6-8eef1fd1db17
-    hash: 1590e6a5c7a8fa5d5dc6b745f24a5b7f5895ae271cd8d984e37a81ad75e75b7b
+    hash: d8e61827a8150320a633060838d7e1cdef5908b5141c201b9bfecac0fb840732
   - id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
-    hash: baa67743d82e29c4417a3b5a678cad9d03235ad7e396360005850bd2140dce69
+    hash: 43728ccd07a1c16572a00ca8edf9d7c5c0a7afc421aa0505f1c0d439eb22236e
   - id: 6d895de9-4223-4e93-88df-575e62b21cec
-    hash: a2abfe02a3e5e2bbbee16f19b4853baeef658c2387613367a2696ba2a1987d97
+    hash: 3f6777abd4ac5c21210fa2b205549eb69eb39daa5e90a6bafc0e073fe9f0def1
   - id: ea1e90ef-d9e4-4454-8f14-6f466ffc9202
-    hash: bdb61cd009221292788a4ee5f9160e99f184513e755876d9a9fc67248b2d2b7a
+    hash: 8f6812e56298d9298d58af0ac7b66cf72488a42b78cb2e09f1437dd3af1c7007
   - id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
-    hash: dcd1765fc870c722f2a97ef870939d9c999592a312a3f00b3638604528cf512e
+    hash: 6d9cc8357e1d89b048f8c83f2729d3e1a2d908f57183c09efd1c7a5ef5673503
   - id: 896cd676-bbc8-4e13-a312-8239d944c4eb
-    hash: f97e56dccd25b772025c9d0ed646465977997aa5d21a7f7456763e1efa79353c
+    hash: ef140eed036f7b14c62390363c83fa04a906c0818c9fefbc0209f0a6eef92332
   - id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
-    hash: e73448994e0f237382c13e9fdded5aca4c5c70c0d09cca359e4b05a015cacb71
+    hash: bf06a5138797a938d7baa886e2f77bbd4c6d4ecbffcb747d26e129c55cb3f1fe
   - id: 9aa518f7-4756-49e2-aadd-f9089710a3f2
-    hash: e806f7107865ea05d5dbf77bc6bbd600e06e62e4f0a6c9f04e27f2be6b82cb83
+    hash: 85acbc9935530ee5fdc28bd0818cc0e348b104761232dbd3d76d2d17be408f8e
   - id: 2662c29e-eaa5-4913-91f5-dc1ad308f905
-    hash: dc2f56c69ff55245476a1594dab8908f806261785de179544439b11a9e399452
+    hash: b35778faf401b938711f240ec20d0e6bd3e2d283f69e3bc5a2abac2e00ff3c82
   - id: cf1bd5c8-50a4-43d0-973e-3a3c1fd47378
-    hash: 65c5c8d544e6f91f2c3ba9da33ef15c10605ae7607c4517ebc42f47c96ed2ca1
+    hash: ba163611ae48e46e05378e48146d6aeef3eb38c59b273d2505a009daccb742c5
   - id: a328ce58-0270-4c02-b96e-4ef6eb99473f
-    hash: 9543ae4268429312941309b4eccde72561796c03a83b629825de0b371456e08d
+    hash: 175d2cfd48a94aa47b476342c727e30b99ba68584b11c88148940846418ccc8a
   - id: 8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
-    hash: 3c10b8efcc63e7bfaa5d73818d6c68c0c74fd89a55c612549c7c6558b357e886
+    hash: 8dc8d95e419fe6fed10ca1db8f94c6541302a723c5491b8fe035e5d16a3c8ef6
   - id: d237df39-26c6-4621-8b7a-3dd1a91614e7
-    hash: d0f0dd18f4d1ca016256db6c745fcb5e4e4cf031ae36c19aaf947eefa35a3740
+    hash: 29e37bbde79071f43ec6307a02286bb5c179e3bb82b324fdc243ecbfc2cd4a6d
   - id: c3458b3b-d1ab-418a-a973-88179616f6e3
-    hash: 94312cf4848e51892382a3fb598d07a4f377639c2dce41751042cd3cc5cea31f
+    hash: ca20e1d7714b8ccdc83d9a066c397c16904357fe990c81ea42d207a2ba86dae4
   - id: 29adc409-eabf-47fb-98a1-8150112c2289
-    hash: 6968f51072e1cdc373fcb42936c8f9d7676d2d44e1c9948c65b8711b66524dc7
+    hash: f744f45486ca381f9b113f84c2ed28d63a45de0723011be38945b9c178cd8227
   - id: bf6a0798-7fad-42a8-9f4e-65f066fd8924
-    hash: 18c72a70db3c0641a3860e34baa046f6f0c723e98064318cb535b3c7e22d5c4d
+    hash: 9b76f747a5052b4a6cf28bb8abff2c64d10109a25e1c176de15e0da6844db39a
   - id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
-    hash: 595a7fee63594270f841bd9b9b293af26c114faa6cb9b759a0a0738f2dfeebe4
+    hash: 5226f10e926c8dc95bda7147a0100f457a4aa8aacccf907fcbc4836b97fa4b63
   - id: 3c5a1c3c-1117-46f5-b7af-522b3e5231df
-    hash: 64cc3301d1de8a2c2e4dbe1b8b6e22f3f3eece6eb37617fffb98835d51bff95f
+    hash: b4cc63643c55b258fd1d0fcb2420c5ddb4c8b4f145f1cf118edc4318227f2f8d
   - id: d0e2eefe-7e4f-4153-b53a-70c6c872ed02
-    hash: 004f828a3fcffeea2ebf4bee4e09bbb17d616898f20a98e10c1982e599b6e7c3
+    hash: 35dbdf96a50647a52d1b519004c7863208cdab70ee73f792b0c1f0e9fdaf355d
   - id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
-    hash: c79486a08cd3a5fcc39a3c173580de60198170173434821dd2ec29653e545ee8
+    hash: 5d029b67bb7fedc36e21ab7788a8b1e660427e4e308388ed552decf844239e92
   - id: b2e27efe-1398-41c8-920c-8080a71f0142
-    hash: 94d404faf64e887a3f78876ef4d08b2a9fa1db09fd29085c7a574d06aaecbe02
+    hash: 9e2e1f19082f0e9b629211b77e33494362b50ab24e8694228f82d07ae8319cc5
   - id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
     hash: efbbfdf6564036840edccb5137db5c1259849a1274b03dd897b9d72a6efb3d43
   - id: 88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
@@ -291,7 +291,7 @@ built_from:
   - id: b60643c4-f1a0-42d9-9eb4-4770bce10585
     hash: bbb5f97b1a3891fcd734725de8ca7771f445ab855c82d963e94a9a3e5d09564b
   - id: 91ac7dad-5511-4c6c-b255-26414bc9012b
-    hash: 1bf81838992193a4416249b2940439ff3b049e3071d2e2a59527541192b1995b
+    hash: e35e81060127f8517e77cb9dfd0bf626de5e88c430b59a35ec04abbcc89b1486
   - id: 92954970-0fdb-4e78-a527-42cb0cf46bc3
     hash: bd1e6e43381679aea1664f8eb468b51fc15ecf20898178d50e9ace9e059ef850
   - id: 938afee5-68d6-4fe1-a323-36541b651cc4
@@ -347,17 +347,17 @@ built_from:
   - id: b9c9f379-6f9f-4160-bf88-012eb581b3a4
     hash: a2fcb916731873770e2a04bda8484487d188d75e0a34680505f16a990f7cfcc1
   - id: c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
-    hash: 81308a3b2a67fc35a2e1fea889a5860b521456b626453cca29ff5f0f23e6711e
+    hash: 979cce824fae3c507dc1bcadab52d4bc105f9615b4f5f871226a5c09a9bca6f6
   - id: 85914fc6-ffc6-46b0-a886-099712049ef5
     hash: 172ad17df140f4d69891529bd6f1cceb97fb86faa68510956c050abf7a5d1874
   - id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
-    hash: 417881a307331fca2d53b9c2c0a6b803f4d5382b67274ae7bbca6e4172ec3d91
+    hash: 71d3c2371c5522043b86c975673682b8118ae7ade64c37f1d578fcf9c2b6b900
   - id: 12d9e47e-a454-4115-a5cb-dd8834362356
     hash: 091d7b377f382eda15b44d98869f3a75fb06104588093808a215b12338f5b585
   - id: f97eda75-84a9-4669-bd06-8a92b13f3a17
     hash: 2cdafc67999a473dc245793a75c153107da730c29acddab8b1f6fcd6c643fd12
   - id: 3428b898-7fe7-4880-94d3-ddc3656646a9
-    hash: b9617156624372c9918680ad9b3af3f07c8762e0204a38544d8909d5d62b07ae
+    hash: 48d3657488f5d15e365c287c1dcf62ca180f06130ea9d39482a4cee41e072893
   - id: eb17d750-9b2b-4fc1-a7d7-69c676a47745
     hash: e370a109c066926f1814641c0a4a273664a33ab6862bca9a59303e8cf663fbf8
   - id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
@@ -391,29 +391,29 @@ built_from:
   - id: 0adfdc4d-ab9b-4e0b-b365-fb3912a3b11b
     hash: 8e64c1cdd87ee1bd94e181f80e8a82c908096caa2b426864f7f8c5251bd20872
   - id: 31d0506b-ff1d-4737-b571-12be8da97740
-    hash: 8330f4a0b959fac0a026933afb1cbf8c6df06983de24d8bd6e3118f9a071ef3b
+    hash: ae2bcfd968328fe52188ca9b8a5bd0df26e18771d4c70e8be863aa00b175bf6d
   - id: e39b534d-7005-46a8-8ac5-9e0fb4411e68
-    hash: f455df37f221537d66a683083dad07aef4a55bef4b23ea2c7f5a54bc9eae05fa
+    hash: 43b50eeca16b1c020823780f2ef4b63603f944983c6ee709583d212f94fd5ec6
   - id: ca75806a-53e8-49f4-8b87-bdb7d5bcf4cb
-    hash: 512c2ad8cc5dfe88e1f8e19ed33d75ce0dc32e36c8a5b1f320b5579c14ce2890
+    hash: 29031dac53a9bc01acb91300aa5caf1b6a19f531ae0cb5eeacdf4fba52238f05
   - id: 6589a4c2-da7f-418f-9064-04bdf304b5d1
-    hash: 6918ae72e7ee4bdc6b972f770793cc74e87e8e44014d799897d7700c83207c64
+    hash: def5f368d9d3b51c8576e0acf5e1a956bacd0917fa0394f581db0c9310e97d69
   - id: 12459b42-e3a4-4d29-ba20-031d28d0ccc8
-    hash: 63f27c76668d5115ded861cc1db42aa6b98309fdb40a7033dc71339a0b8e4aad
+    hash: 1340244e7cafb56328579b3383c98ba22e456f152232dc197c85123ac3b38857
   - id: 85adddb9-5840-45b4-8240-9e2bd781f2a6
-    hash: 01a0b01a4eb83b0fda144ec8ac02c6be35aacb5c5157a1b0767ebe856781ca27
+    hash: 6337e2bd0f55080154bd6a9c47a23f310b0c0078e043abef9d6c3feb64008f24
   - id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-    hash: 430c3d3b51b15b1d58af74f32e2984267fc0e20985d95ae0cd63fb82af0fba19
+    hash: 376a57bd1d4efc9b3a8f937b1022477db8478d87591d8e78cb8b8e115134a7e6
   - id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-    hash: 1eb6978f0b47bf9180b37d2e5817f5baa0665e958113f8e762b0830f5407824d
+    hash: cd9c775b212558df0853350524bfe25cf983b03275014ed5e8d8f625efeeafc2
   - id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-    hash: 5a62ac206db57bd3f734a008445ae3d869f6489d22afb29cacce7042d9dcd5ab
+    hash: 4ebf25dc10df9befa5bb1d105c06075495e74a32da0f40e5a76c6fa7cf411d98
   - id: 5754f9d2-d959-4031-ba37-567ab2448803
-    hash: b6d7f05c5c4ba42bb8f068830989ecd29307ecb5c9f043794cc38c8096895b7e
+    hash: a356290928b5e6c722b44ab0b5b38f7e8359ad50505da676ed6d859cba747890
 references:
-- text: Wilson was Deputy Director of the DIA and Assistant Joint Chief of Staff for
-    Intelligence (J-2) at the time of his 1997 investigation, under Director Patrick
-    Hughes
+- text: At the time of his 1997 investigation, Wilson was Deputy Director of the DIA
+    and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to Director
+    Patrick Hughes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:12533-12639
   quote: (TW was Deputy Director DIA/Assistant Joint Chief of Staff J-2 at time; boss
@@ -421,6 +421,24 @@ references:
   claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
+- text: Thomas R. Wilson's credentials included Vice Director of Intelligence for
+    the Joint Staff
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch43:140-184
+  quote: Vice Director of Intelligence for the Joint Staff
+  claim_id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
+- text: Thomas R. Wilson's credentials included Director of Intelligence for the United
+    States Atlantic Command
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch43:191-251
+  quote: and Director of Intelligence for the United States Atlantic Command
+  claim_id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
 - text: Thomas R. Wilson later became the 13th Director of the Defense Intelligence
     Agency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -430,25 +448,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-- text: his credentials also included Vice Director of Intelligence for the Joint
-    Staff
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch43:140-184
-  quote: Vice Director of Intelligence for the Joint Staff
-  claim_id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-- text: and Director of Intelligence for the United States Atlantic Command
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch43:191-251
-  quote: and Director of Intelligence for the United States Atlantic Command
-  claim_id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-- text: and Associate Director of Central Intelligence for Military Support at the
-    CIA
+- text: Thomas R. Wilson's credentials included Associate Director of Central Intelligence
+    for Military Support at the CIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:5-132
   quote: His other credentials included the Associate Director of Central Intelligence
@@ -457,7 +458,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5754f9d2-d959-4031-ba37-567ab2448803
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5754f9d2-d959-4031-ba37-567ab2448803
-- text: In April 1997, Steven Greer, Willard Miller and Edgar Mitchell briefed Wilson
+- text: In April 1997, Steven Greer, Willard Miller and Edgar Mitchell gave a talk
     in a Pentagon conference room, with Admiral Mike Crawford and General Patrick
     Hughes present
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -468,19 +469,8 @@ references:
   claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
-- text: Edgar Mitchell's renown as an astronaut opened the way for the briefing with
-    Wilson
-  source: In Plain Sight
-  location: ch14:8565-8758
-  quote: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary
-    briefing with the Deputy Director of Intelligence for the US military's Joint
-    Chiefs of Staff, Admiral Thomas Wilson.
-  claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
-- text: in advance of the visit Greer sent Wilson's staff a leaked National Reconnaissance
-    Office document listing codenames for Special Access Programs
+- text: In advance of the visit, Greer sent Wilson's staff a leaked National Reconnaissance
+    Office document detailing authentic codenames for top-secret Special Access Programs
   source: In Plain Sight
   location: ch14:9972-10214
   quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
@@ -491,54 +481,84 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
-- text: Greer says Wilson recognised one of the codenamed entities, made an inquiry,
-    and was told by a contractor he did not have a need to know before being hung
-    up on
+- text: Greer claims that when Wilson saw the leaked document, he was upset that Special
+    Access Program codenames on it were unknown to him
   source: In Plain Sight
-  location: ch14:12806-13261
-  quote: '''He actually recognised one of these entities and made an inquiry, and
-    it was being run by a contractor,'' Greer says. ''When he called them, he said,
-    "I''m Admiral Tom Wilson . . . I want to be read into this project". Guess what
-    happened? They said, "Sir, you don''t have a need to know"... They said, "Sir,
-    we cannot discuss this with you further" and they hung up and blocked his line.''13'
-  claim_id: 672c4936-34c3-4b7f-ba71-940f39a64eab
+  location: ch14:12137-12352
+  quote: When Admiral Tom Wilson saw the leaked document Greer sent him,12 he was,
+    Greer claims, very upset that there were SAP project codenames on the list that
+    were unknown to him, the second-most powerful man in Defence Intelligence.
+  claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-672c4936-34c3-4b7f-ba71-940f39a64eab
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-672c4936-34c3-4b7f-ba71-940f39a64eab
-- text: Willard Miller supported Greer's account of Wilson's frustration at the briefing
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
+- text: Steven Greer, Willard Miller and Edgar Mitchell presented Wilson with what
+    they believed was witness evidence of a cover-up of alien visitations, recovered
+    spacecraft and bodies, and derived technology
   source: In Plain Sight
-  location: ch14:15145-15234
-  quote: Retired Navy Commander Willard Miller also supported Greer's account of Admiral
-    Wilson's frustration.
-  claim_id: ade03666-fb02-471b-91e5-44b987726c58
+  location: ch14:14003-14350
+  quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
+    Wilson with what they were convinced was strong witness evidence to support their
+    belief that the US government was covering up alien visitations to Earth, recovered
+    spacecraft and alien bodies, and incredible technological breakthroughs purportedly
+    derived from those discoveries.
+  claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ade03666-fb02-471b-91e5-44b987726c58
-- text: Greer claims Wilson reacted with horror, saying he had no doubt it was true
-    but was horrified he had not known
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
+- text: Wilson confirmed the 1997 Pentagon meeting with Greer and Mitchell in an interview
+    with Richard Dolan more than a decade later
   source: In Plain Sight
-  location: ch14:16792-17105
-  quote: 'In another account given by Greer, Admiral Wilson (whom Greer had not named
-    at this point) reacted with horror during their briefing. ''After he looked at
-    all this and heard the witness, he turned to us and said: "Well I have no doubt
-    this is true, but I am horrified that I hadn''t known about it",'' Greer claimed.17'
-  claim_id: b79323bc-807d-4c02-8888-dbd9e34bd663
+  location: ch14:20976-21102
+  quote: The admiral confirmed the 1997 Pentagon meeting with Greer and Mitchell in
+    an interview with Richard Dolan more than a decade later
+  claim_id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b79323bc-807d-4c02-8888-dbd9e34bd663
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b79323bc-807d-4c02-8888-dbd9e34bd663
-- text: Greer claims Wilson called the group illegal and gave permission to go to
-    the media if people would talk on the record
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
+- text: Wilson told Dolan he agreed to the meeting only because he was curious why
+    a man of Mitchell's stature would be interested in UFOs
   source: In Plain Sight
-  location: ch14:17755-17994
-  quote: He thought a minute and said, "Well, as far as I am concerned, if you can
-    get people who know about this matter to talk on the record, you have my permission
-    to go to the media with this! This group is illegal!"' Greer claimed he was told.20
-  claim_id: 69a61d8d-c680-46a5-84a6-8eef1fd1db17
+  location: ch14:21113-21234
+  quote: told Dolan he only agreed to it because he was ‘curious why a man of Dr Mitchell’s
+    stature would be interested in such a matter’
+  claim_id: 896cd676-bbc8-4e13-a312-8239d944c4eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-69a61d8d-c680-46a5-84a6-8eef1fd1db17
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-69a61d8d-c680-46a5-84a6-8eef1fd1db17
-- text: in 1998 Greer and Miller were invited back to brief Wilson's superior, Director
-    Patrick Hughes, on UFOs
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
+- text: Wilson described everything else claimed by Greer about the meeting as poppycock,
+    and hung up on Dolan
+  source: In Plain Sight
+  location: ch14:21243-21350
+  quote: Wilson claimed everything else about the meeting described by Greer was ‘poppycock’
+    and he then hung up on Dolan.
+  claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
+- text: In a detailed letter, Wilson acknowledged the April 1997 Pentagon meeting
+    happened and that it was a briefing
+  source: In Plain Sight
+  location: ch26:21849-21941
+  quote: His detailed letter in reply23 acknowledged the meeting happened, and that
+    it was indeed a ‘briefing’
+  claim_id: 9aa518f7-4756-49e2-aadd-f9089710a3f2
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9aa518f7-4756-49e2-aadd-f9089710a3f2
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9aa518f7-4756-49e2-aadd-f9089710a3f2
+- text: Wilson stated he did not acknowledge or suggest that special access programmes
+    on UFOs existed, nor that he ever had knowledge of such programmes
+  source: In Plain Sight
+  location: ch26:22570-22777
+  quote: I most certainly did not acknowledge or even suggest that such programs existed
+    nor that I would attempt to gain access if they did. In fact, I did neither then,
+    nor since then, ever have knowledge of such programs.
+  claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
+- text: In 1998, Greer was invited back to the DIA, again with Willard Miller, to
+    brief Wilson's immediate superior, Patrick Hughes, on UFOs
   source: In Plain Sight
   location: ch14:18395-18635
   quote: It is to Greer's credit, for example, that he was invited back in 1998 to
@@ -549,71 +569,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-- text: Wilson confirmed the 1997 meeting to Richard Dolan over a decade later, saying
-    he agreed to it out of curiosity about Mitchell's interest in UFOs
-  source: In Plain Sight
-  location: ch14:21113-21234
-  quote: told Dolan he only agreed to it because he was ‘curious why a man of Dr Mitchell’s
-    stature would be interested in such a matter’
-  claim_id: 896cd676-bbc8-4e13-a312-8239d944c4eb
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-896cd676-bbc8-4e13-a312-8239d944c4eb
-- text: Wilson described everything else Greer claimed about the meeting as poppycock
-    and hung up on Dolan
-  source: In Plain Sight
-  location: ch14:21243-21350
-  quote: Wilson claimed everything else about the meeting described by Greer was ‘poppycock’
-    and he then hung up on Dolan.
-  claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
-- text: in a detailed letter Wilson acknowledged the meeting happened and that it
-    was a briefing, accepted because Mitchell was a credible, respected retired astronaut
-  source: In Plain Sight
-  location: ch26:21961-22139
-  quote: ‘I accepted this short meeting on my schedule because Dr Edgar Mitchell was
-    a credible and respected, retired navy captain and astronaut, and I thought it
-    was the polite thing to do.'
-  claim_id: 2662c29e-eaa5-4913-91f5-dc1ad308f905
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2662c29e-eaa5-4913-91f5-dc1ad308f905
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2662c29e-eaa5-4913-91f5-dc1ad308f905
-- text: Wilson recalled the meeting was scheduled for 30 minutes but possibly ran
-    longer, and that his visitors raised concerns about possible special access programs
-    on UFOs
-  source: In Plain Sight
-  location: ch26:22310-22408
-  quote: Wilson recalled ‘my visitors’ concerns about possible “special access programs”
-    dealing with that subject.
-  claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
-- text: Wilson stated he never acknowledged or suggested such programs existed, never
-    attempted to gain access, and never had knowledge of them
-  source: In Plain Sight
-  location: ch26:22570-22777
-  quote: I most certainly did not acknowledge or even suggest that such programs existed
-    nor that I would attempt to gain access if they did. In fact, I did neither then,
-    nor since then, ever have knowledge of such programs.
-  claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
-- text: Ross Coulthart considers it hard to escape the conclusion that Wilson gave
-    Greer's group the impression he was improperly blocked from accessing UFO information
-  source: In Plain Sight
-  location: ch14:23600-23760
-  quote: it is difficult to escape the conclusion that Admiral Wilson gave the impression
-    in some way to Greer’s group that he was improperly blocked from accessing UFO
-    information
-  claim_id: bf6a0798-7fad-42a8-9f4e-65f066fd8924
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf6a0798-7fad-42a8-9f4e-65f066fd8924
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf6a0798-7fad-42a8-9f4e-65f066fd8924
-- text: the Admiral Wilson memo purports to detail what Wilson admitted to Eric Davis
+- text: The Admiral Wilson Memo purports to detail what Wilson admitted to Eric Davis
     in a private meeting in Las Vegas in 2002
   source: In Plain Sight
   location: ch26:367-500
@@ -623,31 +579,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
-- text: Davis's memo describes meeting the recently retired Vice Admiral Wilson on
-    2002-10-16, in a car in a corporate office building carpark in Las Vegas
-  source: In Plain Sight
-  location: ch26:4818-5042
-  quote: In his memo, Davis claims to have met the recently retired Director of the
-    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
-    in a car parked in the carpark of a corporate office building in Las Vegas.
-  claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-- text: Eric Davis observed Wilson arriving ten minutes late to the EG&G building
-    meeting, accompanied by two Navy officers in uniform while he himself wore civilian
-    clothing
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:193-341
-  quote: '10:10 (Adm. late)
-
-    Arrives with two Navy officers in uniform - he''s in suit - now civilian
-
-    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
-  claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
-- text: Wilson said he was taking a risk in talking to Davis, trusting Oke Shannon's
+- text: Wilson said he was taking a risk talking to Eric Davis, trusting Oke Shannon's
     word
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10320-10395
@@ -657,8 +589,8 @@ references:
   claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-60de4d37-4d58-4f1b-9e07-fe9b58806357
-- text: Rich and Doug vouched for Davis, and Wilson said the AFIO connection mattered
-    for trust
+- text: Rich and Doug vouched for Davis, and Wilson said the Association of Former
+    Intelligence Officers connection mattered for trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10532-10661
   quote: 'TW: Rich & Doug vouch for you - say your word is good with them. AFIO connection
@@ -666,7 +598,7 @@ references:
   claim_id: 6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
-- text: Wilson said that if Davis violated his trust he would deny meeting him and
+- text: Wilson said that if Davis violated his trust, he would deny meeting him and
     deny everything said, calling the subject matter absurdly closely held
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10812-11142
@@ -678,8 +610,7 @@ references:
   claim_id: 6256c21a-1f98-49e6-9e5d-db7468b48731
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6256c21a-1f98-49e6-9e5d-db7468b48731
-- text: the memo describes Wilson recounting that General M. Ward and later William
-    Perry suggested he search the OUSDAT records group
+- text: General M. Ward suggested Wilson go through the records group files in OUSDAT
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11389-11564
   quote: Suggestion came from Ward (Gen. M. Ward) to go through the records groups
@@ -688,7 +619,8 @@ references:
   claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
-- text: Perry gave Wilson the same suggestion when the two spoke in May 1997
+- text: Wilson ran into William Perry in May 1997 and discussed the matter, and Perry
+    suggested the same approach as General Ward
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11578-11661
   quote: Ran into Bill Perry in May '97 - talked about this quietly - he suggested
@@ -696,8 +628,8 @@ references:
   claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
-- text: Wilson was told of a special-projects record group organised by Perry in 1994,
-    set apart from and buried under conventional Special Access Programs
+- text: Wilson was told of a special projects record group not belonging to the usual
+    SAP divisions, organised in 1994 by William Perry
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11669-11945
   quote: They told me of a special projects record group not belonging to usual SAP
@@ -707,8 +639,22 @@ references:
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
-- text: Wilson found the record group and read the index abstracts, declining to name
-    the compartment or codename, calling it a core secret
+- text: Paul Kaminski was USDAT, and Wilson talked to both Kaminski and Michael Kostelnik
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:11976-12048
+  quote: 'TW: Uh, was Paul Kaminski - talked to both Paul and Mike Kostelnik (a Brig.
+    General)'
+  claim_id: 4adf89e5-79f4-4a60-b311-da7c1a81b31a
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4adf89e5-79f4-4a60-b311-da7c1a81b31a
+- text: Wilson found the unusual record group and read the index abstracts
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:12652-12703
+  quote: 'TW: So found the unusual record group - read the index abstracts.'
+  claim_id: 48f50bb4-95d0-4278-8fe8-5711a215a992
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-48f50bb4-95d0-4278-8fe8-5711a215a992
+- text: Wilson declined to name the SAP compartment he found, calling it a core secret
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:13861-13943
   quote: 'EWD: Change subject: so what SAP compartment did you find in?
@@ -718,8 +664,8 @@ references:
   claim_id: b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
-- text: the contractor running the programme was described as one of the top US aerospace
-    technology contractors, with an intelligence portfolio
+- text: The contractor running the programme Wilson found was an aerospace technology
+    contractor, one of the top ones in the United States
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:14074-14274
   quote: 'TW: An aerospace technology contractor - one of the top ones in US
@@ -739,7 +685,7 @@ references:
   claim_id: 75712e51-5c10-47db-b1e9-4f90136a1c2e
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
-- text: Wilson called Kaminski, Kostelnik and Perry at the end of May 1997 to confirm
+- text: At the end of May 1997, Wilson called Kaminski, Kostelnik and Perry to confirm
     he had the right contractor and programme manager
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:14381-14539
@@ -754,8 +700,8 @@ references:
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
-- text: his three calls to the programme manager, including one conference call with
-    the security director and corporate attorney, were met with confusion and a testy
+- text: Wilson made three calls to the programme manager, including a conference call
+    with the security director and corporate attorney, met with confusion and a testy
     tone
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:14585-14860
@@ -769,20 +715,17 @@ references:
   claim_id: 28293f65-b441-4a9c-96cf-bcdf2293d479
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-28293f65-b441-4a9c-96cf-bcdf2293d479
-- text: he told the programme manager he had read their record in the OUSDAT files
-    and wanted to know about their crashed UFO programme and any connection to Majestic
-    12
+- text: Wilson also called other programme managers; three said they were not what
+    he was looking for, four referred him back to the same threesome
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:15027-15306
-  quote: 'TW: I told I read their program record in the OUSDAT special program records
-    group and wanted to know about their crashed UFO program, what their role in that
-    was, what they had, etc. Also asked if they heard of MJ-12 or some such organization
-    code relating to crashed/recovered UFO craft.'
-  claim_id: 3622f20f-80b7-469a-a23a-d0f44d75ecbc
+  location: char:15730-15839
+  quote: 'TW: 3 programs who said they weren''t what/who I was looking for. 4 programs
+    that referred me back to the present threesome.'
+  claim_id: 1400416e-7589-4313-b46a-75623658c3b1
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3622f20f-80b7-469a-a23a-d0f44d75ecbc
-- text: he demanded a formal briefing and tour, citing his oversight authority as
-    Deputy Director of the DIA and J-2
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1400416e-7589-4313-b46a-75623658c3b1
+- text: Wilson told the threesome he wanted a formal briefing and tour, invoking his
+    authority as Deputy Director of the DIA and J-2
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:16210-16437
   quote: 'TW: I told threesome I wanted formal briefing, tour, etc. - was exploiting
@@ -792,8 +735,8 @@ references:
   claim_id: 2cda52a0-09fc-468f-8cf0-5b538d9e5be5
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cda52a0-09fc-468f-8cf0-5b538d9e5be5
-- text: the contractor representatives called back two days later to arrange a face-to-face
-    meeting rather than discuss it by phone
+- text: The threesome called back two days later and arranged a face-to-face meeting
+    at their facility
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:16452-16623
   quote: 'TW: They needed to discuss this (his demand) so hung up. Got called 2 days
@@ -802,8 +745,8 @@ references:
   claim_id: 47e58a5f-14ba-4f10-a257-3f203e03ce00
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-47e58a5f-14ba-4f10-a257-3f203e03ce00
-- text: around mid-June 1997 Wilson flew out to meet the same three people in their
-    secure-vault conference room
+- text: Wilson flew out around mid-June 1997 to meet the same three people in their
+    conference room in their secure vault
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:16656-16836
   quote: 'TW: Yes, ten days later (mid-June or so). Flew out there
@@ -818,8 +761,8 @@ references:
   claim_id: 96ce9937-d09c-4e7b-b509-628f9102ee62
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-96ce9937-d09c-4e7b-b509-628f9102ee62
-- text: the three - a retired NSA counterintelligence officer, a programme director
-    and a corporate attorney - called themselves 'the watch committee'
+- text: The three people who met Wilson were a security director, a programme director,
+    and a corporate attorney, who called themselves the Watch Committee
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:16845-16981
   quote: '- Security director (NSA-retired, a CI expert)
@@ -832,22 +775,8 @@ references:
   claim_id: 9de8dbae-e9af-47f9-9e75-d0937aa77193
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-9de8dbae-e9af-47f9-9e75-d0937aa77193
-- text: Wilson said the Watch Committee refused to disclose its special access criteria,
-    which he said made him angry and led him to conclude it operated without official
-    oversight
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:18659-18868
-  quote: 'EWD: What are criteria?
-
-
-    TW: I asked for that and they refused to give answer. I was mad - implication
-    is now - to me - they operate without official oversight or any justification
-    - politically dangerous place to be!'
-  claim_id: 4a546055-d134-4734-b6e2-79e2b0346404
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4a546055-d134-4734-b6e2-79e2b0346404
-- text: Wilson said the Committee confirmed his security clearances were valid but
-    told him he was not on the bigot list and so was refused need-to-know authorisation
+- text: Wilson said his tickets were confirmed and valid, but he was not on the bigot
+    list, so need-to-know authorisation was not granted
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:19158-19359
   quote: 'TW: They said my tickets were all confirmed and valid, but I was not on
@@ -860,8 +789,8 @@ references:
   claim_id: c408147c-c2ba-4b8f-af1d-eaaec7d00b96
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-c408147c-c2ba-4b8f-af1d-eaaec7d00b96
-- text: Wilson argued that his statutory oversight authority as Deputy Director of
-    the DIA entitled him to need to know
+- text: Wilson went back and forth with the security director and attorney, arguing
+    his statutory oversight authority gave him a right to know
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:19369-19754
   quote: '- Went back ''n forth with them over these points (primarily with security
@@ -874,8 +803,8 @@ references:
   claim_id: 7fe48f97-1c02-4ff4-ae4b-44a713ebd4b4
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7fe48f97-1c02-4ff4-ae4b-44a713ebd4b4
-- text: Wilson said the Committee produced its bigot list, dated 1990 and updated
-    1993, to argue his authority was not pertinent
+- text: The Watch Committee pulled out their bigot list, dated 1990 and updated 1993,
+    to argue Wilson's authority was not pertinent
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:19763-19983
   quote: '- Regulatory and statutory authority as Deputy Director DIA not relevant
@@ -886,15 +815,16 @@ references:
   claim_id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-447c8fd9-9d25-497d-bb47-dce0dd9ba23c
-- text: the meeting broke up after roughly 20 minutes with an agreement to reconvene
-    in two to three days
+- text: Wilson said the meeting broke up after approximately 20 minutes with an agreement
+    to meet again in two to three days
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21485-21538
   quote: Broke up in 20 minutes and they would meet me in 2-3 days
   claim_id: 5ba71f94-8941-4c15-acd6-6edbac2e50f7
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-5ba71f94-8941-4c15-acd6-6edbac2e50f7
-- text: he met again with the Senior Review Group near the end of June 1997
+- text: Wilson met again with members of the Senior Review Group near the end of June
+    1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21545-21629
   quote: Got the call 2 days later (near end of June) and met again with Senior Review
@@ -902,32 +832,30 @@ references:
   claim_id: b948149f-79e3-45a2-b45d-ee983529b780
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b948149f-79e3-45a2-b45d-ee983529b780
-- text: Wilson said the Senior Review Group told him it was sustaining the contractor's
-    access denial and to drop the matter as outside his oversight
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:21748-21904
-  quote: that I was to immediately drop the matter and let it go - forget about it
-    as I did not have purview over their project, it didn't fall within my oversight,
-    etc.
-  claim_id: 298251dd-257c-4cb1-adf1-501409d9c677
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-298251dd-257c-4cb1-adf1-501409d9c677
-- text: Wilson became very angry and started yelling during the meeting
+- text: Wilson became very angry and started yelling during the meeting with the Senior
+    Review Group
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21911-21980
   quote: I became very angry - started yelling when should have kept my mouth shut
   claim_id: de117bc8-f450-4f63-9382-008719814064
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-de117bc8-f450-4f63-9382-008719814064
-- text: he confirmed he came close to being disciplined over the investigation
+- text: Will Miller and Steven Greer said Wilson nearly 'got busted' over his investigation
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:21991-22028
+  quote: 'EWD: Miller and Greer said you nearly got busted.'
+  claim_id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d51ad4a3-e752-4f4e-b487-3462b8af9b78
+- text: Wilson confirmed he came close to being disciplined over his investigation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22041-22050
   quote: 'TW: Close to that!'
   claim_id: b27f5d2f-ce7e-49de-a9ee-8983ad80f752
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
-- text: he described being livid about the pressure placed on him given his position
-    of authority over the programme
+- text: Wilson was very angry, upset, and livid about the pressure placed on him,
+    given his position of regulatory and statutory authority
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22242-22467
   quote: Really incredibly angry - upset over this - livid!!! - Why such a big deal
@@ -936,19 +864,42 @@ references:
   claim_id: a273c9eb-af83-4c75-8447-7c3efd606e87
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a273c9eb-af83-4c75-8447-7c3efd606e87
-- text: Steven Greer says Wilson was very upset that SAP project codenames on the
-    leaked list were unknown to him
+- text: Eric Davis claims to have met Wilson, the recently retired Director of the
+    DIA, on 2002-10-16 in a car in a Las Vegas car park
   source: In Plain Sight
-  location: ch14:12137-12352
-  quote: When Admiral Tom Wilson saw the leaked document Greer sent him,12 he was,
-    Greer claims, very upset that there were SAP project codenames on the list that
-    were unknown to him, the second-most powerful man in Defence Intelligence.
-  claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
+  location: ch26:4818-5042
+  quote: In his memo, Davis claims to have met the recently retired Director of the
+    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
+    in a car parked in the carpark of a corporate office building in Las Vegas.
+  claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-- text: in a June 2020 letter Wilson said the memo attributed to Davis, including
-    its characterisation of his attitude and emotions, is pure fiction
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+- text: Admiral Wilson arrived ten minutes late to the meeting at the EG&G building,
+    accompanied by two Navy officers in uniform, while he wore civilian clothing
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:193-341
+  quote: '10:10 (Adm. late)
+
+    Arrives with two Navy officers in uniform - he''s in suit - now civilian
+
+    In uniform: 1 (full) Lt.; 1 Cmdr.; a petty officer drives car.'
+  claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+- text: As rumours of an imminent New York Times story mounted in June 2020, Wilson
+    issued a strong denial that any such meeting with Davis ever happened
+  source: In Plain Sight
+  location: ch26:1819-1966
+  quote: as rumours of an imminent *New York Times* story mounted in June 2020, Wilson
+    finally issued a strong denial that any such meeting with Davis ever happened.
+  claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+- text: In his June 2020 denial letter, Wilson said the entire memo attributed to
+    Davis, including its characterisation of his attitude and sentiments, is pure
+    fiction
   source: In Plain Sight
   location: ch26:11719-11879
   quote: In it, he said, ‘The entire memo attributed to Dr Davis, including his characterization
@@ -969,51 +920,40 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
-- text: he said he did occasionally meet some of the people named, but never on anything
-    related to the memo's content
+- text: Wilson denied visiting Las Vegas in 2002 and denied ever meeting Eric Davis
   source: In Plain Sight
-  location: ch26:12180-12296
-  quote: I did occasionally meet with some of these people, but not on anything remotely
-    related to the content of the Davis memo.’
-  claim_id: c84b8b13-10d9-43f0-bd73-66217bade86b
+  location: ch26:7529-7611
+  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
+    Dr Eric Davis.
+  claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c84b8b13-10d9-43f0-bd73-66217bade86b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c84b8b13-10d9-43f0-bd73-66217bade86b
-- text: Oke Shannon told Billy Cox he did not know the document's provenance or whether
-    it was real, but said he knows both Wilson and Davis and that Wilson is an honourable
-    man
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
+- text: Wilson said the only time he was ever in Las Vegas was for a Carrier Air Wing
+    Three deployment to Nellis Air Force Base in 1979 or 1980
   source: In Plain Sight
-  location: ch26:12658-12946
-  quote: ‘I don’t know the provenance of that purported document – I don’t know whether
-    it’s real or not real,’ Oke Shannon told Billy Cox. ‘Let’s just leave it at the
-    fact that I do know both of these gentlemen. Tom Wilson is an honourable man.
-    And if this has embarrassed Tom Wilson, I am really sorry.’
-  claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
+  location: ch26:7618-7745
+  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
+    Three deployment to Nellis Air Force Base in 1979 or 1980.
+  claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
-- text: Shannon did not deny to Cox that he had facilitated a meeting between Wilson
-    and Davis, or that it happened
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+- text: Wilson said that in October 2002 he was on terminal leave, having retired
+    from the navy about three months earlier, staying at an isolated camp in Maine
+    before starting work for Alliant Techsystems in November
   source: In Plain Sight
-  location: ch26:12955-13054
-  quote: Oke Shannon did not deny to Billy Cox that he had facilitated a meeting with
-    Tom Wilson or that it happened.
-  claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
+  location: ch26:7751-7946
+  quote: He says that in October 2002 he was on ‘terminal leave’ and retired from
+    the navy for about three months, staying at an isolated camp in Maine before he
+    started work for Alliant Technosystems in November.
+  claim_id: c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
-- text: as rumours of an imminent New York Times story mounted in June 2020, Wilson
-    issued a strong denial that any such meeting ever happened
-  source: In Plain Sight
-  location: ch26:1819-1966
-  quote: as rumours of an imminent *New York Times* story mounted in June 2020, Wilson
-    finally issued a strong denial that any such meeting with Davis ever happened.
-  claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da5290a6-646b-4363-80ba-139ad6fb568e
-- text: he stated he never requested nor was denied access to supposed UAP programmes,
-    and was never threatened with losing his career
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
+- text: Wilson stated in his letter to Ross Coulthart that he never requested nor
+    was denied access to supposed UAP programmes, and was never threatened over his
+    career
   source: In Plain Sight
   location: ch26:23480-23723
   quote: Admiral Wilson, it should be emphasised, was very clear in his letter to
@@ -1023,8 +963,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c1cbd7ef-9c8a-46f5-a356-fa29e93d2733
-- text: no one who should know about the purported meeting was prepared to confirm
-    the memo's authenticity on the record
+- text: No one who should know about the purported meeting was prepared to confirm
+    the authenticity of the memo on the record
   source: In Plain Sight
   location: ch26:23971-24169
   quote: We are left with the fact that, if the ‘EWD Notes’ memo is genuine, not one
@@ -1035,7 +975,7 @@ references:
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85914fc6-ffc6-46b0-a886-099712049ef5
 - text: Wilson, his former Defense Department colleagues, and Willard Miller all cast
-    doubt on the memo's authenticity
+    doubt on the authenticity of the memo
   source: In Plain Sight
   location: ch26:24177-24303
   quote: And the comments of Tom Wilson, his former Defence Department colleagues,
@@ -1044,64 +984,21 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
-- text: in his June 2020 letter Wilson said the memo describes alleged efforts to
-    get access to Special Access Programs that never took place, and that he never
-    requested such access
+- text: Coulthart considers that without a senior Department of Defense official,
+    Davis, Wilson, or Puthoff going on record, the memo's claims must be treated with
+    extreme scepticism as a hoax document until proved otherwise
   source: In Plain Sight
-  location: ch26:7043-7525
-  quote: ‘The Dr Eric Davis memo contains somewhat detailed accounts of alleged efforts
-    by me to get access to Special Access Programs . . . and of meetings I supposedly
-    had with various contractors or Special Access Program managers/overseers. I participated
-    in no such meetings on these subjects. I never formally or informally requested
-    any such access, was never denied such access and was never threatened to have
-    my career “derailed” if I persisted,’ he told me.
-  claim_id: 9ed6f584-dc1a-4fef-8662-77afa8772545
+  location: ch26:25149-25415
+  quote: But without a senior Department of Defense official, Eric Davis, Admiral
+    Wilson or Hal Puthoff, going on the record admitting to the veracity of the memorandum,
+    its claims must be treated with extreme scepticism. It has to be treated as a
+    hoax document until proved otherwise.
+  claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
-- text: he denied visiting Las Vegas in 2002 and denied ever meeting Eric Davis
-  source: In Plain Sight
-  location: ch26:7529-7611
-  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
-    Dr Eric Davis.
-  claim_id: 46abfcfa-818a-478e-b610-348bceec1359
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
-- text: he said the only time he was ever in Las Vegas was for a Carrier Air Wing
-    Three deployment to Nellis Air Force Base in 1979 or 1980
-  source: In Plain Sight
-  location: ch26:7618-7745
-  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
-    Three deployment to Nellis Air Force Base in 1979 or 1980.
-  claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-- text: he said in October 2002 he was on terminal leave, having retired from the
-    navy about three months earlier, staying in Maine before starting work for Alliant
-    Techsystems in November
-  source: In Plain Sight
-  location: ch26:7751-7946
-  quote: He says that in October 2002 he was on ‘terminal leave’ and retired from
-    the navy for about three months, staying at an isolated camp in Maine before he
-    started work for Alliant Technosystems in November.
-  claim_id: c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c262b0e1-e8e6-4bc8-a68f-4486a7fa094f
-- text: he told Ross Coulthart the meeting described in the memo never happened and
-    that the memo is a lie
-  source: In Plain Sight
-  location: ch26:5743-5862
-  quote: You need to bear in mind, however, that Admiral Tom Wilson has told me this
-    meeting never happened, that the memo is a lie.
-  claim_id: cefc0b76-bf17-471e-b585-fc9cc80be89f
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cefc0b76-bf17-471e-b585-fc9cc80be89f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cefc0b76-bf17-471e-b585-fc9cc80be89f
-- text: he has categorically denied that the meeting with Davis described in the memo
-    ever happened
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+- text: Tom Wilson has categorically denied that the meeting with Eric Davis described
+    in the memo ever happened
   source: In Plain Sight
   location: ch26:26887-26959
   quote: But Wilson has categorically denied the meeting with Dr Eric Davis ever happened.
@@ -1109,21 +1006,9 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
-- text: for well over a year after the memo was first published online, Wilson made
-    no public comment on it
-  source: In Plain Sight
-  location: ch26:1587-1805
-  quote: For well over a year after the memo was first published on the internet,
-    the former Defense Intelligence Agency official with whom Dr Eric Davis purportedly
-    had this explosive conversation, Admiral Tom Wilson, made no comment.
-  claim_id: 09f77fb1-e637-41d7-816f-d286d3770264
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09f77fb1-e637-41d7-816f-d286d3770264
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-09f77fb1-e637-41d7-816f-d286d3770264
-- text: Hal Puthoff, asked about the memo in February 2020, said it was leaked online
-    and that Wilson was one of the joint chiefs of staff interviewed by his colleague
-    Eric Davis, declining further comment because it discusses potentially ongoing
-    programs
+- text: Asked about the memo in February 2020, Hal Puthoff said it was leaked on the
+    internet and that Wilson was one of the joint chiefs of staff interviewed by his
+    colleague Eric Davis, declining to comment further
   source: In Plain Sight
   location: ch26:10770-11128
   quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
@@ -1135,21 +1020,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-- text: Ross Coulthart considers that without a senior Defense Department official,
-    Davis, Wilson or Puthoff going on the record, the memo's claims must be treated
-    with extreme scepticism as a hoax document until proved otherwise
-  source: In Plain Sight
-  location: ch26:25149-25415
-  quote: But without a senior Department of Defense official, Eric Davis, Admiral
-    Wilson or Hal Puthoff, going on the record admitting to the veracity of the memorandum,
-    its claims must be treated with extreme scepticism. It has to be treated as a
-    hoax document until proved otherwise.
-  claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12d9e47e-a454-4115-a5cb-dd8834362356
-- text: Luis Elizondo writes that in the late 1990s Davis met and talked with Vice
-    Admiral Thomas R. Wilson, then Director of Intelligence (J2) for the Joint Staff
+- text: In the late 1990s, Eric Davis met and talked with Vice Admiral Thomas R. Wilson,
+    then Director of Intelligence (J2) for the Joint Staff, according to Luis Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:7567-7693
   quote: in the late 1990s, Eric met and chatted up Vice Admiral Thomas R. Wilson,
@@ -1158,6 +1030,17 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31d0506b-ff1d-4737-b571-12be8da97740
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31d0506b-ff1d-4737-b571-12be8da97740
+- text: Wilson confided the details of his encounter with the aerospace contractor
+    to Davis and never spoke of it again, even after the memo leaked, according to
+    Elizondo
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch12:9913-10013
+  quote: He confided the details of this encounter to Davis and never spoke of it
+    again, even after the memo leaked.
+  claim_id: 85adddb9-5840-45b4-8240-9e2bd781f2a6
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85adddb9-5840-45b4-8240-9e2bd781f2a6
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85adddb9-5840-45b4-8240-9e2bd781f2a6
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
@@ -1166,23 +1049,23 @@ built_by:
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 101740
-    output: 10454
-    real_input: 2
-    cache_read: 39247
-    cache_write: 62491
+    input: 365702
+    output: 75084
+    real_input: 6
+    cache_read: 179035
+    cache_write: 186661
     calls: 0
-  body_sha256: a904a645cf5982feec8d49bc79ebbfe2a8e73b483a778ed7c893fc8ba65e4dc4
+  body_sha256: bbce7fcb651052c463558a391278dac672571dc4a83b2f56d12bd61d73788aa6
 ---
 
-Thomas R. Wilson is a retired US Navy vice admiral whose intelligence career culminated in his appointment as the 13th Director of the Defense Intelligence Agency (DIA)<sup>2</sup>. His credentials also included Vice Director of Intelligence for the Joint Staff<sup>3</sup>, Director of Intelligence for the United States Atlantic Command<sup>4</sup>, and Associate Director of Central Intelligence for Military Support at the CIA<sup>5</sup>. At the time of the events for which he is best known within UAP research, he held the rank of Deputy Director of the DIA and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to Director [Patrick Hughes](/people/patrick-hughes)<sup>1</sup>.
+Vice Admiral Thomas R. Wilson was a US Navy intelligence officer whose career culminated as [Defense Intelligence Agency (DIA)](/organisations/defense-intelligence-agency-dia) Director. At the time of the events central to his role in UAP research, he held the post of Deputy Director of the DIA and Assistant Joint Chief of Staff for Intelligence (J-2), reporting to Director Patrick Hughes.<sup>1</sup> His documented credentials also include Vice Director of Intelligence for the Joint Staff,<sup>2</sup> Director of Intelligence for the United States Atlantic Command,<sup>3</sup> and Associate Director of Central Intelligence for Military Support at the CIA,<sup>5</sup> and he went on to become the 13th Director of the DIA.<sup>4</sup>
 
-In April 1997, Wilson's office granted a briefing to [Steven Greer](/people/steven-greer), Willard Miller and [Edgar Mitchell](/people/edgar-mitchell) in a Pentagon conference room, also attended by Admiral Mike Crawford and General Hughes<sup>6</sup>; Mitchell's standing as an astronaut is credited with opening the door to the meeting<sup>7</sup>. Ahead of the visit, Greer had sent Wilson's staff a leaked National Reconnaissance Office document listing codenames for Special Access Programs (SAPs)<sup>8</sup>. Greer alleges that Wilson recognised one of those codenames during the briefing, made an inquiry, and was told by a contractor he did not have a need to know before being hung up on<sup>9</sup>. Miller has supported Greer's account of Wilson's frustration at the meeting<sup>10</sup>, and Greer claims Wilson reacted with horror, saying he had no doubt what he was being told was true but was horrified he had not known about it<sup>11</sup>, going on to call the group illegal and to give permission to take the matter to the media if people would speak on the record<sup>12</sup>. In 1998, Greer says he and Miller were invited back to brief Wilson's superior, Director Hughes, on UFOs<sup>13</sup>.
+In April 1997, [Steven Greer](/people/steven-greer), [Willard Miller](/people/willard-miller) and [Edgar Mitchell](/people/edgar-mitchell) gave a briefing in a Pentagon conference room, attended by Admiral Mike Crawford and General Hughes.<sup>6</sup> Ahead of the visit, Greer sent Wilson's staff a leaked US National Reconnaissance Office document listing codenames for top-secret [Special Access Programs (SAPs)](/topics/special-access-program-sap).<sup>7</sup> Greer claims that on seeing the document Wilson was upset to find codenames on it he did not recognise.<sup>8</sup> Greer, Miller and Mitchell say they presented Wilson with what they believed was strong witness evidence of a government cover-up of alien visitations, recovered spacecraft and bodies, and derived technology.<sup>9</sup> More than a decade later, in an interview with Richard Dolan, Wilson confirmed the meeting took place<sup>10</sup> and said he had agreed to it only out of curiosity as to why a man of Mitchell's stature would be interested in UFOs<sup>11</sup>; he described everything else Greer claimed about the meeting as "poppycock" and hung up on Dolan.<sup>12</sup> In a subsequent detailed letter, Wilson acknowledged that the April 1997 meeting happened and that it was a briefing,<sup>13</sup> while stating he never acknowledged or suggested that special access programmes on UFOs existed, and that he never had knowledge of any such programmes.<sup>14</sup> In 1998, Greer was invited back to the DIA, again with Miller, to brief Hughes on UFOs.<sup>15</sup>
 
-Wilson's own account of the meeting, given years later, differs sharply. He confirmed the encounter to researcher Richard Dolan, saying he had agreed to it purely out of curiosity as to why a man of Mitchell's stature would be interested in UFOs<sup>14</sup>, and dismissed everything else Greer had claimed about it as "poppycock" before hanging up<sup>15</sup>. In a more detailed letter he acknowledged the meeting took place and that it was a briefing, which he accepted because Mitchell was a credible and respected retired astronaut<sup>16</sup>; he recalled it was scheduled for 30 minutes, possibly ran a little longer, and that his visitors raised concerns about possible special access programmes dealing with UFOs<sup>17</sup>. He stated that he never acknowledged or suggested such programmes existed, never attempted to gain access to any, and never had knowledge of them<sup>18</sup>. Journalist [Ross Coulthart](/people/ross-coulthart), reviewing the number of witnesses to the meeting, considers it difficult to avoid the conclusion that Wilson left Greer's group with the impression he had been improperly blocked from accessing UFO information<sup>19</sup>.
+According to a leaked document known as The Admiral Wilson Memo, Wilson subsequently undertook his own investigation into whether a secret programme existed, purportedly recounted to [Eric Davis](/people/eric-davis) in a 2002 meeting in [Las Vegas](/places/nevada-las-vegas-usa).<sup>16</sup> Wilson said he was taking a risk talking to Davis, trusting [Oke Shannon](/people/oke-shannon)'s word,<sup>17</sup> and that Rich and Doug had vouched for Davis.<sup>18</sup> He reportedly warned that if Davis violated his trust he would deny the meeting and everything said, calling the subject "absurdly closely held".<sup>19</sup> The account describes General M. Ward suggesting Wilson search records group files in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT),<sup>20</sup> and, separately, Wilson running into [William Perry](/people/william-perry) in May 1997 and receiving the same suggestion.<sup>21</sup> Wilson was told of a special-projects record group set up in 1994 by Perry, sitting outside the usual SAP divisions.<sup>22</sup> He spoke with both Paul Kaminski and [Michael Kostelnik](/people/michael-kostelnik),<sup>23</sup> found the unusual record group and read its index abstracts,<sup>24</sup> and declined to name the compartment he found, calling it a "core secret".<sup>25</sup> The contractor running the programme was described as one of the top aerospace technology contractors in the United States.<sup>26</sup>
 
-A separate and more detailed account, known as the Admiral Wilson Memo, purports to record what Wilson told [Eric Davis](/people/eric-davis) in a private conversation in [Nevada Las Vegas](/places/nevada-las-vegas-usa) in 2002<sup>20</sup>. Davis's own notes describe meeting the recently retired Wilson on 2002-10-16 in a car in the carpark of a corporate office building<sup>21</sup>, and record Wilson arriving ten minutes late accompanied by two uniformed Navy officers while he himself wore civilian clothes<sup>22</sup>. According to the memo, Wilson said he was taking a risk in speaking to Davis, trusting the word of [Oke Shannon](/people/oke-shannon)<sup>23</sup>, and that Rich and Doug had vouched for Davis, with the Association of Former Intelligence Officers connection mattering for that trust<sup>24</sup>; Wilson reportedly warned that if Davis violated his trust he would deny the meeting and everything said, calling the subject absurdly closely held<sup>25</sup>. The memo describes Wilson recounting that General M. Ward, and later [William Perry](/people/william-perry), suggested he search the records group of the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT)<sup>26</sup>, a suggestion Perry repeated when the two spoke in May 1997<sup>27</sup>, and that Wilson had been told of a special-projects record group organised by Perry in 1994, set apart from and buried under conventional SAPs<sup>28</sup>. Wilson is said to have found the group's index abstracts<sup>29</sup> but declined to name the compartment or codename involved, calling it a "core secret"<sup>29</sup>, and to have identified the contractor as one of the top US aerospace technology firms, with an intelligence portfolio<sup>30</sup>.
+By the end of May 1997, Wilson had called Kaminski, Kostelnik and Perry to confirm he had the right contractor and programme manager,<sup>27</sup> and made calls to the programme manager, including a conference call with a security director and corporate attorney, met with confusion and a "testy" tone.<sup>28</sup> Other programme managers he contacted either said this was not what he was looking for or referred him back to the same three people.<sup>29</sup> Wilson told the threesome he wanted a formal briefing and tour, invoking his authority as Deputy Director of the DIA and J-2,<sup>30</sup> and two days later they arranged a face-to-face meeting at their facility.<sup>31</sup> Wilson flew out around mid-June 1997 (see 1997-06 investigation) to meet the same three people in a secure conference room,<sup>32</sup> where a security director, a programme director and a corporate attorney called themselves The Watch Committee.<sup>33</sup> Wilson said his security tickets were confirmed and valid, but that he was not on the Contractor bigot list, so need-to-know authorisation was not granted,<sup>34</sup> and he argued that his statutory oversight authority entitled him to know regardless.<sup>35</sup> The Committee reportedly produced the bigot list, dated 1990 and updated 1993, to argue his authority was not pertinent to their programme.<sup>36</sup> The meeting broke up after around 20 minutes with an agreement to reconvene in two to three days,<sup>37</sup> and Wilson met again with members of the Senior Review Group near the end of June 1997,<sup>38</sup> becoming very angry and yelling during that meeting.<sup>39</sup> Wilson said he came close to being disciplined over the investigation,<sup>41</sup> after Miller and Greer said he nearly "got busted" over it,<sup>40</sup> and he described himself as very angry, upset and livid about the pressure placed on him given his position of statutory authority.<sup>42</sup>
 
-The memo goes on to describe Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering program: at the end of May 1997, Wilson called [Paul Kaminski](/people/paul-kaminski), Michael Kostelnik and Perry to confirm he had identified the right contractor and programme manager<sup>31</sup>, then made three calls to the programme manager, one a conference call with the security director and corporate attorney, all met with confusion and a testy tone<sup>32</sup>. He is recorded as telling the programme manager he had read their record in the OUSDAT files and wanted to know about their crashed-UFO programme and any connection to [Majestic 12 (MJ-12)](/projects/majestic-12-mj-12)<sup>33</sup>, and demanding a formal briefing and tour on the strength of his oversight authority as Deputy Director of the DIA and J-2<sup>34</sup>. The representatives called back two days later to arrange a face-to-face meeting rather than discuss it by phone<sup>35</sup>, and around mid-June 1997 Wilson is said to have flown out to meet three people - a retired NSA counterintelligence officer, a programme director and a corporate attorney, who called themselves "the watch committee" - in their secure-vault conference room<sup>36</sup>. According to the memo, the Committee refused to disclose its special access criteria, which Wilson said made him angry and led him to conclude it operated without official oversight<sup>37</sup>, and confirmed his clearances were valid but told him he was not on the contractor bigot list and so was refused need-to-know authorisation<sup>38</sup>, despite his argument that his statutory oversight role entitled him to it<sup>39</sup>; the Committee is said to have produced its bigot list, dated 1990 and updated 1993, to counter that argument<sup>40</sup>. The meeting reportedly broke up after roughly 20 minutes with an agreement to reconvene<sup>41</sup>, and Wilson met again with the Senior Review Group near the end of June 1997<sup>42</sup>, which he said sustained the contractor's access denial and told him to drop the matter as outside his oversight<sup>43</sup>; the memo records that he became very angry and started yelling during that meeting<sup>44</sup>, confirmed he came close to being disciplined over the investigation<sup>45</sup>, and described being livid about the pressure placed on him given his position of authority<sup>46</sup>. Separately, Reverse-engineering program of recovered technological hardware (unnamed Special Access Program (SAP)) is the name given to the programme described in these accounts. Greer separately claims that when Wilson later saw the leaked NRO document Greer had sent, he was very upset that SAP project codenames on it were unknown to him<sup>47</sup>. Luis Elizondo, author of "Imminent", writes that in the late 1990s Davis met and talked with Wilson in his capacity as Director of Intelligence (J2) for the Joint Staff<sup>52</sup>.
+Eric Davis claims to have met the recently retired DIA Director on 2002-10-16 in a car in a Las Vegas car park;<sup>43</sup> his notes describe Wilson arriving ten minutes late, accompanied by two Navy officers in uniform while he himself wore civilian clothing.<sup>44</sup> As rumours of an imminent New York Times story mounted in June 2020, Wilson issued a strong denial that any such meeting with Davis had ever happened,<sup>45</sup> stating in a letter that the entire memo attributed to Davis, including its characterisation of his attitude and sentiments, was "pure fiction"<sup>46</sup> and that many of the people it names, including Oke Shannon, Mike Crawford, Linda, Rich and Doug, were completely unknown to him.<sup>47</sup> Wilson denied ever visiting Las Vegas in 2002 or meeting Davis,<sup>48</sup> saying the only time he was ever in Las Vegas was for a Carrier Air Wing Three deployment to Nellis Air Force Base in 1979 or 1980.<sup>49</sup> He said that in October 2002 he was on terminal leave, having retired from the Navy about three months earlier, and was staying at an isolated camp in Maine before starting work for Alliant Techsystems in November.<sup>50</sup> In his letter to [Ross Coulthart](/people/ross-coulthart), Wilson stated he never requested nor was denied access to supposed UAP programmes, and was never threatened over his career.<sup>51</sup>
 
-Wilson has repeatedly and categorically denied that the meeting described in the Admiral Wilson Memo ever took place. In a June 2020 letter, issued as rumours of an imminent New York Times story mounted<sup>36,48</sup>, he said the memo attributed to Davis - including its characterisation of his attitude and emotions - is "pure fiction"<sup>33</sup>, that many of the people it names, including Oke Shannon, Mike Crawford, Linda, Rich and Doug, are completely unknown to him<sup>34</sup>, and that while he did occasionally meet some of the people named, never on anything related to the memo's content<sup>35</sup>. He wrote that the memo describes alleged efforts to gain access to Special Access Programs that never took place, and that he never made such a request<sup>42</sup>, denied ever visiting Las Vegas in 2002 or meeting Davis at all<sup>43</sup>, and said the only time he was ever in Las Vegas was for a Carrier Air Wing Three deployment to Nellis Air Force Base in 1979 or 1980<sup>44</sup>; he added that in October 2002 he was on terminal leave, having retired from the navy roughly three months earlier and staying in Maine before starting work for Alliant Techsystems that November<sup>45</sup>. He told Coulthart directly that the meeting never happened and that the memo is a lie<sup>39</sup>, and has stated he never requested nor was denied access to any supposed UAP programme and was never threatened with losing his career<sup>41</sup>. For well over a year after the memo was first published online, Wilson made no public comment on it at all<sup>40</sup>. Physicist [Harold E. Puthoff](/people/harold-e-puthoff), asked about the memo in February 2020, said it had been leaked online and that Wilson was one of the joint chiefs of staff interviewed by his colleague Eric Davis, but declined further comment because it discusses potentially ongoing programmes<sup>46</sup>. Oke Shannon told journalist Billy Cox he did not know the document's provenance or whether it was genuine, but said he knows both Wilson and Davis and considers Wilson an honourable man<sup>36</sup>, and did not deny having facilitated a meeting between the two or that it happened<sup>37</sup>. Coulthart, weighing the absence of any senior Defense Department official, Davis, Wilson or Puthoff going on the record to confirm it, concludes the memo's claims must be treated with extreme scepticism, as a hoax document until proved otherwise<sup>48</sup>; he notes that no one who should know about the meeting was prepared to confirm it on the record<sup>49</sup>, and that Wilson, his former Defense Department colleagues, and Willard Miller have all cast doubt on the memo's authenticity<sup>50</sup>.
+No one with direct knowledge of the purported meeting was willing to confirm the memo's authenticity on the record,<sup>52</sup> and Wilson, his former Defense Department colleagues, and Willard Miller all cast doubt on it.<sup>53</sup> Coulthart concluded that, absent a senior Department of Defense official, Davis, Wilson, or [Harold E. Puthoff](/people/harold-e-puthoff) going on record to confirm the memo, its claims should be treated with extreme scepticism as a hoax document until proved otherwise.<sup>54</sup> Asked about the memo in February 2020, Puthoff said it had been leaked on the internet and that Wilson was one of the joint chiefs of staff interviewed by his colleague Eric Davis, declining to comment further.<sup>55</sup> According to [Luis Elizondo](/people/luis-elizondo), Eric Davis met and talked with Wilson, then Director of Intelligence (J2) for the Joint Staff, in the late 1990s,<sup>56</sup> and Wilson confided details of his encounter with the aerospace contractor to Davis, never speaking of it again even after the memo leaked.<sup>57</sup> Tom Wilson has categorically denied that the meeting with Eric Davis described in the memo ever happened.<sup>48</sup>
