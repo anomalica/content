@@ -1,24 +1,23 @@
 ---
 title: United States Navy (USN)
-description: The United States Navy is a US military service branch whose pilots,
-  ships and radar systems have produced some of the most closely examined evidence
-  in Unidentified Anomalous Phenomena research, including the 2004 USS Nimitz encounter
-  and the Gimbal and Go-Fast videos.
+description: The United States Navy is the branch of the US armed forces at the centre
+  of the best-documented military encounters with unidentified anomalous phenomena,
+  including the 2004 USS Nimitz incident.
 metadata:
+  founded: '-'
+  headquartered: United States
   type: Military service branch
-  country: United States
-  parent_organisation: United States Department of Defense (DoD)
 built_from:
-  brief_hash: cb99bbb71788fb2b7b9c1ab20b63af37f11c0142e261432a931753a7a3a3a725
+  brief_hash: c07541e2f7e2f293d450af03120ba587d623a35da03d7ac2f7520248cb949417
   claims:
   - id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
-    hash: 02bba4c747334a8082013e7251764566634085090d9528aba87891e0a142cceb
+    hash: 243d79d6462882d0f029068145753afdb83fdc88fd87eb471baa4738863733ef
   - id: dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
-    hash: 0fd9e9c22a135d8d70dc300965c162cd8b97ee1a90b93162a515ab0eb7cbd47b
+    hash: 30c902f446822c50e0214302b68278c18b1657368c4087f9e68c0777dfb286ae
   - id: 4e02e319-a5b1-45e3-b0f6-85168df762f9
-    hash: cf942d72120764acfc1efb6c007e7f18c8ef36c922bbaee46fa3c2a537742535
+    hash: a114a8397770ff79607fb0e2ce7dfc9664f7ae8c4c5f0909df096db0ec9f7de3
   - id: 12562420-45b9-4777-9916-02d408cd9c84
-    hash: fd7f54e7ef9d3196d957832df451b67d7cb64440a2800ef1599342c1bd704293
+    hash: b043f148a249193a15d9925fa17df74d6d09091fdd74b093a5d441dd555a64fe
   - id: 57d26712-d36e-4514-afcb-ae9c7918ec53
     hash: a61b65d3eb28b8c7623a737dfd0761a0e7835a8977a4f38c22e07b9a2658a965
   - id: d3b50cec-f0e0-45a5-a0f2-6f0ef2343eda
@@ -58,11 +57,11 @@ built_from:
   - id: f59adb3f-02f6-4367-a3e9-c7054271bf44
     hash: acd04623658a3a83b23c41394a006acc3b4ccab36bb90cd38a4910a8b41faaba
   - id: 8d541d40-5755-47f7-a8d9-5720bae504b1
-    hash: ac0216594e1af8f6e9d555f771ff9b013a8b79a63ef07f9b91e8fe89ed3d2d2f
+    hash: c9a92f95b275b28f4e4b7bb20edcc4ce21cfc7dd7d7cdbe0f181c6d92366c062
   - id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
-    hash: aa13cf553a1d5e8d47691c331c7e20e0a470389b622fee73f9118602872c8368
+    hash: 2a3b419fb87592840031955f46b18f994cb7059807c60ec7430f3662d72899c8
   - id: acb0fad3-096d-4421-adbd-d57b7eea8cb7
-    hash: 60fc6693fb574af0e722ab76ece511773ed17947400a0ff0045fa5d34b3deab7
+    hash: 63fdd98cd27cb2744c5b335aa3e8ea82ee64f8b5ee401936fd349251603bd59c
   - id: a7e6afb1-9b57-4265-b351-6a15eca3a219
     hash: 0fa525a71b1758bb1f071ab9d1b931402481894fbb3e15d3422b5ecb94d85ed1
   - id: 7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
@@ -138,11 +137,11 @@ built_from:
   - id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
     hash: 9ba3007cf63b9a51ea2977c9588677e5be3e3b223b0d0282968911a38a7ce6b8
   - id: 9822d0ce-80a0-495a-ac55-f3efd95a78ff
-    hash: 92f6aa6537b7a3d9cc190e395485d3c05ca67c2f34cc42dc39f665448d8a8fb3
+    hash: a6e821ae6b538f4e768879039e0eb5ee97336baf1aec0617f9fe8611bd8f6f8a
   - id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
     hash: 643f2794c6b9251fcf502d5e5c59c5d84b129d3667f2606c6288385a15e3baa5
   - id: 21ef2675-69ff-4930-8f46-412a4963db5c
-    hash: 6837f2c6154e0f30006d1f93c62cf923ef36850a5d2ea58b845b0c0896dd4760
+    hash: 342c7bf4f7679f3e99f138933d444e67d2552bdb69fc125197ab2d5d2f01e0f7
   - id: 1f492f21-397f-45a8-82b1-0a4f5c28c5a3
     hash: 03f9bd93854bb3d168ee6201ccc964ec61ab114c0ce8645e80ad6bd927c2f25e
   - id: 2207fbaa-60b6-42bd-be87-0933d1053bd4
@@ -160,13 +159,13 @@ built_from:
   - id: 87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
     hash: 6476559a55d40aec7adad0f065f7e4b5a8af84c73af1e55c93599bebc7983c50
   - id: 3260b102-02ed-45fc-ae73-346faf4b2b41
-    hash: 83e3d50e47fdd7064d73cf5fc63ed1de5582633762c4c94b1857f9aa567628fe
+    hash: d3d2b65a2ad2006f51ec48626aab694021027db23187c12f81eac9e5006baefe
   - id: 7767d417-796b-420b-96ea-2890e2f526de
     hash: 42cfc6b15e70eb2ea0664dd2416a6a9a187bc34853fbe4f5ba7698bf0711bf7e
   - id: 1aa15e52-2e21-4f82-9d76-12e9f6e87645
-    hash: ec5289c3a7aa22eeda96a9e6c98fe29fe78856fae14c317ad2b4ed163bd3d0b2
+    hash: ad1efc39e63615d690f458df670a9c392ee9bc7c1ed3f795f1f4168793c13eac
   - id: 63add907-4914-4ef1-b520-f40dd58f56e0
-    hash: 8be34e0ea0378b2864997a6b9ef04b46c58ccd571d7571088f9de575d47c7a10
+    hash: 1c36f83bdaf0de90eb5a58bd895a4f7fb1bdeea8f6e8a65e5f72dad9463b581a
   - id: 7d6f7d15-a581-4aad-9505-74f3ca7d1402
     hash: 45daaf22fdf2fa08ba3d3248511ac7bfbf78a65e0135bae10850424ece20892f
   - id: f2d96753-56c5-4d6a-a678-23dd90595ad6
@@ -174,7 +173,7 @@ built_from:
   - id: be23951b-f549-4fb1-838c-ec13a1ea6b55
     hash: bd17026f3095415968217b68d041bd119aa35a39953122b35403ee96410b12da
   - id: 5c817205-d557-4f48-aafd-687ac99993da
-    hash: 36db37e467eda099f1c43894515b031134cdee020ec6929759154c2fcc31352a
+    hash: c20be74eb08e3c43e52aaa889f35c621b20b7fd3c0646153d17d8aea1ef8e725
   - id: c98c12c1-f605-4356-950d-22b74e70ce8b
     hash: aa8f111052479f1932f5ac8f7f4d9b5239ec6256a108c2900788d64d73b59f01
   - id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
@@ -208,13 +207,13 @@ built_from:
   - id: bb52c24d-5294-4f68-80b7-6fe234a1cb2d
     hash: d809319e878345d29a85113dcfad551bcdc50b7b40175fd668f12b2647e45941
   - id: 27733273-96cf-4c9d-81f2-811264ea757d
-    hash: a5a8d04bd5ccbb00310c0d8a0cdc81c91d0e8e5a236a755b5c77f0565c2feb74
+    hash: 1a4fc9e25a85011674959b1fa701d3e7a0ad24820510061b64cbfb3a9248d739
   - id: 0850e108-9710-4a09-9323-2b500d8873c4
     hash: ce9df9a1dfd6d4b356d7ade6a22f572c5d19e6319aadda7774d74ff0b4381a77
   - id: a67b6d8d-c5ac-4e5e-b7c6-00995f6cb201
-    hash: fd15769986e8e4e8bae39d4cb587c69e18c9e1075848f8385adabd81399831d3
+    hash: 1d559de9ec6e78fc45f827f151e64dcbbdd6e714d6a1593b5ef606734bff3ae5
   - id: 7b28df71-9f02-4850-936b-1f2cb8498424
-    hash: 44256011898c2e0d5e74ac10e9bb5f984effdf468f958342c326ceb1c95d4dab
+    hash: b0124ac7b12344cb1dc163f2a94b134b3e6b1c9a39c043190e3c2ef132eeccd8
   - id: 24a28fa0-b050-47fb-9131-c25b871fe648
     hash: fc5ac9c02ab59dc6c65251a8dd8af9b04729ed0c73b702d74fd9411061fcf9ac
   - id: a99be095-8359-42b8-a32f-68d7ef763a65
@@ -222,19 +221,19 @@ built_from:
   - id: 0f32aa95-b986-4f9a-89b3-f218d4635dc0
     hash: c6b1994f37139e92ebf73846185e207a260a117e263194fda4678eca6a0190bd
   - id: 070b7859-16a9-4f0b-a02a-9cc69ac17683
-    hash: 433e810a0c6fe67c6cd099ea0c19bff6a68a020e3b94fbf045c3c98709d64f3d
+    hash: 4da193e359f769fa641c37b69178454ccf90575b93f11c0631ee4744d1578c69
   - id: 402cc7a6-d6ae-488e-9449-45e978d92b63
-    hash: 048001bde811c5d516efde79611916558d4357c71bdaae41ba499159e9d2a54e
+    hash: 29b6c4f23b8a805b3d4147ff25bc77871c844b3df8da0d31e95da9e2720d6fad
   - id: 431bdb4c-7314-4a1a-9117-8cb5db605562
     hash: ae3a6b02e7a25416c04a6eb53829d2e34c981809b964f35dc2c64a6ab2761ab6
   - id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
     hash: bc3a53203c475dad61f234aa70979237dfd577223ac09c8af223e1300dc80c07
   - id: 75e73ea1-13a2-4506-b3f1-67a04e9cf81e
-    hash: 7e1da343a182de67ee5098f1711dba625d35551b7edb2c675411ce71f54c580a
+    hash: 35a668967416a2dab522d57b773941ff822563d5861fd3402656cdbe0d83ee6d
   - id: 00b6f56c-32f7-43e9-8cbf-bc9f81c1fa5d
-    hash: cbe782918e5c78444dc6b8f8553cfe6d40feb91fbd2f2d57b245b640d0a552bc
+    hash: 85bb910cd83e08a07956bebc7bab8147be5d0c39719284a76abe432a11c58e03
   - id: 961496b0-9ea0-4dc2-a944-062cff3e84e8
-    hash: 10d69648747bdb6ef5c3a678d3ef08add7c616b852aa462ef2c3a0338ae9bc56
+    hash: 0b754bde62adc4e04ea3dfe6e344fd645cbca979edfed53d2fcd62509d2c8be2
   - id: f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
     hash: 3ab032afd0a8dd7c9f126fd8e796d3d5393b47044953fa41deb74d0f8486af4f
   - id: f66c86f4-cc07-4c4b-a267-7decee52d115
@@ -264,7 +263,7 @@ built_from:
   - id: 10946962-f068-40d1-a000-9adec8674c5b
     hash: 2a8dd5f4c2b6af0677cd59b9c22f8abd2dde7096b4a783853defe8618782163e
   - id: 410a7798-1604-4818-82cb-7b8587d33096
-    hash: bf85527de2b588b5939dfaf359796da1a8d37b808e96fb60510c9e2e91b8d7d1
+    hash: 797bb305562ef7e1919f5fe0b982de6ba03112fb34201823938c0e439eba3d97
   - id: 0f804d6a-5986-4480-ab0b-8f79784e54a8
     hash: f5b16d795ad1f5704654833aaf4cedd5d7b3ced195fefdffd41b70dff44e19b5
   - id: 67f2e083-f7a7-4edb-933d-a721b7394c80
@@ -272,9 +271,9 @@ built_from:
   - id: 2d33ecec-0269-41e3-8c4e-c9f75ee44201
     hash: 0bcbcf0b1dd4129d037e80145a63644863d51252904fd035ede6246c4b1c60b1
   - id: ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
-    hash: a230c741812f5bbbe3501552ce59bee7a345167d4a690f5d6dffbc6fefecf59c
+    hash: dfcf7032212e86a72146a2e8651837ba3ebc6ab6e5798d5d706bde6ee0170f0f
   - id: 11e5616e-a547-42ad-9d41-9c8b6a14fcf6
-    hash: e61fc8c4040c18ea08eef3e1863eb9ea34f0113cdf9a1cf326d6d3e918741488
+    hash: cfcbab3adbc05ea89bb6c05197b288b2cfc5f5a91a7dafb61875e1bb68fbe971
   - id: d66378d7-f3a2-4754-97ed-7e2be8a7fcd6
     hash: 5a20c4c774a2d360f447d23f823644cbd0cc17340c06507102f6765107266898
   - id: c41bafd0-251c-46a9-bae9-5cb418e00050
@@ -294,7 +293,7 @@ built_from:
   - id: 68cb4858-dcf4-4f58-b31f-879000bc6702
     hash: 1d4fd89cbd34d2885054e20209c9a6a1d8d95006c3dc9333aafb667b18828122
   - id: 0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
-    hash: 8afc3cb2e4fb472b88e65eaef4590a84d424913318643d2efc82f18ac987f954
+    hash: c4778baddb1b3ec70e9a4cb40ada3c23766ea6525dd04137bfea0a12a486b295
   - id: f5abb677-84d0-4e65-9cc1-2d66e334cb9b
     hash: 64163b8ea8cbe5d50101c5a04720714ff73603ffd542c6d3e7992b4642104f34
   - id: e080de6a-c5bc-416a-9554-74081029003e
@@ -302,13 +301,13 @@ built_from:
   - id: da64f750-ba38-4ff9-8c78-141d0fa89e10
     hash: dc7d7ee9cfe23ab098bb8ab6c8772ddac91d5841f4d464dec8dd58bf067c96ab
   - id: 9659319f-4ea5-4889-9c64-6de4cca851ba
-    hash: db80b2fa02d84dc35bfa3c26bf1de2eaaecf9c50160821ea8fb6ee1130d09a48
+    hash: 33ba19173909b103c21e73b9d3d2065b23936840ecc56b405f1d14b36181c4e8
   - id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
     hash: 07852546af05ecceb706f59952e4abd21724a52261a30bb70f3dd7692e3b2adf
   - id: b27f24fc-534e-4173-9d67-ac65f59470a5
     hash: 2e6f8f6b1a4d7d963cf101566727b1d66791e5383187bde897d284b0f259496c
   - id: a06a9550-5728-49f7-9a71-bc443bc03f18
-    hash: 980f3dd8aed2bf0c4ae5a8fd034c506a207c7a08652ee027270c034010089334
+    hash: a081b8791b1906af615b2a8ae0f7e0772a9beb59f6b0d2d85e68661a287c5fe7
   - id: a5c8ecbe-8ca4-498a-9572-98f283d7d4d9
     hash: d1b38b8f343046b5f8c45426ae626e4a515c2eb2c6e470f2ff4fcb9fbb504046
   - id: d2c12633-2742-43d0-b989-730c0323aa5b
@@ -316,29 +315,29 @@ built_from:
   - id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
     hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
   - id: 768d223c-de77-4f83-a868-2d7927737b9a
-    hash: 1799d54f1240590b71a9722386dfb57ba856f64d10628cab9adc37be83d06dfd
+    hash: d8b1bcd64027a09bd2a99a574901b40e1b935f8619fde02d048e3af6e534dc0b
   - id: 9d5ab014-c7a0-4c61-a413-2795a483a647
     hash: 1675c740202f56d690ce6afc1b1df5901f858b8e8bc75a9ed9718d549cc79b02
   - id: c2fc586b-b09f-4e28-8f92-0170a5c958e1
-    hash: aa7248e939777aa796beaac3245e4bd2b744200e03bbf96c2fd1f4bd7f83895e
+    hash: 407cbb6b6eb0ea20a197072a9ae13147225ad79aad5106188ff5ec2cdad43697
   - id: 7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
     hash: 05fb6c250c030e51f218376793f83914a7411c98f2227c919b19bd338f1efb42
   - id: b8373943-84a1-48f6-8d54-bcb239ce88bb
-    hash: 7a5384b9d7ab47938bfcb52d35d1c34503f1a0819ff7d2b3daf2c5af1d5aa99e
+    hash: fac8e5ba647e802a0f6e79d9639aaa035c15d5692fb93651ffc11656a368b225
   - id: 2de42595-42ac-42f3-9f83-82ba5644d547
-    hash: 32cd25ef59ba3113970f77b108518b355f6d724c8956c10dea37fe06f91aa475
+    hash: c63922e05b433e9da3dd6bc52503097eeb9170e56c83bef4ea5fdd079d51cc77
   - id: 72dc7f18-1fef-45bc-98ba-ba421570d4f7
-    hash: fd7daf20e1e5270e981a95788c90c1666eca1be46f1161db30f04c1b858b631e
+    hash: 9cf90dc6ca8c1615d7479be6d600b695845097ba495d2ba8a20f169332adc967
   - id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
     hash: c93c27fdde63f2849d4d564dcb2c888a0c190d6bb01d21da5aeb20c7d260f101
   - id: a87f59c7-919f-43ec-af10-599d7c5785f7
-    hash: 3b1822bbfa5a8815bce7da6953fdedd2228a871bb45c49b696e90b98a34d90c1
+    hash: 3dd33765b520d09596f0f82f828fcbf52ea9ca5884dbd9e29f9207f1e423c2a2
   - id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
     hash: 2bb340ba3b2cac32501e17160891a8fd378bc5a954895793b9fab877f8e275ed
   - id: cdc362b8-15c9-41d0-939d-1eb085522c50
-    hash: bf1a7060889e98bc729c54c81dca1bce817c4d6f23b01a61597e00284b6d6d5d
+    hash: 9b910716309a9befb471ffc0b942172691c42469c5404c4f38183d03ac37ad0d
   - id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-    hash: 81ac40be0b57a67d50529e76104c8613062f92af550cec8b8502996b3ff9aa17
+    hash: e235e2fbf3a9695998316ec09b9b549f11e6e92d7b76a7781ffba97ae5a02166
   - id: b22cf3e4-ff86-4cc6-b789-a57b1572557a
     hash: 675f6baeb62d2c37b9f833b53f8ac05d49a0769e9ef0b2d1465e40efe2b3689d
   - id: 63b1526c-a4b6-4214-950e-85ccce69df5f
@@ -354,7 +353,7 @@ built_from:
   - id: f230d62b-d3ce-46da-86a3-d4eff8df607c
     hash: 3d90faf0363185049afbfc4e54ef593f3503345043889742a95d70b59f8d3448
   - id: 71d963fc-908f-4c3e-bc86-537e69954eb9
-    hash: e0bc177524b89d80c63c3042fdbb84618e26dfad859c218aacf7393e292fb9ef
+    hash: a54df28c15971d1f511d55706b93ab0f2de462a4551fdca914e405b0096c2466
   - id: 9fc08090-35e4-4082-998a-15869b238440
     hash: c9ebe91152f4d02e32bf21ec8ebd8cd0168018219045b1354850d853f3cc61b8
   - id: 52bd9cee-55bb-4fee-95a4-2b9171e0cfce
@@ -368,32 +367,28 @@ built_from:
   - id: ee834dfb-a57f-4f9f-b5c9-7667822499ae
     hash: d365aef5c223ac9737bc02c5881627a09d747f456eec74d2c73ecd133191fdaf
   - id: 0bf87759-7f6b-4f16-8adc-af0ee459ce4f
-    hash: 7b8ba0c7e81c0bb96096f3357a9b66b33bd64790e69b904f79c887824f84a462
+    hash: f546d1dad13dd8ef0a6e91130b93961428497d6f878f58a494a79dc5c8ab8d10
 references:
-- text: In September 2019 the Navy formally acknowledged it could not explain the
-    UAP its pilots were witnessing
-  source: In Plain Sight
-  location: ch22:10215-10435
-  quote: It took until September 2019 for the navy to formally acknowledge what everyone
-    had long taken for granted – that it could not offer any satisfactory explanation
-    for the phenomena its pilots are still witnessing to this day.
-  claim_id: 9822d0ce-80a0-495a-ac55-f3efd95a78ff
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
-- text: The Air Force and Navy have been at the forefront of developing UAP reporting
-    policies and mechanisms
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:1037-1158
-  quote: Also, the Air Force and Navy have been at the forefront of developing policies,
-    procedures, and mechanisms for reporting UAP.
-  claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
-- text: Two Navy F/A-18s from the USS Nimitz intercepted one of the objects at close
-    quarters in perfect visibility
+- text: David Fravor was a United States Navy pilot for 18 years.
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:00:01.6-00:00:05.1
+  quote: Commander David Fravor, who was a Navy pilot for 18 years
+  claim_id: 0763f244-8a7c-4d68-8308-b124063abbbc
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0763f244-8a7c-4d68-8308-b124063abbbc
+- text: Christopher Mellon arranged for Navy aviators to brief members and staff of
+    the US Senate Armed Services Committee.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:22535-22618
+  quote: we arranged for Navy aviators to brief Senate Armed Services Committee members
+    and staff
+  claim_id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
+- text: Two US Navy F/A-18s from the USS Nimitz intercepted one of the objects at
+    close quarters in conditions of perfect visibility during the 2004 encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:8066-8195
   quote: two US Navy F/A-18s from the *Nimitz* managed to intercept one of these strange
@@ -402,39 +397,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
-- text: David Fravor was the senior pilot in the air and considered one of the best
-    Navy pilots
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:3904-4034
-  quote: The senior pilot in the air that day was Commander Dave Fravor, who was considered
-    one of the best Navy pilots.
-  claim_id: 9659319f-4ea5-4889-9c64-6de4cca851ba
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
-- text: Fravor had commanded his squadron for one month and was the most junior O5
-    commanding officer in the Navy
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 02:52:37.2-02:52:53.5
-  quote: I had just taken over. I had had the squadron for a month, right? So I'm
-    a brand new CO. I'm the most junior guy as far as a commanding officer goes...
-    And actually at the time, I think it was the most junior CO for 05 Command in
-    the Navy, right?
-  claim_id: 7dff5ba0-4f25-4035-87fa-271c84010d62
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-7dff5ba0-4f25-4035-87fa-271c84010d62
-- text: Lieutenant Junior Grade Alex Dietrich piloted the second F/A-18 Super Hornet
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:4687-4804
-  quote: Making up the other half of the team was another US Navy F/A-18 Super Hornet
-    piloted by Lieutenant Junior Grade Alex Dietrich
-  claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
-- text: The cap point was approximately 97 kilometres away, known only to a handful
-    of Navy personnel
+- text: The cap point in the encounter was an aerial rendezvous point approximately
+    97 kilometres away, known only to a handful of Navy personnel and pilots.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:53.9-00:17:03.3
   quote: The cap point was an aerial rendezvous point 60 miles away, known only to
@@ -442,19 +406,9 @@ references:
   claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
-- text: After the encounter the objects resumed tracking south at approximately 185
-    km/h
-  source: In Plain Sight
-  location: ch16:15828-16024
-  quote: They resumed tracking south at a gentle 100 knots as if nothing had happened,
-    as if a dogfight with the US Navy was a minor distraction to their high-altitude
-    afternoon cruise.
-  claim_id: 322a08a7-1c97-40dc-816b-9afcdc766717
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-322a08a7-1c97-40dc-816b-9afcdc766717
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-322a08a7-1c97-40dc-816b-9afcdc766717
-- text: The object was recorded on cameras and USS Princeton radar; confirmed anomalous
-    by the Navy
+- text: During the 2004 USS Nimitz encounter, an object was recorded on the pilots'
+    cameras and on the radar of the USS Princeton, and the event has been confirmed
+    as anomalous by the Navy.
   source: The Fourth Mind
   location: ch21:10431-10681
   quote: During the 2004 encounter between pilots and personnel of the US aircraft
@@ -464,88 +418,41 @@ references:
   claim_id: 9fc08090-35e4-4082-998a-15869b238440
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9fc08090-35e4-4082-998a-15869b238440
-- text: To The Stars Academy initially revealed little about the Gimbal object beyond
-    Navy pilots videoing it
+- text: In September 2019 the Navy formally acknowledged it could not offer a satisfactory
+    explanation for the UAP phenomena its pilots were witnessing.
   source: In Plain Sight
-  location: ch21:21553-21724
-  quote: TTSA initially revealed very little about the Gimbal object other than that
-    it was seen and videoed by US Navy fighter pilots at an unspecified location
-  claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
+  location: ch22:10215-10435
+  quote: It took until September 2019 for the navy to formally acknowledge what everyone
+    had long taken for granted – that it could not offer any satisfactory explanation
+    for the phenomena its pilots are still witnessing to this day.
+  claim_id: 9822d0ce-80a0-495a-ac55-f3efd95a78ff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
-- text: The Go-Fast video lacked detail beyond being shot by a Navy F/A-18 using its
-    ATFLIR pod
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
+- text: On 27 April 2020 the Defense Department officially released three UFO videos
+    taken by Navy pilots in 2004 and 2014-15.
   source: In Plain Sight
-  location: ch21:22340-22541
-  quote: It also lacked any details on when or where it was shot, or who shot it,
-    other than that it was captured by a US Navy FA-18 fighter using the jet's advanced
-    targeting forward-looking infrared (ATFLIR) pod.
-  claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
+  location: ch22:16462-16616
+  quote: On 27 April 2020, the US Defence Department officially released three of
+    the previously published UFO videos taken by the US Navy pilots in 2004 and 2014–15.
+  claim_id: da6db569-14cd-4ee6-b4c5-72476fe6baca
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
-- text: Elizondo attended a meeting with Navy, CIA and NSA officials where the Go-Fast
-    and Gimbal videos were shown
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch23:21631-21748
-  quote: A few months later I was sitting in a room with high-level Navy officials,
-    CIA reps, and someone from the NSA... we rolled the tapes.
-  claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
-- text: The DoD authorised release of three unclassified Navy videos
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: char:130-210
-  quote: The Department of Defense has authorized the release of three unclassified
-    Navy videos
-  claim_id: a7e6afb1-9b57-4265-b351-6a15eca3a219
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-a7e6afb1-9b57-4265-b351-6a15eca3a219
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-a7e6afb1-9b57-4265-b351-6a15eca3a219
-- text: One of the three videos was taken in November 2004
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: char:218-240
-  quote: one taken in November 2004
-  claim_id: 7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
-- text: Two of the three videos were taken in January 2015
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: char:249-274
-  quote: the other two in January 2015
-  claim_id: 276c7d71-414d-463e-9688-f4b0927ad16b
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-276c7d71-414d-463e-9688-f4b0927ad16b
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-276c7d71-414d-463e-9688-f4b0927ad16b
-- text: The videos had circulated publicly after unauthorised releases in 2007 and
-    2017
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: char:280-369
-  quote: which have been circulating in the public domain after unauthorized releases
-    in 2007 and 2017
-  claim_id: 828feb31-4e4d-497b-90f2-bacde3dbaa6b
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-828feb31-4e4d-497b-90f2-bacde3dbaa6b
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-828feb31-4e4d-497b-90f2-bacde3dbaa6b
-- text: The Navy previously acknowledged the circulating videos were indeed Navy videos
-  source: Statement by the Department of Defense on the Release of Historical Navy
-    Videos
-  location: char:375-481
-  quote: The U.S. Navy previously acknowledged that these videos circulating in the
-    public domain were indeed Navy videos.
-  claim_id: 3325008c-1c35-40be-bc00-02865258fe6d
-  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
-  workbench_url: http://localhost:5173/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-3325008c-1c35-40be-bc00-02865258fe6d
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-3325008c-1c35-40be-bc00-02865258fe6d
-- text: After the translucent soap bubble incident, Graves's squadron filed a safety
-    report but never heard back
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da6db569-14cd-4ee6-b4c5-72476fe6baca
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da6db569-14cd-4ee6-b4c5-72476fe6baca
+- text: Joseph Gradisher said the Navy has not publicly released characterisations,
+    descriptions, or conclusions regarding the objects in the Tic Tac, Go-Fast and
+    Gimbal videos.
+  source: In Plain Sight
+  location: ch22:10667-10834
+  quote: ‘The Navy has not publicly released characterizations or descriptions, nor
+    released any hypothesis or conclusions, in regard to the objects contained in
+    the referenced videos.’
+  claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
+- text: After the translucent soap bubble incident, Ryan Graves' squadron filed a
+    safety report to the Navy but never heard back.
   source: In Plain Sight
   location: ch22:2908-3074
   quote: After the translucent soap bubble incident between the two F/A-18 jets, Lieutenant
@@ -555,29 +462,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
-- text: Ryan Graves is a former Navy F/A-18 Hornet pilot with a decade of service,
-    two deployments
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:31727-31909
-  quote: My name is Ryan ''FOBS'' Graves and I am a former F–18 pilot with a decade
-    of service in the U.S. Navy including two deployments in Operation Enduring Freedom
-    and Operation Inherent Resolve.
-  claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
-- text: Ryan Graves was trained as an aviation safety officer by the Navy
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:139883-139934
-  quote: I was trained as an aviation safety officer by the Navy
-  claim_id: 40cf93fd-9c76-4eaa-acb1-967992b4a17e
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
-- text: The Navy implemented a Range Fouler Report to gather pilot information on
-    UAP encounters
+- text: Ryan Graves said the Navy has implemented a Range Fouler Report to gather
+    information from pilots regarding UAP encounters on training ranges.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:103372-103525
@@ -587,62 +473,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d66378d7-f3a2-4754-97ed-7e2be8a7fcd6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d66378d7-f3a2-4754-97ed-7e2be8a7fcd6
-- text: Navy statement on reports of unidentified aircraft in military ranges, investigated
-    jointly with the Air Force
-  source: In Plain Sight
-  location: ch22:15567-15918
-  quote: ‘There have been a number of reports of unauthorised and/or unidentified
-    aircraft entering various military-controlled ranges and designated air space
-    in recent years,’ a navy statement said. ‘For safety and security concerns the
-    navy and the [US Air Force] takes these reports very seriously and investigates
-    each and every report.’
-  claim_id: 1f492f21-397f-45a8-82b1-0a4f5c28c5a3
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1f492f21-397f-45a8-82b1-0a4f5c28c5a3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1f492f21-397f-45a8-82b1-0a4f5c28c5a3
-- text: Bryan Bender reported the Navy was drafting new UFO reporting guidelines,
-    April 2019
-  source: In Plain Sight
-  location: ch34:48339-48430
-  quote: Bryan Bender, 'U.S. Navy Drafting New Guidelines for Reporting UFOs', Politico,
-    23 April 2019.
-  claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
-- text: Congressman Mark Walker wrote to the Secretary of the Navy on UFO sightings,
-    2019-07-16
-  source: In Plain Sight
-  location: ch34:47367-47457
-  quote: Congressman Mark Walker, Letter to Hon Richard Spencer, Secretary of the
-    US Navy, 16 July 2019.
-  claim_id: f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
-- text: Walker asked what resources the Navy dedicated to investigating sightings
-    and whether evidence existed
-  source: In Plain Sight
-  location: ch22:8672-8906
-  quote: He queried what resources the navy was dedicating to investigating the sightings
-    and he asked if any physical evidence had been found to substantiate the claims,
-    or whether foreign adversaries or private companies have developed this technology.
-  claim_id: 7767d417-796b-420b-96ea-2890e2f526de
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7767d417-796b-420b-96ea-2890e2f526de
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7767d417-796b-420b-96ea-2890e2f526de
-- text: Navy Undersecretary Thomas Modly said the Department of the Navy takes UAP
-    reports seriously
-  source: In Plain Sight
-  location: ch22:9474-9674
-  quote: He was told by Navy Undersecretary Thomas Modly that ‘the Department of the
-    Navy takes these reports very seriously and continues to log sightings and fully
-    investigate the accounts’.
-  claim_id: 63add907-4914-4ef1-b520-f40dd58f56e0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63add907-4914-4ef1-b520-f40dd58f56e0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-63add907-4914-4ef1-b520-f40dd58f56e0
-- text: After 2012, Elizondo worked with Navy and CIA officials on AATIP
+- text: After 2012, Luis Elizondo worked with officials from the Navy and the CIA
+    on the Advanced Aerospace Threat Identification Program.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
   location: char:5628-5728
@@ -652,41 +484,22 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-- text: OUSDI located a classified email in which Elizondo sought Navy help declassifying
-    videos, 2017-12-18
-  source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-  location: char:8432-8612
-  quote: On December 18, OUSDI located a classified email generated by Mr. Elizondo
-    in August 2017, in which he requested assistance from a Navy civilian employee
-    to declassify one or more videos.
-  claim_id: 11e5616e-a547-42ad-9d41-9c8b6a14fcf6
-  record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
-  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
-- text: Navy intelligence leadership tasked Jay Stratton with building an interagency
-    UAP task force
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch31:4612-4909
-  quote: leadership in Navy intelligence, who understood the national security threats
-    related to UAP and now felt public and congressional pressure to do something
-    about it, tasked Jay with quietly building out a whole-of-government interagency
-    task force, a program with more authorities than AATIP ever had.
-  claim_id: b8373943-84a1-48f6-8d54-bcb239ce88bb
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
-- text: Christopher Mellon arranged for Navy aviators to brief the Senate Armed Services
-    Committee
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:22535-22618
-  quote: we arranged for Navy aviators to brief Senate Armed Services Committee members
-    and staff
-  claim_id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
-- text: In April 2016, Navy engineer Salvatore Pais filed a patent for a gravity-wave-driven
-    spacecraft
+- text: Elizondo said, in his October 2017 resignation letter, that more serious attention
+    was needed for accounts from the Navy and other services of unusual aerial systems
+    interfering with weapon platforms.
+  source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
+    (Published 2017)'
+  location: char:12007-12269
+  quote: Mr. Elizondo, in his resignation letter of Oct. 4, said there was a need
+    for more serious attention to “the many accounts from the Navy and other services
+    of unusual aerial systems interfering with military weapon platforms and displaying
+    beyond-next-generation capabilities.”
+  claim_id: 8d541d40-5755-47f7-a8d9-5720bae504b1
+  record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
+  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8d541d40-5755-47f7-a8d9-5720bae504b1
+  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-8d541d40-5755-47f7-a8d9-5720bae504b1
+- text: In April 2016, Navy aerospace engineer Salvatore Pais filed a patent application
+    for a spacecraft driven by gravity waves.
   source: In Plain Sight
   location: ch28:1487-1758
   quote: Yet, within just eight weeks of the announcement of this momentous breakthrough,
@@ -697,8 +510,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae55a433-f3dc-45a6-9746-04db031c17e7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ae55a433-f3dc-45a6-9746-04db031c17e7
-- text: The Navy vouched for Pais's hybrid craft patent application after its initial
-    rejection
+- text: When the Patent Office initially rejected Pais's hybrid craft patent application,
+    the Navy vouched for his work in an appeal letter.
   source: In Plain Sight
   location: ch28:12868-13064
   quote: the approval of the patent for the hybrid craft in particular is so controversial,
@@ -708,8 +521,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7426bc13-cb28-479c-81a3-04a2e7bfd5ae
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7426bc13-cb28-479c-81a3-04a2e7bfd5ae
-- text: The Navy secured Pais's Electro-magnetic Forcefield Generator patent as an
-    operable device
+- text: The Navy secured the patent for Pais's Electro-magnetic Forcefield Generator
+    as an operable device.
   source: In Plain Sight
   location: ch28:16040-16110
   quote: The US Navy secured the patent for the supposedly operable forcefield generator.
@@ -717,8 +530,19 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
-- text: The Navy did not apply to keep Pais's patents secret under the Invention Secrecy
-    Act
+- text: Nat Kobitz worked on numerous Navy surface ship and submarine projects during
+    his nearly 30-year career, and was involved in developing the Sea Scout unmanned
+    aerial vehicle project.
+  source: In Plain Sight
+  location: ch27:11390-11496
+  quote: as well as numerous navy surface ship and submarine projects in a near 30-year
+    career.
+  claim_id: f2d96753-56c5-4d6a-a678-23dd90595ad6
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d96753-56c5-4d6a-a678-23dd90595ad6
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2d96753-56c5-4d6a-a678-23dd90595ad6
+- text: The Navy did not apply to have Pais's patents kept secret under the US Invention
+    Secrecy Act, despite being able to do so.
   source: In Plain Sight
   location: ch28:17539-17794
   quote: The fact that the navy did not apply for the patents to be kept secret under
@@ -729,39 +553,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce065ee1-1e0c-4117-848b-a6b36f468503
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ce065ee1-1e0c-4117-848b-a6b36f468503
-- text: Over three years Pais applied for a series of patents for which the Navy was
-    assignee
-  source: In Plain Sight
-  location: ch28:2759-2865
-  quote: Over three years, he applied for a series of mind-bogglingly exotic patents
-    for which the US Navy was the assignee.
-  claim_id: 24a28fa0-b050-47fb-9131-c25b871fe648
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24a28fa0-b050-47fb-9131-c25b871fe648
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-24a28fa0-b050-47fb-9131-c25b871fe648
-- text: Coulthart suggests the patent applications were meant to send a message to
-    China and Russia
-  source: In Plain Sight
-  location: ch28:17539-17794
-  quote: The fact that the navy did not apply for the patents to be kept secret under
-    the US *Invention Secrecy Act*, as it could easily have done, suggests these applications
-    are more about just sending a message to the United States' potential rivals,
-    China and Russia.
-  claim_id: 0fd5f060-9ffa-49fa-b16a-0fb0816b3f63
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fd5f060-9ffa-49fa-b16a-0fb0816b3f63
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0fd5f060-9ffa-49fa-b16a-0fb0816b3f63
-- text: Nat Kobitz was the Navy's former Director of Science and Technology Development
-  source: In Plain Sight
-  location: ch28:29104-29194
-  quote: the late Nat Kobitz, the former Director of Science and Technology Development
-    for the US Navy
-  claim_id: a99be095-8359-42b8-a32f-68d7ef763a65
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a99be095-8359-42b8-a32f-68d7ef763a65
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a99be095-8359-42b8-a32f-68d7ef763a65
-- text: Kobitz confirmed he worked on anti-gravity/field propulsion research the Navy
-    was pursuing
+- text: Nat Kobitz confirmed he worked on anti-gravity or field propulsion technology
+    and that the Navy was researching it.
   source: In Plain Sight
   location: ch27:12080-12316
   quote: When I asked him if he ever worked on anti-gravity or field propulsion technology,
@@ -771,7 +564,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c817205-d557-4f48-aafd-687ac99993da
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5c817205-d557-4f48-aafd-687ac99993da
-- text: Kobitz left the role in 1994 and founded the consultancy NKA Science
+- text: Nat Kobitz left his role as Director of Science and Technology Development
+    for the Navy in 1994 and set up a private consultancy called NKA Science.
   source: In Plain Sight
   location: ch27:16888-17005
   quote: Nat Kobitz left his Navy Director of Science and Technology role in 1994
@@ -780,31 +574,146 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
+- text: Nat Kobitz was read into a program working with recovered UAP technology during
+    his time in the Navy.
+  source: In Plain Sight
+  location: ch27:20450-20594
+  quote: he wouldn’t talk any further about the program working with recovered UAP
+    technology, which he admitted he was read into during his time at the navy
+  claim_id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
+- text: Mark Walker queried what resources the Navy was dedicating to investigating
+    the UAP sightings and whether physical evidence had been found.
+  source: In Plain Sight
+  location: ch22:8672-8906
+  quote: He queried what resources the navy was dedicating to investigating the sightings
+    and he asked if any physical evidence had been found to substantiate the claims,
+    or whether foreign adversaries or private companies have developed this technology.
+  claim_id: 7767d417-796b-420b-96ea-2890e2f526de
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7767d417-796b-420b-96ea-2890e2f526de
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7767d417-796b-420b-96ea-2890e2f526de
+- text: Navy Undersecretary Thomas Modly told Mark Walker that the Department of the
+    Navy takes reports of UAP encounters very seriously and continues to log sightings
+    and fully investigate the accounts.
+  source: In Plain Sight
+  location: ch22:9474-9674
+  quote: He was told by Navy Undersecretary Thomas Modly that ‘the Department of the
+    Navy takes these reports very seriously and continues to log sightings and fully
+    investigate the accounts’.
+  claim_id: 63add907-4914-4ef1-b520-f40dd58f56e0
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63add907-4914-4ef1-b520-f40dd58f56e0
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-63add907-4914-4ef1-b520-f40dd58f56e0
+- text: Christopher Mellon said signs were posted at one Navy base warning aviators
+    of the potential for mid-air collisions with UAP.
+  source: In Plain Sight
+  location: ch29:21637-21813
+  quote: The activity was so prolific that signs were posted at one Navy base warning
+    aviators of the potential for mid-air collisions with these unidentified aircraft.
+  claim_id: 070b7859-16a9-4f0b-a02a-9cc69ac17683
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-070b7859-16a9-4f0b-a02a-9cc69ac17683
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-070b7859-16a9-4f0b-a02a-9cc69ac17683
+- text: United States Air Force F-22 Raptor fighters were operating in the same training
+    areas as Navy pilots and had superior sensor systems, according to Mellon.
+  source: In Plain Sight
+  location: ch29:22307-22447
+  quote: He also stressed how US Air Force F-22 fighters were operating in the same
+    training areas as the Navy pilots, and they had superior sensor systems,
+  claim_id: 431bdb4c-7314-4a1a-9117-8cb5db605562
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431bdb4c-7314-4a1a-9117-8cb5db605562
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-431bdb4c-7314-4a1a-9117-8cb5db605562
+- text: David Fravor is a retired Commander in the United States Navy.
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:265-329
+  quote: My name is David Fravor and I am a retired Commander in the U.S Navy.
+  claim_id: 2cdb6196-16d5-459e-a776-fb92088c75f2
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2cdb6196-16d5-459e-a776-fb92088c75f2
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-2cdb6196-16d5-459e-a776-fb92088c75f2
+- text: Ryan Graves is a former Navy F/A-18 Hornet pilot with a decade of service
+    including two deployments in Operation Enduring Freedom and Operation Inherent
+    Resolve.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:31727-31909
+  quote: My name is Ryan ''FOBS'' Graves and I am a former F–18 pilot with a decade
+    of service in the U.S. Navy including two deployments in Operation Enduring Freedom
+    and Operation Inherent Resolve.
+  claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
+- text: The Air Force and Navy have been at the forefront of developing policies,
+    procedures, and mechanisms for reporting UAP.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:1037-1158
+  quote: Also, the Air Force and Navy have been at the forefront of developing policies,
+    procedures, and mechanisms for reporting UAP.
+  claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+- text: The Deputy Secretary of Defense directed USD(I&S) to establish the AOIMSG
+    to succeed the Navy's Unidentified Aerial Phenomena Task Force.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:66957-67115
+  quote: The Deputy Secretary of Defense, in consultation with the Director of National
+    Intelligence (DNI), directed USD(I&S) to establish AOIMSG to succeed the USN's
+    UAPTF.
+  claim_id: 71d963fc-908f-4c3e-bc86-537e69954eb9
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-71d963fc-908f-4c3e-bc86-537e69954eb9
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-71d963fc-908f-4c3e-bc86-537e69954eb9
+- text: Rear Admiral Delmer Fahrney, former head of the navy's guided missile program,
+    was one of three former navy admirals on the NICAP board and became its chairman.
+  source: In Plain Sight
+  location: ch9:14862-14982
+  quote: another was Rear Admiral Delmer Fahrney, the former head of the navy’s guided
+    missile program, who would become NICAP’s chairman
+  claim_id: eb77fbbc-76d6-40ae-8638-e0982de3de3e
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb77fbbc-76d6-40ae-8638-e0982de3de3e
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb77fbbc-76d6-40ae-8638-e0982de3de3e
+- text: Dan Kimball ordered his own naval intelligence reports on UAPs, independent
+    of the air force's Project Blue Book, which the air force objected to.
+  source: In Plain Sight
+  location: ch8:14659-14773
+  quote: Kimball decided to order his own naval intelligence reports on UAPs – independent
+    of the air force's Project Blue Book
+  claim_id: 7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 021cd22f5d883648c248d65b8f7080189ffc29cb9b6481a6a88e7f4316a5c174
+  prompt_sha256: daef86142219f1c4e6a634f2687ddc2a591d34d1986e7a0c5688d5a433e3be55
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 97463
-    output: 37603
-    real_input: 2
-    cache_read: 33676
-    cache_write: 63785
+    input: 192342
+    output: 66046
+    real_input: 4
+    cache_read: 78650
+    cache_write: 113688
     calls: 0
-  body_sha256: 2575b127ec06eb2f9f387f431c2bdfea33a826e5f4615052c5a296bd3eaea799
+  body_sha256: c8b90adc6c3de8a855cbac0e276e452cfe67789f2e61e02d5f340573604b42bd
 ---
 
-The United States Navy (USN) is a US military service branch whose personnel, aircraft and radar systems have produced some of the most closely examined evidence in Unidentified Anomalous Phenomena research. In September 2019 the Navy formally acknowledged that it could not offer a satisfactory explanation for the UAP its pilots were witnessing.<sup>1</sup> Alongside the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf), it has been at the forefront of developing policies, procedures and mechanisms for reporting such phenomena.<sup>2</sup>
+The United States Navy (USN) is a branch of the US armed forces that has produced some of the most closely examined evidence in UAP research, most prominently through pilot encounters, official video releases, and a series of aerospace patents. Its most cited case is the 2004 USS Nimitz UAP encounter, in which two Navy F/A-18s intercepted an object at close quarters in conditions the crews described as perfect visibility<sup>1</sup>, [David Fravor](/people/david-fravor) among them, who served as a Navy pilot for 18 years<sup>1</sup> and later gave a retired-Commander statement to the House Oversight Committee<sup>2</sup>. The intercept occurred near a cap point roughly 97 kilometres away that was known only to a handful of Navy personnel and pilots<sup>3</sup>. According to "The Fourth Mind", the object was recorded both on the pilots' cameras and on the radar of the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) strike group's radar picket, and the event has been confirmed as anomalous by the Navy<sup>4</sup>.
 
-The best-documented case involving the Navy is the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter). In November 2004, two Navy [F/A-18](/objects/fa-18)s from the [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68) intercepted one of the objects at close quarters in conditions of perfect visibility.<sup>3</sup> [David Fravor](/people/david-fravor) was the senior pilot in the air and was considered one of the best Navy pilots;<sup>4</sup> at the time he had commanded his squadron for only one month and was the most junior commanding officer for an O5 command in the Navy.<sup>5</sup> Lieutenant Junior Grade [Alex Dietrich](/people/alex-dietrich) piloted the second F/A-18 involved.<sup>6</sup> The rendezvous point, known as the cap point, was approximately 97 kilometres away and known only to a handful of Navy personnel and pilots.<sup>7</sup> After the encounter, the objects resumed tracking south at approximately 185 kilometres per hour as if nothing had happened.<sup>8</sup> According to the book The Fourth Mind, the object was recorded on the pilots' cameras and on the radar of the USS Princeton, and the event has been confirmed as anomalous by the Navy.<sup>9</sup>
+The Navy's public posture on UAP shifted over the following fifteen years. In September 2019 it formally acknowledged it could not offer a satisfactory explanation for the phenomena its pilots were witnessing<sup>5</sup>, and on 2020-04-27 the Department of Defense officially released three videos taken by Navy pilots in 2004 and 2014-15, including the [Go-Fast Video](/documents/go-fast-video) and [Gimbal video](/documents/gimbal-video)<sup>6</sup>. Even so, spokesman Joseph Gradisher said the Navy had not publicly released characterisations, descriptions, or conclusions about the objects in the Tic Tac, Go-Fast and Gimbal footage<sup>7</sup>. Pilots reported friction with the reporting process: after [Ryan Graves](/people/ryan-graves)'s squadron experienced a translucent soap bubble incident, it filed a safety report that went unanswered<sup>8</sup>, though Graves later said the Navy had implemented a Range Fouler Report to gather pilot information on [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) encounters on training ranges<sup>9</sup>. [Luis Elizondo](/people/luis-elizondo) worked with Navy and [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) officials on the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) after 2012<sup>10</sup>, and in his October 2017 resignation letter said more serious attention was needed for accounts from the Navy and other services of unusual aerial systems interfering with weapon platforms<sup>11</sup>.
 
-To The Stars Academy of Arts & Sciences initially revealed very little about the object captured in the [Gimbal video](/documents/gimbal-video), other than that it was seen and videoed by Navy fighter pilots at an unspecified location.<sup>10</sup> The [Go-Fast Video](/documents/go-fast-video) likewise lacked details of when, where or by whom it was shot, beyond having been captured by a Navy F/A-18 using the jet's advanced targeting forward-looking infrared (ATFLIR) pod.<sup>11</sup> [Luis Elizondo](/people/luis-elizondo) later attended a meeting with high-level Navy officials, [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) representatives and a [National Security Agency (NSA)](/organisations/national-security-agency-nsa) representative at which the Go-Fast and Gimbal videos were shown.<sup>12</sup> On 2020-04-27, the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) authorised the release of three unclassified Navy videos as part of the 2020-04 Pentagon release of three Unidentified Aerial Phenomena (UAP) videos<sup>13</sup> - one taken in November 2004<sup>14</sup> and two in January 2015.<sup>15</sup> The footage had already been circulating publicly following unauthorised releases in 2007 and 2017;<sup>16</sup> according to the Department of Defense's statement on the release, the Navy had previously acknowledged that the circulating videos were indeed Navy videos.<sup>17</sup>
+The Navy is also the assignee on a set of aerospace patents filed by engineer Salvatore Pais. In April 2016 Pais filed a patent application for a spacecraft driven by gravity waves<sup>12</sup>, and when the Patent Office initially rejected his hybrid craft application, the Navy vouched for his work in an appeal letter<sup>13</sup>. It went on to secure the patent for the Electro-magnetic Forcefield Generator patent as an operable device<sup>14</sup>, and it did not apply to have Pais's patents kept secret under the US Invention Secrecy Act, despite being able to do so<sup>15</sup>. [Nat Kobitz](/people/nat-kobitz), the Navy's former Director of Science and Technology Development, said he worked on anti-gravity or field propulsion technology and that the Navy was researching it<sup>16</sup>; over a nearly 30-year Navy career he worked on numerous surface ship and submarine projects, including the Sea Scout unmanned aerial vehicle project<sup>17</sup>, before leaving in 1994 to set up NKA Science<sup>18</sup>. He also said he had been read into a program working with recovered UAP technology during his Navy service<sup>19</sup>.
 
-Navy aviators have also filed formal reports describing encounters with unexplained phenomena during training. After what has been called the translucent soap bubble incident, [Ryan Graves](/people/ryan-graves)'s squadron filed a safety report with the Navy but never heard back.<sup>18</sup> Graves, a former Navy F/A-18 Hornet pilot with a decade of service including two deployments in Operation Enduring Freedom and Operation Inherent Resolve,<sup>19</sup> who had trained as an aviation safety officer with the Navy,<sup>20</sup> said the Navy has since implemented a Range Fouler Report to gather information from pilots about UAP encounters on training ranges.<sup>21</sup> According to a Navy statement reported in the book In Plain Sight, there had been a number of reports of unauthorised or unidentified aircraft entering military-controlled ranges and designated airspace, and the Navy and Air Force take each report seriously and investigate it.<sup>22</sup> That same source records that journalist Bryan Bender reported, on 2019-04-23, that the Navy was drafting new guidelines for reporting UFOs, later covered in the 2019-04 Politico story on new US Navy Unidentified Aerial Phenomena (UAP) reporting guidelines,<sup>23</sup> and that Congressman Mark Walker wrote to the Secretary of the Navy on 2019-07-16 regarding UFO sightings.<sup>24</sup> He asked what resources the Navy was dedicating to investigating the sightings and whether any physical evidence had been found, or whether foreign adversaries or private companies had developed the technology.<sup>25</sup> Navy Undersecretary Thomas Modly replied that the Department of the Navy takes reports of UAP encounters very seriously and continues to log sightings and fully investigate the accounts.<sup>26</sup>
+Congressional and internal scrutiny of the Navy's handling of UAP reports has continued. Mark Walker queried what resources the Navy was dedicating to investigating the sightings and whether physical evidence had been found<sup>20</sup>; Navy Undersecretary Thomas Modly replied that the Department of the Navy takes such reports very seriously and continues to log and fully investigate them<sup>21</sup>. [Christopher K. Mellon](/people/christopher-k-mellon) said signs were posted at one Navy base warning aviators of the potential for mid-air collisions with UAP<sup>22</sup>, and that [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) F-22 Raptor fighters operating in the same training areas as Navy pilots had superior sensor systems<sup>23</sup>. Mellon later arranged for Navy aviators to brief members and staff of the US Senate Armed Services Committee<sup>24</sup>. [Ryan Graves](/people/ryan-graves), a former Navy F/A-18 Hornet pilot who served a decade including two deployments in Operation Enduring Freedom and Operation Inherent Resolve<sup>25</sup>, has been among the pilots giving public testimony on these encounters.
 
-After 2012, Elizondo worked with Navy and CIA officials on the [Advanced Aerospace Threat Identification Program (AATIP)](/organisations/advanced-aerospace-threat-identification-program-aatip).<sup>27</sup> On 2017-12-18, the [Office of the Under Secretary of Defense for Intelligence (OUSDI)](/organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi) located a classified email in which Elizondo had, in August 2017, requested assistance from a Navy civilian employee to declassify one or more videos.<sup>28</sup> Navy intelligence leadership tasked [Jay Stratton](/people/jay-stratton) with quietly building a whole-of-government interagency UAP task force with more authorities than AATIP had ever held.<sup>29</sup> [Christopher K. Mellon](/people/christopher-k-mellon) arranged for Navy aviators to brief members and staff of the US Senate Armed Services Committee.<sup>30</sup>
-
-The Navy has also had a documented role in a series of Salvatore Pais patents. In April 2016, Navy aerospace engineer Salvatore Pais filed a patent application for a spacecraft driven by gravity waves, part of the 2016-04 Salvatore Pais gravity wave spacecraft patent application.<sup>31</sup> When the US Patent and Trademark Office initially rejected his hybrid craft patent application, the Navy vouched for his work in an appeal letter.<sup>32</sup> It went on to secure the patent for Pais's Electro-magnetic Forcefield Generator patent as an operable device.<sup>33</sup> The Navy did not apply to have the patents kept secret under the US Invention Secrecy Act, despite being able to do so;<sup>34</sup> over three years Pais applied for a series of patents for which the Navy was the assignee.<sup>35</sup> Journalist [Ross Coulthart](/people/ross-coulthart) has suggested this points to the applications being intended to send a message to China and Russia rather than to protect genuinely operational technology.<sup>36</sup> Nat Kobitz was the Navy's former Director of Science and Technology Development.<sup>37</sup> He confirmed he had worked on anti-gravity or field propulsion technology and that the Navy was researching it, though he described his own work as relatively unexciting.<sup>38</sup> He left the role in 1994 to set up a private consultancy, NKA Science.<sup>39</sup>
+Institutionally, the Navy and Air Force have been described as at the forefront of developing policies, procedures, and mechanisms for reporting UAP<sup>26</sup>, and the Navy's own Unidentified Aerial Phenomena Task Force was succeeded by the Airborne Object Identification and Management Synchronization Group on the direction of the Deputy Secretary of Defense<sup>27</sup>. This institutional interest in aerial anomalies is not new: in the 1950s, Secretary of the Navy appointee Dan Kimball ordered his own naval intelligence reports on UAP sightings independent of the Air Force's Project Blue Book, a move the Air Force objected to<sup>28</sup>, and Rear Admiral Delmer Fahrney, former head of the Navy's guided missile programme, was one of three former Navy admirals who sat on the board of the National Investigations Committee on Aerial Phenomena, later becoming its chairman<sup>29</sup>.

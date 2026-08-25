@@ -1,19 +1,17 @@
 ---
 title: Leslie Kean
-description: American investigative journalist known for reporting on Unidentified
-  Aerial Phenomena (UAP) and for personal research into mediumship and after-death
-  communication.
+description: Journalist and author known for reporting on UFO and UAP disclosures
+  and for investigating evidence relating to survival of consciousness after death.
 metadata:
-  role: Investigative journalist and author
-  known_for: UFO/UAP journalism; author of Surviving Death; co-reporter on the 2017
-    and 2023 New York Times UAP stories
+  role: Journalist and author
+  known_for: UFO/UAP investigative journalism; author of Surviving Death
 built_from:
-  brief_hash: 39b7b004aab9b62fe873c7acba794e97dcf231f2def68db4d54bae582b853f75
+  brief_hash: 231ef6beb8a37e04a6259981859c792e1dd8a81444e77c982b5e2c085576ae16
   claims:
   - id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
-    hash: fa882b318b4e3142d894135979bae8d07485657b18483013769ab4da97c9d2c1
+    hash: 99f22063b248d4e2bd3c8376e48b543b4cf9d498ab7be476eb3dddf59f39296d
   - id: f667379a-0653-48c9-a3ba-3b807a133b4d
-    hash: ba57e1e4db66fb8909aee344fd90113fba035ec3ab22e741a2e118cb3966bfd2
+    hash: 1a6888f216b2ec412253f7a6e386fe42f95a8fbda00de57a927aede3c62e40bf
   - id: e5cea053-b87c-480b-82a8-818d82e64893
     hash: 80f5d251270c9da4ec39382085e8eeefefe5e2c8b5e148ba99e7347d473b0a62
   - id: d2e35e54-e146-4258-8c1a-7dfccd9fca0d
@@ -83,7 +81,7 @@ built_from:
   - id: 1dd45092-8f69-4d87-a3e7-75b1af217934
     hash: eb9a62946c4fed5baca492d329f2a65f03bf8d5774ef1bd474e44cf03a5fad5d
   - id: c6d522f2-27d3-49fe-aa08-b342d0053f74
-    hash: f11dead251b8ab7a7daa7047872e8a5b9b924279948a796492ced6afccc7ec08
+    hash: 296a54f0f373dea87da074731593868855c2e72a4b8e1921bf7cd315c993e029
   - id: 657f6bb4-6105-4fcb-9363-6df224e2159e
     hash: a73e340a205d8bcae775fffaadcea8249f756bfc5ff749c911085741f3b9973f
   - id: 0f9b6179-c3e8-4097-bfef-8f3e71ef349e
@@ -369,7 +367,7 @@ built_from:
   - id: 9c011543-d94b-4d76-88cc-48d5b3afc40f
     hash: 4677633e89ff4443ae2b88807a1662852c36315f0e8148496cc1dd8b00d90cc7
   - id: 4ca93e5e-7af9-4227-b64b-6034322e896b
-    hash: 68890f297f3b45691c8d46cc1db27349e7a20744a83a1f0f409384a660cb7758
+    hash: 6f1b03068256290d5c9ef7d9ab1855b161df5e0358eedc96d7d45bbf48c6d72c
   - id: 705a3f28-c071-4f39-b310-8229f57c5170
     hash: 803601388797128c907882ed9fecfbaf1e7e10a890a536661a7d408457cf6d6f
   - id: 3b9d64e7-4744-475d-bb64-a78890968c39
@@ -383,7 +381,7 @@ built_from:
   - id: 6e2714e6-6252-45cd-a8ab-c22573a25399
     hash: b0031c8069aa2944d9c7b906a4e7b8591bcfa4a75430a23ea57923127623f5eb
   - id: 3225efc5-1fc3-47b6-b908-9bc20b50f42d
-    hash: 04097f9d3a78a36437bd6998a13f2230fc2f9edd546f9d216bde6db0b3896d9e
+    hash: f12e7c7d98e45c4ecc34b701cdaaf23a9b807c19a1c28ea34603993592606d68
   - id: 2c137756-c87b-4c20-8950-770ba9b61786
     hash: bed61ff553ab60f82f850d31fe345890997d01f9abe3b5e553c6ea8c9d6ffb8e
   - id: 4d09f78e-0621-4903-92bf-ca675bc55918
@@ -401,28 +399,18 @@ built_from:
   - id: e328bde1-ead1-4f0e-8da7-0354d65c946a
     hash: 715a46278be4b6138de5175a804fdd4e8be095f2cfc7530cf51b63e4dbd8f54b
   - id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
-    hash: e4462990f359d18ef3642234de86ac790dc639ab4ee80a540565b76067889b12
+    hash: 380dab831484f21cc9d6ec7aa793ff5d29dee84e3f8c90ccc816a0c499bb4277
   - id: dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
-    hash: 606cb1c161026956c7ac0b7687b8b9db8d817e2572d433370dccde64c75948b2
+    hash: c75a183210bf837efccccb31b1bccb32112bcc13db0eafad1270df3a4be76209
   - id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
     hash: 67d4c37c7717ca073055893529024aec41a60733e0569d1c62c10f26dc14ab06
   - id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
-    hash: 21eaf17387ff93093f928feffb7ef46a798454dcd132c46b5178202ca64ab294
+    hash: cd3680bdea61f1272b68b5ea4dc8084b966c43b66f4641194cd6b8c39840c720
   - id: 1771e972-7fca-40ad-8485-cc38b98f3f26
-    hash: f3f74e2911723db85e4cdee1cad696ef29fccafa62692516cb7971974df9dbae
+    hash: 30849f9f48b6eca6b82f408f5eb00f16d4cd8956f89f471ea2999efdf79efda2
 references:
-- text: Kean won a court case against NASA over documents relating to the 1965 Kecksburg,
-    Pennsylvania UAP incident
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch29:7760-7879
-  quote: had won a major court victory against NASA over the release of documents
-    relating to a 1965 UAP incident in Kecksburg, Pennsylvania.
-  claim_id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
 - text: Kean was a longtime reporter for major metropolitan newspapers who had written
-    a well-received book on military encounters with UAP
+    a well-received book about military encounters with UAP.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7559-7752
   quote: Leslie had been a longtime reporter for major metropolitan newspapers and
@@ -432,8 +420,28 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
-- text: Kean met Elizondo in a Washington, D.C. hotel, sharing a byline with two other
-    reporters on the 2017 New York Times story
+- text: Kean won a court case against NASA over release of documents on the 1965 Kecksburg,
+    Pennsylvania UAP incident.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch29:7760-7879
+  quote: had won a major court victory against NASA over the release of documents
+    relating to a 1965 UAP incident in Kecksburg, Pennsylvania.
+  claim_id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
+- text: Will Miller spoke with Kean, and Boston Globe UFO articles referencing Thomas
+    Wilson subsequently appeared.
+  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
+  location: char:9814-9929
+  quote: 'TW: Then he talks to Kean and Boston Globe articles came out
+
+    - Not sure what he told Kean, but articles referenced me (TW)'
+  claim_id: f667379a-0653-48c9-a3ba-3b807a133b4d
+  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
+  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f667379a-0653-48c9-a3ba-3b807a133b4d
+- text: Kean was one of three reporters on the 2017 New York Times story about Luis
+    Elizondo, whom she met in a Washington, D.C. hotel.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: '113'
@@ -444,8 +452,8 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4ca93e5e-7af9-4227-b64b-6034322e896b
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4ca93e5e-7af9-4227-b64b-6034322e896b
-- text: Kean was summoned to a Washington, D.C. hotel lobby meeting with Christopher
-    Mellon, for the purpose of introducing her to Luis Elizondo
+- text: Kean was summoned to a Washington, D.C. hotel lobby meeting, with Christopher
+    Mellon present, to be introduced to Elizondo.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:06.6-00:13:15.2
   quote: Chris Mellon was there, and of course the purpose of it was for me to meet
@@ -453,25 +461,15 @@ references:
   claim_id: 3225efc5-1fc3-47b6-b908-9bc20b50f42d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-3225efc5-1fc3-47b6-b908-9bc20b50f42d
-- text: Kean was shown documents at the meeting that she found astonishing
+- text: Kean was shown documents at the meeting that she found astonishing.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:12.7-00:13:15.2
   quote: I was shown these documents that blew my mind.
   claim_id: 2c137756-c87b-4c20-8950-770ba9b61786
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2c137756-c87b-4c20-8950-770ba9b61786
-- text: Kean reported a secret Pentagon programme studying unidentified objects had
-    operated for ten years starting in 2007, prior to the December 2017 disclosure
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:13:25.8-00:13:36.5
-  quote: The first revelation was that there was a secret program within the Pentagon
-    that had started in 2007 that had been studying these objects. So this had been
-    for 10 years, secretly being studied.
-  claim_id: 4d09f78e-0621-4903-92bf-ca675bc55918
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d09f78e-0621-4903-92bf-ca675bc55918
-- text: Christopher Mellon, Jim Semivan, and Harold Puthoff met with Elizondo and
-    Kean in a hotel lobby near the Pentagon
+- text: Christopher Mellon, Jim Semivan and Harold Puthoff met Elizondo and Kean in
+    a hotel lobby near the Pentagon.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7273-7552
   quote: 'Chris Mellon and Jim Semivan awaited me in the lobby of a hotel not far
@@ -482,7 +480,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
-- text: The meeting with Kean, Mellon, Puthoff, and Semivan lasted four hours
+- text: The meeting with Elizondo, Mellon, Semivan and Puthoff lasted four hours.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
   quote: Meeting with Kean lasted an exhausting four hours.
@@ -490,7 +488,7 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
-- text: This 2017 meeting was the first time Kean learned of the existence of AATIP
+- text: The 2017 meeting was the first time Kean learned of AATIP's existence.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8794-8855
   quote: I am certain this was the first time Kean learned of AATIP’s existence.
@@ -498,8 +496,18 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
-- text: Elizondo travelled to Philadelphia to meet again with Kean, this time with
-    her colleague Ralph Blumenthal
+- text: Kean reported a secret program studying unidentified objects had operated
+    in the Pentagon for ten years from 2007.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:13:25.8-00:13:36.5
+  quote: The first revelation was that there was a secret program within the Pentagon
+    that had started in 2007 that had been studying these objects. So this had been
+    for 10 years, secretly being studied.
+  claim_id: 4d09f78e-0621-4903-92bf-ca675bc55918
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d09f78e-0621-4903-92bf-ca675bc55918
+- text: Elizondo travelled to Philadelphia to meet Kean again, this time with Ralph
+    Blumenthal.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15914-16069
   quote: Later that month, I left our house for a short trip to Philadelphia to meet
@@ -509,9 +517,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
-- text: In Philadelphia, Elizondo, Kean, and Blumenthal noticed two individuals with
-    military-style haircuts watching them, whom Elizondo believed to be an Air Force
-    Office of Special Investigations surveillance team
+- text: In Philadelphia the group noticed two men with military-style haircuts, believed
+    to be AFOSI surveillance.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17467-17716
   quote: I noticed two individuals with tight military-style haircuts in different
@@ -523,7 +530,7 @@ references:
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
 - text: Kean photographed one of the surveillance men after he discovered them watching
-    him
+    him.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17927-18083
   quote: One of the surveillance guys walked into the lobby, only to discover that
@@ -533,8 +540,8 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
-- text: Grusch provided the Defense Office of Prepublication and Security Review with
-    the information he intended to disclose to Kean and Blumenthal
+- text: Grusch submitted the material he intended to disclose to Kean and Blumenthal
+    to the Defense Office of Prepublication and Security Review beforehand.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:2965-3145
   quote: In accordance with protocols, Grusch provided the Defense Office of Prepublication
@@ -545,7 +552,7 @@ references:
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
 - text: Grusch's on-the-record statements were cleared for open publication on 2023-04-04
-    and 2023-04-06 in documents provided to Kean and Blumenthal
+    and 2023-04-06.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:3149-3267
   quote: His on-the-record statements were all “cleared for open publication” on April
@@ -554,9 +561,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-d49ccf7a-403b-40a3-b189-65144609fca4
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-d49ccf7a-403b-40a3-b189-65144609fca4
-- text: A House Permanent Select Committee on Intelligence representative told Kean
-    and Blumenthal in March 2023 that committee members could not comment on a complaint
-    or confirm a complainant's identity
+- text: An HPSCI representative told Kean and Blumenthal in March 2023 that members
+    could not comment on a complaint or confirm a complainant's identity.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:13542-13742
   quote: A representative of the House Permanent Select Committee on Intelligence
@@ -566,45 +572,8 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-93762162-d016-4241-8d1d-5757a48b3ca5
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-93762162-d016-4241-8d1d-5757a48b3ca5
-- text: In a Project Unity interview, Ross Coulthart said both Blumenthal and Kean
-    indicated they believe there is substance to allegations the US government has
-    recovered alien spacecraft or fragments
-  source: In Plain Sight
-  location: ch28:24642-24910
-  quote: It is very clear, from comments made by Blumenthal and his New York Times'
-    colleague Leslie Kean in an interview with Project Unity that both journalists
-    believe there is substance to the allegations that the US government has recovered
-    alien spacecraft or bits thereof
-  claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-01854123-0222-4ab6-b3dc-3948c3240f32
-- text: Kean said covering UFO crash retrievals has been particularly difficult to
-    get published in The New York Times because of the controversy and the classified
-    nature of the information
-  source: In Plain Sight
-  location: ch28:25127-25471
-  quote: It's probably been the most difficult . . . topic to get out into The Times
-    because for all the reasons you could imagine, because of its controversy and
-    because the information about it is classified, and there's only so much that
-    we can bring forward and that makes it particularly difficult to report on that
-    topic, as well as it being so sensational.
-  claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
-- text: Will Miller talked to Kean, and Boston Globe articles about UFOs subsequently
-    came out that referenced Thomas Wilson
-  source: EWD Notes - Eric Davis Meeting with Adm. Wilson
-  location: char:9814-9929
-  quote: 'TW: Then he talks to Kean and Boston Globe articles came out
-
-    - Not sure what he told Kean, but articles referenced me (TW)'
-  claim_id: f667379a-0653-48c9-a3ba-3b807a133b4d
-  record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f667379a-0653-48c9-a3ba-3b807a133b4d
-- text: Kean travelled to Charlottesville, Virginia, in 2014 to meet with Jim Tucker
-    and review case files at the Division of Perceptual Studies
+- text: In 2014 Kean travelled to Charlottesville, Virginia to meet Jim Tucker and
+    review case files.
   source: Surviving Death
   location: ch10:2280-2424
   quote: In 2014 I made a trip to Charlottesville, Virginia, to meet with Jim Tucker
@@ -612,66 +581,8 @@ references:
   claim_id: fdd9e345-b2dc-491d-85d1-d63286c87b4c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fdd9e345-b2dc-491d-85d1-d63286c87b4c
-- text: Kean arrived with a list of cases she was most interested in after studying
-    Ian Stevenson's papers and books
-  source: Surviving Death
-  location: ch10:2762-2860
-  quote: I arrived with a list of the cases I was most interested in after studying
-    Stevenson’s papers and books
-  claim_id: 892ea1ca-f87c-412e-b2da-643a8c86a118
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-892ea1ca-f87c-412e-b2da-643a8c86a118
-- text: James Leininger, at age two, provided specific details matching the life of
-    a person unknown to him or his family who died fifty-three years before he was
-    born
-  source: Surviving Death
-  location: ch10:89-235
-  quote: How can one explain a two-year-old boy providing specific details about someone
-    unknown to him or his family who died fifty-three years before he was born?
-  claim_id: 657f6bb4-6105-4fcb-9363-6df224e2159e
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-657f6bb4-6105-4fcb-9363-6df224e2159e
-- text: All of James Leininger's memories matched the life of James M. Huston Jr.,
-    a World War II pilot who died in Japan in 1945
-  source: Surviving Death
-  location: ch10:317-476
-  quote: 'it turned out that all his memories matched the life of one person: James
-    Huston Jr., a committed World War II pilot who loved to fly and who died in Japan
-    in 1945.'
-  claim_id: 2019f215-8dfe-4582-801b-dc6048cefb6f
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2019f215-8dfe-4582-801b-dc6048cefb6f
-- text: James Leininger's emotions were as powerful as his memories, and he seemed
-    to relive experiences as if they carried great meaning
-  source: Surviving Death
-  location: ch10:10563-10727
-  quote: The emotions were just as powerful as the memories, and he seemed to be reliving
-    experiences, acting them out as if they carried great meaning for him and remained
-    unresolved.
-  claim_id: 3a83a7d3-60fc-4fff-8a48-5a4e1be074b9
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3a83a7d3-60fc-4fff-8a48-5a4e1be074b9
-- text: Jim Tucker ruled out dissociative pathologies or possession in the James Leininger
-    case after investigating and interviewing the family
-  source: Surviving Death
-  location: ch10:11494-11618
-  quote: Clearly, child psychiatrist Jim Tucker, who spent time investigating this
-    case and interviewing the family, has ruled these out.
-  claim_id: d411a503-7514-4f55-811c-951e0be803cb
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d411a503-7514-4f55-811c-951e0be803cb
-- text: Kean agrees with Jim Tucker's conclusion that the James Leininger case warrants
-    serious consideration as evidence of continuity of consciousness
-  source: Surviving Death
-  location: ch10:14078-14249
-  quote: I have to agree. Cases such as that of James Leininger provide some of the
-    strongest evidence suggesting a continuity of consciousness—before life, during
-    life, and after life.
-  claim_id: 9d737208-c12f-4f6a-aa41-bbd053322931
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9d737208-c12f-4f6a-aa41-bbd053322931
-- text: Kean accompanied Jim Tucker to Columbus, Ohio, in 2015 to interview the family
-    of Luke Ruehlman
+- text: In 2015 Kean accompanied Tucker to Columbus, Ohio to interview the Ruehlman
+    family.
   source: Surviving Death
   location: ch10:3619-3840
   quote: In 2015, I accompanied Jim to Columbus, Ohio, to interview the family of
@@ -680,8 +591,53 @@ references:
   claim_id: 2e9dacca-222a-4247-a32a-9c97bead554e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2e9dacca-222a-4247-a32a-9c97bead554e
-- text: During a visit to Warner, Oklahoma, Kean met Ryan Hammons when he was ten
-    years old
+- text: All of James Leininger's memories matched the life of James M. Huston Jr.,
+    a WWII pilot who died in Japan in 1945.
+  source: Surviving Death
+  location: ch10:317-476
+  quote: 'it turned out that all his memories matched the life of one person: James
+    Huston Jr., a committed World War II pilot who loved to fly and who died in Japan
+    in 1945.'
+  claim_id: 2019f215-8dfe-4582-801b-dc6048cefb6f
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2019f215-8dfe-4582-801b-dc6048cefb6f
+- text: James Leininger began exhibiting his past-life statements before he turned
+    two.
+  source: Surviving Death
+  location: ch10:9996-10074
+  quote: beginning before he turned two, how many sources would he have needed to
+    draw from
+  claim_id: e40fa56b-1f61-462d-8de3-b0c060a2e10a
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e40fa56b-1f61-462d-8de3-b0c060a2e10a
+- text: Twelve of Leininger's core past-life statements were established by the time
+    he was three.
+  source: Surviving Death
+  location: ch10:7527-7728
+  quote: It is this group of primary statements, dated by Bruce’s printed documents,
+    emails, and the ABC video footage, which I will focus on now. Twelve were well
+    established by the time James was three years old.
+  claim_id: c6d522f2-27d3-49fe-aa08-b342d0053f74
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c6d522f2-27d3-49fe-aa08-b342d0053f74
+- text: Tucker ruled out dissociative pathologies or possession after investigating
+    the case.
+  source: Surviving Death
+  location: ch10:11494-11618
+  quote: Clearly, child psychiatrist Jim Tucker, who spent time investigating this
+    case and interviewing the family, has ruled these out.
+  claim_id: d411a503-7514-4f55-811c-951e0be803cb
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d411a503-7514-4f55-811c-951e0be803cb
+- text: Kean concluded fraud and fantasy could clearly be ruled out as explanations
+    for Leininger's case.
+  source: Surviving Death
+  location: ch10:12952-12991
+  quote: Fraud and fantasy can clearly be ruled out.
+  claim_id: 0aeb941d-78f4-4143-8070-1342561e11f3
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0aeb941d-78f4-4143-8070-1342561e11f3
+- text: Kean met Ryan Hammons in Warner, Oklahoma when he was ten years old.
   source: Surviving Death
   location: ch13:108-183
   quote: When I went to Warner, Oklahoma, to meet the Hammons family, Ryan was ten
@@ -689,26 +645,18 @@ references:
   claim_id: 0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
-- text: Kean met with the Hammons family in early 2015 at their home
+- text: After returning to New York, Kean went through Cyndi Hammons's journal, noting
+    statements from her first letter to Tucker in February 2010.
   source: Surviving Death
-  location: ch12:1150-1203
-  quote: I met with the Hammons family in early 2015 at their home.
-  claim_id: 112224fa-f212-4c41-a199-e93565d4c8a8
+  location: ch13:3770-3964
+  quote: After taking my copy of Cyndi’s journal back to New York, I went through
+    it meticulously, noting down all of Ryan’s specific points beginning with Cyndi’s
+    first letter to Jim Tucker in February 2010.
+  claim_id: bfb1646f-f18b-42e7-b942-20a072a4fa3c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-112224fa-f212-4c41-a199-e93565d4c8a8
-- text: Kean confirmed a source verifying each of Ryan Hammons's key statements using
-    public records including national archives, newspapers, obituaries, and death
-    certificates
-  source: Surviving Death
-  location: ch13:4728-4927
-  quote: I was able to confirm a source to verify each of Ryan’s key statements from
-    public records at the national archives, newspapers, obituaries, census reports,
-    death certificates, travel documents, and photographs.
-  claim_id: d4379b37-af5b-4dd0-965f-25bcb1887e04
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d4379b37-af5b-4dd0-965f-25bcb1887e04
-- text: Including the eight original statements verified by Cyndi Hammons, Ryan Hammons
-    made a total of fifty-five accurate statements about Marty Martyn's life
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bfb1646f-f18b-42e7-b942-20a072a4fa3c
+- text: Including statements verified by Cyndi Hammons, Ryan Hammons made fifty-five
+    accurate statements about Marty Martyn's life.
   source: Surviving Death
   location: ch13:9127-9230
   quote: When you add the eight original statements verified by Cyndi, there are a
@@ -716,199 +664,45 @@ references:
   claim_id: 02329896-cd27-44fc-bcd0-c24e5ac2b87f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-02329896-cd27-44fc-bcd0-c24e5ac2b87f
-- text: Kate Coe found an 8 by 10 inch glossy photograph from Night After Night showing
-    a close-up of a man wearing the same bowler hat and cigar as the man in Ryan Hammons's
-    photo
+- text: Tucker brought in Russ Stratton, who engaged film archival experts to identify
+    the man in Hammons's photograph.
   source: Surviving Death
-  location: ch13:11761-11949
-  quote: Flipping through the 8 x 10 glossies from the film, she was shocked to find
-    a close-up of what looked just like the man in the bowler hat; he was wearing
-    the same hat and spouting a large cigar.
-  claim_id: f3a2700a-2a39-4260-9719-4b05c809bd9d
+  location: ch13:3345-3471
+  quote: Jim brought Russ Stratton to the case, who engaged the film archival experts
+    to try and identify the all-important man in the photo.
+  claim_id: dc83db8f-0d3b-4826-9d2b-5cb51b55e471
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f3a2700a-2a39-4260-9719-4b05c809bd9d
-- text: In 2016, Kean acquired a photo of Marty Martyn's grave showing the dates 1903-1964
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dc83db8f-0d3b-4826-9d2b-5cb51b55e471
+- text: Hammons said Martyn's father died when Marty was a boy; the father actually
+    died six years before Martyn.
   source: Surviving Death
-  location: ch13:23667-23752
-  quote: In 2016, I acquired a photo of Marty’s grave for the first time, with the
-    dates 1903–1964.
-  claim_id: 8368f8e6-a81b-4b5b-a19d-6c15b470c660
+  location: ch13:10201-10318
+  quote: He said his (Marty’s) father died when he was a boy, which was not the case
+    (Marty’s father died six years before he did).
+  claim_id: 762a7574-585f-4fe2-b81c-9a4fdfe54b9c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8368f8e6-a81b-4b5b-a19d-6c15b470c660
-- text: 'In preparing for her reading with Laura Lynne Jackson, Kean focused on two
-    people close to her who had recently died: her friend Budd Hopkins and her brother,
-    Lloyd Garrison Kean'
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-762a7574-585f-4fe2-b81c-9a4fdfe54b9c
+- text: Hammons said Martyn was cremated, but Martyn's death certificate states he
+    was buried.
   source: Surviving Death
-  location: ch23:10173-10399
-  quote: In preparing for the reading with Laura, I focused on two people close to
-    me who had recently died—my dear friend Budd Hopkins, an accomplished abstract
-    expressionist painter and UFO researcher, and my brother, Lloyd Garrison Kean.
-  claim_id: cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
+  location: ch13:10324-10397
+  quote: Ryan had said he was cremated, but Marty’s death certificate says he was
+    buried.
+  claim_id: 4a12125d-62e3-4e71-9448-3ed932bfbd29
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
-- text: Kean got an appointment for a reading with Jackson two months after emailing
-    her, without giving Jackson her last name, using a friend's unrelated email for
-    all communications
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4a12125d-62e3-4e71-9448-3ed932bfbd29
+- text: During an apparition experience at the family summer house, the figure dissolved
+    into shimmering particles and nothingness as Kean's fear increased.
   source: Surviving Death
-  location: ch23:8778-8954
-  quote: I was fortunate to get an appointment two months after emailing her, without
-    giving her my last name. I had a friend with an unrelated email conduct all the
-    communications for me.
-  claim_id: 553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
+  location: '32'
+  quote: the form began to slowly dissolve... watching what appeared to be a solid
+    figure disintegrate before my eyes into shimmering little particles, and then
+    nothingness
+  claim_id: 4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
-- text: Jackson did not have Kean's last name and did not know Kean was preparing
-    a book at the time of the reading
-  source: Surviving Death
-  location: ch23:11429-11554
-  quote: She did not have my last name and didn’t know that I was preparing a book,
-    so why would she bother to search my phone number online?
-  claim_id: eae0743e-3332-47be-a15a-4bf7d41737c3
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-eae0743e-3332-47be-a15a-4bf7d41737c3
-- text: Jackson told Kean the male spirit present was older by twelve to fifteen years,
-    had died two to three years earlier, and was not married to Kean, all accurate
-    to Budd Hopkins
-  source: Surviving Death
-  location: ch23:12278-12447
-  quote: She told me that he was older, maybe by twelve to fifteen years; that he
-    “crossed” two to three years ago, and that we were not married. These all were
-    accurate to Budd Hopkins.
-  claim_id: 024b2a6f-efe8-493c-a050-49cc15dd31cc
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-024b2a6f-efe8-493c-a050-49cc15dd31cc
-- text: During the reading, Jackson said the brother had a 'J' or 'G' name; the only
-    name Kean's brother went by was Garry
-  source: Surviving Death
-  location: ch23:16724-16796
-  quote: She said he had a “J” or “G” name (the only name my brother went by was Garry)
-  claim_id: 4a76dad0-c22b-47d5-8b1f-2df3fd5dbbd0
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4a76dad0-c22b-47d5-8b1f-2df3fd5dbbd0
-- text: Jackson said Garry thanked Kean for keeping his secret, a private matter Kean
-    had kept from the family at his request
-  source: Surviving Death
-  location: ch23:18499-18926
-  quote: 'Then, Laura made the most powerful statement of all, coming from my brother:
-    “He said thank you for keeping his secret.” I was taken aback. This involved a
-    private circumstance and related issues involving my brother that no one knows
-    about outside the immediate family except possibly a few intimate friends. For
-    years I had kept this secret from the rest of the family, at his request, until
-    I realized I should no longer do so.'
-  claim_id: 2c02b7f3-7c90-407e-8847-3cb84c544abb
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2c02b7f3-7c90-407e-8847-3cb84c544abb
-- text: The only information about Kean's brother online was a three-sentence New
-    York Times obituary too short to be found even by a deliberate search
-  source: Surviving Death
-  location: ch23:17321-17641
-  quote: I can confirm that all that was available on the Internet about my brother
-    was a three-sentence *New York Times* obituary. It is so short that even if Laura
-    had attempted a search, she would not have found it. When you put “Leslie Kean
-    death,” “Kean obituary,” or “Leslie Kean brother death” in Google, it does not
-    come up.
-  claim_id: 589a312f-c46e-4893-9281-4cbb0a264eab
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-589a312f-c46e-4893-9281-4cbb0a264eab
-- text: Kean never made any reference to her brother on social media
-  source: Surviving Death
-  location: ch23:17645-17696
-  quote: I never made any reference to my brother on social media.
-  claim_id: bdbe26cb-9d14-45ae-9b27-6789f1b9ab2a
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bdbe26cb-9d14-45ae-9b27-6789f1b9ab2a
-- text: Later, when Kean listed all the points Jackson provided in the reading, the
-    correct information far outweighed the inaccurate
-  source: Surviving Death
-  location: ch23:19581-19685
-  quote: Later, I made a list of all the points Laura provided, and the correct information
-    *far* outweighed the inaccurate.
-  claim_id: 544a0715-9786-4028-8545-5fe536b3332b
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-544a0715-9786-4028-8545-5fe536b3332b
-- text: In both the reading with Jackson and with Sandra O'Hara, Budd Hopkins appeared
-    first and dominated the session, while Kean's brother was withdrawn and appeared
-    only at the end
-  source: Surviving Death
-  location: ch24:10042-10290
-  quote: In both cases, the mediums said Budd was assertive and clear, but my brother
-    was withdrawn and harder to read, as if the same two distinct personalities were
-    present in each reading. Both times, Budd appeared first, and did all he could
-    to hog the stage.
-  claim_id: e6c5be47-2f92-4087-aafc-d2dda5ad4e46
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e6c5be47-2f92-4087-aafc-d2dda5ad4e46
-- text: In August 2015, Kean was in Northern England for research, where British medium
-    Sandy Ingham visited her at a mutual friend's home
-  source: Surviving Death
-  location: ch24:12170-12263
-  quote: A British medium named Sandy Ingham came to visit at the home of a mutual
-    friend where I was staying.
-  claim_id: 20495ee1-7ff1-4ad5-aedf-15669295897e
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-20495ee1-7ff1-4ad5-aedf-15669295897e
-- text: Kean received the message 'Thank you for keeping my secret' or its equivalent
-    from three different mediums who had never spoken to each other
-  source: Surviving Death
-  location: ch24:13591-13786
-  quote: 'Three times? From three different mediums who have never spoken to each
-    other, I was given: “Thank you for keeping my secret”…the word “secrets”…“you
-    kept my secret,” all seemingly from the same source.'
-  claim_id: dd9e6bdd-f134-4d5a-ac7e-a42833a08257
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd9e6bdd-f134-4d5a-ac7e-a42833a08257
-- text: Sandra O'Hara worked from her home outside Dublin, Ireland, and conducted
-    readings over Skype
-  source: Surviving Death
-  location: ch24:195-353
-  quote: Sandra worked from her home outside Dublin and did her readings over Skype,
-    a computer program that allows you the option of seeing the person you’re talking
-    to.
-  claim_id: e7ed0b31-5fcb-43d2-9ec8-82bc6885ae0d
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e7ed0b31-5fcb-43d2-9ec8-82bc6885ae0d
-- text: Kean adopted the false name Lesley Lay and had a friend conduct all correspondence
-    with O'Hara to conceal her identity
-  source: Surviving Death
-  location: ch24:478-610
-  quote: I adopted a false name, Lesley Lay, and a friend by that last name conducted
-    all the correspondence with Sandra for me on his email address.
-  claim_id: 9c011543-d94b-4d76-88cc-48d5b3afc40f
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9c011543-d94b-4d76-88cc-48d5b3afc40f
-- text: O'Hara had no phone number, email, location, or real name corresponding to
-    Kean before the reading, knowing her only as 'Lesley Lay'
-  source: Surviving Death
-  location: ch24:2651-2845
-  quote: 'To reiterate: all that Sandra knew was that someone named Lesley Lay was
-    calling her at a certain time. She had no phone number, no email address, no location,
-    or real name that corresponded to me.'
-  claim_id: d833b7bf-7c45-4916-96bc-1678cd844f73
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d833b7bf-7c45-4916-96bc-1678cd844f73
-- text: Robert Ginsberg of the Forever Family Foundation said Kean was 'spoiled' by
-    the outstanding scores achieved by the readings of Jackson and O'Hara
-  source: Surviving Death
-  location: ch24:15884-16016
-  quote: Robert Ginsberg of Forever Family Foundation says that I was “spoiled” by
-    the outstanding scores that Laura’s and Sandra’s readings achieved.
-  claim_id: 84453de7-fdca-4b48-bbe1-82c0da026ef8
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-84453de7-fdca-4b48-bbe1-82c0da026ef8
-- text: Kean had readings with two other mediums certified by the Forever Family Foundation
-    and Windbridge Institute, but they did not come close in accuracy to Jackson and
-    O'Hara
-  source: Surviving Death
-  location: ch24:15626-15872
-  quote: I had readings with two other mediums certified by the two organizations,
-    but they didn’t come close to Laura and Sandra. There was quite a bit of wrong
-    or unverifiable information by comparison, and much of the information was too
-    general to be evidential.
-  claim_id: 170b6ca8-59fb-4f71-abfb-0554a19a6aa3
-  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-170b6ca8-59fb-4f71-abfb-0554a19a6aa3
-- text: Kean was skeptical about mediumship but recognised it as testable and decided
-    to conduct her own experiments by seeking out the best possible mediums
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
+- text: Kean, sceptical about mediumship, decided to test it via her own controlled
+    experiments with the best available mediums.
   source: Surviving Death
   location: ch23:6462-6677
   quote: I was skeptical about mediumship, like many others. But I also recognized
@@ -917,38 +711,163 @@ references:
   claim_id: 1dff2b4e-e6db-4f6a-9773-7c1202972ce4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1dff2b4e-e6db-4f6a-9773-7c1202972ce4
-- text: Kean has personally witnessed many paranormal phenomena and states that she
-    knows they exist
-  source: In Plain Sight
-  location: ch24:20286-20353
-  quote: I have witnessed many paranormal phenomena myself, and I know they exist.
-  claim_id: fbb8866e-2539-40e1-bc2f-b8f234315d28
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbb8866e-2539-40e1-bc2f-b8f234315d28
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fbb8866e-2539-40e1-bc2f-b8f234315d28
+- text: Robert Ginsberg explained mediumship certification to Kean and recommended
+    Laura Lynne Jackson.
+  source: Surviving Death
+  location: ch23:8226-8385
+  quote: Robert Ginsberg, cofounder of FFF with his wife, Phran Ginsberg, explained
+    the certification process and suggested I contact medium Laura Lynne Jackson for
+    my reading.
+  claim_id: ffe94de9-b938-4fd8-9fb3-7bbb2dba7aa5
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ffe94de9-b938-4fd8-9fb3-7bbb2dba7aa5
+- text: Kean obtained a reading appointment with Jackson two months later, withholding
+    her surname.
+  source: Surviving Death
+  location: ch23:8778-8954
+  quote: I was fortunate to get an appointment two months after emailing her, without
+    giving her my last name. I had a friend with an unrelated email conduct all the
+    communications for me.
+  claim_id: 553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
+- text: Kean considered Laura Lynne Jackson an exceptionally accurate medium.
+  source: Surviving Death
+  location: '18'
+  quote: just as the mediums describe.” ... Laura being an exceptionally accurate
+    medium
+  claim_id: e5cea053-b87c-480b-82a8-818d82e64893
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e5cea053-b87c-480b-82a8-818d82e64893
+- text: Preparing for the reading, Kean focused on Budd Hopkins and her brother, Lloyd
+    Garrison Kean, both recently deceased.
+  source: Surviving Death
+  location: ch23:10173-10399
+  quote: In preparing for the reading with Laura, I focused on two people close to
+    me who had recently died—my dear friend Budd Hopkins, an accomplished abstract
+    expressionist painter and UFO researcher, and my brother, Lloyd Garrison Kean.
+  claim_id: cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
+- text: Kean recounted Jackson perceiving a strong-egoed male spirit consistent with
+    Hopkins's dominating personality.
+  source: Surviving Death
+  location: ch23:15628-16039
+  quote: Laura said she could perceive a big ego there, to the extent that he did
+    not respect her wishes to step back a bit, and “was not behaving.”... As I knew
+    Budd, he loved to talk about himself and be the center of attention. He would
+    usually dominate any gathering he attended, often not really listening or responding
+    to what anyone else said, but preferring to be the talker.
+  claim_id: 9d212c3a-f6f4-4cc3-9701-eb03823a44ff
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9d212c3a-f6f4-4cc3-9701-eb03823a44ff
+- text: Kean recorded Jackson identifying a brother figure with a 'J' or 'G' name;
+    her brother's name was Garry.
+  source: Surviving Death
+  location: ch23:16724-16796
+  quote: She said he had a “J” or “G” name (the only name my brother went by was Garry)
+  claim_id: 4a76dad0-c22b-47d5-8b1f-2df3fd5dbbd0
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4a76dad0-c22b-47d5-8b1f-2df3fd5dbbd0
+- text: Tallying the reading, the correct information Jackson gave far outweighed
+    the inaccurate.
+  source: Surviving Death
+  location: ch23:19581-19685
+  quote: Later, I made a list of all the points Laura provided, and the correct information
+    *far* outweighed the inaccurate.
+  claim_id: 544a0715-9786-4028-8545-5fe536b3332b
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-544a0715-9786-4028-8545-5fe536b3332b
+- text: Sandra O'Hara worked from her home outside Dublin and conducted readings over
+    Skype.
+  source: Surviving Death
+  location: ch24:195-353
+  quote: Sandra worked from her home outside Dublin and did her readings over Skype,
+    a computer program that allows you the option of seeing the person you’re talking
+    to.
+  claim_id: e7ed0b31-5fcb-43d2-9ec8-82bc6885ae0d
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e7ed0b31-5fcb-43d2-9ec8-82bc6885ae0d
+- text: O'Hara had no phone number, email, location or real name for Kean beforehand,
+    knowing her only as 'Lesley Lay.'
+  source: Surviving Death
+  location: ch24:2651-2845
+  quote: 'To reiterate: all that Sandra knew was that someone named Lesley Lay was
+    calling her at a certain time. She had no phone number, no email address, no location,
+    or real name that corresponded to me.'
+  claim_id: d833b7bf-7c45-4916-96bc-1678cd844f73
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d833b7bf-7c45-4916-96bc-1678cd844f73
+- text: In August 2015 Kean was in Northern England for research.
+  source: Surviving Death
+  location: ch24:12109-12160
+  quote: In August 2015, I was in Northern England for some research.
+  claim_id: d994dc3b-19a1-4390-9c4c-4236a5e6dd8a
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d994dc3b-19a1-4390-9c4c-4236a5e6dd8a
+- text: British medium Sandy Ingham visited Kean at a mutual friend's home in Northern
+    England, August 2015.
+  source: Surviving Death
+  location: ch24:12170-12263
+  quote: A British medium named Sandy Ingham came to visit at the home of a mutual
+    friend where I was staying.
+  claim_id: 20495ee1-7ff1-4ad5-aedf-15669295897e
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-20495ee1-7ff1-4ad5-aedf-15669295897e
+- text: Kean received the message 'Thank you for keeping my secret' from three mediums
+    who had never spoken to each other.
+  source: Surviving Death
+  location: ch24:13591-13786
+  quote: 'Three times? From three different mediums who have never spoken to each
+    other, I was given: “Thank you for keeping my secret”…the word “secrets”…“you
+    kept my secret,” all seemingly from the same source.'
+  claim_id: dd9e6bdd-f134-4d5a-ac7e-a42833a08257
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd9e6bdd-f134-4d5a-ac7e-a42833a08257
+- text: Kean asserts research shows a small percentage of mediums access precise information
+    under controlled conditions inexplicable by fraud, chance, cold reading or guesswork.
+  source: Surviving Death
+  location: ch23:5881-6203
+  quote: Research into mental mediumship shows that a small percentage of mediums
+    do have a genuine ability to access such precise information under controlled
+    conditions. Their results cannot be explained away as fraud, chance, cold reading,
+    or simple guesswork, because under the proper controls, these explanations can
+    be ruled out.
+  claim_id: 56f9e18c-63a6-4f5f-aa40-4fef0d04deb4
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-56f9e18c-63a6-4f5f-aa40-4fef0d04deb4
+- text: Kean holds there is no scientifically viable way to resolve the LAP-versus-survival-hypothesis
+    debate in mental mediumship.
+  source: Surviving Death
+  location: ch24:14618-14729
+  quote: There is ultimately no scientifically viable way to resolve the LAP vs. survival
+    debate with respect to mental mediumship.
+  claim_id: 80b6dc66-861c-401c-8dc6-31c252c0f250
+  record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
+  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 92889c11650ed3b387ba446588712c0d444bcf192101dadc1c369c76ba09273f
+  prompt_sha256: dab484ccc6c6559549a3b5553e658873b70a22c94380909350081c5b9e34587a
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 97782
-    output: 7968
+    input: 96531
+    output: 33892
     real_input: 2
-    cache_read: 39244
-    cache_write: 58536
+    cache_read: 39325
+    cache_write: 57204
     calls: 0
-  body_sha256: 275b0a52ed046b72729e1087373679e54e75a50663a5ab4ad7c706f8ab784ec3
+  body_sha256: 5fb6c5a38eb7d11aa5e24e807141ba61c1fe36997aef13e7d73deefbd14ad877
 ---
 
-Leslie Kean is an American investigative journalist known for her reporting on Unidentified Aerial Phenomena (UAP) and for her personal research into mediumship and after-death communication. In 2002, Thomas Wilson recounted that Will Miller had spoken with Kean, and that Boston Globe articles on UFOs subsequently appeared that referenced Wilson.<sup>2</sup> Kean went on to win a court case against NASA over the release of documents relating to the 1965 Kecksburg, Pennsylvania [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) incident,<sup>1</sup> and had, by the time of her later Pentagon reporting, become a longtime reporter for major metropolitan newspapers and the author of a well-received book on military encounters with UAP.<sup>2</sup>
+Leslie Kean is a journalist and author whose work spans investigative reporting on the [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) topic and journalistic investigation of evidence bearing on survival of consciousness after death. She was a longtime reporter for major metropolitan newspapers who had written a well-received book about military encounters with Unidentified Aerial Phenomena (UAP)<sup>1</sup>, and won a court case against NASA over the release of documents relating to the 1965 Kecksburg, Pennsylvania UAP incident<sup>2</sup>. Her UFO reporting reached intelligence circles early: in 2002, Will Miller spoke with Kean, and Boston Globe articles about UFOs referencing Thomas Wilson subsequently appeared<sup>3</sup>.
 
-Kean's UFO/UAP reporting intersects repeatedly with [Lue Elizondo](/people/lue-elizondo). She shared a byline with two other reporters on a 2017 New York Times story about him, having first met him in a nondescript Washington, D.C. hotel where he sat with his back to the wall, watching the door.<sup>3</sup> She was summoned to a separate Washington, D.C. hotel lobby meeting at which Christopher Mellon was present, for the purpose of introducing her to Elizondo,<sup>4</sup> and was shown documents there that she found astonishing.<sup>5</sup> Kean reported that a secret programme studying unidentified objects had operated within the Pentagon for ten years starting in 2007, prior to the December 2017 New York Times disclosure.<sup>6</sup> Christopher Mellon, Jim Semivan, and Harold Puthoff also met with Elizondo and Kean in a hotel lobby near the Pentagon,<sup>7</sup> a meeting that lasted four hours<sup>8</sup> and was, according to Elizondo, the first time Kean learned of the existence of the Advanced Aerospace Threat Identification Program (AATIP).<sup>9</sup> Elizondo later travelled to Philadelphia to meet Kean again, this time with her colleague [Ralph Blumenthal](/people/ralph-blumenthal);<sup>10</sup> during that visit, the three noticed two individuals with military-style haircuts watching them, whom Elizondo believed to be an Air Force Office of Special Investigations surveillance team,<sup>11</sup> and Kean photographed one of the men after he realised he had been spotted.<sup>12</sup> Kean and Blumenthal later reported that David Charles Grusch had provided the Defense Office of Prepublication and Security Review with the material he intended to disclose to them,<sup>13</sup> cleared for open publication in early April 2023,<sup>14</sup> and that a House Permanent Select Committee on Intelligence representative told them that month that committee members could not comment on a complaint or confirm a complainant's identity.<sup>15</sup> According to Ross Coulthart, in a Project Unity interview both Blumenthal and Kean indicated they believe there is substance to allegations that the US government has recovered alien spacecraft or fragments of alien spacecraft.<sup>16</sup> Kean has said that covering UFO crash retrievals has been particularly difficult to get published in The New York Times, given the controversy involved and the classified nature of the underlying information.<sup>17</sup>
+Kean's later UAP journalism centred on the Pentagon's UAP programmes. She was one of three reporters who shared bylines on the December 2017 New York Times story about [Luis Elizondo](/people/luis-elizondo), whom she met in a nondescript Washington, D.C. hotel where he sat with his back to the wall, watching the door<sup>4</sup>. She had been summoned to a Washington hotel lobby meeting, with Christopher Mellon present, for the purpose of that introduction<sup>5</sup>, and was shown documents there that she found astonishing<sup>6</sup>. Mellon, Jim Semivan and Harold Puthoff also met with Elizondo and Kean in the lobby of a hotel near the Pentagon<sup>7</sup>, in a session that lasted four hours<sup>8</sup>; it was during this 2017 meeting that Kean first learned of the existence of the Advanced Aerospace Threat Identification Program (AATIP)<sup>9</sup>. She went on to report that a secret programme studying unidentified objects had operated within the Pentagon for ten years starting in 2007, prior to the December 2017 disclosure<sup>10</sup>. Elizondo later travelled to Philadelphia to meet Kean again, this time with her colleague [Ralph Blumenthal](/people/ralph-blumenthal)<sup>11</sup>; there the three noticed two men with military-style haircuts observing them, whom Elizondo believed were most likely an Air Force Office of Special Investigations surveillance team<sup>12</sup>, and Kean photographed one of the men after he discovered them watching him<sup>13</sup>. In their subsequent reporting on David Charles Grusch, Grusch had submitted the material he intended to disclose to Kean and Blumenthal to the Defense Office of Prepublication and Security Review beforehand<sup>14</sup>; according to that reporting, his on-the-record statements were cleared for open publication on 2023-04-04 and 2023-04-06<sup>15</sup>, and a representative of the House Permanent Select Committee on Intelligence told Kean and Blumenthal in March 2023 that committee members were unable to comment on the content of a complaint or confirm a complainant's identity<sup>16</sup>.
 
-Kean's book Surviving Death documents a parallel line of personal research into reincarnation, mediumship, and after-death communication (ADC). She travelled to Charlottesville, Virginia, in 2014 to review case files with Jim Tucker at the Division of Perceptual Studies, arriving with a list of cases drawn from her study of Ian Stevenson's papers.<sup>18,19</sup> Among these was James Leininger, who at age two provided specific details matching the life of a man who had died fifty-three years before Leininger was born,<sup>20</sup> and whose memories all matched the life of James M. Huston Jr., a World War II pilot killed in Japan in 1945.<sup>21</sup> Kean observed that Leininger's emotions were as powerful as his memories, appearing to relive experiences that carried great meaning for him,<sup>22</sup> and that Tucker ruled out dissociative pathologies or possession after investigating the family.<sup>23</sup> Kean has said she agrees with Tucker's conclusion that the case warrants serious consideration as evidence of continuity of consciousness.<sup>24</sup> She also accompanied Tucker to Columbus, Ohio, in 2015 to interview the family of Luke Ruehlman.<sup>25</sup>
+In her 2017 book Surviving Death, Kean turned to evidence bearing on the survival hypothesis, including children's reports of apparent past-life memories investigated by Jim Tucker at the University of Virginia's Division of Perceptual Studies. In 2014 she travelled to Charlottesville, Virginia, to meet Tucker and review case files<sup>17</sup>, and in 2015 accompanied him to Columbus, Ohio, to interview the family of a boy who reported past-life memories<sup>18</sup>. Among the cases she examined was that of James Leininger: she recorded that all of his memories matched the life of James M. Huston Jr., a World War II pilot who died in Japan in 1945<sup>19</sup>, that his statements began before he turned two<sup>20</sup>, and that twelve of his core memory statements were established by the time he was three<sup>21</sup>. Tucker, after investigating, ruled out dissociative pathologies or possession<sup>22</sup>, and Kean concluded that fraud and fantasy could clearly be ruled out as explanations for the case<sup>23</sup>.
 
-Kean's second major case study centres on Ryan Hammons, whom she met at age ten during a visit to Warner, Oklahoma,<sup>26</sup> having first met the Hammons family at their home in early 2015.<sup>27</sup> She confirmed a source verifying each of Hammons's key statements using public records including national archives, newspapers, obituaries, and death certificates,<sup>28</sup> ultimately compiling fifty-five accurate statements Hammons had made about the life of Marty Martyn.<sup>29</sup> A researcher engaged in the case, Kate Coe, found an archival photograph from the film Night After Night showing a man wearing the same bowler hat and cigar as the man in a photo Hammons had pointed to,<sup>30</sup> and in 2016 Kean obtained a photograph of Martyn's grave showing the dates 1903-1964.<sup>31</sup>
+Kean reached a comparable judgement regarding Ryan Hammons, whom she met in Warner, Oklahoma, in 2015, when he was ten years old<sup>24</sup>. After returning to New York, she went meticulously through Cyndi Hammons's journal, noting every statement Ryan had made since Cyndi Hammons's first letter to Tucker in February 2010<sup>25</sup>. Kean catalogued a total of fifty-five accurate statements Hammons had made about the life of Marty Martyn, a former dancer turned Hollywood talent agent<sup>26</sup>; Tucker brought in television producer Russ Stratton, who engaged film archival experts to identify the man in a photograph Hammons had pointed to<sup>27</sup>. Kean also recorded a small number of inaccuracies: Hammons said Martyn's father died when Marty was a boy, when in fact the father died six years before Martyn himself<sup>28</sup>, and Hammons said Martyn had been cremated, though his death certificate states he was buried<sup>29</sup>.
 
-A third strand of Kean's research concerns mediumship readings connected to [Budd Hopkins](/people/budd-hopkins) and Leslie Kean's brother Garry. In preparing for Leslie Kean's reading with Laura Lynne Jackson, Kean focused on two people who had recently died: Hopkins and her brother, Lloyd Garrison Kean.<sup>32</sup> She secured the appointment with Laura Lynne Jackson two months after emailing her, withholding her last name and routing communications through a friend's unrelated email address;<sup>33</sup> Jackson did not know Kean's last name or that she was preparing a book.<sup>34</sup> During the reading, Jackson described a male spirit older than Kean by twelve to fifteen years who had died two to three years earlier and was not married to her, details Kean says were accurate to Hopkins.<sup>35</sup> Jackson also said the brother spirit had a "J" or "G" name - the only name Kean's brother went by was Garry<sup>36</sup> - and that he thanked Kean for keeping his secret, a private matter Kean had kept from the rest of the family at his request.<sup>37</sup> Kean has noted that the only information about her brother available online was a three-sentence New York Times obituary too brief to surface even in a deliberate search,<sup>38</sup> and that she had never referenced him on social media.<sup>39</sup> Reviewing the reading afterwards, Kean found the correct information far outweighed the inaccurate.<sup>40</sup> In both this reading and a subsequent one with Sandra O'Hara, Hopkins appeared first and dominated the session while her brother appeared only at the end, withdrawn and harder to read.<sup>41</sup> For the O'Hara reading, conducted by Skype with O'Hara working from her home outside Dublin, Ireland,<sup>42</sup> Kean adopted the pseudonym "Lesley Lay" and again used a friend's email to conceal her identity;<sup>43</sup> O'Hara had no phone number, email, location, or real name for her beforehand.<sup>44</sup> Separately, in August 2015, while in Northern England for research, Kean received an informal reading from British medium Sandy Ingham at a mutual friend's home.<sup>36</sup> Across these sessions, Kean received the message "Thank you for keeping my secret," or its equivalent, from three mediums who had never spoken to each other.<sup>45</sup> Robert Ginsberg of the Forever Family Foundation remarked that Kean had been "spoiled" by the accuracy of the Jackson and O'Hara readings,<sup>46</sup> after readings with two other certified mediums failed to come close in accuracy.<sup>47</sup> Kean has described herself as having started sceptical about mediumship but treating it as testable, prompting her to seek out the mediums she considered best for her own experiments,<sup>48</sup> and has said she has personally witnessed many paranormal phenomena and states that she knows they exist.<sup>49</sup>
+Kean's investigations extended to personal experience. She has described an episode of after-death communication (ADC) at her family's summer house, in which a figure slowly dissolved into shimmering particles and then nothingness as her fear increased<sup>30</sup>. Sceptical about mediumship like many others, she decided to test it through controlled experiments of her own, seeking out the best available mediums<sup>31</sup>. Robert Ginsberg explained the certification process to her and recommended Laura Lynne Jackson<sup>32</sup>; Kean obtained an appointment two months after first emailing Jackson, withholding her surname<sup>33</sup>, and has described Jackson as an exceptionally accurate medium<sup>34</sup>. In preparing for Leslie Kean's reading with Laura Lynne Jackson, she focused her thoughts on two people close to her who had died recently: her friend [Budd Hopkins](/people/budd-hopkins) and her brother, Lloyd Garrison Kean<sup>35</sup>. Kean recounted that, during the reading, Jackson perceived a strong-egoed male spirit whose behaviour was consistent with Hopkins's own tendency to dominate any gathering<sup>36</sup>, and that Jackson later identified a brother figure with a name beginning "J" or "G" - the only name her brother, Garry, went by<sup>37</sup>. When she later tallied every point Jackson had offered, the correct information far outweighed the inaccurate<sup>38</sup>. She subsequently conducted a comparably controlled reading with Irish medium Sandra O'Hara, who worked from her home outside Dublin and conducted readings over Skype<sup>39</sup>, and who had no phone number, email address, location or real name for Kean beforehand, knowing her only by the assumed name "Lesley Lay"<sup>40</sup>. Separately, while in Northern England for research in August 2015<sup>41</sup>, Kean received an informal, unscheduled reading from British medium Sandy Ingham, who visited at the home of a mutual friend<sup>42</sup>. Across three mediums who had never spoken to one another, Kean received the message "Thank you for keeping my secret," or its equivalent<sup>43</sup>. She has asserted that research into mental mediumship shows a small percentage of mediums able to access precise information under controlled conditions that cannot be explained by fraud, chance, cold reading or guesswork<sup>44</sup>, while maintaining that there is, in her view, no scientifically viable way to resolve the debate between the Living-Agent Psi (LAP) hypothesis and the survival hypothesis in mental mediumship<sup>45</sup>.

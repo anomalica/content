@@ -1,11 +1,12 @@
 ---
 title: Ross Coulthart
-description: Australian investigative journalist and author who reports on unidentified
-  anomalous phenomena, government secrecy and disclosure.
+description: Australian investigative journalist and author known for his reporting
+  on UFO and UAP disclosure, historic Australian sightings, and the Majestic 12 documents.
 metadata:
-  role: Investigative journalist, author
+  role: Investigative journalist and author
+  nationality: Australian
 built_from:
-  brief_hash: 24b4a2c5d637200761c9a56df6a1cfc2c5063d59e9bed241a1f5b8113125af2b
+  brief_hash: 65ec9a18affdcd889b32ebd9065af301eb66ac9cef62997f9db3df42bef01ab5
   claims:
   - id: c020a973-4cfe-42f6-946e-6783498171cf
     hash: a8389be3cc4a2005f52e6fdb75eaaa4a5f328937b5df513e2342fa38bd2403ee
@@ -36,19 +37,19 @@ built_from:
   - id: b5b4b6cc-ef40-4964-9457-f4316b97b11b
     hash: af9acbd1471fb2c54de75c06f8ac211a8f36e8cbbe8277e2558145adff45f6f0
   - id: 0ae4470b-4e9b-4d9c-9d4b-7149d3094b32
-    hash: e47a10c71bcc06e5a56efb39c079ac471f1e9e9253dfa5b882d1ff28e83943aa
+    hash: 29dacb67c948b187bcef4a5fe7548b37023d5a7fa0e8235437b356dbeee327ac
   - id: 64bc3a9c-cd62-4c85-ab80-bdb32ad677e2
     hash: 3fc7ad4319765eed741b052a816e4a2a35ca4b194f7448256c6f586203c9aad1
   - id: d8384845-99dc-4b1d-ad16-b957280ba8da
     hash: 79f0618ed07e7f91b362c6f653c31eda6c2a15c87b3579abdf6159c648dc890a
   - id: 9a4a96ee-f9a5-4187-bfd8-9dc5b998fb87
-    hash: c7e394cbe1ae490418dc9a1a636ec7d3951d723b772a6b33a0880662ba135a71
+    hash: 14b2335325a1accdd727b94bebe9c37f273d76ec8590d8144d22067ee032a7e2
   - id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-    hash: b891e069ac79400d7c7f7ef316e1b486d284b66342e76c0025f3b91e16d2dc75
+    hash: 7c6fa0bdfc459181bd20e54ef7cbeb4ae7c22163a486df360daf05eb02785c98
   - id: 97361b62-ca01-4a6e-9c70-c0b674a92d83
     hash: 2312fba094711d90e958d42a27230797ee7229179d0b63b16c251ee1ed24569c
   - id: 37113eb6-2806-4457-8b6c-8b5678e56430
-    hash: f804d0a7d3556479bad1ea0a1daec849152d052ac1d7f74fbfc6b87e3e341dc0
+    hash: a123222f010412e369f9f3cbdd71fc0763103c2c29692afb49bb0e0ff8dff813
   - id: 238f8d36-30c9-4107-bf52-64fc0a0fe348
     hash: d051517ef23bab1382ab81ceef184171b4b9291f3ffc92ad4e4c98e8051afe3a
   - id: 3705ba2c-55df-49cc-be11-923aa23e0563
@@ -56,9 +57,9 @@ built_from:
   - id: 4cdbc4e1-3c91-4b24-bf77-7683a897280e
     hash: d01667acb77c90c7e0f6f449da92f9b1a8a069a3280ba920530e8b90e7a4c588
   - id: d6a50d0c-c131-46c4-81ee-873a5f452f6d
-    hash: 52af88b529cfcadd31f4100831699b01a70bb9f572558b78cd188e112bca9222
+    hash: 4cbc2cb43d4957e36d9612b7cf94f81a927fbb277e8308e91727d1c15ed1d7fd
   - id: 77a8f5cf-fbad-4fc4-bd8b-bfe7eb30b785
-    hash: 8ec599f238d718de952aa5bba9bc34e74ce154700430d6edfa92e43cdd3ae9b4
+    hash: 43af480ef363b71dc0c2f258ecb389c8fbbc9e0f3683d21327bd2c01975fc966
   - id: 0cf16f2b-bc5c-4507-8607-c7a02f59988c
     hash: abc67492e9a50064cc712db85eefbf6716bb675ce7ef71d999e784c96087f0ef
   - id: 80eefa23-c2a4-43bc-8920-df85698b75e4
@@ -68,7 +69,7 @@ built_from:
   - id: 138df2b0-d7cc-47be-bf68-5272a5a923e9
     hash: 609da0751817a76138b4f837db916a3d802df65c4d81d55efb15d534c3f2ebf6
   - id: 84a9ff00-2c5a-4645-8f59-faa60de1c06d
-    hash: f142ece1829a79f0aab306bc02fa579c4cdd56725bb656e819627be2e51cb849
+    hash: 08a2e197d813a93962c3d1ad53e83cc8df2524694c81ad64619be4d32aceec1a
   - id: b2983232-5479-4ef2-93cd-a0361e297ab1
     hash: 411f677798111a7e0c9666a3dde36e90487d8cf5d448970b8ff74cd97ce92bf7
   - id: 77fcc694-7d86-4e40-99ae-4fcc5777c48d
@@ -86,9 +87,9 @@ built_from:
   - id: a42b8e9d-08cc-43ef-bf93-38456adf3b82
     hash: be5b74352694142b65e7c9c0cc5889b3987271df45dd1813d59e3f61ce63a5e1
   - id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
-    hash: c618adc9cfe86eae8a74225447848cd4a30b2277c370b6de5ef6d7e8a4bc1602
+    hash: 4978885db2885e0914785308d80dc7777b7f33e379e400a56fb12f51896e3d75
   - id: 8741f993-3d50-40d4-ba94-95559b91b461
-    hash: 6579812ac77cb607be2edd27b3c7912ead76e24adab949dbc88efa32c4fa5859
+    hash: 2c2ee6b9bed73121a48cbbc7963236e79802319c545624d7cb5d1067a99c8afb
   - id: d394cf8d-25a0-4f5b-9c9a-f3b5f7debf5a
     hash: e552bf06acec97ccbccff44119e93575931a6b9c832efb0570c3bedc87d31ba8
   - id: 4d3d3762-a1fb-4b97-8287-fb3addfab5dd
@@ -162,7 +163,7 @@ built_from:
   - id: 8087690c-d72d-47c7-80f3-bbfc891c02fe
     hash: fecc299f091a2a0c034cd5c3d99a5543e9988e3af3074013c90e8b54f3520c19
   - id: d8cd4367-add9-446c-aedc-437e790a1dbe
-    hash: 974e1f0461d95f2ac2573bfec13088c38e57a5e86e2f7b3a409798d0d87f9639
+    hash: 363c96684bb4654833887b557fbd2319a3addf5673d86a84fae2c76135bae895
   - id: 0b4ab21b-8dc5-4a91-8bad-10df4c336fde
     hash: ad82daa3531348d017961cc84d0842b45b9016e6ab44e36f27e29792c55c3129
   - id: b3ab4e46-8bdb-4975-ba22-73b7848e241f
@@ -210,9 +211,9 @@ built_from:
   - id: bcb3d3fe-16c2-48f3-bb09-b1bf06a65125
     hash: f90ec0d4c03d6a1b02a2be95a8a43d176891ec968fa88e89be4defb813a0854c
   - id: 3fa2176a-09f6-41c1-9913-b7ce402cdb67
-    hash: c232909718732799631596cfadbbd6fed95faecade256ce73966325b6d0fa7f7
+    hash: d72d9d12c183b0a4c7784c13c48d16915268d7a5e54a199bc2b2023cab0bbff3
   - id: e7aa6a20-04a3-4ce0-8c30-ae0265547274
-    hash: 4fbd901271b5e7e98c1e9424a4042af05dd8eb30d39e612f83ad360f3d537baf
+    hash: 0a911b142919057a3af0c4ea152ef3f1628db17361ef43709000b24f89ff42fe
   - id: 4f698c05-65a0-43c6-857a-cd0bc5b5ebed
     hash: de44f9a4177bde43d37679f7d69b1113593f391b5ac5fbe3d0028dee8e819304
   - id: e5997828-6045-4995-915d-844539874806
@@ -230,7 +231,7 @@ built_from:
   - id: 663855c6-1333-4331-bcd7-e5165acb56da
     hash: d257075efad92ace5916850d42a0751780b6e8db8e6b523563c5edcd1dc877db
   - id: a09170e0-66cd-4663-aa85-01503ce3b45c
-    hash: 9bee8c8a8a8eea13b777d0893ddfff4897719e06be6b54738339bf9039dcbafe
+    hash: 98c0b73b4f7c0cdac1f68007f9361491ffe03633ba4396ae40a3e273c13d29a9
   - id: 2271d260-8b9c-46d1-b9ce-ac04d3af620c
     hash: e20085e19a7b49b3782c00e11982a6c143c949ea55a55bb072d20b9a40fac6f8
   - id: 2ede72f4-086e-41fc-b564-ca9252cc3ecb
@@ -246,13 +247,13 @@ built_from:
   - id: 2373da46-02de-4e3e-b8f3-cc62a0bc4174
     hash: 31fe371bf691b57988f865c3c6701362e6d6f3aff97bd9fef17351bcd4dc03e7
   - id: ed425a88-7352-4f5c-94d2-9beab1741c52
-    hash: 34ea295669b4f03236a33dc5f38b2a50c50776135fba65c84b1ed51cb3850072
+    hash: 8f209868ecf5c84193a084a50669d3ed3f3c894ac10029d55dcba3566c8bd000
   - id: 80f1659f-ea2a-432f-9ba0-102f44a29758
-    hash: 32b8d42f8dbf5a310408c1c17103eaff7c8bfa9e486c4a96de7f0db051a5ed75
+    hash: d763321776af1b4fc254c63799eb56c4ce2f07b66da4609184d448136ffe3559
   - id: e85da0bf-ccbb-4ef8-a2a4-ec2c3fb806a2
     hash: e67bc61d0db47a1cdf9860bfc023acc56088443bba08b1ea12551da94c713310
   - id: 376c8caa-6f94-451f-bd60-60eae39b4178
-    hash: 826cd7ee0eb7a59b37eaf5b7f6dc420ae2f50d00345439d120ae3ea5e3446bfd
+    hash: 319eb215218001ee656e76696f07f09e3a90a68d56e1bc9eba0549132c9cc9da
   - id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
     hash: 5525f16eb5783fbdd2c5f79b9a84714cd21e88e9dccfc6cfe07dc02a7b39a78d
   - id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
@@ -262,7 +263,7 @@ built_from:
   - id: 5c840403-0043-457d-b537-795187d051b8
     hash: 029ecb2380a49ac9eabfe8a1408baec6e9132bbb5fbbb61918e9b86c9759f33c
   - id: e488957b-d09d-47cd-857c-5327e132f318
-    hash: 66f8ace3a081bef2633ab86f93573ecf54e225d888361bd36c3609794e642962
+    hash: 1ed6588ab0fa250e62e779712aac3baf70f3185eb4d15a92a76895c0153eef6f
   - id: 47b8689a-ac3e-4f70-a572-327448909d94
     hash: 27259a04c50d71222c91081d09e57b7e69f48738a251d8edec752c4409f932f8
   - id: a41cbe0f-638b-4412-8d5f-b5367e14d455
@@ -274,9 +275,9 @@ built_from:
   - id: d5165563-8893-4491-ba4d-7854d779a4f0
     hash: 713cef6d7dd930da1f460d4b51876cb5f117f2e0613b244bd723346923e76d1b
   - id: a0b0152d-51bd-4f32-9581-ddcf98ff364d
-    hash: 41b4444f683e9a9c77994778b4e29c4138e9e88a394ed80d75f9b876a96e6405
+    hash: b2cadefd7e92d0e8f7edfa8bd79d123e6ed2c7165a457f3bec28e1b2be1a9974
   - id: 347dab82-970f-4471-8a1e-4c6144e5298b
-    hash: a6ca1c4fae00e3ca043008d14ad73692df7b9e017ed19c9772f48442b079be5d
+    hash: 8c5bb129a3b8c670d8f4a60b5674429317c3830d63531f25bb41d0efa820886b
   - id: 7461a2e7-ee82-4580-bb85-fc0459cb3d37
     hash: 88493334e4ae2ea020fa74193034f80f958e612a6dcb8c66621e71368c0355e5
   - id: 11c0685e-2a27-4666-a22a-3e542f16b7fd
@@ -310,7 +311,7 @@ built_from:
   - id: 3461ffe7-70a0-40e5-82b6-5d8b9a76c3a0
     hash: 16d3fa936894ca78ff4e196fe15949f5ec424389f32b0b5c440d6758fc800c6c
   - id: 873f7a4f-5572-4c8f-bfb0-103506fa290e
-    hash: 5020a341c064001b585191a3da0d9c85380cc285656a9337c7fd59785477108c
+    hash: 870654c73f854917cab42d92b2d4b4421ffcc6a151e6ef645f8a39ab1ae8c6c1
   - id: 123d979a-8500-442b-a5b4-d828a51a61da
     hash: 1e9917fe2fdd9080c4cd45e82d746008c8350ba84ba4e2eb65f1997fc85c126c
   - id: 57c756c8-2e00-4c33-adaf-57d11b5bb343
@@ -324,7 +325,7 @@ built_from:
   - id: 9717e19e-e7bb-405a-bcee-559281dd3102
     hash: 72f80bf8566b4f44299fa53ea8202e4796123fb7a82b6b295c64b7108f3ce09c
   - id: 1d6f9867-31e8-4733-ba9e-b637424d4eba
-    hash: f094879372226bb239c0ebf5a17b40fd43d61e0d3d8c1b32666ac73f245fcdef
+    hash: 1ce3b7eb1fdc79a7000a2bc6fea1b1bfc2919769088e4e8477b271b424e4f73b
   - id: 37b994d4-43c4-4419-8dc3-e0720f6daf46
     hash: e191435f14ffe18ea34f810f9d247c5da543623c2d269e680c5300ce733f270c
   - id: 802ffb7e-6af8-498d-af1e-602542555d25
@@ -346,7 +347,7 @@ built_from:
   - id: 39bbf813-b4b3-4dc8-8dd8-1caccd943490
     hash: ead9730184a9de92b0ca40aa9b2d7a00473574e3bf0bd9f3be40f88b6465e6ad
   - id: 9cb686c9-4c37-439c-810d-28fbf3d7fb0d
-    hash: c6a07b2d8f2ec8701aba7d0406b2b6b15a199aa294626db728bf5af4730ca20f
+    hash: 2b13bb6937f7d95393f26a32acae21fe3186b171dfb65ce899cdbd7cd977ab96
   - id: 371af71a-156c-4c0e-be0d-7322784c06dc
     hash: 53501aefcf2225fabf52691f535419fe858cb05b2c6bfbcf3541a7a3dd717755
   - id: 6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
@@ -364,7 +365,7 @@ built_from:
   - id: 03578f29-97ec-449a-9fee-99a099b0221d
     hash: 1e8aa08f9d4640e9e17e93d5575e5e7910ddfd5b29019d41dc3bd9df5e3567ea
   - id: ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
-    hash: 5117878b40862979768b4c857b12eede307a49673a37a502494845373ca101df
+    hash: ee9553488ca4574106f7062d6232a809f078750c6de1dc97a8a8e2e1018c54ba
   - id: 69e70832-b560-41eb-93a7-d8a312a723ae
     hash: c987911334a6a1cb9ebab0ef17f5c013675e60bd5e5225629deb4f74e5b17070
   - id: 269012ca-24f9-495b-b988-daa4fcdb5072
@@ -376,7 +377,7 @@ built_from:
   - id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
     hash: c0f1b75d68e7cd2e824e3321ce159d062b1e6ee35ea6a9b067a5bb50826a31f0
   - id: 1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
-    hash: de6ec33cf5d1f5d486e814e7575be66574f96f67f02c790804d243781986d2c6
+    hash: 286f53fcbf446a215bd8b106294491d342488c9ce583825edde1c158f54601ea
   - id: 7ebab8cb-2d6a-4d32-ae2a-6101765c8cdf
     hash: 4e20b735c3c036c8f3279053854b204393772648745a3c635bcdd5277c094caa
   - id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
@@ -392,9 +393,9 @@ built_from:
   - id: 0f1a18dd-fe3c-4965-8ef5-d8944f0a3c08
     hash: 570c7b873838f722391cfec16bbfe50ca01f84bf71b5c15f9b4f519bcb3444c5
   - id: e76007de-d4dd-40b6-80ff-dd4c7cf09804
-    hash: 56108ccede0a51e8d45ddfd6d44e0027d906464215d85831e734fad299a53257
+    hash: 8feda48bc3bc66bc6e451f1f7e87107d2fe796c761dddc7e3c28c77b2f905122
   - id: 2e864102-c203-406f-8b5d-fc297dbd0abd
-    hash: b405019b17888d25e83e0c76e74e42ccd6b0bd3f21bf132535975bf4982bf541
+    hash: 75493d8f8cc9b752bf8fe4ef16f14c9dffb2b2fa198678f818e92ad8628e74a1
   - id: 9c16a9ad-a891-4efa-a135-b447a3e31eae
     hash: 92422ef3ea15fb65bb99cea82c36ecf5954325180fc50acebff094ac3c9d3ccb
   - id: 34aa6e2a-f25a-4b77-a934-5fc407eb7b52
@@ -404,12 +405,29 @@ built_from:
   - id: f81041f5-03cc-40b8-bb07-5263f65c1025
     hash: a19581259569138bbbc2f1a7bbeae15214358e4604efa33020a80f1384e13dff
   - id: e2398aa8-bfd9-47de-a1af-e20c02d917ee
-    hash: da958b50d65f73b530621bf61dc81bc875489754217713ce791ce01ccc440a4d
+    hash: da49e1b790e42a56c8a57d0bfba14b55a95d4e8fcd93218c7c0832f02cb1ab87
   - id: ef659678-d55d-4a57-8d31-ed4f63a08a01
-    hash: d53b20b561d20694fd6806884b94bf7f95c882633c7fd7f474ee320817a13884
+    hash: 1e3ce994568c9a23dc72582af3011a0c4af06afdddb8a4c798e0081373612c5f
 references:
-- text: Coulthart calls the Westall school incident Australia's, and one of the world's,
-    most witnessed unexplained UAP sighting.
+- text: Coulthart is a veteran Australian reporter who became a leading UFO disclosure
+    journalist
+  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+  location: line 107
+  quote: '[note: Ross Coulthart - Veteran Australian reporter turned leading disclosure
+    journalist]'
+  claim_id: 2271d260-8b9c-46d1-b9ce-ac04d3af620c
+  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
+  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2271d260-8b9c-46d1-b9ce-ac04d3af620c
+- text: Year-long investigation into UAP documented in a book and on camera
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:04:11.7-00:04:23.1
+  quote: Ross Coulthard has been on a year-long investigation. Along the way, recording
+    every moment, every revelation in a book and on camera.
+  claim_id: 8741f993-3d50-40d4-ba94-95559b91b461
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-8741f993-3d50-40d4-ba94-95559b91b461
+- text: Westall school incident called Australia's, and the world's, most witnessed
+    unexplained UAP sighting
   source: In Plain Sight
   location: ch10:10833-11003
   quote: What the school children and teachers saw became known as the Westall school
@@ -419,18 +437,38 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c020a973-4cfe-42f6-946e-6783498171cf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c020a973-4cfe-42f6-946e-6783498171cf
-- text: Coulthart finds the evidence suggestive of an official cover-up at Westall,
-    despite being loath to believe in cover-up conspiracies.
+- text: Flier sent to Westall witnesses ahead of the 55th anniversary in April 2021,
+    inviting interviews
   source: In Plain Sight
-  location: ch10:15014-15134
-  quote: As much as I am loath to believe in cover-up conspiracies, the evidence suggests
-    an official cover-up did take place at Westall.
-  claim_id: 7c620dff-7550-4a03-bf45-cef7f2325cca
+  location: ch10:15754-15922
+  quote: When, at my request, a flier was sent out to Westall witnesses, inviting
+    them to attend the 55th anniversary of the 1966 event in April 2021 and be interviewed
+    by this author
+  claim_id: bf359fd0-ece9-49b6-a8d8-f4313f96a008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7c620dff-7550-4a03-bf45-cef7f2325cca
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7c620dff-7550-4a03-bf45-cef7f2325cca
-- text: No document on the Westall incident has ever surfaced from any Australian
-    government archives, despite strenuous researcher efforts.
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
+- text: Friend's father, a Defence scientist, investigated Westall and wrote a secret
+    report
+  source: In Plain Sight
+  location: ch10:16318-16453
+  quote: He told me that in the wake of the Westall incident his father had investigated
+    the event and written a secret report about it for the Department
+  claim_id: f0049d4c-f607-436a-a4ea-e2724e049137
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f0049d4c-f607-436a-a4ea-e2724e049137
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f0049d4c-f607-436a-a4ea-e2724e049137
+- text: A black Humber car collected the friend's father each morning after Westall
+  source: In Plain Sight
+  location: ch10:16469-16634
+  quote: that in the days after the mass sighting 'a black Humber car arrived at our
+    family home from the Department early every morning to take him back out each
+    day to the school'.
+  claim_id: e1476186-821b-4df1-95ba-62655ec6a2cd
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
+- text: No Westall document has ever surfaced from Australian government archives
   source: In Plain Sight
   location: ch10:16846-16972
   quote: Not one document on the Westall incident has ever surfaced from any government
@@ -439,8 +477,25 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
-- text: Researcher Shane Ryan has interviewed 122 witnesses who clearly saw a 'flying
-    saucer' at Westall.
+- text: Coulthart in no doubt a secret Westall report was written
+  source: In Plain Sight
+  location: ch10:16985-17078
+  quote: Knowing the credibility and integrity of my source, I am in absolutely no
+    doubt a report was written.
+  claim_id: 56182c24-4122-4771-b54a-c1fda1b12bfb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
+- text: Shane Ryan works at Australia's Parliament House in Canberra
+  source: In Plain Sight
+  location: ch10:17910-18000
+  quote: Ryan is a dogged investigator who works in his day job at Australia's Parliament
+    House in Canberra.
+  claim_id: bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
+- text: Shane Ryan interviewed 122 Westall witnesses who saw a 'flying saucer'
   source: In Plain Sight
   location: ch10:17775-17901
   quote: Researcher Shane Ryan told me he has interviewed an extraordinary tally of
@@ -449,45 +504,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
-- text: Coulthart suspects Australia's official reluctance reflects the military's
-    discomfort admitting it did not know what was flying unhindered over sites such
-    as Maralinga.
-  source: In Plain Sight
-  location: ch10:20551-20820
-  quote: I suspect one explanation for the official attempt to brush off most sightings
-    was that Australia’s military simply did not like admitting that it had no idea
-    what it was that was zooming unhindered in and out of our airspace, including
-    over nuclear bomb sites such as Maralinga.
-  claim_id: b5b4b6cc-ef40-4964-9457-f4316b97b11b
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5b4b6cc-ef40-4964-9457-f4316b97b11b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5b4b6cc-ef40-4964-9457-f4316b97b11b
-- text: A senior Australian military intelligence insider told Coulthart that UAP
-    are still frequently observed over sensitive facilities including Pine Gap.
-  source: In Plain Sight
-  location: ch10:20870-21126
-  quote: One senior Australian military intelligence insider told me UAPs are still
-    frequently observed over sensitive military facilities, including unexplained
-    sightings recorded over the super-secret Pine Gap US/Australian base 18 kilometres
-    south-west of Alice Springs.
-  claim_id: 0ae4470b-4e9b-4d9c-9d4b-7149d3094b32
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0ae4470b-4e9b-4d9c-9d4b-7149d3094b32
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0ae4470b-4e9b-4d9c-9d4b-7149d3094b32
-- text: Coulthart finds it difficult to escape the impression that Project Blue Book
-    and the Condon Report were really intended to shut down public interest in UAP
-    sightings.
-  source: In Plain Sight
-  location: ch10:24028-24200
-  quote: It is difficult to escape the impression that Project Blue Book and the Condon
-    Report’s true purpose was an attempt to shut down public interest in and the scrutiny
-    of UAP sightings.
-  claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-- text: Coulthart travelled to Exmouth, Western Australia, to investigate reported
-    strange aerial activity above the town.
+- text: Coulthart travelled to Exmouth, described as Australia's own Roswell
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:20:59.3-00:21:16.0
   quote: Under the watchful eye of the town's flightless guards, Ross Coulthart has
@@ -496,17 +513,7 @@ references:
   claim_id: 4d3d3762-a1fb-4b97-8287-fb3addfab5dd
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d3d3762-a1fb-4b97-8287-fb3addfab5dd
-- text: After the 1991 sighting, Annie and the two Australian Federal Police officers
-    with her were cross-examined and interrogated by Americans at the base.
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:27:07.6-00:27:17.6
-  quote: And those police officers and her were cross-examined, interrogated by American
-    people in the base in the days following the incident.
-  claim_id: f05b3817-314a-4b1b-9f89-c0a25719575f
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-f05b3817-314a-4b1b-9f89-c0a25719575f
-- text: During the 1991 sighting, the craft hovered next to Annie's car while it was
-    travelling at 100 kilometres per hour.
+- text: Craft hovered next to Annie's car travelling at 100 km/h during the 1991 sighting
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:35:47.6-00:35:51.7
   quote: It literally came and hovered next to the car as it was driving along at
@@ -514,8 +521,43 @@ references:
   claim_id: fff8dcdd-5e95-4a46-8d65-53095f32f880
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-fff8dcdd-5e95-4a46-8d65-53095f32f880
-- text: When Coulthart's crew tried to film around the Harold Holt Naval Communications
-    Station, Australia's Defence Department stopped them.
+- text: Annie and two AFP officers cross-examined by Americans at the base
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:27:07.6-00:27:17.6
+  quote: And those police officers and her were cross-examined, interrogated by American
+    people in the base in the days following the incident.
+  claim_id: f05b3817-314a-4b1b-9f89-c0a25719575f
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-f05b3817-314a-4b1b-9f89-c0a25719575f
+- text: Coulthart considers it a secret investigation intended to keep Annie quiet
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:27:45.3-00:27:57.8
+  quote: I'm in no doubt whatsoever that it was a secret investigation by the Americans
+    into what Annie says that she saw. And they didn't want her to talk about it.
+  claim_id: 0e2a228b-b680-4347-a4ae-3a35c48a91d8
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0e2a228b-b680-4347-a4ae-3a35c48a91d8
+- text: Coulthart finds Annie's account consistent and credible
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:28:15.8-00:28:31.2
+  quote: I think her story has been consistent all the way through. She's got excellent
+    recall. She's somebody who's got a very sturdy reputation in the jobs that she's
+    done inside the WA Public Service. Nobody can lay a glove on her, I think, in
+    terms of credibility.
+  claim_id: 5aeb9818-c0ba-412d-9521-f25070222887
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5aeb9818-c0ba-412d-9521-f25070222887
+- text: Files show the Harold Holt anomaly witnessed by many, including Defence Department
+    staff
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:31:59.4-00:32:11.5
+  quote: But there is an anomaly that has been identified and witnessed by numerous
+    people. And I know, because I've seen the files, it has also been seen on multiple
+    occasions by people in our Defence Department.
+  claim_id: eea10b68-c60e-441f-8f10-bd6201340bcb
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
+  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-eea10b68-c60e-441f-8f10-bd6201340bcb
+- text: Defence Department stopped Coulthart's crew from filming at Harold Holt
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:36:16.1-00:36:20.5
   quote: When we tried to go there and film around the base, the Defence Department
@@ -523,8 +565,7 @@ references:
   claim_id: bfb2c9cc-06b7-4cac-b79d-40897ffe0a1e
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bfb2c9cc-06b7-4cac-b79d-40897ffe0a1e
-- text: Coulthart's crew had to pull back to a hill approximately 10 kilometres from
-    the Harold Holt Naval Communications Station.
+- text: Crew pulled back to a hill approximately 10 km from Harold Holt
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:36:41.7-00:36:45.1
   quote: In fact, I think we had to pull back to a hill which was about 10 kilometres
@@ -532,28 +573,41 @@ references:
   claim_id: a1590a3c-cf91-4da5-9393-ec46f80b0c24
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-a1590a3c-cf91-4da5-9393-ec46f80b0c24
-- text: An anonymous source claiming to be one of two former officials and one serving
-    senior official told Coulthart the US has recovered alien extraterrestrial technology,
-    including spacecraft.
-  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
-  location: 00:57:28.9-00:57:46.7
-  quote: I've been told here in America by multiple defence and intelligence sources,
-    two former and one serving senior officials, something quite amazing, that America
-    has recovered alien extraterrestrial technology, including spacecraft.
-  claim_id: 827b422e-b5ae-4d9f-bddd-0c0348bb7f92
-  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-827b422e-b5ae-4d9f-bddd-0c0348bb7f92
-- text: Jonathan Caplan is a King's Counsel barrister who has practised law for over
-    50 years.
+- text: Coulthart considers Project Blue Book largely for public show
+  source: In Plain Sight
+  location: ch10:378-464
+  quote: This went way beyond Project Blue Book, which appears to have been largely
+    for public show.
+  claim_id: 3705ba2c-55df-49cc-be11-923aa23e0563
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3705ba2c-55df-49cc-be11-923aa23e0563
+- text: Coulthart calls the 1985 USAF summary statement a blatant deceit
+  source: In Plain Sight
+  location: ch10:24387-24410
+  quote: But this was a blatant deceit.
+  claim_id: 97361b62-ca01-4a6e-9c70-c0b674a92d83
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
+- text: MJ-12 documents allegedly established Majestic 12 as the retrieval group
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
-  location: 00:00:20.6-00:00:26.0
-  quote: He's a leading barrister, a King's Council, He's practiced for over 50 years
-  claim_id: 56e42efb-66e5-47e8-b74d-6905b0fe0a75
+  location: 00:17:08.8-00:17:17.1
+  quote: they established allegedly Majestic 12 as the group responsible for the retrieval
+    of non-human craft.
+  claim_id: 5514e068-a8e9-42b7-8581-4f549cc0384a
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-56e42efb-66e5-47e8-b74d-6905b0fe0a75
-- text: 'Jonathan Caplan is the author of the 2026 book Not For Disclosure: UFOs,
-    the World''s Best Kept Secret, and has researched UAP for over 50 years.'
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5514e068-a8e9-42b7-8581-4f549cc0384a
+- text: Jonathan Caplan has researched UAP for over 50 years
+  source: Watergate, the JFK assassination and a UFO secret at the center of it all
+    | Reality Check
+  location: 00:01:44.8-00:01:48.1
+  quote: He has researched UAPs for over 50 years
+  claim_id: d8cd4367-add9-446c-aedc-437e790a1dbe
+  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
+- text: Caplan authored the 2026 book Not For Disclosure
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
   location: 00:01:30.8-00:01:40.4
@@ -562,39 +616,8 @@ references:
   claim_id: 8087690c-d72d-47c7-80f3-bbfc891c02fe
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8087690c-d72d-47c7-80f3-bbfc891c02fe
-- text: Coulthart considers the Majestic 12 (MJ-12) files authentic beyond doubt.
-  source: Watergate, the JFK assassination and a UFO secret at the center of it all
-    | Reality Check
-  location: 00:16:28.0-00:16:30.4
-  quote: I mean, no doubt whatsoever that they are authentic.
-  claim_id: 042b5b1a-8907-4e58-ba7e-1bc3bc506823
-  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
-- text: A document referred to as the Truman Directive of 24 September 1947 was leaked
-    around 1980 to two filmmakers, and the resulting documents became known as the
-    Majestic 12 documents.
-  source: Watergate, the JFK assassination and a UFO secret at the center of it all
-    | Reality Check
-  location: 00:16:47.6-00:17:01.9
-  quote: There was a Truman Directive 24th of September 1947 in a document that was
-    leaked in 1980 or so to two filmmakers. And those documents became known as the
-    Majestic 12 documents
-  claim_id: ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
-  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
-- text: The provenance of the Majestic 12 documents is officially disputed by the
-    FBI and the US military.
-  source: Watergate, the JFK assassination and a UFO secret at the center of it all
-    | Reality Check
-  location: 00:17:02.4-00:17:07.5
-  quote: the provenance of which is still, of course, disputed officially by the FBI
-    and the US military.
-  claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
-  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
-- text: Jonathan Caplan examined the typography, printing, format, watermarks and
-    terminology of the documents, with corroboration from other diaries, to verify
-    their provenance.
+- text: Caplan examined typography, printing, watermarks and terminology to verify
+    MJ-12 provenance
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
   location: 00:25:59.3-00:26:08.0
@@ -603,37 +626,63 @@ references:
   claim_id: 6390decf-8320-4706-a1f1-7c6077936208
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6390decf-8320-4706-a1f1-7c6077936208
-- text: Coulthart spoke to two former living Australian prime ministers who swore
-    they had never been briefed on anything relating to UAP.
+- text: Caplan used Truman's and Eisenhower's diaries to corroborate the documents
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
-  location: 00:34:21.8-00:34:32.4
-  quote: i've spoken to two former living australian prime ministers and they swear
-    black and blue that they've never been read into any anything relating to uaps
-  claim_id: 3fa2176a-09f6-41c1-9913-b7ce402cdb67
+  location: 00:41:37.1-00:41:43.0
+  quote: I understand, for example, Truman and Eisenhower's diaries had useful information
+    to help you corroborate.
+  claim_id: 663855c6-1333-4331-bcd7-e5165acb56da
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3fa2176a-09f6-41c1-9913-b7ce402cdb67
-- text: Coulthart is a veteran Australian reporter who became a leading UFO disclosure
-    journalist.
-  source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-  location: line 107
-  quote: '[note: Ross Coulthart - Veteran Australian reporter turned leading disclosure
-    journalist]'
-  claim_id: 2271d260-8b9c-46d1-b9ce-ac04d3af620c
-  record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2271d260-8b9c-46d1-b9ce-ac04d3af620c
-- text: JNAP 146 criminalised military and civilian pilots in the US and Canada from
-    talking about UFO sightings.
-  source: Dr. Phil read the UAP files before the public, here's what he found | Reality
-    Check
-  location: 00:14:26.8-00:14:39.3
-  quote: what's called JNAP 146, where it essentially criminalised military and civilian
-    pilots in the US and unbelievably also in Canada from even talking about UFO sightings.
-  claim_id: 436abef4-1dfa-4d42-af6a-55052a818f04
-  record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-436abef4-1dfa-4d42-af6a-55052a818f04
-- text: David Grusch is a whistleblower who came from inside the US Department of
-    Defense and the intelligence community.
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-663855c6-1333-4331-bcd7-e5165acb56da
+- text: Coulthart considers the MJ-12 files authentic beyond doubt
+  source: Watergate, the JFK assassination and a UFO secret at the center of it all
+    | Reality Check
+  location: 00:16:28.0-00:16:30.4
+  quote: I mean, no doubt whatsoever that they are authentic.
+  claim_id: 042b5b1a-8907-4e58-ba7e-1bc3bc506823
+  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
+- text: Coulthart not fully convinced some subsequent MJ-12 documents weren't disinformation
+  source: Watergate, the JFK assassination and a UFO secret at the center of it all
+    | Reality Check
+  location: 00:16:31.4-00:16:41.5
+  quote: I'm yet to be convinced fully that there's not ... the possibility that there
+    might have been deliberate disinformation planted in some of the subsequent MJ-12
+    documents.
+  claim_id: c4744730-9b9e-4c60-95d7-99a0d16364f0
+  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c4744730-9b9e-4c60-95d7-99a0d16364f0
+- text: MJ-12 provenance officially disputed by the FBI and US military
+  source: Watergate, the JFK assassination and a UFO secret at the center of it all
+    | Reality Check
+  location: 00:17:02.4-00:17:07.5
+  quote: the provenance of which is still, of course, disputed officially by the FBI
+    and the US military.
+  claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
+  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+- text: Roswell wreckage allegedly taken to Wright-Patterson Air Force Base
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:45:09.7-00:45:16.6
+  quote: you were reached out to by a former commanding general of Wright-Patterson
+    Air Force Base, where the Roswell wreckage was allegedly taken
+  claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
+- text: John Audette told Coulthart about the Admiral Wilson meeting
+  source: In Plain Sight
+  location: ch14:14671-14910
+  quote: One of these friends was John Audette, the co-founder of Mitchell's Quantrek
+    research organisation, who responded in detail to my inquiry about this meeting.
+    'Yes, Ed shared with me details about the Admiral Wilson meeting,' Audette tells
+    me.
+  claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
+- text: David Grusch, a whistleblower from inside the DOD and intelligence community
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
   location: 00:16:57.8-00:17:05.2
@@ -642,21 +691,16 @@ references:
   claim_id: 5e92ffe6-af92-4e4b-8cd5-fcc4d5e44bd3
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-5e92ffe6-af92-4e4b-8cd5-fcc4d5e44bd3
-- text: Ross Coulthart knows of people in the White House administration who are considering
-    giving the American public information about what the government knows regarding
-    UAP.
+- text: Grusch revealed a Legacy Program of retrieval and reverse engineering
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
-  location: 00:31:20.9-00:31:34.5
-  quote: I do know that there are people in the White House administration. I suspect
-    we've spoken to the same people who are toying with the idea of giving the American
-    public information about what the government knows.
-  claim_id: 376c8caa-6f94-451f-bd60-60eae39b4178
+  location: 00:17:06.4-00:17:16.7
+  quote: he revealed the existence of a legacy UFO non-human technology retrieval
+    and reverse engineering program.
+  claim_id: 48a9b1f7-427c-4644-bfef-9482e2dced6d
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-376c8caa-6f94-451f-bd60-60eae39b4178
-- text: During a cabinet meeting on 2026-08-11, with Marco Rubio and Pete Hegseth
-    present, Donald Trump said the administration is releasing information having
-    to do with extraterrestrial things.
+  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
+- text: Trump's remarks made at a cabinet meeting with Rubio and Hegseth, 2026-08-11
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:00:38.0-00:00:44.0
@@ -665,8 +709,25 @@ references:
   claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
-- text: Coulthart does not consider the material released to date on the war.gov UFO
-    files website to be evidence of extraterrestrials.
+- text: Trump said the administration is releasing a lot of extraterrestrial information
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:00:49.1-00:01:00.5
+  quote: The president said, we're releasing a lot of information having to do with
+    extraterrestrial, terrestrial things. And people are totally fascinated by it.
+  claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+- text: Trump said the release is trending number one
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:01:00.7-00:01:06.5
+  quote: Mr. Trump said, President Trump said, it's literally trending number one.
+    Can you believe it?
+  claim_id: 95380823-f21a-4ab1-a720-cad3c79684b8
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-95380823-f21a-4ab1-a720-cad3c79684b8
+- text: Coulthart does not consider the war.gov material evidence of extraterrestrials
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:01:09.5-00:01:24.2
@@ -676,8 +737,7 @@ references:
   claim_id: 5c840403-0043-457d-b537-795187d051b8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
-- text: Coulthart considers Trump's initiative in releasing and declassifying UAP
-    files a positive sign to be applauded.
+- text: Coulthart considers Trump's declassification initiative a positive sign
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
   location: 00:01:34.2-00:01:52.1
@@ -688,36 +748,63 @@ references:
   claim_id: e488957b-d09d-47cd-857c-5327e132f318
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
-- text: Ross Coulthart has replied to Paul H. Smith and expects to obtain further
-    details on Smith's rejection of the Stargate DNA-database story.
+- text: Jorjani said a remote viewer told him the CIA has DNA-database backdoor access
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
-  location: 00:06:07.5-00:06:10.0
-  quote: Now, I've gone back to Paul and I will be getting more details
-  claim_id: 209574ca-7615-488e-992b-f1fbf5c1bf5f
+  location: 00:02:50.8-00:03:08.1
+  quote: he said that a retired Army remote viewer named Lynn Buchanan who was part
+    of the old Stargate psychic spying program, told him the CIA has backdoor access
+    to consumer DNA databases like Ancestry.com and 23andMe.
+  claim_id: 879880a5-ca0f-4fa0-9c4f-1003cc93e130
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-209574ca-7615-488e-992b-f1fbf5c1bf5f
-- text: Coulthart considers Steven Spielberg to have a long and illustrious history
-    of covering non-human intelligence in an intelligent and provocative way, but
-    takes issue with Spielberg consistently portraying non-human beings as benevolent.
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
+- text: Jorjani said the access is used to screen for Nordic-alien genetic markers
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
-  location: 00:09:42.2-00:09:52.9
-  quote: I think Steven Spielberg has a long and illustrious history in covering the
-    issue of non-human intelligence, I think, in an intelligent and provocative way.
-  claim_id: 123d979a-8500-442b-a5b4-d828a51a61da
+  location: 00:03:09.8-00:03:22.6
+  quote: And what they're doing, supposedly, is screening for genetic markers, particularly
+    for those pesky Nordic beings, alien beings that allegedly reside here on the
+    planet with us.
+  claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
-- text: Whitley Strieber has written over 30 novels and non-fiction works; Communion
-    and Breakthrough are bestselling books by him.
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
+- text: Paul H. Smith, former US Army major and Stargate Project principal
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:05:16.4-00:05:24.2
+  quote: Dr. Paul Smith, a former major in the US Army, who was one of the principals
+    of the US Army Stargate program.
+  claim_id: cd496a07-2cf3-4961-b633-183e222b1f2a
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-cd496a07-2cf3-4961-b633-183e222b1f2a
+- text: Smith emailed Coulthart calling the DNA-database story 'balderdash'
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:05:48.9-00:06:06.7
+  quote: Quote, having been in Stargate myself for seven years and having been on
+    orders as the official unit historian, I am comfortable in saying that this story
+    is, to put it mildly, balderdash. If you want details, I'm happy to supply them.
+  claim_id: d6ad8c15-fbe2-43c5-bd07-0b1b38a5442e
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d6ad8c15-fbe2-43c5-bd07-0b1b38a5442e
+- text: Coulthart says he has no idea of the claims' veracity, calls them disputed
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:06:55.8-00:07:01.9
+  quote: And frankly, I really have no idea about the veracity of these claims. What
+    I can tell you is that they are disputed.
+  claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+- text: Strieber calls the beings he describes 'the visitors'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
-  location: 00:00:27.0-00:00:31.6
-  quote: the hugely successful author of over 30 novels and nonfiction works
-  claim_id: d2d87689-3e29-4383-84e5-96697063e07a
+  location: 00:00:36.3-00:00:40.0
+  quote: His experiences with the beings he calls the visitors
+  claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d2d87689-3e29-4383-84e5-96697063e07a
-- text: Whitley Strieber's book Communion was a New York Times bestseller.
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+- text: Communion was a New York Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:00:58.2-00:01:07.6
@@ -726,7 +813,16 @@ references:
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
-- text: Ross Coulthart attended a consciousness conference in Barcelona in 2025.
+- text: Coulthart regards Strieber as a controversial, leading figure
+  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
+    Check Rewind
+  location: 00:00:40.7-00:00:46.8
+  quote: have made him a controversial and leading figure in the study of alleged
+    experiencer close encounters
+  claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
+  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+- text: Coulthart attended a consciousness conference in Barcelona in 2025
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:08:13.6-00:08:15.3
@@ -734,9 +830,7 @@ references:
   claim_id: 6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
-- text: At the Barcelona conference, scientists including Stuart Hameroff and Roger
-    Penrose discussed non-local consciousness and the idea that the human brain is
-    an attenuator, transmitter and receiver rather than a computer.
+- text: Hameroff and Penrose discussed nonlocal consciousness at the conference
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
   location: 00:08:29.4-00:08:47.3
@@ -747,41 +841,49 @@ references:
   claim_id: ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
-- text: Coulthart regards the central mystery of the UAP subject as why the secrecy
-    persists 80 years after World War Two.
-  source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
-    Check Rewind
-  location: 00:50:09.7-00:50:20.7
-  quote: the central mystery in the whole UAP mystery is to me, why the secrecy? You
-    know, why is it 80 years on from World War II?
-  claim_id: e76007de-d4dd-40b6-80ff-dd4c7cf09804
-  record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e76007de-d4dd-40b6-80ff-dd4c7cf09804
+- text: Coulthart says Spielberg has covered non-human intelligence intelligently
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:09:42.2-00:09:52.9
+  quote: I think Steven Spielberg has a long and illustrious history in covering the
+    issue of non-human intelligence, I think, in an intelligent and provocative way.
+  claim_id: 123d979a-8500-442b-a5b4-d828a51a61da
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
+- text: Coulthart takes issue with Spielberg's benevolent-only portrayal
+  source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
+    Coulthart
+  location: 00:09:56.2-00:10:04.2
+  quote: one thing I do take issue with, I guess, is he's consistently portrayed the
+    beings as always benevolent, never a threat.
+  claim_id: 57c756c8-2e00-4c33-adaf-57d11b5bb343
+  record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
+  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-57c756c8-2e00-4c33-adaf-57d11b5bb343
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 083645bfff1948c34a265f2b92ceafe16a5d4251c5fb252d362c0f2bccecf30a
+  prompt_sha256: 0372eaa62f772d1ee0148a153705e73483d05c20a01d2ec9cf2fbb3402b1f223
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 106149
-    output: 6277
+    input: 105099
+    output: 46375
     real_input: 2
-    cache_read: 39247
-    cache_write: 66900
+    cache_read: 39325
+    cache_write: 65772
     calls: 0
-  body_sha256: f619ba90d5a7cd988223dc50a4f3b04d97ea91be4c77c96b542d0730809c9f6d
+  body_sha256: 11443948860bc4ac17bdc7c258030f6705271b94b2cb5f3dedf6dfecb29e9530
 ---
 
-Ross Coulthart is an Australian investigative journalist and author whose work centres on Unidentified Aerial Phenomena (UAP), government secrecy, and disclosure. He is described as a veteran Australian reporter who became a leading UFO disclosure journalist.<sup>1</sup> His reporting spans decades of Australian and international sightings, interviews with military, intelligence and political figures, and investigation of long-running claims about official cover-ups.
+Ross Coulthart is a veteran Australian reporter who became a leading [UFO](/topics/unidentified-flying-object-ufo) disclosure journalist.<sup>1</sup> He has conducted a year-long investigation into [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), documenting it in a book and on camera.<sup>2</sup>
 
-A significant strand of Coulthart's work concerns the 1966 Westall school sighting in Victoria. He has called it Australia's, and one of the world's, most witnessed unexplained UAP sighting.<sup>1</sup> He has said the evidence suggests an official cover-up, despite being personally loath to believe in cover-up conspiracies.<sup>2</sup> According to Coulthart, no document on the Westall incident has ever surfaced from any Australian government archives despite strenuous researcher efforts,<sup>8</sup> and he has cited researcher Shane Ryan's interviews with 122 witnesses who clearly saw a "flying saucer" at the site.<sup>11</sup> Coulthart has suggested that Australia's reluctance to acknowledge such sightings reflects the military's discomfort at admitting it did not know what was flying unhindered over sensitive sites such as Maralinga,<sup>14</sup> and he has reported that a senior Australian military intelligence insider told him UAP are still frequently observed over sensitive facilities, including unexplained sightings recorded over the Joint Defence Facility Pine Gap.<sup>15</sup> He has also said he finds it difficult to escape the impression that Project Blue Book and the Condon Report were really intended to shut down public interest in and scrutiny of UAP sightings.<sup>19</sup>
+Coulthart has said the Westall school incident remains Australia's, and one of the world's, most witnessed unexplained UAP sighting.<sup>3</sup> Ahead of the 55th anniversary of the 1966 event, he arranged for a flier to be sent to Westall witnesses in April 2021 inviting them to attend and be interviewed by him.<sup>4</sup> He said a long-time friend, a senior figure in the Australian federal public service, told him that his own father - a Defence scientist - had investigated the Westall event in its wake and written a secret report on it,<sup>5</sup> and that a black Humber car had arrived each morning in the days afterwards to take his father back to the school.<sup>6</sup> No document on the incident has ever surfaced from any Australian government archive, despite researchers' efforts,<sup>7</sup> but Coulthart said he is in no doubt a secret report was written, based on his assessment of his source's credibility.<sup>8</sup> He has noted that researcher Shane Ryan, who works at Australia's Parliament House in Canberra,<sup>9</sup> has interviewed 122 witnesses who he says clearly saw a "flying saucer" at Westall.<sup>10</sup>
 
-Coulthart has investigated the 1991 Australia, Western Australia, Harold Holt Naval Communications Station UFO sighting, travelling to nearby Australia, Western Australia, Exmouth to examine reports of strange aerial activity above the town.<sup>43</sup> He has reported that Annie, a witness to the sighting, and two Australian Federal Police officers who were with her were cross-examined and interrogated by Americans at the base in the days following the incident,<sup>45</sup> and that the craft involved hovered beside her car while it was travelling at 100 kilometres per hour.<sup>51</sup> When his own film crew attempted to shoot footage around the base, Australia's Defence Department stopped them,<sup>53</sup> forcing the crew to withdraw to a hill approximately 10 kilometres from the station.<sup>55</sup> Coulthart has also reported an anonymous source, described as one of two former officials and one serving senior official, telling him that the United States has recovered alien extraterrestrial technology, including spacecraft.<sup>64</sup>
+Coulthart also travelled to Western Australia Exmouth to investigate reported strange aerial activity above the town, which is described as Australia's own Roswell.<sup>11</sup> There he reported on the case of a woman named Annie: Coulthart said a craft hovered next to her car while it was travelling at 100 kilometres per hour near the Harold Holt Naval Communications Station in 1991.<sup>12</sup> The two Australian Federal Police officers who were with her were then cross-examined and interrogated by Americans at the base in the days following the incident,<sup>13</sup> which Coulthart considers to have been a secret investigation intended to keep her quiet.<sup>14</sup> He has said her account has been consistent throughout, with excellent recall, and that he finds her credible,<sup>15</sup> and that, according to files he has seen, the anomaly at Harold Holt has been witnessed by numerous people, including members of Australia's Defence Department, on multiple occasions.<sup>16</sup> When his crew attempted to film around the base, Australia's Defence Department stopped them,<sup>17</sup> and they were required to pull back to a hill approximately 10 kilometres away.<sup>18</sup>
 
-Coulthart's book In Plain Sight and related reporting examine the disputed [Majestic 12 (MJ-12)](/projects/majestic-12-mj-12) documents, a body of material alleging the existence of a secret group responsible for retrieving non-human craft, first leaked around 1980 to two filmmakers and traced to a document known as the Truman Directive of 24 September 1947.<sup>86</sup> He has said he considers the files authentic beyond doubt,<sup>84</sup> while noting their provenance is officially disputed by the FBI and the US military.<sup>87</sup> Working with Jonathan Caplan, a King's Counsel barrister of over 50 years' standing and author of the 2026 book Not For Disclosure: UFOs, the World's Best Kept Secret,<sup>73</sup><sup>77</sup> Coulthart has described Caplan's examination of the documents' typography, printing, format, watermarks and terminology, cross-checked against other diaries, as part of the effort to verify their provenance.<sup>96</sup> He has also said that two former living Australian prime ministers told him they had never been briefed on anything relating to UAP.<sup>102</sup>
+Coulthart has argued that official inquiries into UAP have historically served to suppress rather than resolve public interest: he considers Project Blue Book to have been largely for public show,<sup>19</sup> and regards the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf)'s 1985 summary statement that nothing indicated a need to resume investigating UFOs as a blatant deceit.<sup>20</sup> His research into the [Majestic 12 (MJ-12)](/projects/majestic-12-mj-12) files, which allegedly established Majestic 12 as the group responsible for the retrieval of non-human craft,<sup>21</sup> intensified through his collaboration with King's Counsel barrister Jonathan Caplan, who has researched UAP for over 50 years<sup>22</sup> and authored the 2026 book Not For Disclosure: UFOs, the World's Best Kept Secret.<sup>23</sup> Caplan examined the typography, printing, format, watermarks and terminology of the Majestic 12 documents, together with corroboration from other diaries, to verify their provenance,<sup>24</sup> including the diaries of Harry S. Truman and Dwight D. Eisenhower.<sup>25</sup> Coulthart considers the files authentic beyond doubt,<sup>26</sup> though he said he is not fully convinced that some subsequent MJ-12 documents were not deliberately planted disinformation,<sup>27</sup> and their provenance is officially disputed by the FBI and the US military.<sup>28</sup> The Roswell wreckage was allegedly taken to [Wright-Patterson Air Force Base](/places/ohio-wright-patterson-air-force-base-usa), where Arthur Ernest Exon had been a former commanding general.<sup>29</sup> Researcher John Audette, co-founder of Edgar Mitchell's Quantrek research organisation, told Coulthart, "Yes, Ed shared with me details about the Admiral Wilson meeting" - a reference to Admiral [Thomas Wilson](/people/thomas-wilson).<sup>30</sup>
 
-Coulthart has covered the more recent US disclosure debate, including whistleblower David Grusch, described as coming from inside the US Department of Defense and the intelligence community,<sup>116</sup> and the [Legacy Program](/projects/legacy-program) reverse-engineering claims associated with it. He has reported that JNAP 146 criminalised military and civilian pilots in the US and Canada from discussing UFO sightings,<sup>115</sup> and said he knows of people within the White House administration considering releasing further information to the public on what the government knows about UAP.<sup>123</sup> He has covered [Donald Trump](/people/donald-trump)'s 2026-08-11 cabinet-meeting remarks, made with Marco Rubio and Pete Hegseth present, about releasing information on "extraterrestrial things",<sup>124</sup> commenting that he does not consider material released so far on the war.gov UFO files website to be evidence of extraterrestrials,<sup>127</sup> while regarding Trump's declassification initiative as a positive step to be applauded.<sup>128</sup> On the disputed claim that the Stargate Project mined consumer DNA databases, Coulthart has said he replied to former Stargate Project member Paul Smith and expects further detail on Smith's rejection of the story.<sup>147</sup>
+Coulthart has reported on renewed US government disclosure efforts alongside more speculative claims circulating within the UAP research community. He said David Grusch, a whistleblower from inside the US Department of Defense and the intelligence community,<sup>31</sup> revealed the existence of a [Legacy Program](/projects/legacy-program) said to involve the retrieval and reverse engineering of non-human technology.<sup>32</sup> Coulthart reported that at a cabinet meeting on 2026-08-11, with Marco Rubio seated on one side of [Donald Trump](/people/donald-trump) and Pete Hegseth on the other,<sup>33</sup> Trump said the administration was releasing a lot of information having to do with extraterrestrial things and that people are totally fascinated by it,<sup>34</sup> and that it was trending as the public's number one interest.<sup>35</sup> Coulthart has said he does not consider the material released to date on the war.gov UFO files website to be evidence of extraterrestrials,<sup>36</sup> but he has described Trump's declassification initiative as a positive sign to be applauded.<sup>37</sup> Coulthart has also reported and tested more speculative claims: citing Jason Reza Jorjani's November 2025 interview, he said a retired US Army remote viewer had told Jorjani that the [Central Intelligence Agency (CIA)](/organisations/central-intelligence-agency-cia) has backdoor access to consumer DNA databases such as Ancestry.com and 23andMe,<sup>38</sup> allegedly to screen for genetic markers of so-called Nordic aliens.<sup>39</sup> Paul H. Smith, a former US Army major and one of the principals of the Army's Stargate Project,<sup>40</sup> emailed Coulthart to call the story "balderdash", saying he had served in Stargate for seven years and had been its official unit historian.<sup>41</sup> Coulthart has said he has no idea about the veracity of the claims and states only that they are disputed.<sup>42</sup>
 
-Coulthart's later work has extended into interviews with figures such as Steven Spielberg, whom he credits with a long history of covering [Non-Human Intelligence](/topics/non-human-intelligence) in an intelligent and provocative way, while taking issue with Spielberg's consistent portrayal of non-human beings as benevolent,<sup>153</sup> and [Whitley Strieber](/people/whitley-strieber), author of the bestselling Communion and Breakthrough and more than 30 other books.<sup>163</sup> Communion, Strieber's account of encounters with beings he calls "the visitors", was a New York Times bestseller.<sup>168</sup> Coulthart has also reported on scientific discussion of nonlocal consciousness, attending a consciousness conference in Barcelona in 2025 at which scientists including Stuart Hameroff and Roger Penrose discussed the idea of the human brain as an attenuator, transmitter and receiver rather than a computer.<sup>172</sup><sup>173</sup> He has said he regards the central mystery of the UAP subject as the question of why official secrecy persists 80 years after World War Two.<sup>193</sup>
+Coulthart's reporting has also explored the intersection of the UAP phenomenon with human consciousness. He interviewed [Whitley Strieber](/people/whitley-strieber), whose book Communion, about being taken by non-human sentient beings Strieber calls "the visitors",<sup>43</sup> was a New York Times bestseller,<sup>44</sup> and whom Coulthart regards as a controversial and leading figure in the study of alleged experiencer close encounters.<sup>45</sup> Coulthart attended a consciousness conference in Barcelona in 2025,<sup>46</sup> where scientists including Stuart Hameroff and Roger Penrose discussed [nonlocal consciousness](/topics/nonlocal-consciousness) and the idea that the human brain acts as an attenuator, transmitter and receiver rather than a computer.<sup>47</sup> He has also discussed Steven Spielberg's treatment of the subject, saying Spielberg has a long and illustrious history of covering [non-human intelligence](/topics/non-human-intelligence) in an intelligent and provocative way,<sup>48</sup> while taking issue with what he considers Spielberg's consistent portrayal of non-human beings as benevolent and never a threat.<sup>49</sup>

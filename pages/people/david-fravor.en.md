@@ -1,14 +1,15 @@
 ---
 title: David Fravor
-description: David Fravor is a retired United States Navy Commander and former commanding
-  officer of Strike Fighter Squadron 41 (VFA-41), best known for leading the intercept
-  during the 2004 USS Nimitz UAP encounter.
+description: David Fravor is a retired United States Navy Commander and fighter pilot
+  who led the intercept of an unidentified object during the 2004 USS Nimitz encounter
+  and later testified about it before Congress.
 metadata:
-  role: Retired Commander, United States Navy
-  affiliation: Strike Fighter Squadron 41 (VFA-41), United States Navy
+  rank: Commander, United States Navy (retired)
+  affiliation: Strike Fighter Squadron 41 (VFA-41); United States Navy Fighter Weapons
+    School (Top Gun)
   known_for: 2004 USS Nimitz UAP encounter
 built_from:
-  brief_hash: 19e3732e9288db170f5a4d31b843791cc52e8235a22a2c6b7f211f366d283532
+  brief_hash: 779bf636315e2a7e38d2333b70c73590db95d7d5f591cbaa43fff4bc03d82be2
   claims:
   - id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
     hash: 809365ff19c527c4ebd9e1d419f71f24f845ae6331c20d96cbd3e6bc811d04a5
@@ -231,7 +232,7 @@ built_from:
   - id: eb31cb38-4bbc-4d36-a0ad-e0d760c890fe
     hash: b45fd389a44b90bb98c7edd88be36ed143548740901f6f56a052e9267bf94a18
   - id: d9a885af-cec0-4e2e-bc54-503f21ee1bf2
-    hash: be8448ff172987d6e80d22c6108b2ca85d9d762d96ef23e0015341c0495ca2b9
+    hash: 37699e86700dbe5b112902f578db22510cf3084e1d11a44e20c913d559c7a707
   - id: 9e9dadd4-0d26-407f-88a4-c6f69040c436
     hash: 4b7b95abb3920c291c952bd9d4323b2e0fa4cd3cf4fb66c952f53b523abf5344
   - id: 09925843-7bb6-4732-b16f-7217dbf67c1f
@@ -363,55 +364,55 @@ built_from:
   - id: f500daa6-dc78-4efb-9dd8-3ed024b0b42f
     hash: e3c1809d32ce256d6ca8d9befe70c5569b0b25060944735a83d52229101d33a6
   - id: a09eea88-71ff-42ee-afe3-a8264c79511c
-    hash: 62acabbdd81eda8fb8ceaf91668965c539c717df962478dd4eb2896c9a8b2853
+    hash: f64b9db86bb009b4878047aaf525a14b8bc28dcf83b71831877fb81f35cc321e
   - id: 9659319f-4ea5-4889-9c64-6de4cca851ba
-    hash: db80b2fa02d84dc35bfa3c26bf1de2eaaecf9c50160821ea8fb6ee1130d09a48
+    hash: 33ba19173909b103c21e73b9d3d2065b23936840ecc56b405f1d14b36181c4e8
   - id: c139794e-6c8e-4ff9-9237-4890dcd2c72b
-    hash: cd216062c9a8771bc972ca09ebfd2c44c3a4c4fbb4d6c7556e46780549abf3cb
+    hash: cb7cb28f8b31d44d558687f35e5ef311d5e0a1dba424e3f839e46d056cde0db7
   - id: fd74d024-8435-4cee-8d10-8a033a2a0728
-    hash: 0afa6faefce4fc725f741632f5f09bc6f65d3cde5527590ebbbb72d9c63dd559
+    hash: 0969019b2ea49234bf44ff2b9b45b7c3e3ed5a92d3e4584bb54e9cb84919777d
   - id: aa7c0eaf-2c19-46c1-93fd-7d71a3daa426
-    hash: e6cc34537c8d41dc5b7f5cc175437691632b088d61afac597dcaa8b26b15883b
+    hash: bb728ec91bf2e160e51b4cb118c35c3e81e32e042a6071074fe6a318836caee8
   - id: 1d7113d7-b037-4e20-81bb-6c73c21320c6
-    hash: 66b538ddae1a3b744c994afec286c405cc960b072ee7b3fb725f72a270430d6b
+    hash: 3601ed67464dc86e8f8363804db3b05949f198f863ca62a9d3e56b784de92c1a
   - id: 607d0bc7-7e07-4adc-82fb-8e1d585cf985
-    hash: fb69352cd0e5a458588be009c787ec14611266ae39b1ff28e3e3090772ecbb99
+    hash: 1e2dc2f0a811c005ce70986a56cee0f7be633dc4a5480150db2dee541c7f8674
   - id: 24752b60-1587-443c-af87-e5dfac13ef8a
-    hash: 0527bc6f99ca77cdc50b9f93368e754b2438de358bced445f24a53624b9b4995
+    hash: e78c6fb73590f71a9f53d280ead57928de4f1c12baed2905dc89b7f6519157b4
   - id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
-    hash: a8c197efca867a8ba9f6f128b5aa15c2a278bd9240067be7df6575b513423a7b
+    hash: 3098953241e283d66add2790cf3006fda1bf3a74e68f6b3cb26ada83527fcfa4
   - id: cce19d5e-4411-41ca-9b25-c27f97827506
-    hash: a7a6c644242a838784d62be14e6ac6991ed53958d967ac250a8ebf17b24bda04
+    hash: cd9145253429900ea06860f517a14b05df8f6eac978ec413f569096a092c8200
   - id: d3808573-7cbd-4d25-8337-cb1392f188dc
-    hash: 93660c9d2ae0ae718acad010208160f586821374065481c22e6f4842d6bd8416
+    hash: 1e7120509d0d4755189b0fb20a37e4d61312309f1c7fad52c2a335511ff762c3
   - id: f23f7b44-d60f-491b-86a5-ce473c1580a3
-    hash: 6e9a2fa56704b9a02bbe6c95cff73983cd104eae66d8cdd784c2e2edd31aa5c7
+    hash: b64252e265a9e7676c6b54ff658da4c200cda645b84cdede12211e78c65480a4
   - id: 5e286cfc-fdff-468b-a9c3-9c2b537094d9
-    hash: f6f19b26a32f99da3919c87346fe6e3b73e085bc01dbcaa211a87f26778558cc
+    hash: 7a9b53c1d65e8e384ed4129aa8e641a1448de679858eb5b0e307fa213fac77bf
   - id: 1168a439-1821-464b-85ff-79e98f8cc9d3
-    hash: a344570894958c10c0fd6acfd5af6fafbb63fb9c0abe4e06e136859b7d4a8d5a
+    hash: 7ad2f9a3a1765cb69dde99b5e086b2004f3229a60cbb74f0d724f8c9dbfaee2e
   - id: d91cc7f9-5d0d-4413-9b05-776f4b2fe8f8
-    hash: 1f27f411c0e8a05855de0b24e59811b198029259f37d7e385d760d425101eddf
+    hash: 562f34f3b81465d7ee2e732f919ca1591a355c15993b63c76ccb4c952c197537
   - id: 3f811714-a60f-4724-b9fb-00bc7504d1ce
-    hash: e633386aa44abf41c0e0c50fe99904e6b4092383de1d5f90f8c810dca311dcaa
+    hash: 8b74cec08d2181f21c34d7ae25e8cb705729623c6c83ff81dc55fd7e309c886c
   - id: f51654f1-bd47-4a75-a68c-6bc881713a6b
-    hash: 118e2f70093b513a9998cbc1b01c3239149cbe0a7b490dce4f5c73c5b1547549
+    hash: a5975e2662068d08026cdc8d96d4876b65cf979385f2c3ab4038f5a802b48126
   - id: 95240f23-2f22-4843-95fa-116c48ba9070
-    hash: 1d76a8a007b0e519a13a697e581b7c6bac723d61a92df04356d447f2802acff3
+    hash: 0b8400139040bd633b594b49a2ad91e1407581546caf5defe68372845fa9ae97
   - id: a95af9c7-d2be-4044-90a4-1b716357ad9a
-    hash: 90b4738023e1318380c99657c4dfa90e2b52397294b814b56da96e55779d2514
+    hash: f3e048f45649e41d8e8e322f14bb4eea93768214659be1eb4e7c8ec0a6b93eef
   - id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-    hash: 9c1af4104c99da9273516b843a878983b8785beadda29d7950efd1d29adec34d
+    hash: b6f7ea845440f0666712c02610c01518eb508d581365d3fea7b6fd5e11272dcf
   - id: bd243ca5-59eb-4de0-8c96-281bf43a33f0
-    hash: de00906d3e2c96159468c023a6166f3821a9c168a22d12439f7422084dd1f5f0
+    hash: 7a52998df2fbc91e8aa315ae7b50a3f523054cebc19ecf11a4bf2df04d49615f
   - id: a61e0081-8b6e-49b9-8bfa-2b0090757923
-    hash: a76b6eeebaa50670f1bd9e9ebf85f81183d8f43c04f0f86c4c8852fa4c352ca8
+    hash: c56ff8851110b1bccd52a4d2c8c91bea8f8927bf5eb69b3fe4e8107a0e8865fe
   - id: cdc362b8-15c9-41d0-939d-1eb085522c50
-    hash: bf1a7060889e98bc729c54c81dca1bce817c4d6f23b01a61597e00284b6d6d5d
+    hash: 9b910716309a9befb471ffc0b942172691c42469c5404c4f38183d03ac37ad0d
   - id: 7d718372-a5a3-4cfe-90d1-0fdc744f71a1
     hash: 6ce6390fc854b5db2c1f23a3106db260652cb36007491400d8ede1e55824d599
 references:
-- text: Fravor is a retired Commander in the US Navy.
+- text: David Fravor is a retired Commander in the United States Navy
   source: David Fravor Statement for the House Oversight Committee
   location: char:265-329
   quote: My name is David Fravor and I am a retired Commander in the U.S Navy.
@@ -419,16 +420,65 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2cdb6196-16d5-459e-a776-fb92088c75f2
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-2cdb6196-16d5-459e-a776-fb92088c75f2
-- text: Fravor served as a Navy pilot for 18 years.
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
+- text: Fravor flew for the Navy for 18 years
+  source: David Fravor Statement for the House Oversight Committee
   location: char:122680-122698
   quote: Navy, flew for 18 years.
   claim_id: 1741c3a0-ed3e-4d5c-a6e2-f8d855902499
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1741c3a0-ed3e-4d5c-a6e2-f8d855902499
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1741c3a0-ed3e-4d5c-a6e2-f8d855902499
-- text: In 2004 Fravor was Commanding Officer of VFA-41, the Black Aces.
+- text: He first enlisted in the United States Marine Corps
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:12:17.7-00:12:19.3
+  quote: first I was in, I was enlisted. I was a Marine.
+  claim_id: e0c19b31-1f03-4e51-857e-4df9696d5b2d
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e0c19b31-1f03-4e51-857e-4df9696d5b2d
+- text: The Marine Corps recommended him to attend the United States Naval Academy
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:12:22.6-00:12:26.1
+  quote: the Marines actually sent me, recommended me to go to the Naval Academy.
+  claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+- text: Fravor graduated from the Naval Academy
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:12:29.4-00:12:30.9
+  quote: I got to go to the Naval Academy and I finished
+  claim_id: e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
+- text: He later earned a Master's degree from the University of Houston
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:122705-122739
+  quote: Got a Master's from University of Houston
+  claim_id: 0e9d5463-0332-4bab-8b16-76c70e1f3e07
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0e9d5463-0332-4bab-8b16-76c70e1f3e07
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0e9d5463-0332-4bab-8b16-76c70e1f3e07
+- text: Fravor is a graduate of the United States Navy Fighter Weapons School (Top
+    Gun)
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:07:13.7-00:07:16.9
+  quote: You're a graduate of the Navy Fighter Weapons School.
+  claim_id: 893cb6f6-243a-43c3-b85d-a18ab27d9427
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-893cb6f6-243a-43c3-b85d-a18ab27d9427
+- text: He went through Class 4 of 1997
+  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
+    Fridman Podcast #122'
+  location: 00:07:44.7-00:07:48.3
+  quote: I went through in 97, Class 4, 97.
+  claim_id: 8c512214-3cf4-41ba-a582-620ec37b0298
+  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
+  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8c512214-3cf4-41ba-a582-620ec37b0298
+- text: By November 2004 he was Commanding Officer of VFA-41, nicknamed the Black
+    Aces
   source: David Fravor Statement for the House Oversight Committee
   location: char:335-438
   quote: In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One,
@@ -437,7 +487,7 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-343db81b-742c-47a6-a889-eb97edb5be6d
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-343db81b-742c-47a6-a889-eb97edb5be6d
-- text: VFA-41 was attached to Carrier Air Wing Eleven aboard USS Nimitz in 2004.
+- text: VFA-41 was attached to Carrier Air Wing Eleven aboard USS Nimitz in 2004
   source: David Fravor Statement for the House Oversight Committee
   location: char:444-529
   quote: We were attached to Carrier Airwing Eleven and stationed onboard the USS
@@ -446,69 +496,8 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
-- text: Fravor is a graduate of the US Navy Fighter Weapons School (Top Gun).
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:07:13.7-00:07:16.9
-  quote: You're a graduate of the Navy Fighter Weapons School.
-  claim_id: 893cb6f6-243a-43c3-b85d-a18ab27d9427
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-893cb6f6-243a-43c3-b85d-a18ab27d9427
-- text: Fravor attended Top Gun in Class 4 of 1997.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:07:44.7-00:07:48.3
-  quote: I went through in 97, Class 4, 97.
-  claim_id: 8c512214-3cf4-41ba-a582-620ec37b0298
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8c512214-3cf4-41ba-a582-620ec37b0298
-- text: Fravor earned a Master's degree from the University of Houston.
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:122705-122739
-  quote: Got a Master's from University of Houston
-  claim_id: 0e9d5463-0332-4bab-8b16-76c70e1f3e07
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0e9d5463-0332-4bab-8b16-76c70e1f3e07
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0e9d5463-0332-4bab-8b16-76c70e1f3e07
-- text: In July 2023 Fravor testified under oath at a congressional hearing on UAP
-    alongside Ryan Graves and David Grusch.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
-  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-- text: Fravor was first enlisted in the US Marine Corps.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:12:17.7-00:12:19.3
-  quote: first I was in, I was enlisted. I was a Marine.
-  claim_id: e0c19b31-1f03-4e51-857e-4df9696d5b2d
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e0c19b31-1f03-4e51-857e-4df9696d5b2d
-- text: The Marine Corps recommended Fravor for the US Naval Academy.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:12:22.6-00:12:26.1
-  quote: the Marines actually sent me, recommended me to go to the Naval Academy.
-  claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1c75f2f9-0127-47c1-a0e4-82dda115d7c9
-- text: Fravor attended and graduated from the US Naval Academy.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:12:29.4-00:12:30.9
-  quote: I got to go to the Naval Academy and I finished
-  claim_id: e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
-- text: Fravor has dreamed of flying since 1969, watching Neil Armstrong walk on the
-    Moon.
+- text: Fravor has said he dreamed of flying since 1969, watching Neil Armstrong walk
+    on the Moon
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:12:35.9-00:12:40.0
@@ -516,7 +505,7 @@ references:
   claim_id: 8f9ab5f2-d85d-4793-929d-5b266d9a4403
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8f9ab5f2-d85d-4793-929d-5b266d9a4403
-- text: Fravor was just prior to turning five when he watched the Apollo 11 landing.
+- text: He was just prior to turning five when he watched the Apollo 11 Moon landing
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:12:44.9-00:12:46.0
@@ -524,35 +513,17 @@ references:
   claim_id: c295278d-26b9-4db9-ba31-1df4848ace6d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c295278d-26b9-4db9-ba31-1df4848ace6d
-- text: His mother told him the Apollo 11 astronauts had all been pilots.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:12:51.1-00:12:56.0
-  quote: she said, well, you know, they were all pilots. And at that point, it was
-    like, I'm going to be a pilot.
-  claim_id: 719c6437-b777-40ac-991a-6f9d45f88d9f
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-719c6437-b777-40ac-991a-6f9d45f88d9f
-- text: Fravor's cousin Chad and cousin Ray lived near him growing up in an Italian
-    family.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:13:18.9-00:13:29.0
-  quote: we all grew up in the same neighborhood uh we kind of they had Italian side
-    of the family that's how we grew up so it was my house right down the street was
-    my cousin Chad and then right around the corner is my cousin Ray
-  claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-283250af-5d12-4789-9b40-15a4af0f937d
-- text: Fravor worked as a paper boy in his childhood neighbourhood.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:13:32.3-00:13:33.8
-  quote: I was a paper boy in the neighborhood, so they all knew me.
-  claim_id: dc1dcfb6-c397-4360-988f-f9b9324580ed
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-dc1dcfb6-c397-4360-988f-f9b9324580ed
-- text: On 2004-11-14 Fravor's squadron was on a work-up off San Diego, California.
+- text: Fravor was the pilot of FastEagle 01, one of two F/A-18Fs involved in the
+    intercept of the AAV on 2004-11-14
+  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+  location: char:16388-16470
+  quote: 'FASTEAGLE 01 Pilot: CDR David ''Sex'' Fravor, USN/WSO: LT {{redacted: ~3
+    words}}, USN'
+  claim_id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
+  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+- text: The squadron was conducting a work-up off the coast of San Diego, California
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:123271-123405
@@ -562,47 +533,16 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
-- text: Fravor piloted FastEagle 01, one of two F/A-18Fs involved in contact with
-    the AAV.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:16388-16470
-  quote: 'FASTEAGLE 01 Pilot: CDR David ''Sex'' Fravor, USN/WSO: LT {{redacted: ~3
-    words}}, USN'
-  claim_id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
-- text: Fravor flew an F/A-18 Hornet and circled down to confront the Tic Tac-shaped
-    object off San Diego.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch24:7582-7708
-  quote: Think back to Commander Dave Fravor flying that F/A-18 Hornet as he circled
-    down to confront the Tic Tac off the coast of San Diego.
-  claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95240f23-2f22-4843-95fa-116c48ba9070
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-95240f23-2f22-4843-95fa-116c48ba9070
-- text: Fravor was flying an F/A-18F Super Hornet during the encounter.
-  source: In Plain Sight
-  location: ch16:7704-7889
-  quote: Strikefighter Squadron 41 ('The Black Aces') commanding officer David Fravor
-    was in one FA-18F Super Hornet and his wingman, a serving female pilot who wishes
-    to stay anonymous, was in another.
-  claim_id: 092aedc7-b95e-4fff-911a-520aa08cbad0
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-092aedc7-b95e-4fff-911a-520aa08cbad0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-092aedc7-b95e-4fff-911a-520aa08cbad0
-- text: Fravor and Alex Dietrich were diverted to investigate USS Princeton's radar
-    contacts.
-  source: Navy pilots describe encounters with UFOs
-  location: 00:07:39.4-00:07:46.0
-  quote: On November 14, Fravor and Dietrich, each with a weapons system officer in
-    the backseat, were diverted to investigate.
-  claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
-- text: USS Princeton had tracked the objects for two weeks without a manned aircraft
-    airborne.
+- text: Weather was clear, with light winds and no whitecaps or clouds
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:123795-123863
+  quote: it was a perfect day, light winds, no whitecaps, clear skies. Not a cloud.
+  claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
+- text: USS Princeton had been tracking unidentified objects for two weeks beforehand
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:123348-123593
@@ -614,15 +554,16 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-fb28449c-a8c3-4d72-a2fc-b5f804729ace
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-fb28449c-a8c3-4d72-a2fc-b5f804729ace
-- text: Fravor's aircraft used the call sign FASTEAGLE 01.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:4401-4471
-  quote: On this particular mission, Fravor’s aircraft call sign was FASTEAGLE 01.
-  claim_id: 1d7113d7-b037-4e20-81bb-6c73c21320c6
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1d7113d7-b037-4e20-81bb-6c73c21320c6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1d7113d7-b037-4e20-81bb-6c73c21320c6
-- text: Jim Slaight, call sign 'Clean', was Fravor's Weapons Systems Officer.
+- text: Fravor and Dietrich, each with a WSO, were diverted to investigate the Princeton's
+    radar contacts
+  source: Navy pilots describe encounters with UFOs
+  location: 00:07:39.4-00:07:46.0
+  quote: On November 14, Fravor and Dietrich, each with a weapons system officer in
+    the backseat, were diverted to investigate.
+  claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
+- text: Jim Slaight, call sign 'Clean', was Fravor's Weapon Systems Officer
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4475-4530
   quote: In his back seat was Commander Jim Slaight, call sign “Clean.”
@@ -630,7 +571,64 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
-- text: The white water disturbance was roughly the size of a Boeing 737.
+- text: Fravor's aircraft used the call sign FASTEAGLE 01
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch15:4401-4471
+  quote: On this particular mission, Fravor’s aircraft call sign was FASTEAGLE 01.
+  claim_id: 1d7113d7-b037-4e20-81bb-6c73c21320c6
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1d7113d7-b037-4e20-81bb-6c73c21320c6
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1d7113d7-b037-4e20-81bb-6c73c21320c6
+- text: The flight was designated Blue Air and controlled by USS Princeton
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:1035-1146
+  quote: My flight of 2 F/A-18Fs was the Blue Air, the good guys, and we were being
+    controlled by the USS Princeton, CG-59.
+  claim_id: 373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+- text: The Combat Air Patrol point was roughly 64 kilometres south of the ship
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:1627-1733
+  quote: The CAP point is where we would hold prior to commencing our training runs,
+    roughly 40 miles South of the ship.
+  claim_id: f46010c8-6ff5-414f-92ab-35ba48ff7794
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-f46010c8-6ff5-414f-92ab-35ba48ff7794
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-f46010c8-6ff5-414f-92ab-35ba48ff7794
+- text: The F/A-18F is a two-seat aircraft, pilot front, WSO back
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:1150-1274
+  quote: Keep in mind the F/A-18F's are 2 seat aircraft with the pilot in the front
+    and the WSO (Weapons System Officer) in the back seat.
+  claim_id: 9c88247d-b6db-4ba2-b12b-1fb955d85e34
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-9c88247d-b6db-4ba2-b12b-1fb955d85e34
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-9c88247d-b6db-4ba2-b12b-1fb955d85e34
+- text: Fravor flew an F/A-18 Hornet and circled down to confront the object off San
+    Diego
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch24:7582-7708
+  quote: Think back to Commander Dave Fravor flying that F/A-18 Hornet as he circled
+    down to confront the Tic Tac off the coast of San Diego.
+  claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95240f23-2f22-4843-95fa-116c48ba9070
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-95240f23-2f22-4843-95fa-116c48ba9070
+- text: His flight spotted an area of white water on the ocean surface
+  source: In Plain Sight
+  location: ch16:8555-8797
+  quote: When he reached the target point – the 'merge plot', where his radar signature
+    matched the same position that the UAP was detected – and stared down from his
+    FA-18 cockpit at 20,000 feet, Commander Fravor saw white water on the ocean surface
+    below.
+  claim_id: 72f4f9a1-e419-4a44-bad0-0d645276b17d
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f4f9a1-e419-4a44-bad0-0d645276b17d
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72f4f9a1-e419-4a44-bad0-0d645276b17d
+- text: The white water was roughly the size of a Boeing 737, worrying Fravor an airliner
+    had crashed
   source: In Plain Sight
   location: ch16:8804-8929
   quote: Because the disturbance was roughly the size of a 737, he was worried that
@@ -639,25 +637,19 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b37e78c3-cd62-404c-9f1a-241cd569582e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b37e78c3-cd62-404c-9f1a-241cd569582e
-- text: Weather was clear with light winds and no whitecaps.
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:123795-123863
-  quote: it was a perfect day, light winds, no whitecaps, clear skies. Not a cloud.
-  claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
-- text: The object's shape resembled an elongated egg or 'Tic Tac'.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:19724-19850
-  quote: According to CDR Fravor, the object's shape was like an elongated egg or
-    a 'Tic Tac' and had a discernable midline horizontal axis.
-  claim_id: 7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-7a6caf95-901c-4e68-bfa6-1e8e91d6dc1f
-- text: The object was approximately 12 metres long.
+- text: He discerned a featureless white 'Tic Tac'-shaped object with two appendages
+    beneath its belly
+  source: In Plain Sight
+  location: ch16:9589-9865
+  quote: Descending, Commander Fravor was then shocked to discern what he can only
+    describe as a featureless giant white 'Tic Tac'-candy shaped object with what
+    looked like two appendages below its belly; it was hovering just above the surface
+    of the ocean over the disturbance in the water.
+  claim_id: c005d20f-fbf2-4087-908d-be0db2da7d00
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c005d20f-fbf2-4087-908d-be0db2da7d00
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c005d20f-fbf2-4087-908d-be0db2da7d00
+- text: The object was approximately 12 metres long
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:123967-124123
@@ -667,8 +659,8 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8af49425-c93f-4c52-ad78-76090842c41e
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8af49425-c93f-4c52-ad78-76090842c41e
-- text: The object was roughly the length of an F/A-18, with no windows, engines,
-    wings, exhaust, or markings.
+- text: Roughly the length of an F/A-18, with no windows, engines, wings, exhaust,
+    or markings
   source: In Plain Sight
   location: ch16:9872-10008
   quote: The Tic Tac, roughly the length of his FA-18 jet, had no windows, no visible
@@ -677,46 +669,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e14a0c7-e313-4e89-82f4-412d12634176
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e14a0c7-e313-4e89-82f4-412d12634176
-- text: Fravor said the object was 'holding like a Harrier'.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:19522-19712
-  quote: CDR Fravor stated that the object was "holding like a Harrier." (Referring
-    to the AV-8B jet aircraft, which is capable of hovering and Vertical/Short Takeoff
-    and Landing (V/STOL) via thrust vectoring.)
-  claim_id: 5839f33c-0e3c-4cc5-89ed-b3772677a2b0
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
-- text: Fravor began a descent intending a close pass to visually identify the object.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:20615-20755
-  quote: CDR Fravor stated he then began a descent with the intention to take a close
-    aboard pass with the object in an attempt to visually identify it.
-  claim_id: 2afb37f0-7586-4024-ba22-ad8434379eaf
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
-- text: Fravor detached Dietrich's aircraft to hold at altitude and descended himself.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:18663-18798
-  quote: At this point CDR Fravor detached FASTEAGLE02, which held at approximately
-    20,000 feet, and FASTEAGLE01 descended to between 12-16,000 feet.
-  claim_id: bf498b2b-1e86-4ea3-93fd-1523de6bb23c
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
-- text: The object appeared to recognise Fravor's aircraft, realigning its axis toward
-    him.
-  source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
-  location: char:20975-21140
-  quote: 'the object appeared, according to CDR Fravor: "to recognize us." He assessed
-    this from the fact the object "pointed" (realigned it''s axis) in the direction
-    of their aircraft.'
-  claim_id: a5a3c541-6819-4b0b-99af-7c2e6ee23b7e
-  record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a5a3c541-6819-4b0b-99af-7c2e6ee23b7e
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a5a3c541-6819-4b0b-99af-7c2e6ee23b7e
-- text: The object turned abruptly and began to mirror Fravor's aircraft's movements.
+- text: The object turned abruptly and began to mirror his aircraft's movements
   source: Navy pilots describe encounters with UFOs
   location: 00:08:18.6-00:08:26.6
   quote: The tic-tac's still pointing north-south. It goes and just turns abruptly
@@ -724,7 +677,14 @@ references:
   claim_id: 87aa7a58-a9c3-4fa5-b473-228946c86a1f
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-87aa7a58-a9c3-4fa5-b473-228946c86a1f
-- text: Fravor twice tried to lock his radar onto the object; it would not lock.
+- text: Fravor believed the object was aware of his aircraft's presence
+  source: Navy pilots describe encounters with UFOs
+  location: 00:08:28.9-00:08:29.8
+  quote: Yeah, it was aware we were there.
+  claim_id: e7a64083-aabc-4719-8a56-2dcc30a3abc4
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e7a64083-aabc-4719-8a56-2dcc30a3abc4
+- text: His radar would not lock onto the object despite two attempts
   source: In Plain Sight
   location: ch16:12292-12385
   quote: Twice, Fravor tried to lock his jet's radar onto the Tic Tac target but his
@@ -733,7 +693,7 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7580262-f2c0-48b9-8c91-7da90541446e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7580262-f2c0-48b9-8c91-7da90541446e
-- text: Fravor's F/A-18 Hornet fire control radar never picked up the object.
+- text: His F/A-18 Hornet fire control radar never picked up the object at all
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:124317-124388
@@ -742,7 +702,7 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
-- text: The radar tape showed jamming of Fravor's radar during the encounter.
+- text: A radar tape later showed his AN/APG-73 radar had been jammed
   source: David Fravor Statement for the House Oversight Committee
   location: char:4517-4603
   quote: What is not seen is the Radar tape that showed the jamming of the APG-73
@@ -751,8 +711,8 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-5b43f2e9-26e6-4ae7-822e-28e877deff94
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-5b43f2e9-26e6-4ae7-822e-28e877deff94
-- text: As Fravor pulled nose onto the object at about 0.8 km, it rapidly accelerated
-    and disappeared.
+- text: Pulling nose on at approximately 0.8 kilometres, the object rapidly accelerated
+    and disappeared in front of him
   source: David Fravor Statement for the House Oversight Committee
   location: char:3517-3682
   quote: As we pulled nose onto the object at approximately 1/2 of a mile with the
@@ -762,7 +722,25 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-eb597755-9c47-4afc-93ed-85663465c54b
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-eb597755-9c47-4afc-93ed-85663465c54b
-- text: Fravor said the object reappeared at their CAP point roughly 97 km away.
+- text: His wingman, roughly 2,400 metres above, also lost visual contact with the
+    object
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:3692-3741
+  quote: Our wingman, roughly 8,000ft above us, also lost visual.
+  claim_id: 2d9c0ce6-ea0a-4ad3-a702-8e67dc2dbe97
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2d9c0ce6-ea0a-4ad3-a702-8e67dc2dbe97
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-2d9c0ce6-ea0a-4ad3-a702-8e67dc2dbe97
+- text: The white water disturbance had vanished as well
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:3749-3832
+  quote: We immediately turned to investigate the white water only to find that it
+    was also gone.
+  claim_id: 725b33d5-4ef4-429c-ac27-17d6f5233bd5
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-725b33d5-4ef4-429c-ac27-17d6f5233bd5
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-725b33d5-4ef4-429c-ac27-17d6f5233bd5
+- text: Fravor was told the object had reappeared at the Combat Air Patrol point
   source: David Fravor Statement for the House Oversight Committee
   location: char:3838-4012
   quote: As we turned back towards our CAP point, roughly 60 miles east, the air controller
@@ -772,7 +750,7 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-a0c77f81-efac-4e1f-acc1-874366fbae31
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-a0c77f81-efac-4e1f-acc1-874366fbae31
-- text: The object travelled approximately 97 kilometres in less than a minute.
+- text: It had covered roughly 97 kilometres in less than a minute
   source: David Fravor Statement for the House Oversight Committee
   location: char:4019-4110
   quote: This Tic Tac Object had just traveled 60 miles in a very short period of
@@ -781,8 +759,28 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-560728b6-a77f-4b7e-aa3f-f4bb1987c1fa
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-560728b6-a77f-4b7e-aa3f-f4bb1987c1fa
-- text: A third pair of aircraft launched, one flown by Chad Underwood with an ATFLIR
-    pod.
+- text: Fravor considers its performance far superior to his F/A-18F Super Hornet
+    and inconsistent with known aerodynamic principles
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:4119-4283
+  quote: was far superior in performance to my brand-new F/A-18F and did not operate
+    with any of the known aerodynamic principles that we expect for objects that fly
+    in our atmosphere.
+  claim_id: 0eca89cc-54c8-47fb-8312-1d47a2bdd3a5
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-0eca89cc-54c8-47fb-8312-1d47a2bdd3a5
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-0eca89cc-54c8-47fb-8312-1d47a2bdd3a5
+- text: Fravor described what they had seen to another crew preparing to launch
+  source: David Fravor Statement for the House Oversight Committee
+  location: char:4296-4399
+  quote: We returned to Nimitz and mentioned what we had witnessed to one of my crews
+    who were getting ready to launch.
+  claim_id: 9d34193e-b567-4fbc-992a-ac73dca39e85
+  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-9d34193e-b567-4fbc-992a-ac73dca39e85
+  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-9d34193e-b567-4fbc-992a-ac73dca39e85
+- text: That crew included Lieutenant Chad Underwood, whose jet was fitted with an
+    ATFLIR pod
   source: In Plain Sight
   location: ch16:16657-16902
   quote: As Commander Fravor and his wingman returned to the USS Nimitz from their
@@ -793,17 +791,8 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
-- text: Underwood's crew found the object waiting at the cap point.
-  source: In Plain Sight
-  location: ch16:17174-17369
-  quote: En route, Underwood's weapons systems officer checked the cap point where
-    the previous pilots Dave Fravor and his female pilot wingman last saw the UAP
-    and, sure enough, there it was waiting for them.
-  claim_id: 6ef6b9fe-dfd3-462c-9175-cfba15eb6362
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
-- text: The crew Fravor briefed took the approximately 90-second FLIR1 video.
+- text: That crew captured the approximately 90-second FLIR1 video, released by the
+    US government in 2017
   source: David Fravor Statement for the House Oversight Committee
   location: char:4407-4511
   quote: It was that crew that took the now famous approximately 90 second video that
@@ -812,17 +801,8 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-336dbd4f-9afb-468b-adcd-e6d94050fcd8
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-336dbd4f-9afb-468b-adcd-e6d94050fcd8
-- text: The FLIR1 video is approximately 90 seconds long.
-  source: David Fravor Statement for the House Oversight Committee
-  location: char:4434-4511
-  quote: the now famous approximately 90 second video that was released by the USG
-    in 2017
-  claim_id: 2e893662-1c74-4b5e-958c-fa5101170771
-  record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2e893662-1c74-4b5e-958c-fa5101170771
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-2e893662-1c74-4b5e-958c-fa5101170771
 - text: The encounter was never officially investigated; no crew were questioned and
-    no tapes taken.
+    no tapes taken
   source: David Fravor Statement for the House Oversight Committee
   location: char:4763-4952
   quote: What is shocking is that the incident was never investigated, none of my
@@ -832,7 +812,8 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-6b096169-e34e-4ab8-860f-8a76d9215cae
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-6b096169-e34e-4ab8-860f-8a76d9215cae
-- text: Fravor was first contacted in 2009 by Jay Stratton to investigate the encounter.
+- text: Not until 2009 did Jay Stratton contact Fravor to investigate what he had
+    observed
   source: David Fravor Statement for the House Oversight Committee
   location: char:4961-5027
   quote: Not until 2009 did Jay Stratton contact me to investigate what we observed.
@@ -840,27 +821,19 @@ references:
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-f500daa6-dc78-4efb-9dd8-3ed024b0b42f
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-f500daa6-dc78-4efb-9dd8-3ed024b0b42f
-- text: It took over 15 years for footage of the encounter to be declassified.
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:119283-119347
-  quote: It took over 15 years for your encounter with the Tic Tac to be declassified.
-  claim_id: 25728181-1383-48ea-bf18-76249d7e9ddb
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-25728181-1383-48ea-bf18-76249d7e9ddb
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-25728181-1383-48ea-bf18-76249d7e9ddb
-- text: Elizondo arranged for Christopher Mellon to debrief Fravor, Dietrich, and
-    other Navy personnel.
+- text: In July 2023, Fravor testified under oath before Congress alongside Ryan Graves
+    and David Grusch
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:9189-9375
-  quote: he later arranged for me to participate in official debriefings with Commander
-    Fravor, Lieutenant Alex Dietrich, and other Navy personnel who had seen UAP up
-    close or on military sensor systems.
-  claim_id: cdc362b8-15c9-41d0-939d-1eb085522c50
+  location: ch32:2345-2593
+  quote: members of Congress held another historic bipartisan UAP hearing. This time
+    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
+    Graves, and Dave Grusch, who were now testifying to the American people in Congress
+    *under oath*
+  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdc362b8-15c9-41d0-939d-1eb085522c50
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cdc362b8-15c9-41d0-939d-1eb085522c50
-- text: Elizondo said neither Fravor nor Dietrich displayed any propensity to exaggerate.
+  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+- text: Elizondo said neither Fravor nor Dietrich displayed any propensity to exaggerate
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14284-14402
   quote: Neither Fravor nor Dietrich had displayed any propensity to exaggerate. Their
@@ -869,59 +842,51 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
-- text: Fravor was the senior pilot in the air and considered one of the best Navy
-    pilots.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch15:3904-4034
-  quote: The senior pilot in the air that day was Commander Dave Fravor, who was considered
-    one of the best Navy pilots.
-  claim_id: 9659319f-4ea5-4889-9c64-6de4cca851ba
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
-- text: Fravor said UAP-related information is generally over-classified.
+- text: Fravor said the object's flight performance was beyond current human material
+    science
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
-  location: char:105522-105564
-  quote: in my opinion, I will say things are over-classified.
-  claim_id: 8b0537eb-7891-414d-8f61-a6dee724809b
+  location: 34-40
+  quote: Commander FRAVOR. The performance. Absolute performance... No. I think it
+    is far beyond, actually, our material science that we currently possess.
+  claim_id: 09925843-7bb6-4732-b16f-7217dbf67c1f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8b0537eb-7891-414d-8f61-a6dee724809b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8b0537eb-7891-414d-8f61-a6dee724809b
-- text: Fridman considers Fravor's account the most credible UFO sighting he is aware
-    of.
-  source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
-    Fridman Podcast #122'
-  location: 00:00:35.1-00:00:48.1
-  quote: His story corroborated by several other pilots from my perspective as a curious
-    scientist and an open-minded human being is the most credible sighting of a UFO
-    in history, at least that I'm aware of.
-  claim_id: 0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
-  record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-09925843-7bb6-4732-b16f-7217dbf67c1f
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-09925843-7bb6-4732-b16f-7217dbf67c1f
+- text: He has never seen a propulsion system that produced no thermal exhaust other
+    than this one
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:125126-125232
+  quote: In your career have you ever seen a propulsion system that creates no thermal
+    exhaust? ... No.
+  claim_id: 75d4974d-72ed-4a8d-8b29-b345b6c57632
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-75d4974d-72ed-4a8d-8b29-b345b6c57632
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-75d4974d-72ed-4a8d-8b29-b345b6c57632
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
   transport: cli
-  prompt_sha256: 1fec92a5a80f515fa9431d9ffdfd68bcf5d86e46a51e78b50c297b72a22fbdd5
+  prompt_sha256: d01e46b3745bf033678a962994b8146db56ab4781e888a415c0a45103452a855
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 98740
-    output: 61424
+    input: 97412
+    output: 46199
     real_input: 2
-    cache_read: 39247
-    cache_write: 59491
+    cache_read: 39325
+    cache_write: 58085
     calls: 0
-  body_sha256: 6b1ba0d96cfd88f5bcf0839a1e70b5ef899c34e061916b125734ab70a13e5822
+  body_sha256: af59f54a75286b8744dddd802e7550f510351cb57e5a37c89692939212e84f62
 ---
 
-David Fravor is a retired Commander in the [United States Navy (USN)](/organisations/united-states-navy-usn)<sup>1</sup>, who served as a Navy pilot for 18 years<sup>2</sup>. In 2004 he was Commanding Officer of [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), nicknamed the Black Aces<sup>3</sup>, attached to Carrier Air Wing Eleven aboard [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68)<sup>4</sup>. He is a graduate of the United States Navy Fighter Weapons School (Top Gun)<sup>5</sup>, having attended in Class 4 of 1997<sup>6</sup>, and holds a Master's degree from the University of Houston<sup>7</sup>. Fravor is best known as the lead pilot in the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), and for his subsequent testimony about [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap) before the US Congress<sup>8</sup>.
+David Fravor is a retired Commander in the [United States Navy (USN)](/organisations/united-states-navy-usn)<sup>1</sup> who flew for the Navy for 18 years.<sup>2</sup> He first enlisted in the United States Marine Corps,<sup>3</sup> which recommended him to attend the United States Naval Academy,<sup>4</sup> from which he graduated;<sup>5</sup> he later earned a Master's degree from the University of Houston.<sup>6</sup> Fravor is a graduate of the United States Navy Fighter Weapons School (Top Gun),<sup>7</sup> having gone through Class 4 of 1997.<sup>8</sup> By November 2004 he was Commanding Officer of [Strike Fighter Squadron 41 (VFA-41)](/organisations/strike-fighter-squadron-41-vfa-41), nicknamed the Black Aces,<sup>9</sup> which was attached to Carrier Air Wing Eleven and stationed aboard [USS Nimitz (CVN-68)](/objects/uss-nimitz-cvn-68).<sup>10</sup> Fravor has said he had dreamed of flying since 1969, when—just before turning five—he watched Neil Armstrong walk on the Moon during the Apollo 11 Moon landing.<sup>11,12</sup>
 
-Before commissioning, Fravor was first enlisted in the United States Marine Corps<sup>9</sup>, which recommended him for the [United States Naval Academy](/organisations/united-states-naval-academy)<sup>10</sup>, from which he graduated<sup>11</sup>. He has said he dreamed of flying since 1969, when he watched Neil Armstrong walk on the Moon during the Apollo 11 Moon landing<sup>12</sup>, just before he turned five years old<sup>13</sup>; his mother told him the Apollo 11 astronauts had all been pilots, after which he decided he would become one himself<sup>14</sup>. He grew up in an Italian family alongside his cousin [Chad](/people/chad)<sup>15</sup>, working as a paper boy in his neighbourhood<sup>16</sup>.
+According to the Nimitz Carrier Strike Group (CSG-11) AAV Incident Report, Fravor was the pilot of FastEagle 01, one of two [F/A-18F Super Hornet](/objects/fa-18f-super-hornet)s of Strike Fighter Squadron 41 involved in the intercept and visual contact with the [Anomalous Aerial Vehicle (AAV)](/topics/anomalous-aerial-vehicle-aav) during the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter) on 2004-11-14.<sup>13</sup> That day his squadron was conducting a work-up integrating ships and the carrier air wing off the coast of [California San Diego](/places/california-san-diego-usa);<sup>14</sup> the weather was clear, with light winds and no whitecaps or clouds.<sup>15</sup> [USS Princeton (CG-59)](/objects/uss-princeton-cg-59) had been tracking unidentified objects for two weeks before the encounter, without a manned aircraft airborne during that tracking.<sup>16</sup> Fravor and his wingman [Alex Dietrich](/people/alex-dietrich), each with a Weapons System Officer (WSO) in the back seat, were diverted to investigate the Princeton's radar contacts.<sup>17</sup> Fravor's own WSO was [Jim Slaight](/people/jim-slaight), call sign "Clean".<sup>18</sup> The flight, callsign FASTEAGLE 01,<sup>19</sup> was designated Blue Air and controlled by USS Princeton;<sup>20</sup> the Combat Air Patrol (CAP) point was located roughly 64 kilometres south of the ship.<sup>21</sup> The F/A-18F is a two-seat aircraft, with the pilot in the front seat and the WSO in the back.<sup>22</sup>
 
-On 2004-11-14, Fravor's squadron was conducting a work-up integrating ships and the carrier air wing off the coast of [San Diego California](/places/california-san-diego-usa)<sup>17</sup>. According to the Nimitz Carrier Strike Group (CSG-11) AAV Incident Report, Fravor piloted FastEagle 01, one of two F/A-18Fs of VFA-41 involved in the intercept and visual contact with the [Anomalous Aerial Vehicle (AAV)](/topics/anomalous-aerial-vehicle-aav) that day<sup>18</sup>; the episode is also recorded as the 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter, in which Fravor flew an [F/A-18 Hornet](/objects/fa-18-hornet) and circled down to confront a Tic Tac-shaped object off the coast of San Diego<sup>19</sup>. Flying an [F/A-18F Super Hornet](/objects/fa-18f-super-hornet)<sup>20</sup>, he and [Alex Dietrich](/people/alex-dietrich), each with a Weapons Systems Officer in the back seat, were diverted to investigate radar contacts reported by [USS Princeton (CG-59)](/objects/uss-princeton-cg-59)<sup>21</sup>, which had been tracking unidentified objects for two weeks without a manned aircraft airborne<sup>22</sup>. Fravor's aircraft, call sign FASTEAGLE 01<sup>23</sup>, carried [Jim Slaight](/people/jim-slaight), call sign 'Clean', as his Weapons Systems Officer<sup>24</sup>. At the vectored position his flight saw an area of white water on the ocean surface roughly the size of a [Boeing](/organisations/boeing) 737<sup>25</sup>, in weather that was clear with light winds and no whitecaps<sup>26</sup>. Below the disturbance hovered a featureless white object shaped like an elongated egg or 'Tic Tac'<sup>27</sup>, roughly 12 metres long<sup>28</sup> and about the length of an [F/A-18](/objects/fa-18) jet, with no windows, no visible engines, no wings, no exhaust or smoke, and no discernible markings<sup>29</sup>. Fravor said the object was 'holding like a Harrier'<sup>30</sup>.
+Fravor flew an [F/A-18 Hornet](/objects/fa-18-hornet) and circled down to confront the object off the coast of San Diego, California, in what is also documented as the 2004 USS Nimitz Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) encounter.<sup>23</sup> His flight had spotted an area of white water on the ocean surface,<sup>24</sup> roughly the size of a [Boeing](/organisations/boeing) 737, which led Fravor to worry that a commercial airliner had crashed into the sea.<sup>25</sup> Descending for a closer look, he discerned a featureless giant white object shaped like a "Tic Tac", with what appeared to be two appendages beneath its belly, hovering just above the water over the disturbance.<sup>26</sup> The object was approximately 12 metres long,<sup>27</sup> roughly the length of an [F/A-18](/objects/fa-18), with no windows, no visible engines, no wings, no exhaust or smoke, and no discernible markings.<sup>28</sup> As Fravor descended, the object turned abruptly and began to mirror his aircraft's movements;<sup>29</sup> he has said he believed it was aware of his aircraft's presence.<sup>30</sup> He attempted to lock the object with his radar, but the system would not lock despite two attempts,<sup>31</sup> and his F/A-18 Hornet's own fire control radar never picked it up at all;<sup>32</sup> a radar tape later showed that his aircraft's AN/APG-73 radar had been jammed.<sup>33</sup> Manoeuvring to close on the object at a range of approximately 0.8 kilometres, Fravor pulled his nose onto it, at which point it rapidly accelerated and disappeared directly in front of his aircraft.<sup>34</sup> His wingman, roughly 2,400 metres above him, also lost visual contact with the object at that moment,<sup>35</sup> and the white water disturbance had vanished as well.<sup>36</sup>
 
-Fravor began a descent, detaching Dietrich's aircraft to hold at altitude, with the intention of taking a close pass to visually identify the object<sup>31,32</sup>. As he approached, the object appeared to recognise his aircraft, realigning its axis to point toward him<sup>33</sup>, then turned abruptly and began to mirror his aircraft's movements<sup>34</sup>. Fravor twice tried to lock his radar onto it without success<sup>35</sup>; his fire control radar never picked it up<sup>36</sup>, and the radar tape later showed jamming of his aircraft's radar during the encounter<sup>37</sup>. As he manoeuvred to pull his nose onto the object at a range of roughly 0.8 kilometres, it rapidly accelerated and disappeared<sup>38</sup>. Turning back toward their combat air patrol point, Fravor said the air controller aboard USS Princeton reported the object had reappeared roughly 97 kilometres away<sup>39</sup>; it had covered that distance in under a minute<sup>40</sup>. A third pair of aircraft then launched, one flown by [Chad Underwood](/people/chad-underwood) with an Advanced Targeting Forward Looking Infrared Radar (ATFLIR) pod<sup>41</sup>, whose crew found the object waiting at the same point<sup>42</sup>. The cockpit video that Underwood's crew recorded that day became known as the FLIR1 video<sup>43</sup>, approximately 90 seconds long<sup>44</sup>.
+Fravor has said that as the flight turned back towards the CAP point, the air controller reported that the object had reappeared there on USS Princeton's radar;<sup>37</sup> it had covered the roughly 97 kilometres involved in less than a minute.<sup>38</sup> Fravor has said its flight performance was far superior to his brand-new F/A-18F Super Hornet and that it did not appear to operate according to any known aerodynamic principles.<sup>39</sup> The flight returned to USS Nimitz, where Fravor described what they had seen to another crew preparing to launch,<sup>40</sup> including that of Lieutenant [Chad Underwood](/people/chad-underwood), whose jet was fitted with an Advanced Targeting Forward Looking Infrared Radar (ATFLIR) pod.<sup>41</sup> That crew captured what became the approximately 90-second FLIR1 video, released by the United States government in 2017.<sup>42</sup> The encounter was never officially investigated at the time: none of Fravor's crew were questioned, and no tapes were taken.<sup>43</sup> It was not until 2009 that Jay Stratton contacted Fravor to investigate what he had observed.<sup>44</sup>
 
-The encounter was never officially investigated at the time; none of Fravor's crew were questioned and no tapes were collected<sup>45</sup>. Fravor has said he was first contacted in 2009 by Jay Stratton to investigate what he had witnessed<sup>46</sup>. Footage of the encounter took over 15 years to be declassified<sup>47</sup>. In July 2023, Fravor testified under oath before a congressional hearing on Unidentified Aerial Phenomena (UAP), alongside [Ryan Graves](/people/ryan-graves) and [David Charles Grusch](/people/david-charles-grusch)<sup>8</sup>. [Luis Elizondo](/people/luis-elizondo) arranged for Christopher Mellon to take part in official debriefings with Fravor, Alex Dietrich, and other Navy personnel who had encountered UAP<sup>48</sup>; Elizondo has said neither pilot displayed any propensity to exaggerate, and that their crews regarded them as the best of the best<sup>49</sup>. As the senior pilot in the air that day, Fravor was considered one of the best pilots in the Navy<sup>50</sup>. He has also said that information relating to Unidentified Anomalous Phenomena is generally over-classified<sup>51</sup>. Lex Fridman has said he considers Fravor's account of the incident, corroborated by several other pilots, the most credible sighting of a UFO in history that he is aware of<sup>52</sup>.
+In July 2023, Fravor testified under oath before Congress on [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), alongside Lieutenant [Ryan Graves](/people/ryan-graves) and [David Charles Grusch](/people/david-charles-grusch).<sup>45</sup> [Luis Elizondo](/people/luis-elizondo) has said that neither Fravor nor Alex Dietrich displayed any propensity to exaggerate, and that their crews regarded them as the best of the best.<sup>46</sup> Fravor has said the object's flight performance was beyond current human material science,<sup>47</sup> and that, in his career as a naval aviator, he has never seen a propulsion system that produced no thermal exhaust other than this one.<sup>48</sup>
