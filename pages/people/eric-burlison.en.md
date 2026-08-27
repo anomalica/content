@@ -60,7 +60,7 @@ references:
     at Eglin Air Force Base trying to get some answers.
   claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9725d5f4-e744-4876-a353-c6064d8da600
 - text: If not for Gaetz's involvement, the group would still be at Eglin trying to
     get answers
@@ -72,7 +72,7 @@ references:
     some answers.
   claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-771089ea-4d90-4e9c-979c-a78b450716cc
 - text: Grothman waived Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez, and Ogles
     onto the Subcommittee for the hearing
@@ -85,7 +85,7 @@ references:
     Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
   claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
 - text: Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez
     were present at the hearing
@@ -96,7 +96,7 @@ references:
     Langworthy, Raskin, and Ocasio-Cortez.'
   claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
 - text: Burlison announced David Grusch as a Special Advisor
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -107,7 +107,7 @@ references:
     as a Special Advisor.
   claim_id: 759ea0cb-9454-40d6-a5cf-253703128ea5
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
 - text: Grusch will contribute expertise to Burlison's transparency efforts on UAP
     and the Task Force on the Declassification of Federal Secrets
@@ -119,7 +119,7 @@ references:
     Secrets
   claim_id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
 - text: Burlison said the American people deserve answers about UAP
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -128,7 +128,7 @@ references:
   quote: '"The American people deserve answers about UAPs," said Rep. Burlison.'
   claim_id: 3dc20078-d173-4aae-8334-3f378c4aa134
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3dc20078-d173-4aae-8334-3f378c4aa134
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3dc20078-d173-4aae-8334-3f378c4aa134
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3dc20078-d173-4aae-8334-3f378c4aa134
 - text: Burlison said Grusch has risked his career to expose critical information
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -137,7 +137,7 @@ references:
   quote: '"David Grusch has risked his career to expose critical information."'
   claim_id: f13877ef-b5f2-4f6a-9404-af14301f7784
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
 - text: Burlison said he considers Grusch's expertise vital to uncovering the truth
     about UAP and holding the government accountable
@@ -148,7 +148,7 @@ references:
     government accountable."'
   claim_id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
 - text: Grusch said he was honoured to join Burlison's team in pushing for government
     transparency
@@ -160,7 +160,7 @@ references:
     said Grusch.'
   claim_id: 166a21c8-313a-4461-b5d6-75968472d2b1
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-166a21c8-313a-4461-b5d6-75968472d2b1
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-166a21c8-313a-4461-b5d6-75968472d2b1
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-166a21c8-313a-4461-b5d6-75968472d2b1
 - text: Grusch said he would use his expertise to help Congress hold accountable those
     who lied to Congress, the ODNI, and the DOJ
@@ -174,7 +174,7 @@ references:
     and Department of Justice
   claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
 - text: Burlison was briefed about plasmoid-type phenomena observed at a Western United
     States military installation
@@ -184,7 +184,7 @@ references:
     United States, the military installation, where they saw those plasmoid type things,
   claim_id: 916ec08f-3882-4473-973e-4cd5f3c66955
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-916ec08f-3882-4473-973e-4cd5f3c66955
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-916ec08f-3882-4473-973e-4cd5f3c66955
 - text: When Burlison asked ODNI officials what the phenomena were, they said they
     did not know, and that their top scientists did not know either
   source: 'Episode 73: Science vs. Secrecy'
@@ -195,7 +195,7 @@ references:
     don't.
   claim_id: a777d4f3-a0c1-44a7-a54d-b9f753c801e4
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a777d4f3-a0c1-44a7-a54d-b9f753c801e4
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a777d4f3-a0c1-44a7-a54d-b9f753c801e4
 - text: Burlison distinguishes the AAWSAP from the legacy program, noting they are
     not necessarily the same thing
   source: 'Episode 73: Science vs. Secrecy'
@@ -205,7 +205,7 @@ references:
     the same thing.
   claim_id: 2ea05986-9db0-4385-8306-25337c966805
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea05986-9db0-4385-8306-25337c966805
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea05986-9db0-4385-8306-25337c966805
 - text: Burlison said the gatekeeper structure protecting the legacy program still
     exists today
   source: 'Episode 73: Science vs. Secrecy'
@@ -213,14 +213,14 @@ references:
   quote: And this exists today. This exists today.
   claim_id: 28b1a583-12ac-4ac7-9a56-3c431f1e76c9
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-28b1a583-12ac-4ac7-9a56-3c431f1e76c9
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-28b1a583-12ac-4ac7-9a56-3c431f1e76c9
 - text: Grusch works part-time as a professional staff member for Burlison
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 2026-08-13, 00:32:44.9-00:32:47.9
   quote: Obviously, I'm a professional staff member for Representative Burlison part-time
   claim_id: 05700599-32c5-46da-b6e5-52bd7f160d83
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-05700599-32c5-46da-b6e5-52bd7f160d83
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-05700599-32c5-46da-b6e5-52bd7f160d83
 - text: Grusch attended a classified meeting with Burlison in which he challenged
     AARO
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -229,7 +229,7 @@ references:
     meeting with Representative Burlison
   claim_id: ab781e88-ceb6-4faf-a086-191641c1362d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab781e88-ceb6-4faf-a086-191641c1362d
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab781e88-ceb6-4faf-a086-191641c1362d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

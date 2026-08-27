@@ -26,7 +26,7 @@ references:
     on camera for the same piece.)
   claim_id: 0cbe354c-d0d8-4ba2-94fe-419b439b4ce7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0cbe354c-d0d8-4ba2-94fe-419b439b4ce7
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0cbe354c-d0d8-4ba2-94fe-419b439b4ce7
 - text: Impossible Factual's clients include National Geographic, the History Channel,
     and the Smithsonian Institution
   source: American Cosmic
@@ -35,7 +35,7 @@ references:
     all of which are known to produce historical and other presumably factual programing.
   claim_id: f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
 - text: The History Channel wanted to produce a television programme with the TTSA
     team, with investigators interviewing former military personnel about their UAP
     encounters
@@ -46,7 +46,7 @@ references:
     their UAP encounters.
   claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb5369fd-11e7-403b-9b58-19107da89a59
 - text: Elizondo and Mellon agreed to participate on condition the show be authentic,
     with no artificial drama, no conspiracy theories, no scripts, and only current
@@ -58,7 +58,7 @@ references:
     and only current or former government witnesses.'
   claim_id: 7c819735-be53-4faa-8845-34bc0b2b80d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7c819735-be53-4faa-8845-34bc0b2b80d3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7c819735-be53-4faa-8845-34bc0b2b80d3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7c819735-be53-4faa-8845-34bc0b2b80d3
 built_by:
   model: claude-sonnet-5

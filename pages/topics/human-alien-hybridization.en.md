@@ -62,7 +62,7 @@ references:
     of non-human intelligence interacting with us.
   claim_id: a7012f16-90c0-4130-b9a0-c4809cb71c7c
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
+  workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
 - text: An experiencer at the Washington DC meeting in Shirley MacLaine's Going Within
     claimed she was part of an alien hybrid programme and that her foetus went missing
     three months into the pregnancy
@@ -73,7 +73,7 @@ references:
     missing three months in.
   claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ef4a09d0-8187-4dd0-844f-8cb32c0bd023
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ef4a09d0-8187-4dd0-844f-8cb32c0bd023
 - text: A foetus going missing around three months into pregnancy is a commonly reported
     element in the alien abduction thread, per Jesse Michels
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -82,7 +82,7 @@ references:
     in the abduction thread.
   claim_id: 8eae81cb-ab91-4418-8b49-4430f9754423
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8eae81cb-ab91-4418-8b49-4430f9754423
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8eae81cb-ab91-4418-8b49-4430f9754423
 - text: Jason Samosa keeps a notebook folder collecting information on human-alien
     hybridisation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -91,7 +91,7 @@ references:
     stuff. And I was just dropping whenever I'd hear information about hybrids
   claim_id: dc18abad-d422-424d-8f68-3795f5b1cc77
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dc18abad-d422-424d-8f68-3795f5b1cc77
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dc18abad-d422-424d-8f68-3795f5b1cc77
 - text: Jason Samosa found a striking number of people appear to have been warned
     off talking about the topic
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -100,7 +100,7 @@ references:
     been kind of warned off of talking about the hybrid issue.
   claim_id: 21d75e6d-9c0f-4d4c-b359-7239b766cd93
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-21d75e6d-9c0f-4d4c-b359-7239b766cd93
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-21d75e6d-9c0f-4d4c-b359-7239b766cd93
 - text: Tom DeLonge said publicly there is a big genetic component to the UFO phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:08:44.0-02:08:48.1
@@ -108,7 +108,7 @@ references:
     to this.
   claim_id: ae592f27-d7fa-470e-b7d5-ee6f941afb4c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ae592f27-d7fa-470e-b7d5-ee6f941afb4c
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ae592f27-d7fa-470e-b7d5-ee6f941afb4c
 - text: Tom DeLonge said his advisors went quiet when he asked about hybrids and that
     he was not supposed to discuss it
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -118,7 +118,7 @@ references:
     supposed to talk about that.
   claim_id: b5ce1d2e-3db3-4d33-8f36-04a028947a89
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b5ce1d2e-3db3-4d33-8f36-04a028947a89
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b5ce1d2e-3db3-4d33-8f36-04a028947a89
 - text: Jacques Vallee's journals recount Tim Taylor telling Diana Walsh Pasulka she
     should not discuss human-alien hybridisation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -129,7 +129,7 @@ references:
     thing.
   claim_id: b834138c-ed8e-493d-b9e8-3747a438c972
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b834138c-ed8e-493d-b9e8-3747a438c972
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b834138c-ed8e-493d-b9e8-3747a438c972
 - text: John Ramirez said in 2022 that everyone is waiting for Luis Elizondo to talk
     about hybridisation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -138,7 +138,7 @@ references:
     that everyone is waiting for Lou Elizondo to talk about hybrids, like it's coming.
   claim_id: 90881fb4-9a28-4c17-bfaa-97c9dbe2d73a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-90881fb4-9a28-4c17-bfaa-97c9dbe2d73a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-90881fb4-9a28-4c17-bfaa-97c9dbe2d73a
 - text: About a week before 2026-08-11, Luis Elizondo told Ross Coulthart that intelligence
     community contacts had told him about human-alien hybridisation
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -149,7 +149,7 @@ references:
     the intelligence community who told him about hybridization, human alien hybridization.
   claim_id: a0b0152d-51bd-4f32-9581-ddcf98ff364d
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-a0b0152d-51bd-4f32-9581-ddcf98ff364d
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-a0b0152d-51bd-4f32-9581-ddcf98ff364d
 - text: Ryan Bledsoe recounted that Jim Semivan told him the Bledsoe family are thought
     to be hybrids with more non-human DNA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -159,7 +159,7 @@ references:
     you may have more non-human DNA or a certain strand of non-human DNA.
   claim_id: 2641fd34-5bc3-4498-8822-fe23daade974
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2641fd34-5bc3-4498-8822-fe23daade974
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2641fd34-5bc3-4498-8822-fe23daade974
 - text: In Imminent, Luis Elizondo wrote that people with Cherokee blood and DNA appear
     to have more experiences and end up in government UFO investigation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -169,7 +169,7 @@ references:
     more inclined to go towards a certain type of work
   claim_id: d5c04c24-1b66-4b20-bb01-73b644fa7530
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d5c04c24-1b66-4b20-bb01-73b644fa7530
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d5c04c24-1b66-4b20-bb01-73b644fa7530
 - text: An advisor quoted in the Sekret Machines books said genocides may be the phenomenon
     eliminating certain genetic strands
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -180,7 +180,7 @@ references:
     own purposes.
   claim_id: 9d89bdb2-927b-4cf9-adb2-b5b2dccd221b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9d89bdb2-927b-4cf9-adb2-b5b2dccd221b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9d89bdb2-927b-4cf9-adb2-b5b2dccd221b
 - text: Jason Reza Jorjani's account holds that human-alien hybrids living among humans
     simply want to live peacefully alongside them
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -190,7 +190,7 @@ references:
     us humans.
   claim_id: c051a33d-51d8-4a4b-b65a-2704a2ab74ca
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-c051a33d-51d8-4a4b-b65a-2704a2ab74ca
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-c051a33d-51d8-4a4b-b65a-2704a2ab74ca
 - text: Jesse Michels says officials who make offhand remarks about a hybrid breeding
     programme or base sighting act from cynical motivation and lack real knowledge
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -201,7 +201,7 @@ references:
     of their own cynical, you know, motivation.
   claim_id: e2a9c1de-5883-4101-b552-995039268a3d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e2a9c1de-5883-4101-b552-995039268a3d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e2a9c1de-5883-4101-b552-995039268a3d
 - text: Jason Samosa considers the topic possibly too dangerous to discuss because
     it would imply humans are related to non-human entities and destabilise religion
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -212,7 +212,7 @@ references:
     now you're destabilizing religion as well.
   claim_id: ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
 - text: Jason Samosa argues revealing differing non-human DNA levels would create
     a spectrum of human-ness and is unwise given current geopolitics
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -223,7 +223,7 @@ references:
     into the general population right now?
   claim_id: 0ff33e24-bf38-43e1-b6d7-154ba5a41d33
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0ff33e24-bf38-43e1-b6d7-154ba5a41d33
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0ff33e24-bf38-43e1-b6d7-154ba5a41d33
 - text: Jesse Michels agrees releasing information on differing non-human DNA levels
     would not be wise at present
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -232,7 +232,7 @@ references:
     population right now? Jesse Michels: no it doesn''t seem like a good idea'
   claim_id: 14247325-efca-4946-b274-dfcd07b5aa6c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-14247325-efca-4946-b274-dfcd07b5aa6c
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-14247325-efca-4946-b274-dfcd07b5aa6c
 - text: Jason Samosa regards the hybridisation data as anecdotal, from the group who
     have been releasing information
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -241,7 +241,7 @@ references:
     but from this group of people who have been releasing information
   claim_id: 30423f4e-f046-4d30-9578-e0ef1e768415
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-30423f4e-f046-4d30-9578-e0ef1e768415
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-30423f4e-f046-4d30-9578-e0ef1e768415
 - text: Jesse Michels notes the anecdotal material comes from people very senior in
     the CIA, such as Jim Semivan
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -250,7 +250,7 @@ references:
     when it comes to people like Jim Sammivan
   claim_id: e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
 - text: Jesse Michels suggests a savvy intelligence figure could disclose hybrid information
     knowing it would be dismissed at first, letting it become acceptable over five
     or ten years
@@ -263,7 +263,7 @@ references:
     gets interested, and that's how this thing sort of gets legitimized
   claim_id: a88eea97-251f-4b28-a4b6-91c8bd36b964
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a88eea97-251f-4b28-a4b6-91c8bd36b964
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a88eea97-251f-4b28-a4b6-91c8bd36b964
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -66,7 +66,7 @@ references:
     Aleister Crowley [Fig. 5-20], the self-proclaimed "wickedest man in the world."
   claim_id: a25953dd-781b-42a6-a167-f522e86cf62e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a25953dd-781b-42a6-a167-f522e86cf62e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a25953dd-781b-42a6-a167-f522e86cf62e
 - text: Crowley was a 33rd-degree Scottish Rite Freemason among other secret societies.
   source: Dark Mission
   location: ch12:80877-80964
@@ -74,7 +74,7 @@ references:
     for one)
   claim_id: c1f42159-1ed5-478d-aec3-f5a5f4246da4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1f42159-1ed5-478d-aec3-f5a5f4246da4
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1f42159-1ed5-478d-aec3-f5a5f4246da4
 - text: Crowley's Enochian-language invocations are still used by his disciples.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -84,7 +84,7 @@ references:
     to be effective, and these are still used today by his many disciples.
   claim_id: 03de320e-c712-4d96-abac-89aea6851625
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-03de320e-c712-4d96-abac-89aea6851625
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-03de320e-c712-4d96-abac-89aea6851625
 - text: Crowley claimed the Book of the Law was dictated to him by an entity named
     Aiwass.
   source: Dark Mission
@@ -93,7 +93,7 @@ references:
     named "Aiwass")
   claim_id: 7b76bd2c-b515-4b55-b55d-bcf07f8e7e5a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b76bd2c-b515-4b55-b55d-bcf07f8e7e5a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b76bd2c-b515-4b55-b55d-bcf07f8e7e5a
 - text: 'Vallée: occultists from Dee and Casanova to Crowley have often doubled as
     spies.'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -102,7 +102,7 @@ references:
     as spies.
   claim_id: e6bbeadc-23e4-4d90-84eb-18212e2e02a4
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e6bbeadc-23e4-4d90-84eb-18212e2e02a4
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e6bbeadc-23e4-4d90-84eb-18212e2e02a4
 - text: 'Vallée: Crowley was a minor espionage figure whose intelligence file carried
     a warning.'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -112,21 +112,21 @@ references:
     caution"), whose influence on Hitler was more imaginary than real.
   claim_id: 8a282ada-aa93-45dd-b2a1-decac0fed0b1
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8a282ada-aa93-45dd-b2a1-decac0fed0b1
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8a282ada-aa93-45dd-b2a1-decac0fed0b1
 - text: Crowley was considered a possible Nazi spy.
   source: Dark Mission
   location: ch5:20789-20833
   quote: Crowley was also considered a possible Nazi spy
   claim_id: c54709c7-b37a-4216-a685-c68ff208d7c5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c54709c7-b37a-4216-a685-c68ff208d7c5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c54709c7-b37a-4216-a685-c68ff208d7c5
 - text: 'Vallée: Crowley''s influence on Hitler was more imaginary than real.'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:9851-9901
   quote: whose influence on Hitler was more imaginary than real.
   claim_id: 00fd7d2a-3449-41d0-8ba3-215055e53fed
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-00fd7d2a-3449-41d0-8ba3-215055e53fed
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-00fd7d2a-3449-41d0-8ba3-215055e53fed
 - text: Parsons fell in with Crowley's OTO at its Los Angeles temple in December 1938.
   source: Dark Mission
   location: ch12:79342-79466
@@ -134,7 +134,7 @@ references:
     Ordo Templi Orientis (OTO) at their temple in Los Angeles.
   claim_id: d83acc38-475e-4add-8c5b-c9f9e55007ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d83acc38-475e-4add-8c5b-c9f9e55007ec
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d83acc38-475e-4add-8c5b-c9f9e55007ec
 - text: Parsons was initiated into the OTO in 1939 and impressed Jane Wolfe.
   source: Dark Mission
   location: ch12:79475-79626
@@ -143,7 +143,7 @@ references:
     Crowley.
   claim_id: 616625e9-0efc-4e6f-9908-43d669bbf248
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-616625e9-0efc-4e6f-9908-43d669bbf248
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-616625e9-0efc-4e6f-9908-43d669bbf248
 - text: Crowley appointed Parsons head of his Southern California centre while Parsons
     worked at Caltech.
   source: Dark Mission
@@ -154,7 +154,7 @@ references:
     by Cal Tech to develop rockets for the U.S. Army.
   claim_id: 358a4228-a6cf-49d0-bcc4-90e21abdf1a2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-358a4228-a6cf-49d0-bcc4-90e21abdf1a2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-358a4228-a6cf-49d0-bcc4-90e21abdf1a2
 - text: By the early 1940s Parsons was a rising OTO figure corresponding frequently
     with Crowley.
   source: Dark Mission
@@ -163,7 +163,7 @@ references:
     were exchanging letters with great frequency.
   claim_id: 5be16a32-b6e7-4f93-b0d0-a68a868bca7f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be16a32-b6e7-4f93-b0d0-a68a868bca7f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be16a32-b6e7-4f93-b0d0-a68a868bca7f
 - text: Parsons and Crowley worked to expand the Los Angeles lodge's membership.
   source: Dark Mission
   location: ch12:81547-81621
@@ -171,7 +171,7 @@ references:
     Angeles
   claim_id: 7db8e6f4-85d7-4180-9602-64efd137d4c1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7db8e6f4-85d7-4180-9602-64efd137d4c1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7db8e6f4-85d7-4180-9602-64efd137d4c1
 - text: Parsons and Crowley believed mankind was living in the Aeon of Osiris.
   source: Dark Mission
   location: ch12:86792-86975
@@ -180,7 +180,7 @@ references:
     denied them their proper birthright.
   claim_id: a3ff3c33-4564-4a9c-95d5-e73c3d98df84
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a3ff3c33-4564-4a9c-95d5-e73c3d98df84
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a3ff3c33-4564-4a9c-95d5-e73c3d98df84
 - text: Parsons wrote to Crowley on 1946-02-23 that he had obtained his elemental,
     Marjorie Cameron.
   source: Dark Mission
@@ -190,7 +190,7 @@ references:
     me since."
   claim_id: a2b3e2a1-750f-413c-93f4-896b4b5b5424
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2b3e2a1-750f-413c-93f4-896b4b5b5424
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2b3e2a1-750f-413c-93f4-896b4b5b5424
 - text: Crowley became alarmed on learning Hubbard and Parsons were attempting a Moonchild.
   source: Dark Mission
   location: ch12:87184-87403
@@ -199,7 +199,7 @@ references:
     I get fairly frantic when I contemplate the idiocy of these louts."
   claim_id: b1910fc0-a024-4475-9600-de30f7988d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b1910fc0-a024-4475-9600-de30f7988d2f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b1910fc0-a024-4475-9600-de30f7988d2f
 - text: Crowley considered neither Hubbard nor Parsons experienced enough to safely
     raise a Moonchild.
   source: Dark Mission
@@ -210,7 +210,7 @@ references:
     way.
   claim_id: 2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
 - text: 'Rydeen: Parsons claimed the mantle of Antichrist as Crowley''s prophesied
     heir.'
   source: Dark Mission
@@ -219,7 +219,7 @@ references:
     the magickal heir of Crowley prophesied in Liber AL
   claim_id: b5107f45-9045-469e-a31c-b0451f9dbefb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5107f45-9045-469e-a31c-b0451f9dbefb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5107f45-9045-469e-a31c-b0451f9dbefb
 - text: Crowley wanted Parsons removed as US OTO head after the Babalon Working, but
     he stayed on for years.
   source: Dark Mission
@@ -230,14 +230,14 @@ references:
     but eventually quit.
   claim_id: 32955ab4-86ee-40df-a010-a001297af0cb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32955ab4-86ee-40df-a010-a001297af0cb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32955ab4-86ee-40df-a010-a001297af0cb
 - text: Karl Germer reported directly to Crowley.
   source: Dark Mission
   location: ch5:20725-20775
   quote: It was also known that Germer reported to Crowley directly
   claim_id: c245f845-bb90-4a75-850e-db33202d6b4f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c245f845-bb90-4a75-850e-db33202d6b4f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c245f845-bb90-4a75-850e-db33202d6b4f
 - text: A branch of Crowley's OTO flourished in Los Angeles right after World War
     II.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -246,7 +246,7 @@ references:
     Templi Orientis...] flourished in Los Angeles
   claim_id: 30f92028-6f44-4201-a0f4-aae29007f628
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-30f92028-6f44-4201-a0f4-aae29007f628
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-30f92028-6f44-4201-a0f4-aae29007f628
 - text: Parsons collaborated with Crowley and Hubbard on rocketry and rituals in the
     Los Angeles desert.
   source: American Cosmic
@@ -256,7 +256,7 @@ references:
     in provocative rituals in the Los Angeles desert.
   claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89b8270c-54ab-4a51-8a92-3451f647b1ed
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89b8270c-54ab-4a51-8a92-3451f647b1ed
 - text: 'Bara: Scientology was concerned to convey its teachings are not based on
     Crowley''s Thelemic beliefs.'
   source: Dark Mission
@@ -265,7 +265,7 @@ references:
     are based in any way on the Thelemic beliefs of Aleister Crowley.
   claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fbd98f3-786c-4ba6-9e77-9b394206a763
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fbd98f3-786c-4ba6-9e77-9b394206a763
 - text: 'Bara: Scientology deserves the benefit of the doubt on that claim.'
   source: Dark Mission
   location: ch5:18221-18372
@@ -274,7 +274,7 @@ references:
     point.
   claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-676beb92-8657-4bac-8b1a-1e4e3359b8ca
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-676beb92-8657-4bac-8b1a-1e4e3359b8ca
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -59,7 +59,7 @@ references:
   quote: '[note: Robert Weiss - Lockheed Skunk Works executive vice president]'
   claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-287efd3c-a220-4ec0-b163-1fb449fe5c66
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-287efd3c-a220-4ec0-b163-1fb449fe5c66
 - text: Weiss was executive vice-president and general manager of Lockheed Martin
     Skunk Works until 2019.
   source: In Plain Sight
@@ -68,7 +68,7 @@ references:
     until 2019.'
   claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6f56908d-013c-498a-b193-4d2489034a3b
 - text: Leaked Podesta emails revealed plans for a Google Hangout meeting between
     DeLonge, two US Air Force generals, and Weiss.
@@ -81,7 +81,7 @@ references:
     development programs known as Skunk Works.'
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
 - text: Proposed attendee list for the Google Hangout meeting.
   source: In Plain Sight
@@ -91,7 +91,7 @@ references:
     retired Major General Michael Carey.
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
 - text: Leaked emails show DeLonge in contact with a senior aerospace CEO, a Clinton
     campaign manager, and two retired Air Force generals, discussing UAP.
@@ -103,7 +103,7 @@ references:
     retired air force generals – and UAPs were discussed
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
 - text: Podesta correspondence describes a meeting involving William Neal McCasland,
     Michael Carey, Robert Weiss and John Podesta.
@@ -114,7 +114,7 @@ references:
     along...
   claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0d828226-9b96-46eb-aa06-83df347c5b0a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0d828226-9b96-46eb-aa06-83df347c5b0a
 - text: Coulthart says it is a fair bet the executive DeLonge met was Weiss.
   source: In Plain Sight
   location: ch18:16530-16704
@@ -123,7 +123,7 @@ references:
     of Skunk Works until 2019.
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
 - text: Weiss was probably the executive DeLonge called 'BossMan'.
   source: In Plain Sight
@@ -133,7 +133,7 @@ references:
     purported secret UAP program.
   claim_id: 62ab67fe-a75a-486b-9791-6af6f69bf5e5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62ab67fe-a75a-486b-9791-6af6f69bf5e5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62ab67fe-a75a-486b-9791-6af6f69bf5e5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-62ab67fe-a75a-486b-9791-6af6f69bf5e5
 - text: '''BossMan'' told DeLonge Lockheed Martin could not be involved in any UAP-related
     project.'
@@ -146,7 +146,7 @@ references:
     this stuff even exists.'
   claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
 - text: DeLonge invoked Edgar Mitchell and asked for time to address credibility issues.
   source: In Plain Sight
@@ -159,7 +159,7 @@ references:
     me out.'
   claim_id: 5469aa79-f093-4aea-a702-02c08b60e360
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5469aa79-f093-4aea-a702-02c08b60e360
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5469aa79-f093-4aea-a702-02c08b60e360
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5469aa79-f093-4aea-a702-02c08b60e360
 - text: DeLonge asked for a five-minute meeting alone with 'BossMan'.
   source: In Plain Sight
@@ -168,7 +168,7 @@ references:
     agreed that all the other executives and engineers would leave the room.
   claim_id: 186d086e-269e-41b8-81b1-756accd7391a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-186d086e-269e-41b8-81b1-756accd7391a
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-186d086e-269e-41b8-81b1-756accd7391a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-186d086e-269e-41b8-81b1-756accd7391a
 - text: DeLonge told 'BossMan' he understood the national security implications and
     was not naive to the topic.
@@ -181,7 +181,7 @@ references:
     in what I am about to propose.'
   claim_id: 75ee8e19-8c01-4976-ba60-9440b2bb7b17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75ee8e19-8c01-4976-ba60-9440b2bb7b17
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75ee8e19-8c01-4976-ba60-9440b2bb7b17
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-75ee8e19-8c01-4976-ba60-9440b2bb7b17
 - text: DeLonge told 'BossMan' of a thirty-year programme to indoctrinate people to
     the idea UFOs/UAP might be real.
@@ -192,7 +192,7 @@ references:
     the you...
   claim_id: 50fc2dd4-d7dd-45db-8a10-e874e56e8830
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-50fc2dd4-d7dd-45db-8a10-e874e56e8830
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-50fc2dd4-d7dd-45db-8a10-e874e56e8830
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-50fc2dd4-d7dd-45db-8a10-e874e56e8830
 - text: DeLonge told Weiss he knew about 'some bad things' the government had done
     regarding UAP.
@@ -202,7 +202,7 @@ references:
     happened on this subject’.
   claim_id: 1c0a9def-96f1-4822-bae6-362c7f093c0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
 - text: Weiss demanded to know what kind of bad things DeLonge meant.
   source: In Plain Sight
@@ -211,7 +211,7 @@ references:
     done with this subject?’
   claim_id: 6c577b93-42d1-4808-9484-ffec5e9925c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
 - text: DeLonge said he would need advisers to guide his disclosure work.
   source: In Plain Sight
@@ -221,7 +221,7 @@ references:
     keep disinforming people’.
   claim_id: 3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
 - text: DeLonge considers this exchange the breakthrough point in gaining access to
     gatekeepers.
@@ -230,7 +230,7 @@ references:
   quote: DeLonge says that was the breakthrough point.
   claim_id: b6ac7585-c645-4c09-9c60-e7861caf8963
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
 - text: DeLonge says things moved quickly for his project in the following months.
   source: In Plain Sight
@@ -241,7 +241,7 @@ references:
     go lightspeed for this project,'' DeLonge says.'
   claim_id: 9c91e433-c606-45fe-a914-a76f86b34b64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c91e433-c606-45fe-a914-a76f86b34b64
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c91e433-c606-45fe-a914-a76f86b34b64
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c91e433-c606-45fe-a914-a76f86b34b64
 - text: Within two weeks, DeLonge was introduced to Air Force generals, intelligence
     officials, NASA officials, and White House officials.
@@ -252,7 +252,7 @@ references:
     officials, high-ranking NASA bureaucrats and senior officials in the White House.
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-271deefa-c35a-4e99-ab78-659455e671d2
 built_by:
   model: claude-sonnet-5

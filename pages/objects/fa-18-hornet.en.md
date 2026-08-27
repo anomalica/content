@@ -46,7 +46,7 @@ references:
   quote: The F-A-18 is fighter attack.
   claim_id: f8c61852-1712-4b2c-9513-91a6c1881c16
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f8c61852-1712-4b2c-9513-91a6c1881c16
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f8c61852-1712-4b2c-9513-91a6c1881c16
 - text: Ryan Graves was a former USN F/A-18 Hornet pilot with a decade of service
     including two deployments.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -57,7 +57,7 @@ references:
     and Operation Inherent Resolve.
   claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
 - text: Fravor moved to the F/A-18 Hornet from the A-6 Intruder and had to learn dogfighting.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -68,7 +68,7 @@ references:
     it's a whole other side of the mission.
   claim_id: 2c4369f2-feca-4686-b25c-6fbdca5d3d00
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2c4369f2-feca-4686-b25c-6fbdca5d3d00
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2c4369f2-feca-4686-b25c-6fbdca5d3d00
 - text: Fravor said the A-6 Intruder could travel considerably further on its fuel
     than the F/A-18 Hornet.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -77,7 +77,7 @@ references:
   quote: the A-6 could go quite a bit further distance-wise by fuel
   claim_id: 8a88dbf2-dd5b-4d78-9a6c-7047bb672363
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8a88dbf2-dd5b-4d78-9a6c-7047bb672363
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8a88dbf2-dd5b-4d78-9a6c-7047bb672363
 - text: Legacy F/A-18 Hornet aircraft carry less fuel than F/A-18F Super Hornet aircraft.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -86,7 +86,7 @@ references:
     super hornets
   claim_id: 9031b8e1-00b9-4574-b91c-d9baac8abd83
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9031b8e1-00b9-4574-b91c-d9baac8abd83
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9031b8e1-00b9-4574-b91c-d9baac8abd83
 - text: Fravor flew single-seat F/A-18 Hornets until the end of 2001.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -95,7 +95,7 @@ references:
     and, let me think, 2001, to the end of 2001.
   claim_id: 48b02187-56a7-4dfd-b2af-1c2da228f494
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-48b02187-56a7-4dfd-b2af-1c2da228f494
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-48b02187-56a7-4dfd-b2af-1c2da228f494
 - text: Fravor's F/A-18 Hornet fire-control radar never picked up the Tic Tac object.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -103,7 +103,7 @@ references:
   quote: We never saw it on our radars. Our fire control radars never picked it up.
   claim_id: d3c3bec6-4c7b-489b-b707-982fb34f865c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
 - text: The wingman's radar briefly locked onto the object before losing the lock,
     prompting a switch to the targeting pod.
@@ -115,7 +115,7 @@ references:
     over to the targeting pod, which you can do in the F–18.
   claim_id: 9b5fed50-ec5f-4189-bc85-a5c47b194821
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
 - text: The object took evasive manoeuvres to maintain distance from Fravor's closing
     F/A-18 Super Hornet.
@@ -127,7 +127,7 @@ references:
     no problem keeping pace.
   claim_id: 9e9dadd4-0d26-407f-88a4-c6f69040c436
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-9e9dadd4-0d26-407f-88a4-c6f69040c436
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-9e9dadd4-0d26-407f-88a4-c6f69040c436
 - text: Fravor's aircraft was not armed during the encounter, and he never felt threatened.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -135,7 +135,7 @@ references:
   quote: was it armed? ... No, and never felt threatened at all.
   claim_id: fa7cefb6-4223-4a02-9bb5-e9b605118d1d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-fa7cefb6-4223-4a02-9bb5-e9b605118d1d
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-fa7cefb6-4223-4a02-9bb5-e9b605118d1d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-fa7cefb6-4223-4a02-9bb5-e9b605118d1d
 - text: Fravor estimated the object's length at about 12 metres, comparing it to the
     size of an F/A-18 Hornet.
@@ -147,7 +147,7 @@ references:
     said 40 feet because it's about hornet size
   claim_id: e4c43a61-cfd8-47df-8fff-8ea1c727cb01
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e4c43a61-cfd8-47df-8fff-8ea1c727cb01
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e4c43a61-cfd8-47df-8fff-8ea1c727cb01
 - text: Other witnesses returned a consistent estimate that the object was about the
     size of an F/A-18 Hornet.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -157,7 +157,7 @@ references:
     it was about the size of a hornet.
   claim_id: e0cb841d-4c29-4969-a457-6509f7675667
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e0cb841d-4c29-4969-a457-6509f7675667
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e0cb841d-4c29-4969-a457-6509f7675667
 - text: An ATFLIR camera on an F/A-18 Hornet detects the heat signatures of a combatant
     aircraft.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -166,7 +166,7 @@ references:
     aircraft
   claim_id: 85f16f6e-52b5-480d-a3de-785caf1e3b07
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07
 built_by:
   model: claude-sonnet-5

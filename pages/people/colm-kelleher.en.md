@@ -55,7 +55,7 @@ references:
     for Discovery Science, agreed to look into the case.
   claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
 - text: Kelleher came from a cancer research centre at the University of Colorado
   source: In Plain Sight
   location: ch15:12256-12329
@@ -63,7 +63,7 @@ references:
     Colorado.
   claim_id: 09e2e5e9-383f-4f98-b691-72f38a58d328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
 - text: Kelleher was deputy administrator for Bigelow Aerospace Advanced Space Studies
     (BAASS) during AAWSAP
@@ -73,7 +73,7 @@ references:
     AAWSAP
   claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
 - text: AAWSAP's Las Vegas database drew on civilian and foreign-government reports
     plus teams Kelleher dispatched
@@ -84,7 +84,7 @@ references:
     by AAWSAP's manager in Las Vegas, Dr. Colm Kelleher.
   claim_id: d92785b3-4884-4a8d-ad45-f057737bd0b1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d92785b3-4884-4a8d-ad45-f057737bd0b1
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d92785b3-4884-4a8d-ad45-f057737bd0b1
 - text: Kelleher wrote NIDS reports on strange occurrences at Skinwalker Ranch and
     elsewhere in Utah and New Mexico
   source: In Plain Sight
@@ -93,7 +93,7 @@ references:
     strange goings-on at Skinwalker Ranch and other parts of Utah and New Mexico.
   claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
 - text: Eric Davis and Kelleher watched a lit craft execute a sharp 90-degree turn
     above the ranch house, November 1996
@@ -104,7 +104,7 @@ references:
     a nearby bluff and executed a sharp high-speed 90-degree turn right above them.
   claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-006ce987-fc23-4530-b9f5-89232b1c8552
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-006ce987-fc23-4530-b9f5-89232b1c8552
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-006ce987-fc23-4530-b9f5-89232b1c8552
 - text: Davis, Kelleher and Terry Sherman all saw a huge creature, larger than any
     wildcat
@@ -115,7 +115,7 @@ references:
     was far larger than any wildcat, the size of a bear or a cow.
   claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
 - text: Kelleher said he witnessed anomalous phenomena at the ranch never captured
     on camera
@@ -125,7 +125,7 @@ references:
     on numerous cameras set up around the ranch.
   claim_id: b7201cf5-f4cd-4f90-9b63-15aa525653d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
 - text: Kelleher worked with Gabe Valdez, a New Mexico State Police officer linked
     to the Jicarilla Apache Tribe in Dulce
@@ -136,7 +136,7 @@ references:
     had strong links with the Jicarilla Apache tribe in Dulce.
   claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
 - text: Kelleher's report contains Jicarilla Apache interviews describing hovering
     UAP and a shaft dug into Mount Archuleta
@@ -148,7 +148,7 @@ references:
     Mount Archuleta.
   claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
 - text: Kelleher said information indicated pieces of technology had certainly been
     recovered
@@ -158,7 +158,7 @@ references:
     that seems to indicate that, certainly, pieces of technology have been recovered.'
   claim_id: f01f42bb-9eae-495f-9105-b1ee26a861a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
 - text: Livingston flew to California with a team including Kelleher and Vallée to
     meet Garry Nolan
@@ -170,7 +170,7 @@ references:
     of UAP.
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
 - text: Kelleher agreed to look into the Gary Lowrey alien claw case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -178,7 +178,7 @@ references:
   quote: Dr. Colm Kelleher... agreed to look into the case.
   claim_id: 4c82a40a-21fe-4da0-a03a-cdd069946904
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c82a40a-21fe-4da0-a03a-cdd069946904
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c82a40a-21fe-4da0-a03a-cdd069946904
 - text: After consulting Roger Leir, Kelleher felt the claw sample was a good candidate
     for DNA study
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -188,7 +188,7 @@ references:
     DNA study.
   claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ccd8905-be5e-4908-9ae1-03f57edb7d1d
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ccd8905-be5e-4908-9ae1-03f57edb7d1d
 - text: The investigation evolved into a major molecular biology research project
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:27085-27295
@@ -197,7 +197,7 @@ references:
     into a major molecular biology research project in its own right.”
   claim_id: ae676b4b-cfe5-4944-a2ce-e0a233f38d33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ae676b4b-cfe5-4944-a2ce-e0a233f38d33
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ae676b4b-cfe5-4944-a2ce-e0a233f38d33
 - text: Six rounds of DNA analysis, including a novel PCR technique, were carried
     out
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -208,7 +208,7 @@ references:
     the most conserved DNA sequences on Earth in order to finally resolve this case.
   claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
 - text: A 12-month analysis by teams in three countries found the specimen was a terrestrial
     mollusc
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -219,7 +219,7 @@ references:
     mollusk.
   claim_id: 78c81f8d-7651-44c2-95c7-b45c94dd0c94
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78c81f8d-7651-44c2-95c7-b45c94dd0c94
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78c81f8d-7651-44c2-95c7-b45c94dd0c94
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

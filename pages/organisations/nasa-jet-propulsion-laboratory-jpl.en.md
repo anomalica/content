@@ -340,7 +340,7 @@ references:
     Institute of Technology" in Pasadena.
   claim_id: f4878bcf-a379-4d42-88df-c4f815a8ba46
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4878bcf-a379-4d42-88df-c4f815a8ba46
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4878bcf-a379-4d42-88df-c4f815a8ba46
 - text: By the mid-1930s Jack Parsons and associates were testing home-made rockets
     in Devil's Canyon, where JPL now sits.
   source: Dark Mission
@@ -350,7 +350,7 @@ references:
     Laboratory sits on that very land.
   claim_id: 0a40920a-dca9-430b-9e29-d50cac2f922f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a40920a-dca9-430b-9e29-d50cac2f922f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a40920a-dca9-430b-9e29-d50cac2f922f
 - text: JPL was founded on Halloween 1936 at a rocket test in Arroyo Seco, credited
     primarily to Theodore von Karman.
   source: Dark Mission
@@ -359,7 +359,7 @@ references:
     1936, no less) at a rocket test in the Arroyo Seca area of the Devil's Canyon.
   claim_id: 50537967-ab64-403d-9e9e-7b1d6960da68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-50537967-ab64-403d-9e9e-7b1d6960da68
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-50537967-ab64-403d-9e9e-7b1d6960da68
 - text: JPL still marks the 1936 Halloween rocket test as its birthplace with an annual
     nativity-scene re-enactment.
   source: Dark Mission
@@ -369,7 +369,7 @@ references:
     the event [Fig. 5-21].
   claim_id: a6a8aa3f-0345-406f-b8cb-7ac2caab46c1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a6a8aa3f-0345-406f-b8cb-7ac2caab46c1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a6a8aa3f-0345-406f-b8cb-7ac2caab46c1
 - text: By January 1945 GALCIT had become the Jet Propulsion Laboratory.
   source: Dark Mission
   location: ch12:90392-90484
@@ -377,7 +377,7 @@ references:
     had been sealed
   claim_id: c83b09e9-cd8c-43ea-ae5f-20632cff071f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c83b09e9-cd8c-43ea-ae5f-20632cff071f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c83b09e9-cd8c-43ea-ae5f-20632cff071f
 - text: No jet engine was ever tested or produced at JPL; it was always strictly a
     rocket laboratory.
   source: Dark Mission
@@ -386,14 +386,14 @@ references:
     at "JPL"—which was always strictly a rocket laboratory.
   claim_id: 77cdba6c-4141-4733-a695-bfead9fa6f1e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-77cdba6c-4141-4733-a695-bfead9fa6f1e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-77cdba6c-4141-4733-a695-bfead9fa6f1e
 - text: JPL had deep Army ties via its initial JATO contracts.
   source: Dark Mission
   location: ch12:107208-107256
   quote: (which had deep Army ties—via those initial JATO contracts)
   claim_id: bdd63c02-fcf4-464d-a94c-12930f5cfa17
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bdd63c02-fcf4-464d-a94c-12930f5cfa17
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bdd63c02-fcf4-464d-a94c-12930f5cfa17
 - text: NASA acquired the services of JPL, previously an Army contractor.
   source: Dark Mission
   location: ch12:113605-113679
@@ -401,7 +401,7 @@ references:
     contractor
   claim_id: 11d0bb13-bc83-43c1-b11c-da929f96d82f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-11d0bb13-bc83-43c1-b11c-da929f96d82f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-11d0bb13-bc83-43c1-b11c-da929f96d82f
 - text: An Army/JPL team launched Explorer 1, the first successful US satellite, on
     1958-01-31.
   source: Dark Mission
@@ -410,7 +410,7 @@ references:
     on January 31, 1958, in conjunction with JPL
   claim_id: ef11eaa4-f091-4d8e-ac01-9cfd5624290c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef11eaa4-f091-4d8e-ac01-9cfd5624290c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef11eaa4-f091-4d8e-ac01-9cfd5624290c
 - text: After Apollo 11's lunar liftoff and rendezvous, CBS's television unit relocated
     to JPL to cover the rest of the flight.
   source: Dark Mission
@@ -421,7 +421,7 @@ references:
     (JPL) in Pasadena.
   claim_id: 27536a01-eb53-40bf-a2ee-659d119fbf68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-27536a01-eb53-40bf-a2ee-659d119fbf68
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-27536a01-eb53-40bf-a2ee-659d119fbf68
 - text: Jack Parsons was one of the founders of JPL and of the Aerojet Corporation.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:10110-10196
@@ -429,7 +429,7 @@ references:
     the Aerojet Corporation.
   claim_id: f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
 - text: Qian Xuesen helped establish Jack Parsons's Jet Propulsion Laboratory.
   source: American Cosmic
   location: ch2:29656-29851
@@ -438,7 +438,7 @@ references:
     force that imparted information, Qi (Chi).
   claim_id: 51a0ea02-1829-44c3-8cd4-bca732182f48
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-51a0ea02-1829-44c3-8cd4-bca732182f48
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-51a0ea02-1829-44c3-8cd4-bca732182f48
 - text: The magic practised by Parsons and Hubbard in the 1940s had roots in ancient
     Egyptian ritual invoking Osiris and Horus.
   source: Dark Mission
@@ -449,7 +449,7 @@ references:
     pantheon.
   claim_id: 83d9cd8d-277d-4250-897b-569a3ccd7b9d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83d9cd8d-277d-4250-897b-569a3ccd7b9d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83d9cd8d-277d-4250-897b-569a3ccd7b9d
 - text: Vallée links Parsons to the same extraterrestrial-superiority belief process
     as Hubbard, founder of the Church of Scientology.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -458,7 +458,7 @@ references:
     JPL, and Ron Hubbard, who founded Scientology.
   claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
 - text: Michael Malin, a former JPL employee, was selected to build, point and control
     the Mars Observer camera.
   source: Dark Mission
@@ -467,7 +467,7 @@ references:
     named Dr. Michael Malin.
   claim_id: 9819c678-b7d1-4697-af10-54bac5c833cb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9819c678-b7d1-4697-af10-54bac5c833cb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9819c678-b7d1-4697-af10-54bac5c833cb
 - text: Dilettoso met Hoagland at JPL during the 1980 Voyager Saturn flyby, where
     Hoagland was reporting on the mission.
   source: Dark Mission
@@ -477,7 +477,7 @@ references:
     a reporter covering the Voyager mission for American Airlines’ American Way Magazine.
   claim_id: 1ff7dde4-3bfc-4037-924f-de1ca341a2bd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ff7dde4-3bfc-4037-924f-de1ca341a2bd
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ff7dde4-3bfc-4037-924f-de1ca341a2bd
 - text: Malin was at JPL when Dilettoso contacted him, but was planning a move to
     Arizona for a geology professorship.
   source: Dark Mission
@@ -487,7 +487,7 @@ references:
     Department.
   claim_id: 7efc3a96-2898-49de-aa1f-f6e2c9685f85
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7efc3a96-2898-49de-aa1f-f6e2c9685f85
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7efc3a96-2898-49de-aa1f-f6e2c9685f85
 - text: Malin moved Malin Space Science Systems from ASU and JPL to San Diego, over
     480 km south of JPL.
   source: Dark Mission
@@ -497,7 +497,7 @@ references:
     and JPL in California to San Diego (over 300 miles south of JPL in Pasadena).
   claim_id: 6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
 - text: By 1992 McDaniel pressured NASA and JPL to explain why Cydonia and the Face
     could not be targeted ahead of the Mars Observer launch.
   source: Dark Mission
@@ -508,7 +508,7 @@ references:
     just why they were not able to target Cydonia or the Face specifically.
   claim_id: ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
 - text: Hoagland and McDaniel found over forty chances to target the Face during Mars
     Observer's science phase.
   source: Dark Mission
@@ -518,7 +518,7 @@ references:
     to target the Face during the regular two-year science phase.
   claim_id: 5677538c-2816-4588-9d8f-740415c12f6b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5677538c-2816-4588-9d8f-740415c12f6b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5677538c-2816-4588-9d8f-740415c12f6b
 - text: Hoagland said Lynn Bondurant told him JPL had learned of the Hoagland's Mars
     series and objected at NASA Headquarters.
   source: Dark Mission
@@ -528,7 +528,7 @@ references:
     about it.
   claim_id: e70f230f-5f28-45b3-98d2-43619dabe8f8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e70f230f-5f28-45b3-98d2-43619dabe8f8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e70f230f-5f28-45b3-98d2-43619dabe8f8
 - text: A JPL selection committee chose Malin's camera for Mars Global Surveyor over
     the Clementine instrument.
   source: Dark Mission
@@ -538,7 +538,7 @@ references:
     was on Mars Observer, over the more flexible Clementine instrument
   claim_id: bcf2223b-3cd5-453d-a44e-e888888457de
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bcf2223b-3cd5-453d-a44e-e888888457de
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bcf2223b-3cd5-453d-a44e-e888888457de
 - text: Malin and JPL navigators positioned the 1998-04-06 image to capture the Face
     nearly dead centre of the swath.
   source: Dark Mission
@@ -550,7 +550,7 @@ references:
     dead center on both the crosstrack and downtrack of the image swath.
   claim_id: 836e0947-9636-4ff3-8550-a3684a50883c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-836e0947-9636-4ff3-8550-a3684a50883c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-836e0947-9636-4ff3-8550-a3684a50883c
 - text: JPL employees informally called the Face natural while stressing they weren't
     speaking for NASA or JPL.
   source: Dark Mission
@@ -563,7 +563,7 @@ references:
     for NASA or JPL, but only for themselves.
   claim_id: 6afad5e3-5a17-41ee-89e0-1b7e9fd6d0e2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6afad5e3-5a17-41ee-89e0-1b7e9fd6d0e2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6afad5e3-5a17-41ee-89e0-1b7e9fd6d0e2
 - text: NASA and JPL took no official position on the 1998-04-06 Face image.
   source: Dark Mission
   location: ch13:15353-15495
@@ -571,7 +571,7 @@ references:
     image, thereby draping both organizations in a fallacious robe of objectivity.
   claim_id: bb4058aa-fd09-4b0e-9017-0a5f7d405ef5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bb4058aa-fd09-4b0e-9017-0a5f7d405ef5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bb4058aa-fd09-4b0e-9017-0a5f7d405ef5
 - text: Hoagland's team studied the sky over JPL, reasoning it controlled the release
     and hosted the image servers.
   source: Dark Mission
@@ -582,7 +582,7 @@ references:
     Shift 2, to pin-point the timing for the image release.
   claim_id: 97135477-b4b6-4bdf-ac47-3aec98af9129
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97135477-b4b6-4bdf-ac47-3aec98af9129
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97135477-b4b6-4bdf-ac47-3aec98af9129
 - text: The team calculated Sirius would cross 33 degrees altitude over JPL at 6:55pm
     on 1998-04-14, opening a ten-minute alignment window.
   source: Dark Mission
@@ -593,7 +593,7 @@ references:
     ten minutes.
   claim_id: 49fec213-7b1c-40d6-954d-3a55ee98df8b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-49fec213-7b1c-40d6-954d-3a55ee98df8b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-49fec213-7b1c-40d6-954d-3a55ee98df8b
 - text: The team kept its prediction private, reasoning publication could let JPL
     delay the release to scuttle the test.
   source: Dark Mission
@@ -604,7 +604,7 @@ references:
     the image release by a few minutes and scuttle our test.
   claim_id: 18d1c3e7-182b-48b0-99d9-92bb9b8ff736
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-18d1c3e7-182b-48b0-99d9-92bb9b8ff736
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-18d1c3e7-182b-48b0-99d9-92bb9b8ff736
 - text: The team e-mailed its prediction to specific researchers and press contacts.
   source: Dark Mission
   location: ch13:37252-37473
@@ -613,7 +613,7 @@ references:
     image release at 6:55 p.m. PDT, when Sirius was at 33º above the JPL horizon.
   claim_id: bf4d8eb8-5aec-48f6-a4e9-46972982dfca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf4d8eb8-5aec-48f6-a4e9-46972982dfca
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf4d8eb8-5aec-48f6-a4e9-46972982dfca
 - text: At 6:55pm on 1998-04-14, as predicted, the new Cydonia image link appeared
     on JPL's main web page.
   source: Dark Mission
@@ -625,7 +625,7 @@ references:
     web page.
   claim_id: 4f4f142b-6d2b-45cd-bebe-446acf802ba7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f142b-6d2b-45cd-bebe-446acf802ba7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f142b-6d2b-45cd-bebe-446acf802ba7
 - text: A link to the image appeared on JPL's mirror site ten minutes later, at 7:05pm.
   source: Dark Mission
   location: ch13:38096-38359
@@ -635,7 +635,7 @@ references:
     window” and once at the close.
   claim_id: 614462a6-bf30-4520-bd37-3c958ae85a6c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-614462a6-bf30-4520-bd37-3c958ae85a6c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-614462a6-bf30-4520-bd37-3c958ae85a6c
 - text: Months later NASA and JPL revised the posted release time to 6:30pm, outside
     the predicted window.
   source: Dark Mission
@@ -646,7 +646,7 @@ references:
     the alignment window.
   claim_id: 9ff8fcdc-0a8a-495a-949f-b3de8846d65e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ff8fcdc-0a8a-495a-949f-b3de8846d65e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ff8fcdc-0a8a-495a-949f-b3de8846d65e
 - text: Hoagland states the image was released at 6:55 and 7:05pm, not the later-stated
     6:30pm.
   source: Dark Mission
@@ -655,7 +655,7 @@ references:
     were released in just the manner described above, at 6:55 and 7:05 p.m.
   claim_id: 97e462c1-55fc-473d-bbc3-9612dd30659c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97e462c1-55fc-473d-bbc3-9612dd30659c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97e462c1-55fc-473d-bbc3-9612dd30659c
 - text: On 1999-09-23 JPL lost contact with the 125-million-dollar Mars Climate Orbiter
     during its final orbit insertion burn.
   source: Dark Mission
@@ -665,7 +665,7 @@ references:
     burn.
   claim_id: 243fead4-b393-4158-b00b-bd99410e4a71
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-243fead4-b393-4158-b00b-bd99410e4a71
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-243fead4-b393-4158-b00b-bd99410e4a71
 - text: JPL could not re-establish contact with MCO; a navigation error was likely,
     similar to the 1993 loss of Mars Observer.
   source: Dark Mission
@@ -675,7 +675,7 @@ references:
     dive into the Martian atmosphere.
   claim_id: ee19a68f-33db-4a8f-9585-a0d4981c35a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ee19a68f-33db-4a8f-9585-a0d4981c35a1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ee19a68f-33db-4a8f-9585-a0d4981c35a1
 - text: Lockheed Martin's navigation team sent MCO acceleration data in imperial units
     while JPL assumed metric.
   source: Dark Mission
@@ -684,7 +684,7 @@ references:
     and controllers at JPL assumed that it was metric.
   claim_id: 5f8dd875-1bec-4da2-9b4c-83d96f28687b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5f8dd875-1bec-4da2-9b4c-83d96f28687b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5f8dd875-1bec-4da2-9b4c-83d96f28687b
 - text: Hoagland said Alnilam was at a 19.5-degree tetrahedral altitude over JPL when
     the fatal MCO burn began.
   source: Dark Mission
@@ -694,7 +694,7 @@ references:
     altitude as the engine was fired.
   claim_id: f4d083b6-c878-4127-adb2-74895cc31beb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4d083b6-c878-4127-adb2-74895cc31beb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4d083b6-c878-4127-adb2-74895cc31beb
 - text: Hoagland said Mintaka reached the same 19.5-degree position over JPL five
     minutes later, as MCO vanished behind Mars.
   source: Dark Mission
@@ -703,7 +703,7 @@ references:
     itself, Mintaka had assumed the 19.5° ritual position.
   claim_id: c1ac728c-84df-46cd-965e-de7585e7557a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1ac728c-84df-46cd-965e-de7585e7557a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1ac728c-84df-46cd-965e-de7585e7557a
 - text: Hoagland said Regulus sat on the JPL horizon when the Mars Polar Lander de-orbit
     burn command was sent.
   source: Dark Mission
@@ -714,7 +714,7 @@ references:
     burn.
   claim_id: 8269593e-f3c3-4de1-80c6-8305d61f9223
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8269593e-f3c3-4de1-80c6-8305d61f9223
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8269593e-f3c3-4de1-80c6-8305d61f9223
 - text: After both losses, NASA's Dan Goldin appointed Thomas Young's commission to
     investigate MPL and JPL's Mars programme.
   source: Dark Mission
@@ -724,7 +724,7 @@ references:
     entire Mars program at JPL.
   claim_id: 6914afeb-f7d5-4dee-810d-e009c5d4dfc8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6914afeb-f7d5-4dee-810d-e009c5d4dfc8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6914afeb-f7d5-4dee-810d-e009c5d4dfc8
 - text: Dark Mission reports James Oberg accused JPL employees of knowing MPL was
     doomed by landing-leg software problems.
   source: Dark Mission
@@ -735,7 +735,7 @@ references:
     landing legs) from very early on in the mission.
   claim_id: 8148aac3-0cac-480d-b0af-7c92e8905e4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
 - text: JPL employees denied Oberg's report as bunk, complete nonsense, and wacko.
   source: Dark Mission
   location: ch14:19549-19686
@@ -743,7 +743,7 @@ references:
     nonsense” and “wacko” to describe their reactions to Oberg’s charge.
   claim_id: 8e972af6-9930-40e4-937f-192186bc52b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
 - text: Dark Mission reports the Young Report attributed JPL's shortfalls to Goldin's
     faster, better, cheaper philosophy.
   source: Dark Mission
@@ -753,7 +753,7 @@ references:
     philosophy.
   claim_id: 0626e571-44a1-41ab-aa64-600a853ae9fa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0626e571-44a1-41ab-aa64-600a853ae9fa
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0626e571-44a1-41ab-aa64-600a853ae9fa
 - text: Goldin appointed a NASA Headquarters Mars Czar, removing Mars-programme authority
     from JPL.
   source: Dark Mission
@@ -762,7 +762,7 @@ references:
     future Mars exploration programs (thus taking such management away from JPL)
   claim_id: 46a3b1fa-9df0-40db-a3fc-d8e4ab0d731c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46a3b1fa-9df0-40db-a3fc-d8e4ab0d731c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46a3b1fa-9df0-40db-a3fc-d8e4ab0d731c
 - text: On 2000-03-29 Goldin flew to JPL to address staff after the Oberg accusation
     and Young Report.
   source: Dark Mission
@@ -772,7 +772,7 @@ references:
     flew on March 29, 2000 to JPL itself.
   claim_id: 8412c745-ebba-4c91-8a2b-42ab3e02c277
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
 - text: Dark Mission reports Goldin's speech acknowledged Admiral Bobby Inman, head
     of the JPL Oversight Committee at Caltech.
   source: Dark Mission
@@ -782,7 +782,7 @@ references:
     to the team here is also unwavering. And I thank him for that...
   claim_id: ef38ea06-0e59-445f-ba03-e29bbd456968
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef38ea06-0e59-445f-ba03-e29bbd456968
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef38ea06-0e59-445f-ba03-e29bbd456968
 - text: In summer 1976 Ron Levin, newly out of high school, was assisting his father
     Gilbert Levin at JPL.
   source: Dark Mission
@@ -792,7 +792,7 @@ references:
     father at JPL during that incomparable Viking Summer.
   claim_id: a1b400da-5041-4d7c-9fa2-3830026bafed
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1b400da-5041-4d7c-9fa2-3830026bafed
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1b400da-5041-4d7c-9fa2-3830026bafed
 - text: DiGregorio's book says the first Mars colour image showed a light-blue sky
     on JPL's monitors.
   source: Dark Mission
@@ -803,7 +803,7 @@ references:
     personnel to view the Viking images.
   claim_id: e53a975a-8861-4b40-b891-8c743f06905f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e53a975a-8861-4b40-b891-8c743f06905f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e53a975a-8861-4b40-b891-8c743f06905f
 - text: DiGregorio's book says a technician changed the image to a uniform orange-red
     scene two hours later, monitor by monitor.
   source: Dark Mission
@@ -813,7 +813,7 @@ references:
     to a uniform orange-red sky and landscape.
   claim_id: 8ad0b52d-3061-49e5-abb9-4d9d9bcf4988
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8ad0b52d-3061-49e5-abb9-4d9d9bcf4988
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8ad0b52d-3061-49e5-abb9-4d9d9bcf4988
 - text: DiGregorio's book says Ron Levin reset the monitors and was warned by project
     director James S. Martin, Jr.
   source: Dark Mission
@@ -825,7 +825,7 @@ references:
     like that again, *he’d be thrown out of JPL for good.*
   claim_id: 534c4514-50f8-4585-96fc-86b32d5fba02
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-534c4514-50f8-4585-96fc-86b32d5fba02
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-534c4514-50f8-4585-96fc-86b32d5fba02
 - text: DiGregorio's book says the technician told Gilbert Levin he had been instructed
     to make the Martian sky and landscape red.
   source: Dark Mission
@@ -837,7 +837,7 @@ references:
     so.
   claim_id: e66e7f3d-43ca-48f1-bd86-4af009906d7c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e66e7f3d-43ca-48f1-bd86-4af009906d7c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e66e7f3d-43ca-48f1-bd86-4af009906d7c
 - text: Gilbert Levin questioned the physics of the colour change, arguing red-scattering
     dust should make the surface look more blue, not red.
   source: Dark Mission
@@ -849,7 +849,7 @@ references:
     [in the direct sunlight illumination] left to reflect.
   claim_id: 1d5c76f4-657f-4381-8472-df61af031924
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1d5c76f4-657f-4381-8472-df61af031924
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1d5c76f4-657f-4381-8472-df61af031924
 - text: Discrepancies were found between live coverage of Pathfinder's 1997-07-04
     landing and JPL's later web image releases.
   source: Dark Mission
@@ -860,7 +860,7 @@ references:
     versions of those same images released across the web by JPL
   claim_id: f422faef-dbf9-41b9-bff5-2971c1764336
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f422faef-dbf9-41b9-bff5-2971c1764336
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f422faef-dbf9-41b9-bff5-2971c1764336
 - text: JPL's web-released Pathfinder images had compression artefacts, assembly errors
     and colour registration problems.
   source: Dark Mission
@@ -869,7 +869,7 @@ references:
     assembly errors and blatant color registration problems
   claim_id: a691eaaa-f007-41af-a171-666c57ba8c73
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a691eaaa-f007-41af-a171-666c57ba8c73
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a691eaaa-f007-41af-a171-666c57ba8c73
 - text: JPL adjusted the Pathfinder sky colour to Viking-style pink rather than the
     blue forecast by Hubble imagery.
   source: Dark Mission
@@ -879,7 +879,7 @@ references:
     Earth-like blue
   claim_id: c5ed3545-a022-4cf3-9999-740a824cb0e0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c5ed3545-a022-4cf3-9999-740a824cb0e0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c5ed3545-a022-4cf3-9999-740a824cb0e0
 - text: Hoagland considered the Pathfinder image discrepancies evidence JPL was hiding
     something.
   source: Dark Mission
@@ -888,7 +888,7 @@ references:
     in these images.
   claim_id: c1fc51f6-11c3-4396-8749-2cd0ee1253fc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1fc51f6-11c3-4396-8749-2cd0ee1253fc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c1fc51f6-11c3-4396-8749-2cd0ee1253fc
 - text: Unlike Mars Global Surveyor, Malin and JPL did not directly control the THEMIS
     camera on Mars Odyssey.
   source: Dark Mission
@@ -897,7 +897,7 @@ references:
     THEMIS visible light camera directly
   claim_id: 76da6cf8-0ac9-4428-adbb-aa627814420d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76da6cf8-0ac9-4428-adbb-aa627814420d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76da6cf8-0ac9-4428-adbb-aa627814420d
 - text: SPSR's semi-official position held JPL deliberately degraded the Catbox image
     to protect its own funding.
   source: Dark Mission
@@ -906,7 +906,7 @@ references:
     degraded, but it was only done by JPL to “protect their funding.”
   claim_id: d42e56cf-a3c5-49c4-9068-b219c81878d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d42e56cf-a3c5-49c4-9068-b219c81878d1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d42e56cf-a3c5-49c4-9068-b219c81878d1
 - text: SPSR reasoned that admitting the truth about Cydonia would bring a manned
     mission that cut JPL out of the funding loop.
   source: Dark Mission
@@ -916,7 +916,7 @@ references:
     in such a venture JPL would be out of the funding loop.
   claim_id: 245b8c41-640e-4484-823a-4217ca7fcb1a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-245b8c41-640e-4484-823a-4217ca7fcb1a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-245b8c41-640e-4484-823a-4217ca7fcb1a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

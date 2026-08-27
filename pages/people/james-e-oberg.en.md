@@ -76,7 +76,7 @@ references:
     books on spaceflight who often debunks U.F.O. sightings, was also doubtful.
   claim_id: 8b0a9a42-d5aa-447d-97bd-922cc98ce41b
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
 - text: Oberg dismissed the STS-80 disk-like object event as identical to STS-48 and
     numerous other shuttle-flight scenes
@@ -87,7 +87,7 @@ references:
     shuttle flight program."
   claim_id: 9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
-  workbench_url: http://localhost:5173/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
+  workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
 - text: Asked by Oberg about the STS-80 objects, Musgrave said he saw nothing unusual
     on the flight
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -97,7 +97,7 @@ references:
     this point or at any other."'
   claim_id: 137cc196-db0b-46f2-9200-d2489d4eb8fb
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
-  workbench_url: http://localhost:5173/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
+  workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
 - text: Oberg described Musgrave as not shy about talking about anomalies of any kind
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1983-2059
@@ -105,7 +105,7 @@ references:
     kind
   claim_id: f83c91d6-908e-4a98-a0aa-94ad2e43df90
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
-  workbench_url: http://localhost:5173/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-f83c91d6-908e-4a98-a0aa-94ad2e43df90
+  workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-f83c91d6-908e-4a98-a0aa-94ad2e43df90
 - text: Oberg attempted a rebuttal of the STS-48 footage, suggesting the objects were
     ice particles from the shuttle's thrusters
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -117,7 +117,7 @@ references:
     thruster maneuvers that were causing the movement of ice particles.
   claim_id: ca174e0c-7265-4a6f-9bf3-7b213b7090d9
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
-  workbench_url: http://localhost:5173/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-ca174e0c-7265-4a6f-9bf3-7b213b7090d9
+  workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-ca174e0c-7265-4a6f-9bf3-7b213b7090d9
 - text: Derakhshani considers Oberg's ice-particle explanation a plausible first guess
     but finds the STS-48 data do not fit it well
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -128,14 +128,14 @@ references:
     data in the video do not fit that explanation well at all.
   claim_id: 004dac5c-f4ae-4161-8490-23e7475edb06
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
-  workbench_url: http://localhost:5173/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-004dac5c-f4ae-4161-8490-23e7475edb06
+  workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-004dac5c-f4ae-4161-8490-23e7475edb06
 - text: Oberg claimed the flash in the STS-48 video was from a thruster firing
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:3637-3707
   quote: Oberg⁶ claimed that the flash in the STS-48 video was from a thruster firing.
   claim_id: 7a9e9827-91ac-4d95-915e-1a41290bb5ea
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
-  workbench_url: http://localhost:5173/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-7a9e9827-91ac-4d95-915e-1a41290bb5ea
+  workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-7a9e9827-91ac-4d95-915e-1a41290bb5ea
 - text: Oberg had back-and-forth exchanges with Mark Carlotto and Jack Kasher over
     STS-48, not officially on behalf of NASA
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -147,7 +147,7 @@ references:
     own. not necessarily officially on behalf of NASA.
   claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
-  workbench_url: http://localhost:5173/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-0f63e416-be58-40c7-b227-5668e16084dc
+  workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-0f63e416-be58-40c7-b227-5668e16084dc
 - text: NASA commissioned Oberg to write an official NASA book on why the Moon Hoax
     theory is unfounded
   source: Dark Mission
@@ -157,7 +157,7 @@ references:
     on “why the Moon Hoax crowd is ‘out to lunch.’”
   claim_id: 97fbbabd-748b-422f-87db-335178e24745
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97fbbabd-748b-422f-87db-335178e24745
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97fbbabd-748b-422f-87db-335178e24745
 - text: Another part of NASA abruptly cancelled Oberg's contract and withdrew from
     publishing the book
   source: Dark Mission
@@ -166,7 +166,7 @@ references:
     abruptly withdrawing from publishing the one book
   claim_id: 371d215c-5590-4f15-956c-471264a4995b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-371d215c-5590-4f15-956c-471264a4995b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-371d215c-5590-4f15-956c-471264a4995b
 - text: Days before Young's report, Oberg published a story via United Press International
     accusing JPL employees of knowing the Mars Polar Lander was doomed
   source: Dark Mission
@@ -177,7 +177,7 @@ references:
     landing legs) from very early on in the mission.
   claim_id: 8148aac3-0cac-480d-b0af-7c92e8905e4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
 - text: JPL employees denied Oberg's report, calling it bunk, complete nonsense, and
     wacko
   source: Dark Mission
@@ -186,7 +186,7 @@ references:
     nonsense” and “wacko” to describe their reactions to Oberg’s charge.
   claim_id: 8e972af6-9930-40e4-937f-192186bc52b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
 - text: Goldin flew to JPL to address personnel following Oberg's UPI accusation and
     the Young Report's release
   source: Dark Mission
@@ -196,7 +196,7 @@ references:
     flew on March 29, 2000 to JPL itself.
   claim_id: 8412c745-ebba-4c91-8a2b-42ab3e02c277
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
 - text: Oberg's intervention led to Ken Johnston's dismissal from his unpaid JPL Solar
     System Ambassador position
   source: Dark Mission
@@ -206,7 +206,7 @@ references:
     among the media elite.
   claim_id: 53a14b17-7848-48c9-a029-3164bb6d8257
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53a14b17-7848-48c9-a029-3164bb6d8257
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53a14b17-7848-48c9-a029-3164bb6d8257
 - text: Oberg of NBC News made an assault on the integrity of Ken Johnston
   source: Dark Mission
   location: ch5:614-689
@@ -214,7 +214,7 @@ references:
     News
   claim_id: 0c15234c-49ad-479a-b5bb-f932119605db
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c15234c-49ad-479a-b5bb-f932119605db
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c15234c-49ad-479a-b5bb-f932119605db
 - text: Oberg dismissed John Glenn's 2001 Frasier comments as simple humour given
     their comedic context
   source: Dark Mission
@@ -224,7 +224,7 @@ references:
     on television.
   claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
 - text: Mansmann backed Jacobs' account after reading that Oberg and Klass were attacking
     Jacobs' 1964 Vandenberg sighting as fanciful and uncorroborated
   source: In Plain Sight
@@ -234,7 +234,7 @@ references:
     and uncorroborated.
   claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
 - text: Oberg was doubtful about AATIP, citing prosaic events and human perceptual
     traits as explanations
@@ -245,7 +245,7 @@ references:
     traits that can account for these stories,” Mr. Oberg said.
   claim_id: fd6369cc-93c0-41d3-9afc-58c8e4436f24
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
 - text: Oberg said many people are active in the air and don't want others to know,
     happy to lurk unrecognised or stir up noise as camouflage
@@ -257,7 +257,7 @@ references:
     camouflage.”
   claim_id: 1865e771-b7ed-48c8-98a3-269a93349144
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1865e771-b7ed-48c8-98a3-269a93349144
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1865e771-b7ed-48c8-98a3-269a93349144
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1865e771-b7ed-48c8-98a3-269a93349144
 - text: Oberg said he welcomed UFO research and considered there could well be a 'pearl
     there'
@@ -268,7 +268,7 @@ references:
     there,” he said.
   claim_id: 9140ebaf-97bc-404b-b75a-2736be5ce077
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
 built_by:
   model: claude-sonnet-5

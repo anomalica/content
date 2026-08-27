@@ -195,7 +195,7 @@ references:
     that the beginning of the end of the world would commence.
   claim_id: c7e0744c-d1c5-4ad5-80d0-b78a09434b05
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c7e0744c-d1c5-4ad5-80d0-b78a09434b05
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c7e0744c-d1c5-4ad5-80d0-b78a09434b05
 - text: Named after his philandering father, whom his mother soon divorced
   source: Dark Mission
   location: ch12:75146-75276
@@ -203,14 +203,14 @@ references:
     soon after "Marvel" (later "John" and "Jack") was born.
   claim_id: 061699da-ff50-48f9-b636-9d67d0ffbb54
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-061699da-ff50-48f9-b636-9d67d0ffbb54
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-061699da-ff50-48f9-b636-9d67d0ffbb54
 - text: Attended University of the State of California and Caltech
   source: Dark Mission
   location: ch12:80062-80104
   quote: University of the State of California and Caltech
   claim_id: 3204c10f-3de0-460d-99b1-07635c30c341
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3204c10f-3de0-460d-99b1-07635c30c341
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3204c10f-3de0-460d-99b1-07635c30c341
 - text: Worked in Caltech chemical laboratories developing explosives for the US government
   source: Dark Mission
   location: ch12:80113-80210
@@ -218,7 +218,7 @@ references:
     explosives for Uncle Sam
   claim_id: 4e2627ee-6aad-4f89-8318-ebf43c3bace2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4e2627ee-6aad-4f89-8318-ebf43c3bace2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4e2627ee-6aad-4f89-8318-ebf43c3bace2
 - text: Hired 1935 as von Karman's chief experimental rocket scientist
   source: Dark Mission
   location: ch12:73803-74014
@@ -227,7 +227,7 @@ references:
     made huge strides in the field of solid-rocket propulsion.
   claim_id: a3cb2ed6-2a0d-49ce-8655-94bfd25cfea0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a3cb2ed6-2a0d-49ce-8655-94bfd25cfea0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a3cb2ed6-2a0d-49ce-8655-94bfd25cfea0
 - text: Tested home-made rockets in Devil's Canyon, Pasadena, where JPL now sits
   source: Dark Mission
   location: ch12:76126-76313
@@ -236,7 +236,7 @@ references:
     Laboratory sits on that very land.
   claim_id: 0a40920a-dca9-430b-9e29-d50cac2f922f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a40920a-dca9-430b-9e29-d50cac2f922f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a40920a-dca9-430b-9e29-d50cac2f922f
 - text: 1936-10-31 liquid-fuel rocket test at Arroyo Seco with GALCIT team
   source: Dark Mission
   location: ch12:169460-169600
@@ -244,7 +244,7 @@ references:
     with key members of the GALCIT team—including Parsons (lower right frame)
   claim_id: 2b7538ff-4eb3-40cd-9d3e-8515ad922642
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b7538ff-4eb3-40cd-9d3e-8515ad922642
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b7538ff-4eb3-40cd-9d3e-8515ad922642
 - text: Early contact with Oberth and von Braun
   source: Dark Mission
   location: ch12:76319-76531
@@ -253,7 +253,7 @@ references:
     Oberth's "wunderkind" successor and protégé, Wernher Von Braun.
   claim_id: 32094487-a93c-4830-9da3-681950163f0a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32094487-a93c-4830-9da3-681950163f0a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32094487-a93c-4830-9da3-681950163f0a
 - text: Corresponded with Robert Goddard, working in New Mexico deserts
   source: Dark Mission
   location: ch12:76538-76664
@@ -261,7 +261,7 @@ references:
     working alone in the deserts outside Roswell, New Mexico.
   claim_id: d2c09148-4a1d-48f5-8867-2199141bbe93
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d2c09148-4a1d-48f5-8867-2199141bbe93
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d2c09148-4a1d-48f5-8867-2199141bbe93
 - text: Sought solid-fuel boosters simpler and more reliable than liquid-fuelled rockets
   source: Dark Mission
   location: ch12:76904-77178
@@ -271,7 +271,7 @@ references:
     painful efforts at practical rocket development.
   claim_id: a99da1da-1e8e-444f-8018-6e00a71d8b5b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a99da1da-1e8e-444f-8018-6e00a71d8b5b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a99da1da-1e8e-444f-8018-6e00a71d8b5b
 - text: Left Caltech to co-found Aerojet with GALCIT colleagues including von Karman
   source: Dark Mission
   location: ch12:82202-82311
@@ -279,7 +279,7 @@ references:
     from GALCIT, including Von Karman
   claim_id: a0abc58c-85b1-42c5-b8d0-b7e6ed8a4b38
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0abc58c-85b1-42c5-b8d0-b7e6ed8a4b38
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0abc58c-85b1-42c5-b8d0-b7e6ed8a4b38
 - text: Went on to be a founder of JPL and Aerojet Corporation
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:10110-10196
@@ -287,7 +287,7 @@ references:
     the Aerojet Corporation.
   claim_id: f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f6e1f692-cf25-4f66-a972-9c77e7a3b2fe
 - text: Aerojet still builds solid-rocket boosters for NASA and the Department of
     Defense
   source: Dark Mission
@@ -297,7 +297,7 @@ references:
     boosters for NASA and the Department of Defense.
   claim_id: 852a8811-dea2-46f4-b61a-f68fddd3fddf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-852a8811-dea2-46f4-b61a-f68fddd3fddf
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-852a8811-dea2-46f4-b61a-f68fddd3fddf
 - text: Space Shuttle boosters provided over 80% of lift-off thrust, ~1.36 million
     kg apiece, a legacy of Parsons' chemistry
   source: Dark Mission
@@ -308,7 +308,7 @@ references:
     at liftoff), is Parson's lasting legacy to today's space program.
   claim_id: 5c9d0d6b-6fe6-4e72-a1b3-a723f6f231b8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5c9d0d6b-6fe6-4e72-a1b3-a723f6f231b8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5c9d0d6b-6fe6-4e72-a1b3-a723f6f231b8
 - text: Von Karman said Parsons recited pagan poetry before each rocket test
   source: Dark Mission
   location: ch12:78616-78743
@@ -316,7 +316,7 @@ references:
     …") used to "recite pagan poetry before each rocket test."
   claim_id: f2e011cc-b1e5-406f-ae4d-01a355b93470
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f2e011cc-b1e5-406f-ae4d-01a355b93470
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f2e011cc-b1e5-406f-ae4d-01a355b93470
 - text: Long fascination with magic and the occult; ritual sex practices at his mansion
   source: Dark Mission
   location: ch12:74146-74262
@@ -324,7 +324,7 @@ references:
     ritual sex orgies in his Pasadena mansion.
   claim_id: 9b14f214-b9e2-4ea2-8287-bb4d4fb3dadc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b14f214-b9e2-4ea2-8287-bb4d4fb3dadc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b14f214-b9e2-4ea2-8287-bb4d4fb3dadc
 - text: Fell in with Crowley's OTO at its Los Angeles temple, December 1938
   source: Dark Mission
   location: ch12:79342-79466
@@ -332,7 +332,7 @@ references:
     Ordo Templi Orientis (OTO) at their temple in Los Angeles.
   claim_id: d83acc38-475e-4add-8c5b-c9f9e55007ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d83acc38-475e-4add-8c5b-c9f9e55007ec
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d83acc38-475e-4add-8c5b-c9f9e55007ec
 - text: Initiated into OTO 1939; impressed Jane Wolfe
   source: Dark Mission
   location: ch12:79475-79626
@@ -341,7 +341,7 @@ references:
     Crowley.
   claim_id: 616625e9-0efc-4e6f-9908-43d669bbf248
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-616625e9-0efc-4e6f-9908-43d669bbf248
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-616625e9-0efc-4e6f-9908-43d669bbf248
 - text: Drew occult ideas from Crowley, self-proclaimed wickedest man in the world
   source: Dark Mission
   location: ch12:74475-74629
@@ -349,7 +349,7 @@ references:
     Aleister Crowley [Fig. 5-20], the self-proclaimed "wickedest man in the world."
   claim_id: a25953dd-781b-42a6-a167-f522e86cf62e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a25953dd-781b-42a6-a167-f522e86cf62e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a25953dd-781b-42a6-a167-f522e86cf62e
 - text: Crowley appointed Parsons head of the Southern California OTO centre
   source: Dark Mission
   location: ch12:74637-74924
@@ -359,7 +359,7 @@ references:
     by Cal Tech to develop rockets for the U.S. Army.
   claim_id: 358a4228-a6cf-49d0-bcc4-90e21abdf1a2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-358a4228-a6cf-49d0-bcc4-90e21abdf1a2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-358a4228-a6cf-49d0-bcc4-90e21abdf1a2
 - text: Rising OTO figure by early 1940s, frequent correspondence with Crowley
   source: Dark Mission
   location: ch12:80655-80767
@@ -367,7 +367,7 @@ references:
     were exchanging letters with great frequency.
   claim_id: 5be16a32-b6e7-4f93-b0d0-a68a868bca7f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be16a32-b6e7-4f93-b0d0-a68a868bca7f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be16a32-b6e7-4f93-b0d0-a68a868bca7f
 - text: Worked with Crowley to expand the Los Angeles lodge's membership
   source: Dark Mission
   location: ch12:81547-81621
@@ -375,7 +375,7 @@ references:
     Angeles
   claim_id: 7db8e6f4-85d7-4180-9602-64efd137d4c1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7db8e6f4-85d7-4180-9602-64efd137d4c1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7db8e6f4-85d7-4180-9602-64efd137d4c1
 - text: Recruited fellow GALCIT scientists into the OTO
   source: Dark Mission
   location: ch12:81634-81719
@@ -383,7 +383,7 @@ references:
     to join
   claim_id: eb93e52c-1840-4c62-96b6-445ca040d9f1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eb93e52c-1840-4c62-96b6-445ca040d9f1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eb93e52c-1840-4c62-96b6-445ca040d9f1
 - text: Investigated by police over public nudity and rituals at his mansion
   source: Dark Mission
   location: ch12:81745-81876
@@ -391,7 +391,7 @@ references:
     nudity and bizarre rituals" taking place in his Pasadena mansion
   claim_id: af126c41-2955-4ac1-b13c-fdbb00166b0f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-af126c41-2955-4ac1-b13c-fdbb00166b0f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-af126c41-2955-4ac1-b13c-fdbb00166b0f
 - text: Jane Wolfe wrote she took Parsons to be the child prophesied in Crowley's
     Book of the Law
   source: Dark Mission
@@ -400,7 +400,7 @@ references:
     all' (the mysteries hidden therein. AL,
   claim_id: 39b07cce-8c08-4d84-9f9d-927ecbf56c92
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39b07cce-8c08-4d84-9f9d-927ecbf56c92
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39b07cce-8c08-4d84-9f9d-927ecbf56c92
 - text: Parsons and Hubbard were two of the most ardent OTO members in Los Angeles
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:9935-10049
@@ -408,7 +408,7 @@ references:
     and L. Ron Hubbard, a science-fiction buff.
   claim_id: ff37d091-7adf-4abc-9e47-5b97c8b981cc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ff37d091-7adf-4abc-9e47-5b97c8b981cc
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ff37d091-7adf-4abc-9e47-5b97c8b981cc
 - text: Hubbard was Parsons' compatriot in occult rites and later founded the Church
     of Scientology
   source: Dark Mission
@@ -417,14 +417,14 @@ references:
     5-19], who later went on to form the controversial "Church of Scientology"
   claim_id: ead61858-187f-4be6-badf-20bf04939405
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ead61858-187f-4be6-badf-20bf04939405
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ead61858-187f-4be6-badf-20bf04939405
 - text: Hubbard came to Parsons' Pasadena mansion in 1945
   source: Dark Mission
   location: ch12:82545-82592
   quote: until one very special individual showed up in 1945
   claim_id: f5b96007-dde9-4a04-b3ec-47d4d38c9c25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f5b96007-dde9-4a04-b3ec-47d4d38c9c25
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f5b96007-dde9-4a04-b3ec-47d4d38c9c25
 - text: By 1946 the pair had engaged in sexual magical workings for short-term goals
   source: Dark Mission
   location: ch12:82994-83156
@@ -433,7 +433,7 @@ references:
     bigger plans.
   claim_id: 7976e772-4086-444e-93a7-413dbe7c7fca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7976e772-4086-444e-93a7-413dbe7c7fca
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7976e772-4086-444e-93a7-413dbe7c7fca
 - text: Decided to recreate John Dee's seances
   source: Dark Mission
   location: ch12:83164-83323
@@ -442,7 +442,7 @@ references:
     century.
   claim_id: edcfc65a-9055-4497-bbc9-cbb088d31c48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-edcfc65a-9055-4497-bbc9-cbb088d31c48
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-edcfc65a-9055-4497-bbc9-cbb088d31c48
 - text: Meditated eleven days in the desert to conjure an elemental spirit
   source: Dark Mission
   location: ch12:83516-83671
@@ -451,7 +451,7 @@ references:
     mansion.
   claim_id: 7ba575ad-b976-42d9-9ea0-8d836365c53e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ba575ad-b976-42d9-9ea0-8d836365c53e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ba575ad-b976-42d9-9ea0-8d836365c53e
 - text: Hubbard was Parsons' partner in the Babalon Working during his naval intelligence
     service
   source: Dark Mission
@@ -460,7 +460,7 @@ references:
     Working,” during his service in naval intelligence in World War II.
   claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddab5ae8-7296-41f6-86dc-4278233fe0f3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddab5ae8-7296-41f6-86dc-4278233fe0f3
 - text: Marjorie Cameron appeared at Parsons' mansion following the ritual
   source: Dark Mission
   location: ch12:83681-83757
@@ -468,7 +468,7 @@ references:
     appeared
   claim_id: d5f049e1-99e8-4bbf-800a-4e5d37b03c8b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d5f049e1-99e8-4bbf-800a-4e5d37b03c8b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d5f049e1-99e8-4bbf-800a-4e5d37b03c8b
 - text: Cameron resigned as secretary to the Chairman of the Joint Chiefs of Staff,
     1946
   source: Dark Mission
@@ -478,7 +478,7 @@ references:
     of Staff, in Washington DC, in 1946
   claim_id: 8c231b28-5cfc-4967-bc4d-fc9d59552433
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8c231b28-5cfc-4967-bc4d-fc9d59552433
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8c231b28-5cfc-4967-bc4d-fc9d59552433
 - text: Parsons still legally married to Sara Northrup when Cameron moved in
   source: Dark Mission
   location: ch12:84495-84655
@@ -487,7 +487,7 @@ references:
     in the mansion
   claim_id: 0895de41-4a3f-4141-a457-7ad0f57150ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0895de41-4a3f-4141-a457-7ad0f57150ac
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0895de41-4a3f-4141-a457-7ad0f57150ac
 - text: Began the Babalon Working in 1946
   source: Dark Mission
   location: ch12:84667-84777
@@ -495,7 +495,7 @@ references:
     project"—the so-called "Babalon Working."
   claim_id: 4f4231d0-b885-46eb-b474-8b0a890ab318
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4231d0-b885-46eb-b474-8b0a890ab318
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4231d0-b885-46eb-b474-8b0a890ab318
 - text: Rituals used Dee's Enochian calls and required invoking Osiris
   source: Dark Mission
   location: ch12:85004-85165
@@ -504,7 +504,7 @@ references:
     Osiris.
   claim_id: 48e9b8dc-b371-432d-bdf7-a52dd15d910c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48e9b8dc-b371-432d-bdf7-a52dd15d910c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48e9b8dc-b371-432d-bdf7-a52dd15d910c
 - text: 'Purpose: birth a Moonchild and open a doorway for the goddess Babalon'
   source: Dark Mission
   location: ch12:85174-85455
@@ -514,7 +514,7 @@ references:
     for the appearance of the goddess Babalon in human form.
   claim_id: 104cee02-eec3-426b-be57-b7a12b35ca6a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-104cee02-eec3-426b-be57-b7a12b35ca6a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-104cee02-eec3-426b-be57-b7a12b35ca6a
 - text: Parsons and Cameron failed to produce the Moonchild after months
   source: Dark Mission
   location: ch12:88143-88252
@@ -522,7 +522,7 @@ references:
     their attempts to produce Crowley's Moonchild.
   claim_id: bafc6359-f62c-4005-b8c1-dcaba5c66931
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bafc6359-f62c-4005-b8c1-dcaba5c66931
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bafc6359-f62c-4005-b8c1-dcaba5c66931
 - text: Scheme to buy yachts on the East Coast and sell them in California
   source: Dark Mission
   location: ch12:88275-88407
@@ -530,7 +530,7 @@ references:
     Coast, sailing them to California, and selling them at a profit.
   claim_id: f16effd9-5fc8-49e0-9229-e7f076590aab
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f16effd9-5fc8-49e0-9229-e7f076590aab
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f16effd9-5fc8-49e0-9229-e7f076590aab
 - text: Hubbard absconded with Parsons' money and wife, fled to Florida
   source: Dark Mission
   location: ch12:88415-88602
@@ -539,7 +539,7 @@ references:
     girl and the rest of Parsons' cash.
   claim_id: 4fe35bb8-7142-4606-bbf0-17216cfd1d55
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fe35bb8-7142-4606-bbf0-17216cfd1d55
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fe35bb8-7142-4606-bbf0-17216cfd1d55
 - text: Hubbard ended up in Florida with Sara Northrup and the boat Harpoon
   source: Dark Mission
   location: ch5:21864-22053
@@ -548,7 +548,7 @@ references:
     and a sailing boat named the *Harpoon*
   claim_id: 02ec2ec3-1096-492b-ba40-bb55569a43c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02ec2ec3-1096-492b-ba40-bb55569a43c2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02ec2ec3-1096-492b-ba40-bb55569a43c2
 - text: Parsons said to have summoned Bartzabel to conjure a storm against them
   source: Dark Mission
   location: ch12:88853-88950
@@ -556,7 +556,7 @@ references:
     Mars) to "conjure up a storm."
   claim_id: e43e4108-1f95-4b0a-a3ff-2c39057f35f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e43e4108-1f95-4b0a-a3ff-2c39057f35f7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e43e4108-1f95-4b0a-a3ff-2c39057f35f7
 - text: Storm forced them back to Miami, where Parsons had them arrested
   source: Dark Mission
   location: ch12:88958-89088
@@ -564,7 +564,7 @@ references:
     to return to Miami—where Parsons promptly had them arrested.
   claim_id: 5a18c054-e00e-4dda-b4f4-30030c5eb94f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a18c054-e00e-4dda-b4f4-30030c5eb94f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a18c054-e00e-4dda-b4f4-30030c5eb94f
 - text: Crowley wanted Parsons removed as OTO America head; Parsons led on before
     quitting
   source: Dark Mission
@@ -575,7 +575,7 @@ references:
     but eventually quit.
   claim_id: 32955ab4-86ee-40df-a010-a001297af0cb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32955ab4-86ee-40df-a010-a001297af0cb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32955ab4-86ee-40df-a010-a001297af0cb
 - text: Parsons and others lost security clearances after the Hubbard-Northrup affair
   source: Dark Mission
   location: ch5:22151-22391
@@ -585,7 +585,7 @@ references:
     bombs.
   claim_id: a31dfd63-352c-4f56-bf1c-ffec24fd9aad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a31dfd63-352c-4f56-bf1c-ffec24fd9aad
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a31dfd63-352c-4f56-bf1c-ffec24fd9aad
 - text: FOIA memo indicates FBI/ONI scrutiny of Parsons' occult activities from 1940
   source: Dark Mission
   location: ch5:20181-20378
@@ -594,14 +594,14 @@ references:
     of Naval Intelligence (ONI) as early as 1940.
   claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da5e1265-1c04-4fad-8bc8-f328d3811c89
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da5e1265-1c04-4fad-8bc8-f328d3811c89
 - text: Killed in an explosion at his Pasadena laboratory in 1952
   source: Dark Mission
   location: ch12:74073-74140
   quote: Later killed under mysterious circumstances in his Pasadena lab in 1952
   claim_id: 5cc9e6b2-50ee-4739-b5b2-47bc481a6185
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5cc9e6b2-50ee-4739-b5b2-47bc481a6185
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5cc9e6b2-50ee-4739-b5b2-47bc481a6185
 - text: Blast occurred the afternoon he and Cameron were due to leave for Mexico
   source: Dark Mission
   location: ch12:89742-89882
@@ -609,7 +609,7 @@ references:
     he and Cameron were to leave for Mexico for a vacation and a reconciliation
   claim_id: 0e84d3fb-46cc-4e27-9271-ab5ee4062d40
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e84d3fb-46cc-4e27-9271-ab5ee4062d40
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e84d3fb-46cc-4e27-9271-ab5ee4062d40
 - text: Died aged thirty-seven when a rocket exploded in his garage
   source: American Cosmic
   location: ch1:35603-35716
@@ -617,7 +617,7 @@ references:
     in his garage, and he perished with it.
   claim_id: 2f0d3c95-90d5-45fd-b361-5395514c1396
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2f0d3c95-90d5-45fd-b361-5395514c1396
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2f0d3c95-90d5-45fd-b361-5395514c1396
 - text: 'Pasulka: UFOs sighted over the White House months after his death, per his
     widow and friends'
   source: American Cosmic
@@ -626,7 +626,7 @@ references:
     the White House. Parsons’s widow and friends attributed this sighting to his death.
   claim_id: 31832a83-8ff8-4dda-bf2b-c17f5a584975
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-31832a83-8ff8-4dda-bf2b-c17f5a584975
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-31832a83-8ff8-4dda-bf2b-c17f5a584975
 - text: 'Bara: Scientology sought to correct Dark Mission''s account of Hubbard and
     Parsons at JPL'
   source: Dark Mission
@@ -635,7 +635,7 @@ references:
     in the section dealing with Hubbard and Jack Parsons of JPL.
   claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b36ea45-237d-4158-b88d-09ac34b727ff
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b36ea45-237d-4158-b88d-09ac34b727ff
 - text: 'Bara: Scientology argued Hubbard infiltrated to disrupt Parsons, not a willing
     participant'
   source: Dark Mission
@@ -647,7 +647,7 @@ references:
     1003 Orange Grove Avenue.
   claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d7865d7-6307-4398-9e8d-760aada2de21
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d7865d7-6307-4398-9e8d-760aada2de21
 - text: Vallée links Parsons to the same extraterrestrial-superiority belief process
     as Hubbard
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -656,7 +656,7 @@ references:
     JPL, and Ron Hubbard, who founded Scientology.
   claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
 - text: 'Vallée: Parsons met a Spiritual Being in the Mojave Desert in 1945, regarded
     as a Venusian'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -665,14 +665,14 @@ references:
     as a Venusian.
   claim_id: 56aec0f5-8e91-44b9-8dfb-8c05812e3d42
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-56aec0f5-8e91-44b9-8dfb-8c05812e3d42
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-56aec0f5-8e91-44b9-8dfb-8c05812e3d42
 - text: Parsons himself said he was in contact with extraterrestrial intelligences
   source: American Cosmic
   location: ch1:35298-35360
   quote: He also believed that he was in contact with extraterrestrial intelligences.
   claim_id: 53fc7a09-4c93-4cef-b40c-974af6c90b66
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-53fc7a09-4c93-4cef-b40c-974af6c90b66
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-53fc7a09-4c93-4cef-b40c-974af6c90b66
 - text: Launched experiments on ritually significant days, preceded by rituals honouring
     the intelligences
   source: American Cosmic
@@ -682,7 +682,7 @@ references:
     with whom he believed himself to be in contact.
   claim_id: ae2fd523-f6d5-4b6f-9863-37be40e6c232
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ae2fd523-f6d5-4b6f-9863-37be40e6c232
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ae2fd523-f6d5-4b6f-9863-37be40e6c232
 - text: Most astronauts and NASA employees Pasulka interviewed did not know of Parsons'
     and Tsiolkovsky's beliefs
   source: American Cosmic
@@ -692,7 +692,7 @@ references:
     of it embarrassed them.
   claim_id: 84c09c7a-73a9-4c3e-919a-a6c455e5fadb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-84c09c7a-73a9-4c3e-919a-a6c455e5fadb
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-84c09c7a-73a9-4c3e-919a-a6c455e5fadb
 - text: Tyler D. admired their genius but was shocked at their beliefs and rituals
   source: American Cosmic
   location: ch1:36195-36322
@@ -700,7 +700,7 @@ references:
     when I described what they believed and their rituals
   claim_id: 5a303447-15eb-4c27-951d-f75d328e4c9b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5a303447-15eb-4c27-951d-f75d328e4c9b
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5a303447-15eb-4c27-951d-f75d328e4c9b
 - text: Pasulka places Edgar Mitchell in a lineage with Tsiolkovsky, Parsons and Tyler
     D.
   source: American Cosmic
@@ -709,7 +709,7 @@ references:
     such as Konstantin Tsiolkovsky, John (Jack) Parsons, Tyler D., and many others
   claim_id: a2dfcf5d-5bbc-4a78-a7c8-46e9be080e57
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a2dfcf5d-5bbc-4a78-a7c8-46e9be080e57
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a2dfcf5d-5bbc-4a78-a7c8-46e9be080e57
 - text: 'Hoagland: Parsons dreamed of hyperdimensional symbology Hoagland later claimed
     on the Moon and Mars'
   source: Dark Mission
@@ -719,7 +719,7 @@ references:
     discover on the Moon and Mars (Enterprise Mission)
   claim_id: 0ae5b05a-d73f-4f9a-9e7d-ef0b11cfb7f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0ae5b05a-d73f-4f9a-9e7d-ef0b11cfb7f0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0ae5b05a-d73f-4f9a-9e7d-ef0b11cfb7f0
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

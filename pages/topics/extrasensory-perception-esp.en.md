@@ -57,14 +57,14 @@ references:
     thirty years.
   claim_id: 6617cdeb-0a3b-4803-b009-7be916650b2e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6617cdeb-0a3b-4803-b009-7be916650b2e
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6617cdeb-0a3b-4803-b009-7be916650b2e
 - text: Rhine's card tests proved ESP to his own satisfaction
   source: Journeys Out of the Body
   location: ch10:8329-8386
   quote: To his satisfaction, he proved statistically that ESP is fact.
   claim_id: b3335883-e742-4aac-b229-3f8dd8d42f27
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b3335883-e742-4aac-b229-3f8dd8d42f27
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b3335883-e742-4aac-b229-3f8dd8d42f27
 - text: Rhine's results were regarded dubiously by most US psychologists and psychiatrists
   source: Journeys Out of the Body
   location: ch10:8392-8530
@@ -72,7 +72,7 @@ references:
     by the majority of psychologists and psychiatrists in the United States.
   claim_id: 77306ba8-59d2-4283-af35-3737ce89ecd6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-77306ba8-59d2-4283-af35-3737ce89ecd6
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-77306ba8-59d2-4283-af35-3737ce89ecd6
 - text: CIA, Army and DIA recruited people claiming ESP to uncover intelligence secrets
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -82,7 +82,7 @@ references:
     intelligence secrets.
   claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
 - text: The Soviet Union, including the KGB, spent millions annually on ESP phenomena
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -91,7 +91,7 @@ references:
     on this kind of phenomena
   claim_id: 879e75d8-2488-415d-9eee-2298cb76995e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-879e75d8-2488-415d-9eee-2298cb76995e
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-879e75d8-2488-415d-9eee-2298cb76995e
 - text: CIA's ESP work ended in the late 1970s and moved to the Army's Fort Meade
     base
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -101,7 +101,7 @@ references:
     to the US Army's Fort Meade in Maryland.
   claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
 - text: Puthoff conducted ESP research for the CIA and later contracted for AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -110,7 +110,7 @@ references:
     perception for the C.I.A. and later worked as a contractor for the program.
   claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
 - text: SRI's psychic spy program was created during MKUltra because Russia was experimenting
     with ESP
@@ -121,7 +121,7 @@ references:
     perception and kind of the more woo type stuff.
   claim_id: 46bc8dce-753a-412a-b040-220f88e7369e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-46bc8dce-753a-412a-b040-220f88e7369e
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-46bc8dce-753a-412a-b040-220f88e7369e
 - text: Dames and his prototype team became better remote viewers than natural psychics
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -129,7 +129,7 @@ references:
   quote: We became better than some of the better natural psychics in the world.
   claim_id: 34cdc1e7-aee1-401d-9572-1e4b5fe9fba3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-34cdc1e7-aee1-401d-9572-1e4b5fe9fba3
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-34cdc1e7-aee1-401d-9572-1e4b5fe9fba3
 - text: 'Gauld: the super-ESP hypothesis as a counter to the survival hypothesis'
   source: Surviving Death
   location: ch28:11815-12170
@@ -140,7 +140,7 @@ references:
     necessary—“super-ESP”—is actually impossible.
   claim_id: ffcbe355-e681-4a5e-bc10-cc1acf199930
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ffcbe355-e681-4a5e-bc10-cc1acf199930
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ffcbe355-e681-4a5e-bc10-cc1acf199930
 - text: Gauld on the quality of information in the Piper sittings
   source: Surviving Death
   location: ch28:16886-17107
@@ -149,7 +149,7 @@ references:
     acquired information has been so quick, so copious, and so free from error.
   claim_id: 048e735f-57de-41bf-9694-f75ad71965e1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-048e735f-57de-41bf-9694-f75ad71965e1
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-048e735f-57de-41bf-9694-f75ad71965e1
 - text: Haraldsson and Stevenson on the Runolfsson case's information sources
   source: Surviving Death
   location: ch28:46401-46623
@@ -158,7 +158,7 @@ references:
     the medium acquired the information normally or by extrasensory perception.
   claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb27781b-cb01-4caa-8726-cf2b1cdea175
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb27781b-cb01-4caa-8726-cf2b1cdea175
 - text: Definition of psi/psychic functioning as interchangeable with ESP
   source: Surviving Death
   location: ch7:13323-13654
@@ -169,7 +169,7 @@ references:
     (ESP).
   claim_id: 3b85b230-b710-477f-b548-78d4b6bd571e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b85b230-b710-477f-b548-78d4b6bd571e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b85b230-b710-477f-b548-78d4b6bd571e
 - text: Kean on Leininger as reliving a past life rather than using ESP
   source: Surviving Death
   location: ch10:10241-10351
@@ -177,7 +177,7 @@ references:
     remembering and reliving a previous existence.
   claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0291600-ed14-48be-bdaf-7d47a0606bf6
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0291600-ed14-48be-bdaf-7d47a0606bf6
 - text: Braude on the implausibility of an ESP-only explanation for Leininger
   source: Surviving Death
   location: ch10:9388-9687
@@ -187,7 +187,7 @@ references:
     gathering and telepathic influence over the subject,” says Stephen Braude
   claim_id: 382c353f-c2cc-4f2e-a20d-f25155a8a726
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-382c353f-c2cc-4f2e-a20d-f25155a8a726
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-382c353f-c2cc-4f2e-a20d-f25155a8a726
 - text: Braude on out-of-body experiences as manifestations of ESP
   source: Surviving Death
   location: ch16:2709-2805
@@ -195,7 +195,7 @@ references:
     Stephen Braude points out.'
   claim_id: 62044337-b8c2-4b8d-9298-613e750b2dd1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-62044337-b8c2-4b8d-9298-613e750b2dd1
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-62044337-b8c2-4b8d-9298-613e750b2dd1
 - text: Jackson's account of growing up with natural ESP
   source: Surviving Death
   location: ch26:6155-6320
@@ -204,7 +204,7 @@ references:
     been born with.
   claim_id: a0dc4783-6902-48bb-9ecd-777800bd76c5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0dc4783-6902-48bb-9ecd-777800bd76c5
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0dc4783-6902-48bb-9ecd-777800bd76c5
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

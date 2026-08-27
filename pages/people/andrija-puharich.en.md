@@ -100,7 +100,7 @@ references:
     conditions at several scientific institutions.
   claim_id: 0c42c55f-7f5d-4d4b-905c-037a1ad7d206
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c42c55f-7f5d-4d4b-905c-037a1ad7d206
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c42c55f-7f5d-4d4b-905c-037a1ad7d206
 - text: Puharich is a graduate of Northwestern University
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -108,7 +108,7 @@ references:
   quote: a physician, Andrija Puharich, a graduate of Northwestern University
   claim_id: ce22ce40-b76d-41d6-b4d6-668b8709822f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ce22ce40-b76d-41d6-b4d6-668b8709822f
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ce22ce40-b76d-41d6-b4d6-668b8709822f
 - text: Puharich was well-known among psychic phenomena research circles
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -117,7 +117,7 @@ references:
     circles and could therefore expose him quickly to a significant audience.
   claim_id: 75845b34-a16d-4782-8f67-07a1aa96d42e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-75845b34-a16d-4782-8f67-07a1aa96d42e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-75845b34-a16d-4782-8f67-07a1aa96d42e
 - text: Puharich, Pratt, Crookall, Hart and Murphy placed in the same category as
     Rhine
   source: Journeys Out of the Body
@@ -126,7 +126,7 @@ references:
     all come under this classification.
   claim_id: e58a62e8-1319-4cc1-927b-e5553e26f8e1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e58a62e8-1319-4cc1-927b-e5553e26f8e1
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e58a62e8-1319-4cc1-927b-e5553e26f8e1
 - text: Contacts with SPECTRA/Hoova began 1971-11-30 when Puharich hypnotised Geller
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -137,7 +137,7 @@ references:
     first time.
   claim_id: 10463795-d081-4d39-a962-77d4e7e85f41
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10463795-d081-4d39-a962-77d4e7e85f41
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10463795-d081-4d39-a962-77d4e7e85f41
 - text: Puharich sometimes receives messages from SPECTRA when Geller is not present
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -147,7 +147,7 @@ references:
     the walls wherever Dr. Puharich goes.
   claim_id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6a8f477-a89b-4064-bdef-c4574cc7b03e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6a8f477-a89b-4064-bdef-c4574cc7b03e
 - text: SPECTRA said it was a spacecraft stationed over earth for 800 years
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -157,7 +157,7 @@ references:
     territory is where we first landed on earth
   claim_id: f8a262a4-584d-4698-a862-085269ba7e02
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8a262a4-584d-4698-a862-085269ba7e02
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8a262a4-584d-4698-a862-085269ba7e02
 - text: 'Messages taken literally: dematerialised atoms, mass landing as refuelling'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -168,7 +168,7 @@ references:
     your barometric and cosmic layer around earth” (p. 179).
   claim_id: 84e78942-afcd-40ae-b66f-314175277e5f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-84e78942-afcd-40ae-b66f-314175277e5f
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-84e78942-afcd-40ae-b66f-314175277e5f
 - text: Messages predicted mass landings visible only to Geller and Puharich
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -177,7 +177,7 @@ references:
     (perhaps visible only to themselves).
   claim_id: ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
 - text: Puharich predicts a mass landing of extraterrestrials
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -185,7 +185,7 @@ references:
   quote: He predicts a mass landing.
   claim_id: b1966098-c0c2-4ac3-a9b1-ea8a0fb5bb5d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b1966098-c0c2-4ac3-a9b1-ea8a0fb5bb5d
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b1966098-c0c2-4ac3-a9b1-ea8a0fb5bb5d
 - text: Geller and Puharich forecast massive flying saucer landings
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -193,7 +193,7 @@ references:
   quote: Geller and Puharich have forecast massive flying saucer landings.
   claim_id: 4525f8ae-dd94-438e-9400-d6a2590c1c67
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4525f8ae-dd94-438e-9400-d6a2590c1c67
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4525f8ae-dd94-438e-9400-d6a2590c1c67
 - text: Puharich's tapes recording SPECTRA's voice mysteriously disappeared
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -202,7 +202,7 @@ references:
     tapes when he records the voice of SPECTRA.
   claim_id: 6f0707cc-2ffa-420e-a501-0fc285e18556
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6f0707cc-2ffa-420e-a501-0fc285e18556
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6f0707cc-2ffa-420e-a501-0fc285e18556
 - text: The 1972 magnetic tape recording disappeared after transcription
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -210,7 +210,7 @@ references:
   quote: Received on magnetic tape. The tape disappeared after transcription.
   claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
 - text: Puharich claims to receive messages from a mysterious cosmic source
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -219,7 +219,7 @@ references:
     from a mysterious cosmic source.
   claim_id: 58929919-1f10-459c-8124-d6512afad371
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58929919-1f10-459c-8124-d6512afad371
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58929919-1f10-459c-8124-d6512afad371
 - text: The recordings vanish regularly and he cannot prevent it
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -227,7 +227,7 @@ references:
   quote: But the tape vanishes regularly. There is nothing he can do to prevent it
   claim_id: ded44ffb-f8ee-4abe-9990-582b7eb64eec
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ded44ffb-f8ee-4abe-9990-582b7eb64eec
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ded44ffb-f8ee-4abe-9990-582b7eb64eec
 - text: Hurtak, a friend of Puharich, involved in the Geller affair, claimed psychic/UFO
     encounters
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -237,7 +237,7 @@ references:
     had a number of UFO encounters
   claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
 - text: Hurtak and Puharich appeared together on a San Francisco talk show, 1976-04-01
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:28619-28694
@@ -245,7 +245,7 @@ references:
     Francisco.
   claim_id: 3cc4fd5c-5068-44f4-847a-84718ba424f4
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cc4fd5c-5068-44f4-847a-84718ba424f4
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cc4fd5c-5068-44f4-847a-84718ba424f4
 - text: Hurtak shared a statement with Vallée predicting contact within 18 months
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:35845-36222
@@ -255,7 +255,7 @@ references:
     next 18 months by highly evolved intelligent beings from other worlds.'
   claim_id: d8847584-2fb4-487d-9d13-655f48b66a22
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d8847584-2fb4-487d-9d13-655f48b66a22
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d8847584-2fb4-487d-9d13-655f48b66a22
 - text: Puharich appeared on a panel with Young, Muses and Bearden
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -264,7 +264,7 @@ references:
     Charles Muses ... and a scientist, Tom Bearden.
   claim_id: 62af84c4-dda7-4e1f-84df-d5c42dc997e2
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-62af84c4-dda7-4e1f-84df-d5c42dc997e2
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-62af84c4-dda7-4e1f-84df-d5c42dc997e2
 - text: The panel was chaired by Ira Einhorn, a poet from Philadelphia
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -272,7 +272,7 @@ references:
   quote: The panel is chaired by Ira Einhorn, a poet from Philadelphia.
   claim_id: 317460ef-228e-478d-8435-25d9e8b0d429
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-317460ef-228e-478d-8435-25d9e8b0d429
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-317460ef-228e-478d-8435-25d9e8b0d429
 - text: Puharich described his latest experiences with Geller on the panel
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -280,7 +280,7 @@ references:
   quote: Puharich describes his latest experiences with Geller.
   claim_id: ac973420-faad-48a0-acce-a3c0fe814497
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
 - text: Vallée regarded Puharich as an intensely sincere man
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -289,7 +289,7 @@ references:
     think highly of Geller’s talents.
   claim_id: 14969e72-d5ab-4273-ac25-bf33de486fb8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-14969e72-d5ab-4273-ac25-bf33de486fb8
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-14969e72-d5ab-4273-ac25-bf33de486fb8
 - text: 'Vallée: exchanges with SPECTRA borrowed from Puharich''s and Geller''s own
     brains'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -300,7 +300,7 @@ references:
     it may present genuinely new data.
   claim_id: 50423b82-572b-45e0-b20a-e4f28e6ebbd5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-50423b82-572b-45e0-b20a-e4f28e6ebbd5
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-50423b82-572b-45e0-b20a-e4f28e6ebbd5
 - text: Vallée does not accept the benign-intelligence contact idea
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -309,7 +309,7 @@ references:
     is being psychically contacted by a benign intelligence from outer space.
   claim_id: 6eb8d82a-45e5-4a22-8dd6-2e52e9ead0a5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6eb8d82a-45e5-4a22-8dd6-2e52e9ead0a5
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6eb8d82a-45e5-4a22-8dd6-2e52e9ead0a5
 - text: Vallée compares the Puharich/Geller cult to other belief structures
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -319,7 +319,7 @@ references:
     and other countries in recent years.
   claim_id: 27185691-355b-439d-843f-23bf7485784b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-27185691-355b-439d-843f-23bf7485784b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-27185691-355b-439d-843f-23bf7485784b
 - text: 'Vallée: 1899 séance explanation applies equally to Puharich and Geller'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -329,7 +329,7 @@ references:
     true for Puharich and Geller.
   claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
 - text: 'Vallée: both believers and sceptics wrong, citing tapes and Rhombus computer'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -338,7 +338,7 @@ references:
     tapes, and Uri voicing from Rhombus 4-D.
   claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
 - text: Puharich committed to being guided by a high source of wisdom
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -348,7 +348,7 @@ references:
     in “their” hands
   claim_id: 28413dcc-399a-4d98-8ea4-aba13c926696
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28413dcc-399a-4d98-8ea4-aba13c926696
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28413dcc-399a-4d98-8ea4-aba13c926696
 - text: 'Puharich''s book: a Prophet is created as intermediary to a divine intelligence'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -358,7 +358,7 @@ references:
     and man.”
   claim_id: c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
 - text: 'Puharich: the relationship with the superior beings grows deeper'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -367,7 +367,7 @@ references:
     beings and Uri and me continues to grow deeper and mutually more meaningful.”
   claim_id: 597e7465-548a-4f8d-b902-f4368e8d7e4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-597e7465-548a-4f8d-b902-f4368e8d7e4e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-597e7465-548a-4f8d-b902-f4368e8d7e4e
 - text: Puharich told he had passed a test and must tell the world
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -378,7 +378,7 @@ references:
     us….”'
   claim_id: fb05a102-f4e9-43ca-a2aa-4c085b939480
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fb05a102-f4e9-43ca-a2aa-4c085b939480
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fb05a102-f4e9-43ca-a2aa-4c085b939480
 - text: SPECTRA's computers studied everyone; Puharich noticed as the perfect man
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -387,7 +387,7 @@ references:
     were noticed for your abilities as the perfect man for this mission.”
   claim_id: f8860886-8681-44f6-a380-0c099cd9d0b8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8860886-8681-44f6-a380-0c099cd9d0b8
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8860886-8681-44f6-a380-0c099cd9d0b8
 - text: SPECTRA said it was a shame it could not contact Puharich directly
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -397,7 +397,7 @@ references:
     you directly.”
   claim_id: 4046efe6-4de7-49ef-a7b0-1fea81c5a70e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4046efe6-4de7-49ef-a7b0-1fea81c5a70e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4046efe6-4de7-49ef-a7b0-1fea81c5a70e
 - text: Geller and Puharich described events including contact with UFO entities
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -406,7 +406,7 @@ references:
     as UFO entities.
   claim_id: 6885b306-9a96-4c97-a9c6-24ffeb0a82d9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6885b306-9a96-4c97-a9c6-24ffeb0a82d9
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6885b306-9a96-4c97-a9c6-24ffeb0a82d9
 - text: Puharich's first UFO contact came via the leader of Mrs. Keech's sect, 'Dr.
     Armstrong'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -417,7 +417,7 @@ references:
     *When Prophecy Fails* called him Dr. Armstrong.)
   claim_id: 10e204d2-79ec-4d1b-a4d0-8908794dcd28
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10e204d2-79ec-4d1b-a4d0-8908794dcd28
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10e204d2-79ec-4d1b-a4d0-8908794dcd28
 - text: Monroe's 1961-05-05 out-of-body visit to Puharich
   source: Journeys Out of the Body
   location: 58-60
@@ -427,7 +427,7 @@ references:
     he would spend more time on our project...
   claim_id: 788b4b2d-cfe0-4365-b66f-531da021306f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-788b4b2d-cfe0-4365-b66f-531da021306f
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-788b4b2d-cfe0-4365-b66f-531da021306f
 - text: Puharich confirmed the locale but had no memory; light-reflection explanation
   source: Journeys Out of the Body
   location: ch12:14352-14519
@@ -436,7 +436,7 @@ references:
     the reflection of "blond."'
   claim_id: fc411b1c-3324-42b8-a647-8efa6528015f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-fc411b1c-3324-42b8-a647-8efa6528015f
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-fc411b1c-3324-42b8-a647-8efa6528015f
 - text: Puharich had no conscious recollection despite being awake
   source: Journeys Out of the Body
   location: ch12:14590-14717
@@ -444,7 +444,7 @@ references:
     being made, had no conscious recollection of any such meeting.
   claim_id: f445e716-7955-41dc-8762-3475ce4809b1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f445e716-7955-41dc-8762-3475ce4809b1
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f445e716-7955-41dc-8762-3475ce4809b1
 - text: 'Monroe''s 1960-06-29 attempt: four wary people, ''Don''t tell him!'''
   source: Journeys Out of the Body
   location: ch12:8164-8586
@@ -455,7 +455,7 @@ references:
     time, as he reports.'
   claim_id: 7bd7db41-8236-4355-8e92-2d508683ee75
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7bd7db41-8236-4355-8e92-2d508683ee75
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7bd7db41-8236-4355-8e92-2d508683ee75
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

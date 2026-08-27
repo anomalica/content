@@ -62,7 +62,7 @@ references:
     a former director of the Defense Intelligence Agency
   claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
 - text: Clapper was a former undersecretary of defense for intelligence, former head
     of Air Force intelligence, and former DNI
@@ -73,7 +73,7 @@ references:
     intelligence.
   claim_id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a88c5d-064d-45db-b48b-1c0bd94b8b76
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a88c5d-064d-45db-b48b-1c0bd94b8b76
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c7a88c5d-064d-45db-b48b-1c0bd94b8b76
 - text: Clapper was DNI from 2010 to 2017
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -81,7 +81,7 @@ references:
   quote: '[note: James Clapper - Director of National Intelligence (2010-2017)]'
   claim_id: c4783358-e1e6-4d73-9e55-552209a0be12
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c4783358-e1e6-4d73-9e55-552209a0be12
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c4783358-e1e6-4d73-9e55-552209a0be12
 - text: In 2008 Clapper hired Elizondo into OUSDI, overseeing DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
@@ -91,7 +91,7 @@ references:
     including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
 - text: Clapper was Elizondo's boss at OUSDI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -100,7 +100,7 @@ references:
     Undersecretary of Defense for Intelligence (OUSD(I))
   claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
 - text: Elizondo considered Clapper one of his supervisors during OUSDI's golden era
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -109,7 +109,7 @@ references:
     the golden era of OUSD(I), when people were happy and the mission was their focus.
   claim_id: 6b23250c-6525-4a14-acbe-bf95108cbf1c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6b23250c-6525-4a14-acbe-bf95108cbf1c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6b23250c-6525-4a14-acbe-bf95108cbf1c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6b23250c-6525-4a14-acbe-bf95108cbf1c
 - text: Lynn declined to designate AAWSAP/AATIP a Special Access Program on Clapper's
     recommendation
@@ -121,7 +121,7 @@ references:
     was not justified.
   claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
 - text: Obama asked Clapper to become the new DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -129,7 +129,7 @@ references:
   quote: was asked by President Barack Obama to become the new DNI.
   claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
 - text: Clapper took a call from Obama during a meeting with Elizondo and became DNI
     shortly after
@@ -140,7 +140,7 @@ references:
     being the next director of national intelligence?" And just like that, he was.'
   claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-49e96a35-8ee8-408a-824b-1588b1889847
 - text: McCullough reported directly to Clapper in 2011
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -149,7 +149,7 @@ references:
     Intelligence, James R. Clapper
   claim_id: a9c81425-186c-44b8-9738-abba4b97fec3
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a9c81425-186c-44b8-9738-abba4b97fec3
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a9c81425-186c-44b8-9738-abba4b97fec3
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a9c81425-186c-44b8-9738-abba4b97fec3
 - text: Woods did not get along with Clapper at the DoD
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -159,7 +159,7 @@ references:
     for intelligence.
   claim_id: 7310a06e-1534-4980-a1f0-541204a4103c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7310a06e-1534-4980-a1f0-541204a4103c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7310a06e-1534-4980-a1f0-541204a4103c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7310a06e-1534-4980-a1f0-541204a4103c
 - text: Clapper offered Woods a DIA job despite their disagreements
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -168,7 +168,7 @@ references:
     move to become the DNI, he offered Woods the job at DIA regardless.
   claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
 - text: Woods accepted the DIA deputy director post after Clapper became DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -177,7 +177,7 @@ references:
     of DIA, I took this to be a consolation prize of sorts.
   claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
 - text: Clapper approached Elizondo and Jennifer in a CNN greenroom
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -186,7 +186,7 @@ references:
     and I were approached by my old boss, the legendary general James Clapper.
   claim_id: 98903661-01f9-4138-bbcd-398b8713311e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-98903661-01f9-4138-bbcd-398b8713311e
 - text: Clapper told Elizondo he was surprised the Pentagon admitted its UAP programme
     and was proud of him
@@ -196,7 +196,7 @@ references:
     it had a UAP program, and that he was proud of me.
   claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
 - text: Brennan was Obama's CIA director while Clapper was DNI
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -205,7 +205,7 @@ references:
     national intelligence, James Clapper
   claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c8caf19-6411-4f96-a5d8-d2563aaee6c2
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c8caf19-6411-4f96-a5d8-d2563aaee6c2
 - text: Brennan and Clapper appear in a documentary tacitly endorsing that UFOs are
     real
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -215,7 +215,7 @@ references:
     we, you know, are UFOs real
   claim_id: 9fdfda7a-7008-40d8-a6d7-fad289b02366
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9fdfda7a-7008-40d8-a6d7-fad289b02366
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9fdfda7a-7008-40d8-a6d7-fad289b02366
 - text: Mitchells says Clapper spoke of helping set up UFO tracking programmes at
     Area 51
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -224,7 +224,7 @@ references:
     about helped set up
   claim_id: 4a4ca809-e64c-4e28-b2bd-2f41736ef318
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4a4ca809-e64c-4e28-b2bd-2f41736ef318
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4a4ca809-e64c-4e28-b2bd-2f41736ef318
 - text: Brennan and Clapper tacitly endorse a multi-generational crash retrieval and
     reverse engineering programme
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -233,7 +233,7 @@ references:
     retrieval operations and, you know, uh, reverse engineering for decades, multi-generational.
   claim_id: 7a38ff7d-1203-46bc-9844-0756c3a08b98
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a38ff7d-1203-46bc-9844-0756c3a08b98
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a38ff7d-1203-46bc-9844-0756c3a08b98
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

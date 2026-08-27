@@ -426,7 +426,7 @@ references:
     National Reconnaissance Office (NRO)
   claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81d83ea0-cc7e-467e-a06d-022af4365189
 - text: Senior Intelligence Capabilities Integration Officer at NGA, cleared at Top
     Secret/SCI
@@ -437,7 +437,7 @@ references:
     Compartmented Information level
   claim_id: 525277fd-4fb5-495b-afd4-e0da449b90e5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
 - text: NGA Senior Technical Advisor for UAP analysis and Trans-Medium Issues
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -446,7 +446,7 @@ references:
     analysis/Trans-Medium Issues.
   claim_id: e916bc85-ed91-4cab-b8a7-81c5f21130ee
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
 - text: Senior GEOINT Capabilities Requirements Officer with the NGA, November 2021
     to April 2023
@@ -456,7 +456,7 @@ references:
     Capabilities Requirements Officer with the National Geospatial-Intelligence Agency
   claim_id: fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
 - text: NRO Senior Intelligence Officer, 2016-2021, led production of the NRO director's
     daily briefing
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -465,7 +465,7 @@ references:
     Intelligence Officer and led the production of the NRO director’s daily briefing.
   claim_id: da747c96-bb5b-4995-be2f-d453c29496dd
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-da747c96-bb5b-4995-be2f-d453c29496dd
 - text: GS-15 civilian, equivalent to a Colonel; over fourteen years as an Intelligence
     Officer; USAF veteran with awards for covert operations
@@ -474,7 +474,7 @@ references:
   quote: Grusch was a GS-15 civilian, the military equivalent of a Colonel.
   claim_id: f94632b4-9b1e-45be-a82a-bbb7771e006c
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f94632b4-9b1e-45be-a82a-bbb7771e006c
 - text: Will contribute to Burlison's Task Force on the Declassification of Federal
     Secrets
@@ -486,7 +486,7 @@ references:
     Secrets
   claim_id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
 - text: 'Eric Burlison: Grusch risked his career to expose critical information'
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -495,7 +495,7 @@ references:
   quote: '"David Grusch has risked his career to expose critical information."'
   claim_id: f13877ef-b5f2-4f6a-9404-af14301f7784
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
 - text: May 2022 Disclosure of Urgent Concern filed with the Inspector General of
     the Intelligence Community, covering information gathered from 2019
@@ -506,7 +506,7 @@ references:
     Grusch had gathered beginning in 2019 while working for the UAP Task Force.
   claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
 - text: Complaint states direct knowledge that UAP-related classified information
     was withheld from Congress by intelligence community elements
@@ -519,7 +519,7 @@ references:
     Program.”
   claim_id: 432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
 - text: July 2021 provision of classified information to the DoD Office of Inspector
     General on withholding of UAP information from Congress
@@ -530,7 +530,7 @@ references:
     concerning the withholding of UAP-related information from Congress.
   claim_id: 34aa94eb-efc7-4479-8b6c-8cf4a9740742
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-34aa94eb-efc7-4479-8b6c-8cf4a9740742
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-34aa94eb-efc7-4479-8b6c-8cf4a9740742
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-34aa94eb-efc7-4479-8b6c-8cf4a9740742
 - text: ICIG found the complaint 'credible and urgent' in July 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -539,7 +539,7 @@ references:
     and urgent” in July 2022.
   claim_id: f3775f95-cefc-426b-9814-2302f7413a7a
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f3775f95-cefc-426b-9814-2302f7413a7a
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f3775f95-cefc-426b-9814-2302f7413a7a
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f3775f95-cefc-426b-9814-2302f7413a7a
 - text: Summary of complaint submitted to the Director of National Intelligence and
     the Senate and House intelligence committees
@@ -550,7 +550,7 @@ references:
     and the House Permanent Select Committee on Intelligence.
   claim_id: 92ab0c63-7a26-4521-bc47-405d01d3e22a
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
 - text: Suffered months of retaliation and reprisals beginning in 2021
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -559,7 +559,7 @@ references:
     to these disclosures beginning in 2021.
   claim_id: 08480293-c772-47a7-9b9a-0797fb41ef9b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-08480293-c772-47a7-9b9a-0797fb41ef9b
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-08480293-c772-47a7-9b9a-0797fb41ef9b
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-08480293-c772-47a7-9b9a-0797fb41ef9b
 - text: Current and former officials vouched for Grusch and corroborated the broad
     outlines of his allegations, per Marik von Rennenkampff
@@ -570,7 +570,7 @@ references:
     while also corroborating the broad outlines of his allegations
   claim_id: 29a3a8bc-82a6-4cce-9512-d85310e92177
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-29a3a8bc-82a6-4cce-9512-d85310e92177
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-29a3a8bc-82a6-4cce-9512-d85310e92177
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-29a3a8bc-82a6-4cce-9512-d85310e92177
 - text: Compass Rose Legal Group stated it took no position on the substance of Grusch's
     information
@@ -583,7 +583,7 @@ references:
     “has now publicly characterized.”
   claim_id: 964786a4-8fe7-4942-a770-9baf33bc1e60
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-964786a4-8fe7-4942-a770-9baf33bc1e60
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-964786a4-8fe7-4942-a770-9baf33bc1e60
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-964786a4-8fe7-4942-a770-9baf33bc1e60
 - text: Grusch has stated the evidence supporting his allegations is highly classified
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -593,7 +593,7 @@ references:
     a reasonable claim.
   claim_id: ae07f7df-baab-4e74-b249-9d85f2ede872
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-ae07f7df-baab-4e74-b249-9d85f2ede872
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-ae07f7df-baab-4e74-b249-9d85f2ede872
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-ae07f7df-baab-4e74-b249-9d85f2ede872
 - text: Karl E. Nell, Army liaison to the UAPTF 2021-2022, worked with Grusch there
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -603,7 +603,7 @@ references:
     with Grusch there
   claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
 - text: Karl E. Nell considers Grusch's arms-race assertion fundamentally correct
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -616,7 +616,7 @@ references:
     on the UAP Task Force.
   claim_id: ce770b2c-e913-467a-bedf-674f943454b5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce770b2c-e913-467a-bedf-674f943454b5
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce770b2c-e913-467a-bedf-674f943454b5
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ce770b2c-e913-467a-bedf-674f943454b5
 - text: Filed a federal whistleblower complaint with the ICIG in 2022 while at NGA
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -626,7 +626,7 @@ references:
     with the Intelligence Community Inspector General (ICIG)
   claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3a22fa3f-9847-41c9-9713-18526071d93e
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3a22fa3f-9847-41c9-9713-18526071d93e
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3a22fa3f-9847-41c9-9713-18526071d93e
 - text: Gave Congress and the ICIG extensive classified information on programmes
     he says possess retrieved craft of non-human origin
@@ -638,7 +638,7 @@ references:
     intact craft of non-human origin.
   claim_id: 820875ac-d3d4-4970-9972-12fdd2ad8726
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
 - text: Helped draft UAP language for the FY2023 National Defense Authorization Act
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -647,7 +647,7 @@ references:
     Act
   claim_id: 0234c796-4ab9-437a-82ac-dfdb4f5b733f
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0234c796-4ab9-437a-82ac-dfdb4f5b733f
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0234c796-4ab9-437a-82ac-dfdb4f5b733f
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-0234c796-4ab9-437a-82ac-dfdb4f5b733f
 - text: Other intelligence officials independently provided corroborating information
     about Grusch's account
@@ -658,7 +658,7 @@ references:
     similar, corroborating information, both on and off the record.
   claim_id: dbdb8f97-372c-47db-b88a-d96924cbfd0b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-dbdb8f97-372c-47db-b88a-d96924cbfd0b
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-dbdb8f97-372c-47db-b88a-d96924cbfd0b
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-dbdb8f97-372c-47db-b88a-d96924cbfd0b
 - text: Provided information to the DoD Office of Prepublication and Security Review
     before disclosing to Leslie Kean and Ralph Blumenthal
@@ -669,7 +669,7 @@ references:
     to disclose to us.
   claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
 - text: Fravor said pilots know where classified UAP information is located but will
     not divulge it
@@ -682,7 +682,7 @@ references:
     point you then you have them.
   claim_id: 47a767d8-43ed-4049-b0c5-96141fe26aec
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-47a767d8-43ed-4049-b0c5-96141fe26aec
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-47a767d8-43ed-4049-b0c5-96141fe26aec
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-47a767d8-43ed-4049-b0c5-96141fe26aec
 - text: Grusch has no knowledge of any documentation confirming interdimensional crossing
     regarding UAP
@@ -693,7 +693,7 @@ references:
     is a theory? Mr. GRUSCH. Only theoretical framework discussion.
   claim_id: cfec49f5-a553-4b54-89fc-a61aa59cdf38
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfec49f5-a553-4b54-89fc-a61aa59cdf38
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfec49f5-a553-4b54-89fc-a61aa59cdf38
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfec49f5-a553-4b54-89fc-a61aa59cdf38
 - text: Grusch, under oath on 2023-07-26, said he was aware non-human biologics were
     found alongside crashed disks
@@ -703,7 +703,7 @@ references:
     aware that, along with crashed disks, “non-human biologics” were found.
   claim_id: 2c101989-095c-4c91-b4ac-2ecb2d21ee69
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2c101989-095c-4c91-b4ac-2ecb2d21ee69
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2c101989-095c-4c91-b4ac-2ecb2d21ee69
 - text: July 2023 bipartisan congressional hearing at which Fravor, Graves and Grusch
     testified under oath
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -714,7 +714,7 @@ references:
     *under oath*
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
 - text: Grusch said he has not personally witnessed alien bodies
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -724,7 +724,7 @@ references:
     witnessed myself.
   claim_id: c3215a66-a9d2-414c-9aba-18c37c3c4d08
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c3215a66-a9d2-414c-9aba-18c37c3c4d08
 - text: 'Marik von Rennenkampff: Grusch is a former high-level intelligence official,
     formerly represented by the intelligence community''s first inspector general'
@@ -734,7 +734,7 @@ references:
   quote: the whistleblower – a former high-level intelligence official –
   claim_id: 59ecef44-ce9b-4e75-8edd-4c205f1c429c
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-59ecef44-ce9b-4e75-8edd-4c205f1c429c
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-59ecef44-ce9b-4e75-8edd-4c205f1c429c
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-59ecef44-ce9b-4e75-8edd-4c205f1c429c
 - text: From 2022, provided Congress with hours of recorded classified testimony transcribed
     into hundreds of pages
@@ -745,7 +745,7 @@ references:
     the materials recovery program.
   claim_id: 7e1d20f7-45e4-4342-b50a-d17a271ee6ee
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7e1d20f7-45e4-4342-b50a-d17a271ee6ee
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7e1d20f7-45e4-4342-b50a-d17a271ee6ee
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7e1d20f7-45e4-4342-b50a-d17a271ee6ee
 - text: Later worked as a senior intelligence officer at NGA and NRO
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -755,7 +755,7 @@ references:
     Agency (NGA) and National Reconnaissance Office (NRO)
   claim_id: 24f37c8b-c898-4c03-bf64-d6de2e0a19c3
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
 - text: Description of recovery of intact and partially intact vehicles by government,
     allies and defence contractors 'for decades through to the present day'
@@ -766,7 +766,7 @@ references:
     its allies, and defense contractors.
   claim_id: 407de96c-8f78-467d-af83-69a27da0dcd1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-407de96c-8f78-467d-af83-69a27da0dcd1
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-407de96c-8f78-467d-af83-69a27da0dcd1
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-407de96c-8f78-467d-af83-69a27da0dcd1
 - text: Statement that analysis found the recovered objects of exotic, non-human origin
     based on vehicle morphology and material science testing
@@ -778,7 +778,7 @@ references:
     atomic arrangements and radiological signatures,” he said.
   claim_id: b524f1fd-4b13-4cdc-b479-8c28057bd6c0
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b524f1fd-4b13-4cdc-b479-8c28057bd6c0
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b524f1fd-4b13-4cdc-b479-8c28057bd6c0
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b524f1fd-4b13-4cdc-b479-8c28057bd6c0
 - text: Combat tour in Afghanistan supporting counter-illicit finance, drug and arms-trafficking
     operations with JSOC and ISAF
@@ -790,7 +790,7 @@ references:
     and ISAF
   claim_id: bc54ce8b-888e-44b2-a33a-d04312ed30e1
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bc54ce8b-888e-44b2-a33a-d04312ed30e1
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bc54ce8b-888e-44b2-a33a-d04312ed30e1
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-bc54ce8b-888e-44b2-a33a-d04312ed30e1
 - text: Served 14 years in the US Air Force, reaching the rank of Major
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -799,7 +799,7 @@ references:
   quote: Grusch served 14 years in the Air Force, reaching the rank of Major
   claim_id: 2ded5097-aec2-4267-8b72-9610fe12f5f4
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ded5097-aec2-4267-8b72-9610fe12f5f4
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ded5097-aec2-4267-8b72-9610fe12f5f4
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-2ded5097-aec2-4267-8b72-9610fe12f5f4
 - text: Went public in part because national leaders were not being informed about
     humanity's place in the cosmos
@@ -809,7 +809,7 @@ references:
     this, you know, unbelievable information about our place in the cosmos
   claim_id: 19863fc2-3518-4563-a8d3-e978fff3de04
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-19863fc2-3518-4563-a8d3-e978fff3de04
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-19863fc2-3518-4563-a8d3-e978fff3de04
 - text: Co-workers, friends and supervisors were attacked for helping him
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:03:31.8-00:03:38.7
@@ -817,7 +817,7 @@ references:
     for enabling me and helping me in my investigation
   claim_id: 71478c6d-ca8d-4822-b13a-afd0cccd52c3
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-71478c6d-ca8d-4822-b13a-afd0cccd52c3
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-71478c6d-ca8d-4822-b13a-afd0cccd52c3
 - text: Returned to work at NGA after fighting off administrative reprisals and maintaining
     his clearance
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -827,7 +827,7 @@ references:
     Geospatial Intelligence Agency.
   claim_id: 643d2ce1-559b-4538-9b1f-46d72fa9b92f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-643d2ce1-559b-4538-9b1f-46d72fa9b92f
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-643d2ce1-559b-4538-9b1f-46d72fa9b92f
 - text: Officially represented the NRO on the UAP Task Force, 2019-2021
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -835,7 +835,7 @@ references:
   quote: from 2019-2021 officially represented the NRO on the UAP Task Force
   claim_id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
 - text: 2023 testimony alleged elements of government thwarted Congressional oversight
     of recovery and reverse-engineering programmes
@@ -848,7 +848,7 @@ references:
     non-human origin
   claim_id: 37b1d9e8-675c-4550-bbd3-1ceb2742ba33
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-37b1d9e8-675c-4550-bbd3-1ceb2742ba33
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-37b1d9e8-675c-4550-bbd3-1ceb2742ba33
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-37b1d9e8-675c-4550-bbd3-1ceb2742ba33
 - text: Senior civilian intelligence official and decorated former USAF officer
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -858,7 +858,7 @@ references:
     intelligence official
   claim_id: 36ab95a0-a3b5-4507-85d1-ba66715565d9
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-36ab95a0-a3b5-4507-85d1-ba66715565d9
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-36ab95a0-a3b5-4507-85d1-ba66715565d9
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-36ab95a0-a3b5-4507-85d1-ba66715565d9
 - text: Sworn testimony before the US House Oversight & Accountability Committee on
     UAP activities
@@ -870,7 +870,7 @@ references:
     Phenomena (UAP) activities
   claim_id: 7f85fdb1-6199-4790-a229-a40018eb8905
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-7f85fdb1-6199-4790-a229-a40018eb8905
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-7f85fdb1-6199-4790-a229-a40018eb8905
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-7f85fdb1-6199-4790-a229-a40018eb8905
 - text: Grusch prefers 'nonhuman intelligence' over assuming extraterrestrial origin,
     to keep an open mind
@@ -881,7 +881,7 @@ references:
     analytically to specific origin.
   claim_id: 8fdc4da0-e959-4380-9546-e30015800934
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8fdc4da0-e959-4380-9546-e30015800934
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8fdc4da0-e959-4380-9546-e30015800934
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8fdc4da0-e959-4380-9546-e30015800934
 - text: Eric Burlison announced Grusch as a Special Advisor, 2025-03-27
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -892,7 +892,7 @@ references:
     as a Special Advisor.
   claim_id: 759ea0cb-9454-40d6-a5cf-253703128ea5
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
 - text: Represented by Charles McCullough III of Compass Rose Legal Group
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -901,7 +901,7 @@ references:
     Rose Legal Group in Washington
   claim_id: e4107499-d164-4fa0-a043-ea16d5b4a3c1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e4107499-d164-4fa0-a043-ea16d5b4a3c1
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e4107499-d164-4fa0-a043-ea16d5b4a3c1
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e4107499-d164-4fa0-a043-ea16d5b4a3c1
 - text: NGA co-lead for UAP analysis and UAPTF representative, late 2021 to July 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -910,7 +910,7 @@ references:
     its representative to the task force.
   claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
 - text: Reported to Congress a decades-long Cold War competition to retrieve and exploit
     UAP crash material
@@ -923,7 +923,7 @@ references:
     national defense advantages.”
   claim_id: 0729a02d-fab4-49de-b8e2-5c9f3f7296ab
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0729a02d-fab4-49de-b8e2-5c9f3f7296ab
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-0729a02d-fab4-49de-b8e2-5c9f3f7296ab
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-0729a02d-fab4-49de-b8e2-5c9f3f7296ab
 - text: DoD denied to NewsNation that AARO had uncovered the activity Grusch alleged
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -933,7 +933,7 @@ references:
     new UFO office has uncovered the sort of activity alleged by Grusch.
   claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
 - text: Testified before Congress in 2023
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -942,7 +942,7 @@ references:
   quote: In 2023, he testified before Congress
   claim_id: 3691e063-ba38-411b-99a0-a6d4bd28b428
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3691e063-ba38-411b-99a0-a6d4bd28b428
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3691e063-ba38-411b-99a0-a6d4bd28b428
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3691e063-ba38-411b-99a0-a6d4bd28b428
 - text: USAF unsuccessfully tried to file an Espionage Act complaint against him when
     he went public
@@ -953,7 +953,7 @@ references:
     when I did go public
   claim_id: 019a1a79-241e-4aff-9dc5-4428aa94d72f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-019a1a79-241e-4aff-9dc5-4428aa94d72f
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-019a1a79-241e-4aff-9dc5-4428aa94d72f
 - text: Resigned his USAF commission, foreseeing that kind of attack
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:15:30.7-00:15:36.8
@@ -961,7 +961,7 @@ references:
     I foresaw an attack of that nature.
   claim_id: 7c06b84d-4f76-4ff3-bf9a-677f5b75213b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
 - text: Missed promotion to lieutenant colonel in the USAF Reserve as a result of
     ending his career
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -970,14 +970,14 @@ references:
     colonel in the Air Force Reserve.
   claim_id: 28a32c50-8fb3-4cc3-8033-c642e1283425
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-28a32c50-8fb3-4cc3-8033-c642e1283425
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-28a32c50-8fb3-4cc3-8033-c642e1283425
 - text: Was only a couple of years from military retirement when he ended his career
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:16:00.1-00:16:03.2
   quote: And I was only a couple of years away from retirement
   claim_id: 77f6d61a-1873-4184-bda8-52402b1eb9f4
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-77f6d61a-1873-4184-bda8-52402b1eb9f4
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-77f6d61a-1873-4184-bda8-52402b1eb9f4
 - text: Now seeking medical retirement and the missed promotion through a records
     correction process
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -987,7 +987,7 @@ references:
     board that works for the Secretary of the Air Force right now.
   claim_id: e94ba9e6-ba26-4bec-b550-59d70d8a5118
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e94ba9e6-ba26-4bec-b550-59d70d8a5118
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e94ba9e6-ba26-4bec-b550-59d70d8a5118
 - text: Spent substantial money on legal fees and lost income as a result of going
     public
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -996,7 +996,7 @@ references:
     was really unfortunate.
   claim_id: 4980be78-71cc-4138-a1c5-8b6b6bcda8ab
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4980be78-71cc-4138-a1c5-8b6b6bcda8ab
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4980be78-71cc-4138-a1c5-8b6b6bcda8ab
 - text: Describes himself as having very high justice sensitivity with a touch of
     autism and attention deficit hyperactivity disorder
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -1005,7 +1005,7 @@ references:
     and ADHD.
   claim_id: 8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8e5a19f2-5d59-4c60-8a40-af64dcf6c74d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

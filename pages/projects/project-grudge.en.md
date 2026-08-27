@@ -36,7 +36,7 @@ references:
   quote: At the same time, Project Sign was renamed Project Grudge
   claim_id: 134134c4-f096-495f-822f-d3b62a245591
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-134134c4-f096-495f-822f-d3b62a245591
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-134134c4-f096-495f-822f-d3b62a245591
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-134134c4-f096-495f-822f-d3b62a245591
 - text: The USAF studied UAP in 1948 and 1949 under Project Sign and Project Grudge.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -45,7 +45,7 @@ references:
     year-old studies known as Project Sign and Project Grudge.
   claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
 - text: In 1952, Project Grudge became Project Blue Book.
   source: In Plain Sight
@@ -53,7 +53,7 @@ references:
   quote: That same year, Project Grudge became Project Blue Book
   claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
 - text: The air force's first Project Grudge report announced it would stop investigating
     UFOs.
@@ -63,7 +63,7 @@ references:
     that it would stop investigating unidentified flying objects
   claim_id: 39002444-899b-4700-af40-1f9e82af2c12
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39002444-899b-4700-af40-1f9e82af2c12
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39002444-899b-4700-af40-1f9e82af2c12
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-39002444-899b-4700-af40-1f9e82af2c12
 - text: The first Project Grudge report attributed sightings to mass hysteria, hoaxes
     or misidentification.
@@ -73,7 +73,7 @@ references:
     or the misinterpretation of conventional objects
   claim_id: 033d0742-3c71-4396-b60c-03dc8d88cdaf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-033d0742-3c71-4396-b60c-03dc8d88cdaf
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-033d0742-3c71-4396-b60c-03dc8d88cdaf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-033d0742-3c71-4396-b60c-03dc8d88cdaf
 - text: Project Grudge debunked the UAP phenomenon as the result of natural causes.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -82,7 +82,7 @@ references:
     causes.
   claim_id: 3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e5cc8e0-ac35-4007-a92d-bb3eda2e47e6
 - text: Edward Ruppelt said there was a widespread view that Grudge operated under
     a directive to debunk all sightings.
@@ -92,7 +92,7 @@ references:
     view that Project Grudge was operating under a directive to debunk all sightings
   claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0249af1f-6fd2-4452-aa20-a78d88b0fd89
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0249af1f-6fd2-4452-aa20-a78d88b0fd89
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0249af1f-6fd2-4452-aa20-a78d88b0fd89
 - text: Chris Ramsay states that Roswell, the Kenneth Arnold sighting and the Aztec
     crash prompted the formation of Project Grudge.
@@ -103,7 +103,7 @@ references:
     They formed Project Grudge, which turned into Project Blue Book.
   claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5cf33c62-1a47-4179-af3f-1dd976071aae
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5cf33c62-1a47-4179-af3f-1dd976071aae
 - text: Luis Elizondo reviewed government records on Project Blue Book and its predecessors,
     Project Sign and Project Grudge.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -112,7 +112,7 @@ references:
     Sign and Grudge.
   claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
 built_by:
   model: claude-sonnet-5

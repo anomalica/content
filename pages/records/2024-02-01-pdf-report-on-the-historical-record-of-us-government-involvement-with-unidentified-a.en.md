@@ -21,7 +21,7 @@ references:
     requirements
   claim_id: 91f0c400-96d4-4751-94ca-7235c17229b6
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-91f0c400-96d4-4751-94ca-7235c17229b6
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-91f0c400-96d4-4751-94ca-7235c17229b6
 - text: AARO reviewed all official US Government UAP investigatory efforts since 1945,
     reviewed classified and unclassified archives, conducted approximately 30 interviews,
     and partnered with Intelligence Community and DoD officials
@@ -35,7 +35,7 @@ references:
     oversight, respectively.
   claim_id: d0f51c74-e583-4d96-8709-9d93b3ecca78
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d0f51c74-e583-4d96-8709-9d93b3ecca78
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d0f51c74-e583-4d96-8709-9d93b3ecca78
 - text: The report was provided by DoD in response to a requirement in the National
     Defense Authorization Act for Fiscal Year 2023, Section 6802(j)
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -50,7 +50,7 @@ references:
     of the United States Government relating to unidentified anomalous phenomena."'
   claim_id: f62d69aa-502d-4878-bdaa-3b5795213895
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f62d69aa-502d-4878-bdaa-3b5795213895
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f62d69aa-502d-4878-bdaa-3b5795213895
 - text: AARO found no evidence that any US Government investigation, academic research,
     or review panel confirmed any UAP sighting represented extraterrestrial technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -61,7 +61,7 @@ references:
     extraterrestrial technology.
   claim_id: 223c3ccb-b2d4-4916-8c2b-b28b0733a5ff
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-223c3ccb-b2d4-4916-8c2b-b28b0733a5ff
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-223c3ccb-b2d4-4916-8c2b-b28b0733a5ff
 - text: All US Government UAP investigative efforts concluded most sightings were
     ordinary objects and phenomena resulting from misidentification
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -71,7 +71,7 @@ references:
     most sightings were ordinary objects and phenomena and the result of misidentification.
   claim_id: d9dfdf34-65d2-4628-ad53-6a322cd08874
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9dfdf34-65d2-4628-ad53-6a322cd08874
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9dfdf34-65d2-4628-ad53-6a322cd08874
 - text: AARO found no empirical evidence for claims that the US Government and private
     companies have been reverse-engineering extraterrestrial technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -81,7 +81,7 @@ references:
     have been reverse-engineering extraterrestrial technology.
   claim_id: 0a42f3f3-7933-448f-94b5-5c07d68a7fb3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0a42f3f3-7933-448f-94b5-5c07d68a7fb3
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0a42f3f3-7933-448f-94b5-5c07d68a7fb3
 - text: AARO discovered approximately two dozen separate official US Government investigative
     efforts into UFOs/UAP since 1945
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -91,7 +91,7 @@ references:
     investigative efforts, depending on how they are counted.
   claim_id: cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf7f32f5-d10a-4641-8ea8-85aaea8cbf4f
 - text: Project SAUCER investigated Kenneth Arnold's 1947 account near Mount Rainier
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -100,7 +100,7 @@ references:
     by a private pilot, Kenneth Arnold.
   claim_id: e756d261-1e48-4188-bf18-c858b5f8ae19
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e756d261-1e48-4188-bf18-c858b5f8ae19
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e756d261-1e48-4188-bf18-c858b5f8ae19
 - text: Kenneth Arnold observed nine circular objects travelling at approximately
     2,700 kilometres per hour near Mount Rainier on 1947-06-23
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -109,7 +109,7 @@ references:
   quote: objects that periodically flipped and were traveling at 1,700 miles per hour
   claim_id: b9f13d24-b369-4d1c-a285-ce8449bed4e2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b9f13d24-b369-4d1c-a285-ce8449bed4e2
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b9f13d24-b369-4d1c-a285-ce8449bed4e2
 - text: Kenneth Arnold described the objects as saucer-like, and his account led to
     the term flying saucer
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -119,7 +119,7 @@ references:
     saucer" emerged.
   claim_id: fb3be7db-b045-47e8-b52a-f8ec5dc05ca4
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-fb3be7db-b045-47e8-b52a-f8ec5dc05ca4
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-fb3be7db-b045-47e8-b52a-f8ec5dc05ca4
 - text: Project SIGN evaluated 243 reported UFO sightings and in February 1949 concluded
     no definitive evidence proved or disproved the existence of unconventional aircraft
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -128,7 +128,7 @@ references:
   quote: The project evaluated 243 reported UFO sightings
   claim_id: 4c28a4f4-2f59-46b9-acbc-0ce709582b72
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4c28a4f4-2f59-46b9-acbc-0ce709582b72
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4c28a4f4-2f59-46b9-acbc-0ce709582b72
 - text: Project SIGN staff drafted the Estimate of the Situation, which allegedly
     concluded UFOs were interplanetary, but it was rejected by USAF Chief of Staff
     Hoyt S. Vandenberg as lacking proof
@@ -139,7 +139,7 @@ references:
     lacking proof.
   claim_id: 1706d9b4-9b6b-4bc8-8250-a1bc02b12639
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1706d9b4-9b6b-4bc8-8250-a1bc02b12639
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1706d9b4-9b6b-4bc8-8250-a1bc02b12639
 - text: Project GRUDGE was renamed from Project SIGN in approximately February 1949
     and investigated 244 UFO reports, finding no evidence of foreign technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -148,7 +148,7 @@ references:
   quote: Project SIGN was renamed Project GRUDGE in approximately February 1949.
   claim_id: b5305e17-c75f-4f06-9035-7ce37e1d9f90
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5305e17-c75f-4f06-9035-7ce37e1d9f90
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5305e17-c75f-4f06-9035-7ce37e1d9f90
 - text: Project GRUDGE investigated 244 reports of UFO sightings
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -156,7 +156,7 @@ references:
   quote: Project GRUDGE investigated 244 reports of UFO sightings.
   claim_id: 3f167104-2f02-4f04-8995-15674998ef63
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3f167104-2f02-4f04-8995-15674998ef63
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3f167104-2f02-4f04-8995-15674998ef63
 - text: The reorganised Project GRUDGE, led by Captain Edward J. Ruppelt, was established
     in late October 1951
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -167,7 +167,7 @@ references:
     Project GRUDGE - led by Capt Ruppelt.
   claim_id: 1e4324f4-85f5-4591-b426-7643c986b790
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1e4324f4-85f5-4591-b426-7643c986b790
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1e4324f4-85f5-4591-b426-7643c986b790
 - text: Ruppelt created Project BEAR, a contract with the Battelle Memorial Institute
     to provide scientific support to the reorganised Project GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -178,7 +178,7 @@ references:
     provide scientific support to the new Project GRUDGE.
   claim_id: d06708ed-ab5d-499b-98d0-ad2c117d4cfd
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d06708ed-ab5d-499b-98d0-ad2c117d4cfd
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d06708ed-ab5d-499b-98d0-ad2c117d4cfd
 - text: The USAF recorded 12,618 UFO sightings between 1947 and 1969 under Project
     BLUE BOOK
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -187,7 +187,7 @@ references:
   quote: The USAF recorded 12,618 UFO sightings between the years 1947-1969.
   claim_id: 46215bea-bd02-47a0-8a9e-9f1a605f7730
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-46215bea-bd02-47a0-8a9e-9f1a605f7730
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-46215bea-bd02-47a0-8a9e-9f1a605f7730
 - text: Of 12,618 sightings in Project BLUE BOOK's holdings, 701 were categorised
     as unidentified and never solved
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -197,7 +197,7 @@ references:
     as unidentified and never solved.
   claim_id: f8634248-89c1-4320-a516-7247bfcc2b3a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f8634248-89c1-4320-a516-7247bfcc2b3a
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f8634248-89c1-4320-a516-7247bfcc2b3a
 - text: Secretary of the Air Force Robert C. Seamans Jr. announced Project BLUE BOOK's
     termination on 1969-12-17
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -207,7 +207,7 @@ references:
     BOOK's termination on December 17, 1969.
   claim_id: 049bc80e-7542-4f66-a84f-176f39767bc8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-049bc80e-7542-4f66-a84f-176f39767bc8
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-049bc80e-7542-4f66-a84f-176f39767bc8
 - text: There was about a 40-year gap in UAP investigation programmes between Project
     BLUE BOOK's termination in 1969 and the standup of AAWSAP/AATIP in 2009
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -217,7 +217,7 @@ references:
     programs since the termination of Project BLUE BOOK in 1969.
   claim_id: 96fdde4f-6950-43d5-8e61-2a9d778422fa
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-96fdde4f-6950-43d5-8e61-2a9d778422fa
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-96fdde4f-6950-43d5-8e61-2a9d778422fa
 - text: The Robertson Panel unanimously concluded there was no evidence of a direct
     national security threat from UFOs or that they were extraterrestrial
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -227,7 +227,7 @@ references:
     to U.S. national security from UFOs or that they were of extraterrestrial origin.
   claim_id: e4fd5546-4733-4876-afce-d6071cb7eeed
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e4fd5546-4733-4876-afce-d6071cb7eeed
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e4fd5546-4733-4876-afce-d6071cb7eeed
 - text: The Condon Report concluded that nothing had come from studying UFOs in the
     past 21 years that had added to scientific knowledge
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -240,7 +240,7 @@ references:
     be advanced thereby."'
   claim_id: b7136104-4930-4d54-9fbe-1785c1d3f8b3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b7136104-4930-4d54-9fbe-1785c1d3f8b3
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b7136104-4930-4d54-9fbe-1785c1d3f8b3
 - text: The 1947 Roswell incident involved the recovery of metallic and rubber debris
     from a crashed military balloon, which sparked conspiracy theories
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -252,7 +252,7 @@ references:
     and part of a USG cover-up.
   claim_id: 6218bb18-8cc6-4776-b2dc-de9e5e36cca4
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6218bb18-8cc6-4776-b2dc-de9e5e36cca4
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6218bb18-8cc6-4776-b2dc-de9e5e36cca4
 - text: The 1995 Roswell Report stated the USAF's research found no indication the
     Roswell incident was a UFO event, and materials recovered were consistent with
     a Project Mogul balloon
@@ -264,7 +264,7 @@ references:
     any "cover-up" by the USG.
   claim_id: 54f51f08-5b5e-48f4-a2b1-8345a91771d3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-54f51f08-5b5e-48f4-a2b1-8345a91771d3
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-54f51f08-5b5e-48f4-a2b1-8345a91771d3
 - text: At the direction of Senate Majority Leader Harry Reid, 22 million US dollars
     were appropriated for the DIA to assess long-term foreign advanced aerospace threats
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -276,7 +276,7 @@ references:
     to the United States.
   claim_id: 7ad90540-53aa-487b-8f4f-8e9e8dd21a63
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7ad90540-53aa-487b-8f4f-8e9e8dd21a63
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7ad90540-53aa-487b-8f4f-8e9e8dd21a63
 - text: AAWSAP/AATIP was established in 2009 and terminated in 2012 due to DIA and
     DoD concerns about the project
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -287,7 +287,7 @@ references:
     DIA-managed program was awarded to a private sector organization.
   claim_id: ec362bca-da62-4ac6-9791-9ec36a2bbfad
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ec362bca-da62-4ac6-9791-9ec36a2bbfad
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ec362bca-da62-4ac6-9791-9ec36a2bbfad
 - text: KONA BLUE was a proposed DHS Special Access Program that was never approved
     and for which no extraterrestrial craft or bodies were ever collected
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -299,7 +299,7 @@ references:
     same individuals involved with the AAWSAP/AATIP program.
   claim_id: 0e72967e-c361-4335-bf2f-3c145566fa87
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0e72967e-c361-4335-bf2f-3c145566fa87
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0e72967e-c361-4335-bf2f-3c145566fa87
 - text: Deputy Secretary of Defense David L. Norquist approved the UAPTF in August
     2020; it was later renamed AARO effective 2022-07-15
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -309,7 +309,7 @@ references:
     of the UAPTF in August 2020.
   claim_id: 62f865e6-8c03-4aaf-8159-56309dd45741
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-62f865e6-8c03-4aaf-8159-56309dd45741
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-62f865e6-8c03-4aaf-8159-56309dd45741
 - text: AARO's investigative efforts determined that most UAP sightings were the result
     of misidentification of ordinary objects and phenomena
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -319,7 +319,7 @@ references:
     of ordinary objects and phenomena.
   claim_id: b66c9838-cb97-40e0-aef8-affb3c55863d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b66c9838-cb97-40e0-aef8-affb3c55863d
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b66c9838-cb97-40e0-aef8-affb3c55863d
 - text: Modern allegations that the US Government is hiding off-world technology largely
     originate from the same group of individuals with ties to the cancelled AAWSAP/AATIP
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -332,7 +332,7 @@ references:
     in various UAP-related efforts.
   claim_id: 13fb1a35-4636-4908-b102-0cbb7ba09d82
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13fb1a35-4636-4908-b102-0cbb7ba09d82
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13fb1a35-4636-4908-b102-0cbb7ba09d82
 - text: An alleged sample from a crashed off-world spacecraft was found to be a manufactured
     terrestrial alloy composed primarily of magnesium, zinc, and bismuth
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -343,7 +343,7 @@ references:
     characterization.
   claim_id: ca0638e0-a85b-4377-8e85-096c3c16306e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ca0638e0-a85b-4377-8e85-096c3c16306e
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ca0638e0-a85b-4377-8e85-096c3c16306e
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

@@ -94,7 +94,7 @@ references:
     extracted DNA, making it possible to analyze the DNA in more detail.
   claim_id: 54c496e2-998d-49b1-bfb1-16b1c117bc92
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-54c496e2-998d-49b1-bfb1-16b1c117bc92
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-54c496e2-998d-49b1-bfb1-16b1c117bc92
 - text: Mullis conceived PCR in April 1983 while driving to his Anderson Valley cabin,
     Mendocino County, California
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -104,7 +104,7 @@ references:
     discoveries of modern chemistry—the polymerase chain reaction (PCR)
   claim_id: d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
 - text: Mullis is credited with the initial concept that led to PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5369-5516
@@ -112,14 +112,14 @@ references:
     technique, a discovery that ultimately earned him the 1993 Nobel Prize in chemistry.
   claim_id: 42f914f2-74f0-4ef5-b50a-1080566306b3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-42f914f2-74f0-4ef5-b50a-1080566306b3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-42f914f2-74f0-4ef5-b50a-1080566306b3
 - text: Mullis was awarded the 1993 Nobel Prize in Chemistry for PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5453-5516
   quote: a discovery that ultimately earned him the 1993 Nobel Prize in chemistry
   claim_id: 90415310-69c6-4e4a-b343-7aad2a81191f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-90415310-69c6-4e4a-b343-7aad2a81191f
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-90415310-69c6-4e4a-b343-7aad2a81191f
 - text: Modern DNA forensic work was made possible by PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5253-5357
@@ -127,7 +127,7 @@ references:
     (polymerase chain reaction) procedure.
   claim_id: d84e694a-5727-42d1-b525-1cead129558b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d84e694a-5727-42d1-b525-1cead129558b
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d84e694a-5727-42d1-b525-1cead129558b
 - text: Berryman explained PCR amplification of STRs is used because forensic samples
     contain very little material
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -141,7 +141,7 @@ references:
     to increase the amount, and that’s done by PCR.
   claim_id: 9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
 - text: Henry C. Lee said PCR permits faithful reproduction of very small amounts
     of DNA into large amounts of identical copies
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -152,7 +152,7 @@ references:
     large amounts (identical copies) of DNA'
   claim_id: eb5fc3d7-0323-456a-a935-4b7fa8e896ce
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eb5fc3d7-0323-456a-a935-4b7fa8e896ce
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eb5fc3d7-0323-456a-a935-4b7fa8e896ce
 - text: Henry C. Lee said PCR allows a DNA profile from postage stamps, coffee cups,
     and single hairs
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -161,7 +161,7 @@ references:
     cups, and even single hairs.
   claim_id: 87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
 - text: APEG's discussions with Chalker focused on PCR amplification and sequencing
     of mitochondrial DNA on Khoury's hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -171,7 +171,7 @@ references:
     hair sample might provide a real challenge to the credibility of abduction stories
   claim_id: 94ca98f2-f656-4339-b107-18947433df33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
 - text: 'Extraction process: elevated-temperature extraction, fragmentation, boiling
     and freezing to release and purify DNA before PCR'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -182,7 +182,7 @@ references:
     for the PCR amplification step.
   claim_id: c41b15e9-3c54-4498-90b0-d319be6a4e1c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c41b15e9-3c54-4498-90b0-d319be6a4e1c
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c41b15e9-3c54-4498-90b0-d319be6a4e1c
 - text: UFO Research New South Wales assisted with funding the preliminary PCR human-consensus
     DNA comparisons
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -191,7 +191,7 @@ references:
     DNA comparisons.
   claim_id: 901ab26f-e587-4b53-8c59-1c1fb07ec875
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-901ab26f-e587-4b53-8c59-1c1fb07ec875
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-901ab26f-e587-4b53-8c59-1c1fb07ec875
 - text: Preliminary mtDNA PCR comparison found Khoury's and Mike Wood's daughter's
     samples both within normal human range but different from each other
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -202,7 +202,7 @@ references:
     consensus” DNA range.
   claim_id: 1f5c1b72-3a0c-461c-9409-bfa897846ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1f5c1b72-3a0c-461c-9409-bfa897846ee3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1f5c1b72-3a0c-461c-9409-bfa897846ee3
 - text: Vivian Khoury's hair sample did not produce PCR amplification products, possibly
     due to chemical treatment
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -211,7 +211,7 @@ references:
     concluded that this might have been due to chemical treatment.
   claim_id: 4e8a879d-6679-40b2-bf36-24a6a08fd223
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4e8a879d-6679-40b2-bf36-24a6a08fd223
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4e8a879d-6679-40b2-bf36-24a6a08fd223
 - text: Specialised ribosomal PCR DNA profiling undertaken on Betty Hill's dress samples
     to extract non-human DNA
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -220,7 +220,7 @@ references:
     DNA along with standard assessments.
   claim_id: 48280a30-11a7-4cca-8a58-9fcd12509871
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-48280a30-11a7-4cca-8a58-9fcd12509871
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-48280a30-11a7-4cca-8a58-9fcd12509871
 - text: Kary Mullis did not personally carry out the PCR testing of Khoury's alien
     hair samples described in Chalker's book
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -229,7 +229,7 @@ references:
     testing of the Khoury hair samples detailed in this book.
   claim_id: d8be000c-0140-43cd-ab72-685693cc1920
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d8be000c-0140-43cd-ab72-685693cc1920
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d8be000c-0140-43cd-ab72-685693cc1920
 - text: 'Four PCR products obtained: two from the alien hair, two from Khoury''s hair,
     none from his wife''s hair'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -241,7 +241,7 @@ references:
     contact with the alien hair).'
   claim_id: c47755c1-1e26-4233-870e-012bb032296c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c47755c1-1e26-4233-870e-012bb032296c
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c47755c1-1e26-4233-870e-012bb032296c
 - text: 2cm hair shaft portion required extensive grinding to release DNA; no contaminating
     DNA found on outer part
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -251,7 +251,7 @@ references:
     DNA; no contaminating DNA was found on any outer part.
   claim_id: 370ba6dc-5898-45f7-87b5-752dbe2740bf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-370ba6dc-5898-45f7-87b5-752dbe2740bf
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-370ba6dc-5898-45f7-87b5-752dbe2740bf
 - text: PCR studies of the hair shaft revealed unusual mitochondrial DNA of Chinese
     genetics with a rare 16,108 C-to-T mutation
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -261,7 +261,7 @@ references:
     16,172, 16,304 in hypervariable region I (HVRI).
   claim_id: 82ca9693-8d40-411d-8bf7-21936da1a8fd
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-82ca9693-8d40-411d-8bf7-21936da1a8fd
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-82ca9693-8d40-411d-8bf7-21936da1a8fd
 - text: Hypervariable region I amplified for 37/33 cycles; CCR5 nuclear region amplified
     for 40 cycles
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -272,7 +272,7 @@ references:
     which codes for CCR5 was amplified for 40 cycles.
   claim_id: d6ecbb67-f031-4554-8b2b-a4625a76b457
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d6ecbb67-f031-4554-8b2b-a4625a76b457
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d6ecbb67-f031-4554-8b2b-a4625a76b457
 - text: Two hair-root samples gave two different mtDNA sequences (16255C and 16304)
     within the same PCR run
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -284,7 +284,7 @@ references:
     of the hair).'
   claim_id: 99a90f1f-93b1-437b-b3ad-90a15eb2067a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-99a90f1f-93b1-437b-b3ad-90a15eb2067a
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-99a90f1f-93b1-437b-b3ad-90a15eb2067a
 - text: Berryman drew attention to the potential for deliberate PCR contamination
     of crime scenes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -293,7 +293,7 @@ references:
     crime scenes with PCR products
   claim_id: 377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
 - text: Berryman said PCR has lab contamination issues and a scene can be deliberately
     contaminated with PCR products
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -303,7 +303,7 @@ references:
     using PCR products.
   claim_id: 34c36b61-50c9-4220-ad54-5c4561a87757
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34c36b61-50c9-4220-ad54-5c4561a87757
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34c36b61-50c9-4220-ad54-5c4561a87757
 - text: Berryman said contamination needs no planted hairs or fingerprints, only covering
     the scene with PCR products
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -313,7 +313,7 @@ references:
     can just cover the whole scene with DNA PCR products.
   claim_id: e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
 - text: Berryman said it requires only a publicly available PCR kit and amplifier
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:66979-67174
@@ -322,7 +322,7 @@ references:
     buying a litre of milk, it’s not hard to do
   claim_id: 15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
 - text: Berryman said the PCR reaction needs no special skill and can be done at home
     on a stove
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -332,7 +332,7 @@ references:
     fact, you can do it at home on your stove.
   claim_id: e9a7653b-5fb0-4931-9753-8874b1dafea3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e9a7653b-5fb0-4931-9753-8874b1dafea3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e9a7653b-5fb0-4931-9753-8874b1dafea3
 - text: Berryman said squirting PCR products around a scene is enough to defeat genuine
     profiling
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -342,7 +342,7 @@ references:
     a genuine profile.
   claim_id: 3ab7fa4e-1e90-4bb3-98db-d45dae515997
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3ab7fa4e-1e90-4bb3-98db-d45dae515997
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3ab7fa4e-1e90-4bb3-98db-d45dae515997
 - text: Berryman was concerned field contamination at crime scenes seemed largely
     ignored compared to lab efforts
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -352,7 +352,7 @@ references:
     PCR contamination in the field, i.e., at crime scenes, seemed largely ignored.
   claim_id: 35a4092b-99d8-4429-bbe4-723423e36f5a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-35a4092b-99d8-4429-bbe4-723423e36f5a
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-35a4092b-99d8-4429-bbe4-723423e36f5a
 - text: Chalker said he was certain Khoury had no knowledge in 1992 of PCR contamination
     techniques
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -362,7 +362,7 @@ references:
     were certainly nil back in 1992 and pretty much the same even now.
   claim_id: 58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
 - text: Chalker said fabricating a matching PCR 'brew' would be very difficult though
     not impossible
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -373,7 +373,7 @@ references:
     near the root and at the shaft of the hair.
   claim_id: 5b3ae527-9178-4efc-a64c-eaab40ca3ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5b3ae527-9178-4efc-a64c-eaab40ca3ee3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5b3ae527-9178-4efc-a64c-eaab40ca3ee3
 - text: Debate continues about factors affecting the accuracy of standard PCR-based
     DNA profiling
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -382,7 +382,7 @@ references:
     about factors that might affect its accuracy.
   claim_id: bea25baa-3a67-4161-948b-e7dac09b4798
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bea25baa-3a67-4161-948b-e7dac09b4798
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bea25baa-3a67-4161-948b-e7dac09b4798
 - text: Six rounds of DNA analysis, including a new PCR with novel primers, were carried
     out in the Gary Lowrey claw case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -393,7 +393,7 @@ references:
     the most conserved DNA sequences on Earth in order to finally resolve this case.
   claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
 - text: Molluscs secrete mucus containing inhibitors of PCR and other molecular-biology
     enzymes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -404,7 +404,7 @@ references:
     used in standard molecular cloning.
   claim_id: 3a633a1e-4ea5-4b8d-8124-038d09e364c3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3a633a1e-4ea5-4b8d-8124-038d09e364c3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3a633a1e-4ea5-4b8d-8124-038d09e364c3
 - text: A novel set of oligonucleotide PCR primers ultimately resolved the claw sample's
     identity
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -413,7 +413,7 @@ references:
     primers for the polymerase chain reaction solved the puzzle
   claim_id: 2edb9b83-6e7e-4fda-b117-598479d83288
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2edb9b83-6e7e-4fda-b117-598479d83288
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2edb9b83-6e7e-4fda-b117-598479d83288
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

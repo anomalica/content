@@ -427,7 +427,7 @@ references:
     the Clinton and George W. Bush administrations,
   claim_id: e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e9782c7c-b036-4b41-ab59-bd84b6f3c5f9
 - text: Spent nearly twenty years in the US Intelligence Community.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -436,7 +436,7 @@ references:
     Community and served as the Deputy Assistant Secretary of Defense for Intelligence
   claim_id: 81393cba-1089-4321-998e-e545e5070fbc
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81393cba-1089-4321-998e-e545e5070fbc
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81393cba-1089-4321-998e-e545e5070fbc
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81393cba-1089-4321-998e-e545e5070fbc
 - text: Held the Pentagon's third-highest intelligence position, Deputy Assistant
     Secretary of Defense for Intelligence and Security and Information Operations.
@@ -447,7 +447,7 @@ references:
     position at the Pentagon.
   claim_id: 5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5f017d28-41e6-4ebc-afc6-efb8a72d7d2c
 - text: Part of the Mellon family associated with Carnegie Mellon University.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -456,7 +456,7 @@ references:
   quote: he's part of the mellon you know dynasty you know from carnegie mellon type
   claim_id: 67790600-64ad-44f3-bef6-90ee4005b3cf
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-67790600-64ad-44f3-bef6-90ee4005b3cf
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-67790600-64ad-44f3-bef6-90ee4005b3cf
 - text: As a child, was shown a home movie of a golden disc-shaped object moving across
     the sky.
   source: In Plain Sight
@@ -467,7 +467,7 @@ references:
     a manner that would be very hard to fake'.
   claim_id: 1925e832-a0c7-44c8-a8af-8f6d5187e484
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1925e832-a0c7-44c8-a8af-8f6d5187e484
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1925e832-a0c7-44c8-a8af-8f6d5187e484
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1925e832-a0c7-44c8-a8af-8f6d5187e484
 - text: Read widely about UFOs and completed a college research project on the subject
     for a physics professor.
@@ -477,7 +477,7 @@ references:
     and he eventually did a research project on UFOs in college for a physics professor.
   claim_id: 5b0a9cc3-b148-4e11-b647-650d339ec460
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0a9cc3-b148-4e11-b647-650d339ec460
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0a9cc3-b148-4e11-b647-650d339ec460
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b0a9cc3-b148-4e11-b647-650d339ec460
 - text: Worked as a legislative assistant for Senator William Cohen, who later became
     Defense Secretary.
@@ -487,7 +487,7 @@ references:
     Cohen, later to become Defence Secretary.
   claim_id: 1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
 - text: Was Cohen's closest adviser on Capitol Hill while Cohen was a US Senator.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -496,7 +496,7 @@ references:
     Mellon.
   claim_id: d5dc00ca-e86e-4668-8ee8-841c57c4100e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
 - text: Followed William Cohen into the Pentagon in 1997 as part of the new Defense
     Secretary's transition team.
@@ -506,7 +506,7 @@ references:
     new Defence Secretary's transition team.)
   claim_id: cd381e01-1602-40d7-8117-030246ae9b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd381e01-1602-40d7-8117-030246ae9b3b
 - text: Was a staffer for the US Senate Select Committee on Intelligence.
   source: In Plain Sight
@@ -515,7 +515,7 @@ references:
     DC
   claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
 - text: Role required review of top-secret SCI projects inside Special Access Programs.
   source: In Plain Sight
@@ -525,7 +525,7 @@ references:
     Programs (SAPs), most of which still remain classified.
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3001af87-f811-4ab3-8454-e641775abf6d
 - text: Monitored Area 51, a highly secure US Air Force facility, for the Senate Intelligence
     Committee.
@@ -536,7 +536,7 @@ references:
     within the massive Nevada test range.
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
 - text: Was ordered by Senator Robert Byrd to investigate claims of a secret black
     aerospace project called Aurora.
@@ -547,7 +547,7 @@ references:
     working on a black high-technology aerospace project called Aurora.
   claim_id: 97d2d6c7-7435-42f1-b4bd-8419e58cdc70
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97d2d6c7-7435-42f1-b4bd-8419e58cdc70
 - text: Led the inquiries that attempted to explain the mass Belgian Wave sightings.
   source: In Plain Sight
@@ -556,7 +556,7 @@ references:
     Belgian sightings was Washington insider Christopher Mellon.
   claim_id: 4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d3b333c-4ac9-4dab-aac1-78d3e878f4a8
 - text: Made exhaustive investigations with the Pentagon and intelligence services
     regarding the 1989-1990 Belgian Wave sightings.
@@ -566,7 +566,7 @@ references:
     intelligence services, finally declaring
   claim_id: a80c1ea1-77de-4108-8bd4-8eba6862345b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a80c1ea1-77de-4108-8bd4-8eba6862345b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a80c1ea1-77de-4108-8bd4-8eba6862345b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a80c1ea1-77de-4108-8bd4-8eba6862345b
 - text: Concluded there is no secret US triangular-craft programme matching the Belgian
     Wave sightings.
@@ -578,7 +578,7 @@ references:
     unlike anything that we had or any technology we had.'
   claim_id: 92e280b1-e05e-4024-9c9b-8e32e08eb1a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92e280b1-e05e-4024-9c9b-8e32e08eb1a3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92e280b1-e05e-4024-9c9b-8e32e08eb1a3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-92e280b1-e05e-4024-9c9b-8e32e08eb1a3
 - text: Said the craft observed in the Belgian Wave sightings was definitely not something
     the US had on the books.
@@ -588,7 +588,7 @@ references:
     was not us,' Mellon says.
   claim_id: fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fb1cd1a0-a57d-4fb1-88de-9c9b3363ba46
 - text: Visited Area 51 with full access to review every classified project onsite.
   source: In Plain Sight
@@ -597,7 +597,7 @@ references:
     onsite.
   claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e635035-bc66-4b80-910c-81198bf2572c
 - text: Said he never saw technology at Area 51 equating to that demonstrated by sighted
     UAP, and no captured alien spacecraft.
@@ -607,7 +607,7 @@ references:
     demonstrated by the UAPs that were sighted – and certainly no captured alien spacecraft.
   claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
 - text: Said Lockheed Martin colleagues told him privately that if a TR3B craft exists,
     it is not made by Lockheed Martin.
@@ -618,7 +618,7 @@ references:
     made by Lockheed.
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c637488-34ff-4e19-97d8-82a393d101d7
 - text: Said he never saw a large spending line or other evidence for a TR3B-type
     craft during his visits to Area 51 and adjacent ranges.
@@ -629,7 +629,7 @@ references:
     during visits to Area 51 and adjacent ranges.
   claim_id: 233982bc-14f8-40a8-8e25-af3400571456
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233982bc-14f8-40a8-8e25-af3400571456
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233982bc-14f8-40a8-8e25-af3400571456
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-233982bc-14f8-40a8-8e25-af3400571456
 - text: Said he was aware of one data point suggesting a US connection to the TR3B,
     but described it as tangential and not public.
@@ -639,7 +639,7 @@ references:
     but it's a bit tangential, far from definitive and not in the public realm.
   claim_id: be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-be857bbc-3bab-4a9b-8d56-13d0ca6d1ed7
 - text: First met Luis Elizondo at a closed-door Pentagon meeting in early 2017.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -647,7 +647,7 @@ references:
   quote: When I first met Lue at a closed-door Pentagon meeting early in 2017...
   claim_id: 7b2de6fe-3895-4154-9612-7aa4ef790c08
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7b2de6fe-3895-4154-9612-7aa4ef790c08
 - text: Already knew that AATIP was called AATIP, despite the programme's secrecy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -656,7 +656,7 @@ references:
     called AATIP.
   claim_id: 6cac0a9b-06c0-45a0-b5bf-a790c3228875
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6cac0a9b-06c0-45a0-b5bf-a790c3228875
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6cac0a9b-06c0-45a0-b5bf-a790c3228875
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6cac0a9b-06c0-45a0-b5bf-a790c3228875
 - text: Asked Elizondo how he could get read onto AATIP.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -664,7 +664,7 @@ references:
   quote: Then Chris asked, "How do I get read onto your program?"
   claim_id: fd994381-7e87-45fd-81e3-5e59aa134ea5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fd994381-7e87-45fd-81e3-5e59aa134ea5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fd994381-7e87-45fd-81e3-5e59aa134ea5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fd994381-7e87-45fd-81e3-5e59aa134ea5
 - text: Admitted he had had zero visibility into the UAP topic despite years overseeing
     all DoD Special Access Programs.
@@ -674,7 +674,7 @@ references:
     to us that he had zero visibility into the UAP topic.
   claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
 - text: Obtained all required security clearances within one week.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -683,7 +683,7 @@ references:
     them. Every single one of them.
   claim_id: 1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1eb0db73-76b1-4751-8cc4-b58ba56fa3d3
 - text: Was briefed by Elizondo for three hours in a SCIF, with reports, photographs,
     data and intelligence on legacy UAP efforts.
@@ -693,7 +693,7 @@ references:
     pictures, and data, and intel we had gathered on legacy efforts.
   claim_id: 85942a3a-ae62-41a6-a9da-e60e2c6f79e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
 - text: Pledged his support to AATIP and became a trusted member of the team.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -702,7 +702,7 @@ references:
     the team.
   claim_id: 13cd7da0-54db-47d0-bb51-9cb9a245939b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-13cd7da0-54db-47d0-bb51-9cb9a245939b
 - text: Journalist Ross Coulthart said he found PowerPoint slides for a DoD officials'
     briefing while examining Mellon's personal website in August 2018.
@@ -713,7 +713,7 @@ references:
     Secretary of Defense Christopher Mellon's personal website.
   claim_id: d3a2971d-c2fa-4dda-a324-fa00a1e3064d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3a2971d-c2fa-4dda-a324-fa00a1e3064d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3a2971d-c2fa-4dda-a324-fa00a1e3064d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d3a2971d-c2fa-4dda-a324-fa00a1e3064d
 - text: A slide on Mellon's website headed 'DoD Threat Scenario' asserted the science
     exists to manipulate physical and cognitive environments to penetrate US facilities
@@ -727,7 +727,7 @@ references:
     influence decision makers and compromise national security.'
   claim_id: c5df4a0a-2e48-4460-ba85-31013633631e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5df4a0a-2e48-4460-ba85-31013633631e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5df4a0a-2e48-4460-ba85-31013633631e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5df4a0a-2e48-4460-ba85-31013633631e
 - text: Met with Elizondo and journalist Leslie Kean, alongside Semivan and Puthoff,
     in a hotel lobby near the Pentagon.
@@ -739,7 +739,7 @@ references:
     of Leslie Kean, whom Chris had arranged for us to meet.'
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
 - text: The meeting with Kean lasted four hours.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -747,7 +747,7 @@ references:
   quote: Meeting with Kean lasted an exhausting four hours.
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
 - text: Urged Elizondo to connect with the media to reach the American public on the
     UAP issue.
@@ -758,7 +758,7 @@ references:
     with the media.
   claim_id: 9af1dc84-46d0-4114-a6ff-826cb5bd925f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
 - text: TTSA involved Christopher Mellon, Luis Elizondo, Jim Semivan, Steve Justice
     and Hal Puthoff.
@@ -769,7 +769,7 @@ references:
     you know, So anyway, and me.
   claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
 - text: TTSA aims to raise money for research into UFOs.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -778,7 +778,7 @@ references:
     money for research into U.F.O.s.
   claim_id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
 - text: Was present at the 2017 launch of To The Stars Academy of Arts & Sciences.
   source: In Plain Sight
@@ -787,7 +787,7 @@ references:
     of the TTSA.
   claim_id: 4ce862e6-e516-4afb-b7ca-cc7330818a61
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4ce862e6-e516-4afb-b7ca-cc7330818a61
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4ce862e6-e516-4afb-b7ca-cc7330818a61
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4ce862e6-e516-4afb-b7ca-cc7330818a61
 - text: In his October 2017 launch speech, pointed out that the date marked precisely
     60 years since the Soviet Union launched Sputnik.
@@ -798,7 +798,7 @@ references:
     October 1957, the first human-made Earth satellite
   claim_id: 757604df-81f7-41b5-8d1b-61c86a4ffd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
 - text: Is Chairman of TTSA's National Security Policy and Scientific Advisory Board.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -807,7 +807,7 @@ references:
     Advisory Board
   claim_id: f28f00b9-d067-4634-8e76-41cdf1195281
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f28f00b9-d067-4634-8e76-41cdf1195281
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f28f00b9-d067-4634-8e76-41cdf1195281
 - text: Works for TTSA as national security affairs adviser, according to the company's
     website.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -817,7 +817,7 @@ references:
     company’s website, is national security affairs adviser).
   claim_id: 2208e199-629c-4035-af8c-ef322970e958
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2208e199-629c-4035-af8c-ef322970e958
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2208e199-629c-4035-af8c-ef322970e958
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2208e199-629c-4035-af8c-ef322970e958
 - text: Speculation mounted for months that Mellon, Elizondo and Steve Justice were
     leaving TTSA.
@@ -828,7 +828,7 @@ references:
     TTSA.
   claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
 - text: It took Tom DeLonge several months to formally confirm their departure from
     TTSA to the SEC.
@@ -838,7 +838,7 @@ references:
     Exchange Commission not only their departure
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
 - text: His Washington Post story revealed the Go-Fast video was filmed off the US
     east coast in late 2014 or early 2015.
@@ -848,7 +848,7 @@ references:
     filmed off the east coast of the US sometime in late 2014 or early 2015.
   claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
 - text: Used his Pentagon contacts to obtain copies of three unclassified UAP videos.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -857,7 +857,7 @@ references:
     UAP videos.
   claim_id: 4633371f-0bdf-475e-a965-727abcb45b9f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4633371f-0bdf-475e-a965-727abcb45b9f
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4633371f-0bdf-475e-a965-727abcb45b9f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4633371f-0bdf-475e-a965-727abcb45b9f
 - text: His long service in the intelligence community meant he knew where the UAP
     videos had been kept and how to extract them.
@@ -867,7 +867,7 @@ references:
     where the videos had been tucked away and how to extract them.
   claim_id: 97e787ea-14a1-4465-a307-5a735da1a2c1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-97e787ea-14a1-4465-a307-5a735da1a2c1
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-97e787ea-14a1-4465-a307-5a735da1a2c1
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-97e787ea-14a1-4465-a307-5a735da1a2c1
 - text: Concluded with Elizondo and Stratton that only Congress could force change
     in how the Pentagon handled UAP.
@@ -878,7 +878,7 @@ references:
     change.
   claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
 - text: Gave Elizondo permission to share his name with officials who could help reach
     Defense Secretary James Mattis.
@@ -889,7 +889,7 @@ references:
     me get to Mattis appropriately.
   claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
 - text: Tried, with Elizondo, to raise AATIP with Defense Secretary James Mattis but
     could not get past his gatekeepers.
@@ -900,7 +900,7 @@ references:
     his gatekeepers.
   claim_id: dc3c9cc5-9095-4d37-b8a9-ded30d961331
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-dc3c9cc5-9095-4d37-b8a9-ded30d961331
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-dc3c9cc5-9095-4d37-b8a9-ded30d961331
 - text: Drafted the UAP report legislative language with Elizondo during the COVID-19
     pandemic.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -909,7 +909,7 @@ references:
     while the rest of the nation was hunkering down.
   claim_id: 245ef627-faac-4bea-ab3f-c5cc1b893a15
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-245ef627-faac-4bea-ab3f-c5cc1b893a15
 - text: Assisted senators and a representative in crafting UAP language for the National
     Defense Authorization Act.
@@ -922,7 +922,7 @@ references:
     Chris and me.
   claim_id: adea157c-4485-459e-9776-d1a66737c42e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea157c-4485-459e-9776-d1a66737c42e
 - text: Information provided to Congress acknowledges 11 near mid-air collisions between
     military aircraft and UAP since 2004.
@@ -932,7 +932,7 @@ references:
     collisions with UAP by military aircraft since 2004.
   claim_id: 0aa44f96-0062-48b4-be77-7902947dbc72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0aa44f96-0062-48b4-be77-7902947dbc72
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0aa44f96-0062-48b4-be77-7902947dbc72
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0aa44f96-0062-48b4-be77-7902947dbc72
 - text: Instrumental in arranging classified briefings for Congress members on UAP,
     including exotic retrieved materials.
@@ -943,7 +943,7 @@ references:
     and other officials about UAP, which include references to exotic retrieved materials.
   claim_id: a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a8cdff8c-b9ee-407e-a8dc-1a4dcae54b7c
 - text: First briefing facilitated was to Senate Armed Services Committee staff on
     2019-10-21, and Senate Select Committee on Intelligence staff two days later.
@@ -955,7 +955,7 @@ references:
     by The New York Times.
   claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ba82812a-2d1c-479b-9249-60187dbf5494
 - text: Says Congress will be able to quickly determine the truth once members are
     fully aware of the information provided to staff.
@@ -966,7 +966,7 @@ references:
     a position to quickly determine the truth if they have the will to do so.
   claim_id: b65ab58d-46e3-4239-b43f-6d3ceea426f0
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b65ab58d-46e3-4239-b43f-6d3ceea426f0
 - text: 'Quote: ''This is an unprecedented oversight challenge for the committees,
     but I believe we have leaders in Congress who are up to the task.'''
@@ -976,7 +976,7 @@ references:
     we have leaders in Congress who are up to the task,” Mellon said.
   claim_id: 3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-3fd58b8c-1924-4879-ba9a-ec5fcd2fea7d
 - text: Believes with high confidence, based on his DoD positions, that unidentified
     objects reported by pilots are not US technology.
@@ -987,7 +987,7 @@ references:
     and I know the process.
   claim_id: 30129510-6f53-4779-b196-e3aa65c80138
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-30129510-6f53-4779-b196-e3aa65c80138
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-30129510-6f53-4779-b196-e3aa65c80138
 - text: Says the Navy and DoD first checked to make sure the UAP were not their own
     technology.
   source: In Plain Sight
@@ -996,7 +996,7 @@ references:
     did was check to make sure they weren't ours.
   claim_id: 7b28df71-9f02-4850-936b-1f2cb8498424
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b28df71-9f02-4850-936b-1f2cb8498424
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b28df71-9f02-4850-936b-1f2cb8498424
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7b28df71-9f02-4850-936b-1f2cb8498424
 - text: Considers Russian or Chinese technology a possible explanation, though the
     performance is so extraordinary it is hard to imagine terrestrial rivals mastering
@@ -1010,7 +1010,7 @@ references:
     to imagine how our terrestrial rivals could master that kind of technology.
   claim_id: adb9c57e-5723-4438-92a2-a41260982aa8
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-adb9c57e-5723-4438-92a2-a41260982aa8
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-adb9c57e-5723-4438-92a2-a41260982aa8
 - text: Considers it necessary to entertain an alien origin for the UAP filmed by
     US fighter pilots, given they appear not to be American, Russian or Chinese.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -1020,7 +1020,7 @@ references:
     to entertain that possibility.
   claim_id: 5a526d78-f144-4790-925d-7ebc3e06554b
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5a526d78-f144-4790-925d-7ebc3e06554b
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5a526d78-f144-4790-925d-7ebc3e06554b
 - text: Says the NRO, CIA, NGA, FBI and NSA appeared to hold important UAP data they
     were not sharing with each other.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -1031,7 +1031,7 @@ references:
     have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
 - text: Said in May 2020 that some materials he was aware of had genuinely extraordinary
     properties.
@@ -1043,7 +1043,7 @@ references:
     properties’
   claim_id: 957fdfd4-155e-4e2f-95cf-7cd934c1601b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-957fdfd4-155e-4e2f-95cf-7cd934c1601b
 - text: Said some recovered materials had isotopic ratios different from terrestrial
     metals.
@@ -1052,7 +1052,7 @@ references:
   quote: that some of the samples had different isotopic ratios from terrestrial metals
   claim_id: 40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40fc09f5-beef-4c9f-9b76-b2bfc3032ad5
 - text: Says well-placed officials shared detailed information with him about an alleged
     non-human craft recovery programme, including its history and recovery location.
@@ -1064,7 +1064,7 @@ references:
     and recovered,” Mellon said.
   claim_id: 85e9d85f-89ed-4105-966f-0c51b78115ef
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-85e9d85f-89ed-4105-966f-0c51b78115ef
 - text: Mellon and Eric Davis have said the legacy programme ceased in 1989 due to
     a lack of progress.
@@ -1074,7 +1074,7 @@ references:
     and Christopher Mellon that the program was ceased in 1989 due to lack of progress?
   claim_id: 46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
 - text: Considers the object encountered by the USS Nimitz not to be an experimental
     US aircraft.
   source: In Plain Sight
@@ -1083,7 +1083,7 @@ references:
     asked.'
   claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
 - text: Met with one of the pilots involved in the 2004 USS Nimitz encounter and confirmed
     the account.
@@ -1093,7 +1093,7 @@ references:
     members of the To The Stars Academy team
   claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
 - text: States the USS Nimitz events can be verified by the US government itself.
   source: In Plain Sight
   location: ch21:3553-3656
@@ -1101,7 +1101,7 @@ references:
     *Nimitz* on November 14th, 2004.
   claim_id: 070c8c4c-cf19-40c0-8322-ebc21391d95b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-070c8c4c-cf19-40c0-8322-ebc21391d95b
 - text: A Fox & Friends segment did not mention Mellon's employment by TTSA or that
     a companion documentary was made by his employer.
@@ -1113,7 +1113,7 @@ references:
     for.
   claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
 - text: Journalist Bryan Bender described Elizondo and Mellon as an unmatched team
     retaining security clearances and Washington networks.
@@ -1127,7 +1127,7 @@ references:
     business, if you will.”
   claim_id: a768d42f-51cd-4189-9420-46c88f54a07e
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-a768d42f-51cd-4189-9420-46c88f54a07e
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-a768d42f-51cd-4189-9420-46c88f54a07e
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-a768d42f-51cd-4189-9420-46c88f54a07e
 built_by:
   model: claude-sonnet-5

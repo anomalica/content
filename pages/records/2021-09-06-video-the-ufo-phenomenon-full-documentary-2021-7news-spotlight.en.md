@@ -20,7 +20,7 @@ references:
     may provide at least the beginnings of an answer.
   claim_id: 92228796-986a-4ec9-8786-76704dca90a5
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-92228796-986a-4ec9-8786-76704dca90a5
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-92228796-986a-4ec9-8786-76704dca90a5
 - text: Coulthart states the US military is openly admitting a mystery in the skies
     it cannot explain
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -29,7 +29,7 @@ references:
     openly admitting that there's a mystery it can't explain.
   claim_id: f04c7e80-d442-4722-830b-38eece70936f
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f04c7e80-d442-4722-830b-38eece70936f
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f04c7e80-d442-4722-830b-38eece70936f
 - text: An Unidentified Aerial Phenomena Task Force had been operating secretly inside
     the Pentagon for years
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -39,7 +39,7 @@ references:
     for years investigating the phenomena of UFOs, flying saucers.
   claim_id: 8cd44f9a-0cc3-4335-a3ac-31d0fb2097ac
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-8cd44f9a-0cc3-4335-a3ac-31d0fb2097ac
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-8cd44f9a-0cc3-4335-a3ac-31d0fb2097ac
 - text: Marler states the US Air Force, FBI and CIA all had a policy of denial towards
     UFOs for decades
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -48,7 +48,7 @@ references:
     of denial. Deny the subject, dispel the subject, debunk the subject.
   claim_id: 7b575d39-e3d8-46ff-99db-d0a44d345a76
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-7b575d39-e3d8-46ff-99db-d0a44d345a76
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-7b575d39-e3d8-46ff-99db-d0a44d345a76
 - text: The culture of denial changed with the leaking of infrared DoD videos in 2017
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:06:16.6-00:06:36.3
@@ -56,7 +56,7 @@ references:
     the Department of Defense, or DOD, in 2017.
   claim_id: 72befda3-e098-4835-9974-06cca4ad7ce0
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-72befda3-e098-4835-9974-06cca4ad7ce0
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-72befda3-e098-4835-9974-06cca4ad7ce0
 - text: Elizondo was put in charge of the secretive Pentagon unit called AATIP
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:10:19.3-00:10:27.2
@@ -64,7 +64,7 @@ references:
     unit called AATIP. The Advanced Aerospace Threat Identification Program.
   claim_id: a6ed6009-705c-431b-bed6-67226e867dbd
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-a6ed6009-705c-431b-bed6-67226e867dbd
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-a6ed6009-705c-431b-bed6-67226e867dbd
 - text: Elizondo describes the unidentified technology as exhibiting instantaneous
     acceleration
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -73,7 +73,7 @@ references:
     velocities, low observability, transmedium travel, and anti-gravity
   claim_id: aec73479-6d99-4641-af7f-d7520e9471d4
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-aec73479-6d99-4641-af7f-d7520e9471d4
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-aec73479-6d99-4641-af7f-d7520e9471d4
 - text: Elizondo describes the unidentified technology as exhibiting hypersonic velocities
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:11:17.6-00:11:40.5
@@ -81,7 +81,7 @@ references:
     travel, and anti-gravity
   claim_id: 982be0bc-84af-4b47-a0d2-d16c6c7733eb
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-982be0bc-84af-4b47-a0d2-d16c6c7733eb
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-982be0bc-84af-4b47-a0d2-d16c6c7733eb
 - text: Elizondo describes the unidentified technology as exhibiting transmedium travel
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:11:17.6-00:11:40.5
@@ -89,7 +89,7 @@ references:
     travel, and anti-gravity
   claim_id: e0f1cb05-cc94-444d-8bab-8572e5c346ca
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-e0f1cb05-cc94-444d-8bab-8572e5c346ca
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-e0f1cb05-cc94-444d-8bab-8572e5c346ca
 - text: Elizondo describes the unidentified technology as exhibiting anti-gravity
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:11:17.6-00:11:40.5
@@ -97,7 +97,7 @@ references:
     travel, and anti-gravity
   claim_id: 5bff632a-6ae1-4fbe-b591-66f969205106
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-5bff632a-6ae1-4fbe-b591-66f969205106
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-5bff632a-6ae1-4fbe-b591-66f969205106
 - text: On 2004-11-14 the USS Nimitz was performing drills off the Southern Californian
     coastline
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -107,7 +107,7 @@ references:
     Gulf.
   claim_id: f0862801-d217-47e0-b9a6-fd0ddfe00f3f
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f0862801-d217-47e0-b9a6-fd0ddfe00f3f
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f0862801-d217-47e0-b9a6-fd0ddfe00f3f
 - text: Kevin Day was manning the radar on board the USS Princeton during the 2004
     exercise
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -115,7 +115,7 @@ references:
   quote: Manning the radar on board the Princeton was Kevin Day.
   claim_id: 67f8ce57-2d65-427a-af7b-94af1fabef5a
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-67f8ce57-2d65-427a-af7b-94af1fabef5a
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-67f8ce57-2d65-427a-af7b-94af1fabef5a
 - text: Kevin Day observed on radar that the object went from approximately 8,500
     metres to the ocean surface in 0.78 seconds
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -123,7 +123,7 @@ references:
   quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
   claim_id: 9506ac06-f851-438d-9709-c21fe380b81b
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-9506ac06-f851-438d-9709-c21fe380b81b
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-9506ac06-f851-438d-9709-c21fe380b81b
 - text: The CAP point was approximately 97 kilometres away, known only to a handful
     of Navy personnel and pilots
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -132,7 +132,7 @@ references:
     a handful of Navy personnel and pilots.
   claim_id: ad8df173-9397-4257-9d2e-96d5ef31238d
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-ad8df173-9397-4257-9d2e-96d5ef31238d
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-ad8df173-9397-4257-9d2e-96d5ef31238d
 - text: The object had no wings, no rudders, no control surfaces, no cockpit and no
     rivets
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -141,14 +141,14 @@ references:
     No elevators. No cockpit. No rivets.
   claim_id: a3d54fba-e9b7-406a-9056-f12130dd02fe
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-a3d54fba-e9b7-406a-9056-f12130dd02fe
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-a3d54fba-e9b7-406a-9056-f12130dd02fe
 - text: Exmouth is referred to as Australia's very own Roswell
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:21:13.3-00:21:13.3
   quote: Down Under's very own Roswell.
   claim_id: f38495b7-9a88-40e4-b7e5-6cb4cf3c64f4
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f38495b7-9a88-40e4-b7e5-6cb4cf3c64f4
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-f38495b7-9a88-40e4-b7e5-6cb4cf3c64f4
 - text: The Harold Holt Naval Communications Station conducted communications with
     America's nuclear submarines during the Cold War
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -157,7 +157,7 @@ references:
     most dangerous nuclear submarines at the height of the Cold War.
   claim_id: 3c91abe8-2c62-43a8-8b71-cd140a06cef6
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-3c91abe8-2c62-43a8-8b71-cd140a06cef6
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-3c91abe8-2c62-43a8-8b71-cd140a06cef6
 - text: Annie Farinaccio's 1991 encounter occurred at approximately 8 p.m. heading
     towards the Harold Holt base, approximately five kilometres away
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -166,7 +166,7 @@ references:
     to the Harold Hole Base? Approximately around five kilometres.
   claim_id: fb1d57f6-66fb-4df0-a1c4-bda49407c570
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-fb1d57f6-66fb-4df0-a1c4-bda49407c570
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-fb1d57f6-66fb-4df0-a1c4-bda49407c570
 - text: Farinaccio saw a diamond-shaped craft with lights at the bottom hovering straight
     above the vehicle
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -175,7 +175,7 @@ references:
     the vehicle.... Yes, there's lights at the bottom of it.
   claim_id: b15f0fc8-7aae-44b6-8375-e78f27c10daa
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b15f0fc8-7aae-44b6-8375-e78f27c10daa
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b15f0fc8-7aae-44b6-8375-e78f27c10daa
 - text: The craft was two to three cars in length, made no sound, and was a deep grey
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:25:17.3-00:25:26.7
@@ -183,7 +183,7 @@ references:
     from this.... It was a deep grey.
   claim_id: c2186336-de9e-4472-b612-8e6f44c21213
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c2186336-de9e-4472-b612-8e6f44c21213
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c2186336-de9e-4472-b612-8e6f44c21213
 - text: Farinaccio was taken to the top security section of the Exmouth base for questioning
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:26:38.7-00:26:50.7
@@ -191,7 +191,7 @@ references:
     wow, this is really serious.
   claim_id: c752664b-e32f-44a8-a942-5763f55f855c
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c752664b-e32f-44a8-a942-5763f55f855c
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c752664b-e32f-44a8-a942-5763f55f855c
 - text: Farinaccio and the two AFP officers were cross-examined and interrogated by
     Americans at the base
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -200,7 +200,7 @@ references:
     people in the base in the days following the incident.
   claim_id: d34da9ae-2867-4a15-8914-52226468d3ca
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-d34da9ae-2867-4a15-8914-52226468d3ca
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-d34da9ae-2867-4a15-8914-52226468d3ca
 - text: Farinaccio was told by the Americans to tell people she saw a weather balloon
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:42:49.5-00:42:56.9
@@ -208,7 +208,7 @@ references:
     that we tell people we saw a weather balloon?
   claim_id: d371059c-b3f5-445b-ae0b-11ace7255779
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-d371059c-b3f5-445b-ae0b-11ace7255779
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-d371059c-b3f5-445b-ae0b-11ace7255779
 - text: Robert Salas was underground when a guard reported a menacing light above
     the atomic warheads on 1967-03-24
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -218,7 +218,7 @@ references:
     light in the airspace above the atomic warheads they were in charge of.
   claim_id: bc803034-41f4-4e42-a996-6bb7c93d53ac
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-bc803034-41f4-4e42-a996-6bb7c93d53ac
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-bc803034-41f4-4e42-a996-6bb7c93d53ac
 - text: A frightened guard reported an orange-red pulsating light hovering above the
     front gate of the missile facility
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -227,7 +227,7 @@ references:
     gate, and it's a pulsating light.
   claim_id: b3dd6907-f814-4720-a3ad-109c701e9b48
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b3dd6907-f814-4720-a3ad-109c701e9b48
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b3dd6907-f814-4720-a3ad-109c701e9b48
 - text: Klaxons sounded and the nuclear missiles went down one by one across the board
     during the 1967 Malmstrom incident
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -237,14 +237,14 @@ references:
     across the board. Boom, boom, boom, boom, boom. Something shut down the system.
   claim_id: 859f4548-701a-4b49-a859-986e91f761ce
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-859f4548-701a-4b49-a859-986e91f761ce
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-859f4548-701a-4b49-a859-986e91f761ce
 - text: Westall High School was a college of about 600 pupils in Melbourne's southeast
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:46:22.9-00:46:30.1
   quote: Westall High School, a college of about 600 pupils in Melbourne's southeast.
   claim_id: 5edb38fb-4296-44e8-a678-368e9b0843f5
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-5edb38fb-4296-44e8-a678-368e9b0843f5
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-5edb38fb-4296-44e8-a678-368e9b0843f5
 - text: Andrew Greenwood described the Westall object as a grey, almost cylindrical
     or cigar-shaped object
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -253,7 +253,7 @@ references:
     some degree of precision in the sky.
   claim_id: 525c3025-26e6-464e-bcd8-cf1016b52170
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-525c3025-26e6-464e-bcd8-cf1016b52170
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-525c3025-26e6-464e-bcd8-cf1016b52170
 - text: Terry Peck saw one of the objects on the ground in front of him during the
     Westall sighting
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -261,7 +261,7 @@ references:
   quote: Well, I didn't see it land, but I did see it on the ground in front of me.
   claim_id: 8b248305-94e6-43b0-9c38-45959ef49bd9
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-8b248305-94e6-43b0-9c38-45959ef49bd9
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-8b248305-94e6-43b0-9c38-45959ef49bd9
 - text: Within 40 minutes of the Westall sighting, Air Force and Army personnel arrived
     at the scene
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -270,7 +270,7 @@ references:
     all looking at their trucks. They were there.
   claim_id: 9151c7b3-bf24-4f80-95fb-f81d6b8aa37f
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-9151c7b3-bf24-4f80-95fb-f81d6b8aa37f
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-9151c7b3-bf24-4f80-95fb-f81d6b8aa37f
 - text: The Westall UFO sighting of 1966 is the largest group UFO sighting in the
     Southern Hemisphere, witnessed by over 200 people
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -280,7 +280,7 @@ references:
     one person saw it. There were over 200 people saw it.
   claim_id: 090d1c0f-fce2-4daa-882a-f4c188731f8c
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-090d1c0f-fce2-4daa-882a-f4c188731f8c
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-090d1c0f-fce2-4daa-882a-f4c188731f8c
 - text: Officials who visited Greenwood two weeks after Westall suggested he would
     be ill-advised to keep talking about it
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -290,7 +290,7 @@ references:
     department and of course you'll lose your job.
   claim_id: 250b292a-eaf3-4eb4-9eb5-d0edee2b6d90
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-250b292a-eaf3-4eb4-9eb5-d0edee2b6d90
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-250b292a-eaf3-4eb4-9eb5-d0edee2b6d90
 - text: Oil workers called out to a brush fire discovered a lenticular craft on 1948-03-25
     in Aztec, New Mexico
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -299,7 +299,7 @@ references:
     up here after being called out because of a brush fire.
   claim_id: 064813d5-b1f8-40a7-9083-a4667d1850bd
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-064813d5-b1f8-40a7-9083-a4667d1850bd
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-064813d5-b1f8-40a7-9083-a4667d1850bd
 - text: The object found at Aztec was about 5.5 metres tall and just short of 30 metres
     across
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -308,7 +308,7 @@ references:
     of 100 feet across.
   claim_id: b1a8bacd-9ece-484b-a4d8-2cbea880da93
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b1a8bacd-9ece-484b-a4d8-2cbea880da93
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-b1a8bacd-9ece-484b-a4d8-2cbea880da93
 - text: Mick and Judy Cook run a 14,000 hectare cattle station in an isolated pocket
     of North Queensland
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -317,7 +317,7 @@ references:
     of North Queensland. There's only one road in and one road out.
   claim_id: c6cb6d4f-03a9-4939-b37c-da5e112da320
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c6cb6d4f-03a9-4939-b37c-da5e112da320
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-c6cb6d4f-03a9-4939-b37c-da5e112da320
 - text: Since the first incident, 15 of the Cooks' cattle have died in similar ways
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:27.1-01:14:35.6
@@ -325,7 +325,7 @@ references:
     recent was eight months ago.
   claim_id: 7d1c6ddb-3a96-4401-851b-4f3977677295
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-7d1c6ddb-3a96-4401-851b-4f3977677295
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-7d1c6ddb-3a96-4401-851b-4f3977677295
 - text: The FBI told Coulthart there are 10,000 unsolved cattle mutilation cases across
     a swathe of the United States
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -335,7 +335,7 @@ references:
     a swathe of the United States.
   claim_id: 6e4bd248-0f13-49ee-b4d1-9b5ba0cdf400
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-6e4bd248-0f13-49ee-b4d1-9b5ba0cdf400
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-6e4bd248-0f13-49ee-b4d1-9b5ba0cdf400
 - text: Grant Denyer had a sighting of unidentified objects hovering over Narre Warren
     when he was about 19 years old
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -345,7 +345,7 @@ references:
     he was about 19 years old.
   claim_id: 04980aae-826b-4f20-aa25-dbb6952855b0
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-04980aae-826b-4f20-aa25-dbb6952855b0
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-04980aae-826b-4f20-aa25-dbb6952855b0
 - text: One of the lights left its group, went to supersonic speed across to the other
     group, then stopped dead instantly
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -354,7 +354,7 @@ references:
     a supersonic speed, over to the other group and then just stopped dead on a dime.
   claim_id: 064876a8-a9cd-4173-8a92-914e9d059c50
   record_hash: 493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd
-  workbench_url: http://localhost:5173/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-064876a8-a9cd-4173-8a92-914e9d059c50
+  workbench_url: https://workbench.anomalica.is/493f35ad73ad24f8420d728b8125081cf106fb9148b980066d91a8fd#claim-064876a8-a9cd-4173-8a92-914e9d059c50
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

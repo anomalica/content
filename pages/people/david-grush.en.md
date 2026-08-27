@@ -48,7 +48,7 @@ references:
   quote: And you know what else came out in June of 2023? David Grush.
   claim_id: e500810b-6342-4fd4-9bd0-20be6e4788d2
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-e500810b-6342-4fd4-9bd0-20be6e4788d2
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-e500810b-6342-4fd4-9bd0-20be6e4788d2
 - text: Grush testified before Congress as a UFO whistleblower in July 2023.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:05:18.3-00:05:23.3
@@ -56,7 +56,7 @@ references:
     summer of last year.
   claim_id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
 - text: Grush never mentioned Immaculate Constellation.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -64,7 +64,7 @@ references:
   quote: Although David Grush never mentioned Immaculate Constellation,
   claim_id: 0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
 - text: US military and intelligence community hold extensive visual and sensor data
     on UAP.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -74,7 +74,7 @@ references:
     and they have for a very long time.
   claim_id: af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
 - text: Some of the material is high resolution, unlike previously released blurry
     footage.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -83,7 +83,7 @@ references:
     clear... High resolution.
   claim_id: 2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
 - text: Grush says he was told of hundreds, possibly thousands, of UAP visuals held
     by government.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -92,7 +92,7 @@ references:
     told hundreds, you know, maybe thousands.
   claim_id: d0adec43-6124-4d70-9358-e18967fb910d
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-d0adec43-6124-4d70-9358-e18967fb910d
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-d0adec43-6124-4d70-9358-e18967fb910d
 - text: Grush denied familiarity with a rumoured DoD human-genetic hybridisation programme
     when questioned by Lauren Boebert.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -100,7 +100,7 @@ references:
   quote: Are any of you familiar with that? Yes or no? ... No, ma'am. I am not, ma'am.
   claim_id: 419ef8d3-faff-4abe-9999-c7506496fd69
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-419ef8d3-faff-4abe-9999-c7506496fd69
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-419ef8d3-faff-4abe-9999-c7506496fd69
 - text: 'Ramsay: Grush gave up his pension and staked his credibility on claims of
     recovered non-human biologics and craft.'
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -110,21 +110,21 @@ references:
     working on them
   claim_id: 4bb04f26-7fab-4596-a2ca-2dc809daa046
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4bb04f26-7fab-4596-a2ca-2dc809daa046
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4bb04f26-7fab-4596-a2ca-2dc809daa046
 - text: Bob Lazar says he respects Grush for coming forward publicly.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:24:41.8-00:24:46.4
   quote: Hats off to that guy. You know, I, I, I respect him for doing that for sure.
   claim_id: 82308765-3656-4371-b69a-506bd46711a8
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-82308765-3656-4371-b69a-506bd46711a8
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-82308765-3656-4371-b69a-506bd46711a8
 - text: No one else from the programme Grush described has come forward publicly.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:24:50.2-00:24:53.1
   quote: You know, nobody from the program came out.
   claim_id: 41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
 - text: 'Coulthart: Grush found it highly significant that the 1971 US-Soviet UAP
     hotline document was declassified, letting him discuss it publicly.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -136,7 +136,7 @@ references:
     able to talk about it
   claim_id: 1ed83cec-a268-43c8-82ff-370db5e339aa
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1ed83cec-a268-43c8-82ff-370db5e339aa
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1ed83cec-a268-43c8-82ff-370db5e339aa
 - text: 'Coulthart: at his Capitol steps presentation, Grush mentioned sentient plasmoids
     among the life forms he was aware of.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -147,7 +147,7 @@ references:
     of the things that he mentioned was sentient plasmoids.
   claim_id: 65180e68-0486-4a6c-b1c8-5d0fd8c45a58
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-65180e68-0486-4a6c-b1c8-5d0fd8c45a58
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-65180e68-0486-4a6c-b1c8-5d0fd8c45a58
 - text: 'Coulthart: Britain''s Condign Report inferred similar plasma findings 20-30
     years earlier.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -157,7 +157,7 @@ references:
     years ago?
   claim_id: c8f71409-7b37-419f-81e2-07555a603aea
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c8f71409-7b37-419f-81e2-07555a603aea
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c8f71409-7b37-419f-81e2-07555a603aea
 - text: 'Coulthart: Grush discussed DOPSR-cleared agreements possibly involving foreign
     powers or non-human intelligence.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -168,7 +168,7 @@ references:
     foreign adversary powers about UAPs or perhaps even with NHI.
   claim_id: cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
 - text: 'Mitchells: the US government has run covert UFO reverse-engineering programmes
     for roughly 70-80 years.'
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -177,7 +177,7 @@ references:
     in covert reverse engineering UFO programs for the last 70, 80 years.
   claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

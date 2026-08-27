@@ -55,7 +55,7 @@ references:
     also supported the program.
   claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
 - text: Harry Reid summoned Stevens and Inouye to a secure room in the Capitol
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -65,7 +65,7 @@ references:
     Capitol.
   claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
 - text: Reid approached Inouye and Stevens to secure $22 million in funding for a
     UAP study
@@ -76,7 +76,7 @@ references:
     UAP mystery.
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
 - text: Stevens had been a pilot in the Army's air force, flying transport missions
     over China during World War II
@@ -87,7 +87,7 @@ references:
     missions over China during World War II.)
   claim_id: 22fffa7b-fadd-4eb6-afab-a168fbd90680
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-22fffa7b-fadd-4eb6-afab-a168fbd90680
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-22fffa7b-fadd-4eb6-afab-a168fbd90680
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-22fffa7b-fadd-4eb6-afab-a168fbd90680
 - text: Reid said none of the three senators wanted a public debate on the Senate
     floor about the AATIP funding
@@ -98,7 +98,7 @@ references:
     the funding for the program, Mr. Reid said.
   claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
 - text: Reid said Stevens recounted being tailed by a strange aircraft with no known
     origin, which followed his plane for miles
@@ -110,7 +110,7 @@ references:
     for miles.
   claim_id: b040446a-65b7-41a8-8ddc-b570520d014a
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b040446a-65b7-41a8-8ddc-b570520d014a
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b040446a-65b7-41a8-8ddc-b570520d014a
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b040446a-65b7-41a8-8ddc-b570520d014a
 - text: Stevens told Reid he saw a UAP during one wartime flight and that they needed
     to take a look at this
@@ -121,7 +121,7 @@ references:
     this,'' he told Reid.'
   claim_id: 13b6b030-3af0-4129-abde-bc550afb2172
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13b6b030-3af0-4129-abde-bc550afb2172
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13b6b030-3af0-4129-abde-bc550afb2172
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13b6b030-3af0-4129-abde-bc550afb2172
 - text: Stevens said he once saw a 'foo fighter' while flying a mission during World
     War II
@@ -131,7 +131,7 @@ references:
     on a mission.
   claim_id: 1347bdc3-1cde-4240-a44a-699fe86b49d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1347bdc3-1cde-4240-a44a-699fe86b49d7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1347bdc3-1cde-4240-a44a-699fe86b49d7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1347bdc3-1cde-4240-a44a-699fe86b49d7
 - text: 'Reid: ''This was so-called black money. Stevens knows about it, Inouye knows
     about it. But that was it, and that''s how we wanted it'''
@@ -143,7 +143,7 @@ references:
     to the Pentagon budget for classified programs.
   claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
 - text: Stevens served as a pilot in the Army Air Corps, flying US military cargo
     over the Himalayas from India to China
@@ -154,7 +154,7 @@ references:
     China, where it could be used in the US conflict with Japan.
   claim_id: e01e6560-d459-4eac-a43d-66ece2280527
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e01e6560-d459-4eac-a43d-66ece2280527
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e01e6560-d459-4eac-a43d-66ece2280527
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e01e6560-d459-4eac-a43d-66ece2280527
 - text: AAWSAP was supported by DIA director Michael D. Maples and funded through
     the efforts of Reid, Stevens, and Inouye
@@ -166,7 +166,7 @@ references:
     Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
 - text: Reid, Stevens, and Inouye together controlled congressional spending for black-budget
     Pentagon programs
@@ -176,7 +176,7 @@ references:
     Pentagon programs.
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
 - text: Stevens, Reid's other backer for the UAP funding, died in a plane crash two
     years after backing the funding
@@ -186,7 +186,7 @@ references:
     two years later, also needed no convincing
   claim_id: c5d330e1-1da9-49c9-a185-516ebdb88176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
 built_by:
   model: claude-sonnet-5

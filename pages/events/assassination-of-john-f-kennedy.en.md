@@ -66,7 +66,7 @@ references:
   quote: And, ten days later, Kennedy was dead.
   claim_id: fa4f853b-13c5-4014-8bcf-352d1727bbf7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa4f853b-13c5-4014-8bcf-352d1727bbf7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa4f853b-13c5-4014-8bcf-352d1727bbf7
 - text: Hoagland and Bara's account of Oswald firing from the Depository window.
   source: Dark Mission
   location: ch10:78455-78706
@@ -76,7 +76,7 @@ references:
     fired the fatal shot.
   claim_id: db07b85f-1ac1-445d-a193-4febe7288714
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-db07b85f-1ac1-445d-a193-4febe7288714
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-db07b85f-1ac1-445d-a193-4febe7288714
 - text: Official account of Tippit's killing by Oswald.
   source: Dark Mission
   location: ch10:87008-87125
@@ -84,7 +84,7 @@ references:
     by Lee Harvey Oswald a short time after the assassination
   claim_id: 11fae713-0676-4c23-9a2e-b59ad886c6d4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-11fae713-0676-4c23-9a2e-b59ad886c6d4
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-11fae713-0676-4c23-9a2e-b59ad886c6d4
 - text: Oswald and Tippit both dead within 24 hours.
   source: Dark Mission
   location: ch10:87467-87545
@@ -92,7 +92,7 @@ references:
     the assassination
   claim_id: 23ca44cb-096a-455e-a123-a89fe0a52512
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23ca44cb-096a-455e-a123-a89fe0a52512
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23ca44cb-096a-455e-a123-a89fe0a52512
 - text: Gordon Arnold's account of filming in uniform.
   source: Dark Mission
   location: ch10:80959-81126
@@ -101,7 +101,7 @@ references:
     for the day.
   claim_id: 39354c6a-2d53-45d2-8821-4fcbf9589e1f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39354c6a-2d53-45d2-8821-4fcbf9589e1f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39354c6a-2d53-45d2-8821-4fcbf9589e1f
 - text: Marie Muchmore film shows Oliver and Moorman filming the shooting.
   source: Dark Mission
   location: ch10:83478-83684
@@ -110,7 +110,7 @@ references:
     at the instant the President is struck with the fatal shot.
   claim_id: fbd5d282-de85-45fb-ade5-c92cee5f4a3e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fbd5d282-de85-45fb-ade5-c92cee5f4a3e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fbd5d282-de85-45fb-ade5-c92cee5f4a3e
 - text: E. Howard Hunt's CIA/Watergate ties and assassination rumours.
   source: Dark Mission
   location: ch10:93001-93123
@@ -118,7 +118,7 @@ references:
     to have also been a key player in the Kennedy assassination
   claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
 - text: Saint John Hunt's Rolling Stone account of his father's taped confession.
   source: Dark Mission
   location: ch10:93192-93434
@@ -128,7 +128,7 @@ references:
     assassination.
   claim_id: 3703df3e-3d26-4cd8-a139-e46263401fdb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3703df3e-3d26-4cd8-a139-e46263401fdb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3703df3e-3d26-4cd8-a139-e46263401fdb
 - text: Novel's claimed CIA-Cuban link via Oswald and Ruby, given to Garrison.
   source: In Plain Sight
   location: ch27:4030-4314
@@ -138,7 +138,7 @@ references:
     assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.
   claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
 - text: Coulthart's description of Novel's recurring presence at major events.
   source: In Plain Sight
@@ -149,7 +149,7 @@ references:
     aftermath of the Waco siege.
   claim_id: 014e9ab4-e169-46f5-9921-d2231ab0c866
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-014e9ab4-e169-46f5-9921-d2231ab0c866
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-014e9ab4-e169-46f5-9921-d2231ab0c866
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-014e9ab4-e169-46f5-9921-d2231ab0c866
 - text: Sur Novel's recollection of his father's Watergate and black-ops ties.
   source: In Plain Sight
@@ -163,7 +163,7 @@ references:
     US and that''s not what the CIA is tasked to do.'''
   claim_id: 757847a6-3bc3-47f3-9a87-207f48601acc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757847a6-3bc3-47f3-9a87-207f48601acc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757847a6-3bc3-47f3-9a87-207f48601acc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757847a6-3bc3-47f3-9a87-207f48601acc
 - text: Sergei Khrushchev's recollection of his father's decision timing.
   source: Dark Mission
@@ -173,7 +173,7 @@ references:
     assassination in Dallas, which would date it right around November 12-15.
   claim_id: 6a8299a2-fe7e-40e2-94da-315080cda987
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6a8299a2-fe7e-40e2-94da-315080cda987
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6a8299a2-fe7e-40e2-94da-315080cda987
 - text: Kennedy's UN lunar-sharing proposal preceded his death by two months.
   source: Dark Mission
   location: ch7:10482-10584
@@ -181,7 +181,7 @@ references:
     the President was killed.
   claim_id: 73f82494-4d06-42c1-8043-f54bebed17a7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-73f82494-4d06-42c1-8043-f54bebed17a7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-73f82494-4d06-42c1-8043-f54bebed17a7
 - text: Hoagland's speculation linking the Khrushchev lunar proposal to the assassination.
   source: Dark Mission
   location: ch20:49269-49365
@@ -189,7 +189,7 @@ references:
     in the end, get him killed?
   claim_id: da91d716-d415-43ec-814e-275af9c3affe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da91d716-d415-43ec-814e-275af9c3affe
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da91d716-d415-43ec-814e-275af9c3affe
 - text: Only nine post-assassination Apollo missions, six landings.
   source: Dark Mission
   location: ch7:14584-14793
@@ -198,7 +198,7 @@ references:
     were carried out; only six of those were actually lunar landings.
   claim_id: 01eaa28f-a536-446a-9005-1cf16d0083bf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-01eaa28f-a536-446a-9005-1cf16d0083bf
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-01eaa28f-a536-446a-9005-1cf16d0083bf
 - text: NASA's Lunar Orbiter 2 image release on the assassination anniversary.
   source: Dark Mission
   location: ch8:21881-22080
@@ -207,7 +207,7 @@ references:
     of the crater Cayley B in the Sea of Tranquility.
   claim_id: 402cd3c7-d0f9-43f6-95f7-f9ebb9f5d878
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-402cd3c7-d0f9-43f6-95f7-f9ebb9f5d878
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-402cd3c7-d0f9-43f6-95f7-f9ebb9f5d878
 - text: Hoagland's 'deep black mission' speculation.
   source: Dark Mission
   location: ch20:48820-49043
@@ -216,7 +216,7 @@ references:
     this also, as we’ve asked earlier, the *real* reason for his murder?
   claim_id: d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
 - text: Dark Mission's claim about a Nazi-heritage-sharing offer preceding the killing.
   source: Dark Mission
   location: ch12:137842-138003
@@ -225,7 +225,7 @@ references:
     accepted.
   claim_id: 1dc5e0d9-78da-4b70-98ba-29c81fb0103f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dc5e0d9-78da-4b70-98ba-29c81fb0103f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dc5e0d9-78da-4b70-98ba-29c81fb0103f
 - text: Hubbell's account of Clinton's request about Kennedy's killer and UFOs.
   source: In Plain Sight
   location: ch14:218-432
@@ -234,7 +234,7 @@ references:
     JFK? And, two, are there UFOs?" He was dead serious,' Hubbell claimed.
   claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
 - text: Greer's account of Clinton's reported fear of assassination.
   source: In Plain Sight
@@ -245,7 +245,7 @@ references:
     home and said he would end up assassinated like Jack Kennedy.
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
 - text: Grusch's inconclusive view on the records release and CIA/organised-crime
     involvement.
@@ -257,7 +257,7 @@ references:
     you know, explained to us what all this means.
   claim_id: 40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
 - text: Horn's account of Asket's 1953 prophecy naming Kennedy's assassination.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:18:23.1-01:18:44.3
@@ -266,7 +266,7 @@ references:
     Fitzgerald Kennedy will be killed in Dallas, Texas on this day.
   claim_id: 8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

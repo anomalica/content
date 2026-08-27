@@ -255,7 +255,7 @@ references:
     case]'
   claim_id: cee073e3-9d8c-4ace-8239-5dae82abb296
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cee073e3-9d8c-4ace-8239-5dae82abb296
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cee073e3-9d8c-4ace-8239-5dae82abb296
 - text: Folklorist T. E. Bullard lists capture, examination, conference, tour, otherworldly
     journeys, theophany and return as recurring narrative elements.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -268,7 +268,7 @@ references:
     from a divine being); return'
   claim_id: 8bb07958-d45c-435a-b3d5-824951f498d9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8bb07958-d45c-435a-b3d5-824951f498d9
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8bb07958-d45c-435a-b3d5-824951f498d9
 - text: Fowler describes a typical close encounter of the third kind, Type G, case
     involving a car stopping, an object vanishing, and missing time.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -281,7 +281,7 @@ references:
     that two or three hours have passed.
   claim_id: 3b58b1c9-ae73-4951-9548-28d46b0ed94c
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-3b58b1c9-ae73-4951-9548-28d46b0ed94c
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-3b58b1c9-ae73-4951-9548-28d46b0ed94c
 - text: Fowler says the humanoid described in the Andreasson case is typical of these
     cases.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -290,7 +290,7 @@ references:
   quote: This is the typical humanoid that's seen in these particular cases.
   claim_id: 9f48a489-5c6f-4a10-9f06-d225de0ea0bb
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9f48a489-5c6f-4a10-9f06-d225de0ea0bb
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9f48a489-5c6f-4a10-9f06-d225de0ea0bb
 - text: Fowler says witnesses later have dreams and flashbacks about the missing time.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -299,7 +299,7 @@ references:
     have flashbacks while they're doing dishes.
   claim_id: 6c6934d2-c367-47d9-bfa0-f30cd94a84c3
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-6c6934d2-c367-47d9-bfa0-f30cd94a84c3
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-6c6934d2-c367-47d9-bfa0-f30cd94a84c3
 - text: Fowler says witnesses under hypnosis recall an abduction and being told they
     would not remember it.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -310,7 +310,7 @@ references:
     to remember the incident.
   claim_id: 5968c174-16bd-4635-9433-72d7586b3600
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-5968c174-16bd-4635-9433-72d7586b3600
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-5968c174-16bd-4635-9433-72d7586b3600
 - text: Fowler says several hundred cases have been investigated fairly thoroughly,
     often by psychiatrists and psychologists.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -321,7 +321,7 @@ references:
     psychologists.
   claim_id: ec8a6c52-6cab-4e9a-9aeb-e8c53ff281be
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-ec8a6c52-6cab-4e9a-9aeb-e8c53ff281be
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-ec8a6c52-6cab-4e9a-9aeb-e8c53ff281be
 - text: Fowler says investigated witnesses passed lie detector tests and character
     checks.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -331,7 +331,7 @@ references:
     Things that they report are similar to other cases in this country and abroad.
   claim_id: 9da43343-900f-497f-9bac-cf833d8bb8da
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9da43343-900f-497f-9bac-cf833d8bb8da
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9da43343-900f-497f-9bac-cf833d8bb8da
 - text: Fowler does not consider the reports hoaxes, though it is unknown if the events
     occurred.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -342,7 +342,7 @@ references:
     like this.
   claim_id: 9b810ea1-fce9-4eae-970d-22cded84dd3b
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
 - text: Chalker has investigated abduction claims since the 1970s.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch9:90-235
@@ -350,7 +350,7 @@ references:
     stories, having quietly investigated abduction claims since the seventies.
   claim_id: 25a4e3c6-9de2-478f-bd1a-6cf31266ead3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25a4e3c6-9de2-478f-bd1a-6cf31266ead3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25a4e3c6-9de2-478f-bd1a-6cf31266ead3
 - text: Chalker held that most Australian abduction cases probably revealed more about
     the human condition than about UFOs.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -361,7 +361,7 @@ references:
     they did about UFOs themselves.
   claim_id: a82e30e9-b625-4da3-adc6-643360e8c657
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a82e30e9-b625-4da3-adc6-643360e8c657
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a82e30e9-b625-4da3-adc6-643360e8c657
 - text: Chalker found the majority of abduction cases conspicuously lacking compelling
     physical evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -370,7 +370,7 @@ references:
     physical evidence.
   claim_id: 32712e56-11fe-4c5d-8471-38eca1f01f12
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32712e56-11fe-4c5d-8471-38eca1f01f12
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32712e56-11fe-4c5d-8471-38eca1f01f12
 - text: Chalker considers evidence for abduction lacking or unconvincing despite the
     phenomenon dominating the UFO field.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -380,7 +380,7 @@ references:
     the entire UFO scene.
   claim_id: 4df010b0-1fce-4977-bf31-7f2353aacd8b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4df010b0-1fce-4977-bf31-7f2353aacd8b
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4df010b0-1fce-4977-bf31-7f2353aacd8b
 - text: Chalker held that treating an abduction scene as a crime scene was one of
     the best ways to obtain physical evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -390,7 +390,7 @@ references:
     for about a decade
   claim_id: e489fcb0-7f2e-45e8-a0fa-68c77d9f91cb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e489fcb0-7f2e-45e8-a0fa-68c77d9f91cb
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e489fcb0-7f2e-45e8-a0fa-68c77d9f91cb
 - text: Victoria Alexander called in 1993 for a new abduction-research protocol modelled
     on criminal investigation.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -399,7 +399,7 @@ references:
     for abduction research” using the techniques of criminal investigations.
   claim_id: 0de14b00-9db4-4eae-901e-dead9cb6fc03
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0de14b00-9db4-4eae-901e-dead9cb6fc03
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0de14b00-9db4-4eae-901e-dead9cb6fc03
 - text: Chalker frames the choice as between unverified accounts or forensic/scientific
     investigation yielding verifiable evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -411,7 +411,7 @@ references:
     that turns out to be.
   claim_id: 4a50292e-1f10-460a-8139-0a4a21ca430b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a50292e-1f10-460a-8139-0a4a21ca430b
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a50292e-1f10-460a-8139-0a4a21ca430b
 - text: Peter Khoury was unaware of the abduction phenomenon or its literature at
     the time of his 1992 bedroom encounter.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -421,7 +421,7 @@ references:
     the literature.
   claim_id: 8294557b-33fb-4bd4-8944-06b6493f095a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8294557b-33fb-4bd4-8944-06b6493f095a
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8294557b-33fb-4bd4-8944-06b6493f095a
 - text: Chalker considers the DNA findings on Khoury's hair sample potent, if debated,
     evidence for a forensic approach.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -432,7 +432,7 @@ references:
     be at the heart of such claims.
   claim_id: e586e29e-4671-4259-9ccb-ad8b23ed7925
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
 - text: Kary Mullis is the only Nobel Prize laureate to admit to a possible alien
     abduction experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -441,7 +441,7 @@ references:
     to admit to a possible alien abduction experience.
   claim_id: 7c26c838-a4ff-4e30-aecb-6759c42bcc87
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c26c838-a4ff-4e30-aecb-6759c42bcc87
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c26c838-a4ff-4e30-aecb-6759c42bcc87
 - text: Mullis likens abduction phenomena to a form of anthropology conducted at an
     unknown level.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -450,7 +450,7 @@ references:
     it's just anthropology at a level we don't understand quite yet.
   claim_id: 9f6598aa-ba62-4f9d-99d1-830e377c3b61
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9f6598aa-ba62-4f9d-99d1-830e377c3b61
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9f6598aa-ba62-4f9d-99d1-830e377c3b61
 - text: Mullis considers an alien need for human DNA very unlikely and doubts the
     scale of alien presence some abduction tales imply.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -460,7 +460,7 @@ references:
     scale suggested by some of the bleaker alien abduction tales.
   claim_id: b102840e-e445-4726-aab6-1aa822a18c89
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b102840e-e445-4726-aab6-1aa822a18c89
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b102840e-e445-4726-aab6-1aa822a18c89
 - text: Chalker felt DNA breakthrough prospects were small but that forensic approaches
     still had scientific value.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -470,7 +470,7 @@ references:
     would come as a breath of scientific fresh air.
   claim_id: 4567fb82-fcf1-4bc5-8811-0643df3f89ed
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4567fb82-fcf1-4bc5-8811-0643df3f89ed
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4567fb82-fcf1-4bc5-8811-0643df3f89ed
 - text: Chalker believed researchers should cooperate on a DNA profiling testing programme.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch21:1529-1616
@@ -478,7 +478,7 @@ references:
     on DNA profiling.
   claim_id: 91c84ef3-82f0-49e5-a95e-5f6e58ca9b99
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-91c84ef3-82f0-49e5-a95e-5f6e58ca9b99
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-91c84ef3-82f0-49e5-a95e-5f6e58ca9b99
 - text: Chalker believed testing legitimate samples could validate unusual DNA anomalies
     found in abduction cases.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -487,7 +487,7 @@ references:
     for validation of the unusual anomalies found to date.
   claim_id: 776ce7e6-c02a-4877-9275-49eb4ddd3add
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
 - text: The Anomaly Physical Evidence Group (APEG) was formed to focus on biological
     strategies in abduction investigation.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -496,7 +496,7 @@ references:
     investigations.
   claim_id: f0c7abf1-696d-4eae-9b19-ad2ca21efecf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f0c7abf1-696d-4eae-9b19-ad2ca21efecf
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f0c7abf1-696d-4eae-9b19-ad2ca21efecf
 - text: Chalker regards the 1993 Kelly Cahill case as one of the few compelling exceptions
     to abduction's usual ambiguity.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -505,7 +505,7 @@ references:
     pervade the alien abduction experience is the 1993 Kelly Cahill case.
   claim_id: 57496389-2436-4435-8f25-bdef77d2a853
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57496389-2436-4435-8f25-bdef77d2a853
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57496389-2436-4435-8f25-bdef77d2a853
 - text: Harvard University research in 2002-2003 reignited psychological-mechanism
     explanations for abduction reports.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -515,7 +515,7 @@ references:
     reports.
   claim_id: 4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
 - text: A Clancy and McNally paper examined false-memory creation in people reporting
     recovered abduction memories.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -526,7 +526,7 @@ references:
     Journal of Abnormal Psychology.'
   claim_id: 17b18c25-50af-46cc-880c-3d20eaa1d86f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-17b18c25-50af-46cc-880c-3d20eaa1d86f
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-17b18c25-50af-46cc-880c-3d20eaa1d86f
 - text: 'The study compared three groups: recovered-memory abductees, no-memory believers,
     and deniers.'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -537,7 +537,7 @@ references:
     abducted by aliens."'
   claim_id: 7a89b3d4-229a-4376-b402-f6b175c53ee7
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7a89b3d4-229a-4376-b402-f6b175c53ee7
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7a89b3d4-229a-4376-b402-f6b175c53ee7
 - text: The recovered/repressed-memory group was more prone to false recall and recognition
     than controls.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -546,7 +546,7 @@ references:
     more prone than control participants to exhibit false recall and recognition.'
   claim_id: 5fe02dd8-a2c1-459d-af35-4a33e2877b56
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5fe02dd8-a2c1-459d-af35-4a33e2877b56
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5fe02dd8-a2c1-459d-af35-4a33e2877b56
 - text: Hypnotic suggestibility, depressive symptoms and schizotypic features predicted
     false recall/recognition.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -555,7 +555,7 @@ references:
     significant predictors of false recall and false recognition."
   claim_id: 4c9f458b-0f29-4af7-a895-ee653b71ec68
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c9f458b-0f29-4af7-a895-ee653b71ec68
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c9f458b-0f29-4af7-a895-ee653b71ec68
 - text: No participant reported continuous, never-forgotten memories of abduction.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:21468-21604
@@ -563,7 +563,7 @@ references:
     abduction (i.e., memories of alien abduction that were never forgotten)… .'
   claim_id: 2709f2e6-a8d0-476a-b1e5-ca66a9ecec5c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2709f2e6-a8d0-476a-b1e5-ca66a9ecec5c
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2709f2e6-a8d0-476a-b1e5-ca66a9ecec5c
 - text: Memories were recovered either in therapy or spontaneously via books, films
     or television.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -573,7 +573,7 @@ references:
     or seeing television shows depicting such episodes."
   claim_id: c97910f9-5b9f-4074-b683-753c11235ebd
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c97910f9-5b9f-4074-b683-753c11235ebd
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c97910f9-5b9f-4074-b683-753c11235ebd
 - text: Chalker counters that many abductees' memories are not hypnosis-derived but
     clearly recollected.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -584,7 +584,7 @@ references:
     recall.
   claim_id: da5e2574-6eaf-41a6-9643-292205d7d889
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-da5e2574-6eaf-41a6-9643-292205d7d889
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-da5e2574-6eaf-41a6-9643-292205d7d889
 - text: Robert Shapiro rejects UFO and abduction stories as credible evidence for
     extraterrestrial life.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -593,7 +593,7 @@ references:
     as credible evidence for extraterrestrial life
   claim_id: 4bcf7f91-fbb1-4092-8d38-29d163f397f2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4bcf7f91-fbb1-4092-8d38-29d163f397f2
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4bcf7f91-fbb1-4092-8d38-29d163f397f2
 - text: Hopkins says abductees typically describe humanoids ranging from about 0.9
     to nearly 1.5 metres tall.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -603,7 +603,7 @@ references:
     from very small three feet or so to maybe up to almost five feet
   claim_id: 77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
 - text: Hopkins says memory suppression of abductions appears imperfect, sometimes
     leaving partial recall.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -614,7 +614,7 @@ references:
     seem to be able to block the memory but not always exactly
   claim_id: 7b89acaf-87c3-426b-a5de-826e7f42b416
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
 - text: One abductee had two hours of missing time but then forgot an entire following
     week.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -625,7 +625,7 @@ references:
     went to work he came home his family were in touch with him
   claim_id: 41b92e0a-b26b-472a-bb1b-002de1bb5282
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-41b92e0a-b26b-472a-bb1b-002de1bb5282
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-41b92e0a-b26b-472a-bb1b-002de1bb5282
 - text: A scoop mark with a straight-line cut was found on a woman's leg from an event
     at about age four.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -636,7 +636,7 @@ references:
     this occurred when she was about four living in France.
   claim_id: 5d72ccaa-2188-400d-8be7-d4d69194cc83
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-5d72ccaa-2188-400d-8be7-d4d69194cc83
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-5d72ccaa-2188-400d-8be7-d4d69194cc83
 - text: Psychological testing of abductees found deficit patterns similar to those
     found in rape victims.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -647,7 +647,7 @@ references:
     victims
   claim_id: 035cf1fd-564a-48c9-9b96-8f349dd0cc71
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-035cf1fd-564a-48c9-9b96-8f349dd0cc71
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-035cf1fd-564a-48c9-9b96-8f349dd0cc71
 - text: Tested abductees showed lowered self-esteem, fear of the outer world, and
     lack of bodily trust.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -657,7 +657,7 @@ references:
     and a sense of not trusting their own bodies, their own physicality.
   claim_id: 7b66391f-d401-4621-b3a6-3342548ee93c
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b66391f-d401-4621-b3a6-3342548ee93c
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b66391f-d401-4621-b3a6-3342548ee93c
 - text: Hopkins believes abductees are tracked by genetic lineage across generations
     of a bloodline.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -669,7 +669,7 @@ references:
     way...they definitely seem to lock on to people who are in a certain bloodline
   claim_id: e313c90c-7e86-4776-ae28-7865ec3801ad
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
 - text: A woman's drawing depicted a nursery facility with an adult figure and a foetus-like
     being in a tank.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -681,7 +681,7 @@ references:
     thing...the little tank is the object in which the thing was floated
   claim_id: ddfb62ca-41ea-4c80-8a42-81773eee82e1
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
 - text: Hopkins is convinced at least three people were driven to suicide by abduction
     experiences.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -691,7 +691,7 @@ references:
     was tipped over the edge into suicide because of their UFO experiences.
   claim_id: f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
 - text: Hopkins believes the phenomenon may involve hundreds of thousands of people,
     possibly more.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -701,7 +701,7 @@ references:
     people maybe larger numbers than that
   claim_id: 7e3a087e-a100-440d-ba17-f0707b5b2cc2
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
-  workbench_url: http://localhost:5173/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
+  workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
 - text: The Ambient Monitoring Project had an abductee keep a daily journal matched
     against recorded physical data.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -712,7 +712,7 @@ references:
     at those times when a person thinks that she may have been abducted
   claim_id: f5a1c573-c6fa-4e11-a5bb-3be4efc73744
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f5a1c573-c6fa-4e11-a5bb-3be4efc73744
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f5a1c573-c6fa-4e11-a5bb-3be4efc73744
 - text: Strieber's own alleged abduction accounts began at his upstate New York cabin
     in December 1985.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -722,7 +722,7 @@ references:
     remote cabin in upstate New York in December 1985
   claim_id: 3f0c5ae3-2f73-40be-ad1e-3102858cd58e
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
 - text: Under hypnosis by Donald Klein, Strieber recalled an abduction rather than
     an assault by masked people.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -733,7 +733,7 @@ references:
     thought.
   claim_id: 116d5684-c0d2-418c-8c29-a63842866719
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
 - text: The hypnosis session was one of the most shocking moments of Strieber's life,
     revealing a childhood pattern.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -744,7 +744,7 @@ references:
     until after the abduction experience.
   claim_id: abea08ef-8db2-4738-9e0e-48252aaf3651
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-abea08ef-8db2-4738-9e0e-48252aaf3651
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-abea08ef-8db2-4738-9e0e-48252aaf3651
 - text: Ross Coulthart calls Strieber a controversial, leading figure in experiencer
     close-encounter research.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -754,7 +754,7 @@ references:
     experiencer close encounters
   claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
 - text: Coulthart characterises implants, an attempt to abduct Strieber's son, and
     taking his sperm as unfriendly.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -767,7 +767,7 @@ references:
     trauma, severe trauma. By any definition, this is bloody unfriendly.
   claim_id: 69e70832-b560-41eb-93a7-d8a312a723ae
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-69e70832-b560-41eb-93a7-d8a312a723ae
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-69e70832-b560-41eb-93a7-d8a312a723ae
 - text: Andrew Strieber no longer has encounter experiences and does not remember
     that part of his childhood.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -777,7 +777,7 @@ references:
     this stuff.
   claim_id: 205c8a6e-3591-4017-ac7d-7dc52ceea05a
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-205c8a6e-3591-4017-ac7d-7dc52ceea05a
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-205c8a6e-3591-4017-ac7d-7dc52ceea05a
 - text: Nanstiel expresses hatred toward the Greys over being shown children he can
     never touch or know.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -788,7 +788,7 @@ references:
     makes me shake with anger. You know, I hate these people. I hate them.
   claim_id: 5aefe718-a911-49cb-9c10-a0822a876cc5
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5aefe718-a911-49cb-9c10-a0822a876cc5
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5aefe718-a911-49cb-9c10-a0822a876cc5
 - text: Nanstiel realised childhood orbs were connected to his abductions after an
     Ancient Aliens/AlienCon episode.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -799,7 +799,7 @@ references:
     they were, they also had abduction encounters. So they saw orbs
   claim_id: 8ee4bcc1-6e04-4479-94e1-0147441ec243
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
 - text: Nanstiel believes the beings return every 20 years for a four-year rotation
     of frequent encounters.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -811,7 +811,7 @@ references:
     over a four-year period... And then 20 years off and then it happens again.
   claim_id: 788396e0-8702-4314-b96e-1dc060aae516
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-788396e0-8702-4314-b96e-1dc060aae516
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-788396e0-8702-4314-b96e-1dc060aae516
 - text: Ramsay says many abductees maintain the phenomenon is still happening despite
     reduced coverage.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -822,7 +822,7 @@ references:
     this is ongoing. This is still happening today.
   claim_id: 25a0a273-2220-4a77-97d2-fa6b3f71d8f9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-25a0a273-2220-4a77-97d2-fa6b3f71d8f9
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-25a0a273-2220-4a77-97d2-fa6b3f71d8f9
 - text: Nanstiel maintains his abductions were always physical, citing physical symptoms
     afterwards.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -831,7 +831,7 @@ references:
   quote: no i had physical symptoms afterwards... no they were always physical
   claim_id: b5bbd0d5-41ad-41cf-afd6-925153f16fff
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
 - text: During encounters Nanstiel could move his head but not his body.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -840,7 +840,7 @@ references:
     my body
   claim_id: 5ae2c6b1-0c8e-416a-b5f3-47c16a7181d6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5ae2c6b1-0c8e-416a-b5f3-47c16a7181d6
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5ae2c6b1-0c8e-416a-b5f3-47c16a7181d6
 - text: Nanstiel was once forced to have intercourse during an abduction, an event
     omitted from his book.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -851,7 +851,7 @@ references:
     control over your actions
   claim_id: f8a3cad2-0c11-4303-a509-c3f117e46c03
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f8a3cad2-0c11-4303-a509-c3f117e46c03
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f8a3cad2-0c11-4303-a509-c3f117e46c03
 - text: Nanstiel argues 'abduction' fails to capture the total loss of agency the
     Greys impose.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -863,7 +863,7 @@ references:
     everything from you.
   claim_id: 552bbc0c-7d0d-4334-9669-546c959a8e5d
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-552bbc0c-7d0d-4334-9669-546c959a8e5d
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-552bbc0c-7d0d-4334-9669-546c959a8e5d
 - text: 'Jesse Michels: an experiencer at a meeting in Going Within claimed a hybrid
     programme and a missing foetus.'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -873,7 +873,7 @@ references:
     missing three months in.
   claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ef4a09d0-8187-4dd0-844f-8cb32c0bd023
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ef4a09d0-8187-4dd0-844f-8cb32c0bd023
 - text: Michels says a foetus missing around three months is a commonly reported element
     of the abduction narrative.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -882,7 +882,7 @@ references:
     in the abduction thread.
   claim_id: 8eae81cb-ab91-4418-8b49-4430f9754423
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8eae81cb-ab91-4418-8b49-4430f9754423
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8eae81cb-ab91-4418-8b49-4430f9754423
 - text: Mossbridge proposes reported visitations may be inserted memories rather than
     physical events.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -893,7 +893,7 @@ references:
     because if you understand the informational substrate you can do those insertions
   claim_id: 77fc8b03-4693-4d98-8030-2ad1bb637809
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-77fc8b03-4693-4d98-8030-2ad1bb637809
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-77fc8b03-4693-4d98-8030-2ad1bb637809
 - text: Mossbridge says telepathy features in every account she has encountered of
     abduction.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -903,7 +903,7 @@ references:
     experiences.
   claim_id: 7e11d824-ca27-4dd6-a032-7a14ddf32a36
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7e11d824-ca27-4dd6-a032-7a14ddf32a36
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7e11d824-ca27-4dd6-a032-7a14ddf32a36
 - text: Ramsay describes reported encounters as consistently marked by familiarity,
     love, compassion and calm.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -916,7 +916,7 @@ references:
     of love and compassion, like they mean you no harm.
   claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-158c07c9-64d7-4503-9d83-e23fd54c5ea9
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-158c07c9-64d7-4503-9d83-e23fd54c5ea9
 - text: Ramsay says sleep paralysis symptoms resemble abduction experiences, a fair
     assumption for some cases.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -927,7 +927,7 @@ references:
     are symptoms of sleep paralysis
   claim_id: 388cea29-a282-4323-9887-20c5c6ab2035
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-388cea29-a282-4323-9887-20c5c6ab2035
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-388cea29-a282-4323-9887-20c5c6ab2035
 - text: Ramsay argues the profit-motive dismissal is invalid given the many unpublished
     tellers of the same story.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -938,7 +938,7 @@ references:
     so you know that argument for me isn't valid at all
   claim_id: d1b29fa2-39c7-4cb5-93eb-2c9f18b09b38
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-d1b29fa2-39c7-4cb5-93eb-2c9f18b09b38
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-d1b29fa2-39c7-4cb5-93eb-2c9f18b09b38
 - text: Lawlor sees the extraterrestrial explanation as playing into Western evolutionary
     vanities.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -947,7 +947,7 @@ references:
     worldview of the Western world
   claim_id: 7de3b8a4-5563-4fbf-86a9-7f441a00c33e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7de3b8a4-5563-4fbf-86a9-7f441a00c33e
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7de3b8a4-5563-4fbf-86a9-7f441a00c33e
 - text: Lawlor suggests modern abduction reports may partly reflect industrial or
     electromagnetic effects on perception.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -957,7 +957,7 @@ references:
     pollution on our neural perception modalities
   claim_id: 733b876c-bbdc-4d00-a25f-0bf4b00de1cf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-733b876c-bbdc-4d00-a25f-0bf4b00de1cf
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-733b876c-bbdc-4d00-a25f-0bf4b00de1cf
 - text: Chalker argues for revisiting links between Tuatha de Danann/fairy folklore
     and modern abduction lore.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -966,7 +966,7 @@ references:
     the Tuatha legends, fairy folklore, and modern-day alien abduction lore.
   claim_id: a31c4371-7498-4d53-b60f-b086287e96ff
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a31c4371-7498-4d53-b60f-b086287e96ff
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a31c4371-7498-4d53-b60f-b086287e96ff
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

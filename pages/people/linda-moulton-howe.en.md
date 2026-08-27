@@ -56,14 +56,14 @@ references:
     on April 8, 1995.
   claim_id: 092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
-  workbench_url: http://localhost:5173/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
+  workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
 - text: Interview took place 1995-04-08 in Las Vegas, Nevada, 12:24 to 17:13
   source: Project Serpo
   location: char:2711-2784
   quote: 'on April 8, 1995. Location: Las Vegas, NV. Time frame: 1224 hrs - 1713 hrs.'
   claim_id: 62074953-9f23-4753-aa8e-eed39f40e94f
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
-  workbench_url: http://localhost:5173/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-62074953-9f23-4753-aa8e-eed39f40e94f
+  workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-62074953-9f23-4753-aa8e-eed39f40e94f
 - text: Written agreement kept the interview contents private
   source: Project Serpo
   location: char:1710-1821
@@ -71,7 +71,7 @@ references:
     of the interview could NOT be made public.
   claim_id: 3ac25e82-232c-421b-8a14-ff846d88768c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
-  workbench_url: http://localhost:5173/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3ac25e82-232c-421b-8a14-ff846d88768c
+  workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3ac25e82-232c-421b-8a14-ff846d88768c
 - text: 2019 TTSA SEC filing recorded that Howe had held and studied the Art's Parts
     samples
   source: In Plain Sight
@@ -81,7 +81,7 @@ references:
     origin'.
   claim_id: ad2420a8-5948-484e-ab71-438f009534f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad2420a8-5948-484e-ab71-438f009534f7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad2420a8-5948-484e-ab71-438f009534f7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad2420a8-5948-484e-ab71-438f009534f7
 - text: Howe says the bismuth/magnesium samples will levitate in the right magnetic
     field
@@ -92,7 +92,7 @@ references:
     will levitate if it is hit with the right magnetic field, an anti-gravity effect.
   claim_id: cde57871-30e0-4600-8925-7e43d6192d40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde57871-30e0-4600-8925-7e43d6192d40
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde57871-30e0-4600-8925-7e43d6192d40
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde57871-30e0-4600-8925-7e43d6192d40
 - text: A university scientist found a sample sent by Howe was 99 per cent aluminium
   source: In Plain Sight
@@ -101,7 +101,7 @@ references:
     US university for analysis, who confirmed they were 99 per cent aluminium.
   claim_id: a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
 - text: Howe's website describes a piece as bismuth/magnesium zinc from a wedge-shaped
     UFO near White Sands
@@ -111,7 +111,7 @@ references:
     UFO in late 1940s near White Sands Proving Ground, New Mexico''.'
   claim_id: 0e8a73c4-8820-4f3b-83fc-94b67d12c25c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
 - text: New Jersey exotic metals manufacturer told Howe such layering is not industrially
     achievable
@@ -122,7 +122,7 @@ references:
     process. 'It can't be done!' she was told. 'The layers won't bond with each other.'
   claim_id: 14004d06-6025-47ca-921e-c6f250a9a0ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
 - text: Unnamed scientist quoted by Howe speculated on a fractal wave pattern in the
     layers
@@ -133,7 +133,7 @@ references:
     construction perhaps to better resonate with a specific frequency'.
   claim_id: 6c490d29-5849-417f-8b70-cde4050412fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c490d29-5849-417f-8b70-cde4050412fd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c490d29-5849-417f-8b70-cde4050412fd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c490d29-5849-417f-8b70-cde4050412fd
 - text: 'Puthoff''s 2012 letter: field tests produced no anomalous result'
   source: In Plain Sight
@@ -144,7 +144,7 @@ references:
     outcome in the tests involving the application of various fields'.
   claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
 - text: 'Puthoff''s 2012 letter: lacked equipment to test at 4.76-5.66 terahertz'
   source: In Plain Sight
@@ -154,7 +154,7 @@ references:
     with the required much higher frequency of 4.76–5.66 terahertz.
   claim_id: f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
 - text: Coulthart on the 1996 letter's likely addressee and possible Howe/Bell collaborator
   source: In Plain Sight
@@ -164,7 +164,7 @@ references:
     results of scientific tests.
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
 - text: Coulthart suspects the letter was forwarded to Edgar Mitchell by Howe or Bell
   source: In Plain Sight
@@ -174,7 +174,7 @@ references:
     of the scientist by deleting a lot of the identifying information in the document.
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2248f7a6-452a-4431-9493-e12fee5807d0
 - text: Howe received a phone call from the anonymous army sergeant letter writer
   source: In Plain Sight
@@ -184,7 +184,7 @@ references:
     East, 'and wanted me to know in case he didn't make it back alive'.
   claim_id: cd0cbc60-c268-46de-b5d5-7f1870cec471
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
 - text: C-130 lightning crash predates the sergeant's letters to Bell and Howe by
     18 years
@@ -196,7 +196,7 @@ references:
     sergeant wrote his letter to Art Bell and Linda Moulton Howe.
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36d39e48-8642-4594-8f45-e75651455626
 - text: 'Strieber: Howe reported no blood found at the 1979 Elsie mutilation site'
   source: The Fourth Mind
@@ -205,7 +205,7 @@ references:
     the extensive nature of the mutilation.
   claim_id: a11b002f-b723-48bf-bf54-b14c9203e577
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a11b002f-b723-48bf-bf54-b14c9203e577
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a11b002f-b723-48bf-bf54-b14c9203e577
 - text: 'Nanstiel: mutilated animals found exsanguinated, tissue removed with high-heat
     tools'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -217,7 +217,7 @@ references:
     like a laser of some kind.
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
 - text: 'Nanstiel: big-nosed Greys as Sumerian-gods engineering emissaries, discussed
     by Howe in a documentary'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -228,7 +228,7 @@ references:
     Uh, I think they were engineering, uh, emissaries
   claim_id: b8aef0dc-f5a8-4f5c-baa9-c97890a16c87
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b8aef0dc-f5a8-4f5c-baa9-c97890a16c87
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b8aef0dc-f5a8-4f5c-baa9-c97890a16c87
 - text: Malin's response to Howe's question about the Cydonia imaging delay
   source: Dark Mission
   location: ch13:4669-4863
@@ -237,7 +237,7 @@ references:
     I’m sorry, that’s the reality of the thing.”
   claim_id: 351354f4-aa92-4e38-aba4-c32ac522bdcb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-351354f4-aa92-4e38-aba4-c32ac522bdcb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-351354f4-aa92-4e38-aba4-c32ac522bdcb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

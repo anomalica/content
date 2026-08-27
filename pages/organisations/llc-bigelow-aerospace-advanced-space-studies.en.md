@@ -45,7 +45,7 @@ references:
     owned by former hotel magnate Robert Bigelow...'
   claim_id: 70f2b459-68d3-4b27-b0da-bb9d78d67724
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70f2b459-68d3-4b27-b0da-bb9d78d67724
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70f2b459-68d3-4b27-b0da-bb9d78d67724
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-70f2b459-68d3-4b27-b0da-bb9d78d67724
 - text: BAASS was the primary contractor firm for AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -56,7 +56,7 @@ references:
     Skinwalker Ranch.
   claim_id: d2a59530-ddb1-484f-846f-bed27dbb968d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d2a59530-ddb1-484f-846f-bed27dbb968d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d2a59530-ddb1-484f-846f-bed27dbb968d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d2a59530-ddb1-484f-846f-bed27dbb968d
 - text: BAASS initially won the contract covering AAWSAP/AATIP work
   source: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP;
@@ -66,7 +66,7 @@ references:
     initially won the contract
   claim_id: f3bb0a7a-8872-40bb-beb8-b9c0735620f7
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-f3bb0a7a-8872-40bb-beb8-b9c0735620f7
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-f3bb0a7a-8872-40bb-beb8-b9c0735620f7
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-f3bb0a7a-8872-40bb-beb8-b9c0735620f7
 - text: Much of the Pentagon funding for the UAP investigation went to Bigelow's company
   source: In Plain Sight
@@ -75,7 +75,7 @@ references:
     Advanced Space Studies (BAASS).
   claim_id: 7201f205-c587-409e-baf3-a92002347e74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7201f205-c587-409e-baf3-a92002347e74
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7201f205-c587-409e-baf3-a92002347e74
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7201f205-c587-409e-baf3-a92002347e74
 - text: Bigelow hired scientists who had earlier worked on his National Institute
     for Discovery Science investigations
@@ -85,7 +85,7 @@ references:
     decade-long National Institute for Discovery Science investigations.
   claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
 - text: Colm Kelleher, a biochemist, was BAASS's deputy administrator during AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -94,7 +94,7 @@ references:
     AAWSAP
   claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
 - text: In 2009 Harry Reid sought Special Access Program status for AATIP after BAASS
     investigators traced secret project codenames
@@ -107,7 +107,7 @@ references:
     attempting to re-engineer recovered alien technology.
   claim_id: b6aac8b7-ad7e-440d-a214-67a75d930903
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6aac8b7-ad7e-440d-a214-67a75d930903
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6aac8b7-ad7e-440d-a214-67a75d930903
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b6aac8b7-ad7e-440d-a214-67a75d930903
 - text: Eric Davis told George Knapp that recovered extra-terrestrial craft existed,
     information not yet revealed
@@ -118,7 +118,7 @@ references:
     craft, the information about which had not yet been revealed or published.
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
 - text: Elizondo said eyewitness identities were stripped before submission, but redacted
     reports were uploaded by AAWSAP chain of command rather than BAASS
@@ -130,7 +130,7 @@ references:
     government chain of command.
   claim_id: ce18a1af-e287-45f1-9134-34777fd4bf68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce18a1af-e287-45f1-9134-34777fd4bf68
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce18a1af-e287-45f1-9134-34777fd4bf68
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce18a1af-e287-45f1-9134-34777fd4bf68
 - text: The 2018 biological sample resembled others collected earlier by the BAASS
     team
@@ -140,7 +140,7 @@ references:
     Bigelow Aerospace Advanced Space Studies team.
   claim_id: a53a26a0-88b4-4e66-a751-4a02884239e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53a26a0-88b4-4e66-a751-4a02884239e6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53a26a0-88b4-4e66-a751-4a02884239e6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a53a26a0-88b4-4e66-a751-4a02884239e6
 built_by:
   model: claude-sonnet-5

@@ -419,7 +419,7 @@ references:
     Robert Naiman, MD'
   claim_id: e6fc8e28-b68d-4de0-b318-fc79562c1f4e
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e6fc8e28-b68d-4de0-b318-fc79562c1f4e
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e6fc8e28-b68d-4de0-b318-fc79562c1f4e
 - text: The Striebers owned a secluded log cabin in Ulster County where their primary
     experiences occurred
   source: Communion
@@ -428,7 +428,7 @@ references:
     is in this cabin that our primary experiences have taken place.
   claim_id: a848a977-ff98-4378-abba-315bdc8f2fd1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
 - text: The couple lived in a flat on West Fifty-fifth Street, Manhattan, from 1970
     to 1977
   source: Communion
@@ -437,7 +437,7 @@ references:
     of an old building on West Fifty-fifth Street in Manhattan.
   claim_id: 99617ee9-0831-4199-8fb4-3ad3056b8f26
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-99617ee9-0831-4199-8fb4-3ad3056b8f26
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-99617ee9-0831-4199-8fb4-3ad3056b8f26
 - text: A voice spoke through their stereo in April 1977
   source: Communion
   location: ch12:54305-54566
@@ -447,7 +447,7 @@ references:
     had just finished playing a record.
   claim_id: 6d4ac258-c46d-4339-9e09-7befbb62e9ba
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6d4ac258-c46d-4339-9e09-7befbb62e9ba
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6d4ac258-c46d-4339-9e09-7befbb62e9ba
 - text: The Striebers moved to a Greenwich Village co-op by January 1981
   source: Communion
   location: ch12:59433-59545
@@ -455,7 +455,7 @@ references:
     time to our present apartment in the Village.
   claim_id: 42d75aad-190f-4f55-91d0-c3a4bbbeeaba
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-42d75aad-190f-4f55-91d0-c3a4bbbeeaba
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-42d75aad-190f-4f55-91d0-c3a4bbbeeaba
 - text: The couple chose an Ecclesiastes motto when first married
   source: Communion
   location: ch14:113200-113374
@@ -464,14 +464,14 @@ references:
     is not quickly snapped."
   claim_id: 95003a23-0b6b-4288-b552-ca2581434627
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-95003a23-0b6b-4288-b552-ca2581434627
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-95003a23-0b6b-4288-b552-ca2581434627
 - text: Anne Strieber cross-stitched the motto
   source: Communion
   location: ch14:113385-113437
   quote: Anne cross-stitched it and it has been with us ever since.
   claim_id: d6210d3c-4563-47e8-a2b9-c001dbbc826d
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d6210d3c-4563-47e8-a2b9-c001dbbc826d
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d6210d3c-4563-47e8-a2b9-c001dbbc826d
 - text: Whitley Strieber hid his memories and sought help from Budd Hopkins
   source: Communion
   location: ch13:939-1102
@@ -480,7 +480,7 @@ references:
     less than nothing.
   claim_id: 9f3280a0-c922-4228-9d45-96bda0d5d584
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9f3280a0-c922-4228-9d45-96bda0d5d584
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9f3280a0-c922-4228-9d45-96bda0d5d584
 - text: Anne Strieber was first hypnotised on 1986-03-13 to recall October 4 and December
     26, 1985
   source: Communion
@@ -490,14 +490,14 @@ references:
     happened on those dates
   claim_id: 95775139-beaa-4e1e-bcf8-ffc48693800f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-95775139-beaa-4e1e-bcf8-ffc48693800f
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-95775139-beaa-4e1e-bcf8-ffc48693800f
 - text: The session was conducted by Robert Naiman
   source: Communion
   location: ch13:3041-3094
   quote: On March 13, 1986, Anne was hypnotized by Dr. Robert Naiman.
   claim_id: 795cf21b-3cf8-4cab-b3fb-4bb7e500ebb6
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-795cf21b-3cf8-4cab-b3fb-4bb7e500ebb6
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-795cf21b-3cf8-4cab-b3fb-4bb7e500ebb6
 - text: Budd Hopkins' questions were identified separately from Naiman's
   source: Communion
   location: ch13:4102-4237
@@ -505,14 +505,14 @@ references:
     with his name. All other questions were asked by Dr. Naiman.
   claim_id: 70f5f0eb-c77a-4ddb-a8ac-eeba9baee07c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-70f5f0eb-c77a-4ddb-a8ac-eeba9baee07c
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-70f5f0eb-c77a-4ddb-a8ac-eeba9baee07c
 - text: Workmen were building a pool at the country house on July 30, 1985
   source: Communion
   location: ch13:7249-7303
   quote: '"What are they working on?" "Building the pool on the deck."'
   claim_id: 785b7e01-7fc5-4304-9fa6-d6c335458305
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-785b7e01-7fc5-4304-9fa6-d6c335458305
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-785b7e01-7fc5-4304-9fa6-d6c335458305
 - text: Her memory of the night of July 30 went blank before dinner
   source: Communion
   location: ch13:10249-10435
@@ -521,7 +521,7 @@ references:
     blank, as if powerfully blocked.
   claim_id: a590ad38-3bf1-4c90-beae-746133f8a7d3
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a590ad38-3bf1-4c90-beae-746133f8a7d3
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a590ad38-3bf1-4c90-beae-746133f8a7d3
 - text: Whitley Strieber drove to the cabin on October 4, 1985 with guests Sandulescu
     and Gottlieb
   source: Communion
@@ -530,7 +530,7 @@ references:
     of two close friends, Jacques Sandulescu and Annie Gottlieb.
   claim_id: cfe85d65-7de5-4b8a-bfc7-4d074f256e9e
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cfe85d65-7de5-4b8a-bfc7-4d074f256e9e
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cfe85d65-7de5-4b8a-bfc7-4d074f256e9e
 - text: She recalled a woman's voice mumbling, deeper than her own
   source: Communion
   location: 111-125
@@ -538,21 +538,21 @@ references:
     voice."'
   claim_id: 399ef6ad-a124-4308-ad8f-37668202c91a
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-399ef6ad-a124-4308-ad8f-37668202c91a
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-399ef6ad-a124-4308-ad8f-37668202c91a
 - text: She and Whitley Strieber both perceived an explosion that night
   source: Communion
   location: ch11:10655-10713
   quote: the explosion perceived by myself, my wife, Annie. and my son
   claim_id: 63d6e5d6-03b1-49f0-b093-3371c65b0dc0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-63d6e5d6-03b1-49f0-b093-3371c65b0dc0
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-63d6e5d6-03b1-49f0-b093-3371c65b0dc0
 - text: She recalled Whitley Strieber leaving their bed and going downstairs
   source: Communion
   location: ch13:21326-21351
   quote: '"Whitley kept going. Kept leaving."'
   claim_id: 2655579b-01be-4fd2-959b-4590d5ea6b72
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2655579b-01be-4fd2-959b-4590d5ea6b72
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2655579b-01be-4fd2-959b-4590d5ea6b72
 - text: She recalled hearing her son crying and screaming
   source: Communion
   location: ch13:45871-45946
@@ -560,7 +560,7 @@ references:
     screamed.
   claim_id: dac95f4b-1fd9-4067-96aa-2809da2de1b1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-dac95f4b-1fd9-4067-96aa-2809da2de1b1
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-dac95f4b-1fd9-4067-96aa-2809da2de1b1
 - text: She recalled Whitley Strieber's terrified, white-eyed face while screaming
   source: Communion
   location: ch13:46527-46603
@@ -568,7 +568,7 @@ references:
     white.
   claim_id: 44037e3b-fdd5-41b3-88d2-c629fb5e7e00
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-44037e3b-fdd5-41b3-88d2-c629fb5e7e00
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-44037e3b-fdd5-41b3-88d2-c629fb5e7e00
 - text: She called December 26, 1985 'the day of the owl'
   source: Communion
   location: ch13:30245-30320
@@ -576,7 +576,7 @@ references:
     the owl."'
   claim_id: fce105d8-4a04-4a22-8474-b3a37bf9e8aa
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-fce105d8-4a04-4a22-8474-b3a37bf9e8aa
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-fce105d8-4a04-4a22-8474-b3a37bf9e8aa
 - text: She recalled Whitley Strieber mentioning a crystal in the sky
   source: Communion
   location: ch13:30325-30440
@@ -584,14 +584,14 @@ references:
     sky. But that was before the owl."'
   claim_id: 5c9a0036-88c6-41ee-8a04-e3094d350baf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-5c9a0036-88c6-41ee-8a04-e3094d350baf
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-5c9a0036-88c6-41ee-8a04-e3094d350baf
 - text: She had no memories at all of the night of December 26, 1985
   source: Communion
   location: ch13:2584-2636
   quote: She had no memories at all of the night of December 26.
   claim_id: 4109f368-43a0-428b-9018-a92f2421217f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-4109f368-43a0-428b-9018-a92f2421217f
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-4109f368-43a0-428b-9018-a92f2421217f
 - text: She recalled being poked in the stomach at LaGuardia Place
   source: Communion
   location: ch13:33146-33309
@@ -599,7 +599,7 @@ references:
     not just one finger. It was — *oof!* ... Woke me right up."'
   claim_id: 8e803601-a21f-45f1-80c7-2550b18948b7
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8e803601-a21f-45f1-80c7-2550b18948b7
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8e803601-a21f-45f1-80c7-2550b18948b7
 - text: She described the little white thing's appearance
   source: Communion
   location: 341-373
@@ -607,14 +607,14 @@ references:
     tall as a four-year-old. It had little pointed feet." ... "No. Just kind of glowing."'
   claim_id: f51d7600-1156-451f-91ca-7282be03182d
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f51d7600-1156-451f-91ca-7282be03182d
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f51d7600-1156-451f-91ca-7282be03182d
 - text: Neither she nor her son showed physical injury from the incidents
   source: Communion
   location: ch12:62058-62115
   quote: Neither Anne nor our son showed any physical evidence of injury.
   claim_id: e696afc5-2824-4fbc-9ed8-a265d0ed7954
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e696afc5-2824-4fbc-9ed8-a265d0ed7954
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e696afc5-2824-4fbc-9ed8-a265d0ed7954
 - text: The March 17, 1986 session was her own initiative
   source: Communion
   location: ch13:41163-41252
@@ -622,7 +622,7 @@ references:
     this,'' I wouldn''t be here."'
   claim_id: 779cf5b6-410c-40e8-b10a-1a1ff1d134ff
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-779cf5b6-410c-40e8-b10a-1a1ff1d134ff
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-779cf5b6-410c-40e8-b10a-1a1ff1d134ff
 - text: Hopkins set a ground rule at the March 17 session
   source: Communion
   location: ch13:41327-41427
@@ -630,14 +630,14 @@ references:
     you think Whitley or I may want you to say."'
   claim_id: 8b912d4e-c90a-4e4b-a848-f538055489d5
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8b912d4e-c90a-4e4b-a848-f538055489d5
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8b912d4e-c90a-4e4b-a848-f538055489d5
 - text: She said 'Whitley's supposed to go. They came for Whitley.'
   source: Communion
   location: ch13:23720-23760
   quote: '"Whitley''s supposed to go. They came for Whitley."'
   claim_id: 61610890-b989-4e2b-96dc-b42639a25f5b
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-61610890-b989-4e2b-96dc-b42639a25f5b
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-61610890-b989-4e2b-96dc-b42639a25f5b
 - text: Naiman stated the date, March 21, 1986, for the recording
   source: Communion
   location: ch13:38878-39081
@@ -646,7 +646,7 @@ references:
     about her last visit here, which was a week ago today"'
   claim_id: 559067e8-f2f5-4be1-8c6d-5f0e0f071dd2
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-559067e8-f2f5-4be1-8c6d-5f0e0f071dd2
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-559067e8-f2f5-4be1-8c6d-5f0e0f071dd2
 - text: She recalled the screaming was Whitley Strieber, not their son
   source: Communion
   location: ch13:37715-37889
@@ -655,7 +655,7 @@ references:
     was me, not our son.
   claim_id: 516b0df8-20bc-4339-b51a-6f915d1f41d9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-516b0df8-20bc-4339-b51a-6f915d1f41d9
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-516b0df8-20bc-4339-b51a-6f915d1f41d9
 - text: She witnessed an apparition of a little girl on March 15, 1986
   source: Communion
   location: ch13:1753-1862
@@ -663,14 +663,14 @@ references:
     of the little girl at our country house.
   claim_id: d73c13c2-0f73-4cfe-be69-b69cad569778
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d73c13c2-0f73-4cfe-be69-b69cad569778
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d73c13c2-0f73-4cfe-be69-b69cad569778
 - text: Whitley Strieber's mouth would not open when trying to wake her
   source: Communion
   location: ch12:120207-120253
   quote: I tried to wake up Anne but my mouth wouldn't open.
   claim_id: 31d2f770-f14f-46bb-8a5d-226627c0518b
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-31d2f770-f14f-46bb-8a5d-226627c0518b
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-31d2f770-f14f-46bb-8a5d-226627c0518b
 - text: She laughed at the description of the painted suit
   source: Communion
   location: ch12:123762-123864
@@ -678,7 +678,7 @@ references:
     of the painted suit of aged design.
   claim_id: 24213188-6ecb-4580-a2ef-36c42ad48521
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-24213188-6ecb-4580-a2ef-36c42ad48521
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-24213188-6ecb-4580-a2ef-36c42ad48521
 - text: She developed a knot in her right nostril after March 15, 1986
   source: Communion
   location: ch12:30903-31016
@@ -686,7 +686,7 @@ references:
     his left I now developed one in my left nostril.
   claim_id: d74452cc-8f46-46cb-8740-872ea1d4ffe4
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d74452cc-8f46-46cb-8740-872ea1d4ffe4
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d74452cc-8f46-46cb-8740-872ea1d4ffe4
 - text: Whitley Strieber said Anne Strieber took over the intellectual direction of
     their study
   source: Communion
@@ -696,7 +696,7 @@ references:
     as her steadfast insistence that all speculation proceed from known facts
   claim_id: 4fcfb4e6-0f08-45a7-82df-8a3d2f8b1aaa
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-4fcfb4e6-0f08-45a7-82df-8a3d2f8b1aaa
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-4fcfb4e6-0f08-45a7-82df-8a3d2f8b1aaa
 - text: They researched UFO sightings in their area
   source: Communion
   location: ch9:37409-37549
@@ -704,7 +704,7 @@ references:
     that it is a hotbed of sightings, and has been for nearly half a century.
   claim_id: 264644e8-7499-4a00-ad5d-f66c312eee05
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-264644e8-7499-4a00-ad5d-f66c312eee05
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-264644e8-7499-4a00-ad5d-f66c312eee05
 - text: A being took interest in their nine-year-old son
   source: The Fourth Mind
   location: ch11:26950-27249
@@ -714,7 +714,7 @@ references:
     that had been spinning very quickly, but was now slowing down.
   claim_id: fde972a1-8b7b-4502-b5bc-262705a38b2c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fde972a1-8b7b-4502-b5bc-262705a38b2c
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fde972a1-8b7b-4502-b5bc-262705a38b2c
 - text: Their son was sent to summer camp after being taken from the house
   source: The Fourth Mind
   location: ch11:27469-27648
@@ -723,7 +723,7 @@ references:
     We sent him off to summer camp.
   claim_id: 2ad49410-3564-4e1c-b75b-3bf166c5802d
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2ad49410-3564-4e1c-b75b-3bf166c5802d
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2ad49410-3564-4e1c-b75b-3bf166c5802d
 - text: Whitley Strieber told Anne Strieber the whole story the next morning
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -733,7 +733,7 @@ references:
     what if anything actually happened?
   claim_id: 6dbdf53a-e6be-42f1-a939-c1ddc72c85fc
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6dbdf53a-e6be-42f1-a939-c1ddc72c85fc
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6dbdf53a-e6be-42f1-a939-c1ddc72c85fc
 - text: Anne Strieber proposed saying nothing to their son about the night
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -742,7 +742,7 @@ references:
     says.
   claim_id: 47c856b6-2a6f-4d0b-b08d-a0af5eab29c2
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-47c856b6-2a6f-4d0b-b08d-a0af5eab29c2
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-47c856b6-2a6f-4d0b-b08d-a0af5eab29c2
 - text: Andrew Strieber wrote a note and gave it to his mother
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -751,7 +751,7 @@ references:
     and wrote it, and silently gave it to his mother after breakfast.
   claim_id: c773d789-c84e-4f58-8da1-c7f58735c32f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-c773d789-c84e-4f58-8da1-c7f58735c32f
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-c773d789-c84e-4f58-8da1-c7f58735c32f
 - text: Anne Strieber had kept the note without Whitley Strieber's knowledge
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -761,7 +761,7 @@ references:
     realize she had.
   claim_id: 666b1913-93e6-4b3e-b69e-7518e4bb30a6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-666b1913-93e6-4b3e-b69e-7518e4bb30a6
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-666b1913-93e6-4b3e-b69e-7518e4bb30a6
 - text: The couple took a side trip to Roswell in 1988
   source: The Fourth Mind
   location: ch11:1211-1361
@@ -769,7 +769,7 @@ references:
     to Roswell to meet with witnesses, some of whom were still alive at that time.
   claim_id: 63df11cb-d372-4f21-8974-20791f0d823b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-63df11cb-d372-4f21-8974-20791f0d823b
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-63df11cb-d372-4f21-8974-20791f0d823b
 - text: They met Walter Haut at his home
   source: The Fourth Mind
   location: ch11:1594-1703
@@ -777,7 +777,7 @@ references:
     He described his work as base press officer
   claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-07fc1176-d7a9-473a-a4dc-bcdc2347771d
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-07fc1176-d7a9-473a-a4dc-bcdc2347771d
 - text: Haut's reply when Anne Strieber pressed him
   source: The Fourth Mind
   location: ch11:2798-2935
@@ -785,7 +785,7 @@ references:
     was something like, “If I couldn’t tell you, then I wouldn’t.”
   claim_id: 6347f10a-a363-402c-84d2-069da600c4e9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6347f10a-a363-402c-84d2-069da600c4e9
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6347f10a-a363-402c-84d2-069da600c4e9
 - text: Whitley Strieber described his love for his late wife
   source: The Fourth Mind
   location: ch14:1951-2088
@@ -793,7 +793,7 @@ references:
     that to this day enriches me, even all these years after her passing.
   claim_id: 16d93bdb-e557-48dc-80a5-edcba8fb91bb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-16d93bdb-e557-48dc-80a5-edcba8fb91bb
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-16d93bdb-e557-48dc-80a5-edcba8fb91bb
 - text: Letters after Communion's publication are archived at Rice University
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -802,7 +802,7 @@ references:
     are now, thank God, archived at Rice University, thanks to Anne's foresight.
   claim_id: 2c9e6cc7-e8c2-4746-ae7c-6b50e9529c0d
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2c9e6cc7-e8c2-4746-ae7c-6b50e9529c0d
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2c9e6cc7-e8c2-4746-ae7c-6b50e9529c0d
 - text: Whitley Strieber refers to communications from Anne Strieber since her death
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -812,7 +812,7 @@ references:
     passed, tragically. Whitley Strieber: Oh, yeah.'
   claim_id: 517f7ba7-d62d-4a63-91dc-9daba4792f00
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-517f7ba7-d62d-4a63-91dc-9daba4792f00
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-517f7ba7-d62d-4a63-91dc-9daba4792f00
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

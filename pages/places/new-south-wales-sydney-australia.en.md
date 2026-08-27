@@ -69,7 +69,7 @@ references:
     was here before us for a few years
   claim_id: 39e77cea-1cee-4dde-915e-035bfdf57f77
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-39e77cea-1cee-4dde-915e-035bfdf57f77
+  workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-39e77cea-1cee-4dde-915e-035bfdf57f77
 - text: Peter Khoury was twenty-four in 1988, living with his parents in a Sydney
     suburb.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -78,7 +78,7 @@ references:
     and family in a Sydney suburb.
   claim_id: d00f2e5e-5f12-4221-ab69-0a116b0a21f5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d00f2e5e-5f12-4221-ab69-0a116b0a21f5
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d00f2e5e-5f12-4221-ab69-0a116b0a21f5
 - text: Khoury's mother saw an unknown man in the family home some years before 1988.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:15115-15366
@@ -88,7 +88,7 @@ references:
     She found the room empty.
   claim_id: 395140b6-c6b6-446a-9886-a3211e0ede99
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-395140b6-c6b6-446a-9886-a3211e0ede99
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-395140b6-c6b6-446a-9886-a3211e0ede99
 - text: Khoury told Chalker about his 1988 abduction experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch9:454-645
@@ -97,7 +97,7 @@ references:
     fiancee, Vivian, in February of 1988.
   claim_id: e986c522-e0f1-4d82-9c67-8263d7bfa855
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e986c522-e0f1-4d82-9c67-8263d7bfa855
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e986c522-e0f1-4d82-9c67-8263d7bfa855
 - text: Two near-human females appeared suddenly to a young man in daylight in his
     Sydney bedroom in 1992.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -107,7 +107,7 @@ references:
     suddenly to a young man in daylight in his bedroom.
   claim_id: 2dcf3e72-8a13-4805-a4f4-b633a664f011
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2dcf3e72-8a13-4805-a4f4-b633a664f011
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2dcf3e72-8a13-4805-a4f4-b633a664f011
 - text: The second alleged visitor was reported to be Asian in appearance.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:19980-20115
@@ -115,7 +115,7 @@ references:
     though DNA evidence to that effect was not obtained until 1998.
   claim_id: 4b8c1d88-5a8b-4c9b-9955-d916f329ee6b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4b8c1d88-5a8b-4c9b-9955-d916f329ee6b
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4b8c1d88-5a8b-4c9b-9955-d916f329ee6b
 - text: Hair was collected from a Sydney suburb in July 1992 following the bedroom
     encounter.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -125,7 +125,7 @@ references:
     and two almost-human females in early daylight in his bedroom.
   claim_id: 80a2b931-cc5d-4579-848f-793568eab403
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-80a2b931-cc5d-4579-848f-793568eab403
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-80a2b931-cc5d-4579-848f-793568eab403
 - text: A clear, thin 15-centimetre head hair was recovered from the 23 July 1992
     encounter.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -135,7 +135,7 @@ references:
     recovery of a clear, thin head hair of length 15 cm.
   claim_id: 395e7ac7-7790-4af1-8924-f0bf269591e5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-395e7ac7-7790-4af1-8924-f0bf269591e5
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-395e7ac7-7790-4af1-8924-f0bf269591e5
 - text: Brian Woolch described the mark on Khoury's head as looking like a bullet
     hole.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -148,7 +148,7 @@ references:
     dig a hole in your leg to fake a story like that.
   claim_id: 75583af5-6733-472f-99d2-93aac24d2629
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-75583af5-6733-472f-99d2-93aac24d2629
+  workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-75583af5-6733-472f-99d2-93aac24d2629
 - text: A chief biochemist considered a fair-skinned Sydney donor possible but ruled
     it out given the DNA fits only a Chinese Mongoloid donor.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -159,7 +159,7 @@ references:
     of the hair.
   claim_id: 9ad45189-4712-4889-8a13-f2631fb10e6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9ad45189-4712-4889-8a13-f2631fb10e6d
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9ad45189-4712-4889-8a13-f2631fb10e6d
 - text: The rare DNA substitution, found in 4% of Taiwanese women, made a matching
     Chinese donor in Sydney implausible.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -169,7 +169,7 @@ references:
     Chinese woman here with thin, almost clear hair, having the same rare DNA
   claim_id: 35be1b05-3b3e-4d4c-8f1e-9761bf710370
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-35be1b05-3b3e-4d4c-8f1e-9761bf710370
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-35be1b05-3b3e-4d4c-8f1e-9761bf710370
 - text: The DNA results support Khoury's presence with two people carrying rare mtDNA
     not easily found in the Sydney region.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -179,7 +179,7 @@ references:
     found in the Sydney, Australia, region.
   claim_id: 84a8a6d4-61ec-48ff-acf0-3868e0258d2d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-84a8a6d4-61ec-48ff-acf0-3868e0258d2d
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-84a8a6d4-61ec-48ff-acf0-3868e0258d2d
 - text: The DNA results do not support prosaic processing errors or contamination.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:76215-76460
@@ -189,7 +189,7 @@ references:
     or contamination.
   claim_id: 809460d6-6482-4dd3-8f58-ecb997af047e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-809460d6-6482-4dd3-8f58-ecb997af047e
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-809460d6-6482-4dd3-8f58-ecb997af047e
 - text: UFOESA was based in Sydney and became a notable support-group manifestation
     in Australia.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -198,7 +198,7 @@ references:
     of the support group concept in Australia.
   claim_id: 76e8da5d-a291-4705-b6bb-6f50aa4d2e64
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-76e8da5d-a291-4705-b6bb-6f50aa4d2e64
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-76e8da5d-a291-4705-b6bb-6f50aa4d2e64
 - text: Jamie Leonarder was a welfare worker with a Sydney welfare agency supporting
     destitute and drug-dependent people.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -208,7 +208,7 @@ references:
     problems, destitute individuals, and other people on the fringe of society.
   claim_id: 92b26b56-e12d-4cc6-8827-4a3acab16e3c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-92b26b56-e12d-4cc6-8827-4a3acab16e3c
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-92b26b56-e12d-4cc6-8827-4a3acab16e3c
 - text: Chalker spoke to the 1976 New South Wales woman by phone and later interviewed
     her in Sydney.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -217,7 +217,7 @@ references:
     her extensively in person when she came to Sydney.
   claim_id: 4e693395-7013-4e33-b9aa-823edd8f9d77
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4e693395-7013-4e33-b9aa-823edd8f9d77
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4e693395-7013-4e33-b9aa-823edd8f9d77
 - text: The 1976 New South Wales encounter took place in late 1976, at midday, while
     the woman vacuumed her home.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -227,7 +227,7 @@ references:
     was vacuuming her home.
   claim_id: f9d1d6ff-3925-4e29-8af2-2dde587444c2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f9d1d6ff-3925-4e29-8af2-2dde587444c2
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f9d1d6ff-3925-4e29-8af2-2dde587444c2
 - text: Chalker relates that Strieber found only one worldwide case closely matching
     his own hair-related experience, from Australia.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -238,7 +238,7 @@ references:
     Australia.
   claim_id: 56cc100c-ffcf-4445-b24b-6507a871241c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-56cc100c-ffcf-4445-b24b-6507a871241c
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-56cc100c-ffcf-4445-b24b-6507a871241c
 - text: Harvard psychiatrist John Mack visited Australia in 1996 to research alien
     abduction.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -249,7 +249,7 @@ references:
     was inserted in his head.
   claim_id: 8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
 - text: To Chalker's knowledge, only one other possible alien-hair account emerged
     in Australia, in 1992 and 2001.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -258,7 +258,7 @@ references:
     Australia, in 1992 and 2001.
   claim_id: 4a1e1608-65f9-4000-a728-432b492c6157
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a1e1608-65f9-4000-a728-432b492c6157
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a1e1608-65f9-4000-a728-432b492c6157
 - text: Khoury lived alone for about five years and associated with a hardcore Sydney
     standover man who was later killed.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -269,7 +269,7 @@ references:
     Everyone knew him. He eventually was, um, taken out.
   claim_id: 36b7b52a-d34b-449b-9f30-b1d5fda915c7
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
-  workbench_url: http://localhost:5173/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-36b7b52a-d34b-449b-9f30-b1d5fda915c7
+  workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-36b7b52a-d34b-449b-9f30-b1d5fda915c7
 - text: The Nugan Hand Bank collapsed in scandal in Sydney in 1980 amid money-laundering
     and drug-smuggling allegations.
   source: In Plain Sight
@@ -278,7 +278,7 @@ references:
     of money laundering and drugs smuggling.
   claim_id: bec3a73f-5bf7-4480-be5c-4c6237754744
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bec3a73f-5bf7-4480-be5c-4c6237754744
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bec3a73f-5bf7-4480-be5c-4c6237754744
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bec3a73f-5bf7-4480-be5c-4c6237754744
 - text: James MacDonald said experienced private UFO investigating groups worked in
     Sydney, Melbourne and Tasmania.
@@ -291,7 +291,7 @@ references:
     with such outrageously absurd explanations
   claim_id: 6dad5000-716d-432a-ba79-921e0ca8bb12
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-6dad5000-716d-432a-ba79-921e0ca8bb12
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-6dad5000-716d-432a-ba79-921e0ca8bb12
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -209,7 +209,7 @@ references:
     in 1917.
   claim_id: bfd7d496-54e2-4845-a298-a734470877e1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bfd7d496-54e2-4845-a298-a734470877e1
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bfd7d496-54e2-4845-a298-a734470877e1
 - text: Three children encountered a woman in a glowing light at the Cova da Iria
     pasture and were asked to return monthly.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -221,7 +221,7 @@ references:
     return every month to the same spot.
   claim_id: 83475561-41eb-42b0-9199-7573954753f4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-83475561-41eb-42b0-9199-7573954753f4
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-83475561-41eb-42b0-9199-7573954753f4
 - text: The apparitions occurred near the small Portuguese town of Fatima.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -230,7 +230,7 @@ references:
     small Portuguese town
   claim_id: 1c665811-c6b5-42ea-879d-b29a7920d205
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1c665811-c6b5-42ea-879d-b29a7920d205
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1c665811-c6b5-42ea-879d-b29a7920d205
 - text: The first apparition took place on 1917-05-13.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -238,14 +238,14 @@ references:
   quote: The first apparition of the woman took place on May 13, 1917.
   claim_id: 38b8a983-f9ce-415d-b86d-07fa82a6684d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-38b8a983-f9ce-415d-b86d-07fa82a6684d
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-38b8a983-f9ce-415d-b86d-07fa82a6684d
 - text: The children reported seeing the apparition six times in all.
   source: American Cosmic
   location: ch5:20082-20139
   quote: The children reported seeing the apparition six times in all.
   claim_id: e5a45203-a86f-4881-899b-3c321b853c60
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e5a45203-a86f-4881-899b-3c321b853c60
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e5a45203-a86f-4881-899b-3c321b853c60
 - text: The events began with Lucia Santos and her cousins Jacinta and Francisco Marto
     seeing an angel in spring 1917.
   source: American Cosmic
@@ -254,7 +254,7 @@ references:
     Jacinta and Francisco Marto, who saw an angel in the spring of 1917.
   claim_id: 82706c31-faa6-409a-8dbf-342d6f15ffa2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82706c31-faa6-409a-8dbf-342d6f15ffa2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82706c31-faa6-409a-8dbf-342d6f15ffa2
 - text: Vallée dates the sequence to angelic apparitions to Lucia dos Santos two years
     earlier, a classical UFO sighting sequence.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -264,7 +264,7 @@ references:
     had begun two years previously with a fairly classical sequence of UFO sightings
   claim_id: 8a4a9b6f-a8f5-4ada-abc1-84611335f693
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8a4a9b6f-a8f5-4ada-abc1-84611335f693
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8a4a9b6f-a8f5-4ada-abc1-84611335f693
 - text: 'Crowd sizes across the apparitions grew: 3, 50, 4,500, 18,000, 30,000, 70,000.'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -273,7 +273,7 @@ references:
     3, 50, 4,500, 18,000, 30,000, 70,000.)'
   claim_id: 6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
 - text: At the second apparition, fifty witnesses watched the children kneel and appear
     transfigured.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -284,7 +284,7 @@ references:
     world, at the time of the observation.
   claim_id: 07ce3f2d-1651-4282-96c8-77e720bc7384
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-07ce3f2d-1651-4282-96c8-77e720bc7384
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-07ce3f2d-1651-4282-96c8-77e720bc7384
 - text: Lucia dos Santos, aged ten, addressed an unseen entity whose answers others
     could not hear.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -294,7 +294,7 @@ references:
     whose answers were not heard by others in the group.
   claim_id: bb8d634e-4800-4b23-ad82-fb2accd5d09b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bb8d634e-4800-4b23-ad82-fb2accd5d09b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bb8d634e-4800-4b23-ad82-fb2accd5d09b
 - text: An explosion was heard and a small cloud rose near the tree that became the
     focus of later apparitions.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -305,7 +305,7 @@ references:
     would center.
   claim_id: bcde1c98-24d9-419f-87cc-ff4ba494bb24
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bcde1c98-24d9-419f-87cc-ff4ba494bb24
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bcde1c98-24d9-419f-87cc-ff4ba494bb24
 - text: The third apparition, 13 July, drew 4,500 witnesses.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -314,7 +314,7 @@ references:
     hundred!
   claim_id: bd1762d1-2e47-40af-9c58-034c95422f9f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd1762d1-2e47-40af-9c58-034c95422f9f
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd1762d1-2e47-40af-9c58-034c95422f9f
 - text: Witnesses reported a buzzing sound, a dimmed sun, a whitish cloud, and a loud
     noise at the Lady's departure.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -325,7 +325,7 @@ references:
     departure.
   claim_id: 59a5194a-e517-4043-8598-3e108206b6d0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59a5194a-e517-4043-8598-3e108206b6d0
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59a5194a-e517-4043-8598-3e108206b6d0
 - text: The children were shown a vision of hell that terrified them.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -334,7 +334,7 @@ references:
     terrified them
   claim_id: 2f32e354-3db8-4c05-bfe6-8b9f25311a75
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2f32e354-3db8-4c05-bfe6-8b9f25311a75
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2f32e354-3db8-4c05-bfe6-8b9f25311a75
 - text: A prophecy said the war would end but a worse one would begin under Pius XI
     if offences against God continued.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -347,7 +347,7 @@ references:
     of the Church and of the Holy Father.
   claim_id: 6455616f-36f7-4b22-92c8-a8aeeb1d15b0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6455616f-36f7-4b22-92c8-a8aeeb1d15b0
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6455616f-36f7-4b22-92c8-a8aeeb1d15b0
 - text: The message asked for the consecration of Russia, warning of its errors spreading
     if unheeded.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -358,7 +358,7 @@ references:
     will spread her errors throughout the world.
   claim_id: 22f9f78f-42da-442d-9e3c-76132fb8bf8a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22f9f78f-42da-442d-9e3c-76132fb8bf8a
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22f9f78f-42da-442d-9e3c-76132fb8bf8a
 - text: On 13 August, 18,000 people gathered but the children were absent, having
     been jailed by a local official.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -369,7 +369,7 @@ references:
     a local official who had decided to put an end to this "nonsense."
   claim_id: 057e8faa-ade6-4ee1-b3c1-f5ed49d55560
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e8faa-ade6-4ee1-b3c1-f5ed49d55560
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e8faa-ade6-4ee1-b3c1-f5ed49d55560
 - text: In the children's absence a thunderclap and flash preceded a small cloud forming,
     hovering, and dissipating.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -380,7 +380,7 @@ references:
     then rose and melted away.
   claim_id: 7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
 - text: The sky's clouds turned crimson, then pink, yellow and blue.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -389,7 +389,7 @@ references:
     and blue.
   claim_id: eca2ec8c-b39f-4a90-b021-bde83436b7c5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-eca2ec8c-b39f-4a90-b021-bde83436b7c5
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-eca2ec8c-b39f-4a90-b021-bde83436b7c5
 - text: Witnesses reported 'falling flowers', an angel-hair phenomenon also linked
     to UFO sightings.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -400,7 +400,7 @@ references:
     as an ionization effect.
   claim_id: da7926ae-426e-4bcf-9747-1c28dc841ebd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da7926ae-426e-4bcf-9747-1c28dc841ebd
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da7926ae-426e-4bcf-9747-1c28dc841ebd
 - text: Manuel Pedro Marto testified under oath to seeing a luminous globe spinning
     through the clouds.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -412,7 +412,7 @@ references:
     13, 1917.
   claim_id: f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
 - text: On 19 August the temperature dropped and the sun turned yellowish with rainbow
     colours visible to nearby adults.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -424,7 +424,7 @@ references:
     visible to adults in the vicinity
   claim_id: 6fb3e19a-8eaa-4203-acec-a0d3191818b1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6fb3e19a-8eaa-4203-acec-a0d3191818b1
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6fb3e19a-8eaa-4203-acec-a0d3191818b1
 - text: A glowing light and an entity in white and gold asked for sacrifices before
     departing east with a roaring sound.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -437,7 +437,7 @@ references:
     slowly toward the east with a roaring sound!
   claim_id: c02b7572-63bf-42eb-8e52-076f650858d7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c02b7572-63bf-42eb-8e52-076f650858d7
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c02b7572-63bf-42eb-8e52-076f650858d7
 - text: At the fifth apparition, the 30,000-strong crowd included two skeptical priests.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -448,7 +448,7 @@ references:
     "miracles."
   claim_id: b68aa1a8-f6db-4bef-a3db-aa6742a01d35
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b68aa1a8-f6db-4bef-a3db-aa6742a01d35
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b68aa1a8-f6db-4bef-a3db-aa6742a01d35
 - text: At noon the sun dimmed and a globe of light advanced down the valley to rest
     on the tree.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -459,7 +459,7 @@ references:
     toward the children. It came to rest on the tree.
   claim_id: 637dd44c-a329-4eab-a58f-39cc65eeb4b7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-637dd44c-a329-4eab-a58f-39cc65eeb4b7
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-637dd44c-a329-4eab-a58f-39cc65eeb4b7
 - text: A white cloud formed and shiny white petals fell, shrinking and melting as
     they were caught.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -471,7 +471,7 @@ references:
     and hats to catch them they find that they have somehow melted away.
   claim_id: 7e9900a5-007d-43f3-bfda-aa07af74ec70
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e9900a5-007d-43f3-bfda-aa07af74ec70
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e9900a5-007d-43f3-bfda-aa07af74ec70
 - text: The promise of an October miracle was repeated before the globe rose and vanished
     into the sun.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -481,7 +481,7 @@ references:
     rose and disappeared into the sun.
   claim_id: bd9faf53-bc9e-4ab1-ba84-de4529031326
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd9faf53-bc9e-4ab1-ba84-de4529031326
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd9faf53-bc9e-4ab1-ba84-de4529031326
 - text: A skeptical priest said the globe was a heavenly vehicle carrying the Mother
     of God to this 'forbidden wasteland'.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -492,7 +492,7 @@ references:
     throne above to this forbidden wasteland."
   claim_id: 54a48852-a055-492f-9eb0-975d73170ec6
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54a48852-a055-492f-9eb0-975d73170ec6
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54a48852-a055-492f-9eb0-975d73170ec6
 - text: Vallée notes the 'forbidden wasteland' idea recurs among those exposed to
     such phenomena.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -502,7 +502,7 @@ references:
     a popular one among those who have been exposed to these phenomena.
   claim_id: 1daba3c7-ec12-4b8a-819d-84561c66a704
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1daba3c7-ec12-4b8a-819d-84561c66a704
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1daba3c7-ec12-4b8a-819d-84561c66a704
 - text: The final apparition, 13 October, drew a crowd of seventy thousand.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -511,7 +511,7 @@ references:
     numbered seventy thousand this time.
   claim_id: 7209a000-163c-4413-a913-c006892b5f65
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7209a000-163c-4413-a913-c006892b5f65
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7209a000-163c-4413-a913-c006892b5f65
 - text: The vision was preceded by a flash and fragrance; the crowd saw a change in
     the children's faces but no lady.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -523,7 +523,7 @@ references:
     children, enraptured by the vision.
   claim_id: ecaf50c4-ac6a-4256-ba98-37b02db8d057
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ecaf50c4-ac6a-4256-ba98-37b02db8d057
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ecaf50c4-ac6a-4256-ba98-37b02db8d057
 - text: Rain stopped, clouds parted, and the sun spun as a silver disc casting red,
     violet, blue and yellow light.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -537,7 +537,7 @@ references:
     of yellow and of other colors followed in succession."
   claim_id: 1ea54302-0e12-49ba-a3c8-198c0e88e08a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ea54302-0e12-49ba-a3c8-198c0e88e08a
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ea54302-0e12-49ba-a3c8-198c0e88e08a
 - text: The disc stopped spinning and fell in a zigzag toward the crowd before reversing
     and vanishing into the sun.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -548,7 +548,7 @@ references:
     spectators."...Finally the disk reverted its motion and disappeared into the sun
   claim_id: cb2ebf6b-b75f-4aa1-9307-15672507a43b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cb2ebf6b-b75f-4aa1-9307-15672507a43b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cb2ebf6b-b75f-4aa1-9307-15672507a43b
 - text: Afterwards the crowd's soaked clothes, the trees and the ground were found
     perfectly dry.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -558,7 +558,7 @@ references:
     the ground were perfectly dry.
   claim_id: b2ca7f84-c76a-42c2-b909-e1085cd81595
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b2ca7f84-c76a-42c2-b909-e1085cd81595
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b2ca7f84-c76a-42c2-b909-e1085cd81595
 - text: Garrett saw a thin bluish column of smoke rise briefly above the children
     before evaporating.
   source: American Cosmic
@@ -569,7 +569,7 @@ references:
     perfectly visible to the naked eye, lasted for a few seconds.
   claim_id: 659618d7-2e11-4caf-b35d-d56cb8e0b994
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-659618d7-2e11-4caf-b35d-d56cb8e0b994
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-659618d7-2e11-4caf-b35d-d56cb8e0b994
 - text: Garrett watched the crowd turn to a sharp-edged sun that could be looked at
     without discomfort.
   source: American Cosmic
@@ -583,7 +583,7 @@ references:
     the eyes or damaging the retina.
   claim_id: 3e7d2b81-c1e9-426f-8825-4166ae1e651e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3e7d2b81-c1e9-426f-8825-4166ae1e651e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3e7d2b81-c1e9-426f-8825-4166ae1e651e
 - text: Garrett described the sun spinning in a 'mad whirl' rather than remaining
     still.
   source: American Cosmic
@@ -593,7 +593,7 @@ references:
     in a mad whirl.
   claim_id: b1da4848-bf78-46be-9511-01f015f1e898
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b1da4848-bf78-46be-9511-01f015f1e898
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b1da4848-bf78-46be-9511-01f015f1e898
 - text: Garrett said everything he looked at took on an amethyst colour.
   source: American Cosmic
   location: ch5:25834-25979
@@ -601,7 +601,7 @@ references:
     afield as far as the horizon. I saw everything had assumed an amethyst color.
   claim_id: ab310e02-d301-4c17-9ea3-d7328d7bffc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab310e02-d301-4c17-9ea3-d7328d7bffc2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab310e02-d301-4c17-9ea3-d7328d7bffc2
 - text: Garrett saw the sun turn blood red and seem to advance threateningly, prompting
     a cry of anguish.
   source: American Cosmic
@@ -612,7 +612,7 @@ references:
     fiery weight.
   claim_id: 40bb0e3c-268c-424b-b4dc-76424e3c0a4d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-40bb0e3c-268c-424b-b4dc-76424e3c0a4d
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-40bb0e3c-268c-424b-b4dc-76424e3c0a4d
 - text: Garrett said he never observed similar phenomena before or after 13 October
     1917.
   source: American Cosmic
@@ -621,7 +621,7 @@ references:
     similar atmospheric or solar phenomena.
   claim_id: dcc69b6e-1b26-4a15-825d-69e3275d3334
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dcc69b6e-1b26-4a15-825d-69e3275d3334
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dcc69b6e-1b26-4a15-825d-69e3275d3334
 - text: The disc's edges were sharp and not blinding, though some saw the phenomenon
     darken enough for the moon and stars to appear.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -633,7 +633,7 @@ references:
     such an extent that at one point they could see the moon and the stars.
   claim_id: 7f877889-91b5-42df-84bb-d2a02e40bf73
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7f877889-91b5-42df-84bb-d2a02e40bf73
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7f877889-91b5-42df-84bb-d2a02e40bf73
 - text: Two witnesses using binoculars reported seeing a ladder and two entities.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -642,7 +642,7 @@ references:
     two entities.
   claim_id: e5a93a98-2960-4e54-a9f1-ba385403c72b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e5a93a98-2960-4e54-a9f1-ba385403c72b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e5a93a98-2960-4e54-a9f1-ba385403c72b
 - text: The phenomenon could not be photographed with the era's emulsions and shutter
     speeds.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -652,7 +652,7 @@ references:
     emulsions and shutter speeds commonly available at the time.
   claim_id: ccb239a7-102e-4c46-a003-d4d32e6e724c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ccb239a7-102e-4c46-a003-d4d32e6e724c
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ccb239a7-102e-4c46-a003-d4d32e6e724c
 - text: A widely reproduced 'Fatima miracle' photograph is actually an unrelated solar
     eclipse photograph.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -663,7 +663,7 @@ references:
     Fatima miracle.)
   claim_id: 78dfd0f6-0961-47af-a0ef-cea272fbf3df
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-78dfd0f6-0961-47af-a0ef-cea272fbf3df
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-78dfd0f6-0961-47af-a0ef-cea272fbf3df
 - text: Guilhermina Lopes da Silva, 16 miles away in Leiria, saw a great red flash
     at noon.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -675,7 +675,7 @@ references:
     red flash" in the sky.
   claim_id: ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
 - text: Afonso Lopes Vieira and family saw the brilliance thirty miles away at San
     Pedro de Muel.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -685,7 +685,7 @@ references:
     San Pedro de Muel, by Portuguese writer Afonso Vieira, his wife, and his mother-in-law).
   claim_id: da6cfc52-3a75-4990-80cf-663efbbe004f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da6cfc52-3a75-4990-80cf-663efbbe004f
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da6cfc52-3a75-4990-80cf-663efbbe004f
 - text: Albano Barros, aged 12, was too struck by the falling disc to recall what
     followed.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -697,7 +697,7 @@ references:
     whether I took the sheep home, whether I ran, or what I did."'
   claim_id: b727b211-b134-4a6a-9ef4-0be3a0fd6071
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b727b211-b134-4a6a-9ef4-0be3a0fd6071
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b727b211-b134-4a6a-9ef4-0be3a0fd6071
 - text: Farmer Manuel Francisco went home weeping.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -706,7 +706,7 @@ references:
     weeping.
   claim_id: 86846410-817d-427d-b04a-101498dc7849
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-86846410-817d-427d-b04a-101498dc7849
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-86846410-817d-427d-b04a-101498dc7849
 - text: A schoolboy witness at Alburitel later became a priest; Haffert interviewed
     him in 1960.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -718,7 +718,7 @@ references:
     of Alburitel, nine miles away from the Cova da Iria
   claim_id: 03da54cd-a85e-408d-b5a9-7de242948ad1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-03da54cd-a85e-408d-b5a9-7de242948ad1
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-03da54cd-a85e-408d-b5a9-7de242948ad1
 - text: Mr. Mendes told Haffert in 1960 that the event still dominated his interior
     life.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -730,7 +730,7 @@ references:
     myself to be dominated by that extraordinary event."'
   claim_id: 73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
 - text: Engineer Mario Godinho reported his mother's eye tumour was inexplicably cured
     at Cova da Iria.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -742,7 +742,7 @@ references:
     attended her said they could not explain such a cure.
   claim_id: 1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
 - text: The Church's 1930 ruling held the solar phenomenon was not natural, as no
     observatory registered it.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -753,7 +753,7 @@ references:
     classes
   claim_id: a16ed834-4ce8-4023-85fb-bd621184fa31
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a16ed834-4ce8-4023-85fb-bd621184fa31
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a16ed834-4ce8-4023-85fb-bd621184fa31
 - text: The 1930 ruling cited witnesses of all classes and journalists as ruling out
     collective illusion.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -764,7 +764,7 @@ references:
     persons some miles away. Facts which annul any explanation of collective illusion.
   claim_id: 75a17a81-e131-4a53-b846-6cd1bfa85f07
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-75a17a81-e131-4a53-b846-6cd1bfa85f07
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-75a17a81-e131-4a53-b846-6cd1bfa85f07
 - text: The Church approved the apparitions as worthy of belief as private, not public,
     revelation.
   source: American Cosmic
@@ -774,7 +774,7 @@ references:
     from “public revelation,” which is something Catholics are obligated to believe
   claim_id: f5546c0a-41f5-44d3-84c5-6f2482e80f5e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f5546c0a-41f5-44d3-84c5-6f2482e80f5e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f5546c0a-41f5-44d3-84c5-6f2482e80f5e
 - text: The apparition has official Church sanction, and several popes expressed devotion
     to Our Lady of Fatima.
   source: American Cosmic
@@ -784,7 +784,7 @@ references:
     is called.
   claim_id: 0f7c05bb-b127-4e33-a136-e631a844d496
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0f7c05bb-b127-4e33-a136-e631a844d496
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0f7c05bb-b127-4e33-a136-e631a844d496
 - text: The figure did not name herself Virgin Mary, said she was 'from Heaven', and
     promised an October miracle.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -795,7 +795,7 @@ references:
     when a public miracle would take place "so that everyone may believe."
   claim_id: ebe7c456-1784-4aca-ab54-c1a0b65db875
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ebe7c456-1784-4aca-ab54-c1a0b65db875
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ebe7c456-1784-4aca-ab54-c1a0b65db875
 - text: A prophetic message was given to the children and transmitted by them to the
     Church.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -805,7 +805,7 @@ references:
     transmitted by them to the Church.
   claim_id: ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
 - text: The prediction that Jacinta and Francisco Marto would die before adulthood
     proved true.
   source: American Cosmic
@@ -814,7 +814,7 @@ references:
     before they reached adulthood, which sadly proved true.
   claim_id: 6182013e-ddf8-4b01-af3b-daedb1b9f915
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6182013e-ddf8-4b01-af3b-daedb1b9f915
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6182013e-ddf8-4b01-af3b-daedb1b9f915
 - text: The sealed part of the message was opened by Pope John XXIII in 1960 but not
     published.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -824,7 +824,7 @@ references:
     John XXIII opened the sealed envelope, but did not publish the secret.
   claim_id: 8714b42e-441f-423a-a845-5d56c5a45adc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8714b42e-441f-423a-a845-5d56c5a45adc
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8714b42e-441f-423a-a845-5d56c5a45adc
 - text: John Paul II was doubtless aware that 13 May coincided with the 1981 attempt
     on his life.
   source: American Cosmic
@@ -833,7 +833,7 @@ references:
     the pope was doubtless aware of the date.
   claim_id: 6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
 - text: Jesse Mitchells says the Vatican confiscated a written prophecy more complex
     than the historical account.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -843,7 +843,7 @@ references:
     by the Vatican.
   claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5e7b7fe9-f609-459c-9502-a479c287d1c4
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5e7b7fe9-f609-459c-9502-a479c287d1c4
 - text: Vallée lists the disc, falling-leaf trajectory, light effects, sounds, fragrance
     and heat as placing Fatima in UFO perspective.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -856,7 +856,7 @@ references:
     of these are constant parameters of UFO sightings everywhere.
   claim_id: 0d44efc4-512f-4a80-9974-6495c92149d0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0d44efc4-512f-4a80-9974-6495c92149d0
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0d44efc4-512f-4a80-9974-6495c92149d0
 - text: Vallée considers the Fatima technology indistinguishable from UFO-phenomenon
     technology.
   source: American Cosmic
@@ -864,7 +864,7 @@ references:
   quote: it is also indistinguishable from the technology surrounding the UFO phenomenon.
   claim_id: f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
 - text: Vallée compares the Fatima prophecy's absurdity to contactee stories and to
     Lourdes' instructions to Bernadette Soubirous.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -876,7 +876,7 @@ references:
     the little Bernadette to perform meaningless actions.
   claim_id: 1f00e276-11d3-41bd-a1d6-66360e6223b4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1f00e276-11d3-41bd-a1d6-66360e6223b4
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1f00e276-11d3-41bd-a1d6-66360e6223b4
 - text: Recurring elements include a shining being in a small sphere, spinning discs,
     humming, heat and healing.
   source: American Cosmic
@@ -886,7 +886,7 @@ references:
     effects, healing phenomena, some people witnessing it while others do not
   claim_id: 2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
 - text: Messages in these cases often seem absurd and include an injunction to silence,
     as with Fatima's secrets.
   source: American Cosmic
@@ -895,7 +895,7 @@ references:
     to remain silent (here, the secrets of Fatima)
   claim_id: de32289f-fe96-416c-aaea-a72e1d2ba759
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-de32289f-fe96-416c-aaea-a72e1d2ba759
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-de32289f-fe96-416c-aaea-a72e1d2ba759
 - text: Vallée sets aside evaluative interpretations of the Fatima entity as the Virgin
     Mary, as with UFO events generally.
   source: American Cosmic
@@ -904,7 +904,7 @@ references:
     being the Virgin Mary. He takes the same approach to UFO events.
   claim_id: 52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
 - text: Vallée's morphology of miracles includes a psychic component reported by the
     Fatima children and St. Teresa of Avila.
   source: American Cosmic
@@ -916,7 +916,7 @@ references:
     there are no barriers between them.
   claim_id: 3064df3a-e96a-440f-8aa3-5bd0e4111cc0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3064df3a-e96a-440f-8aa3-5bd0e4111cc0
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3064df3a-e96a-440f-8aa3-5bd0e4111cc0
 - text: Pasulka writes that Vallée sees the actual Fatima events as largely unknown,
     altered by media coverage over time.
   source: American Cosmic
@@ -926,7 +926,7 @@ references:
     and have been changed through media and over time.
   claim_id: d05ed45a-83c0-4b1d-971b-1bc71613bd5e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d05ed45a-83c0-4b1d-971b-1bc71613bd5e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d05ed45a-83c0-4b1d-971b-1bc71613bd5e
 - text: Jason Samosa described visiting Fatima and touring the 1917 apparition sites.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:20:23.0-02:20:30.4
@@ -934,7 +934,7 @@ references:
     and scheduled this tour with me and my girlfriend at the time.
   claim_id: 0b8698a4-1a98-490c-acbc-d3380183d94d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0b8698a4-1a98-490c-acbc-d3380183d94d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0b8698a4-1a98-490c-acbc-d3380183d94d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

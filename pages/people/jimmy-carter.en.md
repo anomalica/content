@@ -112,7 +112,7 @@ references:
     UFO files.
   claim_id: 78f9c632-84ec-48a3-a565-efd70d0c4bdf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-78f9c632-84ec-48a3-a565-efd70d0c4bdf
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-78f9c632-84ec-48a3-a565-efd70d0c4bdf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-78f9c632-84ec-48a3-a565-efd70d0c4bdf
 - text: Carter promised voters he would release US government UFO files if elected
   source: In Plain Sight
@@ -121,7 +121,7 @@ references:
     any US government UFO files.
   claim_id: c15f5889-56e4-4228-bb36-9b3fed0199ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c15f5889-56e4-4228-bb36-9b3fed0199ef
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c15f5889-56e4-4228-bb36-9b3fed0199ef
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c15f5889-56e4-4228-bb36-9b3fed0199ef
 - text: Carter proclaimed he had seen unidentified lights and was no longer laughing
     at flying saucer reports
@@ -131,7 +131,7 @@ references:
     in the sky and are "no longer laughing at those who report Hying saucers."
   claim_id: 5764f46a-4701-4364-892c-14d9d4528185
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5764f46a-4701-4364-892c-14d9d4528185
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5764f46a-4701-4364-892c-14d9d4528185
 - text: Carter testified about his own sighting of an unidentified aerial object
   source: American Cosmic
   location: ch4:51019-51127
@@ -139,7 +139,7 @@ references:
     sighting of an unidentified aerial object
   claim_id: 9ac5ad32-ebd9-466a-b831-a1d87954958f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9ac5ad32-ebd9-466a-b831-a1d87954958f
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9ac5ad32-ebd9-466a-b831-a1d87954958f
 - text: Alien Encounters from Tomorrowland displayed clippings of Carter's sighting
     testimony
   source: American Cosmic
@@ -149,7 +149,7 @@ references:
     as the voiceover cites scientific evidence for ongoing alien visitations.
   claim_id: f4d70234-1ea4-49e7-aea7-394a5cdb88e2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f4d70234-1ea4-49e7-aea7-394a5cdb88e2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f4d70234-1ea4-49e7-aea7-394a5cdb88e2
 - text: Carter listed among UFO witnesses alongside trained USAF observers, pilots,
     police and the public
   source: American Cosmic
@@ -160,7 +160,7 @@ references:
     millions of civilians who were certainly not out looking for UFOs.
   claim_id: 777b8a24-d2c6-46d4-92b2-af219c4caece
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-777b8a24-d2c6-46d4-92b2-af219c4caece
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-777b8a24-d2c6-46d4-92b2-af219c4caece
 - text: Carter said the 1973 object changed colour from red to green
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:43776-43848
@@ -168,7 +168,7 @@ references:
     God...’'
   claim_id: 60aa107f-898b-4e1a-b61c-14cbf08aadfb
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-60aa107f-898b-4e1a-b61c-14cbf08aadfb
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-60aa107f-898b-4e1a-b61c-14cbf08aadfb
 - text: Carter recalled an incandescent mass as brilliant and large as the Moon, moving
     fast
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -177,7 +177,7 @@ references:
     starry sky, as brilliant and as big as the Moon. It moved at a terrific speed.
   claim_id: 7a301760-1ecc-4b73-8109-3c96904bdb0d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7a301760-1ecc-4b73-8109-3c96904bdb0d
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7a301760-1ecc-4b73-8109-3c96904bdb0d
 - text: Carter heard no noise, but Jeff Carter reported a metallic sound
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:44147-44280
@@ -185,7 +185,7 @@ references:
     told me that he heard a metallic sound coming from the UFO.
   claim_id: d938520d-3bdf-4b7a-91ed-9156eab303af
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d938520d-3bdf-4b7a-91ed-9156eab303af
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d938520d-3bdf-4b7a-91ed-9156eab303af
 - text: Carter said the object hovered around ten minutes before changing course and
     disappearing
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -195,7 +195,7 @@ references:
     east. Finally it disappeared on the horizon.
   claim_id: 3418e1a4-9630-4e3c-b1ac-7860d12868b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3418e1a4-9630-4e3c-b1ac-7860d12868b3
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3418e1a4-9630-4e3c-b1ac-7860d12868b3
 - text: A contactee group published a message from Adoniensis to Carter, dated Nicolosi,
     1976-11-04
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -203,7 +203,7 @@ references:
   quote: From the Heavens to Earth, ADONIENSIS. Nicolosi, 4 November 1976. Time 12:30
   claim_id: 3a939a9d-69ae-4ea4-9f31-90f3c3084f05
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3a939a9d-69ae-4ea4-9f31-90f3c3084f05
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3a939a9d-69ae-4ea4-9f31-90f3c3084f05
 - text: The message said Carter's authority was granted from above and urged him not
     to do as others had done
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -213,14 +213,14 @@ references:
     authority has been granted from above…'
   claim_id: 2968ea40-4d5e-4449-a240-fb555c36f3b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2968ea40-4d5e-4449-a240-fb555c36f3b3
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2968ea40-4d5e-4449-a240-fb555c36f3b3
 - text: The Adoniensis channel claimed Carter had been secretly programmed
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:46599-46670
   quote: The channel of Adoniensis claims that the President has been secretly “programmed.”
   claim_id: c15bdf28-3852-4584-9fa2-97c720807083
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c15bdf28-3852-4584-9fa2-97c720807083
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c15bdf28-3852-4584-9fa2-97c720807083
 - text: Vallée traced the message to the Study Center of Cosmic Fraternity
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:49835-49924
@@ -228,7 +228,7 @@ references:
     Carter I quoted earlier.
   claim_id: 2b905702-300a-4de6-b9b3-6262260d09e5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2b905702-300a-4de6-b9b3-6262260d09e5
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2b905702-300a-4de6-b9b3-6262260d09e5
 - text: 'Sheehan: Carter sought a pre-inauguration meeting with CIA Director Bush'
   source: In Plain Sight
   location: ch11:15229-15554
@@ -239,7 +239,7 @@ references:
     to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused, saying Carter had no ''need to know'''
   source: In Plain Sight
@@ -248,7 +248,7 @@ references:
     on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
 - text: 'Sheehan: Bush suggested Carter seek a briefing via the Congressional Research
     Service'
@@ -258,7 +258,7 @@ references:
     Congressional Research Service.
   claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f88beec4-39ca-4842-8255-1a52b419f62e
 - text: Bush's CIA directorship ended just before Carter's January 1977 inauguration
   source: In Plain Sight
@@ -267,7 +267,7 @@ references:
     1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
 - text: CRS specialist Marcia Smith was tasked to investigate
   source: In Plain Sight
@@ -277,7 +277,7 @@ references:
     to investigate.
   claim_id: 154cc047-ee83-4b93-b47a-5f0cd75c61d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-154cc047-ee83-4b93-b47a-5f0cd75c61d3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-154cc047-ee83-4b93-b47a-5f0cd75c61d3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-154cc047-ee83-4b93-b47a-5f0cd75c61d3
 - text: Carter asked Jody Powell and Frank Press to investigate the UFO issue
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -286,7 +286,7 @@ references:
     he asked Jody Powell and Science Adviser Frank Press to see what could be done.
   claim_id: 74c49fec-5241-455c-bb18-2372d2856120
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-74c49fec-5241-455c-bb18-2372d2856120
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-74c49fec-5241-455c-bb18-2372d2856120
 - text: Two classified reports on UAPs were prepared for Carter in 1977; Sheehan saw
     both
   source: In Plain Sight
@@ -295,7 +295,7 @@ references:
     Science and Technology Division before they were sent on to the president
   claim_id: 30638841-1e09-43db-8c7f-f82ac62734ca
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30638841-1e09-43db-8c7f-f82ac62734ca
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30638841-1e09-43db-8c7f-f82ac62734ca
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-30638841-1e09-43db-8c7f-f82ac62734ca
 - text: The reports concluded USAF investigations could not rule out extra-terrestrial
     origin in many cases
@@ -306,7 +306,7 @@ references:
     were in fact extra-terrestrial.
   claim_id: a39a01bb-3c4a-4160-afdb-7d67d34b60bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39a01bb-3c4a-4160-afdb-7d67d34b60bd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39a01bb-3c4a-4160-afdb-7d67d34b60bd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a39a01bb-3c4a-4160-afdb-7d67d34b60bd
 - text: 'Sheehan: the CIA Director refused Carter a UAP briefing; subsequent briefing
     documents omitted what Sheehan found'
@@ -317,7 +317,7 @@ references:
     subsequently told in briefing documents did not reveal what Sheehan discovered
   claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
 - text: Sheehan discovered archival photos of a 'flying saucer' being retrieved by
     the US military
@@ -328,7 +328,7 @@ references:
     craft being retrieved by US military.
   claim_id: 62bbb546-c523-44cd-9833-4f78262a0bd2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62bbb546-c523-44cd-9833-4f78262a0bd2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62bbb546-c523-44cd-9833-4f78262a0bd2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-62bbb546-c523-44cd-9833-4f78262a0bd2
 - text: It has never been revealed what Carter was told about UAP
   source: In Plain Sight
@@ -337,7 +337,7 @@ references:
     was told, if anything, about the UAP phenomenon.
   claim_id: 48aa762a-9140-4094-88a6-c4b373fc03e8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48aa762a-9140-4094-88a6-c4b373fc03e8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48aa762a-9140-4094-88a6-c4b373fc03e8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48aa762a-9140-4094-88a6-c4b373fc03e8
 - text: Carter and Smith never denied Sheehan's Blue Book and classified-report claims
   source: In Plain Sight
@@ -346,7 +346,7 @@ references:
     denying all; they never have
   claim_id: 297ab2d3-044e-45c2-a5b3-efdff44c3857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-297ab2d3-044e-45c2-a5b3-efdff44c3857
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-297ab2d3-044e-45c2-a5b3-efdff44c3857
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-297ab2d3-044e-45c2-a5b3-efdff44c3857
 - text: Frank Press asked NASA to consider investigating UFO inquiries, July 1977
   source: In Plain Sight
@@ -356,7 +356,7 @@ references:
     Frank Press to consider investigating public ‘inquiries concerning UFOs’.
   claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
 - text: No explanation for why Carter did not simply order NASA to investigate
   source: In Plain Sight
@@ -365,7 +365,7 @@ references:
     NASA to do the inquiry, which he surely could have done.
   claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
 - text: MUFON hoped Carter would open the withheld Project Blue Book files
   source: In Plain Sight
@@ -376,7 +376,7 @@ references:
     being withheld from public release.
   claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45e28250-d4e9-4dd1-97c2-53aba991793c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45e28250-d4e9-4dd1-97c2-53aba991793c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-45e28250-d4e9-4dd1-97c2-53aba991793c
 - text: 'Cameron: Carter''s archives show high UFO interest but stymied disclosure
     efforts'
@@ -387,7 +387,7 @@ references:
     it looks like he hit a brick wall because his efforts were stymied'.
   claim_id: 73e984d9-959b-4d91-84c2-6f08507fe3d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-73e984d9-959b-4d91-84c2-6f08507fe3d9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-73e984d9-959b-4d91-84c2-6f08507fe3d9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-73e984d9-959b-4d91-84c2-6f08507fe3d9
 - text: Reagan's presidency followed Carter's in 1981
   source: In Plain Sight
@@ -396,7 +396,7 @@ references:
     Republican Ronald Reagan's presidency in 1981
   claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
 - text: 'Strieber: Carter had seen a UFO before office and promised to find the truth'
   source: The Fourth Mind
@@ -405,14 +405,14 @@ references:
     prior to entering office, that he would find out the truth
   claim_id: d5e09c47-a0ee-4905-9524-ac2a6e34e89f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d5e09c47-a0ee-4905-9524-ac2a6e34e89f
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d5e09c47-a0ee-4905-9524-ac2a6e34e89f
 - text: Carter revealed nothing about UFOs during his administration
   source: The Fourth Mind
   location: ch10:5821-5860
   quote: During his administration, he revealed nothing
   claim_id: 4490b746-5da2-4741-b682-5a66896abe17
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4490b746-5da2-4741-b682-5a66896abe17
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4490b746-5da2-4741-b682-5a66896abe17
 - text: Carter refused to discuss UFOs when later queried by Stanton Friedman
   source: The Fourth Mind
   location: ch10:5873-5974
@@ -420,7 +420,7 @@ references:
     he refused to discuss it at all
   claim_id: 01eb0d8f-069b-4c1b-9ddb-165bf42f056c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-01eb0d8f-069b-4c1b-9ddb-165bf42f056c
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-01eb0d8f-069b-4c1b-9ddb-165bf42f056c
 - text: 'Strieber: Carter asked the DOD to tell the public the UFO story'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -429,7 +429,7 @@ references:
     defense department, okay, I want to tell the story about the UFOs.
   claim_id: ffd06e70-b87e-43de-a6aa-33eb450743d9
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ffd06e70-b87e-43de-a6aa-33eb450743d9
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ffd06e70-b87e-43de-a6aa-33eb450743d9
 - text: 'Strieber: Carter''s later silence traced to being told disclosure would be
     a ''trip wire'''
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -439,14 +439,14 @@ references:
     that if i'm right about what they're told
   claim_id: 621446df-5e72-4b5c-91b6-6cf2159ad8f0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-621446df-5e72-4b5c-91b6-6cf2159ad8f0
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-621446df-5e72-4b5c-91b6-6cf2159ad8f0
 - text: Carter referenced a remote viewer locating a crashed Russian jet in the Congo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:26551-26610
   quote: President Jimmy Carter famously referenced the case to the media.
   claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c4f05315-b400-4fce-a746-d27d47ed8b92
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c4f05315-b400-4fce-a746-d27d47ed8b92
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c4f05315-b400-4fce-a746-d27d47ed8b92
 - text: Carter revealed the existence of the psychic Stargate programme to the media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -456,7 +456,7 @@ references:
     the media.
   claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-20755b71-c92d-4085-8d39-210576f8d8e0
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-20755b71-c92d-4085-8d39-210576f8d8e0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-20755b71-c92d-4085-8d39-210576f8d8e0
 - text: Alonzo McDonald served as Carter's staff director
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -464,7 +464,7 @@ references:
   quote: Alonzo McDonald was the staff director for Jimmy Carter.
   claim_id: d294b928-e7a2-462d-8257-49705377699a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d294b928-e7a2-462d-8257-49705377699a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d294b928-e7a2-462d-8257-49705377699a
 - text: Elizondo believes Carter was among several presidents briefed on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
@@ -472,7 +472,7 @@ references:
     Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: 'Samosa: research indicates Nixon, Carter, Reagan and Bush received UFO briefings'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -480,7 +480,7 @@ references:
   quote: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
   claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e72be749-9bc0-467a-b699-0ac87d60a67f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e72be749-9bc0-467a-b699-0ac87d60a67f
 - text: Clinton asked questions about UAPs in 1993, as Carter had in 1977
   source: In Plain Sight
   location: ch14:104-212
@@ -488,7 +488,7 @@ references:
     just as Jimmy Carter had done in 1977.
   claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
 built_by:
   model: claude-sonnet-5

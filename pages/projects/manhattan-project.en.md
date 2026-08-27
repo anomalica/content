@@ -61,7 +61,7 @@ references:
     The U.S. effort to build an atomic bomb, the Manhattan Project'
   claim_id: b0e5fea8-5bea-478c-aff6-331c6e82f028
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0e5fea8-5bea-478c-aff6-331c6e82f028
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0e5fea8-5bea-478c-aff6-331c6e82f028
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b0e5fea8-5bea-478c-aff6-331c6e82f028
 - text: The project unlocked the secrets of the atom, with devastating and miraculous
     effect
@@ -71,7 +71,7 @@ references:
     miraculous effect
   claim_id: 2e97523b-a010-417a-bd63-4147c6f5cc66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
 - text: The project took its name from the Manhattan Engineer District, whose offices
     were at 270 Broadway, Manhattan
@@ -82,7 +82,7 @@ references:
     as the Manhattan Engineer District at 270 Broadway, Manhattan, New York City.
   claim_id: abe8e5f4-61f1-4971-8070-42d6b574a8c0
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-abe8e5f4-61f1-4971-8070-42d6b574a8c0
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-abe8e5f4-61f1-4971-8070-42d6b574a8c0
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-abe8e5f4-61f1-4971-8070-42d6b574a8c0
 - text: General Leslie R. Groves followed the Army Corps of Engineers' custom of naming
     districts after their location
@@ -94,7 +94,7 @@ references:
     located.
   claim_id: 47ad4da9-e380-4f47-b6a8-2e69c8e83849
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47ad4da9-e380-4f47-b6a8-2e69c8e83849
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47ad4da9-e380-4f47-b6a8-2e69c8e83849
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-47ad4da9-e380-4f47-b6a8-2e69c8e83849
 - text: Vannevar Bush was director of the Office of Scientific Research and Development,
     which oversaw the project
@@ -104,7 +104,7 @@ references:
     oversaw the Manhattan Project
   claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
 - text: J. Robert Oppenheimer was among the physicists who secretly worked on the
     atomic bomb
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -113,7 +113,7 @@ references:
     secretly the world's best physicists got together to create the atomic bomb.
   claim_id: 4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
 - text: Chris Ramsay's opinion that Einstein's refusal to join the project signalled
     distrust
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -122,7 +122,7 @@ references:
     to the US government that he could not be trusted.
   claim_id: cd177844-d475-44c5-a5f6-f4746eed1015
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-cd177844-d475-44c5-a5f6-f4746eed1015
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-cd177844-d475-44c5-a5f6-f4746eed1015
 - text: The project operated in secrecy, leading to secret cities across the US
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -132,7 +132,7 @@ references:
     bomb.
   claim_id: 48e90f8e-9f4b-4b88-a403-31a546ed9c5d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-48e90f8e-9f4b-4b88-a403-31a546ed9c5d
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-48e90f8e-9f4b-4b88-a403-31a546ed9c5d
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-48e90f8e-9f4b-4b88-a403-31a546ed9c5d
 - text: The Department of War hid the project across multiple secret facilities, five
     years before Roswell
@@ -144,7 +144,7 @@ references:
     men and women
   claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
 - text: There were enemy spies inside the Manhattan Project
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -152,7 +152,7 @@ references:
   quote: we did learn that there were enemy spies in the Manhattan Project
   claim_id: 9168201c-d609-48f4-a5f5-d6e490791771
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9168201c-d609-48f4-a5f5-d6e490791771
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9168201c-d609-48f4-a5f5-d6e490791771
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9168201c-d609-48f4-a5f5-d6e490791771
 - text: Tim Burchett's district lay near Oak Ridge, a former secret city and site
     of UAP sightings
@@ -163,7 +163,7 @@ references:
     the site of countless UAP sightings.
   claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
 - text: White Sands Missile Range is where the project constructed atomic bomb components
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -173,7 +173,7 @@ references:
     War II
   claim_id: 858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
 - text: Secrecy around the project probably contributed to the spike in reported UAP
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -186,7 +186,7 @@ references:
     probably contributed to the spike in reported UAP.
   claim_id: 0c316991-ddd6-4950-b698-02264f239552
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0c316991-ddd6-4950-b698-02264f239552
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0c316991-ddd6-4950-b698-02264f239552
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-0c316991-ddd6-4950-b698-02264f239552
 - text: A 1949 classified conference at Los Alamos addressed unexplained sightings
     over nuclear sites
@@ -198,7 +198,7 @@ references:
     nuclear weapon sites.
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
 - text: In 2013 researchers at White Sands saw luminous orbs over a nearby ridge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:101-466
@@ -209,7 +209,7 @@ references:
     mysterious and luminous orbs moving over a nearby ridge.'
   claim_id: e04a3727-9905-4571-9dc0-94b580f6d00b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
 - text: The Federation of American Scientists was a group of disaffected Manhattan
     Project veterans
@@ -220,7 +220,7 @@ references:
     of atomic weapons
   claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23c47feb-7214-4c6f-afc3-a45df43a8bdc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23c47feb-7214-4c6f-afc3-a45df43a8bdc
 - text: UAP Gerb's view that the project was carried into a follow-on effort after
     the Second World War
   source: 'Episode 73: Science vs. Secrecy'
@@ -229,7 +229,7 @@ references:
     the Manhattan Project 2.0
   claim_id: e87f6e51-c388-4f26-a160-f98a45842434
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e87f6e51-c388-4f26-a160-f98a45842434
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e87f6e51-c388-4f26-a160-f98a45842434
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -29,7 +29,7 @@ references:
     and was run by Elizondo,” Bryan Bender wrote in December 2017.
   claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
 - text: White, a Trump administration political appointee, resigned in 2019 amid an
     internal misconduct probe
@@ -40,7 +40,7 @@ references:
     amid an internal probe into charges of misconduct.
   claim_id: 5d7c906b-2cd6-46da-9fc6-28ef08504a14
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5d7c906b-2cd6-46da-9fc6-28ef08504a14
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5d7c906b-2cd6-46da-9fc6-28ef08504a14
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5d7c906b-2cd6-46da-9fc6-28ef08504a14
 - text: Pentagon spokesperson Christopher Sherwood said he could not confirm White's
     statement
@@ -51,7 +51,7 @@ references:
     White’s statement.
   claim_id: c9a6069b-9da7-4b8b-9621-ae66d3a22deb
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
 - text: Politico reported that Pentagon spokesperson Dana White confirmed Elizondo's
     role in AATIP
@@ -61,7 +61,7 @@ references:
     Dana White, had confirmed my role in the program.
   claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
 built_by:
   model: claude-sonnet-5

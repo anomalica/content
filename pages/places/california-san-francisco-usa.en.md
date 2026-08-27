@@ -51,7 +51,7 @@ references:
   quote: "San Francisco, California\n March, 1975"
   claim_id: 20de17d0-1605-42d3-a291-0eb7c3e7939d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-20de17d0-1605-42d3-a291-0eb7c3e7939d
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-20de17d0-1605-42d3-a291-0eb7c3e7939d
 - text: Vallée attended a Sunday meeting of about ten Urantians in San Francisco,
     led by a woman in her late fifties.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -61,7 +61,7 @@ references:
     fifties, dressed in purple and mauve.
   claim_id: cb1f577c-a861-44bd-b010-f54dff00a20e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cb1f577c-a861-44bd-b010-f54dff00a20e
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cb1f577c-a861-44bd-b010-f54dff00a20e
 - text: An Esoteric Fraternity representative told Vallée he did not know Grace Hooper
     Pettipher of San Francisco.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -70,7 +70,7 @@ references:
     but women can be redeemed too."'
   claim_id: f7bc4a1a-195d-4200-8264-59b826093453
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f7bc4a1a-195d-4200-8264-59b826093453
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f7bc4a1a-195d-4200-8264-59b826093453
 - text: Vallée noted at least three Satanic organisations operated in northern California
     alone.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -79,7 +79,7 @@ references:
     in northern California alone
   claim_id: d11c3bfe-35f8-48cb-99d9-629527ccc058
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d11c3bfe-35f8-48cb-99d9-629527ccc058
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d11c3bfe-35f8-48cb-99d9-629527ccc058
 - text: Claude Vorilhon gave a public lecture in San Francisco in December 1976 attended
     by about 150 people who paid $3 each.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -88,7 +88,7 @@ references:
     of about 150 people paid $3 each to attend.
   claim_id: c2af0527-2805-4d7a-9bab-0fb48f530b80
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c2af0527-2805-4d7a-9bab-0fb48f530b80
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c2af0527-2805-4d7a-9bab-0fb48f530b80
 - text: San Francisco Chronicle reporter O'Hara posed a different question to people
     on the street each day.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -98,7 +98,7 @@ references:
     day to the people he meets.
   claim_id: 3cfad649-c436-4224-8c53-6fcda540cef2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cfad649-c436-4224-8c53-6fcda540cef2
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cfad649-c436-4224-8c53-6fcda540cef2
 - text: A San Francisco Chronicle reporter interviewed people on the streets about
     contact with UFO beings.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -107,7 +107,7 @@ references:
     views on the subject of contact with "UFO beings."
   claim_id: e78e40fc-dfdc-4f37-ba85-5d06f4dcbeea
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e78e40fc-dfdc-4f37-ba85-5d06f4dcbeea
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e78e40fc-dfdc-4f37-ba85-5d06f4dcbeea
 - text: Jim Hurtak and Andrija Puharich appeared together on a San Francisco talk
     show on 1976-04-01.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -116,7 +116,7 @@ references:
     Francisco.
   claim_id: 3cc4fd5c-5068-44f4-847a-84718ba424f4
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cc4fd5c-5068-44f4-847a-84718ba424f4
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3cc4fd5c-5068-44f4-847a-84718ba424f4
 - text: L. Ron Hubbard was listed as a patient at Oak Knoll Naval Hospital in San
     Francisco until December 1945.
   source: Dark Mission
@@ -125,7 +125,7 @@ references:
     in San Francisco until December of 1945
   claim_id: e7f61333-180c-4b36-b27c-514be45054e8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7f61333-180c-4b36-b27c-514be45054e8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7f61333-180c-4b36-b27c-514be45054e8
 - text: Hoagland compared the AS17-134-20426 optical phenomenon to a sunset over San
     Francisco.
   source: Dark Mission
@@ -136,7 +136,7 @@ references:
     earth's atmosphere scattering the "prism of atmospheric sunset."
   claim_id: 601340d7-01fe-44a9-92d1-876a1146a53b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-601340d7-01fe-44a9-92d1-876a1146a53b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-601340d7-01fe-44a9-92d1-876a1146a53b
 - text: Michael Horn's video Death Star over San Francisco composites Star Wars imagery
     into San Francisco scenes.
   source: American Cosmic
@@ -146,7 +146,7 @@ references:
     objects from the Star Wars franchise in ordinary scenes in San Francisco.
   claim_id: 2006ec25-c674-483e-bb6d-334244067c1a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2006ec25-c674-483e-bb6d-334244067c1a
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2006ec25-c674-483e-bb6d-334244067c1a
 - text: Vallée, Robbie Graham and Pasulka drove from Big Sur to San Francisco, stopping
     in Santa Cruz.
   source: American Cosmic
@@ -155,7 +155,7 @@ references:
     and I stopped for lunch at a dockside restaurant in Santa Cruz.
   claim_id: 0b06ec5f-ee78-4452-9bf6-3985c8ddcb4e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0b06ec5f-ee78-4452-9bf6-3985c8ddcb4e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0b06ec5f-ee78-4452-9bf6-3985c8ddcb4e
 - text: An account describes a 1969 conversation at The Family Dog venue in San Francisco
     about beings at a higher vibrational level.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -169,7 +169,7 @@ references:
     me and said, they'd like to speak to you if you're interested.
   claim_id: 824ba970-082a-487c-96d1-73282f259833
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-824ba970-082a-487c-96d1-73282f259833
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-824ba970-082a-487c-96d1-73282f259833
 - text: About thirty people gathered in Mendocino to hear Timothy Leary tapes, many
     having driven from San Francisco, Berkeley, and Stanford.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -178,7 +178,7 @@ references:
     room. Many had driven from San Francisco, Berkeley, Stanford.
   claim_id: bed8b341-ad0d-4ad8-a8ea-eb79eaccfa0c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bed8b341-ad0d-4ad8-a8ea-eb79eaccfa0c
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bed8b341-ad0d-4ad8-a8ea-eb79eaccfa0c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

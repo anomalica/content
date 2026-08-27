@@ -49,7 +49,7 @@ references:
     files in the Office of the Under Secretary of Defense for Acquisition and Technology.
   claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
 - text: The memo names Paul Kaminski, Michael Kostelnik and former Defense Secretary
     William Perry as the three people Wilson confirmed the programme's contractor
@@ -63,7 +63,7 @@ references:
     Bill Perry.
   claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
 - text: Thomas Wilson was told of a special-projects record group outside the usual
     SAP structure, organised in 1994 by William Perry.
@@ -75,7 +75,7 @@ references:
     but buried/covered by conventional SAPs
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
 - text: Michael Kostelnik was director of special programmes in OUSDAT, as reorganised
     by William Perry in 1994.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -85,7 +85,7 @@ references:
     organized (re-organized) by Perry in '94
   claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
 - text: Thomas Wilson met William Perry in May 1997 and discussed the matter quietly;
     Perry suggested the same approach as General Ward.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -94,7 +94,7 @@ references:
     the same thing
   claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
 - text: Wilson called Kaminski, Kostelnik and Perry at the end of May 1997 to confirm
     the right contractor and programme manager, and they confirmed it.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -109,7 +109,7 @@ references:
     TW: Yes.'
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
 - text: The programme manager asked Wilson who he had talked to beforehand and was
     unhappy with his answer; Wilson did not mention Perry and Kaminski.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -122,7 +122,7 @@ references:
     TW: Oh, no! I didn''t tell them I talked to those guys!'
   claim_id: 2cfc9df5-134f-459d-8895-36e57b5660a3
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
 - text: Wilson said Kostelnik told him the security budget ran two to three times
     the programme budget, sometimes six to seven times; Perry wanted an investigation
     but was told to drop it.
@@ -133,7 +133,7 @@ references:
     high, said Perry wanted investigation on that but was told to drop it.
   claim_id: b96a9a92-b893-4903-a0f3-9db8fcfca529
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b96a9a92-b893-4903-a0f3-9db8fcfca529
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b96a9a92-b893-4903-a0f3-9db8fcfca529
 - text: Perry ordered the security budget reporting issues reorganised to improve
     audit transparency.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -142,7 +142,7 @@ references:
     to improve audit transparency.'
   claim_id: 378c4c64-b883-478d-8589-4b921c78dba8
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-378c4c64-b883-478d-8589-4b921c78dba8
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-378c4c64-b883-478d-8589-4b921c78dba8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

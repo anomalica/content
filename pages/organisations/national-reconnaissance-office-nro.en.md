@@ -64,7 +64,7 @@ references:
     known as Groom Lake and Dreamland.
   claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
 - text: Steven Greer sent Admiral Thomas Wilson's staff a leaked NRO document listing
     codenames for Special Access Programs ahead of the April 1997 Pentagon visit
@@ -76,7 +76,7 @@ references:
     (SAPs).
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
 - text: Tom DeLonge claimed NRO satellites were seeing UAP objects entering and leaving
     the atmosphere and that he had seen the evidence
@@ -87,7 +87,7 @@ references:
     and he had seen the evidence.
   claim_id: f8656c3d-eddb-4951-83db-a9ae60824879
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8656c3d-eddb-4951-83db-a9ae60824879
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8656c3d-eddb-4951-83db-a9ae60824879
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f8656c3d-eddb-4951-83db-a9ae60824879
 - text: Tom DeLonge said an adviser from the NRO used the term 'episodic visits' for
     UAP events
@@ -97,7 +97,7 @@ references:
     visits. That’s all I know.
   claim_id: b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
 - text: David Grusch is a veteran of the NGA and the NRO
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -106,7 +106,7 @@ references:
     National Reconnaissance Office (NRO)
   claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81d83ea0-cc7e-467e-a06d-022af4365189
 - text: Grusch served as the NRO's representative to the UAP Task Force from 2019
     to 2021
@@ -116,7 +116,7 @@ references:
     Aerial Phenomena Task Force from 2019-2021.
   claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
 - text: From 2016 to 2021 Grusch served at the NRO as Senior Intelligence Officer,
     leading production of the NRO director's daily briefing
@@ -126,7 +126,7 @@ references:
     Intelligence Officer and led the production of the NRO director’s daily briefing.
   claim_id: da747c96-bb5b-4995-be2f-d453c29496dd
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-da747c96-bb5b-4995-be2f-d453c29496dd
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-da747c96-bb5b-4995-be2f-d453c29496dd
 - text: The NRO Operations Center Deputy Director assessed Grusch as an 'adept staff
     officer and strategist' and 'total force integrator'
@@ -137,7 +137,7 @@ references:
     solutions and actionable results.”
   claim_id: 5d198d82-e994-4c6f-bbf8-8240b3d51553
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5d198d82-e994-4c6f-bbf8-8240b3d51553
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5d198d82-e994-4c6f-bbf8-8240b3d51553
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5d198d82-e994-4c6f-bbf8-8240b3d51553
 - text: Grusch testified at the 2023-07-26 House hearing, identified as Former NRO
     Representative to the UAPTF
@@ -148,7 +148,7 @@ references:
     Aerial Phenomena Task Force, Department of Defense, Oral Statement
   claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
 - text: Grusch served on the UAP Task Force from 2019 to 2021 in an NRO reservist
     capacity within the USAF
@@ -159,7 +159,7 @@ references:
     capacity, I was a member of the UAP Task Force from 2019 to 2021.
   claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
 - text: Grusch served on the NRO operations center's Director's briefing staff, coordinating
     the Presidential daily brief and supporting contingency operations
@@ -172,7 +172,7 @@ references:
     backup.
   claim_id: 44f8cda8-03c9-4690-8a2d-88ce63c3c5d9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-44f8cda8-03c9-4690-8a2d-88ce63c3c5d9
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-44f8cda8-03c9-4690-8a2d-88ce63c3c5d9
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-44f8cda8-03c9-4690-8a2d-88ce63c3c5d9
 - text: Jay Stratton handpicked members for the new UAP task force from intelligence
     and civilian agencies including the FBI, NRO, NASA and FAA
@@ -183,7 +183,7 @@ references:
     Reconnaissance Office (NRO) to NASA to the Federal Aviation Administration (FAA).
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
 - text: Grusch was the NRO and NGA representative on the Pentagon's UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -191,7 +191,7 @@ references:
   quote: He was those agencies' rep on the UAP Task Force
   claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b61036ef-78da-4966-9953-d63cb1cd578d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b61036ef-78da-4966-9953-d63cb1cd578d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b61036ef-78da-4966-9953-d63cb1cd578d
 - text: Christopher K. Mellon said the NRO, CIA, NGA, FBI and NSA appeared to hold
     important UAP data they were not sharing with each other
@@ -203,7 +203,7 @@ references:
     have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
 - text: The NRO launched its first high-resolution photoreconnaissance satellite system
     in 1963, codenamed Gambit
@@ -215,7 +215,7 @@ references:
     Gambit.
   claim_id: f7d46668-12c9-4f23-b2a8-a863afa6e079
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7d46668-12c9-4f23-b2a8-a863afa6e079
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7d46668-12c9-4f23-b2a8-a863afa6e079
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7d46668-12c9-4f23-b2a8-a863afa6e079
 - text: The Hexagon satellite program was an NRO photoreconnaissance system launched
     in 1971 for wide-area searches of denied territory
@@ -226,7 +226,7 @@ references:
     It was launched in 1971 to conduct wide-area searches of denied territory.
   claim_id: 54a299bc-4d93-4813-aa46-bfbfe3cfedb6
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-54a299bc-4d93-4813-aa46-bfbfe3cfedb6
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-54a299bc-4d93-4813-aa46-bfbfe3cfedb6
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-54a299bc-4d93-4813-aa46-bfbfe3cfedb6
 - text: Chris Ramsay said the NRO is one of the most secretive departments among US
     intelligence agencies
@@ -237,7 +237,7 @@ references:
     in the United States is the national reconnaissance office NRO.
   claim_id: f1232742-c8cc-4384-af35-dc9945e54072
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-f1232742-c8cc-4384-af35-dc9945e54072
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-f1232742-c8cc-4384-af35-dc9945e54072
 - text: The NRO has placed distinctive patches and crests on its satellites, each
     representing a different mission
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -247,7 +247,7 @@ references:
     launched into space. Each of these patches represents a different mission.
   claim_id: f868a57a-c90f-40f4-9889-6b5a96e07f13
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-f868a57a-c90f-40f4-9889-6b5a96e07f13
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-f868a57a-c90f-40f4-9889-6b5a96e07f13
 - text: Grusch later worked as a senior intelligence officer at the NGA and the NRO
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -256,7 +256,7 @@ references:
     Agency (NGA) and National Reconnaissance Office (NRO)
   claim_id: 24f37c8b-c898-4c03-bf64-d6de2e0a19c3
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
 - text: From 2019 to 2021, Grusch officially represented the NRO on the UAP Task Force
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -265,7 +265,7 @@ references:
   quote: from 2019-2021 officially represented the NRO on the UAP Task Force
   claim_id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
 built_by:
   model: claude-sonnet-5

@@ -38,7 +38,7 @@ references:
   quote: He was also President Roosevelt's scientific advisor
   claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
 - text: Einstein's letter to Roosevelt set the US on the path to the atomic bomb
   source: Communion
   location: ch15:3807-3961
@@ -46,7 +46,7 @@ references:
     the United States on the road to splitting the atom and creating the atomic bomb.
   claim_id: 27604bc0-92f9-4608-9fde-c4662dbf79a1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-27604bc0-92f9-4608-9fde-c4662dbf79a1
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-27604bc0-92f9-4608-9fde-c4662dbf79a1
 - text: Hoagland compares the MRO image's existence to a Roosevelt statement about
     politics
   source: Dark Mission
@@ -57,7 +57,7 @@ references:
     said, "In politics, nothing occurs 'by accident.'"
   claim_id: 136e268d-9a0f-4890-9b8e-b3f4c95ce160
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-136e268d-9a0f-4890-9b8e-b3f4c95ce160
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-136e268d-9a0f-4890-9b8e-b3f4c95ce160
 - text: 'Vallée: wartime LCS activities known only to Churchill, Roosevelt, Eisenhower
     and a few officials'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -67,7 +67,7 @@ references:
     Congress and Parliament.
   claim_id: b7942d85-da22-421a-9099-baa6f053942e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7942d85-da22-421a-9099-baa6f053942e
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7942d85-da22-421a-9099-baa6f053942e
 - text: Origin of the title A Bodyguard of Lies, from Churchill's Tehran remark to
     Roosevelt and Stalin
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -77,7 +77,7 @@ references:
     should always be attended by a bodyguard of lies."'
   claim_id: 50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
 - text: Bush's letter to the JIOA over the recruitment of German rocket scientists
   source: Dark Mission
   location: ch12:67640-68040
@@ -89,7 +89,7 @@ references:
     circles."
   claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
 - text: Pelley's opposition to Roosevelt and his 1942 internment for sedition
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:11524-11610
@@ -97,14 +97,14 @@ references:
     sedition in 1942.
   claim_id: 9650d5bf-db39-4894-bbe1-c89ea6a74345
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9650d5bf-db39-4894-bbe1-c89ea6a74345
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9650d5bf-db39-4894-bbe1-c89ea6a74345
 - text: The Business Plot as an attempt to remove Roosevelt, exposed by Smedley Butler
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:20:31.1-01:20:33.7
   quote: Smedley Butler. Yeah. Yeah. They were trying to take out FDR.
   claim_id: 44e78358-77fb-4d87-bb3b-66b428f501f6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-44e78358-77fb-4d87-bb3b-66b428f501f6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-44e78358-77fb-4d87-bb3b-66b428f501f6
 - text: The Business Plot's planners and its response to the New Deal
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:20:34.9-01:20:47.8
@@ -113,7 +113,7 @@ references:
     with support and encouragement from their German counterparts, planned this plot.
   claim_id: c9c1fd86-e8b4-403f-a55c-f7f29d60ac35
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c9c1fd86-e8b4-403f-a55c-f7f29d60ac35
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c9c1fd86-e8b4-403f-a55c-f7f29d60ac35
 - text: 'Samosa: Roosevelt letter on financial interests owning America since Andrew
     Jackson'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -122,7 +122,7 @@ references:
     interests had owned America since the time of Andrew Jackson.
   claim_id: 020497ee-570b-46a2-9b57-8d8a3174b30d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-020497ee-570b-46a2-9b57-8d8a3174b30d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-020497ee-570b-46a2-9b57-8d8a3174b30d
 - text: 'Mitchells: Magenta UFO crash information back-channelled via Pius XII to
     Roosevelt'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -131,7 +131,7 @@ references:
     the 12th to FDR
   claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-86ca639a-0b26-4e25-ae60-cf7535396729
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-86ca639a-0b26-4e25-ae60-cf7535396729
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

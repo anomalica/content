@@ -173,7 +173,7 @@ references:
   quote: The lead vessel was the USS *Nimitz*, a nuclear-powered aircraft carrier.
   claim_id: 08942780-f53b-4197-b790-7f1037478f05
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08942780-f53b-4197-b790-7f1037478f05
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08942780-f53b-4197-b790-7f1037478f05
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-08942780-f53b-4197-b790-7f1037478f05
 - text: Fravor describes the carrier as roughly 1.8 hectares of sovereign US territory
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -183,7 +183,7 @@ references:
     sovereign U S territory that floats around the U S oceans.
   claim_id: 053e30a1-90cf-4462-96af-df0df7ce4050
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-053e30a1-90cf-4462-96af-df0df7ce4050
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-053e30a1-90cf-4462-96af-df0df7ce4050
 - text: the air wing is the carrier's primary weapons capability
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -192,7 +192,7 @@ references:
     the most part, it's a giant moving airport is what it is.
   claim_id: ec5f28eb-e6c2-4c12-a1c2-ecac11ad7b94
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec5f28eb-e6c2-4c12-a1c2-ecac11ad7b94
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec5f28eb-e6c2-4c12-a1c2-ecac11ad7b94
 - text: 'Mellon: ship worth approximately five billion US dollars, crew of thousands'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:28.6-00:13:36.6
@@ -200,21 +200,21 @@ references:
     a $5 billion warship with a crew of thousands.
   claim_id: 5be01e47-276b-4807-8e5f-48b078d168e9
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-5be01e47-276b-4807-8e5f-48b078d168e9
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-5be01e47-276b-4807-8e5f-48b078d168e9
 - text: 'Mellon: one of the premier assets in the US Navy'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:38.2-00:13:40.6
   quote: It is one of the premier assets in the US Navy.
   claim_id: de5440e4-0dee-47d1-8927-46d7ba613033
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-de5440e4-0dee-47d1-8927-46d7ba613033
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-de5440e4-0dee-47d1-8927-46d7ba613033
 - text: Nimitz was home to Carrier Air Wing 11
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:3239-3287
   quote: The Nimitz was home to Carrier Air Wing 11 (CVW-11)
   claim_id: 8966dfc1-6de1-4082-96cb-adea9e6b24c4
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8966dfc1-6de1-4082-96cb-adea9e6b24c4
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8966dfc1-6de1-4082-96cb-adea9e6b24c4
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8966dfc1-6de1-4082-96cb-adea9e6b24c4
 - text: CSG-11 comprised Nimitz, Princeton, Chafee, Higgins and Louisville
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -224,7 +224,7 @@ references:
     Louisville (SSN-724).'
   claim_id: 96b877c1-f249-48a2-9115-e8c413189dc9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-96b877c1-f249-48a2-9115-e8c413189dc9
 - text: Fravor's freshman midshipman cruise aboard Nimitz
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -234,7 +234,7 @@ references:
     at the Naval Academy, you go out on a ship
   claim_id: b8764618-8338-468e-8f0d-af5efcaf7eb3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8764618-8338-468e-8f0d-af5efcaf7eb3
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8764618-8338-468e-8f0d-af5efcaf7eb3
 - text: observed VF-41, VF-84 and A-6 Intruder squadrons operating from the carrier
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -243,7 +243,7 @@ references:
     14 squadron VF 84, uh, an F 14 squadron, and then a couple of a six squadrons.
   claim_id: 16508532-224d-4ee0-acba-5a1303e227bf
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-16508532-224d-4ee0-acba-5a1303e227bf
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-16508532-224d-4ee0-acba-5a1303e227bf
 - text: decided he wanted to fly from aircraft carriers
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -252,14 +252,14 @@ references:
     pilots and BNs. So it was really a neat experience. And I said, I want to do that.
   claim_id: 803b745c-063d-4c0d-91f6-8a402fe8cd5b
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-803b745c-063d-4c0d-91f6-8a402fe8cd5b
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-803b745c-063d-4c0d-91f6-8a402fe8cd5b
 - text: Fravor commanded the F/A-18 squadron aboard Nimitz in 2004
   source: Navy pilots describe encounters with UFOs
   location: 00:06:46.6-00:06:49.9
   quote: commander of the F-18 squadron on the USS Nimitz
   claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
 - text: VFA-41 attached to CVW-11, stationed aboard Nimitz in 2004
   source: David Fravor Statement for the House Oversight Committee
   location: char:444-529
@@ -267,7 +267,7 @@ references:
     Nimitz (CVN-68).
   claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
 - text: two-month workup cycle off the coast of California
   source: David Fravor Statement for the House Oversight Committee
@@ -275,7 +275,7 @@ references:
   quote: had begun a 2-month workup cycle off the coast of California
   claim_id: 13750deb-4882-4ddc-b87d-343cead646e1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-13750deb-4882-4ddc-b87d-343cead646e1
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-13750deb-4882-4ddc-b87d-343cead646e1
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-13750deb-4882-4ddc-b87d-343cead646e1
 - text: workup cycle preparation for Persian Gulf deployment supporting Iraq ground
     forces
@@ -286,7 +286,7 @@ references:
     in Iraq.
   claim_id: b4ac9cb0-93ab-4a5e-84e6-96708df79f86
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-b4ac9cb0-93ab-4a5e-84e6-96708df79f86
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-b4ac9cb0-93ab-4a5e-84e6-96708df79f86
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-b4ac9cb0-93ab-4a5e-84e6-96708df79f86
 - text: at-sea period scheduled early November to late December 2004
   source: David Fravor Statement for the House Oversight Committee
@@ -294,7 +294,7 @@ references:
   quote: The at-sea period was scheduled to go from Early November to Late December.
   claim_id: 61cee1cf-de0b-4e9d-98de-2a6c5b372aec
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-61cee1cf-de0b-4e9d-98de-2a6c5b372aec
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-61cee1cf-de0b-4e9d-98de-2a6c5b372aec
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-61cee1cf-de0b-4e9d-98de-2a6c5b372aec
 - text: training approximately 160 kilometres southwest of San Diego
   source: Navy pilots describe encounters with UFOs
@@ -303,7 +303,7 @@ references:
     about 100 miles southwest of San Diego.
   claim_id: a692b189-1226-41ca-9540-c4445d57fa01
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
 - text: drills off Southern California ahead of Persian Gulf deployment
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:56.8-00:14:12.6
@@ -312,7 +312,7 @@ references:
     Gulf.
   claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
 - text: VMFA-232 CO launched FCF in F/A-18C at approximately 1030
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:13202-13443
@@ -322,7 +322,7 @@ references:
     maintenance.'
   claim_id: bf152d12-9c95-4f8e-9da9-2dc125ce959f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf152d12-9c95-4f8e-9da9-2dc125ce959f
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf152d12-9c95-4f8e-9da9-2dc125ce959f
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bf152d12-9c95-4f8e-9da9-2dc125ce959f
 - text: VMFA-232 CO recovered aboard Nimitz at approximately 1200
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -331,7 +331,7 @@ references:
     1200L.'
   claim_id: bd5527b3-a9ca-4476-9894-e3bac304af74
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bd5527b3-a9ca-4476-9894-e3bac304af74
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bd5527b3-a9ca-4476-9894-e3bac304af74
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bd5527b3-a9ca-4476-9894-e3bac304af74
 - text: USS Princeton, not Nimitz, provided air defence via SPY-1 Aegis
   source: In Plain Sight
@@ -341,7 +341,7 @@ references:
     SPY-1 Aegis radar system
   claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c13836a-6561-4b29-8009-791ca00f99d2
 - text: Princeton detected objects appearing to descend from low earth orbit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -351,7 +351,7 @@ references:
     objects that appeared to be descending from low earth orbit.
   claim_id: a646b948-551d-4ad3-89c6-05ac2c048791
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a646b948-551d-4ad3-89c6-05ac2c048791
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a646b948-551d-4ad3-89c6-05ac2c048791
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a646b948-551d-4ad3-89c6-05ac2c048791
 - text: Kevin Day confirmed Nimitz radar tracking same cluster of 14 objects as Princeton
   source: In Plain Sight
@@ -359,7 +359,7 @@ references:
   quote: this time, he confirmed the Nimitz's radar was seeing the same thing
   claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
 - text: Nimitz sent up E-2 Hawkeye, detected object on own radar
   source: In Plain Sight
@@ -368,7 +368,7 @@ references:
     – an E2 Hawkeye – and it detected the closest object on its radar.
   claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a104bd6a-8d33-4f71-92c4-39843995f257
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a104bd6a-8d33-4f71-92c4-39843995f257
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a104bd6a-8d33-4f71-92c4-39843995f257
 - text: Day recommended to Captain Smith that aircraft investigate; Smith concurred
   source: In Plain Sight
@@ -377,7 +377,7 @@ references:
     to take a look, and the captain concurred.
   claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
 - text: Kurth arrived at intercept point approximately 100km southwest, found only
     a circular disturbance 50-100m across
@@ -388,7 +388,7 @@ references:
     of the ocean, 50–100 metres in size.
   claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
 - text: Slaight's submarine theory ruled out by Nimitz's intelligence officer
   source: In Plain Sight
@@ -398,7 +398,7 @@ references:
     was later ruled out by the Nimitz's intelligence officer in a post-flight debriefing.
   claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72f28544-5245-4b89-8c2d-39d957b86719
 - text: Fravor's F/A-18F flight launched without issue, departed for the working area
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -408,7 +408,7 @@ references:
     portion of the flight.
   claim_id: 0dce43d7-2473-44e4-b962-869cbc37602a
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0dce43d7-2473-44e4-b962-869cbc37602a
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0dce43d7-2473-44e4-b962-869cbc37602a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0dce43d7-2473-44e4-b962-869cbc37602a
 - text: flight checked in with Princeton controller, redirected to contact west of
     CAP point
@@ -420,7 +420,7 @@ references:
     the west of our CAP (Combat Air Patrol) point.
   claim_id: 720457d7-380b-43ed-b3a7-a67ab277cbbb
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
 - text: object already waiting at cap point known only within Nimitz briefing room
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -431,7 +431,7 @@ references:
     they're coming.
   claim_id: 94908746-20d4-40a5-9d6b-10e35cd8a1a7
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-94908746-20d4-40a5-9d6b-10e35cd8a1a7
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-94908746-20d4-40a5-9d6b-10e35cd8a1a7
 - text: two F/A-18s intercepted object at close quarters in perfect visibility
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:8066-8195
@@ -439,7 +439,7 @@ references:
     craft at close quarters in conditions of perfect visibility.
   claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
 - text: white Tic Tac object, approximately 12m long, no wings
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -449,7 +449,7 @@ references:
     tic-tac shaped object with no wings, flying in ways you've never thought possible
   claim_id: 1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ea9f062-2503-4dca-a1bc-ecaaac0d3c2e
 - text: swarm shot back above approximately 24,000m in a fraction of a second
   source: In Plain Sight
   location: ch16:15562-15822
@@ -459,7 +459,7 @@ references:
     back above 80,000 feet.
   claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
 - text: flight rejoined and returned to Nimitz
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -467,7 +467,7 @@ references:
   quote: Following the engagement, the flight rejoined and returned to the USS Nimitz.
   claim_id: fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
 - text: met Underwood's flight in the paraloft, passed on what they'd seen
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -476,7 +476,7 @@ references:
     flight in the paraloft and passed what they had seen.'
   claim_id: a6eb8cc8-018b-40a9-b09e-11d4d2605076
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
 - text: third pair including Underwood, jet fitted with ATFLIR pod, headed out
   source: In Plain Sight
@@ -487,7 +487,7 @@ references:
     pod on his jet.
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
 - text: Underwood's flight departed, climbed to altitude, separated for training
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -496,7 +496,7 @@ references:
     separated to begin the training portion of the flight.
   claim_id: a8ea57c5-bf6f-4075-b84d-1a62afd3b764
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
 - text: Underwood's section returned for normal approach, landing, shutdown
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -505,7 +505,7 @@ references:
     ship for a normal approach, landing and shutdown.
   claim_id: ceb0c54a-4993-464e-acbb-d70cbad48c75
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
 - text: Underwood's crew debriefed in CVIC
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -513,7 +513,7 @@ references:
   quote: The crew met in CVIC and debriefed.
   claim_id: 2834e316-123a-4f09-8302-5be197dba09a
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2834e316-123a-4f09-8302-5be197dba09a
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2834e316-123a-4f09-8302-5be197dba09a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2834e316-123a-4f09-8302-5be197dba09a
 - text: FLIR1 video downloaded on return; conspiracy theories among crewmen at sea
   source: In Plain Sight
@@ -523,7 +523,7 @@ references:
     video while the ship was still at sea.
   claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
 - text: CVIC intelligence officers came to collect tapes from Fravor's squadron
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -534,7 +534,7 @@ references:
     the tapes.
   claim_id: f87f613a-981a-4d31-8841-ffb841723313
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f87f613a-981a-4d31-8841-ffb841723313
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f87f613a-981a-4d31-8841-ffb841723313
 - text: Fravor retrieved tapes, threatened to 'start tearing this place apart'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -543,7 +543,7 @@ references:
     place apart. That's literally what I told him.
   claim_id: c55e7764-02d0-4c97-a419-73a5a0817618
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c55e7764-02d0-4c97-a419-73a5a0817618
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c55e7764-02d0-4c97-a419-73a5a0817618
 - text: deck crew ribbing, some wore tin-foil hats in jest
   source: In Plain Sight
   location: ch16:21796-21972
@@ -552,7 +552,7 @@ references:
     wearing tin-foil hats in jest.
   claim_id: 4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
 - text: joke comics on flight schedule for about two days, styled after Men in Black
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -564,7 +564,7 @@ references:
     world, protecting the Nimitz battle group type stuff.
   claim_id: d124ce50-faac-471e-8c4c-1d2ce787cd5d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d124ce50-faac-471e-8c4c-1d2ce787cd5d
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d124ce50-faac-471e-8c4c-1d2ce787cd5d
 - text: two unknown individuals arrived by navy helicopter immediately afterwards
   source: In Plain Sight
   location: ch16:23537-23664
@@ -572,7 +572,7 @@ references:
     military, arrived by navy helicopter on board the *Nimitz*.
   claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
 - text: Fravor denied rumour that personnel arrived to confiscate data
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -582,14 +582,14 @@ references:
     landed, they showed up, they took the data... No, no one came out on a helicopter.
   claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
 - text: no further jets sent up to engage the craft
   source: In Plain Sight
   location: ch16:21453-21518
   quote: No further jets from the USS *Nimitz* were sent up to engage the craft.
   claim_id: 985d67e1-72d2-4bf0-9e5f-487cb88f47f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
 - text: USS Louisville operating in vicinity as part of CSG-11 during detection and
     intercept
@@ -599,7 +599,7 @@ references:
     the detection and intercept of the AAV.
   claim_id: bc089ab8-2ba9-4050-8cba-8786235ac7b9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
 - text: crewmen aboard Nimitz and Princeton shared video via classified email
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -608,7 +608,7 @@ references:
     the video via the government’s classified email system.
   claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
 - text: little follow-up investigation after pilots returned to Nimitz
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -617,7 +617,7 @@ references:
     to the *Nimitz*.
   claim_id: 9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
 - text: October 2019 Lambright FOIA request to ONI
   source: In Plain Sight
@@ -627,7 +627,7 @@ references:
     relating to the USS Nimitz Tic Tac UAP encounter.
   claim_id: 9303c476-64f9-4867-8047-a925e45064f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9303c476-64f9-4867-8047-a925e45064f1
 - text: ONI admitted holding Top Secret records and a Secret video, reported 2020-01-08
   source: In Plain Sight
@@ -637,7 +637,7 @@ references:
     The Evidence Blog, 8 January 2020.
   claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
 - text: Eric Davis's team responsible for covert investigation
   source: In Plain Sight
@@ -647,7 +647,7 @@ references:
     and they too reached a dramatic conclusion as to who or what was behind it.
   claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
 - text: AATIP released video of whitish oval object off San Diego, August 2017
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -658,7 +658,7 @@ references:
     carrier Nimitz off the coast of San Diego in 2004.
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
 - text: 2014-2015 Roosevelt F/A-18s had new APG-79 radar, unlike 2004 Nimitz jets
   source: In Plain Sight
@@ -667,7 +667,7 @@ references:
     electronic beam scanning radar systems
   claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
 - text: 'Elizondo: Roosevelt incursions shared characteristics with Nimitz encounter'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -677,7 +677,7 @@ references:
     boxes were ticked: water and nukes.'
   claim_id: 6c111a55-0f8f-44cd-9bc9-fc4433881a79
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
 - text: 'Elizondo: Roosevelt crews reported same abilities that astonished Nimitz/Princeton
     crews'
@@ -687,7 +687,7 @@ references:
     and Princeton crews a decade earlier.
   claim_id: c405ff40-ea0d-41f8-8495-8d8b9be51576
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
 - text: Pais patent filed April 2016, 12 years after Nimitz tracked and videoed the
     object
@@ -698,7 +698,7 @@ references:
     tracked and videoed the Tic Tac UAP off the west coast.
   claim_id: b18de831-3244-4834-8ab2-fcf002ee7274
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b18de831-3244-4834-8ab2-fcf002ee7274
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b18de831-3244-4834-8ab2-fcf002ee7274
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b18de831-3244-4834-8ab2-fcf002ee7274
 - text: 'Mellon: does not consider the object an experimental US aircraft'
   source: In Plain Sight
@@ -707,7 +707,7 @@ references:
     asked.'
   claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2
 built_by:
   model: claude-sonnet-5

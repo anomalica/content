@@ -423,7 +423,7 @@ references:
     (AARO) to be that entity.
   claim_id: 826683ed-2157-4692-85d4-8e9d9df2a863
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-826683ed-2157-4692-85d4-8e9d9df2a863
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-826683ed-2157-4692-85d4-8e9d9df2a863
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-826683ed-2157-4692-85d4-8e9d9df2a863
 - text: FY2022 NDAA tasked AARO with coordinating UAP detection, identification and
     investigation across DoD and federal agencies
@@ -436,7 +436,7 @@ references:
     UAPs.
   claim_id: 02bcfdba-d8f1-4475-a665-539a1fa9e66c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
 - text: FY2022 NDAA assigned AARO, under OUSDI, responsibility for synchronising and
     standardising UAP incident collection, analysis and identification
@@ -447,7 +447,7 @@ references:
     and standardizing the collection, analysis, and identification of UAP incidents.
   claim_id: 555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
 - text: AARO's mission is to detect, identify and characterise objects of interest
     near military areas and mitigate threats
@@ -461,7 +461,7 @@ references:
     mitigate any associated threats to safety of operations and national security."
   claim_id: 39831d97-5619-4c9e-af0d-42ca504938d7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39831d97-5619-4c9e-af0d-42ca504938d7
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39831d97-5619-4c9e-af0d-42ca504938d7
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-39831d97-5619-4c9e-af0d-42ca504938d7
 - text: IG recommended the Under Secretary of Defense for Intelligence and Security,
     with AARO, issue a UAP policy
@@ -475,7 +475,7 @@ references:
     counterintelligence, and force protection policies and procedures.
   claim_id: b2461f07-88ad-4e00-809f-b213d1ff431c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
 - text: 'AARO organised around four functions: analysis, operations, science and technology,
     strategic communications'
@@ -486,7 +486,7 @@ references:
     & technology (S&T), and strategic communications).
   claim_id: f317a01a-094e-48b9-92dd-d1f776779b32
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f317a01a-094e-48b9-92dd-d1f776779b32
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f317a01a-094e-48b9-92dd-d1f776779b32
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f317a01a-094e-48b9-92dd-d1f776779b32
 - text: AARO developing IC and S&T tradecraft, standardising UAP collection/reporting
     across DoD and IC
@@ -499,7 +499,7 @@ references:
     the IC.
   claim_id: 51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
 - text: AARO provides quarterly reports, semiannual briefings and an annual report
     to Congress with ODNI
@@ -511,7 +511,7 @@ references:
     ODNI.
   claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f4752996-d097-401d-ab3f-3d608104c9b7
 - text: AARO's budget remains classified
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -521,7 +521,7 @@ references:
     from Congress.
   claim_id: 076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
 - text: NYT AATIP article largely responsible for Congress creating UAPTF, later AARO
   source: Statement to Congress
@@ -530,7 +530,7 @@ references:
     which later morphed into AARO, the current UFO program approved by Congress.
   claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
 - text: Elizondo's public exposure of AATIP a major factor in UAPTF's creation and
     AARO's establishment
   source: Statement to Congress
@@ -539,7 +539,7 @@ references:
     creation of the UAP Task Force and later, of AARO.
   claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
 - text: AAWSAP employed 50 full-time investigators, more than Blue Book, UAPTF or
     AARO
   source: Statement to Congress
@@ -548,7 +548,7 @@ references:
     Blue Book or the UAP Task Force, or AARO.
   claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-346e7c33-c4df-45ea-bc82-54fe11f9b7cf
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-346e7c33-c4df-45ea-bc82-54fe11f9b7cf
 - text: DoD established AARO in July 2022 to take over AOIMSG's duties
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -557,7 +557,7 @@ references:
     (AARO) to implement the duties previously assigned to the AOIMSG.
   claim_id: a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
 - text: AOIMSG had not reached initial operating capability before NDAA FY22 renamed
     it AARO with expanded mission
@@ -569,7 +569,7 @@ references:
     mission set.
   claim_id: 990e6858-1f5d-4b20-95f6-d16ed35b0917
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-990e6858-1f5d-4b20-95f6-d16ed35b0917
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-990e6858-1f5d-4b20-95f6-d16ed35b0917
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-990e6858-1f5d-4b20-95f6-d16ed35b0917
 - text: UAPTF reorganised and expanded into AARO to include underwater objects
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -578,7 +578,7 @@ references:
     Office to include investigations of objects operating underwater.
   claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
 - text: Grusch was his agency's co-lead on UAP/trans-medium analysis, reporting to
     UAPTF then AARO
@@ -590,7 +590,7 @@ references:
     once it was established, the All-domain Anomaly Resolution Office—AARO.
   claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
 - text: Grusch had classified conversation with Kirkpatrick in April 2022, before
     Kirkpatrick led AARO
@@ -601,7 +601,7 @@ references:
     AARO in July 2022 and I provided him some concerns I had.
   claim_id: 84d3c7c3-af28-4106-99b6-89360c1331f9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84d3c7c3-af28-4106-99b6-89360c1331f9
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84d3c7c3-af28-4106-99b6-89360c1331f9
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-84d3c7c3-af28-4106-99b6-89360c1331f9
 - text: Grusch does not know why Kirkpatrick never followed up, wishes he had, was
     ready to advise him
@@ -612,7 +612,7 @@ references:
     sage counsel to him on where to look when he took the helm of AARO.
   claim_id: 41d40c84-1130-4d8f-8712-e7096b7d86c5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-41d40c84-1130-4d8f-8712-e7096b7d86c5
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-41d40c84-1130-4d8f-8712-e7096b7d86c5
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-41d40c84-1130-4d8f-8712-e7096b7d86c5
 - text: 'Grothman: Kirkpatrick testified to the Senate his unit found no evidence
     of extraterrestrial activity'
@@ -625,7 +625,7 @@ references:
     of extraterrestrial activity.
   claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4a82f055-45d4-4350-ba99-fca454419dd6
 - text: 'Von Rennenkampff: DoD statement to NewsNation denied AARO uncovered activity
     Grusch alleged'
@@ -636,7 +636,7 @@ references:
     new UFO office has uncovered the sort of activity alleged by Grusch.
   claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
 - text: 'DoD (2023-06-09): AARO found no verifiable info substantiating reverse-engineering
     programme claims'
@@ -648,7 +648,7 @@ references:
     of extraterrestrial materials have existed in the past or exist currently.”
   claim_id: 06171d55-f777-4549-8338-708d3b3f6889
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
-  workbench_url: http://localhost:5173/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-06171d55-f777-4549-8338-708d3b3f6889
+  workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-06171d55-f777-4549-8338-708d3b3f6889
   inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-06171d55-f777-4549-8338-708d3b3f6889
 - text: 'Mellon: potential sources do not trust AARO''s leadership'
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -658,7 +658,7 @@ references:
     established by Congress.
   claim_id: 68c6863e-92d9-448b-a773-e43b72b50bf0
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-68c6863e-92d9-448b-a773-e43b72b50bf0
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-68c6863e-92d9-448b-a773-e43b72b50bf0
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-68c6863e-92d9-448b-a773-e43b72b50bf0
 - text: 'Grusch: Kirkpatrick mentioned ~30 individuals had come to AARO with information'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -668,7 +668,7 @@ references:
     come to AARO thus far.
   claim_id: bd7c3f49-813c-484c-938d-113455eb998d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bd7c3f49-813c-484c-938d-113455eb998d
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bd7c3f49-813c-484c-938d-113455eb998d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bd7c3f49-813c-484c-938d-113455eb998d
 - text: Grusch personally interviewed a few of those individuals
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -677,7 +677,7 @@ references:
   quote: A few of those individuals have also come to AARO that I also interviewed.
   claim_id: d4c94125-1870-4e19-9ee3-049ae1a08d2b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d4c94125-1870-4e19-9ee3-049ae1a08d2b
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d4c94125-1870-4e19-9ee3-049ae1a08d2b
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d4c94125-1870-4e19-9ee3-049ae1a08d2b
 - text: Grusch knew what information they gave Kirkpatrick's team
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -686,7 +686,7 @@ references:
   quote: And I know what they provided Dr. Kirkpatrick and their team.
   claim_id: 65630c4f-afe8-4afe-b147-96de2ff54daa
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-65630c4f-afe8-4afe-b147-96de2ff54daa
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-65630c4f-afe8-4afe-b147-96de2ff54daa
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-65630c4f-afe8-4afe-b147-96de2ff54daa
 - text: Grusch was able to evaluate that information
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -695,7 +695,7 @@ references:
   quote: I was able to evaluate that information.
   claim_id: 9bf1911a-652f-4c01-a330-0951b6184c81
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bf1911a-652f-4c01-a330-0951b6184c81
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bf1911a-652f-4c01-a330-0951b6184c81
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bf1911a-652f-4c01-a330-0951b6184c81
 - text: AARO established six lines of effort for the Historical Record Report to ensure
     an accurate, complete picture
@@ -707,7 +707,7 @@ references:
     picture.
   claim_id: e80ef5c4-6acf-4269-a2a0-9c2c9520c499
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
 - text: 'Report: AARO reviewed official US government UFO/UAP efforts since 1945'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -716,7 +716,7 @@ references:
   quote: AARO reviewed official USG efforts involving UFOs/UAP since 1945.
   claim_id: 5db89d65-7e31-4a1f-bfdb-25f06b7c557b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
 - text: AARO partnered with National Archives to examine Project Blue Book records,
     1947-1969
@@ -727,7 +727,7 @@ references:
     the USAF's Project BLUE BOOK, which spanned from 1947 to 1969.
   claim_id: 84446458-da85-4387-9fb6-4288e8fb0821
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-84446458-da85-4387-9fb6-4288e8fb0821
 - text: 'Blue Book documentation: 7,252 files holding 65,778 digital records'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -737,7 +737,7 @@ references:
     65,778 digital records.
   claim_id: 5960de4f-b2ad-40ca-a404-5d2ca82c42e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
 - text: As of 2023-09-17, AARO had interviewed approximately 30 individuals
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -746,7 +746,7 @@ references:
   quote: As of September 17, 2023, AARO interviewed approximately 30 individuals.
   claim_id: 8177e6f2-d58e-480d-bed8-406cb25532ea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8177e6f2-d58e-480d-bed8-406cb25532ea
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8177e6f2-d58e-480d-bed8-406cb25532ea
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8177e6f2-d58e-480d-bed8-406cb25532ea
 - text: No empirical evidence any UAP effort since 1945 uncovered verifiable info
     on recovery/existence of ET beings or craft
@@ -759,7 +759,7 @@ references:
     beings or crafts.
   claim_id: 5674ff9d-b62b-478f-96f7-f2da59da1232
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5674ff9d-b62b-478f-96f7-f2da59da1232
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5674ff9d-b62b-478f-96f7-f2da59da1232
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5674ff9d-b62b-478f-96f7-f2da59da1232
 - text: AARO's work disproved the majority of recovered-ET-technology claims using
     their own verifiable information
@@ -770,7 +770,7 @@ references:
     the verifiable information made within those claims.
   claim_id: 269cbedc-a4d4-4de7-802b-e7235359eb43
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-269cbedc-a4d4-4de7-802b-e7235359eb43
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-269cbedc-a4d4-4de7-802b-e7235359eb43
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-269cbedc-a4d4-4de7-802b-e7235359eb43
 - text: No evidence USAF had a policy to cover up extraterrestrial knowledge, material
     or interactions
@@ -781,7 +781,7 @@ references:
     cover up the evidence of extraterrestrial knowledge, material, or interactions.
   claim_id: b97e7f46-7a60-4494-9811-40a8a5cafa3a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b97e7f46-7a60-4494-9811-40a8a5cafa3a
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b97e7f46-7a60-4494-9811-40a8a5cafa3a
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b97e7f46-7a60-4494-9811-40a8a5cafa3a
 - text: After CIA and NSA discussions, AARO concluded the alleged 1961 SNIE on UFOs
     was not authentic
@@ -794,7 +794,7 @@ references:
     AARO concluded the document is not authentic.
   claim_id: 6880c09a-8375-41f4-acd2-6e9e38f5cc49
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
 - text: AARO found a crash-sample, from a private org and the US Army, to be a manufactured
     terrestrial alloy
@@ -807,7 +807,7 @@ references:
     or possess any exceptional qualities.
   claim_id: 7e5a44c6-8caa-4cc2-941b-b53acae30caa
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
 - text: Sample composed primarily of magnesium, zinc and bismuth with trace lead
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -817,7 +817,7 @@ references:
     other trace elements, such as lead.
   claim_id: 242641e5-b5ad-4284-baa5-a8cf0b29b6cc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-242641e5-b5ad-4284-baa5-a8cf0b29b6cc
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-242641e5-b5ad-4284-baa5-a8cf0b29b6cc
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-242641e5-b5ad-4284-baa5-a8cf0b29b6cc
 - text: Under FY2023 NDAA, AARO requested UAP-related nondisclosure agreements from
     DoD, IC, DOE and DHS
@@ -830,7 +830,7 @@ references:
     names).
   claim_id: d1763776-36ad-47a9-8b43-398f8243145f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d1763776-36ad-47a9-8b43-398f8243145f
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d1763776-36ad-47a9-8b43-398f8243145f
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d1763776-36ad-47a9-8b43-398f8243145f
 - text: 'Graves: per AARO reporting, UAP detected wherever US Navy operates since
     his East Coast encounters'
@@ -843,7 +843,7 @@ references:
     Office reporting.
   claim_id: 0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
 - text: Jon Kosloski is the director of AARO
   source: 'Episode 73: Science vs. Secrecy'
@@ -851,7 +851,7 @@ references:
   quote: Dr. Jon Kosloski, the director of the All Domain Anomaly Resolution Office,
   claim_id: 861eb889-1a09-4831-bb1e-721ed1605e3d
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-861eb889-1a09-4831-bb1e-721ed1605e3d
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-861eb889-1a09-4831-bb1e-721ed1605e3d
 - text: 'Loeb: AARO''s third tranche report (2026-06-12) covered the October 2023
     two-day event, 40% unexplained'
   source: 'Episode 73: Science vs. Secrecy'
@@ -861,7 +861,7 @@ references:
     and admitting that 40% of the phenomena are not understood,
   claim_id: a927c7be-567b-4dd6-a792-f393e0b593bc
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a927c7be-567b-4dd6-a792-f393e0b593bc
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a927c7be-567b-4dd6-a792-f393e0b593bc
 - text: Loeb's science advisory council submitted 50+ items to AARO within six days
     of its first call
   source: 'Episode 73: Science vs. Secrecy'
@@ -871,7 +871,7 @@ references:
     50 items of information... we submitted it to the UAP
   claim_id: b2640a27-6161-4432-9c3c-3cd27f2c0c21
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
 - text: Grusch attended a classified meeting in which he challenged AARO
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:01.5-00:49:07.5
@@ -879,14 +879,14 @@ references:
     meeting with Representative Burlison
   claim_id: ab781e88-ceb6-4faf-a086-191641c1362d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab781e88-ceb6-4faf-a086-191641c1362d
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab781e88-ceb6-4faf-a086-191641c1362d
 - text: Grusch offered to cross-examine witnesses on AARO's behalf
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:10.4-00:49:13.0
   quote: Okay, well, I will cross examine witnesses for you.
   claim_id: 12cfe666-9ff7-45c5-9681-806494781f02
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-12cfe666-9ff7-45c5-9681-806494781f02
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-12cfe666-9ff7-45c5-9681-806494781f02
 - text: Grusch named officials and gave AARO leads
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:13.3-00:49:20.8
@@ -894,14 +894,14 @@ references:
     on behalf of the government and provided them several leads
   claim_id: 782deb7f-4cac-45c2-8789-b31399132b26
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-782deb7f-4cac-45c2-8789-b31399132b26
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-782deb7f-4cac-45c2-8789-b31399132b26
 - text: AARO had not contacted Grusch in the 15 months since his offer
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:36.4-00:49:40.4
   quote: it's been 15 months and AARO ghosted me and never contacted me again
   claim_id: 5759a51e-ab3e-4c3d-b5d0-4700fb2e87ac
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-5759a51e-ab3e-4c3d-b5d0-4700fb2e87ac
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-5759a51e-ab3e-4c3d-b5d0-4700fb2e87ac
 - text: 'Grusch: AARO likely avoided him fearing what he''d extract from named individuals'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:40.8-00:49:47.1
@@ -909,14 +909,14 @@ references:
     do or extract from these individuals
   claim_id: 6ac01f64-25ef-40ed-8f02-b4f0a7b592f7
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-6ac01f64-25ef-40ed-8f02-b4f0a7b592f7
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-6ac01f64-25ef-40ed-8f02-b4f0a7b592f7
 - text: Grusch considers AARO a troubled organisation
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:47.7-00:49:52.3
   quote: it's actually quite sad that that organization is as troubled as it is.
   claim_id: f84726cd-fb12-40d3-82e7-c37ed0e3dd22
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f84726cd-fb12-40d3-82e7-c37ed0e3dd22
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f84726cd-fb12-40d3-82e7-c37ed0e3dd22
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

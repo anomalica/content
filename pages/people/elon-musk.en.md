@@ -28,7 +28,7 @@ references:
   quote: Elon did what Boeing has contracted to do in less time for half the money.
   claim_id: 78dfe87d-e972-4f39-997c-86557385215c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-78dfe87d-e972-4f39-997c-86557385215c
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-78dfe87d-e972-4f39-997c-86557385215c
 - text: A SpaceX rocket launched from Kwajalein Atoll suffered a fuel line rupture
     and fell back near the atoll
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -40,7 +40,7 @@ references:
     ATOL
   claim_id: aad7533f-9ae2-484b-ae41-6ea4b076fb2f
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-aad7533f-9ae2-484b-ae41-6ea4b076fb2f
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-aad7533f-9ae2-484b-ae41-6ea4b076fb2f
 - text: Musk was unhappy about the failed test and blamed the responsible engineer
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -48,7 +48,7 @@ references:
   quote: Elon wasn't happy and threw this guy under the bus
   claim_id: a5bba51b-f7ce-4e21-aa18-b58080e718eb
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a5bba51b-f7ce-4e21-aa18-b58080e718eb
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a5bba51b-f7ce-4e21-aa18-b58080e718eb
 - text: A friend of Fravor's said Musk owns a roughly 160-hectare property near Waco,
     Texas
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -59,7 +59,7 @@ references:
     government contract, and then there's working at SpaceX with Elon money.
   claim_id: 55f710f9-20eb-4d6b-afde-83f889eb5ecb
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-55f710f9-20eb-4d6b-afde-83f889eb5ecb
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-55f710f9-20eb-4d6b-afde-83f889eb5ecb
 - text: A friend of Fravor's said SpaceX bought out a struggling tool-and-die shop
     within hours of meeting Musk
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -69,7 +69,7 @@ references:
     an hour or two Elon has bought the guy's company.
   claim_id: 0da55a04-2cef-4955-8247-1f2316936767
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0da55a04-2cef-4955-8247-1f2316936767
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0da55a04-2cef-4955-8247-1f2316936767
 - text: Nanstiel said mapping the Illinois caverns would need someone like Musk who
     could fund it without missing the money
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -79,7 +79,7 @@ references:
     miss the money at all.
   claim_id: eb086638-4a0c-4842-a3dc-8adcf3174b09
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-eb086638-4a0c-4842-a3dc-8adcf3174b09
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-eb086638-4a0c-4842-a3dc-8adcf3174b09
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

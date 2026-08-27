@@ -337,7 +337,7 @@ references:
     11, the Red Rippers, and I was stationed at NAS Oceana in Virginia Beach.
   claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
 - text: Graves is a former USN F/A-18 Hornet pilot with a decade of service including
     two deployments
@@ -349,7 +349,7 @@ references:
     and Operation Inherent Resolve.
   claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
 - text: Graves' squadron began seeing UAP hovering over restricted airspace southeast
     of Virginia Beach in 2014
@@ -359,7 +359,7 @@ references:
     southeast of Virginia Beach in 2014
   claim_id: 5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
 - text: After radar upgrades, the squadron began detecting unknown objects operating
     in its airspace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -369,7 +369,7 @@ references:
     objects operating in our airspace.
   claim_id: d0e8b671-4261-4c0d-bf65-488dc51e44f4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d0e8b671-4261-4c0d-bf65-488dc51e44f4
 - text: During a training mission in Warning Area W-72 off Virginia Beach, two F/A-18F
     Super Hornets were split apart by a UAP
@@ -380,7 +380,7 @@ references:
     Virginia Beach, two F–18 Super Hornets were split by a UAP.
   claim_id: 63a416b2-3a51-4242-be1e-cf61f391fb01
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
 - text: The object was a dark grey or black cube inside a clear sphere
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -389,7 +389,7 @@ references:
   quote: The object, described as a dark gray or a black cube inside of a clear sphere
   claim_id: 3888eb6a-6598-4a2e-82b2-929760af715d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3888eb6a-6598-4a2e-82b2-929760af715d
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3888eb6a-6598-4a2e-82b2-929760af715d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3888eb6a-6598-4a2e-82b2-929760af715d
 - text: The cube-in-sphere object came within approximately 15 metres of the lead
     aircraft
@@ -399,7 +399,7 @@ references:
   quote: came within 50 feet of the lead aircraft
   claim_id: 9bc03c9c-ae88-4393-9c0f-c6352fd7b030
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
 - text: It was estimated at approximately 1.5 to 4.5 metres in diameter
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -408,7 +408,7 @@ references:
   quote: was estimated to be five to 15 feet in diameter
   claim_id: 8a6fac78-ccb1-4fea-84a2-76690cc1577d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8a6fac78-ccb1-4fea-84a2-76690cc1577d
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-8a6fac78-ccb1-4fea-84a2-76690cc1577d
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-8a6fac78-ccb1-4fea-84a2-76690cc1577d
 - text: The squadron filed a safety report but received no official acknowledgement
     and no further reporting mechanism
@@ -419,7 +419,7 @@ references:
     of the incident and no further mechanism to report the sightings.
   claim_id: ffe6443d-2fa3-4451-9558-3541a68e4304
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ffe6443d-2fa3-4451-9558-3541a68e4304
 - text: Graves relayed his colleague's account of a translucent sphere, 'a giant soap
     bubble', with a cube touching its inner edge
@@ -432,7 +432,7 @@ references:
     by his anonymous pilot colleague who experienced it.
   claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fa3908-d548-4a13-91f4-0438b34b7372
 - text: Graves said he was told, 'I almost hit one of those damn things'
   source: In Plain Sight (2021)
@@ -440,7 +440,7 @@ references:
   quote: ‘I almost hit one of those damn things,’ Graves was told.
   claim_id: 4da850a7-4142-4d44-bdef-187936a37307
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4da850a7-4142-4d44-bdef-187936a37307
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4da850a7-4142-4d44-bdef-187936a37307
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4da850a7-4142-4d44-bdef-187936a37307
 - text: Graves saw a cluster of smaller craft in an inverted V-shape ahead of the
     object in the longer Gimbal video he viewed aboard USS Theodore Roosevelt
@@ -450,7 +450,7 @@ references:
     an inverted V-shape in front of the larger Gimbal object.
   claim_id: d1443675-36be-4986-a5da-ddaf0257bbea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1443675-36be-4986-a5da-ddaf0257bbea
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1443675-36be-4986-a5da-ddaf0257bbea
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1443675-36be-4986-a5da-ddaf0257bbea
 - text: During the Gimbal incident, the FLIR recording shows one rotating object while
     pilots refer to a fleet not visible on the footage
@@ -462,7 +462,7 @@ references:
     refer to a fleet of objects that is not visible on the FLIR system
   claim_id: 5cc43ccc-c11d-4b07-b19c-4da02718292a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5cc43ccc-c11d-4b07-b19c-4da02718292a
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5cc43ccc-c11d-4b07-b19c-4da02718292a
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5cc43ccc-c11d-4b07-b19c-4da02718292a
 - text: Graves witnessed in a debrief that the referenced fleet was part of the radar
     data on the situational awareness page
@@ -473,7 +473,7 @@ references:
     data on the situational awareness page.
   claim_id: 63bbafa1-a202-480d-8c65-5b58c12fe5ed
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63bbafa1-a202-480d-8c65-5b58c12fe5ed
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63bbafa1-a202-480d-8c65-5b58c12fe5ed
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63bbafa1-a202-480d-8c65-5b58c12fe5ed
 - text: Graves wrote the observed UAP accelerated at speeds up to Mach 1
   source: In Plain Sight (2021)
@@ -482,7 +482,7 @@ references:
     1, the speed of sound.
   claim_id: d1163d55-352e-4697-9e68-b5465dd4bae8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
 - text: He wrote they could hold position, appearing motionless, despite Category
     4 hurricane-force winds of approximately 220 km/h
@@ -492,7 +492,7 @@ references:
     hurricane-force winds of 120 knots.
   claim_id: f2fa6034-77a3-4aaa-9e29-917acec6e5d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
 - text: He wrote they had no visible means of lift, control surfaces or propulsion
   source: In Plain Sight (2021)
@@ -501,7 +501,7 @@ references:
     — in other words nothing that resembled normal aircraft with wings, flaps or engines.
   claim_id: 0750f1f1-6182-42e9-bcbb-f838b8ce88c7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
 - text: Graves and Fravor said they did not face repercussions from their superiors
     for reporting their UAP experiences
@@ -512,7 +512,7 @@ references:
     with your superiors? Yes or no. Mr. GRAVES. No. Commander FRAVOR. No.
   claim_id: 7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-7dacacb0-0e98-4eb5-93ec-2eb138ef7d02
 - text: Graves founded Americans for Safe Aerospace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -522,7 +522,7 @@ references:
     Aerospace.
   claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
 - text: Graves is the Executive Director of Americans for Safe Aerospace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -531,7 +531,7 @@ references:
   quote: He is the Executive Director of Americans for Safe Aerospace.
   claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
 - text: More than thirty witnesses have come forward to the organisation and almost
     5,000 Americans have joined its push for transparency
@@ -542,7 +542,7 @@ references:
     joined us in the fight for transparency at safeaerospace.org.
   claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5f634167-7d07-4560-a064-cd12ac2fb826
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5f634167-7d07-4560-a064-cd12ac2fb826
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5f634167-7d07-4560-a064-cd12ac2fb826
 - text: Graves testified at the 2023-07-26 House hearing on Unidentified Anomalous
     Phenomena as Executive Director of Americans for Safe Aerospace
@@ -552,7 +552,7 @@ references:
   quote: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace, Oral Statement
   claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
 - text: At the July 2023 bipartisan hearing, Fravor, Graves and Grusch testified under
     oath
@@ -564,7 +564,7 @@ references:
     *under oath*
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
 - text: Graves said he relied on Grusch and others to research where UAP-related information
     is kept, since he was an operator
@@ -575,7 +575,7 @@ references:
     homework.
   claim_id: 4357a2cf-8f78-48a3-b059-546a4de0be81
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4357a2cf-8f78-48a3-b059-546a4de0be81
 - text: Graves, Grusch and Fravor all indicated some possibility that UAP are collecting
     reconnaissance on US military capabilities
@@ -587,7 +587,7 @@ references:
     FRAVOR. It is very possible.
   claim_id: b61148be-60c0-4ff6-b974-690c581e291b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b61148be-60c0-4ff6-b974-690c581e291b
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b61148be-60c0-4ff6-b974-690c581e291b
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b61148be-60c0-4ff6-b974-690c581e291b
 - text: Graves speaks on behalf of more than 30 commercial aircrew and military veterans
     who confided similar encounters to him
@@ -598,7 +598,7 @@ references:
     veterans who have confided their similar encounters with me.
   claim_id: 57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-57d5c2c2-a1ab-413a-83c0-5ee5799b5f9b
 - text: Since 2021 all UAP videos have been classified as secret or above
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -607,7 +607,7 @@ references:
   quote: Since 2021 all UAP videos are classified as secret or above.
   claim_id: 648c41bf-2910-4994-bacc-3de28f508858
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-648c41bf-2910-4994-bacc-3de28f508858
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-648c41bf-2910-4994-bacc-3de28f508858
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-648c41bf-2910-4994-bacc-3de28f508858
 - text: Graves was trained as an aviation safety officer by the US Navy
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -616,7 +616,7 @@ references:
   quote: I was trained as an aviation safety officer by the Navy
   claim_id: 40cf93fd-9c76-4eaa-acb1-967992b4a17e
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
 - text: Graves has been working with the AIAA to help establish a UAP Integration
     Committee
@@ -628,7 +628,7 @@ references:
     prowess into this problem.
   claim_id: c1e95b8d-9b0a-40d6-b690-e07159cb6595
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1e95b8d-9b0a-40d6-b690-e07159cb6595
 - text: Graves recommends using the existing Aviation Safety Reporting System as a
     short-term trusted platform for pilots to report UAP
@@ -640,7 +640,7 @@ references:
     platform for pilots that want to report on UAP.
   claim_id: 368a9b88-5c01-47bd-aa03-7ebdab70cf71
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-368a9b88-5c01-47bd-aa03-7ebdab70cf71
 - text: The ASRS has built-in analytics capability and is funded by Congress
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -649,7 +649,7 @@ references:
   quote: It also has built-in analytics capability and is funded by Congress.
   claim_id: 6c416be9-a95b-4328-9fe7-da635b8fccf6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6c416be9-a95b-4328-9fe7-da635b8fccf6
 - text: Graves and other Theodore Roosevelt pilots were summonsed to give confidential
     briefings to members of Congress
@@ -659,7 +659,7 @@ references:
     to give confidential briefings to members of Congress.
   claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
 - text: Graves recalled Rear Admiral Andrew L. Lewis, on viewing the UAP video, said
     'Hah!' and walked out
@@ -668,7 +668,7 @@ references:
   quote: ‘He looks at the video and goes “Hah!” and walks out,’ Graves recalled.
   claim_id: 8a54bd01-4854-43c9-858b-f02bd91c6894
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
 - text: A witness described a large, approximately 90-metre red square object approaching
     Vandenberg Air Force Base from the ocean, told to Graves by contractors
@@ -681,7 +681,7 @@ references:
     hover at low altitude over one of the launch facilities.
   claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
 - text: During the Vandenberg incident, the object remained for about 45 seconds before
     darting off over the mountains
@@ -692,7 +692,7 @@ references:
     mountains.
   claim_id: cba2dfff-b37a-4d25-a909-d8e67c885d12
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cba2dfff-b37a-4d25-a909-d8e67c885d12
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cba2dfff-b37a-4d25-a909-d8e67c885d12
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cba2dfff-b37a-4d25-a909-d8e67c885d12
 - text: Graves observed no exhaust plume on the unidentified object shown in a targeting-camera
     video
@@ -701,7 +701,7 @@ references:
   quote: You know, I don't see an exhaust plume.
   claim_id: 2d519e77-03a8-438c-bd7a-25020ffa0bbb
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2d519e77-03a8-438c-bd7a-25020ffa0bbb
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2d519e77-03a8-438c-bd7a-25020ffa0bbb
 - text: A targeting-camera video of an unidentified object was captured off Jacksonville,
     Florida in 2015 by members of Graves' squadron
   source: Navy pilots describe encounters with UFOs
@@ -710,7 +710,7 @@ references:
     on a targeting camera by members of Graves' squadron.
   claim_id: 5304e2a7-10e9-451e-8544-f1835b0a0394
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5304e2a7-10e9-451e-8544-f1835b0a0394
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5304e2a7-10e9-451e-8544-f1835b0a0394
 - text: Graves is a naval pilot and a key eyewitness in the 2015 USS Roosevelt UAP
     incursions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -718,7 +718,7 @@ references:
   quote: the naval pilot Ryan Graves—a key eyewitness in the USS Roosevelt sightings
   claim_id: 975bc549-6302-4843-bc8b-f9740f9455ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-975bc549-6302-4843-bc8b-f9740f9455ba
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-975bc549-6302-4843-bc8b-f9740f9455ba
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-975bc549-6302-4843-bc8b-f9740f9455ba
 built_by:
   model: claude-sonnet-5

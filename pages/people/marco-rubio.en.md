@@ -76,7 +76,7 @@ references:
     an unclassified report by next month.
   claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
 - text: After receiving classified UAP briefings, Rubio called for detailed analysis
     of the phenomena
   source: Navy pilots describe encounters with UFOs
@@ -85,14 +85,14 @@ references:
     for a detailed analysis.
   claim_id: e25bcea0-80bf-4d2c-929d-5ddbecaf1753
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e25bcea0-80bf-4d2c-929d-5ddbecaf1753
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e25bcea0-80bf-4d2c-929d-5ddbecaf1753
 - text: Rubio said there is a stigma attached to discussing UAP on Capitol Hill
   source: Navy pilots describe encounters with UFOs
   location: 00:12:59.0-00:13:00.5
   quote: You know, there's a stigma on Capitol Hill.
   claim_id: 2716b1e6-a5de-4307-9263-41725132e5c1
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2716b1e6-a5de-4307-9263-41725132e5c1
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2716b1e6-a5de-4307-9263-41725132e5c1
 - text: Rubio wants a formal process to take UAP reports seriously and continuously
     catalogue and analyse incoming data
   source: Navy pilots describe encounters with UFOs
@@ -102,7 +102,7 @@ references:
     be a place where this is cataloged and constantly analyzed until we get some answers.
   claim_id: a67a3e0b-3992-4d72-b6b9-0298a14e3115
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a67a3e0b-3992-4d72-b6b9-0298a14e3115
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a67a3e0b-3992-4d72-b6b9-0298a14e3115
 - text: Rubio said NORAD had never before shot down an object over American airspace,
     and all three objects remained unidentified
   source: In Plain Sight
@@ -112,7 +112,7 @@ references:
     American airspace and all three were still unidentifi ed.
   claim_id: 372c43d6-717d-413f-98a8-373d693cb399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-372c43d6-717d-413f-98a8-373d693cb399
 - text: Rubio made a bipartisan effort with Kirsten Gillibrand to create an office
     to coordinate reporting and response to unidentified objects
@@ -123,7 +123,7 @@ references:
     respond to unidentifi ed objects.
   claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4edfb886-4ae6-43e2-b9ab-4aa2363d4834
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4edfb886-4ae6-43e2-b9ab-4aa2363d4834
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4edfb886-4ae6-43e2-b9ab-4aa2363d4834
 - text: Rubio said the Pentagon UAP office had seen hundreds of airborne cases not
     met with a shoot-down response
@@ -133,7 +133,7 @@ references:
     items, which were not met with the same shoot-down response.
   claim_id: 2ecc9c6d-0dd6-4477-8f42-b5726edb040b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2ecc9c6d-0dd6-4477-8f42-b5726edb040b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2ecc9c6d-0dd6-4477-8f42-b5726edb040b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2ecc9c6d-0dd6-4477-8f42-b5726edb040b
 - text: Rubio expressed concern that the Defense Department had not shared UAP case
     information with AARO investigators and scientists
@@ -145,7 +145,7 @@ references:
     Anomaly Resolution Offi ce.
   claim_id: 073c0612-c167-4edd-9bb7-bcd10f6b825e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-073c0612-c167-4edd-9bb7-bcd10f6b825e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-073c0612-c167-4edd-9bb7-bcd10f6b825e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-073c0612-c167-4edd-9bb7-bcd10f6b825e
 - text: Warner and Rubio strongly and publicly supported the UAP legislation in the
     National Defense Authorization Act 2023
@@ -156,7 +156,7 @@ references:
     strongly and publicly supported the UAP legislation.
   claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
 - text: Rubio criticised the government's response to the Chinese spy balloon and
     pushed for answers on unidentified objects
@@ -166,7 +166,7 @@ references:
     and Pushes for Answers on Unidentified Objects', 15 Feb 2023, CBS News/CBS Mornings.
   claim_id: a05087d2-3a18-46e0-b35a-c1742a84d2a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a05087d2-3a18-46e0-b35a-c1742a84d2a0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a05087d2-3a18-46e0-b35a-c1742a84d2a0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a05087d2-3a18-46e0-b35a-c1742a84d2a0
 - text: The FY2023 NDAA UAP provisions were spearheaded by Gillibrand and Rubio and
     signed into law by Joe Biden in December 2022
@@ -176,7 +176,7 @@ references:
     law by President Biden in December 2022.
   claim_id: eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
 - text: As acting chairman of the Senate Intelligence Committee, Rubio supported the
     proposal for a UAP transparency report despite criticism from those hostile to
@@ -189,7 +189,7 @@ references:
     to the idea of transparency.
   claim_id: 2a8ba34c-485b-44c4-ae3a-33015835d877
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a8ba34c-485b-44c4-ae3a-33015835d877
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a8ba34c-485b-44c4-ae3a-33015835d877
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a8ba34c-485b-44c4-ae3a-33015835d877
 - text: As chair of the Senate Intelligence Committee, Rubio was the chief sponsor
     of the bill requiring a DOD UAP report
@@ -199,7 +199,7 @@ references:
     was the chief sponsor of the bill.
   claim_id: e28d610f-1ee7-4e84-a67f-232ac3e2a239
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e28d610f-1ee7-4e84-a67f-232ac3e2a239
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e28d610f-1ee7-4e84-a67f-232ac3e2a239
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e28d610f-1ee7-4e84-a67f-232ac3e2a239
 - text: Blunt, Graham and Rubio joined Gillibrand and Heinrich, with Ruben Gallego,
     Christopher Mellon and Luis Elizondo, to craft UAP language for the NDAA
@@ -212,7 +212,7 @@ references:
     Chris and me.
   claim_id: adea157c-4485-459e-9776-d1a66737c42e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea157c-4485-459e-9776-d1a66737c42e
 - text: In summer 2023, Schumer, Mike Rounds, Rubio and Gillibrand sponsored the UAP
     Disclosure Act
@@ -223,7 +223,7 @@ references:
     the most historic UAP legislation yet, the UAP Disclosure Act
   claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
 - text: Grusch believes Warner and Rubio were nervous about escalating their confrontation
     with the intelligence community bureaucracy over UAP
@@ -233,7 +233,7 @@ references:
     ante with the the deep state that they were tackling
   claim_id: 07e5785f-5ab1-4924-9575-f469c90b753b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-07e5785f-5ab1-4924-9575-f469c90b753b
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-07e5785f-5ab1-4924-9575-f469c90b753b
 - text: Trump made his remarks about releasing extraterrestrial information at a cabinet
     meeting with Rubio seated on one side and Pete Hegseth on the other
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -243,7 +243,7 @@ references:
     one side and Pete Hegseth on the other.
   claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
 - text: Rubio said the concern is whether an adversary has a capability the US isn't
     looking for, since its systems are set up to see missiles and aeroplanes, not
     smaller low-altitude objects
@@ -254,7 +254,7 @@ references:
     airplanes. They''re not set up to see smaller objects at lower altitudes.'''
   claim_id: b4e19822-adfd-4a8b-8097-c5fb4c4857cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4e19822-adfd-4a8b-8097-c5fb4c4857cd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4e19822-adfd-4a8b-8097-c5fb4c4857cd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b4e19822-adfd-4a8b-8097-c5fb4c4857cd
 - text: Rubio considers any object entering airspace where it is not supposed to be
     a threat
@@ -263,7 +263,7 @@ references:
   quote: Anything that enters an airspace that's not supposed to be there is a threat.
   claim_id: 9746655e-f89a-405e-81e5-e1bbf1eaca04
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-9746655e-f89a-405e-81e5-e1bbf1eaca04
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-9746655e-f89a-405e-81e5-e1bbf1eaca04
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -71,7 +71,7 @@ references:
     surprise.
   claim_id: c461ee3f-0cdb-40d5-b4a0-814f08717f82
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c461ee3f-0cdb-40d5-b4a0-814f08717f82
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c461ee3f-0cdb-40d5-b4a0-814f08717f82
 - text: Jacques Vallée's assessment that Aleister Crowley's influence on Hitler was
     more imaginary than real
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -79,7 +79,7 @@ references:
   quote: whose influence on Hitler was more imaginary than real.
   claim_id: 00fd7d2a-3449-41d0-8ba3-215055e53fed
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-00fd7d2a-3449-41d0-8ba3-215055e53fed
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-00fd7d2a-3449-41d0-8ba3-215055e53fed
 - text: Major Murphy told Vallée that Hitler had 95 percent of the information about
     the Normandy landing, but the wrong 95 percent
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -88,7 +88,7 @@ references:
     But he had the wrong 95 percent!
   claim_id: a012db17-ebb1-42a4-a952-f43a65e7a65f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a012db17-ebb1-42a4-a952-f43a65e7a65f
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a012db17-ebb1-42a4-a952-f43a65e7a65f
 - text: Pius XII described as a man of compromise whose failure to stand firm against
     Hitler was his undoing
   source: The Fatima Secret
@@ -99,7 +99,7 @@ references:
     later with the Nazis in Rome.
   claim_id: 3771f05f-ffbf-4129-bcb5-b453263d1bd8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3771f05f-ffbf-4129-bcb5-b453263d1bd8
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3771f05f-ffbf-4129-bcb5-b453263d1bd8
 - text: Pius XII never spoke out openly against Hitler's anti-Semitism despite helping
     Jews escape
   source: The Fatima Secret
@@ -109,14 +109,14 @@ references:
     and this made him a target of criticism.
   claim_id: 5c90c1b1-9901-4152-afa3-b4249f88f8e6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5c90c1b1-9901-4152-afa3-b4249f88f8e6
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5c90c1b1-9901-4152-afa3-b4249f88f8e6
 - text: Hitler's troops swept into Poland on 1939-09-01
   source: The Fatima Secret
   location: ch15:6066-6109
   quote: On September 1, Hitler's troops swept into Poland.
   claim_id: ffe920fc-8d82-4f15-b95f-9992b5be65b7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ffe920fc-8d82-4f15-b95f-9992b5be65b7
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ffe920fc-8d82-4f15-b95f-9992b5be65b7
 - text: Britain and France issued an ultimatum to Hitler on 1939-09-02
   source: The Fatima Secret
   location: ch15:6117-6237
@@ -124,7 +124,7 @@ references:
     the end of all military action by September 3, 1939.
   claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cb006f68-f2cb-45d0-8457-c6099d512b12
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cb006f68-f2cb-45d0-8457-c6099d512b12
 - text: Pius XI's Church withstood persecutions under Hitler and Stalin
   source: The Fatima Secret
   location: ch21:10489-10565
@@ -132,7 +132,7 @@ references:
     Stalin.
   claim_id: 2d50166e-9809-445c-9722-b1554e947b83
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2d50166e-9809-445c-9722-b1554e947b83
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2d50166e-9809-445c-9722-b1554e947b83
 - text: Hitler and Himmler believed ancient Egyptian gods came from an extraterrestrial-founded
     Atlantis
   source: Dark Mission
@@ -142,7 +142,7 @@ references:
     established on Earth by extraterrestrials."
   claim_id: b50d24a5-152b-40c8-81c4-83bb430f635d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b50d24a5-152b-40c8-81c4-83bb430f635d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b50d24a5-152b-40c8-81c4-83bb430f635d
 - text: The Surveyor 3 landing date coincides with Hitler's birthday
   source: Dark Mission
   location: ch12:133740-133852
@@ -150,7 +150,7 @@ references:
     just "happened" to be—Adolf Hitler's birthday.
   claim_id: 207c4a81-d265-48cd-bfdb-78fd1abe5dbd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-207c4a81-d265-48cd-bfdb-78fd1abe5dbd
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-207c4a81-d265-48cd-bfdb-78fd1abe5dbd
 - text: Apollo 16 landed on the Moon on Hitler's birthday
   source: Dark Mission
   location: ch12:134134-134208
@@ -158,7 +158,7 @@ references:
     of birth.
   claim_id: 56896a55-073a-4a3c-bc92-422f0fa1fc88
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56896a55-073a-4a3c-bc92-422f0fa1fc88
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56896a55-073a-4a3c-bc92-422f0fa1fc88
 - text: Hoagland noted NASA's Surveyor 3 landing date coincided with Hitler's birthday
   source: Dark Mission
   location: ch12:162311-162393
@@ -166,7 +166,7 @@ references:
     Hitler’s birthday).
   claim_id: 8d007149-e8d8-4c9e-996f-fa16b9aba490
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8d007149-e8d8-4c9e-996f-fa16b9aba490
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8d007149-e8d8-4c9e-996f-fa16b9aba490
 - text: Hoagland noted Alan Bean's inspection of Surveyor 3 occurred on the anniversary
     of Hitler's birthday
   source: Dark Mission
@@ -177,7 +177,7 @@ references:
     birthday* (NASA).
   claim_id: 4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
 - text: Hoagland described the 1939 photograph of von Braun's rocket demonstration
     for Hitler, which led to von Braun's SS commission offer from Himmler and the
     Peenemünde V-2 programme
@@ -190,7 +190,7 @@ references:
     Archive)
   claim_id: a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
 - text: Hoagland noted the Apollo 16 lunar module Orion landed on Hitler's birthday
   source: Dark Mission
   location: ch12:172657-172765
@@ -198,7 +198,7 @@ references:
     April 20th, 1972 (Adolf Hitler’s birthday).
   claim_id: f44f1b0e-ae47-4d90-8b74-2202a5bcc5a7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f44f1b0e-ae47-4d90-8b74-2202a5bcc5a7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f44f1b0e-ae47-4d90-8b74-2202a5bcc5a7
 - text: Von Braun remained in Germany after Hitler came to power in 1933
   source: Dark Mission
   location: ch12:95777-95905
@@ -206,7 +206,7 @@ references:
     he could have left and gone to France, England or America.
   claim_id: 45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
 - text: Hitler personally assigned Colonel Walter Dornberger to oversee von Braun's
     research
   source: Dark Mission
@@ -215,7 +215,7 @@ references:
     research for "military applications."
   claim_id: 41f0093b-fb6c-437c-a61a-a9879d25c800
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-41f0093b-fb6c-437c-a61a-a9879d25c800
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-41f0093b-fb6c-437c-a61a-a9879d25c800
 - text: Hitler personally visited von Braun's laboratories in 1939 for a rocket demonstration
   source: Dark Mission
   location: ch12:96125-96303
@@ -224,7 +224,7 @@ references:
     Von Braun's team had been developing
   claim_id: b0da43cb-b990-46de-8416-c8451ddcd580
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b0da43cb-b990-46de-8416-c8451ddcd580
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b0da43cb-b990-46de-8416-c8451ddcd580
 - text: Himmler grew the SS from Hitler's personal bodyguard into a large organisation
   source: Dark Mission
   location: ch12:97401-97601
@@ -233,7 +233,7 @@ references:
     mission, objectives, army and internal structure.
   claim_id: 93b9abc2-d4ac-40f0-8770-46f55f3c188e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-93b9abc2-d4ac-40f0-8770-46f55f3c188e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-93b9abc2-d4ac-40f0-8770-46f55f3c188e
 - text: The SS led persecution of Freemasons, Jews and other minorities in Hitler's
     Germany
   source: Dark Mission
@@ -242,7 +242,7 @@ references:
     minorities) in Hitler's Germany.
   claim_id: ebc19839-a392-42d9-b224-ddff38d41dea
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebc19839-a392-42d9-b224-ddff38d41dea
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebc19839-a392-42d9-b224-ddff38d41dea
 - text: Nicholas Goodrick-Clarke wrote that Hitler and Himmler considered the Nazi
     party a lineal descendant of the Teutonic Knights
   source: Dark Mission
@@ -252,7 +252,7 @@ references:
     be a direct lineal descendant of the Teutonic Knights
   claim_id: d674726f-38f6-40fd-a19e-eba3314eed6c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d674726f-38f6-40fd-a19e-eba3314eed6c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d674726f-38f6-40fd-a19e-eba3314eed6c
 - text: Goodrick-Clarke wrote that Hitler considered himself a reincarnation of Frederick
     Barbarossa
   source: Dark Mission
@@ -261,7 +261,7 @@ references:
     of that offshoot of the Knights Templar
   claim_id: ecc188c4-1bf8-4173-9117-0a193db0a265
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ecc188c4-1bf8-4173-9117-0a193db0a265
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ecc188c4-1bf8-4173-9117-0a193db0a265
 - text: The A4 flying bomb was deployed against Britain in 1944 on Hitler's orders
   source: Dark Mission
   location: ch12:99596-99683
@@ -269,14 +269,14 @@ references:
     Britain in 1944.
   claim_id: 8d4379d0-482c-4d0f-b72e-7083c2e4c1ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8d4379d0-482c-4d0f-b72e-7083c2e4c1ff
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8d4379d0-482c-4d0f-b72e-7083c2e4c1ff
 - text: A 1998 NASA Cydonia observation announcement fell on Hitler's birthday
   source: Dark Mission
   location: ch13:43387-43451
   quote: On April 20, 1998 (yes, Hitler’s birthday), NASA again posted a document
   claim_id: f09cca35-4a15-4589-b0ce-7e015a2aae2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f09cca35-4a15-4589-b0ce-7e015a2aae2f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f09cca35-4a15-4589-b0ce-7e015a2aae2f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

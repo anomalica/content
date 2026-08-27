@@ -211,7 +211,7 @@ references:
   quote: And, ten days later, Kennedy was dead.
   claim_id: fa4f853b-13c5-4014-8bcf-352d1727bbf7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa4f853b-13c5-4014-8bcf-352d1727bbf7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa4f853b-13c5-4014-8bcf-352d1727bbf7
 - text: Cuban Missile Crisis began when Kennedy announced discovery of Soviet missiles
     in Cuba
   source: The Fatima Secret
@@ -221,14 +221,14 @@ references:
     the island of Cuba.
   claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a05c997d-c1f0-4da0-8587-0c75532f0ce0
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a05c997d-c1f0-4da0-8587-0c75532f0ce0
 - text: Kennedy responded by sending US warships to Cuba
   source: The Fatima Secret
   location: ch17:1345-1389
   quote: Kennedy reacted by sending U.S. warships to Cuba.
   claim_id: a30471e3-76e4-4352-82da-96e36599288e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a30471e3-76e4-4352-82da-96e36599288e
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a30471e3-76e4-4352-82da-96e36599288e
 - text: By late 1963 Kennedy's popularity had grown, re-election prospects looked
     good
   source: Dark Mission
@@ -237,7 +237,7 @@ references:
     grown stronger, and his chances of re-election in 1964 looked increasingly good.
   claim_id: 57f7e9e8-47ff-442c-9f40-4891fe4ef300
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57f7e9e8-47ff-442c-9f40-4891fe4ef300
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57f7e9e8-47ff-442c-9f40-4891fe4ef300
 - text: Kennedy was unpopular in the South but more popular in Texas
   source: Dark Mission
   location: ch10:76474-76676
@@ -246,7 +246,7 @@ references:
     the dollars the space program was bringing to Texas.
   claim_id: a18218e3-c452-47c8-83c1-8281b65721f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a18218e3-c452-47c8-83c1-8281b65721f3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a18218e3-c452-47c8-83c1-8281b65721f3
 - text: Kennedy's ANPA speech at the Waldorf-Astoria, about two weeks after the Brookings
     Report
   source: Dark Mission
@@ -256,7 +256,7 @@ references:
     New York City to make the comments cited above.
   claim_id: 2a35851c-630a-4f81-a2e4-47da01d410be
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a35851c-630a-4f81-a2e4-47da01d410be
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a35851c-630a-4f81-a2e4-47da01d410be
 - text: Kennedy said secrecy is repugnant in a free and open society
   source: Dark Mission
   location: ch10:58681-59066
@@ -267,7 +267,7 @@ references:
     are cited to justify it.”—President John F. Kennedy, April 27, 1961
   claim_id: e4b29c33-ad4f-4edc-9898-923482962149
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e4b29c33-ad4f-4edc-9898-923482962149
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e4b29c33-ad4f-4edc-9898-923482962149
 - text: Speech warned of 'excessive and unwarranted concealment'
   source: Dark Mission
   location: ch10:61111-61276
@@ -276,7 +276,7 @@ references:
     to know
   claim_id: 7dee4931-f1f1-4c74-acc3-127f87b0773e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dee4931-f1f1-4c74-acc3-127f87b0773e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dee4931-f1f1-4c74-acc3-127f87b0773e
 - text: 'Hoagland: speech responded to the Brookings Report''s suppression recommendation'
   source: Dark Mission
   location: ch10:60390-60532
@@ -284,7 +284,7 @@ references:
     suppression of the discovery of ET artifacts, Kennedy made a speech
   claim_id: 1b3fb756-bcb7-4b1d-8740-ff34f748a73e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b3fb756-bcb7-4b1d-8740-ff34f748a73e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b3fb756-bcb7-4b1d-8740-ff34f748a73e
 - text: 'Hoagland: ''secret societies'' remark referenced the Brookings Report'
   source: Dark Mission
   location: ch10:61353-61436
@@ -292,7 +292,7 @@ references:
     Brookings Report
   claim_id: 6b8e4bd8-46cc-43f1-8c11-fcc4cab4cdb6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b8e4bd8-46cc-43f1-8c11-fcc4cab4cdb6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b8e4bd8-46cc-43f1-8c11-fcc4cab4cdb6
 - text: Joint session speech called for Moon landing before 1970
   source: Dark Mission
   location: ch10:61631-61824
@@ -301,7 +301,7 @@ references:
     “landing an American on the Moon” before 1970
   claim_id: 5d8e2610-07d7-4286-acc4-ceb31e51e0d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5d8e2610-07d7-4286-acc4-ceb31e51e0d1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5d8e2610-07d7-4286-acc4-ceb31e51e0d1
 - text: 'Kennedy: commit to landing a man on the Moon, returning him safely, before
     the decade was out'
   source: Dark Mission
@@ -313,7 +313,7 @@ references:
     will be so difficult or expensive to accomplish,” he said on May 25, 1961
   claim_id: 76c8ab77-6a44-4f14-8d6c-d21be31b87b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76c8ab77-6a44-4f14-8d6c-d21be31b87b2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76c8ab77-6a44-4f14-8d6c-d21be31b87b2
 - text: Kennedy restructured NASA toward a Moon landing by 1970
   source: Dark Mission
   location: ch12:114445-114629
@@ -322,7 +322,7 @@ references:
     a man on the Moon by 1970.'
   claim_id: 179d1da5-f9e1-45e5-96e1-51e2ee33555a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-179d1da5-f9e1-45e5-96e1-51e2ee33555a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-179d1da5-f9e1-45e5-96e1-51e2ee33555a
 - text: Appointed Webb as NASA Administrator on Johnson's recommendation
   source: Dark Mission
   location: ch12:114635-114753
@@ -330,7 +330,7 @@ references:
     appointed James E. Webb as the new Administrator.
   claim_id: 604f0a96-c392-4a4b-90d5-160ac94af008
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-604f0a96-c392-4a4b-90d5-160ac94af008
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-604f0a96-c392-4a4b-90d5-160ac94af008
 - text: 'Sergei Khrushchev: Kennedy secretly proposed merging space programmes at
     the Vienna summit'
   source: Dark Mission
@@ -340,7 +340,7 @@ references:
     to get to the Moon together
   claim_id: 9bbd3707-78ec-45f7-a5e5-105f2428cd13
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9bbd3707-78ec-45f7-a5e5-105f2428cd13
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9bbd3707-78ec-45f7-a5e5-105f2428cd13
 - text: Khrushchev declined, distrusting Kennedy after the Bay of Pigs
   source: Dark Mission
   location: ch10:63546-63652
@@ -348,7 +348,7 @@ references:
     President after the Bay of Pigs fiasco
   claim_id: a7856bfd-df9a-4a0a-8eaf-72246a9da24b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a7856bfd-df9a-4a0a-8eaf-72246a9da24b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a7856bfd-df9a-4a0a-8eaf-72246a9da24b
 - text: Khrushchev feared the US would learn Soviet secrets
   source: Dark Mission
   location: ch10:63664-63823
@@ -357,7 +357,7 @@ references:
     vehicles
   claim_id: 458fdc4e-a435-4c8d-b813-8a6b2905142b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-458fdc4e-a435-4c8d-b813-8a6b2905142b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-458fdc4e-a435-4c8d-b813-8a6b2905142b
 - text: Kennedy met Dobrynin, secretly renewed the merger offer, August 1963
   source: Dark Mission
   location: ch10:66220-66334
@@ -365,7 +365,7 @@ references:
     and once again (secretly) extended the offer.
   claim_id: c8799f68-904e-4f63-920e-48a35b031a94
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c8799f68-904e-4f63-920e-48a35b031a94
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c8799f68-904e-4f63-920e-48a35b031a94
 - text: Khrushchev considered the offer more seriously but rejected it
   source: Dark Mission
   location: ch10:66341-66417
@@ -373,14 +373,14 @@ references:
     it.
   claim_id: b783198b-491d-4b93-9d15-60430a663968
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b783198b-491d-4b93-9d15-60430a663968
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b783198b-491d-4b93-9d15-60430a663968
 - text: Kennedy met James Webb on 1963-09-18
   source: Dark Mission
   location: ch10:66421-66486
   quote: On September 18, 1963, Kennedy then met with NASA Director James Webb.
   claim_id: 5a3e2bb5-025d-4b9e-9c59-2502a83f6e0c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a3e2bb5-025d-4b9e-9c59-2502a83f6e0c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a3e2bb5-025d-4b9e-9c59-2502a83f6e0c
 - text: 'NASA history: Kennedy told Webb he was considering Soviet cooperation'
   source: Dark Mission
   location: ch10:66635-66789
@@ -389,7 +389,7 @@ references:
     together.
   claim_id: 1ad430b8-b2be-4057-9bb5-5bac538cd697
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ad430b8-b2be-4057-9bb5-5bac538cd697
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ad430b8-b2be-4057-9bb5-5bac538cd697
 - text: Webb unaware of Kennedy's prior private offers to Khrushchev
   source: Dark Mission
   location: ch10:66800-66928
@@ -397,7 +397,7 @@ references:
     as they were made in private talks with the Soviet premier
   claim_id: 3b0a8b5d-7357-451a-b013-1e49eb9aedfd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3b0a8b5d-7357-451a-b013-1e49eb9aedfd
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3b0a8b5d-7357-451a-b013-1e49eb9aedfd
 - text: Kennedy asked Webb if he could prevent being undercut in NASA
   source: Dark Mission
   location: ch10:66938-67031
@@ -405,7 +405,7 @@ references:
     in NASA if I do that?’
   claim_id: 60abbf33-ebf8-4053-9d52-276507744a25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60abbf33-ebf8-4053-9d52-276507744a25
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60abbf33-ebf8-4053-9d52-276507744a25
 - text: Webb recalled Kennedy had decided to pursue cooperation
   source: Dark Mission
   location: ch10:67038-67181
@@ -413,14 +413,14 @@ references:
     should do it; he told me he thought he should do it and wanted to do it…’
   claim_id: 297f8ae2-cf4b-46a1-9b92-db3b16280a06
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-297f8ae2-cf4b-46a1-9b92-db3b16280a06
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-297f8ae2-cf4b-46a1-9b92-db3b16280a06
 - text: Webb told Kennedy he could keep it under control
   source: Dark Mission
   location: ch10:67311-67367
   quote: Webb told the president that he could keep things under control.
   claim_id: b6eba5f7-8ffc-4aa5-af1f-d10eb591b76c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6eba5f7-8ffc-4aa5-af1f-d10eb591b76c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6eba5f7-8ffc-4aa5-af1f-d10eb591b76c
 - text: Two days later Kennedy repeated the offer at the UN
   source: Dark Mission
   location: ch10:67726-67906
@@ -429,14 +429,14 @@ references:
     of cooperation, this time in public
   claim_id: 077a504a-1c7e-4419-af7b-2373e6f0238f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-077a504a-1c7e-4419-af7b-2373e6f0238f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-077a504a-1c7e-4419-af7b-2373e6f0238f
 - text: Kennedy proposed a joint US-Soviet Moon expedition to the UN
   source: Dark Mission
   location: ch10:68132-68194
   quote: I include among these possibilities a joint expedition to the Moon.
   claim_id: 32a3c5c1-6957-471a-8bcd-cf0afc131b04
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32a3c5c1-6957-471a-8bcd-cf0afc131b04
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32a3c5c1-6957-471a-8bcd-cf0afc131b04
 - text: NASA insiders doubted the technical integration was possible
   source: Dark Mission
   location: ch10:69102-69229
@@ -444,7 +444,7 @@ references:
     that the technical integration problems could be overcome
   claim_id: 86a47fb7-8aec-4bef-8539-860496c09ab9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86a47fb7-8aec-4bef-8539-860496c09ab9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86a47fb7-8aec-4bef-8539-860496c09ab9
 - text: Senator Goldwater objected to the proposal
   source: Dark Mission
   location: ch10:69710-69804
@@ -452,7 +452,7 @@ references:
     Barry Goldwater of Arizona.
   claim_id: 70bd7fbb-1532-4e99-b444-247c1b392306
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70bd7fbb-1532-4e99-b444-247c1b392306
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70bd7fbb-1532-4e99-b444-247c1b392306
 - text: Congressman Albert Thomas made a strong protest
   source: Dark Mission
   location: ch10:69843-69985
@@ -460,7 +460,7 @@ references:
     President and Vice President—Democratic Congressman Albert Thomas of Texas.
   claim_id: 76e30960-42bd-4cfd-9c25-59377eb6de43
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76e30960-42bd-4cfd-9c25-59377eb6de43
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76e30960-42bd-4cfd-9c25-59377eb6de43
 - text: Kennedy wrote to Thomas reassuring him the separate programme would continue
   source: Dark Mission
   location: ch10:70050-70264
@@ -469,7 +469,7 @@ references:
     *regardless* of the outcome of negotiations with the Soviets
   claim_id: 71a50f11-8e2e-4990-a3c2-e05a4d318440
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71a50f11-8e2e-4990-a3c2-e05a4d318440
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71a50f11-8e2e-4990-a3c2-e05a4d318440
 - text: 'Kennedy: cooperation was reason to move ahead, not slacken'
   source: Dark Mission
   location: ch10:70274-70556
@@ -479,7 +479,7 @@ references:
     been committed as a country for more than two years.”
   claim_id: 0a796b7b-e4b5-455d-b1bf-681795efa7f4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a796b7b-e4b5-455d-b1bf-681795efa7f4
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a796b7b-e4b5-455d-b1bf-681795efa7f4
 - text: Lack of public support scuttled the proposal, Kennedy backed away
   source: Dark Mission
   location: ch10:70567-70742
@@ -488,7 +488,7 @@ references:
     away from his own proposal.
   claim_id: bf94f87a-6072-4548-ab9a-e2d619b86892
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf94f87a-6072-4548-ab9a-e2d619b86892
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf94f87a-6072-4548-ab9a-e2d619b86892
 - text: 'Kennedy issued NSAM #271 on 1963-11-12'
   source: Dark Mission
   location: ch10:70802-70980
@@ -497,7 +497,7 @@ references:
     USSR on Outer Space Matters,”'
   claim_id: f922a6ec-7ebd-4fba-9eda-84bdd7ed6c77
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f922a6ec-7ebd-4fba-9eda-84bdd7ed6c77
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f922a6ec-7ebd-4fba-9eda-84bdd7ed6c77
 - text: 'Memo: Kennedy instructed Webb to begin the cooperative programme, brief NASA
     on ''unknowns'''
   source: Dark Mission
@@ -508,7 +508,7 @@ references:
     help with sharing this information with the Russians.
   claim_id: 2a7b4718-59c4-4c89-8305-04c4911fb755
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a7b4718-59c4-4c89-8305-04c4911fb755
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a7b4718-59c4-4c89-8305-04c4911fb755
 - text: 'Sergei Khrushchev, 1997: father decided in early November 1963 to accept
     the offer'
   source: Dark Mission
@@ -519,7 +519,7 @@ references:
     Nikita changed his mind and decided in early November 1963 to accept it.
   claim_id: d1e4413b-f015-49e5-acc4-85fd123c8c82
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d1e4413b-f015-49e5-acc4-85fd123c8c82
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d1e4413b-f015-49e5-acc4-85fd123c8c82
 - text: 'Sergei Khrushchev: father reasoned it made sense given the state of both
     programmes'
   source: Dark Mission
@@ -528,7 +528,7 @@ references:
     state of the space programs of the two countries (in 1963),” Khrushchev said.
   claim_id: 7b8109cb-f66d-424f-abf4-dc75472b2804
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b8109cb-f66d-424f-abf4-dc75472b2804
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b8109cb-f66d-424f-abf4-dc75472b2804
 - text: 'Sergei Khrushchev: decision made about a week before the assassination'
   source: Dark Mission
   location: ch10:73367-73595
@@ -537,7 +537,7 @@ references:
     assassination in Dallas, which would date it right around November 12-15.
   claim_id: 6a8299a2-fe7e-40e2-94da-315080cda987
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6a8299a2-fe7e-40e2-94da-315080cda987
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6a8299a2-fe7e-40e2-94da-315080cda987
 - text: Cosmos 21 failed 1963-11-11, one day before Kennedy's directive
   source: Dark Mission
   location: ch10:75004-75182
@@ -546,7 +546,7 @@ references:
     Directive” to James Webb.
   claim_id: d30ce198-9686-4564-b67d-7e978b30647d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d30ce198-9686-4564-b67d-7e978b30647d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d30ce198-9686-4564-b67d-7e978b30647d
 - text: Johnson said the previous spring Kennedy might visit Dallas that summer
   source: Dark Mission
   location: ch10:87785-87938
@@ -554,7 +554,7 @@ references:
     Vice President Lyndon Johnson stated that Kennedy might visit Dallas in the summertime.
   claim_id: 1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
 - text: Trip centred on testimonial dinner for Thomas, who held NASA's purse strings
   source: Dark Mission
   location: ch10:88057-88232
@@ -563,7 +563,7 @@ references:
     by all accounts, adored.
   claim_id: 635ae115-6e72-4597-ab2d-d4929804ce6e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-635ae115-6e72-4597-ab2d-d4929804ce6e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-635ae115-6e72-4597-ab2d-d4929804ce6e
 - text: Kennedy relieved Thomas had decided to run for re-election
   source: Dark Mission
   location: ch10:88283-88406
@@ -571,7 +571,7 @@ references:
     had avoided having an open seat in Congress to contest.
   claim_id: a9f3cd31-a8b2-4104-ad1f-b6c299355879
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a9f3cd31-a8b2-4104-ad1f-b6c299355879
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a9f3cd31-a8b2-4104-ad1f-b6c299355879
 - text: Evening of 1963-11-21, Kennedy praised Thomas, called him a good friend
   source: Dark Mission
   location: ch10:88574-88776
@@ -580,7 +580,7 @@ references:
     the Russians!) and declaring him to be a good friend
   claim_id: 7dba8bcc-c18f-4710-bb6e-8be50f543d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dba8bcc-c18f-4710-bb6e-8be50f543d2f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dba8bcc-c18f-4710-bb6e-8be50f543d2f
 - text: Kennedy joked about the 'heaviest payroll'
   source: Dark Mission
   location: ch10:88797-89027
@@ -589,7 +589,7 @@ references:
     and grinned. “It will be the heaviest payroll, too,” he quipped. The crowd roared.
   claim_id: ef6da689-8e22-4c81-80fa-79425040406c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef6da689-8e22-4c81-80fa-79425040406c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef6da689-8e22-4c81-80fa-79425040406c
 - text: Kennedy said the booster launch would give the US the lead in space, credited
     Thomas
   source: Dark Mission
@@ -599,7 +599,7 @@ references:
     Congressman Albert Thomas.
   claim_id: 9b7d679e-bcfe-4fd9-9fd3-944fbd8ef4b9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b7d679e-bcfe-4fd9-9fd3-944fbd8ef4b9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b7d679e-bcfe-4fd9-9fd3-944fbd8ef4b9
 - text: Kennedy quoted scripture, said Thomas old enough to dream, young enough to
     see visions
   source: Dark Mission
@@ -609,7 +609,7 @@ references:
     to dream dreams and young enough to see visions...
   claim_id: 427a3388-545b-4725-8645-70874cdb82f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-427a3388-545b-4725-8645-70874cdb82f7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-427a3388-545b-4725-8645-70874cdb82f7
 - text: Kennedy departed; Thomas and Johnson flew with him to Dallas the next morning
   source: Dark Mission
   location: ch10:89442-89596
@@ -617,7 +617,7 @@ references:
     Johnson. They both accompanied him to Dallas the next morning on Air Force One.
   claim_id: 7789f6a2-b264-4a77-b3f2-4160f9f55948
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7789f6a2-b264-4a77-b3f2-4160f9f55948
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7789f6a2-b264-4a77-b3f2-4160f9f55948
 - text: Kennedy rushed to Parkland Memorial Hospital, doctors tried in vain
   source: Dark Mission
   location: ch10:89602-89736
@@ -625,7 +625,7 @@ references:
     was obviously already dead. Doctors tried in vain to revive him
   claim_id: 65d044eb-4610-4d85-b1f4-babaa89e3268
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-65d044eb-4610-4d85-b1f4-babaa89e3268
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-65d044eb-4610-4d85-b1f4-babaa89e3268
 - text: 'Houston Chronicle: Thomas waited outside the ER until word came Kennedy was
     dead'
   source: Dark Mission
@@ -634,7 +634,7 @@ references:
     emergency ward until word came that Kennedy was dead.
   claim_id: 1d8a7c6b-a8bf-476e-be83-fed39efce46f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1d8a7c6b-a8bf-476e-be83-fed39efce46f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1d8a7c6b-a8bf-476e-be83-fed39efce46f
 - text: Johnson took the oath aboard Air Force One that evening
   source: Dark Mission
   location: ch10:89940-90031
@@ -642,7 +642,7 @@ references:
     took the oath of office.
   claim_id: 5b50151c-8fc2-40c1-b365-fe058867b208
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b50151c-8fc2-40c1-b365-fe058867b208
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b50151c-8fc2-40c1-b365-fe058867b208
 - text: Johnson made a show of continuing Kennedy's Soviet cooperation plans
   source: Dark Mission
   location: ch10:90910-91020
@@ -650,7 +650,7 @@ references:
     plans for Soviet cooperation in space.
   claim_id: e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
 - text: 'Hoagland: Johnson had enormous political capital after the assassination'
   source: Dark Mission
   location: ch10:91620-91783
@@ -659,7 +659,7 @@ references:
     the assassination.
   claim_id: ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
 - text: 'Saint John Hunt: father''s tape named Johnson as the ''top man'' behind the
     plot'
   source: Dark Mission
@@ -670,7 +670,7 @@ references:
     Hunt himself, they were all directed by one “top man.” Lyndon Baines Johnson.
   claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
 - text: 'Hoagland: if Johnson and Thomas orchestrated the murder, they expected extraordinary
     discoveries'
   source: Dark Mission
@@ -681,7 +681,7 @@ references:
     wonders beyond imagining over the course of their voyages.
   claim_id: 2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
 - text: 'Hoagland: the merger proposal may have been the ''last straw'''
   source: Dark Mission
   location: ch10:59778-59948
@@ -690,7 +690,7 @@ references:
     got him killed.
   claim_id: 29e08c79-9d7c-4b68-a7c3-49fafd2ef6ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-29e08c79-9d7c-4b68-a7c3-49fafd2ef6ee
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-29e08c79-9d7c-4b68-a7c3-49fafd2ef6ee
 - text: 'Hoagland: decision to share the lunar programme with the Soviets may have
     led to assassination'
   source: Dark Mission
@@ -699,7 +699,7 @@ references:
     in the end, get him killed?
   claim_id: da91d716-d415-43ec-814e-275af9c3affe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da91d716-d415-43ec-814e-275af9c3affe
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da91d716-d415-43ec-814e-275af9c3affe
 - text: 'Hoagland: whether Apollo was Kennedy''s own ''deep black mission'''
   source: Dark Mission
   location: ch20:48820-49043
@@ -708,7 +708,7 @@ references:
     this also, as we’ve asked earlier, the *real* reason for his murder?
   claim_id: d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
 - text: 'Hoagland: Apollo 11 landing date significant for secret societies Kennedy
     criticised'
   source: Dark Mission
@@ -718,7 +718,7 @@ references:
     Newspaper Publishers Association speech
   claim_id: 2758772b-5daa-4f49-9688-dd8a51a2a38e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2758772b-5daa-4f49-9688-dd8a51a2a38e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2758772b-5daa-4f49-9688-dd8a51a2a38e
 - text: Kennedy murdered immediately after his offer to share heritage with the Russians
     was accepted
   source: Dark Mission
@@ -728,7 +728,7 @@ references:
     accepted.
   claim_id: 1dc5e0d9-78da-4b70-98ba-29c81fb0103f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dc5e0d9-78da-4b70-98ba-29c81fb0103f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dc5e0d9-78da-4b70-98ba-29c81fb0103f
 - text: 'Coulthart: the Lancer document expresses MJ-12 intent to murder Kennedy'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -737,7 +737,7 @@ references:
     the alleged MJ-12 to murder the President of the United States.
   claim_id: 874e3700-3314-4ba5-9037-1551ab106f3d
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-874e3700-3314-4ba5-9037-1551ab106f3d
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-874e3700-3314-4ba5-9037-1551ab106f3d
 - text: Lancer was the Secret Service code name for Kennedy
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -746,7 +746,7 @@ references:
     for JFK
   claim_id: 75d85f1c-6746-4377-854c-0e7d001a0d97
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-75d85f1c-6746-4377-854c-0e7d001a0d97
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-75d85f1c-6746-4377-854c-0e7d001a0d97
 - text: 'Document: Kennedy was making inquiries that could not be allowed'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -755,7 +755,7 @@ references:
     critical to the continuance of the group.
   claim_id: c1116248-c89a-4880-b73e-19ceb2e14da3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
 - text: 'Caplan: Kennedy concerned a UFO might be mistaken for an incoming missile
     after the Bay of Pigs'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -767,7 +767,7 @@ references:
     did not want that nuclear threat to exist
   claim_id: c6fd8141-757f-4760-a941-075fc84860e3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c6fd8141-757f-4760-a941-075fc84860e3
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c6fd8141-757f-4760-a941-075fc84860e3
 - text: 'Caplan: Kennedy wanted greater US-Russia cooperation and disclosure on UAP'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -776,7 +776,7 @@ references:
     and Russia on the UAP phenomenon
   claim_id: 92678513-b385-4eb4-99a2-bf347fd27dff
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-92678513-b385-4eb4-99a2-bf347fd27dff
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-92678513-b385-4eb4-99a2-bf347fd27dff
 - text: 'Caplan: the CIA would not have welcomed this'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -786,7 +786,7 @@ references:
     bent over backwards to denigrate this subject and to keep it under wraps.
   claim_id: d01e9b17-19b7-4fa0-bb1b-f26c7814639f
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d01e9b17-19b7-4fa0-bb1b-f26c7814639f
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d01e9b17-19b7-4fa0-bb1b-f26c7814639f
 - text: Kennedy was having an affair with Marilyn Monroe
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -795,7 +795,7 @@ references:
     an affair with JFK, President Kennedy.
   claim_id: 5f79d250-2b73-48ca-8ec9-b5e0f46cf7b2
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5f79d250-2b73-48ca-8ec9-b5e0f46cf7b2
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5f79d250-2b73-48ca-8ec9-b5e0f46cf7b2
 - text: 'Caplan: Kennedy knew of the crashed-craft matter leaked to Kilgallen'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -803,7 +803,7 @@ references:
   quote: We understand that Kennedy knew about this and he'd been told about it.
   claim_id: 70999f0a-fedf-47d2-8aca-4a996636a95f
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-70999f0a-fedf-47d2-8aca-4a996636a95f
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-70999f0a-fedf-47d2-8aca-4a996636a95f
 - text: 'Caplan: Kennedy allegedly told others, including Monroe'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -811,7 +811,7 @@ references:
   quote: He allegedly had told others about it, including Marilyn Monroe.
   claim_id: 0872dfb5-4f33-404d-96d4-7a17d08b832c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0872dfb5-4f33-404d-96d4-7a17d08b832c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0872dfb5-4f33-404d-96d4-7a17d08b832c
 - text: 'Wiretap document: Kilgallen discusses Monroe''s plan to leak Kennedy''s secret
     Air Force base visit'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -822,7 +822,7 @@ references:
     base where secrets, great secrets, were being held.
   claim_id: 457fa875-3e6f-4c28-ace8-8eed959756b2
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-457fa875-3e6f-4c28-ace8-8eed959756b2
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-457fa875-3e6f-4c28-ace8-8eed959756b2
 - text: 'Caplan: not alleging murder, but believes the deaths should have been investigated'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -830,7 +830,7 @@ references:
   quote: That's that's that's what I'm saying.
   claim_id: d8dcd856-3880-44c0-9ea9-c0dce7f3ca7f
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8dcd856-3880-44c0-9ea9-c0dce7f3ca7f
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8dcd856-3880-44c0-9ea9-c0dce7f3ca7f
 - text: 'Grusch: has not concluded what happened to Kennedy or who was responsible'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:27:57.8-00:28:14.0
@@ -840,7 +840,7 @@ references:
     you know, explained to us what all this means.
   claim_id: 40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-40d01e45-f0e2-4db0-8cc4-2a02e5b42cb1
 - text: 'Michael Horn: Asket''s 1953 prophecy named Kennedy''s assassination in Dallas'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:18:23.1-01:18:44.3
@@ -849,7 +849,7 @@ references:
     Fitzgerald Kennedy will be killed in Dallas, Texas on this day.
   claim_id: 8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
 - text: 'Robert Monroe: formed the conviction Kennedy had a psychic bodyguard'
   source: Journeys Out of the Body
   location: ch20:18963-19159
@@ -858,7 +858,7 @@ references:
     had a psychic bodyguard (or rather mindguard).
   claim_id: 9797cb4e-c278-47e4-97da-d043f9cade2d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9797cb4e-c278-47e4-97da-d043f9cade2d
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9797cb4e-c278-47e4-97da-d043f9cade2d
 - text: 'Robert Monroe: found a newspaper reporting Kennedy''s arrival in Hyannis'
   source: Journeys Out of the Body
   location: ch20:19242-19427
@@ -867,7 +867,7 @@ references:
     seen a paper for the past two days.)
   claim_id: c3afbac9-4e72-460a-a043-5f17d235876b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c3afbac9-4e72-460a-a043-5f17d235876b
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c3afbac9-4e72-460a-a043-5f17d235876b
 - text: 'Elizondo: believes Kennedy was among presidents briefed on UAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
@@ -875,7 +875,7 @@ references:
     Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: 'European News: Pope Paul VI permitted Kennedy and Khrushchev to view the
     Third Secret'
@@ -886,7 +886,7 @@ references:
     to the young Portuguese girl Lúcia on October 13, 1917.
   claim_id: f886db08-5655-4323-bee2-a1c7a66c419f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f886db08-5655-4323-bee2-a1c7a66c419f
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f886db08-5655-4323-bee2-a1c7a66c419f
 - text: Bertone's research found no evidence supporting the claim
   source: The Fatima Secret
   location: ch24:26658-26801
@@ -894,7 +894,7 @@ references:
     leak, or for Emrich's claim that the Secret was shown to Krushchev or Kennedy.
   claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-be2754c1-18b7-4a2f-baf9-06b08b2e7714
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-be2754c1-18b7-4a2f-baf9-06b08b2e7714
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

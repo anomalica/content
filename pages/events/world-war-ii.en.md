@@ -123,7 +123,7 @@ references:
     beginning World War II.
   claim_id: f2c680cd-24da-4887-8693-5bc9cfd24e26
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f2c680cd-24da-4887-8693-5bc9cfd24e26
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f2c680cd-24da-4887-8693-5bc9cfd24e26
 - text: German troops crossed into Austria on 1938-03-12
   source: The Fatima Secret
   location: ch15:4259-4417
@@ -132,7 +132,7 @@ references:
     Reich."
   claim_id: 44e25b90-9fa4-4b2e-9733-7e06df045e6f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-44e25b90-9fa4-4b2e-9733-7e06df045e6f
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-44e25b90-9fa4-4b2e-9733-7e06df045e6f
 - text: Britain and France declared war on Germany on 1939-09-03
   source: The Fatima Secret
   location: ch15:6243-6348
@@ -140,7 +140,7 @@ references:
     Second World War had officially begun.
   claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
 - text: The war cost over fifty-five million lives
   source: The Fatima Secret
   location: ch15:4035-4108
@@ -148,7 +148,7 @@ references:
     begun
   claim_id: da89784a-a305-40be-9895-ce44283b97aa
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-da89784a-a305-40be-9895-ce44283b97aa
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-da89784a-a305-40be-9895-ce44283b97aa
 - text: Stalingrad, begun 1942-12-08, is the war's turning point
   source: The Fatima Secret
   location: ch15:9991-10184
@@ -157,7 +157,7 @@ references:
     the turning point of World War II.
   claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
 - text: 'Second Secret of Fatima: WWI would end, worse war under Pius XI'
   source: The Fatima Secret
   location: ch10:6152-6281
@@ -165,7 +165,7 @@ references:
     even more terrible war will begin in the reign of Pius XI.
   claim_id: a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
 - text: Second Secret warned of a night illuminated by an unknown light
   source: The Fatima Secret
   location: ch4:989-1255
@@ -175,7 +175,7 @@ references:
     war, hunger, and persecution of the Church.”
   claim_id: 2f64c82b-8960-4404-9505-0d6d0816d73b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2f64c82b-8960-4404-9505-0d6d0816d73b
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2f64c82b-8960-4404-9505-0d6d0816d73b
 - text: Third Secret catalogue of twentieth-century disasters including WWII
   source: The Fatima Secret
   location: ch10:8768-9065
@@ -185,7 +185,7 @@ references:
     it; of the arms race and the nuclear threat, and the spread of atheism.
   claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e166b584-f125-4968-a39f-6905fb96b1a2
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e166b584-f125-4968-a39f-6905fb96b1a2
 - text: Marian apparitions apparently signalled WWII's imminent outbreak
   source: The Fatima Secret
   location: ch4:14069-14352
@@ -195,7 +195,7 @@ references:
     of the imminent outbreak of World War II.
   claim_id: 7491a257-2a93-40fe-8eed-dcc745224208
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7491a257-2a93-40fe-8eed-dcc745224208
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7491a257-2a93-40fe-8eed-dcc745224208
 - text: Argument that the WWI reference was added after the fact
   source: The Fatima Secret
   location: ch4:1302-1481
@@ -204,7 +204,7 @@ references:
     long after the war was over.
   claim_id: fba62ae6-bc65-4a52-bc96-fe385bb36d5a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fba62ae6-bc65-4a52-bc96-fe385bb36d5a
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fba62ae6-bc65-4a52-bc96-fe385bb36d5a
 - text: '1941: Lúcia wrote the first two parts of the secret'
   source: The Fatima Secret
   location: ch16:340-489
@@ -212,7 +212,7 @@ references:
     end of World War I, the rise of Russia, and the breaking out of World War II.
   claim_id: 95981954-fbb1-48b9-8b2d-60506b261261
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-95981954-fbb1-48b9-8b2d-60506b261261
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-95981954-fbb1-48b9-8b2d-60506b261261
 - text: 'Hesemann: Jacinta''s mother could not have known, but WWII loomed'
   source: The Fatima Secret
   location: ch13:4626-4764
@@ -220,7 +220,7 @@ references:
     what she was talking about. But the Second World War was on the horizon.
   claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7695ac36-fe1d-4cd8-9c17-b2eb66208d82
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7695ac36-fe1d-4cd8-9c17-b2eb66208d82
 - text: 'Hesemann: Jacinta''s Spain prediction foretold the Spanish Civil War'
   source: The Fatima Secret
   location: ch13:7728-7831
@@ -228,7 +228,7 @@ references:
     and preceded the Second World War.
   claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
 - text: 'Hesemann: Jacinta''s 1940 mention referred to WWII'
   source: The Fatima Secret
   location: ch13:7836-7941
@@ -236,7 +236,7 @@ references:
     referring to the Second World War.
   claim_id: febd1d8e-e83c-4c18-9f17-806c37e60179
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-febd1d8e-e83c-4c18-9f17-806c37e60179
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-febd1d8e-e83c-4c18-9f17-806c37e60179
 - text: 'Hesemann: Fatima predicted the Russian Revolution, Communism, WWII'
   source: The Fatima Secret
   location: ch7:9072-9278
@@ -245,7 +245,7 @@ references:
     Revolution, the spread of Communism, and World War II'
   claim_id: 27127544-08c0-40df-a53f-1f0971505e6d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-27127544-08c0-40df-a53f-1f0971505e6d
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-27127544-08c0-40df-a53f-1f0971505e6d
 - text: 'Hesemann: Madonna predicted WWII, aurora borealis as herald'
   source: The Fatima Secret
   location: ch23:6412-6530
@@ -253,7 +253,7 @@ references:
     with the bloodred aurora borealis as its herald.
   claim_id: 4aba8528-db64-45af-81d3-d212cbb91399
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4aba8528-db64-45af-81d3-d212cbb91399
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4aba8528-db64-45af-81d3-d212cbb91399
 - text: 'Hesemann: WWII turning points followed the 1984 consecration'
   source: The Fatima Secret
   location: ch23:6944-7132
@@ -262,7 +262,7 @@ references:
     Heart, as demanded in the visions.
   claim_id: d6489b1e-3883-4607-9714-393cf9bfe831
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d6489b1e-3883-4607-9714-393cf9bfe831
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d6489b1e-3883-4607-9714-393cf9bfe831
 - text: WWII began under Pius XI exactly as prophesied at Fatima
   source: The Fatima Secret
   location: ch15:4515-4599
@@ -270,7 +270,7 @@ references:
     at Fatima.
   claim_id: 3ece73e1-dfb4-42d2-9d5a-8a240bbca483
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3ece73e1-dfb4-42d2-9d5a-8a240bbca483
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3ece73e1-dfb4-42d2-9d5a-8a240bbca483
 - text: US prioritised Pilsen over Berlin at war's end
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:14:15.4-01:14:23.7
@@ -279,7 +279,7 @@ references:
     Nazi Germany.
   claim_id: e873484e-bbf3-4892-86f7-dfbf7e7d7c9c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e873484e-bbf3-4892-86f7-dfbf7e7d7c9c
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e873484e-bbf3-4892-86f7-dfbf7e7d7c9c
 - text: Patton's army reached Pilsen before Berlin
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:14:28.0-01:14:32.6
@@ -287,7 +287,7 @@ references:
     Pilsen before going to Berlin
   claim_id: 54f285b2-59ae-4b6f-bc5d-bb07780be2b4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-54f285b2-59ae-4b6f-bc5d-bb07780be2b4
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-54f285b2-59ae-4b6f-bc5d-bb07780be2b4
 - text: Nazis planned to leave Europe with material nearly a year before war's end
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:14:37.6-01:14:42.4
@@ -295,7 +295,7 @@ references:
     take all of their sensitive stuff.
   claim_id: dda5b8c9-1a9e-4124-9616-f4a397f70045
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dda5b8c9-1a9e-4124-9616-f4a397f70045
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dda5b8c9-1a9e-4124-9616-f4a397f70045
 - text: Schauberger's material recovered by the US at war's end
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:14:46.4-01:14:52.8
@@ -303,7 +303,7 @@ references:
     got some Schauberger stuff.
   claim_id: 924ed01b-5333-49c7-8757-5bb350ae20dd
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-924ed01b-5333-49c7-8757-5bb350ae20dd
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-924ed01b-5333-49c7-8757-5bb350ae20dd
 - text: 'Possible third element: evacuation of technology, tied to Maison Rouge'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:15:01.1-01:15:11.3
@@ -312,7 +312,7 @@ references:
     1944 with the Maison Rouge meeting.
   claim_id: 835c3d76-9d40-4a50-bde6-77071532a52a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-835c3d76-9d40-4a50-bde6-77071532a52a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-835c3d76-9d40-4a50-bde6-77071532a52a
 - text: IG Farben/Standard Oil pre-war monopoly agreement
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:20:00.2-01:20:11.2
@@ -321,7 +321,7 @@ references:
     sides of the Atlantic. IG Farmer would do the petrochemical side.
   claim_id: a7bc5432-64f3-4d96-aa68-91a30f7952e0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a7bc5432-64f3-4d96-aa68-91a30f7952e0
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a7bc5432-64f3-4d96-aa68-91a30f7952e0
 - text: Ford refused UK engines, citing Nazi Germany production priority
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:21:38.9-01:21:50.3
@@ -330,7 +330,7 @@ references:
     do that. We're prioritizing the trunks for Nazi Germany.
   claim_id: 4dbb53bb-b0d7-498d-abda-6df9f7702a2b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4dbb53bb-b0d7-498d-abda-6df9f7702a2b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4dbb53bb-b0d7-498d-abda-6df9f7702a2b
 - text: Dulles helped with Nazi financing from Switzerland
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:21:19.2-01:21:23.8
@@ -338,7 +338,7 @@ references:
     ... Hanging out in Switzerland.
   claim_id: 4390e984-6ef2-4d37-97fe-2b511d5807b1
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4390e984-6ef2-4d37-97fe-2b511d5807b1
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4390e984-6ef2-4d37-97fe-2b511d5807b1
 - text: Ricardo Sicre, Spanish spy employed by the OSS
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:33:19.2-01:33:25.3
@@ -346,7 +346,7 @@ references:
     II, who was basically employed by the OSS
   claim_id: ae7b6db4-ce3b-4739-bd2e-6c4f9d2a801e
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ae7b6db4-ce3b-4739-bd2e-6c4f9d2a801e
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ae7b6db4-ce3b-4739-bd2e-6c4f9d2a801e
 - text: 'Samosa: same financiers ran the intelligence networks'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:23:52.4-01:23:58.1
@@ -355,7 +355,7 @@ references:
     technology.
   claim_id: 2c73f43d-474e-4fd8-bc55-f78de4c09732
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c73f43d-474e-4fd8-bc55-f78de4c09732
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c73f43d-474e-4fd8-bc55-f78de4c09732
 - text: Samosa links pre-Clinton administrations to the wartime OSS
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:50:17.0-00:50:32.6
@@ -365,7 +365,7 @@ references:
     that goes back to the OSS, the Office of Strategic Services in World War II.
   claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
 - text: Thomas Townsend Brown's wartime retrieval mission
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:30:04.3-01:30:10.4
@@ -373,7 +373,7 @@ references:
     in world war two
   claim_id: 6f5336a0-bf7c-416e-a193-ed2072051e55
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-6f5336a0-bf7c-416e-a193-ed2072051e55
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-6f5336a0-bf7c-416e-a193-ed2072051e55
 - text: 'Michels: suspected conflation of anti-gravity lineage and alien craft'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:01:10.8-01:01:26.2
@@ -383,7 +383,7 @@ references:
     it with these alien things
   claim_id: e353db4c-2510-4aef-baf1-0031b1251902
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e353db4c-2510-4aef-baf1-0031b1251902
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e353db4c-2510-4aef-baf1-0031b1251902
 - text: 'Samosa: middle-ground view of Nazi disc technology'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:12:46.9-01:12:59.4
@@ -392,7 +392,7 @@ references:
     interesting and half successful by the time the war was closing out.
   claim_id: d1cbd260-ded8-428c-9a0c-f5fd1b5f10b6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d1cbd260-ded8-428c-9a0c-f5fd1b5f10b6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d1cbd260-ded8-428c-9a0c-f5fd1b5f10b6
 - text: Warner/Mellon/Dulles saucer account in Czechoslovakia
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:13:32.6-01:14:03.2
@@ -404,7 +404,7 @@ references:
     UFO in Czechoslova
   claim_id: 58175e44-fd69-46d8-98aa-b06e429da474
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-58175e44-fd69-46d8-98aa-b06e429da474
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-58175e44-fd69-46d8-98aa-b06e429da474
 - text: Major Murphy account of 1943 flying saucers, via Vallee
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:27:48.1-01:28:04.8
@@ -414,7 +414,7 @@ references:
     wasn't its flight capabilities, but its psychotronic effect.
   claim_id: 4f5610c5-4616-45d1-9272-1f12e6004ab6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4f5610c5-4616-45d1-9272-1f12e6004ab6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4f5610c5-4616-45d1-9272-1f12e6004ab6
 - text: Maxwell interrogated Nazi scientists after the war
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:47:13.5-01:47:22.6
@@ -422,7 +422,7 @@ references:
     knows, interrogated Nazi scientists post-World War II.
   claim_id: d9b72449-b1ec-4196-93df-08d0a77b3de0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d9b72449-b1ec-4196-93df-08d0a77b3de0
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d9b72449-b1ec-4196-93df-08d0a77b3de0
 - text: Samosa's characterisation of the Holocaust
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:10:15.6-02:10:26.3
@@ -431,7 +431,7 @@ references:
     of people and their DNA from the planet.
   claim_id: 421f0ff6-55eb-4f4f-8dfc-00eacf220f54
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-421f0ff6-55eb-4f4f-8dfc-00eacf220f54
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-421f0ff6-55eb-4f4f-8dfc-00eacf220f54
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

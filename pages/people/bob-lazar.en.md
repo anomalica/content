@@ -213,7 +213,7 @@ references:
     propulsion systems of recovered ali
   claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
 - text: In 1989 Lazar gave an anonymous interview to George Knapp on KLAS-TV describing
     work on a recovered flying saucer at S4
@@ -225,7 +225,7 @@ references:
     saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: Jim Goodall met Lazar before he made the S4 allegation
   source: In Plain Sight
@@ -234,7 +234,7 @@ references:
     at so-called Site 4 (S-4)
   claim_id: 121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
 - text: At their first meeting Lazar was a UFO sceptic who mocked John Lear
   source: In Plain Sight
@@ -244,7 +244,7 @@ references:
     Lear for his outspoken belief in UFOs
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
 - text: Lazar once told Goodall he was a nuclear physicist who would not admit UFOs
     are real
@@ -254,7 +254,7 @@ references:
     UFOs are real even if you put a gun to my head,”’ Goodall recalled ironically
   claim_id: 431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
 - text: Goodall's Area 51 source was confronted by armed security while treasure-hunting
     near the alleged S4 site
@@ -268,7 +268,7 @@ references:
     by vehicle, yet there was no evidence of any building or tunnel they came from.
   claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
 - text: Lazar claimed a cover-up began after he went public, including men in black
     wiping his degree records
@@ -278,7 +278,7 @@ references:
     and this included the men in black wiping his university degree records.
   claim_id: 706cdca3-7e30-4ba6-9845-e0569c3bdf59
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
 - text: Knapp rebutted denials that Lazar worked at Los Alamos, citing a news story
     and his own tour of the facility
@@ -290,7 +290,7 @@ references:
     and Lazar was clearly very familiar with the site and knew workers inside.
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2578240-b430-4934-ae53-5e9e9911ac02
 - text: Jeremy Corbell located a witness Lazar said had vetted his Area 51 clearance
   source: In Plain Sight
@@ -299,7 +299,7 @@ references:
     for his Area 51 security clearance.
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3f353e-2e00-45ff-945d-832286061739
 - text: Lazar speculates Edward Teller may have influenced his hiring at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -308,7 +308,7 @@ references:
     and uh to give him a shot or whatever
   claim_id: f53bf53b-6a37-4284-a10c-30e4a9b8a51b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f53bf53b-6a37-4284-a10c-30e4a9b8a51b
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f53bf53b-6a37-4284-a10c-30e4a9b8a51b
 - text: In 1990 Lazar was arrested for aiding and abetting prostitution, reduced to
     felony pandering
   source: In Plain Sight
@@ -318,7 +318,7 @@ references:
     for which he served community service
   claim_id: bbb9cef6-bf38-4a8c-a209-92550070c0c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
 - text: Fravor attended the McMinnville UFO Festival with Lazar
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -327,7 +327,7 @@ references:
   quote: so I went with Bob Lazar.
   claim_id: 6d13b0a4-ea20-4bf0-a24b-eb0809772e0c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-6d13b0a4-ea20-4bf0-a24b-eb0809772e0c
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-6d13b0a4-ea20-4bf0-a24b-eb0809772e0c
 - text: Fravor and his wife socialised with Lazar and his wife without discussing
     UFOs
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -338,7 +338,7 @@ references:
     as people
   claim_id: a165210f-b5ce-43a7-8878-8d8c71c75783
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a165210f-b5ce-43a7-8878-8d8c71c75783
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a165210f-b5ce-43a7-8878-8d8c71c75783
 - text: Fravor said Lazar's notoriety damaged his life
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -347,7 +347,7 @@ references:
     it ruined his life.
   claim_id: 0497004d-aae7-441e-b0e6-acefae344aa3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0497004d-aae7-441e-b0e6-acefae344aa3
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0497004d-aae7-441e-b0e6-acefae344aa3
 - text: Fravor described Lazar as straightforward, sane, normal and very intelligent
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -355,7 +355,7 @@ references:
   quote: I'll tell you, Bob is a straightforward, very sane, normal, super smart guy.
   claim_id: f0afc449-ba65-41fa-9dae-30e72ef3c845
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f0afc449-ba65-41fa-9dae-30e72ef3c845
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f0afc449-ba65-41fa-9dae-30e72ef3c845
 - text: Fravor considers Lazar a propulsion specialist
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -363,7 +363,7 @@ references:
   quote: So Bob is a propulsion guy.
   claim_id: b07fd169-8797-47b5-a145-c029441f5c06
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b07fd169-8797-47b5-a145-c029441f5c06
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b07fd169-8797-47b5-a145-c029441f5c06
 - text: Lazar has a bicycle fitted with a rocket motor
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -371,7 +371,7 @@ references:
   quote: Bob has a bicycle with a rocket motor.
   claim_id: df42a9e2-b3c0-4bf4-ad1b-9516e9c4b34e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-df42a9e2-b3c0-4bf4-ad1b-9516e9c4b34e
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-df42a9e2-b3c0-4bf4-ad1b-9516e9c4b34e
 - text: Lazar built a rocket car
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -379,7 +379,7 @@ references:
   quote: He built a rocket car.
   claim_id: c1b3085c-6da4-476f-883b-aa0e9a4bcfa4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c1b3085c-6da4-476f-883b-aa0e9a4bcfa4
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c1b3085c-6da4-476f-883b-aa0e9a4bcfa4
 - text: David Fruehauf went public partially backing Lazar and called him very credible
   source: In Plain Sight
   location: ch13:22093-22326
@@ -388,7 +388,7 @@ references:
     partially backing Lazar's claims. 'I think he's very credible,' Fruehauf asserted.
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
 - text: Fruehauf said Lazar's account was very accurate and sounded totally believable
   source: In Plain Sight
@@ -398,7 +398,7 @@ references:
     said.
   claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72b4ac21-be05-4071-b16e-19dd070530cc
 - text: Fruehauf said he knew witnesses who saw Lazar at Area 51
   source: In Plain Sight
@@ -406,7 +406,7 @@ references:
   quote: He also claimed he knew witnesses who saw Lazar somewhere at Area 51.
   claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
 - text: Barry trained Lazar at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -414,7 +414,7 @@ references:
   quote: because he was training me
   claim_id: 714c86d7-1df3-44ce-af7e-6a7f8ee28e4b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-714c86d7-1df3-44ce-af7e-6a7f8ee28e4b
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-714c86d7-1df3-44ce-af7e-6a7f8ee28e4b
 - text: Barry was excited to have a new partner, suggesting he'd worked alone before
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:30:24.5-00:30:35.4
@@ -423,7 +423,7 @@ references:
     so excited to show me.
   claim_id: ad33adc4-3566-4a68-9676-75ea96a4c943
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ad33adc4-3566-4a68-9676-75ea96a4c943
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ad33adc4-3566-4a68-9676-75ea96a4c943
 - text: Lazar hinted to Barry the technology shouldn't be kept secret; Barry silently
     agreed
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -433,7 +433,7 @@ references:
     but it seemed like He was, he agreed with me, you know, without saying so.
   claim_id: 36caed55-e704-4a2c-a957-88a1a8a40c1f
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-36caed55-e704-4a2c-a957-88a1a8a40c1f
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-36caed55-e704-4a2c-a957-88a1a8a40c1f
 - text: Lazar hoped Barry would follow him in speaking out; he did not
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:23:30.6-00:23:42.9
@@ -442,7 +442,7 @@ references:
     But, uh, no, that was all a pipe dream.
   claim_id: bceb7798-5f93-46d9-b10a-139d08145ee8
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bceb7798-5f93-46d9-b10a-139d08145ee8
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bceb7798-5f93-46d9-b10a-139d08145ee8
 - text: Lazar worried people would focus anger on Barry after he went public
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:22:31.7-00:22:43.0
@@ -451,7 +451,7 @@ references:
     pay
   claim_id: 67ae0bca-e3ef-4c91-a0f1-6c03d9670466
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-67ae0bca-e3ef-4c91-a0f1-6c03d9670466
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-67ae0bca-e3ef-4c91-a0f1-6c03d9670466
 - text: Nobody tried to locate Barry despite his valuable technical knowledge
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:22:07.3-00:22:17.0
@@ -459,7 +459,7 @@ references:
     information. I'd love to know everything Barry knew.
   claim_id: 638cbdbf-2941-4056-8426-1d0340de5917
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-638cbdbf-2941-4056-8426-1d0340de5917
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-638cbdbf-2941-4056-8426-1d0340de5917
 - text: Lazar withheld Chuck Payne's name for years because Payne was overt security
     at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -469,14 +469,14 @@ references:
     overt security person.
   claim_id: a8a6491c-ea2a-4942-a078-f9b18844df76
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a8a6491c-ea2a-4942-a078-f9b18844df76
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a8a6491c-ea2a-4942-a078-f9b18844df76
 - text: Chuck Payne was one of the security guards at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:04:23.0-00:04:25.5
   quote: He was one of the security guards there.
   claim_id: e1b8cf44-553b-4e36-b78e-3fc4f34d471f
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e1b8cf44-553b-4e36-b78e-3fc4f34d471f
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e1b8cf44-553b-4e36-b78e-3fc4f34d471f
 - text: Payne was an extrovert who greeted people personally, unlike other guards
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:04:46.6-00:05:09.7
@@ -485,14 +485,14 @@ references:
     out... he was the only one that was just a bit of an extrovert.
   claim_id: ed736068-8768-43f7-b4bf-807c00774248
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ed736068-8768-43f7-b4bf-807c00774248
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ed736068-8768-43f7-b4bf-807c00774248
 - text: Payne was well known to everyone who worked at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:05:32.0-00:05:35.4
   quote: If somebody said, you know, name a guard's name, they'd say Chuck Payne.
   claim_id: e01e54d3-fa7c-4bf3-aacd-054fd38f6e90
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e01e54d3-fa7c-4bf3-aacd-054fd38f6e90
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e01e54d3-fa7c-4bf3-aacd-054fd38f6e90
 - text: Venditelli was surprised when Lazar first revealed Payne's name, around 2023
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:08:08.7-00:08:15.5
@@ -500,7 +500,7 @@ references:
     this happened like over three years ago
   claim_id: e671f548-1213-461c-a4b7-e0e8f21984fb
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e671f548-1213-461c-a4b7-e0e8f21984fb
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e671f548-1213-461c-a4b7-e0e8f21984fb
 - text: The senator named Chuck Payne is a different person from the S4 guard
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:09:06.6-00:09:16.0
@@ -509,7 +509,7 @@ references:
     it is a senator
   claim_id: e26aa896-9e30-49fe-a652-db6833c4b132
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e26aa896-9e30-49fe-a652-db6833c4b132
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e26aa896-9e30-49fe-a652-db6833c4b132
 - text: 'Lazar''s two directives at S4: duplicate and disable the propulsion system,
     no budget limit'
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -519,7 +519,7 @@ references:
     budget limits in either one.
   claim_id: 43814f09-7e9e-4b73-912d-52e2d94bd001
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-43814f09-7e9e-4b73-912d-52e2d94bd001
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-43814f09-7e9e-4b73-912d-52e2d94bd001
 - text: 'Lazar was permitted to review three briefings: Galileo, Sidekick, and Looking
     Glass'
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -528,7 +528,7 @@ references:
     readings, you had Galileo... You had Sidekick... And then you had looking glass
   claim_id: 5b5cc7fe-d30d-489e-855c-fd5e4a618544
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-5b5cc7fe-d30d-489e-855c-fd5e4a618544
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-5b5cc7fe-d30d-489e-855c-fd5e4a618544
 - text: Lazar considers gravity propulsion the most fundamental of the three programmes
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:32:54.6-00:33:05.8
@@ -537,7 +537,7 @@ references:
     unless you can power it.
   claim_id: f5a97a4a-1871-4281-91f2-36400f094d3c
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f5a97a4a-1871-4281-91f2-36400f094d3c
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f5a97a4a-1871-4281-91f2-36400f094d3c
 - text: Lazar doesn't know if gravity tech has since been used to manipulate time
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:33:38.7-00:33:44.8
@@ -545,7 +545,7 @@ references:
     well covered.
   claim_id: 292000fe-b371-48b7-b073-40f171d87bca
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-292000fe-b371-48b7-b073-40f171d87bca
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-292000fe-b371-48b7-b073-40f171d87bca
 - text: Lazar and colleagues were given an opaque yellow fluid tasting of pine sap
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:27:26.2-00:27:30.6
@@ -553,7 +553,7 @@ references:
     saw
   claim_id: 0df14b1e-ea35-447c-b5a4-63c8304d234c
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0df14b1e-ea35-447c-b5a4-63c8304d234c
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0df14b1e-ea35-447c-b5a4-63c8304d234c
 - text: Lazar denies the fluid was psychological conditioning
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:27:42.2-00:27:47.9
@@ -561,7 +561,7 @@ references:
     tasted more like vitamin B than anything.
   claim_id: 6aab45d3-303a-458e-b036-ddfb39cf46cf
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-6aab45d3-303a-458e-b036-ddfb39cf46cf
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-6aab45d3-303a-458e-b036-ddfb39cf46cf
 - text: Lazar was told the fluid was an immune-system booster after allergen testing
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:27:48.5-00:28:02.3
@@ -570,7 +570,7 @@ references:
     clue as to what they are or what interactions they have with the human body.
   claim_id: e645227f-a0b4-41be-9da9-71259a4a5a19
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e645227f-a0b4-41be-9da9-71259a4a5a19
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e645227f-a0b4-41be-9da9-71259a4a5a19
 - text: Lazar says his mind was clear at S4 and denies memory tampering
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:28:34.8-00:28:41.4
@@ -578,7 +578,7 @@ references:
     time I was there. There is no doubt.
   claim_id: 0cd68969-ccb3-4df4-91e9-7a043ba5b0a2
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0cd68969-ccb3-4df4-91e9-7a043ba5b0a2
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0cd68969-ccb3-4df4-91e9-7a043ba5b0a2
 - text: Lazar says the programme inserted person-specific misinformation to trace
     leaks
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -588,7 +588,7 @@ references:
     they start hearing that from somewhere else they know exactly who said it
   claim_id: ff1447da-d137-40c9-83ad-67acf573c8e4
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ff1447da-d137-40c9-83ad-67acf573c8e4
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ff1447da-d137-40c9-83ad-67acf573c8e4
 - text: Lazar distinguishes what he directly worked on from what he was only told
     or read
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -599,21 +599,21 @@ references:
     taught if that's it's real unless it's backed up by by hands-on stuff
   claim_id: 0495b817-6ced-4c57-91fb-5e40f0eb98ae
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0495b817-6ced-4c57-91fb-5e40f0eb98ae
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0495b817-6ced-4c57-91fb-5e40f0eb98ae
 - text: Lazar believes much of the reading material given to him was nonsense
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:29:54.1-00:29:57.4
   quote: i'm sure there's a lot of nonsense... no that was in there
   claim_id: 3858a2f5-61ec-417b-9629-8c9969482349
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-3858a2f5-61ec-417b-9629-8c9969482349
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-3858a2f5-61ec-417b-9629-8c9969482349
 - text: Dennis Mariani stared at Lazar menacingly for 20 minutes on the bus to S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:19:58.3-00:20:02.9
   quote: the same guy who'd stare at you for 20 minutes in that ride to S4 menacingly
   claim_id: 2d51a4cb-8b3a-4adc-8318-0971e14204ea
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-2d51a4cb-8b3a-4adc-8318-0971e14204ea
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-2d51a4cb-8b3a-4adc-8318-0971e14204ea
 - text: Mariani invited Lazar to watch a test flight outside at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:20:30.0-00:20:36.4
@@ -621,7 +621,7 @@ references:
     see this test flight, right?
   claim_id: e076a4a4-d3b6-4744-a02a-5896636ea015
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e076a4a4-d3b6-4744-a02a-5896636ea015
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e076a4a4-d3b6-4744-a02a-5896636ea015
 - text: Lazar and colleagues were told to be in the big hangar for a 2pm test
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:20:58.8-00:21:04.2
@@ -629,7 +629,7 @@ references:
     stuff done. Be out there in the big hangar.
   claim_id: b69e20d4-a98e-47e2-8e5e-a0c47c9a44db
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-b69e20d4-a98e-47e2-8e5e-a0c47c9a44db
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-b69e20d4-a98e-47e2-8e5e-a0c47c9a44db
 - text: The craft was already outside and Mariani made it seem last-minute
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:21:06.9-00:21:15.4
@@ -637,21 +637,21 @@ references:
     so it's like it was a last minute thought now that's what makes less sense
   claim_id: d73d753e-0231-4c69-b127-aa3a19adc392
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-d73d753e-0231-4c69-b127-aa3a19adc392
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-d73d753e-0231-4c69-b127-aa3a19adc392
 - text: Lazar speculates he wasn't meant to know how the craft left the hangar
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:21:29.8-00:21:32.2
   quote: maybe we're not supposed to know how it got out of the hangar
   claim_id: 4544074b-9bc7-4c57-a7ea-59322dc1cd3d
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4544074b-9bc7-4c57-a7ea-59322dc1cd3d
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4544074b-9bc7-4c57-a7ea-59322dc1cd3d
 - text: Dennis Mariani was older than Lazar
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:07:02.4-00:07:02.8
   quote: He was older than me.
   claim_id: 10e949ac-75c8-4bc0-b2be-8ff4ac478938
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-10e949ac-75c8-4bc0-b2be-8ff4ac478938
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-10e949ac-75c8-4bc0-b2be-8ff4ac478938
 - text: Many people have tried to locate Mariani, believing he'd know a lot about
     the S4 programme
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -662,7 +662,7 @@ references:
     really the guy that would know a lot.
   claim_id: e551b867-8ca2-42c1-845d-2780c2af7f2f
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e551b867-8ca2-42c1-845d-2780c2af7f2f
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e551b867-8ca2-42c1-845d-2780c2af7f2f
 - text: Knapp called Lazar and arranged to meet at the Union Plaza Hotel in Las Vegas
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:12:56.5-00:12:58.0
@@ -670,7 +670,7 @@ references:
     hotel.
   claim_id: 8b5ae965-ab9a-460f-a0b2-5613ca42e423
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8b5ae965-ab9a-460f-a0b2-5613ca42e423
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8b5ae965-ab9a-460f-a0b2-5613ca42e423
 - text: Knapp's call came relatively soon after Lazar went public, not months later
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:13:09.3-00:13:15.8
@@ -678,7 +678,7 @@ references:
     relatively soon after
   claim_id: 9f7410f0-9e41-40f3-875b-6143773424f9
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-9f7410f0-9e41-40f3-875b-6143773424f9
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-9f7410f0-9e41-40f3-875b-6143773424f9
 - text: Lazar brought Gene Huff as a witness to the meeting with Mariani
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:14:29.6-00:14:39.2
@@ -686,7 +686,7 @@ references:
     Gene Huff i said that's Dennis Mariani right there
   claim_id: a62e3ca5-85ac-47fe-9e0e-51c0db61c390
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a62e3ca5-85ac-47fe-9e0e-51c0db61c390
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-a62e3ca5-85ac-47fe-9e0e-51c0db61c390
 - text: Lazar recognised other faces near Mariani as people he'd seen at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:14:54.2-00:15:00.9
@@ -694,21 +694,21 @@ references:
     from his direction.
   claim_id: 16d86a40-b801-4f76-9da2-f0fcb1dba899
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-16d86a40-b801-4f76-9da2-f0fcb1dba899
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-16d86a40-b801-4f76-9da2-f0fcb1dba899
 - text: Chuck Payne was not among the unfamiliar faces at the meeting
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:15:44.9-00:15:46.1
   quote: It wasn't Chuck. No.
   claim_id: 7da9ad2c-588c-46c8-a51d-a90adaaa8ee0
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7da9ad2c-588c-46c8-a51d-a90adaaa8ee0
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7da9ad2c-588c-46c8-a51d-a90adaaa8ee0
 - text: Lazar believes the unfamiliar faces were S4 security personnel
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:15:42.6-00:15:43.3
   quote: No, I think they were security.
   claim_id: ea2a036d-e0c0-4a90-8cfe-350a73706275
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ea2a036d-e0c0-4a90-8cfe-350a73706275
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ea2a036d-e0c0-4a90-8cfe-350a73706275
 - text: Mariani would not look at Lazar or respond when approached
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:15:11.4-00:15:23.6
@@ -717,14 +717,14 @@ references:
     went Dennis and no response.
   claim_id: 50255d44-9718-4bb5-ba57-f9403f0ee7ab
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-50255d44-9718-4bb5-ba57-f9403f0ee7ab
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-50255d44-9718-4bb5-ba57-f9403f0ee7ab
 - text: People who investigated believe Mariani has died
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:06:43.7-00:06:46.1
   quote: from those that did, it looked like Dennis Mariani died.
   claim_id: 89944903-6a62-469d-954e-9c5fb0a8e9a4
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-89944903-6a62-469d-954e-9c5fb0a8e9a4
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-89944903-6a62-469d-954e-9c5fb0a8e9a4
 - text: Lazar has seen a photograph of a gravestone he believes is Mariani's
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:06:48.8-00:06:55.4
@@ -732,7 +732,7 @@ references:
     connects all the dots. This looks like it was the guy.
   claim_id: 56a84d11-e22c-45a4-84ef-b3739a39f5ab
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-56a84d11-e22c-45a4-84ef-b3739a39f5ab
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-56a84d11-e22c-45a4-84ef-b3739a39f5ab
 - text: Venditelli sees corroboration of Mariani's existence as supporting Lazar's
     account
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -741,7 +741,7 @@ references:
     guy who mentioned Dennis Mariani.
   claim_id: 8af3e5e7-3f1e-4315-979c-c148dcd2de07
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8af3e5e7-3f1e-4315-979c-c148dcd2de07
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8af3e5e7-3f1e-4315-979c-c148dcd2de07
 - text: A film crew for Project Gravator photographed Lazar with a DeLorean prop near
     Las Vegas
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -752,7 +752,7 @@ references:
     is a giant mansion
   claim_id: 7a1a0c5f-725e-4218-ae74-3024825fa604
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7a1a0c5f-725e-4218-ae74-3024825fa604
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7a1a0c5f-725e-4218-ae74-3024825fa604
 - text: During the desert shoot Lazar told Venditelli he had something new to share
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:10:48.4-00:10:55.6
@@ -760,7 +760,7 @@ references:
     job. And I think there's something I can say.
   claim_id: 903c5e70-d8b7-495c-93f8-a651764c059d
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-903c5e70-d8b7-495c-93f8-a651764c059d
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-903c5e70-d8b7-495c-93f8-a651764c059d
 - text: 'Ramsay: Lazar and Billy Meier are among the most contentious names in the
     UFO field'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -769,7 +769,7 @@ references:
     start feuding. And two of those names are Bob Lazar and Billy Meier.
   claim_id: 48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
 - text: 'Ramsay: Lazar said the Meier beam ship matched craft he was familiar with'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:03:39.0-00:03:53.9
@@ -778,14 +778,14 @@ references:
     Bob was kind of blown away.
   claim_id: 27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
 - text: 'Ramsay: he and Lazar agree the later Meier material is questionable'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:03:53.9-00:03:59.6
   quote: Bob and myself both agree, like the later stuff is a little questionable.
   claim_id: 44964627-c9e9-421b-9769-df2b17f5534b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-44964627-c9e9-421b-9769-df2b17f5534b
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-44964627-c9e9-421b-9769-df2b17f5534b
 - text: 'Ramsay: the beam ship shown to Lazar matches the 1975 photo, perhaps not
     in size'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -795,7 +795,7 @@ references:
     one.
   claim_id: f4e48e9e-62d0-4a5a-81bb-b6afeda9bdf7
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f4e48e9e-62d0-4a5a-81bb-b6afeda9bdf7
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f4e48e9e-62d0-4a5a-81bb-b6afeda9bdf7
 - text: 'Ramsay''s alternative explanation: the craft shown to Lazar was a Lockheed
     Martin replica'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -804,14 +804,14 @@ references:
     Lockheed Martin, deep underground black military project.
   claim_id: b0501e4d-6f82-4695-b6ee-e57fe69741d2
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b0501e4d-6f82-4695-b6ee-e57fe69741d2
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b0501e4d-6f82-4695-b6ee-e57fe69741d2
 - text: Michael Horn said Lazar examined material from the Meier case
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:49:25.9-00:49:34.1
   quote: this other material that Bob Lazar has looked at and all
   claim_id: 4ad810fb-c9a1-4163-9244-236d5c739dfb
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4ad810fb-c9a1-4163-9244-236d5c739dfb
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4ad810fb-c9a1-4163-9244-236d5c739dfb
 - text: 'Ramsay: Bill Herman was told the beings were from Zeta Reticulum before Lazar''s
     account'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -821,7 +821,7 @@ references:
     they were from zeta reticulum as well
   claim_id: 4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
 - text: 'Nanstiel: military briefing papers described the Greys viewing humans as
     containers'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -831,7 +831,7 @@ references:
     and we were given religion so that we wouldn't damage the containers
   claim_id: e3ddb512-6096-4ae5-a29a-e06e53f2b54e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e3ddb512-6096-4ae5-a29a-e06e53f2b54e
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e3ddb512-6096-4ae5-a29a-e06e53f2b54e
 - text: 'Nanstiel: Lazar speculated the container reference might mean souls or blood'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -841,14 +841,14 @@ references:
     of blood since they consume blood
   claim_id: 5387b462-2e31-49d4-a938-a1d2701ecadf
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5387b462-2e31-49d4-a938-a1d2701ecadf
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5387b462-2e31-49d4-a938-a1d2701ecadf
 - text: Lazar respects David Grush for coming forward publicly
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:24:41.8-00:24:46.4
   quote: Hats off to that guy. You know, I, I, I respect him for doing that for sure.
   claim_id: 82308765-3656-4371-b69a-506bd46711a8
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-82308765-3656-4371-b69a-506bd46711a8
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-82308765-3656-4371-b69a-506bd46711a8
 - text: Ramsay keeps a picture of the heart-shaped field Lazar described
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -857,7 +857,7 @@ references:
     like the heart-shaped yeah field around the ship
   claim_id: 9677e447-3eac-48bb-98c0-74b3c7458512
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-9677e447-3eac-48bb-98c0-74b3c7458512
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-9677e447-3eac-48bb-98c0-74b3c7458512
 - text: 'Mitchells: Lazar is the only person to claim he worked on the craft itself,
     in 1989'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -866,7 +866,7 @@ references:
     said he worked on the craft itself
   claim_id: 3bd758c7-9df2-478d-a237-84ce8aa14a10
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bd758c7-9df2-478d-a237-84ce8aa14a10
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bd758c7-9df2-478d-a237-84ce8aa14a10
 - text: 'Mitchells: Lazar describes the work as parallel rather than reverse engineering'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:09:21.3-01:09:35.0
@@ -876,7 +876,7 @@ references:
     human means
   claim_id: 56c169c1-3d84-431e-8144-5dac8170bed1
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-56c169c1-3d84-431e-8144-5dac8170bed1
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-56c169c1-3d84-431e-8144-5dac8170bed1
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

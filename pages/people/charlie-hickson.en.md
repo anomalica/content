@@ -249,7 +249,7 @@ references:
     he says, an unidentified flying object landed in the old Schaupeter shipyard.
   claim_id: 4f138d8c-fd31-43b7-b564-a4831c152127
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4f138d8c-fd31-43b7-b564-a4831c152127
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4f138d8c-fd31-43b7-b564-a4831c152127
 - text: Hickson claimed three "things" carried him and Calvin Parker aboard the craft
     for examination
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -258,7 +258,7 @@ references:
     carried them aboard the craft, where they were closely examined.
   claim_id: b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
 - text: Witnesses named as two fishermen, Charles Hickson (42) and Calvin Parker (19)
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -267,7 +267,7 @@ references:
     Parker, 19.'
   claim_id: 0dc2fdfa-38c0-46f2-8e64-913d8d15434a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0dc2fdfa-38c0-46f2-8e64-913d8d15434a
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0dc2fdfa-38c0-46f2-8e64-913d8d15434a
 - text: Two men from Pascagoula told of abduction by grotesque robot-like creatures
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -276,7 +276,7 @@ references:
     robot-like creatures
   claim_id: a3b6437a-04e5-495a-975d-609ba083c9bf
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3b6437a-04e5-495a-975d-609ba083c9bf
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3b6437a-04e5-495a-975d-609ba083c9bf
 - text: Hickson, Betty Hill, and Travis Walton each passed polygraph tests on their
     abduction accounts
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -285,7 +285,7 @@ references:
     Hickson in Pascagoula, Travis Walton in Arizona.'
   claim_id: 99bdad04-8a37-4a64-82c6-2d5a387bf59c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-99bdad04-8a37-4a64-82c6-2d5a387bf59c
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-99bdad04-8a37-4a64-82c6-2d5a387bf59c
 - text: Al Lawson said imaginary-abductee hypnosis narratives were surprisingly similar
     to cases like Hill's and Hickson's
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -296,7 +296,7 @@ references:
     Hickson.
   claim_id: 6190bcec-f65f-45ae-a515-6e43351f136c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6190bcec-f65f-45ae-a515-6e43351f136c
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6190bcec-f65f-45ae-a515-6e43351f136c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

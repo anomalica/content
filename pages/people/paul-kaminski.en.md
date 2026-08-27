@@ -29,7 +29,7 @@ references:
     General)'
   claim_id: 4adf89e5-79f4-4a60-b311-da7c1a81b31a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4adf89e5-79f4-4a60-b311-da7c1a81b31a
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4adf89e5-79f4-4a60-b311-da7c1a81b31a
 - text: Kaminski left his position as Under Secretary of Defense for Acquisition,
     Technology and Logistics, and left government service, in December 1997.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -37,7 +37,7 @@ references:
   quote: In Dec. '97 Paul was out as USDAT, left gov't
   claim_id: a149708e-577f-453b-a1e9-f12e67a4cc79
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a149708e-577f-453b-a1e9-f12e67a4cc79
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a149708e-577f-453b-a1e9-f12e67a4cc79
 - text: The memo names Kaminski, Director of Special Programs in OUSDAT, as one of
     three people Wilson confirmed the programme's contractor with, alongside Kostelnik
     and William Perry.
@@ -50,7 +50,7 @@ references:
     Bill Perry.
   claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
 - text: In late May 1997, Wilson called Kaminski, Kostelnik and Perry to confirm he
     had the right contractor and programme manager, and they confirmed it.
@@ -66,7 +66,7 @@ references:
     TW: Yes.'
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
 - text: The programme manager was unhappy with Wilson's account of who he had spoken
     to, though Wilson withheld that he had talked to Perry and Kaminski.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -79,7 +79,7 @@ references:
     TW: Oh, no! I didn''t tell them I talked to those guys!'
   claim_id: 2cfc9df5-134f-459d-8895-36e57b5660a3
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -53,14 +53,14 @@ references:
   quote: Daniel Dunglas Home (1833–1886)
   claim_id: 22c188d6-a0b2-4ab0-a017-48d128ea16fd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-22c188d6-a0b2-4ab0-a017-48d128ea16fd
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-22c188d6-a0b2-4ab0-a017-48d128ea16fd
 - text: Home was born in Scotland and raised in America.
   source: Surviving Death
   location: ch35:24072-24103
   quote: Born in Scotland but raised in America
   claim_id: 3891d29f-abc5-4c41-95ec-0ce2b4b9be80
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3891d29f-abc5-4c41-95ec-0ce2b4b9be80
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3891d29f-abc5-4c41-95ec-0ce2b4b9be80
 - text: Home is considered, along with Eusapia Palladino, one of the most impressive
     mediums.
   source: Surviving Death
@@ -68,7 +68,7 @@ references:
   quote: considered along with Eusapia to be one of the most impressive mediums ever
   claim_id: 0d5ad3aa-5864-4edf-8b12-5a8875bee987
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0d5ad3aa-5864-4edf-8b12-5a8875bee987
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0d5ad3aa-5864-4edf-8b12-5a8875bee987
 - text: Home demonstrated mediumship for twenty-five years and was never accused of
     cheating.
   source: Surviving Death
@@ -76,7 +76,7 @@ references:
   quote: demonstrated for twenty-five years and was never accused of cheating
   claim_id: 03d678ae-4103-4720-8ebf-3f380fa1b554
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-03d678ae-4103-4720-8ebf-3f380fa1b554
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-03d678ae-4103-4720-8ebf-3f380fa1b554
 - text: Home was studied under controlled observation for many years by William Crookes.
   source: Surviving Death
   location: ch35:24112-24325
@@ -85,7 +85,7 @@ references:
     discovery of the element thallium and for his cathode-ray studies.
   claim_id: ecb87c99-c412-4dc2-9f40-cfadb0e6096d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ecb87c99-c412-4dc2-9f40-cfadb0e6096d
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ecb87c99-c412-4dc2-9f40-cfadb0e6096d
 - text: Phenomena included hands that were supple, solid, mobile and warm, of varying
     size, shape and colour.
   source: Surviving Death
@@ -93,7 +93,7 @@ references:
   quote: Hands, supple, solid, mobile, and warm, of different sizes, shapes, and colors.
   claim_id: c82ce6bf-5f79-44f4-acb6-7d8375d91a55
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c82ce6bf-5f79-44f4-acb6-7d8375d91a55
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c82ce6bf-5f79-44f4-acb6-7d8375d91a55
 - text: The hands were animated and solid to the touch but often ended at the wrist
     and dissolved.
   source: Surviving Death
@@ -102,7 +102,7 @@ references:
     end at or near the wrist and eventually dissolve or melt.
   claim_id: d73b0252-0634-4e51-8683-c4b0aa5fe432
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d73b0252-0634-4e51-8683-c4b0aa5fe432
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d73b0252-0634-4e51-8683-c4b0aa5fe432
 - text: The hands were sometimes disfigured as those of a deceased communicator unknown
     to Home had been.
   source: Surviving Death
@@ -111,7 +111,7 @@ references:
     deceased ostensible communicator (unknown to Home) had been.
   claim_id: 24bbed18-9cf1-45ea-8604-cd0f0f046aab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-24bbed18-9cf1-45ea-8604-cd0f0f046aab
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-24bbed18-9cf1-45ea-8604-cd0f0f046aab
 - text: Crookes observed a small hand and arm like a baby's appear, pat his arm and
     pull his coat.
   source: Surviving Death
@@ -121,7 +121,7 @@ references:
     and pulled my coat several times.
   claim_id: 1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
 - text: Crookes observed a hand playing an accordion while both of Home's hands remained
     visible.
   source: Surviving Death
@@ -131,7 +131,7 @@ references:
     being held by those near him.
   claim_id: 46bad456-ad7e-4643-ad03-c2cb54c12d55
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-46bad456-ad7e-4643-ad03-c2cb54c12d55
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-46bad456-ad7e-4643-ad03-c2cb54c12d55
 - text: Crookes noted the hand felt icy cold at times and warm and lifelike at others.
   source: Surviving Death
   location: ch35:25296-25440
@@ -139,7 +139,7 @@ references:
     warm and lifelike, grasping my own with the firm pressure of an old friend.
   claim_id: 7f0e4619-4bc1-49a2-b21d-edaccb7bf680
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f0e4619-4bc1-49a2-b21d-edaccb7bf680
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f0e4619-4bc1-49a2-b21d-edaccb7bf680
 - text: Home was observed on some occasions to levitate.
   source: The Fourth Mind
   location: ch22:26850-26942
@@ -147,7 +147,7 @@ references:
     some occasions to levitate.
   claim_id: 431a6cbd-1123-4c96-85cb-c4485e95b383
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-431a6cbd-1123-4c96-85cb-c4485e95b383
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-431a6cbd-1123-4c96-85cb-c4485e95b383
 - text: Crookes observed Home's levitation and found no evidence of fraud.
   source: The Fourth Mind
   location: ch22:27045-27144
@@ -155,7 +155,7 @@ references:
     and found no evidence of fraud.
   claim_id: 85fadb92-1ee1-4d6d-9412-bbac3ec92237
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-85fadb92-1ee1-4d6d-9412-bbac3ec92237
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-85fadb92-1ee1-4d6d-9412-bbac3ec92237
 - text: Mark Twain witnessed Home and believed him to be genuine.
   source: The Fourth Mind
   location: ch22:26952-27032
@@ -163,7 +163,7 @@ references:
     to be genuine
   claim_id: b89d26a8-c239-472e-af73-2fac708383d3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b89d26a8-c239-472e-af73-2fac708383d3
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b89d26a8-c239-472e-af73-2fac708383d3
 - text: The spirit communicator said matter passing through matter was impossible
     but that they would show what they could do.
   source: Surviving Death
@@ -172,7 +172,7 @@ references:
     matter, but we will show you what we can do.”'
   claim_id: f711c853-f081-4851-a0ba-7b3e37d170c3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f711c853-f081-4851-a0ba-7b3e37d170c3
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f711c853-f081-4851-a0ba-7b3e37d170c3
 - text: A piece of china-grass rose, descended, and passed through the table in full
     view of those present.
   source: Surviving Death
@@ -185,7 +185,7 @@ references:
     had entirely passed through,” Crookes wrote.
   claim_id: d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
 - text: Home's hands were visible throughout and the grass stem showed no signs of
     pressure or abrasion.
   source: Surviving Death
@@ -194,7 +194,7 @@ references:
     or abrasion.
   claim_id: e0f3c667-a8ea-472a-8efc-c557a5afb624
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e0f3c667-a8ea-472a-8efc-c557a5afb624
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e0f3c667-a8ea-472a-8efc-c557a5afb624
 - text: The phenomena observed with Indridi Indridason resembled those associated
     with Home.
   source: Surviving Death
@@ -204,7 +204,7 @@ references:
     mediums ever studied
   claim_id: 8cb1ca51-b1b6-4073-bf5d-2d2d28833e98
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cb1ca51-b1b6-4073-bf5d-2d2d28833e98
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cb1ca51-b1b6-4073-bf5d-2d2d28833e98
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

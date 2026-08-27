@@ -54,7 +54,7 @@ references:
     been abandoned when the Saudeleur dynasty fell.
   claim_id: 9e1d7b97-f04d-4b14-8759-418fab8c6be1
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9e1d7b97-f04d-4b14-8759-418fab8c6be1
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9e1d7b97-f04d-4b14-8759-418fab8c6be1
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

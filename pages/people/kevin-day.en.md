@@ -87,7 +87,7 @@ references:
     and tracked by US Navy pilots in 2004.
   claim_id: 7698357a-332c-49e7-94d4-e8c410476a97
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7698357a-332c-49e7-94d4-e8c410476a97
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7698357a-332c-49e7-94d4-e8c410476a97
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7698357a-332c-49e7-94d4-e8c410476a97
 - text: Day was the USS Princeton's Operations Specialist Senior Chief, coordinating
     carrier-group protection systems
@@ -97,7 +97,7 @@ references:
     charge of coordinating the systems that protect the entire carrier group
   claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
 - text: Day was manning the radar aboard USS Princeton during the encounter
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -105,7 +105,7 @@ references:
   quote: Manning the radar on board the Princeton was Kevin Day.
   claim_id: 17d09693-6798-454a-b66f-09da76258383
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-17d09693-6798-454a-b66f-09da76258383
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-17d09693-6798-454a-b66f-09da76258383
 - text: In the days before 14 November 2004, Day and his team grew increasingly concerned
     by anomalous radar tracks
   source: In Plain Sight
@@ -115,7 +115,7 @@ references:
     his team detected on their screens.
   claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
 - text: From 10 November, Day tracked unidentified objects with no transponder, clustering
     in groups of five to ten, at high altitude
@@ -126,7 +126,7 @@ references:
     an altitude far above normal commercial or military aviation traffic.
   claim_id: 5685dfec-b085-4bf5-b00f-b6118b2dc58d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
 - text: Day verified the tracks using the Cooperative Engagement Capability (CEC)
     system
@@ -136,7 +136,7 @@ references:
     System, which took all the radars from every source and merged them into one picture.
   claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6e8aa35-cf54-4741-826b-146330acc778
 - text: Day observed a formation of unidentified objects rather than the simulated
     adversary aircraft expected
@@ -146,7 +146,7 @@ references:
     a formation of unidentified flying objects.
   claim_id: d0314d73-7fee-4c08-9615-c69f90b649b3
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d0314d73-7fee-4c08-9615-c69f90b649b3
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d0314d73-7fee-4c08-9615-c69f90b649b3
 - text: Day initially thought the objects were civilian-related and the crew unaware
     of the traffic
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -155,7 +155,7 @@ references:
     there.
   claim_id: daac393a-1231-42c4-804f-6fb4031e6f15
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-daac393a-1231-42c4-804f-6fb4031e6f15
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-daac393a-1231-42c4-804f-6fb4031e6f15
 - text: Day grew concerned due to an ongoing air defence exercise; his captain confirmed
     the objects had been tracked for days
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -165,7 +165,7 @@ references:
     been tracking these objects for days now.
   claim_id: b2bf7bc8-b546-4436-b6a5-8cde648950cb
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-b2bf7bc8-b546-4436-b6a5-8cde648950cb
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-b2bf7bc8-b546-4436-b6a5-8cde648950cb
 - text: On 14 November, Day again saw a cluster of 14 unidentified objects on radar
   source: In Plain Sight
   location: ch16:3258-3438
@@ -173,7 +173,7 @@ references:
     Senior Chief Day again saw a cluster of 14 unidentified objects on his screen
   claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
 - text: Day confirmed USS Nimitz's radar was tracking the same cluster
   source: In Plain Sight
@@ -181,7 +181,7 @@ references:
   quote: this time, he confirmed the Nimitz's radar was seeing the same thing
   claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
 - text: Day said corroborating returns from multiple systems made false readings extremely
     unlikely
@@ -192,7 +192,7 @@ references:
     were false readings.
   claim_id: d07295d5-c39e-45d6-b88b-7b43bfc09591
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
 - text: The cluster was at approximately 24,000 metres or higher, with some contacts
     at approximately 8,500 metres
@@ -202,7 +202,7 @@ references:
     some were lower at 28,000 feet
   claim_id: b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
 - text: Day calculated the objects plummeted in about 0.78 seconds from 24,000 metres
     to hover between 8,500 and 15 metres above the sea
@@ -213,7 +213,7 @@ references:
     hanging just 50 feet above the surface of the ocean.
   claim_id: 223e096a-0e46-4598-afcf-9329fee3d847
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-223e096a-0e46-4598-afcf-9329fee3d847
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-223e096a-0e46-4598-afcf-9329fee3d847
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-223e096a-0e46-4598-afcf-9329fee3d847
 - text: At a 2019 UFO conference, Day described the objects as 'raining UFOs' making
     a repeated sound down to the water
@@ -224,7 +224,7 @@ references:
     he recalled.'
   claim_id: 18b5b5b6-6955-4f5b-8e28-11d30c874670
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
 - text: Day recommended to Captain James Smith that aircraft investigate; Smith concurred
   source: In Plain Sight
@@ -233,7 +233,7 @@ references:
     to take a look, and the captain concurred.
   claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
 - text: Day tracked the object on radar during David Fravor's intercept
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -242,7 +242,7 @@ references:
     as he's at the merge plot, that object went...
   claim_id: 520dfd6f-d5da-4f18-a4dc-d2b7d9fa9362
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-520dfd6f-d5da-4f18-a4dc-d2b7d9fa9362
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-520dfd6f-d5da-4f18-a4dc-d2b7d9fa9362
 - text: Day recalls pilots and everyone on the radio screaming at the peak moment
   source: In Plain Sight
   location: ch16:11269-11341
@@ -250,7 +250,7 @@ references:
     recalls.'
   claim_id: d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
 - text: Day said he decided the objects posed a serious threat to air navigation
   source: In Plain Sight
@@ -258,7 +258,7 @@ references:
   quote: Kevin Day decided that these strange UAPs posed a serious threat to air navigation.
   claim_id: d9fe8a87-45d2-49b5-a2de-08c78f0ff188
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
 - text: Day said he is very sure the objects were real, solid objects
   source: In Plain Sight
@@ -267,7 +267,7 @@ references:
     tells me from his home in a beautiful part of high-country Oregon in a phone interview.'
   claim_id: 393f153c-e3e8-4bb9-90d5-24ee2dfb499b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
 - text: Day said he believes some objects were underwater just before ascending to
     about 24,000 metres, above his radar's scan volume
@@ -278,7 +278,7 @@ references:
     above the scan volume of our radar at the time'.
   claim_id: a02d1ff4-c8d9-4ddf-abf4-08419751336b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
 - text: Day said he learned from Princeton anti-ballistic missile defence crewmen
     that they had tracked some objects from orbit
@@ -289,7 +289,7 @@ references:
     some of these objects that day from orbit.
   claim_id: e3237084-21a3-4c8c-bd39-62aec0989d0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
 - text: Day said he believes some objects came from space, though he did not see them
     on his own radar
@@ -299,7 +299,7 @@ references:
     directly on my radar, but I know some came from orbit. We aren''t alone, Ross.'''
   claim_id: e2f6df57-3837-46aa-8f34-3677b7309d06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
 - text: Day said he considers the full video would have to be at least ten minutes,
     based on standard 'tapes on' practice before an intercept
@@ -310,7 +310,7 @@ references:
     the full Tic Tac video would have to be at least ten minutes long.
   claim_id: 3b796af5-0995-4f32-a912-395466e1f818
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b796af5-0995-4f32-a912-395466e1f818
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b796af5-0995-4f32-a912-395466e1f818
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b796af5-0995-4f32-a912-395466e1f818
 - text: The morning after, Day went to the comms room for a copy of the radio traffic
     to write an after-action report
@@ -321,7 +321,7 @@ references:
     day so that he could get the data he needed to write up an after-action report.
   claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-922a56a4-1aba-4fed-86c2-15785656b43c
 - text: Day discovered the radio communications data had been erased from the optical
     disk, though the time stamps remained
@@ -333,7 +333,7 @@ references:
     All the date and time stamps were there but the actual comms were all missing.'
   claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
 - text: Day said he considers it should not have been possible for the data to go
     missing with time stamps intact, yet it happened
@@ -343,7 +343,7 @@ references:
     think that's possible. But it happened.
   claim_id: cb674f5f-8ce7-4149-82d1-b902fb4038bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
 - text: Day recalled his captain telling him he thought the objects were spontaneously
     forming ice falling from space
@@ -354,7 +354,7 @@ references:
     ice falling from space".'
   claim_id: b57d2f64-6c54-42ab-9df0-e6f14f5f4893
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
 - text: Day said he considers that explanation absurd
   source: In Plain Sight
@@ -362,7 +362,7 @@ references:
   quote: Day laughs at the absurdity of such a conclusion.
   claim_id: 9439c998-3d90-4e23-a7ce-4eb88f4d9955
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
 - text: Day said his captain left him with the impression he knew more than he was
     letting on
@@ -372,7 +372,7 @@ references:
     was letting on about the phenomenon.
   claim_id: 7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
 - text: According to Ross Coulthart, the encounter had a profound effect on Day, rocking
     his world view
@@ -382,7 +382,7 @@ references:
     that what he saw that day has rocked his world view.
   claim_id: 2fd56e58-c76d-42ab-b788-c0db94d8b876
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
 - text: Coulthart said the g-forces implied by the acceleration Day observed on radar
     would make human survival impossible
@@ -392,7 +392,7 @@ references:
     make human survival impossible.
   claim_id: bc582bf2-38cb-4b91-98da-49d9e021cfd5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5
 built_by:
   model: claude-sonnet-5

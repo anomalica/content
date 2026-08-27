@@ -74,7 +74,7 @@ references:
     surveillance.
   claim_id: 45a90ef3-1c1a-4dd0-afa2-1cad1f798581
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-45a90ef3-1c1a-4dd0-afa2-1cad1f798581
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-45a90ef3-1c1a-4dd0-afa2-1cad1f798581
 - text: a top-secret parent program called Immaculate Constellation was recently divulged
     in the news
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -84,7 +84,7 @@ references:
     Constellation.
   claim_id: 661f0385-1662-4765-954e-e6b7878a3a47
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-661f0385-1662-4765-954e-e6b7878a3a47
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-661f0385-1662-4765-954e-e6b7878a3a47
 - text: the piece is about a new whistleblower, a government employee or contractor,
     who wrote a report
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -95,7 +95,7 @@ references:
     contractor.
   claim_id: 94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
 - text: the whistleblower provided the report to members of the US Congress
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -103,7 +103,7 @@ references:
   quote: They have written a report and provided it to members of Congress.
   claim_id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
 - text: the report claims the DoD is illegally withholding information about a secret
     UAP program
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -113,7 +113,7 @@ references:
     information from Congress about a secret UAP program.
   claim_id: 4c95df5a-a713-459c-afb0-2a616b3074f0
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
 - text: the secret program is called Immaculate Constellation, a parent program of
     subordinate programs
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -123,7 +123,7 @@ references:
     but it's called Immaculate Constellation.
   claim_id: 5c008153-2eba-4248-9392-a4f9c44d8d79
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c008153-2eba-4248-9392-a4f9c44d8d79
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c008153-2eba-4248-9392-a4f9c44d8d79
 - text: Shellenberger had the name confirmed by a second source
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -131,7 +131,7 @@ references:
   quote: I had it confirmed by a second source that this is the name.
   claim_id: 81da8e55-2465-4fe4-a092-b0bd5f504d29
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-81da8e55-2465-4fe4-a092-b0bd5f504d29
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-81da8e55-2465-4fe4-a092-b0bd5f504d29
 - text: Shellenberger published the report on 2024-10-09 on his platform Public
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -139,7 +139,7 @@ references:
   quote: He published an in-depth report on October 9th, 2024 on his platform Public.
   claim_id: 1bb955ec-4520-4be5-ba0c-965b3c104969
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-1bb955ec-4520-4be5-ba0c-965b3c104969
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-1bb955ec-4520-4be5-ba0c-965b3c104969
 - text: the report states the program handles classified materials on UAP encounters
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -149,7 +149,7 @@ references:
     USAP.
   claim_id: 2fc57eb4-1ade-4132-a737-c7999bd01c82
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-2fc57eb4-1ade-4132-a737-c7999bd01c82
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-2fc57eb4-1ade-4132-a737-c7999bd01c82
 - text: the program reportedly operates under an unacknowledged special access program
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -157,7 +157,7 @@ references:
   quote: and operates under an unacknowledged special access program, USAP.
   claim_id: 2da7bea5-cea2-47b0-9df5-8cc3ba96bcb3
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-2da7bea5-cea2-47b0-9df5-8cc3ba96bcb3
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-2da7bea5-cea2-47b0-9df5-8cc3ba96bcb3
 - text: reportedly initiated in 2017, following the Pentagon's admission of AATIP
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -166,7 +166,7 @@ references:
     of the AATIP program.
   claim_id: 3a9c317f-b789-428f-8adb-3a38231ea08f
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3a9c317f-b789-428f-8adb-3a38231ea08f
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3a9c317f-b789-428f-8adb-3a38231ea08f
 - text: Ramsay has not been shown the underlying whistleblower report
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -174,7 +174,7 @@ references:
   quote: Obviously, I've not been subjected to this document,
   claim_id: 3570a877-bda5-43c1-80b4-42a283134d59
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3570a877-bda5-43c1-80b4-42a283134d59
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3570a877-bda5-43c1-80b4-42a283134d59
 - text: Ramsay speculated the whistleblower's identity might be revealed at the 13
     November hearing
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -184,7 +184,7 @@ references:
     November 13th congressional hearing about UAPs,
   claim_id: a1e74a4d-d92d-4836-88a1-d789b2a628bf
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-a1e74a4d-d92d-4836-88a1-d789b2a628bf
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-a1e74a4d-d92d-4836-88a1-d789b2a628bf
 - text: the program reportedly tracks, retrieves and archives data on UFO sightings
     and encounters
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -194,7 +194,7 @@ references:
     data on UFO sightings and encounters.
   claim_id: c0a75204-29a0-411e-8667-ad595d9b6fdf
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-c0a75204-29a0-411e-8667-ad595d9b6fdf
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-c0a75204-29a0-411e-8667-ad595d9b6fdf
 - text: a documented case involving orbs swarming an F-22 Raptor
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -202,7 +202,7 @@ references:
   quote: Number one, orbs swarming an F-22 jet.
   claim_id: 3453c90b-9f56-47b1-a56c-372210a089e7
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3453c90b-9f56-47b1-a56c-372210a089e7
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3453c90b-9f56-47b1-a56c-372210a089e7
 - text: the report reportedly contains imagery including FLIR, full-motion video and
     other surveillance footage
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -213,7 +213,7 @@ references:
     and other types of surveillance footage documenting these UAP encounters.
   claim_id: 9f19bce2-6b1a-44d2-af68-ba7f3da92de3
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-9f19bce2-6b1a-44d2-af68-ba7f3da92de3
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-9f19bce2-6b1a-44d2-af68-ba7f3da92de3
 - text: David Grush never mentioned Immaculate Constellation
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -221,7 +221,7 @@ references:
   quote: Although David Grush never mentioned Immaculate Constellation,
   claim_id: 0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
 - text: Congress received the document only minutes before the 13 November hearing
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:13:35.8-00:13:47.2
@@ -229,14 +229,14 @@ references:
     minutes before the hearing, so they did not have time to review it.
   claim_id: eb204f81-feac-452c-87d8-566d5d0c20ba
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
 - text: the document does not contain any content about hybridisation
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:13:48.0-00:13:50.0
   quote: there's nothing in here that talks about hybridization.
   claim_id: fd85e1d8-7d79-41bb-8a35-5906aaa2a001
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-fd85e1d8-7d79-41bb-8a35-5906aaa2a001
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-fd85e1d8-7d79-41bb-8a35-5906aaa2a001
 - text: a National Security Council activity, established in 2017, alleged to hold
     a dataset for Avi Loeb's council
   source: 'Episode 73: Science vs. Secrecy'
@@ -246,14 +246,14 @@ references:
     in 2017.
   claim_id: 56e2a900-5cc8-4861-b0a4-dd85ee076981
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-56e2a900-5cc8-4861-b0a4-dd85ee076981
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-56e2a900-5cc8-4861-b0a4-dd85ee076981
 - text: Immaculate Constellation was mentioned in the US Congress
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:51:54.8-00:51:56.8
   quote: That was mentioned in the Congress.
   claim_id: 718ba446-7534-4338-9271-dd408444d57b
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-718ba446-7534-4338-9271-dd408444d57b
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-718ba446-7534-4338-9271-dd408444d57b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

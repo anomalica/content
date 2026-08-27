@@ -28,7 +28,7 @@ references:
     Airlines.
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
 - text: Venditelli said an EG&G co-pilot who flew Janet Airlines into Groom Lake between
     roughly 1987 and 1991 reached out to Chris Ramsay
@@ -38,14 +38,14 @@ references:
     87 and 91, something like that.
   claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
 - text: Venditelli said the co-pilot told him he knew Dennis Mariani
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:11:31.8-00:11:33.4
   quote: And he said he knew Dennis Mariani.
   claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e82dc86c-f4f6-4603-9add-29cc038a3843
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e82dc86c-f4f6-4603-9add-29cc038a3843
 - text: Ramsay said the co-pilot met Mariani over a dozen times and later learned
     of his death
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -55,7 +55,7 @@ references:
     a dozen times and had exchanged with him just sort of, you know, regular rapport.
   claim_id: 73b59f4d-6385-44b1-a655-b0b5d1a01841
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
 - text: Venditelli said the co-pilot's testimony establishes Mariani was real and
     flew Janet Airlines to Groom Lake
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -64,7 +64,7 @@ references:
     flying on Janet Jets going to Groom Lake.
   claim_id: bd6e225a-1470-414f-8195-0abd5df98d9b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bd6e225a-1470-414f-8195-0abd5df98d9b
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bd6e225a-1470-414f-8195-0abd5df98d9b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

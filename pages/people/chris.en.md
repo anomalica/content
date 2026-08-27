@@ -113,7 +113,7 @@ references:
     name was present.
   claim_id: 013b02a6-cd44-4e35-89f5-a2a9382f3758
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-013b02a6-cd44-4e35-89f5-a2a9382f3758
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-013b02a6-cd44-4e35-89f5-a2a9382f3758
 - text: Jackson was struck by how specific and intimate the details were, mostly about
     Paul's girlfriend rather than Paul.
   source: Surviving Death
@@ -123,7 +123,7 @@ references:
     even more.
   claim_id: c1dbac5a-724a-4bcb-a259-d248f0b666b6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c1dbac5a-724a-4bcb-a259-d248f0b666b6
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c1dbac5a-724a-4bcb-a259-d248f0b666b6
 - text: Paul confirmed the details as accurate and identified Chris as his girlfriend's
     former boyfriend.
   source: Surviving Death
@@ -132,7 +132,7 @@ references:
     was his girlfriend’s former boyfriend.
   claim_id: e3ab2e1a-6425-42b7-b2da-c0e558d41899
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e3ab2e1a-6425-42b7-b2da-c0e558d41899
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e3ab2e1a-6425-42b7-b2da-c0e558d41899
 - text: Paul said his girlfriend had been in the car with Chris when it crashed, and
     Chris died in the crash.
   source: Surviving Death
@@ -141,7 +141,7 @@ references:
     died.
   claim_id: 1a2960c0-514b-458d-bc45-16d8f2df76d1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a2960c0-514b-458d-bc45-16d8f2df76d1
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a2960c0-514b-458d-bc45-16d8f2df76d1
 - text: The reading conveyed Chris giving Paul his blessing for the relationship with
     his ex-girlfriend.
   source: Surviving Death
@@ -149,7 +149,7 @@ references:
   quote: Chris was giving Paul his blessing for the relationship with his ex-girlfriend.
   claim_id: 54108a60-55c9-458c-82d5-98dfffcca4f1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-54108a60-55c9-458c-82d5-98dfffcca4f1
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-54108a60-55c9-458c-82d5-98dfffcca4f1
 - text: Paul's confirmation left Jackson with a chill and a sense of awe about the
     reading's accuracy.
   source: Surviving Death
@@ -159,7 +159,7 @@ references:
     as if he was right in my apartment? At that moment, I felt awe.
   claim_id: f4a6e774-86fe-449b-84f2-32193e4f179d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f4a6e774-86fe-449b-84f2-32193e4f179d
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f4a6e774-86fe-449b-84f2-32193e4f179d
 - text: Chris told Auerbach he had seen Lois almost daily for over a year and a half,
     since first waving back at her.
   source: Surviving Death
@@ -169,7 +169,7 @@ references:
     at her.
   claim_id: e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
 - text: Chris, a twelve-year-old boy, related Lois's family and house history, saying
     he had learned it from her.
   source: Surviving Death
@@ -179,7 +179,7 @@ references:
     an articulate purveyor of anecdote.
   claim_id: dd6dfc50-cbb4-46ed-b108-acc7af51fa41
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd6dfc50-cbb4-46ed-b108-acc7af51fa41
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd6dfc50-cbb4-46ed-b108-acc7af51fa41
 - text: Chris's accounts of Lois's family and outside activities went beyond what
     psychometric perception of the house could explain.
   source: Surviving Death
@@ -188,7 +188,7 @@ references:
     Lois’s family and activities that took place outside the home.
   claim_id: 99a7177d-03e1-496f-9b5c-eaafa4adc6c2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-99a7177d-03e1-496f-9b5c-eaafa4adc6c2
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-99a7177d-03e1-496f-9b5c-eaafa4adc6c2
 - text: The group sat in a semicircle facing Chris, seated by the empty easy chair
     he said was Lois's favourite, to ask her questions.
   source: Surviving Death
@@ -198,7 +198,7 @@ references:
     as Lois’s favorite spot to sit.
   claim_id: 72663252-1415-4f2f-97f7-e1d422aca530
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72663252-1415-4f2f-97f7-e1d422aca530
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72663252-1415-4f2f-97f7-e1d422aca530
 - text: Chris translated Lois's answers during the sitting but was not in any kind
     of trance state.
   source: Surviving Death
@@ -208,7 +208,7 @@ references:
     two-way conversations like this one (and Chris was not in any kind of trance state).
   claim_id: f24589ca-6540-46fb-bc2a-70ae3b1ed140
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f24589ca-6540-46fb-bc2a-70ae3b1ed140
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f24589ca-6540-46fb-bc2a-70ae3b1ed140
 - text: Pat considered whether Chris had found and memorised diaries, but could not
     see how that was possible.
   source: Surviving Death
@@ -217,7 +217,7 @@ references:
     have provided such stories, but she could not imagine how that was possible.
   claim_id: d1581fa0-3ace-4a62-b1e6-5953f95997f6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d1581fa0-3ace-4a62-b1e6-5953f95997f6
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d1581fa0-3ace-4a62-b1e6-5953f95997f6
 - text: An elderly cousin of Lois's later verified as true the information about her
     youth, family, and house that Chris had given.
   source: Surviving Death
@@ -227,7 +227,7 @@ references:
     Lois provided.
   claim_id: 3b88733d-d6da-4bb0-b35e-c766072ca734
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b88733d-d6da-4bb0-b35e-c766072ca734
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b88733d-d6da-4bb0-b35e-c766072ca734
 - text: The information Chris provided was recorded on tape before any attempt was
     made to verify it.
   source: Surviving Death
@@ -236,7 +236,7 @@ references:
     we were present before any attempts were made to verify the information.
   claim_id: 6ea3e573-f570-4e06-9d02-c5ed66ec8120
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6ea3e573-f570-4e06-9d02-c5ed66ec8120
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6ea3e573-f570-4e06-9d02-c5ed66ec8120
 - text: When Auerbach began family anecdotes to the cousin, she repeatedly finished
     them matching what Chris had said.
   source: Surviving Death
@@ -246,7 +246,7 @@ references:
     Chris had given me.
   claim_id: 3dde9ae3-4d71-468b-a157-fbd5ca0408ff
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3dde9ae3-4d71-468b-a157-fbd5ca0408ff
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3dde9ae3-4d71-468b-a157-fbd5ca0408ff
 - text: Pat carried out thorough checks for diaries or papers Lois might have left;
     none was found.
   source: Surviving Death
@@ -255,7 +255,7 @@ references:
     diaries or other papers Lois might have left behind. None was ever found.
   claim_id: a85671e2-fee0-457d-9542-b59a42bcb51a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a85671e2-fee0-457d-9542-b59a42bcb51a
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a85671e2-fee0-457d-9542-b59a42bcb51a
 - text: Through Chris, Lois asked Joanna Rix whether she had really thought about
     the job she wanted after quitting.
   source: Surviving Death
@@ -264,14 +264,14 @@ references:
     quit the one you have?
   claim_id: 5989e1e6-fc87-4abc-9828-47f18aa71b67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5989e1e6-fc87-4abc-9828-47f18aa71b67
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5989e1e6-fc87-4abc-9828-47f18aa71b67
 - text: Through Chris, Lois asked Kip Leyser how long he had been a professional dancer.
   source: Surviving Death
   location: ch31:28235-28273
   quote: “Kip, how long were you a professional dancer?”
   claim_id: 96e034c7-6cb5-4410-8aa9-2e59f37dd328
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-96e034c7-6cb5-4410-8aa9-2e59f37dd328
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-96e034c7-6cb5-4410-8aa9-2e59f37dd328
 - text: Auerbach concluded telepathy by either Chris or Lois was a reasonable explanation
     for the group's experience.
   source: Surviving Death
@@ -282,7 +282,7 @@ references:
     interpretation.
   claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
 - text: 'Auerbach considered perceptual insertion plausible: Lois projecting perceptions
     into Chris''s mind rather than being seen or heard directly.'
   source: Surviving Death
@@ -292,7 +292,7 @@ references:
     visually, seeing or hearing Lois.
   claim_id: f9931998-42d9-430b-8538-8f733d00435e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f9931998-42d9-430b-8538-8f733d00435e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f9931998-42d9-430b-8538-8f733d00435e
 - text: Auerbach judged an interacting apparition more likely than Chris being a super-psychic
     using clairvoyance or retrocognition.
   source: Surviving Death
@@ -304,7 +304,7 @@ references:
     a one-note super-psychic.
   claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
 - text: The family involved were well adjusted and had no psychological difficulties
     over the recurring visits.
   source: Surviving Death
@@ -314,7 +314,7 @@ references:
     by this apparition.
   claim_id: d45c9907-32b1-43ba-9dc9-d7daa5237c28
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d45c9907-32b1-43ba-9dc9-d7daa5237c28
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d45c9907-32b1-43ba-9dc9-d7daa5237c28
 - text: Chris kept seeing Lois daily for a while but lost interest as he grew up and
     discovered real girls.
   source: Surviving Death
@@ -323,7 +323,7 @@ references:
     as he grew up and discovered (and was discovered by) real girls.
   claim_id: c64313e7-ee5e-4fc6-b542-7c3266df8aab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c64313e7-ee5e-4fc6-b542-7c3266df8aab
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c64313e7-ee5e-4fc6-b542-7c3266df8aab
 - text: Auerbach considered the verified information sufficient to rule out normal
     sources of information.
   source: Surviving Death
@@ -332,7 +332,7 @@ references:
     me that normal sources of information could be ruled out.
   claim_id: f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
 - text: Jesse DeLuca is a wildlife filmmaker from Quebec, Canada, using a drone and
     cameras.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -341,14 +341,14 @@ references:
     wildlife with his drone or with his cameras and take a lot of photos
   claim_id: 5936a2c1-b75c-4079-aaec-6db10615c9bc
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
 - text: The footage was recorded in 4K resolution at 30 frames per second.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
   location: 00:06:21.3-00:06:24.4
   quote: oh great so this is 4k 4k 30 frames per second
   claim_id: 40690d56-f3d8-440d-ad0e-5e3511036d8f
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
 - text: The object travelled from about 400-500 metres away to beside the drone within
     about two seconds.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -357,7 +357,7 @@ references:
     It is right beside the drone.
   claim_id: 7d8e1926-8a48-42de-bcaf-2d6be5df6846
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
 - text: At half playback speed, the object covers the field and shoots away in about
     four seconds.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -367,7 +367,7 @@ references:
     in a straight line.
   claim_id: edebd5ab-af71-47d4-810f-666f8386b724
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-edebd5ab-af71-47d4-810f-666f8386b724
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-edebd5ab-af71-47d4-810f-666f8386b724
 - text: Chris considered the object's near-ground movement to resemble an insect grazing
     rather than a bird's flight.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -377,7 +377,7 @@ references:
     is moving around like an insect would.
   claim_id: 1755a0da-5106-42b5-8f06-4591a55d1de0
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
 - text: The DJI Mini 3 Pro does not record audio.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
   location: 00:15:18.8-00:15:23.4
@@ -385,7 +385,7 @@ references:
     there's no audio unfortunately
   claim_id: c986b731-64c8-49ab-8640-56c8900d72c4
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
-  workbench_url: http://localhost:5173/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-c986b731-64c8-49ab-8640-56c8900d72c4
+  workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-c986b731-64c8-49ab-8640-56c8900d72c4
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

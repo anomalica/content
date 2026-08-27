@@ -68,7 +68,7 @@ references:
     video on its website, which it dubbed the Go-Fast video.
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61cec41b-6906-4711-a6ce-53abbf531d90
 - text: The video lacked details of when, where, or by whom it was shot, other than
     capture by a Navy FA-18 using its ATFLIR pod
@@ -79,7 +79,7 @@ references:
     targeting forward-looking infrared (ATFLIR) pod.
   claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
 - text: On the 34-second video, the object appears as a white oval moving at apparent
     high speed low over the water
@@ -90,7 +90,7 @@ references:
     over the water
   claim_id: 8aceab60-9840-4851-b2b9-e3256e29d659
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aceab60-9840-4851-b2b9-e3256e29d659
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aceab60-9840-4851-b2b9-e3256e29d659
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8aceab60-9840-4851-b2b9-e3256e29d659
 - text: According to In Plain Sight, the claimed high speed of the object is disputed
     by some
@@ -99,7 +99,7 @@ references:
   quote: although the claimed high speed is disputed by some
   claim_id: 29b66f15-401d-48de-881e-87dde02daabb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29b66f15-401d-48de-881e-87dde02daabb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29b66f15-401d-48de-881e-87dde02daabb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-29b66f15-401d-48de-881e-87dde02daabb
 - text: Christopher Mellon's Washington Post story revealed the video was filmed off
     the US east coast in late 2014 or early 2015
@@ -109,7 +109,7 @@ references:
     filmed off the east coast of the US sometime in late 2014 or early 2015.
   claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
 - text: Joseph Gradisher said the Navy had not publicly released characterisations,
     hypotheses or conclusions about the objects in the Tic Tac, Go-Fast and Gimbal
@@ -121,7 +121,7 @@ references:
     the referenced videos.’
   claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
 - text: The Department of Defense released the video, dated 2015, via the To The Stars
     Academy vault website
@@ -131,7 +131,7 @@ references:
     9 March 2018.
   claim_id: 13ee9e90-df30-497b-8469-8adb4c8495f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
 - text: David Fravor said he personally knows the pilot who filmed both the Go Fast
     video and the Gimbal video
@@ -143,7 +143,7 @@ references:
     him all the time.
   claim_id: f815a724-ee3f-4953-9002-b60344a25361
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f815a724-ee3f-4953-9002-b60344a25361
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f815a724-ee3f-4953-9002-b60344a25361
 - text: Fravor said the two videos were shot by the same person
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -151,7 +151,7 @@ references:
   quote: The go fast and the gimbal were shot by the same person, okay?
   claim_id: b2e659c8-6e64-441a-9772-b459f70d6dea
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b2e659c8-6e64-441a-9772-b459f70d6dea
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b2e659c8-6e64-441a-9772-b459f70d6dea
 - text: Fravor said at least 60 people saw the unidentified objects on radar off the
     coast near Whidbey Island
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -160,7 +160,7 @@ references:
   quote: there's at least 60 people that have seen these things on radar off the vacates
   claim_id: 82e0ea9f-a24a-40d2-bdb8-79dec45ee3ad
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-82e0ea9f-a24a-40d2-bdb8-79dec45ee3ad
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-82e0ea9f-a24a-40d2-bdb8-79dec45ee3ad
 - text: Elizondo said the object resembled a Tic Tac shape, rounded, smooth and egg-shaped,
     but no more than about 5.5 metres long against the 2004 object's over 12 metres
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -171,7 +171,7 @@ references:
     known as GoFast—was no more than about 18 feet long, tops.
   claim_id: c3e7cd8b-af47-4838-a873-1df8801428aa
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3e7cd8b-af47-4838-a873-1df8801428aa
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3e7cd8b-af47-4838-a873-1df8801428aa
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3e7cd8b-af47-4838-a873-1df8801428aa
 - text: Elizondo said the object was smaller than a Piper Cub aircraft
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -180,7 +180,7 @@ references:
     fliers.
   claim_id: db5ff328-93d4-494c-921d-d667a5f3a390
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-db5ff328-93d4-494c-921d-d667a5f3a390
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-db5ff328-93d4-494c-921d-d667a5f3a390
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-db5ff328-93d4-494c-921d-d667a5f3a390
 - text: Elizondo said the object showed no plume of exhaust, no wings, and no propellers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -189,7 +189,7 @@ references:
     no plume of exhaust, no wings, no propellers.
   claim_id: 5d837143-fde8-4299-b351-eab52e068c66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d837143-fde8-4299-b351-eab52e068c66
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d837143-fde8-4299-b351-eab52e068c66
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d837143-fde8-4299-b351-eab52e068c66
 - text: Elizondo said at the time of recording, no one in the Department of Defense
     or intelligence community could explain the object
@@ -198,7 +198,7 @@ references:
   quote: At the time, no one in DoD or the IC could explain it.
   claim_id: d17f67a7-775b-4aa4-9a44-174be1d4800c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d17f67a7-775b-4aa4-9a44-174be1d4800c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d17f67a7-775b-4aa4-9a44-174be1d4800c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d17f67a7-775b-4aa4-9a44-174be1d4800c
 - text: Elizondo said some later researchers attributed the apparent speed to a parallax
     effect, but he disagreed, citing the pilots' reaction to the object's speed
@@ -210,7 +210,7 @@ references:
     the object flying marveled at its speed.
   claim_id: 9a95144e-31ac-42ff-be9a-abcd3c35a3f0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a95144e-31ac-42ff-be9a-abcd3c35a3f0
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a95144e-31ac-42ff-be9a-abcd3c35a3f0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9a95144e-31ac-42ff-be9a-abcd3c35a3f0
 - text: Elizondo and colleagues planned to use both videos to reinforce OPLAN Interloper
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -218,7 +218,7 @@ references:
   quote: hesitation we knew we would use both videos to reinforce OPLAN Interloper.
   claim_id: 08f8fe74-707e-4b53-9f6c-b17dbbed5249
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
 - text: Elizondo attended a meeting with senior Navy officials, CIA representatives,
     and an NSA representative where both videos were shown
@@ -228,7 +228,7 @@ references:
     CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
 - text: Elizondo selected the three videos for declassification submission because
     their low resolution would hasten approval
@@ -239,7 +239,7 @@ references:
     and GIMBAL videos from 2015.
   claim_id: 4e101289-de3e-48f8-9726-5a59a348ea41
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e101289-de3e-48f8-9726-5a59a348ea41
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e101289-de3e-48f8-9726-5a59a348ea41
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4e101289-de3e-48f8-9726-5a59a348ea41
 - text: Elizondo described all three videos on a single DoD Form 1910, the declassification
     request form
@@ -249,7 +249,7 @@ references:
     request declassification of everything from documents to multimedia content.
   claim_id: 2223045f-db27-4a88-9e13-8e82859a59b3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2223045f-db27-4a88-9e13-8e82859a59b3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2223045f-db27-4a88-9e13-8e82859a59b3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2223045f-db27-4a88-9e13-8e82859a59b3
 - text: The Defense Office of Prepublication and Security Review stamped the form
     UNLIMITED DISTRIBUTION, approving public release of all three videos
@@ -259,7 +259,7 @@ references:
     stamped my Form 1910 with the following words: UNLIMITED DISTRIBUTION.'
   claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c
 built_by:
   model: claude-sonnet-5

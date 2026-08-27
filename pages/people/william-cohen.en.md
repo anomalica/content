@@ -28,7 +28,7 @@ references:
     Cohen, later to become Defence Secretary.
   claim_id: 1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
 - text: Elizondo recalls that Mellon was Cohen's closest advisor while Cohen served
     in the Senate.
@@ -38,7 +38,7 @@ references:
     Mellon.
   claim_id: d5dc00ca-e86e-4668-8ee8-841c57c4100e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5dc00ca-e86e-4668-8ee8-841c57c4100e
 - text: In 1997 Mellon followed Cohen into the Pentagon as part of the new Defense
     Secretary's transition team.
@@ -48,7 +48,7 @@ references:
     new Defence Secretary's transition team.)
   claim_id: cd381e01-1602-40d7-8117-030246ae9b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd381e01-1602-40d7-8117-030246ae9b3b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd381e01-1602-40d7-8117-030246ae9b3b
 - text: Elizondo recalls that Cohen brought Mellon onto his staff as one of his trusted
     principals after becoming Secretary of Defense.
@@ -58,7 +58,7 @@ references:
     to be one of his trusted principals on his new staff.
   claim_id: 94b55145-fa86-4907-b2e3-6b78e008f958
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94b55145-fa86-4907-b2e3-6b78e008f958
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94b55145-fa86-4907-b2e3-6b78e008f958
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-94b55145-fa86-4907-b2e3-6b78e008f958
 built_by:
   model: claude-sonnet-5

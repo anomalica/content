@@ -89,7 +89,7 @@ references:
     1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
 - text: 'Sheehan: Carter sought a meeting with CIA Director Bush before his inauguration'
   source: In Plain Sight
@@ -101,7 +101,7 @@ references:
     to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused Carter a UFO briefing, citing no ''need to know'''
   source: In Plain Sight
@@ -110,7 +110,7 @@ references:
     on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
 - text: 'Sheehan: Bush suggested Carter seek a briefing via the Congressional Research
     Service'
@@ -120,7 +120,7 @@ references:
     Congressional Research Service.
   claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f88beec4-39ca-4842-8255-1a52b419f62e
 - text: Bush announced the SEI on the 20th anniversary of the Apollo 11 Moon landing
   source: Dark Mission
@@ -129,7 +129,7 @@ references:
     the occasion of the Twentieth Anniversary of the Apollo 11 Manned Moon Landing.
   claim_id: 91115471-7416-4499-92d4-6a07ccaa88f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-91115471-7416-4499-92d4-6a07ccaa88f7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-91115471-7416-4499-92d4-6a07ccaa88f7
 - text: Announcement made at a Smithsonian ceremony honouring the Apollo 11 crew
   source: Dark Mission
   location: ch19:7482-7720
@@ -139,14 +139,14 @@ references:
     space programs.
   claim_id: efb195b6-4088-4f42-9dd9-64877ee4b565
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-efb195b6-4088-4f42-9dd9-64877ee4b565
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-efb195b6-4088-4f42-9dd9-64877ee4b565
 - text: 'Hoagland: SEI was the first major policy initiative of Bush''s presidency'
   source: Dark Mission
   location: ch19:6861-6920
   quote: In fact, it was the first major policy initiative of his Presidency.
   claim_id: 4c309d43-ba28-435d-b7f2-06aad7d58df0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c309d43-ba28-435d-b7f2-06aad7d58df0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c309d43-ba28-435d-b7f2-06aad7d58df0
 - text: SEI met budget resistance and was killed by successor Bill Clinton
   source: Dark Mission
   location: ch19:1259-1547
@@ -156,7 +156,7 @@ references:
     subsequently killed by his successor, President Clinton.
   claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-154436ee-e289-4bb7-872c-f8942c6083a5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-154436ee-e289-4bb7-872c-f8942c6083a5
 - text: Bush re-created the National Space Council, once led by LBJ as Vice President
   source: Dark Mission
   location: ch19:7888-8005
@@ -164,7 +164,7 @@ references:
     been led by Lyndon Johnson when he was Vice President.
   claim_id: 79d03200-43fb-4d95-9733-dfafd29831ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79d03200-43fb-4d95-9733-dfafd29831ac
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79d03200-43fb-4d95-9733-dfafd29831ac
 - text: Bush appointed Dan Quayle to head the Council on SEI recommendations
   source: Dark Mission
   location: ch19:8016-8159
@@ -172,14 +172,14 @@ references:
     the Council and make recommendations on executing the President's vision.
   claim_id: 3899e78a-ad2a-4192-854b-546a09b0716d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3899e78a-ad2a-4192-854b-546a09b0716d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3899e78a-ad2a-4192-854b-546a09b0716d
 - text: Bush pushed hard for SEI with little success in Congress
   source: Dark Mission
   location: ch5:25773-25835
   quote: The President was pushing hard for the Initiative with little luck
   claim_id: cafa3c5e-6c3b-4633-bea7-875bd82e3571
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafa3c5e-6c3b-4633-bea7-875bd82e3571
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafa3c5e-6c3b-4633-bea7-875bd82e3571
 - text: 'Kleinberg: Hoagland convinced the president to state Mars was a national
     goal'
   source: Dark Mission
@@ -188,7 +188,7 @@ references:
     to state that a return to Mars is one of our goals..."'
   claim_id: e8f83580-d53b-4e9d-882d-6e31f0421b36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e8f83580-d53b-4e9d-882d-6e31f0421b36
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e8f83580-d53b-4e9d-882d-6e31f0421b36
 - text: Crossfire producers specifically wanted Hoagland to present the Mars case
   source: Dark Mission
   location: ch19:9706-9997
@@ -198,7 +198,7 @@ references:
     of the National Air and Space Museum earlier that day.
   claim_id: 379a9cbf-3e32-4da6-8d4a-5e219e363fe3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-379a9cbf-3e32-4da6-8d4a-5e219e363fe3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-379a9cbf-3e32-4da6-8d4a-5e219e363fe3
 - text: Bush reportedly stated Hoagland's work was a primary impetus behind SEI
   source: Dark Mission
   location: ch19:9378-9557
@@ -207,7 +207,7 @@ references:
     impetus behind his SEI program.
   claim_id: 7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
 - text: Hoagland cites Crossfire, Kleinberg's statement and the poster as evidence
   source: Dark Mission
   location: ch19:15233-15480
@@ -217,7 +217,7 @@ references:
     by it.
   claim_id: 40b2596a-583a-48f5-b670-63d68f65b0dc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40b2596a-583a-48f5-b670-63d68f65b0dc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40b2596a-583a-48f5-b670-63d68f65b0dc
 - text: Poster commission came through Bush's office via Boeing Aerospace, c.1985
   source: Dark Mission
   location: ch5:25600-25768
@@ -226,7 +226,7 @@ references:
     (1985 or so?)
   claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
 - text: Bush thought an image was needed to sell SEI to the public and Congress
   source: Dark Mission
   location: ch5:26056-26157
@@ -234,7 +234,7 @@ references:
     American people as well as Congress
   claim_id: f26048e5-5c9d-486d-be3b-44fb3fbe214e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f26048e5-5c9d-486d-be3b-44fb3fbe214e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f26048e5-5c9d-486d-be3b-44fb3fbe214e
 - text: Science advisers cautioned against an image implying past Martian life
   source: Dark Mission
   location: ch5:26808-26963
@@ -243,7 +243,7 @@ references:
     Mars
   claim_id: 138a8b7f-6450-4586-8c68-5cb9a7aa960e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-138a8b7f-6450-4586-8c68-5cb9a7aa960e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-138a8b7f-6450-4586-8c68-5cb9a7aa960e
 - text: Poster includes a Bush quote explaining 'Why Mars?'
   source: Dark Mission
   location: ch19:14585-14746
@@ -252,7 +252,7 @@ references:
     "Why Mars?"
   claim_id: 60ec1598-800b-44e1-bc86-8aece0e224a9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60ec1598-800b-44e1-bc86-8aece0e224a9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60ec1598-800b-44e1-bc86-8aece0e224a9
 - text: Dave Bara spotted the poster in a vacated Boeing office in 1997
   source: Dark Mission
   location: ch19:13738-14121
@@ -263,7 +263,7 @@ references:
     White House Mars Exploration Program proposed by then-President Bush.
   claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2909aefe-359c-4b38-b2c0-4882c3ccfab6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2909aefe-359c-4b38-b2c0-4882c3ccfab6
 - text: 'Hudson: poster used to bolster Nazi-heritage and Masonic claims about Bush'
   source: Dark Mission
   location: ch5:27577-27843
@@ -273,7 +273,7 @@ references:
     grounds of the Aryan race
   claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0cb7975-108d-4fd3-a886-8356d22b57ff
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0cb7975-108d-4fd3-a886-8356d22b57ff
 - text: 'Mike Bara: Hudson anxious to dispel notion of administration backing'
   source: Dark Mission
   location: ch5:28960-29120
@@ -282,7 +282,7 @@ references:
     painting.
   claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48ab2b11-9178-4edc-bb7f-11f841573dd9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48ab2b11-9178-4edc-bb7f-11f841573dd9
 - text: Ann Richards mocked Bush at the 1988 Democratic National Convention
   source: Dark Mission
   location: ch19:2360-2488
@@ -290,7 +290,7 @@ references:
     Convention by mocking his father, the first President Bush.
   claim_id: 893ac4e2-3881-4d8e-babc-6389fe995291
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-893ac4e2-3881-4d8e-babc-6389fe995291
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-893ac4e2-3881-4d8e-babc-6389fe995291
 - text: Bush left Saddam Hussein in power at the end of the 1991 Gulf War
   source: Dark Mission
   location: ch19:5895-6089
@@ -299,7 +299,7 @@ references:
     including the first World Trade Center bombing.
   claim_id: ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
 - text: Hussein attempted to assassinate Bush in 1993
   source: Dark Mission
   location: ch19:6191-6286
@@ -307,7 +307,7 @@ references:
     to take him down.
   claim_id: 45c48113-cf28-4eb2-aa00-23911e59dc9f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c48113-cf28-4eb2-aa00-23911e59dc9f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c48113-cf28-4eb2-aa00-23911e59dc9f
 - text: 'Caplan: Davis says Bush described a CIA-era Holloman landing briefing'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -317,7 +317,7 @@ references:
     director of the he was briefed about a landing at Holloman
   claim_id: 8fabc812-ae0a-482e-a855-19452dfece7b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fabc812-ae0a-482e-a855-19452dfece7b
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fabc812-ae0a-482e-a855-19452dfece7b
 - text: 'Caplan: account describes officers and a Nordic-appearing being at Holloman'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -328,7 +328,7 @@ references:
     with these individuals at Holloman.
   claim_id: 2d224c01-9ae7-46b7-8bff-7afba88d2802
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2d224c01-9ae7-46b7-8bff-7afba88d2802
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2d224c01-9ae7-46b7-8bff-7afba88d2802
 - text: Caplan unpersuaded generally, but believes Bush's account to Davis
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -337,7 +337,7 @@ references:
     i do believe um that uh what bush um told eric davis is likely to be true
   claim_id: ebd334d5-900e-4b7c-b710-586f005075a2
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ebd334d5-900e-4b7c-b710-586f005075a2
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ebd334d5-900e-4b7c-b710-586f005075a2
 - text: Elizondo lists Bush among presidents he believes were briefed on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
@@ -345,7 +345,7 @@ references:
     Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: 'Samosa: Nixon, Carter, Reagan and Bush appear to have received UFO briefings'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -353,7 +353,7 @@ references:
   quote: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
   claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e72be749-9bc0-467a-b699-0ac87d60a67f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e72be749-9bc0-467a-b699-0ac87d60a67f
 - text: Samosa contrasts Clinton/Obama with the establishment-connected Bush family
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:46:48.5-00:47:07.4
@@ -363,14 +363,14 @@ references:
     kind of the Bush family.
   claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7be64312-c7b5-4528-af89-1659f36042a5
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7be64312-c7b5-4528-af89-1659f36042a5
 - text: 'Michels: Bush was without doubt an establishment insider'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:47:27.4-00:47:31.2
   quote: George H.W. Bush, for sure, insider. No doubt about that.
   claim_id: a4bb7ccf-07b9-41fb-aeb8-f9a785e0b02a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a4bb7ccf-07b9-41fb-aeb8-f9a785e0b02a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a4bb7ccf-07b9-41fb-aeb8-f9a785e0b02a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

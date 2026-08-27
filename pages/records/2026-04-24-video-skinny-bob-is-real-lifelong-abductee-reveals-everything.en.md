@@ -23,7 +23,7 @@ references:
     you speak to an experiencer
   claim_id: 4efcf7fb-7bdf-4af7-887b-fe71faa4176a
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4efcf7fb-7bdf-4af7-887b-fe71faa4176a
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4efcf7fb-7bdf-4af7-887b-fe71faa4176a
 - text: Nanstiel's abductions began as a baby; his mother's began in the 1950s
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -32,7 +32,7 @@ references:
     1950s.
   claim_id: 13e5bc90-6c13-420a-aee7-8a20dbdb66ea
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-13e5bc90-6c13-420a-aee7-8a20dbdb66ea
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-13e5bc90-6c13-420a-aee7-8a20dbdb66ea
 - text: Mother's experiences started in 1953, age nine, in Turtle Creek, a Pittsburgh
     suburb
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -43,7 +43,7 @@ references:
     Her family lived in a small home on top of Rose Hill on Clugston Avenue.
   claim_id: 1f4e79ff-48cc-46ab-bcb8-f71d8e4aecc6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1f4e79ff-48cc-46ab-bcb8-f71d8e4aecc6
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1f4e79ff-48cc-46ab-bcb8-f71d8e4aecc6
 - text: Childhood orb encounters began April/May 1970, age 15-16 months, recurring
     monthly for four years
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -54,7 +54,7 @@ references:
     would enter my room.
   claim_id: ba72b869-f30c-45a8-9c85-2a3c3abad2f0
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ba72b869-f30c-45a8-9c85-2a3c3abad2f0
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ba72b869-f30c-45a8-9c85-2a3c3abad2f0
 - text: Orb encounters stopped in late 1974, age five
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -62,7 +62,7 @@ references:
   quote: It stopped happening probably in late 1974.
   claim_id: a4f15734-81bc-4282-b373-60e2542078ef
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a4f15734-81bc-4282-b373-60e2542078ef
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a4f15734-81bc-4282-b373-60e2542078ef
 - text: Admitted to Lutheran General Hospital, Park Ridge, Illinois, in 1974 after
     a concussion
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -74,7 +74,7 @@ references:
     for some minor seizure activity.
   claim_id: a38cc9c4-4ece-4274-b9b3-6f1df75e3227
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a38cc9c4-4ece-4274-b9b3-6f1df75e3227
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a38cc9c4-4ece-4274-b9b3-6f1df75e3227
 - text: Placed hands on feverish roommate Tommy, told him he would be all better
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -84,7 +84,7 @@ references:
     you're going to be all better.
   claim_id: e803d231-89e4-494c-b333-06bc67901f3e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e803d231-89e4-494c-b333-06bc67901f3e
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e803d231-89e4-494c-b333-06bc67901f3e
 - text: Tommy's mother reported his fever broke and infection cleared without surgery,
     calling it a miracle
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -96,7 +96,7 @@ references:
     anything
   claim_id: 7582b781-2e5c-4389-9350-77bb7fd093da
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7582b781-2e5c-4389-9350-77bb7fd093da
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7582b781-2e5c-4389-9350-77bb7fd093da
 - text: Grandfather Sidney collapsed gravely ill in Chicago; Nanstiel knelt beside
     him and the emergency ceased
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -108,7 +108,7 @@ references:
     emergency just ceased to be. And he was okay.
   claim_id: c16ff55b-e8ac-41ca-b986-4f1881fedd34
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-c16ff55b-e8ac-41ca-b986-4f1881fedd34
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-c16ff55b-e8ac-41ca-b986-4f1881fedd34
 - text: Grandfather lived for almost exactly one more year afterward
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -117,7 +117,7 @@ references:
     to go to California and visit his son.
   claim_id: c06a9737-06d2-4157-a950-706fc330a814
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-c06a9737-06d2-4157-a950-706fc330a814
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-c06a9737-06d2-4157-a950-706fc330a814
 - text: Never healed again; believes it was linked to orb activity and childhood access
     to higher consciousness
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -129,7 +129,7 @@ references:
     higher consciousness within you when you're innocent
   claim_id: cfea502f-f689-49dc-971d-cb4101e2228b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-cfea502f-f689-49dc-971d-cb4101e2228b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-cfea502f-f689-49dc-971d-cb4101e2228b
 - text: Ramsay recounts Chris Bledsoe's claim of healing his dog and a Make-A-Wish
     child by laying on hands
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -143,7 +143,7 @@ references:
     like intestinal problems.
   claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
 - text: Connected childhood orbs to abductions after watching Ancient Aliens footage
     of cast discussing orbs at AlienCon
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -154,7 +154,7 @@ references:
     they were, they also had abduction encounters. So they saw orbs
   claim_id: 8ee4bcc1-6e04-4479-94e1-0147441ec243
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
 - text: First remembered grey sighting on 1994-08-20 in Wheeling, Illinois
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -165,7 +165,7 @@ references:
     20th, 1994. It was a Saturday.
   claim_id: 210d62f3-d6c9-44b2-81d6-0caa3bd2c04e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-210d62f3-d6c9-44b2-81d6-0caa3bd2c04e
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-210d62f3-d6c9-44b2-81d6-0caa3bd2c04e
 - text: Description of four small ashen-grey creatures whooshing out of closed door
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -177,7 +177,7 @@ references:
     my bedroom door which was closed
   claim_id: fd8cae71-d069-4a97-900b-9f6c218f611a
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fd8cae71-d069-4a97-900b-9f6c218f611a
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fd8cae71-d069-4a97-900b-9f6c218f611a
 - text: Wondered whether the 1994 episode was sleep paralysis, as it fit the symptoms
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -188,7 +188,7 @@ references:
     I mean, it kind of fits the symptoms
   claim_id: 1964d216-f882-4fdf-935f-a94fbb88672b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1964d216-f882-4fdf-935f-a94fbb88672b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1964d216-f882-4fdf-935f-a94fbb88672b
 - text: Ramsay says sleep paralysis symptoms make it a fair assumption for some abduction
     cases
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -199,7 +199,7 @@ references:
     are symptoms of sleep paralysis
   claim_id: 388cea29-a282-4323-9887-20c5c6ab2035
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-388cea29-a282-4323-9887-20c5c6ab2035
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-388cea29-a282-4323-9887-20c5c6ab2035
 - text: Identifies the 1994 beings as identical to the Skinny Bob footage beings,
     about 1.1 metres tall
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -210,7 +210,7 @@ references:
     feet tall. Exactly like that.
   claim_id: 6e833120-a9d4-43a3-8a29-ca878bb1a152
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e833120-a9d4-43a3-8a29-ca878bb1a152
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e833120-a9d4-43a3-8a29-ca878bb1a152
 - text: Believes the original Skinny Bob footage is authentic despite added fake scratch
     marks
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -222,7 +222,7 @@ references:
     move
   claim_id: fe79cf69-9344-488b-95c6-47c7c08bbc47
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fe79cf69-9344-488b-95c6-47c7c08bbc47
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fe79cf69-9344-488b-95c6-47c7c08bbc47
 - text: Would stake his life on the Skinny Bob footage being real
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -232,7 +232,7 @@ references:
     Yeah.
   claim_id: 3a1190b7-3a8d-4e18-aabe-9186dfd365f8
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3a1190b7-3a8d-4e18-aabe-9186dfd365f8
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3a1190b7-3a8d-4e18-aabe-9186dfd365f8
 - text: Next saw a Skinny Bob 26 years later in 2020, aged 51
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -241,7 +241,7 @@ references:
     uh, 2020... when they started coming back, I was 51.
   claim_id: f8d97fb3-a6c6-429d-bf9f-a974bd84e7e0
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f8d97fb3-a6c6-429d-bf9f-a974bd84e7e0
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f8d97fb3-a6c6-429d-bf9f-a974bd84e7e0
 - text: Marjorie Fish correlated Betty Hill's star map to Zeta Reticuli
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -250,7 +250,7 @@ references:
     saw during her abduction and was able to correlate it to Zeta Reticuli.
   claim_id: f92d021d-ac9e-488e-9cae-1173692517f8
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f92d021d-ac9e-488e-9cae-1173692517f8
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f92d021d-ac9e-488e-9cae-1173692517f8
 - text: Bill Herman was told beings were from Zeta Reticuli before Bob Lazar discussed
     it publicly
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -260,7 +260,7 @@ references:
     they were from zeta reticulum as well
   claim_id: 4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
 - text: Betty and Barney Hill's reported Greys had different, slit-like eyes
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -270,7 +270,7 @@ references:
     there's different...
   claim_id: 85019ff3-13e1-4335-b2cd-b52dec9c3d1f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-85019ff3-13e1-4335-b2cd-b52dec9c3d1f
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-85019ff3-13e1-4335-b2cd-b52dec9c3d1f
 - text: Made a poster asking to remember the visit, taped above his headboard, two
     weeks before the 2020 encounter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -281,7 +281,7 @@ references:
     it out and i taped it on my wall above my headboard. Two weeks later,
   claim_id: 763ee0b6-c51b-4c06-9463-be7156fceca0
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-763ee0b6-c51b-4c06-9463-be7156fceca0
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-763ee0b6-c51b-4c06-9463-be7156fceca0
 - text: Woke in garage wearing only boxer briefs, suspended off the floor and tilted
     forward
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -292,7 +292,7 @@ references:
     floor. And I was tilted forward at a 25, 30 degree angle.
   claim_id: df2622ac-acf5-4558-939d-ab44fdfd380b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-df2622ac-acf5-4558-939d-ab44fdfd380b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-df2622ac-acf5-4558-939d-ab44fdfd380b
 - text: Looked down at one of the small Greys during the garage encounter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -302,7 +302,7 @@ references:
     down at one of those little skinny bobs
   claim_id: 439f3475-fc3d-4095-b177-2f2d84b92015
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-439f3475-fc3d-4095-b177-2f2d84b92015
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-439f3475-fc3d-4095-b177-2f2d84b92015
 - text: Could see his Chevrolet Trailblazer, paint cans and shelves during the encounter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -312,7 +312,7 @@ references:
     I was able to turn my head.
   claim_id: 21075800-b310-4c23-9ab0-94f847119d8a
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-21075800-b310-4c23-9ab0-94f847119d8a
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-21075800-b310-4c23-9ab0-94f847119d8a
 - text: Being communicated using actual English words in his mind
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -321,7 +321,7 @@ references:
     in my mind.
   claim_id: 02eb55e5-1a5b-4170-85a7-0f32ca3540ad
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
 - text: Told it could not let him remember the visit or its superiors would know
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -331,7 +331,7 @@ references:
     will know about it.
   claim_id: e429eba5-650f-4007-9a6d-c4a25bc0dc30
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e429eba5-650f-4007-9a6d-c4a25bc0dc30
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e429eba5-650f-4007-9a6d-c4a25bc0dc30
 - text: Garage was around 4 degrees Celsius but he felt nothing
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -340,7 +340,7 @@ references:
     have been about 40 degrees in there. I didn't feel anything.
   claim_id: 52547325-7403-4884-911e-97d9dad56acd
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-52547325-7403-4884-911e-97d9dad56acd
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-52547325-7403-4884-911e-97d9dad56acd
 - text: Found no signs on the grass or burn marks, concluding nothing had landed
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -349,7 +349,7 @@ references:
     burn marks or anything like that. So whatever it was, it wouldn't have landed.
   claim_id: aeeb6f42-0d63-4ec0-814b-462309525606
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-aeeb6f42-0d63-4ec0-814b-462309525606
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-aeeb6f42-0d63-4ec0-814b-462309525606
 - text: A week later, woke to a tall young Grey about 1.7 metres tall with its face
     in front of his
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -360,7 +360,7 @@ references:
     a face right in front of mine
   claim_id: dfc0c72f-ab10-4902-9f31-4f05df817439
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-dfc0c72f-ab10-4902-9f31-4f05df817439
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-dfc0c72f-ab10-4902-9f31-4f05df817439
 - text: Entered a virtual dream of a Bavarian village resembling Nuremberg, despite
     never visiting Germany
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -372,7 +372,7 @@ references:
     Had you ever been to Germany? Never
   claim_id: 7d64a4d5-7755-466f-add4-882625cbac97
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7d64a4d5-7755-466f-add4-882625cbac97
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7d64a4d5-7755-466f-add4-882625cbac97
 - text: Three small Skinny Bob-type beings appeared as three little girls in blue
     dresses
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -384,7 +384,7 @@ references:
     eyed and blonde haired
   claim_id: 6d119507-c116-42cb-a836-79b17e6227d6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6d119507-c116-42cb-a836-79b17e6227d6
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6d119507-c116-42cb-a836-79b17e6227d6
 - text: Had telepathy with the tall being but had to speak verbally to the girls
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -393,7 +393,7 @@ references:
     him too. I didn't know they were telepathic. So I spoke to them.
   claim_id: 4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
 - text: Heard the being's name as Sislik or Sizzleck
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -402,7 +402,7 @@ references:
     Sizzleck. like or silizic i i wasn't sure i got the syllables right
   claim_id: f76c8526-9bd3-4fd6-bd92-d6761485fd1c
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f76c8526-9bd3-4fd6-bd92-d6761485fd1c
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f76c8526-9bd3-4fd6-bd92-d6761485fd1c
 - text: Being confirmed it was from Zeta Reticuli, specifically the fourth planet
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -411,7 +411,7 @@ references:
     you from the fourth planet and he said yes
   claim_id: 934bbc3e-8546-40f9-846f-b756f4e9cac0
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-934bbc3e-8546-40f9-846f-b756f4e9cac0
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-934bbc3e-8546-40f9-846f-b756f4e9cac0
 - text: Ramsay describes screen memories as absurd and abstract, suggesting the beings
     misunderstand human norms
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -424,7 +424,7 @@ references:
     what's normal
   claim_id: 6a18bedf-c03a-4e34-98b7-3f12332fbe38
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
 - text: Screen memories eventually stopped working, after which he could see the Greys
     directly
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -436,7 +436,7 @@ references:
     both in the same room.
   claim_id: 1ecd367c-7ee2-4263-a257-378290d9ca5b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1ecd367c-7ee2-4263-a257-378290d9ca5b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1ecd367c-7ee2-4263-a257-378290d9ca5b
 - text: Suspected the beings visited his autistic daughter, finding her giggling with
     a dry pull-up
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -448,7 +448,7 @@ references:
     her pull up was bone dry
   claim_id: 1bb7056d-370e-4336-8ea8-b661f08682ae
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1bb7056d-370e-4336-8ea8-b661f08682ae
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1bb7056d-370e-4336-8ea8-b661f08682ae
 - text: Concerned the beings might be taking ova from his daughter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -458,7 +458,7 @@ references:
     they need. I'll cooperate with them. You leave her the F alone.
   claim_id: e56783b0-9a2a-402c-badb-c1fd80d9fc3b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e56783b0-9a2a-402c-badb-c1fd80d9fc3b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e56783b0-9a2a-402c-badb-c1fd80d9fc3b
 - text: Short Greys are an engineered worker-bee species made in the image of the
     tall, native Zeta Reticuli Greys
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -470,7 +470,7 @@ references:
     years
   claim_id: 77da1801-5aa3-497b-95ad-494393306ac5
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-77da1801-5aa3-497b-95ad-494393306ac5
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-77da1801-5aa3-497b-95ad-494393306ac5
 - text: Theorises Sumerian gods were emissaries (Apkallu) for the Greys, not little
     Greys themselves
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -482,7 +482,7 @@ references:
     back
   claim_id: ef8b1705-da7b-440e-a637-04f9392be295
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ef8b1705-da7b-440e-a637-04f9392be295
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ef8b1705-da7b-440e-a637-04f9392be295
 - text: Attributes ancient astronaut theory to Zeta Reticuli Greys acting through
     worshipped emissaries
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -493,7 +493,7 @@ references:
     emissaries... by emissaries, you mean the gods that they worshipped. Right.
   claim_id: 7f6e06db-0a00-4892-adc4-99dd47563d73
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7f6e06db-0a00-4892-adc4-99dd47563d73
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7f6e06db-0a00-4892-adc4-99dd47563d73
 - text: Notes cultural links between pyramid-building societies, including Cahokia
     and Mesoamerican pyramids
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -505,7 +505,7 @@ references:
     pyramids.
   claim_id: 5e1d0802-c200-4e35-b793-a598d7f6645b
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5e1d0802-c200-4e35-b793-a598d7f6645b
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5e1d0802-c200-4e35-b793-a598d7f6645b
 - text: Theorises pyramid-building societies were domesticated to harvest type O blood
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -514,7 +514,7 @@ references:
     for their old blood?
   claim_id: 0a20ff10-5496-43f8-b398-2b0e947edc8f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-0a20ff10-5496-43f8-b398-2b0e947edc8f
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-0a20ff10-5496-43f8-b398-2b0e947edc8f
 - text: 'Cites Linda Moulton Howe''s cattle mutilation work: carcasses exsanguinated,
     tissue removed with a high-heat instrument'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -526,7 +526,7 @@ references:
     like a laser of some kind.
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
 - text: Theorises Greys now consume bovine blood owing to its genetic resemblance
     to human blood
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -538,7 +538,7 @@ references:
     say, give us blood.
   claim_id: 7bab3765-c623-4083-a197-618f3b457ab6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7bab3765-c623-4083-a197-618f3b457ab6
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7bab3765-c623-4083-a197-618f3b457ab6
 - text: Legend that Eisenhower was offered a tech-for-abduction-rights deal by the
     Greys
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -551,7 +551,7 @@ references:
     military.
   claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
 - text: A second deal from Nordic extraterrestrials offered to eliminate the Greys
     for less freedom
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -562,7 +562,7 @@ references:
     we can help you achieve world peace, but ... it would come with like less freedom.
   claim_id: 01402fd4-7b00-4818-b2a4-52d68fae58d2
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
 - text: Reads the 2002 Crabwood crop circle as depicting a tall Grey face, binary
     message, Orion, and warning against the Zetas
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -575,7 +575,7 @@ references:
     saying it's not too late.
   claim_id: 30f54ebb-a178-4b5f-a8bc-533f2d35be2a
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-30f54ebb-a178-4b5f-a8bc-533f2d35be2a
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-30f54ebb-a178-4b5f-a8bc-533f2d35be2a
 - text: Shown a map of three caverns beneath eastern Illinois, from Lake Michigan
     south to Peoria
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -586,7 +586,7 @@ references:
     as far south as Peoria, Illinois. ... So there's three caverns.
   claim_id: b66d7c06-0403-419d-8fd6-c37f87b20233
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b66d7c06-0403-419d-8fd6-c37f87b20233
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b66d7c06-0403-419d-8fd6-c37f87b20233
 - text: Two caverns roughly half a kilometre deep, a third close to 0.8 kilometres
     deep
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -597,7 +597,7 @@ references:
     ... And then below that, I'd say close to half a mile underground.
   claim_id: e3dce508-0beb-44b6-bf55-5ba39098aac9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e3dce508-0beb-44b6-bf55-5ba39098aac9
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e3dce508-0beb-44b6-bf55-5ba39098aac9
 - text: ChatGPT forensic check found nothing disproving the caverns; bedrock noted
     as dolostone
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -611,7 +611,7 @@ references:
     so it's very strong so it can support caverns
   claim_id: d151ac49-d9ae-4843-ac19-28d2ef32c74f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-d151ac49-d9ae-4843-ac19-28d2ef32c74f
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-d151ac49-d9ae-4843-ac19-28d2ef32c74f
 - text: Illinois is geologically stable; the New Madrid Fault has been mostly quiet
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -621,7 +621,7 @@ references:
     pretty quiet for the most part.
   claim_id: 3f5a96e1-89bb-4afe-9d4d-595e0a2606d6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3f5a96e1-89bb-4afe-9d4d-595e0a2606d6
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3f5a96e1-89bb-4afe-9d4d-595e0a2606d6
 - text: Speculates on facilities under Lake Michigan, citing a reported stone henge
     under Grand Traverse Bay
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -631,7 +631,7 @@ references:
     a, a stone hedge. ... Under Traverse Bay. ... In Lake Michigan.
   claim_id: 58a6e30b-b8a2-4048-b6cb-d2c2939fb2e3
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58a6e30b-b8a2-4048-b6cb-d2c2939fb2e3
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58a6e30b-b8a2-4048-b6cb-d2c2939fb2e3
 - text: Disturbed by the thought of tens of thousands of hybrids living underground
     beneath Illinois
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -641,7 +641,7 @@ references:
     living underground beneath our feet in Illinois.
   claim_id: 5eb53b86-3c8a-4dae-8841-171f3357e0ea
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5eb53b86-3c8a-4dae-8841-171f3357e0ea
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-5eb53b86-3c8a-4dae-8841-171f3357e0ea
 - text: Describes the hybrids as mostly human but with larger heads, telepathic, possibly
     without human speech
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -654,7 +654,7 @@ references:
     even be capable of human speech as we know it.
   claim_id: 166df7e1-469a-41f2-931a-2daf2366ae04
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-166df7e1-469a-41f2-931a-2daf2366ae04
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-166df7e1-469a-41f2-931a-2daf2366ae04
 - text: Says he loves the Ancient Aliens television series despite its criticism
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -664,7 +664,7 @@ references:
     rock and they're calling it a portal, like, give me a break.
   claim_id: e60681e5-abab-48f9-b7ea-72f837ce4126
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e60681e5-abab-48f9-b7ea-72f837ce4126
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-e60681e5-abab-48f9-b7ea-72f837ce4126
 - text: Woke on a metal table about 1.96 metres long, longer than he is tall
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -673,7 +673,7 @@ references:
     I was tall.
   claim_id: 4402a400-3be3-42f8-84b7-30f4ab32152c
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4402a400-3be3-42f8-84b7-30f4ab32152c
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4402a400-3be3-42f8-84b7-30f4ab32152c
 - text: Found his left arm missing above the elbow, cleanly severed, no blood on the
     table
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -684,7 +684,7 @@ references:
     to me next to my body not not a single drop of blood was next to me
   claim_id: 29a0adcc-2356-4781-b4a9-d9a21cadd857
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-29a0adcc-2356-4781-b4a9-d9a21cadd857
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-29a0adcc-2356-4781-b4a9-d9a21cadd857
 - text: Severed arm lay on a nearby cart with the humerus protruding and no blood
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -694,7 +694,7 @@ references:
     meat. And there was no blood, not a drop of blood wasted around
   claim_id: 6e02201b-494a-404b-8e7b-9ef4860cd837
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e02201b-494a-404b-8e7b-9ef4860cd837
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e02201b-494a-404b-8e7b-9ef4860cd837
 - text: Arm was restored with no scarring, but his elbow froze at 90 degrees for a
     month
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -705,7 +705,7 @@ references:
     for an entire month.
   claim_id: 993ee71d-ffa7-4251-b4d8-4563dcd43836
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-993ee71d-ffa7-4251-b4d8-4563dcd43836
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-993ee71d-ffa7-4251-b4d8-4563dcd43836
 - text: A week after the encounter, a tall Grey ran its hands over the same elbow
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -715,7 +715,7 @@ references:
     the length of my arm. And he was focusing mostly over the elbow.
   claim_id: 9139906d-1e32-49f4-96c8-34fd811644ff
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-9139906d-1e32-49f4-96c8-34fd811644ff
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-9139906d-1e32-49f4-96c8-34fd811644ff
 - text: Believes the beings took bone marrow from his humerus
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -724,7 +724,7 @@ references:
     was bone marrow. ... Yeah, I think they took bone marrow.
   claim_id: 670cbf4c-d853-4401-96cf-d24a324522c9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-670cbf4c-d853-4401-96cf-d24a324522c9
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-670cbf4c-d853-4401-96cf-d24a324522c9
 - text: Used ChatGPT to confirm bone marrow extraction symptoms matched his experience
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -735,7 +735,7 @@ references:
     joint until the marrow had grown back and there'd be swelling at the joint.
   claim_id: 30893e95-73a8-4699-9475-97e135784dd8
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-30893e95-73a8-4699-9475-97e135784dd8
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-30893e95-73a8-4699-9475-97e135784dd8
 - text: Girlfriend's x-ray of his arm showed no seam or cut, only minor arthritis
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -746,7 +746,7 @@ references:
     arthritis
   claim_id: 23c077f5-988d-4754-8cab-cf243a53e910
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-23c077f5-988d-4754-8cab-cf243a53e910
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-23c077f5-988d-4754-8cab-cf243a53e910
 - text: Told by the Greys in March 2024 that he shouldn't drink alcohol
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -755,7 +755,7 @@ references:
     drink alcohol
   claim_id: 3a606411-8c2f-4d63-8a04-e6c7229757ab
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3a606411-8c2f-4d63-8a04-e6c7229757ab
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-3a606411-8c2f-4d63-8a04-e6c7229757ab
 - text: Swore at the Greys in response and lost consciousness
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -766,7 +766,7 @@ references:
     unconscious
   claim_id: 6763e49d-6afc-4dfd-a9b1-eda91d89d706
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6763e49d-6afc-4dfd-a9b1-eda91d89d706
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6763e49d-6afc-4dfd-a9b1-eda91d89d706
 - text: Afterwards found he hated the taste of the cocktail and lost his desire to
     drink
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -778,7 +778,7 @@ references:
     to ever relax using alcohol.
   claim_id: 42c1c355-c703-4084-85b9-a21d3141df66
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-42c1c355-c703-4084-85b9-a21d3141df66
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-42c1c355-c703-4084-85b9-a21d3141df66
 - text: Encounter wave ran from 2020 to 2024; does not expect return for another 18
     years
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -788,7 +788,7 @@ references:
     I don't expect them back for another 18 years if they come back.
   claim_id: 6e050c28-e58e-42c3-ab25-2cc928d842a8
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e050c28-e58e-42c3-ab25-2cc928d842a8
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6e050c28-e58e-42c3-ab25-2cc928d842a8
 - text: Describes a pyramidal cone device used over his genitals for instant ejaculation,
     awake about 15 seconds
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -800,7 +800,7 @@ references:
     encounter.
   claim_id: 2541887a-2f1f-4ff2-8431-ae38d2a900fe
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-2541887a-2f1f-4ff2-8431-ae38d2a900fe
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-2541887a-2f1f-4ff2-8431-ae38d2a900fe
 - text: Made a 3D-printed recreation of the semen extraction device
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -809,7 +809,7 @@ references:
     or whatever.
   claim_id: 16110836-35e2-49c9-8b45-8a9d19675b49
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-16110836-35e2-49c9-8b45-8a9d19675b49
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-16110836-35e2-49c9-8b45-8a9d19675b49
 - text: Believes he is the only person to have described that particular device
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -818,7 +818,7 @@ references:
     device uh or at least that particular
   claim_id: a42d20c8-08f3-4a2c-bb1f-b5d143a9b124
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a42d20c8-08f3-4a2c-bb1f-b5d143a9b124
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-a42d20c8-08f3-4a2c-bb1f-b5d143a9b124
 - text: In 1995 trained himself using astral projection techniques to attempt separation
     from his body
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -829,7 +829,7 @@ references:
     wake up in your sleep in a lucid state
   claim_id: ebb8dec6-ceed-4e4b-8128-2673d790c4a2
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ebb8dec6-ceed-4e4b-8128-2673d790c4a2
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ebb8dec6-ceed-4e4b-8128-2673d790c4a2
 - text: Succeeded at astral separation twice but found it too unsettling to repeat
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -839,7 +839,7 @@ references:
     I'd separated that I'd freak out and snap back. I don't ever want to do it again.
   claim_id: fd21cfc1-ec30-44cc-afea-19f8609e2cbf
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fd21cfc1-ec30-44cc-afea-19f8609e2cbf
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fd21cfc1-ec30-44cc-afea-19f8609e2cbf
 - text: Maintains his abductions were always physical, not non-physical, citing after-effects
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -847,7 +847,7 @@ references:
   quote: no i had physical symptoms afterwards... no they were always physical
   claim_id: b5bbd0d5-41ad-41cf-afd6-925153f16fff
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
 - text: Uses his real name publicly despite the professional risk of being dismissed
     as a 'UFO nut'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -858,7 +858,7 @@ references:
     no forget it
   claim_id: 1ea856e6-04f4-4e21-91de-022968eb8254
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1ea856e6-04f4-4e21-91de-022968eb8254
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1ea856e6-04f4-4e21-91de-022968eb8254
 - text: Ramsay describes Michael Herrera's Indonesia encounter with an octagonal black
     disc
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -869,7 +869,7 @@ references:
     this octagonal black disc hovering over the trees
   claim_id: 79c0f3c9-17bb-4324-b5ce-900e6de4fac9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
 - text: Unbadged personnel were reportedly loading people, including children, into
     reverse-engineered craft
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -881,7 +881,7 @@ references:
     for whatever use
   claim_id: f16c8257-7f75-4f7b-ac19-b380850fd79c
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
 - text: Intends to keep writing books about the Greys combining research and speculative
     science
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -891,7 +891,7 @@ references:
     and speculative science to try to understand them better.
   claim_id: 9326264e-d1b0-48d7-8fe3-e8fe3a1a595d
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-9326264e-d1b0-48d7-8fe3-e8fe3a1a595d
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-9326264e-d1b0-48d7-8fe3-e8fe3a1a595d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

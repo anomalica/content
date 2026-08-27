@@ -44,7 +44,7 @@ references:
     owned a successful construction business.
   claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ee399a00-439a-446d-b160-3e1ed33c39c8
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ee399a00-439a-446d-b160-3e1ed33c39c8
 - text: Bledsoe said he had a profound UFO sighting he interpreted as an extension
     of his own religious tradition
   source: American Cosmic
@@ -53,7 +53,7 @@ references:
     own religious tradition.
   claim_id: ba7b0c3f-c45f-4335-b952-59be10e48764
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ba7b0c3f-c45f-4335-b952-59be10e48764
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ba7b0c3f-c45f-4335-b952-59be10e48764
 - text: Bledsoe's congregation rejected his interpretation and called the experience
     demonic
   source: American Cosmic
@@ -61,7 +61,7 @@ references:
   quote: His congregation rejected his interpretation and called the experience demonic.
   claim_id: 4cd421ad-796d-4798-ac32-c1a0b27db190
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4cd421ad-796d-4798-ac32-c1a0b27db190
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4cd421ad-796d-4798-ac32-c1a0b27db190
 - text: Bledsoe struggled for years after the experience, alienated from his community,
     before reaching a settled understanding of it
   source: American Cosmic
@@ -71,7 +71,7 @@ references:
     at peace with his conversion.
   claim_id: 98f13624-4f98-471b-9f91-77f232dbab59
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-98f13624-4f98-471b-9f91-77f232dbab59
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-98f13624-4f98-471b-9f91-77f232dbab59
 - text: Ryan Bledsoe, son of Chris Bledsoe, hosts a podcast
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -79,7 +79,7 @@ references:
   quote: I was with Ryan Bledsoe, his son, who has a podcast.
   claim_id: 7ebb8b36-28dd-4e1f-a870-2e82b9ceccbb
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7ebb8b36-28dd-4e1f-a870-2e82b9ceccbb
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7ebb8b36-28dd-4e1f-a870-2e82b9ceccbb
 - text: Chris Ramsay visited Chris Bledsoe at his home in North Carolina
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -88,7 +88,7 @@ references:
     visit Chris Bledsoe, who I'll mention a little bit later as well
   claim_id: 92ff6310-e1df-4f98-bf04-8db4c8e96d28
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-92ff6310-e1df-4f98-bf04-8db4c8e96d28
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-92ff6310-e1df-4f98-bf04-8db4c8e96d28
 - text: Ramsay said Bledsoe has been in touch with many factions of intelligence agencies
     in the United States
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -98,7 +98,7 @@ references:
     agencies in the United States.
   claim_id: 01113d7f-dfb5-4f52-8f40-fc99d8018493
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-01113d7f-dfb5-4f52-8f40-fc99d8018493
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-01113d7f-dfb5-4f52-8f40-fc99d8018493
 - text: Bledsoe's book details an orb dripping an unknown substance onto his driveway
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -107,7 +107,7 @@ references:
     a unknown substance onto his driveway.
   claim_id: 5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
 - text: Ramsay said the driveway account predates public discussion of angel hair
     by years
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -116,7 +116,7 @@ references:
   quote: Now, this is years before we heard about this, which is really interesting.
   claim_id: 411ec94c-8862-45c6-8511-1ad5681c4512
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
-  workbench_url: http://localhost:5173/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-411ec94c-8862-45c6-8511-1ad5681c4512
+  workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-411ec94c-8862-45c6-8511-1ad5681c4512
 - text: Ramsay recounted that Bledsoe's book describes healing his dog Nellie and
     a Make-A-Wish child by laying on hands
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -130,7 +130,7 @@ references:
     like intestinal problems.
   claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
-  workbench_url: http://localhost:5173/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
+  workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
 - text: Jason Samosa said Ryan Bledsoe recounted Jim Semivan telling him the Bledsoe
     family are thought to be hybrids with non-human DNA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -140,7 +140,7 @@ references:
     you may have more non-human DNA or a certain strand of non-human DNA.
   claim_id: 2641fd34-5bc3-4498-8822-fe23daade974
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2641fd34-5bc3-4498-8822-fe23daade974
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2641fd34-5bc3-4498-8822-fe23daade974
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

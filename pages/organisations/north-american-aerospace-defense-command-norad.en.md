@@ -61,7 +61,7 @@ references:
     NORAD should know all about it.
   claim_id: c238c252-a019-45c8-bdfe-cce047be6647
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c238c252-a019-45c8-bdfe-cce047be6647
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c238c252-a019-45c8-bdfe-cce047be6647
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c238c252-a019-45c8-bdfe-cce047be6647
 - text: Christopher Mellon said the USAF oversees the USSF, has far more aircraft
     and sensors than the USN, and is responsible for supporting NORAD.
@@ -72,7 +72,7 @@ references:
     as the responsibility for supporting NORAD.
   claim_id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
 - text: Mellon said NORAD was not notified of recurring violations of restricted US
     airspace off the US east coast.
@@ -83,7 +83,7 @@ references:
     of these intrusions.
   claim_id: c3ecc387-6598-4e7c-80f3-99f636686165
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3ecc387-6598-4e7c-80f3-99f636686165
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3ecc387-6598-4e7c-80f3-99f636686165
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3ecc387-6598-4e7c-80f3-99f636686165
 - text: Mellon believed NORAD did not include any of its thousands of yearly Uncorrelated
     Tracks in a report to the ODNI.
@@ -94,7 +94,7 @@ references:
     North America.
   claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
 - text: Mellon believed most Uncorrelated Tracks are mundane, but that unreported
     cases included fighter scrambles to intercept UAP.
@@ -106,7 +106,7 @@ references:
     scrambled fighter aircraft to intercept UAP.'
   claim_id: 9e473bd7-5e00-4224-aa98-367697852a79
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e473bd7-5e00-4224-aa98-367697852a79
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e473bd7-5e00-4224-aa98-367697852a79
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9e473bd7-5e00-4224-aa98-367697852a79
 - text: Chad Underwood spoke by phone with someone from NORAD shortly after landing
     following the Nimitz encounter.
@@ -117,7 +117,7 @@ references:
     the North American Aerospace Defence Command
   claim_id: c2bcf71f-bedf-488c-8658-240a74dac981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2bcf71f-bedf-488c-8658-240a74dac981
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2bcf71f-bedf-488c-8658-240a74dac981
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c2bcf71f-bedf-488c-8658-240a74dac981
 - text: A NORAD investigator questioned Underwood after the encounter; no other internal
     agency investigated it.
@@ -127,7 +127,7 @@ references:
     no other internal agency investigated the encounter.
   claim_id: 77396a58-95de-467d-b079-c6bbf56cb7d6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
 - text: Willard Miller served on US Atlantic Command staff and at NORAD Space Command
     with Top Secret clearances.
@@ -138,7 +138,7 @@ references:
     and at NORAD Space Command with Top Secret security clearances.
   claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
 - text: The weekend of 2023-02-04 was the first time NORAD used armed force to bring
     down unidentified objects over American airspace.
@@ -148,7 +148,7 @@ references:
     be used to bring down 'unidentified objects' over American airspace
   claim_id: 175930ff-9783-4e08-a51a-4839025f4a55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-175930ff-9783-4e08-a51a-4839025f4a55
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-175930ff-9783-4e08-a51a-4839025f4a55
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-175930ff-9783-4e08-a51a-4839025f4a55
 - text: Rubio said it was the first time NORAD had decided to shoot down an object
     over American airspace, and all three objects remained unidentified.
@@ -159,7 +159,7 @@ references:
     American airspace and all three were still unidentifi ed.
   claim_id: 372c43d6-717d-413f-98a8-373d693cb399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-372c43d6-717d-413f-98a8-373d693cb399
 - text: Additional objects were detected only because NORAD had increased radar sensitivity
     following the Chinese balloon incident.
@@ -171,7 +171,7 @@ references:
     being detected
   claim_id: 1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
 - text: NORAD detected an unknown car-sized object off the coast near Deadhorse, Alaska
     on 2023-02-10.
@@ -183,7 +183,7 @@ references:
     object' just off the coast near Deadhorse on Friday 10 February
   claim_id: 20e40f0f-ad22-47b8-b935-95123138348b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20e40f0f-ad22-47b8-b935-95123138348b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20e40f0f-ad22-47b8-b935-95123138348b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-20e40f0f-ad22-47b8-b935-95123138348b
 - text: A NORAD general said the Alaska object was not a balloon and that its means
     of staying aloft was unknown.
@@ -193,7 +193,7 @@ references:
     how it's staying aloft, yet it is. That... is from the norad general
   claim_id: 40a17e5a-6c96-449b-a3b3-5f8dd09363b0
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
-  workbench_url: http://localhost:5173/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
+  workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
 - text: Asked whether the object was extraterrestrial, the general said he was not
     ruling anything out.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08 (2024-10-02)
@@ -202,7 +202,7 @@ references:
     i'm not ruling anything out
   claim_id: b897aa93-707c-4009-ac21-0d32990d8938
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
-  workbench_url: http://localhost:5173/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
+  workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
 - text: NORAD tracked a cylindrical-shaped object at approximately 12,200 metres over
     Canada's Yukon on 2023-02-11.
   source: In Plain Sight (2021)
@@ -211,7 +211,7 @@ references:
     cylindrical shape, at 40,000 feet over Canada's remote Yukon
   claim_id: cffd7c23-7daf-48c9-86ba-93f63bdaaeab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffd7c23-7daf-48c9-86ba-93f63bdaaeab
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffd7c23-7daf-48c9-86ba-93f63bdaaeab
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cffd7c23-7daf-48c9-86ba-93f63bdaaeab
 - text: The Yukon object was swiftly taken down with NORAD's assistance.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08 (2024-10-02)
@@ -220,7 +220,7 @@ references:
     well with the help of NORAD.
   claim_id: b080fb79-56f5-47b7-a9cb-cb990fa2d940
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
-  workbench_url: http://localhost:5173/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
+  workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
 - text: NORAD spokesman Olivier Gallant said the military had determined what the
     object was but would not reveal details.
   source: In Plain Sight (2021)
@@ -229,7 +229,7 @@ references:
     that 'the military had determined what it was but would not reveal details.'
   claim_id: 17aa8062-9d30-441c-ae7a-bf4d5bf1482d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17aa8062-9d30-441c-ae7a-bf4d5bf1482d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17aa8062-9d30-441c-ae7a-bf4d5bf1482d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-17aa8062-9d30-441c-ae7a-bf4d5bf1482d
 - text: Whitley Strieber said Brazilian investigators suggested NORAD may have warned
     the Brazilian Air Force about the object that fell during the 1996 Varginha incident.
@@ -240,7 +240,7 @@ references:
     headed for the area where it fell.
   claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cc26899d-fdb8-41a3-b854-f78917e85b6a
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cc26899d-fdb8-41a3-b854-f78917e85b6a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

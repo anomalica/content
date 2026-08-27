@@ -194,7 +194,7 @@ references:
     Armstrong.
   claim_id: c3bd3326-1b40-461b-a3b3-cdf04dceae41
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3bd3326-1b40-461b-a3b3-cdf04dceae41
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3bd3326-1b40-461b-a3b3-cdf04dceae41
 - text: '"Buzz" is Aldrin''s legal name, as it appears on his passport and driving
     licence.'
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -202,7 +202,7 @@ references:
   quote: That's a legal name, passport, driver's license.
   claim_id: 3a68a979-0f26-4762-b45f-d4058ba89409
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-3a68a979-0f26-4762-b45f-d4058ba89409
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-3a68a979-0f26-4762-b45f-d4058ba89409
 - text: During the Apollo 11 descent, Aldrin called out the distances Eagle was moving
     left and right.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -211,14 +211,14 @@ references:
     and right.
   claim_id: e3f2e0ee-a758-4f13-877f-1e0a9ca483af
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
 - text: At touchdown, Aldrin said "contact light, engine stop".
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:38.8-00:00:41.0
   quote: And then I said, contact light, engine stop.
   claim_id: 38b02d39-ab47-4f96-8e59-42a6db1d98cc
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
 - text: Armstrong then radioed "Houston, Tranquility Base, the Eagle has landed".
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:42.7-00:00:47.6
@@ -226,14 +226,14 @@ references:
     eagle has landed.
   claim_id: 9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
 - text: Aldrin said he regards Armstrong's landing line as a good one.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:48.6-00:00:49.4
   quote: Man, how about that? ... Not a bad line.
   claim_id: a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
 - text: The crew were focused rather than worried about what they would say during
     the landing.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -241,7 +241,7 @@ references:
   quote: You're worried then. We were focused.
   claim_id: b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
 - text: Aldrin feared Armstrong might tell him to go out first and think up his own
     words.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -250,7 +250,7 @@ references:
     think up a couple of lines to say when you step on the moon.
   claim_id: 8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
 - text: There was no live television picture of the landing itself; viewers watched
     animation.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -259,7 +259,7 @@ references:
     You watched animation.
   claim_id: 1a791a5f-0333-4b8c-8c50-d99d571033c2
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
 - text: Aldrin was the first man to relieve himself on the Moon.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:28.4-00:01:32.7
@@ -267,7 +267,7 @@ references:
     that true? Buzz Aldrin: That is correct.'
   claim_id: 8b300c92-6572-4a1a-912a-bd171db4348a
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8b300c92-6572-4a1a-912a-bd171db4348a
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8b300c92-6572-4a1a-912a-bd171db4348a
 - text: An astronaut cannot unzip the suit to urinate; the crew used a device instead.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:41.3-00:01:46.1
@@ -275,7 +275,7 @@ references:
     unzip. ... But we got a little device.
   claim_id: 62367ea6-bf8d-47b2-837f-0d3428b87377
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
 - text: In the Apollo 11 footage, Aldrin is seen hopping up and down on the lunar
     surface.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -285,14 +285,14 @@ references:
     of a bunny hop.
   claim_id: 6fd89f57-cc75-45d9-a580-8c5c93c20e9c
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
 - text: Aldrin calls the hop a kangaroo hop, not a bunny hop.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:02:05.5-00:02:09.0
   quote: Not bunny hop, kangaroo hop. You know, two feet, feet at a time.
   claim_id: 64b43009-6fb7-488d-b676-27abc7b36634
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-64b43009-6fb7-488d-b676-27abc7b36634
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-64b43009-6fb7-488d-b676-27abc7b36634
 - text: He hopped to demonstrate on television how easily a person could move on the
     lunar surface.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -301,7 +301,7 @@ references:
     how easy a guy could move around or a gal could move around on the moon.
   claim_id: b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: http://localhost:5173/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
+  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
 - text: Armstrong said neither he nor Aldrin could see stars from the Lunar Module
     window; Aldrin would try via the optics.
   source: Dark Mission
@@ -312,7 +312,7 @@ references:
     seeing some stars through the optics.'
   claim_id: 987f43ec-2016-4eb6-ae0f-bfc87c20dab8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987f43ec-2016-4eb6-ae0f-bfc87c20dab8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987f43ec-2016-4eb6-ae0f-bfc87c20dab8
 - text: Aldrin radioed Tranquility standing by for a go on AGS-to-PGNS and lunar alignment.
   source: Dark Mission
   location: ch5:13247-13346
@@ -320,7 +320,7 @@ references:
     align and a lunar align. Over.'
   claim_id: 9892e1c5-9845-4940-8d7c-f28dace996d5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9892e1c5-9845-4940-8d7c-f28dace996d5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9892e1c5-9845-4940-8d7c-f28dace996d5
 - text: Aldrin disputed NASA's official position on the Alignment Optical Telescope
     in his 1969 technical debrief.
   source: Dark Mission
@@ -328,7 +328,7 @@ references:
   quote: But Aldrin himself disputes this in his 1969 NASA technical debrief.
   claim_id: 80632f50-ea6a-4ad3-913a-389436be6ab3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-80632f50-ea6a-4ad3-913a-389436be6ab3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-80632f50-ea6a-4ad3-913a-389436be6ab3
 - text: 'Aldrin described the alignment procedure: gravity direction, two-star alignment,
     torquing angles for drift, new landing-site location.'
   source: Dark Mission
@@ -340,7 +340,7 @@ references:
     a new location of the landing site.”'
   claim_id: 145750a9-cc09-43f7-8489-feb12905fcbe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-145750a9-cc09-43f7-8489-feb12905fcbe
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-145750a9-cc09-43f7-8489-feb12905fcbe
 - text: Had Eagle landed straight ahead, Aldrin intended Rigel in the left detent
     and Capella in the right.
   source: Dark Mission
@@ -350,7 +350,7 @@ references:
     detent.'
   claim_id: 6f571077-43ea-4291-a3c4-a0b8333a11d7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f571077-43ea-4291-a3c4-a0b8333a11d7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f571077-43ea-4291-a3c4-a0b8333a11d7
 - text: The 13-degree yaw moved Capella out of the right-rear detent; Aldrin used
     Rigel first.
   source: Dark Mission
@@ -359,7 +359,7 @@ references:
     in good shape there. That’s the one I used first.
   claim_id: a45c6049-8aeb-4b1d-88fe-b743b31ac0ce
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a45c6049-8aeb-4b1d-88fe-b743b31ac0ce
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a45c6049-8aeb-4b1d-88fe-b743b31ac0ce
 - text: Aldrin then selected Navi in the right-rear detent, finding it dim and slow
     to yield marks.
   source: Dark Mission
@@ -369,7 +369,7 @@ references:
     I had hoped to get the marks on that.
   claim_id: a92f648d-a90c-4dae-95a7-eb560762f0b9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a92f648d-a90c-4dae-95a7-eb560762f0b9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a92f648d-a90c-4dae-95a7-eb560762f0b9
 - text: Aldrin's signature appears on the Apollo 11 star chart used to triangulate
     Eagle's position.
   source: Dark Mission
@@ -379,7 +379,7 @@ references:
     lunar surface. Aldrin’s signature appears above left.
   claim_id: 28d8846c-83a5-4009-ba45-3f87d51211f9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-28d8846c-83a5-4009-ba45-3f87d51211f9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-28d8846c-83a5-4009-ba45-3f87d51211f9
 - text: In Mike Bara's assessment, Aldrin used the telescope to look near Sirius as
     it passed 19.5 degrees over the landing site.
   source: Dark Mission
@@ -389,7 +389,7 @@ references:
     over the landing site.
   claim_id: 6ceefcb7-1a21-4106-a93d-1436983257c4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6ceefcb7-1a21-4106-a93d-1436983257c4
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6ceefcb7-1a21-4106-a93d-1436983257c4
 - text: Aldrin described the Apollo 11 crew's UFO encounter on a July 2006 Science
     Channel programme.
   source: Dark Mission
@@ -399,7 +399,7 @@ references:
     with "a UFO."
   claim_id: 92ff64e4-f482-46ff-99b2-aad1e54bc4e7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-92ff64e4-f482-46ff-99b2-aad1e54bc4e7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-92ff64e4-f482-46ff-99b2-aad1e54bc4e7
 - text: Aldrin described the object as a double ellipse or bell-shaped object pacing
     the spacecraft for hours.
   source: Dark Mission
@@ -408,7 +408,7 @@ references:
     for hours, as a "double ellipse" or "bell-shaped" object.
   claim_id: 610636bb-69c8-43fd-a12a-f2e893af80fa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-610636bb-69c8-43fd-a12a-f2e893af80fa
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-610636bb-69c8-43fd-a12a-f2e893af80fa
 - text: Neither Armstrong nor Collins believed the object was as far away as the S-IVB.
   source: Dark Mission
   location: ch19:40799-40958
@@ -416,7 +416,7 @@ references:
     or Collins—believed that the object in question was anywhere near that far away.
   claim_id: bea8933c-27e1-446f-ba3e-763cb737f469
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bea8933c-27e1-446f-ba3e-763cb737f469
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bea8933c-27e1-446f-ba3e-763cb737f469
 - text: Aldrin feared the crew would be ordered home if they discussed the object
     on an open channel.
   source: Dark Mission
@@ -424,7 +424,7 @@ references:
   quote: Aldrin stated that he "feared we would be ordered home, *before* the landing
   claim_id: a02e9ef1-7c61-4b46-a9dc-8f680a3a8f36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a02e9ef1-7c61-4b46-a9dc-8f680a3a8f36
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a02e9ef1-7c61-4b46-a9dc-8f680a3a8f36
 - text: Aldrin did not say whether a debriefing about the object took place after
     the mission.
   source: Dark Mission
@@ -432,7 +432,7 @@ references:
   quote: Aldrin did not state if that debriefing actually took place.
   claim_id: 1a508e90-4af0-4972-ba74-c0204f515513
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1a508e90-4af0-4972-ba74-c0204f515513
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1a508e90-4af0-4972-ba74-c0204f515513
 - text: Aldrin performed a "communion ceremony" in Eagle before the first Moon steps.
   source: Dark Mission
   location: ch5:5520-5674
@@ -440,7 +440,7 @@ references:
     module Eagle before the astronauts made their first historic steps on the Moon
   claim_id: 25caec01-8b8c-45f7-802e-7644865e2e68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25caec01-8b8c-45f7-802e-7644865e2e68
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25caec01-8b8c-45f7-802e-7644865e2e68
 - text: In Men From Earth, Aldrin describes a small religious offering made shortly
     after landing.
   source: Dark Mission
@@ -449,7 +449,7 @@ references:
     after their landing on the Moon:'
   claim_id: 1b2aed16-63d3-4714-9bb8-3f318f414893
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b2aed16-63d3-4714-9bb8-3f318f414893
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b2aed16-63d3-4714-9bb8-3f318f414893
 - text: On the surface, Aldrin took communion with wine and a wafer, reading a card
     with a Book of John passage.
   source: Dark Mission
@@ -460,7 +460,7 @@ references:
     used in the traditional communion ceremony.
   claim_id: 4f1d1db6-2c72-42aa-90b5-5f2f866f9356
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f1d1db6-2c72-42aa-90b5-5f2f866f9356
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f1d1db6-2c72-42aa-90b5-5f2f866f9356
 - text: Armstrong did not share Aldrin's enthusiasm, looking on with faint disdain.
   source: Dark Mission
   location: ch12:20269-20477
@@ -469,7 +469,7 @@ references:
     of faint disdain (as if to say, 'what's he up to now?')"
   claim_id: 846785fb-65e6-42b4-807e-3236ccda4f01
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-846785fb-65e6-42b4-807e-3236ccda4f01
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-846785fb-65e6-42b4-807e-3236ccda4f01
 - text: The ceremony was taken from Webster Presbyterian Church rituals, themselves
     borrowed from Catholic communion.
   source: Dark Mission
@@ -479,7 +479,7 @@ references:
     much older Catholic communion ceremony)
   claim_id: 04076e0e-d502-4da0-a660-594340c1c2dc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-04076e0e-d502-4da0-a660-594340c1c2dc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-04076e0e-d502-4da0-a660-594340c1c2dc
 - text: Hoagland believes the ceremony's real roots lay in ancient Egypt, as an offering
     to Osiris.
   source: Dark Mission
@@ -487,7 +487,7 @@ references:
   quote: in fact, had its real roots in ancient Egypt—as an offering to Osiris (naturally).
   claim_id: 06df62b1-2bce-499e-ab36-d2d588feff13
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-06df62b1-2bce-499e-ab36-d2d588feff13
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-06df62b1-2bce-499e-ab36-d2d588feff13
 - text: Hoagland and Ken Johnston determined from mission logs the ceremony took place
     33 minutes after touchdown.
   source: Dark Mission
@@ -498,7 +498,7 @@ references:
     took place precisely thirty-three minutes after touchdown on the lunar surface.
   claim_id: 46ce7898-0118-460c-bbfe-da1ae9bfae90
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
 - text: Aldrin radioed a message at MET 105:25:38 (3h41m after landing, ~23:59 UTC)
     asking listeners to pause and give thanks.
   source: Dark Mission
@@ -510,7 +510,7 @@ references:
     events of the past few hours and to give thanks in his or her own way. Over.”'
   claim_id: 3e03971b-a071-4c0e-8185-3d58054b32bf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3e03971b-a071-4c0e-8185-3d58054b32bf
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3e03971b-a071-4c0e-8185-3d58054b32bf
 - text: A roughly nine-minute communications break followed, during which Bara says
     the ceremony and pre-EVA meal likely occurred.
   source: Dark Mission
@@ -520,7 +520,7 @@ references:
     their pre-EVA meal during this period.
   claim_id: df72a593-bb7f-4373-b6f5-52e5e0fc4a57
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-df72a593-bb7f-4373-b6f5-52e5e0fc4a57
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-df72a593-bb7f-4373-b6f5-52e5e0fc4a57
 - text: During the ceremony, Sirius was at 19.5 degrees elevation rather than on the
     meridian or horizon.
   source: Dark Mission
@@ -531,7 +531,7 @@ references:
     precisely located at the "tetrahedral" elevation of "19.5º."
   claim_id: cf0cd35b-8bb5-4070-a5cb-38faffa09437
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cf0cd35b-8bb5-4070-a5cb-38faffa09437
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cf0cd35b-8bb5-4070-a5cb-38faffa09437
 - text: Hoagland believes the timing was deliberate, with Sirius representing Isis.
   source: Dark Mission
   location: ch12:31413-31714
@@ -541,14 +541,14 @@ references:
     from her exact "19.5°" elevation in observation of the "sacred moment"'
   claim_id: e22535db-bde6-4538-a25d-7aeda889d031
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e22535db-bde6-4538-a25d-7aeda889d031
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e22535db-bde6-4538-a25d-7aeda889d031
 - text: Hoagland found Alnilam exactly on the horizon as the ceremony concluded.
   source: Dark Mission
   location: ch12:33754-33774
   quote: And dead-on as it concluded.
   claim_id: 6394e54a-fe9d-466e-9ae4-e0ddc373175a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6394e54a-fe9d-466e-9ae4-e0ddc373175a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6394e54a-fe9d-466e-9ae4-e0ddc373175a
 - text: Ken Johnston said Aldrin, like Johnston, was a 32nd-degree Scottish Rite Freemason.
   source: Dark Mission
   location: ch12:57759-57851
@@ -556,7 +556,7 @@ references:
     *32º Scottish Rite Freemason.*
   claim_id: d216aedc-eb68-42b2-883e-4651c532eb7d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d216aedc-eb68-42b2-883e-4651c532eb7d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d216aedc-eb68-42b2-883e-4651c532eb7d
 - text: Aldrin belonged to the Southern Jurisdiction of the Scottish Rite, which controlled
     lodges in major NASA cities.
   source: Dark Mission
@@ -566,7 +566,7 @@ references:
     other major city that held a significant NASA manned space flight facility)
   claim_id: 0827fc3c-fcea-42d4-8838-f1854851ddd0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0827fc3c-fcea-42d4-8838-f1854851ddd0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0827fc3c-fcea-42d4-8838-f1854851ddd0
 - text: Aldrin took a Scottish Rite 33rd degree apron with him to the Moon.
   source: Dark Mission
   location: ch5:10842-10922
@@ -574,7 +574,7 @@ references:
     the Moon.
   claim_id: 53dbe91f-4268-4733-89b5-6cfd9c2282b8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53dbe91f-4268-4733-89b5-6cfd9c2282b8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53dbe91f-4268-4733-89b5-6cfd9c2282b8
 - text: Aldrin took the flag of the Supreme Council 33 degrees, Southern Jurisdiction,
     bearing the double-headed eagle, aboard Eagle.
   source: Dark Mission
@@ -584,7 +584,7 @@ references:
     Eagle of the Scottish Rite (Hoagland).
   claim_id: 3a7fc563-c55e-4d66-8434-457a7d3e4fd6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a7fc563-c55e-4d66-8434-457a7d3e4fd6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a7fc563-c55e-4d66-8434-457a7d3e4fd6
 - text: Aldrin personally delivered the apron and flag to Luther A. Smith at the Scottish
     Rite Temple in Washington DC.
   source: Dark Mission
@@ -594,7 +594,7 @@ references:
     Rite at the temple in Washington, D.C., in a very solemn ceremony [Fig. 5-16]
   claim_id: 010f3ea6-cd58-435e-9dfd-30195248a69e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-010f3ea6-cd58-435e-9dfd-30195248a69e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-010f3ea6-cd58-435e-9dfd-30195248a69e
 - text: The Grand Lodge of Texas claimed Aldrin staked a claim to the Moon for Freemasonry
     via a ritual during an extra-vehicular activity.
   source: Dark Mission
@@ -604,7 +604,7 @@ references:
     EVAs
   claim_id: 0e2678f6-55bb-4678-b4c0-a4dcdbe891ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e2678f6-55bb-4678-b4c0-a4dcdbe891ca
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e2678f6-55bb-4678-b4c0-a4dcdbe891ca
 - text: Aldrin made sure his Masonic signet ring was prominently visible in the official
     crew portrait.
   source: Dark Mission
@@ -613,7 +613,7 @@ references:
     sure that his Masonic signet ring was prominently visible
   claim_id: cafb0e19-4fe9-4bef-a9d3-6adae38a81fd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafb0e19-4fe9-4bef-a9d3-6adae38a81fd
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafb0e19-4fe9-4bef-a9d3-6adae38a81fd
 - text: Aldrin wore his Masonic signet ring rather than his wedding ring in the portrait.
   source: Dark Mission
   location: ch12:64081-64184
@@ -621,7 +621,7 @@ references:
     ring, in these two historic instances
   claim_id: 0c68cc4a-dbb9-4b75-bbf2-db836b1251e0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c68cc4a-dbb9-4b75-bbf2-db836b1251e0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c68cc4a-dbb9-4b75-bbf2-db836b1251e0
 - text: Hoagland said most sources crop the portrait to disguise the ring.
   source: Dark Mission
   location: ch12:168602-168745
@@ -629,7 +629,7 @@ references:
     to disguise Aldrin’s prominent display of his Masonic signet ring. (NASA)
   claim_id: 5be06979-13a7-44cb-8424-524326d0ec6d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be06979-13a7-44cb-8424-524326d0ec6d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5be06979-13a7-44cb-8424-524326d0ec6d
 - text: Aldrin said there is a monolith on Phobos.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:37.8-00:00:48.0
@@ -637,35 +637,35 @@ references:
     object that goes around Mars once in seven hours.
   claim_id: 062c3bb5-d7b8-451c-a54e-e638334eb42e
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
-  workbench_url: http://localhost:5173/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
+  workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
 - text: Aldrin said Phobos is potato-shaped.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:41.9-00:00:44.5
   quote: this little potato-shaped object
   claim_id: ad6bf459-f00a-4a75-80eb-7ca2c485eaef
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
-  workbench_url: http://localhost:5173/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
+  workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
 - text: Aldrin said Phobos orbits Mars once every seven hours.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:45.6-00:00:48.0
   quote: that goes around Mars once in seven hours
   claim_id: a8ba95c5-889a-467e-9ed0-22bb1f015fd8
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
-  workbench_url: http://localhost:5173/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
+  workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
 - text: Aldrin said he considered the universe a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:53.5-00:00:57.1
   quote: Well, the universe put it there.
   claim_id: 56915f07-8b63-421e-bd7b-517a60f753c1
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
-  workbench_url: http://localhost:5173/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-56915f07-8b63-421e-bd7b-517a60f753c1
+  workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-56915f07-8b63-421e-bd7b-517a60f753c1
 - text: Aldrin said he considered God a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:57.3-00:00:59.0
   quote: If you choose, God put it there.
   claim_id: 5a85f276-ce2d-456b-8e32-2a9b82b7912a
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
-  workbench_url: http://localhost:5173/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
+  workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
 - text: Aldrin said the Moon's artificial structures were the Lunar Modules and equipment
     left by astronauts.
   source: Dark Mission
@@ -675,7 +675,7 @@ references:
     that the astronauts had left behind
   claim_id: 4648fe75-eca5-4ed4-8f49-7a41a3164b53
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4648fe75-eca5-4ed4-8f49-7a41a3164b53
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4648fe75-eca5-4ed4-8f49-7a41a3164b53
 - text: Aldrin said investigating the kind of ruins alleged by Hoagland would be a
     waste of time.
   source: Dark Mission
@@ -684,7 +684,7 @@ references:
     a waste of time
   claim_id: b7e83cf2-84c5-4603-9982-2e7430ea2513
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b7e83cf2-84c5-4603-9982-2e7430ea2513
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b7e83cf2-84c5-4603-9982-2e7430ea2513
 - text: Aldrin and Marvin Czarnik had been friends since the mid-1960s, working on
     NASA's rendezvous and docking mission rules.
   source: Dark Mission
@@ -693,7 +693,7 @@ references:
     together to develop NASA’s rendezvous and docking mission rules.
   claim_id: 09d72e17-4737-4ae2-a50a-bd0e4d81c4df
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09d72e17-4737-4ae2-a50a-bd0e4d81c4df
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09d72e17-4737-4ae2-a50a-bd0e4d81c4df
 - text: Czarnik related a story that Aldrin stormed off a golf course when asked about
     Moon UFOs and ruins.
   source: Dark Mission
@@ -706,7 +706,7 @@ references:
     The two men have not spoken since.
   claim_id: f60ea64e-8802-4465-bce6-34a6838cfc6d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f60ea64e-8802-4465-bce6-34a6838cfc6d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f60ea64e-8802-4465-bce6-34a6838cfc6d
 - text: In Return to Earth, Aldrin recounts a panic attack during a Kiwanis Club,
     Palmdale interview.
   source: Dark Mission
@@ -721,14 +721,14 @@ references:
     then-wife Joan.'
   claim_id: cd34e165-9524-465a-b8d5-ec35db7962b8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cd34e165-9524-465a-b8d5-ec35db7962b8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cd34e165-9524-465a-b8d5-ec35db7962b8
 - text: Aldrin says he became violently ill in the alleyway behind the club afterward.
   source: Dark Mission
   location: ch11:153448-153517
   quote: In the alleyway behind the Club he then became physically, violently ill.
   claim_id: fdfb5f62-a11b-4d6d-97fa-26bbaea06c6b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fdfb5f62-a11b-4d6d-97fa-26bbaea06c6b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fdfb5f62-a11b-4d6d-97fa-26bbaea06c6b
 - text: In a 1999 Salon.com interview, Aldrin said he was frustrated by the question
     of how it felt to walk on the Moon.
   source: Dark Mission
@@ -740,7 +740,7 @@ references:
     since the day I left the Moon by that question.”
   claim_id: 55454729-4bb6-4a94-be7a-83c06f1c7540
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-55454729-4bb6-4a94-be7a-83c06f1c7540
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-55454729-4bb6-4a94-be7a-83c06f1c7540
 - text: Aldrin recalls watching spacewalk footage in quarantine and telling Armstrong
     'we missed the whole thing.'
   source: Dark Mission
@@ -751,7 +751,7 @@ references:
     thing.’”'
   claim_id: cb0b921b-1680-4bfc-a0f4-d6001d9a0b2d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cb0b921b-1680-4bfc-a0f4-d6001d9a0b2d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cb0b921b-1680-4bfc-a0f4-d6001d9a0b2d
 - text: Hoagland said Aldrin continued to struggle to remember parts of the Apollo
     11 mission.
   source: Dark Mission
@@ -760,14 +760,14 @@ references:
     of the Apollo 11 mission right up until recent years.
   claim_id: a2538e60-e396-477b-8166-620d1ddde3b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2538e60-e396-477b-8166-620d1ddde3b2
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2538e60-e396-477b-8166-620d1ddde3b2
 - text: Clarke made remarks about life on Mars to SPACE.com while Aldrin listened.
   source: Clarke's Believe It or Not
   location: char:308-330
   quote: Sunday as Buzz Aldrin listened.
   claim_id: 3c53b2e0-32af-4457-92f0-997e0c2c8d78
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
-  workbench_url: http://localhost:5173/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
+  workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
 - text: Aldrin did not comment on Clarke's Mars claim, instead raising zero-point
     energy.
   source: Clarke's Believe It or Not
@@ -776,7 +776,7 @@ references:
     topic, so-called zero-point energy
   claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
-  workbench_url: http://localhost:5173/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
+  workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
 - text: Aldrin said reaching Alpha Centauri may take 200 to 400 years and will need
     zero-point energy.
   source: Clarke's Believe It or Not
@@ -785,7 +785,7 @@ references:
     to get us to Alpha Centauri.
   claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
-  workbench_url: http://localhost:5173/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
+  workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
 - text: Aldrin asked Clarke to confirm agreement on the need for zero-point energy
     to reach Alpha Centauri.
   source: Clarke's Believe It or Not
@@ -793,7 +793,7 @@ references:
   quote: Turning to Clarke, he added, "Correct?"
   claim_id: 1ea62656-0eb1-411b-94fb-617dc313159b
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
-  workbench_url: http://localhost:5173/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1ea62656-0eb1-411b-94fb-617dc313159b
+  workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1ea62656-0eb1-411b-94fb-617dc313159b
 - text: Clarke said he was glad Aldrin raised the question of zero-point energy.
   source: Clarke's Believe It or Not
   location: char:993-1067
@@ -801,7 +801,7 @@ references:
     said.'
   claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
-  workbench_url: http://localhost:5173/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

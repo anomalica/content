@@ -123,7 +123,7 @@ references:
     dealing with the "alien problem." The group, called Majestic or "MJ 12,"
   claim_id: 02360263-a2e6-498e-bda3-83db4bca416e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02360263-a2e6-498e-bda3-83db4bca416e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02360263-a2e6-498e-bda3-83db4bca416e
 - text: Truman Directive directed Bush and Forrestal to set up MJ-12 and report to
     Truman; Forrestal met Tizard within a week, early October 1947
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -135,7 +135,7 @@ references:
     the chief scientific advisor to the Ministry of Defence.
   claim_id: 0b698905-3653-44a3-9427-8f19df49bf71
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0b698905-3653-44a3-9427-8f19df49bf71
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0b698905-3653-44a3-9427-8f19df49bf71
 - text: The directive was leaked around 1980 to two filmmakers, and the material became
     known as the Majestic 12 documents
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -146,7 +146,7 @@ references:
     Majestic 12 documents
   claim_id: ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
 - text: The documents allegedly established MJ-12 as responsible for retrieval of
     non-human craft
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -156,7 +156,7 @@ references:
     of non-human craft.
   claim_id: 5514e068-a8e9-42b7-8581-4f549cc0384a
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5514e068-a8e9-42b7-8581-4f549cc0384a
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5514e068-a8e9-42b7-8581-4f549cc0384a
 - text: Provenance of the documents is officially disputed by the FBI and US military
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -165,14 +165,14 @@ references:
     and the US military.
   claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
 - text: Bush and Menzel named as founding members in the Shandera memo
   source: Dark Mission
   location: ch12:70848-70890
   quote: included both Bush and Menzel as founding members
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
 - text: Menzel's presence used by debunkers as proof of forgery, given his public
     debunking record
   source: Dark Mission
@@ -182,7 +182,7 @@ references:
     (having written three books on the subject)
   claim_id: 2b5d7616-bab2-476e-8b26-1069b00fcd66
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5d7616-bab2-476e-8b26-1069b00fcd66
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5d7616-bab2-476e-8b26-1069b00fcd66
 - text: Friedman's research into Menzel's papers found he led an elaborate double
     life
   source: Dark Mission
@@ -192,7 +192,7 @@ references:
     and discovered that Menzel had led an elaborate double life
   claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
 - text: Menzel's papers showed links to intelligence projects and top-secret weapons
     programmes
   source: Dark Mission
@@ -202,7 +202,7 @@ references:
     that would have made him an ideal candidate for MJ 12.
   claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c88887e-d711-4ed6-a300-f370dd92e4a1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c88887e-d711-4ed6-a300-f370dd92e4a1
 - text: Friedman argues for the validity of the MJ-12 documents and organisation
   source: Dark Mission
   location: ch12:71895-72005
@@ -210,7 +210,7 @@ references:
     and the existence of MJ 12 itself.
   claim_id: 478aecf4-3309-4046-99da-e68e604c067f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-478aecf4-3309-4046-99da-e68e604c067f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-478aecf4-3309-4046-99da-e68e604c067f
 - text: Researchers have identified Theodore von Karman as a possible MJ-12 member
   source: Dark Mission
   location: ch12:79156-79328
@@ -219,7 +219,7 @@ references:
     been recently unearthed.
   claim_id: 3726d3f8-a83b-4a4d-8468-d12a6f7d03e6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3726d3f8-a83b-4a4d-8468-d12a6f7d03e6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3726d3f8-a83b-4a4d-8468-d12a6f7d03e6
 - text: Caplan examined typography, printing, watermarks and terminology to assess
     provenance
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -229,7 +229,7 @@ references:
     the terminology used, the corroboration from other diaries.
   claim_id: 6390decf-8320-4706-a1f1-7c6077936208
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6390decf-8320-4706-a1f1-7c6077936208
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6390decf-8320-4706-a1f1-7c6077936208
 - text: Caplan finds the documents corroborate unreleased Truman, Forrestal and Eisenhower
     diaries
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -240,7 +240,7 @@ references:
     reflected in the diaries of not just the president, but Forrestal, Eisenhower.
   claim_id: a5149600-7099-45f0-8d34-3063aaa21202
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a5149600-7099-45f0-8d34-3063aaa21202
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a5149600-7099-45f0-8d34-3063aaa21202
 - text: Caplan examined the AEC head's diaries and found they corroborate the documents
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -249,7 +249,7 @@ references:
     it just does knit together.
   claim_id: 19775d2f-267b-4e4d-a0e8-8ddc3db6728f
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-19775d2f-267b-4e4d-a0e8-8ddc3db6728f
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-19775d2f-267b-4e4d-a0e8-8ddc3db6728f
 - text: Caplan discounts the counterintelligence-operation theory, believing most
     documents genuine
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -261,7 +261,7 @@ references:
     most of them are genuine.
   claim_id: 61df0162-9a13-492d-a7e5-9b701aeebb6b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-61df0162-9a13-492d-a7e5-9b701aeebb6b
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-61df0162-9a13-492d-a7e5-9b701aeebb6b
 - text: Coulthart notes debunkers claim Angleton fabricated the documents to disinform
     the Soviets
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -273,7 +273,7 @@ references:
     that the Americans had recovered alien technology.
   claim_id: cd056241-5326-441e-9404-805e25fe6587
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cd056241-5326-441e-9404-805e25fe6587
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cd056241-5326-441e-9404-805e25fe6587
 - text: Coulthart rejects the Angleton theory given the volume and detail required
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -284,7 +284,7 @@ references:
     events.
   claim_id: 239fd850-1362-4992-acca-a5125ed678b7
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-239fd850-1362-4992-acca-a5125ed678b7
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-239fd850-1362-4992-acca-a5125ed678b7
 - text: One document notes the president was at Blair House because the White House
     was being rebuilt
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -295,7 +295,7 @@ references:
     that was a very important detail
   claim_id: 8b02eac6-5016-452e-90e7-0a668cdb46f6
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
 - text: Caplan considers it extremely unlikely Forrestal did not tell Tizard about
     MJ-12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -306,7 +306,7 @@ references:
     and the biologics that went with it.
   claim_id: 8594dfb6-9815-432b-8028-5da1fb24d230
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8594dfb6-9815-432b-8028-5da1fb24d230
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8594dfb6-9815-432b-8028-5da1fb24d230
 - text: Coulthart considers it extremely unlikely Forrestal and Bush did not brief
     Tizard on MJ-12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -316,7 +316,7 @@ references:
     on Majestic.
   claim_id: 0ea2729a-2d49-4a4f-a596-8611751f2583
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0ea2729a-2d49-4a4f-a596-8611751f2583
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0ea2729a-2d49-4a4f-a596-8611751f2583
 - text: Caplan believes Forrestal impressed the need for secrecy on Tizard
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -327,7 +327,7 @@ references:
     own personal use.
   claim_id: 58d3a3c3-b27f-44ae-847a-02668490d75c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-58d3a3c3-b27f-44ae-847a-02668490d75c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-58d3a3c3-b27f-44ae-847a-02668490d75c
 - text: Caplan concludes Majestic 12 existed and the documents are genuine
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -335,7 +335,7 @@ references:
   quote: i conclude that a majestic 12 existed and that the documents are real
   claim_id: bafae81d-94cd-4653-800e-d23672e3f931
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bafae81d-94cd-4653-800e-d23672e3f931
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bafae81d-94cd-4653-800e-d23672e3f931
 - text: Coulthart considers the files authentic beyond doubt
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -343,7 +343,7 @@ references:
   quote: I mean, no doubt whatsoever that they are authentic.
   claim_id: 042b5b1a-8907-4e58-ba7e-1bc3bc506823
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
 - text: Coulthart is not fully convinced some subsequent documents were not planted
     disinformation
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -354,7 +354,7 @@ references:
     documents.
   claim_id: c4744730-9b9e-4c60-95d7-99a0d16364f0
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c4744730-9b9e-4c60-95d7-99a0d16364f0
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c4744730-9b9e-4c60-95d7-99a0d16364f0
 - text: Caplan considers it likely the agreement Truman referenced at Blair House
     relates to MJ-12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -364,7 +364,7 @@ references:
     that it's something to do, I would say, with Majestic 12.
   claim_id: 1285567e-077c-478b-8462-43ca6e3d32d9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1285567e-077c-478b-8462-43ca6e3d32d9
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1285567e-077c-478b-8462-43ca6e3d32d9
 - text: Many classic MJ-12 documents came via Timothy Cooper, a US Marine Corps veteran
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -373,7 +373,7 @@ references:
     Timothy Cooper, who was a US Marine Corps veteran
   claim_id: 643dc633-2176-4925-bc46-fc0083e27abc
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-643dc633-2176-4925-bc46-fc0083e27abc
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-643dc633-2176-4925-bc46-fc0083e27abc
 - text: Caplan obtained new documents held by Ryan Wood, keeper of the MJ-12 archive
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -382,7 +382,7 @@ references:
     one of the keepers of the MJ-12 archive.
   claim_id: 2bbc318f-bf29-4d93-91c6-659b5dfaa803
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2bbc318f-bf29-4d93-91c6-659b5dfaa803
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2bbc318f-bf29-4d93-91c6-659b5dfaa803
 - text: Caplan met Wood and asked whether Cooper had handed over all the documents
     to his father
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -394,7 +394,7 @@ references:
     visited him and obtained the original tranche.
   claim_id: 257ab5fd-3aac-41a6-ae11-50eee1a68cc4
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-257ab5fd-3aac-41a6-ae11-50eee1a68cc4
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-257ab5fd-3aac-41a6-ae11-50eee1a68cc4
 - text: One new document concerns the Blair House meeting, part of an annex to an
     MJ-12 report
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -404,7 +404,7 @@ references:
     July, 1949, which is part of an annex to a Majestic 12 report.
   claim_id: 4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
 - text: Another part of the annex, paragraphs nine onwards, was already disclosed
     before the new pages
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -415,7 +415,7 @@ references:
     been disclosed.
   claim_id: fa34eeb0-2d3c-405c-946c-ca8dd20a35b5
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-fa34eeb0-2d3c-405c-946c-ca8dd20a35b5
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-fa34eeb0-2d3c-405c-946c-ca8dd20a35b5
 - text: The newly disclosed page discusses Truman wanting to share MJ-12 material
     with US allies
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -425,7 +425,7 @@ references:
     Majestic material with his allies.
   claim_id: 40019184-f387-46c9-9b18-655431c70861
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-40019184-f387-46c9-9b18-655431c70861
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-40019184-f387-46c9-9b18-655431c70861
 - text: The documents were not handed over previously, largely down to what Cooper
     was prepared to give
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -435,7 +435,7 @@ references:
     what Tim Cooper was prepared to give them. And some of the material was left behind.
   claim_id: 6c0fe1ba-e503-4c4c-bad8-375351807738
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6c0fe1ba-e503-4c4c-bad8-375351807738
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6c0fe1ba-e503-4c4c-bad8-375351807738
 - text: Caplan found one or two forged typescript documents among the material
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -445,7 +445,7 @@ references:
     disclosed amongst the Majestic 12 material, which I do believe were forged.
   claim_id: 1febbff0-86a0-4ad3-b3d7-2102bab1d910
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1febbff0-86a0-4ad3-b3d7-2102bab1d910
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1febbff0-86a0-4ad3-b3d7-2102bab1d910
 - text: A forged document, 'Truman and Congress', purports to show Truman testifying
     to Congress in 1963/64
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -457,7 +457,7 @@ references:
     various answers.
   claim_id: a38f38d0-3468-4af9-9d3a-b48bdfe1d776
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a38f38d0-3468-4af9-9d3a-b48bdfe1d776
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a38f38d0-3468-4af9-9d3a-b48bdfe1d776
 - text: The quantity and detail of the documents, much now confirmable, argues against
     forgery
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -467,7 +467,7 @@ references:
     can now be confirmed in many respects,
   claim_id: 0fb49ba3-1cc3-40cb-be7d-4bf80140a924
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0fb49ba3-1cc3-40cb-be7d-4bf80140a924
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0fb49ba3-1cc3-40cb-be7d-4bf80140a924
 - text: Some documents are routine letters bearing an MJ-12 stamp with no counterintelligence
     benefit
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -481,7 +481,7 @@ references:
     detail is impressive
   claim_id: a793d03a-2e88-4905-83aa-7499febb1213
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a793d03a-2e88-4905-83aa-7499febb1213
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a793d03a-2e88-4905-83aa-7499febb1213
 - text: Caplan considers the documents confirmed by access to now-available public
     records
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -491,7 +491,7 @@ references:
     are now available.
   claim_id: 842345c9-7901-4f0d-822a-5ac52614ca40
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-842345c9-7901-4f0d-822a-5ac52614ca40
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-842345c9-7901-4f0d-822a-5ac52614ca40
 - text: Photographs marked 'MJ-12' on the back depict scientists, many identified
     as Paperclip scientists
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -502,7 +502,7 @@ references:
     who um we know from other sources um have worked for MJ-12
   claim_id: a758c253-d5e5-46b7-b0a5-8db3a1382ff6
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a758c253-d5e5-46b7-b0a5-8db3a1382ff6
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a758c253-d5e5-46b7-b0a5-8db3a1382ff6
 - text: Von Neumann, Szilard and Teller are among the scientists identified in the
     photographs
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -511,7 +511,7 @@ references:
   quote: And those are people like John von Neumann, zillard edward teller
   claim_id: 52065f11-a138-497b-b939-291b44efe605
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-52065f11-a138-497b-b939-291b44efe605
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-52065f11-a138-497b-b939-291b44efe605
 - text: Walker told other ufologists that von Neumann was working at Majestic 12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -521,7 +521,7 @@ references:
     neumann actually was working at MJ-12
   claim_id: 38a59bb5-2d96-45a4-b096-bc46da9362fb
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-38a59bb5-2d96-45a4-b096-bc46da9362fb
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-38a59bb5-2d96-45a4-b096-bc46da9362fb
 - text: Walker confirmed he himself had worked at Majestic 12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -529,7 +529,7 @@ references:
   quote: and eric walker confirms he had worked at MJ-12
   claim_id: 03f28903-1ceb-478e-a865-1419865b5c0f
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-03f28903-1ceb-478e-a865-1419865b5c0f
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-03f28903-1ceb-478e-a865-1419865b5c0f
 - text: Others working on MJ-12 projects have confirmed von Neumann's involvement
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -538,7 +538,7 @@ references:
     these projects that van Neumann was working on MJ-12 projects.
   claim_id: 126ee8b8-b090-4ce6-8175-2087c8e88d1a
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-126ee8b8-b090-4ce6-8175-2087c8e88d1a
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-126ee8b8-b090-4ce6-8175-2087c8e88d1a
 - text: James Lay appears as consulted over Roswell and supporting MJ-12's establishment
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -548,7 +548,7 @@ references:
     of MJ-12 as a separate intelligence unit.
   claim_id: 4be3669e-f8a4-4386-8af7-37de03f143ad
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4be3669e-f8a4-4386-8af7-37de03f143ad
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4be3669e-f8a4-4386-8af7-37de03f143ad
 - text: Wilson and Miller talked privately for two hours about UFOs, MJ-12 and Roswell
     after the 1997 briefing
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -557,7 +557,7 @@ references:
     Roswell, crashed UFOs/alien bodies, etc.
   claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-fc4bd834-e0b6-4596-b0df-d2d4f30718d7
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-fc4bd834-e0b6-4596-b0df-d2d4f30718d7
 - text: Wilson told a programme manager he had read their record and asked about MJ-12
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:15027-15306
@@ -567,7 +567,7 @@ references:
     code relating to crashed/recovered UFO craft.'
   claim_id: 3622f20f-80b7-469a-a23a-d0f44d75ecbc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3622f20f-80b7-469a-a23a-d0f44d75ecbc
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3622f20f-80b7-469a-a23a-d0f44d75ecbc
 - text: Wilson called Miller in June 1997 and confirmed a Majestic 12-like organisation
     exists
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -576,7 +576,7 @@ references:
     right - there is such an organization in existence.
   claim_id: 7e453fb5-de9c-4569-8caf-e3413a2627ce
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7e453fb5-de9c-4569-8caf-e3413a2627ce
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7e453fb5-de9c-4569-8caf-e3413a2627ce
 - text: Wilson described a Shannon-Miller discussion touching on a Boston Globe story
     and an MJ-12-like cabal
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -585,7 +585,7 @@ references:
     craft/bodies, etc. MJ-12 like UFO organization (or cabal).'
   claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
 - text: 'Coulthart''s understanding: senior public servants are briefed on MJ-12 matters,
     rarely elected politicians'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -596,7 +596,7 @@ references:
     rare for politicians to be briefed in
   claim_id: bcb3d3fe-16c2-48f3-bb09-b1bf06a65125
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bcb3d3fe-16c2-48f3-bb09-b1bf06a65125
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bcb3d3fe-16c2-48f3-bb09-b1bf06a65125
 - text: The Lancer document was among those leaked as part of the MJ-12 trove
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -604,7 +604,7 @@ references:
   quote: this is one of the documents which was leaked amongst the Majestic 12 Trove
   claim_id: 6995a0ea-cd28-4248-9aed-0087b1cfaeb5
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6995a0ea-cd28-4248-9aed-0087b1cfaeb5
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6995a0ea-cd28-4248-9aed-0087b1cfaeb5
 - text: The officer who disclosed the Lancer document said it tied the CIA to Kennedy's
     assassination
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -615,7 +615,7 @@ references:
     assassination
   claim_id: 6a18a0c7-8a74-4423-9d10-b755dd58715b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6a18a0c7-8a74-4423-9d10-b755dd58715b
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6a18a0c7-8a74-4423-9d10-b755dd58715b
 - text: Coulthart describes the Lancer document as an overt intention by MJ-12 members
     to murder Kennedy
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -625,7 +625,7 @@ references:
     the alleged MJ-12 to murder the President of the United States.
   claim_id: 874e3700-3314-4ba5-9037-1551ab106f3d
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-874e3700-3314-4ba5-9037-1551ab106f3d
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-874e3700-3314-4ba5-9037-1551ab106f3d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

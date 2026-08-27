@@ -41,7 +41,7 @@ references:
   quote: In his back seat was Commander Jim Slaight, call sign “Clean.”
   claim_id: 607d0bc7-7e07-4adc-82fb-8e1d585cf985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
 - text: Slaight was known as the "warheads on foreheads" guy for his bombing precision
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -50,7 +50,7 @@ references:
     on foreheads” guy, due to the precision with which he dropped his bombs.
   claim_id: 56107243-7475-4c25-b9a2-10a2bc620c3d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-56107243-7475-4c25-b9a2-10a2bc620c3d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-56107243-7475-4c25-b9a2-10a2bc620c3d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-56107243-7475-4c25-b9a2-10a2bc620c3d
 - text: Slaight saw the giant Tic Tac craft from above during the encounter
   source: In Plain Sight
@@ -59,7 +59,7 @@ references:
     systems officer in the second jet, also saw the giant Tic Tac.
   claim_id: 6958bbd3-a28a-4859-950d-285a3717a3f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6958bbd3-a28a-4859-950d-285a3717a3f5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6958bbd3-a28a-4859-950d-285a3717a3f5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6958bbd3-a28a-4859-950d-285a3717a3f5
 - text: All four pilots noticed the object darting over the whitecaps about 15 metres
     above the water
@@ -69,7 +69,7 @@ references:
     object darted back and forth over the whitecaps, about 50 feet above the water.
   claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
 - text: Fravor said the object vanished over the horizon in a split second as they
     closed on it
@@ -80,7 +80,7 @@ references:
     like this type of performance.
   claim_id: f23f7b44-d60f-491b-86a5-ce473c1580a3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f23f7b44-d60f-491b-86a5-ce473c1580a3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f23f7b44-d60f-491b-86a5-ce473c1580a3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f23f7b44-d60f-491b-86a5-ce473c1580a3
 - text: Slaight described the craft as having defined edges with a fuzzy-looking border
   source: In Plain Sight
@@ -89,7 +89,7 @@ references:
     around it.
   claim_id: c3759359-ca32-42ba-ba64-4a70eb110d76
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3759359-ca32-42ba-ba64-4a70eb110d76
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3759359-ca32-42ba-ba64-4a70eb110d76
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3759359-ca32-42ba-ba64-4a70eb110d76
 - text: Slaight likened the border to heat haze off a road, comparable to viewing
     a carrier deck in the Persian Gulf
@@ -100,7 +100,7 @@ references:
     Gulf in the Middle East,'' he recalls.'
   claim_id: 5086cb36-23de-48cc-a224-afa445d616fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5086cb36-23de-48cc-a224-afa445d616fe
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5086cb36-23de-48cc-a224-afa445d616fe
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5086cb36-23de-48cc-a224-afa445d616fe
 - text: Slaight watched the craft circle Fravor's jet, then stop, hover, and shoot
     off
@@ -110,7 +110,7 @@ references:
     It stopped and, after hovering for a couple of seconds, it shot off.
   claim_id: be25f452-d5bc-4039-9f1a-1db0447e86a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be25f452-d5bc-4039-9f1a-1db0447e86a7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be25f452-d5bc-4039-9f1a-1db0447e86a7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-be25f452-d5bc-4039-9f1a-1db0447e86a7
 - text: Slaight said the craft rifled out of sight instantly, with no gradual acceleration
   source: In Plain Sight
@@ -122,7 +122,7 @@ references:
     kind of acceleration.'''
   claim_id: 3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
 - text: Slaight and his pilot initially suspected a submarine, later ruled out by
     the Nimitz's intelligence officer
@@ -133,7 +133,7 @@ references:
     was later ruled out by the Nimitz's intelligence officer in a post-flight debriefing.
   claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72f28544-5245-4b89-8c2d-39d957b86719
 - text: The Tic Tac reached the F/A-18s' combat air patrol point, sixty miles away,
     within seconds
@@ -145,7 +145,7 @@ references:
     and Slaight in the dust.
   claim_id: 1168a439-1821-464b-85ff-79e98f8cc9d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1168a439-1821-464b-85ff-79e98f8cc9d3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1168a439-1821-464b-85ff-79e98f8cc9d3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1168a439-1821-464b-85ff-79e98f8cc9d3
 - text: Both Chad Underwood and Fravor/Slaight reported the craft's instant disappearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -154,7 +154,7 @@ references:
     horizon in an instant.
   claim_id: 3f811714-a60f-4724-b9fb-00bc7504d1ce
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce
 built_by:
   model: claude-sonnet-5

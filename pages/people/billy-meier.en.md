@@ -322,7 +322,7 @@ references:
     to analyze the purported UFO photographs of infamous “contactee” Billy Meier.
   claim_id: 402e2e1d-33ff-4d23-ac2c-049adbdf2751
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-402e2e1d-33ff-4d23-ac2c-049adbdf2751
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-402e2e1d-33ff-4d23-ac2c-049adbdf2751
 - text: Malin, then an associate professor at Arizona State University, concluded
     the photographs were not fakes
   source: Dark Mission
@@ -331,7 +331,7 @@ references:
     had concluded that Meier’s controversial photographs were not fakes.
   claim_id: 642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
 - text: Malin considers the photographs credible, describing them as good photographs
   source: Dark Mission
   location: ch10:17713-17804
@@ -339,7 +339,7 @@ references:
     commented at the time.
   claim_id: 2477cdde-2fa4-4ef4-aac8-38864d7f2ece
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2477cdde-2fa4-4ef4-aac8-38864d7f2ece
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2477cdde-2fa4-4ef4-aac8-38864d7f2ece
 - text: The photo investigation was organised by Wendelle Stevens, a retired US Air
     Force lieutenant colonel
   source: Dark Mission
@@ -348,7 +348,7 @@ references:
     Wendelle Stevens (Lt. Col., USAF, ret.) and also focused on similar prime cases.
   claim_id: 21fcb7a3-4df6-45b2-bcff-867227f09a09
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-21fcb7a3-4df6-45b2-bcff-867227f09a09
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-21fcb7a3-4df6-45b2-bcff-867227f09a09
 - text: All scientists selected for the Meier photo testing signed non-disclosure
     agreements
   source: Dark Mission
@@ -359,7 +359,7 @@ references:
     they’d taken part).
   claim_id: 62c7b626-c9e9-48a9-b5ec-42b85b5be374
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62c7b626-c9e9-48a9-b5ec-42b85b5be374
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62c7b626-c9e9-48a9-b5ec-42b85b5be374
 - text: Jim Dilettoso visited Bob Nathan at JPL with four purportedly legitimate photographs
     and two controls
   source: Dark Mission
@@ -369,7 +369,7 @@ references:
     Nathan that steered him to Malin.
   claim_id: 05982aee-87cd-4a45-b5ee-b78356a3ec88
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-05982aee-87cd-4a45-b5ee-b78356a3ec88
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-05982aee-87cd-4a45-b5ee-b78356a3ec88
 - text: Around 1980, Stevens and Dilettoso brought the same photographs to Malin's
     laboratory at ASU
   source: Dark Mission
@@ -378,7 +378,7 @@ references:
     same four Meier photos and two controls that they had taken to everyone else.
   claim_id: d6c95b1c-658f-4b58-bfa7-7e923219806b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6c95b1c-658f-4b58-bfa7-7e923219806b
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6c95b1c-658f-4b58-bfa7-7e923219806b
 - text: Malin digitised the photographs and performed preliminary analysis, continuing
     study in following weeks
   source: Dark Mission
@@ -387,7 +387,7 @@ references:
     and did further study in the weeks following.
   claim_id: b375cb71-bcae-4345-b190-5a8167882f3d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b375cb71-bcae-4345-b190-5a8167882f3d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b375cb71-bcae-4345-b190-5a8167882f3d
 - text: Malin told Dilettoso he had spent considerable time examining the photographs
   source: Dark Mission
   location: ch10:21110-21193
@@ -395,7 +395,7 @@ references:
     with the photographs.
   claim_id: 9897677b-2518-4774-b152-a8903e8b5934
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9897677b-2518-4774-b152-a8903e8b5934
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9897677b-2518-4774-b152-a8903e8b5934
 - text: Malin found no evidence of superimposition ("dubbing") in the photographs
     he examined
   source: Dark Mission
@@ -404,14 +404,14 @@ references:
     as he called it.
   claim_id: 56a3a469-42a6-425a-aabe-715d8c916d74
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56a3a469-42a6-425a-aabe-715d8c916d74
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56a3a469-42a6-425a-aabe-715d8c916d74
 - text: Malin gave no written report, as none had been requested
   source: Dark Mission
   location: ch10:21317-21375
   quote: He gave them no written report, as they had not asked for one.
   claim_id: 8310b2d0-e8f3-4ce8-abd9-c26b98f0b41a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8310b2d0-e8f3-4ce8-abd9-c26b98f0b41a
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8310b2d0-e8f3-4ce8-abd9-c26b98f0b41a
 - text: Stevens and Dilettoso never retrieved or erased the digitised images from
     Malin's system
   source: Dark Mission
@@ -421,7 +421,7 @@ references:
     and pass them around to his colleagues, which they assumed that he did.
   claim_id: c2b6f4cd-d172-4b95-95bf-440b0a0cb699
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2b6f4cd-d172-4b95-95bf-440b0a0cb699
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2b6f4cd-d172-4b95-95bf-440b0a0cb699
 - text: Malin told Gary Kinder he found no evidence of a hoax but was not convinced
     the objects were extraterrestrial spacecraft
   source: Dark Mission
@@ -431,7 +431,7 @@ references:
     spacecraft.
   claim_id: 4b736099-97c9-4f0e-a982-ae9f3b37ec50
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4b736099-97c9-4f0e-a982-ae9f3b37ec50
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4b736099-97c9-4f0e-a982-ae9f3b37ec50
 - text: Malin reserved judgement on the more spectacular aspects of the story
   source: Dark Mission
   location: ch10:23629-23849
@@ -440,7 +440,7 @@ references:
     willing to consider unusual or even bizarre claims like Meier’s.
   claim_id: 86d08f0d-dd96-42d9-a9e5-51d86cf3eaea
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86d08f0d-dd96-42d9-a9e5-51d86cf3eaea
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86d08f0d-dd96-42d9-a9e5-51d86cf3eaea
 - text: Meier had his arm ripped off and teeth smashed, and was delirious for 30 days
     after amputation without anaesthetic
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -450,7 +450,7 @@ references:
     of your arm without anesthetic.
   claim_id: 7b93baa3-32e8-4b46-b233-fa90c7810dc3
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-7b93baa3-32e8-4b46-b233-fa90c7810dc3
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-7b93baa3-32e8-4b46-b233-fa90c7810dc3
 - text: Until about age 16, Meier claims to have been tutored by Sfath, said to be
     around 900 years old
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -460,21 +460,21 @@ references:
     age.
   claim_id: c09ee344-2051-44fe-aa15-03b3b6c54d8d
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c09ee344-2051-44fe-aa15-03b3b6c54d8d
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c09ee344-2051-44fe-aa15-03b3b6c54d8d
 - text: Meier is claimed to have taken approximately 1,200 authenticated UFO photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:00:47.9-00:01:00.7
   quote: if this man has indeed taken 1,200 or so UFO photos... And they've been authenticated.
   claim_id: 9f27de13-dc82-4670-bb4a-3b176f5793ab
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f27de13-dc82-4670-bb4a-3b176f5793ab
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f27de13-dc82-4670-bb4a-3b176f5793ab
 - text: Meier has said the meaning of life is the evolution of consciousness
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:01:51.2-00:01:58.9
   quote: And Billy has said the meaning of life is the evolution of consciousness.
   claim_id: 767a0a03-ae03-45ed-9fd1-af5397eecc1d
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-767a0a03-ae03-45ed-9fd1-af5397eecc1d
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-767a0a03-ae03-45ed-9fd1-af5397eecc1d
 - text: Bob Lazar and Billy Meier are two of the most contentious names in the UFO
     field
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -483,7 +483,7 @@ references:
     start feuding. And two of those names are Bob Lazar and Billy Meier.
   claim_id: 48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
 - text: The 'I Want to Believe' poster in The X-Files is a cropped version of a Meier
     photo
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -493,7 +493,7 @@ references:
     the cropped version of a Billy Meier photo.
   claim_id: 81f6f416-9fcc-4d17-be98-00e770a7fc09
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-81f6f416-9fcc-4d17-be98-00e770a7fc09
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-81f6f416-9fcc-4d17-be98-00e770a7fc09
 - text: Meier claims that since age five he has met with beings from another star
     system who tutored him
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -503,7 +503,7 @@ references:
     tutored him from that age
   claim_id: ca5cacdd-513f-4abd-bfd9-491d2f7035ac
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-ca5cacdd-513f-4abd-bfd9-491d2f7035ac
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-ca5cacdd-513f-4abd-bfd9-491d2f7035ac
 - text: Horn has made about 22 trips to Switzerland to meet with Meier
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:06:49.2-00:07:20.0
@@ -512,7 +512,7 @@ references:
     it's an hour and a half
   claim_id: 1eabedf8-0efe-42f2-b3ca-76000fbd2ca8
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1eabedf8-0efe-42f2-b3ca-76000fbd2ca8
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1eabedf8-0efe-42f2-b3ca-76000fbd2ca8
 - text: Threats and attempts on Meier's life have totalled 28
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:07:55.5-00:08:02.6
@@ -520,7 +520,7 @@ references:
     28 by now.
   claim_id: 313a24aa-f330-45a2-ab6f-4f610515626c
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-313a24aa-f330-45a2-ab6f-4f610515626c
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-313a24aa-f330-45a2-ab6f-4f610515626c
 - text: Meier has published tens of thousands of pages of contact notes and information
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:08:31.5-00:08:44.6
@@ -528,7 +528,7 @@ references:
     so far.
   claim_id: 022d4226-93c6-42d5-beb9-4e5c00f5e71c
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-022d4226-93c6-42d5-beb9-4e5c00f5e71c
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-022d4226-93c6-42d5-beb9-4e5c00f5e71c
 - text: Meier's published content dates back to 1946, when he was around nine
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:09:37.0-00:09:47.7
@@ -536,7 +536,7 @@ references:
     and was publishing information, disseminating it.
   claim_id: 30504a0d-bfa3-4665-bfdb-8ab342459d4b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-30504a0d-bfa3-4665-bfdb-8ab342459d4b
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-30504a0d-bfa3-4665-bfdb-8ab342459d4b
 - text: Eight of Meier's films remain; others disappeared and are understood to have
     been stolen
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -545,7 +545,7 @@ references:
     is what we understand.
   claim_id: b98f9f31-e410-4a67-b9a4-7e63574e7018
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b98f9f31-e410-4a67-b9a4-7e63574e7018
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b98f9f31-e410-4a67-b9a4-7e63574e7018
 - text: Meier turned over metal samples and sound recordings for analysis, the recordings
     made before 15-20 eyewitnesses
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -554,7 +554,7 @@ references:
     field with, you know, 15, 20 eyewitnesses.
   claim_id: 257aaced-f37d-4ca6-92e5-7921317d3e57
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-257aaced-f37d-4ca6-92e5-7921317d3e57
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-257aaced-f37d-4ca6-92e5-7921317d3e57
 - text: In total, Meier is claimed to have taken approximately 1,200 photographs,
     eight surviving films and a video
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -563,7 +563,7 @@ references:
     a video
   claim_id: 1d72373f-aac0-4053-96a5-a65227b95c4e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1d72373f-aac0-4053-96a5-a65227b95c4e
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1d72373f-aac0-4053-96a5-a65227b95c4e
 - text: Investigators including Wendell Stevens had a model of one of the craft built
     at MGM studios in Hollywood to test for hoaxing
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -573,7 +573,7 @@ references:
     studios in hollywood of one of the craft
   claim_id: 70cb077a-6439-478f-9ad8-80f9c4bc2c53
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-70cb077a-6439-478f-9ad8-80f9c4bc2c53
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-70cb077a-6439-478f-9ad8-80f9c4bc2c53
 - text: In 1964 Meier was a vagabond wandering around India with a knapsack
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:50:32.1-00:50:40.6
@@ -581,7 +581,7 @@ references:
     with a knapsack
   claim_id: 0abdc341-102f-4bd9-ab2c-816fa822888a
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-0abdc341-102f-4bd9-ab2c-816fa822888a
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-0abdc341-102f-4bd9-ab2c-816fa822888a
 - text: In 1964 Meier was interviewed by an Indian newspaper journalist who looked
     through an album of 80 UFO photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -591,7 +591,7 @@ references:
     in 1964.
   claim_id: f4293752-dad7-4f92-89eb-80db00019553
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f4293752-dad7-4f92-89eb-80db00019553
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f4293752-dad7-4f92-89eb-80db00019553
 - text: Meier took his 1964 photographs with an early Kodak box camera, of relatively
     primitive 1940s technology
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -601,7 +601,7 @@ references:
     of a Kodak.
   claim_id: 6ca002ae-d729-4246-a3de-d46a774748fd
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6ca002ae-d729-4246-a3de-d46a774748fd
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6ca002ae-d729-4246-a3de-d46a774748fd
 - text: Asket was Meier's second alleged contact person
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:52:59.9-00:53:08.7
@@ -609,7 +609,7 @@ references:
     contact person.
   claim_id: 57c8fcd8-904c-43f4-8177-d1f99d748830
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-57c8fcd8-904c-43f4-8177-d1f99d748830
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-57c8fcd8-904c-43f4-8177-d1f99d748830
 - text: The term 'Pleiadian' was invented by Meier and the beings and later given
     up
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -620,7 +620,7 @@ references:
     that would come forward claiming to be contactees
   claim_id: fa0b4ade-420e-4fbb-be68-98a85440120d
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-fa0b4ade-420e-4fbb-be68-98a85440120d
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-fa0b4ade-420e-4fbb-be68-98a85440120d
 - text: Meier and his first wife were married for 30 years before divorcing
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:56:34.6-00:56:44.7
@@ -628,14 +628,14 @@ references:
     and then they got divorced
   claim_id: 6de46678-602c-47de-be49-1afbbdd45370
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6de46678-602c-47de-be49-1afbbdd45370
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6de46678-602c-47de-be49-1afbbdd45370
 - text: 'Meier has three adult children: Atlantis, Atlant and Gilgamesha'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:57:07.8-00:57:15.3
   quote: He has three adult children, Atlantis, Atlant, and Gilgamesha.
   claim_id: e765003a-4847-4a03-a941-374d95c335cb
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-e765003a-4847-4a03-a941-374d95c335cb
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-e765003a-4847-4a03-a941-374d95c335cb
 - text: Atlantis is featured in the film The Silent Revolution of Truth and is one
     of Meier's two natural sons
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -644,7 +644,7 @@ references:
     Revolution of Truth, one of Billy's two natural sons
   claim_id: a39e2acd-c8a1-461b-b745-43ad54c79ed8
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a39e2acd-c8a1-461b-b745-43ad54c79ed8
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a39e2acd-c8a1-461b-b745-43ad54c79ed8
 - text: Meier's material began getting out in Europe from 1975, before English translation
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:58:17.9-00:58:26.8
@@ -652,7 +652,7 @@ references:
     English, and people are already interested or attacking him.
   claim_id: 9729fee7-74c6-4ff5-9024-fe356a79b85c
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9729fee7-74c6-4ff5-9024-fe356a79b85c
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9729fee7-74c6-4ff5-9024-fe356a79b85c
 - text: As a teenage boy Meier ran away from Switzerland to avoid juvenile detention
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:02:38.3-01:03:18.4
@@ -661,7 +661,7 @@ references:
     to beat him with it and he'd had enough... slapped her around with it
   claim_id: dc3dde94-262c-4973-b1eb-8fa47e93d97b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-dc3dde94-262c-4973-b1eb-8fa47e93d97b
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-dc3dde94-262c-4973-b1eb-8fa47e93d97b
 - text: Meier joined the French Foreign Legion for a while, then returned to Switzerland
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:03:18.4-01:03:41.4
@@ -671,7 +671,7 @@ references:
     to Switzerland and face the music
   claim_id: a705d2d9-6fd1-4e50-948a-17aa9c8973d6
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a705d2d9-6fd1-4e50-948a-17aa9c8973d6
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a705d2d9-6fd1-4e50-948a-17aa9c8973d6
 - text: The Pleiaren, as the Befath recognised, saw Meier as an obstacle to their
     agenda and engineered attacks on his life
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -681,7 +681,7 @@ references:
     Pleiarian and uh they engineered some attacks on his life.
   claim_id: bf5581ed-eaf5-488b-a19b-535e1f5d3428
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-bf5581ed-eaf5-488b-a19b-535e1f5d3428
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-bf5581ed-eaf5-488b-a19b-535e1f5d3428
 - text: Meier published information about intelligences beneath the Giza pyramid in
     1953
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -690,7 +690,7 @@ references:
     1953.
   claim_id: 06b3d7e6-5f9e-4ebf-b90a-81ae984c4628
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-06b3d7e6-5f9e-4ebf-b90a-81ae984c4628
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-06b3d7e6-5f9e-4ebf-b90a-81ae984c4628
 - text: Meier was tutored by Sfath for 11 years, who said his next teacher would guide
     him for a further 11
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -701,7 +701,7 @@ references:
     years.
   claim_id: 77c871c0-05bc-41e0-b129-bb276d921be2
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-77c871c0-05bc-41e0-b129-bb276d921be2
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-77c871c0-05bc-41e0-b129-bb276d921be2
 - text: After Sfath passed away, Meier began hearing a woman's voice, starting his
     contact with Asket
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -710,7 +710,7 @@ references:
     a woman's voice speaking to him in his head
   claim_id: 1d3cb709-f351-4a72-a032-2f972066cb2f
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1d3cb709-f351-4a72-a032-2f972066cb2f
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1d3cb709-f351-4a72-a032-2f972066cb2f
 - text: As early as 1953 Asket gave Meier prophecies including the assassination of
     John Fitzgerald Kennedy
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -720,7 +720,7 @@ references:
     Fitzgerald Kennedy will be killed in Dallas, Texas on this day.
   claim_id: 8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
 - text: In 1987 Meier was given the Henoch Prophecies, some 300 specific predictions
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:19:16.5-01:20:05.1
@@ -728,7 +728,7 @@ references:
     300, I think, specific things.
   claim_id: fb90c280-3916-4250-9e09-b261f4bd2926
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-fb90c280-3916-4250-9e09-b261f4bd2926
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-fb90c280-3916-4250-9e09-b261f4bd2926
 - text: In 2011 Horn visited Meier to make a film featuring about 50 of the prophecies
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:22:42.1-01:22:53.3
@@ -736,7 +736,7 @@ references:
     a film where we have like 50 of these prophecies in the film.
   claim_id: 85c26a8c-aa11-46ae-9171-62fd39da47c0
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-85c26a8c-aa11-46ae-9171-62fd39da47c0
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-85c26a8c-aa11-46ae-9171-62fd39da47c0
 - text: Asket took Meier to the pyramids in Egypt, where she knew an entrance leading
     deep underground
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -746,7 +746,7 @@ references:
     walk way deep down.
   claim_id: 241ded3a-000c-4f7d-9002-61afff528c9b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-241ded3a-000c-4f7d-9002-61afff528c9b
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-241ded3a-000c-4f7d-9002-61afff528c9b
 - text: In the underground chamber, Asket said relics resembling crucifixion artefacts
     were made by the Befath, not genuine
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -757,7 +757,7 @@ references:
     they would carbon date to that period of time.
   claim_id: 9b02fe6d-e45b-43ff-98cf-b38bd899f842
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9b02fe6d-e45b-43ff-98cf-b38bd899f842
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9b02fe6d-e45b-43ff-98cf-b38bd899f842
 - text: In 1982 Meier gave a radio interview on a Swiss radio station network, before
     a later accident causing a brain injury
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -767,7 +767,7 @@ references:
     where he had a brain injury.
   claim_id: 6ff3fbd7-63ba-4743-b5a4-b65b8e79e7e5
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6ff3fbd7-63ba-4743-b5a4-b65b8e79e7e5
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6ff3fbd7-63ba-4743-b5a4-b65b8e79e7e5
 - text: Billy Meier follows a lineage of prophets and is the seventh and final person
     to deliver these messages
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -776,7 +776,7 @@ references:
     one. ... Seventh and final person.
   claim_id: be04ee1a-cdd0-4e77-9dfb-8c32f02c1582
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-be04ee1a-cdd0-4e77-9dfb-8c32f02c1582
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-be04ee1a-cdd0-4e77-9dfb-8c32f02c1582
 - text: The prophets prior to Meier in the lineage are named as Enoch, Elijah, Isaiah,
     Jeremiah, Jmmanuel and Muhammad
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -785,7 +785,7 @@ references:
     get back there. Muhammad and Billy.
   claim_id: 8977fa2b-2ec7-4793-879f-c67f354fa83d
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8977fa2b-2ec7-4793-879f-c67f354fa83d
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8977fa2b-2ec7-4793-879f-c67f354fa83d
 - text: The man crucified and falsely named Jesus Christ was, per the material, named
     Jmmanuel
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -794,7 +794,7 @@ references:
     material, the real man who was falsely named Jesus Christ.
   claim_id: c1b3309e-1c86-4c33-9793-7708670029f2
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c1b3309e-1c86-4c33-9793-7708670029f2
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c1b3309e-1c86-4c33-9793-7708670029f2
 - text: Meier, with Greek Orthodox priest Isa Rashid, dug into a hillside near Jerusalem
     that proved to be an ancient tomb
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -805,7 +805,7 @@ references:
     that he is with is named or called Isa Rashid.
   claim_id: 473eef4b-fa59-450c-a9b6-4715180f6e55
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-473eef4b-fa59-450c-a9b6-4715180f6e55
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-473eef4b-fa59-450c-a9b6-4715180f6e55
 - text: In the tomb, Meier and Rashid found resin-encrusted, animal-skin-wrapped scrolls
     written in Aramaic
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -814,7 +814,7 @@ references:
     in Aramaic.
   claim_id: a9bd323b-b2d7-42d2-9171-f1f903714136
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a9bd323b-b2d7-42d2-9171-f1f903714136
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a9bd323b-b2d7-42d2-9171-f1f903714136
 - text: As Meier could not read Aramaic, he asked Rashid to translate the scrolls
     and send the translation
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -823,7 +823,7 @@ references:
     he says, okay, you will take this and translate, please, and send me the translation.
   claim_id: f088dc28-15dd-413d-99fe-e6836f826570
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f088dc28-15dd-413d-99fe-e6836f826570
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f088dc28-15dd-413d-99fe-e6836f826570
 - text: Rashid and his family were later killed in Baghdad, ostensibly by the Mossad
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 02:05:56.0-02:06:13.1
@@ -831,7 +831,7 @@ references:
     his family have been machine gunned to death in Baghdad, ostensibly by the Mossad.
   claim_id: 3f20abef-4c80-4304-beb3-cfc120f049a5
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3f20abef-4c80-4304-beb3-cfc120f049a5
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3f20abef-4c80-4304-beb3-cfc120f049a5
 - text: Meier later found Rashid had altered parts of the text to fit his own religious
     beliefs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -841,7 +841,7 @@ references:
     were certain things in here that didn't fit with his beliefs.
   claim_id: 32c4a1c6-31fd-446f-86ff-54358c63176e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-32c4a1c6-31fd-446f-86ff-54358c63176e
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-32c4a1c6-31fd-446f-86ff-54358c63176e
 - text: Meier said the term 'spiritual teaching' was incorrect, and what is meant
     is the creation energy teaching
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -850,7 +850,7 @@ references:
     after decades says, this is an incorrect word. ... This is the creation energy.
   claim_id: 5649e634-22d3-46e0-84c7-6e621660c668
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5649e634-22d3-46e0-84c7-6e621660c668
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5649e634-22d3-46e0-84c7-6e621660c668
 - text: The creation energy teaching is one the Pleiaren access at levels humans do
     not, which Meier did not create
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -859,7 +859,7 @@ references:
     have access to and levels of it that we don't
   claim_id: 4e44e077-8fe2-49c7-b1bf-4ec6c635089a
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4e44e077-8fe2-49c7-b1bf-4ec6c635089a
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4e44e077-8fe2-49c7-b1bf-4ec6c635089a
 - text: Meier has written over 60 books, of which about a dozen are translated into
     English
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -867,7 +867,7 @@ references:
   quote: he's written over 60 books, and only maybe a dozen are translated into English.
   claim_id: b9710d03-9a0c-44e4-8d84-fa24b7239229
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b9710d03-9a0c-44e4-8d84-fa24b7239229
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b9710d03-9a0c-44e4-8d84-fa24b7239229
 - text: Meier declined a Pleiaren offer of a replacement arm, citing the risk of military
     kidnapping and dissection
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -877,7 +877,7 @@ references:
     military to kidnap my butt and start taking me apart?
   claim_id: 5fbc5501-b6d1-4b0c-845f-e7a9d58dc49d
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5fbc5501-b6d1-4b0c-845f-e7a9d58dc49d
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5fbc5501-b6d1-4b0c-845f-e7a9d58dc49d
 - text: A 1976 Meier prophecy foretold seven-foot-tall giants emerging in Peru
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 02:38:01.5-02:38:54.0
@@ -887,7 +887,7 @@ references:
     there.
   claim_id: 8c01606e-adcb-440c-a0ef-ec198551da9e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8c01606e-adcb-440c-a0ef-ec198551da9e
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8c01606e-adcb-440c-a0ef-ec198551da9e
 - text: The reported Peru giants event occurred approximately 47 years after the prophecy
     was published
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -896,7 +896,7 @@ references:
     event occurred right down to where and the size of the people.
   claim_id: 24e210ee-9057-42da-afc5-34334a2c8d5c
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-24e210ee-9057-42da-afc5-34334a2c8d5c
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-24e210ee-9057-42da-afc5-34334a2c8d5c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

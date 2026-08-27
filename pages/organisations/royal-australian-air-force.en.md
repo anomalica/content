@@ -89,7 +89,7 @@ references:
     tourists, a senior American officer at the base, and a local fireman.
   claim_id: 31403d64-2c5f-42ce-b7cf-d389cc65a573
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-31403d64-2c5f-42ce-b7cf-d389cc65a573
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-31403d64-2c5f-42ce-b7cf-d389cc65a573
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-31403d64-2c5f-42ce-b7cf-d389cc65a573
 - text: George Jones sent to investigate the 1930 Warrnambool mystery aircraft reports
   source: In Plain Sight
@@ -100,7 +100,7 @@ references:
     aircraft seen flying inland over the coast.
   claim_id: 3af62036-4203-4909-85dc-8d9ff337093e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3af62036-4203-4909-85dc-8d9ff337093e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3af62036-4203-4909-85dc-8d9ff337093e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3af62036-4203-4909-85dc-8d9ff337093e
 - text: Jones later became RAAF Chief of Air Staff, known as Air Marshal Sir George
     Jones
@@ -111,7 +111,7 @@ references:
     Jones.
   claim_id: ccc79ab6-ff17-4c86-9757-535c9a9f29f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ccc79ab6-ff17-4c86-9757-535c9a9f29f9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ccc79ab6-ff17-4c86-9757-535c9a9f29f9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ccc79ab6-ff17-4c86-9757-535c9a9f29f9
 - text: Canberra aircraft was the RAAF's first jet-propelled bomber
   source: In Plain Sight
@@ -119,7 +119,7 @@ references:
   quote: the RAAF’s first jet-propelled bomber
   claim_id: 48501b7a-97b1-498d-9739-9a7ef7e6f852
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48501b7a-97b1-498d-9739-9a7ef7e6f852
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48501b7a-97b1-498d-9739-9a7ef7e6f852
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48501b7a-97b1-498d-9739-9a7ef7e6f852
 - text: 'Sydney Baker''s 1954 Woomera sighting: object at three times the Canberra''s
     ~870 km/h speed'
@@ -130,7 +130,7 @@ references:
     at a speed he estimated to be three times the jet’s 870 kilometres an hour velocity.
   claim_id: d9a72019-9586-4128-a641-ae5235b929b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9a72019-9586-4128-a641-ae5235b929b7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9a72019-9586-4128-a641-ae5235b929b7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9a72019-9586-4128-a641-ae5235b929b7
 - text: Harry Turner obtained access to the RAAF's UAP sightings reports
   source: In Plain Sight
@@ -139,7 +139,7 @@ references:
     reports.
   claim_id: eb4ca4bc-3221-4b55-b57e-6a40774aa21f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
 - text: Turner's DAFI report concluded evidence suggested extra-terrestrial-like behaviour
   source: In Plain Sight
@@ -149,7 +149,7 @@ references:
     been observed to behave in a manner suggestive of extra-terrestrial origin.’
   claim_id: b3db168e-8883-4891-9e54-1d7f11f66f91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
 - text: Turner's 1954 classified report reached the same extra-terrestrial-suggestive
     conclusion
@@ -160,7 +160,7 @@ references:
     in a manner suggestive of extra-terrestrial origin.”
   claim_id: 78509507-01c8-4991-88ea-b725652a5e68
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78509507-01c8-4991-88ea-b725652a5e68
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78509507-01c8-4991-88ea-b725652a5e68
 - text: Turner was rebuffed over his 1954 extra-terrestrial findings
   source: In Plain Sight
   location: ch11:816-996
@@ -169,7 +169,7 @@ references:
     Air Force's intelligence branch.
   claim_id: 041eaaed-dd44-41af-94cb-bf193a63862b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-041eaaed-dd44-41af-94cb-bf193a63862b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-041eaaed-dd44-41af-94cb-bf193a63862b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-041eaaed-dd44-41af-94cb-bf193a63862b
 - text: RAAF played down Turner's hypothesis to heed its American ally
   source: In Plain Sight
@@ -178,7 +178,7 @@ references:
     play down Turner’s ‘flying saucer’ ET hypothesis.
   claim_id: 4a3b19e1-ff22-4bde-b746-a4a99d5e1176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
 - text: RAAF withdrew Turner's access to the UAP sightings files
   source: In Plain Sight
@@ -187,7 +187,7 @@ references:
     files.
   claim_id: 7d8dcfdf-3e75-4f74-853e-16f02d4d8366
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
 - text: 1967 film reportedly shot from an RAAF aircraft over Central Australia c.1965
   source: In Plain Sight
@@ -196,7 +196,7 @@ references:
     during a photo-mapping flight over Central Australia in about 1965.
   claim_id: 2586b61b-05d0-4483-9b05-c22b114c48d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2586b61b-05d0-4483-9b05-c22b114c48d2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2586b61b-05d0-4483-9b05-c22b114c48d2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2586b61b-05d0-4483-9b05-c22b114c48d2
 - text: 1966 Tully sighting involving George Pedley drew RAAF attention
   source: In Plain Sight
@@ -206,7 +206,7 @@ references:
     Pedley baffled investigators and remains unexplained.
   claim_id: 225e6811-64a1-41de-9538-3dfc0ee539dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-225e6811-64a1-41de-9538-3dfc0ee539dc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-225e6811-64a1-41de-9538-3dfc0ee539dc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-225e6811-64a1-41de-9538-3dfc0ee539dc
 - text: RAAF attributed the Tully Nests to 'Willy Willies'
   source: In Plain Sight
@@ -215,7 +215,7 @@ references:
     caused by whirling masses of tropical air known as ‘Willy Willies’.
   claim_id: 4a03ab38-46c0-414e-8f9e-fdbc0069fb29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a03ab38-46c0-414e-8f9e-fdbc0069fb29
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a03ab38-46c0-414e-8f9e-fdbc0069fb29
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a03ab38-46c0-414e-8f9e-fdbc0069fb29
 - text: Graham's Kiama sighting explained by an Nowra RAAF duty officer as a weather
     balloon
@@ -228,7 +228,7 @@ references:
     people reported seeing it as an orange light over Kiama.
   claim_id: 6e21637f-b8a4-49e2-b5ae-b7ec9ea8ae41
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
-  workbench_url: http://localhost:5173/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6e21637f-b8a4-49e2-b5ae-b7ec9ea8ae41
+  workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6e21637f-b8a4-49e2-b5ae-b7ec9ea8ae41
 - text: Bill Lynn and Moyer/Meyer independently reported an object on 1973-10-25
   source: In Plain Sight
   location: ch11:9525-9765
@@ -238,7 +238,7 @@ references:
     sky that evening.
   claim_id: 7f0a7b5f-3150-4cce-9725-0804651a848c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7f0a7b5f-3150-4cce-9725-0804651a848c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7f0a7b5f-3150-4cce-9725-0804651a848c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7f0a7b5f-3150-4cce-9725-0804651a848c
 - text: Moyer/Meyer's 'Unusual Aerial Sighting' report describes a large black object
   source: In Plain Sight
@@ -248,7 +248,7 @@ references:
     clear sky'.
   claim_id: 842a5a4f-2164-42c3-b5b0-b8296141121c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-842a5a4f-2164-42c3-b5b0-b8296141121c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-842a5a4f-2164-42c3-b5b0-b8296141121c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-842a5a4f-2164-42c3-b5b0-b8296141121c
 - text: Kate Lynn recalls her father sketching the object on his truck bonnet
   source: In Plain Sight
@@ -258,7 +258,7 @@ references:
     appears in his Royal Australian Air Force sighting report.
   claim_id: fadc1655-87bd-4aad-9a6e-1753b1aee715
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fadc1655-87bd-4aad-9a6e-1753b1aee715
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fadc1655-87bd-4aad-9a6e-1753b1aee715
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fadc1655-87bd-4aad-9a6e-1753b1aee715
 - text: Lynn's sketch appears in his RAAF sighting report
   source: In Plain Sight
@@ -266,7 +266,7 @@ references:
   quote: a sketch that appears in his Royal Australian Air Force sighting report.
   claim_id: 230bcfe9-1aa5-4324-8180-24f522226892
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-230bcfe9-1aa5-4324-8180-24f522226892
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-230bcfe9-1aa5-4324-8180-24f522226892
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-230bcfe9-1aa5-4324-8180-24f522226892
 - text: 1973 reports released to researchers by RAAF public relations, 1974-75
   source: In Plain Sight
@@ -276,7 +276,7 @@ references:
     before freedom of information laws were enacted in Australia.
   claim_id: f382a1b2-c377-4094-94d3-44220f4ce947
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f382a1b2-c377-4094-94d3-44220f4ce947
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f382a1b2-c377-4094-94d3-44220f4ce947
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f382a1b2-c377-4094-94d3-44220f4ce947
 - text: No records of the 1973 sighting in declassified 1973 RAAF records
   source: In Plain Sight
@@ -287,7 +287,7 @@ references:
     official sightings reports is not in question.
   claim_id: 6bfde33c-6f73-4189-9c51-b6892c471334
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bfde33c-6f73-4189-9c51-b6892c471334
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bfde33c-6f73-4189-9c51-b6892c471334
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6bfde33c-6f73-4189-9c51-b6892c471334
 - text: Military surprisingly incurious about the North West Cape incursion
   source: In Plain Sight
@@ -299,7 +299,7 @@ references:
     witness.
   claim_id: b13e5500-dfa5-4159-bf01-ce7a1de01691
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b13e5500-dfa5-4159-bf01-ce7a1de01691
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b13e5500-dfa5-4159-bf01-ce7a1de01691
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b13e5500-dfa5-4159-bf01-ce7a1de01691
 - text: Two RAAF reports on an incident at the US Naval Communication Station, Exmouth
   source: In Plain Sight
@@ -310,7 +310,7 @@ references:
     encounter with a triangular object in the early 1990s.
   claim_id: 60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
 - text: Bill Chalker first civilian researcher granted access to RAAF UAP files, early
     1980s
@@ -321,7 +321,7 @@ references:
     Air Force’s UAP files in the early 1980s.
   claim_id: 4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
 - text: 'Chalker: political myopia scuttled Australia''s scientific investigation
     of UFOs'
@@ -332,7 +332,7 @@ references:
     investigation of UFOs’.
   claim_id: 8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
 - text: 1987 SAS warrant officers filed sighting reports over Learmonth
   source: In Plain Sight
@@ -342,7 +342,7 @@ references:
     'Unusual Aerial Sightings' reports to the Royal Australian Air Force.
   claim_id: abec6eee-8a5b-4969-95ef-3ea6953497ff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abec6eee-8a5b-4969-95ef-3ea6953497ff
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abec6eee-8a5b-4969-95ef-3ea6953497ff
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-abec6eee-8a5b-4969-95ef-3ea6953497ff
 - text: 'Major''s statement: radios failed to raise the RAAF aircraft, only such loss
     in six days'
@@ -354,7 +354,7 @@ references:
     six days of exercises.
   claim_id: cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
 - text: RAAF pilots also saw the object and refused to report it
   source: In Plain Sight
@@ -363,7 +363,7 @@ references:
     refused to report the incident.'''
   claim_id: a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
 - text: RAAF insiders encouraged Coulthart to reconsider his views, early 1990s
   source: In Plain Sight
@@ -374,7 +374,7 @@ references:
     dismissive attitude towards unidentified objects in our skies.
   claim_id: b84575fa-3812-48dd-bacd-4d207ee24269
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b84575fa-3812-48dd-bacd-4d207ee24269
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b84575fa-3812-48dd-bacd-4d207ee24269
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b84575fa-3812-48dd-bacd-4d207ee24269
 - text: 'Coulthart: two senior RAAF officers described their own sightings'
   source: In Plain Sight
@@ -384,7 +384,7 @@ references:
     about ‘UFO’ or ‘flying saucer sightings’ they had experienced during their careers.
   claim_id: c2506a02-b2f1-4089-a40b-64cc5d4451e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2506a02-b2f1-4089-a40b-64cc5d4451e6
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2506a02-b2f1-4089-a40b-64cc5d4451e6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c2506a02-b2f1-4089-a40b-64cc5d4451e6
 - text: 'Coulthart: officer says pilots don''t report UFOs because it''s career-ending'
   source: In Plain Sight
@@ -395,7 +395,7 @@ references:
     Too many of us have seen these objects.’'
   claim_id: f02794f1-fa78-46dc-982f-fbfc2e71d004
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f02794f1-fa78-46dc-982f-fbfc2e71d004
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f02794f1-fa78-46dc-982f-fbfc2e71d004
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f02794f1-fa78-46dc-982f-fbfc2e71d004
 - text: McDonald's 1967 witnesses typically had not reported sightings to the USAF
     or RAAF
@@ -407,7 +407,7 @@ references:
     typically no.
   claim_id: 4625bd55-7d24-4e5d-8afd-539784c7d037
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4625bd55-7d24-4e5d-8afd-539784c7d037
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4625bd55-7d24-4e5d-8afd-539784c7d037
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

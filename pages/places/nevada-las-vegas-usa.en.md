@@ -64,7 +64,7 @@ references:
   quote: Mr. George Knapp, journalist from KLAS-TV in Las Vegas, Nevada
   claim_id: 9e441a3d-2bf2-46fa-b555-860f16fc39ac
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
 - text: Robert Bigelow founded Bigelow Aerospace in Las Vegas in 1998
   source: In Plain Sight
@@ -73,7 +73,7 @@ references:
     Las Vegas, Nevada.
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
 - text: Knapp began hearing accounts of crashed saucers and secret reverse-engineering
     in the Nevada desert from 1989
@@ -84,7 +84,7 @@ references:
     in secrecy in the Nevada desert
   claim_id: f8580dc8-9eb9-4534-97cc-7e2d5b938219
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f8580dc8-9eb9-4534-97cc-7e2d5b938219
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f8580dc8-9eb9-4534-97cc-7e2d5b938219
 - text: Bob Lazar's 1989 KLAS-TV interview with Knapp, claiming work on a recovered
     flying saucer at Site 4 (S-4)
   source: In Plain Sight
@@ -95,7 +95,7 @@ references:
     saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: David Fruehauf worked at Area 51 from 1979-1985, commuting from Las Vegas
     via Janet Airlines
@@ -106,7 +106,7 @@ references:
     Airlines.
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
 - text: John Lear said over a billion aliens lived in the mountains outside Las Vegas,
     per Bob Lazar
@@ -116,7 +116,7 @@ references:
     Las Vegas.
   claim_id: e86d78a6-d44d-4ad3-a561-97eb4c4c1418
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e86d78a6-d44d-4ad3-a561-97eb4c4c1418
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e86d78a6-d44d-4ad3-a561-97eb4c4c1418
 - text: Project Gravator crew filmed Lazar with a DeLorean prop near Las Vegas; crew
     stayed in a rented Airbnb
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -127,7 +127,7 @@ references:
     is a giant mansion
   claim_id: 7a1a0c5f-725e-4218-ae74-3024825fa604
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7a1a0c5f-725e-4218-ae74-3024825fa604
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-7a1a0c5f-725e-4218-ae74-3024825fa604
 - text: AATIP, working with Bigelow's Las Vegas company, produced documents describing
     high-velocity aircraft with no visible propulsion
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
@@ -138,7 +138,7 @@ references:
     means of lift.
   claim_id: 26124b69-4650-4204-b372-691609239afc
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-26124b69-4650-4204-b372-691609239afc
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-26124b69-4650-4204-b372-691609239afc
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-26124b69-4650-4204-b372-691609239afc
 - text: AAWSAP database included boots-on-the-ground investigations dispatched from
     Las Vegas by Colm Kelleher
@@ -149,7 +149,7 @@ references:
     by AAWSAP's manager in Las Vegas, Dr. Colm Kelleher.
   claim_id: d92785b3-4884-4a8d-ad45-f057737bd0b1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d92785b3-4884-4a8d-ad45-f057737bd0b1
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d92785b3-4884-4a8d-ad45-f057737bd0b1
 - text: Bigelow's DIA contract required the Las Vegas plant to store and study exotic
     materials
   source: Statement to Congress
@@ -159,7 +159,7 @@ references:
     certain exotic materials.
   claim_id: 761022c7-f81c-479f-b0c6-5c3bfec1942d
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
 - text: 'NYT reporting: Bigelow Aerospace modified Las Vegas buildings to store materials
     Elizondo and AATIP contractors said were recovered from UAP'
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
@@ -169,7 +169,7 @@ references:
     contractors said had been recovered from unidentified aerial phenomena.
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-94b6de85-512f-4359-9da1-d796a1895ec9
 - text: An alien logo is painted on the exterior of the Bigelow Aerospace building
   source: In Plain Sight
@@ -178,7 +178,7 @@ references:
     of his massive Bigelow Aerospace building in Las Vegas.
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
 - text: Puthoff told a 2018 Las Vegas conference the bismuth/magnesium samples act
     as a terahertz waveguide
@@ -189,7 +189,7 @@ references:
     electromagnetic radiation terahertz frequencies'.
   claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
 - text: A plan for Bigelow to house Lockheed Martin materials in Las Vegas never materialised
   source: 'Episode 73: Science vs. Secrecy'
@@ -197,7 +197,7 @@ references:
   quote: That was the plan, but it never materialized.
   claim_id: e4fb1fa3-936e-465d-8e40-8976d51107ff
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e4fb1fa3-936e-465d-8e40-8976d51107ff
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e4fb1fa3-936e-465d-8e40-8976d51107ff
 - text: Rich and Doug told Wilson the Las Vegas AFIO chapter needed guest speakers
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:7953-8063
@@ -205,14 +205,14 @@ references:
     venue - raise money/membership, etc.
   claim_id: cb6fb0c1-74c5-46f3-94c2-9c14acb753d5
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-cb6fb0c1-74c5-46f3-94c2-9c14acb753d5
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-cb6fb0c1-74c5-46f3-94c2-9c14acb753d5
 - text: AFIO and its Washington members now in Las Vegas vouched for Eric Davis
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:8695-8745
   quote: AFIO vouched - AFIO people/DC people now in Vegas vouched.
   claim_id: aca0f75f-7411-4220-aa8a-52e1e5bfe58b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
-  workbench_url: http://localhost:5173/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-aca0f75f-7411-4220-aa8a-52e1e5bfe58b
+  workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-aca0f75f-7411-4220-aa8a-52e1e5bfe58b
 - text: The Admiral Wilson Memo purports to detail what Wilson admitted to Davis in
     Las Vegas in 2002
   source: In Plain Sight
@@ -221,7 +221,7 @@ references:
     admitted to Eric Davis in a private meeting in Las Vegas in 2002
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
 - text: Davis's memo describes meeting Wilson on 2002-10-16 in a car in a Las Vegas
     car park
@@ -232,7 +232,7 @@ references:
     in a car parked in the carpark of a corporate office building in Las Vegas.
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
 - text: Wilson denied visiting Las Vegas in 2002 or meeting Davis
   source: In Plain Sight
@@ -241,7 +241,7 @@ references:
     Dr Eric Davis.
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
 - text: Wilson said his only time in Las Vegas was a 1979/1980 Carrier Air Wing Three
     deployment to Nellis AFB
@@ -251,7 +251,7 @@ references:
     Three deployment to Nellis Air Force Base in 1979 or 1980.
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
 built_by:
   model: claude-sonnet-5

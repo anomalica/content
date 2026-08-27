@@ -53,7 +53,7 @@ references:
     new thirty-year plan, CNN called Hoagland for an interview.
   claim_id: 970b4d3d-36db-4ef2-bf0a-d6f049179be5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-970b4d3d-36db-4ef2-bf0a-d6f049179be5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-970b4d3d-36db-4ef2-bf0a-d6f049179be5
 - text: Larry King recalled Hoagland as a great guest on his CNN show.
   source: Dark Mission
   location: ch5:1638-1798
@@ -62,7 +62,7 @@ references:
     1990’s
   claim_id: a1ab88a4-1fea-4be3-9601-145f69fb52fe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1ab88a4-1fea-4be3-9601-145f69fb52fe
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1ab88a4-1fea-4be3-9601-145f69fb52fe
 - text: Hoagland appeared live on CNN as Mars Observer's launch approached.
   source: Dark Mission
   location: ch10:33489-33591
@@ -70,7 +70,7 @@ references:
     as the spacecraft lifted off.
   claim_id: 31222b37-41e3-4ff4-8706-3eb4b8038f65
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-31222b37-41e3-4ff4-8706-3eb4b8038f65
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-31222b37-41e3-4ff4-8706-3eb4b8038f65
 - text: CNN's coverage of the missing Mars Observer story was dominated by coverage
     of a demonstration against NASA's Cydonia secrecy.
   source: Dark Mission
@@ -81,7 +81,7 @@ references:
     story” throughout the remainder of the day.
   claim_id: 68bcbd29-1396-4077-bed9-2b2466b3575f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68bcbd29-1396-4077-bed9-2b2466b3575f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68bcbd29-1396-4077-bed9-2b2466b3575f
 - text: The March 1996 National Press Club press conference was attended by at least
     sixty media members.
   source: Dark Mission
@@ -91,7 +91,7 @@ references:
     attended.
   claim_id: 9dc55615-e3fa-4f5f-ac4c-cd8ecd4486df
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9dc55615-e3fa-4f5f-ac4c-cd8ecd4486df
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9dc55615-e3fa-4f5f-ac4c-cd8ecd4486df
 - text: CNN and C-SPAN filmed the press conference but did not broadcast footage.
   source: Dark Mission
   location: ch11:139980-140075
@@ -99,14 +99,14 @@ references:
     did not broadcast any footage.
   claim_id: e254abb8-5c0e-4372-b50f-051f0e257a3e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e254abb8-5c0e-4372-b50f-051f0e257a3e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e254abb8-5c0e-4372-b50f-051f0e257a3e
 - text: John Holliman was CNN's science anchor.
   source: Dark Mission
   location: ch12:144854-144890
   quote: CNN's science anchor, the late John Holliman
   claim_id: 975def95-2dc1-4750-acac-2c14af3da3da
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-975def95-2dc1-4750-acac-2c14af3da3da
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-975def95-2dc1-4750-acac-2c14af3da3da
 - text: Ron Nicks said he observed geometric anomalies around the Mars Pathfinder
     Lander during CNN's live broadcast.
   source: Dark Mission
@@ -116,7 +116,7 @@ references:
     "anomalies" around the Lander, showing up on CNN''s live television broadcasts'
   claim_id: 47532900-ad07-4543-9b0a-a1ac8b9bf24e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-47532900-ad07-4543-9b0a-a1ac8b9bf24e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-47532900-ad07-4543-9b0a-a1ac8b9bf24e
 - text: Viewers called CNN about strangely geometric rocks seen in Pathfinder images.
   source: Dark Mission
   location: ch12:144633-144772
@@ -124,7 +124,7 @@ references:
     calling in about "the strangely geometric rocks" that they were seeing
   claim_id: eaa6a704-c564-4ebe-b14c-f751ea8b75a9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eaa6a704-c564-4ebe-b14c-f751ea8b75a9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eaa6a704-c564-4ebe-b14c-f751ea8b75a9
 - text: Discrepancies were found between live CNN Pathfinder footage and later JPL
     image releases.
   source: Dark Mission
@@ -135,7 +135,7 @@ references:
     versions of those same images released across the web by JPL
   claim_id: f422faef-dbf9-41b9-bff5-2971c1764336
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f422faef-dbf9-41b9-bff5-2971c1764336
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f422faef-dbf9-41b9-bff5-2971c1764336
 - text: Hoagland said Nicks and thousands of CNN viewers reported artifacts before
     he did.
   source: Dark Mission
@@ -145,7 +145,7 @@ references:
     not the other way around
   claim_id: 5e6ea0d1-540e-47d6-8a97-5f3c5368f5e7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5e6ea0d1-540e-47d6-8a97-5f3c5368f5e7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5e6ea0d1-540e-47d6-8a97-5f3c5368f5e7
 - text: Holliman said independent researchers needed more time to evaluate the MIPL
     image.
   source: Dark Mission
@@ -155,7 +155,7 @@ references:
     needed more time to properly evaluate the image.
   claim_id: 4879431a-8d18-4074-a6fa-6afbff98851f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4879431a-8d18-4074-a6fa-6afbff98851f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4879431a-8d18-4074-a6fa-6afbff98851f
 - text: Elizondo told CNN his team had identified anomalous aircraft with no obvious
     flight surfaces or propulsion.
   source: In Plain Sight
@@ -169,7 +169,7 @@ references:
     the laws of aerodynamics.'''
   claim_id: 59a69afa-687d-4de2-a351-0ca77a473a40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a69afa-687d-4de2-a351-0ca77a473a40
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a69afa-687d-4de2-a351-0ca77a473a40
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-59a69afa-687d-4de2-a351-0ca77a473a40
 - text: Elizondo told CNN's Erin Burnett he wanted the data to speak for itself on
     whether the objects were aliens.
@@ -183,7 +183,7 @@ references:
     he said, evasively.'
   claim_id: 04988731-ea44-4ccb-abb0-09a14e7eaf57
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-04988731-ea44-4ccb-abb0-09a14e7eaf57
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-04988731-ea44-4ccb-abb0-09a14e7eaf57
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-04988731-ea44-4ccb-abb0-09a14e7eaf57
 - text: Neil DeGrasse Tyson told CNN he was not convinced by the UAP evidence.
   source: In Plain Sight
@@ -192,7 +192,7 @@ references:
     astrophysicist Neil DeGrasse Tyson dismissively told CNN he was not convinced.
   claim_id: bce2ad04-0841-4e5a-84c9-7369f82348ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bce2ad04-0841-4e5a-84c9-7369f82348ac
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bce2ad04-0841-4e5a-84c9-7369f82348ac
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bce2ad04-0841-4e5a-84c9-7369f82348ac
 - text: Calls flooded Elizondo's home from major networks, including CNN, after December
     2017 coverage.
@@ -201,7 +201,7 @@ references:
   quote: Calls flooded our home from CBS, ABC, NBC, CNN, PBS, Fox, MSNBC, etc.
   claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e913fdc-268f-4405-adf7-41005f83a22b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e913fdc-268f-4405-adf7-41005f83a22b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1e913fdc-268f-4405-adf7-41005f83a22b
 - text: Elizondo and Jennifer were approached by James Clapper in CNN's greenroom.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -210,7 +210,7 @@ references:
     and I were approached by my old boss, the legendary general James Clapper.
   claim_id: 98903661-01f9-4138-bbcd-398b8713311e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-98903661-01f9-4138-bbcd-398b8713311e
 built_by:
   model: claude-sonnet-5

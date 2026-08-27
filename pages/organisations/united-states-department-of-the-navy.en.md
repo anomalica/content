@@ -33,7 +33,7 @@ references:
     the Under Secretary of Defense for Intelligence and Security.
   claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
 - text: Under the cognisance of the Office of the Under Secretary of Defense for Intelligence
     and Security, the Department of the Navy was asked to lead the UAP Task Force
@@ -45,7 +45,7 @@ references:
     lead the task force.
   claim_id: 9d4cb255-01b9-4cf5-8513-793eb12b53e1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d4cb255-01b9-4cf5-8513-793eb12b53e1
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d4cb255-01b9-4cf5-8513-793eb12b53e1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d4cb255-01b9-4cf5-8513-793eb12b53e1
 built_by:
   model: claude-sonnet-5

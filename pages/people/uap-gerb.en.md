@@ -87,7 +87,7 @@ references:
   quote: '[note: UAP Gerb - UAP researcher, investigator, and podcast host]'
   claim_id: f7fbdc5f-c4b1-4942-8c34-4b573779e89b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f7fbdc5f-c4b1-4942-8c34-4b573779e89b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f7fbdc5f-c4b1-4942-8c34-4b573779e89b
 - text: Jason Samosa tried to compile UAP Gerb's transcripts into one document; the
     text ran to about a thousand pages and broke Microsoft Word
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -97,14 +97,14 @@ references:
     couldn't handle it. There was like a thousand pages.
   claim_id: 9064d449-abd5-4ef2-8232-ee69a48f8350
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9064d449-abd5-4ef2-8232-ee69a48f8350
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9064d449-abd5-4ef2-8232-ee69a48f8350
 - text: UAP Gerb has led multiple letters to various FFRDCs
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:06:36.8-00:06:40.3
   quote: And Congressman, you have led multiple letters to various FFRDCs.
   claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
 - text: Legal interrogatives to MITRE, MIT Lincoln Laboratory and cabinet-level agencies
     are more effective than released documents
   source: 'Episode 73: Science vs. Secrecy'
@@ -114,7 +114,7 @@ references:
     disclosure.
   claim_id: e883e5c7-6cf9-4be4-9d96-4b5897a88054
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
 - text: Legal interrogatives are likely leading to a domino effect of further discoveries
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:07:16.1-00:07:26.5
@@ -123,7 +123,7 @@ references:
     companies, semi-private companies.
   claim_id: ef1bb1a7-30d3-43d9-9a09-0a916051fc3d
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ef1bb1a7-30d3-43d9-9a09-0a916051fc3d
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ef1bb1a7-30d3-43d9-9a09-0a916051fc3d
 - text: Expects difficulty obtaining UAP-related records held by the DOE
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:07:37.5-00:07:41.3
@@ -131,7 +131,7 @@ references:
     records.
   claim_id: 4effa719-7b2a-4c7e-b7d2-20e3975187aa
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-4effa719-7b2a-4c7e-b7d2-20e3975187aa
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-4effa719-7b2a-4c7e-b7d2-20e3975187aa
 - text: DOE uses a statutory-authority classification system, distinct from the DOD's
     executive-order-based system
   source: 'Episode 73: Science vs. Secrecy'
@@ -142,7 +142,7 @@ references:
     order based classification system that exists within the DoD?
   claim_id: 1751f734-44ca-47b2-894e-d6ec10f898a6
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-1751f734-44ca-47b2-894e-d6ec10f898a6
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-1751f734-44ca-47b2-894e-d6ec10f898a6
 - text: MITRE Corporation receives 99 percent of its funding from the US government
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:55:36.5-00:55:41.5
@@ -150,7 +150,7 @@ references:
     its funding from the US government
   claim_id: 02c5167f-7f47-4c63-86d1-0f60eb78ed8b
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-02c5167f-7f47-4c63-86d1-0f60eb78ed8b
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-02c5167f-7f47-4c63-86d1-0f60eb78ed8b
 - text: Semi-private institutions like MITRE keep programmes outside direct government
     control while government retains possession
   source: 'Episode 73: Science vs. Secrecy'
@@ -160,7 +160,7 @@ references:
     of institutional knowledge even
   claim_id: 1d168b56-745a-496a-893b-d6a9c363f19f
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-1d168b56-745a-496a-893b-d6a9c363f19f
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-1d168b56-745a-496a-893b-d6a9c363f19f
 - text: Kona Blue was a DHS Prospective SAP material transfer effort
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:12:33.9-00:12:39.2
@@ -168,28 +168,28 @@ references:
     Special Access Material Transfer, correct?
   claim_id: 9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
 - text: Several attempts to divest materials to AAWSAP or Bigelow Aerospace
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:12:52.7-00:12:57.2
   quote: There were several attempts to divest materials to the AAWSAP or to BAS?
   claim_id: 21cd8e31-9e61-4a9b-b467-bf048283d04e
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-21cd8e31-9e61-4a9b-b467-bf048283d04e
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-21cd8e31-9e61-4a9b-b467-bf048283d04e
 - text: Glenn Gaffney identified as applying pressure against earlier funding efforts
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:15:18.6-00:15:21.8
   quote: Yeah, Glenn Gaffney at the DS&T, one of them.
   claim_id: e8d33f9f-6c49-4392-9e32-9f5875eaa238
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e8d33f9f-6c49-4392-9e32-9f5875eaa238
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e8d33f9f-6c49-4392-9e32-9f5875eaa238
 - text: Earlier attempt involved Lockheed Martin Space Systems Company
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:15:31.0-00:15:31.8
   quote: Lockheed Martin Space Systems.
   claim_id: 4b33cb47-c821-476b-99d0-581aa4b08029
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-4b33cb47-c821-476b-99d0-581aa4b08029
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-4b33cb47-c821-476b-99d0-581aa4b08029
 - text: Gaffney was one of the gatekeepers who stopped material transfers to AAWSAP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:38:43.5-00:38:51.1
@@ -198,7 +198,7 @@ references:
     Director.
   claim_id: 963347e7-cbc0-4c99-b621-df1949389f14
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-963347e7-cbc0-4c99-b621-df1949389f14
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-963347e7-cbc0-4c99-b621-df1949389f14
 - text: Steve Cantrell named as gatekeeper, Special Assistant to the Deputy Undersecretary
     of the Air Force
   source: 'Episode 73: Science vs. Secrecy'
@@ -207,7 +207,7 @@ references:
     Special Assistant to the Deputy Undersecretary of the Air Force.
   claim_id: cf8f2d71-7866-4004-af4f-83ff96fe4bdb
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf8f2d71-7866-4004-af4f-83ff96fe4bdb
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf8f2d71-7866-4004-af4f-83ff96fe4bdb
 - text: A legacy program existed separately from AAWSAP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:45:57.5-00:46:03.7
@@ -215,7 +215,7 @@ references:
     the legacy program, existed outside of it
   claim_id: d806ea3b-0dfd-4b52-b533-2e4784d2cf49
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d806ea3b-0dfd-4b52-b533-2e4784d2cf49
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d806ea3b-0dfd-4b52-b533-2e4784d2cf49
 - text: AAWSAP attempted to obtain materials from the legacy program through Dr Jim
     Ryder
   source: 'Episode 73: Science vs. Secrecy'
@@ -224,14 +224,14 @@ references:
     et cetera, out of the legacy program through now deceased Dr. Jim Ryder
   claim_id: cf895d3b-12b3-473f-a9be-f76872f8e324
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf895d3b-12b3-473f-a9be-f76872f8e324
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf895d3b-12b3-473f-a9be-f76872f8e324
 - text: Jim Ryder is deceased
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:46:10.7-00:46:11.8
   quote: now deceased Dr. Jim Ryder
   claim_id: 009c044d-82d8-437d-ad3d-262da4fd5bc9
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-009c044d-82d8-437d-ad3d-262da4fd5bc9
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-009c044d-82d8-437d-ad3d-262da4fd5bc9
 - text: 2010 AAWSAP report contained the Project Forum idea
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:47:45.4-00:48:05.7
@@ -241,7 +241,7 @@ references:
     them as a vehicle to push disclosure, push global awareness on the topic
   claim_id: 678bbf8f-1133-4cd7-9822-dc796af35735
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-678bbf8f-1133-4cd7-9822-dc796af35735
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-678bbf8f-1133-4cd7-9822-dc796af35735
 - text: David Grusch testified on the legacy program control group's composition
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:39:13.0-00:39:25.8
@@ -250,7 +250,7 @@ references:
     of the Air Force like we just spoke of.
   claim_id: 8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
 - text: Control group functioned as programme protection/exposure mitigation
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:39:27.0-00:39:33.6
@@ -258,7 +258,7 @@ references:
     program exposure mitigation.
   claim_id: a90a0335-d394-41a4-afc4-f2a7a6b8375c
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a90a0335-d394-41a4-afc4-f2a7a6b8375c
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a90a0335-d394-41a4-afc4-f2a7a6b8375c
 - text: Davis and Mellon said the legacy program ceased in 1989
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:57.0-00:33:04.5
@@ -266,7 +266,7 @@ references:
     and Christopher Mellon that the program was ceased in 1989 due to lack of progress?
   claim_id: 46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
 - text: Puthoff referred to one element shut down in 1989, causing confusion
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:58:00.2-00:58:11.5
@@ -276,7 +276,7 @@ references:
     was shut down
   claim_id: 46bb700e-117a-439e-aa5b-66c54ffddb88
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46bb700e-117a-439e-aa5b-66c54ffddb88
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46bb700e-117a-439e-aa5b-66c54ffddb88
 - text: Puthoff said at UAPDF he would go to jail if he revealed everything
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:08:10.9-00:08:16.0
@@ -284,7 +284,7 @@ references:
     about the subject, you would go to jail.
   claim_id: bd58ea65-f128-4f78-a4b5-215206213f26
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-bd58ea65-f128-4f78-a4b5-215206213f26
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-bd58ea65-f128-4f78-a4b5-215206213f26
 - text: Data set for Avi Loeb's council allegedly from Immaculate Constellation, established
     2017
   source: 'Episode 73: Science vs. Secrecy'
@@ -294,7 +294,7 @@ references:
     in 2017.
   claim_id: 56e2a900-5cc8-4861-b0a4-dd85ee076981
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-56e2a900-5cc8-4861-b0a4-dd85ee076981
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-56e2a900-5cc8-4861-b0a4-dd85ee076981
 - text: Immaculate Constellation believed to hold imagery and signals intelligence
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:52:00.8-00:52:18.1
@@ -304,7 +304,7 @@ references:
     our copycat vehicles of these systems
   claim_id: 39052f6b-54da-4662-b726-c6b92929b9b7
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-39052f6b-54da-4662-b726-c6b92929b9b7
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-39052f6b-54da-4662-b726-c6b92929b9b7
 - text: Data would be held within the NGA
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:52:19.0-00:52:22.0
@@ -312,7 +312,7 @@ references:
     Agency.
   claim_id: b13eaf4c-af73-4282-86b4-ccab074f524c
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b13eaf4c-af73-4282-86b4-ccab074f524c
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b13eaf4c-af73-4282-86b4-ccab074f524c
 - text: Avi Loeb said his concern would be DARPA SID and AFOSIPJ
   source: 'Episode 73: Science vs. Secrecy'
   location: 01:01:34.5-01:01:47.0
@@ -322,7 +322,7 @@ references:
     a bit of worry.
   claim_id: 7a4d67d5-fc82-4f2a-8429-5cdc86772e36
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-7a4d67d5-fc82-4f2a-8429-5cdc86772e36
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-7a4d67d5-fc82-4f2a-8429-5cdc86772e36
 - text: Allegations Lockheed Martin and Northrop Grumman ran self-funded retrieval
     activities via IRAD
   source: 'Episode 73: Science vs. Secrecy'
@@ -332,7 +332,7 @@ references:
     through independent research and development funds
   claim_id: 31626a94-6157-4424-9461-695aaaf77fc7
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-31626a94-6157-4424-9461-695aaaf77fc7
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-31626a94-6157-4424-9461-695aaaf77fc7
 - text: National laboratories described as culpable in post-WWII retrieval operations
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:56:21.0-00:56:29.2
@@ -341,7 +341,7 @@ references:
     II
   claim_id: 6e405eb9-4e1d-487b-9294-e6bb669ec1fd
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-6e405eb9-4e1d-487b-9294-e6bb669ec1fd
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-6e405eb9-4e1d-487b-9294-e6bb669ec1fd
 - text: Manhattan Project translated into a follow-on effort after WWII
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:56:29.6-00:56:33.3
@@ -349,7 +349,7 @@ references:
     the Manhattan Project 2.0
   claim_id: e87f6e51-c388-4f26-a160-f98a45842434
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e87f6e51-c388-4f26-a160-f98a45842434
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e87f6e51-c388-4f26-a160-f98a45842434
 - text: Vannevar Bush established the relationship between scientists and government
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:56:34.4-00:56:41.7
@@ -358,7 +358,7 @@ references:
     between the US government.
   claim_id: d0de81e4-2e15-4d50-b2da-05563be2e5e6
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d0de81e4-2e15-4d50-b2da-05563be2e5e6
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d0de81e4-2e15-4d50-b2da-05563be2e5e6
 - text: 1948 Truman executive orders (PEADs) relegated recovered disks to AEC National
     Lab Control
   source: 'Episode 73: Science vs. Secrecy'
@@ -372,14 +372,14 @@ references:
     Board
   claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-aba985af-7ac6-4601-8b1c-24495a9218df
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-aba985af-7ac6-4601-8b1c-24495a9218df
 - text: Considers the 1948 Truman allegation factually correct
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:57:20.0-00:57:22.3
   quote: And I do think that is factually correct.
   claim_id: 33a819dc-587d-454b-9e28-bffa996c2794
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-33a819dc-587d-454b-9e28-bffa996c2794
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-33a819dc-587d-454b-9e28-bffa996c2794
 - text: Secrecy apparatus, centralised in 1947, has grown out of control
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:57:49.7-00:57:58.4
@@ -388,7 +388,7 @@ references:
     control.
   claim_id: 36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
 - text: 'Samosa''s assessment: secrecy faction options are leak prevention or psychological
     manipulation of researchers'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -400,7 +400,7 @@ references:
     manipulate someone based on their profile.
   claim_id: 7264a98e-ec9e-4596-ae03-cca39c1ef23f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7264a98e-ec9e-4596-ae03-cca39c1ef23f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7264a98e-ec9e-4596-ae03-cca39c1ef23f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

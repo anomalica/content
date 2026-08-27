@@ -136,7 +136,7 @@ references:
     various elements of the US government and US defense contractors.
   claim_id: 7a253487-59d8-499a-acae-8cf6493d00e7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7a253487-59d8-499a-acae-8cf6493d00e7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7a253487-59d8-499a-acae-8cf6493d00e7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7a253487-59d8-499a-acae-8cf6493d00e7
 - text: The program and the wider UAP issue date to 1947
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -144,7 +144,7 @@ references:
   quote: Since the Legacy Program and the UAP issue really began in 1947
   claim_id: 99268e97-612e-42a9-a685-e15f713337df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99268e97-612e-42a9-a685-e15f713337df
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99268e97-612e-42a9-a685-e15f713337df
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-99268e97-612e-42a9-a685-e15f713337df
 - text: Elizondo calls it the most 'black' program he knows of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -152,7 +152,7 @@ references:
   quote: Nothing is more black than the Legacy Program.
   claim_id: 94be4e69-8337-46a2-8e30-804a443f1900
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94be4e69-8337-46a2-8e30-804a443f1900
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94be4e69-8337-46a2-8e30-804a443f1900
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-94be4e69-8337-46a2-8e30-804a443f1900
 - text: Eric Davis briefed US military branches on the program's UAP efforts
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -162,7 +162,7 @@ references:
     Legacy Program’s long-running efforts involving UAP.
   claim_id: 5d833c62-a94d-4352-bdd0-865d9762b3c4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
 - text: A legacy program existed separately from AAWSAP
   source: 'Episode 73: Science vs. Secrecy'
@@ -171,7 +171,7 @@ references:
     the legacy program, existed outside of it
   claim_id: d806ea3b-0dfd-4b52-b533-2e4784d2cf49
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d806ea3b-0dfd-4b52-b533-2e4784d2cf49
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d806ea3b-0dfd-4b52-b533-2e4784d2cf49
 - text: AAWSAP began in 2008 and was completely separate from it
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:29:35.9-00:29:43.6
@@ -179,7 +179,7 @@ references:
     the legacy program.
   claim_id: 2ff8c7f5-8482-487a-ae39-5050f5128480
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
 - text: 'Burlison: the two are not necessarily the same thing'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:27:56.1-00:28:05.2
@@ -188,7 +188,7 @@ references:
     the same thing.
   claim_id: 2ea05986-9db0-4385-8306-25337c966805
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea05986-9db0-4385-8306-25337c966805
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea05986-9db0-4385-8306-25337c966805
 - text: Under Kona Blue, the AAWSAP team never gained access
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:29:50.8-00:29:57.0
@@ -196,7 +196,7 @@ references:
     get access to the legacy programs.
   claim_id: 264a388d-ed56-49a8-b81a-cac370716b78
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-264a388d-ed56-49a8-b81a-cac370716b78
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-264a388d-ed56-49a8-b81a-cac370716b78
 - text: Kona Blue security personnel located gatekeepers, denied access pending SAP
     status
   source: 'Episode 73: Science vs. Secrecy'
@@ -206,7 +206,7 @@ references:
     an SAP.
   claim_id: 70a26e5f-b6cc-413a-b932-bf33a2d314a4
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-70a26e5f-b6cc-413a-b932-bf33a2d314a4
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-70a26e5f-b6cc-413a-b932-bf33a2d314a4
 - text: DHS officers located gatekeepers but could not gain access
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:59:47.1-01:00:15.3
@@ -216,7 +216,7 @@ references:
     a PSAP, a proposed SAP. It had not made it across the goal line to become an SAP.
   claim_id: 985a5023-3786-4990-80a0-692010d1f18a
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-985a5023-3786-4990-80a0-692010d1f18a
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-985a5023-3786-4990-80a0-692010d1f18a
 - text: AAWSAP later tried to obtain materials/data via Dr Jim Ryder
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:46:04.2-00:46:11.8
@@ -224,14 +224,14 @@ references:
     et cetera, out of the legacy program through now deceased Dr. Jim Ryder
   claim_id: cf895d3b-12b3-473f-a9be-f76872f8e324
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf895d3b-12b3-473f-a9be-f76872f8e324
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf895d3b-12b3-473f-a9be-f76872f8e324
 - text: 'Puthoff: Stratton encountered gatekeepers controlling access'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:28:44.8-00:28:48.0
   quote: he ran into the, quote, gatekeepers for the legacy program.
   claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
 - text: Gatekeepers are unelected security personnel ensuring non-exposure
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:37:06.8-00:37:23.9
@@ -240,14 +240,14 @@ references:
     yes. They're security type people.
   claim_id: ca327014-a88f-428e-9fb7-1df4ee5b52b5
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ca327014-a88f-428e-9fb7-1df4ee5b52b5
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ca327014-a88f-428e-9fb7-1df4ee5b52b5
 - text: 'Burlison: the gatekeeper structure still exists today'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:37:24.2-00:37:25.9
   quote: And this exists today. This exists today.
   claim_id: 28b1a583-12ac-4ac7-9a56-3c431f1e76c9
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-28b1a583-12ac-4ac7-9a56-3c431f1e76c9
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-28b1a583-12ac-4ac7-9a56-3c431f1e76c9
 - text: Steve Cantrell named as a gatekeeper
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:38:55.8-00:39:02.2
@@ -255,7 +255,7 @@ references:
     Special Assistant to the Deputy Undersecretary of the Air Force.
   claim_id: cf8f2d71-7866-4004-af4f-83ff96fe4bdb
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf8f2d71-7866-4004-af4f-83ff96fe4bdb
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cf8f2d71-7866-4004-af4f-83ff96fe4bdb
 - text: Grusch testified on the control group's composition
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:39:13.0-00:39:25.8
@@ -264,7 +264,7 @@ references:
     of the Air Force like we just spoke of.
   claim_id: 8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
 - text: Control group described as a weaponised protection body
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:39:27.0-00:39:33.6
@@ -272,7 +272,7 @@ references:
     program exposure mitigation.
   claim_id: a90a0335-d394-41a4-afc4-f2a7a6b8375c
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a90a0335-d394-41a4-afc4-f2a7a6b8375c
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a90a0335-d394-41a4-afc4-f2a7a6b8375c
 - text: Senior officials told Elizondo aerospace companies were involved
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4460-4622
@@ -281,7 +281,7 @@ references:
     crash materials.
   claim_id: 8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
 - text: 'Companies named: Lockheed, McDonnell Douglas, Northrop Grumman, Boeing, BAE
     Systems, Aerospace Corporation'
@@ -292,7 +292,7 @@ references:
     which have long been principal members of the US military-industrial complex.
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
 - text: Monsanto, absorbed by Bayer in 2018, possibly involved with biologics
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -302,7 +302,7 @@ references:
     specimens.
   claim_id: 284b3344-9ff8-4432-bace-3eb223d2c0e3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
 - text: A contractor reported to hold nonhuman-origin materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -312,7 +312,7 @@ references:
     some civilization from some distant planet.
   claim_id: 047e1054-b371-4755-b426-1fe3856693ef
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-047e1054-b371-4755-b426-1fe3856693ef
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-047e1054-b371-4755-b426-1fe3856693ef
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-047e1054-b371-4755-b426-1fe3856693ef
 - text: Stratton contacted the contractor, which acknowledged possession
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -321,7 +321,7 @@ references:
     were in possession of this material.
   claim_id: 3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
 - text: 'Elizondo: the US Air Force long a key player'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -329,7 +329,7 @@ references:
   quote: We now knew the Air Force had long been a key player in the Legacy efforts
   claim_id: 1a956a44-71ba-4f3c-8c42-924b3343aab9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
 - text: The program blocked Congress-appropriated UAPTF funding
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -338,7 +338,7 @@ references:
     to block the funding that had been appropriated to the UAP Task Force by Congress
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
 - text: The program created bureaucratic hurdles for the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -348,7 +348,7 @@ references:
     after another for him, the task force, and everyone involved.
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
 - text: Lacatski ran the official program; Legacy Program worked at cross-purposes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -358,7 +358,7 @@ references:
     ours.
   claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
 - text: Elizondo wanted a Mattis letter to access materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -366,7 +366,7 @@ references:
   quote: I wanted a letter to secure access to the Legacy Program’s UAP materials.
   claim_id: 87872273-febe-43e4-93c2-b0827b7bb85d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87872273-febe-43e4-93c2-b0827b7bb85d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87872273-febe-43e4-93c2-b0827b7bb85d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87872273-febe-43e4-93c2-b0827b7bb85d
 - text: Elizondo looked into retrieval systems but did not get far
   source: 'Episode 73: Science vs. Secrecy'
@@ -374,7 +374,7 @@ references:
   quote: Well, I think he dug around like we all did, but didn't get very far.
   claim_id: 2e55f6e8-a825-4f64-99ea-c7cde5ec1dde
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2e55f6e8-a825-4f64-99ea-c7cde5ec1dde
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2e55f6e8-a825-4f64-99ea-c7cde5ec1dde
 - text: Program held off-world advanced technology, unknown to officials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:7364-7573
@@ -383,7 +383,7 @@ references:
     elected officials and no one at the Pentagon knew about it.
   claim_id: a8344326-d848-4f7b-bef1-06ec4874a40a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
 - text: Grusch told Congress and an inspector general
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -392,7 +392,7 @@ references:
     the Legacy Program
   claim_id: a62769f4-0642-4490-a508-8801063f88b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a62769f4-0642-4490-a508-8801063f88b9
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a62769f4-0642-4490-a508-8801063f88b9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a62769f4-0642-4490-a508-8801063f88b9
 - text: Grusch gave public interviews about the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -401,7 +401,7 @@ references:
     he knew
   claim_id: 2c5dda95-d195-4633-8565-c69641a7548e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2c5dda95-d195-4633-8565-c69641a7548e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2c5dda95-d195-4633-8565-c69641a7548e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2c5dda95-d195-4633-8565-c69641a7548e
 - text: UAP Disclosure Act shows Congress aware of nonhuman bodies/tech
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -411,7 +411,7 @@ references:
     not made by human beings
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
 - text: Act's language stems from classified whistleblower briefings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -423,7 +423,7 @@ references:
     nonhuman origin and, in some cases, collect nonhuman specimens
   claim_id: 5303835b-b843-4604-96e3-61a11063937d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5303835b-b843-4604-96e3-61a11063937d
 - text: Mike Turner supported by contractors involved in the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -432,7 +432,7 @@ references:
     involved in the Legacy Program
   claim_id: afa4ea21-0ecc-4517-9775-3c48d57ac26a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
 - text: Act bars taxpayer money on UAP matters without Congress approval
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -441,7 +441,7 @@ references:
     money for UAP-related matters unless it's been approved by Congress
   claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-817b6454-ee77-494f-8ea4-458d3476a430
 - text: Presidents not briefed on all details, per Puthoff and others
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -451,7 +451,7 @@ references:
     in their position.
   claim_id: a630c527-4bc1-4fd5-9ed4-7441340409a4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
 - text: 'Elizondo: existence implies a deep government conspiracy'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -460,7 +460,7 @@ references:
     within the US government to keep the truth from US citizens.
   claim_id: 9e491882-ef47-48f7-9b6e-6698c2ea5c3c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
 - text: 'Elizondo: such a programme would need huge resources, obscene security costs'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -469,7 +469,7 @@ references:
     The costs of program security alone would be obscene.
   claim_id: 6c65a745-e1f4-423c-9489-765ef3b7d2fe
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe
 - text: The program had access to crash material and biologics
   source: 'Episode 73: Science vs. Secrecy'
@@ -477,7 +477,7 @@ references:
   quote: they certainly had access
   claim_id: 54644aec-9eee-4f8d-86e4-f7b18c79af23
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
 - text: 'Main problem: lacked the right scientists to evaluate material'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:02.8-00:32:06.7
@@ -485,7 +485,7 @@ references:
     looking / that was the main problem
   claim_id: ab0ac988-4236-44a5-890d-bc49d3b0f670
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ab0ac988-4236-44a5-890d-bc49d3b0f670
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ab0ac988-4236-44a5-890d-bc49d3b0f670
 - text: Puthoff doubts participants have real answers, lacking top scientists
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:31:27.4-00:31:37.2
@@ -493,7 +493,7 @@ references:
     also hamstrung in the legacy program of not being able to get to the best scientists.
   claim_id: f5fa5628-0d66-4b5d-b522-dd0bd6fbcf29
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f5fa5628-0d66-4b5d-b522-dd0bd6fbcf29
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f5fa5628-0d66-4b5d-b522-dd0bd6fbcf29
 - text: Shut down for lack of progress evaluating materials
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:18.5-00:32:33.8
@@ -502,7 +502,7 @@ references:
     who could do a good job of evaluating them. So it died, more or less.
   claim_id: 726e2e3b-8b07-4287-a79d-a82174c33da6
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-726e2e3b-8b07-4287-a79d-a82174c33da6
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-726e2e3b-8b07-4287-a79d-a82174c33da6
 - text: 'Puthoff clarifies: the program itself was not shut down; the AAWSAP attempt
     was'
   source: 'Episode 73: Science vs. Secrecy'
@@ -511,7 +511,7 @@ references:
     to make progress via AAWSAP.
   claim_id: ed018f81-4803-4b99-8a74-11622aed0367
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ed018f81-4803-4b99-8a74-11622aed0367
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ed018f81-4803-4b99-8a74-11622aed0367
 - text: Only a specific contractor-linked component was halted
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:34:37.9-00:34:47.1
@@ -519,7 +519,7 @@ references:
     involved some of the defense contractors got shut down.
   claim_id: eb4a810d-9e40-4e9e-9ced-0627a2706f91
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-eb4a810d-9e40-4e9e-9ced-0627a2706f91
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-eb4a810d-9e40-4e9e-9ced-0627a2706f91
 - text: Puthoff's account rests on statements from those who ran and shut it down
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:33:34.4-00:33:46.1
@@ -528,7 +528,7 @@ references:
     that they had written or their own materials.
   claim_id: 60019eba-bd73-4794-998c-48f92306bbb0
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-60019eba-bd73-4794-998c-48f92306bbb0
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-60019eba-bd73-4794-998c-48f92306bbb0
 - text: Davis and Mellon said it ceased in 1989
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:57.0-00:33:04.5
@@ -536,7 +536,7 @@ references:
     and Christopher Mellon that the program was ceased in 1989 due to lack of progress?
   claim_id: 46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
 - text: 1989 shutdown reference concerned one element, causing confusion
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:58:00.2-00:58:11.5
@@ -546,7 +546,7 @@ references:
     was shut down
   claim_id: 46bb700e-117a-439e-aa5b-66c54ffddb88
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46bb700e-117a-439e-aa5b-66c54ffddb88
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-46bb700e-117a-439e-aa5b-66c54ffddb88
 - text: Secrecy apparatus, centralised from 1947, has grown out of control
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:57:49.7-00:57:58.4
@@ -555,7 +555,7 @@ references:
     control.
   claim_id: 36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
 - text: Bigelow Aerospace papers commissioned from program-linked authors
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:12:09.7-00:12:15.6
@@ -563,14 +563,14 @@ references:
     were involved in the legacy program anyway.
   claim_id: 7b7e342e-774c-4f01-bcf1-c00a4ef2d206
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-7b7e342e-774c-4f01-bcf1-c00a4ef2d206
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-7b7e342e-774c-4f01-bcf1-c00a4ef2d206
 - text: Puthoff was never part of the program
   source: 'Episode 73: Science vs. Secrecy'
   location: 01:00:31.5-01:00:34.8
   quote: I don't know for sure because I've never been part of the legacy program
   claim_id: cdd66462-ad25-4163-bf37-8e84fd0584a5
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cdd66462-ad25-4163-bf37-8e84fd0584a5
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cdd66462-ad25-4163-bf37-8e84fd0584a5
 - text: Puthoff suspects selective information-sharing by program personnel
   source: 'Episode 73: Science vs. Secrecy'
   location: 01:00:35.4-01:00:53.8
@@ -580,7 +580,7 @@ references:
     it's not going to help them, they just won't cooperate.
   claim_id: a6583df1-b56c-4843-b171-d63dccde5e09
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a6583df1-b56c-4843-b171-d63dccde5e09
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a6583df1-b56c-4843-b171-d63dccde5e09
 - text: Stratton involved ~16 contractors/agencies, without success
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:36:18.1-00:36:34.1
@@ -589,7 +589,7 @@ references:
     the legacy program was doing, and they were not successful.
   claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
 - text: Sources describe suppressed breakthroughs and frustration at secrecy
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -599,7 +599,7 @@ references:
     the rest of the world aren't being told the full truth. They want this story out.
   claim_id: 328390e2-e7c0-4ba9-b375-78dc84d64af5
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-328390e2-e7c0-4ba9-b375-78dc84d64af5
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-328390e2-e7c0-4ba9-b375-78dc84d64af5
 - text: Coulthart's letters and their responses changed his view of UFOs
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -609,7 +609,7 @@ references:
     if it existed.
   claim_id: 1795dcb8-62da-40e6-885f-4595329d4e5e
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
 - text: Kobitz introduced Coulthart to people with direct knowledge
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -617,7 +617,7 @@ references:
   quote: It was Nat who introduced me to people who had direct knowledge of the program
   claim_id: 9875f0ef-1d17-45ea-a318-a9fef93515be
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9875f0ef-1d17-45ea-a318-a9fef93515be
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9875f0ef-1d17-45ea-a318-a9fef93515be
 - text: Kobitz told Coulthart he had been read in to the program
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -626,7 +626,7 @@ references:
     security briefed into the legacy program
   claim_id: 758239a6-4474-4928-9325-7cd20b18e532
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-758239a6-4474-4928-9325-7cd20b18e532
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-758239a6-4474-4928-9325-7cd20b18e532
 - text: Kobitz told Coulthart the US has recovered multiple non-human craft
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -634,7 +634,7 @@ references:
   quote: the fact that the United States has recovered quote multiple non-human craft
   claim_id: b80bbb3d-369c-49ff-8200-96baeef0074b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
 - text: Kobitz's introductions led Coulthart to sources who took real risks to speak
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -644,7 +644,7 @@ references:
     to tell me what they knew.
   claim_id: 28d33981-4d2f-4fa0-855f-3a223f7d446a
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28d33981-4d2f-4fa0-855f-3a223f7d446a
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28d33981-4d2f-4fa0-855f-3a223f7d446a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

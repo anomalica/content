@@ -69,7 +69,7 @@ references:
     other UN member nations.
   claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
 - text: Kennedy used the UN to invite the Soviets into a joint US/USSR lunar expedition
   source: Dark Mission
   location: ch7:9941-10153
@@ -78,7 +78,7 @@ references:
     Moon: an offer of a "cooperative, joint U.S./USSR lunar expedition."'
   claim_id: 3a9019fb-bb20-4023-b139-1f4c99a5e664
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a9019fb-bb20-4023-b139-1f4c99a5e664
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a9019fb-bb20-4023-b139-1f4c99a5e664
 - text: Scientists and former UFO-programme personnel appeared before the UN Secretary-General
     to bring UFO information into the open
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -90,7 +90,7 @@ references:
     then Kurt Waldheim.
   claim_id: 023984ed-a622-4ea4-813b-9734cbb41b13
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-023984ed-a622-4ea4-813b-9734cbb41b13
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-023984ed-a622-4ea4-813b-9734cbb41b13
 - text: The US, Britain and France objected to bringing UFO information before the
     UN, citing national security
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -100,7 +100,7 @@ references:
     would be a breach of their national security.
   claim_id: 8c5feb50-4f5a-4155-957b-65a0a8b7026b
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-8c5feb50-4f5a-4155-957b-65a0a8b7026b
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-8c5feb50-4f5a-4155-957b-65a0a8b7026b
 - text: Fowler said Gordon Cooper testified before the UN about UFOs and knew of astronauts
     willing to testify if the UN sponsored an open study
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -113,7 +113,7 @@ references:
     they could do so without penalty.
   claim_id: 2c2be39a-7948-4389-b6f6-853d8c8eb5ca
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-2c2be39a-7948-4389-b6f6-853d8c8eb5ca
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-2c2be39a-7948-4389-b6f6-853d8c8eb5ca
 - text: The proposal for the UN to sponsor an open scientific study of UFOs was turned
     down
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -122,7 +122,7 @@ references:
   quote: But the whole thing was turned down, unfortunately.
   claim_id: 81187fdb-1089-4225-a291-7fb841dcf269
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: http://localhost:5173/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-81187fdb-1089-4225-a291-7fb841dcf269
+  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-81187fdb-1089-4225-a291-7fb841dcf269
 - text: McDonald spoke to the UN Outer Space Affairs Group about the UFO problem and
     submitted formal statements urging UN action
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -133,7 +133,7 @@ references:
     urging UN action on the UFO problem.
   claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f68a4026-c3e8-4f4e-9246-d0b58ec919bd
 - text: McDonald said he hoped UN scientific groups would take up the UFO problem
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -142,7 +142,7 @@ references:
     attested that, let's hope that UN scientific groups will get right onto it.
   claim_id: fbbbcfc7-7b1e-488d-8673-686d735f4975
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-fbbbcfc7-7b1e-488d-8673-686d735f4975
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-fbbbcfc7-7b1e-488d-8673-686d735f4975
 - text: McDonald relayed that U Thant told Drew Pearson the UFO problem was the greatest
     international problem after Vietnam
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -155,7 +155,7 @@ references:
     War.
   claim_id: 754cde69-7e8b-4900-ad13-686402d31b12
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-754cde69-7e8b-4900-ad13-686402d31b12
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-754cde69-7e8b-4900-ad13-686402d31b12
 - text: Hoagland presented the Face on Mars's hominid/feline symmetries, from 1976
     Viking Cydonia data, at the UN in 1992
   source: Dark Mission
@@ -165,7 +165,7 @@ references:
     and presented by Hoagland at the United Nations, 1992 (JPL/Hoagland)
   claim_id: 002a4de1-c2e6-46fa-a36b-2080a84a21fb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-002a4de1-c2e6-46fa-a36b-2080a84a21fb
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-002a4de1-c2e6-46fa-a36b-2080a84a21fb
 - text: Hoagland speculated at his 1992 UN presentation that the eastern half of the
     Face on Mars had a feline aspect
   source: Dark Mission
@@ -174,7 +174,7 @@ references:
     the eastern half had a *feline* aspect
   claim_id: 81cedeb8-277a-444e-890d-d4b9d6b087a6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-81cedeb8-277a-444e-890d-d4b9d6b087a6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-81cedeb8-277a-444e-890d-d4b9d6b087a6
 - text: Hoagland presented at the UN in 1992 the characterisation of the Face on Mars
     he considers the 2007 MRO image to have confirmed
   source: Dark Mission
@@ -182,7 +182,7 @@ references:
   quote: turns out to be *exactly* what we said it was at the United Nations in 1992.
   claim_id: 84fd5c62-5994-4ed6-855f-f95d928c7253
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-84fd5c62-5994-4ed6-855f-f95d928c7253
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-84fd5c62-5994-4ed6-855f-f95d928c7253
 - text: Hoagland said Jupiter's Great Red Spot is the signature of hyperdimensional
     physics via the twenty-seven line problem
   source: Dark Mission
@@ -193,7 +193,7 @@ references:
     is *the* classic “signature” of hyperdimensional physics operating within Jupiter.
   claim_id: 9512d263-8f2c-403e-8959-5a37aa991515
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9512d263-8f2c-403e-8959-5a37aa991515
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9512d263-8f2c-403e-8959-5a37aa991515
 - text: Hoagland said sunspot maxima shift latitude across the 22-year solar cycle,
     peaking near 19.5 degrees
   source: Dark Mission
@@ -205,7 +205,7 @@ references:
     eleven years), at the solar latitude of about 19.5º.'
   claim_id: bf20e0ce-70f3-4527-b46d-11b6123ab7fc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf20e0ce-70f3-4527-b46d-11b6123ab7fc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf20e0ce-70f3-4527-b46d-11b6123ab7fc
 - text: An anonymous industrialist said Pentagon procurement officers behind the Clementine
     probe watched Hoagland's UN video presentation
   source: Dark Mission
@@ -216,7 +216,7 @@ references:
     Briefing” video (from the UN presentations …) on the large-screen television console
   claim_id: 691f1e4d-65c1-40f0-a8ed-4f8193d1a579
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-691f1e4d-65c1-40f0-a8ed-4f8193d1a579
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-691f1e4d-65c1-40f0-a8ed-4f8193d1a579
 - text: In autumn 1992 the industrialist had colonels and generals watch the NASA-Cydonia
     and UN video presentations
   source: Dark Mission
@@ -228,7 +228,7 @@ references:
     visitors could ask questions directly regarding the Cydonia investigation.
   claim_id: 47510bb8-d26e-490f-9e31-1490442e4bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-47510bb8-d26e-490f-9e31-1490442e4bdc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-47510bb8-d26e-490f-9e31-1490442e4bdc
 - text: Vallée argued belief in space visitors is independent of the UFO phenomenon's
     physical reality
   source: American Cosmic
@@ -237,7 +237,7 @@ references:
     the physical reality of the UFO phenomenon."
   claim_id: 21cfcaef-871d-49cd-8646-068119c454a9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-21cfcaef-871d-49cd-8646-068119c454a9
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-21cfcaef-871d-49cd-8646-068119c454a9
 - text: The 1947 document proposes tutelage of Earth by celestial peoples, possibly
     with UN tacit approval
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -246,7 +246,7 @@ references:
     the United Nations.
   claim_id: 5ccb2a47-faa3-4917-97e8-3d423cadbc87
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5ccb2a47-faa3-4917-97e8-3d423cadbc87
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5ccb2a47-faa3-4917-97e8-3d423cadbc87
 - text: The document states the UN would have no right of tutelage beyond relationships
     among its own members
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -256,7 +256,7 @@ references:
     beyond relationships between its members.
   claim_id: 3fa4fd0b-2531-494c-8774-ddf3d1d9dd68
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-3fa4fd0b-2531-494c-8774-ddf3d1d9dd68
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-3fa4fd0b-2531-494c-8774-ddf3d1d9dd68
 - text: The document states the UN could only intervene if a conflict arose between
     member nations
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -265,7 +265,7 @@ references:
     the United Nations would have the right to intervene.
   claim_id: d49e64d5-5b7c-4a15-ba11-19e38c008c06
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-d49e64d5-5b7c-4a15-ba11-19e38c008c06
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-d49e64d5-5b7c-4a15-ba11-19e38c008c06
 - text: The document states a supranational UN would have competency over extraterrestrial
     matters if members recognised it
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -276,7 +276,7 @@ references:
     it.
   claim_id: 4f295b03-0299-4f46-a6ed-582456b60ff6
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4f295b03-0299-4f46-a6ed-582456b60ff6
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4f295b03-0299-4f46-a6ed-582456b60ff6
 - text: The document proposes an international treaty under the UN preventing exploitation
     of celestial peoples
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -286,7 +286,7 @@ references:
     to the United Nations.
   claim_id: a343c04d-986e-4298-aa12-fe6bc66e4a8c
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
 - text: The Predator UAV supported UN and NATO operations in Bosnia and was widely
     used in counterterrorism
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -296,7 +296,7 @@ references:
     efforts in Bosnia and was widely used in counterterrorism operations.
   claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d60814d-0fb7-4552-b897-4514a20308da
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d60814d-0fb7-4552-b897-4514a20308da
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8d60814d-0fb7-4552-b897-4514a20308da
 - text: Michael Horn said a woman from a 1964 Indian ashram later served a dozen years
     as Cambodia's UN ambassador
@@ -307,7 +307,7 @@ references:
     from Cambodia for a dozen years at the UN. Then she retired.
   claim_id: a69ebdcf-5c0e-41fd-af02-86d43450d915
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a69ebdcf-5c0e-41fd-af02-86d43450d915
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a69ebdcf-5c0e-41fd-af02-86d43450d915
 - text: Michael Horn said the Henoch Prophecies foretold Switzerland aligning with
     the UN and NATO before invasion from the East
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -318,7 +318,7 @@ references:
     by the powers from the East, meaning ... China ... and Russia
   claim_id: 316bd87d-e07e-43fb-a41b-d95e608034e6
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
-  workbench_url: http://localhost:5173/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-316bd87d-e07e-43fb-a41b-d95e608034e6
+  workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-316bd87d-e07e-43fb-a41b-d95e608034e6
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

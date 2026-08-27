@@ -27,7 +27,7 @@ references:
   quote: Mr. George Knapp, journalist from KLAS-TV in Las Vegas, Nevada
   claim_id: 9e441a3d-2bf2-46fa-b555-860f16fc39ac
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
 - text: George Knapp has worked for KLAS-TV for 40 years, breaking many extraordinary
     UAP stories.
@@ -38,7 +38,7 @@ references:
     many extraordinary UAP stories.
   claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
 - text: In 1989, Bob Lazar went public in an interview with George Knapp on KLAS-TV,
     asserting anonymously at first his purported employment on a recovered craft at
@@ -51,7 +51,7 @@ references:
     saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: One page of the 2009 Harry Reid memo shows the names of Luis Elizondo and
     Hal Puthoff were redacted by KLAS-TV on its initial release, for unknown reasons.
@@ -63,7 +63,7 @@ references:
     reasons.]'
   claim_id: 1b71bd40-b5a3-4af0-86ed-6bd0c48069b8
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-1b71bd40-b5a3-4af0-86ed-6bd0c48069b8
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-1b71bd40-b5a3-4af0-86ed-6bd0c48069b8
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-1b71bd40-b5a3-4af0-86ed-6bd0c48069b8
 - text: George Knapp said he made his stock purchase in To The Stars Academy of Arts
     & Science public and informed his employer at KLAS-TV.
@@ -74,7 +74,7 @@ references:
     at KLAS-TV in Las Vegas.
   claim_id: 5b34a3c7-f445-456a-a54e-396af2bb500e
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
 built_by:
   model: claude-sonnet-5

@@ -182,14 +182,14 @@ references:
     happens).'
   claim_id: 34a981a7-b793-419f-956b-6ddcf392d378
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-34a981a7-b793-419f-956b-6ddcf392d378
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-34a981a7-b793-419f-956b-6ddcf392d378
 - text: Precognition defined as awareness of future events before they occur
   source: Surviving Death
   location: ch7:14403-14467
   quote: Precognition involves an awareness of future events before they happen.
   claim_id: d7c96567-a3bb-446b-8816-ddb63f9b56fe
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d7c96567-a3bb-446b-8816-ddb63f9b56fe
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d7c96567-a3bb-446b-8816-ddb63f9b56fe
 - text: Monroe's precognitive side effect first appeared during deep relaxation, prior
     to separation
   source: Journeys Out of the Body
@@ -199,7 +199,7 @@ references:
     prior to any separation.
   claim_id: a5dccec0-d07e-458b-a234-0f215d78f65f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a5dccec0-d07e-458b-a234-0f215d78f65f
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a5dccec0-d07e-458b-a234-0f215d78f65f
 - text: Monroe initially attributed visions to release of unconscious material
   source: Journeys Out of the Body
   location: ch19:1007-1182
@@ -208,7 +208,7 @@ references:
     it strongly to my attention.
   claim_id: 85671ae6-d85a-441d-b339-5f5356118446
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-85671ae6-d85a-441d-b339-5f5356118446
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-85671ae6-d85a-441d-b339-5f5356118446
 - text: Hissing sound and door/hole sensation preceding Monroe's visions
   source: Journeys Out of the Body
   location: ch19:409-622
@@ -217,7 +217,7 @@ references:
     to an angle of about 45°. This exposed a perfectly round hole.
   claim_id: 4fd3590d-8ea9-4a02-b1bc-73df04769924
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4fd3590d-8ea9-4a02-b1bc-73df04769924
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4fd3590d-8ea9-4a02-b1bc-73df04769924
 - text: Monroe retained full consciousness, vision superimposed over outside stimuli
   source: Journeys Out of the Body
   location: ch19:628-877
@@ -227,7 +227,7 @@ references:
     both quite readily.
   claim_id: 95a29641-3f1a-4440-8225-5b45d2fd3bb6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-95a29641-3f1a-4440-8225-5b45d2fd3bb6
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-95a29641-3f1a-4440-8225-5b45d2fd3bb6
 - text: Monroe could not produce the effect at will
   source: Journeys Out of the Body
   location: ch19:886-995
@@ -235,7 +235,7 @@ references:
     was triggered by some non-conscious mechanism.
   claim_id: e08fcb8c-292c-4ea9-b82f-781af4fad5f3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e08fcb8c-292c-4ea9-b82f-781af4fad5f3
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e08fcb8c-292c-4ea9-b82f-781af4fad5f3
 - text: Monroe's hissing-plus-valve pattern reliably signalled a coming event
   source: Journeys Out of the Body
   location: ch19:14102-14224
@@ -243,7 +243,7 @@ references:
     + V (Valve-opening sensation) = F (Future event vision).'
   claim_id: e5a9fdef-6551-41c1-8893-44b35174860f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e5a9fdef-6551-41c1-8893-44b35174860f
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e5a9fdef-6551-41c1-8893-44b35174860f
 - text: Monroe said the formula had proved accurate 22 times
   source: Journeys Out of the Body
   location: ch19:14234-14388
@@ -251,7 +251,7 @@ references:
     times, what of the other cases listed in the notes where F has not yet taken place?
   claim_id: 4f8f36f2-df81-4310-9548-9d3b7661103d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4f8f36f2-df81-4310-9548-9d3b7661103d
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4f8f36f2-df81-4310-9548-9d3b7661103d
 - text: Monroe recorded roughly eighteen further precognitive incidents
   source: Journeys Out of the Body
   location: ch19:13902-14085
@@ -260,14 +260,14 @@ references:
     allowing for minor errors in interpretation.
   claim_id: 9f5ae6b4-5ce3-4f2c-837d-95da084ef486
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9f5ae6b4-5ce3-4f2c-837d-95da084ef486
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9f5ae6b4-5ce3-4f2c-837d-95da084ef486
 - text: Monroe used the term 'precognition' current in the field
   source: Journeys Out of the Body
   location: ch19:254-291
   quote: It is evidently called in the trade “precognition.”
   claim_id: da1720e2-3260-4ecb-a9f0-075deb185a19
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-da1720e2-3260-4ecb-a9f0-075deb185a19
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-da1720e2-3260-4ecb-a9f0-075deb185a19
 - text: Monroe believed the mind substitutes the nearest equivalent when unable to
     identify something
   source: Journeys Out of the Body
@@ -276,7 +276,7 @@ references:
     the mind’s experience.
   claim_id: 4c42277d-03d8-434b-85de-e0c4f571ea80
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
-  workbench_url: http://localhost:5173/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4c42277d-03d8-434b-85de-e0c4f571ea80
+  workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4c42277d-03d8-434b-85de-e0c4f571ea80
 - text: Nichols's 1999 conviction of a coming bombing on Old Compton Street
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:09:42.3-00:09:54.8
@@ -286,7 +286,7 @@ references:
     happen.
   claim_id: 03db061d-5f48-429e-b567-c0a258253b5f
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-03db061d-5f48-429e-b567-c0a258253b5f
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-03db061d-5f48-429e-b567-c0a258253b5f
 - text: Nichols's experience also witnessed by five other people
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:32.4-00:06:37.5
@@ -294,7 +294,7 @@ references:
     five other people.
   claim_id: d56e4855-a2f5-4943-83f5-5880d38a56a8
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
 - text: Nichols learned of the bombing via television news and realised the match
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:14:30.2-00:14:40.5
@@ -302,7 +302,7 @@ references:
     slowly dawning on me that oh this is exactly what i saw
   claim_id: 333732c5-26ff-4bd5-8e94-8537301d163c
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-333732c5-26ff-4bd5-8e94-8537301d163c
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-333732c5-26ff-4bd5-8e94-8537301d163c
 - text: Nichols's bus encounter with a friend a few days after the bombing
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:13:32.2-00:13:52.8
@@ -311,7 +311,7 @@ references:
     onto the bus so that was a that was again like another sign
   claim_id: 4ddb9716-e057-4fa8-bbe8-9b9cf2ffd4f4
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-4ddb9716-e057-4fa8-bbe8-9b9cf2ffd4f4
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-4ddb9716-e057-4fa8-bbe8-9b9cf2ffd4f4
 - text: Nichols on emotional bond as key to psychic phenomena
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:16:15.8-00:16:37.4
@@ -321,7 +321,7 @@ references:
     impact
   claim_id: 9748223e-e5ef-488c-91f7-7af1f8a322a7
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
 - text: Mossbridge's work in psi and precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -330,7 +330,7 @@ references:
     you know, precognition, all sorts of really interesting size stuff.
   claim_id: dc725a03-5046-4121-a0e4-93b27c860caf
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dc725a03-5046-4121-a0e4-93b27c860caf
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dc725a03-5046-4121-a0e4-93b27c860caf
 - text: Mossbridge treats her own dreams as data due to evidential precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -339,7 +339,7 @@ references:
     know my own dreams have been highly evidential in terms of precognition
   claim_id: f7a4b7ca-d24c-4364-8628-b311e6eea41f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f7a4b7ca-d24c-4364-8628-b311e6eea41f
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f7a4b7ca-d24c-4364-8628-b311e6eea41f
 - text: Not all dreams precognitive; some may be psychological metaphor
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -349,7 +349,7 @@ references:
     for how it felt but it's still it's describes how it might have felt
   claim_id: 70d4c9fd-44f2-4f3d-bfb8-06a233616ce5
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-70d4c9fd-44f2-4f3d-bfb8-06a233616ce5
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-70d4c9fd-44f2-4f3d-bfb8-06a233616ce5
 - text: Mental time travel covers precognition and memory
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -359,7 +359,7 @@ references:
     know through other means.
   claim_id: a556ff8a-21ac-42fb-bfbd-1043e20fb7df
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a556ff8a-21ac-42fb-bfbd-1043e20fb7df
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a556ff8a-21ac-42fb-bfbd-1043e20fb7df
 - text: Informational time travel defined as information sent back without precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -368,7 +368,7 @@ references:
     back to you in time. without using precognition. So like potentially using a device
   claim_id: d1b6281c-1b12-4729-a396-d3cdf7b7a419
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-d1b6281c-1b12-4729-a396-d3cdf7b7a419
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-d1b6281c-1b12-4729-a396-d3cdf7b7a419
 - text: 'Precognition studied at two scales: physiological and precognitive remote
     viewing'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -380,7 +380,7 @@ references:
     days, weeks, et cetera, scale. So I've studied both of those.
   claim_id: c9bc3ca6-7c42-4e48-a11e-411f23935c03
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c9bc3ca6-7c42-4e48-a11e-411f23935c03
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c9bc3ca6-7c42-4e48-a11e-411f23935c03
 - text: Physiological study of precognition called presentiment
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -388,7 +388,7 @@ references:
   quote: It's called pre-sentiment. ... It means pre-feeling.
   claim_id: fda4c04a-7712-4d2c-bbe4-f3c9955754fa
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-fda4c04a-7712-4d2c-bbe4-f3c9955754fa
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-fda4c04a-7712-4d2c-bbe4-f3c9955754fa
 - text: Photon emission behaves as if it knows its future switch-off (boundary conditions)
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -399,7 +399,7 @@ references:
     condition of the off and the future are both shaping this group's behavior.
   claim_id: c6217bb3-7dcf-43f3-b2fb-eaeaf3558162
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c6217bb3-7dcf-43f3-b2fb-eaeaf3558162
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c6217bb3-7dcf-43f3-b2fb-eaeaf3558162
 - text: First minute of emission predicts total duration at high accuracy
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -411,7 +411,7 @@ references:
     to be turned off in two minutes
   claim_id: 4a67a3b4-b1e6-4faf-a187-286f0424fdcd
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4a67a3b4-b1e6-4faf-a187-286f0424fdcd
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4a67a3b4-b1e6-4faf-a187-286f0424fdcd
 - text: Mossbridge's startup examines the first portion of a time period to predict
     the future
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -421,7 +421,7 @@ references:
     first chunk of time to predict the future. Period.
   claim_id: 4eb27e8d-ce89-44d2-bac3-96f1211162f9
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4eb27e8d-ce89-44d2-bac3-96f1211162f9
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4eb27e8d-ce89-44d2-bac3-96f1211162f9
 - text: Precognitive remote-viewing effects can occur over days, weeks or years
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -430,7 +430,7 @@ references:
     precognitive remote viewing it could be days, weeks, years.
   claim_id: 5661d124-7de9-4d88-97da-7c99ec0e13b7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5661d124-7de9-4d88-97da-7c99ec0e13b7
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5661d124-7de9-4d88-97da-7c99ec0e13b7
 - text: Daryl Bem conducted a series of precognition studies
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -438,7 +438,7 @@ references:
   quote: Yeah, he did a bunch of precognition studies. He did a bunch of them.
   claim_id: 8e1e2025-3082-42b0-a0aa-7993c943c5e3
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8e1e2025-3082-42b0-a0aa-7993c943c5e3
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8e1e2025-3082-42b0-a0aa-7993c943c5e3
 - text: None of Bem's studies involved remote viewing
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -446,7 +446,7 @@ references:
   quote: None of them were remote viewing.
   claim_id: 2aec39e2-9060-46fe-b05d-8e633d72fbd5
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-2aec39e2-9060-46fe-b05d-8e633d72fbd5
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-2aec39e2-9060-46fe-b05d-8e633d72fbd5
 - text: Meta-analysis found faster unconscious results replicated better
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -458,7 +458,7 @@ references:
     did not replicate as well.
   claim_id: f9b4fcaf-ccda-41e6-b8ad-3f32abe24fb8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f9b4fcaf-ccda-41e6-b8ad-3f32abe24fb8
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f9b4fcaf-ccda-41e6-b8ad-3f32abe24fb8
 - text: Bem's work faced critical takedowns; Mossbridge accepts some errors
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -467,7 +467,7 @@ references:
     there were some errors in there, and I think it's okay to criticize work.
   claim_id: 74c7eff4-2da4-4afd-a74e-3fddd7b7f077
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-74c7eff4-2da4-4afd-a74e-3fddd7b7f077
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-74c7eff4-2da4-4afd-a74e-3fddd7b7f077
 - text: Mossbridge describes herself as gifted at precognition, telepathy and remote
     viewing
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -477,7 +477,7 @@ references:
     kind of stuff
   claim_id: ed9ea029-27b9-4ce2-bb83-ca27783e91a7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ed9ea029-27b9-4ce2-bb83-ca27783e91a7
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ed9ea029-27b9-4ce2-bb83-ca27783e91a7
 - text: Stan B.'s question on precognitions that fail to occur once acted upon
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -486,7 +486,7 @@ references:
     happen anymore after you acted upon the precognition?
   claim_id: 42c67257-ac32-423d-a62f-5096811aea0c
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-42c67257-ac32-423d-a62f-5096811aea0c
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-42c67257-ac32-423d-a62f-5096811aea0c
 - text: Conventional branching-timeline explanation of averted precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -497,7 +497,7 @@ references:
     better timeline.
   claim_id: 7672438e-7b26-457d-b713-d8ad365c0188
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7672438e-7b26-457d-b713-d8ad365c0188
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7672438e-7b26-457d-b713-d8ad365c0188
 - text: Mossbridge dislikes the branching-timeline account, calling it ugly
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -506,7 +506,7 @@ references:
     ugly.
   claim_id: a85a2847-17ea-4b41-974a-ab6bfb10ac63
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a85a2847-17ea-4b41-974a-ab6bfb10ac63
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a85a2847-17ea-4b41-974a-ab6bfb10ac63
 - text: Informational substrate already contains the averted event's full sequence
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -517,7 +517,7 @@ references:
     ... and the knowledge that you will foil that intention.
   claim_id: f490e8d2-7fbc-485e-ab3b-aaf9baef862f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f490e8d2-7fbc-485e-ab3b-aaf9baef862f
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f490e8d2-7fbc-485e-ab3b-aaf9baef862f
 - text: 'Substrate model: precognition works with what needs to happen, not just physical
     manifestation'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -528,7 +528,7 @@ references:
     is actually aware, its mind, its universal mind is aware of what needs to happen.
   claim_id: 8bad31d7-b327-4b3a-b100-0dd006d44a4a
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8bad31d7-b327-4b3a-b100-0dd006d44a4a
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8bad31d7-b327-4b3a-b100-0dd006d44a4a
 - text: Acting on a precognition to prevent an event is not a timeline change
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -537,7 +537,7 @@ references:
     missile test.
   claim_id: 8f3115fc-8e8d-4429-80eb-f2ed1c38c295
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8f3115fc-8e8d-4429-80eb-f2ed1c38c295
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8f3115fc-8e8d-4429-80eb-f2ed1c38c295
 - text: Ramsay suggests a benefit to humankind's inability to reliably perceive past/future
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -547,7 +547,7 @@ references:
     be a benefit to us not being able to do that
   claim_id: 0ccdb2fa-5713-42da-98e4-fcec98b9e219
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0ccdb2fa-5713-42da-98e4-fcec98b9e219
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0ccdb2fa-5713-42da-98e4-fcec98b9e219
 - text: 'Benjamin Simon: if Hill''s star claim and map are valid, only explanation
     is precognition'
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -557,7 +557,7 @@ references:
     she can claim is that she has precognition.
   claim_id: c0177d30-d413-4d2f-b8e7-ff00bf47c136
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c0177d30-d413-4d2f-b8e7-ff00bf47c136
+  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c0177d30-d413-4d2f-b8e7-ff00bf47c136
 - text: Auerbach's 35-plus years investigating apparitions, hauntings and poltergeists
   source: Surviving Death
   location: ch31:1584-1681
@@ -565,7 +565,7 @@ references:
     for over thirty-five years
   claim_id: 8916e582-b386-45a0-9248-3cf28320e21f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8916e582-b386-45a0-9248-3cf28320e21f
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8916e582-b386-45a0-9248-3cf28320e21f
 - text: McCormick brought Auerbach an ongoing apparition case in 1985
   source: Surviving Death
   location: ch31:10787-10959
@@ -574,7 +574,7 @@ references:
     ongoing apparition case.
   claim_id: 2a7858c6-9a99-404d-bc7a-41835fbb3dcd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a7858c6-9a99-404d-bc7a-41835fbb3dcd
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a7858c6-9a99-404d-bc7a-41835fbb3dcd
 - text: Chris's daily contact with the apparition Lois, per Auerbach
   source: Surviving Death
   location: ch31:17342-17583
@@ -584,7 +584,7 @@ references:
     began communicating.
   claim_id: cb0ccffa-4817-45a0-b348-77426989276e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cb0ccffa-4817-45a0-b348-77426989276e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cb0ccffa-4817-45a0-b348-77426989276e
 - text: Tanous and two others independently identified the grandfather's photograph
   source: Surviving Death
   location: ch31:12009-12410
@@ -596,7 +596,7 @@ references:
     clear-cut.
   claim_id: 254d90c1-9b4d-431e-ac85-5239a91dc6ae
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-254d90c1-9b4d-431e-ac85-5239a91dc6ae
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-254d90c1-9b4d-431e-ac85-5239a91dc6ae
 - text: Haraldsson found a higher proportion of violent-death appearances in apparition
     cases
   source: Surviving Death
@@ -606,7 +606,7 @@ references:
     suffered a violent death, when compared with the general population.
   claim_id: 8dcd0da7-b856-4734-9772-1a1122b2d95e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dcd0da7-b856-4734-9772-1a1122b2d95e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dcd0da7-b856-4734-9772-1a1122b2d95e
 - text: 'Haraldsson: violent death also predominant in reincarnation-type cases and
     mediumship'
   source: Surviving Death
@@ -616,7 +616,7 @@ references:
     including both direct communicators and drop-ins.
   claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
 - text: Barrett's first systematic scientific study of deathbed apparitions
   source: Surviving Death
   location: ch20:3490-3597
@@ -624,7 +624,7 @@ references:
     made by Sir William Barrett, a physicist
   claim_id: 31af4ba4-074f-4bea-ab52-e7a5be9151f4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-31af4ba4-074f-4bea-ab52-e7a5be9151f4
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-31af4ba4-074f-4bea-ab52-e7a5be9151f4
 - text: 'Fenwick: deathbed visions seen by others should be classed as apparitions'
   source: Surviving Death
   location: ch20:9395-9557
@@ -633,7 +633,7 @@ references:
     as apparitions
   claim_id: 72d494e6-c910-4b8b-9e29-f8c3069e5d66
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72d494e6-c910-4b8b-9e29-f8c3069e5d66
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72d494e6-c910-4b8b-9e29-f8c3069e5d66
 - text: 'Carrington: mediumship phenomena can manifest spontaneously, as with ADC
     and apparitions'
   source: Surviving Death
@@ -643,7 +643,7 @@ references:
     for example.
   claim_id: 13811789-0024-43c3-b0ad-1d8345dbf5a5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13811789-0024-43c3-b0ad-1d8345dbf5a5
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13811789-0024-43c3-b0ad-1d8345dbf5a5
 - text: 'Auerbach: perceptual insertion explains why only some perceive an apparition'
   source: Surviving Death
   location: ch31:25780-25919
@@ -651,7 +651,7 @@ references:
     processes are susceptible to such insertion by telepathic projection.
   claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b10a7f9d-7dd3-407b-95d4-71a545b7437b
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b10a7f9d-7dd3-407b-95d4-71a545b7437b
 - text: 'Auerbach: perceptual insertion explains the absence of genuine ghost photos/video'
   source: Surviving Death
   location: ch31:25931-26043
@@ -659,7 +659,7 @@ references:
     ghosts. They have no form to reflect light.
   claim_id: 85e44f7d-7276-469e-9e54-8351fb6076a7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-85e44f7d-7276-469e-9e54-8351fb6076a7
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-85e44f7d-7276-469e-9e54-8351fb6076a7
 - text: Auerbach considers the evidence weighted toward the survival hypothesis
   source: Surviving Death
   location: ch31:38907-39051
@@ -667,7 +667,7 @@ references:
     is weighted heavily toward the survival hypothesis in explaining apparitions.
   claim_id: dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

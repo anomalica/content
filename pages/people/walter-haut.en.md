@@ -163,7 +163,7 @@ references:
   quote: I was born on June 2, 1922.
   claim_id: 729934ac-df7a-480c-920a-eb7a700de266
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-729934ac-df7a-480c-920a-eb7a700de266
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-729934ac-df7a-480c-920a-eb7a700de266
 - text: Stationed at Roswell Army Air Force Base as Public Information Officer, July
     1947
   source: The Fourth Mind
@@ -172,7 +172,7 @@ references:
     Mexico, serving as the base Public Information Officer.
   claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fff6cfdb-c2d6-4199-81bc-f4eb57f23393
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fff6cfdb-c2d6-4199-81bc-f4eb57f23393
 - text: Became aware of a report of downed vehicle debris on 7 July 1947
   source: The Fourth Mind
   location: ch28:615-751
@@ -180,7 +180,7 @@ references:
     midmorning after my return to duty at the base on Monday, July 7.
   claim_id: 1f8b28dd-7852-41a4-965f-598e183af6a1
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1f8b28dd-7852-41a4-965f-598e183af6a1
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1f8b28dd-7852-41a4-965f-598e183af6a1
 - text: Blanchard sent Marcel to investigate the reported debris
   source: The Fourth Mind
   location: ch28:754-875
@@ -188,7 +188,7 @@ references:
     the base commander, Col. William Blanchard, to investigate.
   claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ced0c092-a6c8-49b9-b815-b43f61e67403
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ced0c092-a6c8-49b9-b815-b43f61e67403
 - text: Further civilian reports of a second debris site by late afternoon
   source: The Fourth Mind
   location: ch28:889-1022
@@ -196,7 +196,7 @@ references:
     reports came in regarding a second site just north of Roswell.
   claim_id: f9e9cccb-34f1-4424-b2f2-798e1980a4fe
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f9e9cccb-34f1-4424-b2f2-798e1980a4fe
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f9e9cccb-34f1-4424-b2f2-798e1980a4fe
 - text: Attendees at the 8 July 1947 staff meeting
   source: The Fourth Mind
   location: ch28:1231-1486
@@ -206,7 +206,7 @@ references:
     also in attendance.
   claim_id: 6b87785c-9914-4683-842a-192f19362454
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6b87785c-9914-4683-842a-192f19362454
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6b87785c-9914-4683-842a-192f19362454
 - text: Ramey and DuBose also attended the staff meeting
   source: The Fourth Mind
   location: ch28:1464-1608
@@ -214,7 +214,7 @@ references:
     Roger Ramey and his chief of staff, Col. Thomas J. DuBose were also in attendance.
   claim_id: d66a30a2-0753-4b64-b0eb-0a695454f097
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d66a30a2-0753-4b64-b0eb-0a695454f097
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d66a30a2-0753-4b64-b0eb-0a695454f097
 - text: Marcel and Cavitt reported on the Lincoln County debris field
   source: The Fourth Mind
   location: ch28:1620-1760
@@ -222,7 +222,7 @@ references:
     an extensive debris field in Lincoln County approx. 75 miles NW of Roswell.
   claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c2620eed-7d92-458e-b6b6-c3fb79aa25ad
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c2620eed-7d92-458e-b6b6-c3fb79aa25ad
 - text: Blanchard briefed on a second debris site
   source: The Fourth Mind
   location: ch28:1769-1866
@@ -230,7 +230,7 @@ references:
     40 miles north of town.
   claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a799bc98-ece8-462d-8606-4b94309bb4ac
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a799bc98-ece8-462d-8606-4b94309bb4ac
 - text: Debris samples passed around the table, unlike anything Haut had seen
   source: The Fourth Mind
   location: ch28:1872-1979
@@ -238,7 +238,7 @@ references:
     I had or have ever seen in my life.
   claim_id: 285e165e-4b17-4e34-92e2-77131d0c78c3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-285e165e-4b17-4e34-92e2-77131d0c78c3
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-285e165e-4b17-4e34-92e2-77131d0c78c3
 - text: Debris resembled paper-thin, strong metal foil with unusual markings
   source: The Fourth Mind
   location: ch28:1985-2154
@@ -247,14 +247,14 @@ references:
     voicing their opinion.
   claim_id: b1fa11c8-d913-42e2-9de4-3bfee7e590df
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b1fa11c8-d913-42e2-9de4-3bfee7e590df
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b1fa11c8-d913-42e2-9de4-3bfee7e590df
 - text: No one at the meeting could identify the debris
   source: The Fourth Mind
   location: ch28:2163-2201
   quote: No one was able to identify the crash debris.
   claim_id: c8206e5b-f736-43fc-b3b5-5dada63c5fe4
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c8206e5b-f736-43fc-b3b5-5dada63c5fe4
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c8206e5b-f736-43fc-b3b5-5dada63c5fe4
 - text: Haut believed Ramey's diversion plan originated with the Pentagon
   source: The Fourth Mind
   location: ch28:2319-2509
@@ -263,7 +263,7 @@ references:
     of town by acknowledging the other location.
   claim_id: 15da72d9-09fe-47ce-b0f9-80e2aa0bae96
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-15da72d9-09fe-47ce-b0f9-80e2aa0bae96
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-15da72d9-09fe-47ce-b0f9-80e2aa0bae96
 - text: Blanchard dictated the press release around 9:30 a.m.
   source: The Fourth Mind
   location: ch28:2659-2874
@@ -272,7 +272,7 @@ references:
     of Roswell and Marcel flying the material to higher headquarters.
   claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8293d6b2-fdb5-4504-b97c-f4d5544e55c4
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8293d6b2-fdb5-4504-b97c-f4d5544e55c4
 - text: Press release issued by Haut on order of the base commander
   source: Communion
   location: ch14:14274-14372
@@ -280,7 +280,7 @@ references:
     on order from the base commander.
   claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
-  workbench_url: http://localhost:5173/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-df76553f-a07c-4161-a321-e7f9c21590bb
+  workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-df76553f-a07c-4161-a321-e7f9c21590bb
 - text: Blanchard ordered Haut to announce US Army recovery of a flying disc
   source: In Plain Sight
   location: ch7:11681-11874
@@ -289,7 +289,7 @@ references:
     that the US Army had recovered a flying disc.
   claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
 - text: Haut delivered the release to KGFL, KSWS, Roswell Daily Record, Roswell Morning
     Dispatch
@@ -299,7 +299,7 @@ references:
     the Daily Record and the Morning Dispatch.
   claim_id: 0864e17b-4fb4-49c6-8895-a5815b093be4
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0864e17b-4fb4-49c6-8895-a5815b093be4
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0864e17b-4fb4-49c6-8895-a5815b093be4
 - text: Office inundated with calls after the release
   source: The Fourth Mind
   location: ch28:3014-3119
@@ -307,7 +307,7 @@ references:
     phone calls from around the world.
   claim_id: 48566642-f128-4e3e-b6a5-74049ce7e252
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-48566642-f128-4e3e-b6a5-74049ce7e252
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-48566642-f128-4e3e-b6a5-74049ce7e252
 - text: Blanchard suggested Haut go home and hide out
   source: The Fourth Mind
   location: ch28:3162-3253
@@ -315,7 +315,7 @@ references:
     go home and "hide out."
   claim_id: e22c1a70-8f17-44a5-8098-8c35778e4bd9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e22c1a70-8f17-44a5-8098-8c35778e4bd9
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e22c1a70-8f17-44a5-8098-8c35778e4bd9
 - text: Blanchard personally took Haut to Building 84
   source: The Fourth Mind
   location: ch28:3260-3381
@@ -323,7 +323,7 @@ references:
     a B-29 hangar located on the east side of the tarmac.
   claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5bd43ee5-5e57-4abe-b53f-2a92628b5862
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5bd43ee5-5e57-4abe-b53f-2a92628b5862
 - text: Building 84 under heavy guard
   source: The Fourth Mind
   location: ch28:3389-3484
@@ -331,7 +331,7 @@ references:
     both outside and inside.
   claim_id: c3eb0fa0-cf12-4667-bfd7-1ddefc624d56
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c3eb0fa0-cf12-4667-bfd7-1ddefc624d56
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c3eb0fa0-cf12-4667-bfd7-1ddefc624d56
 - text: Haut observed the object from a safe distance
   source: The Fourth Mind
   location: ch28:3492-3593
@@ -339,7 +339,7 @@ references:
     jus recovered north of town.
   claim_id: d8e2f767-c894-4755-9024-9b3add79867a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d8e2f767-c894-4755-9024-9b3add79867a
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d8e2f767-c894-4755-9024-9b3add79867a
 - text: Object measured roughly 3.7-4.6 m long, egg-shaped
   source: The Fourth Mind
   location: ch28:3599-3692
@@ -347,21 +347,21 @@ references:
     and more of an egg shape.
   claim_id: 4e90feed-b3ed-4289-8dea-3f226881005c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4e90feed-b3ed-4289-8dea-3f226881005c
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4e90feed-b3ed-4289-8dea-3f226881005c
 - text: Poor lighting; surface appeared metallic
   source: The Fourth Mind
   location: ch28:3699-3745
   quote: Lighting was poor, but its surface did appear metallic.
   claim_id: dfee2cb7-2533-49de-a2ac-39872bfa5b13
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dfee2cb7-2533-49de-a2ac-39872bfa5b13
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dfee2cb7-2533-49de-a2ac-39872bfa5b13
 - text: No windows, portholes, wings, tail section or landing gear observed
   source: The Fourth Mind
   location: ch28:3755-3820
   quote: No windows, portholes, wings, tail section, or landing gear were visible.
   claim_id: 34ec65d0-e9ff-4ee3-bad7-dbd1b95c9cef
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-34ec65d0-e9ff-4ee3-bad7-dbd1b95c9cef
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-34ec65d0-e9ff-4ee3-bad7-dbd1b95c9cef
 - text: Saw a couple of bodies under a tarpaulin from a distance
   source: The Fourth Mind
   location: ch28:3830-3904
@@ -369,7 +369,7 @@ references:
     tarpaulin.
   claim_id: 42011754-fe21-4b0a-a51a-b00b071e9f2b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-42011754-fe21-4b0a-a51a-b00b071e9f2b
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-42011754-fe21-4b0a-a51a-b00b071e9f2b
 - text: Informed of a temporary morgue
   source: The Fourth Mind
   location: ch28:4251-4324
@@ -377,14 +377,14 @@ references:
     bodies.
   claim_id: a47d7a9b-651d-479c-a0ab-56596602a64d
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a47d7a9b-651d-479c-a0ab-56596602a64d
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a47d7a9b-651d-479c-a0ab-56596602a64d
 - text: Informed the wreckage was not radioactive
   source: The Fourth Mind
   location: ch28:4333-4381
   quote: I was informed that the wreckage was not "hot" (radioactive).
   claim_id: 7eb8cbd9-2770-4694-a7ce-e0cdd6565ad7
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-7eb8cbd9-2770-4694-a7ce-e0cdd6565ad7
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-7eb8cbd9-2770-4694-a7ce-e0cdd6565ad7
 - text: Marcel described the balloon/kite substitution to Haut
   source: The Fourth Mind
   location: ch28:4396-4642
@@ -394,14 +394,14 @@ references:
     of the room.
   claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-df90eebc-f967-4025-99c1-4959e301ccf3
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-df90eebc-f967-4025-99c1-4959e301ccf3
 - text: Marcel upset over the substitution; never discussed again
   source: The Fourth Mind
   location: ch28:4648-4714
   quote: Marcel was very upset over the situation. We would not discuss it again.
   claim_id: 743de6d7-30d8-4604-a507-d0e9301a3dca
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-743de6d7-30d8-4604-a507-d0e9301a3dca
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-743de6d7-30d8-4604-a507-d0e9301a3dca
 - text: Haut permitted to visit a recovery site during cleanup
   source: The Fourth Mind
   location: ch28:4722-4817
@@ -409,7 +409,7 @@ references:
     during the military cleanup.
   claim_id: d6970389-dbd1-4a32-a60f-6c33f644ced0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d6970389-dbd1-4a32-a60f-6c33f644ced0
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d6970389-dbd1-4a32-a60f-6c33f644ced0
 - text: Haut returned with wreckage, displayed in his office
   source: The Fourth Mind
   location: ch28:4826-4907
@@ -417,7 +417,7 @@ references:
     in my office.
   claim_id: a0d01afb-99c2-4c66-9e63-ec2cedb9a34b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0d01afb-99c2-4c66-9e63-ec2cedb9a34b
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0d01afb-99c2-4c66-9e63-ec2cedb9a34b
 - text: Aware two teams returned to each site months later
   source: The Fourth Mind
   location: ch28:4916-5026
@@ -425,7 +425,7 @@ references:
     periodic searches for any remaining evidence.
   claim_id: c1be2187-ab8b-4a01-a5a3-1c665d9254d8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c1be2187-ab8b-4a01-a5a3-1c665d9254d8
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c1be2187-ab8b-4a01-a5a3-1c665d9254d8
 - text: Haut convinced he had observed a craft and crew from outer space
   source: The Fourth Mind
   location: ch28:5037-5131
@@ -433,14 +433,14 @@ references:
     its crew from outer space.
   claim_id: dd693430-5ca1-4ba2-96bb-b628b3bfc9b2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dd693430-5ca1-4ba2-96bb-b628b3bfc9b2
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dd693430-5ca1-4ba2-96bb-b628b3bfc9b2
 - text: Haut remained in Roswell after retirement
   source: The Fourth Mind
   location: ch11:1367-1435
   quote: One of these was Walter Haut, who had remained in Roswell after his retirement.
   claim_id: 0334f11a-1d91-413a-bf3a-2d8472734ed0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0334f11a-1d91-413a-bf3a-2d8472734ed0
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0334f11a-1d91-413a-bf3a-2d8472734ed0
 - text: Striebers met Haut at his home, discussed his work
   source: The Fourth Mind
   location: ch11:1594-1703
@@ -448,7 +448,7 @@ references:
     He described his work as base press officer
   claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-07fc1176-d7a9-473a-a4dc-bcdc2347771d
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-07fc1176-d7a9-473a-a4dc-bcdc2347771d
 - text: Haut surprised a lid was put on the Roswell story
   source: The Fourth Mind
   location: ch11:1716-1817
@@ -456,7 +456,7 @@ references:
     been put on the whole thing
   claim_id: 5e4404fd-efe0-4fe9-903a-45c664468e0a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5e4404fd-efe0-4fe9-903a-45c664468e0a
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5e4404fd-efe0-4fe9-903a-45c664468e0a
 - text: Haut disappointed the story had been spiked
   source: The Fourth Mind
   location: ch11:1824-1898
@@ -464,7 +464,7 @@ references:
     “spiked.”
   claim_id: d06b35aa-d665-4975-bd39-8a98f3643588
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d06b35aa-d665-4975-bd39-8a98f3643588
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d06b35aa-d665-4975-bd39-8a98f3643588
 - text: Haut affirmed Marcel's debris description was unusual
   source: The Fourth Mind
   location: ch11:1908-2035
@@ -472,7 +472,7 @@ references:
     found in the desert thirty miles from Roswell was unusual
   claim_id: 1043044d-0ff2-4f1a-a419-b0fb40e1304f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1043044d-0ff2-4f1a-a419-b0fb40e1304f
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1043044d-0ff2-4f1a-a419-b0fb40e1304f
 - text: 'Haut''s understanding: debris flown to Air Materiel Command, Wright Field'
   source: The Fourth Mind
   location: ch11:2048-2144
@@ -480,7 +480,7 @@ references:
     Command at Wright Field
   claim_id: 6fca7aac-1f84-4516-8359-30c2fabbf6bb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6fca7aac-1f84-4516-8359-30c2fabbf6bb
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6fca7aac-1f84-4516-8359-30c2fabbf6bb
 - text: Haut said no, a kite or balloon wouldn't get such treatment
   source: The Fourth Mind
   location: ch11:2151-2269
@@ -488,7 +488,7 @@ references:
     that treatment and he said, simply, “No.”
   claim_id: f5a968dd-017a-4ca7-a037-c984f668a96a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f5a968dd-017a-4ca7-a037-c984f668a96a
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f5a968dd-017a-4ca7-a037-c984f668a96a
 - text: Haut called Marcel one of the most honest people he knew
   source: The Fourth Mind
   location: ch11:2274-2398
@@ -496,7 +496,7 @@ references:
     was one of the most honest people he had ever known.
   claim_id: 0ce83969-109f-4b9c-ac94-e4909c082fb7
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0ce83969-109f-4b9c-ac94-e4909c082fb7
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0ce83969-109f-4b9c-ac94-e4909c082fb7
 - text: Haut evasive about the bodies; Striebers' interpretation
   source: The Fourth Mind
   location: ch11:2406-2644
@@ -505,7 +505,7 @@ references:
     not to lie but also not to tell the truth.
   claim_id: 10f52b79-5a18-434f-8853-25c90d5fec32
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-10f52b79-5a18-434f-8853-25c90d5fec32
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-10f52b79-5a18-434f-8853-25c90d5fec32
 - text: '''If I couldn''t tell you, I wouldn''t'''
   source: The Fourth Mind
   location: ch11:2798-2935
@@ -513,7 +513,7 @@ references:
     was something like, “If I couldn’t tell you, then I wouldn’t.”
   claim_id: 6347f10a-a363-402c-84d2-069da600c4e9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6347f10a-a363-402c-84d2-069da600c4e9
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6347f10a-a363-402c-84d2-069da600c4e9
 - text: 2007 release of the affidavit sworn and sealed in 2002
   source: The Fourth Mind
   location: ch11:3183-3349
@@ -522,14 +522,14 @@ references:
     after his passing.
   claim_id: 6ca9d812-d4c7-42e0-ac62-df5865e000e1
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6ca9d812-d4c7-42e0-ac62-df5865e000e1
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6ca9d812-d4c7-42e0-ac62-df5865e000e1
 - text: Affidavit dated and signed 26 December 2002
   source: The Fourth Mind
   location: ch28:109-122
   quote: 'Dated: December 26, 2002'
   claim_id: 35cf7a9f-8436-423f-a870-ea1e0e3e89c7
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-35cf7a9f-8436-423f-a870-ea1e0e3e89c7
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-35cf7a9f-8436-423f-a870-ea1e0e3e89c7
 - text: Haut affirmed he was unpaid and the affidavit was truthful
   source: The Fourth Mind
   location: ch28:5139-5249
@@ -537,7 +537,7 @@ references:
     it is the truth to the best of my recollection.
   claim_id: 85b764b5-33cc-45fb-a239-1f9181cc6924
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-85b764b5-33cc-45fb-a239-1f9181cc6924
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-85b764b5-33cc-45fb-a239-1f9181cc6924
 - text: Affidavit to remain sealed until his death, family to decide disposition
   source: The Fourth Mind
   location: ch28:5264-5392
@@ -545,7 +545,7 @@ references:
     AT WHICH TIME MY SURVIVING FAMILY WILL DETERMINE ITS DISPOSITION.
   claim_id: 3b656d7b-000b-47a3-b668-bcba55e1e917
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3b656d7b-000b-47a3-b668-bcba55e1e917
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3b656d7b-000b-47a3-b668-bcba55e1e917
 - text: Only the heads extended beyond the tarpaulin, no features discernible
   source: The Fourth Mind
   location: ch11:3688-3768
@@ -553,7 +553,7 @@ references:
     any features.
   claim_id: dfd6b639-5d94-4913-86bc-20fd2e0e02e8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dfd6b639-5d94-4913-86bc-20fd2e0e02e8
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dfd6b639-5d94-4913-86bc-20fd2e0e02e8
 - text: Heads appeared larger; canvas contour suggested child-sized bodies
   source: The Fourth Mind
   location: ch11:3778-3900
@@ -561,7 +561,7 @@ references:
     the bodies suggested the size of a 10-year old child.
   claim_id: 345b960b-ab2b-403b-93f1-3227b94937fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-345b960b-ab2b-403b-93f1-3227b94937fc
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-345b960b-ab2b-403b-93f1-3227b94937fc
 - text: Blanchard indicated body height of about 1.2 m in his office
   source: The Fourth Mind
   location: ch11:3907-4015
@@ -569,7 +569,7 @@ references:
     above the floor to indicate the height.
   claim_id: dffe5289-4d64-4503-9c79-e5f62434c8dc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dffe5289-4d64-4503-9c79-e5f62434c8dc
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dffe5289-4d64-4503-9c79-e5f62434c8dc
 - text: Daughter Julie Shuster witnessed the affidavit
   source: In Plain Sight
   location: ch7:20333-20421
@@ -577,7 +577,7 @@ references:
     Roswell's UFO Museum
   claim_id: 84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
 - text: Julie Shuster employed by the Roswell UFO Museum, co-founded by Haut
   source: In Plain Sight
@@ -586,7 +586,7 @@ references:
     by her dad
   claim_id: 98734dcd-1df9-499e-a94e-0eb2e4935616
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98734dcd-1df9-499e-a94e-0eb2e4935616
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98734dcd-1df9-499e-a94e-0eb2e4935616
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-98734dcd-1df9-499e-a94e-0eb2e4935616
 - text: Haut died 15 December 2005
   source: The Fourth Mind
@@ -594,7 +594,7 @@ references:
   quote: Walter died on December 15, 2005
   claim_id: 55ccbc7c-c5d5-4d2a-8976-5e4e766ddfb1
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-55ccbc7c-c5d5-4d2a-8976-5e4e766ddfb1
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-55ccbc7c-c5d5-4d2a-8976-5e4e766ddfb1
 - text: Haut unavailable for follow-up questions; earlier affidavit omitted extra-terrestrials
   source: In Plain Sight
   location: ch7:19461-19694
@@ -603,7 +603,7 @@ references:
     affidavit making no mention of recovered ETs or a craft.
   claim_id: 2d24a409-e9b8-4a21-828e-79ae40bc8d0d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2d24a409-e9b8-4a21-828e-79ae40bc8d0d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2d24a409-e9b8-4a21-828e-79ae40bc8d0d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2d24a409-e9b8-4a21-828e-79ae40bc8d0d
 - text: 'Sceptics: Haut may not have been of sound mind; Schmitt and Carey wrote the
     affidavit'
@@ -614,7 +614,7 @@ references:
     Don Schmitt and Thomas Carey, actually wrote the dramatic affidavit.
   claim_id: 12197459-edd4-4596-bc09-7ba0e4009f19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12197459-edd4-4596-bc09-7ba0e4009f19
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12197459-edd4-4596-bc09-7ba0e4009f19
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12197459-edd4-4596-bc09-7ba0e4009f19
 - text: 'Schmitt: no one worked on Haut more than he and Carey did'
   source: In Plain Sight
@@ -623,7 +623,7 @@ references:
     trying to get him to open up,’ Schmitt told me.
   claim_id: 9b29474e-c205-4dee-9813-93a2c64118f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b29474e-c205-4dee-9813-93a2c64118f4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b29474e-c205-4dee-9813-93a2c64118f4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b29474e-c205-4dee-9813-93a2c64118f4
 - text: 'Schmitt: drafted affidavit from what Haut told them; Haut approved every
     word'
@@ -633,7 +633,7 @@ references:
     Haut was very clearly of sound mind, approving every word.
   claim_id: 2cc93094-18ef-473e-b1ec-f34d2c68b429
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc93094-18ef-473e-b1ec-f34d2c68b429
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc93094-18ef-473e-b1ec-f34d2c68b429
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2cc93094-18ef-473e-b1ec-f34d2c68b429
 - text: 'Schmitt: statement based on years of information, read with daughter, notary,
     witness present'
@@ -644,7 +644,7 @@ references:
     was a notary present, there was another witness present.
   claim_id: bffdd553-2575-49a9-a2be-ca39ed1b65d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bffdd553-2575-49a9-a2be-ca39ed1b65d9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bffdd553-2575-49a9-a2be-ca39ed1b65d9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bffdd553-2575-49a9-a2be-ca39ed1b65d9
 - text: 'Schmitt: daughter said Haut would not have signed if he disagreed'
   source: In Plain Sight
@@ -653,7 +653,7 @@ references:
     with a word of it, he would never have signed.’
   claim_id: 98c8f72f-f20a-473b-b271-acae8a0ac460
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98c8f72f-f20a-473b-b271-acae8a0ac460
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98c8f72f-f20a-473b-b271-acae8a0ac460
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-98c8f72f-f20a-473b-b271-acae8a0ac460
 - text: 'Critics: Julie Shuster had a financial incentive'
   source: In Plain Sight
@@ -662,7 +662,7 @@ references:
     extra-terrestrial hypothesis and that her dying father was happy to oblige.
   claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48996f14-7c9d-4b99-b750-d2e713dec406
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48996f14-7c9d-4b99-b750-d2e713dec406
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48996f14-7c9d-4b99-b750-d2e713dec406
 - text: 'Schmitt: suggestion unfounded, Shuster paid near minimum wage'
   source: In Plain Sight
@@ -672,7 +672,7 @@ references:
     a financial incentive for her and her dad to concoct a UFO story,' he said.
   claim_id: e381239e-ca37-4806-ab47-f7c433d60ef2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e381239e-ca37-4806-ab47-f7c433d60ef2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e381239e-ca37-4806-ab47-f7c433d60ef2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e381239e-ca37-4806-ab47-f7c433d60ef2
 - text: Schmitt considers Haut sincere and truthful
   source: In Plain Sight
@@ -681,7 +681,7 @@ references:
     said in his affidavit.'''
   claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
 built_by:
   model: claude-sonnet-5

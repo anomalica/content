@@ -181,7 +181,7 @@ references:
     UAP performances.'''
   claim_id: 98dce38f-5aab-4702-990a-83e35e3db204
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: http://localhost:5173/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-98dce38f-5aab-4702-990a-83e35e3db204
+  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-98dce38f-5aab-4702-990a-83e35e3db204
 - text: The Australian government holds thousands of UFO sighting reports going back
     decades, many once classified secret or top secret.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -190,7 +190,7 @@ references:
     back decades, many of them once classified secret or top secret.
   claim_id: 5d80c1a2-12e4-4602-9a61-afd68a009829
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-5d80c1a2-12e4-4602-9a61-afd68a009829
+  workbench_url: https://workbench.anomalica.is/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-5d80c1a2-12e4-4602-9a61-afd68a009829
 - text: Ross Coulthart believes something anomalous is still happening at Northwest
     Cape near Exmouth, witnessed by people including personnel in the Australian Defence
     Department.
@@ -201,7 +201,7 @@ references:
     in our Defence Department.
   claim_id: f18ba371-24ca-449d-863a-8dc0037922ee
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-f18ba371-24ca-449d-863a-8dc0037922ee
+  workbench_url: https://workbench.anomalica.is/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-f18ba371-24ca-449d-863a-8dc0037922ee
 - text: When the 7NEWS team tried to film around the Northwest Cape base, the Australian
     Defence Department made them leave and pull back to a hill about 10 kilometres
     distant.
@@ -212,7 +212,7 @@ references:
     distant.
   claim_id: 7ea382c7-63c7-4cb9-b392-3de4e156f8bb
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
-  workbench_url: http://localhost:5173/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-7ea382c7-63c7-4cb9-b392-3de4e156f8bb
+  workbench_url: https://workbench.anomalica.is/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-7ea382c7-63c7-4cb9-b392-3de4e156f8bb
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

@@ -54,7 +54,7 @@ references:
     mostly with his own funding in 1998.
   claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f60a097b-1c0b-4280-a8c0-cfef0017d988
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f60a097b-1c0b-4280-a8c0-cfef0017d988
 - text: The company is a space technology company based in Las Vegas, Nevada, founded
     in 1998
   source: In Plain Sight
@@ -63,7 +63,7 @@ references:
     Las Vegas, Nevada.
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
 - text: NASA and other space companies use its habitats and equipment for their reliability
     and safety
@@ -74,14 +74,14 @@ references:
     their explorations and experiments in space.
   claim_id: bb4e5adf-57b9-4b3e-a180-71035c55bf36
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bb4e5adf-57b9-4b3e-a180-71035c55bf36
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bb4e5adf-57b9-4b3e-a180-71035c55bf36
 - text: Bigelow Aerospace was the contractor that ran the Pentagon's UFO programme
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 78
   quote: '[note: Begelow Aerospace - Contractor that ran the Pentagon''s UFO program]'
   claim_id: 233590ec-fa47-49d4-af3f-565329bd7de8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-233590ec-fa47-49d4-af3f-565329bd7de8
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-233590ec-fa47-49d4-af3f-565329bd7de8
 - text: The AAWSAP contract was awarded to a Bigelow Aerospace subsidiary owned by
     Robert Bigelow
   source: Statement to Congress
@@ -90,7 +90,7 @@ references:
     owned by Robert Bigelow.
   claim_id: d314c627-a752-43d3-a286-835241ddff40
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
 - text: AAWSAP was funded through the DIA and run using Bigelow Aerospace to investigate
     the UFO phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -99,7 +99,7 @@ references:
     through DIA using Bigelow Aerospace, investigating the phenomenon.
   claim_id: 81abc27c-22f7-45ef-8f3c-1a3bf124e852
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
 - text: AATIP funding went to Bigelow Aerospace, which hired subcontractors and solicited
     research
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -109,7 +109,7 @@ references:
     subcontractors and solicited research for the program.
   claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
 - text: Puthoff was a senior scientist for Bigelow Aerospace working on AATIP
   source: 'Episode 73: Science vs. Secrecy'
@@ -119,7 +119,7 @@ references:
     of the DIA-funded program.
   claim_id: 387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
 - text: Puthoff commissioned about 36 forecasting papers for Bigelow Aerospace without
     disclosing a UAP connection
   source: 'Episode 73: Science vs. Secrecy'
@@ -130,7 +130,7 @@ references:
     to do with, quote, ETs or UAPs or whatever.
   claim_id: 65232dd7-cf3f-41f1-84be-70127118b855
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-65232dd7-cf3f-41f1-84be-70127118b855
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-65232dd7-cf3f-41f1-84be-70127118b855
 - text: During an unfunded period, the follow-on programme's participants had support
     from Bigelow Aerospace and other places
   source: 'Episode 73: Science vs. Secrecy'
@@ -138,7 +138,7 @@ references:
   quote: We just had support from Bigelow Aerospace and other places.
   claim_id: cdcf1211-1073-4e9e-b0ab-d7852b0543ed
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cdcf1211-1073-4e9e-b0ab-d7852b0543ed
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cdcf1211-1073-4e9e-b0ab-d7852b0543ed
 - text: The contract required the Las Vegas plant be engineered to accept, store,
     and study exotic materials
   source: Statement to Congress
@@ -148,7 +148,7 @@ references:
     certain exotic materials.
   claim_id: 761022c7-f81c-479f-b0c6-5c3bfec1942d
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
 - text: An alien logo is painted on the exterior of the Las Vegas building
   source: In Plain Sight
   location: ch17:5779-5906
@@ -156,7 +156,7 @@ references:
     of his massive Bigelow Aerospace building in Las Vegas.
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
 - text: Buildings were modified to store metal alloys said by Elizondo and AATIP contractors
     to have been recovered from UAP
@@ -168,7 +168,7 @@ references:
     contractors said had been recovered from unidentified aerial phenomena.
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-94b6de85-512f-4359-9da1-d796a1895ec9
 - text: Several attempts were made to divest materials to AAWSAP or to Bigelow Aerospace
   source: 'Episode 73: Science vs. Secrecy'
@@ -176,7 +176,7 @@ references:
   quote: There were several attempts to divest materials to the AAWSAP or to BAS?
   claim_id: 21cd8e31-9e61-4a9b-b467-bf048283d04e
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-21cd8e31-9e61-4a9b-b467-bf048283d04e
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-21cd8e31-9e61-4a9b-b467-bf048283d04e
 - text: A plan for Bigelow Aerospace to build facilities to house Lockheed Martin
     Space Systems Company materials never materialised
   source: 'Episode 73: Science vs. Secrecy'
@@ -184,7 +184,7 @@ references:
   quote: That was the plan, but it never materialized.
   claim_id: e4fb1fa3-936e-465d-8e40-8976d51107ff
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e4fb1fa3-936e-465d-8e40-8976d51107ff
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e4fb1fa3-936e-465d-8e40-8976d51107ff
 - text: Under the Kona Blue proposal, assets were to move from Lockheed Martin to
     Bigelow Aerospace
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -193,7 +193,7 @@ references:
     Martin, who had UFO material to Bigelow aerospace
   claim_id: 0738e5c7-54c4-42af-98a5-102be9d49043
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0738e5c7-54c4-42af-98a5-102be9d49043
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0738e5c7-54c4-42af-98a5-102be9d49043
 - text: Blumenthal later said he had learned no materials were in fact provided
   source: In Plain Sight
   location: ch21:18231-18380
@@ -201,7 +201,7 @@ references:
     in an interview, admitting they have now learned that 'no materials were provided'.
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
 built_by:
   model: claude-sonnet-5

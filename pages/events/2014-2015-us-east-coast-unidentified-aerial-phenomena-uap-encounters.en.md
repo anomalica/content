@@ -61,7 +61,7 @@ references:
     Theodore Roosevelt.
   claim_id: 954d60d5-7825-49eb-9ebf-e1be01489808
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-954d60d5-7825-49eb-9ebf-e1be01489808
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-954d60d5-7825-49eb-9ebf-e1be01489808
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-954d60d5-7825-49eb-9ebf-e1be01489808
 - text: Pilots aboard the USS Theodore Roosevelt encountered anomalous objects almost
     every time they flew as training continued into 2015
@@ -72,7 +72,7 @@ references:
     anomalous objects almost every time they flew.
   claim_id: b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
 - text: F/A-18 jets in these encounters carried new APG-79 electronic beam scanning
     radar, unlike the jets in the 2004 Nimitz encounter
@@ -82,7 +82,7 @@ references:
     electronic beam scanning radar systems
   claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
 - text: Carrier Strike Group Twelve had a new integrated data-link giving commanders
     a comprehensive battlespace overview
@@ -93,7 +93,7 @@ references:
     like never before.
   claim_id: 67e6e739-1209-4895-b594-f270cebb425d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67e6e739-1209-4895-b594-f270cebb425d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67e6e739-1209-4895-b594-f270cebb425d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67e6e739-1209-4895-b594-f270cebb425d
 - text: New E-2D Hawkeye airborne early-warning aircraft were airborne during the
     encounters
@@ -102,7 +102,7 @@ references:
   quote: New E-2D Hawkeye airborne early-warning aircraft were also in the air.
   claim_id: bea1250d-aec0-4b0e-a069-6a2f13686463
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bea1250d-aec0-4b0e-a069-6a2f13686463
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bea1250d-aec0-4b0e-a069-6a2f13686463
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bea1250d-aec0-4b0e-a069-6a2f13686463
 - text: For weeks, nearly every pilot on almost every mission was tracking strange
     objects
@@ -112,7 +112,7 @@ references:
     objects in the sky.
   claim_id: 42f15f1f-f1d7-48db-b912-bba993df731a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42f15f1f-f1d7-48db-b912-bba993df731a
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42f15f1f-f1d7-48db-b912-bba993df731a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-42f15f1f-f1d7-48db-b912-bba993df731a
 - text: Radars showed unknown objects hovering for hours then flying at instantaneous
     hypersonic speeds, altitudes from sea level to roughly 9,100 metres
@@ -123,7 +123,7 @@ references:
     level
   claim_id: a3a60b2f-f351-4f5e-9e91-7845b3d1a367
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3a60b2f-f351-4f5e-9e91-7845b3d1a367
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3a60b2f-f351-4f5e-9e91-7845b3d1a367
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3a60b2f-f351-4f5e-9e91-7845b3d1a367
 - text: Infrared cameras also picked up the same objects seen on radar, leading pilots
     to rule out false radar tracks
@@ -133,7 +133,7 @@ references:
     pilots realised these were not false radar tracks at all
   claim_id: d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
 - text: According to the source, two fighters flying roughly 30 metres apart had an
     anomalous object pass through the gap between them
@@ -144,7 +144,7 @@ references:
     that separated them
   claim_id: ec0e8840-aafe-4cc2-88ce-5c019c02630f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
 - text: Ryan Graves said the object was a translucent sphere, a 'giant soap bubble',
     with a cube inside touching its edge, as relayed by the pilot who experienced
@@ -158,7 +158,7 @@ references:
     by his anonymous pilot colleague who experienced it.
   claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fa3908-d548-4a13-91f4-0438b34b7372
 - text: Christopher Mellon said the object was perhaps 1.8 to 3 metres across, a transparent
     sphere with a black cube inside whose edges touched the interior
@@ -170,7 +170,7 @@ references:
     edges of the cube are touching the interior of the bubble . . .’'
   claim_id: 34568746-2b6e-49b4-95a2-6de6e6e9e67d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34568746-2b6e-49b4-95a2-6de6e6e9e67d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34568746-2b6e-49b4-95a2-6de6e6e9e67d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34568746-2b6e-49b4-95a2-6de6e6e9e67d
 - text: Pilots reasoned the craft could not be a covert US programme, since testing
     secret technology on its own pilots without warning would breach standard operating
@@ -183,7 +183,7 @@ references:
     breach of standard operating procedure.
   claim_id: 6a269a37-a40d-487d-b70a-63a3d5b967e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6a269a37-a40d-487d-b70a-63a3d5b967e9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6a269a37-a40d-487d-b70a-63a3d5b967e9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6a269a37-a40d-487d-b70a-63a3d5b967e9
 - text: Ryan Graves said the objects remained in the sky for the duration of his roughly
     90-minute to two-hour flight and were still there when a fellow pilot took off
@@ -196,7 +196,7 @@ references:
     is seeing the same things.’
   claim_id: 5facda27-1960-4a99-9001-c20ab15ed49c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5facda27-1960-4a99-9001-c20ab15ed49c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5facda27-1960-4a99-9001-c20ab15ed49c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5facda27-1960-4a99-9001-c20ab15ed49c
 - text: When the USS Theodore Roosevelt left Florida in March 2015 for the Persian
     Gulf to fight ISIS in Iraq and Syria, unknown craft apparently followed the carrier
@@ -209,7 +209,7 @@ references:
     group to the other side of the world.
   claim_id: 0626ab78-0b0d-45d8-9bc5-961e87b11d42
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0626ab78-0b0d-45d8-9bc5-961e87b11d42
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0626ab78-0b0d-45d8-9bc5-961e87b11d42
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0626ab78-0b0d-45d8-9bc5-961e87b11d42
 - text: Tyler Rogoway wrote that the objects' presence in the restricted training
     airspace was so pervasive it was largely common knowledge among local flying units
@@ -220,7 +220,7 @@ references:
     among local flying units,’ he wrote.
   claim_id: df8d28d6-5ed6-450c-823c-0fb9b1096a6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df8d28d6-5ed6-450c-823c-0fb9b1096a6b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df8d28d6-5ed6-450c-823c-0fb9b1096a6b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df8d28d6-5ed6-450c-823c-0fb9b1096a6b
 - text: The Gimbal video was almost certainly filmed in late 2014 or early 2015 off
     the US east coast
@@ -230,7 +230,7 @@ references:
     in late 2014 or early 2015 off the east coast of the US
   claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
 - text: Christopher Mellon's Washington Post story revealed the Go-Fast video was
     filmed off the US east coast in late 2014 or early 2015
@@ -240,7 +240,7 @@ references:
     filmed off the east coast of the US sometime in late 2014 or early 2015.
   claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
 - text: Lex Fridman said very few people have spoken publicly about these encounters
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -249,7 +249,7 @@ references:
   quote: the 2014 case, very few people have spoken about it.
   claim_id: 37ae5e5f-ee53-4676-ac1f-31fead26e7ea
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-37ae5e5f-ee53-4676-ac1f-31fead26e7ea
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-37ae5e5f-ee53-4676-ac1f-31fead26e7ea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

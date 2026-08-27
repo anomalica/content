@@ -421,7 +421,7 @@ references:
   quote: '[note: OSS - Office of Strategic Services, forerunner of the CIA]'
   claim_id: 1975bf41-899e-4d8a-9eca-d37c73bc96f5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1975bf41-899e-4d8a-9eca-d37c73bc96f5
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1975bf41-899e-4d8a-9eca-d37c73bc96f5
 - text: After 1952 Washington, D.C. sightings, CIA Deputy Director Robert Amory Jr.
     tasked OSI's Physics and Electronics Division to review UFO cases
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -433,7 +433,7 @@ references:
     Intelligence's (OSI) Physics and Electronics Division to review UFO cases.
   claim_id: 4ef2fd6f-363d-4ede-9a52-0190ccc40a80
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4ef2fd6f-363d-4ede-9a52-0190ccc40a80
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4ef2fd6f-363d-4ede-9a52-0190ccc40a80
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-4ef2fd6f-363d-4ede-9a52-0190ccc40a80
 - text: The Robertson Panel's establishment followed a recommendation from the CIA's
     Intelligence Advisory Committee to enlist scientists to review UFO evidence
@@ -445,7 +445,7 @@ references:
     evidence in light of pertinent scientific theories."
   claim_id: cf449dec-70dc-4727-8578-e1e4f41e6ccf
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
 - text: In 1953 the Robertson Panel recommended publicising debunked cases while staying
     silent on unexplained ones
@@ -457,7 +457,7 @@ references:
     already been debunked and say nothing about the ones that haven't.
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
 - text: A CIA/USAF panel that met in 1953 recommended monitoring civilian UFO groups
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:7950-8099
@@ -465,7 +465,7 @@ references:
     which met in 1953, was precisely to monitor the activities of civilian groups
   claim_id: e3745a5e-3f58-48e3-b76c-0bf194b6872f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
 - text: NICAP's board of directors included a former head of the CIA
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:5933-6012
@@ -473,7 +473,7 @@ references:
     the CIA
   claim_id: 1ee20b8a-e19a-4f25-9f32-24b0d5367c94
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1ee20b8a-e19a-4f25-9f32-24b0d5367c94
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1ee20b8a-e19a-4f25-9f32-24b0d5367c94
 - text: Roscoe Hillenkoetter said it was imperative to learn what UFOs are and where
     they come from
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -482,7 +482,7 @@ references:
     that we learn what UFOs are and where they come from,”
   claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
 - text: Eisenhower gave the CIA the lead role, with the USAF, in the WS-117L/CORONA
     program in February 1958
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -493,7 +493,7 @@ references:
     the USAF.
   claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a981e9c9-720e-4314-aa44-87c364723d8e
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a981e9c9-720e-4314-aa44-87c364723d8e
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a981e9c9-720e-4314-aa44-87c364723d8e
 - text: Eisenhower approved the CIA-led Project OXCART in 1958, fully operational
     by 1965
@@ -504,7 +504,7 @@ references:
     to the U-2 spy plane in 1958, which became fully operational in 1965.
   claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
 - text: By 1967 the A-12 OXCART was deployed and CORONA satellites imaged denied areas
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -515,7 +515,7 @@ references:
     overflights.
   claim_id: f2ba1453-9495-4306-9ba7-1470a46e4a4c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f2ba1453-9495-4306-9ba7-1470a46e4a4c
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f2ba1453-9495-4306-9ba7-1470a46e4a4c
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f2ba1453-9495-4306-9ba7-1470a46e4a4c
 - text: A declassified CIA assessment found over half of 1950s-60s UFO reports were
     US reconnaissance flights
@@ -527,7 +527,7 @@ references:
     on reconnaissance aircraft.
   claim_id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
 - text: 'Fravor: CIA created shell companies to buy Soviet titanium for the SR-71
     Blackbird'
@@ -539,7 +539,7 @@ references:
     over Russia.
   claim_id: 57474528-56fe-4fee-bdc6-b4eb9035d210
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-57474528-56fe-4fee-bdc6-b4eb9035d210
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-57474528-56fe-4fee-bdc6-b4eb9035d210
 - text: 'Marler: USAF, FBI and CIA maintained an official policy of denying and debunking
     UFOs'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -548,7 +548,7 @@ references:
     a policy of denial. Deny the subject, dispel the subject, debunk the subject.
   claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
 - text: CIA began funding secret ESP research at SRI in response to Soviet spending
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -557,7 +557,7 @@ references:
     Research Institute, SRI, in Menlo Park, California.
   claim_id: b01ab687-c383-4643-a06e-e08c420cad48
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
 - text: Stargate remote-viewing programme run for the CIA at SRI from 1972
   source: The Fourth Mind
   location: ch22:13288-13439
@@ -565,7 +565,7 @@ references:
     Central Intelligence Agency at the Stanford Research Institute starting in 1972
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
 - text: Puthoff and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
@@ -574,7 +574,7 @@ references:
     Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
 - text: Puthoff regularly reported directly to the White House and the CIA director
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -583,7 +583,7 @@ references:
     House and the director of the CIA.
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d267f396-9477-4118-9435-449a2ca88ffd
 - text: Ingo Swann was an original participant in CIA remote-viewing evaluations
   source: Remote Viewing Secrets
@@ -592,7 +592,7 @@ references:
     back in the early 1970s
   claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
 - text: Swann was asked to remote view a suspected Soviet nuclear-weapons facility
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -601,7 +601,7 @@ references:
     was believed to be used for the manufacturing of nuclear weapons.
   claim_id: 12a1abe9-44f8-4e72-87f6-235a95798b3f
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-12a1abe9-44f8-4e72-87f6-235a95798b3f
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-12a1abe9-44f8-4e72-87f6-235a95798b3f
 - text: Puthoff managed the CIA's Stargate program before AAWSAP/AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45073-45180
@@ -609,7 +609,7 @@ references:
     time managing the CIA’s Stargate program.
   claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-401b6b38-170a-4e42-9d6e-697b04b42951
 - text: CIA's ESP work concluded late 1970s and moved to the Army's Fort Meade
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -619,7 +619,7 @@ references:
     to the US Army's Fort Meade in Maryland.
   claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
 - text: Stargate was later run by the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:24728-24968
@@ -629,7 +629,7 @@ references:
     gifts.
   claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
 - text: CIA released a 1995 report acknowledging its remote-viewing work
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -639,7 +639,7 @@ references:
     long-rumored work with remote viewing for military and intelligence purposes.
   claim_id: 80b4dac8-65d6-4570-82ac-c07463eaca62
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
 - text: In 2017 the CIA declassified about 12 million pages on the programme
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -648,7 +648,7 @@ references:
     which revealed new details about the program, now known as Project Stargate
   claim_id: bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
 - text: Jim Semivan retired from the CIA's Directorate of Operations after 25 years
   source: In Plain Sight
   location: ch21:787-952
@@ -657,7 +657,7 @@ references:
     the US and internationally.
   claim_id: 0e45d397-56fa-4bb5-bb51-20816c6e4517
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
 - text: Semivan held Senior Executive Service rank, roughly two levels below the CIA
     director
@@ -667,7 +667,7 @@ references:
     director when he was working there.
   claim_id: 9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
 - text: Zubek's sensory deprivation research paralleled the CIA's Project MKUltra
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:17:19.2-00:17:24.7
@@ -675,7 +675,7 @@ references:
     human behavior for interrogation purposes.
   claim_id: 083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
-  workbench_url: http://localhost:5173/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
+  workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
 - text: 'Grusch: a shell game hid MKUltra from the CIA''s own oversight bodies and
     Congress'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -684,7 +684,7 @@ references:
     counsel, Congress from learning about the program.
   claim_id: 8b01266c-3c6f-4358-a524-a4102e78d61b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8b01266c-3c6f-4358-a524-a4102e78d61b
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8b01266c-3c6f-4358-a524-a4102e78d61b
 - text: 'Grusch: the MK series included Operation CHAOS, a domestic influence operation'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:10:51.5-00:10:57.2
@@ -692,7 +692,7 @@ references:
     influence operations
   claim_id: 73448ce5-7b88-4ee6-9108-c2bac049eb78
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-73448ce5-7b88-4ee6-9108-c2bac049eb78
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-73448ce5-7b88-4ee6-9108-c2bac049eb78
 - text: 'Grusch: CIA pursued mind control because Russia was doing the same'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:11:13.3-00:11:22.9
@@ -701,14 +701,14 @@ references:
     of thing.
   claim_id: 4472a07b-4777-4192-9fd0-74221c5b444b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4472a07b-4777-4192-9fd0-74221c5b444b
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4472a07b-4777-4192-9fd0-74221c5b444b
 - text: 'Grusch: CIA wanted to create Manchurian Candidate assassins via MKUltra'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:11:23.2-00:11:26.9
   quote: And they wanted to create Manchurian Candidate Assassins and other things.
   claim_id: a8cd812f-9575-4a73-86bc-d00cec89fcca
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a8cd812f-9575-4a73-86bc-d00cec89fcca
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a8cd812f-9575-4a73-86bc-d00cec89fcca
 - text: 'Grusch: CIA paid off journalists under Operation Mockingbird'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:11:55.6-00:12:04.2
@@ -716,7 +716,7 @@ references:
     organizations. That's the whole Mockingbird thing that you hear.
   claim_id: 3b64b0c4-78b8-40a0-8605-f40c8e57081c
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3b64b0c4-78b8-40a0-8605-f40c8e57081c
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3b64b0c4-78b8-40a0-8605-f40c8e57081c
 - text: 'Sheehan: Carter sought a UFO briefing meeting with CIA Director Bush before
     his 1977 inauguration'
   source: In Plain Sight
@@ -728,7 +728,7 @@ references:
     to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused, telling Carter he had no ''need to know'''
   source: In Plain Sight
@@ -737,7 +737,7 @@ references:
     on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
 - text: Bush's CIA directorship ended just before Carter's January 1977 inauguration
   source: In Plain Sight
@@ -746,7 +746,7 @@ references:
     1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
 - text: 'Sheehan: briefing documents given to Carter did not reveal what Sheehan says
     he found'
@@ -757,7 +757,7 @@ references:
     subsequently told in briefing documents did not reveal what Sheehan discovered
   claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
 - text: In 1993, after Rockefeller's lobbying, Clinton ordered CIA Director Woolsey
     to release more UAP files
@@ -768,7 +768,7 @@ references:
     files on the subject.
   claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
 - text: Greer described his 1993 meeting with Woolsey as a covert UFO briefing disguised
     as a dinner party
@@ -779,7 +779,7 @@ references:
     briefing on the topic of UFOs under the guise of a dinner party'.
   claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
 - text: Petersen raised redacted UFO-related documents with Woolsey at CIA headquarters
   source: In Plain Sight
@@ -790,7 +790,7 @@ references:
     of "alien stuff"'.
   claim_id: 64da8255-0547-4f22-ba45-7f3b5796669e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64da8255-0547-4f22-ba45-7f3b5796669e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64da8255-0547-4f22-ba45-7f3b5796669e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-64da8255-0547-4f22-ba45-7f3b5796669e
 - text: Petersen denied Woolsey reached out to Greer or requested the 1993 dinner
     meeting
@@ -802,7 +802,7 @@ references:
     was presumed that the subject of UFOs would be discussed,' Petersen says.
   claim_id: 329eff05-c536-499d-b77a-841a4700de02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-329eff05-c536-499d-b77a-841a4700de02
 - text: After 2012 Elizondo worked with Navy and CIA officials on AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -812,7 +812,7 @@ references:
     from the Navy and the C.I.A.
   claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
 - text: Puthoff conducted ESP research for the CIA and later worked as an AATIP contractor
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -822,7 +822,7 @@ references:
     perception for the C.I.A. and later worked as a contractor for the program.
   claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
 - text: Livingston presided over a CIA 'weird desk' investigating medical issues and
     abductions linked to UAP
@@ -833,7 +833,7 @@ references:
     to UAP encounters and anything strange.
   claim_id: 2245a04c-3ff4-441e-b16e-30b93db762ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
 - text: '''Weird Desk'' is a colloquial term for a CIA function that has moved around'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -841,7 +841,7 @@ references:
   quote: It's a colloquial term for a function which has moved around many times.
   claim_id: 4324dfd2-cfbc-4c13-9a8a-4b52f228804d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4324dfd2-cfbc-4c13-9a8a-4b52f228804d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4324dfd2-cfbc-4c13-9a8a-4b52f228804d
 - text: Clinton's science advisor's UFO briefing request went to the CIA's Weird Desk
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:49:06.2-00:49:13.7
@@ -850,7 +850,7 @@ references:
     the Weird Desk.
   claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-409ff077-63a6-4185-8eb5-b6ab66af4e5f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-409ff077-63a6-4185-8eb5-b6ab66af4e5f
 - text: Pandolfi was running the Weird Desk at the time
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:49:18.8-00:49:23.0
@@ -858,14 +858,14 @@ references:
     Desk.
   claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-fcfb04bf-222b-495d-84f0-b1300da49864
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-fcfb04bf-222b-495d-84f0-b1300da49864
 - text: Pandolfi is a CIA analyst at the centre of the UFO establishment
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 140
   quote: '[note: Ron Pandolfi - CIA analyst at the center of the UFO establishment]'
   claim_id: be8e3b59-e566-4967-bafa-cc0034fea135
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-be8e3b59-e566-4967-bafa-cc0034fea135
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-be8e3b59-e566-4967-bafa-cc0034fea135
 - text: Elizondo attended a meeting with Navy, CIA and NSA representatives where GoFast
     and Gimbal were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -874,7 +874,7 @@ references:
     CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
 - text: A CIA representative proposed the Gimbal object could be a hybrid balloon
     with an inducted fan
@@ -885,7 +885,7 @@ references:
     believing his own words.'
   claim_id: ce86cd54-c104-44c1-a4f6-b176e70c261a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
 - text: A CIA representative suggested a Mylar football with its own navigation and
     propulsion
@@ -895,7 +895,7 @@ references:
     propulsion."'
   claim_id: 1fa03d4c-d413-47c7-acc1-9705d2008385
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
 - text: A CIA representative suggested tether or beamed-energy power from a floating
     platform
@@ -905,7 +905,7 @@ references:
     it power, you know? Like a floating platform nearby."'
   claim_id: 05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
 - text: CIA assessed the Gimbal object's aura was not a camera artefact or lens flare
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -914,7 +914,7 @@ references:
     a lens flare.
   claim_id: cb98d930-2531-4f1d-b764-8b806fa35e83
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
 - text: CIA and FBI have posted unclassified UAP documents on their websites
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -923,7 +923,7 @@ references:
     world to search for and download.
   claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
 - text: 'Elizondo: White House, CIA, NASA, Pentagon and DOE all play a role but none
     is in charge'
@@ -935,7 +935,7 @@ references:
     power and corruption.
   claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
 - text: E. Howard Hunt, a CIA operative in Watergate, was long rumoured to be a key
     JFK assassination player
@@ -945,7 +945,7 @@ references:
     to have also been a key player in the Kennedy assassination
   claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
 - text: Gordon Novel gave DA Jim Garrison a CIA-Cuban-emigre link to the JFK assassination
   source: In Plain Sight
   location: ch27:4030-4314
@@ -955,7 +955,7 @@ references:
     assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.
   claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
 - text: Church Committee, Rockefeller Commission and HSCA all examined possible CIA
     involvement in the JFK assassination
@@ -967,7 +967,7 @@ references:
     there was CIA involvement in this.
   claim_id: 3387a6e0-33ff-4ea9-bee4-c5346c475234
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3387a6e0-33ff-4ea9-bee4-c5346c475234
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3387a6e0-33ff-4ea9-bee4-c5346c475234
 - text: 'Grusch: Congress lacked Church-Committee-style oversight of CIA/NSA/FBI on
     UAP'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -978,7 +978,7 @@ references:
     allowed to go unchecked for so many years.
   claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-36040736-14ae-4fe7-872a-d6c1cb3183b9
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-36040736-14ae-4fe7-872a-d6c1cb3183b9
 - text: 'Grusch: CIA, ONI and FFRDCs involved in analysis of recovered UAP material'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:06:53.9-00:07:02.9
@@ -987,7 +987,7 @@ references:
     over the decades.
   claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
 - text: 'Coulthart: Jorjani said Buchanan told him CIA has backdoor access to DNA
     databases'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -998,7 +998,7 @@ references:
     to consumer DNA databases like Ancestry.com and 23andMe.
   claim_id: 879880a5-ca0f-4fa0-9c4f-1003cc93e130
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
 - text: 'Coulthart: alleged DNA-database access used to screen for Nordic alien genetic
     markers'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -1009,7 +1009,7 @@ references:
     planet with us.
   claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
 - text: Buchanan has never directly confirmed Jorjani's account
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -1018,7 +1018,7 @@ references:
     of CIA backdoors.
   claim_id: 9327892c-dbbf-4a47-9d03-748ef46df3d4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9327892c-dbbf-4a47-9d03-748ef46df3d4
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9327892c-dbbf-4a47-9d03-748ef46df3d4
 - text: Coulthart says he has no idea of the claim's veracity and calls it disputed
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -1027,7 +1027,7 @@ references:
     I can tell you is that they are disputed.
   claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
 - text: 'Jesse Mitchells: hybridisation anecdotes come from very senior CIA figures
     such as Semivan'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -1036,7 +1036,7 @@ references:
     when it comes to people like Jim Sammivan
   claim_id: e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

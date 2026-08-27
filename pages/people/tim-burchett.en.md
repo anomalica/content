@@ -56,7 +56,7 @@ references:
     not a DC politician, but a blue-collar guy who used to own a trailer repair shop.
   claim_id: 1f7705dd-cc0c-4440-9171-dc7c0545312d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1f7705dd-cc0c-4440-9171-dc7c0545312d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1f7705dd-cc0c-4440-9171-dc7c0545312d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1f7705dd-cc0c-4440-9171-dc7c0545312d
 - text: Burchett's congressional district was near Oak Ridge, home to the nation's
     uranium stockpile, a former Manhattan Project 'Secret City', and the site of numerous
@@ -68,7 +68,7 @@ references:
     the site of countless UAP sightings.
   claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
 - text: Representatives Luna, Burlison, Gaetz, Comer, Ogles, Langworthy, Raskin, and
     Ocasio-Cortez were also present at the hearing alongside Burchett.
@@ -79,7 +79,7 @@ references:
     Langworthy, Raskin, and Ocasio-Cortez.'
   claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
 - text: Grothman waived Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez, and Ogles
     onto the subcommittee to participate in the hearing.
@@ -92,7 +92,7 @@ references:
     Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
   claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
 - text: Grothman thanked Burchett and Luna for bringing UAP to the Committee's attention.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -102,7 +102,7 @@ references:
     this to our attention.
   claim_id: f984cfbf-a4f3-4551-9908-a6177f78c2eb
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f984cfbf-a4f3-4551-9908-a6177f78c2eb
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f984cfbf-a4f3-4551-9908-a6177f78c2eb
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-f984cfbf-a4f3-4551-9908-a6177f78c2eb
 - text: Burchett entered the Defense Intelligence Reference Document into the hearing
     record as an unclassified public document.
@@ -115,7 +115,7 @@ references:
     Space Propulsion Based on Vacuum (spacetime metric) Engineering,''
   claim_id: de5653d4-edad-43de-beb2-4b10cdd30ce2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-de5653d4-edad-43de-beb2-4b10cdd30ce2
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-de5653d4-edad-43de-beb2-4b10cdd30ce2
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-de5653d4-edad-43de-beb2-4b10cdd30ce2
 - text: The Committee was denied access to a SCIF for a confidential discussion during
     the hearing.
@@ -127,7 +127,7 @@ references:
     unfortunate in this scenario.
   claim_id: 730c8f72-b6c5-49e3-adc3-dd48e78e780a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-730c8f72-b6c5-49e3-adc3-dd48e78e780a
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-730c8f72-b6c5-49e3-adc3-dd48e78e780a
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-730c8f72-b6c5-49e3-adc3-dd48e78e780a
 - text: Burchett, Gaetz, Luna, and Burlison visited Eglin Air Force Base to try to
     get answers on UAP.
@@ -138,7 +138,7 @@ references:
     at Eglin Air Force Base trying to get some answers.
   claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9725d5f4-e744-4876-a353-c6064d8da600
 - text: Gaetz sought a briefing about the Eglin Air Force Base UAP incident and brought
     Burchett and Luna with him.
@@ -149,7 +149,7 @@ references:
     Burchett and Congresswoman Luna.
   claim_id: b109fc08-0df9-41e8-8f67-716f6ff7dd49
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b109fc08-0df9-41e8-8f67-716f6ff7dd49
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b109fc08-0df9-41e8-8f67-716f6ff7dd49
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b109fc08-0df9-41e8-8f67-716f6ff7dd49
 - text: Burchett said that without Gaetz's involvement, he, Luna, and Burlison would
     still be at Eglin trying to get answers.
@@ -161,7 +161,7 @@ references:
     some answers.
   claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-771089ea-4d90-4e9c-979c-a78b450716cc
 - text: Burchett said Gaetz has an excellent legal mind.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -170,7 +170,7 @@ references:
   quote: He has got an incredible legal mind.
   claim_id: d25c13f7-f38b-4cea-a994-2b72a383c6b1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d25c13f7-f38b-4cea-a994-2b72a383c6b1
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d25c13f7-f38b-4cea-a994-2b72a383c6b1
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d25c13f7-f38b-4cea-a994-2b72a383c6b1
 - text: Burchett proposed an FAA reauthorization amendment requiring pilot UAP sighting
     reports to be forwarded to Congress.
@@ -182,7 +182,7 @@ references:
     it would come to Congress.
   claim_id: 0aff9851-b38a-41cb-967d-01860b6b4871
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0aff9851-b38a-41cb-967d-01860b6b4871
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0aff9851-b38a-41cb-967d-01860b6b4871
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0aff9851-b38a-41cb-967d-01860b6b4871
 - text: The amendment was not heard in committee after Burchett was told the intelligence
     community did not like it.
@@ -193,7 +193,7 @@ references:
     bill was—the amendment was not even heard in committee.
   claim_id: 038aa706-9a49-4d23-8515-5acf798cf0b2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-038aa706-9a49-4d23-8515-5acf798cf0b2
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-038aa706-9a49-4d23-8515-5acf798cf0b2
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-038aa706-9a49-4d23-8515-5acf798cf0b2
 - text: Burchett's father served in the USMC First Marine Division.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -202,7 +202,7 @@ references:
   quote: My daddy was United States Marine Corps First Marine Division.
   claim_id: 3b753630-8517-46bc-be0d-850e554e9679
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3b753630-8517-46bc-be0d-850e554e9679
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3b753630-8517-46bc-be0d-850e554e9679
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3b753630-8517-46bc-be0d-850e554e9679
 - text: Burchett's father served alongside Chesty Puller at the Battle of Peleliu.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -211,7 +211,7 @@ references:
   quote: He was old school. Him and Chesty Puller on Peleliu.
   claim_id: 3c162fe8-55e2-421b-ac4a-436185ee9ce2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3c162fe8-55e2-421b-ac4a-436185ee9ce2
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3c162fe8-55e2-421b-ac4a-436185ee9ce2
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3c162fe8-55e2-421b-ac4a-436185ee9ce2
 - text: Burchett met a person who travelled from Denmark to attend the hearing.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -221,7 +221,7 @@ references:
     meeting.
   claim_id: b5c480af-24e4-491d-b1e9-f5e8fcde9aea
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b5c480af-24e4-491d-b1e9-f5e8fcde9aea
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b5c480af-24e4-491d-b1e9-f5e8fcde9aea
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b5c480af-24e4-491d-b1e9-f5e8fcde9aea
 - text: Burchett said some Members of Congress confided UFO sightings of their own
     to him, wishing to remain anonymous.
@@ -233,7 +233,7 @@ references:
     it that way.
   claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
 - text: Elizondo said Burchett was particularly alarmed by the connection between
     UAP and US nuclear capabilities.
@@ -242,7 +242,7 @@ references:
   quote: He was particularly alarmed by the connection to US nuclear capabilities.
   claim_id: 58bee08c-3f84-417c-beb3-f41e698d00b6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-58bee08c-3f84-417c-beb3-f41e698d00b6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-58bee08c-3f84-417c-beb3-f41e698d00b6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-58bee08c-3f84-417c-beb3-f41e698d00b6
 - text: Phil McGraw discussed the UAP subject with Donald Trump, Stephen Miller, Burchett,
     and Luna.
@@ -252,7 +252,7 @@ references:
     Miller. I've discussed it with Representative Burchard and Luna.
   claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -90,7 +90,7 @@ references:
     now SRI International, an independent, nonprofit research institute in Menlo Park.
   claim_id: 95d91d99-f5fe-4aee-a964-9dbd0c397e10
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-95d91d99-f5fe-4aee-a964-9dbd0c397e10
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-95d91d99-f5fe-4aee-a964-9dbd0c397e10
 - text: Pasulka's research found Edgar Mitchell had also been involved with the institute
   source: American Cosmic
   location: ch6:31340-31544
@@ -99,7 +99,7 @@ references:
     been involved with the Stanford Research Institute (SRI).
   claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7392b45a-a0c1-43d2-ac31-7271b022a683
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7392b45a-a0c1-43d2-ac31-7271b022a683
 - text: Remote viewing, precognition and extrasensory perception studied at SRI at
     the same time as Vallée's early internet research
   source: American Cosmic
@@ -108,7 +108,7 @@ references:
     of remote viewing, precognition, and extrasensory perception.
   claim_id: 7a29b5c8-c041-4633-a19b-0736e0292d5f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7a29b5c8-c041-4633-a19b-0736e0292d5f
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7a29b5c8-c041-4633-a19b-0736e0292d5f
 - text: Declassified 1970s-1980s documents indicate SRI was a research site for extraordinary
     research
   source: American Cosmic
@@ -117,7 +117,7 @@ references:
     site for the extraordinary
   claim_id: 0389e7d8-913f-412d-a210-62872a936b60
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0389e7d8-913f-412d-a210-62872a936b60
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0389e7d8-913f-412d-a210-62872a936b60
 - text: Remote viewing and related skills studied under the classified Stargate Project,
     funded by the US military with SRI
   source: American Cosmic
@@ -126,7 +126,7 @@ references:
     Stargate Project, funded by the US military in partnership with the SRI.
   claim_id: 76440ccc-aa0f-422f-9243-b14dc0e0a200
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-76440ccc-aa0f-422f-9243-b14dc0e0a200
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-76440ccc-aa0f-422f-9243-b14dc0e0a200
 - text: Organisers of Project STARGATE looked to SRI, where remote viewing had already
     been studied for nearly five years
   source: Remote Viewing Secrets
@@ -136,7 +136,7 @@ references:
     to training and gifted versus non-gifted subjects could be found.
   claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f84226f6-b364-44eb-a6b9-efff18d89434
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f84226f6-b364-44eb-a6b9-efff18d89434
 - text: Term 'remote viewing' coined by SRI researchers in the early 1970s
   source: Remote Viewing Secrets
   location: ch28:6838-6924
@@ -144,7 +144,7 @@ references:
     in the early 1970s.)'
   claim_id: 9b81cb0b-0cdd-4891-9a5e-eb08d6e8fea6
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9b81cb0b-0cdd-4891-9a5e-eb08d6e8fea6
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9b81cb0b-0cdd-4891-9a5e-eb08d6e8fea6
 - text: Cognitive Sciences Laboratory received funding, ran experimentation, and supported
     intelligence operations 1972-1995
   source: Remote Viewing Secrets
@@ -154,7 +154,7 @@ references:
     1972 through 1995.
   claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e01eb761-53da-4919-83e6-c6be5538af2b
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e01eb761-53da-4919-83e6-c6be5538af2b
 - text: Puthoff's career spanned General Electric, Sperry Corporation, NSA, Stanford
     University and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -163,7 +163,7 @@ references:
     Sperry, the NSA, Stanford University, and SRI International
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
 - text: Most subjects displayed remote-viewing talent from the outset
   source: Remote Viewing Secrets
@@ -172,7 +172,7 @@ references:
     some degree of talent from the outset.'
   claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
 - text: Subjects self-selected, continuing out of personal interest
   source: Remote Viewing Secrets
   location: ch16:3967-4096
@@ -180,7 +180,7 @@ references:
     in the subject (which is obviously a form of self-selection).'
   claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
 - text: Subjects trained over a year performed excellently under varied conditions
   source: Remote Viewing Secrets
   location: ch16:2433-2541
@@ -188,7 +188,7 @@ references:
     under a variety of experimental conditions.
   claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b38c3f0f-e758-4bc5-bbca-248464eca087
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b38c3f0f-e758-4bc5-bbca-248464eca087
 - text: 'Accumulated data: selected and unselected people could both be assisted to
     useful information transfer'
   source: Remote Viewing Secrets
@@ -198,7 +198,7 @@ references:
     of useful information transfer.
   claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8bef8daf-91e6-4f65-bc05-f65963c367d4
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8bef8daf-91e6-4f65-bc05-f65963c367d4
 - text: 'IEEE report: drawings more accurate than verbal descriptions'
   source: Remote Viewing Secrets
   location: ch16:18304-18502
@@ -207,7 +207,7 @@ references:
     accurate than their verbal description." p. 337).
   claim_id: f657e856-f7de-4701-9de6-0e387d1399ec
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f657e856-f7de-4701-9de6-0e387d1399ec
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f657e856-f7de-4701-9de6-0e387d1399ec
 - text: 'McMoneagle: ''perform well'' meant better-than-chance functioning, not world-class
     ability'
   source: Remote Viewing Secrets
@@ -216,21 +216,21 @@ references:
     under controlled conditions (or achieving a better than chance result).
   claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
 - text: Subjects should be self-selected
   source: Remote Viewing Secrets
   location: ch16:5174-5201
   quote: '2: Subjects should be self-selected.'
   claim_id: ccfd7176-87e6-4942-b781-5f369a96f05f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ccfd7176-87e6-4942-b781-5f369a96f05f
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ccfd7176-87e6-4942-b781-5f369a96f05f
 - text: Subjects should be able to learn by example
   source: Remote Viewing Secrets
   location: ch16:5212-5256
   quote: '3: Subjects should be able to learn through example.'
   claim_id: eb3f2c64-9796-44d2-8cea-83d479dc0b0b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-eb3f2c64-9796-44d2-8cea-83d479dc0b0b
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-eb3f2c64-9796-44d2-8cea-83d479dc0b0b
 - text: Subjects should be open to paranormal information transfer
   source: Remote Viewing Secrets
   location: ch16:5266-5338
@@ -238,7 +238,7 @@ references:
     transfer.'
   claim_id: 3b0883c9-abdb-4316-b7ca-510052fa2eae
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3b0883c9-abdb-4316-b7ca-510052fa2eae
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3b0883c9-abdb-4316-b7ca-510052fa2eae
 - text: Subjects should tolerate public scrutiny, ridicule and failure
   source: Remote Viewing Secrets
   location: ch16:5349-5465
@@ -246,7 +246,7 @@ references:
     of society, and ridicule as well as failure.'
   claim_id: c69809bc-489e-40b4-8f46-7db1038163ab
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c69809bc-489e-40b4-8f46-7db1038163ab
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c69809bc-489e-40b4-8f46-7db1038163ab
 - text: Subjects should have artistic talent for drawing or sketching perceptions
   source: Remote Viewing Secrets
   location: ch16:5475-5585
@@ -254,7 +254,7 @@ references:
     e.g., drawing, sketching, etc.'
   claim_id: 76cc37d6-70fe-4dae-a94b-0143271fd681
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-76cc37d6-70fe-4dae-a94b-0143271fd681
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-76cc37d6-70fe-4dae-a94b-0143271fd681
 - text: Subjects should process information within a high-stimulation Ganzfeld environment
   source: Remote Viewing Secrets
   location: ch16:4766-4877
@@ -262,7 +262,7 @@ references:
     environment (e.g., a gansfeld setting).'
   claim_id: ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
 - text: Ingo Swann was a well-known psychic and remote viewer who worked with the
     SRI laboratory
   source: Remote Viewing Secrets
@@ -273,7 +273,7 @@ references:
     the outlying planets in our solar system.
   claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8964ec41-9270-4b8e-b2db-066f57ddcbdf
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8964ec41-9270-4b8e-b2db-066f57ddcbdf
 - text: Controlled Remote Viewing developed by Ingo Swann while at SRI
   source: Remote Viewing Secrets
   location: ch17:50314-50466
@@ -281,7 +281,7 @@ references:
     is now the most commonly referred to or generally accepted method of remote viewing
   claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c0f915c-2a1a-4bf2-9f19-f3de36065f92
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c0f915c-2a1a-4bf2-9f19-f3de36065f92
 - text: 'McMoneagle: Swann''s map-coordinate suggestion gave rise to coordinate targeting'
   source: Remote Viewing Secrets
   location: ch17:10096-10320
@@ -290,7 +290,7 @@ references:
     the ground. Hence was born what is now known as the "coordinate system."
   claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
 - text: Outbounder Remote Viewing protocol initially used exclusively by SRI scientists
   source: Remote Viewing Secrets
   location: ch17:8858-8939
@@ -298,7 +298,7 @@ references:
     scientists.
   claim_id: bba6e5ab-c475-4bd8-8861-cf08770a55b7
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-bba6e5ab-c475-4bd8-8861-cf08770a55b7
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-bba6e5ab-c475-4bd8-8861-cf08770a55b7
 - text: McMoneagle formally trained in dowsing at the Cognitive Sciences Laboratory
   source: Remote Viewing Secrets
   location: ch17:36138-36278
@@ -306,7 +306,7 @@ references:
     by an internationally-known dowser with decades of experience.
   claim_id: 88019d1c-91ae-40c6-898c-cdeefcb18d7f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-88019d1c-91ae-40c6-898c-cdeefcb18d7f
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-88019d1c-91ae-40c6-898c-cdeefcb18d7f
 - text: McMoneagle consulted for SRI and SAIC from 1984 through 1995
   source: Remote Viewing Secrets
   location: ch4:1171-1286
@@ -314,7 +314,7 @@ references:
     Corporation, Inc. from 1984 through 1995
   claim_id: c192c295-77a8-4e36-bcec-4154556902f9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c192c295-77a8-4e36-bcec-4154556902f9
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c192c295-77a8-4e36-bcec-4154556902f9
 - text: 'McMoneagle: exceptional viewers at SRI CSL and SAIC showed a near flat-line
     in ability over their careers'
   source: Remote Viewing Secrets
@@ -326,7 +326,7 @@ references:
     exit.
   claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e88f1608-8dc9-40f7-94d8-b2d302a3059f
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e88f1608-8dc9-40f7-94d8-b2d302a3059f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

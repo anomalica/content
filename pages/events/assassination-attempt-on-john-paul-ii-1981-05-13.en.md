@@ -87,7 +87,7 @@ references:
   quote: exactly at 5:17 P.M. the sounds of shots shattered the joyous atmosphere.
   claim_id: b71813ab-0b9a-43b8-a5da-174475b018c4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b71813ab-0b9a-43b8-a5da-174475b018c4
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b71813ab-0b9a-43b8-a5da-174475b018c4
 - text: John Paul II was struck and his white robe was stained with blood
   source: The Fatima Secret
   location: ch19:1774-1886
@@ -95,7 +95,7 @@ references:
     in slow motion, onto the seat of his Jeep.
   claim_id: 53ce9a84-3b6f-4eb9-9a57-caab87add4c0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-53ce9a84-3b6f-4eb9-9a57-caab87add4c0
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-53ce9a84-3b6f-4eb9-9a57-caab87add4c0
 - text: The shooting fell on the sixty-fourth anniversary of the first apparition
     of Our Lady of Fatima
   source: The Fatima Secret
@@ -104,7 +104,7 @@ references:
     the sixty-fourth anniversary of Mary’s first apparition at Fatima.
   claim_id: 4b8e3e0a-2f02-4d84-91cc-5fcbe53d7b9c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4b8e3e0a-2f02-4d84-91cc-5fcbe53d7b9c
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4b8e3e0a-2f02-4d84-91cc-5fcbe53d7b9c
 - text: Mehmet Ali Ağca shot John Paul II three times using a Browning HP Parabellum
     pistol
   source: The Fatima Secret
@@ -113,7 +113,7 @@ references:
     a very effective combat weapon, was interrogated for hours.
   claim_id: 914d0990-599f-4eef-8e17-d25dc713bf14
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-914d0990-599f-4eef-8e17-d25dc713bf14
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-914d0990-599f-4eef-8e17-d25dc713bf14
 - text: Ağca aimed from a squatting position to be sure of hitting his target
   source: The Fatima Secret
   location: ch19:3341-3416
@@ -121,14 +121,14 @@ references:
     position.
   claim_id: 956d8888-9fd0-4cf0-92cd-5b13d04af90c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-956d8888-9fd0-4cf0-92cd-5b13d04af90c
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-956d8888-9fd0-4cf0-92cd-5b13d04af90c
 - text: Bystanders tried to subdue Ağca, who threatened them with his gun
   source: The Fatima Secret
   location: ch19:3426-3493
   quote: When those nearby tried to subdue him, he threatened them with his gun.
   claim_id: 2b2a6a7a-9a2b-46c4-bab9-394d86989f3e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2b2a6a7a-9a2b-46c4-bab9-394d86989f3e
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2b2a6a7a-9a2b-46c4-bab9-394d86989f3e
 - text: A young policeman reached Ağca and he pressed the trigger again, but the pistol
     had developed a loading defect
   source: The Fatima Secret
@@ -137,7 +137,7 @@ references:
     but the 9mm pistol had developed a loading defect.
   claim_id: b7d3c131-a865-46d4-a7d4-97decc81fd89
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b7d3c131-a865-46d4-a7d4-97decc81fd89
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b7d3c131-a865-46d4-a7d4-97decc81fd89
 - text: The Swiss Guards prevented the crowd from killing Ağca after he was seized
   source: The Fatima Secret
   location: ch19:3627-3808
@@ -146,7 +146,7 @@ references:
     them from killing him right there.
   claim_id: fc8a9654-b97f-4028-a0c4-36aa478083d5
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fc8a9654-b97f-4028-a0c4-36aa478083d5
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fc8a9654-b97f-4028-a0c4-36aa478083d5
 - text: Ağca initially denied the shooting and falsely claimed to be a student at
     the University of Perugia
   source: The Fatima Secret
@@ -155,7 +155,7 @@ references:
     of Perugia in Italy.
   claim_id: f5b0d1f1-3bf1-4cdc-8a34-d14899c11811
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f5b0d1f1-3bf1-4cdc-8a34-d14899c11811
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f5b0d1f1-3bf1-4cdc-8a34-d14899c11811
 - text: An ambulance took John Paul II to the Catholic University hospital ten minutes
     after first aid beside the basilica
   source: The Fatima Secret
@@ -165,7 +165,7 @@ references:
     hospital.
   claim_id: ae17f2f8-de01-402b-a362-c90afe4b12fe
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ae17f2f8-de01-402b-a362-c90afe4b12fe
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ae17f2f8-de01-402b-a362-c90afe4b12fe
 - text: Three surgeons operated on him for five hours and twenty minutes; his blood
     pressure had fallen so low his pulse was barely perceptible
   source: The Fatima Secret
@@ -175,7 +175,7 @@ references:
     hours and twenty minutes.
   claim_id: e16a7f63-87db-40fa-86d1-8c3ca06dee8f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e16a7f63-87db-40fa-86d1-8c3ca06dee8f
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e16a7f63-87db-40fa-86d1-8c3ca06dee8f
 - text: His carotid artery escaped damage by only a small margin and no vital organs
     were hurt
   source: The Fatima Secret
@@ -184,7 +184,7 @@ references:
     an inch, and no vital organs had been hurt. The pope was saved.
   claim_id: 98c1cdde-2f2b-4817-8b04-c38b41f06dad
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98c1cdde-2f2b-4817-8b04-c38b41f06dad
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98c1cdde-2f2b-4817-8b04-c38b41f06dad
 - text: His first words on regaining consciousness were "I forgive him."
   source: The Fatima Secret
   location: ch19:3060-3188
@@ -192,7 +192,7 @@ references:
     after some hours and had been told about the arrest.
   claim_id: 1d7d007e-dade-4162-a9b9-7c97d81a55c1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1d7d007e-dade-4162-a9b9-7c97d81a55c1
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1d7d007e-dade-4162-a9b9-7c97d81a55c1
 - text: John Paul II believed the Mother of God had saved him because he moved while
     handing a little girl back to her parents, causing the bullet to miss his heart
   source: The Fatima Secret
@@ -202,7 +202,7 @@ references:
     he had embraced back to her parents, the shot would have penetrated his heart.
   claim_id: 11befa5b-4c10-4860-81e7-9254f40fda22
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-11befa5b-4c10-4860-81e7-9254f40fda22
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-11befa5b-4c10-4860-81e7-9254f40fda22
 - text: John Paul II was released from hospital on 1981-08-14
   source: The Fatima Secret
   location: ch19:4968-5128
@@ -211,7 +211,7 @@ references:
     of his predecessors.
   claim_id: 0250e38b-39f1-46b9-a980-805a7f0ae592
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0250e38b-39f1-46b9-a980-805a7f0ae592
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0250e38b-39f1-46b9-a980-805a7f0ae592
 - text: The Italian press cited released KGB papers as evidence that the KGB gave
     the Bulgarian Secret Service the original order for the attempt, carried out by
     Ağca
@@ -222,7 +222,7 @@ references:
     of John Paul II that was attempted by their agent Ali Agca.
   claim_id: aca1c6c0-8159-4472-b3ac-3f1ea58cbadb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-aca1c6c0-8159-4472-b3ac-3f1ea58cbadb
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-aca1c6c0-8159-4472-b3ac-3f1ea58cbadb
 - text: Pope John Paul II believed the Virgin of Fatima saved him from death during
     the attempt on his life
   source: American Cosmic
@@ -231,7 +231,7 @@ references:
     attempt on his life on May 13, 1981.
   claim_id: 4a66e0d9-0f28-4109-8c50-a79c7fcdb936
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4a66e0d9-0f28-4109-8c50-a79c7fcdb936
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4a66e0d9-0f28-4109-8c50-a79c7fcdb936
 - text: May 13 was the date the Virgin Mary first appeared to the three children at
     Fatima in 1917, a coincidence John Paul II was doubtless aware of
   source: American Cosmic
@@ -240,7 +240,7 @@ references:
     the pope was doubtless aware of the date.
   claim_id: 6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
 - text: John Paul II later put the bullet that almost killed him into the crown of
     a statue of Our Lady of Fatima
   source: American Cosmic
@@ -249,7 +249,7 @@ references:
     of Our Lady of Fatima.
   claim_id: 1781f7ce-6be6-43d2-b29b-d85fe858d3e4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1781f7ce-6be6-43d2-b29b-d85fe858d3e4
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1781f7ce-6be6-43d2-b29b-d85fe858d3e4
 - text: In 1982 John Paul II travelled to Fatima to thank the Mother of God for saving
     his life
   source: The Fatima Secret
@@ -258,7 +258,7 @@ references:
     his life, after he was shot in 1981.
   claim_id: 4bdb7d71-5b64-410a-a851-ba7f804897f1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4bdb7d71-5b64-410a-a851-ba7f804897f1
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4bdb7d71-5b64-410a-a851-ba7f804897f1
 - text: John Paul II said he had come to Fatima because a year earlier, on the anniversary
     of the first apparition, an attempt had been made to assassinate him, which he
     recognised as a specific call to come
@@ -270,7 +270,7 @@ references:
     dates, a specific call for me to come here; therefore, I am here.”
   claim_id: 8f51253f-9af3-4307-a59d-21dd0deaeb7e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8f51253f-9af3-4307-a59d-21dd0deaeb7e
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8f51253f-9af3-4307-a59d-21dd0deaeb7e
 - text: A man dressed as a priest pushed into the group near the pope at Fatima on
     1982-05-12 and shouted insults blaming him for the situation of Catholics in Poland,
     for letting Communism grow stronger, and for the Second Vatican Council
@@ -282,7 +282,7 @@ references:
     Vatican Council.
   claim_id: 6fc980d4-6c28-4069-b4f2-6b3e625f77b3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6fc980d4-6c28-4069-b4f2-6b3e625f77b3
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6fc980d4-6c28-4069-b4f2-6b3e625f77b3
 - text: His secretary, an American bishop, and security guards protected him with
     their bodies while Portuguese police arrested the man
   source: The Fatima Secret
@@ -291,7 +291,7 @@ references:
     him with their bodies, while the Portuguese police arrested the man.
   claim_id: b4202656-65fe-4ad6-a3f3-95cd004394fd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b4202656-65fe-4ad6-a3f3-95cd004394fd
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b4202656-65fe-4ad6-a3f3-95cd004394fd
 - text: As he was taken away, the man shouted in Spanish 'Down with the pope! Death
     to Communism!'
   source: The Fatima Secret
@@ -300,7 +300,7 @@ references:
     taken away.
   claim_id: 8474968e-61a3-4406-8dd4-e989fad9052c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8474968e-61a3-4406-8dd4-e989fad9052c
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8474968e-61a3-4406-8dd4-e989fad9052c
 - text: On 1991-05-13, the anniversary of both the first apparition and the day his
     life was saved, John Paul II solemnly repeated the consecration of the world
   source: The Fatima Secret
@@ -310,7 +310,7 @@ references:
     of the world.
   claim_id: 3c340715-771c-4a58-ae2d-821308c9ac5b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3c340715-771c-4a58-ae2d-821308c9ac5b
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3c340715-771c-4a58-ae2d-821308c9ac5b
 - text: Michael Hesemann considered there could be no better description of the 1981-05-13
     events than the Third Secret's vision of the pope falling under gunfire
   source: The Fatima Secret
@@ -318,7 +318,7 @@ references:
   quote: There could be no better description of the events of May 13, 1981.
   claim_id: 986c9382-2d2b-48ea-879f-0645e43218a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-986c9382-2d2b-48ea-879f-0645e43218a6
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-986c9382-2d2b-48ea-879f-0645e43218a6
 - text: According to the source record, when John Paul II read the contents of the
     Third Secret after the assassination attempt, the plan of divine providence became
     clear to him
@@ -328,7 +328,7 @@ references:
     attempt, the plan of divine providence became clear to him.
   claim_id: 83c9af43-0226-4edc-861e-f6c65a9e9f9e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-83c9af43-0226-4edc-861e-f6c65a9e9f9e
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-83c9af43-0226-4edc-861e-f6c65a9e9f9e
 - text: Cardinal Joseph Ratzinger asked whether it was inevitable that John Paul II
     saw his own fate in the third part of the Fatima Secret when its text was brought
     to him after the attempt
@@ -339,7 +339,7 @@ references:
     that he should see his own fate in it?" Cardinal Ratzinger asked.'
   claim_id: 148e6fc7-8829-48cb-922b-659358df99c6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-148e6fc7-8829-48cb-922b-659358df99c6
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-148e6fc7-8829-48cb-922b-659358df99c6
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

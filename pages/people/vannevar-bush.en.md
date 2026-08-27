@@ -81,14 +81,14 @@ references:
     projects and companies.
   claim_id: 30105898-60f2-474f-8e0f-90a8f11d62e7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-30105898-60f2-474f-8e0f-90a8f11d62e7
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-30105898-60f2-474f-8e0f-90a8f11d62e7
 - text: Co-founded Raytheon, still a major defence contractor.
   source: Dark Mission
   location: ch. 12
   quote: He was co-founder of Raytheon systems (still a major defense contractor)
   claim_id: 99250b1e-e819-49e7-894f-741767ab81dc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99250b1e-e819-49e7-894f-741767ab81dc
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99250b1e-e819-49e7-894f-741767ab81dc
 - text: Directed the Office of Scientific Research and Development, which oversaw
     the Manhattan Project.
   source: Dark Mission
@@ -97,21 +97,21 @@ references:
     oversaw the Manhattan Project
   claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
 - text: Served as President Franklin D. Roosevelt's scientific advisor.
   source: Dark Mission
   location: ch. 12
   quote: He was also President Roosevelt's scientific advisor
   claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
 - text: Hugh L. Dryden became NACA director in 1949, after Bush left.
   source: Dark Mission
   location: ch. 12
   quote: (Director of NACA since 1949, after Dr. Bush left)
   claim_id: ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
 - text: Played a key role in bringing German rocket scientists, including Wernher
     von Braun, to the United States.
   source: Dark Mission
@@ -120,7 +120,7 @@ references:
     Wernher Von Braun, to the United States
   claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f6adb27-4225-4780-badc-8a277c81ca2c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f6adb27-4225-4780-badc-8a277c81ca2c
 - text: Brought Nazi scientists to the US in violation of Truman's executive orders,
     according to the source.
   source: Dark Mission
@@ -130,7 +130,7 @@ references:
     orders.
   claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b08f6750-e7ec-4ec0-bcb3-67d32f70579c
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b08f6750-e7ec-4ec0-bcb3-67d32f70579c
 - text: Wrote a critical letter to the JIOA after a panel judged some scientists too
     unimportant, citing Churchill, Stalin and Roosevelt as comparably well-known figures.
   source: Dark Mission
@@ -143,7 +143,7 @@ references:
     circles."
   claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
 - text: Insisted several of the German rocket scientists were of Nobel Prize stature.
   source: Dark Mission
   location: ch. 12
@@ -151,7 +151,7 @@ references:
     Prize stature."
   claim_id: dc715a02-2e81-4674-b73b-f85470ed12b6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dc715a02-2e81-4674-b73b-f85470ed12b6
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dc715a02-2e81-4674-b73b-f85470ed12b6
 - text: 'Hoagland: Bush and von Karman used influence to have von Braun''s Nazi SS
     past overlooked.'
   source: Dark Mission
@@ -162,7 +162,7 @@ references:
     Von Braun's SS Nazi past were ultimately "conveniently" overlooked.
   claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f8969e46-07af-4d73-844c-e04fa46cb12d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f8969e46-07af-4d73-844c-e04fa46cb12d
 - text: 'Hoagland: Bush''s efforts were a significant factor in bringing the scientists
     to the US.'
   source: Dark Mission
@@ -171,7 +171,7 @@ references:
     brought to U.S.
   claim_id: 2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
 - text: With Bush's help, the Pentagon channelled expertise into NASA via von Braun's
     secret ballistic missile programmes.
   source: Dark Mission
@@ -180,7 +180,7 @@ references:
     to NASA through its secret ballistic missile programs led by Wernher Von Braun.
   claim_id: a77b32cd-4cff-46e3-9ffe-bab16306b395
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a77b32cd-4cff-46e3-9ffe-bab16306b395
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a77b32cd-4cff-46e3-9ffe-bab16306b395
 - text: Worked with Donald Menzel on the differential analyzer before the Second World
     War.
   source: Dark Mission
@@ -190,7 +190,7 @@ references:
     world's first (modern) analog computer.
   claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
 - text: '1950 testimony: first knew Menzel in 1934/35 while building the analyzer
     at MIT.'
   source: Dark Mission
@@ -200,7 +200,7 @@ references:
     at MIT, where I was then VP and Dean of Engineering.
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
 - text: '1950 testimony: Menzel was an astronomer interested in applying the analyzer
     to astrophysics.'
   source: Dark Mission
@@ -211,7 +211,7 @@ references:
     problems.
   claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
 - text: '1950 testimony: the technical association continued until Bush joined the
     Carnegie Institution in 1939.'
   source: Dark Mission
@@ -223,7 +223,7 @@ references:
     for astrophysical use.
   claim_id: 39e2e05f-b41e-4946-b016-ca44fc85dc14
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39e2e05f-b41e-4946-b016-ca44fc85dc14
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39e2e05f-b41e-4946-b016-ca44fc85dc14
 - text: 'Hoagland: the analyzer''s unstated goal was predicting star and planet positions
     centuries ahead.'
   source: Dark Mission
@@ -233,7 +233,7 @@ references:
     of stars and planets from any point in the solar system.
   claim_id: 9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
 - text: 'Hoagland: the analyzer eventually enabled NASA''s ''occult goals''.'
   source: Dark Mission
   location: ch. 12
@@ -241,14 +241,14 @@ references:
     NASA to accomplish some of its "occult" goals.
   claim_id: 298288c5-47ea-4ec1-a75b-0f0a0f4900cf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-298288c5-47ea-4ec1-a75b-0f0a0f4900cf
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-298288c5-47ea-4ec1-a75b-0f0a0f4900cf
 - text: Was a 33rd-degree Scottish Rite Freemason.
   source: Dark Mission
   location: ch. 12
   quote: He was also a 33° Scottish Rite Freemason.
   claim_id: 71cec79b-4d2b-49fc-9ca6-f868229d412d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71cec79b-4d2b-49fc-9ca6-f868229d412d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71cec79b-4d2b-49fc-9ca6-f868229d412d
 - text: Listed with Menzel as a founding member of MJ-12 in the memo mailed to Jaime
     Shandera.
   source: Dark Mission
@@ -256,7 +256,7 @@ references:
   quote: included both Bush and Menzel as founding members
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
 - text: Chris Ramsay named Bush and Detlef Gronk among MJ-12's members possibly involved
     with UFOs.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -265,7 +265,7 @@ references:
     Dr. Vannevar Bush and Detlef Gronk.
   claim_id: a1711a29-fb55-49a6-8e40-e0d43f363bc3
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a1711a29-fb55-49a6-8e40-e0d43f363bc3
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a1711a29-fb55-49a6-8e40-e0d43f363bc3
 - text: The Truman Directive of 24 September 1947 was issued at Bush and Forrestal's
     request.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -275,7 +275,7 @@ references:
     Secretary of Defense, as you've said.
   claim_id: bc9da4d5-0665-48a2-893c-385b3299867c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bc9da4d5-0665-48a2-893c-385b3299867c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bc9da4d5-0665-48a2-893c-385b3299867c
 - text: Forrestal and Bush lunched with Henry Tizard on 1 October 1947.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -285,7 +285,7 @@ references:
     of Defence. On, as you say, the 1st of October 1947
   claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-10988019-e1bc-4e72-8302-53217dfdc95c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-10988019-e1bc-4e72-8302-53217dfdc95c
 - text: 'Coulthart: unlikely Forrestal and Bush did not brief Tizard on MJ-12 and
     UFOs.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -295,7 +295,7 @@ references:
     on Majestic.
   claim_id: 0ea2729a-2d49-4a4f-a596-8611751f2583
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0ea2729a-2d49-4a4f-a596-8611751f2583
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0ea2729a-2d49-4a4f-a596-8611751f2583
 - text: Sarbacher told Smith a small group headed by Bush was studying the saucers.
   source: In Plain Sight
   location: ch. 8
@@ -303,7 +303,7 @@ references:
     by a small group headed by Dr Vannevar Bush.
   claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
 - text: 'Ramsay: the 1950 memo records Bush assembling a team to investigate flying
     saucers.'
@@ -313,7 +313,7 @@ references:
   quote: he even says, Vannevar Bush put together a team to look into this stuff
   claim_id: 2160cfd1-50a5-4c19-bfb4-cc214b3048be
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-2160cfd1-50a5-4c19-bfb4-cc214b3048be
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-2160cfd1-50a5-4c19-bfb4-cc214b3048be
 - text: Edwards claimed Bush led the effort to study an alleged UFO fragment.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -323,7 +323,7 @@ references:
     the fragment.
   claim_id: dea9ec81-7fe6-45c5-9237-81be34af98c9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dea9ec81-7fe6-45c5-9237-81be34af98c9
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dea9ec81-7fe6-45c5-9237-81be34af98c9
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-dea9ec81-7fe6-45c5-9237-81be34af98c9
 - text: The Condon Report panel found Edwards's claims most likely false.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -332,7 +332,7 @@ references:
   quote: The Condon panel determined that these claims most likely were false.
   claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
 - text: 'UAP Gerb: Bush established the scientist-government relationship.'
   source: 'Episode 73: Science vs. Secrecy'
@@ -342,7 +342,7 @@ references:
     between the US government.
   claim_id: d0de81e4-2e15-4d50-b2da-05563be2e5e6
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d0de81e4-2e15-4d50-b2da-05563be2e5e6
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d0de81e4-2e15-4d50-b2da-05563be2e5e6
 - text: 'UAP Gerb: 1948 PEADs put recovered disks under Bush''s Joint Research and
     Development Board.'
   source: 'Episode 73: Science vs. Secrecy'
@@ -356,7 +356,7 @@ references:
     Board
   claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-aba985af-7ac6-4601-8b1c-24495a9218df
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-aba985af-7ac6-4601-8b1c-24495a9218df
 - text: Bush lived in Belmont, Massachusetts, next to Lexington, where Avi Loeb lives.
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:57:23
@@ -364,7 +364,7 @@ references:
     Massachusetts.
   claim_id: 8d66f9a1-9056-47c4-956e-8052d9a6324e
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8d66f9a1-9056-47c4-956e-8052d9a6324e
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8d66f9a1-9056-47c4-956e-8052d9a6324e
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

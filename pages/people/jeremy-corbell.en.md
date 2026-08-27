@@ -39,7 +39,7 @@ references:
     for his Area 51 security clearance.
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3f353e-2e00-45ff-945d-832286061739
 - text: An image in Sleeping Dog, called Caspar's Ghost by Ross Coulthart, appears
     to show a plasmatic, humanoid-shaped object moving strangely.
@@ -51,7 +51,7 @@ references:
     object moving really strangely.
   claim_id: dfe71638-c4c9-49b5-be02-8e3520e368f1
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
-  workbench_url: http://localhost:5173/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-dfe71638-c4c9-49b5-be02-8e3520e368f1
+  workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-dfe71638-c4c9-49b5-be02-8e3520e368f1
 - text: Coulthart rejects the theory that Corbell worked with government gatekeepers
     to obtain the Sleeping Dog footage.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -61,7 +61,7 @@ references:
     and Jeremy Corbell says that he's a journalist, often receive leaked information.
   claim_id: b2d4869f-6941-436d-913a-7d79b9a637b6
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b2d4869f-6941-436d-913a-7d79b9a637b6
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b2d4869f-6941-436d-913a-7d79b9a637b6
 - text: Corbell and George Knapp received a series of videos and went to considerable
     effort to provide them to Congress.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -71,7 +71,7 @@ references:
     gone to an enormous amount of effort to provide to the Congress.
   claim_id: 6733cb31-67f8-4b98-a67f-0eaa330136d2
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-6733cb31-67f8-4b98-a67f-0eaa330136d2
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-6733cb31-67f8-4b98-a67f-0eaa330136d2
 - text: Around 46 videos were provided or brought to Congress's attention, many via
     the Congressional UAP Caucus, as a result of Corbell and Knapp's work.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -83,7 +83,7 @@ references:
     Knapp.
   claim_id: 5c536172-652d-437a-8d98-9ac2de2ffbc4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c536172-652d-437a-8d98-9ac2de2ffbc4
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c536172-652d-437a-8d98-9ac2de2ffbc4
 - text: Coulthart considers that Corbell and Knapp made the proper ethical and legal
     assessment before releasing the leaked videos.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -93,7 +93,7 @@ references:
     behaved entirely properly.
   claim_id: 679148ed-fe3b-4fb1-97db-f883d197d51b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-679148ed-fe3b-4fb1-97db-f883d197d51b
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-679148ed-fe3b-4fb1-97db-f883d197d51b
 - text: Corbell and Knapp have been careful to vet sources and ensure leaked videos
     were properly redacted and checked before release.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -105,14 +105,14 @@ references:
     there are secrets that are being compromised
   claim_id: 0534f98f-f33a-4a10-8e2c-d159dfe39931
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-0534f98f-f33a-4a10-8e2c-d159dfe39931
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-0534f98f-f33a-4a10-8e2c-d159dfe39931
 - text: Chris Ramsay has personally spent time with Corbell.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:21:45.3-00:21:47.8
   quote: when I met Jeremy Corbell, I spent some time with Jeremy.
   claim_id: 3a01e846-4098-4dde-b149-6a2f37fd3a97
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-3a01e846-4098-4dde-b149-6a2f37fd3a97
+  workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-3a01e846-4098-4dde-b149-6a2f37fd3a97
 - text: Ramsay considers Corbell very passionate and involved in the UAP/UFO subject,
     having done a lot for the UFO movement.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -121,7 +121,7 @@ references:
     lot for the UFO movement, in my opinion.
   claim_id: 7185511e-75d7-49aa-8a63-a4cd3a076004
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-7185511e-75d7-49aa-8a63-a4cd3a076004
+  workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-7185511e-75d7-49aa-8a63-a4cd3a076004
 - text: Corbell said Ramsay's footage was the clearest he had seen from a civilian
     of a Tic Tac UFO or UAP.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -130,7 +130,7 @@ references:
     footage I've ever seen from a civilian of a Tic Tac UFO or UAP.
   claim_id: 298d530c-b519-4bef-bffd-71e7fde1a9cb
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
+  workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

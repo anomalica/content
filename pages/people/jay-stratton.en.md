@@ -159,7 +159,7 @@ references:
     culminating in his work with ONI.
   claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
 - text: Retired after sixteen years investigating UAP for the US government
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -169,7 +169,7 @@ references:
     sector
   claim_id: adea8c1f-211b-4728-b5c4-c063ae097a1c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
 - text: Early 2009 visit with Rosemary Caine to recruit Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -177,7 +177,7 @@ references:
   quote: had two guests waiting for me in our reception area. It was early 2009.
   claim_id: 109196fa-ec42-492c-81f2-e205623b9bc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-109196fa-ec42-492c-81f2-e205623b9bc6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-109196fa-ec42-492c-81f2-e205623b9bc6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-109196fa-ec42-492c-81f2-e205623b9bc6
 - text: Recruited Elizondo for counterintelligence experience, DIA-run programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -186,7 +186,7 @@ references:
     a highly classified program led out of our office at DIA."'
   claim_id: 497a40c7-5a7b-4259-886e-5a399f47a8f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
 - text: Puthoff suggested Stratton meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -194,7 +194,7 @@ references:
   quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
 - text: Semivan and Stratton invited Elizondo to a team dinner in Roslyn, Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -204,7 +204,7 @@ references:
     Virginia.
   claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
 - text: Helped create AAWSAP, which became AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -214,7 +214,7 @@ references:
     (Advanced Aerospace Threat Identification Program).
   claim_id: 87a98318-1013-4e7e-a49a-32481823440f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87a98318-1013-4e7e-a49a-32481823440f
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87a98318-1013-4e7e-a49a-32481823440f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87a98318-1013-4e7e-a49a-32481823440f
 - text: AATIP led within the Pentagon by Elizondo
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -224,7 +224,7 @@ references:
     Lue Elizondo.
   claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
 - text: Stratton and Elizondo handpicked everyone in AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -232,7 +232,7 @@ references:
   quote: Jay and I handpicked everyone involved.
   claim_id: 023b4981-3ddd-4626-a4ad-3da74e656353
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-023b4981-3ddd-4626-a4ad-3da74e656353
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-023b4981-3ddd-4626-a4ad-3da74e656353
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-023b4981-3ddd-4626-a4ad-3da74e656353
 - text: Skilled at getting Navy personnel to discuss UAP encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -240,7 +240,7 @@ references:
   quote: Jay excelled at getting his fellow Navy members to talk.
   claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
 - text: Changed acronym from UFO to UAP while at Skinwalker Ranch
   source: In Plain Sight
@@ -250,7 +250,7 @@ references:
     Aerospace Threat Identification Program team.
   claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d8741fe-a48a-4616-9b3a-225433de1082
 - text: Concluded UFO did not cover the phenomena witnessed
   source: In Plain Sight
@@ -259,7 +259,7 @@ references:
     – did not cover the phenomena that he witnessed at the ranch.
   claim_id: c8c71a6d-1e8a-419e-ae4d-e18398d448ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
 - text: 2009 contact with Fravor to investigate the Nimitz encounter
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -268,7 +268,7 @@ references:
   quote: It was not until 2009, until Jay Stratton had contacted me to investigate.
   claim_id: 677707c5-9a5e-4c1a-bcfc-24368dfde990
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-677707c5-9a5e-4c1a-bcfc-24368dfde990
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-677707c5-9a5e-4c1a-bcfc-24368dfde990
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-677707c5-9a5e-4c1a-bcfc-24368dfde990
 - text: Investigated Nimitz encounter before Elizondo joined the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -276,7 +276,7 @@ references:
   quote: Jay Stratton investigated the incident before I joined the team.
   claim_id: 4968721b-e548-4f39-9b61-9d1726621fda
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4968721b-e548-4f39-9b61-9d1726621fda
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4968721b-e548-4f39-9b61-9d1726621fda
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4968721b-e548-4f39-9b61-9d1726621fda
 - text: Wrote detailed AAWSAP/AATIP report on the Nimitz encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -285,7 +285,7 @@ references:
     I first learned about it.
   claim_id: 82125e22-529a-4617-a678-2ea35a1da21f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82125e22-529a-4617-a678-2ea35a1da21f
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82125e22-529a-4617-a678-2ea35a1da21f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82125e22-529a-4617-a678-2ea35a1da21f
 - text: Witnesses reluctant to speak, asked not to be identified
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -296,7 +296,7 @@ references:
     their identities.
   claim_id: 780e9354-9b5d-4b24-9646-7ac219711e77
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-780e9354-9b5d-4b24-9646-7ac219711e77
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-780e9354-9b5d-4b24-9646-7ac219711e77
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-780e9354-9b5d-4b24-9646-7ac219711e77
 - text: Secured $10 million in new AATIP funding from Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -305,7 +305,7 @@ references:
     Senator Reid to give us new funding—$10 million!
   claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
 - text: Shared cockpit video of a wedge-shaped craft near an aviator
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -313,7 +313,7 @@ references:
   quote: Just then, a wedge-shaped craft zooms by the cockpit as close as fifty feet.
   claim_id: b27f24fc-534e-4173-9d67-ac65f59470a5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
 - text: 2015 emails from Fleet Forces Command on USS Roosevelt incursions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -323,7 +323,7 @@ references:
     incursions involving the aircraft carrier USS Roosevelt.
   claim_id: b5e701a7-187f-42c9-964b-98983b9307ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e701a7-187f-42c9-964b-98983b9307ca
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e701a7-187f-42c9-964b-98983b9307ca
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e701a7-187f-42c9-964b-98983b9307ca
 - text: Senior intelligence officer at Fleet Forces Command reached out to Stratton
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -334,7 +334,7 @@ references:
     which Jay did with the full support of his leadership.
   claim_id: 9ff053c2-1966-40e1-b6e6-2b585c838d73
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
 - text: Created OPLAN Interloper from 22 USS Roosevelt incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -344,7 +344,7 @@ references:
     action. Jay spent weeks creating an operation plan (OPLAN), code-named "Interloper."
   claim_id: b1bbea5f-96be-421f-badb-76db8e7ce8d8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
 - text: 'OPLAN Interloper contents: dates, call signs, radar data'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -355,7 +355,7 @@ references:
     flustered pilots and aircrew.
   claim_id: d425c357-8e86-4c3b-9031-7d7039e09667
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d425c357-8e86-4c3b-9031-7d7039e09667
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d425c357-8e86-4c3b-9031-7d7039e09667
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d425c357-8e86-4c3b-9031-7d7039e09667
 - text: Submitted via ACCM process to Joint Chiefs, bypassing OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -366,7 +366,7 @@ references:
     had become infested with compromised individuals.
   claim_id: 37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
 - text: Joint Staff rejected ACCM designation before end of 2016
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -376,7 +376,7 @@ references:
     out of hiding on the open seas.
   claim_id: 47866a5b-d660-4b6e-bc5b-673ffc47e48a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47866a5b-d660-4b6e-bc5b-673ffc47e48a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47866a5b-d660-4b6e-bc5b-673ffc47e48a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-47866a5b-d660-4b6e-bc5b-673ffc47e48a
 - text: Elizondo and Stratton spent considerable time coordinating the plan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -384,7 +384,7 @@ references:
   quote: Jay and I had spent considerable time coordinating that effort.
   claim_id: bdf919d6-7e99-4528-b2b1-cda9be84717e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
 - text: Made plans to bring about UAP disclosure
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -393,7 +393,7 @@ references:
     plan to bring about disclosure.
   claim_id: ea705c7b-3b89-4675-9709-bbbc13f45fb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
 - text: Planned to remain in government to use disclosure momentum
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -403,7 +403,7 @@ references:
     officials who would no doubt suddenly be interested.
   claim_id: e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
 - text: Concluded Congress had to force change on UAP handling
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -413,7 +413,7 @@ references:
     change.
   claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f3c2958f-f0b3-4311-a327-4f9310838396
 - text: Developed multiyear strategy to educate Congress on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -423,7 +423,7 @@ references:
     educate Congress and eventually legally address the hurdles that faced disclosure.
   claim_id: 2ef743ad-1fdd-4408-a286-9ca0d8db9549
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
 - text: Focused messaging on flight safety and historic lack of transparency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -433,7 +433,7 @@ references:
     lack of transparency from the executive branch, going back to the 1940s.
   claim_id: 660600ae-8336-4f0e-87bb-b6d01e393d75
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
 - text: Began receiving congressional briefing requests
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -443,7 +443,7 @@ references:
     would have never been aware of the facts, due to the stigma and layers of bureaucracy.
   claim_id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
 - text: Funnelled credible military/intelligence figures to Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -452,7 +452,7 @@ references:
     community who had knowledge of UAP to Congress.
   claim_id: 3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
 - text: Briefing requests from NSC members who briefed Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -463,7 +463,7 @@ references:
     shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af73f27e-6d01-4702-86f0-925398868a92
 - text: Proposed legislation for a permanent, Congress-funded UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -473,7 +473,7 @@ references:
     could block or misuse the funding.
   claim_id: 50d74b1e-4294-42d4-b6c0-d601fb463f76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50d74b1e-4294-42d4-b6c0-d601fb463f76
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50d74b1e-4294-42d4-b6c0-d601fb463f76
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-50d74b1e-4294-42d4-b6c0-d601fb463f76
 - text: Advocacy plan named the Five Pillars of Engagement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -481,7 +481,7 @@ references:
   quote: We called our plan the Five Pillars of Engagement.
   claim_id: 31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
 - text: Network of contacts across military, FBI, CIA, Department of Energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -490,7 +490,7 @@ references:
     FBI, CIA, and even the Department of Energy.
   claim_id: 862a7909-f591-481f-ae3d-c99172c44870
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-862a7909-f591-481f-ae3d-c99172c44870
 - text: Tasked with building a whole-of-government UAP task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -501,7 +501,7 @@ references:
     task force, a program with more authorities than AATIP ever had.
   claim_id: b8373943-84a1-48f6-8d54-bcb239ce88bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
 - text: Handpicked task force members from intelligence and civilian agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -511,7 +511,7 @@ references:
     Reconnaissance Office (NRO) to NASA to the Federal Aviation Administration (FAA).
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
 - text: Task force became the Pentagon's UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -520,7 +520,7 @@ references:
     Force.
   claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
 - text: Space Force did not yet have its own UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -529,7 +529,7 @@ references:
     set up at the time and didn’t have a UAP program
   claim_id: 2b1146f7-8532-43bd-9234-c58aaab6925b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
 - text: Elizondo became a Space Force contractor supporting Stratton's task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -539,7 +539,7 @@ references:
     also contributing to Jay’s UAP Task Force.
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
 - text: Secretary of Defense announced UAPTF, named Stratton first director
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -549,7 +549,7 @@ references:
     as its first director.
   claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
 - text: Legacy Program pushed back on Stratton and the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -559,7 +559,7 @@ references:
     after another for him, the task force, and everyone involved.
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
 - text: Encountered gatekeepers controlling access to the Legacy Program
   source: 'Episode 73: Science vs. Secrecy'
@@ -567,7 +567,7 @@ references:
   quote: he ran into the, quote, gatekeepers for the legacy program.
   claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
 - text: Involved 16 contractors/units to move beyond the Legacy Program, unsuccessfully
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:36:18.1-00:36:34.1
@@ -576,7 +576,7 @@ references:
     the legacy program was doing, and they were not successful.
   claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
 - text: March 2023 conference talk on Skinwalker Ranch experiences
   source: In Plain Sight
   location: ch30:10063-10245
@@ -585,7 +585,7 @@ references:
     Skinwalker Ranch in Utah
   claim_id: 07a8b3e4-0279-4177-bdad-0ef69a324b15
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
 - text: First visited Skinwalker Ranch in July 2009
   source: In Plain Sight
@@ -593,7 +593,7 @@ references:
   quote: For more than 12 years following his July 2009 visit to the ranch.
   claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e57f7600-6f51-4a94-9da4-b990778c705e
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e57f7600-6f51-4a94-9da4-b990778c705e
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e57f7600-6f51-4a94-9da4-b990778c705e
 - text: Witnessed a translucent humanoid entity near his trailer
   source: In Plain Sight
@@ -603,7 +603,7 @@ references:
     with a rectangular shape on its chest
   claim_id: 56c2fd15-7c62-4815-bdac-38448f311583
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56c2fd15-7c62-4815-bdac-38448f311583
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56c2fd15-7c62-4815-bdac-38448f311583
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56c2fd15-7c62-4815-bdac-38448f311583
 - text: Sighting corroborated by colleague Travis Taylor
   source: In Plain Sight
@@ -611,7 +611,7 @@ references:
   quote: a sighting independently corroborated by his colleague Dr Travis Taylor
   claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
 - text: Saw a hovering delta-shaped UAP on his first day at the ranch
   source: In Plain Sight
@@ -620,7 +620,7 @@ references:
     his fi rst day at the ranch.
   claim_id: f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
 - text: Coined the term 'the hitchhiker effect'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -629,7 +629,7 @@ references:
     hitchhiker effect.”
   claim_id: fb8157b1-4a08-42e1-8c06-d99fef57daf7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
 - text: Paranormal incidents at Stratton's Virginia home
   source: In Plain Sight
@@ -640,7 +640,7 @@ references:
     is called the 'Hitchhiker Effect'.
   claim_id: 9be3ccaa-d118-4884-ad15-d89bbf853522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
 - text: Son found with contusions on stomach and chest
   source: In Plain Sight
@@ -649,7 +649,7 @@ references:
     somebody had repeatedly and forcibly hit the boy.'
   claim_id: e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
 - text: Son described orb assaults and shadowy telepathic figures
   source: In Plain Sight
@@ -659,7 +659,7 @@ references:
     head.
   claim_id: 2031c2a3-0dab-49f9-983e-b879bfbfeee9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
 - text: Family witnessed orbs, a 'dogman', and footsteps for 12+ years
   source: In Plain Sight
@@ -669,7 +669,7 @@ references:
     footsteps up and down the stairs in their home.
   claim_id: 0a5592e2-2d72-473b-ae3e-dd8e94b53538
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538
 - text: Signed a book publishing deal
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -677,7 +677,7 @@ references:
   quote: Jay Stratton also recently signed a book publishing deal.
   claim_id: 39054695-6d90-4cb5-8795-0380098444fd
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
-  workbench_url: http://localhost:5173/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39054695-6d90-4cb5-8795-0380098444fd
+  workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39054695-6d90-4cb5-8795-0380098444fd
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

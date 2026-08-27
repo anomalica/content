@@ -69,7 +69,7 @@ references:
     and mystic Carl Jung, about the mystery of its origin.
   claim_id: b9c956f7-9024-4548-8a30-66f3e11bd8cf
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b9c956f7-9024-4548-8a30-66f3e11bd8cf
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b9c956f7-9024-4548-8a30-66f3e11bd8cf
 - text: Pauli initiated the exchange, perhaps seeking an answer in the mysteries of
     the spirit
   source: The Fourth Mind
@@ -81,7 +81,7 @@ references:
     that would explain it.
   claim_id: 97745fd4-dc9e-4192-9d21-26cf5aca0b04
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-97745fd4-dc9e-4192-9d21-26cf5aca0b04
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-97745fd4-dc9e-4192-9d21-26cf5aca0b04
 - text: Contemporary physics' miraculous truths make UFOs believable as a physicist's
     miracle
   source: American Cosmic
@@ -91,7 +91,7 @@ references:
     and believed in as a physicists’ miracle.”
   claim_id: 5b47dd7d-c816-4183-a1ff-db365f05b751
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5b47dd7d-c816-4183-a1ff-db365f05b751
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5b47dd7d-c816-4183-a1ff-db365f05b751
 - text: UFOs called a 'living myth' and 'universal mass rumor'
   source: American Cosmic
   location: ch3:21422-21602
@@ -100,7 +100,7 @@ references:
     our enlightened, rationalist age.”
   claim_id: 873042d8-8e56-4746-9004-190c67183ddb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-873042d8-8e56-4746-9004-190c67183ddb
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-873042d8-8e56-4746-9004-190c67183ddb
 - text: Flying saucers as an opportunity to see how a legend is formed
   source: American Cosmic
   location: char:27985-28133
@@ -108,14 +108,14 @@ references:
     he wrote, "We have here a golden opportunity of seeing how a legend is formed."
   claim_id: e7b9d021-d11a-4312-96a1-c9cbc2e72959
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e7b9d021-d11a-4312-96a1-c9cbc2e72959
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e7b9d021-d11a-4312-96a1-c9cbc2e72959
 - text: The UFO called a technological angel
   source: American Cosmic
   location: char:5946-5987
   quote: Carl Jung called the UFO a technological angel.
   claim_id: c9ec3dec-1295-483d-a67a-96b0a6791826
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c9ec3dec-1295-483d-a67a-96b0a6791826
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c9ec3dec-1295-483d-a67a-96b0a6791826
 - text: Method began by denying a real UFO, pointing to psychic disturbance
   source: American Cosmic
   location: ch3:23349-23542
@@ -124,7 +124,7 @@ references:
     likely explanation lies in a psychic disturbance.”
   claim_id: 4d84d679-8bad-488d-9e0e-00595b8a01bd
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4d84d679-8bad-488d-9e0e-00595b8a01bd
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4d84d679-8bad-488d-9e0e-00595b8a01bd
 - text: Common sense would feel affronted by UFO reports
   source: American Cosmic
   location: ch3:22994-23104
@@ -132,7 +132,7 @@ references:
     affronted” by reports of UFOs, he wrote.
   claim_id: eb427db1-f8a4-4ae1-b73d-208be9a76a16
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb427db1-f8a4-4ae1-b73d-208be9a76a16
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb427db1-f8a4-4ae1-b73d-208be9a76a16
 - text: No sensible person would admit to belief in UFOs
   source: American Cosmic
   location: ch4:14316-14477
@@ -141,7 +141,7 @@ references:
     UFOs'
   claim_id: dc03c1cb-c667-4eaa-940e-fb4fc60cfa1c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dc03c1cb-c667-4eaa-940e-fb4fc60cfa1c
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dc03c1cb-c667-4eaa-940e-fb4fc60cfa1c
 - text: Psychologists should not be dissuaded from examining the mass phenomenon
   source: American Cosmic
   location: ch3:23147-23278
@@ -149,7 +149,7 @@ references:
     dissuaded from critically examining a mass phenomenon like UFOs.”
   claim_id: 00e812e8-7fb0-4343-b857-6d045074030b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-00e812e8-7fb0-4343-b857-6d045074030b
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-00e812e8-7fb0-4343-b857-6d045074030b
 - text: 'Pasulka: Jung''s point was that the UFO was apparently, not actually, impossible'
   source: American Cosmic
   location: ch3:24204-24427
@@ -158,7 +158,7 @@ references:
     to move the study of it into the realm of the psyche, his field of expertise.
   claim_id: ed9a8946-4f3a-4c84-9be9-3ea9a51c64c0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ed9a8946-4f3a-4c84-9be9-3ea9a51c64c0
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ed9a8946-4f3a-4c84-9be9-3ea9a51c64c0
 - text: Introduction of the concept of amplificatory interpretation
   source: American Cosmic
   location: ch3:23633-23889
@@ -168,7 +168,7 @@ references:
     in dreams or visions.
   claim_id: 78e2ac79-f4bd-4945-81b5-5420cb95748d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-78e2ac79-f4bd-4945-81b5-5420cb95748d
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-78e2ac79-f4bd-4945-81b5-5420cb95748d
 - text: Few authentic UFO photographs despite America's camera-mindedness
   source: American Cosmic
   location: ch3:21621-21842
@@ -177,7 +177,7 @@ references:
     said to have been observed for several hours at relatively close quarters.
   claim_id: 96a9334c-12d0-4d69-8d13-899030415599
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-96a9334c-12d0-4d69-8d13-899030415599
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-96a9334c-12d0-4d69-8d13-899030415599
 - text: 'Guatemala sighting anecdote: witness forgot to photograph'
   source: American Cosmic
   location: ch3:21852-22090
@@ -187,7 +187,7 @@ references:
     an hour.
   claim_id: 441d58f8-b2ed-4b08-9826-79c5f55e958e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-441d58f8-b2ed-4b08-9826-79c5f55e958e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-441d58f8-b2ed-4b08-9826-79c5f55e958e
 - text: Pasulka on rumours spawned by Tyler D. and James Master's work
   source: American Cosmic
   location: ch3:48509-48765
@@ -197,7 +197,7 @@ references:
     story, and, ultimately, religion.
   claim_id: 455256d8-12f9-42f6-a1a5-d3d4f9c2da17
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-455256d8-12f9-42f6-a1a5-d3d4f9c2da17
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-455256d8-12f9-42f6-a1a5-d3d4f9c2da17
 - text: Cultural UFO narratives formed through amplificatory interpretation
   source: American Cosmic
   location: ch3:53053-53161
@@ -205,7 +205,7 @@ references:
     with his concept of amplificatory interpretation.
   claim_id: a5d40175-45fd-44e0-9c68-3d53715d6d31
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a5d40175-45fd-44e0-9c68-3d53715d6d31
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a5d40175-45fd-44e0-9c68-3d53715d6d31
 - text: Definition of synchronicity as meaningful, non-causal coincidence
   source: American Cosmic
   location: ch3:40162-40326
@@ -214,7 +214,7 @@ references:
     have the experience.
   claim_id: 81647fe4-f4aa-470d-9587-c8e594c3c0e0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-81647fe4-f4aa-470d-9587-c8e594c3c0e0
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-81647fe4-f4aa-470d-9587-c8e594c3c0e0
 - text: 'Stinnett quotes Jung: synchronicity is an ever-present reality'
   source: American Cosmic
   location: ch3:46518-46739
@@ -223,7 +223,7 @@ references:
     “Synchronicity is an ever present reality for those with eyes to see.”'
   claim_id: 4c91003a-614d-4abe-94d1-f676234626ac
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4c91003a-614d-4abe-94d1-f676234626ac
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4c91003a-614d-4abe-94d1-f676234626ac
 - text: Mossbridge's Jungian-sense definition of synchronicity
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -232,7 +232,7 @@ references:
     appear completely disconnected, but end up having great meaning when put together.
   claim_id: 88c4fbaf-5d31-4053-bb4b-80bbe65dc2f7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-88c4fbaf-5d31-4053-bb4b-80bbe65dc2f7
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-88c4fbaf-5d31-4053-bb4b-80bbe65dc2f7
 - text: Proposal of the collective unconscious
   source: The Fourth Mind
   location: ch18:8558-8682
@@ -240,7 +240,7 @@ references:
     it exists, must be a kind of field in which we all share.
   claim_id: 1968b664-bd80-46e7-8bf8-24d5b5a02585
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1968b664-bd80-46e7-8bf8-24d5b5a02585
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1968b664-bd80-46e7-8bf8-24d5b5a02585
 - text: 'Strieber: archetype theory does not explain Stone Age animal portraiture'
   source: The Fourth Mind
   location: ch26:20277-20350
@@ -248,7 +248,7 @@ references:
     Age
   claim_id: c79d2b40-0c10-4fbf-b6d5-be0bcfba0848
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c79d2b40-0c10-4fbf-b6d5-be0bcfba0848
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c79d2b40-0c10-4fbf-b6d5-be0bcfba0848
 - text: 'Price-Williams: scorpion creatures as tellurian, chthonic beings'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -257,7 +257,7 @@ references:
     Jung would have said."'
   claim_id: dadaefd4-ea4a-4483-afc2-1f4bd459aff6
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-dadaefd4-ea4a-4483-afc2-1f4bd459aff6
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-dadaefd4-ea4a-4483-afc2-1f4bd459aff6
 - text: 'Vallée: UFO apparition mechanism as a possible cross-cultural invariant'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -268,7 +268,7 @@ references:
     in time? I see no better hypothesis at this point of our knowledge of UFO phenomena.
   claim_id: 5e6a7bca-c27d-4df7-b591-13dd67881f6a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5e6a7bca-c27d-4df7-b591-13dd67881f6a
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5e6a7bca-c27d-4df7-b591-13dd67881f6a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

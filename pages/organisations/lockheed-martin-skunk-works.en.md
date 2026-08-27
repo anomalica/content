@@ -91,7 +91,7 @@ references:
     made by Lockheed.
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c637488-34ff-4e19-97d8-82a393d101d7
 - text: Skunk Works is Lockheed's advanced development programme, with a history developing
     the U-2 and SR-71 Blackbird spy planes, the F-117A Night Hawk, F-22 Raptor and
@@ -105,7 +105,7 @@ references:
     advanced known aerospace defence technology of their day on the planet.
   claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
 - text: At the TTSA launch on 2017-10-11, Steve Justice, then Skunk Works Program
     Director for Advanced Systems, said TTSA was working on a revolutionary Advanced
@@ -118,7 +118,7 @@ references:
     the current travel limits of distance and time.
   claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f36be07b-772b-495e-bf18-61a2d52681bb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f36be07b-772b-495e-bf18-61a2d52681bb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f36be07b-772b-495e-bf18-61a2d52681bb
 - text: Steve Justice was former head of Advanced Systems at Skunk Works
   source: In Plain Sight
@@ -126,7 +126,7 @@ references:
   quote: former head of Advanced Systems at Lockheed Martin's Skunk Works
   claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7db5d234-5f6b-4af9-a15c-23b724ad8a79
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7db5d234-5f6b-4af9-a15c-23b724ad8a79
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7db5d234-5f6b-4af9-a15c-23b724ad8a79
 - text: Ben Rich was president of Lockheed Martin Skunk Works in the 1990s and was
     responsible for modern stealth aircraft
@@ -137,7 +137,7 @@ references:
     sorry, he was responsible for modern stealth aircraft.
   claim_id: 69d5ae61-f507-4705-9906-660e60181526
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69d5ae61-f507-4705-9906-660e60181526
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69d5ae61-f507-4705-9906-660e60181526
 - text: Lex Fridman said some of the best engineering and science work is done in
     secrecy at Skunk Works
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -147,7 +147,7 @@ references:
     really ever is done in secrecy
   claim_id: 72a34366-6700-46c4-b009-6910caca465e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-72a34366-6700-46c4-b009-6910caca465e
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-72a34366-6700-46c4-b009-6910caca465e
 - text: David Fravor said Steve Justice previously ran Lockheed Skunk Works
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -156,7 +156,7 @@ references:
     built projects.
   claim_id: b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8bc290d-52de-4e83-af2c-d4ab83a6f4a3
 - text: Jason Samosa said Jacques Vallée validates the account that DeLonge made contact
     with an individual who worked at Skunk Works
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -165,7 +165,7 @@ references:
     had made contact with someone who worked at Lockheed Martin Skunk Works.
   claim_id: 48b14caa-b7f7-44b6-9625-a56f2209ee8d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-48b14caa-b7f7-44b6-9625-a56f2209ee8d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-48b14caa-b7f7-44b6-9625-a56f2209ee8d
 - text: Jesse Michels characterised Ben Rich as having been at the tip of the spear
     building reconnaissance aircraft for the CIA and advanced American defence technology
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -174,7 +174,7 @@ references:
     planes for the CIA and, you know, very advanced American defense tech
   claim_id: 1173b646-497b-4827-b785-24d56242530a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1173b646-497b-4827-b785-24d56242530a
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1173b646-497b-4827-b785-24d56242530a
 - text: DeLonge said the executive he called 'BossMan', probably Rob Weiss, told him
     Lockheed Martin could not be involved in any project associated with UAP, since
     there had never been any evidence it exists
@@ -187,7 +187,7 @@ references:
     this stuff even exists.'
   claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
 - text: Jim Goodall befriended engineer Ben Rich, former Director of Skunk Works,
     the pseudonym for Lockheed Martin's secretive Advanced Developments Projects division
@@ -199,7 +199,7 @@ references:
     have been designed).
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
 - text: The leaked Podesta emails showed exchanges planning a Google Hangout between
     DeLonge, two US Air Force generals, and Rob Weiss, Lockheed Martin's executive
@@ -213,7 +213,7 @@ references:
     development programs known as Skunk Works.'
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
 - text: Lockheed Martin stated that Tom DeLonge reached out to Skunk Works about a
     documentary on secret machines, that team members met with him, and that Lockheed
@@ -230,7 +230,7 @@ references:
     attended a Skunk Works employee event.'''
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
 - text: The other proposed Google Hangout attendees were Tom DeLonge, John Podesta,
     Skunk Works' boss Rob Weiss, Clinton campaign assistant Milia Fisher, and retired
@@ -242,7 +242,7 @@ references:
     retired Major General Michael Carey.
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
 - text: Rob Weiss was executive vice-president and general manager of Lockheed Martin
     Skunk Works until 2019
@@ -252,7 +252,7 @@ references:
     until 2019.'
   claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6f56908d-013c-498a-b193-4d2489034a3b
 - text: Ross Coulthart considered it a fair bet that the executive DeLonge met at
     the families' event was Rob Weiss
@@ -263,7 +263,7 @@ references:
     of Skunk Works until 2019.
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
 - text: Tom DeLonge was asked during the meeting what his intentions were with the
     'conspiracy stuff'
@@ -272,7 +272,7 @@ references:
   quote: '''What are your intentions with the . . . conspiracy stuff?'' he was asked.'
   claim_id: ef68aede-29db-4573-a3e2-cc798b59a929
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef68aede-29db-4573-a3e2-cc798b59a929
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef68aede-29db-4573-a3e2-cc798b59a929
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef68aede-29db-4573-a3e2-cc798b59a929
 - text: Steve Justice is a former director of Advanced Systems Development at Lockheed
     Martin's Skunk Works division
@@ -282,7 +282,7 @@ references:
     at Lockheed Martin’s mysterious Skunk Works division
   claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
 - text: Before leaving TTSA in 2021, former Skunk Works engineer Steve Justice led
     TTSA's aerospace division
@@ -292,7 +292,7 @@ references:
     Steve Justice led TTSA's aerospace division
   claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
 - text: Steve Justice, an aerospace engineer, spent thirty-one years at Skunk Works
     before joining DeLonge's advisory board
@@ -303,7 +303,7 @@ references:
     Skunk Works
   claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
 - text: Steve Justice finished his career as Director of Advanced Systems at Skunk
     Works the month before this broadcast
@@ -313,7 +313,7 @@ references:
     Systems at Lockheed Martin Skunk Works.
   claim_id: 9446ea19-1e02-4cc6-a10b-72547e55e71b
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-9446ea19-1e02-4cc6-a10b-72547e55e71b
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-9446ea19-1e02-4cc6-a10b-72547e55e71b
 - text: David Fravor spoke with Lockheed Martin's chief technology officer Keoki Jackson
     about Skunk Works
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -322,7 +322,7 @@ references:
   quote: i talked to cto of lockheed uh keiko jackson and just just kunkworks
   claim_id: e7402742-b40c-42a0-858c-a2b62a199439
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7402742-b40c-42a0-858c-a2b62a199439
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7402742-b40c-42a0-858c-a2b62a199439
 - text: Jason Samosa said an individual at Skunk Works invited DeLonge to act as master
     of ceremonies at a large Skunk Works family event, on condition DeLonge could
     speak with the person who ran the organisation
@@ -334,7 +334,7 @@ references:
     a chance to sit down.
   claim_id: 3fbfd107-54b1-432a-83f7-9b44aa0a8a79
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3fbfd107-54b1-432a-83f7-9b44aa0a8a79
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3fbfd107-54b1-432a-83f7-9b44aa0a8a79
 - text: Steve Justice had, a month before the October 2017 To The Stars Academy launch,
     finished as director of advanced systems at Skunk Works
   source: In Plain Sight
@@ -343,7 +343,7 @@ references:
     Lockheed Martin Skunk Works
   claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
 - text: David Fravor called the SR-71 Blackbird an engineering marvel developed in
     the 1950s by Kelly Johnson at Lockheed Skunk Works
@@ -354,7 +354,7 @@ references:
     was actually developed in the 50s by Kelly Johnson, you know, Skunk Works.
   claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0a145af8-0338-4a3a-b100-5255e8e11c46
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0a145af8-0338-4a3a-b100-5255e8e11c46
 - text: DeLonge described visiting Skunk Works's underground bunker as part of his
     meetings with military/intelligence sources on UAP disclosure
   source: In Plain Sight
@@ -363,7 +363,7 @@ references:
     in an airport hangar and Skunk Works in its underground bunker.
   claim_id: ef1ce144-1313-4eee-bf09-871aa6fde9df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef1ce144-1313-4eee-bf09-871aa6fde9df
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef1ce144-1313-4eee-bf09-871aa6fde9df
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef1ce144-1313-4eee-bf09-871aa6fde9df
 - text: DeLonge exchanged emails with a top Lockheed Martin Skunk Works executive
   source: In Plain Sight
@@ -371,7 +371,7 @@ references:
   quote: with a top Lockheed Martin Skunk Works executive
   claim_id: 145cc3e5-6e5e-488f-baf5-68914a84afcb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-145cc3e5-6e5e-488f-baf5-68914a84afcb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-145cc3e5-6e5e-488f-baf5-68914a84afcb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-145cc3e5-6e5e-488f-baf5-68914a84afcb
 - text: Ross Coulthart considered that DeLonge likely hid his real intentions about
     UAP in his pitch to Skunk Works to gain access, calling it a classic media ruse
@@ -382,7 +382,7 @@ references:
     Skunk Works to get in the door, a classic naughty media ruse if one is being honest.
   claim_id: 10214bf0-900d-42d4-ae47-d4e4f570ca46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-10214bf0-900d-42d4-ae47-d4e4f570ca46
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-10214bf0-900d-42d4-ae47-d4e4f570ca46
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-10214bf0-900d-42d4-ae47-d4e4f570ca46
 - text: Steve Justice is a former Skunk Works executive who was affiliated with TTSA
   source: In Plain Sight
@@ -390,7 +390,7 @@ references:
   quote: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
   claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
 - text: DeLonge sent his Skunk Works contact a piece of content written by his adviser
     about cargo cults
@@ -401,7 +401,7 @@ references:
     off all this cargo and stuff, food, resources.
   claim_id: ab7462e8-4ff2-457e-9d39-606e91478eb1
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab7462e8-4ff2-457e-9d39-606e91478eb1
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab7462e8-4ff2-457e-9d39-606e91478eb1
 - text: DeLonge said Skunk Works is the US government's top-tier aerospace organisation
     for developing advanced aircraft that meet national security needs
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -410,7 +410,7 @@ references:
     development of advanced aircraft that meet our urgent national security needs.
   claim_id: 418fbbac-f089-4ff1-8953-3884b8d67ff4
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-418fbbac-f089-4ff1-8953-3884b8d67ff4
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-418fbbac-f089-4ff1-8953-3884b8d67ff4
 - text: DeLonge visited Skunk Works and passed through a guarded checkpoint with armed
     personnel, fingerprint scanning, and vault-like doors with rotary locks to reach
     a secure hallway
@@ -423,7 +423,7 @@ references:
     there were more doors that were as thick as a safe with these rotary locks
   claim_id: f2b22d12-a9bb-4b8f-87de-d74c7b158cf9
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
-  workbench_url: http://localhost:5173/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f2b22d12-a9bb-4b8f-87de-d74c7b158cf9
+  workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f2b22d12-a9bb-4b8f-87de-d74c7b158cf9
 - text: Skunk Works developed the P-175 Polecat UAV to study tailless, bat-wing-shaped
     high-altitude UAV flight dynamics
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -435,7 +435,7 @@ references:
     the next generation of structural composite materials and configurations.
   claim_id: 58b234e9-4048-4446-9b7b-fb2f54cdbeb1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-58b234e9-4048-4446-9b7b-fb2f54cdbeb1
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-58b234e9-4048-4446-9b7b-fb2f54cdbeb1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-58b234e9-4048-4446-9b7b-fb2f54cdbeb1
 - text: The RQ-170 Sentinel was developed by Skunk Works for the USAF, according to
     the report
@@ -446,7 +446,7 @@ references:
     the USAF.
   claim_id: 37405f1f-3125-4eb1-a64b-1f4100e54eb8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-37405f1f-3125-4eb1-a64b-1f4100e54eb8
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-37405f1f-3125-4eb1-a64b-1f4100e54eb8
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-37405f1f-3125-4eb1-a64b-1f4100e54eb8
 - text: Robert Weiss was executive vice president of Lockheed Martin Skunk Works
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -454,7 +454,7 @@ references:
   quote: '[note: Robert Weiss - Lockheed Skunk Works executive vice president]'
   claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-287efd3c-a220-4ec0-b163-1fb449fe5c66
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-287efd3c-a220-4ec0-b163-1fb449fe5c66
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

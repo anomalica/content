@@ -83,7 +83,7 @@ references:
     an unclassified report by next month.
   claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
 - text: The Senate Intelligence Committee ordered the Director of National Intelligence
     and the Secretary of Defense to deliver a UAP report within a month
   source: Navy pilots describe encounters with UFOs
@@ -93,7 +93,7 @@ references:
     next month
   claim_id: 5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
 - text: Senate Report 116-233, accompanying the Intelligence Authorization Act for
     Fiscal Year 2021, directed ODNI to submit a threat assessment and report on UAPTF's
     progress
@@ -107,7 +107,7 @@ references:
     had made in understanding this threat.
   claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
 - text: The UAP Task Force and ODNI issued the congressionally mandated Preliminary
     Assessment on Unidentified Aerial Phenomena in June 2021
@@ -119,7 +119,7 @@ references:
     reports across the U.S. Government is inconsistent.
   claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
 - text: ODNI's Preliminary Assessment defines UAP as objects not immediately identifiable
     and lacking a single explanation
@@ -132,7 +132,7 @@ references:
     programs, foreign adversary systems, and a catchall "other" category.'
   claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5afddb76-a662-4f95-b1df-e913f48a657c
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5afddb76-a662-4f95-b1df-e913f48a657c
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5afddb76-a662-4f95-b1df-e913f48a657c
 - text: 'The Preliminary Assessment sets out five explanatory categories: airborne
     clutter, natural atmospheric phenomena, US government or industry developmental
@@ -144,7 +144,7 @@ references:
     foreign adversary systems, and a catchall "other" category.'
   claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
 - text: ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to
     Congress on 2023-01-12
@@ -155,7 +155,7 @@ references:
     Aerial Phenomena to Congress.
   claim_id: 7d56d186-56f3-45c9-9823-e259eaae6666
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7d56d186-56f3-45c9-9823-e259eaae6666
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7d56d186-56f3-45c9-9823-e259eaae6666
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7d56d186-56f3-45c9-9823-e259eaae6666
 - text: The 2022 Annual Report's 510 total reports comprised the 144 reports from
     the preliminary assessment's 17-year period, plus 247 new reports and 119 subsequently
@@ -168,7 +168,7 @@ references:
     119 reports that subsequently were discovered or reported.
   claim_id: cd7533a6-f671-4183-8421-b83cf2290fba
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cd7533a6-f671-4183-8421-b83cf2290fba
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cd7533a6-f671-4183-8421-b83cf2290fba
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cd7533a6-f671-4183-8421-b83cf2290fba
 - text: AARO provides quarterly reports, semiannual briefings, and an annual report
     to Congress in coordination with ODNI
@@ -180,7 +180,7 @@ references:
     ODNI.
   claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f4752996-d097-401d-ab3f-3d608104c9b7
 - text: ODNI has published public reports documenting UAP
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -190,7 +190,7 @@ references:
     reports documenting UAPs
   claim_id: 0bf5d95a-1c79-4445-9937-42f0415d5915
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0bf5d95a-1c79-4445-9937-42f0415d5915
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0bf5d95a-1c79-4445-9937-42f0415d5915
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0bf5d95a-1c79-4445-9937-42f0415d5915
 - text: Luis Elizondo was a former counter-intelligence officer with the Defense Department
     who most recently worked out of the ODNI
@@ -201,7 +201,7 @@ references:
     Intelligence.
   claim_id: 1a20249e-4ace-493b-aa19-c91da85eb9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a20249e-4ace-493b-aa19-c91da85eb9f7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a20249e-4ace-493b-aa19-c91da85eb9f7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1a20249e-4ace-493b-aa19-c91da85eb9f7
 - text: Elizondo worked within the Department of Defense, ONCIX, ODNI, and the Office
     of the Secretary of Defense
@@ -212,7 +212,7 @@ references:
     Intelligence (ODNI), and the Office of the Secretary of Defense (OSD).
   claim_id: a7daf4e0-5f97-4b61-8c05-7d5b64906773
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7daf4e0-5f97-4b61-8c05-7d5b64906773
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7daf4e0-5f97-4b61-8c05-7d5b64906773
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7daf4e0-5f97-4b61-8c05-7d5b64906773
 - text: Devon Woods was Elizondo's unofficial mentor when Elizondo first came to ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -221,7 +221,7 @@ references:
     Director of National Intelligence (ODNI).
   claim_id: eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
 - text: Woods had a CIA career before joining ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -229,7 +229,7 @@ references:
   quote: He had an illustrious career with the CIA before coming on board ODNI.
   claim_id: 99a11ed3-535b-43e7-b686-1937b696c32f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99a11ed3-535b-43e7-b686-1937b696c32f
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99a11ed3-535b-43e7-b686-1937b696c32f
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-99a11ed3-535b-43e7-b686-1937b696c32f
 - text: In 2010, Devon Woods moved from a senior ODNI leadership role to a senior
     director post at the DIA
@@ -239,7 +239,7 @@ references:
     at ODNI, became a senior director at DIA.
   claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
 - text: Christopher Mellon believed NORAD did not include any of its thousands of
     annual 'Uncorrelated Tracks' in the ODNI report
@@ -250,7 +250,7 @@ references:
     North America.
   claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
 - text: Avi Loeb was visited at home by an ODNI representative who asked him to lead
     a science advisory council
@@ -260,7 +260,7 @@ references:
     they asked if I'm willing to lead a science advisory council.
   claim_id: 8840b15c-a2ad-43ea-8e0c-c54a3ed0abcf
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8840b15c-a2ad-43ea-8e0c-c54a3ed0abcf
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-8840b15c-a2ad-43ea-8e0c-c54a3ed0abcf
 - text: The governing board for Loeb's council includes representatives from ODNI,
     the White House, the FBI, and the intelligence community with access to classified
     material
@@ -271,7 +271,7 @@ references:
     have access, of course, to all the classified material.
   claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
 - text: When Eric Burlison asked ODNI officials about plasmoid-type phenomena at a
     Western US military installation, they said they and their top scientists did
     not know
@@ -283,7 +283,7 @@ references:
     don't.
   claim_id: a777d4f3-a0c1-44a7-a54d-b9f753c801e4
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a777d4f3-a0c1-44a7-a54d-b9f753c801e4
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a777d4f3-a0c1-44a7-a54d-b9f753c801e4
 - text: David Grusch said he would help Eric Burlison and Congress investigate those
     who lied to Congress, the White House, ODNI, and the Department of Justice
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -296,7 +296,7 @@ references:
     and Department of Justice
   claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
-  workbench_url: http://localhost:5173/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
+  workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
   inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
 - text: Grusch said he worked on programmes purposely hidden from ODNI oversight staff
     and briefed only to the White House, kept from Congress through a shell game of
@@ -309,7 +309,7 @@ references:
     congress through a unique shell game of not reporting programs
   claim_id: e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

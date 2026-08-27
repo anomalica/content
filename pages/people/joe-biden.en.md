@@ -65,7 +65,7 @@ references:
   quote: actually happens to be Biden's. He's a senator and he was Biden's advisor.
   claim_id: 2d8f428e-5a3f-4d5b-90e8-8f6ce2572b73
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d8f428e-5a3f-4d5b-90e8-8f6ce2572b73
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d8f428e-5a3f-4d5b-90e8-8f6ce2572b73
 - text: Senate passed the NDAA with UAP language untouched, 2021-12-15, sent to Biden
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:31842-31964
@@ -73,7 +73,7 @@ references:
     untouched—and sent it to President Biden for his signature.
   claim_id: 037b51aa-f59a-409c-b0a0-4f0bddbb976a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-037b51aa-f59a-409c-b0a0-4f0bddbb976a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-037b51aa-f59a-409c-b0a0-4f0bddbb976a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-037b51aa-f59a-409c-b0a0-4f0bddbb976a
 - text: 'Elizondo: Reid vowed to keep fighting his cancer until Biden signed the UAP
     bill'
@@ -83,7 +83,7 @@ references:
     act.
   claim_id: 03210439-c771-4c25-93c1-1e884b20ae4b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-03210439-c771-4c25-93c1-1e884b20ae4b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-03210439-c771-4c25-93c1-1e884b20ae4b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-03210439-c771-4c25-93c1-1e884b20ae4b
 - text: Biden signed the second UAP bill into law two days after Christmas 2021
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -91,7 +91,7 @@ references:
   quote: Biden signed the second UAP bill into law two days after Christmas in 2021.
   claim_id: d92c6365-0428-487b-b99e-f602331f8571
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d92c6365-0428-487b-b99e-f602331f8571
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d92c6365-0428-487b-b99e-f602331f8571
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d92c6365-0428-487b-b99e-f602331f8571
 - text: Reid died the day after Biden signed the UAP legislation
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -99,7 +99,7 @@ references:
   quote: A day later, my old friend Harry Reid died peacefully in his sleep.
   claim_id: 23aa726d-9813-4ce5-8390-9c6501a8fc9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c
 - text: Senate approved NDAA FY2023 with UAP language, 2022-12-15, sent to Biden
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -108,7 +108,7 @@ references:
     and sent it to Biden to sign.
   claim_id: 5aba7d86-9521-43b0-a60a-d630a136c44b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5aba7d86-9521-43b0-a60a-d630a136c44b
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5aba7d86-9521-43b0-a60a-d630a136c44b
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5aba7d86-9521-43b0-a60a-d630a136c44b
 - text: Biden signed NDAA FY2023 into law 2022-12-23, containing Section 1673
   source: In Plain Sight
@@ -119,7 +119,7 @@ references:
     National Defense Authorisation Act (NDAA).
   claim_id: 28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
 - text: Signing fell on the Friday before the 2022 Christmas shutdown
   source: In Plain Sight
@@ -128,7 +128,7 @@ references:
     holiday shutdown, a huge news day, and most folk were distracted by other events.
   claim_id: 8c2bbb5c-5de6-4086-9bad-dfef49af63d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c2bbb5c-5de6-4086-9bad-dfef49af63d0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c2bbb5c-5de6-4086-9bad-dfef49af63d0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8c2bbb5c-5de6-4086-9bad-dfef49af63d0
 - text: NDAA FY2023 spearheaded by Gillibrand and Rubio, signed by Biden December
     2022
@@ -138,7 +138,7 @@ references:
     law by President Biden in December 2022.
   claim_id: eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  workbench_url: http://localhost:5173/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
   inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
 - text: Biden ordered shoot-down of object near Deadhorse, Alaska, ~12,200 metres
   source: In Plain Sight
@@ -148,7 +148,7 @@ references:
     was at 40,000 feet, possibly posing a threat to air traffic
   claim_id: c656f97d-68bb-4336-8c57-0275253f5cd2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c656f97d-68bb-4336-8c57-0275253f5cd2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c656f97d-68bb-4336-8c57-0275253f5cd2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c656f97d-68bb-4336-8c57-0275253f5cd2
 - text: Took a week to concede the objects were likely stray balloons
   source: In Plain Sight
@@ -157,7 +157,7 @@ references:
     was that these objects were simply stray amateur or scientific balloons
   claim_id: 983093cf-37a4-4e56-86ae-5e4c48716064
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-983093cf-37a4-4e56-86ae-5e4c48716064
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-983093cf-37a4-4e56-86ae-5e4c48716064
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-983093cf-37a4-4e56-86ae-5e4c48716064
 - text: Authorised over $1.5 million to shoot the objects down
   source: In Plain Sight
@@ -166,7 +166,7 @@ references:
     million to shoot down what some suggested were probably boy scout science experiments
   claim_id: 3644e54a-4ef0-4936-b7ff-b58e00118919
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3644e54a-4ef0-4936-b7ff-b58e00118919
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3644e54a-4ef0-4936-b7ff-b58e00118919
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3644e54a-4ef0-4936-b7ff-b58e00118919
 - text: 'Kirby: Biden created an interagency team after the three objects shot down'
   source: In Plain Sight
@@ -176,7 +176,7 @@ references:
     of the three unidentified objects being shot down
   claim_id: dabeefe8-a5d2-4be0-952b-c08deca275d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dabeefe8-a5d2-4be0-952b-c08deca275d0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dabeefe8-a5d2-4be0-952b-c08deca275d0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dabeefe8-a5d2-4be0-952b-c08deca275d0
 - text: Interagency team tasked with policy implications of detection and disposition
   source: In Plain Sight
@@ -186,7 +186,7 @@ references:
     or security risks'
   claim_id: 3f84d51d-c04b-40a5-8de7-1f2bac3ec945
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f84d51d-c04b-40a5-8de7-1f2bac3ec945
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f84d51d-c04b-40a5-8de7-1f2bac3ec945
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3f84d51d-c04b-40a5-8de7-1f2bac3ec945
 - text: 'Kirby: first presidential daily intelligence briefing on UAP since June 2021'
   source: In Plain Sight
@@ -196,7 +196,7 @@ references:
     phenomenon of UAPs since June 2021
   claim_id: da267a38-9f90-46a6-bdfa-523ec303e596
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da267a38-9f90-46a6-bdfa-523ec303e596
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da267a38-9f90-46a6-bdfa-523ec303e596
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da267a38-9f90-46a6-bdfa-523ec303e596
 - text: Journalist asked Kirby why shoot-downs now but not in 2021-2022, per ODNI's
     247 reports
@@ -208,7 +208,7 @@ references:
     2022?'''
   claim_id: 85c0d47d-c2ad-449c-abaa-6d6b671aae30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85c0d47d-c2ad-449c-abaa-6d6b671aae30
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85c0d47d-c2ad-449c-abaa-6d6b671aae30
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85c0d47d-c2ad-449c-abaa-6d6b671aae30
 - text: 'Coulthart: Navy commander''s information undermined confidence in Pentagon
     candour'
@@ -220,7 +220,7 @@ references:
     Biden's advisors in the Pentagon's capacity for candour
   claim_id: 0f32aa95-b986-4f9a-89b3-f218d4635dc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0f32aa95-b986-4f9a-89b3-f218d4635dc0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0f32aa95-b986-4f9a-89b3-f218d4635dc0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0f32aa95-b986-4f9a-89b3-f218d4635dc0
 - text: Biden signed the UAP Disclosure Act into law in late December 2023
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -228,7 +228,7 @@ references:
   quote: in late December 2023 Biden signed it into law
   claim_id: 76e8c6c2-a112-4164-9f68-cb723b8843c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
 - text: 'Strieber: Biden administration tried to derail congressional disclosure demands'
   source: The Fourth Mind
@@ -237,7 +237,7 @@ references:
     strident congressional demands for more disclosure
   claim_id: 5f47635e-3a52-4825-8d30-260edfe6ad8e
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5f47635e-3a52-4825-8d30-260edfe6ad8e
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5f47635e-3a52-4825-8d30-260edfe6ad8e
 - text: Grusch brought people to the ICIG under the Biden administration
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:25:51.4-00:26:06.3
@@ -247,7 +247,7 @@ references:
     inspector general under the Biden administration.
   claim_id: df0c7ca6-4c07-48a1-aa88-8f7a980db525
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-df0c7ca6-4c07-48a1-aa88-8f7a980db525
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-df0c7ca6-4c07-48a1-aa88-8f7a980db525
 - text: Thomas Monheim was Inspector General of the Intelligence Community under Biden
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:27:10.6-00:27:14.4
@@ -255,7 +255,7 @@ references:
     under Biden
   claim_id: 366a7a7b-e994-4618-b0ff-7e8296bfe3f7
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-366a7a7b-e994-4618-b0ff-7e8296bfe3f7
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-366a7a7b-e994-4618-b0ff-7e8296bfe3f7
 - text: 'Grusch: Sullivan and White House Counsel told Monheim to stop the investigation'
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:27:04.0-00:27:22.1
@@ -266,7 +266,7 @@ references:
     access programs
   claim_id: ffc4a78b-15f9-4f6e-9ca7-118e448a675f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ffc4a78b-15f9-4f6e-9ca7-118e448a675f
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ffc4a78b-15f9-4f6e-9ca7-118e448a675f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

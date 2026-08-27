@@ -145,21 +145,21 @@ references:
     of Iceland, where he taught from 1973 to 1999.
   claim_id: 8d8b69f7-cf93-4c30-99df-cc9130f3ab95
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8d8b69f7-cf93-4c30-99df-cc9130f3ab95
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8d8b69f7-cf93-4c30-99df-cc9130f3ab95
 - text: He taught at the University of Iceland from 1973 to 1999
   source: Surviving Death
   location: ch36:226-255
   quote: where he taught from 1973 to 1999
   claim_id: 372e1cae-2855-4e30-b971-acf438e4f147
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-372e1cae-2855-4e30-b971-acf438e4f147
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-372e1cae-2855-4e30-b971-acf438e4f147
 - text: He received his PhD in psychology from the University of Freiburg in 1972
   source: Surviving Death
   location: ch36:360-426
   quote: received his PhD in psychology from the University of Freiburg in 1972
   claim_id: 3cc8a82d-6a8e-4ec0-bda5-84da9e986403
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3cc8a82d-6a8e-4ec0-bda5-84da9e986403
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3cc8a82d-6a8e-4ec0-bda5-84da9e986403
 - text: He has researched psychic phenomena, apparitions, child reincarnation cases,
     and mediumship since the 1970s
   source: Surviving Death
@@ -168,7 +168,7 @@ references:
     cases, and mediumship since the 1970s.
   claim_id: 2bece418-8c5d-49ee-8784-f4094c109a6e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2bece418-8c5d-49ee-8784-f4094c109a6e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2bece418-8c5d-49ee-8784-f4094c109a6e
 - text: Stevenson interested Haraldsson, Keil, Pasricha, Mills and later Tucker in
     studying past-life cases
   source: Surviving Death
@@ -178,7 +178,7 @@ references:
     Mills, and later me as a child psychiatrist
   claim_id: 1574ee52-bdfa-42c7-8494-80a36accd91b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1574ee52-bdfa-42c7-8494-80a36accd91b
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1574ee52-bdfa-42c7-8494-80a36accd91b
 - text: Together they studied over twenty-five hundred cases, with a matching previous
     person identified in two-thirds
   source: Surviving Death
@@ -188,7 +188,7 @@ references:
     or lesser degree, the statements the child made.
   claim_id: c3103193-c2e8-46e3-a1b9-ce3548e693de
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c3103193-c2e8-46e3-a1b9-ce3548e693de
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c3103193-c2e8-46e3-a1b9-ce3548e693de
 - text: Tucker said Haraldsson's follow-up studies found children still remembered
     past-life details as adults
   source: Surviving Death
@@ -198,7 +198,7 @@ references:
     as adults that they still remembered some details of a past life.
   claim_id: 5e99238f-989e-4b5f-9f2a-ccce8745dae3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5e99238f-989e-4b5f-9f2a-ccce8745dae3
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5e99238f-989e-4b5f-9f2a-ccce8745dae3
 - text: In the mid-1970s he surveyed 902 Icelanders on awareness of a deceased person's
     presence
   source: Surviving Death
@@ -208,14 +208,14 @@ references:
     had ever been aware of the presence of a deceased person.
   claim_id: 861d8f15-ed53-4104-b426-a9bfbb283fd2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-861d8f15-ed53-4104-b426-a9bfbb283fd2
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-861d8f15-ed53-4104-b426-a9bfbb283fd2
 - text: Thirty-one percent answered yes to having had an after-death communication
   source: Surviving Death
   location: ch30:8584-8612
   quote: Thirty-one percent answered yes
   claim_id: cbe71d8a-a91e-473a-b3f8-81d8ae60bd0f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cbe71d8a-a91e-473a-b3f8-81d8ae60bd0f
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cbe71d8a-a91e-473a-b3f8-81d8ae60bd0f
 - text: He conducted in-depth interviews with over 450 people who reported after-death
     communications
   source: Surviving Death
@@ -224,7 +224,7 @@ references:
     with over 450 people who had had ADCs.
   claim_id: 88822166-5243-48b2-b0f6-b42913a8a31a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-88822166-5243-48b2-b0f6-b42913a8a31a
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-88822166-5243-48b2-b0f6-b42913a8a31a
 - text: He concluded it seems impossible to reject all such accounts as deception
     or mistaken perception
   source: Surviving Death
@@ -234,7 +234,7 @@ references:
     “Something real is there, at least in some of the accounts.”
   claim_id: baff2751-6bf5-4e7b-a785-a56df7fe5022
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-baff2751-6bf5-4e7b-a785-a56df7fe5022
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-baff2751-6bf5-4e7b-a785-a56df7fe5022
 - text: About half of ADC events occur within the first year after death, three-quarters
     within four years
   source: Surviving Death
@@ -243,7 +243,7 @@ references:
     after the death, and three-quarters before the end of the fourth year,
   claim_id: 8cf9711d-76d5-43ed-abb6-8ef518f37dc4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cf9711d-76d5-43ed-abb6-8ef518f37dc4
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cf9711d-76d5-43ed-abb6-8ef518f37dc4
 - text: In 86 percent of cases within twenty-four hours of death, the percipient did
     not know the person had died
   source: Surviving Death
@@ -253,14 +253,14 @@ references:
     had died or was dying.
   claim_id: 374585b6-8d98-4890-8b9b-d1a20263d845
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-374585b6-8d98-4890-8b9b-d1a20263d845
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-374585b6-8d98-4890-8b9b-d1a20263d845
 - text: His paper studied 337 cases of encounters with someone not known to have died
   source: Surviving Death
   location: ch30:10352-10399
   quote: encounters with someone they had not known had died
   claim_id: 20dd14d5-366d-4357-b0e1-7d8c00a1a040
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-20dd14d5-366d-4357-b0e1-7d8c00a1a040
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-20dd14d5-366d-4357-b0e1-7d8c00a1a040
 - text: 28 percent of the deaths involved in his Iceland surveys were sudden, unexpected
     or violent
   source: Surviving Death
@@ -270,7 +270,7 @@ references:
     mostly accidents.
   claim_id: 060a590b-fc22-44e6-aab3-ddb4097b3953
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-060a590b-fc22-44e6-aab3-ddb4097b3953
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-060a590b-fc22-44e6-aab3-ddb4097b3953
 - text: This proportion of violent deaths was far higher than the 7.8 percent in the
     general Icelandic population, 1941-1970
   source: Surviving Death
@@ -279,7 +279,7 @@ references:
     occurred in the general population (only 7.8 percent from 1941 to 1970).
   claim_id: dddd1fa0-4512-4b33-906f-ff713521ea90
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dddd1fa0-4512-4b33-906f-ff713521ea90
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dddd1fa0-4512-4b33-906f-ff713521ea90
 - text: He attributes the male predominance among communicators to men being more
     likely to die violently
   source: Surviving Death
@@ -288,7 +288,7 @@ references:
     likely to die violently than women.
   claim_id: 4b662eb7-2acd-4947-90c3-80be84ef82b9
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4b662eb7-2acd-4947-90c3-80be84ef82b9
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4b662eb7-2acd-4947-90c3-80be84ef82b9
 - text: He also found apparition cases showed a much higher proportion of violent
     deaths than the general population
   source: Surviving Death
@@ -298,7 +298,7 @@ references:
     suffered a violent death, when compared with the general population.
   claim_id: 8dcd0da7-b856-4734-9772-1a1122b2d95e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dcd0da7-b856-4734-9772-1a1122b2d95e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dcd0da7-b856-4734-9772-1a1122b2d95e
 - text: He states violent death features predominantly in apparitions, reincarnation
     cases, and mediumship
   source: Surviving Death
@@ -308,7 +308,7 @@ references:
     including both direct communicators and drop-ins.
   claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
 - text: He observes violent-death cases have an invasive character, with the deceased
     often unknown to the percipient
   source: Surviving Death
@@ -318,14 +318,14 @@ references:
     active role in their appearance.
   claim_id: 0b50feac-a608-406c-8572-477a7cd4f078
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b50feac-a608-406c-8572-477a7cd4f078
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b50feac-a608-406c-8572-477a7cd4f078
 - text: He considers these findings to support the survival hypothesis
   source: Surviving Death
   location: ch30:12117-12183
   quote: All of these findings tend, in my view, to support the survival hypothesis.
   claim_id: 464a3e03-1984-4cf1-ad36-acf2d6fc4234
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-464a3e03-1984-4cf1-ad36-acf2d6fc4234
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-464a3e03-1984-4cf1-ad36-acf2d6fc4234
 - text: Haraldsson and Gissurarson found no association between high-scoring anomalous
     cognition trials and low geomagnetic fluctuations in 1987
   source: Remote Viewing Secrets
@@ -333,7 +333,7 @@ references:
   quote: while Haraldsson and Gissurarson (1987) and Nelson & Dunne (1986) did not.
   claim_id: 4a74221e-7a4c-40ab-9b05-7257e4547d13
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a74221e-7a4c-40ab-9b05-7257e4547d13
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a74221e-7a4c-40ab-9b05-7257e4547d13
 - text: Haraldsson, a University of Iceland professor, researched the mediumship of
     Indridi Indridason
   source: Surviving Death
@@ -342,7 +342,7 @@ references:
     work of Indridi Indridason.
   claim_id: 322be6c5-1e52-412a-9058-2eda0af69070
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-322be6c5-1e52-412a-9058-2eda0af69070
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-322be6c5-1e52-412a-9058-2eda0af69070
 - text: He has published on after-death communications, drop-in communicators and
     other areas for over forty years
   source: Surviving Death
@@ -351,7 +351,7 @@ references:
     many other areas in scientific journals and books for over forty years.
   claim_id: 79599517-a8d6-42fb-8e1a-c9a8997c8904
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-79599517-a8d6-42fb-8e1a-c9a8997c8904
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-79599517-a8d6-42fb-8e1a-c9a8997c8904
 - text: Haraldsson personally investigated in detail the physical mediumship of Indridi
     Indridason
   source: Surviving Death
@@ -360,7 +360,7 @@ references:
     of Iceland, whom I have personally investigated in great detail.
   claim_id: f0602a6e-d847-4f93-80db-103a16e2541b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f0602a6e-d847-4f93-80db-103a16e2541b
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f0602a6e-d847-4f93-80db-103a16e2541b
 - text: He considers the Emil Jensen and independent-voice cases among the best evidence
     for survival he has encountered
   source: Surviving Death
@@ -369,7 +369,7 @@ references:
     evidence I have ever encountered for that possibility.
   claim_id: d819a355-d69e-4661-9caf-498fbbd79506
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d819a355-d69e-4661-9caf-498fbbd79506
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d819a355-d69e-4661-9caf-498fbbd79506
 - text: The investigators of the Runolfur Runolfsson drop-in case through Hafsteinn
     Bjornsson were Haraldsson and Stevenson
   source: Surviving Death
@@ -377,7 +377,7 @@ references:
   quote: and the investigators were Erlendur Haraldsson and Ian Stevenson.
   claim_id: 69318600-a3bf-480e-b408-ffacdcbfb88f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-69318600-a3bf-480e-b408-ffacdcbfb88f
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-69318600-a3bf-480e-b408-ffacdcbfb88f
 - text: They considered it infeasible to attribute all the case's information to any
     single source
   source: Surviving Death
@@ -387,7 +387,7 @@ references:
     the medium acquired the information normally or by extrasensory perception.
   claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb27781b-cb01-4caa-8726-cf2b1cdea175
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb27781b-cb01-4caa-8726-cf2b1cdea175
 - text: They considered the simplest explanation to be that Runki survived death and
     communicated through Hafsteinn Bjornsson
   source: Surviving Death
@@ -397,7 +397,7 @@ references:
     communication through the mediumship of Hafsteinn.
   claim_id: 2bc04a73-8194-45db-b57d-dab8e313f496
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2bc04a73-8194-45db-b57d-dab8e313f496
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2bc04a73-8194-45db-b57d-dab8e313f496
 - text: The case, previously described by Alan Gauld, was investigated by University
     of Iceland psychologist Haraldsson and psychiatrist Stevenson
   source: Surviving Death
@@ -407,7 +407,7 @@ references:
     case in point.
   claim_id: 94468a12-9932-4fc4-a824-058ab97a49b5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-94468a12-9932-4fc4-a824-058ab97a49b5
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-94468a12-9932-4fc4-a824-058ab97a49b5
 - text: He considers Emil Jensen a drop-in communicator similar to the Runki's-leg
     case described by Gauld
   source: Surviving Death
@@ -417,7 +417,7 @@ references:
     by Alan Gauld.
   claim_id: 42cd6b45-5730-4a3a-9a11-1afff975329e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-42cd6b45-5730-4a3a-9a11-1afff975329e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-42cd6b45-5730-4a3a-9a11-1afff975329e
 - text: He considers telepathy or clairvoyance among the living inadequate to explain
     the strongest drop-in cases
   source: Surviving Death
@@ -428,7 +428,7 @@ references:
     personality past death.
   claim_id: 998233a3-9234-4c7e-b3a9-c6c3c11d6837
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-998233a3-9234-4c7e-b3a9-c6c3c11d6837
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-998233a3-9234-4c7e-b3a9-c6c3c11d6837
 - text: His records indicate the Store Kongensgade fire likely started after nine
     o'clock (eleven o'clock Danish time)
   source: Surviving Death
@@ -437,7 +437,7 @@ references:
     nine (eleven Danish time)
   claim_id: 2a7dabb0-683b-4828-8067-ef7c2ae52448
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a7dabb0-683b-4828-8067-ef7c2ae52448
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a7dabb0-683b-4828-8067-ef7c2ae52448
 - text: He did not carefully examine the rediscovered minute books until 2008, calling
     the resulting finding perhaps his most memorable
   source: Surviving Death
@@ -446,7 +446,7 @@ references:
     unexpected discovery, perhaps the most memorable finding of my life.
   claim_id: 33fcf428-80ed-4b2a-ba8b-3cf16a844a40
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-33fcf428-80ed-4b2a-ba8b-3cf16a844a40
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-33fcf428-80ed-4b2a-ba8b-3cf16a844a40
 - text: No attempt had been made to verify the Jensen communicator's statements before
     his investigation
   source: Surviving Death
@@ -454,7 +454,7 @@ references:
   quote: Apparently no attempt was ever made to verify any of this.
   claim_id: ef01eaa9-8711-4a8b-b435-0ebc662445f4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ef01eaa9-8711-4a8b-b435-0ebc662445f4
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ef01eaa9-8711-4a8b-b435-0ebc662445f4
 - text: In 2009 he visited the Royal Library in Copenhagen and found annual volumes
     of nineteenth-century businesspeople
   source: Surviving Death
@@ -463,7 +463,7 @@ references:
     annual volumes listing businesspeople there in the nineteenth century.
   claim_id: 77f002b0-8464-4d85-be73-a7bdf0c82557
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-77f002b0-8464-4d85-be73-a7bdf0c82557
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-77f002b0-8464-4d85-be73-a7bdf0c82557
 - text: In the 1890 volume he found one manufacturer named Emil Jensen, at Store Kongensgade
     67, two doors from the fire
   source: Surviving Death
@@ -473,14 +473,14 @@ references:
     67, which is two doors away from number 63 where the fire broke out.
   claim_id: fcb46661-73f3-4b09-b5e9-34fa12d0b580
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fcb46661-73f3-4b09-b5e9-34fa12d0b580
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fcb46661-73f3-4b09-b5e9-34fa12d0b580
 - text: Later in 2009 he searched Copenhagen census documents
   source: Surviving Death
   location: ch36:8446-8494
   quote: Later that year, I searched census documents in Copenhagen.
   claim_id: 8559aa4a-1309-4243-be2b-2c231e2c7144
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8559aa4a-1309-4243-be2b-2c231e2c7144
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8559aa4a-1309-4243-be2b-2c231e2c7144
 - text: All seven of the communicator's statements in the 1905-12-11 minute book were
     verified
   source: Surviving Death
@@ -493,7 +493,7 @@ references:
     7. I was a manufacturer. (Various documents)'
   claim_id: e1b0e2ad-750b-453d-8544-337e63b796be
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e1b0e2ad-750b-453d-8544-337e63b796be
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e1b0e2ad-750b-453d-8544-337e63b796be
 - text: He checked Danish newspapers Politiken and Berlingske Tidende for an obituary
     and found none
   source: Surviving Death
@@ -502,7 +502,7 @@ references:
     or Berlingske Tidende, the papers of that time.
   claim_id: f42c2a42-fd4b-496d-a627-ec360c88d3f3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f42c2a42-fd4b-496d-a627-ec360c88d3f3
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f42c2a42-fd4b-496d-a627-ec360c88d3f3
 - text: He considers the identification of Emil Jensen a century later confirms an
     actual person unknown to Indridason
   source: Surviving Death
@@ -512,7 +512,7 @@ references:
     in Indridi's séance room and was never known to Indridi.
   claim_id: d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
 - text: As described by Kean, Jensen provided enough biographical detail to be identified
     years later as someone who really lived
   source: Surviving Death
@@ -522,7 +522,7 @@ references:
     lived.
   claim_id: 2f1edc12-474f-436a-9a2a-bec673d0b691
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2f1edc12-474f-436a-9a2a-bec673d0b691
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2f1edc12-474f-436a-9a2a-bec673d0b691
 - text: His census research found Jensen living with four single sisters at Store
     Kongensgade 67, near the fire at number 63
   source: Surviving Death
@@ -531,7 +531,7 @@ references:
     Store Kongensgade 67, again close to number 63 where the fire broke out.
   claim_id: dcb6f16c-afcd-4075-9d0a-76a2d6848838
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dcb6f16c-afcd-4075-9d0a-76a2d6848838
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dcb6f16c-afcd-4075-9d0a-76a2d6848838
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

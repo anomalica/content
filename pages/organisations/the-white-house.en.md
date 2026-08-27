@@ -79,7 +79,7 @@ references:
     consecutive weekends.'
   claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
 - text: The White House feared the Soviet Union might deploy troops to the Golan Heights
     border with Israel.
@@ -89,7 +89,7 @@ references:
     deploying Soviet troops on the Syrian Golan Heights border with Israel.
   claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
 - text: NASA administrator Robert Frosch responded to a White House request by recommending
     against a UFO research programme or symposium.
@@ -101,7 +101,7 @@ references:
     a symposium on the subject’.
   claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8f637a11-b477-47af-b927-82cda6c3451f
 - text: Harold Puthoff reported directly to the White House and the CIA director in
     various past roles.
@@ -111,7 +111,7 @@ references:
     House and the director of the CIA.
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d267f396-9477-4118-9435-449a2ca88ffd
 - text: Under Project Stargate, Puthoff reported directly to the CIA director and
     the White House.
@@ -121,7 +121,7 @@ references:
     CIA and the White House on a regular basis.
   claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
 - text: John Podesta served as Bill Clinton's White House Chief of Staff from 1998
     to 2001.
@@ -131,7 +131,7 @@ references:
     of Staff in the White House from 1998 to 2001
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12340195-1080-4fa6-94bd-8fb2123d8392
 - text: Podesta regrets not insisting on UAP disclosure while at the White House.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -140,7 +140,7 @@ references:
     of UAP evidence when he was in the White House.
   claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
 - text: Elizondo's 2024 testimony states he managed a Special Access Program for the
     White House and NSC.
@@ -151,7 +151,7 @@ references:
     White House and the National Security Council.
   claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
+  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
 - text: Elizondo's programme managed national-level special-access programs for the
     NSC and White House.
@@ -161,7 +161,7 @@ references:
     National Security Council and the White House.
   claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
 - text: Elizondo held the clearances needed to work for the White House and NSC.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -170,7 +170,7 @@ references:
     the National Security Council.
   claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
 - text: Elizondo was certified as a Special Technical Operations officer, with clearance
     comparable to White House nuclear-code carriers.
@@ -181,7 +181,7 @@ references:
     nuclear codes for the president.
   claim_id: 4a5d794d-892d-4077-aed7-d69446612de5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4a5d794d-892d-4077-aed7-d69446612de5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4a5d794d-892d-4077-aed7-d69446612de5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4a5d794d-892d-4077-aed7-d69446612de5
 - text: Around 2014 Elizondo worked on a White House/NSC programme at Guantanamo Bay.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -190,7 +190,7 @@ references:
     and National Security Council.
   claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
 - text: A White House advisor and a CIA liaison officer were deferred to when Elizondo
     sought to brief James Mattis.
@@ -201,7 +201,7 @@ references:
     and a CIA liaison officer I will call Shari Smith.
   claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-93270cf4-8b2b-4173-a414-496de12b86b5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-93270cf4-8b2b-4173-a414-496de12b86b5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-93270cf4-8b2b-4173-a414-496de12b86b5
 - text: Jay Stratton fielded NSC briefing requests that were passed to Donald Trump.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -212,7 +212,7 @@ references:
     shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af73f27e-6d01-4702-86f0-925398868a92
 - text: Elizondo's testimony names the White House, CIA, NASA, Pentagon and DOE as
     having a role in UAP, with no single entity in charge.
@@ -224,7 +224,7 @@ references:
     power and corruption.
   claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  workbench_url: http://localhost:5173/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
 - text: Tom DeLonge says he was introduced to senior military, intelligence, NASA
     and White House officials after meeting Robert Weiss.
@@ -235,7 +235,7 @@ references:
     officials, high-ranking NASA bureaucrats and senior officials in the White House.
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-271deefa-c35a-4e99-ab78-659455e671d2
 - text: The Obama White House responded to a Change.org petition demanding disclosure
     of extraterrestrial contact.
@@ -247,7 +247,7 @@ references:
     communications with extra-terrestrial beings'.
   claim_id: db14a395-1493-44c8-95ab-cfa2b8b93678
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db14a395-1493-44c8-95ab-cfa2b8b93678
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db14a395-1493-44c8-95ab-cfa2b8b93678
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db14a395-1493-44c8-95ab-cfa2b8b93678
 - text: The White House's 2011 statement denied the US had recovered extraterrestrial
     technology.
@@ -258,7 +258,7 @@ references:
     extra-terrestrial technology.
   claim_id: 86c22a91-6dd9-4b74-8031-7849942fd9f0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86c22a91-6dd9-4b74-8031-7849942fd9f0
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86c22a91-6dd9-4b74-8031-7849942fd9f0
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86c22a91-6dd9-4b74-8031-7849942fd9f0
 - text: A leaked 2016 email carried McCasland's recommendations for a White House
     information-disclosure memo.
@@ -271,7 +271,7 @@ references:
     and the National Oceanic and Atmospheric Administration.
   claim_id: d8eb21a7-d2ae-4102-9dcd-40844c2352b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8eb21a7-d2ae-4102-9dcd-40844c2352b1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8eb21a7-d2ae-4102-9dcd-40844c2352b1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d8eb21a7-d2ae-4102-9dcd-40844c2352b1
 - text: A memo reportedly said no one, including any president, was cleared for the
     'Big Secret' without being on the 'Bigot list'.
@@ -281,7 +281,7 @@ references:
     is cleared to know The Big Secret, for they were not on the ‘Bigot list’ either.
   claim_id: 2389adf8-dccb-47a0-96cf-41f97625b55c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2389adf8-dccb-47a0-96cf-41f97625b55c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2389adf8-dccb-47a0-96cf-41f97625b55c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2389adf8-dccb-47a0-96cf-41f97625b55c
 - text: Jean-Pierre and Kirby briefed the press on the shot-down objects on 2023-02-13.
   source: In Plain Sight
@@ -291,7 +291,7 @@ references:
     John Kirby', White House Press Briefings, 13 Feb 2023.
   claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
 - text: Ryan Graves warned against conflating the shot-down objects with the high-tech
     AAVs seen by pilots.
@@ -303,7 +303,7 @@ references:
     objects witnessed by pilots with whom he served.
   claim_id: 32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
 - text: Loeb describes his AARO advisory council's governing board as including ODNI,
     White House and FBI representatives.
@@ -314,14 +314,14 @@ references:
     have access, of course, to all the classified material.
   claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
 - text: Burlison says he would raise any Loeb access problem with President Trump.
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:54:21.3-00:54:25.1
   quote: I'd ask the White House. I'd say, Mr. President, we got a problem.
   claim_id: ccac9e9f-01cd-456c-9b33-4c37d79273d4
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
-  workbench_url: http://localhost:5173/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ccac9e9f-01cd-456c-9b33-4c37d79273d4
+  workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ccac9e9f-01cd-456c-9b33-4c37d79273d4
 - text: Coulthart says people within the White House administration are considering
     releasing UAP information.
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -332,7 +332,7 @@ references:
     public information about what the government knows.
   claim_id: 376c8caa-6f94-451f-bd60-60eae39b4178
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-376c8caa-6f94-451f-bd60-60eae39b4178
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-376c8caa-6f94-451f-bd60-60eae39b4178
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

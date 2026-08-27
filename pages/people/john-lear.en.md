@@ -32,7 +32,7 @@ references:
     Lear for his outspoken belief in UFOs
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
 - text: Lear said over a billion aliens were living in the mountains outside Las Vegas.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -41,7 +41,7 @@ references:
     Las Vegas.
   claim_id: e86d78a6-d44d-4ad3-a561-97eb4c4c1418
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e86d78a6-d44d-4ad3-a561-97eb4c4c1418
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e86d78a6-d44d-4ad3-a561-97eb4c4c1418
 - text: Lear said there was a civilisation inside the sun and that the sun's heat
     was a kind of special effect.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -50,14 +50,14 @@ references:
     hot it's some special effect
   claim_id: ec45a3ed-b4a3-4190-800b-e114ba5fe232
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ec45a3ed-b4a3-4190-800b-e114ba5fe232
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-ec45a3ed-b4a3-4190-800b-e114ba5fe232
 - text: Lear said a person could breathe on Venus.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:17:01.6-00:17:02.7
   quote: that you can breathe on venus
   claim_id: 0c609415-5643-4338-b057-b470c8c532cf
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0c609415-5643-4338-b057-b470c8c532cf
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0c609415-5643-4338-b057-b470c8c532cf
 - text: Lazar told Lear to his face that his claims about the sun and Venus were nonsense
     and that he was crazy.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -66,7 +66,7 @@ references:
     nonsense
   claim_id: dcf6550c-60cd-461b-b464-238383d500c2
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-dcf6550c-60cd-461b-b464-238383d500c2
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-dcf6550c-60cd-461b-b464-238383d500c2
 - text: Lazar does not think people took Lear seriously at the time he was making
     these claims.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -74,7 +74,7 @@ references:
   quote: i don't see people taking john lear as serious at that time
   claim_id: 0a408ce4-87a8-47a7-a74e-f969bec4efca
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0a408ce4-87a8-47a7-a74e-f969bec4efca
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-0a408ce4-87a8-47a7-a74e-f969bec4efca
 - text: Lazar believes Lear's statements became increasingly extreme over time compared
     to when he first knew him.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -82,7 +82,7 @@ references:
   quote: as time went on the things he said got crazier and crazier
   claim_id: 9e199677-8b90-4be1-869d-b57b7a90b14f
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-9e199677-8b90-4be1-869d-b57b7a90b14f
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-9e199677-8b90-4be1-869d-b57b7a90b14f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

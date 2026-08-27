@@ -421,7 +421,7 @@ references:
     scientist
   claim_id: 4782951a-45e6-406d-bad8-642de4c660c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
 - text: Held US government clearances related to UAP investigation
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14740-14842
@@ -429,7 +429,7 @@ references:
     to the investigation of UAP.
   claim_id: b5e2391d-6576-4a07-9411-2928bbfede5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
 - text: As a young researcher, worked with and organised J. Allen Hynek's Project
     Blue Book papers
@@ -439,7 +439,7 @@ references:
     Hynek of the Air Force’s Project Blue Book.
   claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
 - text: Was a correspondent who supplied material to Flying Saucer Review
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -449,7 +449,7 @@ references:
     who supplied material for the magazine.
   claim_id: cc819c42-b493-4925-958e-182545a3186e
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cc819c42-b493-4925-958e-182545a3186e
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cc819c42-b493-4925-958e-182545a3186e
 - text: Tracked and photographed unidentified objects while working at Paris Observatory
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -459,7 +459,7 @@ references:
     There were films, too.
   claim_id: b16b5a99-43cd-45a9-863c-1e214207b48b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
 - text: In 1964, established from French cases that UFO landings tended to occur in
     desolate places
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -469,7 +469,7 @@ references:
     a fact that was first apparent in the computer analysis of French cases.
   claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
 - text: He and Hynek later verified the desolate-landing pattern using Air Force data
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -477,7 +477,7 @@ references:
   quote: Allen Hynek and I later verified it, using Air Force data.
   claim_id: 59967eae-787b-4862-8539-e609d9091d19
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
 - text: Travelled with Hynek to Boulder, Colorado, to brief the Condon Committee
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -485,7 +485,7 @@ references:
   quote: Dr. Hynek and I traveled to Boulder to brief the Condon group.
   claim_id: 322aa7fa-448b-4733-bfb3-52a412c4a432
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
 - text: Turned over three thousand punched cards forming the bulk of the committee's
     computer file
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -495,7 +495,7 @@ references:
     I had turned over to the committee.
   claim_id: 22c2126c-08ef-46c9-9d32-189799496b1c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22c2126c-08ef-46c9-9d32-189799496b1c
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22c2126c-08ef-46c9-9d32-189799496b1c
 - text: The Condon Committee split into two violently opposed factions
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -503,7 +503,7 @@ references:
   quote: the team split into two violently opposed factions.
   claim_id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
 - text: The minority faction published an internal memorandum as evidence of bad faith
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -513,7 +513,7 @@ references:
     into the UFO problem.
   claim_id: 7e227643-45b8-418a-bd63-fe08fd1a6979
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e227643-45b8-418a-bd63-fe08fd1a6979
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e227643-45b8-418a-bd63-fe08fd1a6979
 - text: Condon fired the minority group and ran the project without serious consideration
     of the phenomenon
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -524,7 +524,7 @@ references:
     of the phenomenon.
   claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
 - text: Vallée's definition of the 'first coverup'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -535,7 +535,7 @@ references:
     by their commanding officer.
   claim_id: 58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
 - text: Vallée's definition of the 'second coverup'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -545,7 +545,7 @@ references:
     the story.'
   claim_id: 9234defa-e7d9-4c53-be7a-eaa78a630ac9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9234defa-e7d9-4c53-be7a-eaa78a630ac9
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9234defa-e7d9-4c53-be7a-eaa78a630ac9
 - text: Vallée attributes UFO reporting confusion to bureaucratic disorganisation,
     not a 'Silence Group'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -557,7 +557,7 @@ references:
     a product of the confusion that was evident at all levels of the bureaucracy.
   claim_id: ae57adbb-5bc6-45b2-9458-466f0bebcb3e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ae57adbb-5bc6-45b2-9458-466f0bebcb3e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ae57adbb-5bc6-45b2-9458-466f0bebcb3e
 - text: In December 1973, investigated the Carteret sighting with Janine Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -566,7 +566,7 @@ references:
     west of France in December 1973.
   claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
 - text: Janine Vallée interviewed a witness and police; Jacques checked other information
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -576,7 +576,7 @@ references:
     information.
   claim_id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
 - text: Radar installation at Mauperthuis, 38km from Carteret, 200km range
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -586,7 +586,7 @@ references:
     two hundred kilometers.
   claim_id: c7b26e81-71b9-4c52-9200-23740f1a2bc3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c7b26e81-71b9-4c52-9200-23740f1a2bc3
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c7b26e81-71b9-4c52-9200-23740f1a2bc3
 - text: At 6:10 a.m. the radar picked up an echo on a course toward Great Britain
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -596,7 +596,7 @@ references:
     toward Great Britain would have followed this course.
   claim_id: b9b7c443-f7af-44f3-b1d9-8cf080505043
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b9b7c443-f7af-44f3-b1d9-8cf080505043
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b9b7c443-f7af-44f3-b1d9-8cf080505043
 - text: Military radar operators in Cherbourg were ordered to deny their statements
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -605,7 +605,7 @@ references:
     statements of the night in question
   claim_id: 9e930cec-85fe-4914-9eba-83f0b3342cef
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9e930cec-85fe-4914-9eba-83f0b3342cef
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9e930cec-85fe-4914-9eba-83f0b3342cef
 - text: Vallée's hypothesis about the Archipel trawler's magnetic navigation error
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -615,7 +615,7 @@ references:
     indications.
   claim_id: 54885225-5a40-4e6d-9dc3-a437eb220aa2
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54885225-5a40-4e6d-9dc3-a437eb220aa2
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54885225-5a40-4e6d-9dc3-a437eb220aa2
 - text: March 1974 radio interviews with Galley, Guerin, Poher and Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -627,7 +627,7 @@ references:
     Poher (head of scientific studies for the French equivalent of NASA); and myself.'
   claim_id: e866529d-cc94-4ac5-b17e-47e463cc29b8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e866529d-cc94-4ac5-b17e-47e463cc29b8
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e866529d-cc94-4ac5-b17e-47e463cc29b8
 - text: Saw the Order of Melchizedek poster in the Paris Metro, December 1975
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:971-1087
@@ -635,7 +635,7 @@ references:
     of Melchizedek, rue Jules Valles Paris XI
   claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
 - text: Visited the rue Jules Valles apartment the following day
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:1791-1903
@@ -643,7 +643,7 @@ references:
     worry, you have come at the appointed time."'
   claim_id: 9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
 - text: Attended an Order of Melchizedek meeting at the Hyatt Hotel, paying three
     dollars each
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -651,7 +651,7 @@ references:
   quote: My wife, Janine, and I went there and paid our three dollars each.
   claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
 - text: Compiled a catalogue of recurring contactee themes
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:22550-22639
@@ -659,7 +659,7 @@ references:
     includes the following.
   claim_id: 24e76aa4-a661-4da0-b739-93160b8ec53b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
 - text: Observed vacant, blissful expressions similar to other movements' followers
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:8221-8384
@@ -668,7 +668,7 @@ references:
     Werner Erhard.
   claim_id: 9355f614-e388-403e-b522-a53d5beab55b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9355f614-e388-403e-b522-a53d5beab55b
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9355f614-e388-403e-b522-a53d5beab55b
 - text: Compared Esoteric Fraternity teachings to modern contactee groups like Heaven's
     Gate
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -679,7 +679,7 @@ references:
     as Hiram Butler
   claim_id: a443d879-4889-4745-8767-f3ac524a885a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a443d879-4889-4745-8767-f3ac524a885a
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a443d879-4889-4745-8767-f3ac524a885a
 - text: Considered contactee groups could capitalise on public fear
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:42953-43097
@@ -687,7 +687,7 @@ references:
     under which contactee groups could capitalize on the public’s fear.
   claim_id: 8b17f265-26e2-4804-9686-1e5b1869259d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8b17f265-26e2-4804-9686-1e5b1869259d
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8b17f265-26e2-4804-9686-1e5b1869259d
 - text: Warned a mass UFO appearance could cause cults to blossom as trust in government
     collapsed
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -697,7 +697,7 @@ references:
     And that's one of the fears that he's got.
   claim_id: 2d113e2d-fd01-4042-bc90-a71e2438eff9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
 - text: Jim Hurtak, friend of Puharich, was involved in the Uri Geller affair
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:28344-28518
@@ -706,7 +706,7 @@ references:
     had a number of UFO encounters
   claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
 - text: Vallée on Geller as a case of self-negating factors gathered around one person
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -716,7 +716,7 @@ references:
     is a case in point.
   claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
 - text: Major Murphy's WWII flying-saucer suggestion and its psychotronic-effect claim
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:27:48.1-01:28:04.8
@@ -726,7 +726,7 @@ references:
     wasn't its flight capabilities, but its psychotronic effect.
   claim_id: 4f5610c5-4616-45d1-9272-1f12e6004ab6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4f5610c5-4616-45d1-9272-1f12e6004ab6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4f5610c5-4616-45d1-9272-1f12e6004ab6
 - text: 'Pasulka on Vallée''s three-part approach: physical, testimonial, social'
   source: American Cosmic
   location: ch1:55341-55734
@@ -737,7 +737,7 @@ references:
     persists regardless of whether there is any verifiable evidence to support it.'
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
 - text: James Master and Vallée counted each other as major influences and mentors
   source: American Cosmic
   location: ch2:35458-35542
@@ -745,7 +745,7 @@ references:
     and James formed an instant bond.
   claim_id: 82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
 - text: Master on Vallée's status resting on never concluding the phenomenon is anything
     specific
   source: American Cosmic
@@ -754,7 +754,7 @@ references:
     the phenomenon is anything specific.”
   claim_id: 46266781-e548-4a0d-9362-4638d87d9d62
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-46266781-e548-4a0d-9362-4638d87d9d62
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-46266781-e548-4a0d-9362-4638d87d9d62
 - text: Master on Vallée infuriating ufologists by not committing to one explanation
   source: American Cosmic
   location: ch2:36138-36286
@@ -762,7 +762,7 @@ references:
     line. All Jacques has ever claimed is that the phenomenon seems infinitely variable.
   claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
 - text: 'Pasulka: Vallée suggests the UFO might be a ''window'' into another dimension'
   source: American Cosmic
   location: ch2:36536-36689
@@ -770,7 +770,7 @@ references:
     that the UFO might not be an object, but some kind of “window” into another dimension.
   claim_id: 50ce2cee-457c-4499-bf40-160678b218c4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-50ce2cee-457c-4499-bf40-160678b218c4
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-50ce2cee-457c-4499-bf40-160678b218c4
 - text: Apparitions and UFOs as manifestations of a single control mechanism
   source: American Cosmic
   location: ch5:18128-18302
@@ -779,7 +779,7 @@ references:
     like a schedule of reinforcement.
   claim_id: ab8a8888-5a46-46e2-bca5-ede2e6a58330
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab8a8888-5a46-46e2-bca5-ede2e6a58330
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab8a8888-5a46-46e2-bca5-ede2e6a58330
 - text: Vallée's 'Morphology of Miracles' approach to Fatima
   source: American Cosmic
   location: ch5:17553-17892
@@ -790,7 +790,7 @@ references:
     he calls a "Morphology of Miracles."
   claim_id: 961a1fb8-9a34-4e51-939a-bbd1eac2a93a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-961a1fb8-9a34-4e51-939a-bbd1eac2a93a
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-961a1fb8-9a34-4e51-939a-bbd1eac2a93a
 - text: Fatima sightings said to begin two years earlier with UFO sightings
   source: American Cosmic
   location: ch5:20592-20747
@@ -799,7 +799,7 @@ references:
     sightings.
   claim_id: 3c7bffa2-1195-44a2-862b-3d62a09ca387
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3c7bffa2-1195-44a2-862b-3d62a09ca387
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3c7bffa2-1195-44a2-862b-3d62a09ca387
 - text: Vallée refuses to affirm or deny the Hills' Zeta Reticuli claim
   source: American Cosmic
   location: ch5:28101-28351
@@ -809,7 +809,7 @@ references:
     having been real.
   claim_id: 63d5f708-e73f-4572-afae-6a3c865468c9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63d5f708-e73f-4572-afae-6a3c865468c9
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63d5f708-e73f-4572-afae-6a3c865468c9
 - text: Steeped in information studies, computer science, remote viewing and telepathy
   source: American Cosmic
   location: ch5:37626-37717
@@ -817,7 +817,7 @@ references:
     viewing and telepathy.
   claim_id: cee2740d-e53b-4f80-b723-82001116c617
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-cee2740d-e53b-4f80-b723-82001116c617
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-cee2740d-e53b-4f80-b723-82001116c617
 - text: Early ARPANET work took place within 1970s Silicon Valley
   source: American Cosmic
   location: ch5:37491-37619
@@ -825,7 +825,7 @@ references:
     mind-bending environment of Silicon Valley in the 1970s.
   claim_id: e3feded6-c447-4402-a565-87864b00e85b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3feded6-c447-4402-a565-87864b00e85b
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3feded6-c447-4402-a565-87864b00e85b
 - text: Independently verified the Colares Incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:10477-10577
@@ -833,7 +833,7 @@ references:
     independently verified the happenings.
   claim_id: 55351b6a-b015-4802-b42c-a00135ac39cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-55351b6a-b015-4802-b42c-a00135ac39cd
 - text: Livingston flew to California with Kelleher and Vallée to meet Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -844,7 +844,7 @@ references:
     of UAP.
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
 - text: Obtained material from the 1977 Council Bluffs, Iowa incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -852,7 +852,7 @@ references:
   quote: Vallée had obtained materials recovered from this incident.
   claim_id: f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
 - text: Suspected the multicoloured lights came from a wobbling craft in distress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -861,7 +861,7 @@ references:
     a wobbling craft in distress.
   claim_id: 808bfcc9-7f07-4b21-84bd-ee5532af1cd2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
 - text: Nolan and Vallée analysed a molten metal aggregate's composition
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -870,7 +870,7 @@ references:
     aggregate and had uncovered another mystery for us to solve.
   claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
 - text: The Capella database contains 260,000 cases
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -879,14 +879,14 @@ references:
     levels of analysis that he did
   claim_id: 84c26c96-4ba4-438e-bf1a-f57ad14d67c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-84c26c96-4ba4-438e-bf1a-f57ad14d67c4
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-84c26c96-4ba4-438e-bf1a-f57ad14d67c4
 - text: The Lone Stars group included Vallée, Eric Davis and Hal Puthoff
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:02:36.1-02:02:39.6
   quote: This is Jacques Vallée, Eric Davis, Hal Puthoff, all the same people.
   claim_id: ea8a953b-d421-4c6d-b658-1171e714b8b3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ea8a953b-d421-4c6d-b658-1171e714b8b3
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ea8a953b-d421-4c6d-b658-1171e714b8b3
 - text: Journals said to corroborate DeLonge-Podesta circle conversations
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:41:10.4-00:41:14.7
@@ -894,7 +894,7 @@ references:
     by Jacques Vallée ... You read his journals, it absolutely did happen.
   claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b9bcc60e-568b-406f-8e88-e61654e62876
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b9bcc60e-568b-406f-8e88-e61654e62876
 - text: Described as generally sceptical of the modern disclosure movement
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:44:35.3-00:44:40.4
@@ -902,7 +902,7 @@ references:
     disclosure movement
   claim_id: a3ce3b50-1ff0-4562-877a-ada5c1552dfd
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a3ce3b50-1ff0-4562-877a-ada5c1552dfd
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a3ce3b50-1ff0-4562-877a-ada5c1552dfd
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

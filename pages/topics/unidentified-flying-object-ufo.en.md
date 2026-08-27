@@ -437,7 +437,7 @@ references:
     space
   claim_id: ceb94734-e3e8-4357-80f7-36030104c196
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
+  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
 - text: Newspapers first used 'flying saucer' the day after Kenneth Arnold's 1947
     sighting
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -445,7 +445,7 @@ references:
   quote: In the papers the next day, the world first saw the term flying saucer.
   claim_id: cf7faa33-f3ed-4f45-9132-0c5121307414
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-cf7faa33-f3ed-4f45-9132-0c5121307414
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-cf7faa33-f3ed-4f45-9132-0c5121307414
 - text: USAF Chief of Staff established Project Sign in December 1947
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1302-1511
@@ -454,7 +454,7 @@ references:
     the first recorded observations of unidentified flying objects.
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
 - text: USAF Director of Intelligence initiated Project Blue Book in 1952
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -463,7 +463,7 @@ references:
     BOOK to investigate unidentified flying objects.
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  workbench_url: http://localhost:5173/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
 - text: USAF investigated more than 12,000 claimed sightings, 1947 to 1969
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -472,7 +472,7 @@ references:
     12,000 claimed U.F.O. sightings before it was officially ended in 1969.
   claim_id: 6e26e335-a4f3-48ad-9b9c-3254e62d3504
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
 - text: Hynek called Blue Book's end the coup de grace to the UFO era
   source: In Plain Sight
@@ -483,7 +483,7 @@ references:
     deluded, hoaxers, or mentally unbalanced’.22
   claim_id: 2fcd5bc0-b655-41e7-af63-be8942cb13b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
 - text: 1985 USAF summary said nothing warranted resuming Blue Book
   source: In Plain Sight
@@ -493,7 +493,7 @@ references:
     UFOs’.23
   claim_id: 39abe1ba-e286-4c6f-a181-57002dfaf4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
 - text: 'Since 1969, official US military position: UFOs pose no threat, unworthy
     of study'
@@ -503,7 +503,7 @@ references:
     to national security and are not worthy of further study.
   claim_id: da239490-20b5-4903-b1f9-132aa01d680d
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
 - text: USAF, FBI and CIA maintained a denial policy for decades, per David Marler
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:06:01.6-00:06:13.7
@@ -511,7 +511,7 @@ references:
     a policy of denial. Deny the subject, dispel the subject, debunk the subject.
   claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4bc30ea8-341e-43a9-8249-4edb77a19e6d
 - text: 'Declassified CIA assessment: over half of 1950s-60s reports were US reconnaissance
     flights'
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
@@ -522,7 +522,7 @@ references:
     on reconnaissance aircraft.
   claim_id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
 - text: AATIP investigated UFO reports for years, per DOD officials and NYT records
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -532,7 +532,7 @@ references:
     and records obtained by The New York Times.
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
 - text: Elizondo was former head of AATIP, now known as UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -542,7 +542,7 @@ references:
     anomalous phenomena (UAP).
   claim_id: fc0641b0-037d-4290-96fa-c39ae73542f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
 - text: AATIP was tasked with investigating UFOs and UAP
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -552,7 +552,7 @@ references:
     UAPs.
   claim_id: 22045387-4897-4f8e-92e2-fc933d8f4ba6
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-22045387-4897-4f8e-92e2-fc933d8f4ba6
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-22045387-4897-4f8e-92e2-fc933d8f4ba6
 - text: AATIP collected F/A-18 footage of an object with a glowing, rotating aura
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:10275-10507
@@ -561,7 +561,7 @@ references:
     by some kind of glowing aura traveling at high speed and rotating as it moves.
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
 - text: 'Elizondo: Jay Stratton proposed ''UAP'' to ease conversation with leadership'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -570,7 +570,7 @@ references:
     idea of calling these objects unidentified aerial phenomena, UAP, instead of UFOs.
   claim_id: 0acf8780-21f5-405d-93fc-e9ccff92488a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
 - text: 'Elizondo: Pentagon leadership avoided the historical UFO stigma'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -578,7 +578,7 @@ references:
   quote: They did not want to be associated with the historical stigma around UFOs.
   claim_id: 5fb04c24-467d-4f82-b132-e567ce8b9cf0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
 - text: DOD released infrared fighter-jet and Navy footage in 2017
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -588,7 +588,7 @@ references:
     the United States' most sophisticated fighter jets and Navy ships.
   claim_id: 0f804d6a-5986-4480-ab0b-8f79784e54a8
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0f804d6a-5986-4480-ab0b-8f79784e54a8
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0f804d6a-5986-4480-ab0b-8f79784e54a8
 - text: 'Fravor: the 2017 NYT report removed the topic''s stigma'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -596,7 +596,7 @@ references:
   quote: it removed the stigma on the topic of UFOs
   claim_id: c014dca0-7c8e-48c3-87d8-d01307fd23bd
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
 - text: Hill case began with a six-page NICAP sighting report
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -607,7 +607,7 @@ references:
     by a NICAP investigator who made this report
   claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
 - text: 'Betty Hill''s account: object landed, beeped, stalled the car, left silver
     spots'
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -618,7 +618,7 @@ references:
     things of that sort and had caused silver-like spots to appear on their car.
   claim_id: ef42e44d-3cce-42e0-900d-3bd910ed5bbd
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ef42e44d-3cce-42e0-900d-3bd910ed5bbd
+  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ef42e44d-3cce-42e0-900d-3bd910ed5bbd
 - text: Betty Hill held far more conviction it was a UFO than Barney did
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -626,7 +626,7 @@ references:
   quote: She had much more conviction on that than Barney.
   claim_id: be4254d0-3660-41ae-9f8c-533200740fc3
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  workbench_url: http://localhost:5173/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-be4254d0-3660-41ae-9f8c-533200740fc3
+  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-be4254d0-3660-41ae-9f8c-533200740fc3
 - text: Tajik Air crew saw an intensely bright light approaching from the east, higher
     and faster
   source: Tajik Air Pilots Report Unidentified Flying Object
@@ -636,7 +636,7 @@ references:
     AT A MUCH HIGHER ALTITUDE THAN THEIR OWN
   claim_id: e7813bfa-6b0e-40d2-af55-6a3b0754ba59
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-e7813bfa-6b0e-40d2-af55-6a3b0754ba59
+  workbench_url: https://workbench.anomalica.is/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-e7813bfa-6b0e-40d2-af55-6a3b0754ba59
 - text: Crew watched circles, corkscrews and 90-degree turns under high g-force for
     ~40 minutes
   source: Tajik Air Pilots Report Unidentified Flying Object
@@ -646,7 +646,7 @@ references:
     G'S
   claim_id: a87fe97a-f90b-4786-a00d-5c9b31707760
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-a87fe97a-f90b-4786-a00d-5c9b31707760
+  workbench_url: https://workbench.anomalica.is/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-a87fe97a-f90b-4786-a00d-5c9b31707760
 - text: Object adopted a horizontal high-speed course and disappeared over the horizon
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:1937-2029
@@ -654,7 +654,7 @@ references:
     OVER THE HORIZON
   claim_id: 57128cb3-ade2-43f0-a8e3-bc0ce0fc841a
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-57128cb3-ade2-43f0-a8e3-bc0ce0fc841a
+  workbench_url: https://workbench.anomalica.is/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-57128cb3-ade2-43f0-a8e3-bc0ce0fc841a
 - text: Darkness meant the crew could not discern the object's shape
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:2042-2123
@@ -662,7 +662,7 @@ references:
     ITS SHAPE
   claim_id: 3dca78d4-b3e6-4a34-8d53-a89d8107352a
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-3dca78d4-b3e6-4a34-8d53-a89d8107352a
+  workbench_url: https://workbench.anomalica.is/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-3dca78d4-b3e6-4a34-8d53-a89d8107352a
 - text: Ed Rhodes considered the object extraterrestrial and intelligently controlled
   source: Tajik Air Pilots Report Unidentified Flying Object
   location: char:3262-3432
@@ -671,7 +671,7 @@ references:
     INTELLIGENT CONTROL
   claim_id: 34efd764-6f56-47da-96d4-2bc88072ad75
   record_hash: e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad
-  workbench_url: http://localhost:5173/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-34efd764-6f56-47da-96d4-2bc88072ad75
+  workbench_url: https://workbench.anomalica.is/e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad#claim-34efd764-6f56-47da-96d4-2bc88072ad75
 - text: Eric saw a cigar-shaped UFO in spring 2013, Denver-Saskatchewan flight, cruising
     altitude
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -681,7 +681,7 @@ references:
     side window, there's this flying cigar pointed on the ends
   claim_id: 5126d446-0098-467c-bae4-f8375bc43c2c
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5126d446-0098-467c-bae4-f8375bc43c2c
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5126d446-0098-467c-bae4-f8375bc43c2c
 - text: Object pointed at both ends, solid white, no visible propulsion
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:17.5-00:00:27.9
@@ -689,21 +689,21 @@ references:
     of propulsion, not wavy
   claim_id: 28379281-963b-4694-8bfe-e65b47f6acca
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-28379281-963b-4694-8bfe-e65b47f6acca
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-28379281-963b-4694-8bfe-e65b47f6acca
 - text: Object travelled opposite direction, same altitude, before passing from view
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:32.1-00:00:38.6
   quote: going the opposite direction as us at the same altitude. And it passed.
   claim_id: 7b4f7096-3222-40ad-a37f-75b6692a4ad6
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-7b4f7096-3222-40ad-a37f-75b6692a4ad6
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-7b4f7096-3222-40ad-a37f-75b6692a4ad6
 - text: Estimated speed of 1,100 to 1,300 km/h
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:00:39.0-00:00:42.8
   quote: It was probably going, I don't know, 700, 800 miles an hour.
   claim_id: 097d10d8-ffd3-4ccc-bbbc-aafba2035d88
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-097d10d8-ffd3-4ccc-bbbc-aafba2035d88
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-097d10d8-ffd3-4ccc-bbbc-aafba2035d88
 - text: 'Pasulka: Vallée''s approach covers physical, testimonial and social aspects'
   source: American Cosmic
   location: ch1:55341-55734
@@ -714,7 +714,7 @@ references:
     persists regardless of whether there is any verifiable evidence to support it.'
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
 - text: 'Vallée: radar/satellite denials misleading, since operators log ''uncorrelated
     targets'''
   source: THE INVISIBLE COLLEGE
@@ -724,7 +724,7 @@ references:
     something else! In their jargon they speak of UCTs, for “uncorrelated targets”!
   claim_id: b0719628-7f93-4eda-aa87-0d36fdb08430
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
-  workbench_url: http://localhost:5173/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0719628-7f93-4eda-aa87-0d36fdb08430
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0719628-7f93-4eda-aa87-0d36fdb08430
 - text: 'Samosa: Vallée''s approach infers motivations from UFOs'' cultural impact'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:06:15.9-00:06:28.9
@@ -733,7 +733,7 @@ references:
     the motivations might be of the beings that operate this thing?
   claim_id: 7a505eb5-df7a-442e-ad07-45e1d0828556
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
 - text: 'Samosa: extraterrestrial hypothesis inadequate given repeated landings and
     varied craft'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -743,7 +743,7 @@ references:
     do justice to the data.
   claim_id: cd4566ea-5292-427e-b7b2-6227ab8d9b27
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd4566ea-5292-427e-b7b2-6227ab8d9b27
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd4566ea-5292-427e-b7b2-6227ab8d9b27
 - text: 'Samosa, citing Messengers of Deception: mass UFO appearance could topple
     government trust'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -753,7 +753,7 @@ references:
     And that's one of the fears that he's got.
   claim_id: 2d113e2d-fd01-4042-bc90-a71e2438eff9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d113e2d-fd01-4042-bc90-a71e2438eff9
 - text: 'Strieber: UFOs display small size and seemingly limitless propulsion'
   source: The Fourth Mind
   location: ch21:14350-14471
@@ -761,7 +761,7 @@ references:
     few meters in diameter, and seemingly limitless propulsion.
   claim_id: 9d92834a-dfef-4c94-96ca-829366f55b95
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9d92834a-dfef-4c94-96ca-829366f55b95
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9d92834a-dfef-4c94-96ca-829366f55b95
 - text: 'Strieber: zero-point energy the one known force that might explain it'
   source: The Fourth Mind
   location: ch21:14483-14583
@@ -769,7 +769,7 @@ references:
     the release of zero-point energy.
   claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6aeb81a1-2084-409a-a078-2415a5a27fda
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6aeb81a1-2084-409a-a078-2415a5a27fda
 - text: Hesemann considered one of Europe's leading UFO experts
   source: The Fatima Secret
   location: ch4:15325-15442
@@ -777,14 +777,14 @@ references:
     phenomenon, rather points to the dangers of generalization.
   claim_id: d0b08608-9ec6-47e5-859d-fe894500e24b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0b08608-9ec6-47e5-859d-fe894500e24b
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0b08608-9ec6-47e5-859d-fe894500e24b
 - text: Hesemann pointed out similarities between Marian visions and UFO sightings
   source: The Fatima Secret
   location: ch22:15504-15572
   quote: I have pointed out some similarities between Marian visions and UFO sightings.
   claim_id: 2766e2db-484d-449a-bd2b-b11402c01a4d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2766e2db-484d-449a-bd2b-b11402c01a4d
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2766e2db-484d-449a-bd2b-b11402c01a4d
 - text: Hesemann avoids interpretation despite not denying the parallels
   source: The Fatima Secret
   location: ch4:14737-14986
@@ -794,14 +794,14 @@ references:
     in their own light.
   claim_id: c0220c9a-21cd-4eef-ae8e-1a1125356fc7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
-  workbench_url: http://localhost:5173/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0220c9a-21cd-4eef-ae8e-1a1125356fc7
+  workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0220c9a-21cd-4eef-ae8e-1a1125356fc7
 - text: 'MacDonald: as a scientist, uneasy relying on hearsay in UFO cases'
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald
   location: 00:00:00.0-00:00:06.1
   quote: Certainly as a scientist, I am not entirely happy with taking hearsay evidence
   claim_id: 2eb45115-f57f-4763-a04c-7c974abec922
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2eb45115-f57f-4763-a04c-7c974abec922
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2eb45115-f57f-4763-a04c-7c974abec922
 - text: 'MacDonald: a soundless stationary object rules out meteors as explanation'
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald
   location: 00:03:49.6-00:03:56.0
@@ -809,7 +809,7 @@ references:
     lightning, rule out meteors.
   claim_id: 9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
-  workbench_url: http://localhost:5173/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
 - text: 'Knapp: AAWSAP likely the largest government-funded UFO study'
   source: Statement to Congress
   location: char:10277-10355
@@ -817,7 +817,7 @@ references:
     funds.
   claim_id: 8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-8bbd65c9-e9ac-4f1b-93c7-3108cd68f41a
 - text: AAWSAP data warehouse catalogued more than 200,000 cases
   source: Statement to Congress
   location: char:10526-10655
@@ -825,7 +825,7 @@ references:
     warehouse ever created, with more than 200,000 cases catalogued.
   claim_id: 0accc97a-0032-4d29-910c-9fa78781603a
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: http://localhost:5173/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-0accc97a-0032-4d29-910c-9fa78781603a
+  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-0accc97a-0032-4d29-910c-9fa78781603a
 - text: 'Kean: extraordinary sightings for 60+ years, many by pilots and military'
   source: Surviving Death
   location: ch44:12280-12438
@@ -834,7 +834,7 @@ references:
     evidence.
   claim_id: 3fc839e3-91af-4a3e-bf53-69579f7927e5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3fc839e3-91af-4a3e-bf53-69579f7927e5
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3fc839e3-91af-4a3e-bf53-69579f7927e5
 - text: 'Kean: volumes of case studies published by researchers since the 1950s'
   source: Surviving Death
   location: ch44:12448-12666
@@ -843,7 +843,7 @@ references:
     a solid record begging for further analysis by contemporary scientists.
   claim_id: 17b7b3d0-9bdf-4d9b-9319-32a6e61e243e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17b7b3d0-9bdf-4d9b-9319-32a6e61e243e
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17b7b3d0-9bdf-4d9b-9319-32a6e61e243e
 - text: 'Mitchells: US reverse-engineering programmes on UFOs for ~70-80 years'
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:05:23.6-00:05:31.1
@@ -851,7 +851,7 @@ references:
     in covert reverse engineering UFO programs for the last 70, 80 years.
   claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
 - text: 'Major Murphy: UFO confusion may have been deliberately introduced'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:21905-22206
@@ -861,7 +861,7 @@ references:
     of social control, a change in Man’s perception of his place in the universe.
   claim_id: 4b6ab063-527d-4c28-ae44-2d7481a0af0d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4b6ab063-527d-4c28-ae44-2d7481a0af0d
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4b6ab063-527d-4c28-ae44-2d7481a0af0d
 - text: 'Coulthart: DeLonge remains engaged and never let the subject go'
   source: Ross Coulthart Answers Your Biggest UAP Questions
   location: 00:30:03.4-00:30:08.7
@@ -869,7 +869,7 @@ references:
     let it go.
   claim_id: 8ba9e89a-4c29-43ab-bf11-077d275c488c
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8ba9e89a-4c29-43ab-bf11-077d275c488c
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8ba9e89a-4c29-43ab-bf11-077d275c488c
 - text: 'Medick: DeLonge otherwise quiet on UFOs in recent years'
   source: Ross Coulthart Answers Your Biggest UAP Questions
   location: 00:29:23.6-00:29:28.2
@@ -877,7 +877,7 @@ references:
     years on the topic
   claim_id: aafddc88-cec4-4217-afb0-2564b29f5a8b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
 - text: 'Coulthart: letters about The Legacy Program most changed his view'
   source: Ross Coulthart Answers Your Biggest UAP Questions
   location: 00:30:39.0-00:30:49.9
@@ -886,7 +886,7 @@ references:
     if it existed.
   claim_id: 1795dcb8-62da-40e6-885f-4595329d4e5e
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-1795dcb8-62da-40e6-885f-4595329d4e5e
 - text: 'Strieber: Carter reportedly asked DOD to tell the public the UFO story'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
   location: 00:52:49.5-00:53:00.6
@@ -894,7 +894,7 @@ references:
     defense department, okay, I want to tell the story about the UFOs.
   claim_id: ffd06e70-b87e-43de-a6aa-33eb450743d9
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ffd06e70-b87e-43de-a6aa-33eb450743d9
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ffd06e70-b87e-43de-a6aa-33eb450743d9
 - text: 'Strieber: Carter told disclosure would be a trip wire'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
   location: 00:53:35.9-00:53:40.7
@@ -902,7 +902,7 @@ references:
     that if i'm right about what they're told
   claim_id: 621446df-5e72-4b5c-91b6-6cf2159ad8f0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-621446df-5e72-4b5c-91b6-6cf2159ad8f0
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-621446df-5e72-4b5c-91b6-6cf2159ad8f0
 - text: '2023 hearing: over 20% of Americans report seeing UFOs or UAP'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -911,7 +911,7 @@ references:
     who have reported to have seen UFOs or UAPs.
   claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
 - text: 'Burchett: Congress members confided their own anonymous sightings'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -922,7 +922,7 @@ references:
     it that way.
   claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
 built_by:
   model: claude-sonnet-5

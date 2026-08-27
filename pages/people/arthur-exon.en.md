@@ -75,7 +75,7 @@ references:
     the Roswell craft in 1947
   claim_id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-fa3ec85a-ffc4-42bb-af29-76ba81870b48
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-fa3ec85a-ffc4-42bb-af29-76ba81870b48
 - text: Exon involved with Air Materiel Command at Wright Field, Ohio, July 1947
   source: The Fourth Mind
   location: ch8:9254-9405
@@ -83,21 +83,21 @@ references:
     Command at Wright Field in July 1947, and was officially assigned to it in 1948
   claim_id: bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
 - text: Exon officially assigned to Air Materiel Command in 1948
   source: The Fourth Mind
   location: ch8:9368-9405
   quote: and was officially assigned to it in 1948
   claim_id: 30e99a55-1400-4abb-8b81-114fd0906ce9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-30e99a55-1400-4abb-8b81-114fd0906ce9
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-30e99a55-1400-4abb-8b81-114fd0906ce9
 - text: Exon assigned commander of Wright-Patterson Air Force Base in 1964
   source: The Fourth Mind
   location: ch8:9436-9504
   quote: In 1964, he was assigned as commander of Wright-Patterson Air Force Base
   claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cfd13814-89be-4a68-adbf-c7b13c866448
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cfd13814-89be-4a68-adbf-c7b13c866448
 - text: 'Coulthart: Roswell wreckage allegedly taken to Wright-Patterson, Exon a former
     commanding general there'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -107,7 +107,7 @@ references:
     Air Force Base, where the Roswell wreckage was allegedly taken
   claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
 - text: Exon was a family friend of Whitley Strieber
   source: The Fourth Mind
   location: ch8:9254-9362
@@ -115,7 +115,7 @@ references:
     Command at Wright Field in July 1947
   claim_id: e6be8b71-c804-4c19-b83f-477044a9582c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e6be8b71-c804-4c19-b83f-477044a9582c
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e6be8b71-c804-4c19-b83f-477044a9582c
 - text: Strieber knew Exon through his father's brother, not his father
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -123,7 +123,7 @@ references:
   quote: And it was not through my dad. It was through my dad's brother.
   claim_id: 65eaf5e2-e223-4a4e-9231-d48ea2cbffd3
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-65eaf5e2-e223-4a4e-9231-d48ea2cbffd3
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-65eaf5e2-e223-4a4e-9231-d48ea2cbffd3
 - text: Exon was a friend of Strieber's uncle, later general and commanding officer
     at Wright-Patterson
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -133,7 +133,7 @@ references:
     officer at Wright-Patt
   claim_id: 2f8637d3-0b7f-42d1-a997-053f021ba985
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2f8637d3-0b7f-42d1-a997-053f021ba985
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2f8637d3-0b7f-42d1-a997-053f021ba985
 - text: 'Strieber: Exon said debris and bodies were brought in following the Roswell
     crash'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -143,7 +143,7 @@ references:
     in.
   claim_id: 38dbe78c-505a-4b11-9e72-528778ccf6a6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-38dbe78c-505a-4b11-9e72-528778ccf6a6
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-38dbe78c-505a-4b11-9e72-528778ccf6a6
 - text: 'Strieber: after Communion (1987), Exon said everyone from Truman down knew
     within 24 hours it was not of this world'
   source: The Fourth Mind
@@ -153,7 +153,7 @@ references:
     hours of our finding it.”
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
 - text: Strieber gives the same Truman/24-hour statement elsewhere as a direct quote
     from Exon
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -164,7 +164,7 @@ references:
     of our findings.
   claim_id: 0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
 - text: 'Strieber''s 1989 letter to Thurmond: Exon described an ''unequivocal cover-up...
     from Truman on down'''
   source: In Plain Sight
@@ -175,7 +175,7 @@ references:
     Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: 'Strieber: as late as 1988 Exon still consulting on the question of nonhuman
     bodies'
@@ -185,7 +185,7 @@ references:
     working on the question
   claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d08d8b59-df40-4913-8d9e-b1b56bb9de73
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d08d8b59-df40-4913-8d9e-b1b56bb9de73
 - text: 'Strieber: Exon still briefing Wright-Patterson staff on classified matters
     in 1988'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -196,14 +196,14 @@ references:
     up meetings that he remembered.
   claim_id: dda337af-b2ac-45cf-a717-35607b756f9b
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-dda337af-b2ac-45cf-a717-35607b756f9b
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-dda337af-b2ac-45cf-a717-35607b756f9b
 - text: 'Strieber: Exon spoke privately of nonhuman bodies held by the DoD'
   source: The Fourth Mind
   location: ch8:9411-9425
   quote: spoke of them privately
   claim_id: 0588f0b5-7857-413f-9843-afe9043861b3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0588f0b5-7857-413f-9843-afe9043861b3
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0588f0b5-7857-413f-9843-afe9043861b3
 - text: Exon quoted saying he held a recovered body, resembling a large insect
   source: The Fourth Mind
   location: ch11:983-1066
@@ -211,7 +211,7 @@ references:
     a big insect.”
   claim_id: 823e6282-c213-4ad4-945a-dc7c99336afb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-823e6282-c213-4ad4-945a-dc7c99336afb
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-823e6282-c213-4ad4-945a-dc7c99336afb
 - text: 'Strieber: 1988 meeting, Exon said he saw and held a body, insectlike'
   source: The Fourth Mind
   location: ch11:6164-6274
@@ -219,7 +219,7 @@ references:
     bodies, and perceived it the same way.
   claim_id: 47c56d0c-849d-41bf-af19-f34d002a8353
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-47c56d0c-849d-41bf-af19-f34d002a8353
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-47c56d0c-849d-41bf-af19-f34d002a8353
 - text: 'Strieber: Exon held a body in a bag but did not see it'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -228,7 +228,7 @@ references:
     didn't see it, but he held it.
   claim_id: 35d301d1-12ca-4e62-bcdf-c5ce85910710
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-35d301d1-12ca-4e62-bcdf-c5ce85910710
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-35d301d1-12ca-4e62-bcdf-c5ce85910710
 - text: 'Strieber: Twining and others saw the bodies, Exon did not'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -237,7 +237,7 @@ references:
     him.
   claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-a6226f24-32e7-4829-886b-93f645f02ac2
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-a6226f24-32e7-4829-886b-93f645f02ac2
 - text: Exon did not explain the beings' motivations; Strieber did not press, citing
     security clearances
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -248,7 +248,7 @@ references:
     And I knew that they were both very constrained by their security clearances.
   claim_id: 4d8ef590-7bd1-4ff2-a51a-434ef9a7df54
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4d8ef590-7bd1-4ff2-a51a-434ef9a7df54
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4d8ef590-7bd1-4ff2-a51a-434ef9a7df54
 - text: Neither Exon nor Strieber's uncle said whether the beings were malevolent
     or benevolent
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -258,7 +258,7 @@ references:
     about that. In other words, they didn't say it was malevolent or malevolent.
   claim_id: 85154c19-e6e5-440c-b782-9da64e283d12
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-85154c19-e6e5-440c-b782-9da64e283d12
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-85154c19-e6e5-440c-b782-9da64e283d12
 - text: Neither Exon nor the uncle passed judgement on Strieber having written Communion
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -267,7 +267,7 @@ references:
     any kind of a value judgment about it at all.
   claim_id: 24eed098-2bb9-492f-b0e0-855b73e13568
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-24eed098-2bb9-492f-b0e0-855b73e13568
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-24eed098-2bb9-492f-b0e0-855b73e13568
 - text: 'Strieber: Exon said a scientist believed public awareness would let the beings
     in on a ''tide of belief'''
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -280,7 +280,7 @@ references:
     describe what he was trying to say.
   claim_id: cb750035-0846-4c5c-8e94-933c2d6fd17e
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cb750035-0846-4c5c-8e94-933c2d6fd17e
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cb750035-0846-4c5c-8e94-933c2d6fd17e
 - text: Strieber's impression that a Majestic 12 committee member held the same view
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -291,7 +291,7 @@ references:
     reality.
   claim_id: 5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
 - text: Strieber's feeling that Exon and his uncle may have been told to communicate
     what they did
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -301,7 +301,7 @@ references:
     may have been told to communicate to me.
   claim_id: 4fc24c97-eea0-4397-b0ff-b279bc21100f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4fc24c97-eea0-4397-b0ff-b279bc21100f
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4fc24c97-eea0-4397-b0ff-b279bc21100f
 - text: 'Strieber: Exon supposedly developed Alzheimer''s; Strieber suspects the USAF
     acted against him instead'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -311,7 +311,7 @@ references:
     the Air Force really went to town on him because he was talking too much.
   claim_id: 16be1ee3-5d8e-4af9-88a0-e82442c126ae
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-16be1ee3-5d8e-4af9-88a0-e82442c126ae
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-16be1ee3-5d8e-4af9-88a0-e82442c126ae
 - text: Strieber considers introducing Exon to Stanton Friedman a mistake
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -319,7 +319,7 @@ references:
   quote: I made the mistake of introducing him to Stanton Friedman
   claim_id: 21b4a707-2fc4-4b46-888b-5fca021d3e29
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-21b4a707-2fc4-4b46-888b-5fca021d3e29
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-21b4a707-2fc4-4b46-888b-5fca021d3e29
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

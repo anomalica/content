@@ -252,7 +252,7 @@ references:
     who care.
   claim_id: d32623af-bef2-434b-a08f-ed8f6705fae1
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-d32623af-bef2-434b-a08f-ed8f6705fae1
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-d32623af-bef2-434b-a08f-ed8f6705fae1
 - text: McGraw has practised as a psychologist for close to 50 years
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -260,7 +260,7 @@ references:
   quote: I've been doing this for close to 50 years.
   claim_id: 71df0c61-8608-4bb6-b167-fc6d6b846d2a
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-71df0c61-8608-4bb6-b167-fc6d6b846d2a
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-71df0c61-8608-4bb6-b167-fc6d6b846d2a
 - text: McGraw has been a pilot since he was 16
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -268,14 +268,14 @@ references:
   quote: i've been a pilot since i was 16
   claim_id: 166bdcf9-ed1f-46d2-942a-518d976f2f25
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-166bdcf9-ed1f-46d2-942a-518d976f2f25
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-166bdcf9-ed1f-46d2-942a-518d976f2f25
 - text: McGraw spent considerable time in litigation as a trial scientist
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:28:51.4-00:28:55.3
   quote: I spent a lot of time in the litigation arena working as a trial scientist.
   claim_id: bf492085-e517-4e02-830c-e904e9086a7a
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-bf492085-e517-4e02-830c-e904e9086a7a
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-bf492085-e517-4e02-830c-e904e9086a7a
 - text: He observed litigation clients hide a key document by burying it among thousands
     of others
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -286,7 +286,7 @@ references:
     of documentation.
   claim_id: d9714f4a-2f8d-4f6d-badf-6f0e30ced19d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d9714f4a-2f8d-4f6d-badf-6f0e30ced19d
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d9714f4a-2f8d-4f6d-badf-6f0e30ced19d
 - text: McGraw serves on the Presidential Commission for Religious Liberty
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -296,7 +296,7 @@ references:
     rights.
   claim_id: 6914b312-cf50-44f9-987e-9ab47c38644f
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6914b312-cf50-44f9-987e-9ab47c38644f
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6914b312-cf50-44f9-987e-9ab47c38644f
 - text: The Commission involves the US Department of Justice
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -306,7 +306,7 @@ references:
     rights.
   claim_id: 2b6785c6-f934-413c-bde2-08cbafde5c26
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2b6785c6-f934-413c-bde2-08cbafde5c26
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2b6785c6-f934-413c-bde2-08cbafde5c26
 - text: Credible witnesses, including pilots and people with instrumentation, made
     UFO observations that were suppressed
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -316,7 +316,7 @@ references:
     instrumentation that were making observations that were being suppressed.
   claim_id: 2f56d684-e8b8-4063-874e-1473fce23c99
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2f56d684-e8b8-4063-874e-1473fce23c99
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2f56d684-e8b8-4063-874e-1473fce23c99
 - text: Witnesses were sometimes threatened with prison time
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -325,7 +325,7 @@ references:
     even with the Espionage Act.
   claim_id: 98ee8fd3-84aa-4e99-aacf-771eb89cc49f
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-98ee8fd3-84aa-4e99-aacf-771eb89cc49f
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-98ee8fd3-84aa-4e99-aacf-771eb89cc49f
 - text: Witnesses were sometimes threatened with substantial fines
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -334,7 +334,7 @@ references:
     even with the Espionage Act.
   claim_id: 73171fb7-4491-491a-82b4-3028e82a0da1
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-73171fb7-4491-491a-82b4-3028e82a0da1
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-73171fb7-4491-491a-82b4-3028e82a0da1
 - text: Witnesses were sometimes threatened with prosecution under the Espionage Act
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -343,7 +343,7 @@ references:
     even with the Espionage Act.
   claim_id: bc9e5bc7-b770-4e12-807c-7c2d26bddc51
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-bc9e5bc7-b770-4e12-807c-7c2d26bddc51
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-bc9e5bc7-b770-4e12-807c-7c2d26bddc51
 - text: Documents due for release contain gun camera footage
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -353,7 +353,7 @@ references:
     released.
   claim_id: 83c1bcc4-2c33-4587-acd7-e3097a9edef2
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-83c1bcc4-2c33-4587-acd7-e3097a9edef2
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-83c1bcc4-2c33-4587-acd7-e3097a9edef2
 - text: Documents due for release contain radar tracks
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -363,7 +363,7 @@ references:
     released.
   claim_id: 0aa874f1-e8d3-4187-b50d-dbf95db27a4c
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0aa874f1-e8d3-4187-b50d-dbf95db27a4c
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0aa874f1-e8d3-4187-b50d-dbf95db27a4c
 - text: McGraw likened the suppression to a psyop used in past war efforts to fabricate
     atrocities
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -375,7 +375,7 @@ references:
     the war effort, that the same thing was going on concerning UAPs and UFOs.
   claim_id: 0ef893ff-11bb-4c84-b2a6-61cfd6991325
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0ef893ff-11bb-4c84-b2a6-61cfd6991325
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0ef893ff-11bb-4c84-b2a6-61cfd6991325
 - text: McGraw considers there to be a fragmentation of UFO information within government
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -384,7 +384,7 @@ references:
     information within the United States government.
   claim_id: 31e03982-fda7-473a-aa86-ae441cea2282
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-31e03982-fda7-473a-aa86-ae441cea2282
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-31e03982-fda7-473a-aa86-ae441cea2282
 - text: McGraw considers some officials treat the President as a temporary employee
     not given full candour
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -396,7 +396,7 @@ references:
     the boss, with the president of the United States
   claim_id: f306f25a-ca43-4d25-96c3-484414dab022
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f306f25a-ca43-4d25-96c3-484414dab022
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f306f25a-ca43-4d25-96c3-484414dab022
 - text: McGraw recounted Twining's 1947 statement to the Army Air Forces
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -405,7 +405,7 @@ references:
     was, quote, something real and not visionary or fictitious was going on.
   claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
 - text: The Air Force denied for decades that Twining's assessment existed
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -413,7 +413,7 @@ references:
   quote: Well, the Air Force denied for decades that any such assessment even existed.
   claim_id: de814c2e-12f9-458d-b92f-819d4aac1bc6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-de814c2e-12f9-458d-b92f-819d4aac1bc6
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-de814c2e-12f9-458d-b92f-819d4aac1bc6
 - text: In 1949 a classified conference addressed sightings over nuclear weapon sites
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -423,7 +423,7 @@ references:
     nuclear weapon sites.
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
 - text: Sightings over the Pantex Plant nuclear site in recent years
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -432,7 +432,7 @@ references:
     over Pantex up in Amarillo, a nuclear site.
   claim_id: 557c0935-d59b-429b-ae5e-d126db7d1084
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-557c0935-d59b-429b-ae5e-d126db7d1084
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-557c0935-d59b-429b-ae5e-d126db7d1084
 - text: Five nuclear-concentration cities with high incidence of verified sightings
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -441,7 +441,7 @@ references:
     incidence of verified sightings over our nuclear installations.
   claim_id: 38ee9e58-9c8f-4384-a506-2c6430f2d061
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-38ee9e58-9c8f-4384-a506-2c6430f2d061
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-38ee9e58-9c8f-4384-a506-2c6430f2d061
 - text: The 1953 Robertson Panel recommended publicising debunked cases while ignoring
     unexplained ones
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -452,7 +452,7 @@ references:
     already been debunked and say nothing about the ones that haven't.
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
 - text: JNAP 146E extended restrictions to retired pilots
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -461,7 +461,7 @@ references:
     and it imposed the Espionage Act, which upped all of the stakes across the board.
   claim_id: bc03950c-07aa-4311-b11f-ca3b9dc83a58
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-bc03950c-07aa-4311-b11f-ca3b9dc83a58
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-bc03950c-07aa-4311-b11f-ca3b9dc83a58
 - text: JNAP 146E imposed the Espionage Act on the pilots it covered
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -470,7 +470,7 @@ references:
     and it imposed the Espionage Act, which upped all of the stakes across the board.
   claim_id: fcd86ba8-d286-476a-a47f-5a0d29a06981
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-fcd86ba8-d286-476a-a47f-5a0d29a06981
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-fcd86ba8-d286-476a-a47f-5a0d29a06981
 - text: Trump signed an executive order to declassify and disclose UFO information
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -479,7 +479,7 @@ references:
     and disclose it to the American public.
   claim_id: e68d2a8f-fb60-4834-8612-79a5c21ecc5e
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e68d2a8f-fb60-4834-8612-79a5c21ecc5e
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e68d2a8f-fb60-4834-8612-79a5c21ecc5e
 - text: McGraw said Trump decided it was time for transparency
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -487,7 +487,7 @@ references:
   quote: I think he has decided it's time for transparency.
   claim_id: 1cbcd809-d1c5-4716-9f0d-17acdee3b36b
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1cbcd809-d1c5-4716-9f0d-17acdee3b36b
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1cbcd809-d1c5-4716-9f0d-17acdee3b36b
 - text: A fourth tranche of UFO files was released
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -495,7 +495,7 @@ references:
   quote: We've got the fourth tranche of information out there right now.
   claim_id: 1760ef96-cd9a-4400-869a-58f84aac5d92
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1760ef96-cd9a-4400-869a-58f84aac5d92
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1760ef96-cd9a-4400-869a-58f84aac5d92
 - text: McGraw reviewed the fourth tranche before it became public
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -504,7 +504,7 @@ references:
     public
   claim_id: 2c758af2-c69a-4106-ab64-7d1d41080884
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2c758af2-c69a-4106-ab64-7d1d41080884
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2c758af2-c69a-4106-ab64-7d1d41080884
 - text: McGraw concluded there has been a massive cover-up
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -512,7 +512,7 @@ references:
   quote: Number one, there has been a massive cover-up.
   claim_id: abc8af2a-8e77-42a4-b960-0a36f39f27ce
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-abc8af2a-8e77-42a4-b960-0a36f39f27ce
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-abc8af2a-8e77-42a4-b960-0a36f39f27ce
 - text: McGraw concluded there is no question unexplained phenomena occur in Earth's
     atmosphere
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -522,14 +522,14 @@ references:
     here.
   claim_id: 33773c86-2867-47eb-8409-2557eff0d055
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-33773c86-2867-47eb-8409-2557eff0d055
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-33773c86-2867-47eb-8409-2557eff0d055
 - text: Five tranches of UAP material have been released in total
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:29:19.2-00:29:24.4
   quote: as I see these five tranches of release and I see these grainy videos
   claim_id: 043b0968-056d-469d-ace5-cb2b9508a7a1
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-043b0968-056d-469d-ace5-cb2b9508a7a1
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-043b0968-056d-469d-ace5-cb2b9508a7a1
 - text: McGraw considers released material heavily degraded compared to normal gun
     camera clarity
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -539,7 +539,7 @@ references:
     what is available.
   claim_id: fd454502-8de9-4266-be16-ea77fae6f023
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fd454502-8de9-4266-be16-ea77fae6f023
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fd454502-8de9-4266-be16-ea77fae6f023
 - text: McGraw believes degraded releases become garbled inside the bureaucracy, not
     from Trump
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -549,7 +549,7 @@ references:
     it gets into the bureaucratic apparatus, it's getting garbled.
   claim_id: e757895a-dd97-4169-82ef-4999734284fa
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e757895a-dd97-4169-82ef-4999734284fa
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e757895a-dd97-4169-82ef-4999734284fa
 - text: McGraw believes redactions and cherry-picking indicate an ongoing tug-of-war
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -559,7 +559,7 @@ references:
     what they know.
   claim_id: 5cc1aed6-9af9-4251-907c-1b3db968ffc5
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-5cc1aed6-9af9-4251-907c-1b3db968ffc5
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-5cc1aed6-9af9-4251-907c-1b3db968ffc5
 - text: The speed of light is approximately 300,000 kilometres per second
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -567,7 +567,7 @@ references:
   quote: And that's 186,282 miles an hour.
   claim_id: 96001f4f-50bc-464a-88a5-67338a6682dc
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-96001f4f-50bc-464a-88a5-67338a6682dc
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-96001f4f-50bc-464a-88a5-67338a6682dc
 - text: Travel to Andromeda at light speed would take about two and a half million
     years
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -577,7 +577,7 @@ references:
     million years traveling at the speed of light.
   claim_id: f806e866-8378-4237-a62f-fa9b36f39f24
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f806e866-8378-4237-a62f-fa9b36f39f24
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f806e866-8378-4237-a62f-fa9b36f39f24
 - text: 'Time dilation theory: subjective decades of travel vs millions of Earth years'
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -587,7 +587,7 @@ references:
     a half million years would have passed on earth if you did so
   claim_id: edc95677-34ff-4a93-890d-103ff05f1141
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-edc95677-34ff-4a93-890d-103ff05f1141
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-edc95677-34ff-4a93-890d-103ff05f1141
 - text: McGraw concludes a visiting entity must be technologically superior given
     travel time
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -599,7 +599,7 @@ references:
     we don't have. So that means they are technologically superior.
   claim_id: e148a5de-ff0d-4c86-82ab-72b01859ba35
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e148a5de-ff0d-4c86-82ab-72b01859ba35
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e148a5de-ff0d-4c86-82ab-72b01859ba35
 - text: McGraw put Voyager's speed at approximately 29,000 kilometres per hour
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:39:58.1-00:40:04.6
@@ -607,7 +607,7 @@ references:
     that?
   claim_id: 69dee730-9096-4eb1-805b-4cc5e9f3331a
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-69dee730-9096-4eb1-805b-4cc5e9f3331a
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-69dee730-9096-4eb1-805b-4cc5e9f3331a
 - text: No fighter aircraft approaches Voyager's speed; humans cannot travel at light
     speed
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -617,7 +617,7 @@ references:
     of light.
   claim_id: f9663ad5-65e0-4097-8a49-70d9c7525be9
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f9663ad5-65e0-4097-8a49-70d9c7525be9
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f9663ad5-65e0-4097-8a49-70d9c7525be9
 - text: McGraw reasons visitors must be hugely more advanced technologically
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:40:24.4-00:40:37.6
@@ -625,7 +625,7 @@ references:
     advanced technologically over what we have.
   claim_id: 4b0355e9-4ea5-4af5-a9d6-c06f2d226747
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4b0355e9-4ea5-4af5-a9d6-c06f2d226747
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-4b0355e9-4ea5-4af5-a9d6-c06f2d226747
 - text: McGraw flew with the Blue Angels and experienced approximately 7.49 G
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -633,7 +633,7 @@ references:
   quote: I've flown with the Blue Angels and we were pulling like 7.49 Gs at times.
   claim_id: 40f317ed-338a-4ed5-b86c-335f1a40fc7f
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-40f317ed-338a-4ed5-b86c-335f1a40fc7f
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-40f317ed-338a-4ed5-b86c-335f1a40fc7f
 - text: Some UAP recorded on radar at approximately 64,000 km/h executing a 90-degree
     turn
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -643,7 +643,7 @@ references:
     an hour and making a right turn. I mean a 90 degree right turn.
   claim_id: b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
 - text: G-force estimates for some UAP range between 10,000 and one million G
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -652,7 +652,7 @@ references:
     would be somewhere between 10,000 and a million.
   claim_id: 0a1a1255-9d9e-40fe-b9b1-62ac3941291b
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0a1a1255-9d9e-40fe-b9b1-62ac3941291b
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0a1a1255-9d9e-40fe-b9b1-62ac3941291b
 - text: Highest G-force tracked on a rocket sled was approximately 25 G for half a
     second
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -662,7 +662,7 @@ references:
     for a half of a second or something.
   claim_id: 7ee9bae0-2d42-4e9b-92c0-fcf3ff6ef0b0
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-7ee9bae0-2d42-4e9b-92c0-fcf3ff6ef0b0
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-7ee9bae0-2d42-4e9b-92c0-fcf3ff6ef0b0
 - text: McGraw considers a human would liquefy internally under such G-forces
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -671,7 +671,7 @@ references:
     inside that.
   claim_id: 6c7b0f36-cad5-4c25-9b28-25944b5df2a9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6c7b0f36-cad5-4c25-9b28-25944b5df2a9
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6c7b0f36-cad5-4c25-9b28-25944b5df2a9
 - text: McGraw considers human metallurgy could not withstand the manoeuvres attributed
     to UAP
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -681,7 +681,7 @@ references:
     look like a yard sale if we turn.
   claim_id: c1136e41-f7ee-49d5-8416-c55179df3e05
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-c1136e41-f7ee-49d5-8416-c55179df3e05
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-c1136e41-f7ee-49d5-8416-c55179df3e05
 - text: McGraw argues disclosure could cause a serious psychological reaction in part
     of the population
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -693,7 +693,7 @@ references:
     reaction
   claim_id: 60b5d3ee-13b7-4193-8ddc-fca94aadbcf8
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-60b5d3ee-13b7-4193-8ddc-fca94aadbcf8
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-60b5d3ee-13b7-4193-8ddc-fca94aadbcf8
 - text: McGraw considers the APA and American Psychiatric Association need to plan
     for disclosure's impact
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -702,7 +702,7 @@ references:
     Associations all need to be planning in advance
   claim_id: 50e090ec-6dd0-4395-80cf-c398585d3d7f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-50e090ec-6dd0-4395-80cf-c398585d3d7f
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-50e090ec-6dd0-4395-80cf-c398585d3d7f
 - text: Teens and preteens have the highest anxiety, depression and loneliness on
     record
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -712,7 +712,7 @@ references:
     and loneliness since we started keeping records.
   claim_id: 168ad2e2-3429-4234-8329-db7187624540
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-168ad2e2-3429-4234-8329-db7187624540
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-168ad2e2-3429-4234-8329-db7187624540
 - text: McGraw argues for planning in case 5-10% of the population reacts adversely
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:23:38.9-00:23:49.7
@@ -721,7 +721,7 @@ references:
     be there to support these folks.
   claim_id: 47a18ad8-7354-4822-975c-5ee22c70fe4a
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-47a18ad8-7354-4822-975c-5ee22c70fe4a
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-47a18ad8-7354-4822-975c-5ee22c70fe4a
 - text: McGraw considers elderly people need protection from scams following disclosure
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:23:50.0-00:24:04.2
@@ -731,7 +731,7 @@ references:
     of aliens
   claim_id: db3a7d9c-d4cb-4107-9fea-157df37c4341
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-db3a7d9c-d4cb-4107-9fea-157df37c4341
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-db3a7d9c-d4cb-4107-9fea-157df37c4341
 - text: McGraw considers the evangelical community could face difficulties with its
     belief systems
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -740,7 +740,7 @@ references:
     community can have a problem in what their belief systems have been.
   claim_id: a20b4118-1b30-4adb-973e-73eca4d61374
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a20b4118-1b30-4adb-973e-73eca4d61374
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a20b4118-1b30-4adb-973e-73eca4d61374
 - text: McGraw considers the government's method has been to hide UAP information
     since 1947
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -749,7 +749,7 @@ references:
     1947, the Robertson panel
   claim_id: 62d388f9-45cb-4882-95cb-6b6841cfe3d1
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-62d388f9-45cb-4882-95cb-6b6841cfe3d1
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-62d388f9-45cb-4882-95cb-6b6841cfe3d1
 - text: McGraw said the government spent large sums investigating UAP while denying
     it publicly
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -760,7 +760,7 @@ references:
     see here.
   claim_id: f81f2afd-7963-46e9-8730-009ac2aca6fb
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f81f2afd-7963-46e9-8730-009ac2aca6fb
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f81f2afd-7963-46e9-8730-009ac2aca6fb
 - text: McGraw described himself as furious over 79 years of government lying about
     UAP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -769,7 +769,7 @@ references:
     been lying to us for 79 years and I'm furious about that.
   claim_id: 61fe96cb-649d-4b32-892e-63c7b95d5b20
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-61fe96cb-649d-4b32-892e-63c7b95d5b20
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-61fe96cb-649d-4b32-892e-63c7b95d5b20
 - text: McGraw considers no question drugs were used in MKUltra and human rights violated
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:12:38.2-00:12:50.0
@@ -778,7 +778,7 @@ references:
     violations of human rights
   claim_id: 632966f2-c092-4a81-b5a3-5c349691bf7e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-632966f2-c092-4a81-b5a3-5c349691bf7e
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-632966f2-c092-4a81-b5a3-5c349691bf7e
 - text: McGraw considers a desire to keep MKUltra details hidden as unflattering to
     government
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -787,7 +787,7 @@ references:
     it's not very flattering to our government when those sort of things come out
   claim_id: 088d1ff5-6193-492a-88f2-fbf1a44a6fb5
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-088d1ff5-6193-492a-88f2-fbf1a44a6fb5
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-088d1ff5-6193-492a-88f2-fbf1a44a6fb5
 - text: McGraw said there was an effort to discredit Grusch using his position on
     the autism spectrum
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -797,7 +797,7 @@ references:
     autism, things that they could use to say, well, consider the source.
   claim_id: fa3acde4-b58e-4991-8a81-44cd4cf5e219
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fa3acde4-b58e-4991-8a81-44cd4cf5e219
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fa3acde4-b58e-4991-8a81-44cd4cf5e219
 - text: McGraw considers attempts to discredit Grusch part of a psychological operation
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:20:51.6-00:20:59.2
@@ -805,7 +805,7 @@ references:
     sadly.
   claim_id: f8e73a1d-f545-4932-8555-b10d5659867b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f8e73a1d-f545-4932-8555-b10d5659867b
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f8e73a1d-f545-4932-8555-b10d5659867b
 - text: McGraw maintains Grusch has not been proven wrong despite attacks on his character
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:45:59.1-00:46:10.5
@@ -813,7 +813,7 @@ references:
     they've done a lot of different things, but they haven't proven you wrong.
   claim_id: 53684cf3-7375-4f91-b1c3-e83c9b755215
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-53684cf3-7375-4f91-b1c3-e83c9b755215
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-53684cf3-7375-4f91-b1c3-e83c9b755215
 - text: McGraw considers Grusch to have shown courage in bringing hidden matters to
     light
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -822,7 +822,7 @@ references:
     things that we otherwise wouldn't know were going on
   claim_id: d9ce0f59-0c5a-4bfb-87e3-6b752f6bcceb
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d9ce0f59-0c5a-4bfb-87e3-6b752f6bcceb
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d9ce0f59-0c5a-4bfb-87e3-6b752f6bcceb
 - text: McGraw noted Grusch has been open about his PTSD from Afghanistan
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:52:25.4-00:52:32.3
@@ -830,7 +830,7 @@ references:
     Afghanistan.
   claim_id: 8cb5ceae-1fbb-4d54-93a9-caa8dd401316
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8cb5ceae-1fbb-4d54-93a9-caa8dd401316
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-8cb5ceae-1fbb-4d54-93a9-caa8dd401316
 - text: Grusch said his wife wrote in McGraw and Oprah Winfrey as 2008 write-in candidates
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:53:36.5-00:53:42.5
@@ -838,7 +838,7 @@ references:
     for president and vice president as writing candidates
   claim_id: a9e403ef-1c66-43ea-b615-0337a82e7fdf
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a9e403ef-1c66-43ea-b615-0337a82e7fdf
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a9e403ef-1c66-43ea-b615-0337a82e7fdf
 - text: Grusch said he could take McGraw to see a craft and a cadaver if cleared
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:46:46.4-00:47:06.2
@@ -848,7 +848,7 @@ references:
     go to those facilities, so.'
   claim_id: 9aa5447b-3175-4bd4-aebc-43cf9337719f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9aa5447b-3175-4bd4-aebc-43cf9337719f
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9aa5447b-3175-4bd4-aebc-43cf9337719f
 - text: McGraw has discussed UAP with Trump, Stephen Miller, Tim Burchett and Anna
     Paulina Luna
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -857,7 +857,7 @@ references:
     Miller. I've discussed it with Representative Burchard and Luna.
   claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
 - text: McGraw believes officials around Trump want transparency but the effort gets
     garbled downstream
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -868,7 +868,7 @@ references:
     happen. I think it gets garbled downstream.
   claim_id: 05f0577b-740b-498f-9013-09fa45f53924
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-05f0577b-740b-498f-9013-09fa45f53924
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-05f0577b-740b-498f-9013-09fa45f53924
 - text: McGraw suggested reverse engineering could relate to concealment driven by
     money and power
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -877,7 +877,7 @@ references:
   quote: Well, I guess it goes back to follow the money and follow the power.
   claim_id: 756ae442-7d44-40f6-8405-e6e98cc1f707
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-756ae442-7d44-40f6-8405-e6e98cc1f707
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-756ae442-7d44-40f6-8405-e6e98cc1f707
 - text: McGraw said he maintains independence, not scripted by those granting him
     access
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -888,7 +888,7 @@ references:
     authentic transparent and um and candid with the american people
   claim_id: 6131bfda-f2c1-4f85-8010-da79040ff2cf
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6131bfda-f2c1-4f85-8010-da79040ff2cf
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6131bfda-f2c1-4f85-8010-da79040ff2cf
 - text: Searches for UAP rose approximately 400% after McGraw began discussing the
     topic
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -898,7 +898,7 @@ references:
     you started talking about it.
   claim_id: ed425a88-7352-4f5c-94d2-9beab1741c52
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ed425a88-7352-4f5c-94d2-9beab1741c52
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ed425a88-7352-4f5c-94d2-9beab1741c52
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

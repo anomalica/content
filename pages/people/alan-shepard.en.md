@@ -82,7 +82,7 @@ references:
     "hop" in 1961)until he was miraculously "cured" and reinstated in 1969.
   claim_id: accc0991-0574-4238-b766-b19efbea1514
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-accc0991-0574-4238-b766-b19efbea1514
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-accc0991-0574-4238-b766-b19efbea1514
 - text: Secret 1971 inner-ear surgery let Shepard command Apollo 14.
   source: Dark Mission
   location: ch19:34452-34583
@@ -90,7 +90,7 @@ references:
     him to ultimately command Apollo 14 to the Moon in 1971.
   claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c45e53aa-b1bf-4fd7-8228-ca0408a0d814
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c45e53aa-b1bf-4fd7-8228-ca0408a0d814
 - text: Shepard hit the first golf shot on the Moon during Apollo 14's final EVA,
     1971-02-05.
   source: Dark Mission
@@ -100,21 +100,21 @@ references:
     history as well—with his famous "… first golf shot on the Moon."
   claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d7a03f8c-b796-4237-9c59-a16e5f9e7d78
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d7a03f8c-b796-4237-9c59-a16e5f9e7d78
 - text: Shepard boasted live that the golf ball 'went miles and miles.'
   source: Dark Mission
   location: ch19:36976-37014
   quote: boasted that the ball "went miles and miles."
   claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-61287fc3-812c-4c3d-8045-4a0a4dd70685
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-61287fc3-812c-4c3d-8045-4a0a4dd70685
 - text: Shepard reported 10 light flashes in his right eye, 4 in his left.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:09:05.9-00:09:07.7
   quote: Al, you had 10 right and 4 left
   claim_id: c2506235-d73b-4fb5-bce9-8f701e942c67
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-c2506235-d73b-4fb5-bce9-8f701e942c67
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-c2506235-d73b-4fb5-bce9-8f701e942c67
 - text: Mitchell and Shepard reported flashes at the same moment on one occasion.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:09:52.1-00:09:57.4
@@ -122,35 +122,35 @@ references:
     flash in the whole right eye.
   claim_id: 0380c85a-c8c2-47e8-81ce-5e0444bcff4c
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-0380c85a-c8c2-47e8-81ce-5e0444bcff4c
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-0380c85a-c8c2-47e8-81ce-5e0444bcff4c
 - text: Shepard judged the simultaneous reports to be within a fraction of a second.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:10:09.7-00:10:12.2
   quote: certainly within a fraction of a second, I think it was simultaneous.
   claim_id: 85497976-3544-47be-a989-e4a9f2fff837
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-85497976-3544-47be-a989-e4a9f2fff837
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-85497976-3544-47be-a989-e4a9f2fff837
 - text: Shepard never observed two flash streaks simultaneously.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:02:46.1-00:02:48.0
   quote: I never did see two simultaneously either.
   claim_id: 24951f03-3a85-41df-b32e-cd48a08ace2c
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-24951f03-3a85-41df-b32e-cd48a08ace2c
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-24951f03-3a85-41df-b32e-cd48a08ace2c
 - text: Shepard noticed no halo effect after the flashes.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:11:04.7-00:11:07.6
   quote: I haven't really noticed a halo effect myself.
   claim_id: a88e9f30-5dca-4dd5-956e-281af4ce2f56
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-a88e9f30-5dca-4dd5-956e-281af4ce2f56
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-a88e9f30-5dca-4dd5-956e-281af4ce2f56
 - text: Shepard noticed no preferred direction for the flashes.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:15:43.1-00:15:45.2
   quote: I didn't notice any preferred orientation.
   claim_id: 33a23a49-fc99-4f9f-a271-8b5885f245dc
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-33a23a49-fc99-4f9f-a271-8b5885f245dc
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-33a23a49-fc99-4f9f-a271-8b5885f245dc
 - text: Shepard felt the flashes were random in direction, with no consistent pattern.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:00:39.1-00:00:56.0
@@ -160,7 +160,7 @@ references:
     that time period
   claim_id: d8cbe084-f2a0-4939-9404-a2aa8d27afc1
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
 - text: Some flashes spanned 50 to 60 degrees of peripheral vision.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:16:04.5-00:16:09.5
@@ -168,7 +168,7 @@ references:
     of that.
   claim_id: e9b4550e-e04f-4ab6-8794-a6e7db6776f1
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-e9b4550e-e04f-4ab6-8794-a6e7db6776f1
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-e9b4550e-e04f-4ab6-8794-a6e7db6776f1
 - text: Shepard estimated his horizontal peripheral field of view at 50 to 160 degrees.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:15:55.2-00:16:02.7
@@ -176,7 +176,7 @@ references:
     in the vicinity of 50 to 160 degrees
   claim_id: 48648d32-1411-4577-b990-9c896be84939
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-48648d32-1411-4577-b990-9c896be84939
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-48648d32-1411-4577-b990-9c896be84939
 - text: Some flashes appeared broken into two dots.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:16:16.2-00:16:25.0
@@ -185,7 +185,7 @@ references:
     to top, or left to right.
   claim_id: defb876b-ea98-42f2-b47c-70829469e98a
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-defb876b-ea98-42f2-b47c-70829469e98a
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-defb876b-ea98-42f2-b47c-70829469e98a
 - text: Light seeped around window shades when the sun struck the windows.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:07:09.2-00:07:14.5
@@ -193,7 +193,7 @@ references:
     would hit some of the windows, there'd be some light seepage around.
   claim_id: 59cc4e9f-0392-4d86-ac99-8fd37cd090df
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-59cc4e9f-0392-4d86-ac99-8fd37cd090df
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-59cc4e9f-0392-4d86-ac99-8fd37cd090df
 - text: Shepard kept his eyes open except when avoiding sunlight seepage.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:07:17.4-00:07:23.8
@@ -201,14 +201,14 @@ references:
     otherwise... generally speaking, eyes were open.
   claim_id: 5cd10da0-769a-4b35-93e1-20eebb18f86a
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5cd10da0-769a-4b35-93e1-20eebb18f86a
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5cd10da0-769a-4b35-93e1-20eebb18f86a
 - text: Crew closed their eyes when Mitchell's flashlight was on.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:07:23.1-00:07:25.5
   quote: we closed our eyes when Ed flipped his flashlight on.
   claim_id: 618d7c9f-a58a-49be-a580-8b1dc64a999c
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-618d7c9f-a58a-49be-a580-8b1dc64a999c
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-618d7c9f-a58a-49be-a580-8b1dc64a999c
 - text: Shepard said a defined observation period was needed, or the phenomenon was
     too random to quantify.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -218,7 +218,7 @@ references:
     going through your mind that It's the only way you can't even quantitate it.
   claim_id: 83f33e96-7607-4576-8ede-90821747d7ee
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
-  workbench_url: http://localhost:5173/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-83f33e96-7607-4576-8ede-90821747d7ee
+  workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-83f33e96-7607-4576-8ede-90821747d7ee
 - text: Only Shepard and Mitchell landed; each carried one Hasselblad.
   source: Dark Mission
   location: ch19:36190-36332
@@ -226,7 +226,7 @@ references:
     and Mitchell—and just two Hasselblad cameras (one for each of them)
   claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
 - text: Shepard photographed Mitchell deploying the TV camera early in EVA-1 ('Mitchell
     Under Glass').
   source: Dark Mission
@@ -237,7 +237,7 @@ references:
     Alan Shepard early in EVA-1, as part of the preceding panorama sequence.
   claim_id: e2496a0a-8a1e-42e7-b641-d643f1051a6d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e2496a0a-8a1e-42e7-b641-d643f1051a6d
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e2496a0a-8a1e-42e7-b641-d643f1051a6d
 - text: AS14-66-9301 confirmed as a genuine Apollo 14 photograph.
   source: Dark Mission
   location: ch19:39378-39574
@@ -246,7 +246,7 @@ references:
     at the beginning of their first lunar EVA.
   claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
 - text: Shepard took the Apollo 14 landing site panorama in the Johnston Collection.
   source: Dark Mission
   location: ch14:46264-46354
@@ -254,7 +254,7 @@ references:
     taken by Alan Shepard.
   claim_id: 62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
 - text: AS14-66-9279 shares scattered-light geometry with Johnston's version of AS14-66-9301.
   source: Dark Mission
   location: ch20:14434-14715
@@ -264,7 +264,7 @@ references:
     standing to the west when he took that amazing photograph).
   claim_id: 442cdfb3-15d5-4dbd-bca6-98a4175370e3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-442cdfb3-15d5-4dbd-bca6-98a4175370e3
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-442cdfb3-15d5-4dbd-bca6-98a4175370e3
 - text: Hoagland said he found a deliberately faked photograph in Moon Shot's photographic
     section.
   source: Dark Mission
@@ -275,7 +275,7 @@ references:
     Moon… … Is a *deliberately* faked record of the trip [Fig. 12-4].
   claim_id: 0160d752-53a1-4121-87d7-f6d5288ec0d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0160d752-53a1-4121-87d7-f6d5288ec0d1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0160d752-53a1-4121-87d7-f6d5288ec0d1
 - text: The two-page golf-shot spread shows both astronauts at once, impossible for
     one Hasselblad.
   source: Dark Mission
@@ -285,7 +285,7 @@ references:
     and Mitchell—are seen simultaneously *in the same photograph?*
   claim_id: 16f24297-18aa-4260-8446-766ada69d340
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16f24297-18aa-4260-8446-766ada69d340
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16f24297-18aa-4260-8446-766ada69d340
 - text: Mitchell's TV camera broadcast to Earth in parallel with Shepard's golf-shot
     transmission.
   source: Dark Mission
@@ -297,7 +297,7 @@ references:
     event, in parallel with Shepard's live radio transmission as he took his swing
   claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2aaa09b3-55dd-4b26-86f9-311caaa19463
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2aaa09b3-55dd-4b26-86f9-311caaa19463
 - text: In the faked image the flag and Shepard's body position differ from the real
     event.
   source: Dark Mission
@@ -306,7 +306,7 @@ references:
     in the photo, Shepard's body position was different
   claim_id: eeb29cf0-429d-4a93-90b8-f64519fec291
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eeb29cf0-429d-4a93-90b8-f64519fec291
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eeb29cf0-429d-4a93-90b8-f64519fec291
 - text: The faked centrefold composites cutouts onto Antares, with the flag reversed.
   source: Dark Mission
   location: ch19:88846-89219
@@ -317,7 +317,7 @@ references:
     direction from actual Hasselblad photograph (L) and live TV downlink.
   claim_id: 1e961c77-172b-43d3-bb47-0b4b8b560577
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e961c77-172b-43d3-bb47-0b4b8b560577
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e961c77-172b-43d3-bb47-0b4b8b560577
 - text: Persistent, unconfirmed rumours held that Armstrong and Shepard were Freemasons.
   source: Dark Mission
   location: ch12:117569-117681
@@ -325,7 +325,7 @@ references:
     also members, but it has never been confirmed
   claim_id: 2b69683e-9e42-495b-b884-d695e62361d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b69683e-9e42-495b-b884-d695e62361d1
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b69683e-9e42-495b-b884-d695e62361d1
 - text: Hoagland speculated Armstrong and Aldrin were pre-selected as he believed
     Shepard was.
   source: Dark Mission
@@ -335,7 +335,7 @@ references:
     reason, been pre-selected.
   claim_id: c71114cb-d74c-4805-99a9-43394b33f18e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c71114cb-d74c-4805-99a9-43394b33f18e
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c71114cb-d74c-4805-99a9-43394b33f18e
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

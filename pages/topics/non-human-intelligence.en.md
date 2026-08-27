@@ -41,7 +41,7 @@ references:
     with this planet? No, none at all.
   claim_id: c3b73c5c-36e3-4f22-ad8e-60b72a9f94da
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c3b73c5c-36e3-4f22-ad8e-60b72a9f94da
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c3b73c5c-36e3-4f22-ad8e-60b72a9f94da
 - text: Caplan says he considers there to be other forms of non-human intelligence
     beyond extraterrestrial life
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -50,7 +50,7 @@ references:
   quote: I think there's other forms of non-human intelligence which we do not understand.
   claim_id: 4429817f-f7d7-48f1-b1ac-9543f21e6610
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4429817f-f7d7-48f1-b1ac-9543f21e6610
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4429817f-f7d7-48f1-b1ac-9543f21e6610
 - text: Coulthart says people he has spoken to describe the alleged multiple non-human
     intelligences as not all benevolent
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -61,7 +61,7 @@ references:
     there are allegedly multiple, as being 100% benevolent.
   claim_id: 90d3d5b9-fc2e-483f-a480-78c34423fe86
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-90d3d5b9-fc2e-483f-a480-78c34423fe86
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-90d3d5b9-fc2e-483f-a480-78c34423fe86
 - text: Coulthart says a newly found Majestic 12 document claims a non-human craft
     was forced to land at White Sands
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -72,7 +72,7 @@ references:
     to land the White Sands Proving Ground.
   claim_id: e5997828-6045-4995-915d-844539874806
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-e5997828-6045-4995-915d-844539874806
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-e5997828-6045-4995-915d-844539874806
 - text: Caplan recounts Hunt telling Caddy that JFK was assassinated because he was
     about to reveal the alien presence
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -83,7 +83,7 @@ references:
     alien presence.
   claim_id: 3327c5b3-99f8-4ef5-a0b1-8cec612215d8
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3327c5b3-99f8-4ef5-a0b1-8cec612215d8
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3327c5b3-99f8-4ef5-a0b1-8cec612215d8
 - text: Coulthart says he considers it implied that David Lamar Christ was also aware
     of the alien presence
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -93,7 +93,7 @@ references:
     alluded in his conversation with Douglas Caddy.
   claim_id: 2ebc151a-085a-4242-b2cf-370ea0416cee
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2ebc151a-085a-4242-b2cf-370ea0416cee
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2ebc151a-085a-4242-b2cf-370ea0416cee
 - text: A NORAD general, asked if the object downed over Alaska in early 2023 was
     extraterrestrial, said he was not ruling anything out
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -102,7 +102,7 @@ references:
     i'm not ruling anything out
   claim_id: b897aa93-707c-4009-ac21-0d32990d8938
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
-  workbench_url: http://localhost:5173/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
+  workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
 - text: Coulthart says Grush discussed DOPSR-cleared agreements potentially involving
     foreign powers or non-human intelligence
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -113,7 +113,7 @@ references:
     foreign adversary powers about UAPs or perhaps even with NHI.
   claim_id: cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
 - text: Coulthart says Kobitz told him the United States has recovered multiple non-human
     craft
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -122,7 +122,7 @@ references:
   quote: the fact that the United States has recovered quote multiple non-human craft
   claim_id: b80bbb3d-369c-49ff-8200-96baeef0074b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
 - text: Close Encounters of the Third Kind explored contact, agreements and travel
     with non-human beings
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -133,7 +133,7 @@ references:
     astronauts going onto an alien spacecraft and going somewhere else.
   claim_id: 9717e19e-e7bb-405a-bcee-559281dd3102
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9717e19e-e7bb-405a-bcee-559281dd3102
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9717e19e-e7bb-405a-bcee-559281dd3102
 - text: Coulthart says Spielberg has a long history of covering non-human intelligence
     intelligently and provocatively
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -143,7 +143,7 @@ references:
     issue of non-human intelligence, I think, in an intelligent and provocative way.
   claim_id: 123d979a-8500-442b-a5b4-d828a51a61da
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
 - text: Coulthart takes issue with Spielberg consistently portraying non-human beings
     as benevolent and never a threat
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -153,7 +153,7 @@ references:
     beings as always benevolent, never a threat.
   claim_id: 57c756c8-2e00-4c33-adaf-57d11b5bb343
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-57c756c8-2e00-4c33-adaf-57d11b5bb343
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-57c756c8-2e00-4c33-adaf-57d11b5bb343
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

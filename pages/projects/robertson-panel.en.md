@@ -94,7 +94,7 @@ references:
     objects were
   claim_id: 79565119-9d29-4127-8aa3-1ea51888e870
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-79565119-9d29-4127-8aa3-1ea51888e870
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-79565119-9d29-4127-8aa3-1ea51888e870
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-79565119-9d29-4127-8aa3-1ea51888e870
 - text: The panel was commissioned by CIA director Walter Bedell Smith.
   source: In Plain Sight
@@ -103,7 +103,7 @@ references:
     commissioned the so-called Robertson Panel
   claim_id: ef7e3239-404a-4e96-be47-59e46446ae2a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef7e3239-404a-4e96-be47-59e46446ae2a
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef7e3239-404a-4e96-be47-59e46446ae2a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef7e3239-404a-4e96-be47-59e46446ae2a
 - text: The sightings prompting the panel were seen as raising serious national security
     concerns, being of a nature not attributable to natural phenomena or known aerial
@@ -115,7 +115,7 @@ references:
     types of aerial vehicles.'
   claim_id: a78e12cb-3a7c-4520-a492-2fd08ad9e29f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a78e12cb-3a7c-4520-a492-2fd08ad9e29f
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a78e12cb-3a7c-4520-a492-2fd08ad9e29f
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a78e12cb-3a7c-4520-a492-2fd08ad9e29f
 - text: H. Marshall Chadwell's concerns about and interest in UFOs led to the panel's
     establishment.
@@ -126,7 +126,7 @@ references:
     the Robertson Panel.
   claim_id: 9083ba55-0eab-4364-9da7-e56bc79de800
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9083ba55-0eab-4364-9da7-e56bc79de800
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9083ba55-0eab-4364-9da7-e56bc79de800
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9083ba55-0eab-4364-9da7-e56bc79de800
 - text: Chadwell clandestinely sponsored a UFO scientific review panel led by Caltech
     physicist H.P. Robertson.
@@ -137,7 +137,7 @@ references:
     review panel led by California Institute of Technology physicist, H.P. Robertson.
   claim_id: a9c2df91-93c8-4f2a-a0e9-c895a7f45557
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a9c2df91-93c8-4f2a-a0e9-c895a7f45557
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a9c2df91-93c8-4f2a-a0e9-c895a7f45557
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a9c2df91-93c8-4f2a-a0e9-c895a7f45557
 - text: The panel's establishment followed a CIA Intelligence Advisory Committee recommendation
     to enlist scientists to review the evidence.
@@ -149,7 +149,7 @@ references:
     evidence in light of pertinent scientific theories."
   claim_id: cf449dec-70dc-4727-8578-e1e4f41e6ccf
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cf449dec-70dc-4727-8578-e1e4f41e6ccf
 - text: Panellists had expertise in nuclear physics, high-energy physics, radar, electronics,
     and geophysics.
@@ -160,7 +160,7 @@ references:
     high-energy physics, radar, electronics, and geophysics.
   claim_id: 939d7b32-32f0-438c-ba03-bd80158c0452
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-939d7b32-32f0-438c-ba03-bd80158c0452
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-939d7b32-32f0-438c-ba03-bd80158c0452
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-939d7b32-32f0-438c-ba03-bd80158c0452
 - text: The panel's January 1953 report asserted that UAPs were no threat to national
     security.
@@ -170,7 +170,7 @@ references:
     national security
   claim_id: dfe421b5-ab80-4e83-b271-04abaaa3540d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dfe421b5-ab80-4e83-b271-04abaaa3540d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dfe421b5-ab80-4e83-b271-04abaaa3540d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dfe421b5-ab80-4e83-b271-04abaaa3540d
 - text: The panel reviewed all USAF data and concluded most UFO reports had ordinary
     explanations.
@@ -181,7 +181,7 @@ references:
     explanations.
   claim_id: d8e243b2-5468-44bb-b552-e1d269594279
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d8e243b2-5468-44bb-b552-e1d269594279
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d8e243b2-5468-44bb-b552-e1d269594279
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d8e243b2-5468-44bb-b552-e1d269594279
 - text: The panel unanimously concluded there was no evidence of a direct threat to
     US national security.
@@ -192,7 +192,7 @@ references:
     to U.S. national secur
   claim_id: 926af9c9-1ad3-4a0e-bfd7-4902af36adf1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-926af9c9-1ad3-4a0e-bfd7-4902af36adf1
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-926af9c9-1ad3-4a0e-bfd7-4902af36adf1
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-926af9c9-1ad3-4a0e-bfd7-4902af36adf1
 - text: The panel found no evidence of a security threat or of extraterrestrial origin.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -201,7 +201,7 @@ references:
   quote: ity from UFOs or that they were of extraterrestrial origin.
   claim_id: 44830cfb-8a4e-4e29-b7b9-fa0ef49a39d6
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-44830cfb-8a4e-4e29-b7b9-fa0ef49a39d6
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-44830cfb-8a4e-4e29-b7b9-fa0ef49a39d6
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-44830cfb-8a4e-4e29-b7b9-fa0ef49a39d6
 - text: The complete lack of recovered physical hardware contributed to the panel's
     assessment.
@@ -213,7 +213,7 @@ references:
     that the reported UFOs were neither a foreign threat nor of extraterrestrial origin.
   claim_id: de93aff1-403b-4363-9603-a94737e7dfc7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-de93aff1-403b-4363-9603-a94737e7dfc7
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-de93aff1-403b-4363-9603-a94737e7dfc7
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-de93aff1-403b-4363-9603-a94737e7dfc7
 - text: The panel was concerned about mass hysteria and possible Soviet exploitation.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -223,7 +223,7 @@ references:
     how the Soviets could exploit it.
   claim_id: 0bcade0a-1321-480b-915c-14ce9bad6b40
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0bcade0a-1321-480b-915c-14ce9bad6b40
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0bcade0a-1321-480b-915c-14ce9bad6b40
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-0bcade0a-1321-480b-915c-14ce9bad6b40
 - text: The panel's report was the impetus for Project Blue Book and suggested a media
     campaign to manage public perception of UFOs.
@@ -233,7 +233,7 @@ references:
     a media campaign to manage public perception of the phenomena.
   claim_id: 49798ad2-88fd-4fce-a9eb-88f00b1f925c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49798ad2-88fd-4fce-a9eb-88f00b1f925c
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49798ad2-88fd-4fce-a9eb-88f00b1f925c
 - text: The panel recommended a public education campaign built on publicising already-debunked
     UFO cases while saying nothing about unexplained ones.
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -244,7 +244,7 @@ references:
     already been debunked and say nothing about the ones that haven't.
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
 - text: The panel proposed an active 'training' and 'debunking' effort using public
     media tools to steer the public from reporting UFOs.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -255,7 +255,7 @@ references:
     media tools to steer the public away from reporting UFOs.
   claim_id: 9f691f60-0b21-40de-95dc-a24170459d0e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9f691f60-0b21-40de-95dc-a24170459d0e
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9f691f60-0b21-40de-95dc-a24170459d0e
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9f691f60-0b21-40de-95dc-a24170459d0e
 - text: The panel advised the USAF to enlist the Walt Disney Company and the mass
     media in a debunking campaign.
@@ -265,7 +265,7 @@ references:
     the mass media in a campaign to “debunk” UAP.
   claim_id: 2d061fd0-f4d7-4098-b998-e47d758c2907
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d061fd0-f4d7-4098-b998-e47d758c2907
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d061fd0-f4d7-4098-b998-e47d758c2907
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2d061fd0-f4d7-4098-b998-e47d758c2907
 - text: The training-and-debunking programme was a mass-media education campaign enacted
     with academics and media moguls.
@@ -276,7 +276,7 @@ references:
     and media moguls, to control public knowledge about UFOs.'
   claim_id: ff11ce0e-5e6c-4e0e-b991-521929b387cf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ff11ce0e-5e6c-4e0e-b991-521929b387cf
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ff11ce0e-5e6c-4e0e-b991-521929b387cf
 - text: The report recommended documentary-style techniques and authoritative experts
     to help mould public perceptions.
   source: American Cosmic
@@ -287,7 +287,7 @@ references:
     and authoritative experts to help mold public perceptions.
   claim_id: efe9e5a9-6cc0-4894-9434-d9377c72efdb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-efe9e5a9-6cc0-4894-9434-d9377c72efdb
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-efe9e5a9-6cc0-4894-9434-d9377c72efdb
 - text: The debunking proposal reasoned the panel did not view UFOs as a foreign threat
     or extraterrestrial, but as reports cluttering government processes.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -298,7 +298,7 @@ references:
     of reports as cluttering and bogging down government processes
   claim_id: 1bcddc59-0cca-4c70-a28c-634e32476107
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1bcddc59-0cca-4c70-a28c-634e32476107
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1bcddc59-0cca-4c70-a28c-634e32476107
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1bcddc59-0cca-4c70-a28c-634e32476107
 - text: The panel recommended monitoring the activities of civilian UFO groups.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -307,7 +307,7 @@ references:
     which met in 1953, was precisely to monitor the activities of civilian groups
   claim_id: e3745a5e-3f58-48e3-b76c-0bf194b6872f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
 - text: The report named the Civilian Flying Saucer Investigators of Los Angeles and
     the Aerial Phenomena Research Organization of Wisconsin as groups to be watched.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -320,7 +320,7 @@ references:
     purposes should be kept in mind.
   claim_id: bc7d8dff-0342-4a6b-acda-4d875b90249c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bc7d8dff-0342-4a6b-acda-4d875b90249c
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bc7d8dff-0342-4a6b-acda-4d875b90249c
 - text: The panel suggested monitoring domestic UFO enthusiast organisations.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -328,7 +328,7 @@ references:
   quote: suggested monitoring domestic UFO enthusiast organizations
   claim_id: 8d2864d3-a47a-48f5-9229-190e1d281055
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d2864d3-a47a-48f5-9229-190e1d281055
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d2864d3-a47a-48f5-9229-190e1d281055
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8d2864d3-a47a-48f5-9229-190e1d281055
 - text: The panel feared US air defence communications might be overwhelmed by UAP
     reports.
@@ -338,7 +338,7 @@ references:
     reports...
   claim_id: 0a660063-37f0-4ec7-a64c-50b64f61f649
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a660063-37f0-4ec7-a64c-50b64f61f649
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a660063-37f0-4ec7-a64c-50b64f61f649
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a660063-37f0-4ec7-a64c-50b64f61f649
 - text: Hynek concluded the panel's primary role was to debunk sightings and return
     investigative control to the air force.
@@ -349,7 +349,7 @@ references:
     of investigations into the phenomenon back with the air force
   claim_id: 2a986b38-6dc6-4301-852b-7de5c1b847e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
 - text: Hynek wrote that the CIA was fearful not of UFOs, but of UFO reports.
   source: In Plain Sight
@@ -358,7 +358,7 @@ references:
     UFOs, but of UFO reports.'
   claim_id: 91550b36-d328-42e3-bbd1-0da8adf50751
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91550b36-d328-42e3-bbd1-0da8adf50751
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91550b36-d328-42e3-bbd1-0da8adf50751
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-91550b36-d328-42e3-bbd1-0da8adf50751
 - text: Frederick Durant drafted a report for the CIA's Assistant Director of the
     OSI on the panel's work and findings.
@@ -369,7 +369,7 @@ references:
     of OSI on the Robertson Panel's work and findings.
   claim_id: 307de6d9-40d6-4917-8603-de18023e104f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-307de6d9-40d6-4917-8603-de18023e104f
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-307de6d9-40d6-4917-8603-de18023e104f
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-307de6d9-40d6-4917-8603-de18023e104f
 - text: Durant's memorandum gave a brief history of the panel plus an unofficial supplement
     of members' comments not in the final report.
@@ -381,7 +381,7 @@ references:
     not included in the final report.
   claim_id: 75d13cc2-fcf2-4bb7-ad80-adf0000d7bdc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-75d13cc2-fcf2-4bb7-ad80-adf0000d7bdc
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-75d13cc2-fcf2-4bb7-ad80-adf0000d7bdc
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-75d13cc2-fcf2-4bb7-ad80-adf0000d7bdc
 - text: The Durant Report is an account of the proceedings of the Robertson Panel,
     convened to study UFOs.
@@ -392,7 +392,7 @@ references:
     a US government committee convened to study UFOs.
   claim_id: 7ce5b8f6-b155-4a78-bef5-b08ddb11f066
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: http://localhost:5173/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7ce5b8f6-b155-4a78-bef5-b08ddb11f066
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7ce5b8f6-b155-4a78-bef5-b08ddb11f066
 - text: The Durant Report offered no distinct findings, mostly summarising the panel's
     own conclusions.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -402,7 +402,7 @@ references:
     the findings of the Robertson Panel.
   claim_id: 8bdd7f28-52ad-4ca7-ad11-736f132333b3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8bdd7f28-52ad-4ca7-ad11-736f132333b3
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8bdd7f28-52ad-4ca7-ad11-736f132333b3
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8bdd7f28-52ad-4ca7-ad11-736f132333b3
 - text: Richard Drain played a principal role in the 1953 decision to debunk UFOs
     using stigma, ridicule and taboo.
@@ -416,7 +416,7 @@ references:
     to stop the public from looking at the UFO subject.
   claim_id: aa2ad173-9e00-4e29-84a6-c6396e6f1d21
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-aa2ad173-9e00-4e29-84a6-c6396e6f1d21
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-aa2ad173-9e00-4e29-84a6-c6396e6f1d21
 - text: The panel changed the tone of official UAP handling and developed a systematic
     ridicule process while the government secretly took the subject seriously.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -425,7 +425,7 @@ references:
     ridicule process while the government was secretly taking this very seriously
   claim_id: f7f7e9d5-e377-4568-87ba-e1ec4aa2489c
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f7f7e9d5-e377-4568-87ba-e1ec4aa2489c
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f7f7e9d5-e377-4568-87ba-e1ec4aa2489c
 - text: Phil McGraw said he considers the US government's approach has been to hide
     UAP information from the public since 1947.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -434,7 +434,7 @@ references:
     1947, the Robertson panel
   claim_id: 62d388f9-45cb-4882-95cb-6b6841cfe3d1
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
-  workbench_url: http://localhost:5173/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-62d388f9-45cb-4882-95cb-6b6841cfe3d1
+  workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-62d388f9-45cb-4882-95cb-6b6841cfe3d1
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

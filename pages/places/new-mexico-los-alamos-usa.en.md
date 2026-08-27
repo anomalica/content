@@ -45,7 +45,7 @@ references:
     nuclear weapon sites.
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
 - text: Anonymous correspondent recalled green light sightings at Los Alamos between
     1948 and 1951
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -54,7 +54,7 @@ references:
     of green lights were made at Los Alamos.
   claim_id: 3be0bd54-0014-4a56-a43b-c13e9f0a119a
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
-  workbench_url: http://localhost:5173/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
+  workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
 - text: Five objects seen flying over Los Alamos in the afternoon
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:590-663
@@ -62,7 +62,7 @@ references:
     afternoon.
   claim_id: 47828b07-ea37-4470-96ca-75255619955f
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
-  workbench_url: http://localhost:5173/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-47828b07-ea37-4470-96ca-75255619955f
+  workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-47828b07-ea37-4470-96ca-75255619955f
 - text: The five objects flew southeast to northwest, appearing to be in formation
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:674-748
@@ -70,7 +70,7 @@ references:
     formation.
   claim_id: 27643c78-c103-42d5-84b0-e5f510817552
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
-  workbench_url: http://localhost:5173/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-27643c78-c103-42d5-84b0-e5f510817552
+  workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-27643c78-c103-42d5-84b0-e5f510817552
 - text: Protective Force Headquarters members on the Hill in the early 1950s would
     recall the sightings
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -79,7 +79,7 @@ references:
     '50 should recall all the reported sightings during this time.
   claim_id: ab6df278-9916-449b-975b-4823a8d86ff4
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
-  workbench_url: http://localhost:5173/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-ab6df278-9916-449b-975b-4823a8d86ff4
+  workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-ab6df278-9916-449b-975b-4823a8d86ff4
 - text: Oppenheimer's letter describing staff going outdoors to observe a bright object
     before the Trinity test
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -90,7 +90,7 @@ references:
     in the sky through glasses, binoculars, and whatever else they could find.
   claim_id: 698d5d73-de79-4b65-a315-43da15a40c02
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-698d5d73-de79-4b65-a315-43da15a40c02
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-698d5d73-de79-4b65-a315-43da15a40c02
 - text: Kirtland Field reported no interceptors able to reach the object
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 2025-04-11, 00:13:25.2-00:13:31.3
@@ -98,7 +98,7 @@ references:
     had enabled them to come within range of the object.
   claim_id: 457a30ad-8a49-4faf-a947-dcf68daa593d
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-457a30ad-8a49-4faf-a947-dcf68daa593d
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-457a30ad-8a49-4faf-a947-dcf68daa593d
 - text: Director of personnel asked if they could stop trying to shoot down Venus
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 2025-04-11, 00:13:32.1-00:13:42.2
@@ -107,7 +107,7 @@ references:
     down Venus.
   claim_id: c2b22c21-18ba-4438-b1f3-1e1d807898a4
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
-  workbench_url: http://localhost:5173/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-c2b22c21-18ba-4438-b1f3-1e1d807898a4
+  workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-c2b22c21-18ba-4438-b1f3-1e1d807898a4
 - text: George Knapp rebutted denials that Bob Lazar worked at Los Alamos National
     Laboratory
   source: In Plain Sight
@@ -118,7 +118,7 @@ references:
     and Lazar was clearly very familiar with the site and knew workers inside.
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2578240-b430-4934-ae53-5e9e9911ac02
 - text: Lazar speculates Edward Teller influenced his hiring at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -127,7 +127,7 @@ references:
     and uh to give him a shot or whatever
   claim_id: f53bf53b-6a37-4284-a10c-30e4a9b8a51b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
-  workbench_url: http://localhost:5173/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f53bf53b-6a37-4284-a10c-30e4a9b8a51b
+  workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f53bf53b-6a37-4284-a10c-30e4a9b8a51b
 - text: Fravor describes a propulsion expert who had been working at Los Alamos before
     recruitment
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -137,14 +137,14 @@ references:
     which they have proven, who is big into propulsion.
   claim_id: 4fef7130-09a2-48a3-9e28-a87346fe05cc
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-4fef7130-09a2-48a3-9e28-a87346fe05cc
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-4fef7130-09a2-48a3-9e28-a87346fe05cc
 - text: Pajarito Astronomers organisation address in Los Alamos
   source: Pajarito Astronomers Meeting Notice - May 1986
   location: char:49-79
   quote: P.O. Box 1092, Los Alamos NM, 87544
   claim_id: 6082886a-62ac-4c46-b71a-6da7382e2c1b
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
-  workbench_url: http://localhost:5173/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
+  workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

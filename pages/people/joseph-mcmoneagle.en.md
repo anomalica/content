@@ -422,7 +422,7 @@ references:
   quote: He's also known as remote viewer number 001.
   claim_id: bc63c251-b9eb-4f83-b8bf-3b327c7168ad
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bc63c251-b9eb-4f83-b8bf-3b327c7168ad
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bc63c251-b9eb-4f83-b8bf-3b327c7168ad
 - text: He helped the United States Army locate hostages in Iran.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -430,7 +430,7 @@ references:
   quote: including helping the Army locate hostages in Iran
   claim_id: 1243990d-fdaa-4615-82d8-e94b476d05b3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1243990d-fdaa-4615-82d8-e94b476d05b3
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1243990d-fdaa-4615-82d8-e94b476d05b3
 - text: He pointed CIA agents to a shortwave radio hidden in a suspected KGB agent's
     pocket calculator in South Africa.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -440,7 +440,7 @@ references:
     of a suspected KGB agent captured in South Africa.
   claim_id: 9dc9034b-0dc9-4124-99a7-d99334fece2c
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9dc9034b-0dc9-4124-99a7-d99334fece2c
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9dc9034b-0dc9-4124-99a7-d99334fece2c
 - text: McMoneagle told the Washington Post he ran roughly 450 missions between 1978
     and 1984.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -450,7 +450,7 @@ references:
     later told the Washington Post
   claim_id: 7a05553e-e4c2-46a2-95ca-0030814269f2
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
 - text: Project STARGATE originally used extensive testing and vetting to ensure participant
     stability.
   source: Remote Viewing Secrets
@@ -460,7 +460,7 @@ references:
     process is very expensive.
   claim_id: 3857c148-bd5d-4775-b099-711a055bf00c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3857c148-bd5d-4775-b099-711a055bf00c
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3857c148-bd5d-4775-b099-711a055bf00c
 - text: The vetting process was later dropped to reduce costs.
   source: Remote Viewing Secrets
   location: ch16:34414-34504
@@ -468,7 +468,7 @@ references:
     order to reduce costs.
   claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
 - text: Dropping vetting left some previously stable participants destabilised.
   source: Remote Viewing Secrets
   location: ch16:34511-34812
@@ -478,7 +478,7 @@ references:
     they became quite unstable, emotionally, mentally, or sometimes both.
   claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
 - text: McMoneagle reports personal risk of self-delusion regarding remote viewing.
   source: Remote Viewing Secrets
   location: ch15:11293-11406
@@ -486,7 +486,7 @@ references:
     suspect that I will find myself there again.
   claim_id: 380ee4b2-6b30-4539-954b-4259d013f67a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-380ee4b2-6b30-4539-954b-4259d013f67a
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-380ee4b2-6b30-4539-954b-4259d013f67a
 - text: Edwin C. May commented on a near-perfect match between McMoneagle's drawings
     and a target.
   source: Remote Viewing Secrets
@@ -495,7 +495,7 @@ references:
     some of my drawings and the target.
   claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
 - text: May said McMoneagle produced spectacular detail about twenty percent of the
     time.
   source: Remote Viewing Secrets
@@ -505,7 +505,7 @@ references:
     that's about as close to a miracle as one can get."
   claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
 - text: May put McMoneagle's target hit rate at around sixty to sixty-five percent.
   source: Remote Viewing Secrets
   location: ch14:23826-23940
@@ -513,7 +513,7 @@ references:
     hit rate of about sixty to sixty-five percent.
   claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
 - text: McMoneagle is a full-time research associate with the Cognitive Sciences Laboratory
     in Palo Alto.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -525,7 +525,7 @@ references:
     in remote viewing
   claim_id: a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a4a4ba7a-e107-4286-8cbc-ba9e60cdbb6e
 - text: McMoneagle on the meaning of 'perform well' in the Puthoff/Targ SRI International
     report.
   source: Remote Viewing Secrets
@@ -534,7 +534,7 @@ references:
     under controlled conditions (or achieving a better than chance result).
   claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
 - text: About twenty percent of contacts to his office sought help after remote viewing
     exposure.
   source: Remote Viewing Secrets
@@ -545,7 +545,7 @@ references:
     them to qualified counselors for help.
   claim_id: 5787783f-8ed3-4dc4-9934-7886a9ee754a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5787783f-8ed3-4dc4-9934-7886a9ee754a
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5787783f-8ed3-4dc4-9934-7886a9ee754a
 - text: McMoneagle lived in Nelliesford, Virginia, the location of the Monroe Institute.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -554,7 +554,7 @@ references:
     number 001. It was time to head to Nelliesford, Virginia.
   claim_id: 355e889c-1821-47af-a08f-484a9c83c15a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
-  workbench_url: http://localhost:5173/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-355e889c-1821-47af-a08f-484a9c83c15a
+  workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-355e889c-1821-47af-a08f-484a9c83c15a
 - text: McMoneagle laid out belt-ranked remote viewing skill levels, RV'do.
   source: Remote Viewing Secrets
   location: ch13:665-795
@@ -562,7 +562,7 @@ references:
     belts one might expect to find within a martial art.
   claim_id: f4f74110-5293-40b8-97fc-e58047c86146
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4f74110-5293-40b8-97fc-e58047c86146
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4f74110-5293-40b8-97fc-e58047c86146
 - text: He had studied martial arts and remote viewing for over twenty years as of
     2013.
   source: Remote Viewing Secrets
@@ -572,7 +572,7 @@ references:
     it, can be expressed in the very same manner.
   claim_id: d84a0cf8-4cb1-4886-9135-66e4fa570c49
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d84a0cf8-4cb1-4886-9135-66e4fa570c49
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d84a0cf8-4cb1-4886-9135-66e4fa570c49
 - text: 'Outbounder Remote Viewing: the monitor''s role.'
   source: Remote Viewing Secrets
   location: '48'
@@ -581,7 +581,7 @@ references:
     with what the remote viewer is doing.
   claim_id: 4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
 - text: 'Outbounder Remote Viewing: the evaluator''s role.'
   source: Remote Viewing Secrets
   location: '52'
@@ -590,7 +590,7 @@ references:
     have been made and no other visits to the target site are intended.
   claim_id: 63fd581e-bb5c-4127-b9f7-28ca0d5f1961
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fd581e-bb5c-4127-b9f7-28ca0d5f1961
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fd581e-bb5c-4127-b9f7-28ca0d5f1961
 - text: McMoneagle recommends keeping a viewer blind to the entire target.
   source: Remote Viewing Secrets
   location: ch14:11690-11784
@@ -598,7 +598,7 @@ references:
     plan to the real thing.
   claim_id: 09727dad-afe7-4cb5-91f0-2381a029c411
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-09727dad-afe7-4cb5-91f0-2381a029c411
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-09727dad-afe7-4cb5-91f0-2381a029c411
 - text: Front-loading is taught as a distinct skill at the Black Belt Second Stage.
   source: Remote Viewing Secrets
   location: ch13:13438-13542
@@ -606,7 +606,7 @@ references:
     stage, which deal with "front loading."
   claim_id: 9fa03507-90c6-4167-8de9-f0b1ba9e948e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa03507-90c6-4167-8de9-f0b1ba9e948e
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa03507-90c6-4167-8de9-f0b1ba9e948e
 - text: Coordinate Remote Viewing differs from Outbounder Remote Viewing only in outbounder
     presence and feedback method.
   source: Remote Viewing Secrets
@@ -615,7 +615,7 @@ references:
     the coordinate protocol:'
   claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
 - text: McMoneagle considers UFOs usually poor remote viewing targets.
   source: Remote Viewing Secrets
   location: ch14:13001-13319
@@ -626,7 +626,7 @@ references:
     to.
   claim_id: e767ba98-32bc-45eb-9edf-202b26bf2f2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
 - text: 'McMoneagle: chances of a correct UFO-related statement are close to zero.'
   source: Remote Viewing Secrets
   location: ch14:13749-13864
@@ -634,7 +634,7 @@ references:
     viewing is correct are very close to zero.
   claim_id: 6b78c286-d288-415f-bbc0-dd81317db3fa
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
 - text: McMoneagle considers remote viewing poor for phenomenological targets like
     UFOs, Loch Ness Monster, Sasquatch.
   source: Remote Viewing Secrets
@@ -645,7 +645,7 @@ references:
     Sasquatch, or descriptions of heaven and hell
   claim_id: 01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
 - text: McMoneagle not opposed to targeting downed-UFO or crop-circle sites, since
     feedback might exist.
   source: Remote Viewing Secrets
@@ -656,7 +656,7 @@ references:
     thus providing feedback.
   claim_id: af4616f8-4e75-4737-9238-f04dc5840ed5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-af4616f8-4e75-4737-9238-f04dc5840ed5
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-af4616f8-4e75-4737-9238-f04dc5840ed5
 - text: McMoneagle believes almost any meditation can help develop remote viewing
     ability.
   source: Remote Viewing Secrets
@@ -665,7 +665,7 @@ references:
     you may learn to be a good remote viewer.
   claim_id: e396a93c-0c3d-4fa4-9f87-74a46395c6b3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
-  workbench_url: http://localhost:5173/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e396a93c-0c3d-4fa4-9f87-74a46395c6b3
+  workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e396a93c-0c3d-4fa4-9f87-74a46395c6b3
 - text: 'Ramsay: McMoneagle sent to Monroe Institute weekend retreats to test OBE
     effect on accuracy.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -677,7 +677,7 @@ references:
     see if that would be more conducive for a more accurate remote viewing session.
   claim_id: 6d6628a4-30a2-48f0-9505-950ee2722661
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6d6628a4-30a2-48f0-9505-950ee2722661
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6d6628a4-30a2-48f0-9505-950ee2722661
 - text: 'Ramsay: McMoneagle travelled from Fort Meade to the Monroe Institute at weekends
     for OBE training.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -687,7 +687,7 @@ references:
     there.
   claim_id: 23dd5ec0-79c7-4414-9e3f-276f88b19a65
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-23dd5ec0-79c7-4414-9e3f-276f88b19a65
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-23dd5ec0-79c7-4414-9e3f-276f88b19a65
 - text: 'Ramsay: a Ganzfeld/ping-pong-ball session preceded a remote viewing of an
     envelope''s contents.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -702,7 +702,7 @@ references:
     on the picture.
   claim_id: ad38163b-07ff-442a-8548-1f64f720686a
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ad38163b-07ff-442a-8548-1f64f720686a
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ad38163b-07ff-442a-8548-1f64f720686a
 - text: 'Ramsay: McMoneagle projected to the photograph''s location and drew a matching
     image.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -714,7 +714,7 @@ references:
     one.
   claim_id: a6b08856-356d-4873-8e41-84e846b2acb1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a6b08856-356d-4873-8e41-84e846b2acb1
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a6b08856-356d-4873-8e41-84e846b2acb1
 - text: 'Mossbridge: McMoneagle could match drawings without leaving his body.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -723,7 +723,7 @@ references:
     so it's a little tricky
   claim_id: 5f771b5b-be9f-42c0-a1fd-e5fb3edeb88b
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5f771b5b-be9f-42c0-a1fd-e5fb3edeb88b
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5f771b5b-be9f-42c0-a1fd-e5fb3edeb88b
 - text: 'Mossbridge: McMoneagle felt OBE did not much help his remote viewing.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -731,7 +731,7 @@ references:
   quote: but i also think Joe didn't feel like going out of body helped him very much
   claim_id: 706d7bb5-028d-490c-906d-49e45462b4e1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-706d7bb5-028d-490c-906d-49e45462b4e1
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-706d7bb5-028d-490c-906d-49e45462b4e1
 - text: Ramsay initially disbelieved McMoneagle's OBE account until his own experience.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -740,7 +740,7 @@ references:
     right?
   claim_id: c38709e6-cdbd-4a6b-ac8b-6664b01de1c4
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c38709e6-cdbd-4a6b-ac8b-6664b01de1c4
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c38709e6-cdbd-4a6b-ac8b-6664b01de1c4
 - text: Ramsay regards McMoneagle as having been, and remaining, very good at remote
     viewing.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -749,7 +749,7 @@ references:
   quote: yeah he was really good at it... still is i think yeah
   claim_id: 6cb1687d-d515-4462-80ff-b115a58c4d45
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6cb1687d-d515-4462-80ff-b115a58c4d45
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6cb1687d-d515-4462-80ff-b115a58c4d45
 - text: 'Elizondo: a senator told McMoneagle he did the devil''s work; another said
     God''s work.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -760,7 +760,7 @@ references:
     "You are doing God''s work, son!"'
   claim_id: 5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
 - text: Mossbridge recalls a story that Russians told Americans 'you killed all your
     psychics'.
@@ -772,7 +772,7 @@ references:
     your psychics, referring to Pat Price and maybe others.
   claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
-  workbench_url: http://localhost:5173/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-baef5e12-eeda-4d54-a79f-54a60695c2fb
+  workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-baef5e12-eeda-4d54-a79f-54a60695c2fb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

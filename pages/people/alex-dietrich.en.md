@@ -68,7 +68,7 @@ references:
     ~2 words}}, USN'
   claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
 - text: Lieutenant Junior Grade, piloted the other F/A-18 Super Hornet involved in
     the encounter
@@ -78,7 +78,7 @@ references:
     piloted by Lieutenant Junior Grade Alex Dietrich
   claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
 - text: Diverted with Fravor, each with a WSO in the back seat, to investigate USS
     Princeton's radar contacts
@@ -88,7 +88,7 @@ references:
     the backseat, were diverted to investigate.
   claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
 - text: Fravor detached Dietrich's F/A-18F, held at ~6,100 metres, while his aircraft
     descended to 3,700-4,900 metres
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -97,7 +97,7 @@ references:
     20,000 feet, and FASTEAGLE01 descended to between 12-16,000 feet.
   claim_id: bf498b2b-1e86-4ea3-93fd-1523de6bb23c
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
 - text: The two pilots, flying at ~6,100 metres, saw the sea below churning in one
     spot, with whitecaps and bubbles
@@ -111,7 +111,7 @@ references:
     them.
   claim_id: 24752b60-1587-443c-af87-e5dfac13ef8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24752b60-1587-443c-af87-e5dfac13ef8a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24752b60-1587-443c-af87-e5dfac13ef8a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-24752b60-1587-443c-af87-e5dfac13ef8a
 - text: Dietrich circled above while Fravor descended for a closer look
   source: Navy pilots describe encounters with UFOs
@@ -119,7 +119,7 @@ references:
   quote: As Dietrich circled above, Fravor went in for a closer look.
   claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
 - text: All four pilots noticed a bizarre object darting back and forth about 15 metres
     above the water
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -128,7 +128,7 @@ references:
     object darted back and forth over the whitecaps, about 50 feet above the water.
   claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
 - text: Fravor's WSO maintained a running dialogue with Dietrich's FastEagle 02 and
     reported to USS Princeton
@@ -139,7 +139,7 @@ references:
     FastEagle 02.'
   claim_id: 1904d1b8-87df-4f4e-9e40-86ab5eeedb78
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
-  workbench_url: http://localhost:5173/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1904d1b8-87df-4f4e-9e40-86ab5eeedb78
+  workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1904d1b8-87df-4f4e-9e40-86ab5eeedb78
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1904d1b8-87df-4f4e-9e40-86ab5eeedb78
 - text: Dietrich's WSO was known as 'Noodle'; together they made up FASTEAGLE 02
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -148,7 +148,7 @@ references:
     “Noodle.” Together, New Girl and Noodle made up FASTEAGLE 02.
   claim_id: aca7530d-9a73-40ba-837d-1121a637ed4e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aca7530d-9a73-40ba-837d-1121a637ed4e
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aca7530d-9a73-40ba-837d-1121a637ed4e
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-aca7530d-9a73-40ba-837d-1121a637ed4e
 - text: Dietrich initially tried to categorise the object as possibly a helicopter
     or a drone
@@ -157,14 +157,14 @@ references:
   quote: I'm going to categorize this as maybe a helicopter or maybe a drone.
   claim_id: 0e826557-c64f-4fef-8022-bd4158f9567a
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0e826557-c64f-4fef-8022-bd4158f9567a
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0e826557-c64f-4fef-8022-bd4158f9567a
 - text: Dietrich felt vulnerable because they had nothing with which to defend themselves
   source: Navy pilots describe encounters with UFOs
   location: 00:13:37.4-00:13:40.8
   quote: I felt the vulnerability of not having anything to defend ourselves.
   claim_id: fdf2ac36-553c-483c-ad6b-722977859394
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
 - text: Dietrich said that alone she might not have reported the object given how
     implausible it would sound
   source: Navy pilots describe encounters with UFOs
@@ -173,7 +173,7 @@ references:
     because it sounds so crazy when I say it
   claim_id: f900712a-e007-4792-9789-102685771e44
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f900712a-e007-4792-9789-102685771e44
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-f900712a-e007-4792-9789-102685771e44
 - text: Dietrich described the Tic Tac object as manoeuvring in a 'playful' manner
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:11594-11684
@@ -181,7 +181,7 @@ references:
     in a "playful" manner.
   claim_id: ee69bb57-5673-4cd0-a338-5253765e3df6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee69bb57-5673-4cd0-a338-5253765e3df6
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee69bb57-5673-4cd0-a338-5253765e3df6
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ee69bb57-5673-4cd0-a338-5253765e3df6
 - text: Dietrich flew at Fravor's wing and had never spoken publicly about the encounter
     before this interview
@@ -191,7 +191,7 @@ references:
     about the encounter
   claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
 - text: Dietrich feels a responsibility to share her account as she was in a government
     aircraft, on duty, unclassified material
   source: Navy pilots describe encounters with UFOs
@@ -200,7 +200,7 @@ references:
     I feel a responsibility to share what I can, and it is unclassified.
   claim_id: e44a718a-1026-4973-9da4-79176d4ecfdd
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  workbench_url: http://localhost:5173/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e44a718a-1026-4973-9da4-79176d4ecfdd
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e44a718a-1026-4973-9da4-79176d4ecfdd
 - text: Dietrich contacted Fravor years later to ask if he had been contacted about
     the incident
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -210,7 +210,7 @@ references:
     if I would been contacted
   claim_id: 904e401b-cb03-47e0-9aa1-62fab85c9d76
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-904e401b-cb03-47e0-9aa1-62fab85c9d76
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-904e401b-cb03-47e0-9aa1-62fab85c9d76
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-904e401b-cb03-47e0-9aa1-62fab85c9d76
 - text: Fravor, retired from the Navy, told Dietrich he had not been contacted since
     2009 but was happy to meet anyone
@@ -220,7 +220,7 @@ references:
     to talk, I was happy to meet with them.
   claim_id: 0a48a94f-a983-415c-8640-ad31eae22e85
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-0a48a94f-a983-415c-8640-ad31eae22e85
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-0a48a94f-a983-415c-8640-ad31eae22e85
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-0a48a94f-a983-415c-8640-ad31eae22e85
 - text: Dietrich told Fravor she had been invited to the Pentagon multiple times to
     discuss the encounter and view other UAP videos
@@ -230,7 +230,7 @@ references:
     the event and view other videos of UAPs.
   claim_id: 5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
-  workbench_url: http://localhost:5173/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
+  workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
   inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-5b536f9a-e891-4ce0-8df5-9f95a1f68bf9
 - text: 'Elizondo: neither Fravor nor Dietrich displayed any propensity to exaggerate;
     their crews saw them as the best of the best'
@@ -240,7 +240,7 @@ references:
     crews perceived them as the best of the best.
   claim_id: a09eea88-71ff-42ee-afe3-a8264c79511c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
 - text: 'Elizondo: Dietrich, call sign ''New Girl'', was more skilled and deadly than
     the call sign suggested'
@@ -251,7 +251,7 @@ references:
     than her call sign—“New Girl”—suggested.
   claim_id: bd285379-7452-4a5b-ae35-1d7e992ba910
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd285379-7452-4a5b-ae35-1d7e992ba910
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd285379-7452-4a5b-ae35-1d7e992ba910
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd285379-7452-4a5b-ae35-1d7e992ba910
 - text: 'Elizondo: fresh out of training she flew circles around her peers, probably
     why she was picked for Black Aces'
@@ -261,7 +261,7 @@ references:
     reason she was handpicked for her assignment with the Black Aces.
   claim_id: 8140ef98-a0f5-41b0-94ca-0185e665a500
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8140ef98-a0f5-41b0-94ca-0185e665a500
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8140ef98-a0f5-41b0-94ca-0185e665a500
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8140ef98-a0f5-41b0-94ca-0185e665a500
 - text: Elizondo heard a story that Dietrich had more confirmed kills in a period
     than the entire USMC
@@ -272,7 +272,7 @@ references:
     true, but I would not doubt it.
   claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
 - text: Byers and Smith requested data and asked to speak with Fravor and Dietrich
     in connection with briefing Mattis on UAP
@@ -282,7 +282,7 @@ references:
     We brought in Fravor, Dietrich, and a radar operator.
   claim_id: a95af9c7-d2be-4044-90a4-1b716357ad9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a95af9c7-d2be-4044-90a4-1b716357ad9a
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a95af9c7-d2be-4044-90a4-1b716357ad9a
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a95af9c7-d2be-4044-90a4-1b716357ad9a
 - text: Elizondo arranged for Mellon to take part in official debriefings with Fravor,
     Dietrich, and other Navy personnel
@@ -293,7 +293,7 @@ references:
     close or on military sensor systems.
   claim_id: cdc362b8-15c9-41d0-939d-1eb085522c50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdc362b8-15c9-41d0-939d-1eb085522c50
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdc362b8-15c9-41d0-939d-1eb085522c50
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cdc362b8-15c9-41d0-939d-1eb085522c50
 built_by:
   model: claude-sonnet-5

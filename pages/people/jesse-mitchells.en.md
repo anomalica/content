@@ -416,7 +416,7 @@ references:
     11-11 has been showing up once a day at least
   claim_id: e160bb2e-5b7b-4dd9-8448-00a315ebd421
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
 - text: David Grush testified before the US Congress as a UFO whistleblower on 2023-07-26
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 2024-11-24, 00:05:18.3-00:05:23.3
@@ -424,7 +424,7 @@ references:
     summer of last year.
   claim_id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
 - text: Mitchells's YouTube channel received a strike after a video featuring David
     Grush was taken down
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -433,7 +433,7 @@ references:
     which is like yeah That feels like that's so extreme.
   claim_id: 90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
 - text: Mitchells said the US government has covertly run UFO reverse-engineering
     programmes for about 70 to 80 years
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -442,7 +442,7 @@ references:
     in covert reverse engineering UFO programs for the last 70, 80 years.
   claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
 - text: Sean described Mitchells as the most important, most thorough and most multidisciplinary
     voice in the UFO field
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -452,7 +452,7 @@ references:
     approach that he has.
   claim_id: bfbbf7a2-6be8-4207-bb9d-5dce65d68c23
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
-  workbench_url: http://localhost:5173/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-bfbbf7a2-6be8-4207-bb9d-5dce65d68c23
+  workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-bfbbf7a2-6be8-4207-bb9d-5dce65d68c23
 - text: Mitchells and his editor travelled to Aztec, New Mexico to investigate the
     reported crash there
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -461,7 +461,7 @@ references:
     the crash there.
   claim_id: db5428f4-12bc-4940-844b-147f9cc960f9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-db5428f4-12bc-4940-844b-147f9cc960f9
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-db5428f4-12bc-4940-844b-147f9cc960f9
 - text: Mitchells entered the Aztec investigation sceptical and came away fairly sure
     a crash had occurred
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -469,7 +469,7 @@ references:
   quote: I came in skeptical and I came out pretty sure that there was a crash there
   claim_id: 284a69c3-31d6-4357-8c0e-86079d6366cd
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-284a69c3-31d6-4357-8c0e-86079d6366cd
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-284a69c3-31d6-4357-8c0e-86079d6366cd
 - text: Mitchells previously suspected a Nazi/WWII anti-gravity lineage was conflated
     with alien-craft reports
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -480,7 +480,7 @@ references:
     it with these alien things
   claim_id: e353db4c-2510-4aef-baf1-0031b1251902
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e353db4c-2510-4aef-baf1-0031b1251902
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e353db4c-2510-4aef-baf1-0031b1251902
 - text: After investigating several reported crashes, Mitchells concluded the crashes
     are real
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -489,7 +489,7 @@ references:
     real.
   claim_id: 76f85d31-bbcd-4e3c-b114-e2862257f83c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-76f85d31-bbcd-4e3c-b114-e2862257f83c
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-76f85d31-bbcd-4e3c-b114-e2862257f83c
 - text: Mitchells reasons that because the Air Force and CIA are always involved in
     crash cases, reverse engineering must be occurring
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -498,7 +498,7 @@ references:
     to be ... then like there has to be reverse engineering going on of those pieces.
   claim_id: 7a4fc626-29cb-4d80-9d41-604cf829ce46
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a4fc626-29cb-4d80-9d41-604cf829ce46
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a4fc626-29cb-4d80-9d41-604cf829ce46
 - text: The publicly known Pentagon UFO programmes had a budget of about 22 million
     US dollars
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -506,21 +506,21 @@ references:
   quote: We're talking about $22 million.
   claim_id: f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
 - text: A single F-35 Lightning II fighter jet costs 85 million US dollars
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:55:27.2-00:55:31.7
   quote: A single F-35 fighter jet is $85 million.
   claim_id: a180d156-bb7a-4e8d-9a62-25a1b1c00c41
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a180d156-bb7a-4e8d-9a62-25a1b1c00c41
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a180d156-bb7a-4e8d-9a62-25a1b1c00c41
 - text: A single B-2 Spirit stealth bomber costs over one billion US dollars
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:55:32.2-00:55:37.4
   quote: A B-2 stealth bomber is over a billion dollars. A single B-2 stealth bomber.
   claim_id: 9e250941-d7c2-4cfd-aebb-238f337028d7
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9e250941-d7c2-4cfd-aebb-238f337028d7
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9e250941-d7c2-4cfd-aebb-238f337028d7
 - text: Mitchells considers a 22 million dollar budget nonsensical as funding for
     reverse-engineering a recovered craft
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -529,7 +529,7 @@ references:
     makes zero sense.
   claim_id: a84b7e8e-89a0-4568-81ca-7c49fc545683
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
 - text: Mitchells believes the legacy programme Grush described probably involves
     hundreds of billions to trillions of dollars
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -538,14 +538,14 @@ references:
     if not trillions of dollars going into actually reverse engineering this stuff
   claim_id: cdc27bb1-54b9-4b2d-9b51-d0b456017133
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
 - text: Mitchells is interested in Thomas Townsend Brown and his anti-gravity research
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 01:09:56.6-01:09:59.5
   quote: I'm obsessed with, you know, Thomas Townsend Brown and his anti-gravity research.
   claim_id: 0c6f595b-5cfc-4a27-8e6b-efabad0b88ba
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0c6f595b-5cfc-4a27-8e6b-efabad0b88ba
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0c6f595b-5cfc-4a27-8e6b-efabad0b88ba
 - text: Agnew Bahnson funded top theoretical physicists, including Brown's anti-gravity
     experiments
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -555,7 +555,7 @@ references:
     working on anti-gravity, doing anti-gravity experiments.
   claim_id: 566c9374-89b2-473d-b128-342885b44c4b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-566c9374-89b2-473d-b128-342885b44c4b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-566c9374-89b2-473d-b128-342885b44c4b
 - text: Mitchells assesses that Bahnson appeared to be in contact with the phenomenon
     himself
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -564,7 +564,7 @@ references:
     he was in contact with stuff.
   claim_id: 9f931a42-a6e7-4a96-b1df-f6b18d4af4cb
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9f931a42-a6e7-4a96-b1df-f6b18d4af4cb
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9f931a42-a6e7-4a96-b1df-f6b18d4af4cb
 - text: William Neal McCasland ran the AFRL at Wright-Patterson, where Roswell wreckage
     was rumoured to have been taken
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -574,14 +574,14 @@ references:
     force research laboratory.
   claim_id: ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
 - text: Sekret Machines was inspired by conversations with McCasland
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 01:16:28.8-01:16:31.5
   quote: And it was inspired by conversations with General Neil McCasland
   claim_id: 78faea7f-b8b6-423b-886c-5346c4baf35b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-78faea7f-b8b6-423b-886c-5346c4baf35b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-78faea7f-b8b6-423b-886c-5346c4baf35b
 - text: McCasland has gone missing from his home in New Mexico
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 01:16:32.0-01:16:38.7
@@ -589,7 +589,7 @@ references:
     from his home in New Mexico.
   claim_id: 487fbf1f-fa4d-4f48-89fb-71224b810430
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-487fbf1f-fa4d-4f48-89fb-71224b810430
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-487fbf1f-fa4d-4f48-89fb-71224b810430
 - text: McCasland disappeared without a trace, leaving his phone behind and taking
     a gun
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -599,14 +599,14 @@ references:
     behind and he takes a gun.
   claim_id: e050daff-5391-4376-ab13-282a32830820
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e050daff-5391-4376-ab13-282a32830820
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e050daff-5391-4376-ab13-282a32830820
 - text: Tom DeLonge is the frontman of the band Blink-182
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:33:56.8-00:33:59.2
   quote: And then Tom DeLonge is the blink one 82 front man.
   claim_id: 4e6daba0-8a44-4045-a705-b28703b36143
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4e6daba0-8a44-4045-a705-b28703b36143
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4e6daba0-8a44-4045-a705-b28703b36143
 - text: Mitchells has very little doubt about DeLonge's sincerity, intelligence and
     organic interest in UFOs
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -616,7 +616,7 @@ references:
     in the topic
   claim_id: 59a88a7f-2be4-43d7-a70d-bc86eb3838a3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-59a88a7f-2be4-43d7-a70d-bc86eb3838a3
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-59a88a7f-2be4-43d7-a70d-bc86eb3838a3
 - text: Ben Rich was president of Lockheed Martin Skunk Works in the 1990s, responsible
     for modern stealth aircraft
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -626,7 +626,7 @@ references:
     sorry, he was responsible for modern stealth aircraft.
   claim_id: 69d5ae61-f507-4705-9906-660e60181526
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69d5ae61-f507-4705-9906-660e60181526
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69d5ae61-f507-4705-9906-660e60181526
 - text: Ben Rich wrote about an international corporate board of directors that deals
     with the UFO issue
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -635,7 +635,7 @@ references:
     with the UFO issue.
   claim_id: 1502e9b9-d483-4cc4-8aa9-609ee78309c9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1502e9b9-d483-4cc4-8aa9-609ee78309c9
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1502e9b9-d483-4cc4-8aa9-609ee78309c9
 - text: Brown encountered the Caroline Group, an international group of industrialists
     that appeared to absorb exotic technology
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -645,7 +645,7 @@ references:
     the exotic tech.
   claim_id: 83e32bd5-def5-4b60-95bf-b6a54933970b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-83e32bd5-def5-4b60-95bf-b6a54933970b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-83e32bd5-def5-4b60-95bf-b6a54933970b
 - text: Mitchells regards Nixon as a political outsider who wanted to force a reduction
     in the CIA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -654,7 +654,7 @@ references:
     on his shoulder was wanting to do forced reduction in the CIA.
   claim_id: 69f4e9f5-2ec6-405a-b0c4-7261cd091f8b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69f4e9f5-2ec6-405a-b0c4-7261cd091f8b
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69f4e9f5-2ec6-405a-b0c4-7261cd091f8b
 - text: Mitchells says the CIA was always against Nixon and he was ousted in a very
     artificial way
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -662,14 +662,14 @@ references:
   quote: He was always against him and was ousted. I think in a very artificial way.
   claim_id: 469b5d68-0322-44db-a27c-bdb323ee5e13
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-469b5d68-0322-44db-a27c-bdb323ee5e13
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-469b5d68-0322-44db-a27c-bdb323ee5e13
 - text: Eric Henry Wang ran special projects at Wright-Patterson Air Force Base
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 01:32:23.2-01:32:26.0
   quote: Eric Henry Wang who has ran special projects at wright patterson
   claim_id: e22118d8-b0e5-40c7-a6c1-c107717b114f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e22118d8-b0e5-40c7-a6c1-c107717b114f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e22118d8-b0e5-40c7-a6c1-c107717b114f
 - text: Maria Wang told Steinman her husband Eric Henry Wang had worked on UFOs and
     his boss was Henry Kissinger
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -677,7 +677,7 @@ references:
   quote: and she's like yes my husband did work on ufos and his boss was Henry Kissinger
   claim_id: 552c59cb-9442-4f0f-be9b-021cee2bf3c6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-552c59cb-9442-4f0f-be9b-021cee2bf3c6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-552c59cb-9442-4f0f-be9b-021cee2bf3c6
 - text: Mitchells believes Kissinger might have been tied in with the UFO subject
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 01:32:41.7-01:32:46.9
@@ -685,7 +685,7 @@ references:
     been tied in with the whole UFO thing
   claim_id: 8d476c2a-0e8e-40e7-94f5-8695f0df0597
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8d476c2a-0e8e-40e7-94f5-8695f0df0597
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8d476c2a-0e8e-40e7-94f5-8695f0df0597
 - text: Mitchells considers Kissinger more beholden to Nelson Rockefeller than to
     Nixon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -694,7 +694,7 @@ references:
     Nixon throughout his tenure as secretary of state under Nixon.
   claim_id: 8f6fdca9-a763-4a85-9287-5e2b9dfc4844
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8f6fdca9-a763-4a85-9287-5e2b9dfc4844
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8f6fdca9-a763-4a85-9287-5e2b9dfc4844
 - text: Quigley's The Anglo-American Establishment ties US intelligence agencies to
     a round-table culture linked to Rhodes and Milner
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -706,7 +706,7 @@ references:
     know counterparts in the U.S
   claim_id: 1ac26fe8-897c-42a3-adec-493e59dfb9fe
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1ac26fe8-897c-42a3-adec-493e59dfb9fe
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1ac26fe8-897c-42a3-adec-493e59dfb9fe
 - text: Mitchells assesses that pre-1947 informal intelligence networks persisted
     after the CIA was created
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -716,14 +716,14 @@ references:
     to persist in some shape or form
   claim_id: ac82aa34-8551-4714-b066-679715684252
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac82aa34-8551-4714-b066-679715684252
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac82aa34-8551-4714-b066-679715684252
 - text: The Congress of Vienna took place in 1815
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 02:19:11.2-02:19:12.4
   quote: 'Jason Samosa: Let''s say 1812 or something. Jesse Michels: 1815.'
   claim_id: 21764f80-990d-48f8-917a-29f25742786e
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-21764f80-990d-48f8-917a-29f25742786e
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-21764f80-990d-48f8-917a-29f25742786e
 - text: Klemens von Metternich oversaw the Congress of Vienna
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 02:19:17.3-02:19:21.2
@@ -731,7 +731,7 @@ references:
     the Congress of Vienna.'
   claim_id: ac2d428d-0b6a-4c90-9959-93ca615887f1
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac2d428d-0b6a-4c90-9959-93ca615887f1
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac2d428d-0b6a-4c90-9959-93ca615887f1
 - text: Mitchells says the Vatican confiscated a Fatima prophecy he believes was more
     complex than the historical portrayal
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -741,7 +741,7 @@ references:
     by the Vatican.
   claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5e7b7fe9-f609-459c-9502-a479c287d1c4
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5e7b7fe9-f609-459c-9502-a479c287d1c4
 - text: Mitchells considers the Majestic 12 documents probably a counter-intelligence
     ploy with some real material
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -750,7 +750,7 @@ references:
     stuff in there is real.
   claim_id: 2d6b40a9-0b3e-4c3d-a81b-32b25214ca85
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d6b40a9-0b3e-4c3d-a81b-32b25214ca85
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2d6b40a9-0b3e-4c3d-a81b-32b25214ca85
 - text: Mitchells says AFOSI recurs in UFO lore, seizing radar data and silencing
     witnesses after sightings
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -760,7 +760,7 @@ references:
     me all the radar data, shut up about this, sign this NDA.
   claim_id: c04e6a14-7418-41a8-a227-59169f0fa228
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c04e6a14-7418-41a8-a227-59169f0fa228
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c04e6a14-7418-41a8-a227-59169f0fa228
 - text: Mitchells wants Trump to release UFO documents to shift the Overton window
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:31:29.2-00:31:40.9
@@ -769,7 +769,7 @@ references:
     All of those things would be amazing second order effects of Trump releasing documents.
   claim_id: 9a8fb5f3-fb13-44db-83ab-46f995718ff0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9a8fb5f3-fb13-44db-83ab-46f995718ff0
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9a8fb5f3-fb13-44db-83ab-46f995718ff0
 - text: Mitchells says Trump called aliens real in a podcast, unchallenged by the
     interviewer
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -779,7 +779,7 @@ references:
     the interviewer never followed up on that. But he said they are real.
   claim_id: e1c61248-5a89-4c00-ba2c-a3440327a855
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e1c61248-5a89-4c00-ba2c-a3440327a855
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e1c61248-5a89-4c00-ba2c-a3440327a855
 - text: Mitchells says on James Corden's show Obama said there are unidentified things
     in the sky
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -788,7 +788,7 @@ references:
     we can identify and we don't know what they are.
   claim_id: 55c158b5-2933-462c-8067-d1edb52a31ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-55c158b5-2933-462c-8067-d1edb52a31ea
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-55c158b5-2933-462c-8067-d1edb52a31ea
 - text: Mitchells views Obama's remark as a deliberately staged litmus test of public
     reaction
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -798,7 +798,7 @@ references:
     The whole thing was staged with this very friendly, you know, very left wing interviewer
   claim_id: b6543b22-3cb0-4fac-90c7-3a8908ec5d66
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b6543b22-3cb0-4fac-90c7-3a8908ec5d66
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b6543b22-3cb0-4fac-90c7-3a8908ec5d66
 - text: Mitchells says Shawn Ryan and Tucker Carlson describe the UFO phenomenon as
     spiritual and demonic
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -807,7 +807,7 @@ references:
     think it's spiritual. We think it's demonic.
   claim_id: 93060288-2c86-466e-be56-8d43bf31a800
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-93060288-2c86-466e-be56-8d43bf31a800
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-93060288-2c86-466e-be56-8d43bf31a800
 - text: Mitchells regards disclosure as a personal process, not a line in the sand
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:31:03.2-00:31:16.5
@@ -817,7 +817,7 @@ references:
     to some other group
   claim_id: 3dd39524-14b1-4873-a029-6b88f500c9cc
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3dd39524-14b1-4873-a029-6b88f500c9cc
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3dd39524-14b1-4873-a029-6b88f500c9cc
 - text: Mitchells says cult creation around a single contactee with a near-term prophecy
     recurs in ufology
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -827,7 +827,7 @@ references:
     mythology and... often there's a prophecy involved
   claim_id: 23c255c7-50ed-4c23-835a-c5bd4e8660a0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-23c255c7-50ed-4c23-835a-c5bd4e8660a0
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-23c255c7-50ed-4c23-835a-c5bd4e8660a0
 - text: Louis Jolyon West was one of the architects of Project MKUltra
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:11:37.5-00:11:41.1
@@ -835,21 +835,21 @@ references:
     MKUltra
   claim_id: 80de9b37-daca-467d-acf0-e04b331091af
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-80de9b37-daca-467d-acf0-e04b331091af
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-80de9b37-daca-467d-acf0-e04b331091af
 - text: West was head of the UCLA Department of Psychiatry
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:11:41.7-00:11:44.4
   quote: he was the head of UCLA psychiatry out in LA actually
   claim_id: 87dd4c5d-198c-447a-8e4e-c6de2b35d331
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-87dd4c5d-198c-447a-8e4e-c6de2b35d331
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-87dd4c5d-198c-447a-8e4e-c6de2b35d331
 - text: West was strongly interested in cult creation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:11:50.7-00:11:53.8
   quote: But his whole thing was he was really interested in cult creation.
   claim_id: eced6ad2-a712-4a4b-9533-6f716b605f64
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-eced6ad2-a712-4a4b-9533-6f716b605f64
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-eced6ad2-a712-4a4b-9533-6f716b605f64
 - text: Mitchells says there are theories West might have brainwashed Charles Manson
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:11:45.5-00:11:49.3
@@ -857,7 +857,7 @@ references:
     Manson.
   claim_id: cd0cf9ef-1e04-457a-8437-c75404320924
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd0cf9ef-1e04-457a-8437-c75404320924
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd0cf9ef-1e04-457a-8437-c75404320924
 - text: Mitchells considers MKUltra-era psychology research keenly interested in cult
     creation as subversion
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -867,7 +867,7 @@ references:
     those are kind of inherently subversive organizations.
   claim_id: 984dc81f-6bcc-42b9-b615-9b82c48e1653
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-984dc81f-6bcc-42b9-b615-9b82c48e1653
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-984dc81f-6bcc-42b9-b615-9b82c48e1653
 - text: Angels and demons have existed as concepts for millennia, traditionally playing
     tricks and smelling of sulphur
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -876,7 +876,7 @@ references:
     on you or whatever. And they, they smell like sulfur.
   claim_id: 23fb5f2e-4e36-4e74-a33e-f4a8016c3029
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-23fb5f2e-4e36-4e74-a33e-f4a8016c3029
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-23fb5f2e-4e36-4e74-a33e-f4a8016c3029
 - text: Mitchells says some traditional angel/demon attributes match the UFO phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:22:16.0-00:22:22.1
@@ -884,7 +884,7 @@ references:
     attributes seem to match up with some of these things.
   claim_id: af72ee9c-c70d-4a28-87ec-af01fb089f77
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-af72ee9c-c70d-4a28-87ec-af01fb089f77
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-af72ee9c-c70d-4a28-87ec-af01fb089f77
 - text: 'The Lindy effect: how long an idea has survived indicates its value and future
     longevity'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -894,7 +894,7 @@ references:
     it's expected future age.
   claim_id: 54c2c8d7-642f-4a46-9bc7-cb291775ac8f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-54c2c8d7-642f-4a46-9bc7-cb291775ac8f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-54c2c8d7-642f-4a46-9bc7-cb291775ac8f
 - text: Mitchells considers Plato and the Bible probably more valuable than recent
     works, by the Lindy measure
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -903,7 +903,7 @@ references:
     know the pet shop boys or something, you know, some like random contemporary thing.
   claim_id: 0559d2ac-36ed-435f-85c7-35ee770d1745
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0559d2ac-36ed-435f-85c7-35ee770d1745
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0559d2ac-36ed-435f-85c7-35ee770d1745
 - text: Mitchells says Vallée advises experiencers and abductees to want to be rid
     of the phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -913,14 +913,14 @@ references:
     experience or an abductee or whatever.
   claim_id: abc41a43-0cac-4770-87ef-7ce2cc2367ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-abc41a43-0cac-4770-87ef-7ce2cc2367ea
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-abc41a43-0cac-4770-87ef-7ce2cc2367ea
 - text: Mitchells says Vallée often discusses fallen angels in connection with UFOs
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 00:22:33.2-00:22:35.6
   quote: Um, and he often talks about fallen angels himself.
   claim_id: ce92faec-b043-4a86-a22e-f2044dfa9ac3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ce92faec-b043-4a86-a22e-f2044dfa9ac3
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ce92faec-b043-4a86-a22e-f2044dfa9ac3
 - text: The Lone Stars group member was a well-known remote viewer in the Stargate
     Project
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -928,7 +928,7 @@ references:
   quote: t of that group, he was a famous remote viewer involved in the Stargate program.
   claim_id: 98c16bbf-12fd-4c15-b3fc-5c8052918e21
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-98c16bbf-12fd-4c15-b3fc-5c8052918e21
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-98c16bbf-12fd-4c15-b3fc-5c8052918e21
 - text: The Lone Stars group member has spoken of working with Prince Hans-Adam II
     of Liechtenstein
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -936,7 +936,7 @@ references:
   quote: He talks about working with the Royal Prince of Lichtenstein, Hans Adams.
   claim_id: 600ce299-ad87-45bb-bad4-62e021eae67f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-600ce299-ad87-45bb-bad4-62e021eae67f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-600ce299-ad87-45bb-bad4-62e021eae67f
 - text: Mitchells considers the figure's outlook eschatological, holding Jesus will
     arrive on a flying saucer
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -945,14 +945,14 @@ references:
     or something. it's eschatological at its core.
   claim_id: d91bcbe7-3337-484a-ae3d-030a771377c6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d91bcbe7-3337-484a-ae3d-030a771377c6
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d91bcbe7-3337-484a-ae3d-030a771377c6
 - text: Mitchells believes Jesus was a real historical figure
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 2026-07-14, 02:03:54.5-02:03:56.2
   quote: I mean, I think he was a real historical figure.
   claim_id: 75da835f-8524-41ef-8cd5-b612c9c46b1f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-75da835f-8524-41ef-8cd5-b612c9c46b1f
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-75da835f-8524-41ef-8cd5-b612c9c46b1f
 - text: Mitchells frames the UFO field's divide as immanentising the eschaton versus
     restraining it
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -962,7 +962,7 @@ references:
     kind of intact.
   claim_id: 485f18cd-d383-4bce-b6e5-883cbb9a150d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
 - text: Mitchells notes hybridisation anecdotes come from senior CIA figures such
     as Jim Semivan
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -971,7 +971,7 @@ references:
     when it comes to people like Jim Sammivan
   claim_id: e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

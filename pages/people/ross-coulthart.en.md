@@ -417,7 +417,7 @@ references:
     journalist]'
   claim_id: 2271d260-8b9c-46d1-b9ce-ac04d3af620c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2271d260-8b9c-46d1-b9ce-ac04d3af620c
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2271d260-8b9c-46d1-b9ce-ac04d3af620c
 - text: Year-long investigation into UAP documented in a book and on camera
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:04:11.7-00:04:23.1
@@ -425,7 +425,7 @@ references:
     every moment, every revelation in a book and on camera.
   claim_id: 8741f993-3d50-40d4-ba94-95559b91b461
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-8741f993-3d50-40d4-ba94-95559b91b461
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-8741f993-3d50-40d4-ba94-95559b91b461
 - text: Westall school incident called Australia's, and the world's, most witnessed
     unexplained UAP sighting
   source: In Plain Sight
@@ -435,7 +435,7 @@ references:
     UAP sighting.
   claim_id: c020a973-4cfe-42f6-946e-6783498171cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c020a973-4cfe-42f6-946e-6783498171cf
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c020a973-4cfe-42f6-946e-6783498171cf
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c020a973-4cfe-42f6-946e-6783498171cf
 - text: Flier sent to Westall witnesses ahead of the 55th anniversary in April 2021,
     inviting interviews
@@ -446,7 +446,7 @@ references:
     by this author
   claim_id: bf359fd0-ece9-49b6-a8d8-f4313f96a008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
 - text: Friend's father, a Defence scientist, investigated Westall and wrote a secret
     report
@@ -456,7 +456,7 @@ references:
     the event and written a secret report about it for the Department
   claim_id: f0049d4c-f607-436a-a4ea-e2724e049137
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f0049d4c-f607-436a-a4ea-e2724e049137
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f0049d4c-f607-436a-a4ea-e2724e049137
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f0049d4c-f607-436a-a4ea-e2724e049137
 - text: A black Humber car collected the friend's father each morning after Westall
   source: In Plain Sight
@@ -466,7 +466,7 @@ references:
     day to the school'.
   claim_id: e1476186-821b-4df1-95ba-62655ec6a2cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
 - text: No Westall document has ever surfaced from Australian government archives
   source: In Plain Sight
@@ -475,7 +475,7 @@ references:
     archives, despite strenuous efforts by several researchers.
   claim_id: 5fe828e4-4b73-4f6e-b491-6977fa8bc840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
 - text: Coulthart in no doubt a secret Westall report was written
   source: In Plain Sight
@@ -484,7 +484,7 @@ references:
     doubt a report was written.
   claim_id: 56182c24-4122-4771-b54a-c1fda1b12bfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
 - text: Shane Ryan works at Australia's Parliament House in Canberra
   source: In Plain Sight
@@ -493,7 +493,7 @@ references:
     House in Canberra.
   claim_id: bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
 - text: Shane Ryan interviewed 122 Westall witnesses who saw a 'flying saucer'
   source: In Plain Sight
@@ -502,7 +502,7 @@ references:
     122 witnesses who clearly saw a 'flying saucer' at Westall.
   claim_id: 59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
 - text: Coulthart travelled to Exmouth, described as Australia's own Roswell
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -512,7 +512,7 @@ references:
     above Exmouth. Down Under's very own Roswell.
   claim_id: 4d3d3762-a1fb-4b97-8287-fb3addfab5dd
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d3d3762-a1fb-4b97-8287-fb3addfab5dd
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d3d3762-a1fb-4b97-8287-fb3addfab5dd
 - text: Craft hovered next to Annie's car travelling at 100 km/h during the 1991 sighting
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:35:47.6-00:35:51.7
@@ -520,7 +520,7 @@ references:
     100 kilometres an hour.
   claim_id: fff8dcdd-5e95-4a46-8d65-53095f32f880
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-fff8dcdd-5e95-4a46-8d65-53095f32f880
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-fff8dcdd-5e95-4a46-8d65-53095f32f880
 - text: Annie and two AFP officers cross-examined by Americans at the base
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:27:07.6-00:27:17.6
@@ -528,7 +528,7 @@ references:
     people in the base in the days following the incident.
   claim_id: f05b3817-314a-4b1b-9f89-c0a25719575f
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-f05b3817-314a-4b1b-9f89-c0a25719575f
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-f05b3817-314a-4b1b-9f89-c0a25719575f
 - text: Coulthart considers it a secret investigation intended to keep Annie quiet
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:27:45.3-00:27:57.8
@@ -536,7 +536,7 @@ references:
     into what Annie says that she saw. And they didn't want her to talk about it.
   claim_id: 0e2a228b-b680-4347-a4ae-3a35c48a91d8
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0e2a228b-b680-4347-a4ae-3a35c48a91d8
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0e2a228b-b680-4347-a4ae-3a35c48a91d8
 - text: Coulthart finds Annie's account consistent and credible
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:28:15.8-00:28:31.2
@@ -546,7 +546,7 @@ references:
     terms of credibility.
   claim_id: 5aeb9818-c0ba-412d-9521-f25070222887
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5aeb9818-c0ba-412d-9521-f25070222887
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5aeb9818-c0ba-412d-9521-f25070222887
 - text: Files show the Harold Holt anomaly witnessed by many, including Defence Department
     staff
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -556,7 +556,7 @@ references:
     occasions by people in our Defence Department.
   claim_id: eea10b68-c60e-441f-8f10-bd6201340bcb
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-eea10b68-c60e-441f-8f10-bd6201340bcb
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-eea10b68-c60e-441f-8f10-bd6201340bcb
 - text: Defence Department stopped Coulthart's crew from filming at Harold Holt
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:36:16.1-00:36:20.5
@@ -564,7 +564,7 @@ references:
     kicked us off.
   claim_id: bfb2c9cc-06b7-4cac-b79d-40897ffe0a1e
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bfb2c9cc-06b7-4cac-b79d-40897ffe0a1e
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bfb2c9cc-06b7-4cac-b79d-40897ffe0a1e
 - text: Crew pulled back to a hill approximately 10 km from Harold Holt
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:36:41.7-00:36:45.1
@@ -572,7 +572,7 @@ references:
     distant.
   claim_id: a1590a3c-cf91-4da5-9393-ec46f80b0c24
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
-  workbench_url: http://localhost:5173/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-a1590a3c-cf91-4da5-9393-ec46f80b0c24
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-a1590a3c-cf91-4da5-9393-ec46f80b0c24
 - text: Coulthart considers Project Blue Book largely for public show
   source: In Plain Sight
   location: ch10:378-464
@@ -580,7 +580,7 @@ references:
     for public show.
   claim_id: 3705ba2c-55df-49cc-be11-923aa23e0563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3705ba2c-55df-49cc-be11-923aa23e0563
 - text: Coulthart calls the 1985 USAF summary statement a blatant deceit
   source: In Plain Sight
@@ -588,7 +588,7 @@ references:
   quote: But this was a blatant deceit.
   claim_id: 97361b62-ca01-4a6e-9c70-c0b674a92d83
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
 - text: MJ-12 documents allegedly established Majestic 12 as the retrieval group
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -598,7 +598,7 @@ references:
     of non-human craft.
   claim_id: 5514e068-a8e9-42b7-8581-4f549cc0384a
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5514e068-a8e9-42b7-8581-4f549cc0384a
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5514e068-a8e9-42b7-8581-4f549cc0384a
 - text: Jonathan Caplan has researched UAP for over 50 years
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -606,7 +606,7 @@ references:
   quote: He has researched UAPs for over 50 years
   claim_id: d8cd4367-add9-446c-aedc-437e790a1dbe
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
 - text: Caplan authored the 2026 book Not For Disclosure
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -615,7 +615,7 @@ references:
     world's best kept secret
   claim_id: 8087690c-d72d-47c7-80f3-bbfc891c02fe
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8087690c-d72d-47c7-80f3-bbfc891c02fe
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8087690c-d72d-47c7-80f3-bbfc891c02fe
 - text: Caplan examined typography, printing, watermarks and terminology to verify
     MJ-12 provenance
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -625,7 +625,7 @@ references:
     the terminology used, the corroboration from other diaries.
   claim_id: 6390decf-8320-4706-a1f1-7c6077936208
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6390decf-8320-4706-a1f1-7c6077936208
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-6390decf-8320-4706-a1f1-7c6077936208
 - text: Caplan used Truman's and Eisenhower's diaries to corroborate the documents
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -634,7 +634,7 @@ references:
     to help you corroborate.
   claim_id: 663855c6-1333-4331-bcd7-e5165acb56da
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-663855c6-1333-4331-bcd7-e5165acb56da
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-663855c6-1333-4331-bcd7-e5165acb56da
 - text: Coulthart considers the MJ-12 files authentic beyond doubt
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -642,7 +642,7 @@ references:
   quote: I mean, no doubt whatsoever that they are authentic.
   claim_id: 042b5b1a-8907-4e58-ba7e-1bc3bc506823
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-042b5b1a-8907-4e58-ba7e-1bc3bc506823
 - text: Coulthart not fully convinced some subsequent MJ-12 documents weren't disinformation
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -652,7 +652,7 @@ references:
     documents.
   claim_id: c4744730-9b9e-4c60-95d7-99a0d16364f0
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c4744730-9b9e-4c60-95d7-99a0d16364f0
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c4744730-9b9e-4c60-95d7-99a0d16364f0
 - text: MJ-12 provenance officially disputed by the FBI and US military
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -661,7 +661,7 @@ references:
     and the US military.
   claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
-  workbench_url: http://localhost:5173/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
 - text: Roswell wreckage allegedly taken to Wright-Patterson Air Force Base
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -670,7 +670,7 @@ references:
     Air Force Base, where the Roswell wreckage was allegedly taken
   claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
 - text: John Audette told Coulthart about the Admiral Wilson meeting
   source: In Plain Sight
   location: ch14:14671-14910
@@ -680,7 +680,7 @@ references:
     me.
   claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
 - text: David Grusch, a whistleblower from inside the DOD and intelligence community
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -690,7 +690,7 @@ references:
     the Defense Department, the intelligence community
   claim_id: 5e92ffe6-af92-4e4b-8cd5-fcc4d5e44bd3
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-5e92ffe6-af92-4e4b-8cd5-fcc4d5e44bd3
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-5e92ffe6-af92-4e4b-8cd5-fcc4d5e44bd3
 - text: Grusch revealed a Legacy Program of retrieval and reverse engineering
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -699,7 +699,7 @@ references:
     and reverse engineering program.
   claim_id: 48a9b1f7-427c-4644-bfef-9482e2dced6d
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
 - text: Trump's remarks made at a cabinet meeting with Rubio and Hegseth, 2026-08-11
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -708,7 +708,7 @@ references:
     one side and Pete Hegseth on the other.
   claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
 - text: Trump said the administration is releasing a lot of extraterrestrial information
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -717,7 +717,7 @@ references:
     extraterrestrial, terrestrial things. And people are totally fascinated by it.
   claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
 - text: Trump said the release is trending number one
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -726,7 +726,7 @@ references:
     Can you believe it?
   claim_id: 95380823-f21a-4ab1-a720-cad3c79684b8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-95380823-f21a-4ab1-a720-cad3c79684b8
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-95380823-f21a-4ab1-a720-cad3c79684b8
 - text: Coulthart does not consider the war.gov material evidence of extraterrestrials
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -736,7 +736,7 @@ references:
     of extraterrestrials because, frankly, it isn't.
   claim_id: 5c840403-0043-457d-b537-795187d051b8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
 - text: Coulthart considers Trump's declassification initiative a positive sign
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -747,7 +747,7 @@ references:
     why they couldn't have been released a lot earlier than today.
   claim_id: e488957b-d09d-47cd-857c-5327e132f318
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
 - text: Jorjani said a remote viewer told him the CIA has DNA-database backdoor access
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -757,7 +757,7 @@ references:
     to consumer DNA databases like Ancestry.com and 23andMe.
   claim_id: 879880a5-ca0f-4fa0-9c4f-1003cc93e130
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-879880a5-ca0f-4fa0-9c4f-1003cc93e130
 - text: Jorjani said the access is used to screen for Nordic-alien genetic markers
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -767,7 +767,7 @@ references:
     planet with us.
   claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
 - text: Paul H. Smith, former US Army major and Stargate Project principal
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -776,7 +776,7 @@ references:
     of the US Army Stargate program.
   claim_id: cd496a07-2cf3-4961-b633-183e222b1f2a
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-cd496a07-2cf3-4961-b633-183e222b1f2a
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-cd496a07-2cf3-4961-b633-183e222b1f2a
 - text: Smith emailed Coulthart calling the DNA-database story 'balderdash'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -786,7 +786,7 @@ references:
     is, to put it mildly, balderdash. If you want details, I'm happy to supply them.
   claim_id: d6ad8c15-fbe2-43c5-bd07-0b1b38a5442e
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d6ad8c15-fbe2-43c5-bd07-0b1b38a5442e
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d6ad8c15-fbe2-43c5-bd07-0b1b38a5442e
 - text: Coulthart says he has no idea of the claims' veracity, calls them disputed
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -795,7 +795,7 @@ references:
     I can tell you is that they are disputed.
   claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
 - text: Strieber calls the beings he describes 'the visitors'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -803,7 +803,7 @@ references:
   quote: His experiences with the beings he calls the visitors
   claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
 - text: Communion was a New York Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -812,7 +812,7 @@ references:
     beings was a huge New York Times bestseller
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
 - text: Coulthart regards Strieber as a controversial, leading figure
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -821,7 +821,7 @@ references:
     experiencer close encounters
   claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
 - text: Coulthart attended a consciousness conference in Barcelona in 2025
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -829,7 +829,7 @@ references:
   quote: I went to a conference last year in Barcelona
   claim_id: 6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
 - text: Hameroff and Penrose discussed nonlocal consciousness at the conference
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -840,7 +840,7 @@ references:
     is a computer
   claim_id: ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
 - text: Coulthart says Spielberg has covered non-human intelligence intelligently
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -849,7 +849,7 @@ references:
     issue of non-human intelligence, I think, in an intelligent and provocative way.
   claim_id: 123d979a-8500-442b-a5b4-d828a51a61da
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-123d979a-8500-442b-a5b4-d828a51a61da
 - text: Coulthart takes issue with Spielberg's benevolent-only portrayal
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -858,7 +858,7 @@ references:
     beings as always benevolent, never a threat.
   claim_id: 57c756c8-2e00-4c33-adaf-57d11b5bb343
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
-  workbench_url: http://localhost:5173/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-57c756c8-2e00-4c33-adaf-57d11b5bb343
+  workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-57c756c8-2e00-4c33-adaf-57d11b5bb343
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

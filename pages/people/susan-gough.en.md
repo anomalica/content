@@ -38,7 +38,7 @@ references:
     correspondence
   claim_id: 0382a0ad-52b0-4b0e-b07a-6e7f2133345f
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-0382a0ad-52b0-4b0e-b07a-6e7f2133345f
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-0382a0ad-52b0-4b0e-b07a-6e7f2133345f
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-0382a0ad-52b0-4b0e-b07a-6e7f2133345f
 - text: Gough said the 2009 Harry Reid memo was authentic
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -48,7 +48,7 @@ references:
     change to previous statements.
   claim_id: b70779df-8f42-4690-b9b2-b9b04750709c
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b70779df-8f42-4690-b9b2-b9b04750709c
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b70779df-8f42-4690-b9b2-b9b04750709c
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b70779df-8f42-4690-b9b2-b9b04750709c
 - text: Gough said Elizondo had no assigned responsibilities for AATIP while in the
     Office of the Under Secretary of Defense for Intelligence
@@ -59,7 +59,7 @@ references:
     [the Office of Under Secretary of Defense for Intelligence].
   claim_id: c9180952-4586-428d-a5f9-f32a5cecc0af
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
 - text: Gough said the Department of Defense received the memo and responded to Reid
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -68,7 +68,7 @@ references:
   quote: DOD received it and responded to Sen. Reid,” Ms. Gough said.
   claim_id: 63804801-eb60-4ab6-a5b1-78c3ca89a6df
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-63804801-eb60-4ab6-a5b1-78c3ca89a6df
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-63804801-eb60-4ab6-a5b1-78c3ca89a6df
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-63804801-eb60-4ab6-a5b1-78c3ca89a6df
 - text: Gough said the DIA administered AATIP and that Elizondo was never assigned
     to the DIA
@@ -79,7 +79,7 @@ references:
     assigned to DIA.
   claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
 - text: Gough said Elizondo interacted with the DIA office managing AATIP while it
     was ongoing, but did not lead it
@@ -90,7 +90,7 @@ references:
     program was still ongoing, but he did not lead it.
   claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
-  workbench_url: http://localhost:5173/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
+  workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
   inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
 - text: Gough said an intelligence report had formally attributed some military UAP
     sightings to Chinese surveillance using ordinary drone technology
@@ -101,7 +101,7 @@ references:
     ordinary drone technology'.
   claim_id: 405fbf0d-e4e7-493b-8ee7-bf12003574e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-405fbf0d-e4e7-493b-8ee7-bf12003574e3
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-405fbf0d-e4e7-493b-8ee7-bf12003574e3
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-405fbf0d-e4e7-493b-8ee7-bf12003574e3
 - text: Gough admitted the Pentagon knew months before the Super Bowl-week shoot-downs
     that it was aware of potentially dangerous balloons or drones in American airspace
@@ -112,7 +112,7 @@ references:
     or drones in American airspace.
   claim_id: 2a22065c-f361-482e-b6eb-0f4b4895609a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a22065c-f361-482e-b6eb-0f4b4895609a
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a22065c-f361-482e-b6eb-0f4b4895609a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2a22065c-f361-482e-b6eb-0f4b4895609a
 built_by:
   model: claude-sonnet-5

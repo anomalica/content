@@ -82,7 +82,7 @@ references:
     program investigating UAP—and my role.
   claim_id: 190f7e48-b140-4b1d-9cb3-ec34249e52d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-190f7e48-b140-4b1d-9cb3-ec34249e52d7
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-190f7e48-b140-4b1d-9cb3-ec34249e52d7
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-190f7e48-b140-4b1d-9cb3-ec34249e52d7
 - text: The Times broke the AATIP story online on 2017-12-16, followed by Politico
     and the Washington Post
@@ -92,7 +92,7 @@ references:
     and was followed seconds later by Politico, then the Washington Post.
   claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d5d0286-272e-4904-b5dc-914d633d3389
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d5d0286-272e-4904-b5dc-914d633d3389
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2d5d0286-272e-4904-b5dc-914d633d3389
 - text: The Times published two AATIP articles on the Sunday print cover, 2017-12-17
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -101,7 +101,7 @@ references:
     of the Sunday paper.
   claim_id: 63b55542-1720-44c0-bfb0-516127d24bf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63b55542-1720-44c0-bfb0-516127d24bf5
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63b55542-1720-44c0-bfb0-516127d24bf5
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-63b55542-1720-44c0-bfb0-516127d24bf5
 - text: Pentagon officials acknowledged AATIP's existence, which began within the
     DIA, in response to Times questions
@@ -113,7 +113,7 @@ references:
     Agency.
   claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
 - text: AATIP investigated UFO reports for years, per DoD officials, participants,
     and Times-obtained records
@@ -125,7 +125,7 @@ references:
     and records obtained by The New York Times.
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
 - text: Contracts show a congressional appropriation of just under $22 million for
     AATIP, late 2008-2011
@@ -136,7 +136,7 @@ references:
     under $22 million beginning in late 2008 through 2011.
   claim_id: 78507acc-c6cb-4af6-85bc-73082cdae6a0
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
-  workbench_url: http://localhost:5173/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-78507acc-c6cb-4af6-85bc-73082cdae6a0
+  workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-78507acc-c6cb-4af6-85bc-73082cdae6a0
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-78507acc-c6cb-4af6-85bc-73082cdae6a0
 - text: TTSA's first two Pentagon UAP videos were timed for release alongside the
     Times, Politico, and Washington Post coverage
@@ -147,7 +147,7 @@ references:
     AATIP investigations into UAPs.
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9898cf75-2714-46d8-bb85-c5020299e488
 - text: Garry Reid notified a DoD security officer that Elizondo may have misused
     government systems
@@ -159,7 +159,7 @@ references:
     employment with OUSD (I).
   claim_id: 8004f6a1-51ab-4d38-9ec4-14de5462301d
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
-  workbench_url: http://localhost:5173/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
+  workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
 - text: Elizondo says aides told Mattis at the Pentagon Christmas party that the Times
     was running the story
@@ -170,7 +170,7 @@ references:
     resigned.”
   claim_id: 030b95ac-99f2-4d21-ac06-d32915135efd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-030b95ac-99f2-4d21-ac06-d32915135efd
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-030b95ac-99f2-4d21-ac06-d32915135efd
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-030b95ac-99f2-4d21-ac06-d32915135efd
 - text: Times reporter Helene Cooper phoned Elizondo about the story
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -179,7 +179,7 @@ references:
     that she had met with the now-r
   claim_id: 4e746c0c-4a1e-44c6-b996-49b40caf8982
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e746c0c-4a1e-44c6-b996-49b40caf8982
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e746c0c-4a1e-44c6-b996-49b40caf8982
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4e746c0c-4a1e-44c6-b996-49b40caf8982
 - text: Elizondo felt the Times' Tic Tac disclaimer was too cautious
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -188,7 +188,7 @@ references:
     "We are not alone!"
   claim_id: 29e5dfad-895b-4af8-b606-acc472458c00
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29e5dfad-895b-4af8-b606-acc472458c00
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29e5dfad-895b-4af8-b606-acc472458c00
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29e5dfad-895b-4af8-b606-acc472458c00
 - text: Brett Baer said on Fox News that people were taking the AATIP revelation seriously
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -199,7 +199,7 @@ references:
     story
   claim_id: ce4386e7-3e9e-4e31-a46a-fb924723d3f5
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
-  workbench_url: http://localhost:5173/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce4386e7-3e9e-4e31-a46a-fb924723d3f5
+  workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce4386e7-3e9e-4e31-a46a-fb924723d3f5
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-ce4386e7-3e9e-4e31-a46a-fb924723d3f5
 - text: A Navy commander called Fravor about a FOIA request before the Times' Nimitz
     article
@@ -212,7 +212,7 @@ references:
     the Nimitz incident.
   claim_id: 68e195c5-ff4b-4aa4-8754-a3104b6ea092
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
-  workbench_url: http://localhost:5173/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-68e195c5-ff4b-4aa4-8754-a3104b6ea092
+  workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-68e195c5-ff4b-4aa4-8754-a3104b6ea092
 - text: A friend persuaded Fravor to testify, arguing he'd add credibility to the
     Times article
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -223,7 +223,7 @@ references:
     Times article. And so after about six times I said OK.
   claim_id: caf8fd0c-5f8b-435e-bc2b-39757c972382
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  workbench_url: http://localhost:5173/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-caf8fd0c-5f8b-435e-bc2b-39757c972382
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-caf8fd0c-5f8b-435e-bc2b-39757c972382
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-caf8fd0c-5f8b-435e-bc2b-39757c972382
 - text: Eric Davis told the Times in July 2020 that the US held recovered physical
     UAP samples
@@ -234,7 +234,7 @@ references:
     he admitted that the US held recovered physical UAP samples.
   claim_id: d7f3e3b7-df38-4b33-bf02-c538ee95a848
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7f3e3b7-df38-4b33-bf02-c538ee95a848
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7f3e3b7-df38-4b33-bf02-c538ee95a848
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d7f3e3b7-df38-4b33-bf02-c538ee95a848
 - text: Davis told the Times he gave a March 2020 classified briefing on off-world
     vehicle retrievals
@@ -245,7 +245,7 @@ references:
     vehicles not made on this earth'.
   claim_id: ef5698fd-b32a-42e9-83e7-1beeb833c777
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef5698fd-b32a-42e9-83e7-1beeb833c777
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef5698fd-b32a-42e9-83e7-1beeb833c777
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ef5698fd-b32a-42e9-83e7-1beeb833c777
 - text: Kean said UFO crash-retrieval stories are hard to get published in the Times
   source: In Plain Sight
@@ -257,7 +257,7 @@ references:
     topic, as well as it being so sensational.
   claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
 - text: The Times reported most resolved UAP sightings were balloons or surveillance;
     recent cases had earthbound explanations
@@ -269,7 +269,7 @@ references:
     have turned out to have ordinary earthbound explanations.'
   claim_id: 957886fb-bf5d-4522-9364-05f0f301e043
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957886fb-bf5d-4522-9364-05f0f301e043
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957886fb-bf5d-4522-9364-05f0f301e043
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-957886fb-bf5d-4522-9364-05f0f301e043
 - text: Times readers were not shown the underlying intelligence report, to protect
     collection methods
@@ -280,7 +280,7 @@ references:
     protect intelligence collection methods.
   claim_id: c53e86ab-90cb-4970-a3de-f050187c2c6a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c53e86ab-90cb-4970-a3de-f050187c2c6a
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c53e86ab-90cb-4970-a3de-f050187c2c6a
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c53e86ab-90cb-4970-a3de-f050187c2c6a
 - text: The Times reported in January 1945 on German 'foo-fighter' lights alongside
     Allied aircraft
@@ -292,7 +292,7 @@ references:
     Times reported in January 1945.
   claim_id: bbe5c92a-94cc-42d6-816d-4d5f94205717
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbe5c92a-94cc-42d6-816d-4d5f94205717
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbe5c92a-94cc-42d6-816d-4d5f94205717
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bbe5c92a-94cc-42d6-816d-4d5f94205717
 - text: Times reporter Howard Blum revealed a secret Pentagon UFO Working Group in
     1990
@@ -304,7 +304,7 @@ references:
     orbit.
   claim_id: 96de708a-efb2-42ef-817a-7a9401820779
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96de708a-efb2-42ef-817a-7a9401820779
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96de708a-efb2-42ef-817a-7a9401820779
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-96de708a-efb2-42ef-817a-7a9401820779
 - text: Ralph Blumenthal was a contributor and former staff reporter for the Times
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -313,7 +313,7 @@ references:
     reporter for the *New York Times,* to see if he was interested.
   claim_id: 4183a186-c537-4941-9bdb-5b44c1e5aa80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  workbench_url: http://localhost:5173/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
   inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
 - text: Daniel Sheehan acted for the Times during the 1971 Pentagon Papers furore
   source: In Plain Sight
@@ -322,7 +322,7 @@ references:
     Papers leak in 1971
   claim_id: e63ecc2f-2724-4d25-b32a-1c80f7541735
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e63ecc2f-2724-4d25-b32a-1c80f7541735
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e63ecc2f-2724-4d25-b32a-1c80f7541735
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e63ecc2f-2724-4d25-b32a-1c80f7541735
 - text: Kean's brother's only online trace was a three-sentence Times obituary
   source: Surviving Death
@@ -334,7 +334,7 @@ references:
     come up.
   claim_id: 589a312f-c46e-4893-9281-4cbb0a264eab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-589a312f-c46e-4893-9281-4cbb0a264eab
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-589a312f-c46e-4893-9281-4cbb0a264eab
 - text: Mona Simpson's Times op-ed eulogy described her brother's experience before
     he died
   source: Surviving Death
@@ -343,7 +343,7 @@ references:
     Sister's Eulogy for Steve Jobs," New York Times, October 30, 2011 (op-ed).
   claim_id: 35d0110a-8d38-4581-bc80-9acfbddd9746
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
-  workbench_url: http://localhost:5173/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-35d0110a-8d38-4581-bc80-9acfbddd9746
+  workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-35d0110a-8d38-4581-bc80-9acfbddd9746
 - text: Strieber's Communion was a Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -352,7 +352,7 @@ references:
     beings was a huge New York Times bestseller
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
-  workbench_url: http://localhost:5173/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
 - text: Vallée cross-checked UFO group officers against the Times' database and Who's
     Who
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -363,7 +363,7 @@ references:
     available references as Who's Who.
   claim_id: 979aa4af-cb2c-4316-a344-7a15caca6acc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  workbench_url: http://localhost:5173/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-979aa4af-cb2c-4316-a344-7a15caca6acc
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-979aa4af-cb2c-4316-a344-7a15caca6acc
 - text: The Times' Walter Sullivan was among reporters introduced to an unidentified
     man at JPL, July 1969
   source: Dark Mission
@@ -374,7 +374,7 @@ references:
     being introduced, again by Bristow, to "great coat guy."
   claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
-  workbench_url: http://localhost:5173/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-55e6e833-2a8f-416d-bebc-61d8ed70bc95
+  workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-55e6e833-2a8f-416d-bebc-61d8ed70bc95
 - text: r/UFOs had 70,000 members in 2017 when the Times' Pentagon UFO article was
     published
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -383,7 +383,7 @@ references:
     had 70,000 people on it.
   claim_id: ed151582-997f-4c27-9d01-ff6da248dc95
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
-  workbench_url: http://localhost:5173/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ed151582-997f-4c27-9d01-ff6da248dc95
+  workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ed151582-997f-4c27-9d01-ff6da248dc95
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

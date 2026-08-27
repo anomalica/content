@@ -13,7 +13,7 @@ references:
     the head of the United States Air Materiel Command
   claim_id: 2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
 - text: Twining was head of the United States Army Air Materiel Command.
   source: In Plain Sight
@@ -21,7 +21,7 @@ references:
   quote: the head of the United States Air Materiel Command
   claim_id: d2515ba4-200b-4ae5-b855-b6b4bba980e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
 - text: Twining commanded the 15th Air Force.
   source: The Fourth Mind
@@ -29,7 +29,7 @@ references:
   quote: bombers of the 15th Air Force, which was commanded by General Nathan Twining
   claim_id: ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
 - text: Padre Pio reputedly appeared above San Giovanni Rotondo and turned back 15th
     Air Force bombers.
   source: The Fourth Mind
@@ -39,7 +39,7 @@ references:
     Twining, to turn back in confusion when they saw a monk standing in the sky.
   claim_id: 54444357-ad98-4e4f-b0e3-89ee1e984807
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-54444357-ad98-4e4f-b0e3-89ee1e984807
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-54444357-ad98-4e4f-b0e3-89ee1e984807
 - text: Twining's September 1947 letter called the phenomenon 'something real and
     not visionary or fictitious'.
   source: In Plain Sight
@@ -49,7 +49,7 @@ references:
     'something real and not visionary or fictitious'
   claim_id: 212f8aec-ad2a-4dba-901e-7a9bf594acfd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
 - text: The letter described the metallic discs' extreme rate of climb, manoeuvrability
     and evasive behaviour.
@@ -59,7 +59,7 @@ references:
     as extreme rates of climb and manoeuvrability, including evasion when detected
   claim_id: 7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
 - text: Twining wrote that the capabilities suggested the objects might be manually
     or remotely controlled.
@@ -69,7 +69,7 @@ references:
     either manually, or remotely'
   claim_id: 2b1f662f-115e-4816-8795-e10148594d81
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2b1f662f-115e-4816-8795-e10148594d81
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2b1f662f-115e-4816-8795-e10148594d81
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2b1f662f-115e-4816-8795-e10148594d81
 - text: The September 23, 1947 Twining Memo described extraordinary manoeuvrability
     and high speed.
@@ -80,7 +80,7 @@ references:
     extraordinary maneuverability and high speed
   claim_id: efefa49f-2a39-4aec-b069-1f3214e5646c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-efefa49f-2a39-4aec-b069-1f3214e5646c
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-efefa49f-2a39-4aec-b069-1f3214e5646c
 - text: Twining told the Army Air Forces the phenomenon was 'something real and not
     visionary or fictitious'.
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -90,7 +90,7 @@ references:
     was, quote, something real and not visionary or fictitious was going on.
   claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
-  workbench_url: http://localhost:5173/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
+  workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
 - text: Twining recommended a detailed study that became Project Sign.
   source: In Plain Sight
   location: ch8:1148-1223
@@ -98,7 +98,7 @@ references:
     Sign
   claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  workbench_url: http://localhost:5173/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
   inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41df29fa-62e9-409e-82d6-024099f70f30
 - text: Twining established Project SAUCER on 1947-12-30 to evaluate UFO reports of
     national security concern.
@@ -111,7 +111,7 @@ references:
     as of concern to the national security.
   claim_id: b0841f7c-bafd-486b-a81c-8f4a676bbe99
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  workbench_url: http://localhost:5173/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
 - text: Twining's son said his father privately stated that bodies were delivered
     along with the Roswell debris.
@@ -121,7 +121,7 @@ references:
     were bodies delivered Air Materiel along with the debris.
   claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
-  workbench_url: http://localhost:5173/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c7733738-e5d3-4be1-8d2b-879fa38664f7
+  workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c7733738-e5d3-4be1-8d2b-879fa38664f7
 ai_usage:
 - stage: digest
   model: claude-sonnet-5
