@@ -130,8 +130,6 @@ references:
     across a cattle ranch 120 kilometres from Roswell in New Mexico.
   claim_id: 890868b7-e305-4fe7-a90e-16ae0f1f211c
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
 - text: On 8 July 1947, Colonel William Blanchard ordered Walter Haut to issue a press
     release announcing that the US Army had recovered a flying disc.
   source: In Plain Sight (2021)
@@ -141,7 +139,6 @@ references:
     that the US Army had recovered a flying disc.
   claim_id: bcb749a0-b2b4-4477-aa16-775a892436ec
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bcb749a0-b2b4-4477-aa16-775a892436ec
 - text: The Roswell Army Air Force Base press release stated the intelligence office
     of the 509th Bomb Group had gained possession of a disc.
   source: In Plain Sight (2021)
@@ -153,7 +150,6 @@ references:
     a disc.'''
   claim_id: 5fdd33fe-d3ca-40bb-a894-42a3a17b9886
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-5fdd33fe-d3ca-40bb-a894-42a3a17b9886
 - text: The Roswell Daily Record ran the headline 'RAAF Captures Flying Saucer on
     Ranch in Roswell Region' on 8 July 1947.
   source: In Plain Sight (2021)
@@ -162,7 +158,6 @@ references:
     Record, 8 Jul 1947, p. 1.'
   claim_id: 8218b8fb-c3f8-4c1e-97f1-2034e4168cc5
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-8218b8fb-c3f8-4c1e-97f1-2034e4168cc5
 - text: General Ramey issued a statement three hours after the Roswell press release
     asserting the recovered disc was simply a weather balloon.
   source: In Plain Sight (2021)
@@ -172,7 +167,6 @@ references:
     was simply a weather balloon.
   claim_id: 6e5c5c76-5f80-4647-98fb-58ed08d1ba53
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6e5c5c76-5f80-4647-98fb-58ed08d1ba53
 - text: Jesse Marcel described a massive field of debris approximately 1,200 metres
     long and 60 to 90 metres wide, with a gouge extending up to 150 metres long.
   source: In Plain Sight (2021)
@@ -182,7 +176,6 @@ references:
     metres long, which looked as if 'something had touched down and skipped along'.
   claim_id: 4944bc70-1870-4261-92ac-aa181a6a5174
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-4944bc70-1870-4261-92ac-aa181a6a5174
 - text: Jesse Marcel later claimed the real debris he brought from Roswell was substituted
     by General Ramey with wreckage from a weather balloon, and that he believed what
     crashed was extra-terrestrial.
@@ -194,7 +187,6 @@ references:
     balloon, and that he actually believed what crashed at Roswell was extra-terrestrial.
   claim_id: 6cc29443-f922-4c56-bbd1-db58fb35d929
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6cc29443-f922-4c56-bbd1-db58fb35d929
 - text: Jesse Marcel told Stanton Friedman in retirement that what crashed at Roswell
     was extra-terrestrial, leading Friedman to allege a 'cosmic Watergate cover-up'.
   source: In Plain Sight (2021)
@@ -204,7 +196,6 @@ references:
     cover-up' of a recovered alien spacecraft and alien bodies.
   claim_id: 5c1e881d-c0f8-4ba1-8f7c-e3cd59e49974
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-5c1e881d-c0f8-4ba1-8f7c-e3cd59e49974
 - text: The US Air Force issued a 1994 report admitting the 1947 weather balloon story
     was false, claiming instead that the wreckage was from the top-secret Project
     MOGUL balloon designed to monitor Soviet nuclear tests.
@@ -215,7 +206,6 @@ references:
     as Project MOGUL.
   claim_id: cdcacfe1-6150-449a-a63b-c389dd0c1c4f
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-cdcacfe1-6150-449a-a63b-c389dd0c1c4f
 - text: The US General Accounting Office 1995 review found that not a single document
     from the Roswell Army Airfield in the crash period survived; every document relating
     to the 1947 incident was destroyed with no apparent authorisation.
@@ -227,7 +217,6 @@ references:
     incident was destroyed with no apparent authorisation.
   claim_id: dae67bac-64e4-40d3-a1d9-a2d54db03cf1
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-dae67bac-64e4-40d3-a1d9-a2d54db03cf1
 - text: Bill Clinton pushed for the General Accounting Office's 1995 review of all
     Roswell papers, which reported that the Roswell records were destroyed without
     authority.
@@ -238,7 +227,6 @@ references:
     authority.
   claim_id: 61bf738c-9ca8-4897-a69b-5d0e55815e87
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-61bf738c-9ca8-4897-a69b-5d0e55815e87
 - text: Walter Haut's 2002 affidavit described an apparent alien craft in a hangar
     approximately 3.6 to 4.6 metres in length, not quite as wide, about 1.8 metres
     high, and more egg-shaped.
@@ -249,7 +237,6 @@ references:
     and more of an egg shape.'
   claim_id: ead747ba-aafd-453e-836d-9f7658945307
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-ead747ba-aafd-453e-836d-9f7658945307
 - text: Walter Haut testified in a 2002 affidavit that he was taken by Colonel Blanchard
     to a hangar to view recovered child-sized bodies with abnormally large heads lying
     under a tarpaulin.
@@ -261,7 +248,6 @@ references:
     with abnormally large heads, lying under a tarpaulin at the base.
   claim_id: fc2a224a-163c-47f6-a6dd-3b27f2006d22
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-fc2a224a-163c-47f6-a6dd-3b27f2006d22
 - text: Don Schmitt stated that he and his co-author drafted Walter Haut's affidavit
     based on information Haut had provided over the years, and that Haut read and
     approved every word in the presence of his daughter, a notary, and another witness.
@@ -272,7 +258,6 @@ references:
     There was a notary present, there was another witness present.'''
   claim_id: f1defa37-f669-46e9-9a05-6bf378b5824a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f1defa37-f669-46e9-9a05-6bf378b5824a
 - text: Walter Haut signed the affidavit on 26 December 2002.
   source: In Plain Sight (2021)
   location: Chapter 2, endnote 21
@@ -280,7 +265,6 @@ references:
     to Roswell, Ch. 25.
   claim_id: 8be34584-c40c-45f1-9677-39ae03597084
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-8be34584-c40c-45f1-9677-39ae03597084
 - text: The US government initially disseminated a cover story claiming the Roswell
     crash was nothing more than a weather balloon, displaying pieces of Mylar for
     journalists to photograph.
@@ -291,7 +275,6 @@ references:
     out pieces of Mylar for journalists to photograph.
   claim_id: 1ff30879-711a-4529-8fc8-a739a8884ffc
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-1ff30879-711a-4529-8fc8-a739a8884ffc
 - text: For years, the US government claimed the Roswell crashed craft was part of
     Project MOGUL, described as an early attempt by the US Army Air Corps to detect
     Soviet atomic testing by affixing microphones to high-altitude balloons.
@@ -302,7 +285,6 @@ references:
     testing by affixing microphones to high-altitude balloons.
   claim_id: aa4e6036-1dcd-4b66-881f-f1fa446aa104
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-aa4e6036-1dcd-4b66-881f-f1fa446aa104
 - text: Luis Elizondo opined that the government has revised the Roswell cover story
     at least twice in the seventy-odd years since the incident.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -311,7 +293,6 @@ references:
     the ensuing seventy-odd years, replacing the first lie with more clever lies.
   claim_id: dc26a356-4624-4c5f-9c1a-22735e36935a
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-dc26a356-4624-4c5f-9c1a-22735e36935a
 - text: Harold Puthoff told Luis Elizondo that four deceased nonhuman bodies were
     recovered from the 1947 Roswell crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -320,14 +301,12 @@ references:
     nonhuman bodies were in fact recovered from the 1947 Roswell crash.
   claim_id: e56daff1-84e9-4ad5-b4bc-91594624059d
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-e56daff1-84e9-4ad5-b4bc-91594624059d
 - text: Harold Puthoff told Luis Elizondo that the Roswell UAP crash of 1947 was real.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraphs 20-22
   quote: '"Well… it all goes back to Roswell in 1947." … "Yes, Lue, it was real."'
   claim_id: 8d870abf-e239-4450-b5b0-373c26439293
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-8d870abf-e239-4450-b5b0-373c26439293
 - text: The Roswell UAP fell near a government test facility in New Mexico and broke
     into two crash sites.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -336,7 +315,6 @@ references:
     Mexico and broke into two crash sites.
   claim_id: ed75ea1c-86fe-4cc7-be32-0ffdd80b128a
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-ed75ea1c-86fe-4cc7-be32-0ffdd80b128a
 - text: It was hypothesised that the UAP that crashed at Roswell had been conducting
     reconnaissance on US atomic testing when an electromagnetic pulse generated from
     a nearby test range caused it to crash.
@@ -348,7 +326,6 @@ references:
     had inadvertently intervened with the craft's technology and caused it to crash.
   claim_id: d2961c05-157a-4f54-9b29-3d6d143ea5a5
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d2961c05-157a-4f54-9b29-3d6d143ea5a5
 - text: Harold Puthoff presented to Luis Elizondo the theory that the Roswell crash
     was caused by Department of Defense experiments with electromagnetic pulse (EMP)
     energy at a nearby test range.
@@ -360,7 +337,6 @@ references:
     bomb, at one of the nearby test ranges.
   claim_id: 1bd2c12c-4f7a-48bd-9931-3e4316a025fc
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-1bd2c12c-4f7a-48bd-9931-3e4316a025fc
 - text: Harold Puthoff theorised that if the Roswell aircraft was downed by an EMP,
     it would suggest the craft had a vulnerability in its propulsion, avionics, or
     life-support systems.
@@ -371,7 +347,6 @@ references:
     propulsion system? Its avionics, or electronics, systems? Its life-support systems?'
   claim_id: 7ea94ecf-3638-499d-b103-0da453619e14
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-7ea94ecf-3638-499d-b103-0da453619e14
 - text: 'Harold Puthoff was in possession of material allegedly recovered from the
     Roswell crash: an intricate and fragile piece with multiple microscopic layers
     of interlacing bismuth and magnesium and what appeared to be a beveled edge.'
@@ -382,7 +357,6 @@ references:
     interlacing bismuth and magnesium. It also seemed to have a beveled edge.
   claim_id: 632a4de9-4bd8-40de-9f72-cb5dc550a9be
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-632a4de9-4bd8-40de-9f72-cb5dc550a9be
 - text: Numerous witnesses associated with the 1947 Roswell crashes told government
     officials they saw hieroglyphics on various pieces of the debris, but were told
     not to discuss this publicly.
@@ -393,7 +367,6 @@ references:
     told not to discuss this publicly.
   claim_id: e9a5357d-9263-46c5-a161-b5b4e386ff52
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-e9a5357d-9263-46c5-a161-b5b4e386ff52
 - text: Annie Jacobsen wrote that in July 1947, US Signal Corps engineers tracked
     two anomalous objects flying across the south-western United States.
   source: In Plain Sight (2021)
@@ -403,7 +376,6 @@ references:
     to fly on
   claim_id: 34d9ee2e-4bdd-4831-8932-1bc4968360b5
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-34d9ee2e-4bdd-4831-8932-1bc4968360b5
 - text: Annie Jacobsen wrote that the office of the Joint Chiefs of Staff took command
     and control and recovered the airframe and some propulsion equipment, including
     the crashed craft's power plant.
@@ -414,7 +386,6 @@ references:
     crashed craft's power plant, or energy source
   claim_id: 14b7abd3-6ff6-4613-99b0-2a4a4b1ed5e1
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-14b7abd3-6ff6-4613-99b0-2a4a4b1ed5e1
 - text: Annie Jacobsen asserted that what crashed at Roswell was actually Russian,
     crafted by captured Nazi Germany scientists.
   source: In Plain Sight (2021)
@@ -423,7 +394,6 @@ references:
     Russian, crafted by captured Nazi Germany scientists
   claim_id: d2cdec8c-17a0-4d02-967f-fd39342485d2
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-d2cdec8c-17a0-4d02-967f-fd39342485d2
 - text: Annie Jacobsen claimed that bodies found on the Roswell craft were those of
     'grotesquely deformed' children with unusually large heads and abnormally-shaped
     oversize eyes.
@@ -433,7 +403,6 @@ references:
     unusually large heads and abnormally-shaped oversize eyes
   claim_id: 9d7fbe07-12b9-4010-b80f-3a9a7baa9872
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9d7fbe07-12b9-4010-b80f-3a9a7baa9872
 - text: Tom DeLonge told Joe Rogan that the Roswell crash was a Nazi-built Russian
     flying saucer, a claim also made by Annie Jacobsen.
   source: In Plain Sight (2021)
@@ -442,7 +411,6 @@ references:
     was a Nazi-built Russian flying saucer.
   claim_id: c91d8e11-318b-4411-9288-4af34a7f9bab
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c91d8e11-318b-4411-9288-4af34a7f9bab
 - text: According to the Art's Parts letters, the alleged Roswell crash debris included
     corpses of alien occupants sent to Wright-Patterson Air Force Base in Ohio.
   source: In Plain Sight (2021)
@@ -451,7 +419,6 @@ references:
     Air Force Base in Ohio
   claim_id: a617ae93-7e96-4d97-a0dd-497e8b2fbdc0
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-a617ae93-7e96-4d97-a0dd-497e8b2fbdc0
 - text: Edgar Mitchell confided to Harold Puthoff and Eric Davis that his family was
     among Roswell families threatened by the FBI after the famous Roswell crashes;
     FBI agents visited ranchers going door-to-door to deliver the message that if
@@ -464,7 +431,6 @@ references:
     if you speak about the crashes, you will be killed.'
   claim_id: 427de396-90de-4cf4-a03c-8fa9324bb257
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-427de396-90de-4cf4-a03c-8fa9324bb257
 - text: Credible sources told Luis Elizondo facts from several historic UAP crashes
     from which nonhuman bodies were recovered by the United States, in addition to
     the Roswell crash.
@@ -475,7 +441,6 @@ references:
     US, in addition to the Roswell crash.
   claim_id: aaaac1db-0f35-42db-b35a-7ec50b99d2d7
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-aaaac1db-0f35-42db-b35a-7ec50b99d2d7
 - text: Whitley Strieber told Senator Thurmond in a letter that US Army Brigadier
     General Arthur Exon had personally told him in 1989 that there was a 'completely
     unequivocal cover-up' of a retrieved alien craft at Roswell.
@@ -487,7 +452,6 @@ references:
     Truman on down'.
   claim_id: 3ad1d784-d37f-4fa6-9d14-1cb820ff8da3
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-3ad1d784-d37f-4fa6-9d14-1cb820ff8da3
 - text: In May 2001, aerospace illustrator Mark McCandlish testified to the Disclosure
     Project hearing at the National Press Club that the US government had successfully
     reverse-engineered a spacecraft retrieved from the 1947 Roswell crash site to
@@ -500,7 +464,6 @@ references:
     vehicles (ARVs).
   claim_id: 9eb92db3-2304-451b-9612-d53ae1b3fc77
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9eb92db3-2304-451b-9612-d53ae1b3fc77
 - text: Kenneth Arnold's 1947 UAP sighting occurred a couple of weeks before the Roswell
     crashes.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -509,7 +472,6 @@ references:
     of weeks before the Roswell crashes
   claim_id: a5ffc441-ccb3-4f34-9dc3-a6a5d4c42ccf
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-a5ffc441-ccb3-4f34-9dc3-a6a5d4c42ccf
 - text: President Bill Clinton stated that when he was president, every attempt was
     made to find out everything about Roswell, but many mysteries remain.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -519,7 +481,6 @@ references:
     There is a lot of stuff we don't know.
   claim_id: d2786444-da76-4a30-89a1-b697cf49159c
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d2786444-da76-4a30-89a1-b697cf49159c
 ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6

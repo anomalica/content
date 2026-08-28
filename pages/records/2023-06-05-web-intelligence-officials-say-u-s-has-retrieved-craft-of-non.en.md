@@ -21,8 +21,6 @@ references:
     intact craft of non-human origin.
   claim_id: e539e289-0b45-4cca-ab77-73d1824cb201
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-e539e289-0b45-4cca-ab77-73d1824cb201
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e539e289-0b45-4cca-ab77-73d1824cb201
 - text: Grusch alleges the classified information was illegally withheld from Congress
     and that he suffered illegal retaliation for his disclosures
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -32,8 +30,6 @@ references:
     disclosures, reported here for the first time.
   claim_id: 8471579c-cbbe-423b-b0b6-644f684f52bc
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-8471579c-cbbe-423b-b0b6-644f684f52bc
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-8471579c-cbbe-423b-b0b6-644f684f52bc
 - text: Grusch filed a complaint alleging illegal retaliation for his confidential
     disclosures
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -42,8 +38,6 @@ references:
     confidential disclosures, reported here for the first time.
   claim_id: 48f587d1-a6e4-480e-b001-786ecd90fd14
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-48f587d1-a6e4-480e-b001-786ecd90fd14
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-48f587d1-a6e4-480e-b001-786ecd90fd14
 - text: Other active and retired intelligence officials with knowledge of the programmes
     independently provided corroborating information
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -53,8 +47,6 @@ references:
     similar, corroborating information, both on and off the record.
   claim_id: b4dc6e6f-f48b-407b-839a-9e489ad530e0
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-b4dc6e6f-f48b-407b-839a-9e489ad530e0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b4dc6e6f-f48b-407b-839a-9e489ad530e0
 - text: Grusch is a veteran of the NGA and the NRO
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 11
@@ -62,8 +54,6 @@ references:
     National Reconnaissance Office (NRO).
   claim_id: f496602c-690b-4be8-b235-662945b477c1
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-f496602c-690b-4be8-b235-662945b477c1
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f496602c-690b-4be8-b235-662945b477c1
 - text: Grusch served as the NRO's representative to the UAP Task Force from 2019
     to 2021
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -72,8 +62,6 @@ references:
     Aerial Phenomena Task Force from 2019-2021.
   claim_id: 597dc0d0-9166-4510-b4b3-7f9ea252c172
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-597dc0d0-9166-4510-b4b3-7f9ea252c172
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-597dc0d0-9166-4510-b4b3-7f9ea252c172
 - text: From late 2021 to July 2022 Grusch was the NGA's co-lead for UAP analysis
     and its representative to the UAP Task Force
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -82,8 +70,6 @@ references:
     its representative to the task force.
   claim_id: 1c6e2ea3-7ce7-4e9b-9408-03e82d403a7d
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-1c6e2ea3-7ce7-4e9b-9408-03e82d403a7d
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-1c6e2ea3-7ce7-4e9b-9408-03e82d403a7d
 - text: Grusch reported that recoveries of partial fragments through to intact vehicles
     of non-human origin have been made for decades by the US government, its allies,
     and defence contractors
@@ -94,8 +80,6 @@ references:
     its allies, and defense contractors.
   claim_id: f96be0a2-3c25-4c67-a105-025d087ac530
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-f96be0a2-3c25-4c67-a105-025d087ac530
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f96be0a2-3c25-4c67-a105-025d087ac530
 - text: Analysis determined retrieved objects are of exotic origin based on vehicle
     morphologies, material science testing, and unique atomic arrangements and radiological
     signatures
@@ -107,8 +91,6 @@ references:
     atomic arrangements and radiological signatures,” he said.
   claim_id: 332cd731-eefc-4e49-a399-56a2a5931466
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-332cd731-eefc-4e49-a399-56a2a5931466
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-332cd731-eefc-4e49-a399-56a2a5931466
 - text: Grusch's on-the-record statements were cleared for open publication on 2023-04-04
     and 2023-04-06 by the Defense Office of Prepublication and Security Review
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -119,8 +101,6 @@ references:
     on April 4 and 6, 2023, in documents provided to us.
   claim_id: 5927745f-0197-42cd-b266-996edee23b76
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-5927745f-0197-42cd-b266-996edee23b76
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5927745f-0197-42cd-b266-996edee23b76
 - text: Grusch helped draft the language on UAP for the FY2023 National Defense Authorization
     Act
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -130,8 +110,6 @@ references:
     Defense Authorization Act]
   claim_id: fdf1d9b0-dae4-4267-95e6-7b5317c30e79
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-fdf1d9b0-dae4-4267-95e6-7b5317c30e79
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fdf1d9b0-dae4-4267-95e6-7b5317c30e79
 - text: The FY2023 NDAA was spearheaded by Senators Gillibrand and Rubio and signed
     into law by President Biden in December 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -140,8 +118,6 @@ references:
     law by President Biden in December 2022.
   claim_id: e3de5e1f-804b-448e-9d04-d676aa3c42da
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-e3de5e1f-804b-448e-9d04-d676aa3c42da
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e3de5e1f-804b-448e-9d04-d676aa3c42da
 - text: Grusch testified that UFO legacy programmes have long been concealed within
     multiple agencies without appropriate reporting to oversight authorities
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -151,8 +127,6 @@ references:
     without appropriate reporting to various oversight authorities.”
   claim_id: dc900632-1c36-465d-90f0-02ebf410fa67
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-dc900632-1c36-465d-90f0-02ebf410fa67
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-dc900632-1c36-465d-90f0-02ebf410fa67
 - text: Grusch described a decades-long covert competition with near-peer adversaries
     to retrieve UAP crash and landing material for reverse engineering
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -164,8 +138,6 @@ references:
     national defense advantages.”
   claim_id: c61ebaf2-8990-48b2-987a-245b92fe1aa8
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c61ebaf2-8990-48b2-987a-245b92fe1aa8
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c61ebaf2-8990-48b2-987a-245b92fe1aa8
 - text: Beginning in 2022 Grusch provided Congress with hours of recorded classified
     information transcribed into hundreds of pages about the materials recovery programme
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -175,8 +147,6 @@ references:
     the materials recovery program.
   claim_id: 5a440478-821a-4a2f-8cdb-2905ba5403a9
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-5a440478-821a-4a2f-8cdb-2905ba5403a9
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5a440478-821a-4a2f-8cdb-2905ba5403a9
 - text: Congress has not been provided with any physical materials related to wreckage
     or other non-human objects
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -185,8 +155,6 @@ references:
     or other non-human objects.
   claim_id: c9c5e87b-d23c-43b1-8ee7-df1bb281e318
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c9c5e87b-d23c-43b1-8ee7-df1bb281e318
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c9c5e87b-d23c-43b1-8ee7-df1bb281e318
 - text: In May 2022 McCullough filed a Disclosure of Urgent Concern on Grusch's behalf
     with the ICIG about information Grusch gathered beginning in 2019
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -196,8 +164,6 @@ references:
     Grusch had gathered beginning in 2019 while working for the UAP Task Force.
   claim_id: 5cbdc79f-89fc-4f40-9ab5-6ec4a64148b5
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-5cbdc79f-89fc-4f40-9ab5-6ec4a64148b5
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-5cbdc79f-89fc-4f40-9ab5-6ec4a64148b5
 - text: The ICIG found Grusch's complaint credible and urgent in July 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 88
@@ -205,8 +171,6 @@ references:
     and urgent” in July 2022.
   claim_id: 34895bd7-5089-4f69-968c-e9f162d7cf04
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-34895bd7-5089-4f69-968c-e9f162d7cf04
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-34895bd7-5089-4f69-968c-e9f162d7cf04
 - text: A summary of Grusch's complaint was submitted to the Director of National
     Intelligence, the Senate Select Committee on Intelligence, and the House Permanent
     Select Committee on Intelligence
@@ -217,8 +181,6 @@ references:
     and the House Permanent Select Committee on Intelligence.
   claim_id: 45a6f168-adf9-41d2-a202-2463c672908c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-45a6f168-adf9-41d2-a202-2463c672908c
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-45a6f168-adf9-41d2-a202-2463c672908c
 - text: Karl E. Nell is a recently retired Army Colonel and former Army liaison for
     the UAP Task Force who worked with Grusch
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -228,16 +190,12 @@ references:
     with Grusch there, characterizes Grusch as “beyond reproach.”
   claim_id: a3bc6ab6-e218-4788-bacd-b901d5b4cef5
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a3bc6ab6-e218-4788-bacd-b901d5b4cef5
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a3bc6ab6-e218-4788-bacd-b901d5b4cef5
 - text: Nell characterises Grusch as beyond reproach
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 29
   quote: characterizes Grusch as “beyond reproach.”
   claim_id: c0d24f77-ece6-46a4-8aeb-e43c169b3546
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c0d24f77-ece6-46a4-8aeb-e43c169b3546
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c0d24f77-ece6-46a4-8aeb-e43c169b3546
 - text: Nell stated the assertion concerning a sub-rosa terrestrial arms race over
     eighty years focused on reverse engineering technologies of unknown origin is
     fundamentally correct
@@ -251,8 +209,6 @@ references:
     on the UAP Task Force.
   claim_id: 4b53f7d7-0f17-4197-a793-6a5ca3138629
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-4b53f7d7-0f17-4197-a793-6a5ca3138629
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4b53f7d7-0f17-4197-a793-6a5ca3138629
 - text: Jonathan Grey is an Intelligence Community officer with Top-Secret Clearance
     working at NASIC whose focus is UAP analysis
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -263,8 +219,6 @@ references:
     focus.
   claim_id: ec290c3d-c5ea-4035-8a74-64bd9163d2ff
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-ec290c3d-c5ea-4035-8a74-64bd9163d2ff
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ec290c3d-c5ea-4035-8a74-64bd9163d2ff
 - text: Grey stated that the non-human intelligence phenomenon is real and that humanity
     is not alone
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -272,8 +226,6 @@ references:
   quote: “The non-human intelligence phenomenon is real. We are not alone,” Grey said.
   claim_id: 61dc71c2-819f-441c-a2cd-7dc5b164a74d
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-61dc71c2-819f-441c-a2cd-7dc5b164a74d
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-61dc71c2-819f-441c-a2cd-7dc5b164a74d
 - text: Grey stated that retrievals of craft of non-human origin are a global phenomenon
     and that a global solution continues to elude us
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -282,8 +234,6 @@ references:
     global phenomenon, and yet a global solution continues to elude us.”
   claim_id: f9c41345-7e8a-4114-959c-6e104a743c00
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-f9c41345-7e8a-4114-959c-6e104a743c00
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-f9c41345-7e8a-4114-959c-6e104a743c00
 - text: Christopher Mellon spent nearly twenty years in the Intelligence Community
     and served as Deputy Assistant Secretary of Defense for Intelligence
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -293,8 +243,6 @@ references:
     has worked with Congress for years on unidentified aerial phenomena.
   claim_id: 737feb2d-89d9-41f5-b64c-eb7c69f220df
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-737feb2d-89d9-41f5-b64c-eb7c69f220df
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-737feb2d-89d9-41f5-b64c-eb7c69f220df
 - text: Well-placed current and former officials shared detailed information with
     Mellon about the alleged craft-retrieval programme, including its history, governing
     documents, and a location where a craft was allegedly recovered
@@ -306,8 +254,6 @@ references:
     and recovered,” Mellon said.
   claim_id: c210e285-8e0e-4241-b8ce-f848f3e8accf
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-c210e285-8e0e-4241-b8ce-f848f3e8accf
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c210e285-8e0e-4241-b8ce-f848f3e8accf
 - text: The first briefing Mellon facilitated on retrievals of unexplained objects
     was provided to staff of the Senate Armed Services Committee on 2019-10-21
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -318,8 +264,6 @@ references:
     by *The New York Times*.
   claim_id: efeaa4e9-2ece-4a31-8edd-8795fd7d8798
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-efeaa4e9-2ece-4a31-8edd-8795fd7d8798
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-efeaa4e9-2ece-4a31-8edd-8795fd7d8798
 - text: Garry Nolan is a Professor in the Department of Pathology at Stanford University
     who has applied laboratory technologies to the analysis of exotic materials
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -328,8 +272,6 @@ references:
     exotic materials, publishing the first peer-reviewed paper examining such materials.
   claim_id: 3452cafb-48a4-4715-b40e-b66e56732e2f
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-3452cafb-48a4-4715-b40e-b66e56732e2f
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-3452cafb-48a4-4715-b40e-b66e56732e2f
 - text: Andre Carson presided over the first open Congressional hearing on UAP since
     1968 in May 2022
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -338,8 +280,6 @@ references:
     UAP since 1968.
   claim_id: a948c52f-97ab-49a2-b86f-bc38bc526dd3
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
-  workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a948c52f-97ab-49a2-b86f-bc38bc526dd3
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

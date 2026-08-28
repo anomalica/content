@@ -20,8 +20,6 @@ references:
     that “shocked the world,” the narrator of “Unidentified” declares
   claim_id: eb1267ac-2680-4a3e-8189-c32b3968a58c
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-eb1267ac-2680-4a3e-8189-c32b3968a58c
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-eb1267ac-2680-4a3e-8189-c32b3968a58c
 - text: Elizondo is described as a former military intelligence case officer
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -30,8 +28,6 @@ references:
     out warily through half-drawn window shades.
   claim_id: d2eaa05a-f1fa-4933-9591-e31c8073ebe2
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-d2eaa05a-f1fa-4933-9591-e31c8073ebe2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-d2eaa05a-f1fa-4933-9591-e31c8073ebe2
 - text: The show's narrator states Elizondo ran a clandestine UFO programme for eight
     years
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -41,8 +37,6 @@ references:
     years, the secret program was run by this man, Lue Elizondo.”
   claim_id: 65d782ad-1c0a-42d9-a39d-978e2f1eda62
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-65d782ad-1c0a-42d9-a39d-978e2f1eda62
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-65d782ad-1c0a-42d9-a39d-978e2f1eda62
 - text: Elizondo quit the Pentagon frustrated by what he describes as a cover-up
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -51,8 +45,6 @@ references:
     by what he says was a cover-up.”
   claim_id: d9712dba-1528-43a6-8b21-4ca93fce7a20
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-d9712dba-1528-43a6-8b21-4ca93fce7a20
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-d9712dba-1528-43a6-8b21-4ca93fce7a20
 - text: In Unidentified, Elizondo re-investigates UFO incidents he says he learned
     of while running AATIP at the Pentagon
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -63,8 +55,6 @@ references:
     Threat Identification Program, known as AATIP.
   claim_id: 39bd3790-7770-4258-8277-9987d94c6f1f
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-39bd3790-7770-4258-8277-9987d94c6f1f
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-39bd3790-7770-4258-8277-9987d94c6f1f
 - text: Kloor states there is no discernible evidence Elizondo ever worked for a government
     UFO programme
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -74,8 +64,6 @@ references:
     program, much less led one.
   claim_id: b0e04870-3360-4e9c-9469-79f5344f6c7d
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-b0e04870-3360-4e9c-9469-79f5344f6c7d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b0e04870-3360-4e9c-9469-79f5344f6c7d
 - text: Pentagon spokesperson Sherwood confirmed AATIP existed and pursued research
     into UAP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -85,8 +73,6 @@ references:
     aerial phenomena,” Pentagon spokesperson Christopher Sherwood told me.
   claim_id: 730b830c-8da5-48cd-8ecf-d6cc754a275e
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-730b830c-8da5-48cd-8ecf-d6cc754a275e
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-730b830c-8da5-48cd-8ecf-d6cc754a275e
 - text: Sherwood stated Elizondo had no responsibilities with regard to AATIP while
     working at OUSDI
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -97,8 +83,6 @@ references:
     up until the time he resigned effective 10/4/2017.”
   claim_id: 3265e4c4-9dbe-4e08-9493-df071d339805
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-3265e4c4-9dbe-4e08-9493-df071d339805
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-3265e4c4-9dbe-4e08-9493-df071d339805
 - text: Elizondo joined To The Stars Academy several days after resigning from the
     Department of Defense in October 2017
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -108,8 +92,6 @@ references:
     from the Department of Defense.
   claim_id: 45f43393-7999-4411-b499-b8fb521bbf9d
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-45f43393-7999-4411-b499-b8fb521bbf9d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-45f43393-7999-4411-b499-b8fb521bbf9d
 - text: Tom DeLonge is the musician co-founder of To The Stars Academy and the show's
     executive producer
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -119,8 +101,6 @@ references:
     in October 2017, several days after he resigned from the Department of Defense.
   claim_id: 36eb7757-0e84-4840-8e20-1ce514c6c67b
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-36eb7757-0e84-4840-8e20-1ce514c6c67b
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-36eb7757-0e84-4840-8e20-1ce514c6c67b
 - text: To The Stars raised more than $2 million from investors and was hyped as exploring
     the outer edges of science
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -130,8 +110,6 @@ references:
     hyped as a UFO research company that would explore the “outer edges of science,”
   claim_id: 5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5756d4c7-d6a8-421c-99a6-f7b7cb3bbbd1
 - text: To The Stars Academy's SEC filing identifies it as a Motion Picture & Video
     Tape Production concern
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -141,8 +119,6 @@ references:
     & Video Tape Production” concern.
   claim_id: b31a9391-00bb-4142-912d-f3196caa6fdf
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b31a9391-00bb-4142-912d-f3196caa6fdf
 - text: Pentagon spokeswoman Dana White confirmed to Politico that AATIP existed and
     was run by Elizondo
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -152,8 +128,6 @@ references:
     and was run by Elizondo,” Bryan Bender wrote in December 2017.
   claim_id: dbaf2ab0-73ae-411d-8f29-d81a23fd7858
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-dbaf2ab0-73ae-411d-8f29-d81a23fd7858
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-dbaf2ab0-73ae-411d-8f29-d81a23fd7858
 - text: Sherwood stated he cannot confirm White's statement that AATIP was run by
     Elizondo
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -163,8 +137,6 @@ references:
     White’s statement.
   claim_id: 85b21666-8475-4494-88d6-76f6a9a3ad94
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-85b21666-8475-4494-88d6-76f6a9a3ad94
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-85b21666-8475-4494-88d6-76f6a9a3ad94
 - text: Kari DeLonge told Greenewald that AATIP was initially run out of the DIA but
     Elizondo ran it from the Office of the Secretary of Defense
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -176,8 +148,6 @@ references:
     (USDI). Hope that clarifies.”
   claim_id: 46202482-586c-41a8-a9ac-548863395197
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-46202482-586c-41a8-a9ac-548863395197
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-46202482-586c-41a8-a9ac-548863395197
 - text: Elizondo's resignation letter does not mention AATIP or his role as its director
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -185,8 +155,6 @@ references:
   quote: The letter does not mention AATIP or Elizondo’s role as its director.
   claim_id: 68e8804d-0bd1-4d00-a020-9197e2ec9520
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-68e8804d-0bd1-4d00-a020-9197e2ec9520
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-68e8804d-0bd1-4d00-a020-9197e2ec9520
 - text: Elizondo provided no memorandums, emails, or paperwork connecting him to AATIP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -197,8 +165,6 @@ references:
     him to AATIP.
   claim_id: ceded069-a95d-4fec-b72e-d347d51c9653
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-ceded069-a95d-4fec-b72e-d347d51c9653
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-ceded069-a95d-4fec-b72e-d347d51c9653
 - text: Sherwood consulted OUSDI leadership including staff present since Elizondo's
     arrival to establish he had not worked for AATIP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -208,8 +174,6 @@ references:
     are “still there” from the time when Elizondo started working in the office.
   claim_id: 16a0cadc-0a43-4544-a795-a44006664a19
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-16a0cadc-0a43-4544-a795-a44006664a19
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-16a0cadc-0a43-4544-a795-a44006664a19
 - text: Elizondo was based at OUSDI from 2008 until his retirement in 2017
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -217,8 +181,6 @@ references:
   quote: where he was based from 2008 until his retirement in 2017.
   claim_id: 8b05a045-aa6b-4d4a-905a-38bb23d56e8e
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-8b05a045-aa6b-4d4a-905a-38bb23d56e8e
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-8b05a045-aa6b-4d4a-905a-38bb23d56e8e
 - text: Greenewald became increasingly sceptical when Freedom of Information Act requests
     and Pentagon conversations failed to verify Elizondo's claims
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -229,8 +191,6 @@ references:
     UFO program through FOIA requests and conversations with Pentagon representatives.
   claim_id: 01709a32-3719-415b-a1b2-b0745564fb28
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-01709a32-3719-415b-a1b2-b0745564fb28
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-01709a32-3719-415b-a1b2-b0745564fb28
 - text: George Knapp purchased 400 shares of To The Stars Academy stock in 2018 as
     a show of support
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -240,8 +200,6 @@ references:
     as an investment, but as a way to support their fledgling company and their work.”
   claim_id: 12d549bc-6b84-4812-a32e-559864267486
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-12d549bc-6b84-4812-a32e-559864267486
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-12d549bc-6b84-4812-a32e-559864267486
 - text: Knapp informed his employer at KLAS-TV and subsequently placed the shares
     in a trust to be donated to charity
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -251,8 +209,6 @@ references:
     at KLAS-TV in Las Vegas.
   claim_id: d4f72283-9878-4381-aca2-5a4fa1d71454
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-d4f72283-9878-4381-aca2-5a4fa1d71454
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-d4f72283-9878-4381-aca2-5a4fa1d71454
 - text: Helene Cooper described Elizondo as spooky and secretive but completely credible
     on The Daily podcast
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -262,8 +218,6 @@ references:
     as a “spooky, secretive guy” but added that he was “completely credible.”
   claim_id: ea19d5dd-25a8-4fa6-b8f0-9fc36f658d2f
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-ea19d5dd-25a8-4fa6-b8f0-9fc36f658d2f
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-ea19d5dd-25a8-4fa6-b8f0-9fc36f658d2f
 - text: After leaving the meeting Cooper acknowledged doubts, but decided the programme's
     existence was what mattered most
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -274,8 +228,6 @@ references:
     she said, was the focus of the story.
   claim_id: 9794dee6-e30c-4f80-8dcb-a0adb874d15d
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-9794dee6-e30c-4f80-8dcb-a0adb874d15d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-9794dee6-e30c-4f80-8dcb-a0adb874d15d
 - text: Elizondo arranged for the Pentagon to release F-18 cockpit camera videos just
     before he quit
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -286,8 +238,6 @@ references:
     to release just before he quit.
   claim_id: 55944b47-4526-496d-9762-2aae4ef035d7
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-55944b47-4526-496d-9762-2aae4ef035d7
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-55944b47-4526-496d-9762-2aae4ef035d7
 - text: Elizondo appeared on cable news talking about hypersonic, gravity-defying
     unidentified aerial vehicles encroaching on military airspace
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -299,8 +249,6 @@ references:
     training areas in restricted airspace.
   claim_id: 9413d84a-1cbc-4df7-8fdd-cceaecfc2606
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-9413d84a-1cbc-4df7-8fdd-cceaecfc2606
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-9413d84a-1cbc-4df7-8fdd-cceaecfc2606
 - text: Tom DeLonge claims he is the military's chosen vessel for UFO disclosure
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -308,8 +256,6 @@ references:
   quote: In sum, DeLonge claims that he is the military’s chosen vessel for UFO disclosure.
   claim_id: 7c6ca71c-759d-4661-a615-6d902739b743
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-7c6ca71c-759d-4661-a615-6d902739b743
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-7c6ca71c-759d-4661-a615-6d902739b743
 - text: Fox & Friends did not mention Mellon's connection to To The Stars Academy
     or that Unidentified was made by the company
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -320,8 +266,6 @@ references:
     for.
   claim_id: a4f60313-8c8c-47ff-a77f-f41df7f458cf
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-a4f60313-8c8c-47ff-a77f-f41df7f458cf
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-a4f60313-8c8c-47ff-a77f-f41df7f458cf
 - text: Elizondo alluded in his resignation letter to internal opposition to investigating
     UFOs and implied he was leaving because the Pentagon was not taking the threat
     seriously
@@ -334,8 +278,6 @@ references:
     the Pentagon wasn’t taking that threat seriously.
   claim_id: eb27aec0-a5b4-4ce3-9e2a-3e8a66e3efd8
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-eb27aec0-a5b4-4ce3-9e2a-3e8a66e3efd8
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-eb27aec0-a5b4-4ce3-9e2a-3e8a66e3efd8
 - text: Public records show Elizondo lived near intelligence facilities in Toa Baja,
     Puerto Rico and Grovetown, Georgia
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -347,8 +289,6 @@ references:
     “Echelon”) and in Grovetown, Georgia.
   claim_id: 9b2a1827-5458-42f9-9c22-ca6a430c33c7
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
-  workbench_url: https://workbench.anomalica.is/1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f#claim-9b2a1827-5458-42f9-9c22-ca6a430c33c7
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-9b2a1827-5458-42f9-9c22-ca6a430c33c7
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

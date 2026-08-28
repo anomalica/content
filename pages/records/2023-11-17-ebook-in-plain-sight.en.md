@@ -20,8 +20,6 @@ references:
     top award for Australian journalism, the Gold Walkley.
   claim_id: c62acd37-3ab2-4988-968f-0dfc615f9962
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-c62acd37-3ab2-4988-968f-0dfc615f9962
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c62acd37-3ab2-4988-968f-0dfc615f9962
 - text: Annie Farinaccio witnessed a diamond-shaped craft hovering near the Harold
     Holt Naval Communications Station in late 1991.
   source: In Plain Sight
@@ -31,8 +29,6 @@ references:
     but not as dark as the night sky. It was 100 feet above us at most.
   claim_id: d63f3086-5fd3-41af-b416-7cd8f980b384
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-d63f3086-5fd3-41af-b416-7cd8f980b384
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d63f3086-5fd3-41af-b416-7cd8f980b384
 - text: In 1930, RAAF Squadron Leader George Jones was sent to investigate reports
     of mystery aircraft over the Victorian coast.
   source: In Plain Sight
@@ -43,8 +39,6 @@ references:
     aircraft seen flying inland over the coast.
   claim_id: ad9e6a86-fe70-42ab-b648-68485938094a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-ad9e6a86-fe70-42ab-b648-68485938094a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad9e6a86-fe70-42ab-b648-68485938094a
 - text: Joy Clarke was a twelve-year-old pupil at Westall High School when the Westall
     UAP sighting occurred on 6 April 1966.
   source: In Plain Sight
@@ -53,8 +47,6 @@ references:
     the 10.30 am recess at Westall High School in Melbourne, Australia
   claim_id: f9df8d14-f10f-4784-8afb-29912ff83f17
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f9df8d14-f10f-4784-8afb-29912ff83f17
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f9df8d14-f10f-4784-8afb-29912ff83f17
 - text: Two Royal Australian Air Force sighting reports detail the North West Cape
     UAP incident of 25 October 1973.
   source: In Plain Sight
@@ -64,8 +56,6 @@ references:
     North West Cape
   claim_id: b64b0853-2402-49b0-9ad0-8c938151c148
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-b64b0853-2402-49b0-9ad0-8c938151c148
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b64b0853-2402-49b0-9ad0-8c938151c148
 - text: Ranch foreman Mac Brazel found crash debris on 5 July 1947 on a cattle ranch
     about 120 kilometres from Roswell, New Mexico.
   source: In Plain Sight
@@ -74,8 +64,6 @@ references:
     across a cattle ranch 120 kilometres from Roswell in New Mexico.
   claim_id: 890868b7-e305-4fe7-a90e-16ae0f1f211c
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
 - text: The USS Nimitz was conducting training with its carrier strike group off the
     California coast in November 2004.
   source: In Plain Sight
@@ -86,8 +74,6 @@ references:
     strike group before deploying to the Middle East
   claim_id: bfdf8359-6c56-4f5b-b5fa-875350cbf9c0
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bfdf8359-6c56-4f5b-b5fa-875350cbf9c0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bfdf8359-6c56-4f5b-b5fa-875350cbf9c0
 - text: Kevin Day was interviewed by the author on 22 and 23 March 2021 about the
     2004 Nimitz encounter.
   source: In Plain Sight
@@ -95,8 +81,6 @@ references:
   quote: Kevin Day, interview with author, 22 and 23 Mar 2021.
   claim_id: 859cbe29-1030-4bfa-b740-8e2fae1e6cc3
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-859cbe29-1030-4bfa-b740-8e2fae1e6cc3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-859cbe29-1030-4bfa-b740-8e2fae1e6cc3
 - text: Robert Bigelow self-funded the creation of the National Institute for Discovery
     Science in 1995.
   source: In Plain Sight
@@ -105,8 +89,6 @@ references:
     Science, better known as NIDS.
   claim_id: 5208a28f-e8b1-4841-8cb5-6b143d4670a4
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-5208a28f-e8b1-4841-8cb5-6b143d4670a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5208a28f-e8b1-4841-8cb5-6b143d4670a4
 - text: Eric Davis started working for the National Institute for Discovery Science
     in July 1996.
   source: In Plain Sight
@@ -119,8 +101,6 @@ references:
     in July 1996.
   claim_id: 6b03ff99-e4af-4132-8cee-37736e532ba9
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-6b03ff99-e4af-4132-8cee-37736e532ba9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6b03ff99-e4af-4132-8cee-37736e532ba9
 - text: Tom DeLonge announced the formation of To The Stars Academy of Arts and Sciences
     on a Seattle stage on 11 October 2017.
   source: In Plain Sight
@@ -130,8 +110,6 @@ references:
     (TTSA).
   claim_id: 676db77a-5986-41ce-927c-4abce3874e40
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-676db77a-5986-41ce-927c-4abce3874e40
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-676db77a-5986-41ce-927c-4abce3874e40
 - text: Fancy Bear hacked John Podesta's Gmail account in 2016, probably in October.
   source: In Plain Sight
   location: Chapter 15, paragraph 3
@@ -139,8 +117,6 @@ references:
     he was prompted by his Gmail account to re-enter his password
   claim_id: 5cf6fe18-5155-456b-ae94-144f594c0264
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-5cf6fe18-5155-456b-ae94-144f594c0264
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cf6fe18-5155-456b-ae94-144f594c0264
 - text: Leaked Podesta emails revealed plans for a meeting between Tom DeLonge, John
     Podesta and Lockheed Martin's Rob Weiss.
   source: In Plain Sight
@@ -151,8 +127,6 @@ references:
     development programs known as Skunk Works.
   claim_id: 2326922c-563b-40ce-94e6-e3009d0cc6da
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-2326922c-563b-40ce-94e6-e3009d0cc6da
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2326922c-563b-40ce-94e6-e3009d0cc6da
 - text: The Wilson Davis Memo purports to record a 16 October 2002 meeting between
     Eric Davis and Vice Admiral Thomas Wilson in a Las Vegas car park.
   source: In Plain Sight
@@ -162,8 +136,6 @@ references:
     in a car parked in the carpark of a corporate office building in Las Vegas.
   claim_id: f83867aa-20a1-450b-9001-18f7b7f76172
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-f83867aa-20a1-450b-9001-18f7b7f76172
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f83867aa-20a1-450b-9001-18f7b7f76172
 - text: Luis Elizondo resigned from the Department of Defense weeks before the TTSA
     launch in protest at excessive secrecy.
   source: In Plain Sight
@@ -173,8 +145,6 @@ references:
     opposition about the UAP issue inside the government.
   claim_id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
 - text: Tom DeLonge sold six Art's Parts samples to TTSA for US$35,000 in 2019, as
     disclosed to the Securities and Exchange Commission.
   source: In Plain Sight
@@ -184,8 +154,6 @@ references:
     to his company for $35,000
   claim_id: 9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
 - text: Salvatore Pais worked at the US Navy's Naval Air Warfare Centre Aircraft Division
     on the Patuxent River in Maryland.
   source: In Plain Sight
@@ -194,8 +162,6 @@ references:
     Division, on the Patuxent River in Maryland.
   claim_id: 83162455-5f1c-4782-830a-1b5b927c0462
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-83162455-5f1c-4782-830a-1b5b927c0462
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83162455-5f1c-4782-830a-1b5b927c0462
 - text: Salvatore Pais filed a patent application for a 'Craft Using an Inertial Mass
     Reduction Device' in April 2016.
   source: In Plain Sight
@@ -204,8 +170,6 @@ references:
     filed a patent application for a revolutionary spacecraft driven by gravity waves
   claim_id: b493d0b0-de31-4b6a-a2f6-af45a8e01add
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
-  workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-b493d0b0-de31-4b6a-a2f6-af45a8e01add
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b493d0b0-de31-4b6a-a2f6-af45a8e01add
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

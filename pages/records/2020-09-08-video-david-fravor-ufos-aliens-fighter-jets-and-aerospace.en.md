@@ -21,8 +21,6 @@ references:
   quote: a conversation with Commander David Fravor, who was a Navy pilot for 18 years
   claim_id: 8e7f1fa7-61ca-4661-a929-a75ebaff2fb1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-8e7f1fa7-61ca-4661-a929-a75ebaff2fb1
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-8e7f1fa7-61ca-4661-a929-a75ebaff2fb1
 - text: Strike Fighter Squadron 41 comprised 12 aircraft and several hundred personnel
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -31,8 +29,6 @@ references:
     people
   claim_id: abd556da-5208-4f39-a561-286099847f02
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-abd556da-5208-4f39-a561-286099847f02
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-abd556da-5208-4f39-a561-286099847f02
 - text: Fridman considers Fravor's 2004 sighting the most credible UFO sighting he
     is aware of
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -42,8 +38,6 @@ references:
     is the most credible sighting of a UFO in history, at least that I'm aware of
   claim_id: 61329761-07d9-4eb6-b8bb-6bd15dda67e1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-61329761-07d9-4eb6-b8bb-6bd15dda67e1
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-61329761-07d9-4eb6-b8bb-6bd15dda67e1
 - text: Fravor's account was corroborated by several other pilots
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -51,8 +45,6 @@ references:
   quote: His story corroborated by several other pilots
   claim_id: 54c73719-ff5e-4317-83a9-b49dca6434cd
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-54c73719-ff5e-4317-83a9-b49dca6434cd
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-54c73719-ff5e-4317-83a9-b49dca6434cd
 - text: Fravor attended the Navy Fighter Weapons School (Top Gun) in 1997, Class 4
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -60,8 +52,6 @@ references:
   quote: I went through in 97, Class 4, 97
   claim_id: 93e3429a-3431-46d2-b120-f1d3f508caff
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-93e3429a-3431-46d2-b120-f1d3f508caff
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-93e3429a-3431-46d2-b120-f1d3f508caff
 - text: Fravor was originally enlisted as a US Marine before the Marine Corps recommended
     him for the Naval Academy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -70,8 +60,6 @@ references:
   quote: first I was in, I was enlisted. I was a Marine.
   claim_id: 91cf8549-fe87-4026-8ec7-db4b598e611f
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-91cf8549-fe87-4026-8ec7-db4b598e611f
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-91cf8549-fe87-4026-8ec7-db4b598e611f
 - text: The Marine Corps recommended Fravor for the United States Naval Academy, which
     he attended and finished
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -81,8 +69,6 @@ references:
     So... I got to go to the Naval Academy and I finished
   claim_id: c2d618aa-9102-4229-9bb4-a2969da1beaf
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-c2d618aa-9102-4229-9bb4-a2969da1beaf
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-c2d618aa-9102-4229-9bb4-a2969da1beaf
 - text: Fravor's dream of flying began in 1969 watching Neil Armstrong walk on the
     Moon
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -92,8 +78,6 @@ references:
     I asked my mom... I was just prior to being five
   claim_id: e0aaf27f-4968-4385-85fb-41820309f87f
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-e0aaf27f-4968-4385-85fb-41820309f87f
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-e0aaf27f-4968-4385-85fb-41820309f87f
 - text: After getting his wings Fravor was assigned to A-6 Intruders on the west coast
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -103,8 +87,6 @@ references:
     it was built in the 60s
   claim_id: 1dd122dd-a733-43d7-8bee-8ee53ab290c1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-1dd122dd-a733-43d7-8bee-8ee53ab290c1
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-1dd122dd-a733-43d7-8bee-8ee53ab290c1
 - text: Fravor flew single-seat F/A-18 Hornets until the end of 2001, then shifted
     to F/A-18F Super Hornets
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -116,8 +98,6 @@ references:
     the E's and the S
   claim_id: b8d24122-aecb-4e98-bf26-0d1c637547b7
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-b8d24122-aecb-4e98-bf26-0d1c637547b7
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-b8d24122-aecb-4e98-bf26-0d1c637547b7
 - text: When Fravor commanded VFA-41 he flew the two-seat F/A-18F Super Hornet
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -125,8 +105,6 @@ references:
   quote: when I had command of VFA-41, I had the two-seat. They were F-squadron.
   claim_id: 9e6cf686-5778-4c55-a41a-4800e886573a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-9e6cf686-5778-4c55-a41a-4800e886573a
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-9e6cf686-5778-4c55-a41a-4800e886573a
 - text: Fravor had been flying for 16 years at the time of the 2004 encounter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -135,8 +113,6 @@ references:
     at the time, 16 years.
   claim_id: 7a4aea5f-7595-4aa7-8c33-49e706853df5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-7a4aea5f-7595-4aa7-8c33-49e706853df5
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-7a4aea5f-7595-4aa7-8c33-49e706853df5
 - text: The USS Princeton detected objects flying at roughly 8,500 metres at about
     190 km/h beginning 2004-11-10
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -148,8 +124,6 @@ references:
     of California.
   claim_id: 123b6419-3399-4c9c-bd91-2c093a68fcbc
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-123b6419-3399-4c9c-bd91-2c093a68fcbc
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-123b6419-3399-4c9c-bd91-2c093a68fcbc
 - text: The Princeton had been tracking the objects for about a week before 2004-11-14,
     when Fravor was first airborne to investigate
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -161,8 +135,6 @@ references:
     We want you to go see what these are.
   claim_id: 19980e03-8917-43bc-ab60-e7f81e992ae0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-19980e03-8917-43bc-ab60-e7f81e992ae0
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-19980e03-8917-43bc-ab60-e7f81e992ae0
 - text: On 2004-11-14 Fravor's flight of four people in two F/A-18F jets was launched
     on a training mission, then redirected
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -172,8 +144,6 @@ references:
     And they sent us
   claim_id: 510276fd-b339-4f12-a406-0fa259621eeb
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-510276fd-b339-4f12-a406-0fa259621eeb
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-510276fd-b339-4f12-a406-0fa259621eeb
 - text: The encounter occurred between roughly 130 and 160 kilometres off the California
     coast
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -185,8 +155,6 @@ references:
     off the coast.
   claim_id: 184695a7-7ae4-4348-89df-430f435d719e
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-184695a7-7ae4-4348-89df-430f435d719e
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-184695a7-7ae4-4348-89df-430f435d719e
 - text: The day was clear with no clouds and five to ten knots of wind
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -196,8 +164,6 @@ references:
     to ten knots of wind
   claim_id: 633dc2dc-15d9-4782-893d-61afd57308c0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-633dc2dc-15d9-4782-893d-61afd57308c0
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-633dc2dc-15d9-4782-893d-61afd57308c0
 - text: The crews observed cross-shaped white water roughly the size of a Boeing 737
     on the ocean surface
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -210,8 +176,6 @@ references:
     looks like a cross
   claim_id: be335d4b-e191-4c2d-87d7-0bef64c07e0b
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-be335d4b-e191-4c2d-87d7-0bef64c07e0b
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-be335d4b-e191-4c2d-87d7-0bef64c07e0b
 - text: The crews were about 6,000 metres above the object when they first saw it
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -220,8 +184,6 @@ references:
     above it.
   claim_id: 379f0629-37a2-4063-b0d6-9e96f87ffba5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-379f0629-37a2-4063-b0d6-9e96f87ffba5
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-379f0629-37a2-4063-b0d6-9e96f87ffba5
 - text: The object appeared smooth and white with a Tic Tac shape, no wings, no visible
     propulsion, and no windows
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -231,8 +193,6 @@ references:
     no visible propulsion no windows no probes that we could see
   claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
 - text: The object moved north-south and east-west in abrupt motions with no apparent
     inertia
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -243,8 +203,6 @@ references:
     not. It's like left, right, left, right, with no...
   claim_id: 2c46ba7b-ee9f-4cc8-9145-1faf208728ac
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-2c46ba7b-ee9f-4cc8-9145-1faf208728ac
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-2c46ba7b-ee9f-4cc8-9145-1faf208728ac
 - text: Fravor descended at about 560 km/h to investigate while the other aircraft
     stayed at altitude
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -254,8 +212,6 @@ references:
     for maneuvering, because I have everything available to me at that speed.
   claim_id: b5ef156c-dca3-4f75-939b-7bf8bb845ef5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-b5ef156c-dca3-4f75-939b-7bf8bb845ef5
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-b5ef156c-dca3-4f75-939b-7bf8bb845ef5
 - text: Fravor closed to about 800 metres from the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -265,8 +221,6 @@ references:
     You can see all kinds of stuff at a half mile. You can see pretty good detail.
   claim_id: 68045c52-bb08-4882-927c-8e02fa847177
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-68045c52-bb08-4882-927c-8e02fa847177
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-68045c52-bb08-4882-927c-8e02fa847177
 - text: The object accelerated and disappeared in less than half a second as Fravor
     moved to intercept
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -277,8 +231,6 @@ references:
     second. It just goes, and it's gone.
   claim_id: 31110682-a47b-4619-9063-3eb5c90eabc3
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-31110682-a47b-4619-9063-3eb5c90eabc3
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-31110682-a47b-4619-9063-3eb5c90eabc3
 - text: The entire encounter lasted about five minutes, observed on a clear day by
     four trained observers
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -289,8 +241,6 @@ references:
     clear day with four trained observers to watch this thing fly around.
   claim_id: be04427f-5b28-43f7-a7aa-40d55cf77b53
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-be04427f-5b28-43f7-a7aa-40d55cf77b53
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-be04427f-5b28-43f7-a7aa-40d55cf77b53
 - text: After the object disappeared the white water was also gone, leaving only blue
     ocean
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -301,8 +251,6 @@ references:
     all blue.
   claim_id: 5fe147e2-c217-4174-bee3-df127be19928
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-5fe147e2-c217-4174-bee3-df127be19928
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-5fe147e2-c217-4174-bee3-df127be19928
 - text: The Princeton reported the object had reappeared at the combat air patrol
     point, about 100 kilometres away
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -314,8 +262,6 @@ references:
     like 60 miles away it just reappears
   claim_id: 2962ad22-4098-466b-b059-b954d342e29a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-2962ad22-4098-466b-b059-b954d342e29a
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-2962ad22-4098-466b-b059-b954d342e29a
 - text: There is no video from Fravor's own encounter; Chad Underwood obtained the
     FLIR1 video on a later flight
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -326,8 +272,6 @@ references:
     took off, that's when Chad got the video of it.
   claim_id: a3a1484c-7df0-4d7c-893f-cdcc555e4bfa
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-a3a1484c-7df0-4d7c-893f-cdcc555e4bfa
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-a3a1484c-7df0-4d7c-893f-cdcc555e4bfa
 - text: When Underwood's radar locked onto the object it could not hold lock and indicated
     it was being jammed
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -339,8 +283,6 @@ references:
     that it's going... it'll give you indications that I'm being jammed.
   claim_id: 3f930bf9-ac4b-4272-a352-3854ea92b7dd
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-3f930bf9-ac4b-4272-a352-3854ea92b7dd
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-3f930bf9-ac4b-4272-a352-3854ea92b7dd
 - text: The object showed no exhaust plume, no infrared signature, and no heat signature
     in the FLIR footage
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -349,8 +291,6 @@ references:
   quote: There was no plume, no IR, no visible propulsions, even heat signature.
   claim_id: c7482df2-3d5b-4ae9-a31e-ab4f8e59b08c
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-c7482df2-3d5b-4ae9-a31e-ab4f8e59b08c
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-c7482df2-3d5b-4ae9-a31e-ab4f8e59b08c
 - text: On the original tape viewed in TV mode, two small protrusions could be seen
     on the bottom of the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -362,8 +302,6 @@ references:
     out of the bottom. There's nothing on the top.
   claim_id: 16daf6ba-66ff-4feb-a141-545c311b16f0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-16daf6ba-66ff-4feb-a141-545c311b16f0
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-16daf6ba-66ff-4feb-a141-545c311b16f0
 - text: The FLIR1 video was approximately one minute and thirty seconds long; the
     publicly released version is the entirety
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -374,8 +312,6 @@ references:
     video is the entire video.
   claim_id: 8b2fc535-4514-449e-b216-c77525b5d55a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-8b2fc535-4514-449e-b216-c77525b5d55a
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-8b2fc535-4514-449e-b216-c77525b5d55a
 - text: Intelligence officers from the Carrier Intelligence Center took the recording
     tapes; Fravor later retrieved them from an ordinary filing cabinet
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -387,8 +323,6 @@ references:
     they're messing with you, they're playing a joke.
   claim_id: 772858b4-fc40-4046-bc69-ca1db81c560b
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-772858b4-fc40-4046-bc69-ca1db81c560b
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-772858b4-fc40-4046-bc69-ca1db81c560b
 - text: No officials in suits came to interview the crew and no one arrived to collect
     classified material in person
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -398,8 +332,6 @@ references:
     No one came out on an airplane.
   claim_id: f34bd788-5765-4bc3-b601-28bd5281b096
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-f34bd788-5765-4bc3-b601-28bd5281b096
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-f34bd788-5765-4bc3-b601-28bd5281b096
 - text: Around 2009 a government employee telephoned Fravor to say they were going
     to investigate, producing what Fravor calls the unofficial official report
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -411,8 +343,6 @@ references:
     years later.
   claim_id: e041d859-12fa-4caa-bd7f-94e5fd7a8c7d
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-e041d859-12fa-4caa-bd7f-94e5fd7a8c7d
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-e041d859-12fa-4caa-bd7f-94e5fd7a8c7d
 - text: The report later became public after Harry Reid passed it to George Knapp
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -422,8 +352,6 @@ references:
     they were good enough to redact it, but there's a few versions of it unredacted.
   claim_id: 89e70a22-aa7e-4a95-8a23-d1a097007def
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-89e70a22-aa7e-4a95-8a23-d1a097007def
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-89e70a22-aa7e-4a95-8a23-d1a097007def
 - text: Lou Elizondo ran the Advanced Aerospace Threat Identification Program (AATIP)
     at the Pentagon
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -434,8 +362,6 @@ references:
     was tasked with investigating any kind of UFOs, UAPs.'
   claim_id: 75c3d434-2441-4d08-b4f1-f63036131c82
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-75c3d434-2441-4d08-b4f1-f63036131c82
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-75c3d434-2441-4d08-b4f1-f63036131c82
 - text: AATIP's original work was exempt from the Freedom of Information Act, per
     a signed DoD memo Fravor personally saw
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -446,8 +372,6 @@ references:
     dod memo that said it and it was signed
   claim_id: ff047252-138b-437c-8a9b-73e2263ae7de
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-ff047252-138b-437c-8a9b-73e2263ae7de
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-ff047252-138b-437c-8a9b-73e2263ae7de
 - text: The Go Fast and Gimbal videos were recorded in 2014 or 2015 off the US East
     Coast
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -458,8 +382,6 @@ references:
     but they were weird in the same kind of way
   claim_id: 56cb344c-bfa3-445e-a505-294aac430a41
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-56cb344c-bfa3-445e-a505-294aac430a41
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-56cb344c-bfa3-445e-a505-294aac430a41
 - text: During the 2014-2015 East Coast encounters at least 60 people saw the objects
     on radar
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -468,8 +390,6 @@ references:
   quote: there's at least 60 people that have seen these things on radar off the vacates.
   claim_id: 91b65ef9-c775-45ff-9218-00de4e6a200a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-91b65ef9-c775-45ff-9218-00de4e6a200a
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-91b65ef9-c775-45ff-9218-00de4e6a200a
 - text: One object resembling a cube inside a translucent sphere passed within about
     30 metres of an aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -480,8 +400,6 @@ references:
     beach ball with this cube inside of it.
   claim_id: ec867a07-3ea6-40f5-a446-d5cfbbecbe34
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-ec867a07-3ea6-40f5-a446-d5cfbbecbe34
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-ec867a07-3ea6-40f5-a446-d5cfbbecbe34
 - text: Fravor believes the Tic Tac was not of human origin, reasoning that such a
     leap in technology would have begun to emerge over 16 years
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -493,8 +411,6 @@ references:
     But to hide something like that for 16 years
   claim_id: b33822a4-56a9-49a8-a5b6-5f9fe23ce258
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-b33822a4-56a9-49a8-a5b6-5f9fe23ce258
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-b33822a4-56a9-49a8-a5b6-5f9fe23ce258
 - text: Objects were tracked descending from above approximately 24,000 metres, hovering
     at around 6,100 metres for three or four hours, then ascending again
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -506,8 +422,6 @@ references:
     go back up.
   claim_id: 9952dd09-6026-4d0f-bd03-73da8b980a33
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-9952dd09-6026-4d0f-bd03-73da8b980a33
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-9952dd09-6026-4d0f-bd03-73da8b980a33
 - text: As of the 2020 interview Fravor estimated he had spoken to roughly 23 people
     in total about the incident
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -518,8 +432,6 @@ references:
     much. I mean, I turned down Russian TV.
   claim_id: 3d2af46f-21d2-4f23-a501-8dd2e970c550
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-3d2af46f-21d2-4f23-a501-8dd2e970c550
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-3d2af46f-21d2-4f23-a501-8dd2e970c550
 - text: Fravor proposes that wealthy private individuals such as Jeff Bezos and Elon
     Musk could jointly fund propulsion research at universities
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -530,8 +442,6 @@ references:
     who has to do the work
   claim_id: 1a5b61bb-e442-4aae-b498-d097776fa62a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
-  workbench_url: https://workbench.anomalica.is/5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f#claim-1a5b61bb-e442-4aae-b498-d097776fa62a
-  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-1a5b61bb-e442-4aae-b498-d097776fa62a
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

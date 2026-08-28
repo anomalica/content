@@ -21,8 +21,6 @@ references:
     the pentagon now admits there's something out there
   claim_id: 380e6b56-4fea-4167-a1e5-99984f3741b8
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-380e6b56-4fea-4167-a1e5-99984f3741b8
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-380e6b56-4fea-4167-a1e5-99984f3741b8
 - text: The US Senate Select Committee on Intelligence ordered the ODNI and the Secretary
     of Defense to deliver a report on UAP sightings
   source: Navy pilots describe encounters with UFOs
@@ -32,8 +30,6 @@ references:
     a report on the mysterious sightings by next month
   claim_id: 5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
 - text: Luis Elizondo spent 20 years running military intelligence operations worldwide
   source: Navy pilots describe encounters with UFOs
   location: 00:01:02.4-00:01:11.5
@@ -41,8 +37,6 @@ references:
     in Afghanistan, the Middle East, and Guantanamo.
   claim_id: 4a505ec2-d40b-4e9d-86d4-eb5bcb966eca
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-4a505ec2-d40b-4e9d-86d4-eb5bcb966eca
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-4a505ec2-d40b-4e9d-86d4-eb5bcb966eca
 - text: In 2008, Elizondo was asked to join a Pentagon programme called AATIP
   source: Navy pilots describe encounters with UFOs
   location: 00:01:15.6-00:01:24.1
@@ -50,8 +44,6 @@ references:
     Aerospace Threat Identification Program, or AATIP.
   claim_id: 0a916da2-c4af-4d48-ad0e-0827acde956e
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-0a916da2-c4af-4d48-ad0e-0827acde956e
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-0a916da2-c4af-4d48-ad0e-0827acde956e
 - text: AATIP's mission was to collect and analyse information involving anomalous
     aerial vehicles
   source: Navy pilots describe encounters with UFOs
@@ -61,8 +53,6 @@ references:
     UFOs. We call them UAPs.
   claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
 - text: AATIP was part of a $22 million programme sponsored by then Senate Majority
     Leader Harry Reid
   source: Navy pilots describe encounters with UFOs
@@ -71,8 +61,6 @@ references:
     by then Senate Majority Leader Harry Reid to investigate UFOs.
   claim_id: fd9a7030-681a-442c-b360-e6762d7e3e41
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-fd9a7030-681a-442c-b360-e6762d7e3e41
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-fd9a7030-681a-442c-b360-e6762d7e3e41
 - text: Elizondo took over AATIP in 2010, focusing on national security implications
     of UAP documented by US service members
   source: Navy pilots describe encounters with UFOs
@@ -81,48 +69,36 @@ references:
     of unidentified aerial phenomena documented by U.S. service members.
   claim_id: 34c859a3-7579-4c7e-a137-d44a304ea832
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-34c859a3-7579-4c7e-a137-d44a304ea832
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-34c859a3-7579-4c7e-a137-d44a304ea832
 - text: The UAP under investigation can perform manoeuvres of 600 to 700 G-forces
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
   quote: Imagine a technology that can do 600 to 700 G-forces
   claim_id: 0e26e972-1d95-4f60-96fa-76acff8bf53b
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-0e26e972-1d95-4f60-96fa-76acff8bf53b
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-0e26e972-1d95-4f60-96fa-76acff8bf53b
 - text: The UAP can fly at approximately 21,000 kilometres per hour
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
   quote: that can fly at 13,000 miles an hour
   claim_id: 9841df2b-135c-42e0-ba9e-0bd42650ebed
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-9841df2b-135c-42e0-ba9e-0bd42650ebed
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-9841df2b-135c-42e0-ba9e-0bd42650ebed
 - text: The UAP can evade radar
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
   quote: that can evade radar
   claim_id: 29dd7b56-e00a-46d7-8023-751de7d879ba
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-29dd7b56-e00a-46d7-8023-751de7d879ba
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-29dd7b56-e00a-46d7-8023-751de7d879ba
 - text: The UAP can fly through air, water, and possibly space
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
   quote: that can fly through air and water and possibly space
   claim_id: 1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
 - text: The UAP have no obvious signs of propulsion, no wings, and no control surfaces
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
   quote: has no obvious signs of propulsion, no wings, no control surfaces
   claim_id: db4d6436-ab7a-41eb-98fd-e1537d39f4e0
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-db4d6436-ab7a-41eb-98fd-e1537d39f4e0
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-db4d6436-ab7a-41eb-98fd-e1537d39f4e0
 - text: AATIP was a loose-knit mix of scientists, electro-optical engineers, avionics
     and intelligence experts, often working part-time
   source: Navy pilots describe encounters with UFOs
@@ -131,8 +107,6 @@ references:
     engineers, avionics, and intelligence experts, often working part-time.
   claim_id: 5058774c-de36-4491-94ec-754cf17b7c1b
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-5058774c-de36-4491-94ec-754cf17b7c1b
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-5058774c-de36-4491-94ec-754cf17b7c1b
 - text: AATIP investigated alternative explanations before concluding the phenomenon
     was real and in US airspace
   source: Navy pilots describe encounters with UFOs
@@ -144,8 +118,6 @@ references:
     and that's when it becomes problematic.
   claim_id: d35667fe-2b23-4a1f-b213-9c53b1f1ba58
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-d35667fe-2b23-4a1f-b213-9c53b1f1ba58
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-d35667fe-2b23-4a1f-b213-9c53b1f1ba58
 - text: Ryan Graves is a former US Navy pilot with the rank of Lieutenant
   source: Navy pilots describe encounters with UFOs
   location: 00:04:06.2-00:04:12.9
@@ -153,8 +125,6 @@ references:
     risk.
   claim_id: 1cae80e3-21b1-409d-ae51-e11aa72bb8e3
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-1cae80e3-21b1-409d-ae51-e11aa72bb8e3
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-1cae80e3-21b1-409d-ae51-e11aa72bb8e3
 - text: Graves's F/A-18 squadron began seeing UAP hovering over restricted airspace
     southeast of Virginia Beach in 2014
   source: Navy pilots describe encounters with UFOs
@@ -164,8 +134,6 @@ references:
     it possible to zero in with infrared targeting cameras.
   claim_id: b1af4475-0624-42c0-a610-14f0ffbe42a3
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-b1af4475-0624-42c0-a610-14f0ffbe42a3
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-b1af4475-0624-42c0-a610-14f0ffbe42a3
 - text: Dual detection by both radar and infrared is hard to spoof
   source: Navy pilots describe encounters with UFOs
   location: 00:04:29.7-00:04:37.1
@@ -174,8 +142,6 @@ references:
     to spoof that.'
   claim_id: aa714d53-4154-461e-a336-8841aa4c8d10
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-aa714d53-4154-461e-a336-8841aa4c8d10
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-aa714d53-4154-461e-a336-8841aa4c8d10
 - text: Pilots training off the Atlantic coast saw UAP every day for at least a couple
     of years
   source: Navy pilots describe encounters with UFOs
@@ -185,16 +151,12 @@ references:
     at least a couple of years.'
   claim_id: 3ed5c698-bcec-4830-b1a2-0db573ffd500
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-3ed5c698-bcec-4830-b1a2-0db573ffd500
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-3ed5c698-bcec-4830-b1a2-0db573ffd500
 - text: Graves observed no exhaust plume on the UAP seen off the Atlantic coast
   source: Navy pilots describe encounters with UFOs
   location: '00:05:02.5'
   quote: You know, I don't see an exhaust plume.
   claim_id: bae9f42c-5a31-4c58-af48-d8184c79f2f6
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-bae9f42c-5a31-4c58-af48-d8184c79f2f6
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-bae9f42c-5a31-4c58-af48-d8184c79f2f6
 - text: A UAP was captured on targeting camera off the coast of Jacksonville, Florida
     in 2015
   source: Navy pilots describe encounters with UFOs
@@ -203,8 +165,6 @@ references:
     on a targeting camera by members of Graves' squadron.
   claim_id: 475e124a-f740-444c-9d7e-ba53a0fcec44
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-475e124a-f740-444c-9d7e-ba53a0fcec44
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-475e124a-f740-444c-9d7e-ba53a0fcec44
 - text: The object appeared to be rotating and moving against the wind, which was
     approximately 220 kilometres per hour
   source: Navy pilots describe encounters with UFOs
@@ -213,8 +173,6 @@ references:
     wind. The wind's 120 knots far west.
   claim_id: 2c33dd31-ee41-4dc0-9743-415e96ae68cf
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-2c33dd31-ee41-4dc0-9743-415e96ae68cf
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-2c33dd31-ee41-4dc0-9743-415e96ae68cf
 - text: The US government publicly ignored UFOs after closing Project Blue Book in
     1969
   source: Navy pilots describe encounters with UFOs
@@ -223,8 +181,6 @@ references:
     Blue Book investigation in 1969.
   claim_id: 695f0bb3-62ec-4b71-aa31-1957139276b8
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-695f0bb3-62ec-4b71-aa31-1957139276b8
 - text: An incident off Southern California in 2004 was documented by radar, camera,
     and four naval aviators
   source: Navy pilots describe encounters with UFOs
@@ -233,8 +189,6 @@ references:
     which was documented by radar, by camera, and four naval aviators.
   claim_id: e64b5cde-811c-4373-9b2b-0a07b74cfb8f
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-e64b5cde-811c-4373-9b2b-0a07b74cfb8f
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-e64b5cde-811c-4373-9b2b-0a07b74cfb8f
 - text: David Fravor is a graduate of the Top Gun Naval Flight School and was commander
     of the F/A-18 squadron on the USS Nimitz
   source: Navy pilots describe encounters with UFOs
@@ -243,8 +197,6 @@ references:
     of the F-18 squadron on the USS Nimitz
   claim_id: f5115f94-642d-43a1-b66c-d0fa88062676
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-f5115f94-642d-43a1-b66c-d0fa88062676
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-f5115f94-642d-43a1-b66c-d0fa88062676
 - text: Alex Dietrich was flying at Fravor's wing during the 2004 USS Nimitz encounter
     and had never spoken publicly about it before
   source: Navy pilots describe encounters with UFOs
@@ -253,8 +205,6 @@ references:
     about the encounter.
   claim_id: deb3cffb-6f55-4582-8e8f-da0b658c3efa
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-deb3cffb-6f55-4582-8e8f-da0b658c3efa
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-deb3cffb-6f55-4582-8e8f-da0b658c3efa
 - text: In November 2004 the USS Nimitz Carrier Strike Group was training approximately
     160 kilometres southwest of San Diego
   source: Navy pilots describe encounters with UFOs
@@ -263,8 +213,6 @@ references:
     about 100 miles southwest of San Diego.
   claim_id: 99c1bdfe-f3ab-4598-81ab-652707c31d3b
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-99c1bdfe-f3ab-4598-81ab-652707c31d3b
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-99c1bdfe-f3ab-4598-81ab-652707c31d3b
 - text: For a week, the advanced radar on the USS Princeton detected multiple AAV
     over the horizon, descending approximately 24,000 metres in less than a second
   source: Navy pilots describe encounters with UFOs
@@ -274,8 +222,6 @@ references:
     descending 80,000 feet in less than a second.
   claim_id: 65e79861-be56-4d79-ac97-b0f03c3c19ea
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-65e79861-be56-4d79-ac97-b0f03c3c19ea
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-65e79861-be56-4d79-ac97-b0f03c3c19ea
 - text: On 2004-11-14, Fravor and Dietrich were each with a weapons system officer
     and diverted to investigate the AAV
   source: Navy pilots describe encounters with UFOs
@@ -284,8 +230,6 @@ references:
     the backseat, were diverted to investigate.
   claim_id: d92a459c-8d13-4ade-98eb-ee274729420d
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-d92a459c-8d13-4ade-98eb-ee274729420d
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-d92a459c-8d13-4ade-98eb-ee274729420d
 - text: Fravor saw a little white Tic Tac-shaped object moving above the white water
     area
   source: Navy pilots describe encounters with UFOs
@@ -294,8 +238,6 @@ references:
     moving above the whitewater area.
   claim_id: 8896257d-958c-403a-be6d-dcc26ba66d42
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-8896257d-958c-403a-be6d-dcc26ba66d42
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-8896257d-958c-403a-be6d-dcc26ba66d42
 - text: As Fravor spiralled down, the object turned abruptly and mirrored his movements
   source: Navy pilots describe encounters with UFOs
   location: 00:08:17.9-00:08:24.5
@@ -303,8 +245,6 @@ references:
     and starts mirroring me. So as I'm coming down, it starts coming up.
   claim_id: 371cf55a-2569-4fcc-abf7-5bd686c02953
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-371cf55a-2569-4fcc-abf7-5bd686c02953
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-371cf55a-2569-4fcc-abf7-5bd686c02953
 - text: The object was about the size of an F/A-18, with no markings, no wings, and
     no exhaust plumes
   source: Navy pilots describe encounters with UFOs
@@ -313,8 +253,6 @@ references:
     exhaust plumes.
   claim_id: f592a82f-8305-4b75-a0f2-adf6c58fa894
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-f592a82f-8305-4b75-a0f2-adf6c58fa894
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-f592a82f-8305-4b75-a0f2-adf6c58fa894
 - text: Four aviators watched the object for roughly five minutes
   source: Navy pilots describe encounters with UFOs
   location: 00:09:00.9-00:09:08.9
@@ -322,8 +260,6 @@ references:
     about five minutes.
   claim_id: 99aacfce-5495-4692-8bbc-e0608ca6e3a7
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-99aacfce-5495-4692-8bbc-e0608ca6e3a7
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-99aacfce-5495-4692-8bbc-e0608ca6e3a7
 - text: Seconds after the object disappeared, the USS Princeton reacquired the target
     approximately 97 kilometres away
   source: Navy pilots describe encounters with UFOs
@@ -333,8 +269,6 @@ references:
     off again.
   claim_id: 8d97bbab-7eb9-4288-ad4a-48b27b11f8a8
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-8d97bbab-7eb9-4288-ad4a-48b27b11f8a8
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-8d97bbab-7eb9-4288-ad4a-48b27b11f8a8
 - text: After air crew filed reports on the encounter, nothing was done officially
     for five years until Elizondo investigated
   source: Navy pilots describe encounters with UFOs
@@ -344,8 +278,6 @@ references:
     until Lou Elizondo came across the story and investigated.
   claim_id: 9379a873-1374-4490-a9f9-8e643e313075
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-9379a873-1374-4490-a9f9-8e643e313075
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-9379a873-1374-4490-a9f9-8e643e313075
 - text: AATIP found pilots' sightings compelling because they were backed up by electro-optical
     and radar data
   source: Navy pilots describe encounters with UFOs
@@ -356,8 +288,6 @@ references:
     me, that's compelling.
   claim_id: 8c284a42-5514-4be8-802e-051915e643d4
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-8c284a42-5514-4be8-802e-051915e643d4
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-8c284a42-5514-4be8-802e-051915e643d4
 - text: Funding for AATIP was eliminated in 2012, but Elizondo and a handful of others
     kept the mission alive
   source: Navy pilots describe encounters with UFOs
@@ -366,8 +296,6 @@ references:
     of others kept the mission alive.
   claim_id: a50b07ec-81c6-48ce-8e51-4f48b5f9a651
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-a50b07ec-81c6-48ce-8e51-4f48b5f9a651
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-a50b07ec-81c6-48ce-8e51-4f48b5f9a651
 - text: Elizondo quit the Pentagon in 2017, having first got three Navy UAP videos
     declassified
   source: Navy pilots describe encounters with UFOs
@@ -376,8 +304,6 @@ references:
     these three videos declassified.
   claim_id: e60706a4-3f50-4db3-b400-eb8114c80eaa
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-e60706a4-3f50-4db3-b400-eb8114c80eaa
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-e60706a4-3f50-4db3-b400-eb8114c80eaa
 - text: Christopher Mellon served as Deputy Assistant Secretary of Defense for Intelligence
     under Presidents Clinton and Bush
   source: Navy pilots describe encounters with UFOs
@@ -387,8 +313,6 @@ references:
     programs.
   claim_id: 7f8f5d7c-63fe-44ab-ac94-f60a3512a338
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-7f8f5d7c-63fe-44ab-ac94-f60a3512a338
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-7f8f5d7c-63fe-44ab-ac94-f60a3512a338
 - text: Mellon states with high confidence that the UAP are not US technology, given
     the positions he held
   source: Navy pilots describe encounters with UFOs
@@ -398,8 +322,6 @@ references:
     and I know the process.
   claim_id: e391f67a-16fd-48e6-9e44-9dea3b700e1b
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-e391f67a-16fd-48e6-9e44-9dea3b700e1b
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-e391f67a-16fd-48e6-9e44-9dea3b700e1b
 - text: Mellon and Elizondo's strategy was to go to the public, then to Congress,
     and then circle back to the Defense Department
   source: Navy pilots describe encounters with UFOs
@@ -409,8 +331,6 @@ references:
     get them to start taking a look at it.
   claim_id: 71f58239-601e-496e-b0e5-631f7527a472
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-71f58239-601e-496e-b0e5-631f7527a472
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-71f58239-601e-496e-b0e5-631f7527a472
 - text: In August 2020 the Pentagon resurrected AATIP as the UAP Task Force and encouraged
     service members to report strange encounters
   source: Navy pilots describe encounters with UFOs
@@ -419,8 +339,6 @@ references:
     Task Force. Service members now are encouraged to report strange encounters.
   claim_id: cd599503-e40f-4737-890a-59f14dae3809
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-cd599503-e40f-4737-890a-59f14dae3809
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-cd599503-e40f-4737-890a-59f14dae3809
 - text: In December 2020, Marco Rubio asked the ODNI and the Pentagon to present Congress
     an unclassified report on UAP
   source: Navy pilots describe encounters with UFOs
@@ -430,8 +348,6 @@ references:
     an unclassified report by next month.
   claim_id: 4217d492-9abd-4ea8-b305-34545d682bcc
   record_hash: 1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c
-  workbench_url: https://workbench.anomalica.is/1405206f070621abea9b5131b1512eebf13896ce9dc0ced476f4159c#claim-4217d492-9abd-4ea8-b305-34545d682bcc
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-4217d492-9abd-4ea8-b305-34545d682bcc
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

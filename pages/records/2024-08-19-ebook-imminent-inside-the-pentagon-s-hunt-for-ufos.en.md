@@ -17,8 +17,6 @@ references:
   quote: Foreword by Christopher Mellon
   claim_id: 06b384d2-3410-4057-a295-7a74af61dd5d
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-06b384d2-3410-4057-a295-7a74af61dd5d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-06b384d2-3410-4057-a295-7a74af61dd5d
 - text: The book comprises 25 chapters, an Acknowledgments section, an Appendix, an
     Index, a Photo Section, and an About the Author section
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -28,16 +26,12 @@ references:
     ... Copyright ... About the Publisher'
   claim_id: e495fcd6-0b73-4b5f-a5ac-054a1db80f25
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-e495fcd6-0b73-4b5f-a5ac-054a1db80f25
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e495fcd6-0b73-4b5f-a5ac-054a1db80f25
 - text: Mellon's foreword is dated 16 May 2024
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Foreword, opening date
   quote: May 16, 2024
   claim_id: 6649d3ad-5445-4a08-8720-a47cabe0d19b
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-6649d3ad-5445-4a08-8720-a47cabe0d19b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6649d3ad-5445-4a08-8720-a47cabe0d19b
 - text: Dedicated to Elizondo's wife Jennifer and daughters Taylor and Alexandria
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Dedication
@@ -45,8 +39,6 @@ references:
     First and foremost, to my loving wife, Jennifer, and daughters, Taylor and Alexandria.
   claim_id: f667abef-5d22-4719-9825-2d5c2acab195
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-f667abef-5d22-4719-9825-2d5c2acab195
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f667abef-5d22-4719-9825-2d5c2acab195
 - text: Dedicated to people who have had UAP encounters or are aware of relevant facts
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Dedication
@@ -55,8 +47,6 @@ references:
     voice.
   claim_id: c6cadb8c-7edd-4473-9d92-207a2799fda5
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-c6cadb8c-7edd-4473-9d92-207a2799fda5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c6cadb8c-7edd-4473-9d92-207a2799fda5
 - text: Mellon states Elizondo played a central, indispensable role in changing views
     on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -66,24 +56,18 @@ references:
     anomalous phenomena (UAP).
   claim_id: 84318f04-e379-4801-80a0-5cb3a9cf8231
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-84318f04-e379-4801-80a0-5cb3a9cf8231
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-84318f04-e379-4801-80a0-5cb3a9cf8231
 - text: Mellon first met Elizondo at a closed-door Pentagon meeting early in 2017
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Foreword, paragraph 2
   quote: When I first met Lue at a closed-door Pentagon meeting early in 2017
   claim_id: 0333a394-3fff-4a18-80b0-73ba30a3c9f5
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-0333a394-3fff-4a18-80b0-73ba30a3c9f5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0333a394-3fff-4a18-80b0-73ba30a3c9f5
 - text: Jim Semivan, a mutual friend from the CIA, brought Elizondo to Mellon's attention
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Foreword, paragraph 6
   quote: A mutual friend from the CIA, Jim Semivan, brought Lue to my attention.
   claim_id: dd1cc0f4-813c-4e66-8b0e-dc456a25e41b
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-dd1cc0f4-813c-4e66-8b0e-dc456a25e41b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dd1cc0f4-813c-4e66-8b0e-dc456a25e41b
 - text: Elizondo showed Mellon authentic military gun-camera UAP videos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Foreword, paragraph 10
@@ -91,8 +75,6 @@ references:
     "gun camera" UAP videos
   claim_id: ee83bdcf-32ec-4b82-96b2-33bc96a9b453
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-ee83bdcf-32ec-4b82-96b2-33bc96a9b453
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ee83bdcf-32ec-4b82-96b2-33bc96a9b453
 - text: Elizondo presented incontrovertible evidence of unmarked aircraft violating
     sensitive airspace
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -102,8 +84,6 @@ references:
     craft lacked any discernible markings or means of propulsion.
   claim_id: 623b56d1-8f21-444d-8d50-0ab5c14745d6
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-623b56d1-8f21-444d-8d50-0ab5c14745d6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-623b56d1-8f21-444d-8d50-0ab5c14745d6
 - text: The USS Princeton detected manoeuvring objects appearing to descend from low
     earth orbit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -113,8 +93,6 @@ references:
     that appeared to be descending from low earth orbit.
   claim_id: bbc63dc6-aea0-4d04-86a2-931c2e817839
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-bbc63dc6-aea0-4d04-86a2-931c2e817839
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bbc63dc6-aea0-4d04-86a2-931c2e817839
 - text: Fravor observed a wingless, white craft approximately 14.6 metres long
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Foreword, paragraph 8
@@ -122,8 +100,6 @@ references:
     observed from the cockpit of his F/A-18
   claim_id: 9561b163-480e-4a0a-a329-598b1f6caff7
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-9561b163-480e-4a0a-a329-598b1f6caff7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9561b163-480e-4a0a-a329-598b1f6caff7
 - text: Elizondo was recruited into a highly sensitive UAP intelligence programme
     in late 2008
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -134,8 +110,6 @@ references:
     phenomena,' or UAP for short
   claim_id: eb249c24-8694-4153-9e7d-ab866532c5bf
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-eb249c24-8694-4153-9e7d-ab866532c5bf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eb249c24-8694-4153-9e7d-ab866532c5bf
 - text: Elizondo worked on the programme for nearly a decade
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Introduction, paragraph 1
@@ -143,8 +117,6 @@ references:
     shift in human history
   claim_id: 3d8faa5b-6cc3-4119-9a76-5f6bccf7fd66
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-3d8faa5b-6cc3-4119-9a76-5f6bccf7fd66
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3d8faa5b-6cc3-4119-9a76-5f6bccf7fd66
 - text: Stratton said he helped create AAWSAP, which became AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 1, paragraph 16
@@ -153,40 +125,30 @@ references:
     (Advanced Aerospace Threat Identification Program).
   claim_id: 87398034-78c8-457e-9e2e-359c01446cf8
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-87398034-78c8-457e-9e2e-359c01446cf8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87398034-78c8-457e-9e2e-359c01446cf8
 - text: Chapter 2, titled 'Colares', covers the Colares incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Contents page, Chapter 2 listing
   quote: 'Chapter 2: Colares'
   claim_id: a5a8a2b2-4279-4139-9439-e4e7c4abda92
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-a5a8a2b2-4279-4139-9439-e4e7c4abda92
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a5a8a2b2-4279-4139-9439-e4e7c4abda92
 - text: Chapter 7, titled 'The Tic Tac', covers the Tic Tac sighting
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Contents page, Chapter 7 listing
   quote: 'Chapter 7: The Tic Tac'
   claim_id: bca4763d-e4ed-416a-a4e3-a315518e9985
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-bca4763d-e4ed-416a-a4e3-a315518e9985
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bca4763d-e4ed-416a-a4e3-a315518e9985
 - text: Chapter 15, titled 'USS Roosevelt', covers the 2015 sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Contents page, Chapter 15 listing
   quote: 'Chapter 15: USS Roosevelt'
   claim_id: 55288942-4e35-4353-bd94-4040cb07d5f9
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-55288942-4e35-4353-bd94-4040cb07d5f9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-55288942-4e35-4353-bd94-4040cb07d5f9
 - text: Resignation letter states effective date of 4 October 2017
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 21, Elizondo Resignation Letter text
   quote: For this reason, effective 4 October 2017, I humbly submit my resignation
   claim_id: bf986b82-3bd1-4dc9-99e7-f883d333ae05
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-bf986b82-3bd1-4dc9-99e7-f883d333ae05
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bf986b82-3bd1-4dc9-99e7-f883d333ae05
 - text: Letter cites over 22 years of government service
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 21, Elizondo Resignation Letter text
@@ -194,8 +156,6 @@ references:
     leadership
   claim_id: c3cfca40-0eb7-465d-ae8a-f108e4af8660
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-c3cfca40-0eb7-465d-ae8a-f108e4af8660
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cfca40-0eb7-465d-ae8a-f108e4af8660
 - text: Letter states a direct correlation between UAP and US nuclear and military
     capabilities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -204,8 +164,6 @@ references:
     with respect to our nuclear and military capabilities.
   claim_id: 18b2fab6-fdc4-4b74-bf9e-0a04ef4f3ce1
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-18b2fab6-fdc4-4b74-bf9e-0a04ef4f3ce1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-18b2fab6-fdc4-4b74-bf9e-0a04ef4f3ce1
 - text: 'Elizondo selected three unclassified videos for release: FLIR, GoFast and
     GIMBAL'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -214,8 +172,6 @@ references:
     videos from 2015.
   claim_id: bf75d034-d1b0-4d49-9f43-9fbf8333e9cc
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-bf75d034-d1b0-4d49-9f43-9fbf8333e9cc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bf75d034-d1b0-4d49-9f43-9fbf8333e9cc
 - text: The New York Times broke the AATIP story online on 16 December 2017, followed
     by Politico and the Washington Post
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -225,8 +181,6 @@ references:
     news platform in the world seemed to pick it up.
   claim_id: 2e863652-df1f-4690-9aa5-4c493c0f07b4
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-2e863652-df1f-4690-9aa5-4c493c0f07b4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2e863652-df1f-4690-9aa5-4c493c0f07b4
 - text: Senate Report 116-233 directed the DNI to submit a UAP report within 180 days
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 23, paragraph 31
@@ -237,8 +191,6 @@ references:
     aerial phenomena
   claim_id: 6df7e53b-e5d3-4e10-951d-68c0336644ee
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-6df7e53b-e5d3-4e10-951d-68c0336644ee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6df7e53b-e5d3-4e10-951d-68c0336644ee
 - text: Biden signed the NDAA containing UAP legislation on 23 December 2022
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 23, paragraph 70
@@ -246,8 +198,6 @@ references:
     into law when he signed the NDAA.
   claim_id: d55883b0-f2c0-4293-8c4a-47210de3362c
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-d55883b0-f2c0-4293-8c4a-47210de3362c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d55883b0-f2c0-4293-8c4a-47210de3362c
 - text: July 2023 hearing testimony described a hidden programme to recover and reverse-engineer
     nonhuman technology
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -258,8 +208,6 @@ references:
     our understanding of physics, and would be impossible to defend against.
   claim_id: c3e0afdb-d9cc-4d81-8e08-48719ad3cb07
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-c3e0afdb-d9cc-4d81-8e08-48719ad3cb07
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3e0afdb-d9cc-4d81-8e08-48719ad3cb07
 - text: Elizondo was formerly head of AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: Chapter 38, About the Author
@@ -268,8 +216,6 @@ references:
     anomalous phenomena (UAP).
   claim_id: dcc9a1d2-7ec0-4f81-a295-14134b3c419b
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-dcc9a1d2-7ec0-4f81-a295-14134b3c419b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcc9a1d2-7ec0-4f81-a295-14134b3c419b
 - text: Prior to AATIP, Elizondo oversaw counterespionage and counterterrorism investigations
     worldwide
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -278,8 +224,6 @@ references:
     worldwide for the Department of Defense
   claim_id: 5c298713-e018-4067-95ce-c8de73150b79
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-5c298713-e018-4067-95ce-c8de73150b79
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5c298713-e018-4067-95ce-c8de73150b79
 - text: Elizondo is an Army veteran who served in South Korea, Latin America, the
     Caribbean, Afghanistan and the Middle East
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -288,8 +232,6 @@ references:
     the Caribbean, Afghanistan, and other countries in the Middle East
   claim_id: 50e74aaa-3269-4787-a22b-6ff85425392b
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-50e74aaa-3269-4787-a22b-6ff85425392b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-50e74aaa-3269-4787-a22b-6ff85425392b
 - text: Elizondo is a graduate of the University of Miami, where he studied microbiology
     and immunology
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -298,8 +240,6 @@ references:
     and immunology.
   claim_id: 941e17ac-6c6c-419e-ae3e-db134ab7b9d1
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
-  workbench_url: https://workbench.anomalica.is/6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d#claim-941e17ac-6c6c-419e-ae3e-db134ab7b9d1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-941e17ac-6c6c-419e-ae3e-db134ab7b9d1
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5
