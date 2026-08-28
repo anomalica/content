@@ -384,6 +384,7 @@ references:
   claim_id: 66337d8e-d899-45bf-acdb-9bd62f1fb57b
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-66337d8e-d899-45bf-acdb-9bd62f1fb57b
+  inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-66337d8e-d899-45bf-acdb-9bd62f1fb57b
 - text: Conrad and other crew were specifically asked to experiment with observing
     the light-flash phenomenon
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -392,6 +393,7 @@ references:
   claim_id: e2194c84-5594-468a-994b-e9e98232c9d9
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-e2194c84-5594-468a-994b-e9e98232c9d9
+  inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-e2194c84-5594-468a-994b-e9e98232c9d9
 - text: Astronauts on earlier flights had reported seeing light flashes at night with
     their eyes closed
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -401,6 +403,7 @@ references:
   claim_id: e14c09ac-48a3-4365-bab7-28e5110035b6
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-e14c09ac-48a3-4365-bab7-28e5110035b6
+  inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-e14c09ac-48a3-4365-bab7-28e5110035b6
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

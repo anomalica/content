@@ -74,6 +74,7 @@ references:
   claim_id: a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
 - text: Bush and Menzel worked together on the differential analyzer before the Second
     World War
   source: Dark Mission

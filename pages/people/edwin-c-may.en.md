@@ -135,6 +135,7 @@ references:
   claim_id: 24deef41-5e81-4025-a33e-64f0480100c7
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-24deef41-5e81-4025-a33e-64f0480100c7
+  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-24deef41-5e81-4025-a33e-64f0480100c7
 - text: Ramsay expects May would attribute the strongest remote-viewing signal to
     physical contrast, via high target entropy
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

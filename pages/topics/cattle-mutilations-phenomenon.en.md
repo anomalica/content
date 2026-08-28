@@ -216,6 +216,7 @@ references:
   claim_id: ee9f6fd6-5b74-41e8-bbab-962b3563a6be
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
 - text: More than 180 cattle mutilation cases occurred in Colorado in 1975 alone
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:6889-6939
@@ -232,6 +233,7 @@ references:
   claim_id: e1fd6e37-eb2d-4391-8b59-bbf54c83917a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
 - text: Vallée's three positions on the cause of mutilations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:2015-2321

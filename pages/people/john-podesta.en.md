@@ -247,6 +247,7 @@ references:
   claim_id: 60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
+  inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
 - text: Fish offered to arrange a call or meeting to share programme names
   source: 'Re: Leslie Kean book comment'
   location: char:1318-1471
@@ -255,6 +256,7 @@ references:
   claim_id: 519b41cc-4aca-451e-8355-1b88f9089a36
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-519b41cc-4aca-451e-8355-1b88f9089a36
+  inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-519b41cc-4aca-451e-8355-1b88f9089a36
 - text: Fish stressed the exchange was private and unrelated to the USS Hornet Museum
   source: 'Re: Leslie Kean book comment'
   location: char:1627-1723
@@ -263,6 +265,7 @@ references:
   claim_id: a98c932b-4885-46c0-8666-5cc6cc982700
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-a98c932b-4885-46c0-8666-5cc6cc982700
+  inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-a98c932b-4885-46c0-8666-5cc6cc982700
 - text: Fish said 'Fast Walkers' were routinely detected by DSP satellites
   source: In Plain Sight
   location: ch13:27336-27523
@@ -448,6 +451,7 @@ references:
   claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8268d82d-c79d-434e-be2b-f935d62819a6
 - text: Many correspondents connected to the Center for American Progress
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:35.1-00:40:41.0

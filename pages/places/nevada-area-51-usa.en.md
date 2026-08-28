@@ -453,6 +453,7 @@ references:
   claim_id: 0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
+  inspection_url: /records/2007-06-20-web-project-serpo#claim-0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
 - text: McPherson worked at Area 51 from May 1956 to September 1988
   source: Project Serpo
   location: char:1546-1607
@@ -460,6 +461,7 @@ references:
   claim_id: 911dc195-5a41-4d4e-86f7-32a73ab56ad8
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-911dc195-5a41-4d4e-86f7-32a73ab56ad8
+  inspection_url: /records/2007-06-20-web-project-serpo#claim-911dc195-5a41-4d4e-86f7-32a73ab56ad8
 - text: The Advance Studies Group was located on Area 51's Complex III, second level
   source: Project Serpo
   location: char:5141-5221
@@ -468,6 +470,7 @@ references:
   claim_id: 86080df8-e6c2-4afa-a6c5-812e8c053a77
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-86080df8-e6c2-4afa-a6c5-812e8c053a77
+  inspection_url: /records/2007-06-20-web-project-serpo#claim-86080df8-e6c2-4afa-a6c5-812e8c053a77
 - text: After a 1973 accident, the Blue Chariot was moved to a remote Area 51 facility
   source: Project Serpo
   location: char:6882-7040

@@ -138,6 +138,7 @@ references:
   claim_id: b2bb4817-61e7-4d5b-80fb-c4eec4be0539
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
+  inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
 - text: Fravor flew an A-6 Intruder with Chris Sato aboard USS Ranger, night landing
     off San Diego
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex

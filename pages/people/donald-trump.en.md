@@ -404,6 +404,7 @@ references:
   claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
 - text: In the week of the episode, the President of the United States used the word
     extraterrestrial
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -435,6 +436,7 @@ references:
   claim_id: e488957b-d09d-47cd-857c-5327e132f318
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-e488957b-d09d-47cd-857c-5327e132f318
 - text: Grusch knows what Trump was briefed on during his previous term and what Rubio
     was briefed on regarding UAP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'

@@ -202,6 +202,7 @@ references:
   claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
 - text: Bigelow paid $200,000 to buy Skinwalker Ranch in 1996
   source: In Plain Sight
   location: ch15:8613-8732
@@ -350,6 +351,7 @@ references:
   claim_id: d314c627-a752-43d3-a286-835241ddff40
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-d314c627-a752-43d3-a286-835241ddff40
 - text: The Bigelow team's AAWSAP investigations began in late 2008 and reportedly
     ended in 2012
   source: In Plain Sight

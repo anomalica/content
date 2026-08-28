@@ -597,6 +597,7 @@ references:
   claim_id: d8cd4367-add9-446c-aedc-437e790a1dbe
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
 - text: Caplan authored the 2026 book Not For Disclosure
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -652,6 +653,7 @@ references:
   claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
 - text: Roswell wreckage allegedly taken to Wright-Patterson Air Force Base
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -689,6 +691,7 @@ references:
   claim_id: 48a9b1f7-427c-4644-bfef-9482e2dced6d
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
+  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
 - text: Trump's remarks made at a cabinet meeting with Rubio and Hegseth, 2026-08-11
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -707,6 +710,7 @@ references:
   claim_id: 8fc54bb2-c316-4395-8ecc-dd2c8407b993
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
 - text: Trump said the release is trending number one
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -726,6 +730,7 @@ references:
   claim_id: 5c840403-0043-457d-b537-795187d051b8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-5c840403-0043-457d-b537-795187d051b8
 - text: Coulthart considers Trump's declassification initiative a positive sign
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -737,6 +742,7 @@ references:
   claim_id: e488957b-d09d-47cd-857c-5327e132f318
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-e488957b-d09d-47cd-857c-5327e132f318
 - text: Jorjani said a remote viewer told him the CIA has DNA-database backdoor access
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -785,6 +791,7 @@ references:
   claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
 - text: Strieber calls the beings he describes 'the visitors'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -793,6 +800,7 @@ references:
   claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
 - text: Communion was a New York Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -802,6 +810,7 @@ references:
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
 - text: Coulthart regards Strieber as a controversial, leading figure
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind

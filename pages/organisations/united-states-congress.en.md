@@ -760,6 +760,7 @@ references:
   claim_id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
+  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
 - text: About 46 UAP videos reached Congress, many via the Congressional UAP Caucus
     through Corbell and Knapp's work.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -781,6 +782,7 @@ references:
   claim_id: eb204f81-feac-452c-87d8-566d5d0c20ba
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
 - text: The UAP Disclosure Act shows Congress is aware of the Legacy Program's possession
     of non-human technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'

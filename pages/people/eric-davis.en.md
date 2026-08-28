@@ -738,6 +738,7 @@ references:
   claim_id: f3879c62-5746-4a84-a111-e95604f8393d
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f3879c62-5746-4a84-a111-e95604f8393d
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f3879c62-5746-4a84-a111-e95604f8393d
 - text: Wilson arrived ten minutes late with two Navy officers, in civilian dress
     himself
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -750,6 +751,7 @@ references:
   claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
 - text: The two talked in Wilson's car until 11:20am
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:374-502
@@ -758,6 +760,7 @@ references:
   claim_id: 360f5b6b-fece-4d09-be3e-b887c0c03451
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
 - text: Wilson's trip was arranged via the NNSA by Rich and Doug, AFIO members
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:7845-7943
@@ -832,6 +835,7 @@ references:
   claim_id: 7f39af2d-c618-4f6b-9f93-7779aa37e122
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
 - text: The memo's real title is 'EWD Notes', Davis's own initials
   source: In Plain Sight
   location: ch26:237-335

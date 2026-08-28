@@ -175,6 +175,7 @@ references:
   claim_id: 4a7d212a-5521-48d5-be96-a5f6102d78cd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
 - text: The Project Blue Book files at Northwestern University were augmented by UFO
     sighting data Jacques Vallée brought from Europe when he emigrated from France
     in 1962

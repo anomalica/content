@@ -200,6 +200,7 @@ references:
   claim_id: 8fef9300-a47c-490c-b5fc-6aea2c868679
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
 - text: According to David Lilienthal's diary, Truman said the agreement referenced
     at the Blair House meeting was staying in his safe and nobody was to have access
     to it

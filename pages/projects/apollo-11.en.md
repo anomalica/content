@@ -329,6 +329,7 @@ references:
   claim_id: 1a791a5f-0333-4b8c-8c50-d99d571033c2
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
 - text: television images were sent to Goldstone, Honeysuckle Creek and Parkes
   source: Dark Mission
   location: ch20:2843-3040

@@ -103,6 +103,7 @@ references:
   claim_id: b897aa93-707c-4009-ac21-0d32990d8938
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b897aa93-707c-4009-ac21-0d32990d8938
 - text: Coulthart says Grush discussed DOPSR-cleared agreements potentially involving
     foreign powers or non-human intelligence
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -123,6 +124,7 @@ references:
   claim_id: b80bbb3d-369c-49ff-8200-96baeef0074b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
 - text: Close Encounters of the Third Kind explored contact, agreements and travel
     with non-human beings
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross

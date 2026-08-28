@@ -700,6 +700,7 @@ references:
   claim_id: 64972a11-b345-474e-8a72-3e81dde7a218
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-64972a11-b345-474e-8a72-3e81dde7a218
+  inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-64972a11-b345-474e-8a72-3e81dde7a218
 - text: Eventually carried out the consecration, first in secret then openly
   source: The Fatima Secret
   location: ch24:21581-21752
@@ -821,6 +822,7 @@ references:
   claim_id: 49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
+  inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
 - text: Informed Ratzinger of the plan to release the Secret with commentary
   source: The Fatima Secret
   location: ch24:14589-14788

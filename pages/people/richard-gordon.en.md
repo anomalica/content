@@ -301,6 +301,7 @@ references:
   claim_id: 94dfd3da-ce31-4796-a462-383b80bb5849
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-94dfd3da-ce31-4796-a462-383b80bb5849
+  inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-94dfd3da-ce31-4796-a462-383b80bb5849
 - text: Hickson said Gordon had set up the television camera and told Conrad it was
     ready
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -311,6 +312,7 @@ references:
   claim_id: b47ec999-4a0c-4688-9ba0-22c0d8378d5c
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
+  inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
 - text: Schmitt recalled Dick Gordon saying the clock is relentless once you start
     flying
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972

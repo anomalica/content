@@ -176,6 +176,7 @@ references:
   claim_id: 2ff8c7f5-8482-487a-ae39-5050f5128480
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
 - text: 'Burlison: the two are not necessarily the same thing'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:27:56.1-00:28:05.2
@@ -454,6 +455,7 @@ references:
   claim_id: 54644aec-9eee-4f8d-86e4-f7b18c79af23
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
 - text: 'Main problem: lacked the right scientists to evaluate material'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:02.8-00:32:06.7
@@ -611,6 +613,7 @@ references:
   claim_id: b80bbb3d-369c-49ff-8200-96baeef0074b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
 - text: Kobitz's introductions led Coulthart to sources who took real risks to speak
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart

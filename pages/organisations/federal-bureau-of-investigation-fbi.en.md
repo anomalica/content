@@ -254,6 +254,7 @@ references:
   claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
 - text: Luis Elizondo said FBI agents visited ranchers near Roswell door-to-door to
     threaten that anyone who spoke about the crash would be killed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -401,6 +402,7 @@ references:
   claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -513,6 +513,7 @@ references:
   claim_id: d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
+  inspection_url: /records/2017-03-07-ebook-surviving-death#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
 - text: As described by Kean, Jensen provided enough biographical detail to be identified
     years later as someone who really lived
   source: Surviving Death

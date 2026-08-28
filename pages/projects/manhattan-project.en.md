@@ -189,6 +189,7 @@ references:
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
+  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-ec36506f-4715-4398-ac9b-00f3dba02351
 - text: In 2013 researchers at White Sands saw luminous orbs over a nearby ridge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:101-466

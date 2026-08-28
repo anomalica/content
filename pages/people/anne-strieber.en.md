@@ -429,6 +429,7 @@ references:
   claim_id: a848a977-ff98-4378-abba-315bdc8f2fd1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
+  inspection_url: /records/2013-06-16-ebook-communion#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
 - text: The couple lived in a flat on West Fifty-fifth Street, Manhattan, from 1970
     to 1977
   source: Communion

@@ -69,6 +69,7 @@ references:
   claim_id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
 - text: Subject discussed between Shannon and Miller related to a Boston Globe story
     by Leslie Kean, UFO crash retrieval, and an MJ-12-like group.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -78,6 +79,7 @@ references:
   claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
 - text: Wilson recalled a phone call with Shannon in the fall of 1999.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:807-930
@@ -86,6 +88,7 @@ references:
   claim_id: dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
 - text: Wilson gave serious thought to meeting Davis, recalling Shannon's 1999 phone
     call and his strong support for Davis.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson

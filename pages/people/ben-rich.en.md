@@ -200,6 +200,7 @@ references:
   claim_id: 11a06a18-5a89-4063-967d-81b3e835a1a8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
 - text: Mitchells said Rich, late in life, lamented that the UFO issue was governed
     by an international corporate board.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

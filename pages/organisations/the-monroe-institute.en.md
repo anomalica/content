@@ -230,6 +230,7 @@ references:
   claim_id: 9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
+  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
 - text: Nelson Delis performed a take-home 45-minute guided meditation exercise from
     the Gateway Experience programme.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -259,6 +260,7 @@ references:
   claim_id: e160bb2e-5b7b-4dd9-8448-00a315ebd421
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
 - text: Whitley Strieber never met Robert Monroe but attended a Gateway programme
     at the Institute many years before 2026.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -278,6 +280,7 @@ references:
   claim_id: 1d451c78-1e40-42be-99c9-9b4421e1e7fd
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
+  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
 - text: Julia Mossbridge said the Institute does great things helping people and that
     its work can be very healing.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

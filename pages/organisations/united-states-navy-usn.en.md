@@ -799,6 +799,7 @@ references:
   claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
 - text: Navy operated the experimental 'flying flapjack' V-173 in the early 1940s,
     now in a museum
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full

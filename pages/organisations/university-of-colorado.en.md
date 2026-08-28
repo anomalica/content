@@ -94,6 +94,7 @@ references:
   claim_id: 63781644-d1a8-4c62-8c41-a4990251dc96
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-63781644-d1a8-4c62-8c41-a4990251dc96
+  inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-63781644-d1a8-4c62-8c41-a4990251dc96
 - text: Low's memo describing the study as staffed by non-believers while presented
     publicly as objective
   source: Communion
@@ -136,6 +137,7 @@ references:
   claim_id: b0ac08db-89da-44e3-9b38-4c331aa2a364
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
 - text: The Condon Committee inquiry declared the UAP topic devoid of scientific merit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3383-3543

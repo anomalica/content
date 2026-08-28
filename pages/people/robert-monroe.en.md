@@ -762,6 +762,7 @@ references:
   claim_id: 3bd8fa58-9ce4-413e-931a-100e0d3a7871
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
+  inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
 - text: Fractional relaxation technique; cigarette break after 45 minutes.
   source: Journeys Out of the Body
   location: ch12:18564-18782

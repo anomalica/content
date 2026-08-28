@@ -90,6 +90,7 @@ references:
   claim_id: d314c627-a752-43d3-a286-835241ddff40
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-d314c627-a752-43d3-a286-835241ddff40
 - text: AAWSAP was funded through the DIA and run using Bigelow Aerospace to investigate
     the UFO phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -99,6 +100,7 @@ references:
   claim_id: 81abc27c-22f7-45ef-8f3c-1a3bf124e852
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
 - text: AATIP funding went to Bigelow Aerospace, which hired subcontractors and solicited
     research
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -118,6 +120,7 @@ references:
   claim_id: 387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
 - text: Puthoff commissioned about 36 forecasting papers for Bigelow Aerospace without
     disclosing a UAP connection
   source: 'Episode 73: Science vs. Secrecy'

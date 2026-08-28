@@ -212,6 +212,7 @@ references:
   claim_id: e3f2e0ee-a758-4f13-877f-1e0a9ca483af
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
 - text: At touchdown, Aldrin said "contact light, engine stop".
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:38.8-00:00:41.0
@@ -219,6 +220,7 @@ references:
   claim_id: 38b02d39-ab47-4f96-8e59-42a6db1d98cc
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
 - text: Armstrong then radioed "Houston, Tranquility Base, the Eagle has landed".
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:42.7-00:00:47.6
@@ -227,6 +229,7 @@ references:
   claim_id: 9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
 - text: Aldrin said he regards Armstrong's landing line as a good one.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:48.6-00:00:49.4
@@ -234,6 +237,7 @@ references:
   claim_id: a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
 - text: The crew were focused rather than worried about what they would say during
     the landing.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -242,6 +246,7 @@ references:
   claim_id: b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
 - text: Aldrin feared Armstrong might tell him to go out first and think up his own
     words.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -251,6 +256,7 @@ references:
   claim_id: 8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
 - text: There was no live television picture of the landing itself; viewers watched
     animation.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -260,6 +266,7 @@ references:
   claim_id: 1a791a5f-0333-4b8c-8c50-d99d571033c2
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
 - text: Aldrin was the first man to relieve himself on the Moon.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:28.4-00:01:32.7
@@ -268,6 +275,7 @@ references:
   claim_id: 8b300c92-6572-4a1a-912a-bd171db4348a
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8b300c92-6572-4a1a-912a-bd171db4348a
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-8b300c92-6572-4a1a-912a-bd171db4348a
 - text: An astronaut cannot unzip the suit to urinate; the crew used a device instead.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:41.3-00:01:46.1
@@ -276,6 +284,7 @@ references:
   claim_id: 62367ea6-bf8d-47b2-837f-0d3428b87377
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
 - text: In the Apollo 11 footage, Aldrin is seen hopping up and down on the lunar
     surface.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -286,6 +295,7 @@ references:
   claim_id: 6fd89f57-cc75-45d9-a580-8c5c93c20e9c
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
 - text: Aldrin calls the hop a kangaroo hop, not a bunny hop.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:02:05.5-00:02:09.0
@@ -293,6 +303,7 @@ references:
   claim_id: 64b43009-6fb7-488d-b676-27abc7b36634
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-64b43009-6fb7-488d-b676-27abc7b36634
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-64b43009-6fb7-488d-b676-27abc7b36634
 - text: He hopped to demonstrate on television how easily a person could move on the
     lunar surface.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -302,6 +313,7 @@ references:
   claim_id: b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
 - text: Armstrong said neither he nor Aldrin could see stars from the Lunar Module
     window; Aldrin would try via the optics.
   source: Dark Mission
@@ -638,6 +650,7 @@ references:
   claim_id: 062c3bb5-d7b8-451c-a54e-e638334eb42e
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
+  inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
 - text: Aldrin said Phobos is potato-shaped.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:41.9-00:00:44.5
@@ -645,6 +658,7 @@ references:
   claim_id: ad6bf459-f00a-4a75-80eb-7ca2c485eaef
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
+  inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
 - text: Aldrin said Phobos orbits Mars once every seven hours.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:45.6-00:00:48.0
@@ -652,6 +666,7 @@ references:
   claim_id: a8ba95c5-889a-467e-9ed0-22bb1f015fd8
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
+  inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
 - text: Aldrin said he considered the universe a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:53.5-00:00:57.1
@@ -659,6 +674,7 @@ references:
   claim_id: 56915f07-8b63-421e-bd7b-517a60f753c1
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-56915f07-8b63-421e-bd7b-517a60f753c1
+  inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-56915f07-8b63-421e-bd7b-517a60f753c1
 - text: Aldrin said he considered God a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:57.3-00:00:59.0
@@ -666,6 +682,7 @@ references:
   claim_id: 5a85f276-ce2d-456b-8e32-2a9b82b7912a
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
+  inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
 - text: Aldrin said the Moon's artificial structures were the Lunar Modules and equipment
     left by astronauts.
   source: Dark Mission
@@ -768,6 +785,7 @@ references:
   claim_id: 3c53b2e0-32af-4457-92f0-997e0c2c8d78
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
 - text: Aldrin did not comment on Clarke's Mars claim, instead raising zero-point
     energy.
   source: Clarke's Believe It or Not
@@ -777,6 +795,7 @@ references:
   claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
 - text: Aldrin said reaching Alpha Centauri may take 200 to 400 years and will need
     zero-point energy.
   source: Clarke's Believe It or Not
@@ -786,6 +805,7 @@ references:
   claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
 - text: Aldrin asked Clarke to confirm agreement on the need for zero-point energy
     to reach Alpha Centauri.
   source: Clarke's Believe It or Not
@@ -794,6 +814,7 @@ references:
   claim_id: 1ea62656-0eb1-411b-94fb-617dc313159b
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1ea62656-0eb1-411b-94fb-617dc313159b
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1ea62656-0eb1-411b-94fb-617dc313159b
 - text: Clarke said he was glad Aldrin raised the question of zero-point energy.
   source: Clarke's Believe It or Not
   location: char:993-1067
@@ -802,6 +823,7 @@ references:
   claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

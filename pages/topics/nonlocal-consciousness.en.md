@@ -391,6 +391,7 @@ references:
   claim_id: 22179427-6554-495f-9424-6662a413d4f0
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-22179427-6554-495f-9424-6662a413d4f0
+  inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-22179427-6554-495f-9424-6662a413d4f0
 - text: 'Mossbridge: not recognising the mind/UAP relationship means not understanding
     the phenomenon'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

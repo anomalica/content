@@ -182,6 +182,7 @@ references:
   claim_id: 40a17e5a-6c96-449b-a3b3-5f8dd09363b0
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
 - text: Asked whether the object was extraterrestrial, the general said he was not
     ruling anything out.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08 (2024-10-02)
@@ -191,6 +192,7 @@ references:
   claim_id: b897aa93-707c-4009-ac21-0d32990d8938
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b897aa93-707c-4009-ac21-0d32990d8938
 - text: NORAD tracked a cylindrical-shaped object at approximately 12,200 metres over
     Canada's Yukon on 2023-02-11.
   source: In Plain Sight (2021)
@@ -208,6 +210,7 @@ references:
   claim_id: b080fb79-56f5-47b7-a9cb-cb990fa2d940
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
 - text: NORAD spokesman Olivier Gallant said the military had determined what the
     object was but would not reveal details.
   source: In Plain Sight (2021)

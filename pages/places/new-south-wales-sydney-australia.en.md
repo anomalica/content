@@ -126,6 +126,7 @@ references:
   claim_id: 80a2b931-cc5d-4579-848f-793568eab403
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-80a2b931-cc5d-4579-848f-793568eab403
+  inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-80a2b931-cc5d-4579-848f-793568eab403
 - text: A clear, thin 15-centimetre head hair was recovered from the 23 July 1992
     encounter.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'

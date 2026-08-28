@@ -232,6 +232,7 @@ references:
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
 - text: The panel proposed an active 'training' and 'debunking' effort using public
     media tools to steer the public from reporting UFOs.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified

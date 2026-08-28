@@ -57,6 +57,7 @@ references:
   claim_id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
 - text: Grush never mentioned Immaculate Constellation.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -75,6 +76,7 @@ references:
   claim_id: af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
 - text: Some of the material is high resolution, unlike previously released blurry
     footage.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -84,6 +86,7 @@ references:
   claim_id: 2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
 - text: Grush says he was told of hundreds, possibly thousands, of UAP visuals held
     by government.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -93,6 +96,7 @@ references:
   claim_id: d0adec43-6124-4d70-9358-e18967fb910d
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-d0adec43-6124-4d70-9358-e18967fb910d
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-d0adec43-6124-4d70-9358-e18967fb910d
 - text: Grush denied familiarity with a rumoured DoD human-genetic hybridisation programme
     when questioned by Lauren Boebert.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -101,6 +105,7 @@ references:
   claim_id: 419ef8d3-faff-4abe-9999-c7506496fd69
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-419ef8d3-faff-4abe-9999-c7506496fd69
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-419ef8d3-faff-4abe-9999-c7506496fd69
 - text: 'Ramsay: Grush gave up his pension and staked his credibility on claims of
     recovered non-human biologics and craft.'
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87

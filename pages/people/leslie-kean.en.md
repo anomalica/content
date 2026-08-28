@@ -787,6 +787,7 @@ references:
   claim_id: 80b6dc66-861c-401c-8dc6-31c252c0f250
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
+  inspection_url: /records/2017-03-07-ebook-surviving-death#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

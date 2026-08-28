@@ -46,6 +46,7 @@ references:
   claim_id: b01ab687-c383-4643-a06e-e08c420cad48
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-b01ab687-c383-4643-a06e-e08c420cad48
 - text: Ingo Swann was approached by SRI scientists to take part in psychic phenomena
     research
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -56,6 +57,7 @@ references:
   claim_id: 9fbe87b3-33f5-489a-9e1e-a064be653ce5
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
 - text: At SRI, Swann developed Coordinate Remote Viewing (CRV)
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -65,6 +67,7 @@ references:
   claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
 - text: In 1973 Swann began working with SRI scientists to explore remote viewing
     of planetary objects
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary

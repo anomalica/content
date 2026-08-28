@@ -258,6 +258,7 @@ references:
   claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
 - text: When Eric Burlison asked ODNI officials about plasmoid-type phenomena at a
     Western US military installation, they said they and their top scientists did
     not know

@@ -69,6 +69,7 @@ references:
   claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9d673ad9-e774-4b7d-8315-6daae823096a
+  inspection_url: /records/2019-ebook-american-cosmic#claim-9d673ad9-e774-4b7d-8315-6daae823096a
 - text: Pasulka's closed conference brought ufologists and scientists together with
     humanities scholars; Tyler D. was not invited
   source: American Cosmic

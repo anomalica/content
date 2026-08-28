@@ -456,6 +456,7 @@ references:
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
 - text: A CIA/USAF panel that met in 1953 recommended monitoring civilian UFO groups
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:7950-8099
@@ -552,6 +553,7 @@ references:
   claim_id: b01ab687-c383-4643-a06e-e08c420cad48
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-b01ab687-c383-4643-a06e-e08c420cad48
 - text: Stargate remote-viewing programme run for the CIA at SRI from 1972
   source: The Fourth Mind
   location: ch22:13288-13439
@@ -630,6 +632,7 @@ references:
   claim_id: 80b4dac8-65d6-4570-82ac-c07463eaca62
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
 - text: In 2017 the CIA declassified about 12 million pages on the programme
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -639,6 +642,7 @@ references:
   claim_id: bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
 - text: Jim Semivan retired from the CIA's Directorate of Operations after 25 years
   source: In Plain Sight
   location: ch21:787-952
@@ -998,6 +1002,7 @@ references:
   claim_id: 159477c7-656a-489f-a4e0-b1cdd208a7ce
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
 - text: 'Jesse Mitchells: hybridisation anecdotes come from very senior CIA figures
     such as Semivan'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

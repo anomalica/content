@@ -756,6 +756,7 @@ references:
   claim_id: c1116248-c89a-4880-b73e-19ceb2e14da3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
 - text: 'Caplan: Kennedy concerned a UFO might be mistaken for an incoming missile
     after the Bay of Pigs'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all

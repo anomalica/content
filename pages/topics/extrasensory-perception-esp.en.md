@@ -83,6 +83,7 @@ references:
   claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
 - text: The Soviet Union, including the KGB, spent millions annually on ESP phenomena
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -92,6 +93,7 @@ references:
   claim_id: 879e75d8-2488-415d-9eee-2298cb76995e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-879e75d8-2488-415d-9eee-2298cb76995e
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-879e75d8-2488-415d-9eee-2298cb76995e
 - text: CIA's ESP work ended in the late 1970s and moved to the Army's Fort Meade
     base
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary

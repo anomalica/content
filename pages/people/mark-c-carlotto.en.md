@@ -733,6 +733,7 @@ references:
   claim_id: 0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
 - text: A burst of light appeared near the surface off Puerto Rico's east coast
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1057-1200
@@ -748,6 +749,7 @@ references:
   claim_id: a5f192ff-e798-4395-8c8a-352c28e8af17
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
 - text: The object's estimated speed was over approximately 800 km/s
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1274-1321
@@ -755,6 +757,7 @@ references:
   claim_id: 8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
 - text: A map of Puerto Rico matched the foreshortening-corrected light pattern, locating
     the event near Vieques
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -765,6 +768,7 @@ references:
   claim_id: a53acbb1-2efa-4844-bd3a-647b3012a9cd
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
 - text: Carlotto considered event F1 one of the most unusual phenomena observed by
     the shuttle
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -814,6 +818,7 @@ references:
   claim_id: 2aeeda70-bfdf-4432-91f1-52a9d44af8e7
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
 - text: Eight of ten streak objects moved generally north-westerly
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:24643-24750
@@ -923,6 +928,7 @@ references:
   claim_id: 70c0814f-5fbc-42ab-ad76-2fdcf006996c
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
+  inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
 - text: Carlotto's STS-48 paper noted a correlation with DSP satellite data over the
     region
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with

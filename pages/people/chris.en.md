@@ -342,6 +342,7 @@ references:
   claim_id: 5936a2c1-b75c-4079-aaec-6db10615c9bc
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
+  inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
 - text: The footage was recorded in 4K resolution at 30 frames per second.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
   location: 00:06:21.3-00:06:24.4
@@ -349,6 +350,7 @@ references:
   claim_id: 40690d56-f3d8-440d-ad0e-5e3511036d8f
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
+  inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
 - text: The object travelled from about 400-500 metres away to beside the drone within
     about two seconds.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -358,6 +360,7 @@ references:
   claim_id: 7d8e1926-8a48-42de-bcaf-2d6be5df6846
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
+  inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
 - text: At half playback speed, the object covers the field and shoots away in about
     four seconds.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -378,6 +381,7 @@ references:
   claim_id: 1755a0da-5106-42b5-8f06-4591a55d1de0
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
+  inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
 - text: The DJI Mini 3 Pro does not record audio.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
   location: 00:15:18.8-00:15:23.4

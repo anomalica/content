@@ -256,6 +256,7 @@ references:
   claim_id: 436e3cff-0ec4-447f-9ab6-ac40c8481c55
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
 - text: AAWSAP was supported by then-Director Lieutenant General Michael D. Maples
     and funded through Reid, Ted Stevens, and Daniel Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -533,6 +534,7 @@ references:
   claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
 - text: Project Stargate was run for years by the CIA and later by DIA, training recruits
     to use psychic abilities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -553,6 +555,7 @@ references:
   claim_id: 72e0b848-9ad6-4832-a9e4-7dda27c52f4a
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
+  inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
 - text: Grusch said DIA ran AAWSAP in the early 2000s
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:48:39.6-00:48:42.0

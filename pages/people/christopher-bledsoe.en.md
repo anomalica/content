@@ -108,6 +108,7 @@ references:
   claim_id: 5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
+  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
 - text: Ramsay said the driveway account predates public discussion of angel hair
     by years
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.

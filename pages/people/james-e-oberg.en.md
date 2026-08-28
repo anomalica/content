@@ -87,6 +87,7 @@ references:
   claim_id: 9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
 - text: Asked by Oberg about the STS-80 objects, Musgrave said he saw nothing unusual
     on the flight
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -97,6 +98,7 @@ references:
   claim_id: 137cc196-db0b-46f2-9200-d2489d4eb8fb
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
+  inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
 - text: Oberg described Musgrave as not shy about talking about anomalies of any kind
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1983-2059

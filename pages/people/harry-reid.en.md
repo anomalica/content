@@ -269,6 +269,7 @@ references:
   claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
 - text: Reid told Knapp he wanted to hear more, beginning a conversation that continued
     three decades.
   source: Statement to Congress

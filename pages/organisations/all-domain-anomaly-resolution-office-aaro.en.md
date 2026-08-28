@@ -531,6 +531,7 @@ references:
   claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
 - text: AAWSAP employed 50 full-time investigators, more than Blue Book, UAPTF or
     AARO
   source: Statement to Congress
@@ -836,6 +837,7 @@ references:
   claim_id: b2640a27-6161-4432-9c3c-3cd27f2c0c21
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
+  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
 - text: Grusch attended a classified meeting in which he challenged AARO
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:49:01.5-00:49:07.5

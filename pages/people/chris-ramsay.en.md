@@ -420,6 +420,7 @@ references:
   claim_id: 1c5591a4-eddd-4190-8fe4-17e898a14157
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
+  inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
 - text: Performs as a magician
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:06:39.6-00:06:40.2
@@ -453,6 +454,7 @@ references:
   claim_id: c22ba299-656a-40ca-b381-1da8beefa5b7
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
+  inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
 - text: The orbs did not appear to be moving, though it was hard to tell
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:15:08.5-00:15:14.4
@@ -809,6 +811,7 @@ references:
   claim_id: c234cdd5-3555-45df-855e-3789702c8291
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c234cdd5-3555-45df-855e-3789702c8291
+  inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c234cdd5-3555-45df-855e-3789702c8291
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -46,6 +46,7 @@ references:
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
+  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-ec36506f-4715-4398-ac9b-00f3dba02351
 - text: Anonymous correspondent recalled green light sightings at Los Alamos between
     1948 and 1951
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -55,6 +56,7 @@ references:
   claim_id: 3be0bd54-0014-4a56-a43b-c13e9f0a119a
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
+  inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
 - text: Five objects seen flying over Los Alamos in the afternoon
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:590-663
@@ -63,6 +65,7 @@ references:
   claim_id: 47828b07-ea37-4470-96ca-75255619955f
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-47828b07-ea37-4470-96ca-75255619955f
+  inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-47828b07-ea37-4470-96ca-75255619955f
 - text: The five objects flew southeast to northwest, appearing to be in formation
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:674-748
@@ -71,6 +74,7 @@ references:
   claim_id: 27643c78-c103-42d5-84b0-e5f510817552
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-27643c78-c103-42d5-84b0-e5f510817552
+  inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-27643c78-c103-42d5-84b0-e5f510817552
 - text: Protective Force Headquarters members on the Hill in the early 1950s would
     recall the sightings
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -80,6 +84,7 @@ references:
   claim_id: ab6df278-9916-449b-975b-4823a8d86ff4
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-ab6df278-9916-449b-975b-4823a8d86ff4
+  inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-ab6df278-9916-449b-975b-4823a8d86ff4
 - text: Oppenheimer's letter describing staff going outdoors to observe a bright object
     before the Trinity test
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -144,6 +149,7 @@ references:
   claim_id: 6082886a-62ac-4c46-b71a-6da7382e2c1b
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
+  inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

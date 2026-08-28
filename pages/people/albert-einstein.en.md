@@ -155,6 +155,7 @@ references:
   claim_id: 2da96f0f-d395-47a6-ac02-06bfe959c462
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
+  inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
 - text: In 1932 Einstein said nuclear energy would probably never be obtainable
   source: Communion
   location: ch15:3622-3800
@@ -298,6 +299,7 @@ references:
   claim_id: 99ba3719-4c3a-4646-a143-5f1c35988b67
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
+  inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
 - text: Document signed by Oppenheimer and Einstein, both of Princeton
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:34:22.1-00:34:28.5

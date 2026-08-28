@@ -859,6 +859,7 @@ references:
   claim_id: 9bc2b0e8-051b-40db-9736-2fb8b9a29c3f
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-9bc2b0e8-051b-40db-9736-2fb8b9a29c3f
+  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-9bc2b0e8-051b-40db-9736-2fb8b9a29c3f
 - text: DoD has not stated publicly what the Langley drones were
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -868,6 +869,7 @@ references:
   claim_id: 647da6f7-cf14-4ea8-9a2c-bb6ddd13ff8f
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-647da6f7-cf14-4ea8-9a2c-bb6ddd13ff8f
+  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-647da6f7-cf14-4ea8-9a2c-bb6ddd13ff8f
 - text: 'Shellenberger: whistleblower alleges DoD is illegally withholding UAP information
     from Congress'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -878,6 +880,7 @@ references:
   claim_id: 4c95df5a-a713-459c-afb0-2a616b3074f0
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
+  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

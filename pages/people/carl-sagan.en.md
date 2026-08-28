@@ -235,6 +235,7 @@ references:
   claim_id: 89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
+  inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
 - text: Plaque engraved on a 15 by 22.5 cm gold-anodised aluminium plate attached
     to the antenna struts of Pioneer 10 and 11
   source: The recognition of extraterrestrial intelligence
@@ -245,6 +246,7 @@ references:
   claim_id: 111103ec-3da5-454c-b226-a06d192e9b93
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-111103ec-3da5-454c-b226-a06d192e9b93
+  inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-111103ec-3da5-454c-b226-a06d192e9b93
 - text: The plaque depicted the hydrogen hyperfine transition, a pulsar map, human
     figures, and the Solar System diagram
   source: The recognition of extraterrestrial intelligence
@@ -257,6 +259,7 @@ references:
   claim_id: e222ce31-ace6-4a84-b920-ce0e2b8c69c8
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-e222ce31-ace6-4a84-b920-ce0e2b8c69c8
+  inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-e222ce31-ace6-4a84-b920-ce0e2b8c69c8
 - text: Sagan and colleagues thought a simple cosmic greeting card appropriate despite
     the remoteness of interception
   source: The recognition of extraterrestrial intelligence
@@ -305,6 +308,7 @@ references:
   claim_id: b3293f44-f2bf-461f-b266-174aec4833b7
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b3293f44-f2bf-461f-b266-174aec4833b7
+  inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-b3293f44-f2bf-461f-b266-174aec4833b7
 - text: Sagan, a Cornell professor, stated many times there is no evidence for unidentified
     aerial objects or visitors
   source: Communion

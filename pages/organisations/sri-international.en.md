@@ -155,6 +155,7 @@ references:
   claim_id: e01eb761-53da-4919-83e6-c6be5538af2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e01eb761-53da-4919-83e6-c6be5538af2b
+  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-e01eb761-53da-4919-83e6-c6be5538af2b
 - text: Puthoff's career spanned General Electric, Sperry Corporation, NSA, Stanford
     University and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'

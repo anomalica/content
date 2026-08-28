@@ -218,6 +218,7 @@ references:
   claim_id: 1a04b161-714c-491b-8c30-1dc2dff1bd94
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1a04b161-714c-491b-8c30-1dc2dff1bd94
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-1a04b161-714c-491b-8c30-1dc2dff1bd94
 - text: Vallée worked with and organised Hynek's Project Blue Book papers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15187-15299
@@ -237,6 +238,7 @@ references:
   claim_id: 3da97800-4c78-49f5-a8c0-6f8cbe223623
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3da97800-4c78-49f5-a8c0-6f8cbe223623
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-3da97800-4c78-49f5-a8c0-6f8cbe223623
 - text: The term was Hynek's name for a small anonymous group studying the UFO phenomenon
   source: American Cosmic
   location: ch5:1850-2020
@@ -295,6 +297,7 @@ references:
   claim_id: 290eacdc-c9bd-4be2-b0e6-14e84e4b8768
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-290eacdc-c9bd-4be2-b0e6-14e84e4b8768
+  inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-290eacdc-c9bd-4be2-b0e6-14e84e4b8768
 - text: 'Hynek: preposterous that humans would be the only intelligence in the universe'
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report

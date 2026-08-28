@@ -343,6 +343,7 @@ references:
   claim_id: 9b810ea1-fce9-4eae-970d-22cded84dd3b
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
+  inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
 - text: Chalker has investigated abduction claims since the 1970s.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch9:90-235
@@ -433,6 +434,7 @@ references:
   claim_id: e586e29e-4671-4259-9ccb-ad8b23ed7925
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
+  inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
 - text: Kary Mullis is the only Nobel Prize laureate to admit to a possible alien
     abduction experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -488,6 +490,7 @@ references:
   claim_id: 776ce7e6-c02a-4877-9275-49eb4ddd3add
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
+  inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
 - text: The Anomaly Physical Evidence Group (APEG) was formed to focus on biological
     strategies in abduction investigation.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -604,6 +607,7 @@ references:
   claim_id: 77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
 - text: Hopkins says memory suppression of abductions appears imperfect, sometimes
     leaving partial recall.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -615,6 +619,7 @@ references:
   claim_id: 7b89acaf-87c3-426b-a5de-826e7f42b416
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
 - text: One abductee had two hours of missing time but then forgot an entire following
     week.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -658,6 +663,7 @@ references:
   claim_id: 7b66391f-d401-4621-b3a6-3342548ee93c
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b66391f-d401-4621-b3a6-3342548ee93c
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7b66391f-d401-4621-b3a6-3342548ee93c
 - text: Hopkins believes abductees are tracked by genetic lineage across generations
     of a bloodline.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -670,6 +676,7 @@ references:
   claim_id: e313c90c-7e86-4776-ae28-7865ec3801ad
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
 - text: A woman's drawing depicted a nursery facility with an adult figure and a foetus-like
     being in a tank.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -682,6 +689,7 @@ references:
   claim_id: ddfb62ca-41ea-4c80-8a42-81773eee82e1
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
 - text: Hopkins is convinced at least three people were driven to suicide by abduction
     experiences.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -692,6 +700,7 @@ references:
   claim_id: f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
 - text: Hopkins believes the phenomenon may involve hundreds of thousands of people,
     possibly more.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -702,6 +711,7 @@ references:
   claim_id: 7e3a087e-a100-440d-ba17-f0707b5b2cc2
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
 - text: The Ambient Monitoring Project had an abductee keep a daily journal matched
     against recorded physical data.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -723,6 +733,7 @@ references:
   claim_id: 3f0c5ae3-2f73-40be-ad1e-3102858cd58e
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
 - text: Under hypnosis by Donald Klein, Strieber recalled an abduction rather than
     an assault by masked people.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -734,6 +745,7 @@ references:
   claim_id: 116d5684-c0d2-418c-8c29-a63842866719
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-116d5684-c0d2-418c-8c29-a63842866719
 - text: The hypnosis session was one of the most shocking moments of Strieber's life,
     revealing a childhood pattern.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality

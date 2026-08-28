@@ -456,6 +456,7 @@ references:
   claim_id: 39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
 - text: AATIP was launched from OUSDI and managed by counterintelligence officer Elizondo
   source: Statement to Congress
   location: char:8712-8867
@@ -465,6 +466,7 @@ references:
   claim_id: b267f3e4-23d0-47f8-8216-4eb4b65bc161
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
 - text: AATIP was run from the fifth floor of the Pentagon's C-Ring
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -892,6 +894,7 @@ references:
   claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
 - text: 'August 2020: Pentagon revived AATIP as the UAP Task Force'
   source: Navy pilots describe encounters with UFOs
   location: 00:12:09.2-00:12:14.8

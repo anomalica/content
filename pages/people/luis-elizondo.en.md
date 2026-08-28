@@ -902,6 +902,7 @@ references:
   claim_id: 1682029b-e987-431b-acc6-0876d4ba78b0
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-1682029b-e987-431b-acc6-0876d4ba78b0
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-1682029b-e987-431b-acc6-0876d4ba78b0
 - text: The crash retrieval programmes were designed to identify and reverse engineer
     alien craft
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -911,6 +912,7 @@ references:
   claim_id: b434f355-e2cb-483a-b910-110502c2c241
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b434f355-e2cb-483a-b910-110502c2c241
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-b434f355-e2cb-483a-b910-110502c2c241
 - text: Elizondo declined to discuss 'Blue Force technologies' at the hearing
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:10:27.8-00:10:30.1
@@ -918,6 +920,7 @@ references:
   claim_id: b7d6fc21-ad50-4530-addf-0f96f90a7b57
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
 - text: Elizondo said he had signed documentation restricting discussion of crash
     retrievals
   source: UAPs in Washington - I wasn't supposed to be there..

@@ -400,6 +400,7 @@ references:
   claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
 - text: NICAP's investigator accepted the Hills' story completely
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -458,6 +459,7 @@ references:
   claim_id: 11907557-d19d-4889-88a4-87f10719c124
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-11907557-d19d-4889-88a4-87f10719c124
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-11907557-d19d-4889-88a4-87f10719c124
 - text: Simon hypnotised the couple separately, starting with Barney
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -479,6 +481,7 @@ references:
   claim_id: 8bcc1515-7d4c-4635-92a5-48523bbaafb2
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
 - text: The leader offered to say where they came from if Betty said where she came
     from, then showed her a star map
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -504,6 +507,7 @@ references:
   claim_id: c3465329-c11a-4f7f-8fcb-c4be488fa564
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c3465329-c11a-4f7f-8fcb-c4be488fa564
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-c3465329-c11a-4f7f-8fcb-c4be488fa564
 - text: Her account included a needle inserted into her navel during the examination
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -536,6 +540,7 @@ references:
   claim_id: c92da399-b909-485d-a3ae-97eaf18f0fb8
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c92da399-b909-485d-a3ae-97eaf18f0fb8
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-c92da399-b909-485d-a3ae-97eaf18f0fb8
 - text: The therapist who treated the Hills did not believe in UFOs
   source: American Cosmic
   location: ch5:7274-7327

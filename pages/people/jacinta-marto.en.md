@@ -392,6 +392,7 @@ references:
   claim_id: b3412c24-de64-45e8-a25c-8605eebfbf02
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b3412c24-de64-45e8-a25c-8605eebfbf02
+  inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-b3412c24-de64-45e8-a25c-8605eebfbf02
 - text: Artur Santos abducted the three children toward Ourém, 1917-08-13
   source: The Fatima Secret
   location: ch10:15406-15430

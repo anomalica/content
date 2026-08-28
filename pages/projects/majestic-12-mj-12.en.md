@@ -147,6 +147,7 @@ references:
   claim_id: ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
 - text: The documents allegedly established MJ-12 as responsible for retrieval of
     non-human craft
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -166,6 +167,7 @@ references:
   claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
 - text: Bush and Menzel named as founding members in the Shandera memo
   source: Dark Mission
   location: ch12:70848-70890
@@ -296,6 +298,7 @@ references:
   claim_id: 8b02eac6-5016-452e-90e7-0a668cdb46f6
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
 - text: Caplan considers it extremely unlikely Forrestal did not tell Tizard about
     MJ-12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -336,6 +339,7 @@ references:
   claim_id: bafae81d-94cd-4653-800e-d23672e3f931
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bafae81d-94cd-4653-800e-d23672e3f931
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-bafae81d-94cd-4653-800e-d23672e3f931
 - text: Coulthart considers the files authentic beyond doubt
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -405,6 +409,7 @@ references:
   claim_id: 4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
+  inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
 - text: Another part of the annex, paragraphs nine onwards, was already disclosed
     before the new pages
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -586,6 +591,7 @@ references:
   claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
 - text: 'Coulthart''s understanding: senior public servants are briefed on MJ-12 matters,
     rarely elected politicians'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all

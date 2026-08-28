@@ -90,6 +90,7 @@ references:
   claim_id: 9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
 - text: Aldrin regarded Armstrong's landing radio call as a good line
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:48.6-00:00:49.4
@@ -97,6 +98,7 @@ references:
   claim_id: a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
+  inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
 - text: Said 'That's one small step for Man, one giant leap for Mankind', watched
     by almost a billion people
   source: Dark Mission

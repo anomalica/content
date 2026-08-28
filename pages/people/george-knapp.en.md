@@ -233,6 +233,7 @@ references:
   claim_id: c6e5470a-3fc4-4d06-9140-cdd9e7c70023
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
 - text: Knapp has written hundreds of UFO-related news stories and series
   source: Statement to Congress
   location: char:858-914
@@ -240,6 +241,7 @@ references:
   claim_id: f6e9656c-8aaf-4896-98eb-8034fcf02131
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
 - text: Knapp says he began hearing accounts of crashed saucers and secret Nevada
     desert programmes in 1989
   source: Statement to Congress
@@ -281,6 +283,7 @@ references:
   claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
 - text: Reid said he wanted to hear more, beginning a private conversation lasting
     three decades
   source: Statement to Congress
@@ -325,6 +328,7 @@ references:
   claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
 - text: The institute's science advisory board included PhD academics, former astronauts,
     and military-linked scientists
   source: Statement to Congress
@@ -396,6 +400,7 @@ references:
   claim_id: 513bfbfe-de67-4234-abcf-ac1c09bb60e2
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
 - text: Knapp said the Russian military's UFO investigation was directed by Colonel
     Boris Sokolov
   source: Statement to Congress
@@ -405,6 +410,7 @@ references:
   claim_id: 79d06602-1986-4a68-b5e2-b83be4c094dd
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
 - text: Sokolov told Knapp of 45 incidents of Russian warplanes engaging UFOs
   source: Statement to Congress
   location: char:6721-6834
@@ -413,6 +419,7 @@ references:
   claim_id: 72d91abf-de74-4b17-9c8e-806622d00dd3
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
 - text: Knapp's Russia information impressed Reid and became a key factor in a later
     secretive programme
   source: Statement to Congress
@@ -449,6 +456,7 @@ references:
   claim_id: b267f3e4-23d0-47f8-8216-4eb4b65bc161
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
 - text: New York Times reporting on AATIP led to Congress creating the Unidentified
     Aerospace Phenomena Task Force
   source: Statement to Congress
@@ -467,6 +475,7 @@ references:
   claim_id: 65d88cba-4964-4404-8317-4d894accebdf
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-65d88cba-4964-4404-8317-4d894accebdf
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-65d88cba-4964-4404-8317-4d894accebdf
 - text: The programme lasted 27 months rather than the five years originally planned
   source: Statement to Congress
   location: char:12104-12206
@@ -475,6 +484,7 @@ references:
   claim_id: 436e3cff-0ec4-447f-9ab6-ac40c8481c55
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
 - text: By mid-2019 Knapp had for two years defended Elizondo and DeLonge against
     TTSA critics
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -650,6 +660,7 @@ references:
   claim_id: 3be28e48-7ea0-4d32-9926-f68cf693a709
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
 - text: Knapp and Jeremy Corbell received UAP videos and worked to provide them to
     Congress
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross

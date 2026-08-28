@@ -306,6 +306,7 @@ references:
   claim_id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
 - text: Shannon and Miller discussed the Kean story, UFOs, crash retrieval and MJ-12
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1063-1183
@@ -314,6 +315,7 @@ references:
   claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
 - text: Davis showed Wilson Miller's 25 April 2002 letter for evaluation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 2006-2063

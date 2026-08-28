@@ -451,6 +451,7 @@ references:
   claim_id: 7a05553e-e4c2-46a2-95ca-0030814269f2
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
 - text: Project STARGATE originally used extensive testing and vetting to ensure participant
     stability.
   source: Remote Viewing Secrets
@@ -627,6 +628,7 @@ references:
   claim_id: e767ba98-32bc-45eb-9edf-202b26bf2f2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
+  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
 - text: 'McMoneagle: chances of a correct UFO-related statement are close to zero.'
   source: Remote Viewing Secrets
   location: ch14:13749-13864
@@ -635,6 +637,7 @@ references:
   claim_id: 6b78c286-d288-415f-bbc0-dd81317db3fa
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
+  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
 - text: McMoneagle considers remote viewing poor for phenomenological targets like
     UFOs, Loch Ness Monster, Sasquatch.
   source: Remote Viewing Secrets

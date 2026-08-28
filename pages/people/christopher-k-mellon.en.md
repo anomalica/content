@@ -1037,6 +1037,7 @@ references:
   claim_id: a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+  inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
 - text: States the USS Nimitz events can be verified by the US government itself.
   source: In Plain Sight
   location: ch21:3553-3656

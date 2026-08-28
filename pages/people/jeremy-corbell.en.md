@@ -130,6 +130,7 @@ references:
   claim_id: 298d530c-b519-4bef-bffd-71e7fde1a9cb
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
+  inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

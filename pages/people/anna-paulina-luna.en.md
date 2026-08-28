@@ -189,6 +189,7 @@ references:
   claim_id: aac17227-c68e-4bd7-84c6-db38d114f85f
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-aac17227-c68e-4bd7-84c6-db38d114f85f
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-aac17227-c68e-4bd7-84c6-db38d114f85f
 - text: Luna chaired a recent congressional hearing on Project MKUltra
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:11:27.3-00:11:31.0

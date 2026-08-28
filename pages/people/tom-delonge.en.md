@@ -859,6 +859,7 @@ references:
   claim_id: 8268d82d-c79d-434e-be2b-f935d62819a6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8268d82d-c79d-434e-be2b-f935d62819a6
 - text: Michael Carey introduced DeLonge to General William McCasland
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:38:24.7-00:38:31.5
@@ -874,6 +875,7 @@ references:
   claim_id: bf1548e7-3b1b-48fa-a690-4470155d05f8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
 - text: McCasland warned DeLonge he might find blind men touching an elephant
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:32:50.0-00:33:00.8

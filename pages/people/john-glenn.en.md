@@ -150,6 +150,7 @@ references:
   claim_id: 818f1f82-65f4-4a26-8cf4-4e6613dd777c
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
+  inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

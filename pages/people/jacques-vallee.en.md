@@ -736,6 +736,7 @@ references:
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
+  inspection_url: /records/2019-ebook-american-cosmic#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
 - text: James Master and Vallée counted each other as major influences and mentors
   source: American Cosmic
   location: ch2:35458-35542

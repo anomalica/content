@@ -241,6 +241,7 @@ references:
   claim_id: 11907557-d19d-4889-88a4-87f10719c124
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-11907557-d19d-4889-88a4-87f10719c124
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-11907557-d19d-4889-88a4-87f10719c124
 - text: They spotted a light resembling a falling star that moved differently
   source: American Cosmic
   location: ch4:42099-42237
@@ -322,6 +323,7 @@ references:
   claim_id: 533c1d00-ea85-4249-8f29-ec5df11cb214
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-533c1d00-ea85-4249-8f29-ec5df11cb214
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-533c1d00-ea85-4249-8f29-ec5df11cb214
 - text: Barney Hill also had symptoms of high blood pressure
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -330,6 +332,7 @@ references:
   claim_id: 2d2a5e34-9ed9-48c4-92a0-59de2e7459d3
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-2d2a5e34-9ed9-48c4-92a0-59de2e7459d3
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-2d2a5e34-9ed9-48c4-92a0-59de2e7459d3
 - text: He also experienced headaches and nightmares
   source: American Cosmic
   location: ch4:43634-43712
@@ -383,6 +386,7 @@ references:
   claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
 - text: NICAP accepted the couple's story completely
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -404,6 +408,7 @@ references:
   claim_id: 3379ee3b-061d-48d6-bcd4-b04d1ca3cd77
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-3379ee3b-061d-48d6-bcd4-b04d1ca3cd77
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-3379ee3b-061d-48d6-bcd4-b04d1ca3cd77
 - text: Simon kept an appointment his secretary had made with Barney Hill in December
     1963
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -414,6 +419,7 @@ references:
   claim_id: 2629d07c-6983-4ee9-9379-4f0e0541691c
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-2629d07c-6983-4ee9-9379-4f0e0541691c
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-2629d07c-6983-4ee9-9379-4f0e0541691c
 - text: By January 1964 they sought Dr. Benjamin Simon's ongoing help
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:12020-12228
@@ -443,6 +449,7 @@ references:
   claim_id: a9b96a27-7f58-4a6b-bf8b-c40fa8ea1e22
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-a9b96a27-7f58-4a6b-bf8b-c40fa8ea1e22
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-a9b96a27-7f58-4a6b-bf8b-c40fa8ea1e22
 - text: Simon hypnotised each separately, starting with Barney, directing them to
     relive and act out the trip
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -465,6 +472,7 @@ references:
   claim_id: 9f8cacc3-a7c9-45af-b3da-27ee16cf857f
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-9f8cacc3-a7c9-45af-b3da-27ee16cf857f
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-9f8cacc3-a7c9-45af-b3da-27ee16cf857f
 - text: Hypnosis revealed marked anxiety about being a Black man in a white culture
     during the drive
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -476,6 +484,7 @@ references:
   claim_id: 7ea4e043-6bce-4f81-aa11-3254b4b48388
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-7ea4e043-6bce-4f81-aa11-3254b4b48388
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-7ea4e043-6bce-4f81-aa11-3254b4b48388
 - text: He described groveling on the ground and screaming with terror near woods,
     fearing bears
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -529,6 +538,7 @@ references:
   claim_id: 8bcc1515-7d4c-4635-92a5-48523bbaafb2
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
 - text: 'Simon: if true, two people undergoing the same experience should give identical
     testimony, yet the abduction portions differed'
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -561,6 +571,7 @@ references:
   claim_id: 92c76129-bbe3-4177-bcb1-5a3aee7de1c6
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-92c76129-bbe3-4177-bcb1-5a3aee7de1c6
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-92c76129-bbe3-4177-bcb1-5a3aee7de1c6
 - text: Simon's treatment was substantially successful within about seven months
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks

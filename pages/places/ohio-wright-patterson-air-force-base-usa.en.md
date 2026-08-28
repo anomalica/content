@@ -405,6 +405,7 @@ references:
   claim_id: 147ab155-ee82-42e6-840b-5045038bde1c
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-147ab155-ee82-42e6-840b-5045038bde1c
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-147ab155-ee82-42e6-840b-5045038bde1c
 - text: Kobitz acknowledged the item was probably pieces of an alien spacecraft
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart

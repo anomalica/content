@@ -206,6 +206,7 @@ references:
   claim_id: ed3655e8-3359-45d6-840a-2333bcd2e474
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
 - text: If passed, the Act would allow disclosure of past UAP events, similar to the
     JFK assassination records.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -215,6 +216,7 @@ references:
   claim_id: cbbc563e-ca4d-48b6-a994-2c0377490b73
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
+  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

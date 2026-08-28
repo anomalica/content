@@ -571,6 +571,7 @@ references:
   claim_id: 7a9bdb5c-5cb4-437e-915c-41af68a9b19a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
 - text: Holy See characterised the Miracle of the Sun as the sun flying around, not
     a disc
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

@@ -569,6 +569,7 @@ references:
   claim_id: 1746e369-1f5c-4540-8be9-bdccb11ac3cc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
 - text: Wilson said he was taking a risk talking to Davis, trusting Oke Shannon's
     word
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -596,6 +597,7 @@ references:
   claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
 - text: Wilson was told in 1994 of a special record group organised outside usual
     SAPs by William Perry
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -607,6 +609,7 @@ references:
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
 - text: General M. Ward suggested Wilson search the OUSDAT records group files
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11389-11564
@@ -616,6 +619,7 @@ references:
   claim_id: f5dac99f-3bd4-4aca-9490-5eba1345de3f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
 - text: Perry gave Wilson the same advice when he raised it in May 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11578-11661
@@ -642,6 +646,7 @@ references:
   claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
 - text: At end of May 1997 Wilson called Kaminski, Kostelnik and Perry to confirm
     the contractor and programme manager
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -720,6 +725,7 @@ references:
   claim_id: 75712e51-5c10-47db-b1e9-4f90136a1c2e
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
 - text: The programme was built around technological hardware recovered years earlier
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:20860-20976
@@ -728,6 +734,7 @@ references:
   claim_id: ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
 - text: Gansler reportedly told Wilson UFOs are real but alien abductions are not
   source: In Plain Sight
   location: ch26:20491-20681
@@ -760,6 +767,7 @@ references:
   claim_id: b27f5d2f-ce7e-49de-a9ee-8983ad80f752
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
 - text: Wilson became very angry and started yelling during the Senior Review Group
     meeting
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson

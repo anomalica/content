@@ -369,6 +369,7 @@ references:
   claim_id: 7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
 - text: Lockheed Martin's stated area of expertise is aerospace, within the UAP space
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:15:06.3-00:15:10.5
@@ -376,6 +377,7 @@ references:
   claim_id: 7b969403-6bc7-423f-8b1a-3812c3277b22
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
 - text: Elizondo denied stating that Lockheed Martin would not conduct submerged operations
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:15:10.7-00:15:15.0
@@ -383,6 +385,7 @@ references:
   claim_id: 5bfa7c5a-94f3-4d41-bc2d-73da263197dd
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
+  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
 - text: Lockheed Martin's navigation team sent Mars Climate Orbiter data in imperial
     units while JPL assumed metric
   source: Dark Mission

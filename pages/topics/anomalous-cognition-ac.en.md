@@ -203,6 +203,7 @@ references:
   claim_id: 1bd10e59-16eb-4394-b1be-9a46ed43c0a4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
+  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
 - text: Same 13.47-hour peak found independently in the validation data set
   source: Remote Viewing Secrets
   location: ch29:17085-17194

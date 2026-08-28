@@ -541,6 +541,7 @@ references:
   claim_id: 457db9dc-2abe-4465-801f-6341b7823840
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-457db9dc-2abe-4465-801f-6341b7823840
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-457db9dc-2abe-4465-801f-6341b7823840
 - text: 'With John Mack, provided circumstantial evidence for alien abduction: landing-site
     traces, biopsy scars, alleged implants and testimony.'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -564,6 +565,7 @@ references:
   claim_id: 3de73aec-3ae7-4f0c-a598-31132e451edf
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-3de73aec-3ae7-4f0c-a598-31132e451edf
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-3de73aec-3ae7-4f0c-a598-31132e451edf
 - text: Kathy Davis has two "scoop mark" scars on her calf.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -576,6 +578,7 @@ references:
   claim_id: ff69c42e-4990-402d-97ed-5cbc6a4bafdc
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ff69c42e-4990-402d-97ed-5cbc6a4bafdc
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-ff69c42e-4990-402d-97ed-5cbc6a4bafdc
 - text: Kathy Davis made a small ceramic sculpture of the being who is the central
     figure described in Intruders.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -586,6 +589,7 @@ references:
   claim_id: 828a50b0-f081-4fac-912a-fa8f0450b8b2
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-828a50b0-f081-4fac-912a-fa8f0450b8b2
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-828a50b0-f081-4fac-912a-fa8f0450b8b2
 - text: A matching scoop mark was later found on Kathy Davis's mother.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -606,6 +610,7 @@ references:
   claim_id: d9088397-c192-44a2-89f1-5817d40e8121
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-d9088397-c192-44a2-89f1-5817d40e8121
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-d9088397-c192-44a2-89f1-5817d40e8121
 - text: Psychological testing found patterns of deficits similar to those in rape
     victims.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -627,6 +632,7 @@ references:
   claim_id: 7b66391f-d401-4621-b3a6-3342548ee93c
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b66391f-d401-4621-b3a6-3342548ee93c
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7b66391f-d401-4621-b3a6-3342548ee93c
 - text: Has never conducted past-life hypnosis regression with abductees.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -636,6 +642,7 @@ references:
   claim_id: 3b6349e1-a66c-4fcb-8fc2-e3074dba84d1
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-3b6349e1-a66c-4fcb-8fc2-e3074dba84d1
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-3b6349e1-a66c-4fcb-8fc2-e3074dba84d1
 - text: Deliberately left descriptions of the alleged nursery out of his book.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -646,6 +653,7 @@ references:
   claim_id: 81a4aa53-7f33-4903-aeee-f7b5873f300d
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-81a4aa53-7f33-4903-aeee-f7b5873f300d
+  inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-81a4aa53-7f33-4903-aeee-f7b5873f300d
 - text: The producers of Alien Encounters from Tomorrowland used him as an expert
     on hypnotic regression.
   source: American Cosmic
@@ -673,6 +681,7 @@ references:
   claim_id: 6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
 - text: Hopkins listened to Strieber's story and invited him over immediately.
   source: Communion
   location: ch9:45093-45182
@@ -724,6 +733,7 @@ references:
   claim_id: 4de79e48-185d-4516-85b2-256206147d95
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4de79e48-185d-4516-85b2-256206147d95
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-4de79e48-185d-4516-85b2-256206147d95
 - text: Hopkins recalled that Dr Donald Klein of the New York State Psychiatric Institute
     seemed open-minded about the phenomenon.
   source: Communion
@@ -744,6 +754,7 @@ references:
   claim_id: 8a00c3b0-8e53-4b8f-bc74-1367dd01a141
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
 - text: Strieber's memories became more detailed under Klein's hypnosis, surprising
     both men.
   source: The Fourth Mind
@@ -763,6 +774,7 @@ references:
   claim_id: de23db32-39b4-4419-abd9-38cc4fb60edf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
+  inspection_url: /records/2013-06-16-ebook-communion#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
 - text: During the March 1, 1986 session, remarked that the beginning moments are
     often the worst and it gets easier afterward.
   source: Communion
@@ -827,6 +839,7 @@ references:
   claim_id: f4c8daea-9d9f-4535-a3df-a077a73393a0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f4c8daea-9d9f-4535-a3df-a077a73393a0
+  inspection_url: /records/2013-06-16-ebook-communion#claim-f4c8daea-9d9f-4535-a3df-a077a73393a0
 - text: Only Strieber and Hopkins used their real names at the colloquy.
   source: Communion
   location: ch14:60163-60310

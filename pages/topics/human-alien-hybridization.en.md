@@ -63,6 +63,7 @@ references:
   claim_id: a7012f16-90c0-4130-b9a0-c4809cb71c7c
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
+  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
 - text: An experiencer at the Washington DC meeting in Shirley MacLaine's Going Within
     claimed she was part of an alien hybrid programme and that her foetus went missing
     three months into the pregnancy
@@ -213,6 +214,7 @@ references:
   claim_id: ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
 - text: Jason Samosa argues revealing differing non-human DNA levels would create
     a spectrum of human-ness and is unwise given current geopolitics
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

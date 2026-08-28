@@ -195,6 +195,7 @@ references:
   claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
+  inspection_url: /records/undated-pdf-statement-to-congress#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
 - text: The interagency task force Jay Stratton built became the Pentagon's UAP Task
     Force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'

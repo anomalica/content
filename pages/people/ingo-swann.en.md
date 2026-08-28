@@ -151,6 +151,7 @@ references:
   claim_id: 3d6fe272-ef51-4445-bd2a-ae8052852e81
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
 - text: Swann was approached by scientists at SRI to participate in research on psychic
     phenomena.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -161,6 +162,7 @@ references:
   claim_id: 9fbe87b3-33f5-489a-9e1e-a064be653ce5
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
 - text: Swann worked with Hal Puthoff and Russell Targ, two leading researchers in
     the field of parapsychology.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -181,6 +183,7 @@ references:
   claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
 - text: In 1973, Swann began working with SRI scientists to explore the possibility
     of remote viewing planetary objects.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -209,6 +212,7 @@ references:
   claim_id: 028163cf-995a-45b4-becd-070d7d5ef489
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-028163cf-995a-45b4-becd-070d7d5ef489
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-028163cf-995a-45b4-becd-070d7d5ef489
 - text: Swann was Ed Dames's mentor, and Dames later became his protege.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -227,6 +231,7 @@ references:
   claim_id: 219b853c-04ea-410c-939f-e756e2515773
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-219b853c-04ea-410c-939f-e756e2515773
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-219b853c-04ea-410c-939f-e756e2515773
 - text: Swann recalled that Hal Puthoff told him he was the first to find a ring around
     Jupiter.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -267,6 +272,7 @@ references:
   claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
+  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
 - text: Swann asked Hal Puthoff who was funding his remote-viewing training because
     it was classified.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary

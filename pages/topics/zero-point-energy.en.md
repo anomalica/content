@@ -56,6 +56,7 @@ references:
   claim_id: 79646744-ab52-44cd-be49-6183654cf506
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-79646744-ab52-44cd-be49-6183654cf506
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-79646744-ab52-44cd-be49-6183654cf506
 - text: Buzz Aldrin raised the topic of zero-point energy during a conversation with
     Clarke
   source: Clarke's Believe It or Not
@@ -65,6 +66,7 @@ references:
   claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
 - text: Zero-point energy is theorised by some physicists as a powerful energy source
     in the vacuum of space
   source: Clarke's Believe It or Not
@@ -74,6 +76,7 @@ references:
   claim_id: 93fa281f-307b-4ed2-8b6d-6fe2e43126ce
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-93fa281f-307b-4ed2-8b6d-6fe2e43126ce
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-93fa281f-307b-4ed2-8b6d-6fe2e43126ce
 - text: Buzz Aldrin believes it may take 200 to 400 years, but zero-point energy will
     be needed to reach Alpha Centauri
   source: Clarke's Believe It or Not
@@ -83,6 +86,7 @@ references:
   claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
 - text: Arthur C. Clarke said he was glad Aldrin raised the controversial question
     of zero-point energy
   source: Clarke's Believe It or Not
@@ -92,6 +96,7 @@ references:
   claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
 - text: Richard C. Hoagland regards Quantum Electrodynamics Zero Point Energy as Maxwell's
     hyperdimensional physics under another name
   source: Dark Mission
@@ -206,6 +211,7 @@ references:
   claim_id: 28e703f2-e708-487c-980a-3494dcf86df4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28e703f2-e708-487c-980a-3494dcf86df4
+  inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-28e703f2-e708-487c-980a-3494dcf86df4
 - text: Coulthart considers development of zero-point energy would be an ontological
     shock, wiping out top companies on the American stock exchange
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross

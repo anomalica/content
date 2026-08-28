@@ -117,6 +117,7 @@ references:
   claim_id: 97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
+  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
 - text: Samosa said the briefing included attendees from CIA DS&T, presumed to be
     Christopher Green's staff, plus the Collins Elite and a third group
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

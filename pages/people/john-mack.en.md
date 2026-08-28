@@ -265,6 +265,7 @@ references:
   claim_id: 73bdaa65-169f-4307-be13-7d7ce8c390dc
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
+  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
 - text: A female psychiatrist was also present observing one of the sessions
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58

@@ -139,6 +139,7 @@ references:
   claim_id: 7ec6e7b1-9021-4e44-8991-04cc39d75000
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
+  inspection_url: /records/2013-06-16-ebook-communion#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
 - text: Strieber states that Communion is a true story as far as he knows how to describe
     it
   source: Communion
@@ -147,6 +148,7 @@ references:
   claim_id: d536e371-1d43-4c34-a015-9407e6af91e0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d536e371-1d43-4c34-a015-9407e6af91e0
+  inspection_url: /records/2013-06-16-ebook-communion#claim-d536e371-1d43-4c34-a015-9407e6af91e0
 - text: The transcripts of his hypnosis sessions with Dr. Donald Klein are reproduced
     verbatim, so readers can confirm no leading questions were asked
   source: Communion
@@ -165,6 +167,7 @@ references:
   claim_id: cb102de0-5337-46be-8442-c0b56f417cb2
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb102de0-5337-46be-8442-c0b56f417cb2
+  inspection_url: /records/2013-06-16-ebook-communion#claim-cb102de0-5337-46be-8442-c0b56f417cb2
 - text: In a footnote, Strieber noted that Anne Strieber's description of the 'little
     feet' of a white thing at the LaGuardia Place apartment in 1982 reminded him of
     Annie Gottlieb's memory of 'scampering', and that Anne Strieber was unaware of
@@ -205,6 +208,7 @@ references:
   claim_id: 030b2727-2831-4043-957a-a9c0dacc0bd4
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
+  inspection_url: /records/2013-06-16-ebook-communion#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
 - text: Ted Jacobs's cover portrait of the being is a bit more human-looking than
     Strieber's actual mental image of it
   source: Communion
@@ -275,6 +279,7 @@ references:
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
 - text: Transformation was the sequel to Communion
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind

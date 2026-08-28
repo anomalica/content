@@ -516,6 +516,7 @@ references:
   claim_id: e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
+  inspection_url: /records/2019-ebook-american-cosmic#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
 - text: James Master found it lodged in a crevice between rocks in a gully
   source: American Cosmic
   location: ch1:53224-53366
@@ -592,6 +593,7 @@ references:
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
+  inspection_url: /records/2019-ebook-american-cosmic#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
 - text: Vallée told Pasulka to trust no one, not even what she saw
   source: American Cosmic
   location: ch2:55618-55702

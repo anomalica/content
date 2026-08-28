@@ -214,6 +214,7 @@ references:
   claim_id: 1f7ea2ec-6855-4b18-8a9c-addffa69e14b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
+  inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
 - text: Grusch gave 11 and a half hours of classified testimony to SSCI and HPSCI
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:26:29.6-00:26:36.3
@@ -222,6 +223,7 @@ references:
   claim_id: 9ea8ace8-0065-4fda-ad4e-74d262b0f693
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
+  inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
 - text: Grusch says the committees opened a full-field investigation after his testimony,
     with fear especially in the Senate
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'

@@ -57,6 +57,7 @@ references:
   claim_id: 092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
+  inspection_url: /records/2007-06-20-web-project-serpo#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
 - text: Interview took place 1995-04-08 in Las Vegas, Nevada, 12:24 to 17:13
   source: Project Serpo
   location: char:2711-2784
@@ -72,6 +73,7 @@ references:
   claim_id: 3ac25e82-232c-421b-8a14-ff846d88768c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3ac25e82-232c-421b-8a14-ff846d88768c
+  inspection_url: /records/2007-06-20-web-project-serpo#claim-3ac25e82-232c-421b-8a14-ff846d88768c
 - text: 2019 TTSA SEC filing recorded that Howe had held and studied the Art's Parts
     samples
   source: In Plain Sight

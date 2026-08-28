@@ -1236,6 +1236,7 @@ references:
   claim_id: ceb94734-e3e8-4357-80f7-36030104c196
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
+  inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-ceb94734-e3e8-4357-80f7-36030104c196
 - text: Jacques Vallée considered the UFO phenomenon to have physical, psycho-physiological
     and social-belief aspects.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -1245,6 +1246,7 @@ references:
   claim_id: 6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
 - text: The United States Air Force Chief of Staff established Project Sign in December
     1947 to investigate recorded UFO observations.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -1317,6 +1319,7 @@ references:
   claim_id: 267e54f7-ce5e-4c73-b25d-d1450d6e2e61
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
 - text: James E. McDonald said that a good UFO sighting report requires about an hour
     to investigate properly.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His

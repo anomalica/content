@@ -74,6 +74,7 @@ references:
   claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
 - text: Michael Kostelnik was director of special programmes in OUSDAT, as reorganised
     by William Perry in 1994.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -84,6 +85,7 @@ references:
   claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
 - text: Thomas Wilson met William Perry in May 1997 and discussed the matter quietly;
     Perry suggested the same approach as General Ward.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
