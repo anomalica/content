@@ -31,6 +31,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d2d87689-3e29-4383-84e5-96697063e07a
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-d2d87689-3e29-4383-84e5-96697063e07a
+  copyright_status: publicly_accessible
 - text: Ross Coulthart described Communion and Breakthrough as bestselling books by
     Whitley Strieber.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -42,6 +43,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Whitley Strieber calls the non-human beings he describes
     encountering the visitors.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -53,6 +55,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Strieber's accounts of alleged abduction experiences
     began at his remote upstate New York cabin in December 1985.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -65,6 +68,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Communion was a New York Times bestseller.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -76,6 +80,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  copyright_status: publicly_accessible
 - text: Ross Coulthart described Transformation 2026 as an expanded and updated reissue
     of Transformation.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -88,6 +93,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-9cb686c9-4c37-439c-810d-28fbf3d7fb0d
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-9cb686c9-4c37-439c-810d-28fbf3d7fb0d
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he had a close encounter experience in December
     1985.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -99,6 +105,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-a7bdec8b-ed3b-4e02-ae2e-cf04a97e0102
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-a7bdec8b-ed3b-4e02-ae2e-cf04a97e0102
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he was severely injured in some areas during the
     1985 encounter and went to a doctor.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -111,6 +118,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he initially believed masked people had assaulted
     him and did not connect the experience with aliens.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -123,6 +131,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-b0388b86-ee66-4b8a-b343-376b94de79d0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-b0388b86-ee66-4b8a-b343-376b94de79d0
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he telephoned Budd Hopkins after reading Science
     and the UFOs.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -134,6 +143,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that Budd Hopkins wanted to hypnotise him, but that
     he refused.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -146,6 +156,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4de79e48-185d-4516-85b2-256206147d95
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-4de79e48-185d-4516-85b2-256206147d95
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that Budd Hopkins introduced him to Donald Klein, who
     hypnotised him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -158,6 +169,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that hypnosis with Donald Klein led him to recall an
     apparent alien abduction.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -171,6 +183,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-116d5684-c0d2-418c-8c29-a63842866719
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that in January 1987 he had been going nightly to the
     clearing near his cabin after asking the visitors for a meeting.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -184,6 +197,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3d0ff878-e53c-4c8c-9736-3fc373f86e9a
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3d0ff878-e53c-4c8c-9736-3fc373f86e9a
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that the visitors took his adult consciousness back
     into his infant body at the moment he first walked, breaking through childhood
     amnesia.
@@ -198,6 +212,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8200f835-b09b-40a3-8342-2206f4cbadaf
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8200f835-b09b-40a3-8342-2206f4cbadaf
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he concluded the soul collects every detail of
     a person's life.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -210,6 +225,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-33bdb778-1d7d-45ab-86b2-8d9e6a5aa552
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-33bdb778-1d7d-45ab-86b2-8d9e6a5aa552
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he saw a synergy between UAP disclosure and the
     visitors returning into people's lives.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -223,6 +239,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ce353e38-b6ba-46e3-82b9-2d9441eec384
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-ce353e38-b6ba-46e3-82b9-2d9441eec384
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that he did not believe it was possible to know whether
     his experiences were real or whether the visitors were manipulating him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -235,6 +252,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-9e5cf6dd-35d0-4b3a-8fd9-cab0fc380217
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-9e5cf6dd-35d0-4b3a-8fd9-cab0fc380217
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that critics regard hypnosis in Strieber's accounts as
     unreliable evidence.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -249,6 +267,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5740ea77-8df7-4c3e-ae62-d7421d008dc2
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-5740ea77-8df7-4c3e-ae62-d7421d008dc2
+  copyright_status: publicly_accessible
 - text: Whitley Strieber described the stories in his books as a serious attempt to
     describe experiences that were real on some level.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -262,6 +281,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3a44fa61-81c8-40e6-a388-fabfe881ba44
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3a44fa61-81c8-40e6-a388-fabfe881ba44
+  copyright_status: publicly_accessible
 - text: Whitley Strieber said that Andrew Strieber's note was written the morning
     after his encounter and quoted its text.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -275,6 +295,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-41813957-ab68-4a28-958d-e5e3f53c87e0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-41813957-ab68-4a28-958d-e5e3f53c87e0
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

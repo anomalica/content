@@ -669,6 +669,7 @@ references:
   claim_id: ee38efe6-9f1b-4226-b4f8-1668232d4602
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ee38efe6-9f1b-4226-b4f8-1668232d4602
+  copyright_status: publicly_accessible
 - text: USS Nimitz was performing drills off Southern California ahead of deployment
     to the Persian Gulf
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -679,6 +680,7 @@ references:
   claim_id: 52327d81-e364-4c4d-9298-1352e7da231f
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-52327d81-e364-4c4d-9298-1352e7da231f
+  copyright_status: publicly_accessible
 - text: The carrier strike group was training roughly 160 km southwest of San Diego
   source: Navy pilots describe encounters with UFOs
   location: 00:07:14.4-00:07:22.2
@@ -687,6 +689,7 @@ references:
   claim_id: a692b189-1226-41ca-9540-c4445d57fa01
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
+  copyright_status: publicly_accessible
 - text: David Fravor was commander of the F/A-18 squadron aboard the Nimitz
   source: Navy pilots describe encounters with UFOs
   location: 00:06:46.6-00:06:49.9
@@ -694,6 +697,7 @@ references:
   claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-50c2d454-7240-49f4-9317-b7ce96de2dce
+  copyright_status: publicly_accessible
 - text: Fravor and Dietrich were diverted to investigate USS Princeton's radar contacts
   source: Navy pilots describe encounters with UFOs
   location: 00:07:39.4-00:07:46.0
@@ -702,6 +706,7 @@ references:
   claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
+  copyright_status: publicly_accessible
 - text: The incident was documented by radar, camera, and four naval aviators
   source: Navy pilots describe encounters with UFOs
   location: 00:06:32.3-00:06:39.9
@@ -710,6 +715,7 @@ references:
   claim_id: d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d0a2e3bc-c6c3-444d-ab82-5f184acf5b4c
+  copyright_status: publicly_accessible
 - text: From 2004-11-10, Princeton radar detected objects at ~8,500 m and ~190 km/h
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -720,6 +726,7 @@ references:
   claim_id: ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
+  copyright_status: publicly_accessible
 - text: Princeton tracked the objects intermittently for about a week before the encounter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -729,6 +736,7 @@ references:
   claim_id: cf93d6d5-831a-49b0-aac6-0fb5f51919a7
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cf93d6d5-831a-49b0-aac6-0fb5f51919a7
+  copyright_status: publicly_accessible
 - text: Kevin Day was manning the Princeton's radar during the exercise
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:20.4-00:14:23.8
@@ -736,6 +744,7 @@ references:
   claim_id: 17d09693-6798-454a-b66f-09da76258383
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-17d09693-6798-454a-b66f-09da76258383
+  copyright_status: publicly_accessible
 - text: Day observed a formation of unidentified objects rather than simulated adversary
     aircraft
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -745,6 +754,7 @@ references:
   claim_id: d0314d73-7fee-4c08-9615-c69f90b649b3
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d0314d73-7fee-4c08-9615-c69f90b649b3
+  copyright_status: publicly_accessible
 - text: Day's captain confirmed the contacts had been tracked for days
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:15:00.9-00:15:09.4
@@ -754,6 +764,7 @@ references:
   claim_id: b2bf7bc8-b546-4436-b6a5-8cde648950cb
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-b2bf7bc8-b546-4436-b6a5-8cde648950cb
+  copyright_status: publicly_accessible
 - text: An object descended from ~8,500 m to the ocean surface in 0.78 seconds
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:27.3-00:16:29.5
@@ -761,6 +772,7 @@ references:
   claim_id: 7b8c13d9-27b1-4e6d-a078-5dae10632051
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-7b8c13d9-27b1-4e6d-a078-5dae10632051
+  copyright_status: publicly_accessible
 - text: Fravor and three crew flew two F/A-18F Super Hornets when their training mission
     was cancelled
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -771,6 +783,7 @@ references:
   claim_id: 1bd21bee-7cce-46da-9f7d-e19d6616cd2e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1bd21bee-7cce-46da-9f7d-e19d6616cd2e
+  copyright_status: publicly_accessible
 - text: Princeton gave bearing, range and altitude calls at ~80, 64 and 48 km
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -781,6 +794,7 @@ references:
   claim_id: 3d7ff4db-d587-4206-87b4-6d83acb61712
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d7ff4db-d587-4206-87b4-6d83acb61712
+  copyright_status: publicly_accessible
 - text: The sighting occurred on a clear day, unrestricted visibility, calm seas
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -790,6 +804,7 @@ references:
   claim_id: ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ef3eba3a-de99-42a1-89f6-2ab8b6f5c473
+  copyright_status: publicly_accessible
 - text: White water in a cross shape, size of a Boeing 737, caused by something 5-6
     m below
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -801,6 +816,7 @@ references:
   claim_id: 005c8f92-1e07-494e-912c-c5f35c33cd36
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-005c8f92-1e07-494e-912c-c5f35c33cd36
+  copyright_status: publicly_accessible
 - text: No object was visible beneath the surface, only the white water
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -810,6 +826,7 @@ references:
   claim_id: 509a0cc8-3d1f-4abe-9e0c-d38a32900b3e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-509a0cc8-3d1f-4abe-9e0c-d38a32900b3e
+  copyright_status: publicly_accessible
 - text: Fravor spotted a small white Tic Tac-shaped object ~6,100 m below his aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -819,6 +836,7 @@ references:
   claim_id: a57cbdc5-8317-456b-b69d-638e679afd7f
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a57cbdc5-8317-456b-b69d-638e679afd7f
+  copyright_status: publicly_accessible
 - text: Dietrich circled above while Fravor descended for a closer look
   source: Navy pilots describe encounters with UFOs
   location: 00:08:12.3-00:08:16.3
@@ -826,6 +844,7 @@ references:
   claim_id: 1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1cd7e8f2-6b74-454f-995f-0c894f9f9ac1
+  copyright_status: publicly_accessible
 - text: Object was about the size of an F/A-18, no markings, no wings, no exhaust
   source: Navy pilots describe encounters with UFOs
   location: 00:08:30.6-00:08:36.6
@@ -834,6 +853,7 @@ references:
   claim_id: d5788c67-339f-457a-993a-5464b6d58861
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
+  copyright_status: publicly_accessible
 - text: Object moved abruptly between directions, no gradual deceleration, unlike
     a helicopter
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -844,6 +864,7 @@ references:
   claim_id: e8ed634d-37dd-424a-b95d-75a0034ae9b1
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e8ed634d-37dd-424a-b95d-75a0034ae9b1
+  copyright_status: publicly_accessible
 - text: No visible rotor wash on the water below
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -852,6 +873,7 @@ references:
   claim_id: c713b9ae-1001-4db3-a8ef-33bdfeb099f3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c713b9ae-1001-4db3-a8ef-33bdfeb099f3
+  copyright_status: publicly_accessible
 - text: Fravor descended while his wingman stayed higher to observe from a different
     angle
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -862,6 +884,7 @@ references:
   claim_id: 76adf749-890f-4b94-812b-258d58a55aac
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-76adf749-890f-4b94-812b-258d58a55aac
+  copyright_status: publicly_accessible
 - text: Fravor descended at an airspeed of approximately 556 km/h
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -871,6 +894,7 @@ references:
   claim_id: 0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0c59e3ab-4e36-4ce0-9da3-eb953ee1b482
+  copyright_status: publicly_accessible
 - text: Fravor closed to within approximately 0.8 km of the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -880,6 +904,7 @@ references:
   claim_id: efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-efbc6571-e0ab-4c59-aaba-3c4e0ea594b1
+  copyright_status: publicly_accessible
 - text: Object appeared to react, turning west and beginning to ascend
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -890,6 +915,7 @@ references:
   claim_id: 0b3b29d8-9db5-4de5-8868-82466c334d0e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0b3b29d8-9db5-4de5-8868-82466c334d0e
+  copyright_status: publicly_accessible
 - text: Acceleration and disappearance occurred at ~3,700 m, ~2,400 m below the other
     aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -900,6 +926,7 @@ references:
   claim_id: 70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-70f5a7f8-0630-4dd1-b91f-5dbb248aa16c
+  copyright_status: publicly_accessible
 - text: The white water disappeared at the same time as the object, no trace left
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -909,6 +936,7 @@ references:
   claim_id: f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f89c5e3a-6c0b-4d5d-917f-90fb62d049aa
+  copyright_status: publicly_accessible
 - text: Four aviators watched the object for approximately five minutes
   source: Navy pilots describe encounters with UFOs
   location: 00:09:04.2-00:09:08.2
@@ -917,6 +945,7 @@ references:
   claim_id: a6b5ec29-fdd7-4931-a458-898d5021e134
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a6b5ec29-fdd7-4931-a458-898d5021e134
+  copyright_status: publicly_accessible
 - text: 'Elizondo: object disappeared instantly, radar reported it at the cap point
     five seconds later'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -928,6 +957,7 @@ references:
   claim_id: 5b5950e0-41f0-4b28-ba23-31269da8b761
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5b5950e0-41f0-4b28-ba23-31269da8b761
+  copyright_status: publicly_accessible
 - text: The cap point was ~97 km away, known only to a handful of Navy personnel and
     pilots
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -937,6 +967,7 @@ references:
   claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
+  copyright_status: publicly_accessible
 - text: The object was already at the cap point though its location was known only
     in the Nimitz briefing room
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -948,6 +979,7 @@ references:
   claim_id: 94908746-20d4-40a5-9d6b-10e35cd8a1a7
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-94908746-20d4-40a5-9d6b-10e35cd8a1a7
+  copyright_status: publicly_accessible
 - text: Fravor's flight searched by radar but never located the object again
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -956,6 +988,7 @@ references:
   claim_id: 2931616c-1307-42bb-859e-a39285fa2ae4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2931616c-1307-42bb-859e-a39285fa2ae4
+  copyright_status: publicly_accessible
 - text: Fravor said he did not know how it knew to be there, speculating on the daily-used
     point
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -967,6 +1000,7 @@ references:
   claim_id: 27860439-1b09-493f-ab51-16ba977677bd
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-27860439-1b09-493f-ab51-16ba977677bd
+  copyright_status: publicly_accessible
 - text: Chad Underwood recorded FLIR video of the object
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -975,6 +1009,7 @@ references:
   claim_id: d11106ea-4e7b-4ed0-9939-9993a58df6ed
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d11106ea-4e7b-4ed0-9939-9993a58df6ed
+  copyright_status: publicly_accessible
 - text: Only the FLIR targeting-pod tape has been publicly released; other data has
     not
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -985,6 +1020,7 @@ references:
   claim_id: 12b3b42f-f8ac-4aee-8786-83af6d5bf351
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-12b3b42f-f8ac-4aee-8786-83af6d5bf351
+  copyright_status: publicly_accessible
 - text: The encounter went unaddressed for five years until Elizondo investigated
     it
   source: Navy pilots describe encounters with UFOs
@@ -994,6 +1030,7 @@ references:
   claim_id: 2134b643-d8ae-4044-8f0d-873435cc8be3
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2134b643-d8ae-4044-8f0d-873435cc8be3
+  copyright_status: publicly_accessible
 - text: The New York Times reported a Pentagon unit investigating UFOs in December
     2017
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -1004,6 +1041,7 @@ references:
   claim_id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-bbe4780a-5c87-4ffb-a8fd-2103976ab254
+  copyright_status: publicly_accessible
 - text: Dietrich had not spoken publicly about the encounter before this interview
   source: Navy pilots describe encounters with UFOs
   location: 00:06:50.6-00:06:56.2
@@ -1012,6 +1050,7 @@ references:
   claim_id: 75592595-ad81-421a-b01d-7a45d92753bb
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-75592595-ad81-421a-b01d-7a45d92753bb
+  copyright_status: publicly_accessible
 - text: Dietrich felt a responsibility to share her account given the unclassified,
     on-duty nature of the sighting
   source: Navy pilots describe encounters with UFOs
@@ -1021,6 +1060,7 @@ references:
   claim_id: e44a718a-1026-4973-9da4-79176d4ecfdd
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-e44a718a-1026-4973-9da4-79176d4ecfdd
+  copyright_status: publicly_accessible
 - text: Dietrich felt vulnerable, having nothing with which to defend themselves
   source: Navy pilots describe encounters with UFOs
   location: 00:13:37.4-00:13:40.8
@@ -1028,6 +1068,7 @@ references:
   claim_id: fdf2ac36-553c-483c-ad6b-722977859394
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-fdf2ac36-553c-483c-ad6b-722977859394
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

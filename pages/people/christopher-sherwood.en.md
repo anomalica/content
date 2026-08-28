@@ -46,6 +46,7 @@ references:
   claim_id: 9ed24253-1ad0-4616-a6e2-59dbc1b46427
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-9ed24253-1ad0-4616-a6e2-59dbc1b46427
+  copyright_status: publicly_accessible
 - text: Told reporters three UAP videos were cleared for research purposes only, not
     public dissemination
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -53,6 +54,7 @@ references:
   claim_id: b0f1de96-3623-4d96-a9b7-35d625e22f0b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b0f1de96-3623-4d96-a9b7-35d625e22f0b
+  copyright_status: restricted
 - text: Told Keith Kloor unequivocally Elizondo had no responsibilities regarding
     AATIP while at OUSDI
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -63,6 +65,7 @@ references:
   claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
+  copyright_status: publicly_accessible
 - text: Said Elizondo had no AATIP responsibilities at OUSDI up until his resignation,
     effective 2017-10-04
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -74,6 +77,7 @@ references:
   claim_id: 36b2d290-0a81-491f-be1a-ce48bbc44eb3
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-36b2d290-0a81-491f-be1a-ce48bbc44eb3
+  copyright_status: publicly_accessible
 - text: Said he reached this conclusion after speaking with OUSDI leadership present
     since Elizondo started
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -84,6 +88,7 @@ references:
   claim_id: 0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
+  copyright_status: publicly_accessible
 - text: Acknowledged Elizondo worked for other organisations within the DoD
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -92,6 +97,7 @@ references:
   claim_id: b717b19a-b27b-4382-adc0-f9c2be3d21a5
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b717b19a-b27b-4382-adc0-f9c2be3d21a5
+  copyright_status: publicly_accessible
 - text: Confirmed AATIP existed and pursued research and investigation into UAP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -101,6 +107,7 @@ references:
   claim_id: 65efb0c2-df6c-47e7-aed2-897a4b719c45
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-65efb0c2-df6c-47e7-aed2-897a4b719c45
+  copyright_status: publicly_accessible
 - text: Said he could not confirm Dana White's statement that AATIP existed and was
     run by Elizondo
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -111,6 +118,7 @@ references:
   claim_id: c9a6069b-9da7-4b8b-9621-ae66d3a22deb
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
+  copyright_status: publicly_accessible
 - text: Pentagon's earlier position, unchanged by the 2009 Harry Reid memo, had been
     issued to The Intercept by Sherwood
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -121,6 +129,7 @@ references:
   claim_id: 7d33cf7d-4534-459e-8e40-7a44cd1de185
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-7d33cf7d-4534-459e-8e40-7a44cd1de185
+  copyright_status: publicly_accessible
 - text: Keith Kloor said Sherwood's statement contradicted a TTSA spokesperson's email
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -131,12 +140,14 @@ references:
   claim_id: c98f8a22-b06c-4c95-8639-e6cd1c4e0694
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+  copyright_status: publicly_accessible
 - text: Denied Elizondo had any AATIP involvement, quoted as saying he had 'no responsibilities'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:4525-4788
   claim_id: 33ca9ea9-b847-4fa9-aa48-c24729a18d66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-33ca9ea9-b847-4fa9-aa48-c24729a18d66
+  copyright_status: restricted
 - text: Privately admitted to Elizondo he knew of his AATIP role but was told not
     to admit it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -144,6 +155,7 @@ references:
   claim_id: c21dc27c-f073-4f39-9a71-40461f63dedd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c21dc27c-f073-4f39-9a71-40461f63dedd
+  copyright_status: restricted
 - text: Brad Byers reportedly called Sherwood warning too many people knew of Elizondo's
     AATIP role
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -151,6 +163,7 @@ references:
   claim_id: 63e93ae5-6a1e-440f-aa69-a5546e92dfbf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63e93ae5-6a1e-440f-aa69-a5546e92dfbf
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

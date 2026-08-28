@@ -57,6 +57,7 @@ references:
   claim_id: 72d85dd3-192a-4002-9399-417198061f31
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-72d85dd3-192a-4002-9399-417198061f31
+  copyright_status: restricted
 - text: First implant removal on 19 August 1995 isolated three objects from two abductees,
     Patricia and Paul
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -64,12 +65,14 @@ references:
   claim_id: d6d7da9e-aa69-4a8a-a989-e53cace830e3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d6d7da9e-aa69-4a8a-a989-e53cace830e3
+  copyright_status: restricted
 - text: Described about a dozen implant removal surgeries since 1995
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9483-9557
   claim_id: 671ef9bf-d8cf-4c90-8758-90d0dbe86e4f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-671ef9bf-d8cf-4c90-8758-90d0dbe86e4f
+  copyright_status: restricted
 - text: NIDS-supported analyses at a New Mexico Tech laboratory in Socorro used X-ray
     spectroscopy and diffraction
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -77,6 +80,7 @@ references:
   claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0b19e62e-6636-4bae-b7a5-04564bcd729d
+  copyright_status: restricted
 - text: First three implant removals showed compositional and isotopic results supporting
     a possible meteoritic origin
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -84,6 +88,7 @@ references:
   claim_id: 845e3d45-9651-46a3-bb71-fe55155b4beb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-845e3d45-9651-46a3-bb71-fe55155b4beb
+  copyright_status: restricted
 - text: 'Bill Chalker: meteoritic-origin correlations are tentative, far from confirming
     an extraterrestrial source'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -91,6 +96,7 @@ references:
   claim_id: 25d4c29d-7b85-4981-b93d-9234dcd5df57
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25d4c29d-7b85-4981-b93d-9234dcd5df57
+  copyright_status: restricted
 - text: 'New Mexico Tech''s own analysis suggested a more prosaic origin: a stone
     calcified inside the body'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -98,6 +104,7 @@ references:
   claim_id: 2cb86611-b9af-4990-8f84-3d037573b87c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2cb86611-b9af-4990-8f84-3d037573b87c
+  copyright_status: restricted
 - text: Gary Lowrey's alleged experiences were investigated by a number of parties,
     including Leir
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -105,6 +112,7 @@ references:
   claim_id: 5251dc86-baf4-4f5f-a57a-e914fc5cd572
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5251dc86-baf4-4f5f-a57a-e914fc5cd572
+  copyright_status: restricted
 - text: Colm Kelleher, after consulting Leir on the Lowrey case, felt the claw sample
     was a good DNA study candidate
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -112,6 +120,7 @@ references:
   claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ccd8905-be5e-4908-9ae1-03f57edb7d1d
+  copyright_status: restricted
 - text: Strieber declined to travel with Leir to Brazil in 2002 when Leir first heard
     of the Varginha case
   source: The Fourth Mind
@@ -119,6 +128,7 @@ references:
   claim_id: f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
+  copyright_status: restricted
 - text: In Brazil in 2002, Leir attempted to interview Officer Cherese's widow, who
     confirmed only that her husband died in hospital
   source: The Fourth Mind
@@ -126,6 +136,7 @@ references:
   claim_id: 8634ede7-d56a-43dc-a951-9dcd2f8c0828
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8634ede7-d56a-43dc-a951-9dcd2f8c0828
+  copyright_status: restricted
 - text: Leir telephoned Strieber from Varginha to report one of the most amazing interviews
     in UFO research history
   source: The Fourth Mind
@@ -133,6 +144,7 @@ references:
   claim_id: 296b5b87-01a3-4eeb-b973-6955a9a0cdd8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-296b5b87-01a3-4eeb-b973-6955a9a0cdd8
+  copyright_status: restricted
 - text: Strieber considers Leir's Varginha interview among the most amazing interviews
     done on any subject
   source: The Fourth Mind
@@ -140,12 +152,14 @@ references:
   claim_id: 442f994c-c10f-4978-b4e4-d7fa74070c96
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-442f994c-c10f-4978-b4e4-d7fa74070c96
+  copyright_status: restricted
 - text: Strieber never doubted Leir's truthfulness about the Varginha story
   source: The Fourth Mind
   location: ch13:9259-9345
   claim_id: 71c7bdde-346c-4e8a-ac1d-194ed243bd3a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-71c7bdde-346c-4e8a-ac1d-194ed243bd3a
+  copyright_status: restricted
 - text: Interviewed medical personnel shifted from claiming thirdhand knowledge to
     revealing firsthand participation
   source: The Fourth Mind
@@ -153,6 +167,7 @@ references:
   claim_id: 0ae77544-e36a-46ab-833b-c4c8940eb40b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0ae77544-e36a-46ab-833b-c4c8940eb40b
+  copyright_status: restricted
 - text: Leir interviewed Valquira Silva, who described a short, crouching, motionless,
     brown-skinned creature
   source: The Fourth Mind
@@ -160,6 +175,7 @@ references:
   claim_id: 86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
+  copyright_status: restricted
 - text: A medical staff member said none of the personnel wanted to look into the
     creature's eyes
   source: The Fourth Mind
@@ -167,6 +183,7 @@ references:
   claim_id: 06000d9d-f25a-466a-b037-bca730d23ae3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-06000d9d-f25a-466a-b037-bca730d23ae3
+  copyright_status: restricted
 - text: A doctor was reticent about the 'thought grams' but described what the creature
     told him about human beings
   source: The Fourth Mind
@@ -174,6 +191,7 @@ references:
   claim_id: ac5745be-d309-472a-9c2a-f328b4c9ad99
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ac5745be-d309-472a-9c2a-f328b4c9ad99
+  copyright_status: restricted
 - text: Like John Mack, Leir's medical licence was challenged via a nuisance lawsuit
     that led to his practice's decline
   source: The Fourth Mind
@@ -181,6 +199,7 @@ references:
   claim_id: 19331b2c-7286-4a4f-a980-ed5cefc0b522
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-19331b2c-7286-4a4f-a980-ed5cefc0b522
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

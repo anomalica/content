@@ -32,6 +32,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said he did not regard the released material on the war.gov
     UFO files website as evidence of extraterrestrials.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -45,6 +46,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c840403-0043-457d-b537-795187d051b8
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-5c840403-0043-457d-b537-795187d051b8
+  copyright_status: publicly_accessible
 - text: Ross Coulthart described Trump's UAP file release and declassification initiative
     as a positive sign.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -59,6 +61,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-e488957b-d09d-47cd-857c-5327e132f318
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said the alleged CIA DNA-database screening claims were disputed
     and that he did not know whether they were true.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -71,6 +74,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-159477c7-656a-489f-a4e0-b1cdd208a7ce
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said he strongly suspected that technology had been developed
     from acquired non-human technology.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -83,6 +87,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-09ab1750-1b9a-44ef-9be5-c4d80f2b88cb
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-09ab1750-1b9a-44ef-9be5-c4d80f2b88cb
+  copyright_status: publicly_accessible
 - text: Ross Coulthart described zero-point energy as energy drawn from the quantum
     vacuum.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -96,6 +101,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28e703f2-e708-487c-980a-3494dcf86df4
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-28e703f2-e708-487c-980a-3494dcf86df4
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said he had been told that the United States government held
     unreleased high-resolution UAP imagery.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -108,6 +114,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-cb2bbc79-7683-43da-bbbb-93496f5bfa40
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-cb2bbc79-7683-43da-bbbb-93496f5bfa40
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said The Red Book and The Yellow Book were not verified as
     real.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -119,6 +126,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-811a3f70-5317-4ed3-9d8a-d20cf0d5d3aa
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-811a3f70-5317-4ed3-9d8a-d20cf0d5d3aa
+  copyright_status: publicly_accessible
 - text: Ross Coulthart relayed Project Serpo claims about The Yellow Book being given
     to the United States government by extraterrestrials from Zeta Reticuli.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -131,6 +139,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-10805a80-252d-42a1-8cdc-c3a6b0b92056
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-10805a80-252d-42a1-8cdc-c3a6b0b92056
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said there was no verifiable evidence supporting the Project
     Serpo materials.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -142,6 +151,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-898bfd64-83be-4c68-b0ff-18e6060a45dd
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-898bfd64-83be-4c68-b0ff-18e6060a45dd
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said Nat Kobitz told him that the United States had recovered
     multiple non-human craft.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -153,6 +163,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-b80bbb3d-369c-49ff-8200-96baeef0074b
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said Nat Kobitz described an unusual bonded join between two
     metals examined at Wright-Patterson Air Force Base.
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -166,6 +177,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-147ab155-ee82-42e6-840b-5045038bde1c
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-147ab155-ee82-42e6-840b-5045038bde1c
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -29,6 +29,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-eabc5966-24da-477f-b881-05a744874bbd
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-eabc5966-24da-477f-b881-05a744874bbd
+  copyright_status: publicly_accessible
 - text: Jacobs made a pastel drawing for a cover of one of Strieber's books.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -39,6 +40,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-13516cc7-b60b-4d24-94c2-b4b9d941ebe5
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-13516cc7-b60b-4d24-94c2-b4b9d941ebe5
+  copyright_status: publicly_accessible
 - text: Jacobs made drawings of figures described to Hopkins by an abductee.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -49,6 +51,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-3e6824fc-7348-4e55-80b0-2696323abd68
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-3e6824fc-7348-4e55-80b0-2696323abd68
+  copyright_status: publicly_accessible
 - text: Davis's drawing was compared with a similar drawing by an independent witness.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -60,6 +63,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-49b3e523-08a6-4a8f-a81c-c56f5a36add8
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-49b3e523-08a6-4a8f-a81c-c56f5a36add8
+  copyright_status: publicly_accessible
 - text: A North Carolina witness reportedly produced a closely resembling drawing
     without seeing Davis's.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -73,6 +77,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-bb4c7ac0-688f-48e2-b32c-e97450b8d03d
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-bb4c7ac0-688f-48e2-b32c-e97450b8d03d
+  copyright_status: publicly_accessible
 - text: Hopkins said abductees typically described humanoid figures between approximately
     0.9 and nearly 1.5 metres tall.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -85,6 +90,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-77fdcdc9-0158-4ed7-9d44-5744f6ad0e43
+  copyright_status: publicly_accessible
 - text: A Canadian case included a figure whose eyes wrapped around the side of its
     head.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -97,6 +103,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-e5a7dbb5-0909-4025-92e4-3257ecc61dc4
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-e5a7dbb5-0909-4025-92e4-3257ecc61dc4
+  copyright_status: publicly_accessible
 - text: Hopkins said memory suppression could leave partial conscious recollection.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -109,6 +116,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7b89acaf-87c3-426b-a5de-826e7f42b416
+  copyright_status: publicly_accessible
 - text: A Toronto-area abductee recalled a luminous square doorway and two small beings.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -122,6 +130,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-f5585659-d4ab-43ae-9e60-5de970fe1ea8
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-f5585659-d4ab-43ae-9e60-5de970fe1ea8
+  copyright_status: publicly_accessible
 - text: Hypnosis reportedly disclosed repeated examination-table experiences not consciously
     recalled.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -136,6 +145,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-3de73aec-3ae7-4f0c-a598-31132e451edf
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-3de73aec-3ae7-4f0c-a598-31132e451edf
+  copyright_status: publicly_accessible
 - text: A case in Erie involved a craft descending beside a second-storey bedroom
     window and taking a woman into it.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -149,6 +159,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-1af874dc-4a07-4bed-a8f6-898eba2bc630
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-1af874dc-4a07-4bed-a8f6-898eba2bc630
+  copyright_status: publicly_accessible
 - text: The Erie witness reportedly awoke to broken branches outside the window.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -160,6 +171,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-04de3bd2-8d65-46ec-8570-5e28db158bea
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-04de3bd2-8d65-46ec-8570-5e28db158bea
+  copyright_status: publicly_accessible
 - text: Davis made a ceramic sculpture of the central being described in Intruders.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -171,6 +183,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-828a50b0-f081-4fac-912a-fa8f0450b8b2
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-828a50b0-f081-4fac-912a-fa8f0450b8b2
+  copyright_status: publicly_accessible
 - text: Abductees in Hopkins's support group reacted with discomfort to the sculpture.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -182,6 +195,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-d9088397-c192-44a2-89f1-5817d40e8121
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-d9088397-c192-44a2-89f1-5817d40e8121
+  copyright_status: publicly_accessible
 - text: Hopkins said he was convinced that at least three people had been driven to
     suicide by abduction experiences.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -194,6 +208,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-f1bf65b4-ad6c-46d9-ad0d-de8308cddc09
+  copyright_status: publicly_accessible
 - text: Hopkins said he had documented abduction cases in Manhattan and worked with
     abductees from all New York City boroughs.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -205,6 +220,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-457db9dc-2abe-4465-801f-6341b7823840
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-457db9dc-2abe-4465-801f-6341b7823840
+  copyright_status: publicly_accessible
 - text: A case involved a perfectly black craft and a beam lifting an abductee through
     an apartment window.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -218,6 +234,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-8359e108-9ab4-4954-a799-93c7abd7abe4
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-8359e108-9ab4-4954-a799-93c7abd7abe4
+  copyright_status: publicly_accessible
 - text: Two young siblings were reportedly floated from their beds by a beam on Christmas
     Eve.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -233,6 +250,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-5faa6224-1fc5-4b84-8e15-5317a0874ce2
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-5faa6224-1fc5-4b84-8e15-5317a0874ce2
+  copyright_status: publicly_accessible
 - text: Psychological testing reportedly found lowered self-esteem, fear of the outer
     world and distrust of the body among abductees.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -245,6 +263,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7b66391f-d401-4621-b3a6-3342548ee93c
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7b66391f-d401-4621-b3a6-3342548ee93c
+  copyright_status: publicly_accessible
 - text: Hopkins said he had never conducted past-life hypnosis regression with abductees.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -256,6 +275,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-3b6349e1-a66c-4fcb-8fc2-e3074dba84d1
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-3b6349e1-a66c-4fcb-8fc2-e3074dba84d1
+  copyright_status: publicly_accessible
 - text: Linda Moulton Howe said a Canadian abductee reported that the beings could
     tune in more easily to some people than others.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -268,6 +288,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ae47f467-2e80-478f-981f-55d62a9b5232
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-ae47f467-2e80-478f-981f-55d62a9b5232
+  copyright_status: publicly_accessible
 - text: Hopkins compared his trust in an alien's statements with his trust in Ed Meese's
     statements.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -280,6 +301,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-844324cc-c559-484f-8a36-a1f525f6c8fe
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-844324cc-c559-484f-8a36-a1f525f6c8fe
+  copyright_status: publicly_accessible
 - text: Hopkins believed abductions could follow genetic lineages across generations.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -293,6 +315,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-e313c90c-7e86-4776-ae28-7865ec3801ad
+  copyright_status: publicly_accessible
 - text: Hopkins described a woman reportedly abducted in Ohio, Spain and Argentina.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -306,6 +329,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-c4e95791-9c78-4d55-a5e5-f053ceb85752
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-c4e95791-9c78-4d55-a5e5-f053ceb85752
+  copyright_status: publicly_accessible
 - text: A drawing depicted a reported facility described as a nursery where fetuses
     were developed.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -320,6 +344,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-ddfb62ca-41ea-4c80-8a42-81773eee82e1
+  copyright_status: publicly_accessible
 - text: Hopkins said he had omitted nursery descriptions from his book despite collecting
     similar cases.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -333,6 +358,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-81a4aa53-7f33-4903-aeee-f7b5873f300d
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-81a4aa53-7f33-4903-aeee-f7b5873f300d
+  copyright_status: publicly_accessible
 - text: Hopkins reported that some cases involved conscious recollection without hypnosis.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -345,6 +371,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-939d448e-cb0c-4ad9-8804-c2be1daf9889
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-939d448e-cb0c-4ad9-8804-c2be1daf9889
+  copyright_status: publicly_accessible
 - text: A reported case included details matching unpublished material in Intruders.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -356,6 +383,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-d70474de-54b9-4e07-834a-e347b52fac69
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-d70474de-54b9-4e07-834a-e347b52fac69
+  copyright_status: publicly_accessible
 - text: Hopkins described scoop marks on Davis's calf and a similar mark on her mother's
     leg.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -371,6 +399,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-ff69c42e-4990-402d-97ed-5cbc6a4bafdc
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-ff69c42e-4990-402d-97ed-5cbc6a4bafdc
+  copyright_status: publicly_accessible
 - text: Hopkins said a scoop mark was found on the back of a man abducted from Brooklyn.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
     (1988)'
@@ -382,6 +411,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-4095a089-48b0-46b0-9360-9e9c2cf84a01
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-4095a089-48b0-46b0-9360-9e9c2cf84a01
+  copyright_status: publicly_accessible
 - text: A chemist reportedly described small grey figures and temporary inability
     to move during an abduction.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -395,6 +425,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-8ce4da54-5801-41fd-b98c-7bdc9dae5dc4
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-8ce4da54-5801-41fd-b98c-7bdc9dae5dc4
+  copyright_status: publicly_accessible
 - text: Hopkins used the term 'skeleton key effect' for the reinterpretation of unexplained
     fears and behaviours.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -408,6 +439,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-8e340f9e-c03d-45c2-9838-deb2fb03ffd2
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-8e340f9e-c03d-45c2-9838-deb2fb03ffd2
+  copyright_status: publicly_accessible
 - text: Hopkins said he was working to help experiencers regain a sense of power or
     control.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -421,6 +453,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-6a934aaa-8f9b-41ab-9330-ffa30a87b3db
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-6a934aaa-8f9b-41ab-9330-ffa30a87b3db
+  copyright_status: publicly_accessible
 - text: Hopkins considered that the phenomenon might involve hundreds of thousands
     of people or more.
   source: 'What The Aliens Look Like: Disturbing Research by Budd Hopkins on ET Abductions
@@ -433,6 +466,7 @@ references:
   record_hash: 973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af
   workbench_url: https://workbench.anomalica.is/973343496052f583b8275db88aa709af1f4d4f7921d5c8fdddddc8af#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
   inspection_url: /records/2024-10-05-video-what-the-aliens-look-like-disturbing-research-by-budd#claim-7e3a087e-a100-440d-ba17-f0707b5b2cc2
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

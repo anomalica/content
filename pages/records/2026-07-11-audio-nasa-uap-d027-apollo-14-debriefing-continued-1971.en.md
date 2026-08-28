@@ -27,6 +27,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-4cb67b21-6faa-4d2b-85e1-0a8547832671
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-4cb67b21-6faa-4d2b-85e1-0a8547832671
+  copyright_status: public_domain
 - text: Alan Shepard described the flashes as generally random in direction.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:00:39.1-00:00:56.0
@@ -39,6 +40,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
+  copyright_status: public_domain
 - text: Edgar Mitchell reported seeing a light-flash streak moving across his field
     of view.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -49,6 +51,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
+  copyright_status: public_domain
 - text: The debriefing team identified three instances in which pairs of crew members
     reported flashes simultaneously.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -60,6 +63,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-c5507779-7a27-4008-9a5c-fd96f26c8595
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-c5507779-7a27-4008-9a5c-fd96f26c8595
+  copyright_status: public_domain
 - text: Stuart Roosa distinguished a pinpoint flash from a more eruption-like phenomenon
     called a nova.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -71,6 +75,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-74e81a3b-19d8-4113-b0c2-6ef55d5de4ef
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-74e81a3b-19d8-4113-b0c2-6ef55d5de4ef
+  copyright_status: public_domain
 - text: Edgar Mitchell described a nova as a blob that expanded and became more diffuse.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:05:33.6-00:05:44.0
@@ -81,6 +86,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
+  copyright_status: public_domain
 - text: The source record states that the cabin lighting was completely dark during
     the quantitative observation period.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -91,6 +97,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-066158f7-6418-415c-a854-9ade701ea5fc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-066158f7-6418-415c-a854-9ade701ea5fc
+  copyright_status: public_domain
 - text: The record gives crew reports of 12 and 6 flashes for Mitchell, 10 and 4 for
     Shepard, and 6 and 2 for Roosa, by eye.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -101,6 +108,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5f81748e-787b-4077-9b40-66143757e3cc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-5f81748e-787b-4077-9b40-66143757e3cc
+  copyright_status: public_domain
 - text: The source record describes an overall right-eye bias of roughly three or
     four to one.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -112,6 +120,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-d0c207be-f098-4fb8-b965-0218cbc34710
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-d0c207be-f098-4fb8-b965-0218cbc34710
+  copyright_status: public_domain
 - text: The crew had the impression that the flashes occurred within the eye rather
     than the cabin.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -123,6 +132,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-277a4d0a-a3ca-439f-a3be-6c9a6b67d347
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-277a4d0a-a3ca-439f-a3be-6c9a6b67d347
+  copyright_status: public_domain
 - text: Mitchell reported that flashes returned approximately 30 to 40 seconds after
     a flashlight was wiped across his eyes.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -134,6 +144,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-10e07359-c0d9-452c-8673-88ba5bbdd8d2
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-10e07359-c0d9-452c-8673-88ba5bbdd8d2
+  copyright_status: public_domain
 - text: Approximately 17 minutes elapsed before the first flash was recorded during
     the formal observation period.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -144,6 +155,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-57fe4305-44f3-49b8-91d3-dcef95f5549e
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-57fe4305-44f3-49b8-91d3-dcef95f5549e
+  copyright_status: public_domain
 - text: Mitchell reported one silver, blue-white flash resembling a blue diamond.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:29:24.4-00:29:35.7
@@ -155,6 +167,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-fc934658-370a-447c-8487-dece2cd38949
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-fc934658-370a-447c-8487-dece2cd38949
+  copyright_status: public_domain
 - text: Mitchell reported seeing a diffuse, white or silver, cloud-like lighting phenomenon
     without a streak.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -166,6 +179,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
+  copyright_status: public_domain
 - text: The debriefing team considered the Apollo 14 data substantially improved compared
     with previous missions.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -177,6 +191,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-e1e79838-8da6-4682-8cb4-abf54720c9c6
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-e1e79838-8da6-4682-8cb4-abf54720c9c6
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -1237,6 +1237,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-ceb94734-e3e8-4357-80f7-36030104c196
+  copyright_status: publicly_accessible
 - text: Jacques Vallée considered the UFO phenomenon to have physical, psycho-physiological
     and social-belief aspects.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -1245,6 +1246,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
+  copyright_status: restricted
 - text: The United States Air Force Chief of Staff established Project Sign in December
     1947 to investigate recorded UFO observations.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -1256,6 +1258,7 @@ references:
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
+  copyright_status: public_domain
 - text: The United States Air Force Director of Intelligence initiated Project Blue
     Book in 1952 to investigate UFOs.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -1266,6 +1269,7 @@ references:
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
+  copyright_status: public_domain
 - text: Air Force studies investigated more than 12,000 claimed UFO sightings before
     ending in 1969.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program
@@ -1276,6 +1280,7 @@ references:
   claim_id: 6e26e335-a4f3-48ad-9b9c-3254e62d3504
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
+  copyright_status: publicly_accessible
 - text: Of more than 12,000 UFO sightings investigated by the Air Force project, 701
     remained unexplained.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program
@@ -1285,6 +1290,7 @@ references:
   claim_id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
+  copyright_status: publicly_accessible
 - text: According to the source record, the Advanced Aerospace Threat Identification
     Program investigated UFO reports.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program
@@ -1296,6 +1302,7 @@ references:
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  copyright_status: publicly_accessible
 - text: The Advanced Aerospace Threat Identification Program collected video and audio
     recordings of reported UFO incidents.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program
@@ -1307,6 +1314,7 @@ references:
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
+  copyright_status: publicly_accessible
 - text: Jacques Vallée identified technological and psychological approaches among
     scientists studying UFOs.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -1316,6 +1324,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+  copyright_status: restricted
 - text: James E. McDonald said that a good UFO sighting report requires about an hour
     to investigate properly.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -1325,6 +1334,7 @@ references:
   claim_id: 27223145-faa6-4e0b-b0b3-9c5a5c9072e0
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-27223145-faa6-4e0b-b0b3-9c5a5c9072e0
+  copyright_status: publicly_accessible
 - text: Many people in the United States, Australia and elsewhere report lights that
     move, hover and manoeuvre unlike meteors.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -1336,6 +1346,7 @@ references:
   claim_id: 50309e7f-9d1f-4b89-a08f-12fa775266bb
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-50309e7f-9d1f-4b89-a08f-12fa775266bb
+  copyright_status: publicly_accessible
 - text: AARO assessed that some UAP misidentifications almost certainly resulted from
     observers seeing new technologies.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -1347,6 +1358,7 @@ references:
   claim_id: 53ef5c90-6dc0-4c75-9035-5058ae525ba3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-53ef5c90-6dc0-4c75-9035-5058ae525ba3
+  copyright_status: public_domain
 - text: According to the source record, AARO reviewed official United States Government
     efforts involving UFOs and UAP since 1945.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -1356,6 +1368,7 @@ references:
   claim_id: 5db89d65-7e31-4a1f-bfdb-25f06b7c557b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

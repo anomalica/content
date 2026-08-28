@@ -217,6 +217,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d4f61ca0-db3d-414e-bfaa-d70804de84bb
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d4f61ca0-db3d-414e-bfaa-d70804de84bb
+  copyright_status: public_domain
 - text: Princeton was armed with naval guns and anti-air, anti-surface, and anti-submarine
     missiles, and carried two Seahawk LAMPS III helicopters
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -227,6 +228,7 @@ references:
   claim_id: 21b15e2d-95a7-4812-b8f5-25a6e73491aa
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-21b15e2d-95a7-4812-b8f5-25a6e73491aa
+  copyright_status: public_domain
 - text: Princeton was the first Ticonderoga-class cruiser to carry the upgraded AN/SPY-1B
     radar system
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -237,6 +239,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9c32d1d9-f890-4abe-8ee4-d67337b0fdcd
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9c32d1d9-f890-4abe-8ee4-d67337b0fdcd
+  copyright_status: public_domain
 - text: Princeton was completing Tailored Ships Training Availability in preparation
     for deployment to the Arabian Sea, 2004-11-10 to 2004-11-16, as part of CSG-11
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -248,6 +251,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-50e0afab-bef7-4be0-ac66-74accc12efdb
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-50e0afab-bef7-4be0-ac66-74accc12efdb
+  copyright_status: public_domain
 - text: CSG-11 comprised USS Nimitz, USS Princeton, USS Chafee, USS Higgins and USS
     Louisville
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -259,6 +263,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-96b877c1-f249-48a2-9115-e8c413189dc9
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-96b877c1-f249-48a2-9115-e8c413189dc9
+  copyright_status: public_domain
 - text: Princeton detected multiple AAVs operating in and around the vicinity of CSG-11
     on several occasions
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -269,6 +274,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5ae920f3-d4b5-403e-884b-83a2ebd93c9c
+  copyright_status: public_domain
 - text: the AAV was observed to descend very rapidly from approximately 18,000 metres
     to approximately 15 metres in a matter of seconds
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -279,6 +285,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c47cba15-7732-4aa0-b684-1819a98031c1
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c47cba15-7732-4aa0-b684-1819a98031c1
+  copyright_status: public_domain
 - text: on 2004-11-14, after again detecting the AAV, Princeton took the opportunity
     of a returning F/A-18F flight to further investigate it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -290,6 +297,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-91f62f5a-de04-4230-b994-761eda161784
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-91f62f5a-de04-4230-b994-761eda161784
+  copyright_status: public_domain
 - text: Princeton took over control of the F/A-18Fs from the E-2C Hawkeye and vectored
     them for an intercept, leading to visual contact approximately 1.6 kilometres
     from the AAV
@@ -302,6 +310,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ae4d9421-bb8e-4965-82f4-56b07081cba2
+  copyright_status: public_domain
 - text: the only participants in the events surrounding the detection and intercept
     were Princeton, VAW-117, VMFA-232 and VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -312,6 +321,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
+  copyright_status: public_domain
 - text: a Senior Chief aboard Princeton with 17 years' experience as a Fire Control
     operator assessed the AAV exhibited Ballistic Missile Characteristics in appearance,
     velocity and radar indications
@@ -324,6 +334,7 @@ references:
   claim_id: 05c78448-c427-4b8f-b52a-d6f62dcd0670
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-05c78448-c427-4b8f-b52a-d6f62dcd0670
+  copyright_status: public_domain
 - text: the AN/SPY-1 radar was set to Air Intercept mode for conventional aircraft,
     never obtained an accurate track of the AAVs and quickly dropped the contacts
     as clutter
@@ -337,6 +348,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4679a657-5835-4338-8332-c86cac8db223
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4679a657-5835-4338-8332-c86cac8db223
+  copyright_status: public_domain
 - text: the AAV was detected by Princeton three separate times during the week, operating
     off the western coast of the United States and Mexico
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -347,6 +359,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b51a6d33-8fd4-4641-89be-99fb236ae3a8
+  copyright_status: public_domain
 - text: the Tactical Air Officer aboard Princeton could not identify the radar contact
     and was perplexed given its high speed and altitude
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -357,6 +370,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2b312be3-0dda-494a-92ce-1c7a468f48b5
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2b312be3-0dda-494a-92ce-1c7a468f48b5
+  copyright_status: public_domain
 - text: the Air Control Officer of the E-2C Hawkeye did not see the AAV on his radar
     until Princeton directed the contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -367,6 +381,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8272a485-7bb4-499d-a45c-0a948ddd1935
+  copyright_status: public_domain
 - text: the radar target was so low and faint that without Princeton's inputs the
     E-2C's return would have been missed or ignored
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -376,6 +391,7 @@ references:
   claim_id: be1c8e47-bfe0-410d-b324-a47b2bf071f0
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-be1c8e47-bfe0-410d-b324-a47b2bf071f0
+  copyright_status: public_domain
 - text: Princeton took control of the F/A-18s from the E-2C Hawkeye, which remained
     airborne but was no longer involved in the contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -387,6 +403,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-b94764d2-6de7-49be-8c28-d45dfed90f35
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-b94764d2-6de7-49be-8c28-d45dfed90f35
+  copyright_status: public_domain
 - text: the E-2C controller handed Fravor's flight off to Princeton, callsign 'Poison',
     which vectored them via BRAA to an unknown contact
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -399,6 +416,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1bda5f78-13d5-4e00-a9b0-04dce2de2802
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1bda5f78-13d5-4e00-a9b0-04dce2de2802
+  copyright_status: public_domain
 - text: Princeton asked Fravor's flight what ordnance they had onboard, and they reported
     two captive training AIM-9M missiles and nothing else
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -410,6 +428,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e3c4cd6b-f961-400e-a588-b7621402edbd
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e3c4cd6b-f961-400e-a588-b7621402edbd
+  copyright_status: public_domain
 - text: all of the AAV activity was reported to D. C. Curtis by the commanding officers
     of Princeton and VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -419,6 +438,7 @@ references:
   claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+  copyright_status: public_domain
 - text: USS Princeton is a guided-missile cruiser, not an aircraft carrier, and has
     a helicopter landing pad rather than a fixed-wing flight deck
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -428,6 +448,7 @@ references:
   claim_id: a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a8d3a3f9-ac9c-48cf-87f0-751ec7ff6624
+  copyright_status: publicly_accessible
 - text: USS Princeton is equipped with an AN/SPY-1 phased array radar system with
     four panels that look in quadrants
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -438,6 +459,7 @@ references:
   claim_id: 1794c363-ed31-415a-8907-289592ad83a4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1794c363-ed31-415a-8907-289592ad83a4
+  copyright_status: publicly_accessible
 - text: on 2004-11-10, Princeton began detecting a few objects flying at approximately
     8,500 metres altitude at approximately 190 kilometres per hour off the coast of
     California
@@ -450,6 +472,7 @@ references:
   claim_id: ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ec21bf7a-aba3-4671-a137-b8e4eccb0ee3
+  copyright_status: publicly_accessible
 - text: Princeton detected the unidentified objects intermittently for about a week
     before Fravor's encounter on 2004-11-14
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -460,6 +483,7 @@ references:
   claim_id: cf93d6d5-831a-49b0-aac6-0fb5f51919a7
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cf93d6d5-831a-49b0-aac6-0fb5f51919a7
+  copyright_status: publicly_accessible
 - text: Fravor said Princeton gave his flight bearing, range and altitude calls indicating
     an unidentified radar contact at ranges of approximately 80, 64 and 48 kilometres
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -471,6 +495,7 @@ references:
   claim_id: 3d7ff4db-d587-4206-87b4-6d83acb61712
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3d7ff4db-d587-4206-87b4-6d83acb61712
+  copyright_status: publicly_accessible
 - text: Fravor said the object had been too far, approximately 97 kilometres, for
     Princeton's radar to detect something near the ocean surface
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -480,6 +505,7 @@ references:
   claim_id: d76536ea-1df8-4a58-8b4c-1e8078fcf549
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d76536ea-1df8-4a58-8b4c-1e8078fcf549
+  copyright_status: publicly_accessible
 - text: Fravor denied a rumour that unidentified personnel arrived by helicopter aboard
     Nimitz and Princeton after the encounter to confiscate recorded data
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -490,6 +516,7 @@ references:
   claim_id: ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ce2eb13a-de34-4ff3-90b0-3d75ea92f2c3
+  copyright_status: publicly_accessible
 - text: everyone in Princeton's Combat Information Centre was tense, listening to
     Fravor's and his wingman's increasingly stressed radio communications, while five
     radar operators tracked the event using Princeton's multiple sensor systems
@@ -498,6 +525,7 @@ references:
   claim_id: 5e1475b4-7346-48f1-8eaf-83108da510cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e1475b4-7346-48f1-8eaf-83108da510cf
+  copyright_status: restricted
 - text: at the same moment Fravor yelled he was engaged, 14 other unidentified targets
     on Princeton's radar screen were also tracked plummeting from above approximately
     24,000 metres towards the ocean
@@ -506,6 +534,7 @@ references:
   claim_id: 0fbee440-3a2d-41d5-8987-03b8de85101e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fbee440-3a2d-41d5-8987-03b8de85101e
+  copyright_status: restricted
 - text: Fravor and his wingman were told by Princeton to fly to a prearranged rendezvous
     point approximately 100 kilometres distant, known as the 'cap point'
   source: In Plain Sight
@@ -513,6 +542,7 @@ references:
   claim_id: f3a8906e-b056-4037-9bdb-482233867c1e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3a8906e-b056-4037-9bdb-482233867c1e
+  copyright_status: restricted
 - text: in the four days before 2004-11-14, Kevin Day and his team became increasingly
     concerned by anomalous radar tracks detected on their screens aboard Princeton
   source: In Plain Sight
@@ -520,6 +550,7 @@ references:
   claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
+  copyright_status: restricted
 - text: Kevin Day was Princeton's Operations Specialist Senior Chief, in charge of
     coordinating the systems that protect the entire carrier group
   source: In Plain Sight
@@ -527,6 +558,7 @@ references:
   claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
+  copyright_status: restricted
 - text: once Fravor and his wingman returned to Nimitz, the swarm of unidentified
     objects shot back above approximately 24,000 metres in a fraction of a second
   source: In Plain Sight
@@ -534,6 +566,7 @@ references:
   claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
+  copyright_status: restricted
 - text: Kevin Day verified the anomalous radar tracks using Princeton's Cooperative
     Engagement Capability system, which merged radar data from every source into one
     picture
@@ -542,6 +575,7 @@ references:
   claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
+  copyright_status: restricted
 - text: former Petty Officer Jason Turner, on board Princeton in 2004, claimed to
     have seen a fuller version of the FLIR1 video on a console monitor in the ship's
     Signal Exploitation Space
@@ -550,6 +584,7 @@ references:
   claim_id: 5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
+  copyright_status: restricted
 - text: the morning after the encounter, Kevin Day went to Princeton's communications
     room to get a copy of the previous day's radio communications for an after-action
     report
@@ -558,6 +593,7 @@ references:
   claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
+  copyright_status: restricted
 - text: Kevin Day discovered that the radio communications data had been erased from
     Princeton's optical disk, even though the date and time stamps remained
   source: In Plain Sight
@@ -565,6 +601,7 @@ references:
   claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
+  copyright_status: restricted
 - text: Gary Voorhis was ordered to turn over the data tapes from Princeton's Combat
     Engagement Centre after the encounter
   source: In Plain Sight
@@ -572,6 +609,7 @@ references:
   claim_id: 2917e1f8-3eff-4c05-b736-ffc136898ad1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2917e1f8-3eff-4c05-b736-ffc136898ad1
+  copyright_status: restricted
 - text: Gary Voorhis checked Princeton's radar system for false returns during the
     encounter, and the system was recalibrated with no problems detected
   source: In Plain Sight
@@ -579,6 +617,7 @@ references:
   claim_id: 258ee87a-6222-4ca2-afee-88dc14413cd9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-258ee87a-6222-4ca2-afee-88dc14413cd9
+  copyright_status: restricted
 - text: late on the morning of 2004-11-14, in Princeton's Combat Information Centre,
     Kevin Day again saw a cluster of 14 unidentified objects on his radar screen
   source: In Plain Sight
@@ -586,6 +625,7 @@ references:
   claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
+  copyright_status: restricted
 - text: at about 2pm on 2004-11-14, Lieutenant Colonel Douglas Kurth, piloting an
     FA-18 Super Hornet, was directed by Princeton to the closest unidentified object
     on their radar screen
@@ -594,6 +634,7 @@ references:
   claim_id: f046ffab-6fd1-4255-bd32-e9a889f665d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
+  copyright_status: restricted
 - text: it was the accompanying Ticonderoga-class cruiser Princeton, not Nimitz itself,
     that was providing air defence protection using its then brand-new SPY-1 Aegis
     radar system
@@ -602,6 +643,7 @@ references:
   claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
+  copyright_status: restricted
 - text: Princeton has a passive electronically scanning radar system that provided
     360-degree coverage for the entire carrier group
   source: In Plain Sight
@@ -609,6 +651,7 @@ references:
   claim_id: 5828bf96-0f1d-43bb-a0e4-272221ae80ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
+  copyright_status: restricted
 - text: for nearly two weeks leading up to the encounter, radar operators aboard Princeton
     regularly logged over one hundred UAP in the air surrounding the vessels
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -616,6 +659,7 @@ references:
   claim_id: 2acb9ced-9e9d-428d-ad80-05f6584e96a4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
+  copyright_status: restricted
 - text: the UAP tracked by Princeton's radar operators in the weeks before the encounter
     performed acrobatics that would challenge any aircraft the operators had ever
     seen
@@ -624,6 +668,7 @@ references:
   claim_id: ec56f388-545d-4513-901e-944c8b52b9cf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec56f388-545d-4513-901e-944c8b52b9cf
+  copyright_status: restricted
 - text: Princeton was a state-of-the-art SPY-1 radar-equipped missile cruiser that
     took part in the November 2004 USS Nimitz carrier strike group deployment
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -631,6 +676,7 @@ references:
   claim_id: 1e73a0e8-1534-4288-bca9-220706b3297b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e73a0e8-1534-4288-bca9-220706b3297b
+  copyright_status: restricted
 - text: at the time of the encounter, Nimitz and Princeton were travelling close together
     while the other vessels of the carrier strike group were otherwise occupied
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -638,6 +684,7 @@ references:
   claim_id: 3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
+  copyright_status: restricted
 - text: many crewmen aboard Nimitz and Princeton shared the Tic Tac video via the
     government's classified email system following the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -645,6 +692,7 @@ references:
   claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
+  copyright_status: restricted
 - text: David Fravor's flight of two F/A-18F aircraft was designated Blue Air and
     was being controlled by USS Princeton
   source: David Fravor Statement for the House Oversight Committee
@@ -654,6 +702,7 @@ references:
   claim_id: 373fe1b1-3b68-4e7e-9ea3-559f0550b064
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  copyright_status: public_domain
 - text: as Fravor's flight launched from Nimitz and checked in with the air controller
     on Princeton, they were told the training exercise was suspended for real-world
     tasking and directed toward a contact west of their CAP point
@@ -666,6 +715,7 @@ references:
   claim_id: 720457d7-380b-43ed-b3a7-a67ab277cbbb
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-720457d7-380b-43ed-b3a7-a67ab277cbbb
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

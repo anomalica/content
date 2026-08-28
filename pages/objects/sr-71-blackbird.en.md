@@ -72,6 +72,7 @@ references:
   claim_id: 0a145af8-0338-4a3a-b100-5255e8e11c46
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0a145af8-0338-4a3a-b100-5255e8e11c46
+  copyright_status: publicly_accessible
 - text: CIA created shell companies to buy titanium from the Soviet Union to build
     the SR-71
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -83,6 +84,7 @@ references:
   claim_id: 57474528-56fe-4fee-bdc6-b4eb9035d210
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-57474528-56fe-4fee-bdc6-b4eb9035d210
+  copyright_status: publicly_accessible
 - text: Lyndon B. Johnson ordered the A-12 OXCART's retirement in 1968 when replaced
     by the SR-71
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -93,6 +95,7 @@ references:
   claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-697c81f3-829c-482a-8d35-ca95c63e94c5
+  copyright_status: public_domain
 - text: Fridman said the SR-71 still holds the speed record of any aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -101,6 +104,7 @@ references:
   claim_id: 5e418e88-bb74-49b0-9274-fecfad842884
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-5e418e88-bb74-49b0-9274-fecfad842884
+  copyright_status: publicly_accessible
 - text: Indicated airspeed of ~560 km/h vs true ground speed of ~4,000 km/h at high
     altitude
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -111,6 +115,7 @@ references:
   claim_id: cc261f00-cca7-4c92-97eb-1ffa93110098
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-cc261f00-cca7-4c92-97eb-1ffa93110098
+  copyright_status: publicly_accessible
 - text: Fravor said the SR-71 flew above approximately 21,000 metres
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -121,12 +126,14 @@ references:
   claim_id: 0ec12ee2-fb1a-4f68-bb31-f3eaeb691295
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0ec12ee2-fb1a-4f68-bb31-f3eaeb691295
+  copyright_status: publicly_accessible
 - text: Top speed of Mach 3.3, approximately 3,500 kilometres per hour
   source: In Plain Sight
   location: ch13:19088-19201
   claim_id: 77a80a46-3af5-4896-8f55-2f1705dd25b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-77a80a46-3af5-4896-8f55-2f1705dd25b3
+  copyright_status: restricted
 - text: SR-71 can just about reach Mach 5, beyond which the aircraft would be incinerated
     by heat
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -134,6 +141,7 @@ references:
   claim_id: f1cc7a47-4251-4c89-98b4-f7676657da65
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f1cc7a47-4251-4c89-98b4-f7676657da65
+  copyright_status: restricted
 - text: At full speed, SR-71 needs airspace roughly half the size of Ohio to complete
     a turn
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -141,6 +149,7 @@ references:
   claim_id: ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
+  copyright_status: restricted
 - text: Fravor said the U-2 and SR-71 did high-altitude reconnaissance before satellites
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -151,6 +160,7 @@ references:
   claim_id: 53b4bfb6-8d54-49a6-944f-72be5ef90533
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-53b4bfb6-8d54-49a6-944f-72be5ef90533
+  copyright_status: publicly_accessible
 - text: NASA flew SR-71s out of Palmdale, California, on loop flights to Washington
     State and Montana
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -161,6 +171,7 @@ references:
   claim_id: a7f0d937-8af4-49b5-b923-af674778cc3b
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a7f0d937-8af4-49b5-b923-af674778cc3b
+  copyright_status: publicly_accessible
 - text: SR-71 descending from above ~18,000 metres produced visible contrails
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -170,6 +181,7 @@ references:
   claim_id: 9f7b4e34-6def-4a01-9c83-ca4dc634fd01
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9f7b4e34-6def-4a01-9c83-ca4dc634fd01
+  copyright_status: publicly_accessible
 - text: SR-71 refuelled from a tanker after descending, then climbed back up
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -178,6 +190,7 @@ references:
   claim_id: f1c15b89-7dd4-4b47-beed-33b50b86810e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f1c15b89-7dd4-4b47-beed-33b50b86810e
+  copyright_status: publicly_accessible
 - text: Jim Goodall has written 20 books on aircraft including the SR-71, F-117A and
     B-2A
   source: In Plain Sight
@@ -185,12 +198,14 @@ references:
   claim_id: 1aaad40b-67cd-40c1-bf11-d19fe580040d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1aaad40b-67cd-40c1-bf11-d19fe580040d
+  copyright_status: restricted
 - text: Skunk Works developed the U-2, SR-71, F-117A, F-22 and F-35
   source: In Plain Sight
   location: ch18:15942-16329
   claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
+  copyright_status: restricted
 - text: Dave, a retired USAF lieutenant colonel who flew the SR-71, witnessed an unidentified
     craft at Kadena, 1972-73
   source: In Plain Sight
@@ -198,24 +213,28 @@ references:
   claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-699a3e88-07e2-431c-b5ac-ee8661c12c4e
+  copyright_status: restricted
 - text: Dave closed on the object and saw it was not round, with shiny metallic edges
   source: In Plain Sight
   location: ch13:18354-18504
   claim_id: a381a031-01cb-435d-8afb-98ea060e987e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a381a031-01cb-435d-8afb-98ea060e987e
+  copyright_status: restricted
 - text: Robert Fish shown radar tracks of a hypersonic UFO alongside a USAF SR-71
   source: In Plain Sight
   location: ch13:31185-31383
   claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9eeef63-58be-4494-8af5-6b01717b10dd
+  copyright_status: restricted
 - text: Two images streaking at over Mach 3, lead being the SR-71, the other unidentified
   source: In Plain Sight
   location: ch13:31400-31572
   claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5df5fdb3-0df3-4406-aa0c-acdb469a219f
+  copyright_status: restricted
 - text: Unidentified object made a 90-degree turn and rapidly gained altitude while
     maintaining speed
   source: In Plain Sight
@@ -223,6 +242,7 @@ references:
   claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
+  copyright_status: restricted
 - text: Pre-Nimitz UAP tracked at ~24,000 metres, above the normal envelope except
     for aircraft like the U-2, SR-71 and Aurora
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -230,12 +250,14 @@ references:
   claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3687c3dd-7ce7-4b8b-926e-da5ac90caf80
+  copyright_status: restricted
 - text: UAP make right-angle turns at speeds up to ten times faster than the SR-71
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:13244-13339
   claim_id: 09c962b1-af39-4fe1-af82-591778224e5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-09c962b1-af39-4fe1-af82-591778224e5f
+  copyright_status: restricted
 - text: David Fruehauf, former SR-71 pilot, called Bob Lazar very credible in a TV
     interview
   source: In Plain Sight
@@ -243,6 +265,7 @@ references:
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

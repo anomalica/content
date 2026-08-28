@@ -332,12 +332,14 @@ references:
   claim_id: 271695f2-2f93-4103-9532-36a12d5aba5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-271695f2-2f93-4103-9532-36a12d5aba5f
+  copyright_status: restricted
 - text: Davis holds a very high top-secret compartmentalised security clearance
   source: In Plain Sight
   location: ch17:15964-16131
   claim_id: 4967081f-4f45-40f7-9682-4358c79d27da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4967081f-4f45-40f7-9682-4358c79d27da
+  copyright_status: restricted
 - text: Davis was hired by the federally funded Aerospace Corporation in December
     2019
   source: In Plain Sight
@@ -345,12 +347,14 @@ references:
   claim_id: d42e0846-d8c4-4bba-8c59-454e8cb8f664
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d42e0846-d8c4-4bba-8c59-454e8cb8f664
+  copyright_status: restricted
 - text: Davis now works for Aerospace Corporation on classified government projects
   source: In Plain Sight
   location: ch24:17818-17951
   claim_id: 1a19639a-674b-484e-a017-46b876e5d7ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a19639a-674b-484e-a017-46b876e5d7ba
+  copyright_status: restricted
 - text: Davis has repeatedly asserted knowledge of a US government cover-up of recovered
     alien craft
   source: In Plain Sight
@@ -358,6 +362,7 @@ references:
   claim_id: 41ca1149-35da-450e-97d1-2ea3e3a42eb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41ca1149-35da-450e-97d1-2ea3e3a42eb1
+  copyright_status: restricted
 - text: In 1996 Davis read an advertisement seeking researchers into spacetime, the
     universe and consciousness
   source: In Plain Sight
@@ -365,18 +370,21 @@ references:
   claim_id: cb7610c3-4255-467d-8690-50215be7b463
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb7610c3-4255-467d-8690-50215be7b463
+  copyright_status: restricted
 - text: Davis began work for NIDS in July 1996
   source: In Plain Sight
   location: ch15:9194-9283
   claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-173a406c-abae-40b6-b34c-eed7d5a602a3
+  copyright_status: restricted
 - text: Within weeks Davis had his first paranormal experience at Skinwalker Ranch
   source: In Plain Sight
   location: ch15:9289-9356
   claim_id: 16b76902-348c-4dbf-ab3c-0f2dee175b07
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-16b76902-348c-4dbf-ab3c-0f2dee175b07
+  copyright_status: restricted
 - text: Davis saw a craft through the kitchen window descend and remain illuminated,
     roughly 48 kilometres from the mountain range
   source: In Plain Sight
@@ -384,6 +392,7 @@ references:
   claim_id: 3d1f82e8-567a-4cdf-aedd-d23e09ea07e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d1f82e8-567a-4cdf-aedd-d23e09ea07e6
+  copyright_status: restricted
 - text: Davis watched the craft's amber light descend below tree level, visible for
     half an hour
   source: In Plain Sight
@@ -391,6 +400,7 @@ references:
   claim_id: d52fa4c3-e2a7-4101-9a43-1b58a2950ec2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52fa4c3-e2a7-4101-9a43-1b58a2950ec2
+  copyright_status: restricted
 - text: In November 1996 a similarly lit craft made a sharp 90-degree turn above Davis
     and Kelleher
   source: In Plain Sight
@@ -398,36 +408,42 @@ references:
   claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-006ce987-fc23-4530-b9f5-89232b1c8552
+  copyright_status: restricted
 - text: Davis saw a gigantic pair of eyes atop a tree at the ranch
   source: In Plain Sight
   location: ch15:10178-10722
   claim_id: ec51d617-530d-41cf-8eed-a73ee545feea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec51d617-530d-41cf-8eed-a73ee545feea
+  copyright_status: restricted
 - text: Davis, Kelleher and Sherman saw a huge creature jump down before them
   source: In Plain Sight
   location: ch15:10800-11012
   claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
+  copyright_status: restricted
 - text: Sherman shot the creature at point-blank range; it walked off unfazed
   source: In Plain Sight
   location: ch15:11017-11169
   claim_id: 0fc47d87-983d-407b-b216-65522ee104d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fc47d87-983d-407b-b216-65522ee104d5
+  copyright_status: restricted
 - text: No footprints or blood were found afterwards
   source: In Plain Sight
   location: ch15:11183-11266
   claim_id: 8082bb66-cd00-4ddc-b1a8-a76f10674ff6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8082bb66-cd00-4ddc-b1a8-a76f10674ff6
+  copyright_status: restricted
 - text: Davis said the experiences convinced him the phenomenon was real
   source: In Plain Sight
   location: ch15:11581-11697
   claim_id: c45b5826-267f-4f03-82a6-6d8ca569d0fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c45b5826-267f-4f03-82a6-6d8ca569d0fa
+  copyright_status: restricted
 - text: Davis concluded the phenomena were a sentient non-human intelligence avoiding
     detection by cameras
   source: In Plain Sight
@@ -435,12 +451,14 @@ references:
   claim_id: 8a0c4aab-3b5c-4aad-8588-067cfa7238a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a0c4aab-3b5c-4aad-8588-067cfa7238a0
+  copyright_status: restricted
 - text: Davis was also at pains to debunk UAP claims when he could
   source: In Plain Sight
   location: ch15:12747-12801
   claim_id: d4a39a0e-ba4b-4ba2-896c-b4e700479bfe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d4a39a0e-ba4b-4ba2-896c-b4e700479bfe
+  copyright_status: restricted
 - text: NIDS documents show Davis investigated an alleged Montana alien attack and
     landing and concluded it was a hoax
   source: In Plain Sight
@@ -448,12 +466,14 @@ references:
   claim_id: 5f002bf0-986a-4bd1-a5ce-e2b4638d335b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f002bf0-986a-4bd1-a5ce-e2b4638d335b
+  copyright_status: restricted
 - text: Davis was brought into the Bigelow investigation team working on AATIP
   source: In Plain Sight
   location: ch17:9960-10143
   claim_id: cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
+  copyright_status: restricted
 - text: Davis, Puthoff and Livingston were the only contractors remaining on AATIP
     under Elizondo and Semivan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -461,12 +481,14 @@ references:
   claim_id: 1b038263-4646-4507-8b20-885455dead54
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b038263-4646-4507-8b20-885455dead54
+  copyright_status: restricted
 - text: Davis's team investigated the 2004 USS Nimitz Tic Tac incident
   source: In Plain Sight
   location: ch17:11975-12207
   claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
+  copyright_status: restricted
 - text: Davis said on Coast to Coast AM that 'Threat' in AATIP referred to UFO interference
     with operations
   source: In Plain Sight
@@ -474,6 +496,7 @@ references:
   claim_id: cffc1cf2-fa69-4090-a306-b89b30de2c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffc1cf2-fa69-4090-a306-b89b30de2c6b
+  copyright_status: restricted
 - text: Davis told Knapp there were recovered extra-terrestrial craft not yet revealed
     publicly
   source: In Plain Sight
@@ -481,6 +504,7 @@ references:
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
+  copyright_status: restricted
 - text: Davis said the recovered material's analysis was limited by available laboratory
     technology
   source: In Plain Sight
@@ -488,6 +512,7 @@ references:
   claim_id: c39288dc-5c8e-40bc-b470-d60850bc3439
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c39288dc-5c8e-40bc-b470-d60850bc3439
+  copyright_status: restricted
 - text: Davis said his DIA-funded investigation concluded the Tic Tac was a real,
     non-human-made UFO
   source: In Plain Sight
@@ -495,6 +520,7 @@ references:
   claim_id: 1a02e04d-bbdf-49fd-963a-f8d0efcab7b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a02e04d-bbdf-49fd-963a-f8d0efcab7b9
+  copyright_status: restricted
 - text: Davis suggested the UAP were a mystery to the DIA that needed addressing given
     military interference
   source: In Plain Sight
@@ -502,6 +528,7 @@ references:
   claim_id: 91b44a15-aa70-4534-9eb1-f62b4bb4d5a8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91b44a15-aa70-4534-9eb1-f62b4bb4d5a8
+  copyright_status: restricted
 - text: Davis suggested to Knapp's listeners that Roswell was a genuine extra-terrestrial
     crash
   source: In Plain Sight
@@ -509,18 +536,21 @@ references:
   claim_id: e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
+  copyright_status: restricted
 - text: Davis cited the 1950 Del Rio case to Knapp
   source: In Plain Sight
   location: ch17:13803-14112
   claim_id: f1fc926f-a775-4b8b-aafe-14683d8de82a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f1fc926f-a775-4b8b-aafe-14683d8de82a
+  copyright_status: restricted
 - text: Davis told Coulthart the US had failed to reverse-engineer recovered craft
   source: In Plain Sight
   location: ch27:15619-15725
   claim_id: 94b16586-8255-4d47-9eef-008c817d2509
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94b16586-8255-4d47-9eef-008c817d2509
+  copyright_status: restricted
 - text: Davis briefed DoD agencies and Senate committees on the government's possession
     of off-world vehicles
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -528,18 +558,21 @@ references:
   claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a89e117-678f-49f7-8c52-672a96cd2e99
+  copyright_status: restricted
 - text: Davis told Congress the Tic Tac, Go-Fast and Gimbal technology is off-world
   source: In Plain Sight
   location: ch28:27757-27806
   claim_id: 826cbc9d-d251-432b-a3c9-b84b8fd45a49
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-826cbc9d-d251-432b-a3c9-b84b8fd45a49
+  copyright_status: restricted
 - text: Davis told the New York Times the US held recovered physical UAP samples
   source: In Plain Sight
   location: ch24:18922-19128
   claim_id: d7f3e3b7-df38-4b33-bf02-c538ee95a848
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7f3e3b7-df38-4b33-bf02-c538ee95a848
+  copyright_status: restricted
 - text: 'Davis said examination of the material failed to find its source: ''We couldn''t
     make it ourselves'''
   source: In Plain Sight
@@ -547,6 +580,7 @@ references:
   claim_id: 8968f516-fc89-42e2-a2ff-06063dc0d11a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8968f516-fc89-42e2-a2ff-06063dc0d11a
+  copyright_status: restricted
 - text: Davis told the New York Times he briefed a Defence Department agency in March
     2020 on off-world retrievals
   source: In Plain Sight
@@ -554,6 +588,7 @@ references:
   claim_id: ef5698fd-b32a-42e9-83e7-1beeb833c777
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef5698fd-b32a-42e9-83e7-1beeb833c777
+  copyright_status: restricted
 - text: 'Caplan: Davis described a conversation in which Bush recounted a Holloman
     AFB briefing'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -565,6 +600,7 @@ references:
   claim_id: 8fabc812-ae0a-482e-a855-19452dfece7b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fabc812-ae0a-482e-a855-19452dfece7b
+  copyright_status: publicly_accessible
 - text: 'Caplan''s account: the Holloman briefing involved a non-human individual
     of Nordic appearance'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -577,30 +613,35 @@ references:
   claim_id: 2d224c01-9ae7-46b7-8bff-7afba88d2802
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2d224c01-9ae7-46b7-8bff-7afba88d2802
+  copyright_status: publicly_accessible
 - text: Elizondo said Davis has an eidetic memory
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:7209-7301
   claim_id: c9bd6bec-077f-406d-9d4f-59644ffb5859
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c9bd6bec-077f-406d-9d4f-59644ffb5859
+  copyright_status: restricted
 - text: Davis has long consulted for contractors including EarthTech, founded by Puthoff
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:6627-6737
   claim_id: 98ddbfcc-0382-44b5-ace4-2559d29d7e28
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98ddbfcc-0382-44b5-ace4-2559d29d7e28
+  copyright_status: restricted
 - text: Davis was known to wear Hawaiian shirts in formal settings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:6766-6871
   claim_id: 56015991-a3d0-4222-b01c-b9bf1a19c24a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-56015991-a3d0-4222-b01c-b9bf1a19c24a
+  copyright_status: restricted
 - text: Puthoff and Davis built a sensitive gravity-detecting device
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:681-843
   claim_id: 8e2ccd11-907d-45c8-af84-84e91785ec04
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8e2ccd11-907d-45c8-af84-84e91785ec04
+  copyright_status: restricted
 - text: 'Elizondo: Davis met Wilson, then the Joint Staff''s Director of Intelligence
     (J2), in the late 1990s'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -608,12 +649,14 @@ references:
   claim_id: 31d0506b-ff1d-4737-b571-12be8da97740
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31d0506b-ff1d-4737-b571-12be8da97740
+  copyright_status: restricted
 - text: 'Elizondo: Wilson confided in Davis and never spoke of it again'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:9913-10013
   claim_id: 85adddb9-5840-45b4-8240-9e2bd781f2a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85adddb9-5840-45b4-8240-9e2bd781f2a6
+  copyright_status: restricted
 - text: Rich directed Davis to the EG&G building for a 10am meeting on 2002-10-16
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:83-184
@@ -623,6 +666,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f3879c62-5746-4a84-a111-e95604f8393d
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f3879c62-5746-4a84-a111-e95604f8393d
+  copyright_status: public_domain
 - text: Wilson arrived ten minutes late with two Navy officers, in civilian dress
     himself
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -636,6 +680,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  copyright_status: public_domain
 - text: The two talked in Wilson's car until 11:20am
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:374-502
@@ -645,6 +690,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
+  copyright_status: public_domain
 - text: Wilson's trip was arranged via the NNSA by Rich and Doug, AFIO members
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:7845-7943
@@ -653,6 +699,7 @@ references:
   claim_id: 6f6f5e1f-a4c5-4f7b-af02-f456c5a65a33
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6f6f5e1f-a4c5-4f7b-af02-f456c5a65a33
+  copyright_status: public_domain
 - text: Rich and Doug sent Wilson Davis's NASA papers and wormhole material
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:8068-8191
@@ -661,6 +708,7 @@ references:
   claim_id: e978dc42-b953-4348-9b34-a00759c8d847
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-e978dc42-b953-4348-9b34-a00759c8d847
+  copyright_status: public_domain
 - text: Rich and Doug sent Wilson Davis's PACAF orders, US ID and Lockheed slides
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:8198-8266
@@ -668,6 +716,7 @@ references:
   claim_id: cb3fc5cb-9ca6-42ea-b602-82e5e8facb51
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-cb3fc5cb-9ca6-42ea-b602-82e5e8facb51
+  copyright_status: public_domain
 - text: Davis showed Wilson a letter from Will Miller dated 2002-04-25
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:2006-2063
@@ -675,6 +724,7 @@ references:
   claim_id: 26012c8b-7fa8-4112-986a-28a99b86c8ff
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-26012c8b-7fa8-4112-986a-28a99b86c8ff
+  copyright_status: public_domain
 - text: Davis's background check came back clear, with a good Korean record and Air
     Force trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -685,6 +735,7 @@ references:
   claim_id: 7a8c0733-8517-44f0-82eb-8aec31c24554
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7a8c0733-8517-44f0-82eb-8aec31c24554
+  copyright_status: public_domain
 - text: AFIO's DC membership, some now in Las Vegas, vouched for Davis
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:8695-8745
@@ -692,6 +743,7 @@ references:
   claim_id: aca0f75f-7411-4220-aa8a-52e1e5bfe58b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-aca0f75f-7411-4220-aa8a-52e1e5bfe58b
+  copyright_status: public_domain
 - text: Wilson recalled Oke Shannon's 1999 phone call supporting Davis
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:8759-8856
@@ -700,6 +752,7 @@ references:
   claim_id: a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
+  copyright_status: public_domain
 - text: Wilson warned he would deny the meeting if Davis violated his trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10812-11142
@@ -711,6 +764,7 @@ references:
   claim_id: 6256c21a-1f98-49e6-9e5d-db7468b48731
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6256c21a-1f98-49e6-9e5d-db7468b48731
+  copyright_status: public_domain
 - text: Davis said he intended to keep the information for private research
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:23935-24063
@@ -720,36 +774,42 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
+  copyright_status: public_domain
 - text: The memo's real title is 'EWD Notes', Davis's own initials
   source: In Plain Sight
   location: ch26:237-335
   claim_id: 8f4a0e1d-f686-4978-86ff-04772a4941fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f4a0e1d-f686-4978-86ff-04772a4941fe
+  copyright_status: restricted
 - text: Puthoff was Davis's boss at the time of the alleged meeting
   source: In Plain Sight
   location: ch26:2344-2441
   claim_id: 407d7d41-7c3e-4e50-a022-be5969bf68a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
+  copyright_status: restricted
 - text: Wilson has categorically denied the meeting happened
   source: In Plain Sight
   location: ch26:26887-26959
   claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
+  copyright_status: restricted
 - text: As NYT story rumours mounted in June 2020, Wilson issued a strong denial
   source: In Plain Sight
   location: ch26:1819-1966
   claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+  copyright_status: restricted
 - text: Wilson's June 2020 letter called the memo 'pure fiction'
   source: In Plain Sight
   location: ch26:11719-11879
   claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
+  copyright_status: restricted
 - text: Wilson said he never requested Special Access Program access nor took part
     in such meetings
   source: In Plain Sight
@@ -757,18 +817,21 @@ references:
   claim_id: 9ed6f584-dc1a-4fef-8662-77afa8772545
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
+  copyright_status: restricted
 - text: Wilson denied visiting Las Vegas in 2002 or meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
+  copyright_status: restricted
 - text: Wilson acknowledged meeting some named people, but not on the memo's content
   source: In Plain Sight
   location: ch26:12180-12296
   claim_id: c84b8b13-10d9-43f0-bd73-66217bade86b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c84b8b13-10d9-43f0-bd73-66217bade86b
+  copyright_status: restricted
 - text: Puthoff, asked in February 2020, said the memo was leaked and declined further
     comment
   source: In Plain Sight
@@ -776,12 +839,14 @@ references:
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
+  copyright_status: restricted
 - text: Puthoff told Basterfield he had not meant to confirm authenticity
   source: In Plain Sight
   location: ch26:11375-11591
   claim_id: 88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88d1d689-7a9a-4fb9-bf7d-c17b8fdebd0e
+  copyright_status: restricted
 - text: Shannon told Cox he did not know the document's provenance but vouched for
     Wilson's character
   source: In Plain Sight
@@ -789,36 +854,42 @@ references:
   claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
+  copyright_status: restricted
 - text: Shannon did not deny facilitating the meeting
   source: In Plain Sight
   location: ch26:12955-13054
   claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
+  copyright_status: restricted
 - text: Davis told Greenstreet the notes 'were leaked out of Ed Mitchell's estate'
   source: In Plain Sight
   location: ch26:9828-10042
   claim_id: 427845ba-61cf-4048-b27c-fdac16947f41
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-427845ba-61cf-4048-b27c-fdac16947f41
+  copyright_status: restricted
 - text: Davis told Greenstreet the notes were 'purportedly classified information'
   source: In Plain Sight
   location: ch26:10047-10241
   claim_id: 034853b4-9ac9-43f7-ade7-e1542e51debc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-034853b4-9ac9-43f7-ade7-e1542e51debc
+  copyright_status: restricted
 - text: Davis said he had said all he wanted to say publicly about recovered debris
   source: In Plain Sight
   location: ch24:18480-18586
   claim_id: e01886e8-654e-488a-807d-ba0cb3e53db2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e01886e8-654e-488a-807d-ba0cb3e53db2
+  copyright_status: restricted
 - text: 'Coulthart: no one confirmed the memo''s authenticity on the record'
   source: In Plain Sight
   location: ch26:23971-24169
   claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
+  copyright_status: restricted
 - text: 'Coulthart: the memo''s claims must be treated as a hoax document until proved
     otherwise'
   source: In Plain Sight
@@ -826,6 +897,7 @@ references:
   claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -29,6 +29,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-3b1349dd-48bc-45fa-be62-88832aaa9aad
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-3b1349dd-48bc-45fa-be62-88832aaa9aad
+  copyright_status: public_domain
 - text: A crew member reported many large, bright fragments visible through the window.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:00:14.8-00:00:17.6
@@ -38,6 +39,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-436e7883-38de-456b-8a89-cc93f4f67585
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-436e7883-38de-456b-8a89-cc93f4f67585
+  copyright_status: public_domain
 - text: The fragments were described as jagged, angular and fragmented or tumbling.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:00:27.2-00:00:30.2
@@ -47,6 +49,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-a299c37d-77fa-4f58-b936-7a785f4303a0
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-a299c37d-77fa-4f58-b936-7a785f4303a0
+  copyright_status: public_domain
 - text: A crew member distinguished the fragments from fluid and regarded them as
     distinct pieces.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
@@ -58,6 +61,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-edbc7e57-5b3b-41d1-8a3c-5e61f434724f
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-edbc7e57-5b3b-41d1-8a3c-5e61f434724f
+  copyright_status: public_domain
 - text: Most fragments were said to be tumbling very slowly.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:02:11.5-00:02:17.3
@@ -68,6 +72,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-2805e29b-43e8-4aae-ab8b-1368c906a443
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-2805e29b-43e8-4aae-ab8b-1368c906a443
+  copyright_status: public_domain
 - text: A crew member took photographs at different camera settings to record the
     patterns.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
@@ -79,6 +84,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-ed756092-c1dc-4570-99fa-6cb075025b18
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-ed756092-c1dc-4570-99fa-6cb075025b18
+  copyright_status: public_domain
 - text: The fragments were speculated to be curved pieces from the Saturn IVB stage.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:02:38.0-00:02:46.6
@@ -89,6 +95,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-d32b5197-60bf-48c1-838b-0bab0d510e3a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-d32b5197-60bf-48c1-838b-0bab0d510e3a
+  copyright_status: public_domain
 - text: Chunks of ice were proposed as another possible explanation.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:02:49.3-00:02:50.2
@@ -98,6 +105,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-59c4ad82-b3ac-4563-ab0e-e9ba1f7da662
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-59c4ad82-b3ac-4563-ab0e-e9ba1f7da662
+  copyright_status: public_domain
 - text: Paint from the spacecraft or its stage was also proposed.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:02:51.0-00:02:52.3
@@ -107,6 +115,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-5e6bb6ed-76df-43ea-a664-474d9f109768
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-5e6bb6ed-76df-43ea-a664-474d9f109768
+  copyright_status: public_domain
 - text: A NASA ground-control communicator recalled a possibly peeling thermal protection
     flag.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
@@ -119,6 +128,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-0a83c0d4-3f3d-4f7a-b475-450cc134ec3a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-0a83c0d4-3f3d-4f7a-b475-450cc134ec3a
+  copyright_status: public_domain
 - text: The manoeuvre involving the Saturn IVB stage was completed.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:03:03.8-00:03:05.1
@@ -128,6 +138,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-30c2b020-5f60-413f-98bd-9ddac191def1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-30c2b020-5f60-413f-98bd-9ddac191def1
+  copyright_status: public_domain
 - text: After the manoeuvre, the fragment field became essentially static, with slight
     tumbling.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
@@ -139,6 +150,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-aceaf6ca-0004-4635-bed3-1c675f3ad00a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-aceaf6ca-0004-4635-bed3-1c675f3ad00a
+  copyright_status: public_domain
 - text: A rarely observed fragment crossed the window at considerably higher velocity.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:03:21.6-00:03:28.6
@@ -149,6 +161,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-23da8361-b091-454a-8281-fd10f68282ae
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-23da8361-b091-454a-8281-fd10f68282ae
+  copyright_status: public_domain
 - text: No apparent relative motion between the fragments was observed.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:03:49.3-00:03:54.3
@@ -158,6 +171,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-5256189d-5d93-4b1c-8532-5e8975e78c7c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-5256189d-5d93-4b1c-8532-5e8975e78c7c
+  copyright_status: public_domain
 - text: A plan was made to take two photographs about a minute apart using frame 70.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:04:00.1-00:04:06.5
@@ -168,6 +182,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-6245f5eb-6b73-4339-8b4e-53d993c7a0be
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-6245f5eb-6b73-4339-8b4e-53d993c7a0be
+  copyright_status: public_domain
 - text: Gene Cernan described the particles as flat, flake-like fragments.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:04:15.7-00:04:20.2
@@ -177,6 +192,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-633cf739-1359-4a56-b0d5-ce0b1fe97daa
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-633cf739-1359-4a56-b0d5-ce0b1fe97daa
+  copyright_status: public_domain
 - text: Gene Cernan estimated some fragments at approximately 15 centimetres across.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:04:20.8-00:04:22.8
@@ -186,6 +202,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-93a73ddf-b0eb-431c-bbcd-d7b7b11a28b3
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-93a73ddf-b0eb-431c-bbcd-d7b7b11a28b3
+  copyright_status: public_domain
 - text: Gene Cernan said most fragments appeared to be twinkling.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:04:28.3-00:04:31.4
@@ -195,6 +212,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-625af919-e5d4-46b4-bab8-32165194e78b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-625af919-e5d4-46b4-bab8-32165194e78b
+  copyright_status: public_domain
 - text: Gene Cernan said most fragments appeared to be moving away from the spacecraft.
   source: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
   location: 00:04:33.1-00:04:35.2
@@ -204,6 +222,7 @@ references:
   record_hash: 5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa
   workbench_url: https://workbench.anomalica.is/5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa#claim-16041247-2fca-4e94-bed6-7f5e92010f2d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972#claim-16041247-2fca-4e94-bed6-7f5e92010f2d
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

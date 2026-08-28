@@ -31,6 +31,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-56e42efb-66e5-47e8-b74d-6905b0fe0a75
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-56e42efb-66e5-47e8-b74d-6905b0fe0a75
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said Jonathan Caplan had researched UAP for over 50 years.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -41,6 +42,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-d8cd4367-add9-446c-aedc-437e790a1dbe
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan said he joined the board of Flying Saucer Review, which he
     regarded as the leading ufology magazine at the time.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -53,6 +55,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-41a866a1-70d8-400c-b242-704933e840e5
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-41a866a1-70d8-400c-b242-704933e840e5
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan concluded that Majestic 12 existed and that its associated
     documents were genuine.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -64,6 +67,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-bafae81d-94cd-4653-800e-d23672e3f931
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-bafae81d-94cd-4653-800e-d23672e3f931
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said the Truman Directive was leaked around 1980 and that the
     resulting material became known as the Majestic 12 documents.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -77,6 +81,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-ff8d76f7-0f0f-4ddc-ab21-9ecb1364eebc
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said the provenance of the Majestic 12 documents is officially
     disputed by the FBI and the United States military.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -89,6 +94,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said a Majestic 12 document noted that the US president was
     staying at Blair House while the White House was being rebuilt.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -102,6 +108,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-8b02eac6-5016-452e-90e7-0a668cdb46f6
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan said he obtained a report concerning the Blair House meeting
     of 14 July 1949.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -113,6 +120,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-0016464c-8d51-46fb-bd1a-a84b7468c697
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-0016464c-8d51-46fb-bd1a-a84b7468c697
+  copyright_status: publicly_accessible
 - text: According to Jonathan Caplan's account of David Lilienthal's diary, Harry
     S. Truman referred to a unique report and an inaccessible agreement at the Blair
     House meeting.
@@ -127,6 +135,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan said a newly found Majestic 12 document concerned the Blair
     House meeting and discussed sharing material with US allies.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -139,6 +148,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-4eeea688-3f33-4b3e-a80d-c22d2c8cbfdf
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan said E. Howard Hunt told Douglas Caddy that the Watergate
     burglary concerned documents connected to the JFK assassination.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -152,6 +162,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d0bdd161-8112-48ac-adc4-d1c5219f25c7
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-d0bdd161-8112-48ac-adc4-d1c5219f25c7
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said the Watergate burglary might have been intended to conceal
     knowledge of UFO-secrets penetration.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -165,6 +176,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-e4c32ed4-098c-43d8-a99b-f58018cb4a5f
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-e4c32ed4-098c-43d8-a99b-f58018cb4a5f
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said the Lancer document described action against John F. Kennedy
     as critical to the continuation of Majestic 12.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -177,6 +189,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-c1116248-c89a-4880-b73e-19ceb2e14da3
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan said the Lancer document was worthy of serious investigation
     and that the JFK assassination had a strong possible link to the UFO subject.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -190,6 +203,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-341030a9-2d87-4d5d-af13-654199db8683
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-341030a9-2d87-4d5d-af13-654199db8683
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

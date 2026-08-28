@@ -167,6 +167,7 @@ references:
   claim_id: 543f9f7f-615c-4e37-9622-857cb58f9a14
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-543f9f7f-615c-4e37-9622-857cb58f9a14
+  copyright_status: public_domain
 - text: Bigelow began funding private UFO investigations and UFO organisations
   source: Statement to Congress
   location: char:3537-3624
@@ -175,12 +176,14 @@ references:
   claim_id: e870733a-7007-4f34-8fc4-253edf169c06
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-e870733a-7007-4f34-8fc4-253edf169c06
+  copyright_status: public_domain
 - text: Bigelow made his fortune through the Budget Suites of America hotel chain
   source: In Plain Sight
   location: ch15:8276-8427
   claim_id: fb973458-1f06-465d-9b99-184b1288bd36
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb973458-1f06-465d-9b99-184b1288bd36
+  copyright_status: restricted
 - text: In 1995 Bigelow self-funded the creation of the National Institute for Discovery
     Science
   source: In Plain Sight
@@ -188,6 +191,7 @@ references:
   claim_id: daf1800e-183a-4baa-991e-af32f21bbd35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-daf1800e-183a-4baa-991e-af32f21bbd35
+  copyright_status: restricted
 - text: Knapp said Bigelow created the National Institute for Discovery Science in
     1996
   source: Statement to Congress
@@ -198,12 +202,14 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  copyright_status: public_domain
 - text: Bigelow paid $200,000 to buy Skinwalker Ranch in 1996
   source: In Plain Sight
   location: ch15:8613-8732
   claim_id: 9362202d-2cfb-4103-a00d-c6515fe38b50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9362202d-2cfb-4103-a00d-c6515fe38b50
+  copyright_status: restricted
 - text: Bigelow funded full-time surveillance of Skinwalker Ranch as part of NIDS,
     investigating paranormal claims
   source: In Plain Sight
@@ -211,24 +217,28 @@ references:
   claim_id: 968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
+  copyright_status: restricted
 - text: Bigelow once owned Skinwalker Ranch, site of multiple UAP sightings
   source: In Plain Sight
   location: ch37:7546-7665
   claim_id: 90b27c48-92ff-429b-a0c6-6ebf84fa1430
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90b27c48-92ff-429b-a0c6-6ebf84fa1430
+  copyright_status: restricted
 - text: Eric Davis started working for NIDS in July 1996
   source: In Plain Sight
   location: ch15:9194-9283
   claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-173a406c-abae-40b6-b34c-eed7d5a602a3
+  copyright_status: restricted
 - text: Edgar Mitchell was invited by Bigelow to serve on the NIDS advisory board
   source: In Plain Sight
   location: ch25:5021-5183
   claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  copyright_status: restricted
 - text: Edgar Mitchell sat on the NIDS science advisory board while it conducted secret
     research for Bigelow
   source: In Plain Sight
@@ -236,6 +246,7 @@ references:
   claim_id: 8b9a0dbc-7978-47de-ba78-35427c03740e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b9a0dbc-7978-47de-ba78-35427c03740e
+  copyright_status: restricted
 - text: None of the scientists Bigelow brought in to study Skinwalker Ranch were UFO
     believers by background
   source: In Plain Sight
@@ -243,6 +254,7 @@ references:
   claim_id: 25e457c0-3181-4e49-9000-7d2c44e9bf72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25e457c0-3181-4e49-9000-7d2c44e9bf72
+  copyright_status: restricted
 - text: The scope of NIDS investigations went beyond Skinwalker Ranch and much remains
     confidential
   source: In Plain Sight
@@ -250,6 +262,7 @@ references:
   claim_id: 5181a9dd-4c77-4edb-94bb-6691e65a40b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5181a9dd-4c77-4edb-94bb-6691e65a40b5
+  copyright_status: restricted
 - text: NIDS conducted investigations across the United States from 1995 to 2004,
     most confidential
   source: In Plain Sight
@@ -257,12 +270,14 @@ references:
   claim_id: be608b6d-4237-4a45-8b29-17cf5a49076e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be608b6d-4237-4a45-8b29-17cf5a49076e
+  copyright_status: restricted
 - text: NIDS studied Unidentified Aerial Phenomena and the paranormal during the 1990s
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1387-1514
   claim_id: 0201cb46-cf65-432f-a523-bfc954b27a76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0201cb46-cf65-432f-a523-bfc954b27a76
+  copyright_status: restricted
 - text: Bigelow founded Bigelow Aerospace, a company specialising in manufactured
     space equipment, mostly self-funded, in 1998
   source: American Cosmic
@@ -270,6 +285,7 @@ references:
   claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f60a097b-1c0b-4280-a8c0-cfef0017d988
+  copyright_status: restricted
 - text: Bigelow is currently working with NASA to produce expandable craft for use
     in space
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -279,6 +295,7 @@ references:
   claim_id: 5c885f37-91a3-4079-8007-075a2e5d4389
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5c885f37-91a3-4079-8007-075a2e5d4389
+  copyright_status: publicly_accessible
 - text: Harry Reid said his interest in UFOs came from Bigelow
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:7093-7145
@@ -286,12 +303,14 @@ references:
   claim_id: ce8eff2d-30cb-4e3f-910c-6759c01a83e1
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ce8eff2d-30cb-4e3f-910c-6759c01a83e1
+  copyright_status: publicly_accessible
 - text: Harry Reid counted Bigelow among his friends
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1521-1562
   claim_id: 48ab67bf-2318-4db8-b4f3-6a8adcd0b356
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48ab67bf-2318-4db8-b4f3-6a8adcd0b356
+  copyright_status: restricted
 - text: Harry Reid said he visited Bigelow's Skinwalker Ranch and that what a DIA
     scientist saw there convinced him it needed investigation
   source: In Plain Sight
@@ -299,6 +318,7 @@ references:
   claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
+  copyright_status: restricted
 - text: An invitation to tender for the AAWSAP contract was issued by the DIA in August
     2008; Bigelow was the sole bidder, securing $10 million funding for the first
     year with a five-year option
@@ -307,6 +327,7 @@ references:
   claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
+  copyright_status: restricted
 - text: The AAWSAP contract was awarded to a Bigelow Aerospace subsidiary
   source: Statement to Congress
   location: char:9970-10060
@@ -316,6 +337,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
   inspection_url: /records/undated-pdf-statement-to-congress#claim-d314c627-a752-43d3-a286-835241ddff40
+  copyright_status: public_domain
 - text: The Bigelow team's AAWSAP investigations began in late 2008 and reportedly
     ended in 2012
   source: In Plain Sight
@@ -323,12 +345,14 @@ references:
   claim_id: 881ea1b3-5b20-4994-84e6-542156785f19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-881ea1b3-5b20-4994-84e6-542156785f19
+  copyright_status: restricted
 - text: Most of the AAWSAP team were terminated by mid-2010
   source: In Plain Sight
   location: ch17:19862-19910
   claim_id: 5ae48f16-cd05-4c87-b6c7-8b4946d69f8e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ae48f16-cd05-4c87-b6c7-8b4946d69f8e
+  copyright_status: restricted
 - text: Most of the AATIP money went to Bigelow's aerospace research company
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:1825-2120
@@ -338,6 +362,7 @@ references:
   claim_id: 13146c89-f9d8-4175-8bc7-3f8c990e9f9c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-13146c89-f9d8-4175-8bc7-3f8c990e9f9c
+  copyright_status: publicly_accessible
 - text: AATIP funding went to Bigelow Aerospace, which hired subcontractors and solicited
     research
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -347,6 +372,7 @@ references:
   claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
+  copyright_status: publicly_accessible
 - text: Working with Bigelow's Las Vegas company, AATIP produced documents describing
     aircraft moving at very high velocities with no visible signs of propulsion
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -358,6 +384,7 @@ references:
   claim_id: 26124b69-4650-4204-b372-691609239afc
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-26124b69-4650-4204-b372-691609239afc
+  copyright_status: publicly_accessible
 - text: Much of the Pentagon funding for the UAP investigation went to Bigelow Aerospace
     Advanced Space Studies (BAASS)
   source: In Plain Sight
@@ -365,6 +392,7 @@ references:
   claim_id: 7201f205-c587-409e-baf3-a92002347e74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7201f205-c587-409e-baf3-a92002347e74
+  copyright_status: restricted
 - text: Bigelow hired several of the same scientists from his NIDS investigations
     to work on the BAASS programme
   source: In Plain Sight
@@ -372,30 +400,35 @@ references:
   claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
+  copyright_status: restricted
 - text: BAASS was owned by Bigelow
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:12347-12455
   claim_id: 70f2b459-68d3-4b27-b0da-bb9d78d67724
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70f2b459-68d3-4b27-b0da-bb9d78d67724
+  copyright_status: restricted
 - text: BAASS was the prime contractor for the programme Luis Elizondo joined
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1575-1687
   claim_id: 963896c5-b9ab-441f-a74a-b9134507125a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-963896c5-b9ab-441f-a74a-b9134507125a
+  copyright_status: restricted
 - text: Bigelow was the lead contractor on the programme that Elizondo joined
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:852-890
   claim_id: 3ef402f0-76e2-43d6-95e1-aab3e2565444
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3ef402f0-76e2-43d6-95e1-aab3e2565444
+  copyright_status: restricted
 - text: Bigelow is a billionaire hotelier, developer, and aerospace magnate
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:767-848
   claim_id: 90e09345-5f82-4b26-81cb-4d3f1671b536
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-90e09345-5f82-4b26-81cb-4d3f1671b536
+  copyright_status: restricted
 - text: Bigelow was the contractor running the investigation at Skinwalker Ranch,
     Utah
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -403,6 +436,7 @@ references:
   claim_id: e05be000-f0c5-4ca7-984a-6c7624d0ebb9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e05be000-f0c5-4ca7-984a-6c7624d0ebb9
+  copyright_status: restricted
 - text: Bigelow bought the Skinwalker Ranch land in the mid-1990s so his scientists
     could study unusual occurrences long associated with the property
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -410,18 +444,21 @@ references:
   claim_id: 6cacba5e-41e4-476b-975d-4e613627a6c7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6cacba5e-41e4-476b-975d-4e613627a6c7
+  copyright_status: restricted
 - text: Bigelow owned Skinwalker Ranch at the time of AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:12464-12514
   claim_id: c36588bd-c126-467d-ab6b-a860c625a1f5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c36588bd-c126-467d-ab6b-a860c625a1f5
+  copyright_status: restricted
 - text: Bigelow spent much of his own money funding some of the costs of AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:12600-12662
   claim_id: 8a65f78b-d019-4499-af0f-a6a81f1c4f09
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a65f78b-d019-4499-af0f-a6a81f1c4f09
+  copyright_status: restricted
 - text: Under Bigelow's direction, Bigelow Aerospace modified buildings in Las Vegas
     for storage of metal alloys and materials that Luis Elizondo and AATIP contractors
     said had been recovered from unidentified aerial phenomena
@@ -433,6 +470,7 @@ references:
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
+  copyright_status: publicly_accessible
 - text: An alien logo is painted on the exterior of Bigelow's Bigelow Aerospace building
     in Las Vegas
   source: In Plain Sight
@@ -440,6 +478,7 @@ references:
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  copyright_status: restricted
 - text: Bigelow said internationally the United States is the most backward country
     in the world on the UFO issue
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -449,6 +488,7 @@ references:
   claim_id: 72a7d536-cde7-463d-abda-0328ba2cbdce
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-72a7d536-cde7-463d-abda-0328ba2cbdce
+  copyright_status: publicly_accessible
 - text: Bigelow said American scientists are scared of being ostracised and American
     media is scared of the stigma regarding the UFO issue
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -458,6 +498,7 @@ references:
   claim_id: b2983ec7-b50b-4967-9867-5a5243b5c25c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b2983ec7-b50b-4967-9867-5a5243b5c25c
+  copyright_status: publicly_accessible
 - text: Bigelow said China and Russia are much more open on the UFO issue
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:10912-11002
@@ -466,6 +507,7 @@ references:
   claim_id: 7c46ff0e-8f98-4bf0-a83e-f7cd9c338b1d
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-7c46ff0e-8f98-4bf0-a83e-f7cd9c338b1d
+  copyright_status: publicly_accessible
 - text: Bigelow believes UFOs have visited Earth
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:2187-2298
@@ -474,6 +516,7 @@ references:
   claim_id: 9a7624f2-1206-41b1-9089-bbb3ac1c01a2
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9a7624f2-1206-41b1-9089-bbb3ac1c01a2
+  copyright_status: publicly_accessible
 - text: Bigelow told CBS 60 Minutes correspondent Lara Logan he was 'absolutely convinced'
     aliens exist
   source: In Plain Sight
@@ -481,6 +524,7 @@ references:
   claim_id: f85ce769-914c-48df-95c9-51fc0d0601d1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f85ce769-914c-48df-95c9-51fc0d0601d1
+  copyright_status: restricted
 - text: Bigelow said he probably spent more as an individual researching an extra-terrestrial
     presence than anybody else in the United States has ever spent on the subject
   source: In Plain Sight
@@ -488,6 +532,7 @@ references:
   claim_id: f070d6e5-4aea-4774-9b4c-e8fd45e6a3c1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f070d6e5-4aea-4774-9b4c-e8fd45e6a3c1
+  copyright_status: restricted
 - text: Bigelow is notoriously media shy, with the 60 Minutes interview a notable
     exception
   source: In Plain Sight
@@ -495,6 +540,7 @@ references:
   claim_id: 75ad25e2-3f42-48cf-8106-dbc6fb33f8c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75ad25e2-3f42-48cf-8106-dbc6fb33f8c3
+  copyright_status: restricted
 - text: Bigelow has described his grandparents' close encounter with a UAP that filled
     the windscreen of their car before shooting away
   source: In Plain Sight
@@ -502,6 +548,7 @@ references:
   claim_id: 9f481f7b-d230-4458-8926-676e1491b2e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f481f7b-d230-4458-8926-676e1491b2e7
+  copyright_status: restricted
 references_note: '"'
 built_by:
   model: claude-sonnet-5

@@ -32,6 +32,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-218f5a13-b04a-461d-ae10-50f78a7164af
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-218f5a13-b04a-461d-ae10-50f78a7164af
+  copyright_status: publicly_accessible
 - text: David Grusch is identified as a UAP whistleblower and former United States
     Air Force intelligence officer.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -44,6 +45,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-11f12cf6-05e1-4de5-b745-6a0cfd3dae55
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-11f12cf6-05e1-4de5-b745-6a0cfd3dae55
+  copyright_status: publicly_accessible
 - text: Donald Trump reportedly asked Stephen Miller to examine the UAP portfolio.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
     Their Push
@@ -55,6 +57,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-76841e2e-a564-461c-8fbf-014c5ab6b5dc
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-76841e2e-a564-461c-8fbf-014c5ab6b5dc
+  copyright_status: publicly_accessible
 - text: Stephen Miller is described as one of Donald Trump's closest and longest-serving
     advisers.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -66,6 +69,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-7fb21883-c1b5-4e4c-8280-3db629122482
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-7fb21883-c1b5-4e4c-8280-3db629122482
+  copyright_status: publicly_accessible
 - text: David Grusch hopes Donald Trump will fulfil his promise regarding UAP disclosure
     and considers it potentially decisive for Trump's legacy.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -78,6 +82,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-1ba2c01b-2e68-4911-9d39-937adb9e9243
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-1ba2c01b-2e68-4911-9d39-937adb9e9243
+  copyright_status: publicly_accessible
 - text: David Grusch believes responsibility for disclosure rests with Donald Trump's
     inner circle and questions what the President knew if disclosure does not occur.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -92,6 +97,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-0765adfc-63ad-4f17-9ff1-e3e0070a5543
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-0765adfc-63ad-4f17-9ff1-e3e0070a5543
+  copyright_status: publicly_accessible
 - text: James Fox is identified as a documentary filmmaker.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
     Their Push
@@ -102,6 +108,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-0a0436e8-14ba-458e-bf70-1a52e91e6b92
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-0a0436e8-14ba-458e-bf70-1a52e91e6b92
+  copyright_status: publicly_accessible
 - text: Whistleblowers in James Fox's videos appeal for declassification of UAP-related
     photographs and documentation concerning retrieved craft and alleged non-human
     bodies.
@@ -117,6 +124,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-cc9327ac-0a37-4263-b273-20546227792f
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-cc9327ac-0a37-4263-b273-20546227792f
+  copyright_status: publicly_accessible
 - text: The same whistleblowers seek immunity and protection for people who might
     face repercussions for disclosing information covered by Non-Disclosure Agreements.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -129,6 +137,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-8c56a5f5-5f9c-4544-b7b7-9ce1d4df38a1
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-8c56a5f5-5f9c-4544-b7b7-9ce1d4df38a1
+  copyright_status: publicly_accessible
 - text: David Grusch is prepared to provide a historical accounting to National Security
     Council principals and the White House Chief of Staff.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -142,6 +151,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-6e886ba4-f360-41e5-9bdf-663af4481bf3
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-6e886ba4-f360-41e5-9bdf-663af4481bf3
+  copyright_status: publicly_accessible
 - text: David Grusch is ready to help identify records, programmes and personnel involved
     in classified UAP activities.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -156,6 +166,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-a24d2aed-116c-4f4a-bd68-df94c5b01e7e
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-a24d2aed-116c-4f4a-bd68-df94c5b01e7e
+  copyright_status: publicly_accessible
 - text: David Grusch called on Donald Trump to provide authorisation, saying that
     he and other whistleblowers were ready to proceed.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -167,6 +178,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-474947d5-05f0-4b32-90ef-4909a9220700
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-474947d5-05f0-4b32-90ef-4909a9220700
+  copyright_status: publicly_accessible
 - text: Robert Bigelow is described as a billionaire and Trump donor with a decades-long
     interest in UAP.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -179,6 +191,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-42bcc4eb-ce4c-4369-b1c1-be59ae9e4d43
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-42bcc4eb-ce4c-4369-b1c1-be59ae9e4d43
+  copyright_status: publicly_accessible
 - text: In February 2026, Robert Bigelow advised Donald Trump on addressing the nation
     about UAP.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -191,6 +204,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-bc7830d4-d77f-4a44-96b1-5b00fbccd8a3
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-bc7830d4-d77f-4a44-96b1-5b00fbccd8a3
+  copyright_status: publicly_accessible
 - text: Robert Bigelow said that disclosure should begin with confirmation and that
     the President should acknowledge non-human intelligence.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -205,6 +219,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-55444cbe-815c-46f1-bb4b-7d0ec37641f1
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-55444cbe-815c-46f1-bb4b-7d0ec37641f1
+  copyright_status: publicly_accessible
 - text: Robert Bigelow suggested describing a long-standing non-human intelligent
     presence using spacecraft beyond human capabilities and physics.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -220,6 +235,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-71cd7853-0a05-4752-8ee0-60f1871b0d47
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-71cd7853-0a05-4752-8ee0-60f1871b0d47
+  copyright_status: publicly_accessible
 - text: The source describes Robert Bigelow as taking a more cautious position on
     disclosure in his podcast with George Knapp.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -232,6 +248,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-a752c754-60cd-440e-a91f-475a8b430c39
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-a752c754-60cd-440e-a91f-475a8b430c39
+  copyright_status: publicly_accessible
 - text: Robert Bigelow considers secrecy necessary for companies allegedly involved
     in reverse-engineering non-human technology.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -246,6 +263,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-2985f007-c32c-4316-9c36-f386e9d5d224
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-2985f007-c32c-4316-9c36-f386e9d5d224
+  copyright_status: publicly_accessible
 - text: Robert Bigelow favours a truthful, step-by-step and partial disclosure process
     involving gatekeepers.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -260,6 +278,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-09042fa3-d8fd-4370-8b8e-4114443c3aec
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-09042fa3-d8fd-4370-8b8e-4114443c3aec
+  copyright_status: publicly_accessible
 - text: Advocates are described as seeking a UAP disclosure speech before the 2026
     United States midterm elections.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -273,6 +292,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-afa098a2-f2c7-4d61-81e8-09f335699d45
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-afa098a2-f2c7-4d61-81e8-09f335699d45
+  copyright_status: publicly_accessible
 - text: The advocates' stated goal is a public acknowledgement by Donald Trump that
     some UAP are of non-human origin.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -285,6 +305,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-1b813aa6-1898-43c7-b917-2a94a53385e5
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-1b813aa6-1898-43c7-b917-2a94a53385e5
+  copyright_status: publicly_accessible
 - text: Lue Elizondo is identified as the former head of the Pentagon's Advanced Aerospace
     Threat Identification Program.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -296,6 +317,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-8745d800-c911-4bbb-874b-692a5152d12e
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-8745d800-c911-4bbb-874b-692a5152d12e
+  copyright_status: publicly_accessible
 - text: The source says Lue Elizondo is widely believed to be positioned to assist
     the Trump administration with a possible disclosure effort.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -308,6 +330,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-695a82ea-1f18-4e7e-ba85-4e085c3436a8
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-695a82ea-1f18-4e7e-ba85-4e085c3436a8
+  copyright_status: publicly_accessible
 - text: Christopher Sharp reported that an anonymous source told Liberation Times
     that the US government, including AARO, was aware of data indicating extreme-performance
     incidents.
@@ -322,6 +345,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-04bfb5c0-36db-48a8-818c-ca0ffe0c9b14
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-04bfb5c0-36db-48a8-818c-ca0ffe0c9b14
+  copyright_status: publicly_accessible
 - text: An anonymous source told Liberation Times that objects had reportedly crossed
     the Atlantic Ocean in three seconds.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -335,6 +359,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-b5248f5c-61f3-41a2-8c89-786877416727
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-b5248f5c-61f3-41a2-8c89-786877416727
+  copyright_status: publicly_accessible
 - text: The same reporting attributed similar rapid-acceleration episodes to the vicinity
     of Japan.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -347,6 +372,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-69f0bc0c-7235-417f-b602-5dccf763404a
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-69f0bc0c-7235-417f-b602-5dccf763404a
+  copyright_status: publicly_accessible
 - text: An anonymous source told Liberation Times that the CIA's chief scientist acted
     as an operational gatekeeper for alleged retrieval and reverse-engineering programmes.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -361,6 +387,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-630ee66c-a429-464f-a5a4-2b9fb5be1677
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-630ee66c-a429-464f-a5a4-2b9fb5be1677
+  copyright_status: publicly_accessible
 - text: According to an anonymous source, the CIA's deputy director within its Directorate
     of Science and Technology served as an administrative gatekeeper for such programmes.
   source: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
@@ -373,6 +400,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-4397b39e-c450-4680-9e57-16c2fb77551a
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-4397b39e-c450-4680-9e57-16c2fb77551a
+  copyright_status: publicly_accessible
 - text: The source says that whether Donald Trump is prepared to disclose UAP-related
     information remains unclear, with differing accounts of his interest and the White
     House approach.
@@ -387,6 +415,7 @@ references:
   record_hash: dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f
   workbench_url: https://workbench.anomalica.is/dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173f#claim-fc2e62bf-423a-4230-98d7-27625bf3b1bc
   inspection_url: /records/2026-08-19-web-pressure-mounts-on-president-trump-as-uap-disclosure#claim-fc2e62bf-423a-4230-98d7-27625bf3b1bc
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

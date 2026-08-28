@@ -46,6 +46,7 @@ references:
   claim_id: e9e6c56f-7670-42db-a41f-da8fd7f1a200
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e9e6c56f-7670-42db-a41f-da8fd7f1a200
+  copyright_status: restricted
 - text: Several universities turned down the UFO study before the University of Colorado
     accepted
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -54,6 +55,7 @@ references:
   claim_id: e33012eb-63ea-48a3-b624-e4a6068aa225
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e33012eb-63ea-48a3-b624-e4a6068aa225
+  copyright_status: restricted
 - text: In 1966 the Scientific Study of Unidentified Flying Objects, known as the
     Condon Report, was undertaken at the University of Colorado
   source: Communion
@@ -61,6 +63,7 @@ references:
   claim_id: 63fe3d78-056f-48b2-b326-2106df308a59
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-63fe3d78-056f-48b2-b326-2106df308a59
+  copyright_status: restricted
 - text: Condon, a former Director of the National Bureau of Standards, directed the
     18-month, $325,000 USAF-funded study
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -72,12 +75,14 @@ references:
   claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1725b8da-9347-48db-b207-3a49505ddb8c
+  copyright_status: public_domain
 - text: Robert Low was the university's business administrator at the project's inception
   source: Communion
   location: ch14:22590-22666
   claim_id: f24a4a2b-ca7f-46e8-b0c5-d024306e354f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f24a4a2b-ca7f-46e8-b0c5-d024306e354f
+  copyright_status: restricted
 - text: In 1968, Raymond Fowler served the Condon Committee as early warning coordinator
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -88,6 +93,7 @@ references:
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-63781644-d1a8-4c62-8c41-a4990251dc96
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-63781644-d1a8-4c62-8c41-a4990251dc96
+  copyright_status: publicly_accessible
 - text: Low's memo describing the study as staffed by non-believers while presented
     publicly as objective
   source: Communion
@@ -95,6 +101,7 @@ references:
   claim_id: 7bebb911-1cbd-4348-855d-6373c59a6811
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7bebb911-1cbd-4348-855d-6373c59a6811
+  copyright_status: restricted
 - text: Condon's public remark that his inclination was to recommend the government
     get out of the UFO business
   source: Communion
@@ -102,12 +109,14 @@ references:
   claim_id: 7a7228b6-3587-4c96-abec-4a537581aad1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7a7228b6-3587-4c96-abec-4a537581aad1
+  copyright_status: restricted
 - text: Scientists on the study disagreed with Condon and some resigned in protest
   source: Communion
   location: ch14:23630-23759
   claim_id: 3826f442-e412-45cc-b7cf-05f20a82eae7
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3826f442-e412-45cc-b7cf-05f20a82eae7
+  copyright_status: restricted
 - text: The eight-hundred-page report concluded UFO study could not be justified in
     the expectation science would be advanced
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -117,12 +126,14 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
+  copyright_status: restricted
 - text: The Condon Committee inquiry declared the UAP topic devoid of scientific merit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3383-3543
   claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
+  copyright_status: restricted
 - text: The study cost nearly half a million dollars
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -130,6 +141,7 @@ references:
   claim_id: 1d5d9544-d365-4a21-b411-b10230650997
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1d5d9544-d365-4a21-b411-b10230650997
+  copyright_status: restricted
 - text: Vallée said the Condon investigation convinced scientists to pursue UFO research
     privately
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -138,6 +150,7 @@ references:
   claim_id: 04c778fc-42ef-4900-b589-aa93d774e589
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-04c778fc-42ef-4900-b589-aa93d774e589
+  copyright_status: restricted
 - text: Vallée said the committee's files were locked up, later moved to a private
     home, and burned
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -146,6 +159,7 @@ references:
   claim_id: 0dcdfaaf-4f0d-4e32-b0cc-fe11d13c0c90
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0dcdfaaf-4f0d-4e32-b0cc-fe11d13c0c90
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

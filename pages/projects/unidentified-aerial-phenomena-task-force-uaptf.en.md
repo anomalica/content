@@ -114,6 +114,7 @@ references:
   claim_id: 379078ba-e6ac-4dd7-8100-6b6f37dbd619
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-379078ba-e6ac-4dd7-8100-6b6f37dbd619
+  copyright_status: publicly_accessible
 - text: The task force was established to develop standardised UAP reporting requirements.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -123,6 +124,7 @@ references:
   claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0ea18651-8df3-4a40-9448-c475da9f5895
+  copyright_status: public_domain
 - text: The task force investigated objects once called UFOs, now officially UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1541-1718
@@ -132,6 +134,7 @@ references:
   claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
+  copyright_status: publicly_accessible
 - text: The task force was led by the Department of the Navy under OUSDI.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1723-1848
@@ -140,6 +143,7 @@ references:
   claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
+  copyright_status: publicly_accessible
 - text: Deputy Secretary of Defense David L. Norquist approved the task force's establishment.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -149,6 +153,7 @@ references:
   claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d81d92c7-b50c-4425-92eb-be9d94981ae3
+  copyright_status: public_domain
 - text: The task force was intended to improve understanding of the nature and origins
     of UAP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -159,6 +164,7 @@ references:
   claim_id: d498a840-1ca2-47a4-85fa-cdf6f2c5175d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d498a840-1ca2-47a4-85fa-cdf6f2c5175d
+  copyright_status: public_domain
 - text: The task force's mission was to detect, analyse and catalogue UAP threats
     to national security.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -169,6 +175,7 @@ references:
   claim_id: 12cabeea-5319-458d-a281-825af6a9d67b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-12cabeea-5319-458d-a281-825af6a9d67b
+  copyright_status: public_domain
 - text: Service members were encouraged to report strange aerial encounters to the
     task force.
   source: Navy pilots describe encounters with UFOs
@@ -177,6 +184,7 @@ references:
   claim_id: 557c7e35-a375-4054-9698-33c8f479b064
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-557c7e35-a375-4054-9698-33c8f479b064
+  copyright_status: publicly_accessible
 - text: New York Times reporting on AATIP was largely responsible for Congress creating
     the task force.
   source: Statement to Congress
@@ -186,6 +194,7 @@ references:
   claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
+  copyright_status: public_domain
 - text: Elizondo's public exposure of AATIP was a major factor in the task force's
     creation and AARO's later creation.
   source: Statement to Congress
@@ -196,6 +205,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
   inspection_url: /records/undated-pdf-statement-to-congress#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
+  copyright_status: public_domain
 - text: The interagency task force Jay Stratton built became the Pentagon's UAP Task
     Force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -203,6 +213,7 @@ references:
   claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
+  copyright_status: restricted
 - text: Elizondo became a Space Force contractor to help build its UAP effort and
     support Stratton's task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -210,6 +221,7 @@ references:
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
+  copyright_status: restricted
 - text: The Secretary of Defense announced the task force and named Stratton its first
     director.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -217,6 +229,7 @@ references:
   claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
+  copyright_status: restricted
 - text: From the moment it became official, the Legacy Program quietly created bureaucratic
     hurdles for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -224,6 +237,7 @@ references:
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
+  copyright_status: restricted
 - text: The Legacy Program and its associates blocked funding Congress had appropriated
     for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -231,6 +245,7 @@ references:
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
+  copyright_status: restricted
 - text: Elizondo said OUSD(I) was the same organisation that had previously underplayed
     and tried to kill AATIP and then the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -238,6 +253,7 @@ references:
   claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
+  copyright_status: restricted
 - text: Puthoff said Stratton encountered gatekeepers controlling access to the legacy
     program.
   source: 'Episode 73: Science vs. Secrecy'
@@ -246,6 +262,7 @@ references:
   claim_id: 0c5369f6-0d28-42a5-914d-2a45e63bb116
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-0c5369f6-0d28-42a5-914d-2a45e63bb116
+  copyright_status: publicly_accessible
 - text: Puthoff said Stratton involved around 16 contractors and intelligence units
     to move past the legacy program, without success.
   source: 'Episode 73: Science vs. Secrecy'
@@ -256,6 +273,7 @@ references:
   claim_id: f781af18-46b8-4c78-9afb-dd89541804bd
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-f781af18-46b8-4c78-9afb-dd89541804bd
+  copyright_status: publicly_accessible
 - text: Grusch served as the NRO's representative to the task force from 2019 to 2021.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1164-1278
@@ -264,6 +282,7 @@ references:
   claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
+  copyright_status: publicly_accessible
 - text: Grusch's task force membership was in an NRO reservist capacity within the
     US Air Force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -274,6 +293,7 @@ references:
   claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
+  copyright_status: public_domain
 - text: Grusch helped author the task force's 2019 Security Classification Guide.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -283,6 +303,7 @@ references:
   claim_id: 9ca636fc-22a1-4537-a5c8-e778812c130d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9ca636fc-22a1-4537-a5c8-e778812c130d
+  copyright_status: public_domain
 - text: From late 2021 to July 2022 Grusch was the NGA's co-lead for UAP analysis
     and its task force representative.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -292,6 +313,7 @@ references:
   claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+  copyright_status: publicly_accessible
 - text: Grusch reported to the task force and eventually to AARO as his agency's co-lead.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -302,6 +324,7 @@ references:
   claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
+  copyright_status: public_domain
 - text: Grusch spent four years corroborating evidence and vetting individuals while
     with the task force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -313,6 +336,7 @@ references:
   claim_id: bdef50bb-774f-482d-b545-50ee47d5eab6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bdef50bb-774f-482d-b545-50ee47d5eab6
+  copyright_status: public_domain
 - text: In 2019 the task force director asked Grusch to identify special/controlled
     access programs, reporting to the Deputy Secretary of Defense.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -325,6 +349,7 @@ references:
   claim_id: e777450f-6f8c-4117-858f-257d1d69fedc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e777450f-6f8c-4117-858f-257d1d69fedc
+  copyright_status: public_domain
 - text: Grusch sat on the task force created by the 2020 NDAA.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -334,6 +359,7 @@ references:
   claim_id: 2f97144c-bde9-4334-8cbe-51f3d40bd568
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2f97144c-bde9-4334-8cbe-51f3d40bd568
+  copyright_status: public_domain
 - text: Karl E. Nell was the Army's liaison to the task force from 2021 to 2022, working
     with Grusch.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -344,6 +370,7 @@ references:
   claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
+  copyright_status: publicly_accessible
 - text: The task force was refused access to a broader programme that had retrieved
     non-human-origin vehicles that had landed or crashed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -351,6 +378,7 @@ references:
   claim_id: 87ccdf24-ffeb-46c1-a562-208927df7e38
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87ccdf24-ffeb-46c1-a562-208927df7e38
+  copyright_status: restricted
 - text: At the May 2022 hearing, Gallagher asked Moultrie and Bray about DOD UAP technology
     programs; both said they knew of nothing beyond the Navy UAP Task Force.
   source: In Plain Sight
@@ -358,6 +386,7 @@ references:
   claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf1d136-d3ae-441f-b9ad-49b04020d3be
+  copyright_status: restricted
 - text: In June 2021 the task force and ODNI issued the congressionally mandated Preliminary
     Assessment on UAP.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -370,6 +399,7 @@ references:
   claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
+  copyright_status: public_domain
 - text: Senate Report 116-233 directed ODNI to assess the UAP threat and report on
     the task force's progress.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -383,6 +413,7 @@ references:
   claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
+  copyright_status: public_domain
 - text: In May 2022 Charles McCullough III filed a whistleblower disclosure on Grusch's
     behalf concerning information gathered since 2019 at the task force.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -393,6 +424,7 @@ references:
   claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
+  copyright_status: publicly_accessible
 - text: Grusch testified at the July 2023 House hearing, identified as a former NRO
     representative to the task force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -403,6 +435,7 @@ references:
   claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
+  copyright_status: public_domain
 - text: A November 2021 memorandum directed OUSDI to establish AOIMSG as the task
     force's successor.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -416,6 +449,7 @@ references:
   claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
+  copyright_status: public_domain
 - text: The task force was reorganised and expanded into AARO, extending its remit
     to underwater objects.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -425,6 +459,7 @@ references:
   claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
+  copyright_status: publicly_accessible
 - text: The task force helped standardise, destigmatise and increase the volume of
     UAP reporting.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -435,6 +470,7 @@ references:
   claim_id: 9accd6d1-41b0-47d0-859b-164aa5f4f952
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9accd6d1-41b0-47d0-859b-164aa5f4f952
+  copyright_status: public_domain
 - text: The task force helped calibrate sensors to improve the quality of UAP data
     collected.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -444,6 +480,7 @@ references:
   claim_id: 78e0cf87-de92-4da5-9dec-ef4f8deac16c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-78e0cf87-de92-4da5-9dec-ef4f8deac16c
+  copyright_status: public_domain
 - text: The task force's methods directly led to identifying Chinese high-altitude
     balloons over the continental US.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -455,6 +492,7 @@ references:
   claim_id: 117b0a79-31dd-4820-bd1e-66b4dc96f27d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-117b0a79-31dd-4820-bd1e-66b4dc96f27d
+  copyright_status: public_domain
 - text: AAWSAP once employed 50 full-time investigators, more than Blue Book, the
     task force, or AARO.
   source: Statement to Congress
@@ -464,6 +502,7 @@ references:
   claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-346e7c33-c4df-45ea-bc82-54fe11f9b7cf
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

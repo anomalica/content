@@ -23,6 +23,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-47c8ab88-3ab0-4a42-b27f-896105827229
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-47c8ab88-3ab0-4a42-b27f-896105827229
+  copyright_status: restricted
 - text: Earth photography shows no clear sign of life below 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:548-651
@@ -31,6 +32,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b8515a98-2ab9-4fdc-9a46-182cf50d57d7
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-b8515a98-2ab9-4fdc-9a46-182cf50d57d7
+  copyright_status: restricted
 - text: Agricultural and urban rectangular arrays become apparent at 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:661-772
@@ -39,6 +41,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b9a27747-5ccc-45e5-ab54-bd03e898d604
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-b9a27747-5ccc-45e5-ab54-bd03e898d604
+  copyright_status: restricted
 - text: Mars lacks the relevant rectangular-array patterns
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:852-874
@@ -47,6 +50,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-2f7073d0-f886-4f62-984f-956a2c1f3cff
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-2f7073d0-f886-4f62-984f-956a2c1f3cff
+  copyright_status: restricted
 - text: Earth's radio, television and radar emissions are detectable over interstellar
     distances
   source: The recognition of extraterrestrial intelligence (1975)
@@ -56,6 +60,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-007eabc5-2db0-4527-badc-0629dd776132
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-007eabc5-2db0-4527-badc-0629dd776132
+  copyright_status: restricted
 - text: Carl Sagan's proposal that artificial radio signals could be identified by
     autocorrelation
   source: The recognition of extraterrestrial intelligence (1975)
@@ -65,6 +70,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-c889057e-a55a-45ac-ae77-b251c1af40a2
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-c889057e-a55a-45ac-ae77-b251c1af40a2
+  copyright_status: restricted
 - text: The Mariner 9 mission's photographic investigation of possible technical civilisation
     on Mars
   source: The recognition of extraterrestrial intelligence (1975)
@@ -74,6 +80,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-75843ec9-0bd6-4e84-be05-eee14b6d16f4
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-75843ec9-0bd6-4e84-be05-eee14b6d16f4
+  copyright_status: restricted
 - text: Mariner 9 obtained 7232 photographs and mapped Mars at 1 kilometre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:13761-13899
@@ -82,6 +89,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-333184bd-cb92-465c-b010-157f505c05a5
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-333184bd-cb92-465c-b010-157f505c05a5
+  copyright_status: restricted
 - text: Several percent of Mars was photographed at 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:13905-14064
@@ -90,6 +98,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-cbc8e042-0597-4ade-be24-1cf52998191e
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-cbc8e042-0597-4ade-be24-1cf52998191e
+  copyright_status: restricted
 - text: No signs of a technical civilisation were found by Mariner 9
   source: The recognition of extraterrestrial intelligence (1975)
   location: line 132-147
@@ -98,6 +107,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-259caead-3664-4cb8-b270-1baa6a3f8a70
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-259caead-3664-4cb8-b270-1baa6a3f8a70
+  copyright_status: restricted
 - text: Iosif Shklovskii's 1966 hollow-Phobos hypothesis was based on erroneous data
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:15882-16085
@@ -106,6 +116,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-d076d393-1f67-4a84-95a4-7e85a356f628
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-d076d393-1f67-4a84-95a4-7e85a356f628
+  copyright_status: restricted
 - text: Mariner 9 photography indicated that Phobos was a natural object
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:16092-16268
@@ -114,6 +125,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b0c18b6d-f788-4c85-9c2a-c6a5244e115d
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-b0c18b6d-f788-4c85-9c2a-c6a5244e115d
+  copyright_status: restricted
 - text: The Arecibo radio telescope's 305 metre semi-steerable design
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:20853-20892
@@ -122,6 +134,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-35cb8ba6-3f82-4565-b898-480efe1899b0
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-35cb8ba6-3f82-4565-b898-480efe1899b0
+  copyright_status: restricted
 - text: Cornell University operated Arecibo for the National Science Foundation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:20903-20959
@@ -130,6 +143,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-501084b4-4a89-47a8-9067-9f8902d07993
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-501084b4-4a89-47a8-9067-9f8902d07993
+  copyright_status: restricted
 - text: Two Arecibo-class telescopes could communicate across the Milky Way at about
     1 bit per second
   source: The recognition of extraterrestrial intelligence (1975)
@@ -139,6 +153,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-7b18585e-212d-4c1f-b18a-06f1f92abad6
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-7b18585e-212d-4c1f-b18a-06f1f92abad6
+  copyright_status: restricted
 - text: Intentional communication might be possible within about 1000 light years
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:21399-21594
@@ -147,6 +162,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-fd96feab-e6c1-492e-8b29-d39abec2e53a
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-fd96feab-e6c1-492e-8b29-d39abec2e53a
+  copyright_status: restricted
 - text: Several hundred stars had been examined at one or two frequencies
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:22242-22323
@@ -155,6 +171,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-0958df87-60f5-4d3d-bbfd-188b06a913b9
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-0958df87-60f5-4d3d-bbfd-188b06a913b9
+  copyright_status: restricted
 - text: B. Zuckerman and P. Palmer's search at the National Radio Astronomy Observatory
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:22329-22448
@@ -163,6 +180,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-5be717b4-62b3-41c4-9624-19c5be432941
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-5be717b4-62b3-41c4-9624-19c5be432941
+  copyright_status: restricted
 - text: The Pioneer 10 and Pioneer 11 plaques were the only direct communication attempts
     as of 1975
   source: The recognition of extraterrestrial intelligence (1975)
@@ -172,6 +190,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-033d14d6-e7f2-4f6b-bc78-d15ecd814bc7
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-033d14d6-e7f2-4f6b-bc78-d15ecd814bc7
+  copyright_status: restricted
 - text: The plaque's depictions of hydrogen, pulsars, humans, the spacecraft and the
     Solar System
   source: The recognition of extraterrestrial intelligence (1975)
@@ -181,6 +200,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-e222ce31-ace6-4a84-b920-ce0e2b8c69c8
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-e222ce31-ace6-4a84-b920-ce0e2b8c69c8
+  copyright_status: restricted
 - text: The plaque was a 15 centimetre by 22.5 centimetre gold-anodised aluminium
     plate
   source: The recognition of extraterrestrial intelligence (1975)
@@ -190,6 +210,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-111103ec-3da5-454c-b226-a06d192e9b93
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-111103ec-3da5-454c-b226-a06d192e9b93
+  copyright_status: restricted
 - text: The plaque was designed by Carl Sagan, Linda Sagan and Frank Drake
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:33365-33399
@@ -198,6 +219,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
+  copyright_status: restricted
 - text: The plaque used physics and astronomy shared with a receiving technological
     civilisation
   source: The recognition of extraterrestrial intelligence (1975)
@@ -207,6 +229,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-039ec7fb-bc3d-40ba-a6ff-76db0e79d812
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-039ec7fb-bc3d-40ba-a6ff-76db0e79d812
+  copyright_status: restricted
 - text: Carl Sagan found no compelling evidence for past extraterrestrial visitation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:31064-31186
@@ -215,6 +238,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b3293f44-f2bf-461f-b266-174aec4833b7
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-b3293f44-f2bf-461f-b266-174aec4833b7
+  copyright_status: restricted
 - text: Carl Sagan distinguished the absence of present evidence from the possibility
     of future evidence
   source: The recognition of extraterrestrial intelligence (1975)
@@ -224,6 +248,7 @@ references:
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-d66f1b70-f837-4840-b3ed-9cb7f8aaf32e
   inspection_url: /records/1975-pdf-the-recognition-of-extraterrestrial-intelligence#claim-d66f1b70-f837-4840-b3ed-9cb7f8aaf32e
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

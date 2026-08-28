@@ -419,6 +419,7 @@ references:
   claim_id: 63012b19-1264-40a6-8b80-17e9e179db6f
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-63012b19-1264-40a6-8b80-17e9e179db6f
+  copyright_status: publicly_accessible
 - text: DeLonge is co-founder and interim CEO of To The Stars Academy of Arts & Science
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -427,6 +428,7 @@ references:
   claim_id: 3be78208-ae8c-40d0-ba4d-8b8e20db8ef1
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-3be78208-ae8c-40d0-ba4d-8b8e20db8ef1
+  copyright_status: publicly_accessible
 - text: 'DeLonge is executive producer of Unidentified: Inside America''s UFO Investigation'
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -437,6 +439,7 @@ references:
   claim_id: fc005bdd-43e0-4fee-be9b-0ac75db485e5
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-fc005bdd-43e0-4fee-be9b-0ac75db485e5
+  copyright_status: publicly_accessible
 - text: DeLonge is also prominently featured in the show
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -446,6 +449,7 @@ references:
   claim_id: 6f9ea08a-f0be-4f3a-80f0-2e5fb934f26c
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-6f9ea08a-f0be-4f3a-80f0-2e5fb934f26c
+  copyright_status: publicly_accessible
 - text: By 1999, as Blink-182's lead singer, DeLonge was a megastar packing stadiums
     worldwide
   source: In Plain Sight
@@ -453,114 +457,133 @@ references:
   claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
+  copyright_status: restricted
 - text: '''Aliens Exist'' was inspired by UAP books and articles DeLonge read on tour'
   source: In Plain Sight
   location: ch18:10032-10189
   claim_id: 4e9a5478-a436-4b8e-b60f-384d4c003d75
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e9a5478-a436-4b8e-b60f-384d4c003d75
+  copyright_status: restricted
 - text: DeLonge told the LA Times the song is about aliens and 'it's true'
   source: In Plain Sight
   location: ch18:10196-10306
   claim_id: 78c790d9-b419-4739-b772-47392e913efd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-78c790d9-b419-4739-b772-47392e913efd
+  copyright_status: restricted
 - text: By 2014 DeLonge was fascinated with Close Encounters of the Fifth Kind (CE5)
   source: In Plain Sight
   location: ch18:6719-7042
   claim_id: 2fb522be-f0eb-480a-91ba-4031b63db5fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fb522be-f0eb-480a-91ba-4031b63db5fa
+  copyright_status: restricted
 - text: DeLonge camped near Area 51, north of Tonopah, with two friends
   source: In Plain Sight
   location: ch18:6005-6330
   claim_id: 7e3231c7-ddbc-4170-b0aa-478cead09427
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
+  copyright_status: restricted
 - text: The group followed CE5 protocols; nothing happened despite staying up late
   source: In Plain Sight
   location: ch18:7297-7637
   claim_id: 1875bfea-804b-4a88-8757-5eb974ebb03c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1875bfea-804b-4a88-8757-5eb974ebb03c
+  copyright_status: restricted
 - text: DeLonge woke at 3am hearing voices and reports being paralysed
   source: In Plain Sight
   location: ch18:7644-7791
   claim_id: a0b5aa1e-a218-418a-949f-c17bdb41a78d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a0b5aa1e-a218-418a-949f-c17bdb41a78d
+  copyright_status: restricted
 - text: Early 2015 hiatus from Blink-182 partly to focus on UAP research
   source: In Plain Sight
   location: ch18:12272-12446
   claim_id: f8f05b75-00f1-485a-9bb7-aafcd60935e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8f05b75-00f1-485a-9bb7-aafcd60935e6
+  copyright_status: restricted
 - text: DeLonge quit Blink-182 in 2015
   source: In Plain Sight
   location: ch18:5680-5776
   claim_id: 0fe34a35-e9ef-4e50-9430-a38aa76a983f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
+  copyright_status: restricted
 - text: DeLonge told the press he'd met people gathering Congressional testimony
   source: In Plain Sight
   location: ch18:12452-12760
   claim_id: c0ff3c1e-0c1f-4c39-b918-10950ef9679a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c0ff3c1e-0c1f-4c39-b918-10950ef9679a
+  copyright_status: restricted
 - text: DeLonge told the press he feared his phone was tapped
   source: In Plain Sight
   location: ch18:12838-12885
   claim_id: decf1048-3b06-4fe0-a042-2d82837b0249
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-decf1048-3b06-4fe0-a042-2d82837b0249
+  copyright_status: restricted
 - text: Lockheed Martin statement on DeLonge's documentary pitch to Skunk Works
   source: In Plain Sight
   location: ch18:15278-15884
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
+  copyright_status: restricted
 - text: DeLonge's SeKret Machines foreword on his pitch to a Skunk Works executive
   source: In Plain Sight
   location: ch18:16835-17124
   claim_id: b101e897-11bb-41ab-b8ef-52b3c9bc1fb2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b101e897-11bb-41ab-b8ef-52b3c9bc1fb2
+  copyright_status: restricted
 - text: DeLonge describes a second meeting inside a secure Area 51 bunker
   source: In Plain Sight
   location: ch18:17134-17467
   claim_id: 5aedd31b-47ee-4ec2-9190-c10a67c2595d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
+  copyright_status: restricted
 - text: DeLonge agreed to MC a families' event for five minutes alone with the executive
   source: In Plain Sight
   location: ch18:14962-15112
   claim_id: 44643a22-400d-4db2-bef9-d6977a3f6a42
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44643a22-400d-4db2-bef9-d6977a3f6a42
+  copyright_status: restricted
 - text: Coulthart considers it a fair bet the executive was Rob Weiss
   source: In Plain Sight
   location: ch18:16530-16704
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
+  copyright_status: restricted
 - text: DeLonge says he told Weiss he knew about 'some bad things'
   source: In Plain Sight
   location: ch18:20290-20384
   claim_id: 1c0a9def-96f1-4822-bae6-362c7f093c0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
+  copyright_status: restricted
 - text: Weiss demanded to know what bad things the government had done
   source: In Plain Sight
   location: ch18:20394-20487
   claim_id: 6c577b93-42d1-4808-9484-ffec5e9925c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
+  copyright_status: restricted
 - text: DeLonge told Weiss he would need advisers to avoid disinforming people
   source: In Plain Sight
   location: ch18:20577-20747
   claim_id: 3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
+  copyright_status: restricted
 - text: Elizondo left the Pentagon and joined DeLonge, Mellon and Justice to form
     TTSA
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -571,18 +594,21 @@ references:
   claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-60718dbf-3218-4794-bc22-9b5da564d285
+  copyright_status: public_domain
 - text: TTSA co-founded by DeLonge and Semivan, pursuing a triple directive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10033-10494
   claim_id: 5c6c669d-c442-449d-9cb1-9c245e297d18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
+  copyright_status: restricted
 - text: DeLonge offered Elizondo the role of chief of security and special programs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 111-111
   claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
+  copyright_status: restricted
 - text: Steve Justice spent thirty-one years at Skunk Works before joining the advisory
     board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -590,6 +616,7 @@ references:
   claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
+  copyright_status: restricted
 - text: Hal Puthoff is a theoretical physicist
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:23.4-00:08:30.6
@@ -598,6 +625,7 @@ references:
   claim_id: fb85a1e1-7e4a-40d6-aad5-9a03ab232e2d
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-fb85a1e1-7e4a-40d6-aad5-9a03ab232e2d
+  copyright_status: publicly_accessible
 - text: Puthoff was a programme director for classified CIA and DoD programmes
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:23.4-00:08:30.6
@@ -606,6 +634,7 @@ references:
   claim_id: b42c20b8-9bb8-44c8-96b2-9cd94b953356
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b42c20b8-9bb8-44c8-96b2-9cd94b953356
+  copyright_status: publicly_accessible
 - text: Puthoff created the CIA's psychic spy programme
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:31.9-00:08:37.3
@@ -614,6 +643,7 @@ references:
   claim_id: 2337e7a9-71c9-4993-8ffc-9748eb5f135e
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-2337e7a9-71c9-4993-8ffc-9748eb5f135e
+  copyright_status: publicly_accessible
 - text: Jim Semivan is a former senior CIA Directorate of Operations officer
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:05.5-00:08:11.5
@@ -622,12 +652,14 @@ references:
   claim_id: b2fdd15b-3240-4ceb-b026-0a1442372f8c
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2fdd15b-3240-4ceb-b026-0a1442372f8c
+  copyright_status: publicly_accessible
 - text: TTSA's planned location was Encinitas, California
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15232-15374
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
+  copyright_status: restricted
 - text: TTSA was presented as a public benefit corporation
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:31:54.2-00:31:58.9
@@ -636,6 +668,7 @@ references:
   claim_id: be19897a-dc16-4e3f-8c06-71bd5aa3732b
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-be19897a-dc16-4e3f-8c06-71bd5aa3732b
+  copyright_status: publicly_accessible
 - text: TTSA offered Regulation A equity crowdfunding via its website
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:36:53.9-00:37:03.5
@@ -644,6 +677,7 @@ references:
   claim_id: af71025e-25fe-4bb7-b566-ff6c56b25397
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-af71025e-25fe-4bb7-b566-ff6c56b25397
+  copyright_status: publicly_accessible
 - text: Within two weeks DeLonge was introduced to senior military, NASA and White
     House figures
   source: In Plain Sight
@@ -651,30 +685,35 @@ references:
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
+  copyright_status: restricted
 - text: DeLonge describes being flown to meet 'The General' at an airport hangar restaurant
   source: In Plain Sight
   location: ch18:22109-22257
   claim_id: 696db94c-c794-4259-8dcf-1be9d0f81387
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-696db94c-c794-4259-8dcf-1be9d0f81387
+  copyright_status: restricted
 - text: '''The General'' told DeLonge: ''It was the Cold War and we found a lifeform'''
   source: In Plain Sight
   location: ch18:22267-22417
   claim_id: 45787ba7-1bfd-4333-847f-b60a66cdce44
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45787ba7-1bfd-4333-847f-b60a66cdce44
+  copyright_status: restricted
 - text: DeLonge summoned to meet a general and colonel at Colorado Springs
   source: In Plain Sight
   location: ch19:12241-12523
   claim_id: 8799223b-109f-461b-bf4f-012f7c1ff7ab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8799223b-109f-461b-bf4f-012f7c1ff7ab
+  copyright_status: restricted
 - text: The general and colonel greenlit DeLonge's access and media campaign
   source: In Plain Sight
   location: ch19:12471-12523
   claim_id: e7862a62-a327-476f-b8ee-14a97e47ae32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7862a62-a327-476f-b8ee-14a97e47ae32
+  copyright_status: restricted
 - text: DeLonge described the first meeting with 'The General' in his George Knapp
     interview
   source: In Plain Sight
@@ -682,12 +721,14 @@ references:
   claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
+  copyright_status: restricted
 - text: DeLonge's Joe Rogan interview ran approximately 100 minutes
   source: In Plain Sight
   location: ch19:871-972
   claim_id: 738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-738ecf8d-ad28-4c7e-9621-7d6c23a2b4c3
+  copyright_status: restricted
 - text: DeLonge said he was told the government secretly ran a UAP programme since
     the 1940s
   source: In Plain Sight
@@ -695,6 +736,7 @@ references:
   claim_id: d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d0c46b4d-6bd1-4a13-8ead-cf81d71a7ac4
+  copyright_status: restricted
 - text: DeLonge said officials told him the government had secretly retrieved alien
     spacecraft
   source: In Plain Sight
@@ -702,24 +744,28 @@ references:
   claim_id: 5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ca89840-7a4c-487b-8f2a-7c321b9f4b4e
+  copyright_status: restricted
 - text: DeLonge said his advisers had no idea how to back-engineer the technology
   source: In Plain Sight
   location: ch19:10734-11116
   claim_id: de7664b0-48dd-408f-bcbb-9a418fcfb923
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de7664b0-48dd-408f-bcbb-9a418fcfb923
+  copyright_status: restricted
 - text: DeLonge said the government had 'cracked gravity' and anti-gravity capability
   source: In Plain Sight
   location: ch19:14761-14953
   claim_id: adcee64e-207f-480e-8eae-2125b6d87cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-adcee64e-207f-480e-8eae-2125b6d87cff
+  copyright_status: restricted
 - text: Coulthart notes this contradicts DeLonge's earlier back-engineering claim
   source: In Plain Sight
   location: ch19:14960-15129
   claim_id: 4d63433d-a6cc-4f04-866f-2425a5c56c04
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d63433d-a6cc-4f04-866f-2425a5c56c04
+  copyright_status: restricted
 - text: DeLonge spent eighteen months travelling to meet NASA, DoD and other agencies
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:03:24.1-00:03:33.1
@@ -729,6 +775,7 @@ references:
   claim_id: 16c80ad3-263e-40f0-b934-8eee7e842632
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-16c80ad3-263e-40f0-b934-8eee7e842632
+  copyright_status: publicly_accessible
 - text: Leaked Podesta emails show DeLonge in contact with an aerospace executive,
     a campaign staffer and two generals
   source: In Plain Sight
@@ -736,6 +783,7 @@ references:
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+  copyright_status: restricted
 - text: Samosa says the hacked Podesta emails contain roughly 35 messages with DeLonge
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:05.4-00:40:09.2
@@ -745,6 +793,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+  copyright_status: publicly_accessible
 - text: Michael Carey introduced DeLonge to General William McCasland
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:38:24.7-00:38:31.5
@@ -753,6 +802,7 @@ references:
   claim_id: 3d22f230-9a6e-4c2e-bda8-7ed2968de241
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3d22f230-9a6e-4c2e-bda8-7ed2968de241
+  copyright_status: publicly_accessible
 - text: Contact with McCasland's group of advisers occurred in 2015 and 2016
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:35:04.8-00:35:08.2
@@ -761,6 +811,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
+  copyright_status: publicly_accessible
 - text: McCasland warned DeLonge he might find blind men touching an elephant
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:32:50.0-00:33:00.8
@@ -770,6 +821,7 @@ references:
   claim_id: ac782b6f-d7af-48d0-9b95-02648cf20b87
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac782b6f-d7af-48d0-9b95-02648cf20b87
+  copyright_status: publicly_accessible
 - text: George Knapp was a vocal defender of DeLonge and Elizondo
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -779,6 +831,7 @@ references:
   claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  copyright_status: publicly_accessible
 - text: Some observers suspect DeLonge is an unwitting front for a black-ops project
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -788,24 +841,28 @@ references:
   claim_id: 45996b72-9474-413f-84f1-31279939f290
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-45996b72-9474-413f-84f1-31279939f290
+  copyright_status: publicly_accessible
 - text: Coulthart describes 'bravado alpha-male talk' in DeLonge's account
   source: In Plain Sight
   location: ch19:2685-2923
   claim_id: 26f6097f-7220-4fa4-b8ad-860e8c8f7458
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26f6097f-7220-4fa4-b8ad-860e8c8f7458
+  copyright_status: restricted
 - text: Coulthart suggests a 'glint of fanaticism' in the secrecy DeLonge describes
   source: In Plain Sight
   location: ch19:3508-3732
   claim_id: dc7f10c8-b259-42db-b6f1-0de937dfd975
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dc7f10c8-b259-42db-b6f1-0de937dfd975
+  copyright_status: restricted
 - text: Coulthart is in no doubt the briefings happened, whatever their content
   source: In Plain Sight
   location: ch19:1715-1786
   claim_id: 4cc2971a-f05a-45fd-a2ca-a86475d3f0de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4cc2971a-f05a-45fd-a2ca-a86475d3f0de
+  copyright_status: restricted
 - text: Vallée holds significant scepticism about the DeLonge disclosure effort
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:41:15.6-00:41:20.5
@@ -814,6 +871,7 @@ references:
   claim_id: 3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bc4f43b-6fe2-4cef-9d8b-fd600f28dbaf
+  copyright_status: publicly_accessible
 - text: Jesse Michels has very little doubt about DeLonge's sincerity and interest
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:42:13.9-00:42:25.1
@@ -823,18 +881,21 @@ references:
   claim_id: 59a88a7f-2be4-43d7-a70d-bc86eb3838a3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-59a88a7f-2be4-43d7-a70d-bc86eb3838a3
+  copyright_status: publicly_accessible
 - text: DeLonge cut Elizondo's TTSA salary in half without warning
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:8524-8635
   claim_id: 07fc1709-84c6-440b-897c-5e42854a1562
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-07fc1709-84c6-440b-897c-5e42854a1562
+  copyright_status: restricted
 - text: DeLonge ended his business relationship with Elizondo in December 2020
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:11721-11985
   claim_id: e7d30b8b-e3f9-4ecf-bb51-92badc32778a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e7d30b8b-e3f9-4ecf-bb51-92badc32778a
+  copyright_status: restricted
 - text: DeLonge has been largely quiet on the UFO subject recently, per Medick
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -844,6 +905,7 @@ references:
   claim_id: aafddc88-cec4-4217-afb0-2564b29f5a8b
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aafddc88-cec4-4217-afb0-2564b29f5a8b
+  copyright_status: publicly_accessible
 - text: Coulthart and DeLonge spoke shortly before the 2026-08-11 episode
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -852,6 +914,7 @@ references:
   claim_id: 4062976d-7dbf-460a-8fbf-dd8ed2d042da
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-4062976d-7dbf-460a-8fbf-dd8ed2d042da
+  copyright_status: publicly_accessible
 - text: Coulthart says DeLonge remains engaged and never let the subject go
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -861,6 +924,7 @@ references:
   claim_id: 8ba9e89a-4c29-43ab-bf11-077d275c488c
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8ba9e89a-4c29-43ab-bf11-077d275c488c
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

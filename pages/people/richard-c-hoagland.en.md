@@ -1219,6 +1219,7 @@ references:
   claim_id: f144a59f-59f3-49f6-9df2-087e2e03cab2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f144a59f-59f3-49f6-9df2-087e2e03cab2
+  copyright_status: restricted
 - text: Hoagland and Stanley V. McDaniel investigated the reported opportunities to
     photograph the Face on Mars.
   source: Dark Mission
@@ -1226,6 +1227,7 @@ references:
   claim_id: bef6d82d-f099-4757-991e-7640db5c2945
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bef6d82d-f099-4757-991e-7640db5c2945
+  copyright_status: restricted
 - text: Hoagland and McDaniel estimated more than forty opportunities to target the
     Face during Mars Observer's science phase.
   source: Dark Mission
@@ -1233,6 +1235,7 @@ references:
   claim_id: 5677538c-2816-4588-9d8f-740415c12f6b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5677538c-2816-4588-9d8f-740415c12f6b
+  copyright_status: restricted
 - text: Hoagland's Geometric Relationship Model uses predictions associated with hyperdimensional
     physics.
   source: Dark Mission
@@ -1240,6 +1243,7 @@ references:
   claim_id: 3bcc0c47-1271-411e-9624-e798da204801
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3bcc0c47-1271-411e-9624-e798da204801
+  copyright_status: restricted
 - text: Hoagland and Erol Torun interpreted the arrangement of Cydonia's monuments
     as conveying knowledge of tetrahedral physics.
   source: Dark Mission
@@ -1247,6 +1251,7 @@ references:
   claim_id: 24c95344-dc4e-4129-b597-31b8da1483e4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-24c95344-dc4e-4129-b597-31b8da1483e4
+  copyright_status: restricted
 - text: The hyperdimensional physics model predicts higher-dimensional energies at
     a tetrahedral latitude of 19.5 degrees.
   source: Dark Mission
@@ -1254,12 +1259,14 @@ references:
   claim_id: efa0682b-d132-40be-b149-7625d7277e16
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-efa0682b-d132-40be-b149-7625d7277e16
+  copyright_status: restricted
 - text: The model also predicts hexagonal inwelling points.
   source: Dark Mission
   location: ch13:42640-42778
   claim_id: d43d3d2e-7b21-42c5-9f38-77a399084362
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d43d3d2e-7b21-42c5-9f38-77a399084362
+  copyright_status: restricted
 - text: Hoagland interpreted the first Viking 1 image of the Face on Mars as coinciding
     with a 19.5-degree stellar alignment.
   source: Dark Mission
@@ -1267,6 +1274,7 @@ references:
   claim_id: 88f2f025-18b7-4ff1-9e48-275c03269e5b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-88f2f025-18b7-4ff1-9e48-275c03269e5b
+  copyright_status: restricted
 - text: Hoagland regarded the slanted structures in enhanced Apollo imagery as confirmation
     of his ancient lunar dome hypothesis.
   source: Dark Mission
@@ -1274,6 +1282,7 @@ references:
   claim_id: a343ae57-1347-4cba-9b9b-cfe4667a4415
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a343ae57-1347-4cba-9b9b-cfe4667a4415
+  copyright_status: restricted
 - text: Hoagland found geometric detail in the lunar sky above the Apollo 14 landing
     site after adjusting scanned images.
   source: Dark Mission
@@ -1281,6 +1290,7 @@ references:
   claim_id: 45cc04df-43fb-424a-94cb-938e61063713
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45cc04df-43fb-424a-94cb-938e61063713
+  copyright_status: restricted
 - text: Further enhancements of Apollo 14 imagery appeared to show rooms, cross-bracing
     and angled stringers.
   source: Dark Mission
@@ -1288,6 +1298,7 @@ references:
   claim_id: 5b6220d7-d64a-4fb7-814c-e7d0475e7046
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b6220d7-d64a-4fb7-814c-e7d0475e7046
+  copyright_status: restricted
 - text: Hoagland and Ken Johnston reconstructed Apollo 11 post-landing procedures
     and placed Aldrin's communion ceremony thirty-three minutes after touchdown.
   source: Dark Mission
@@ -1295,6 +1306,7 @@ references:
   claim_id: 46ce7898-0118-460c-bbfe-da1ae9bfae90
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
+  copyright_status: restricted
 - text: Hoagland and Mike Bara monitored the JPL websites when a Cydonia image link
     appeared at the predicted time on 1998-04-14.
   source: Dark Mission
@@ -1302,6 +1314,7 @@ references:
   claim_id: 4f4f142b-6d2b-45cd-bebe-446acf802ba7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f142b-6d2b-45cd-bebe-446acf802ba7
+  copyright_status: restricted
 - text: Hoagland attributed reductions in the Face on Mars image to processing by
     NASA, JPL and Malin Space Science Systems.
   source: Dark Mission
@@ -1309,6 +1322,7 @@ references:
   claim_id: 09360e50-31fd-4a0a-95cd-b86a8bf06982
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09360e50-31fd-4a0a-95cd-b86a8bf06982
+  copyright_status: restricted
 - text: Hoagland and Mike Bara believed THEMIS might reveal subsurface features at
     Cydonia.
   source: Dark Mission
@@ -1316,6 +1330,7 @@ references:
   claim_id: 88be8994-cc51-4909-8850-fb3886ad5be7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-88be8994-cc51-4909-8850-fb3886ad5be7
+  copyright_status: restricted
 - text: Hoagland said that data presented at a 2002-03-01 briefing supported his Mars
     tidal model.
   source: Dark Mission
@@ -1323,6 +1338,7 @@ references:
   claim_id: 304008a6-b477-46e0-b580-035a23749021
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-304008a6-b477-46e0-b580-035a23749021
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

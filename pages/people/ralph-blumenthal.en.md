@@ -37,6 +37,7 @@ references:
   claim_id: 4183a186-c537-4941-9bdb-5b44c1e5aa80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
+  copyright_status: restricted
 - text: Blumenthal spent years quietly working on a biography of Harvard psychiatrist
     John Mack.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -44,12 +45,14 @@ references:
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
+  copyright_status: restricted
 - text: Elizondo travelled to Philadelphia to meet Kean and, for the first time, Blumenthal.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15914-16069
   claim_id: a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
+  copyright_status: restricted
 - text: In Philadelphia the group noticed a likely AFOSI surveillance team observing
     them.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -57,6 +60,7 @@ references:
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
+  copyright_status: restricted
 - text: A reader asked Blumenthal if the government had conspired to suppress evidence
     of alien visitation; he said the assumption might not be far off.
   source: In Plain Sight
@@ -64,6 +68,7 @@ references:
   claim_id: 14c29016-7222-4176-bdf9-a8f504478869
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14c29016-7222-4176-bdf9-a8f504478869
+  copyright_status: restricted
 - text: Blumenthal walked back an earlier claim that UAP materials were stored in
     Las Vegas, saying none had been provided.
   source: In Plain Sight
@@ -71,12 +76,14 @@ references:
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
+  copyright_status: restricted
 - text: UFO crash retrievals are a classified subject.
   source: In Plain Sight
   location: ch28:25527-25560
   claim_id: 8d02d5c0-3d5c-4f3e-b949-779037f6273b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d02d5c0-3d5c-4f3e-b949-779037f6273b
+  copyright_status: restricted
 - text: Coulthart said Blumenthal and Kean indicated they believed there was substance
     to alien-spacecraft-recovery allegations.
   source: In Plain Sight
@@ -84,6 +91,7 @@ references:
   claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32
+  copyright_status: restricted
 - text: Grusch gave the Defense Office of Prepublication and Security Review the material
     he intended to disclose to Kean and Blumenthal.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -94,6 +102,7 @@ references:
   claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
+  copyright_status: publicly_accessible
 - text: Grusch's on-the-record statements were cleared for publication on 2023-04-04
     and 2023-04-06.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -103,6 +112,7 @@ references:
   claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-d49ccf7a-403b-40a3-b189-65144609fca4
+  copyright_status: publicly_accessible
 - text: An HPSCI representative told Kean and Blumenthal they could not discuss a
     complaint's content or confirm a complainant's identity.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -113,6 +123,7 @@ references:
   claim_id: 93762162-d016-4241-8d1d-5757a48b3ca5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-93762162-d016-4241-8d1d-5757a48b3ca5
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

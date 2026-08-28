@@ -118,6 +118,7 @@ references:
   claim_id: 8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
+  copyright_status: restricted
 - text: Communion solidified in public consciousness the perception of the alien as
     bald with large dark eyes, prompting thousands of accounts describing aliens worldwide
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -125,6 +126,7 @@ references:
   claim_id: 34170e82-327f-45b5-a52e-64180f009c72
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34170e82-327f-45b5-a52e-64180f009c72
+  copyright_status: restricted
 - text: Strieber describes Communion as the story of one man's attempt to deal with
     a shattering assault from the unknown
   source: Communion
@@ -133,6 +135,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
   inspection_url: /records/2013-06-16-ebook-communion#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
+  copyright_status: restricted
 - text: Strieber states that Communion is a true story as far as he knows how to describe
     it
   source: Communion
@@ -141,6 +144,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d536e371-1d43-4c34-a015-9407e6af91e0
   inspection_url: /records/2013-06-16-ebook-communion#claim-d536e371-1d43-4c34-a015-9407e6af91e0
+  copyright_status: restricted
 - text: The transcripts of his hypnosis sessions with Dr. Donald Klein are reproduced
     verbatim, so readers can confirm no leading questions were asked
   source: Communion
@@ -148,6 +152,7 @@ references:
   claim_id: 46b96be8-2853-4512-af42-991ae1a6c3bc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-46b96be8-2853-4512-af42-991ae1a6c3bc
+  copyright_status: restricted
 - text: What follows are two transcripts of hypnotic regressions covering the October
     4 and December 26, 1985 abduction experiences
   source: Communion
@@ -156,6 +161,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb102de0-5337-46be-8442-c0b56f417cb2
   inspection_url: /records/2013-06-16-ebook-communion#claim-cb102de0-5337-46be-8442-c0b56f417cb2
+  copyright_status: restricted
 - text: In a footnote, Strieber noted that Anne Strieber's description of the 'little
     feet' of a white thing at the LaGuardia Place apartment in 1982 reminded him of
     Annie Gottlieb's memory of 'scampering', and that Anne Strieber was unaware of
@@ -165,6 +171,7 @@ references:
   claim_id: 2802ac58-4ee8-47af-ac1c-b575e3440cfc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2802ac58-4ee8-47af-ac1c-b575e3440cfc
+  copyright_status: restricted
 - text: Strieber had considered calling the book Body Terror because of the extreme
     physical fear he felt on December 26, 1985
   source: Communion
@@ -172,6 +179,7 @@ references:
   claim_id: a7daebe8-3ca3-4c12-a782-f426de721057
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a7daebe8-3ca3-4c12-a782-f426de721057
+  copyright_status: restricted
 - text: One night in April, Anne Strieber talked in her sleep and, in a strange basso
     profundo voice, said the book must not frighten people and should be called Communion
   source: Communion
@@ -179,6 +187,7 @@ references:
   claim_id: 184d0cb2-4944-4bf2-b197-5a9a36f4d0b1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-184d0cb2-4944-4bf2-b197-5a9a36f4d0b1
+  copyright_status: restricted
 - text: Strieber underwent a polygraph examination to reassure readers he sincerely
     believed what he reported, and states the book contains no fictional content
   source: Communion
@@ -187,6 +196,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
   inspection_url: /records/2013-06-16-ebook-communion#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
+  copyright_status: restricted
 - text: Ted Jacobs's cover portrait of the being is a bit more human-looking than
     Strieber's actual mental image of it
   source: Communion
@@ -194,6 +204,7 @@ references:
   claim_id: b83cbb3f-a903-4a5e-9bf7-0db3eca38193
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b83cbb3f-a903-4a5e-9bf7-0db3eca38193
+  copyright_status: restricted
 - text: Strieber states the being's mouth was actually nothing more than a complex
     line with no lips, and its cranium was larger than depicted on the cover
   source: Communion
@@ -201,6 +212,7 @@ references:
   claim_id: ec908d4f-6762-4386-8985-a96f1ffde021
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-ec908d4f-6762-4386-8985-a96f1ffde021
+  copyright_status: restricted
 - text: During his December 1985 abduction experience, Strieber saw a more complex
     mouth on the being that peered at him, as depicted on the cover
   source: The Fourth Mind
@@ -208,6 +220,7 @@ references:
   claim_id: be73d378-db31-471f-b6ab-aaa25e8728b6
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-be73d378-db31-471f-b6ab-aaa25e8728b6
+  copyright_status: restricted
 - text: Strieber has come to understand the cover portrait was intended to make contacted
     people realise a lingering strange dream was in some way real
   source: The Fourth Mind
@@ -215,6 +228,7 @@ references:
   claim_id: 961993d2-7717-4872-a397-2e1b0ac7905c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-961993d2-7717-4872-a397-2e1b0ac7905c
+  copyright_status: restricted
 - text: General Arthur Exon told Strieber, after he published Communion in 1987, that
     everybody from Harry Truman down had known within twenty-four hours that what
     had been found was not of this world
@@ -223,6 +237,7 @@ references:
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
+  copyright_status: restricted
 - text: Ross Coulthart has met many people whose encounter experiences were triggered
     by the grey alien image on the cover of the original edition
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -234,6 +249,7 @@ references:
   claim_id: 39bbf813-b4b3-4dc8-8dd8-1caccd943490
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-39bbf813-b4b3-4dc8-8dd8-1caccd943490
+  copyright_status: publicly_accessible
 - text: Communion, about being taken by non-human sentient beings, was a New York
     Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -245,6 +261,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  copyright_status: publicly_accessible
 - text: Transformation was the sequel to Communion
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -253,6 +270,7 @@ references:
   claim_id: 371af71a-156c-4c0e-be0d-7322784c06dc
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-371af71a-156c-4c0e-be0d-7322784c06dc
+  copyright_status: publicly_accessible
 - text: While writing Communion, people suggested to Strieber that what happened to
     him may have been an out-of-body experience, a concept he had not heard of before
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -263,6 +281,7 @@ references:
   claim_id: cebff2bd-113a-46b5-84a0-5fbcb85e3984
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cebff2bd-113a-46b5-84a0-5fbcb85e3984
+  copyright_status: publicly_accessible
 - text: After publishing Communion, Strieber's uncle telephoned saying he had asked
     for and received permission to talk to him about matters he thought Strieber should
     know
@@ -275,6 +294,7 @@ references:
   claim_id: cbdc7ef9-0512-4951-83f7-f048da435d54
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cbdc7ef9-0512-4951-83f7-f048da435d54
+  copyright_status: publicly_accessible
 - text: Instead of a normal bookshop release, the publisher shipped boxes of the book
     without warning to every bookstore in the United States
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -286,6 +306,7 @@ references:
   claim_id: bb4e639c-2b6a-4dce-b872-36aa7e754f46
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-bb4e639c-2b6a-4dce-b872-36aa7e754f46
+  copyright_status: publicly_accessible
 - text: At the time of publishing, Strieber regarded the book as a fascinating one-off
     and was preparing to return to writing fiction
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -296,6 +317,7 @@ references:
   claim_id: 16fea52d-8585-41af-bf10-ddb80e6aafdb
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-16fea52d-8585-41af-bf10-ddb80e6aafdb
+  copyright_status: publicly_accessible
 - text: Strieber received thousands of letters after publishing Communion, 4,000 of
     which are archived at Rice University thanks to Anne Strieber's foresight
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -306,6 +328,7 @@ references:
   claim_id: 2c9e6cc7-e8c2-4746-ae7c-6b50e9529c0d
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2c9e6cc7-e8c2-4746-ae7c-6b50e9529c0d
+  copyright_status: publicly_accessible
 - text: Kary Mullis had told no one of his own encounter until his daughter Louise
     Mullis called about her own strange experience, after which she advised him to
     buy Communion
@@ -314,6 +337,7 @@ references:
   claim_id: 01c1465d-03c0-4436-8ebd-16bd5c7ba789
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-01c1465d-03c0-4436-8ebd-16bd5c7ba789
+  copyright_status: restricted
 - text: A person who contacted Peter Khoury, discussing the Communion book cover,
     asked him whether it was a black poster with white writing, matching a detail
     from that person's own experience
@@ -326,6 +350,7 @@ references:
   claim_id: ae19c5e5-d33a-4f3e-af05-8061c523a8f1
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ae19c5e5-d33a-4f3e-af05-8061c523a8f1
+  copyright_status: publicly_accessible
 - text: Two weeks after the 'They're here' poster, Peter Khoury and Vivian saw a large
     advertising poster for Communion at a bus shelter
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -336,6 +361,7 @@ references:
   claim_id: 4a4d0366-ab4a-4eaa-a9fa-664ca64c9498
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-4a4d0366-ab4a-4eaa-a9fa-664ca64c9498
+  copyright_status: publicly_accessible
 - text: Vivian reacted with shock upon seeing the Communion book cover poster, saying
     it depicted what Khoury had described to her
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -346,6 +372,7 @@ references:
   claim_id: 3bf5dd6a-f3dd-4626-a78e-444a21f9866e
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3bf5dd6a-f3dd-4626-a78e-444a21f9866e
+  copyright_status: publicly_accessible
 - text: Vivian told Khoury that someone had written a book, Communion, about his story,
     after seeing him photograph her holding the book at his parents' house
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -357,6 +384,7 @@ references:
   claim_id: 9b894f2f-91e5-41a7-b1d0-75555287b0c5
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9b894f2f-91e5-41a7-b1d0-75555287b0c5
+  copyright_status: publicly_accessible
 - text: Peter Khoury considers the depiction of the hooded beings on the cover and
     in the film to be an extremely accurate match to what he saw, better than he believes
     he could have described to an artist himself
@@ -370,6 +398,7 @@ references:
   claim_id: 13a62f5d-114a-4a78-b295-2bc12bd9701a
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-13a62f5d-114a-4a78-b295-2bc12bd9701a
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

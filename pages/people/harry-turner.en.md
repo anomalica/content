@@ -126,12 +126,14 @@ references:
   claim_id: c7c8e447-23ae-4e78-a8d3-8df349aa17f5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c7c8e447-23ae-4e78-a8d3-8df349aa17f5
+  copyright_status: restricted
 - text: Turner was a nuclear physicist.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:273-382
   claim_id: 98bbbad0-1ccf-42ff-83fc-c4c9eb33397f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-98bbbad0-1ccf-42ff-83fc-c4c9eb33397f
+  copyright_status: restricted
 - text: In 1954, Turner, a Melbourne University nuclear physics professor with an
     existing security clearance, approached the air force and was hired by the Directorate
     of Air Force Intelligence for a classified review of recent sightings.
@@ -140,6 +142,7 @@ references:
   claim_id: 63bfc483-2011-4b0f-9a50-e264fb3c920e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63bfc483-2011-4b0f-9a50-e264fb3c920e
+  copyright_status: restricted
 - text: His report concluded the evidence tends to support that certain strange aircraft
     have been observed to behave in a manner suggestive of extra-terrestrial origin.
   source: In Plain Sight
@@ -147,6 +150,7 @@ references:
   claim_id: b3db168e-8883-4891-9e54-1d7f11f66f91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
+  copyright_status: restricted
 - text: Turner was rebuffed in 1954 when he made findings about UAPs being extra-terrestrial
     in his report to the RAAF's intelligence branch.
   source: In Plain Sight
@@ -154,6 +158,7 @@ references:
   claim_id: 041eaaed-dd44-41af-94cb-bf193a63862b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-041eaaed-dd44-41af-94cb-bf193a63862b
+  copyright_status: restricted
 - text: Because Turner quoted Donald Keyhoe, Australia's Director of Air Force Intelligence
     dismissed his findings after consulting with the US Air Force.
   source: In Plain Sight
@@ -161,6 +166,7 @@ references:
   claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
+  copyright_status: restricted
 - text: Australia's Director of Air Force Intelligence said Turner had erred in quoting
     Keyhoe, who supposedly gave a misleading impression of official US sanction.
   source: In Plain Sight
@@ -168,6 +174,7 @@ references:
   claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3
+  copyright_status: restricted
 - text: The RAAF elected to heed its American ally and play down Turner's flying saucer
     extra-terrestrial hypothesis.
   source: In Plain Sight
@@ -175,6 +182,7 @@ references:
   claim_id: 4a3b19e1-ff22-4bde-b746-a4a99d5e1176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
+  copyright_status: restricted
 - text: Now-declassified files show Turner took part in the British nuclear tests
     at Maralinga from 1956 to 1963 as a health physics officer.
   source: In Plain Sight
@@ -182,6 +190,7 @@ references:
   claim_id: 118d81b9-28a2-4ae3-8dc8-78c6a3e7d14e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-118d81b9-28a2-4ae3-8dc8-78c6a3e7d14e
+  copyright_status: restricted
 - text: Secret files in Australia's National Archives reveal Turner investigated strange
     sightings of anomalous objects over Maralinga during the British atmospheric testing.
   source: In Plain Sight
@@ -189,6 +198,7 @@ references:
   claim_id: 23905e98-4d35-4b63-9628-6629b6192b0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23905e98-4d35-4b63-9628-6629b6192b0f
+  copyright_status: restricted
 - text: Turner's curiosity about UAPs was piqued by the mysterious sightings at Maralinga
     in 1960.
   source: In Plain Sight
@@ -196,6 +206,7 @@ references:
   claim_id: 9c006640-c295-4e7e-a60c-93061511747e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c006640-c295-4e7e-a60c-93061511747e
+  copyright_status: restricted
 - text: Turner concluded the light seen during the July 1960 Wewak Maralinga sighting
     was not natural but caused by a UFO, either a satellite cone or a flying saucer.
   source: In Plain Sight
@@ -203,6 +214,7 @@ references:
   claim_id: d99944cc-1ff1-4fcf-b240-d1d944ad29de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d99944cc-1ff1-4fcf-b240-d1d944ad29de
+  copyright_status: restricted
 - text: The Range's security officer ignored Turner's conclusion and instead speculated
     the light was a meteor or static electricity.
   source: In Plain Sight
@@ -210,6 +222,7 @@ references:
   claim_id: 7fc67c6a-41cc-47bb-bc20-732f009d5f62
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7fc67c6a-41cc-47bb-bc20-732f009d5f62
+  copyright_status: restricted
 - text: By the early 1970s Turner was a scientific analyst with the Directorate of
     Scientific and Technical Intelligence of the Joint Intelligence Bureau.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -217,6 +230,7 @@ references:
   claim_id: 224cd309-3d48-4eaa-9c17-534f3acadf6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-224cd309-3d48-4eaa-9c17-534f3acadf6d
+  copyright_status: restricted
 - text: Turner was head of the nuclear science section of the Joint Intelligence Bureau's
     Directorate of Scientific and Technical Intelligence.
   source: In Plain Sight
@@ -224,6 +238,7 @@ references:
   claim_id: 216f18be-3da7-4b23-b13a-401c3bb9a0b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-216f18be-3da7-4b23-b13a-401c3bb9a0b7
+  copyright_status: restricted
 - text: By 1971, Turner was firmly convinced the UAP phenomenon was real and required
     urgent investigation.
   source: In Plain Sight
@@ -231,12 +246,14 @@ references:
   claim_id: cd9da1b0-ddcf-4763-a938-6ebffb0b6f44
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd9da1b0-ddcf-4763-a938-6ebffb0b6f44
+  copyright_status: restricted
 - text: Turner's plan for a rapid intervention team was subsequently spiked.
   source: In Plain Sight
   location: ch11:4020-4094
   claim_id: 17200cfd-a055-4fae-8db0-39d670e2c0c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17200cfd-a055-4fae-8db0-39d670e2c0c5
+  copyright_status: restricted
 - text: Turner's declassified 1971 paper 'Scientific and Intelligence Aspects of the
     UFO Problem' asserted unidentified objects were real.
   source: In Plain Sight
@@ -244,6 +261,7 @@ references:
   claim_id: cb57ebc7-f074-4333-9eb2-854b88fa3663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb57ebc7-f074-4333-9eb2-854b88fa3663
+  copyright_status: restricted
 - text: The report asserted an ongoing deliberate official US policy to ridicule UFO
     sighting events to stifle public awareness.
   source: In Plain Sight
@@ -251,6 +269,7 @@ references:
   claim_id: f3902ea0-3d24-4922-8a11-70a868f409f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3902ea0-3d24-4922-8a11-70a868f409f5
+  copyright_status: restricted
 - text: Turner considered the facade of ridicule intended to allay public alarm, deny
     the Soviets a psychological-warfare opening, and cover a real US programme developing
     vehicles emulating UFO performance.
@@ -259,6 +278,7 @@ references:
   claim_id: 8aa4a6a2-2468-42f0-a56b-c1eec9517369
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aa4a6a2-2468-42f0-a56b-c1eec9517369
+  copyright_status: restricted
 - text: Turner asserted that in 1953 the US Air Force Office of Special Investigations
     persuaded the US Air Force to use Project Blue Book as a means of publicly debunking
     UFOs.
@@ -267,6 +287,7 @@ references:
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
+  copyright_status: restricted
 - text: Turner asserted that while publicly debunking UFOs, the US was secretly launching
     a crash programme into anti-gravity power.
   source: In Plain Sight
@@ -274,6 +295,7 @@ references:
   claim_id: b883c7f3-f341-4e39-bc66-adaf37a613c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b883c7f3-f341-4e39-bc66-adaf37a613c5
+  copyright_status: restricted
 - text: Turner's paper criticised the 1968 Condon Committee Report, the US Air Force-funded
     study directed by physicist Edward Condon.
   source: In Plain Sight
@@ -281,6 +303,7 @@ references:
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
+  copyright_status: restricted
 - text: Turner considered the Condon report's conclusions conflicted with its own
     contents and had been discredited by many reputable scientists.
   source: In Plain Sight
@@ -288,6 +311,7 @@ references:
   claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fe60a4f0-944f-4aa3-b476-3e38c92462dc
+  copyright_status: restricted
 - text: Turner dismissed the official Project Blue Book investigation, shut down by
     the US Air Force in 1969.
   source: In Plain Sight
@@ -295,6 +319,7 @@ references:
   claim_id: c4452189-b996-4b80-991f-2d3fd8482f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4452189-b996-4b80-991f-2d3fd8482f30
+  copyright_status: restricted
 - text: Turner said many intelligence officers, including former CIA director Roscoe
     Hillenkoetter, had stated the US government knew UFOs were extra-terrestrial but
     withheld this from the public.
@@ -303,12 +328,14 @@ references:
   claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
+  copyright_status: restricted
 - text: Turner met Project Blue Book expert J. Allen Hynek when Hynek visited Australia.
   source: In Plain Sight
   location: ch11:2938-3020
   claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
+  copyright_status: restricted
 - text: Turner told his superiors that Hynek, along with many other reputable scientists,
     did not accept the US Air Force explanation of misidentification, hysteria or
     hoax.
@@ -317,12 +344,14 @@ references:
   claim_id: 94962b37-fc07-46da-8a2f-17d47021a081
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94962b37-fc07-46da-8a2f-17d47021a081
+  copyright_status: restricted
 - text: Turner obtained access to the Australian Air Force's UAP sightings reports.
   source: In Plain Sight
   location: ch11:3211-3284
   claim_id: eb4ca4bc-3221-4b55-b57e-6a40774aa21f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
+  copyright_status: restricted
 - text: Turner proposed an Australian 'rapid intervention team' to investigate UFO
     events, with an aircraft to be on standby.
   source: In Plain Sight
@@ -330,6 +359,7 @@ references:
   claim_id: 8c5c1392-4b94-49f7-b7b6-63ecf4c1e3e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c5c1392-4b94-49f7-b7b6-63ecf4c1e3e4
+  copyright_status: restricted
 - text: Turner had the approval of Australia's Chief Defence Scientist for the proposed
     rapid intervention team.
   source: In Plain Sight
@@ -337,6 +367,7 @@ references:
   claim_id: c80663d5-cf42-466c-85a5-f50bebd26ee6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c80663d5-cf42-466c-85a5-f50bebd26ee6
+  copyright_status: restricted
 - text: Turner's concern was taken very seriously, possibly because sightings of strange
     objects at the Woomera test site were still occurring.
   source: In Plain Sight
@@ -344,6 +375,7 @@ references:
   claim_id: b5bc0d11-8436-42ef-8a93-221145e03f8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5bc0d11-8436-42ef-8a93-221145e03f8c
+  copyright_status: restricted
 - text: There was bad blood between Turner and the Directorate of Air Force Intelligence
     because he had criticised its past handling of UAP sightings reports.
   source: In Plain Sight
@@ -351,12 +383,14 @@ references:
   claim_id: 117a892d-5a95-4994-a038-ded72dbd27cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-117a892d-5a95-4994-a038-ded72dbd27cf
+  copyright_status: restricted
 - text: The Australian Air Force withdrew Turner's access to their UAP sightings files.
   source: In Plain Sight
   location: ch11:3937-4013
   claim_id: 7d8dcfdf-3e75-4f74-853e-16f02d4d8366
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
+  copyright_status: restricted
 - text: Bill Chalker considers Turner was actually arguing for the air force to be
     given more resources to investigate UFOs scientifically, but that the Directorate
     of Air Force Intelligence took it as criticism and shut him out.
@@ -365,12 +399,14 @@ references:
   claim_id: 25bd986e-a3ea-48f7-991c-5cf51eb03ffb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25bd986e-a3ea-48f7-991c-5cf51eb03ffb
+  copyright_status: restricted
 - text: Turner's notes do not record the date of Klein's fourth UFO sighting.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:7630-7732
   claim_id: ef8ac887-ce94-47dc-86f4-6e2e0c00f7e5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ef8ac887-ce94-47dc-86f4-6e2e0c00f7e5
+  copyright_status: restricted
 - text: Turner's concern about UFOs was privately pushed at the highest levels of
     Australia's Defence Department while sightings were being played down in the media
     and by the air force.
@@ -379,12 +415,14 @@ references:
   claim_id: f58cbbcb-43cb-4be7-ac9c-93873c62e5ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f58cbbcb-43cb-4be7-ac9c-93873c62e5ee
+  copyright_status: restricted
 - text: Bill Chalker befriended Turner late in Turner's life.
   source: In Plain Sight
   location: ch9:11388-11427
   claim_id: 4150be47-e9c1-47b2-919f-e5a8719b786f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4150be47-e9c1-47b2-919f-e5a8719b786f
+  copyright_status: restricted
 - text: Chalker considers that political myopia from both the US and Australian military
     effectively scuttled Australia's first serious flirtation with scientific investigation
     of UFOs.
@@ -393,6 +431,7 @@ references:
   claim_id: 8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
+  copyright_status: restricted
 - text: During his 2001 visit, Turner handed Chalker ten pages of his handwritten
     notes on his 1971-1972 investigation of a Canberra woman named Mrs. Klein.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -400,6 +439,7 @@ references:
   claim_id: 7cecd7bb-b107-47ef-b423-5a2bd3a5645e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7cecd7bb-b107-47ef-b423-5a2bd3a5645e
+  copyright_status: restricted
 - text: The rash of Canberra-area UFO sightings in mid-1971 prompted Turner to contact
     the local civilian UFO society, formed in 1967.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -407,6 +447,7 @@ references:
   claim_id: 1920d8df-ae66-4eb5-94f4-aa724a8b162b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1920d8df-ae66-4eb5-94f4-aa724a8b162b
+  copyright_status: restricted
 - text: Following Turner's contact with the Canberra UFO group, Vicki Klein privately
     made contact with him and, during meetings at her home between July 1971 and February
     1972, described her unfolding alien contact experience.
@@ -415,6 +456,7 @@ references:
   claim_id: 4848424a-64c8-468f-8f32-f95c44e82038
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4848424a-64c8-468f-8f32-f95c44e82038
+  copyright_status: restricted
 - text: Turner told Chalker that while Klein told the Canberra group of her sightings,
     she was careful not to mention the unfolding alien dynamic happening in her own
     house.
@@ -423,6 +465,7 @@ references:
   claim_id: b22228a2-1521-42fe-b43c-80588db4fdc7
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b22228a2-1521-42fe-b43c-80588db4fdc7
+  copyright_status: restricted
 - text: Turner corresponded with fellow scientist Dr. Michael Duggin, who also had
     a deep interest in the UFO phenomenon, to supplement details of Klein's fourth
     sighting.
@@ -431,6 +474,7 @@ references:
   claim_id: 103c95f2-34e6-4120-8811-27edf0c9032c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-103c95f2-34e6-4120-8811-27edf0c9032c
+  copyright_status: restricted
 - text: Turner and Duggin were part of a secret invisible college of scientists researching
     the UFO mystery.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -438,6 +482,7 @@ references:
   claim_id: bca1b989-8a74-4bf4-aad4-4601473eb8d0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bca1b989-8a74-4bf4-aad4-4601473eb8d0
+  copyright_status: restricted
 - text: Turner was not sure what to make of Klein's information in the early 1970s
     and was simply trying to make an accurate report of her claims.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -445,6 +490,7 @@ references:
   claim_id: 22e83c81-9400-42ed-9019-c99aca0367e8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-22e83c81-9400-42ed-9019-c99aca0367e8
+  copyright_status: restricted
 - text: Vicki Klein told Turner that the signal for the beginning of the end would
     be the disappearance of a small island followed by a larger one, which she suspected
     would be in the New Guinea area, with chaos lasting three days and worsening,
@@ -454,6 +500,7 @@ references:
   claim_id: c8d60ffb-e649-4480-b985-597fb6ec4f3b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c8d60ffb-e649-4480-b985-597fb6ec4f3b
+  copyright_status: restricted
 - text: Ron Summers confirmed to Chalker the basic story that Klein had revealed to
     Turner.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -461,6 +508,7 @@ references:
   claim_id: 9f4efbc7-0872-40d1-982f-88f30e61b10c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9f4efbc7-0872-40d1-982f-88f30e61b10c
+  copyright_status: restricted
 - text: Chalker found what followed in Turner's notes striking for how closely it
     resembled the alien abduction accounts that would come to dominate UFO controversy
     fifteen years later.
@@ -469,6 +517,7 @@ references:
   claim_id: edfd5e46-43bb-4ad3-b528-206b427ff338
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-edfd5e46-43bb-4ad3-b528-206b427ff338
+  copyright_status: restricted
 - text: Turner's 1971-72 notes on Klein's experiences prefigured several extraordinary
     elements of the alien abduction phenomenon that would not become public until
     Budd Hopkins first described them in his 1987 book Intruders.
@@ -477,6 +526,7 @@ references:
   claim_id: 66be3fe0-d0ca-441f-93d8-0c00ce26042b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-66be3fe0-d0ca-441f-93d8-0c00ce26042b
+  copyright_status: restricted
 - text: Turner was chief health physics officer for the Maralinga atomic bomb trials
     during the 1950s and early 1960s.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -484,6 +534,7 @@ references:
   claim_id: 827b0825-87b6-4590-8caa-ac40ee128674
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-827b0825-87b6-4590-8caa-ac40ee128674
+  copyright_status: restricted
 - text: During the late 1960s and early 1970s, Turner fought a secret battle to encourage
     a more scientific and comprehensive examination of the UFO mystery within intelligence
     and the military.
@@ -492,6 +543,7 @@ references:
   claim_id: 40d0f4ba-2b7c-4f0e-87a2-077ec9ab8431
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-40d0f4ba-2b7c-4f0e-87a2-077ec9ab8431
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

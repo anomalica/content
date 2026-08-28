@@ -28,6 +28,7 @@ references:
   claim_id: fe8b157a-bf42-4b3b-af23-de8ed7aa6cfa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fe8b157a-bf42-4b3b-af23-de8ed7aa6cfa
+  copyright_status: restricted
 - text: Brett Baer said on Fox News that people were taking the AATIP revelation seriously
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -38,6 +39,7 @@ references:
   claim_id: ce4386e7-3e9e-4e31-a46a-fb924723d3f5
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce4386e7-3e9e-4e31-a46a-fb924723d3f5
+  copyright_status: publicly_accessible
 - text: Calls from CBS, ABC, NBC, CNN, PBS, Fox and MSNBC flooded Elizondo's home
     after the December 2017 story
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -45,6 +47,7 @@ references:
   claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e913fdc-268f-4405-adf7-41005f83a22b
+  copyright_status: restricted
 - text: Elizondo told Tucker Carlson it was an absolute fact that UAP objects were
     there, though their origin was unknown
   source: In Plain Sight
@@ -52,12 +55,14 @@ references:
   claim_id: c69c35a3-497b-4742-b319-e1994fab63c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c69c35a3-497b-4742-b319-e1994fab63c8
+  copyright_status: restricted
 - text: Fravor described the Tic Tac craft's shape and movement to Tucker Carlson
   source: In Plain Sight
   location: ch16:10082-10243
   claim_id: e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
+  copyright_status: restricted
 - text: Fox & Friends did not disclose Mellon's TTSA employment or the documentary's
     production company when covering it
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -69,6 +74,7 @@ references:
   claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

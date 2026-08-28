@@ -51,12 +51,14 @@ references:
   claim_id: dffb0f39-fd8e-4062-a213-f61e8193642a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dffb0f39-fd8e-4062-a213-f61e8193642a
+  copyright_status: publicly_accessible
 - text: Clinton lost the 2016 election to Trump in November 2016
   source: In Plain Sight
   location: ch20:23537-23620
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
+  copyright_status: restricted
 - text: On entering the White House in 1993, both Bill and Hillary Clinton took a
     strong interest in UAPs
   source: In Plain Sight
@@ -64,6 +66,7 @@ references:
   claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
+  copyright_status: restricted
 - text: Ross Coulthart suggests Bill Clinton's UAP interest may explain Hillary Clinton's
     later pursuit of the subject
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -75,6 +78,7 @@ references:
   claim_id: 7e1a86a6-a67c-43c8-85ce-1fbea0d93179
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-7e1a86a6-a67c-43c8-85ce-1fbea0d93179
+  copyright_status: publicly_accessible
 - text: 1995 photograph shows Clinton carrying Are We Alone?, a gift from Laurance
     Rockefeller
   source: In Plain Sight
@@ -82,6 +86,7 @@ references:
   claim_id: 42199e36-3096-4528-b02e-402873c460ed
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42199e36-3096-4528-b02e-402873c460ed
+  copyright_status: restricted
 - text: Photograph apparently taken at Camp David shows Clinton holding Are We Alone?
     by Paul Davies
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -92,6 +97,7 @@ references:
   claim_id: 13e01c8f-7660-442b-8746-dd94bbaa6183
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-13e01c8f-7660-442b-8746-dd94bbaa6183
+  copyright_status: publicly_accessible
 - text: Jason Samosa's assessment that Clinton was trying to open doors on the UFO
     subject during Bill Clinton's administration
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -101,6 +107,7 @@ references:
   claim_id: 03f260c0-9ab3-4896-8c40-2b44b71937f3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-03f260c0-9ab3-4896-8c40-2b44b71937f3
+  copyright_status: publicly_accessible
 - text: Rockefeller was very close with the Clintons and tried to interest them in
     UFO disclosure
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -110,6 +117,7 @@ references:
   claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-089e1f5c-803c-4865-879a-88e525f0f546
+  copyright_status: publicly_accessible
 - text: 'Podesta''s roles: chief of staff to Bill Clinton, counselor to Obama, campaign
     manager to Hillary Clinton'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -117,6 +125,7 @@ references:
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
+  copyright_status: restricted
 - text: Podesta was Clinton's campaign chief of staff
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:20.0-00:40:21.5
@@ -124,6 +133,7 @@ references:
   claim_id: d4e0d454-3d7b-485e-87a3-a3a6638ae2ad
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d4e0d454-3d7b-485e-87a3-a3a6638ae2ad
+  copyright_status: publicly_accessible
 - text: Podesta and Clinton talked a great deal about UFOs around the 2016 election
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:39:15.9-00:39:26.8
@@ -133,6 +143,7 @@ references:
   claim_id: c5d33659-5a64-4132-8b78-67ae62fda6c5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c5d33659-5a64-4132-8b78-67ae62fda6c5
+  copyright_status: publicly_accessible
 - text: Podesta said he had talked to Clinton about the issue and that classified
     UAP files could be declassified
   source: In Plain Sight
@@ -140,12 +151,14 @@ references:
   claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
+  copyright_status: restricted
 - text: Clinton said she would consider a taskforce to investigate Area 51
   source: In Plain Sight
   location: ch20:17299-17522
   claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
+  copyright_status: restricted
 - text: Clinton conceded aliens might have visited Earth and pledged to prioritise
     the UFO mystery
   source: In Plain Sight
@@ -153,6 +166,7 @@ references:
   claim_id: 25317738-c91a-4e4a-a7cc-8d5e8c14974e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25317738-c91a-4e4a-a7cc-8d5e8c14974e
+  copyright_status: restricted
 - text: During the 2016 campaign Clinton was doing well against Trump and promising
     to release UFO information
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -163,6 +177,7 @@ references:
   claim_id: 4b93f4df-5776-4fe1-93d6-075ed81fe368
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4b93f4df-5776-4fe1-93d6-075ed81fe368
+  copyright_status: publicly_accessible
 - text: Trump invited Russia to hack Clinton's emails at a Florida press conference,
     2016-07-28
   source: In Plain Sight
@@ -170,6 +185,7 @@ references:
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
+  copyright_status: restricted
 - text: Samosa, citing Jim Semivan, says a non-state intelligence network leaked the
     Podesta emails
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -180,6 +196,7 @@ references:
   claim_id: 0e4f514f-b924-4241-b8f6-eacbc55d3505
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e4f514f-b924-4241-b8f6-eacbc55d3505
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

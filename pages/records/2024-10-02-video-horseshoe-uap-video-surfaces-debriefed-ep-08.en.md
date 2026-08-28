@@ -29,6 +29,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-361ac38c-7dc3-4ef4-b82d-19813f697ed9
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-361ac38c-7dc3-4ef4-b82d-19813f697ed9
+  copyright_status: publicly_accessible
 - text: The Yukon object was about the size of a small car and differed from the surveillance
     balloon taken down off South Carolina.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -41,6 +42,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-32f2525c-c8a1-4373-9d3d-42d17437615e
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-32f2525c-c8a1-4373-9d3d-42d17437615e
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that multiple craft were downed during the same period and
     that the Alaska object was separate from the Yukon object.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -53,6 +55,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-5fd130f2-23e2-4c8e-84c6-92216626fab6
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-5fd130f2-23e2-4c8e-84c6-92216626fab6
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the Alaska object was observed at approximately 12,000
     metres and tracked for about 24 hours before an F-22 engagement.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -64,6 +67,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3a26c7-1b81-4441-adad-728ce8ce2d98
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3a26c7-1b81-4441-adad-728ce8ce2d98
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the Yukon craft passed over Canadian skies and was
     taken down with NORAD assistance.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -75,6 +79,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b080fb79-56f5-47b7-a9cb-cb990fa2d940
+  copyright_status: publicly_accessible
 - text: According to the source, a NORAD general said that the Alaska object was not
     a balloon and that its means of staying aloft was unknown.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -86,6 +91,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-40a17e5a-6c96-449b-a3b3-5f8dd09363b0
+  copyright_status: publicly_accessible
 - text: According to the source, the general did not rule out an extraterrestrial
     explanation when asked about the object.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -97,6 +103,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b897aa93-707c-4009-ac21-0d32990d8938
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that Canadian Armed Forces assets attempted recovery under
     RCMP leadership, but that nothing was apparently found.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -108,6 +115,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-2ccf9c44-bcbc-4b14-b253-91b8289a5c58
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-2ccf9c44-bcbc-4b14-b253-91b8289a5c58
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the Yukon craft was officially designated UAP-23 because
     it was the 23rd sighting in a short period.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -120,6 +128,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ad43ab69-6ea0-4576-b229-f41c0e6fe451
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ad43ab69-6ea0-4576-b229-f41c0e6fe451
+  copyright_status: publicly_accessible
 - text: Chris Ramsey described UAP-23 as a cylindrical object with a metallic top
     quarter and a white remainder.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -131,6 +140,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-81164f91-28b0-4344-bf29-55cb060eba79
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-81164f91-28b0-4344-bf29-55cb060eba79
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that a wire approximately 6 metres long hung below UAP-23,
     with a suspended package.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -141,6 +151,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-884408dc-ae92-4679-8d99-f3124242b8cf
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-884408dc-ae92-4679-8d99-f3124242b8cf
+  copyright_status: publicly_accessible
 - text: Chris Ramsey discussed a 2012 video purporting to show a fast-moving craft
     resembling UAP-23 over Busan.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -152,6 +163,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-d9c18663-dc02-4308-bee7-b435b7f93a03
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-d9c18663-dc02-4308-bee7-b435b7f93a03
+  copyright_status: publicly_accessible
 - text: Patricia Carroll reported a dimly lit triangular or possibly horseshoe-shaped
     object during the 2007 Roswell sighting.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -164,6 +176,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-5a971661-10b4-47ae-916c-906ee8ade654
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-5a971661-10b4-47ae-916c-906ee8ade654
+  copyright_status: publicly_accessible
 - text: According to the source, a witness on a flight near Boston reported a silver
     horseshoe crab-shaped object in 2005.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -177,6 +190,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-a56e84c1-f131-4139-afad-6f1e602b0e6e
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-a56e84c1-f131-4139-afad-6f1e602b0e6e
+  copyright_status: publicly_accessible
 - text: According to the source, a 1998 Boston witness reported a silver horseshoe-shaped
     object beside the daytime moon.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -189,6 +203,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-4c60c6ff-f1b4-422f-84d3-ecdcc6208473
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-4c60c6ff-f1b4-422f-84d3-ecdcc6208473
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the Baltic Sea anomaly was discovered by the Ocean
     X Team in June 2011.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -200,6 +215,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-871d3537-bd5b-471e-90b7-54d7f3221ef4
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-871d3537-bd5b-471e-90b7-54d7f3221ef4
+  copyright_status: publicly_accessible
 - text: According to the source, the formation was about 60 metres across at a depth
     of around 90 metres.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -211,6 +227,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-d0fd5811-ea83-46e0-a492-860719cf4951
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-d0fd5811-ea83-46e0-a492-860719cf4951
+  copyright_status: publicly_accessible
 - text: According to the source, samples taken from the Baltic Sea anomaly were volcanic
     rock.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -221,6 +238,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-427d36d4-a683-43d2-8ea0-26c1416f0ab0
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-427d36d4-a683-43d2-8ea0-26c1416f0ab0
+  copyright_status: publicly_accessible
 - text: Chris Ramsey identified NASA, AARO and the former AATIP as US government divisions
     concerned with UAP.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -233,6 +251,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-09cafe5b-2688-4171-a51a-d12add81d81c
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-09cafe5b-2688-4171-a51a-d12add81d81c
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the UAP Disclosure Act was pushed back by Mitch McConnell.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
   location: 00:19:59.4-00:20:07.5
@@ -243,6 +262,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the proposed Act would permit investigation and disclosure
     of past UAP events.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -254,6 +274,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

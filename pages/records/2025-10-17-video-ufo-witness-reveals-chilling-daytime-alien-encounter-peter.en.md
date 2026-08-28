@@ -31,6 +31,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
+  copyright_status: publicly_accessible
 - text: Peter Khoury described seeing an egg-shaped silver craft approximately 30
     metres above the children.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -42,6 +43,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
+  copyright_status: publicly_accessible
 - text: Peter Khoury described the craft as silver, egg-shaped, tilted at an angle
     and fitted with a dark windscreen.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -55,6 +57,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that the craft had no landing gear, propeller or doors and
     was shiny like chrome.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -68,6 +71,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
+  copyright_status: publicly_accessible
 - text: Peter Khoury recalled that the other children were suddenly at the bottom
     of the stairs and that nobody remembered how they got there.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -82,6 +86,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that his parents later reported searching for the children
     for over two hours.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -94,6 +99,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-99112ed4-4a43-425f-8ad2-618dd2cde651
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-99112ed4-4a43-425f-8ad2-618dd2cde651
+  copyright_status: publicly_accessible
 - text: Peter Khoury described paralysis, with movement retained only in his eyes,
     during the 1988 bedroom encounter.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -107,6 +113,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
+  copyright_status: publicly_accessible
 - text: Peter Khoury described a hooded figure approximately 1.2 metres tall at the
     foot of his bed.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -119,6 +126,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that looking into a being's eyes brought a feeling of calm
     and control.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -133,6 +141,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1600f93d-d655-4333-a634-22fba574f3ea
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-1600f93d-d655-4333-a634-22fba574f3ea
+  copyright_status: publicly_accessible
 - text: Peter Khoury described receiving a telepathic message that the being was safe
     and would not hurt him.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -146,6 +155,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-2f4fd84c-3937-44d8-aafa-b67ae8b62ed4
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-2f4fd84c-3937-44d8-aafa-b67ae8b62ed4
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that a regression-recalled device was pointed at his head
     and caused pressure before he blacked out.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -157,6 +167,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-03a5510b-33bd-43ba-8e7d-b488c7784f39
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-03a5510b-33bd-43ba-8e7d-b488c7784f39
+  copyright_status: publicly_accessible
 - text: Peter Khoury described a later-discovered shin mark with a triangular arrangement
     of three prongs.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -170,6 +181,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
+  copyright_status: publicly_accessible
 - text: The source record states that scoop marks commonly take the form of three
     prongs or dots arranged as a triangle.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -182,6 +194,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-92d1f5e2-6396-4f02-a555-0936f3e6df1d
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-92d1f5e2-6396-4f02-a555-0936f3e6df1d
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that the shin wound had almost completely healed within
     six hours, leaving a deep scar.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -196,6 +209,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ad2c8968-a803-43db-b8ee-9497be3a7d71
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-ad2c8968-a803-43db-b8ee-9497be3a7d71
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that his brother independently reported seeing him levitated
     and taken by three creatures.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -207,6 +221,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-c40016ed-9c87-45b4-9df2-3d2390e6214a
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-c40016ed-9c87-45b4-9df2-3d2390e6214a
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that John Mack observed a change in his demeanour during
     hypnotic regression.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -221,6 +236,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
+  copyright_status: publicly_accessible
 - text: Peter Khoury said that he founded the UFO Experience Support Association on
     1993-04-13.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -233,6 +249,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-767bd064-20fe-44ba-b2a5-fe7f99904663
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-767bd064-20fe-44ba-b2a5-fe7f99904663
+  copyright_status: publicly_accessible
 - text: Chris Ramsay considered the case documented in Hair of the Alien to involve
     evidence pointing towards hybridisation and non-human intelligence.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -246,6 +263,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-a7012f16-90c0-4130-b9a0-c4809cb71c7c
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

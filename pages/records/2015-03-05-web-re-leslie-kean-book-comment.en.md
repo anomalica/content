@@ -28,6 +28,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
+  copyright_status: publicly_accessible
 - text: Bob Fish said that UFO hunters were looking in the wrong places.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
   location: char:542-639
@@ -38,6 +39,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-b5529a98-3edb-4fe6-9881-c4dd533b9b91
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-b5529a98-3edb-4fe6-9881-c4dd533b9b91
+  copyright_status: publicly_accessible
 - text: Bob Fish said that personal observations, unclear photographs and crop circles
     would not prove anything, because UFO appearances are transitory and related to
     the observer's state of mind.
@@ -51,6 +53,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-31bc1095-bfb1-49d9-a8b3-1cac8856965a
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-31bc1095-bfb1-49d9-a8b3-1cac8856965a
+  copyright_status: publicly_accessible
 - text: Bob Fish said that reliable hard scientific data should be collected and publicly
     disseminated.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -62,6 +65,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-2f5b4666-c3b8-431f-8742-8a1b4eaf4e1e
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-2f5b4666-c3b8-431f-8742-8a1b4eaf4e1e
+  copyright_status: publicly_accessible
 - text: Bob Fish said that relevant hard scientific data had existed in the United
     States for many years and remained available.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -73,6 +77,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-c3045f16-cf23-4514-b391-2fb607730b62
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-c3045f16-cf23-4514-b391-2fb607730b62
+  copyright_status: publicly_accessible
 - text: Bob Fish identified radar and thermal imaging data as a useful starting point
     for UFO study.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -84,6 +89,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-2fadd33a-3aa9-4c79-b1e7-505e1fcfbb7e
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-2fadd33a-3aa9-4c79-b1e7-505e1fcfbb7e
+  copyright_status: publicly_accessible
 - text: Bob Fish offered to arrange a call or meeting with John Podesta to share specific
     programme names.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -95,6 +101,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-519b41cc-4aca-451e-8355-1b88f9089a36
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-519b41cc-4aca-451e-8355-1b88f9089a36
+  copyright_status: publicly_accessible
 - text: Bob Fish said that he lived in northern California and sometimes travelled
     to Washington, D.C. for business.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -105,6 +112,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-c25c0d7e-52f3-4401-ae81-b42defd12680
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-c25c0d7e-52f3-4401-ae81-b42defd12680
+  copyright_status: publicly_accessible
 - text: Bob Fish was publicly known for his work with the USS Hornet Museum.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
   location: char:1562-1619
@@ -114,6 +122,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-8eeab25a-73e8-4103-b8d6-afe5a9c7ec2d
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-8eeab25a-73e8-4103-b8d6-afe5a9c7ec2d
+  copyright_status: publicly_accessible
 - text: Bob Fish said that his communication with John Podesta was private, confidential
     and unrelated to the USS Hornet Museum.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
@@ -125,6 +134,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-a98c932b-4885-46c0-8666-5cc6cc982700
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-a98c932b-4885-46c0-8666-5cc6cc982700
+  copyright_status: publicly_accessible
 - text: The email was signed from Danville, California.
   source: 'Re: Leslie Kean book comment (2015-03-05)'
   location: char:1734-1766
@@ -140,6 +150,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-b963d994-2d66-4d9a-a44b-7cc7b393660e
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-b963d994-2d66-4d9a-a44b-7cc7b393660e
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

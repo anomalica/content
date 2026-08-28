@@ -29,6 +29,7 @@ references:
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
   inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-062c3bb5-d7b8-451c-a54e-e638334eb42e
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin described Phobos as potato-shaped.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:41.9-00:00:44.5
@@ -38,6 +39,7 @@ references:
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
   inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-ad6bf459-f00a-4a75-80eb-7ca2c485eaef
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that Phobos orbits Mars once every seven hours.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:45.6-00:00:48.0
@@ -47,6 +49,7 @@ references:
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
   inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-a8ba95c5-889a-467e-9ed0-22bb1f015fd8
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin considered the universe a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:53.5-00:00:57.1
@@ -56,6 +59,7 @@ references:
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-56915f07-8b63-421e-bd7b-517a60f753c1
   inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-56915f07-8b63-421e-bd7b-517a60f753c1
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin considered God a possible origin of the monolith.
   source: 'C-SPAN: Buzz Aldrin Reveals Existence of Monolith on Mars Moon'
   location: 00:00:57.3-00:00:59.0
@@ -65,6 +69,7 @@ references:
   record_hash: 1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597
   workbench_url: https://workbench.anomalica.is/1cd4038c9985b5571ac44857e5c7b74be292f69f9ce52ccc5a71f597#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
   inspection_url: /records/2009-07-22-video-c-span-buzz-aldrin-reveals-existence-of-monolith-on-mars#claim-5a85f276-ce2d-456b-8e32-2a9b82b7912a
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

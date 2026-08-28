@@ -20,12 +20,14 @@ references:
     aerial phenomena (UAP).
   claim_id: 18b1482b-8bdf-40a0-a30b-09d1c257b444
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Military pilots have historically reported many UAP sightings
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: printed_page 1, Historical Background
   quote: Military pilots have historically reported many of the reported UAP sightings.
   claim_id: 6a1cac00-e1a2-45f9-97d4-90c5b4a7bc09
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Air Force and Navy have been at the forefront of developing UAP reporting
     policies
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -34,6 +36,7 @@ references:
     procedures, and mechanisms for reporting UAP.
   claim_id: dc1eeef6-0366-4363-90e8-81aa143d2ccd
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Project Sign was established in December 1947 to investigate unidentified
     flying object sightings
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -43,6 +46,7 @@ references:
     the first recorded observations of unidentified flying objects.
   claim_id: 5d8ecaed-07e2-4efb-89e4-e40da93a7964
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Air Force personnel investigated 243 reported UAP sightings under Project
     Sign from 1947 to 1949
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -50,6 +54,7 @@ references:
   quote: From 1947 to 1949, Air Force personnel investigated 243 reported UAP sightings.
   claim_id: 5d9ca5c7-dcfe-41c3-b34a-99ec78efe260
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Project Blue Book was initiated in 1952 by the U.S. Air Force Director of
     Intelligence
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -58,6 +63,7 @@ references:
     BOOK to investigate unidentified flying objects.
   claim_id: ef23afe5-2798-4894-929b-44217428944a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Over 12,000 reported sightings were investigated under Project Blue Book between
     1952 and 1969
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -66,6 +72,7 @@ references:
     sightings.
   claim_id: e1d0bd13-3ebc-418e-ad56-42d1dff4f5d8
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: In mid-2000, Congress initiated and funded the Advanced Aerospace Weapon Systems
     Applications Program under the DIA
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -76,6 +83,7 @@ references:
     Intelligence Agency.
   claim_id: 113011f5-4f79-4c34-9f97-a563066a0289
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Since 2000, several DoD-wide UAP reporting programmes were attempted but never
     fully implemented
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -84,6 +92,7 @@ references:
     DoD-wide UAP reporting; however, none of the programs were ever fully implemented.
   claim_id: 651a840a-954c-4fab-8dc1-9e83bdefdc65
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Congress directed the DoD to establish a formal interagency UAP entity through
     the FY2022 NDAA
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -94,6 +103,7 @@ references:
     formal interagency entity to study, collect data, and report on UAP.
   claim_id: 031e5f03-e48a-4917-8dc5-ff193b3c262e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: AARO was established on 2022-07-20 as the formal interagency entity for UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: printed_page 1, Historical Background
@@ -101,6 +111,7 @@ references:
     (AARO) to be that entity.
   claim_id: a0a097aa-1a41-4412-a702-5f3178d595f7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The FY2023 NDAA defined UAP to include airborne, transmedium, and submerged
     objects not immediately identifiable
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -111,6 +122,7 @@ references:
     devices that are not immediately identifiable.'
   claim_id: 73f3812d-ce21-4fc3-9207-eb7539b07e7a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The ODNI Preliminary Assessment identified five potential explanatory categories
     for UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -122,6 +134,7 @@ references:
     programs, foreign adversary systems, and a catchall "other" category.'
   claim_id: ad810dac-9868-492f-9870-3cfd2b245085
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: DoD UAP efforts have been irregular because of competing priorities, lack
     of progress, and inconclusive findings
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -130,6 +143,7 @@ references:
     competing priorities, lack of substantive progress, and inconclusive findings.
   claim_id: 4d3c3679-a921-4c8e-a9c0-42e2cc3a1529
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Congressional committees included UAP concerns in the FY2019 through FY2023
     NDAAs and a Senate intelligence report
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -139,6 +153,7 @@ references:
     on the FY 2021 Intelligence Authorization Act.
   claim_id: 7f2f57df-0c16-4223-a192-c9c2890274d5
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Senate Select Committee on Intelligence identified lack of a unified process
     for collecting and analysing UAP intelligence
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -149,6 +164,7 @@ references:
     and analyzing intelligence on UAP.
   claim_id: 06feb202-f1b2-4f2a-ac2f-e46ce47d6a16
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The UAPTF was established in August 2020 to develop standardised UAP reporting
     requirements
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -157,6 +173,7 @@ references:
     reporting requirements for UAP encounters.
   claim_id: e24a8a9f-196e-41dc-aac4-04765c1c2698
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The UAPTF and ODNI issued the Preliminary Assessment on UAP in June 2021
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: printed_page 3
@@ -164,6 +181,7 @@ references:
     issued the congressionally mandated Preliminary Assessment on UAP
   claim_id: bfeb3e06-38e7-4050-87c8-cd325ea9b29c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Preliminary Assessment found UAP reporting data largely inconclusive and
     government-wide consolidation inconsistent
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -173,6 +191,7 @@ references:
     reports across the U.S. Government is inconsistent.
   claim_id: e60d9388-b82f-4f1d-81c8-d27f161591fb
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: In November 2021, the Deputy Secretary of Defense directed establishment of
     the AOIMSG as successor to the UAPTF
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -184,6 +203,7 @@ references:
     objects of interest in special use airspace.
   claim_id: 4d526efe-5014-464f-9e1c-3c37ce4e392c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The AOIMSG did not reach operational capability and was disestablished on
     2022-07-15
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -192,6 +212,7 @@ references:
     disestablished it on July 15, 2022.
   claim_id: 4ea9fb97-dd0a-415e-811e-339ebb1af923
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: AARO was established in July 2022 to implement duties previously assigned
     to the AOIMSG
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -200,6 +221,7 @@ references:
     (AARO) to implement the duties previously assigned to the AOIMSG.
   claim_id: 9cf9d1bb-374d-4e1c-aa3b-4726f187efb2
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The OIG determined the DoD has not used a coordinated approach to detect,
     report, collect, analyse, and identify UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -208,6 +230,7 @@ references:
     and identify UAP;
   claim_id: c8e2764d-755a-4453-b01e-83295fafbd0b
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Geographic combatant commands were largely excluded from developing UAP policies
     and procedures
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -218,6 +241,7 @@ references:
     areas of responsibility, in developing UAP policies and procedures;
   claim_id: 6520e880-bca2-4637-a020-e5217d4abff1
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: DoD Components developed varying processes to collect, analyse, and identify
     UAP incidents
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -226,6 +250,7 @@ references:
     UAP incidents.
   claim_id: 9a90d8df-b46d-4d96-8f16-289dfd153b27
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The DoD has not issued a comprehensive UAP response plan identifying roles,
     responsibilities, and coordination procedures
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -235,6 +260,7 @@ references:
     reporting, collecting, analyzing, and identifying UAP incidents.
   claim_id: 217826f8-b1e4-4cb4-80d7-57240061779d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Air Force designated UAP as a Special Interest Item requiring reporting
     within 24 hours via the Marauder Mission Reporting System
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -244,6 +270,7 @@ references:
     and mission completion using the Marauder system.
   claim_id: 88c4f261-6b93-437b-a494-cf80b291cb72
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Army personnel use the Air Force's Marauder system because the Army has not
     developed its own UAP-specific processes
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -253,6 +280,7 @@ references:
     UAP observations because the Army has not developed its own UAP-specific processes.
   claim_id: 8fce2e3b-50f5-42f7-96c1-bf558ece67b4
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The OIG determined the DoD has no overarching UAP policy and lacks assurance
     that threats have been identified and mitigated
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -262,6 +290,7 @@ references:
     States from UAP have been identified and mitigated.
   claim_id: 31eaddf5-e0a2-4198-afd5-30ba24c6de70
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: Recommendation 1 called on the Under Secretary of Defense for Intelligence
     and Security to issue a DoD-wide UAP policy
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -273,6 +302,7 @@ references:
     counterintelligence, and force protection policies and procedures.
   claim_id: bfeb1b1a-3cc4-4984-a09d-839265927b5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Under Secretary agreed with Recommendation 1; the recommendation was resolved
     but open
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -281,6 +311,7 @@ references:
     for the OUSD(I&S) and the AARO Director, agreed with the recommendation.
   claim_id: 0dff5b65-46d4-42bf-b1d5-b3eb15260fcf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: AARO's progress included developing an analytic framework, science plan, operational
     framework, and strategic communications plan
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -292,6 +323,7 @@ references:
     Defense, AARO, combatant commands, Military Services, and Combat Support Agencies.
   claim_id: b90736a6-76f2-47e2-a683-04b66ed8ec69
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Secretary of the Navy did not provide official comments for Recommendation
     3 as requested
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -300,6 +332,7 @@ references:
     in our final report, as requested.
   claim_id: c51ea385-d16b-418f-b17e-ffce405662fd
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Secretary of the Air Force did not provide official comments for Recommendation
     4 as requested
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -308,6 +341,7 @@ references:
     in this report, as we requested in our draft report.
   claim_id: c86ec547-d834-4487-938f-0470cb20a8e0
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The Joint Staff issued guidance to geographic combatant commanders on UAP
     detection and reporting
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -317,6 +351,7 @@ references:
     identification within their area of responsibility.
   claim_id: 8bb2f4ff-3a25-4581-8570-d9ae71efe86d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 - text: The OIG conducted its evaluation work from May 2021 through June 2023 under
     CIGIE quality standards
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -326,6 +361,7 @@ references:
     in January 2012 by the Council of the Inspectors General on Integrity and Efficiency.
   claim_id: 515f5844-0b70-486f-bb72-e9d09258f6a5
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

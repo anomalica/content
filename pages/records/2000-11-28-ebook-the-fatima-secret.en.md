@@ -25,6 +25,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ef53c006-99cb-43fc-9807-2131dc6e9c44
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-ef53c006-99cb-43fc-9807-2131dc6e9c44
+  copyright_status: restricted
 - text: Michael Hesemann describes the book as non-religious and says it does not
     aim to prove religious doctrine.
   source: The Fatima Secret (2000-11-28)
@@ -34,6 +35,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f105a6f8-aeb4-4f76-a2d8-338724193a26
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-f105a6f8-aeb4-4f76-a2d8-338724193a26
+  copyright_status: restricted
 - text: The source record says that three children reported seeing a beautiful lady
     at Fatima in the summer of 1917.
   source: The Fatima Secret (2000-11-28)
@@ -43,6 +45,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1dd533aa-91bd-4691-8b4b-9538ea0a7526
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-1dd533aa-91bd-4691-8b4b-9538ea0a7526
+  copyright_status: restricted
 - text: The source record says that the apparition delivered three secrets.
   source: The Fatima Secret (2000-11-28)
   location: ch4:359-384
@@ -51,6 +54,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-16dbf9e8-ea8b-444f-9027-99685788a241
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-16dbf9e8-ea8b-444f-9027-99685788a241
+  copyright_status: restricted
 - text: The source record describes the 1917-10-13 solar phenomenon and its reported
     appearance.
   source: The Fatima Secret (2000-11-28)
@@ -60,6 +64,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-09a2dde2-39d2-4951-b514-768581dbb531
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-09a2dde2-39d2-4951-b514-768581dbb531
+  copyright_status: restricted
 - text: The source record reports a witness's description of a large disk moving in
     front of the sun.
   source: The Fatima Secret (2000-11-28)
@@ -69,6 +74,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-20708ab8-8377-49d4-bf7f-05b73593c354
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-20708ab8-8377-49d4-bf7f-05b73593c354
+  copyright_status: restricted
 - text: Michael Hesemann says that Marian apparitions and UFOs have observable parallels
     but should not be used to explain one poorly understood phenomenon through another.
   source: The Fatima Secret (2000-11-28)
@@ -78,6 +84,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0220c9a-21cd-4eef-ae8e-1a1125356fc7
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-c0220c9a-21cd-4eef-ae8e-1a1125356fc7
+  copyright_status: restricted
 - text: The source record says the Third Secret remained publicly unknown for eighty
     years.
   source: The Fatima Secret (2000-11-28)
@@ -87,6 +94,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b3412c24-de64-45e8-a25c-8605eebfbf02
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-b3412c24-de64-45e8-a25c-8605eebfbf02
+  copyright_status: restricted
 - text: The source record says that the Third Secret was published on 2000-06-26.
   source: The Fatima Secret (2000-11-28)
   location: ch24:13920-14054
@@ -95,6 +103,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
+  copyright_status: restricted
 - text: Angelo Sodano's interpretation identifies the bishop in white in the vision
     as the pope and describes his progress towards a cross amid martyrs.
   source: The Fatima Secret (2000-11-28)
@@ -104,6 +113,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-62a685db-bdc6-47ef-8221-17ffc491f892
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-62a685db-bdc6-47ef-8221-17ffc491f892
+  copyright_status: restricted
 - text: Joseph Ratzinger says the vision is a private revelation and should not be
     taken literally.
   source: The Fatima Secret (2000-11-28)
@@ -113,6 +123,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-810b208f-23c6-490f-b76c-15a0c4f90269
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-810b208f-23c6-490f-b76c-15a0c4f90269
+  copyright_status: restricted
 - text: The source record reports that John Paul II performed the consecration of
     Russia to the Immaculate Heart of Mary on 1984-03-25.
   source: The Fatima Secret (2000-11-28)
@@ -122,6 +133,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-64972a11-b345-474e-8a72-3e81dde7a218
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-64972a11-b345-474e-8a72-3e81dde7a218
+  copyright_status: restricted
 - text: Michael Hesemann says that the book considers UFO phenomena and Marian apparitions
     to be ways another world may enter ordinary life.
   source: The Fatima Secret (2000-11-28)
@@ -131,6 +143,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0ab3a1ce-197e-40fd-aa9e-de16834b2ab3
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-0ab3a1ce-197e-40fd-aa9e-de16834b2ab3
+  copyright_status: restricted
 - text: Michael Hesemann says that some Marian miracles can be photographed and that
     weeping statues display signs suitable for scientific study.
   source: The Fatima Secret (2000-11-28)
@@ -140,6 +153,7 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-dfe3e947-717f-42d0-9b9e-bb087d915d09
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-dfe3e947-717f-42d0-9b9e-bb087d915d09
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

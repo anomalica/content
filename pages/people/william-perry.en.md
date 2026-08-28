@@ -47,6 +47,7 @@ references:
   claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
+  copyright_status: restricted
 - text: The memo names Paul Kaminski, Michael Kostelnik and former Defense Secretary
     William Perry as the three people Wilson confirmed the programme's contractor
     with.
@@ -55,6 +56,7 @@ references:
   claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  copyright_status: restricted
 - text: Thomas Wilson was told of a special-projects record group outside the usual
     SAP structure, organised in 1994 by William Perry.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -67,6 +69,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  copyright_status: public_domain
 - text: Michael Kostelnik was director of special programmes in OUSDAT, as reorganised
     by William Perry in 1994.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -78,6 +81,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  copyright_status: public_domain
 - text: Thomas Wilson met William Perry in May 1997 and discussed the matter quietly;
     Perry suggested the same approach as General Ward.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -87,6 +91,7 @@ references:
   claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
+  copyright_status: public_domain
 - text: Wilson called Kaminski, Kostelnik and Perry at the end of May 1997 to confirm
     the right contractor and programme manager, and they confirmed it.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -102,6 +107,7 @@ references:
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
+  copyright_status: public_domain
 - text: The programme manager asked Wilson who he had talked to beforehand and was
     unhappy with his answer; Wilson did not mention Perry and Kaminski.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -115,6 +121,7 @@ references:
   claim_id: 2cfc9df5-134f-459d-8895-36e57b5660a3
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2cfc9df5-134f-459d-8895-36e57b5660a3
+  copyright_status: public_domain
 - text: Wilson said Kostelnik told him the security budget ran two to three times
     the programme budget, sometimes six to seven times; Perry wanted an investigation
     but was told to drop it.
@@ -126,6 +133,7 @@ references:
   claim_id: b96a9a92-b893-4903-a0f3-9db8fcfca529
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b96a9a92-b893-4903-a0f3-9db8fcfca529
+  copyright_status: public_domain
 - text: Perry ordered the security budget reporting issues reorganised to improve
     audit transparency.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -135,6 +143,7 @@ references:
   claim_id: 378c4c64-b883-478d-8589-4b921c78dba8
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-378c4c64-b883-478d-8589-4b921c78dba8
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

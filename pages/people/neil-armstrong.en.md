@@ -91,6 +91,7 @@ references:
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
+  copyright_status: publicly_accessible
 - text: Aldrin regarded Armstrong's landing radio call as a good line
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:48.6-00:00:49.4
@@ -99,6 +100,7 @@ references:
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
   workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
+  copyright_status: publicly_accessible
 - text: Said 'That's one small step for Man, one giant leap for Mankind', watched
     by almost a billion people
   source: Dark Mission
@@ -106,12 +108,14 @@ references:
   claim_id: 6d4acf36-a402-46f1-a0ed-d74ea9d00817
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d4acf36-a402-46f1-a0ed-d74ea9d00817
+  copyright_status: restricted
 - text: Aldrin was the second man to walk on the Moon alongside Armstrong
   source: Dark Mission
   location: ch12:19458-19535
   claim_id: c3bd3326-1b40-461b-a3b3-cdf04dceae41
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3bd3326-1b40-461b-a3b3-cdf04dceae41
+  copyright_status: restricted
 - text: Two days before splashdown in the South Pacific, the crew were roughly halfway
     between the Earth and the Moon
   source: Dark Mission
@@ -119,6 +123,7 @@ references:
   claim_id: 5eb8aefd-c21e-46f4-ae9d-fc19406edb71
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5eb8aefd-c21e-46f4-ae9d-fc19406edb71
+  copyright_status: restricted
 - text: Took manual control and flew the Lunar Module over a crater to a landing site
     about 8 km downrange in the Tranquility Base area
   source: Dark Mission
@@ -126,6 +131,7 @@ references:
   claim_id: 79be4923-0927-4bc8-9764-d754ffb51db7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79be4923-0927-4bc8-9764-d754ffb51db7
+  copyright_status: restricted
 - text: 'Official NASA history: flew the Eagle about 8 km further west of the intended
     site, reportedly because of rocks'
   source: Dark Mission
@@ -133,12 +139,14 @@ references:
   claim_id: bd4263f5-d705-469b-8da0-73762ff4815e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bd4263f5-d705-469b-8da0-73762ff4815e
+  copyright_status: restricted
 - text: Nearly exhausted the Eagle's fuel, coming within seconds of aborting the landing
   source: Dark Mission
   location: ch12:38984-39173
   claim_id: 8728c853-7944-468c-9f62-843911ea430b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8728c853-7944-468c-9f62-843911ea430b
+  copyright_status: restricted
 - text: Reported no stars visible from the surface but could see Earth; Aldrin would
     try the optics
   source: Dark Mission
@@ -146,6 +154,7 @@ references:
   claim_id: 987f43ec-2016-4eb6-ae0f-bfc87c20dab8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987f43ec-2016-4eb6-ae0f-bfc87c20dab8
+  copyright_status: restricted
 - text: The 'optics' was the Alignment Optical Telescope, used for orientation relative
     to two stars
   source: Dark Mission
@@ -153,12 +162,14 @@ references:
   claim_id: 33e10ccf-562d-41ba-9c1e-31259dd0e22d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33e10ccf-562d-41ba-9c1e-31259dd0e22d
+  copyright_status: restricted
 - text: Aldrin performed a communion ceremony in the Eagle before the first moonwalk
   source: Dark Mission
   location: ch5:5520-5674
   claim_id: 25caec01-8b8c-45f7-802e-7644865e2e68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25caec01-8b8c-45f7-802e-7644865e2e68
+  copyright_status: restricted
 - text: Armstrong looked on with an expression of faint disdain during the communion
     ceremony
   source: Dark Mission
@@ -166,6 +177,7 @@ references:
   claim_id: 846785fb-65e6-42b4-807e-3236ccda4f01
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-846785fb-65e6-42b4-807e-3236ccda4f01
+  copyright_status: restricted
 - text: Hoagland and Johnston used mission log transcripts to date the ceremony to
     33 minutes after touchdown
   source: Dark Mission
@@ -173,6 +185,7 @@ references:
   claim_id: 46ce7898-0118-460c-bbfe-da1ae9bfae90
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
+  copyright_status: restricted
 - text: First Man places the ceremony several hours after the comms break, at suit-up
     for the moonwalk
   source: Dark Mission
@@ -180,12 +193,14 @@ references:
   claim_id: 227d02aa-552c-410c-be82-a6508434e942
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-227d02aa-552c-410c-be82-a6508434e942
+  copyright_status: restricted
 - text: Dark, ghostly broadcast images resulted from the Slow Scan Converter's limitations
   source: Dark Mission
   location: ch20:3965-4087
   claim_id: b5b70dc4-48ca-4fac-bc3b-d174ff32e123
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5b70dc4-48ca-4fac-bc3b-d174ff32e123
+  copyright_status: restricted
 - text: Zond 3's lunar images were acquired exactly four years before Armstrong and
     Aldrin's first footsteps
   source: Dark Mission
@@ -193,12 +208,14 @@ references:
   claim_id: 0dedc9fe-dce0-44e3-b672-40246793a68f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0dedc9fe-dce0-44e3-b672-40246793a68f
+  copyright_status: restricted
 - text: Hoagland reads 'one small step' as a coded acknowledgement to a hidden audience
   source: Dark Mission
   location: ch20:50665-51013
   claim_id: f91ccafd-9705-407e-b69d-bada17585408
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f91ccafd-9705-407e-b69d-bada17585408
+  copyright_status: restricted
 - text: Appeared frustrated and gave a highly emotional address at the 1994 anniversary
     ceremony
   source: Dark Mission
@@ -206,6 +223,7 @@ references:
   claim_id: 987d9d97-d5b8-446a-8c3c-8ef8b07b06d9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987d9d97-d5b8-446a-8c3c-8ef8b07b06d9
+  copyright_status: restricted
 - text: Opened comparing himself to a parrot; closed with a remark on 'truth's protective
     layers'
   source: Dark Mission
@@ -213,6 +231,7 @@ references:
   claim_id: 2ca29335-f026-4832-a6fa-78b38306eb06
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2ca29335-f026-4832-a6fa-78b38306eb06
+  copyright_status: restricted
 - text: Hoagland asks whether the 'protective layer of truth' remark hinted at a clandestine
     reason for Apollo's naming
   source: Dark Mission
@@ -220,6 +239,7 @@ references:
   claim_id: c2221455-2a59-4086-acde-946170252943
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2221455-2a59-4086-acde-946170252943
+  copyright_status: restricted
 - text: Aldrin said neither Armstrong nor Collins believed the sighted object was
     as far away as the S-IVB
   source: Dark Mission
@@ -227,6 +247,7 @@ references:
   claim_id: bea8933c-27e1-446f-ba3e-763cb737f469
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bea8933c-27e1-446f-ba3e-763cb737f469
+  copyright_status: restricted
 - text: Hoagland speculates Armstrong and Aldrin were pre-selected for reasons he
     applies to Shepard's 1961 flight
   source: Dark Mission
@@ -234,12 +255,14 @@ references:
   claim_id: c71114cb-d74c-4805-99a9-43394b33f18e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c71114cb-d74c-4805-99a9-43394b33f18e
+  copyright_status: restricted
 - text: 'Hoagland: Aldrin and Armstrong were more logical 2004 choices than Cernan'
   source: Dark Mission
   location: ch19:24528-24789
   claim_id: 8916b46d-4e65-46e7-a9f6-e4f9c965dc4b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8916b46d-4e65-46e7-a9f6-e4f9c965dc4b
+  copyright_status: restricted
 - text: Hoagland believes El-Baz, Kleinknecht and von Braun were relieved the images
     came back ghostly, dark and low in contrast
   source: Dark Mission
@@ -247,12 +270,14 @@ references:
   claim_id: 99fd0057-0b46-456c-8e3d-fbf81cf02f79
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99fd0057-0b46-456c-8e3d-fbf81cf02f79
+  copyright_status: restricted
 - text: 'Hoagland: after Apollo, Armstrong withdrew from public life and became reclusive'
   source: Dark Mission
   location: ch11:152623-152709
   claim_id: f3edc0c0-de67-4268-89fe-8b73b9b26d48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f3edc0c0-de67-4268-89fe-8b73b9b26d48
+  copyright_status: restricted
 - text: Armstrong was from Ohio, the same state as David Fravor
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -261,6 +286,7 @@ references:
   claim_id: 3e5a18bb-9207-446c-ae63-43eb037a757b
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3e5a18bb-9207-446c-ae63-43eb037a757b
+  copyright_status: publicly_accessible
 - text: Fravor has a photo of Armstrong in a parade car in Wapakoneta, Ohio
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -271,6 +297,7 @@ references:
   claim_id: 93cf4d5b-b10f-436f-b782-768cb541a0ec
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-93cf4d5b-b10f-436f-b782-768cb541a0ec
+  copyright_status: publicly_accessible
 - text: Fravor has dreamed of flying since 1969, watching Armstrong walk on the Moon
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -279,6 +306,7 @@ references:
   claim_id: 8f9ab5f2-d85d-4793-929d-5b266d9a4403
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8f9ab5f2-d85d-4793-929d-5b266d9a4403
+  copyright_status: publicly_accessible
 - text: Aged four years and eleven months, Fravor watched Armstrong walk on the Moon
     during the Apollo 11 Moon landing
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -289,18 +317,21 @@ references:
   claim_id: df688c75-1d00-4f0a-b44a-94a5be27eb49
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-df688c75-1d00-4f0a-b44a-94a5be27eb49
+  copyright_status: publicly_accessible
 - text: Persistent, unconfirmed rumours that Armstrong and Shepard were Freemasons
   source: Dark Mission
   location: ch12:117569-117681
   claim_id: 2b69683e-9e42-495b-b884-d695e62361d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b69683e-9e42-495b-b884-d695e62361d1
+  copyright_status: restricted
 - text: Armstrong's father was a Freemason
   source: Dark Mission
   location: ch12:117692-117736
   claim_id: c17a7d99-99ac-4190-ab1a-c66176fad515
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c17a7d99-99ac-4190-ab1a-c66176fad515
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

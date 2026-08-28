@@ -15,107 +15,125 @@ references:
   location: About the Author
   claim_id: c62acd37-3ab2-4988-968f-0dfc615f9962
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Annie Farinaccio witnessed a diamond-shaped craft hovering near the Harold
     Holt Naval Communications Station in late 1991.
   source: In Plain Sight
   location: Prologue
   claim_id: d63f3086-5fd3-41af-b416-7cd8f980b384
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: In 1930, RAAF Squadron Leader George Jones was sent to investigate reports
     of mystery aircraft over the Victorian coast.
   source: In Plain Sight
   location: Chapter 1
   claim_id: ad9e6a86-fe70-42ab-b648-68485938094a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Joy Clarke was a twelve-year-old pupil at Westall High School when the Westall
     UAP sighting occurred on 6 April 1966.
   source: In Plain Sight
   location: paragraph 1
   claim_id: f9df8d14-f10f-4784-8afb-29912ff83f17
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Two Royal Australian Air Force sighting reports detail the North West Cape
     UAP incident of 25 October 1973.
   source: In Plain Sight
   location: Chapter 6, paragraph 5
   claim_id: b64b0853-2402-49b0-9ad0-8c938151c148
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Ranch foreman Mac Brazel found crash debris on 5 July 1947 on a cattle ranch
     about 120 kilometres from Roswell, New Mexico.
   source: In Plain Sight
   location: Chapter 2
   claim_id: 890868b7-e305-4fe7-a90e-16ae0f1f211c
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: The USS Nimitz was conducting training with its carrier strike group off the
     California coast in November 2004.
   source: In Plain Sight
   location: Chapter 11, paragraph 1
   claim_id: bfdf8359-6c56-4f5b-b5fa-875350cbf9c0
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Kevin Day was interviewed by the author on 22 and 23 March 2021 about the
     2004 Nimitz encounter.
   source: In Plain Sight
   location: Chapter 11, endnote 1
   claim_id: 859cbe29-1030-4bfa-b740-8e2fae1e6cc3
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Robert Bigelow self-funded the creation of the National Institute for Discovery
     Science in 1995.
   source: In Plain Sight
   location: Chapter 10, paragraph 9
   claim_id: 5208a28f-e8b1-4841-8cb5-6b143d4670a4
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Eric Davis started working for the National Institute for Discovery Science
     in July 1996.
   source: In Plain Sight
   location: Chapter 10, paragraph 10
   claim_id: 6b03ff99-e4af-4132-8cee-37736e532ba9
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Tom DeLonge announced the formation of To The Stars Academy of Arts and Sciences
     on a Seattle stage on 11 October 2017.
   source: In Plain Sight
   location: Chapter 16, paragraph 1
   claim_id: 676db77a-5986-41ce-927c-4abce3874e40
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Fancy Bear hacked John Podesta's Gmail account in 2016, probably in October.
   source: In Plain Sight
   location: Chapter 15, paragraph 3
   claim_id: 5cf6fe18-5155-456b-ae94-144f594c0264
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Leaked Podesta emails revealed plans for a meeting between Tom DeLonge, John
     Podesta and Lockheed Martin's Rob Weiss.
   source: In Plain Sight
   location: paragraph 2
   claim_id: 2326922c-563b-40ce-94e6-e3009d0cc6da
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: The Wilson Davis Memo purports to record a 16 October 2002 meeting between
     Eric Davis and Vice Admiral Thomas Wilson in a Las Vegas car park.
   source: In Plain Sight
   location: Chapter 21, paragraph 5
   claim_id: f83867aa-20a1-450b-9001-18f7b7f76172
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Luis Elizondo resigned from the Department of Defense weeks before the TTSA
     launch in protest at excessive secrecy.
   source: In Plain Sight
   location: Chapter 16, paragraph 12
   claim_id: bd2e84d8-d0c5-4f02-b9bc-c62b0ef84385
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Tom DeLonge sold six Art's Parts samples to TTSA for US$35,000 in 2019, as
     disclosed to the Securities and Exchange Commission.
   source: In Plain Sight
   location: Chapter 18, paragraph 14
   claim_id: 9ef0ce22-ef49-4d1c-bfa8-105d60ad0429
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Salvatore Pais worked at the US Navy's Naval Air Warfare Centre Aircraft Division
     on the Patuxent River in Maryland.
   source: In Plain Sight
   location: paragraph 46
   claim_id: 83162455-5f1c-4782-830a-1b5b927c0462
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 - text: Salvatore Pais filed a patent application for a 'Craft Using an Inertial Mass
     Reduction Device' in April 2016.
   source: In Plain Sight
   location: paragraph 45
   claim_id: b493d0b0-de31-4b6a-a2f6-af45a8e01add
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -60,18 +60,21 @@ references:
   claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b72cc0d-2659-420d-ae47-138a2023f3f3
+  copyright_status: restricted
 - text: Harry Reid served for two years on the Senate Select Committee on Intelligence
   source: In Plain Sight
   location: ch17:1214-1343
   claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
+  copyright_status: restricted
 - text: Christopher Mellon was a staffer to the committee in Washington DC
   source: In Plain Sight
   location: ch13:7678-7761
   claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
+  copyright_status: restricted
 - text: Mellon served as the committee's Minority Staff Director
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:10:00.5-00:10:08.2
@@ -80,6 +83,7 @@ references:
   claim_id: c602bdc5-1b14-45d6-b924-43c6a1c50779
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-c602bdc5-1b14-45d6-b924-43c6a1c50779
+  copyright_status: publicly_accessible
 - text: Mellon's role required review of top-secret SCI projects within Special Access
     Programs
   source: In Plain Sight
@@ -87,6 +91,7 @@ references:
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
+  copyright_status: restricted
 - text: Mellon monitored Area 51, a USAF facility in the Nevada Test and Training
     Range, for the committee
   source: In Plain Sight
@@ -94,6 +99,7 @@ references:
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
+  copyright_status: restricted
 - text: First retrieval briefing given to Senate Armed Services Committee staff on
     2019-10-21, then SSCI staff two days later
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -105,6 +111,7 @@ references:
   claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
+  copyright_status: publicly_accessible
 - text: Eric Davis briefed DoD agencies and SASC/SSCI staff on possession of off-world
     vehicles
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -112,6 +119,7 @@ references:
   claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a89e117-678f-49f7-8c52-672a96cd2e99
+  copyright_status: restricted
 - text: Congressional strategy began by engaging SSCI and SASC professional staff
     and members of Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -119,6 +127,7 @@ references:
   claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
+  copyright_status: restricted
 - text: In late 2020 the committee demanded a report on all UAP data, including navy
     pilot sightings
   source: In Plain Sight
@@ -126,6 +135,7 @@ references:
   claim_id: a8496531-a608-4712-8976-2e3ce23befc7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a8496531-a608-4712-8976-2e3ce23befc7
+  copyright_status: restricted
 - text: Rubio, as committee head, asked ODNI and the Pentagon for an unclassified
     UAP report within a month (December 2020)
   source: Navy pilots describe encounters with UFOs
@@ -136,6 +146,7 @@ references:
   claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d29ae603-3c13-4f62-91ec-33eba1605ead
+  copyright_status: publicly_accessible
 - text: The committee ordered the DNI and Secretary of Defense to deliver the report
     within a month
   source: Navy pilots describe encounters with UFOs
@@ -146,12 +157,14 @@ references:
   claim_id: 5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
+  copyright_status: publicly_accessible
 - text: The report was due in June 2021 but was likely to be delayed
   source: In Plain Sight
   location: ch28:26826-26880
   claim_id: 51ece265-ac9f-4fc5-8aee-a88879ae9133
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-51ece265-ac9f-4fc5-8aee-a88879ae9133
+  copyright_status: restricted
 - text: SSCI report on the FY2021 Intelligence Authorization Act found no unified
     process for collecting UAP intelligence
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -164,12 +177,14 @@ references:
   claim_id: 6eab19e0-e876-4eba-bcb0-2369d0f54c80
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-6eab19e0-e876-4eba-bcb0-2369d0f54c80
+  copyright_status: public_domain
 - text: Warner and Rubio publicly supported UAP legislation in the FY2023 NDAA
   source: In Plain Sight
   location: ch30:13954-14150
   claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
+  copyright_status: restricted
 - text: Summary of Grusch's complaint submitted to DNI Haines, SSCI, and HPSCI
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:12634-12836
@@ -179,6 +194,7 @@ references:
   claim_id: 92ab0c63-7a26-4521-bc47-405d01d3e22a
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
+  copyright_status: publicly_accessible
 - text: In summer 2022 the Intelligence Community IG was required to forward Grusch's
     complaint to SSCI and HPSCI
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -189,6 +205,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
+  copyright_status: publicly_accessible
 - text: Grusch gave 11 and a half hours of classified testimony to SSCI and HPSCI
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:26:29.6-00:26:36.3
@@ -198,6 +215,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
+  copyright_status: publicly_accessible
 - text: Grusch says the committees opened a full-field investigation after his testimony,
     with fear especially in the Senate
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -208,6 +226,7 @@ references:
   claim_id: fd191e2d-8b76-4974-aafb-246219774955
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fd191e2d-8b76-4974-aafb-246219774955
+  copyright_status: publicly_accessible
 - text: Anonymous Reddit document author refused to share his account with SSCI or
     AARO, fearing a honey trap
   source: The Fourth Mind
@@ -215,6 +234,7 @@ references:
   claim_id: 84f07469-aa64-4c12-a4e2-b5b90dce9a58
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-84f07469-aa64-4c12-a4e2-b5b90dce9a58
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

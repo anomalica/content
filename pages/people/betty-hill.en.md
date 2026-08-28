@@ -273,42 +273,49 @@ references:
   claim_id: dd61c15c-b683-4464-b0c6-8203ffea0cc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dd61c15c-b683-4464-b0c6-8203ffea0cc2
+  copyright_status: restricted
 - text: The couple lived in New Hampshire
   source: American Cosmic
   location: ch4:42070-42088
   claim_id: 9183580f-d09a-45de-9d1b-f7a8215d2e96
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9183580f-d09a-45de-9d1b-f7a8215d2e96
+  copyright_status: restricted
 - text: They saw a light resembling a falling star that moved differently
   source: American Cosmic
   location: ch4:42099-42237
   claim_id: f7201d79-2649-4546-93db-3ea2257a8767
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f7201d79-2649-4546-93db-3ea2257a8767
+  copyright_status: restricted
 - text: They stopped and used binoculars to try to identify the light
   source: American Cosmic
   location: ch4:42250-42359
   claim_id: 597426ab-c836-45c4-a9ce-fa8afff204fa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-597426ab-c836-45c4-a9ce-fa8afff204fa
+  copyright_status: restricted
 - text: The light came toward the car, almost filling the windscreen
   source: American Cosmic
   location: ch4:42462-42545
   claim_id: 6b6d8285-759d-4780-831d-9a5314313b2d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6b6d8285-759d-4780-831d-9a5314313b2d
+  copyright_status: restricted
 - text: Frightened, Barney Hill got out of the car with a pistol
   source: American Cosmic
   location: ch4:42552-42626
   claim_id: fb447b5c-6172-4cc6-886f-e5cd63aee74c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fb447b5c-6172-4cc6-886f-e5cd63aee74c
+  copyright_status: restricted
 - text: The object appeared to change from looking like a star to looking like a disk
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:21716-21840
   claim_id: 627a6940-0c73-4b5d-9e60-737bdbfa6c90
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-627a6940-0c73-4b5d-9e60-737bdbfa6c90
+  copyright_status: restricted
 - text: They lost awareness and next remembered driving past a point roughly 100 km
     south
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -316,6 +323,7 @@ references:
   claim_id: 8a65ef8a-d4e4-427f-ae53-5541f05b4c2b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8a65ef8a-d4e4-427f-ae53-5541f05b4c2b
+  copyright_status: restricted
 - text: Betty Hill's account describes a prolonged sighting with figures visible at
     the windows
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -323,6 +331,7 @@ references:
   claim_id: 7099a694-f5d2-4aff-b6d5-bc0fb84b489c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7099a694-f5d2-4aff-b6d5-bc0fb84b489c
+  copyright_status: restricted
 - text: The Hills' dog, Delphi, was frightened during the sighting
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -331,6 +340,7 @@ references:
   claim_id: a3b161eb-de6c-4418-bdf5-f9f5bc46ac85
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-a3b161eb-de6c-4418-bdf5-f9f5bc46ac85
+  copyright_status: publicly_accessible
 - text: Betty Hill stayed in the car for most of the sighting while Barney was outside
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -339,30 +349,35 @@ references:
   claim_id: b8368518-9569-4f38-868c-5fbbe3fa5860
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-b8368518-9569-4f38-868c-5fbbe3fa5860
+  copyright_status: publicly_accessible
 - text: Two days after the sighting, Betty Hill called Pease Air Force Base
   source: American Cosmic
   location: ch4:42681-42737
   claim_id: de230825-1abd-4bde-8ef3-307427ad1e4c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-de230825-1abd-4bde-8ef3-307427ad1e4c
+  copyright_status: restricted
 - text: Major Paul W. Henderson returned her call the following day
   source: American Cosmic
   location: ch4:42743-42806
   claim_id: 3a9987da-18e1-43d3-b276-d779d2ca6b79
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3a9987da-18e1-43d3-b276-d779d2ca6b79
+  copyright_status: restricted
 - text: Betty Hill described the sighting to Henderson without mentioning any beings
   source: American Cosmic
   location: ch4:42812-42913
   claim_id: a8c36d72-6092-4cb9-a6f2-3d1636e84094
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a8c36d72-6092-4cb9-a6f2-3d1636e84094
+  copyright_status: restricted
 - text: Barney Hill reported to the USAF that they had seen a disk with windows
   source: THE INVISIBLE COLLEGE
   location: ch13:10053-10305
   claim_id: f0cfb649-ad41-4de4-becb-72ce14d42064
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f0cfb649-ad41-4de4-becb-72ce14d42064
+  copyright_status: restricted
 - text: The case began with a six-page NICAP report on the sighting
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -374,6 +389,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+  copyright_status: publicly_accessible
 - text: NICAP's investigator accepted the Hills' story completely
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -383,6 +399,7 @@ references:
   claim_id: 30fa18df-9858-4c02-b1d3-66c28599f638
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-30fa18df-9858-4c02-b1d3-66c28599f638
+  copyright_status: publicly_accessible
 - text: Simon considered NICAP's failure to examine the silver spots one of its greatest
     mistakes
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -395,6 +412,7 @@ references:
   claim_id: b00c12af-691e-42b9-ac5a-153010230e6a
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-b00c12af-691e-42b9-ac5a-153010230e6a
+  copyright_status: publicly_accessible
 - text: The silver spots on the car eventually washed away
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -403,6 +421,7 @@ references:
   claim_id: 9e51e5c3-4c46-4d6c-a586-ede09b7259f5
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-9e51e5c3-4c46-4d6c-a586-ede09b7259f5
+  copyright_status: publicly_accessible
 - text: The Hills sought Benjamin Simon's help in January 1964 due to anxiety and
     stress
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -410,12 +429,14 @@ references:
   claim_id: 4ec532b4-855a-4fc6-8a1b-5b6a1805bb3d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4ec532b4-855a-4fc6-8a1b-5b6a1805bb3d
+  copyright_status: restricted
 - text: Betty Hill said she wrote down her nightmares in November 1961
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:13753-13953
   claim_id: 1233c553-db34-43c9-86cc-53abec6b4dbe
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1233c553-db34-43c9-86cc-53abec6b4dbe
+  copyright_status: restricted
 - text: Hypnosis sessions began from the couple's stop in Montreal, Quebec
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -427,6 +448,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-11907557-d19d-4889-88a4-87f10719c124
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-11907557-d19d-4889-88a4-87f10719c124
+  copyright_status: publicly_accessible
 - text: Simon hypnotised the couple separately, starting with Barney
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -437,6 +459,7 @@ references:
   claim_id: 5dfd5072-35ce-4379-9798-06176fc14f79
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-5dfd5072-35ce-4379-9798-06176fc14f79
+  copyright_status: publicly_accessible
 - text: Their accounts matched to the point of the sighting, then diverged sharply
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -449,6 +472,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-8bcc1515-7d4c-4635-92a5-48523bbaafb2
+  copyright_status: publicly_accessible
 - text: The leader offered to say where they came from if Betty said where she came
     from, then showed her a star map
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -461,6 +485,7 @@ references:
   claim_id: 7f6ac3a2-aa9d-48ec-a8a9-83713f0432c0
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-7f6ac3a2-aa9d-48ec-a8a9-83713f0432c0
+  copyright_status: publicly_accessible
 - text: 'Betty''s account: taken aboard, Barney half-dragged eyes closed, Betty walked
     eyes open'
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -475,6 +500,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c3465329-c11a-4f7f-8fcb-c4be488fa564
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-c3465329-c11a-4f7f-8fcb-c4be488fa564
+  copyright_status: publicly_accessible
 - text: Her account included a needle inserted into her navel during the examination
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -484,6 +510,7 @@ references:
   claim_id: fb68e512-0530-46b1-9a6b-fe9d4268a7bd
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-fb68e512-0530-46b1-9a6b-fe9d4268a7bd
+  copyright_status: publicly_accessible
 - text: She later drew the star map for Simon, showing stars, trade routes and expeditions
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -495,6 +522,7 @@ references:
   claim_id: 05c0dff5-dc67-42d4-8641-d5b9d6398e73
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-05c0dff5-dc67-42d4-8641-d5b9d6398e73
+  copyright_status: publicly_accessible
 - text: Simon concluded the abduction story derived from her nightmares, not a genuine
     visitation
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
@@ -508,24 +536,28 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-c92da399-b909-485d-a3ae-97eaf18f0fb8
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-c92da399-b909-485d-a3ae-97eaf18f0fb8
+  copyright_status: publicly_accessible
 - text: The therapist who treated the Hills did not believe in UFOs
   source: American Cosmic
   location: ch5:7274-7327
   claim_id: 5d400693-af77-4c54-8e44-d70ca27d37f6
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d400693-af77-4c54-8e44-d70ca27d37f6
+  copyright_status: restricted
 - text: Vallée spent hours with the couple and discussed the case with Simon
   source: THE INVISIBLE COLLEGE
   location: ch17:17101-17217
   claim_id: 0b679581-6f26-4b41-b258-ef758283ddbe
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0b679581-6f26-4b41-b258-ef758283ddbe
+  copyright_status: restricted
 - text: Vallée notes the couple disagreed on details of the occupants' appearance
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:14291-14394
   claim_id: 38e7c93f-2cf9-4781-8b5a-dd75107c5e2a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-38e7c93f-2cf9-4781-8b5a-dd75107c5e2a
+  copyright_status: restricted
 - text: Vallée said he believed something unknown stopped the car and took control
     of their minds
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -533,6 +565,7 @@ references:
   claim_id: ca2bb5f7-294e-4a60-83d0-e3c1aa565f78
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ca2bb5f7-294e-4a60-83d0-e3c1aa565f78
+  copyright_status: restricted
 - text: Vallée proposed a nonphysical, 'psychotronic' experience rather than a physical
     boarding
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -540,24 +573,28 @@ references:
   claim_id: 79c26bae-c94e-455b-832e-59f2cd315b0a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79c26bae-c94e-455b-832e-59f2cd315b0a
+  copyright_status: restricted
 - text: Betty Hill told Fish she drew the map under post-hypnotic suggestion in 1964
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:27100-27171
   claim_id: c806b5be-3579-4cfc-ac4d-8a6af3a0458b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c806b5be-3579-4cfc-ac4d-8a6af3a0458b
+  copyright_status: restricted
 - text: Fish, an Ohio schoolteacher, built a star model matched to the map
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:26622-26824
   claim_id: 794460bf-aa90-4647-8e49-a5f6361e7aa3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-794460bf-aa90-4647-8e49-a5f6361e7aa3
+  copyright_status: restricted
 - text: Friedman and Saunders took Fish's model to indicate Zeta Reticuli as origin
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:26832-27014
   claim_id: 550ccd06-4f9e-46b8-93aa-06ba5335e3a0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-550ccd06-4f9e-46b8-93aa-06ba5335e3a0
+  copyright_status: restricted
 - text: Saunders, a Condon Committee psychologist, found no major point to quibble
     with
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -565,6 +602,7 @@ references:
   claim_id: 7c754e17-777b-4bdb-ba59-1cf114d78d32
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7c754e17-777b-4bdb-ba59-1cf114d78d32
+  copyright_status: restricted
 - text: Vallée called the star map 'a map to nowhere' proving nothing about extraterrestrial
     origin
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -572,12 +610,14 @@ references:
   claim_id: 64bbc8c8-bbbb-4bb3-a607-ec49c115546d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-64bbc8c8-bbbb-4bb3-a607-ec49c115546d
+  copyright_status: restricted
 - text: Betty Hill became a UFO celebrity, appearing on talk shows and television
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22882-23031
   claim_id: 3e5c06fa-77f8-44f9-9029-c0c177f5e1be
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3e5c06fa-77f8-44f9-9029-c0c177f5e1be
+  copyright_status: restricted
 - text: Researchers regard the Hill and Villas-Boas cases as the two watershed first
     abduction reports
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -585,6 +625,7 @@ references:
   claim_id: f88051f5-282d-463a-b008-047d7d3431e8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f88051f5-282d-463a-b008-047d7d3431e8
+  copyright_status: restricted
 - text: Herb Schirmer's 1967 experience was later regarded as comparable to the Hill
     and Pascagoula cases
   source: THE INVISIBLE COLLEGE
@@ -592,6 +633,7 @@ references:
   claim_id: 0129e7d8-b592-4ca8-a25b-de7fa636d09a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0129e7d8-b592-4ca8-a25b-de7fa636d09a
+  copyright_status: restricted
 - text: Betty Hill and Charlie Hickson each passed a lie detector test related to
     their accounts
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -599,6 +641,7 @@ references:
   claim_id: 99bdad04-8a37-4a64-82c6-2d5a387bf59c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-99bdad04-8a37-4a64-82c6-2d5a387bf59c
+  copyright_status: restricted
 - text: Chemist Phyllis Budinger circulated an analysis of a stain on Betty Hill's
     dress in late 2003
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -606,30 +649,35 @@ references:
   claim_id: 12cacd7c-5449-480b-ad4f-ebdc83040a8a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-12cacd7c-5449-480b-ad4f-ebdc83040a8a
+  copyright_status: restricted
 - text: APEG, led by Bill Chalker, received dress and control biological samples
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5014-5116
   claim_id: 7d39ca93-5a8a-4c46-89c8-bdb0c746ca23
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7d39ca93-5a8a-4c46-89c8-bdb0c746ca23
+  copyright_status: restricted
 - text: A specialised PCR DNA profiling was undertaken to seek non-human DNA
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5123-5227
   claim_id: 48280a30-11a7-4cca-8a58-9fcd12509871
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-48280a30-11a7-4cca-8a58-9fcd12509871
+  copyright_status: restricted
 - text: DNA found was connected to the Hills, with some staining due to spider's blood
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5354-5542
   claim_id: e4adeacb-2b8c-43e8-b7be-e215d20d9f2e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e4adeacb-2b8c-43e8-b7be-e215d20d9f2e
+  copyright_status: restricted
 - text: Betty Hill had died by December 2004, before the analysis was completed
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5666-5737
   claim_id: a3a2000e-0cef-49fc-9ac9-c6fa20687a89
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a3a2000e-0cef-49fc-9ac9-c6fa20687a89
+  copyright_status: restricted
 - text: Whitley Strieber said he had no conscious memory of reading about the Hill
     case before his own hypnosis
   source: The Fourth Mind
@@ -637,6 +685,7 @@ references:
   claim_id: 6005ecfa-5dd6-40fa-8d72-429b78a042ca
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6005ecfa-5dd6-40fa-8d72-429b78a042ca
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

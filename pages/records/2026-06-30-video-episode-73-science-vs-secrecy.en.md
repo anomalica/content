@@ -30,6 +30,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
+  copyright_status: publicly_accessible
 - text: Avi Loeb said that the US government was cooperating with scientists to understand
     observed orbs.
   source: 'Episode 73: Science vs. Secrecy'
@@ -41,6 +42,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-5c34ec5c-fd6b-431b-aa78-690bb763e45a
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-5c34ec5c-fd6b-431b-aa78-690bb763e45a
+  copyright_status: publicly_accessible
 - text: Avi Loeb described the possible human or non-human origin of UAP and the implications
     of each possibility.
   source: 'Episode 73: Science vs. Secrecy'
@@ -52,6 +54,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-3f493e6b-cb8b-4e31-b59a-404802c0965a
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-3f493e6b-cb8b-4e31-b59a-404802c0965a
+  copyright_status: publicly_accessible
 - text: Avi Loeb described the Vela programme's purpose and its detection of gamma-ray
     flashes.
   source: 'Episode 73: Science vs. Secrecy'
@@ -65,6 +68,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-11dd2253-4b7f-4684-baf2-79314aad1238
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-11dd2253-4b7f-4684-baf2-79314aad1238
+  copyright_status: publicly_accessible
 - text: Avi Loeb said that interstellar meteors were found in a declassified government
     satellite database.
   source: 'Episode 73: Science vs. Secrecy'
@@ -78,6 +82,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-7e31521b-1919-424a-8a59-8d281fd96f34
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-7e31521b-1919-424a-8a59-8d281fd96f34
+  copyright_status: publicly_accessible
 - text: UAP Gerb said that legal interrogatives were more effective than released
     files and videos for pursuing disclosure.
   source: 'Episode 73: Science vs. Secrecy'
@@ -90,6 +95,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
+  copyright_status: publicly_accessible
 - text: Hal Puthoff described his work for Bigelow Aerospace on AATIP and a DIA-funded
     programme.
   source: 'Episode 73: Science vs. Secrecy'
@@ -102,6 +108,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
+  copyright_status: publicly_accessible
 - text: Hal Puthoff said that AATIP materials were handled under IRAD and were not
     accessible through FOIA requests.
   source: 'Episode 73: Science vs. Secrecy'
@@ -113,6 +120,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-747c3f9c-ac04-489a-90f8-1a32426fb1a9
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-747c3f9c-ac04-489a-90f8-1a32426fb1a9
+  copyright_status: publicly_accessible
 - text: Hal Puthoff said that AAWSAP was a classified programme intended to obtain
     answers about UAP.
   source: 'Episode 73: Science vs. Secrecy'
@@ -124,6 +132,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d740437e-c561-4044-a51a-32d599359751
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-d740437e-c561-4044-a51a-32d599359751
+  copyright_status: publicly_accessible
 - text: Hal Puthoff said that AATIP was a follow-on semi-official programme with a
     different structure from AAWSAP.
   source: 'Episode 73: Science vs. Secrecy'
@@ -135,6 +144,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-729ddc99-719a-403e-b362-2d14ac26ec28
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-729ddc99-719a-403e-b362-2d14ac26ec28
+  copyright_status: publicly_accessible
 - text: Hal Puthoff said that AAWSAP began in 2008 and was separate from the legacy
     program.
   source: 'Episode 73: Science vs. Secrecy'
@@ -146,6 +156,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
+  copyright_status: publicly_accessible
 - text: Hal Puthoff said that the legacy program had access to crash material and
     biologics but lacked suitable scientists.
   source: 'Episode 73: Science vs. Secrecy'
@@ -156,6 +167,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
+  copyright_status: publicly_accessible
 - text: Avi Loeb said that his council submitted more than 50 information items to
     AARO within six days of its first Zoom call.
   source: 'Episode 73: Science vs. Secrecy'
@@ -168,6 +180,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
+  copyright_status: publicly_accessible
 - text: Avi Loeb said that the council's governing board included representatives
     from ODNI, the White House, the FBI and the intelligence community.
   source: 'Episode 73: Science vs. Secrecy'
@@ -180,6 +193,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+  copyright_status: publicly_accessible
 - text: UAP Gerb said that Immaculate Constellation was alleged to contain imagery
     and signals intelligence concerning non-human and reproduction vehicles.
   source: 'Episode 73: Science vs. Secrecy'
@@ -193,6 +207,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-39052f6b-54da-4662-b726-c6b92929b9b7
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-39052f6b-54da-4662-b726-c6b92929b9b7
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

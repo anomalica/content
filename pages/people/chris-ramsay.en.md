@@ -421,6 +421,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
+  copyright_status: publicly_accessible
 - text: Performs as a magician
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:06:39.6-00:06:40.2
@@ -428,6 +429,7 @@ references:
   claim_id: 39789dce-3ee9-4403-afa7-848dc7748c2d
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-39789dce-3ee9-4403-afa7-848dc7748c2d
+  copyright_status: publicly_accessible
 - text: Named channel Area 52 partly from handle 'Chris Ramsey 52', referencing the
     52 cards in a deck
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -437,6 +439,7 @@ references:
   claim_id: d1c86634-75a8-4dd9-aaac-967ed4b0657d
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-d1c86634-75a8-4dd9-aaac-967ed4b0657d
+  copyright_status: publicly_accessible
 - text: Area 52, the real place, was part of the inspiration for the channel name
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:07:08.7-00:07:11.5
@@ -444,6 +447,7 @@ references:
   claim_id: 4c014ebe-d696-4e93-ba39-8b7ec857d161
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-4c014ebe-d696-4e93-ba39-8b7ec857d161
+  copyright_status: publicly_accessible
 - text: Observed orange orbs illuminating clouds during an overnight flight to Germany
     at approximately 9,000 metres
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -455,6 +459,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
+  copyright_status: publicly_accessible
 - text: The orbs did not appear to be moving, though it was hard to tell
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:15:08.5-00:15:14.4
@@ -463,6 +468,7 @@ references:
   claim_id: 6abeefb2-9af3-4df2-9442-286fbebf248f
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-6abeefb2-9af3-4df2-9442-286fbebf248f
+  copyright_status: publicly_accessible
 - text: Visited Chris Bledsoe in North Carolina
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -472,6 +478,7 @@ references:
   claim_id: 92ff6310-e1df-4f98-bf04-8db4c8e96d28
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-92ff6310-e1df-4f98-bf04-8db4c8e96d28
+  copyright_status: publicly_accessible
 - text: Saw a row of nine orange glowing orbs over the ocean, resembling the Navy
     pilot's description
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -483,6 +490,7 @@ references:
   claim_id: fa405f37-ffd6-46b0-9caa-e56c1357c843
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-fa405f37-ffd6-46b0-9caa-e56c1357c843
+  copyright_status: publicly_accessible
 - text: Documented and filmed the sighting of the orange orbs
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -491,6 +499,7 @@ references:
   claim_id: 1bcbc105-b98f-4cc5-ba95-f19bc71e7105
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-1bcbc105-b98f-4cc5-ba95-f19bc71e7105
+  copyright_status: publicly_accessible
 - text: Other observers of the orbs called the Coast Guard
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -499,6 +508,7 @@ references:
   claim_id: 3e37a147-27e1-4954-b63d-e5d70ae47387
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3e37a147-27e1-4954-b63d-e5d70ae47387
+  copyright_status: publicly_accessible
 - text: Practised remote viewing for over a year
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:10:57.9-00:11:00.1
@@ -506,6 +516,7 @@ references:
   claim_id: e21075fd-d62c-4ca1-8134-499e1b10611f
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-e21075fd-d62c-4ca1-8134-499e1b10611f
+  copyright_status: publicly_accessible
 - text: Has spoken with physicists who have studied and researched remote viewing
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:11:01.4-00:11:06.2
@@ -513,6 +524,7 @@ references:
   claim_id: 4da89248-1acd-4f56-9a85-1d132f260d95
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-4da89248-1acd-4f56-9a85-1d132f260d95
+  copyright_status: publicly_accessible
 - text: Has spoken with people hired by government agencies for over 20 years as professional
     remote viewers
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -522,6 +534,7 @@ references:
   claim_id: 1839302a-5f5a-42e2-a435-e0901399ca84
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1839302a-5f5a-42e2-a435-e0901399ca84
+  copyright_status: publicly_accessible
 - text: Considers remote viewing real, believing there is something to it
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:11:23.5-00:11:28.0
@@ -530,6 +543,7 @@ references:
   claim_id: 33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-33eec5c7-3f45-4b25-a2cf-9e83bf268dd3
+  copyright_status: publicly_accessible
 - text: Personally investigated and came to accept out-of-body experience as something
     real to him
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -539,6 +553,7 @@ references:
   claim_id: 924aceaf-3073-470e-9158-9842e8d16a6d
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-924aceaf-3073-470e-9158-9842e8d16a6d
+  copyright_status: publicly_accessible
 - text: First out-of-body experiences happened at his home, not at The Monroe Institute
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -548,6 +563,7 @@ references:
   claim_id: ce74fe32-8a20-4699-99d9-97af5cb78cb8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ce74fe32-8a20-4699-99d9-97af5cb78cb8
+  copyright_status: publicly_accessible
 - text: Had never heard of out-of-body experiences before his first one occurred
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -556,6 +572,7 @@ references:
   claim_id: dd9d09a8-4607-4502-a128-89fcc0c2f8e3
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dd9d09a8-4607-4502-a128-89fcc0c2f8e3
+  copyright_status: publicly_accessible
 - text: Entered his first out-of-body experience by forcing his eyes open inside a
     nightmare while aware it was a nightmare
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -566,6 +583,7 @@ references:
   claim_id: c42fc401-988d-4fd2-be76-a49ef8d32c26
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c42fc401-988d-4fd2-be76-a49ef8d32c26
+  copyright_status: publicly_accessible
 - text: Saw his bedroom as grainy, out of focus and low in saturation
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -574,6 +592,7 @@ references:
   claim_id: 7dec640c-122f-4d9c-84d8-f159b990f5a7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7dec640c-122f-4d9c-84d8-f159b990f5a7
+  copyright_status: publicly_accessible
 - text: Felt a deep buzzing hum, compared to a struck tuning fork, almost euphoric
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -583,6 +602,7 @@ references:
   claim_id: 5039e522-8b95-416d-94d4-594a3946927c
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5039e522-8b95-416d-94d4-594a3946927c
+  copyright_status: publicly_accessible
 - text: Recognised the sensation of willing himself upward from having flown in dreams
     before
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -593,6 +613,7 @@ references:
   claim_id: 0f09f587-32b8-4956-9e52-d5e48358bfb9
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0f09f587-32b8-4956-9e52-d5e48358bfb9
+  copyright_status: publicly_accessible
 - text: Willed himself up out of his body, became frightened, and paddled back down
     to his bed
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -603,6 +624,7 @@ references:
   claim_id: 5e98be21-834b-4c57-8b55-f269f22735a1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5e98be21-834b-4c57-8b55-f269f22735a1
+  copyright_status: publicly_accessible
 - text: Had taken melatonin, which he does not usually take, that night
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -611,6 +633,7 @@ references:
   claim_id: b3765cff-104f-4f79-9030-f20e24d642fc
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-b3765cff-104f-4f79-9030-f20e24d642fc
+  copyright_status: publicly_accessible
 - text: Wished for the experience to recur, and it happened again the following night
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -619,6 +642,7 @@ references:
   claim_id: a5a42224-b265-483b-bab0-d3827ee21ac8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a5a42224-b265-483b-bab0-d3827ee21ac8
+  copyright_status: publicly_accessible
 - text: During the second experience, turned around and saw his own body lying on
     the bed
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -629,6 +653,7 @@ references:
   claim_id: 7a6577c2-f6cb-4b71-bc26-a4add57ee089
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7a6577c2-f6cb-4b71-bc26-a4add57ee089
+  copyright_status: publicly_accessible
 - text: Considers the state objectively different from a lucid dream, having woken
     from a lucid dream into it
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -639,6 +664,7 @@ references:
   claim_id: 69dbd269-a71e-49e5-a62b-80eeb756b28f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-69dbd269-a71e-49e5-a62b-80eeb756b28f
+  copyright_status: publicly_accessible
 - text: Woke up hovering over his own body on two consecutive nights, fully awake,
     about two years before recording
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -650,6 +676,7 @@ references:
   claim_id: 27088d8b-3789-4214-8cd7-448da596ab09
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-27088d8b-3789-4214-8cd7-448da596ab09
+  copyright_status: publicly_accessible
 - text: Pursued out-of-body experiences through the Gateway Process, meditating one
     hour a day at about 04:30 for four months
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -661,6 +688,7 @@ references:
   claim_id: 412fdeeb-03a7-4e6f-8716-42321f774f3e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-412fdeeb-03a7-4e6f-8716-42321f774f3e
+  copyright_status: publicly_accessible
 - text: Understands Jordan Jozak's described goal as getting participants out of body
     to build a construct for the programme's operators
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -673,6 +701,7 @@ references:
   claim_id: 224e1c21-355c-4182-b44e-789f228c92bb
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-224e1c21-355c-4182-b44e-789f228c92bb
+  copyright_status: publicly_accessible
 - text: Considers Peter Khoury's case, documented in Hair of the Alien, the most important
     UFO case
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -683,6 +712,7 @@ references:
   claim_id: f687bbda-f49f-45a9-b2a5-c7b84030e7aa
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-f687bbda-f49f-45a9-b2a5-c7b84030e7aa
+  copyright_status: publicly_accessible
 - text: Bob Lazar worked on Project Gravator
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -692,6 +722,7 @@ references:
   claim_id: ae4ffed6-1b45-4d1c-94ae-1c99024807a4
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-ae4ffed6-1b45-4d1c-94ae-1c99024807a4
+  copyright_status: publicly_accessible
 - text: Dennis Mariani would stare at Bob Lazar for 20 minutes in a menacing way during
     the bus ride to S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -700,6 +731,7 @@ references:
   claim_id: 2d51a4cb-8b3a-4adc-8318-0971e14204ea
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-2d51a4cb-8b3a-4adc-8318-0971e14204ea
+  copyright_status: publicly_accessible
 - text: Dennis Mariani invited Bob Lazar to come see a test flight outside at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:20:30.0-00:20:36.4
@@ -708,6 +740,7 @@ references:
   claim_id: e076a4a4-d3b6-4744-a02a-5896636ea015
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e076a4a4-d3b6-4744-a02a-5896636ea015
+  copyright_status: publicly_accessible
 - text: A former Janet Airlines co-pilot who flew into Groom Lake between about 1987
     and 1991 reached out to Ramsay
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -717,6 +750,7 @@ references:
   claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
+  copyright_status: publicly_accessible
 - text: The co-pilot said he had met Dennis Mariani over a dozen times and was later
     informed of his passing
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -727,6 +761,7 @@ references:
   claim_id: 73b59f4d-6385-44b1-a655-b0b5d1a01841
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
+  copyright_status: publicly_accessible
 - text: Described Michael Herrera as a military whistleblower who encountered an octagonal
     black disc while on a SEAL humanitarian flood mission in Indonesia
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -739,6 +774,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
+  copyright_status: publicly_accessible
 - text: Described unbadged military personnel loading people, including children,
     into reverse-engineered craft during the encounter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -752,6 +788,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
+  copyright_status: publicly_accessible
 - text: Found forced-perspective imperfections in the wedding cake UFO photographs,
     drawing on his background in illusion
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -763,6 +800,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
+  copyright_status: publicly_accessible
 - text: Concluded the close-up nighttime wedding cake photograph was a hoax because
     the object being out of focus indicated it was very close and very small
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -774,6 +812,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5634cb7d-9239-434b-8910-4608973e8163
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5634cb7d-9239-434b-8910-4608973e8163
+  copyright_status: publicly_accessible
 - text: Says that although coverage of the abduction phenomenon seems to have dissipated,
     many abductees he speaks to maintain it is still happening
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -785,6 +824,7 @@ references:
   claim_id: 25a0a273-2220-4a77-97d2-fa6b3f71d8f9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-25a0a273-2220-4a77-97d2-fa6b3f71d8f9
+  copyright_status: publicly_accessible
 - text: Julia Mossbridge has carried out work in the study of psi and precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -794,6 +834,7 @@ references:
   claim_id: dc725a03-5046-4121-a0e4-93b27c860caf
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dc725a03-5046-4121-a0e4-93b27c860caf
+  copyright_status: publicly_accessible
 - text: Julia Mossbridge is a cognitive neuroscientist
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -803,6 +844,7 @@ references:
   claim_id: 487c72aa-0651-4b41-b698-cab837777fa9
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-487c72aa-0651-4b41-b698-cab837777fa9
+  copyright_status: publicly_accessible
 - text: Julia Mossbridge was in the gifted programme Students on Active Research (SOAR)
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -812,6 +854,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c234cdd5-3555-45df-855e-3789702c8291
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c234cdd5-3555-45df-855e-3789702c8291
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

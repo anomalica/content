@@ -25,6 +25,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f3879c62-5746-4a84-a111-e95604f8393d
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f3879c62-5746-4a84-a111-e95604f8393d
+  copyright_status: public_domain
 - text: Eric W. Davis described Thomas Wilson’s arrival with two Navy officers.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:193-341
@@ -38,6 +39,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  copyright_status: public_domain
 - text: Eric W. Davis said that he and Thomas Wilson talked in Wilson’s car until
     11:20 A.M.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -49,6 +51,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-360f5b6b-fece-4d09-be3e-b887c0c03451
+  copyright_status: public_domain
 - text: Thomas Wilson said that Rich had provided documents which enabled him to identify
     Davis.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -61,6 +64,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-656b7358-b21e-4828-8d49-702f76ad4c38
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-656b7358-b21e-4828-8d49-702f76ad4c38
+  copyright_status: public_domain
 - text: Thomas Wilson recalled a telephone call with Oke Shannon in 1999.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:807-930
@@ -71,6 +75,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
+  copyright_status: public_domain
 - text: Thomas Wilson said that Oke Shannon had tried to persuade him to speak with
     Eric W. Davis.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -82,6 +87,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
+  copyright_status: public_domain
 - text: Thomas Wilson associated the discussion with UFOs, retrieved craft and bodies,
     and a Majestic 12-like organisation.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -93,6 +99,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  copyright_status: public_domain
 - text: Thomas Wilson described his investigation of an unusual special-projects record
     group.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -105,6 +112,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
+  copyright_status: public_domain
 - text: Thomas Wilson said the record group was separate from conventional Special
     Access Program divisions.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -118,6 +126,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  copyright_status: public_domain
 - text: Thomas Wilson said Michael Kostelnik held relevant special-programme and SAPCO
     roles.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -130,6 +139,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  copyright_status: public_domain
 - text: Thomas Wilson declined to identify the compartment and programme code name.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:13861-13992
@@ -142,6 +152,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-b9d4e8fe-c4b6-4e40-a424-3dbef3b35506
+  copyright_status: public_domain
 - text: Thomas Wilson described the contractor as a leading United States aerospace
     and defence contractor.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -165,6 +176,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
+  copyright_status: public_domain
 - text: Thomas Wilson said the programme manager described the programme as outside
     standard categories.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -175,6 +187,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a5c9bd99-9d11-4e3f-9552-6f4412071b7d
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a5c9bd99-9d11-4e3f-9552-6f4412071b7d
+  copyright_status: public_domain
 - text: Thomas Wilson said the programme concerned hardware recovered years earlier.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:20860-20976
@@ -185,6 +198,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
+  copyright_status: public_domain
 - text: Thomas Wilson said the Senior Review Group sustained the contractor’s access
     denial.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -195,6 +209,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d6c9f559-ce85-406b-9bca-742a3285d9e5
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d6c9f559-ce85-406b-9bca-742a3285d9e5
+  copyright_status: public_domain
 - text: Thomas Wilson said the Senior Review Group ordered him to drop the matter.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21748-21904
@@ -206,6 +221,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-298251dd-257c-4cb1-adf1-501409d9c677
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-298251dd-257c-4cb1-adf1-501409d9c677
+  copyright_status: public_domain
 - text: Thomas Wilson confirmed that he came close to disciplinary action.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22041-22050
@@ -215,6 +231,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
+  copyright_status: public_domain
 - text: Thomas Wilson said he intended to keep the information for private research.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:23935-24063
@@ -225,6 +242,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-7f39af2d-c618-4f6b-9f93-7779aa37e122
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

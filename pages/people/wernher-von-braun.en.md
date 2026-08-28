@@ -155,18 +155,21 @@ references:
   claim_id: 6d344983-fca2-4490-95df-df13e337cf4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d344983-fca2-4490-95df-df13e337cf4d
+  copyright_status: restricted
 - text: A telescope and Hermann Oberth's book led him to experiment with rocket motors
   source: Dark Mission
   location: ch12:94378-94539
   claim_id: 1b744e9b-77c1-4e56-9c8a-10cd1d19618c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b744e9b-77c1-4e56-9c8a-10cd1d19618c
+  copyright_status: restricted
 - text: At sixteen he organised an observatory construction team
   source: Dark Mission
   location: ch12:94547-94624
   claim_id: 0b396307-a871-42ed-ac8d-9723b3afa99b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0b396307-a871-42ed-ac8d-9723b3afa99b
+  copyright_status: restricted
 - text: Studied mechanical engineering at Berlin Institute of Technology, joined German
     Society for Space Travel
   source: Dark Mission
@@ -174,6 +177,7 @@ references:
   claim_id: a288937d-136f-4027-87c3-01a2656c745a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a288937d-136f-4027-87c3-01a2656c745a
+  copyright_status: restricted
 - text: '1932: enrolled at Berlin University, assembled a team including his brother
     Magnus'
   source: Dark Mission
@@ -181,6 +185,7 @@ references:
   claim_id: 4b2f2310-2937-45c0-bfc6-7a664612ff09
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4b2f2310-2937-45c0-bfc6-7a664612ff09
+  copyright_status: restricted
 - text: Treaty of Versailles barred artillery, so Germany funded liquid-fuelled rocket
     engines instead
   source: Dark Mission
@@ -188,6 +193,7 @@ references:
   claim_id: b89d4e82-e9b6-49d1-aec6-b52b50cd9688
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b89d4e82-e9b6-49d1-aec6-b52b50cd9688
+  copyright_status: restricted
 - text: Operated a secret laboratory near Peenemunde; research doubled as his doctoral
     thesis
   source: Dark Mission
@@ -195,6 +201,7 @@ references:
   claim_id: 2b5fd61d-b783-487f-b16e-ee308a27d854
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5fd61d-b783-487f-b16e-ee308a27d854
+  copyright_status: restricted
 - text: Oberth was the godfather of German rocketry and von Braun's mentor
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:11:24.6-01:11:30.8
@@ -203,48 +210,56 @@ references:
   claim_id: 54ba25b8-5156-4012-aa04-8596cac48d56
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-54ba25b8-5156-4012-aa04-8596cac48d56
+  copyright_status: publicly_accessible
 - text: Remained in Germany after Hitler's 1933 rise to power despite options to leave
   source: Dark Mission
   location: ch12:95777-95905
   claim_id: 45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
+  copyright_status: restricted
 - text: Dornberger was assigned by Hitler to oversee his research for military use
   source: Dark Mission
   location: ch12:96011-96109
   claim_id: 41f0093b-fb6c-437c-a61a-a9879d25c800
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-41f0093b-fb6c-437c-a61a-a9879d25c800
+  copyright_status: restricted
 - text: Hitler visited von Braun's laboratories in 1939 for a rocket demonstration
   source: Dark Mission
   location: ch12:96125-96303
   claim_id: b0da43cb-b990-46de-8416-c8451ddcd580
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b0da43cb-b990-46de-8416-c8451ddcd580
+  copyright_status: restricted
 - text: Himmler personally offered him an SS commission weeks after the 1939 visit
   source: Dark Mission
   location: ch12:96533-96637
   claim_id: 569e6e6d-6e9a-42b2-b594-7d0218737393
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-569e6e6d-6e9a-42b2-b594-7d0218737393
+  copyright_status: restricted
 - text: Close personal friend of Himmler, who offered him the SS rank of Major
   source: Dark Mission
   location: ch12:97252-97394
   claim_id: 48abc23d-8e4a-4d80-9b46-027ab7491ed0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48abc23d-8e4a-4d80-9b46-027ab7491ed0
+  copyright_status: restricted
 - text: Photographed with Himmler at his SS induction, the only time he wore the uniform
   source: Dark Mission
   location: ch12:98970-99158
   claim_id: 900700e3-12da-4fc6-a1ac-187397b45904
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-900700e3-12da-4fc6-a1ac-187397b45904
+  copyright_status: restricted
 - text: Was a Nazi party member
   source: Dark Mission
   location: ch12:116575-116620
   claim_id: bc1a38a2-daf1-4766-975b-98b5f380de8e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bc1a38a2-daf1-4766-975b-98b5f380de8e
+  copyright_status: restricted
 - text: Hoagland considers the pressured/agonised account of his SS membership increasingly
     unlikely
   source: Dark Mission
@@ -252,12 +267,14 @@ references:
   claim_id: 3b288149-1a44-417a-80bf-fc48f72885ae
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3b288149-1a44-417a-80bf-fc48f72885ae
+  copyright_status: restricted
 - text: 'Hoagland: von Braun held the rank of Major in the SS'
   source: Dark Mission
   location: ch12:100564-100641
   claim_id: bca10caa-c903-4cc3-b584-78d7bff7fb28
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bca10caa-c903-4cc3-b584-78d7bff7fb28
+  copyright_status: restricted
 - text: 'Hoagland: photo of the 1939 demonstration led directly to the SS commission
     and V-2 programme'
   source: Dark Mission
@@ -265,6 +282,7 @@ references:
   claim_id: a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
+  copyright_status: restricted
 - text: 'Hoagland: only known photo of SS Major von Braun shows him behind Himmler
     at induction'
   source: Dark Mission
@@ -272,36 +290,42 @@ references:
   claim_id: 8acef0ad-3aa7-462c-adf9-4b7811a156ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8acef0ad-3aa7-462c-adf9-4b7811a156ec
+  copyright_status: restricted
 - text: Perfected the A4 rocket, the world's first true ballistic missile
   source: Dark Mission
   location: ch12:99413-99496
   claim_id: e018f3a9-1e21-4bed-bb14-ec53ec3b70bb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e018f3a9-1e21-4bed-bb14-ec53ec3b70bb
+  copyright_status: restricted
 - text: Engineered the surrender of 500 personnel as Allies neared the V-2 complex
   source: Dark Mission
   location: ch12:99872-99976
   claim_id: bca1169f-f181-40b3-a0e0-ee7404daa3e9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bca1169f-f181-40b3-a0e0-ee7404daa3e9
+  copyright_status: restricted
 - text: Brought to the United States under Project Paperclip
   source: Dark Mission
   location: ch12:100057-100184
   claim_id: caac74a0-dd91-4ccf-87f2-7027bc3c26ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-caac74a0-dd91-4ccf-87f2-7027bc3c26ad
+  copyright_status: restricted
 - text: JIOA investigators objected to bringing him to the US under Paperclip
   source: Dark Mission
   location: ch12:100136-100184
   claim_id: 5fcf59a0-17d0-4331-bf9e-3415f73f8571
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5fcf59a0-17d0-4331-bf9e-3415f73f8571
+  copyright_status: restricted
 - text: JIOA wrote its evaluation of von Braun on 1947-06-25
   source: Dark Mission
   location: ch12:100950-101002
   claim_id: 4ee3e124-e30a-4dde-b78a-57a98820aebc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4ee3e124-e30a-4dde-b78a-57a98820aebc
+  copyright_status: restricted
 - text: 'JIOA evaluation: reason for SS membership and arrest records could not be
     established'
   source: Dark Mission
@@ -309,6 +333,7 @@ references:
   claim_id: de8f1191-c856-48ed-94d5-d6307b5265e0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-de8f1191-c856-48ed-94d5-d6307b5265e0
+  copyright_status: restricted
 - text: 'Hoagland: von Braun, Rudolph, Debus and other Paperclip scientists had elaborate
     Nazi pasts'
   source: Dark Mission
@@ -316,12 +341,14 @@ references:
   claim_id: c11ae606-c024-4593-bbf8-9c94265f1755
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c11ae606-c024-4593-bbf8-9c94265f1755
+  copyright_status: restricted
 - text: 'Hoagland: Bush and von Karman used influence to have his SS past overlooked'
   source: Dark Mission
   location: ch12:100648-100937
   claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f8969e46-07af-4d73-844c-e04fa46cb12d
+  copyright_status: restricted
 - text: Bush played a key role bringing German rocket scientists, including von Braun,
     to the US
   source: Dark Mission
@@ -329,6 +356,7 @@ references:
   claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f6adb27-4225-4780-badc-8a277c81ca2c
+  copyright_status: restricted
 - text: Bush's involvement brought ardent Nazis to the US illegally, violating Truman's
     orders
   source: Dark Mission
@@ -336,6 +364,7 @@ references:
   claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b08f6750-e7ec-4ec0-bcb3-67d32f70579c
+  copyright_status: restricted
 - text: Von Karman toured Peenemunde and Mittelwerk, met von Braun, recommended bringing
     him to the US
   source: Dark Mission
@@ -343,6 +372,7 @@ references:
   claim_id: 9ac0baa4-4eab-4de9-af9a-864c5b693f40
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ac0baa4-4eab-4de9-af9a-864c5b693f40
+  copyright_status: restricted
 - text: Enterprise Mission archival research confirms von Braun was a Major in the
     SS
   source: Dark Mission
@@ -350,6 +380,7 @@ references:
   claim_id: bb4090fe-b14c-4640-ba93-275d23ee74a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bb4090fe-b14c-4640-ba93-275d23ee74a1
+  copyright_status: restricted
 - text: 'Linda Hunt: survivors said von Braun witnessed executions and abuse at the
     factories'
   source: Dark Mission
@@ -357,12 +388,14 @@ references:
   claim_id: f9db4086-2590-43f5-ab01-8a628f1a9ad6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f9db4086-2590-43f5-ab01-8a628f1a9ad6
+  copyright_status: restricted
 - text: Survivors told Linda Hunt von Braun ordered executions at least once
   source: Dark Mission
   location: ch12:93394-93433
   claim_id: 02c38367-d822-4544-b0b7-a2e39c705a36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02c38367-d822-4544-b0b7-a2e39c705a36
+  copyright_status: restricted
 - text: Documents show he was commissioned to plan a V-2 radioactive strike on New
     York City
   source: Dark Mission
@@ -370,6 +403,7 @@ references:
   claim_id: 8700892c-d74b-462f-af37-978797353364
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8700892c-d74b-462f-af37-978797353364
+  copyright_status: restricted
 - text: Sent to White Sands Missile Range, New Mexico, after Paperclip cleared the
     way
   source: Dark Mission
@@ -377,6 +411,7 @@ references:
   claim_id: 9adf11dd-3c7e-4f50-895a-8b6b20264673
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9adf11dd-3c7e-4f50-895a-8b6b20264673
+  copyright_status: restricted
 - text: At White Sands, tested captured A4/V-2 rockets and developed more powerful
     ones
   source: Dark Mission
@@ -384,54 +419,63 @@ references:
   claim_id: 46c64124-428e-4e69-9d1f-49b327263270
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46c64124-428e-4e69-9d1f-49b327263270
+  copyright_status: restricted
 - text: Appointed technical director of the US Army's ballistic weapon programme
   source: Dark Mission
   location: ch12:101896-102070
   claim_id: 3810031a-ffed-4a8d-abf7-296c9a878879
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3810031a-ffed-4a8d-abf7-296c9a878879
+  copyright_status: restricted
 - text: Spent off-duty time in El Paso, Texas, near White Sands, in 1945
   source: Dark Mission
   location: ch12:170604-170761
   claim_id: 868446f3-2f95-4dd0-9c8a-85e324e68fd7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-868446f3-2f95-4dd0-9c8a-85e324e68fd7
+  copyright_status: restricted
 - text: '1950: team transferred to Redstone Arsenal near Huntsville, Alabama'
   source: Dark Mission
   location: ch12:102080-102271
   claim_id: 7910933d-22e8-4749-a234-19907a03c4c7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7910933d-22e8-4749-a234-19907a03c4c7
+  copyright_status: restricted
 - text: At Redstone Arsenal, developed the Redstone, Jupiter and Jupiter-C missiles
   source: Dark Mission
   location: ch12:102204-102271
   claim_id: 3fc6c18d-d11b-4288-a8f9-eecae695c7a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3fc6c18d-d11b-4288-a8f9-eecae695c7a1
+  copyright_status: restricted
 - text: 'Hoagland: team made no attempt to conceal their Nazi pasts once in the US'
   source: Dark Mission
   location: ch12:102306-102577
   claim_id: 8bd7f336-a536-4459-9dfb-1f247f527295
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8bd7f336-a536-4459-9dfb-1f247f527295
+  copyright_status: restricted
 - text: 'Hoagland: members displayed swastikas and Nazi symbols at their US camps'
   source: Dark Mission
   location: ch12:102749-102916
   claim_id: d9baa773-f67c-448c-a139-4e834445336c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d9baa773-f67c-448c-a139-4e834445336c
+  copyright_status: restricted
 - text: Became a US citizen in 1955
   source: Dark Mission
   location: ch12:106403-106506
   claim_id: df619ebf-04c5-44df-9603-3008c86de6ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-df619ebf-04c5-44df-9603-3008c86de6ca
+  copyright_status: restricted
 - text: Served as the primary US Army engineer for space exploration support
   source: Dark Mission
   location: ch12:106448-106506
   claim_id: c04d3722-6097-48c4-8436-1809b46a2b8f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c04d3722-6097-48c4-8436-1809b46a2b8f
+  copyright_status: restricted
 - text: Predicted the Vanguard rocket would fail; was forbidden from launching his
     own satellite
   source: Dark Mission
@@ -439,6 +483,7 @@ references:
   claim_id: c533111f-ed53-4373-b8c2-f2854aca3079
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c533111f-ed53-4373-b8c2-f2854aca3079
+  copyright_status: restricted
 - text: 'Hoagland: after Vanguard''s failure his team was recruited to win the space
     race'
   source: Dark Mission
@@ -446,18 +491,21 @@ references:
   claim_id: 6bb87ca2-1a61-4f1a-9e64-e7ef680361fc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6bb87ca2-1a61-4f1a-9e64-e7ef680361fc
+  copyright_status: restricted
 - text: Wrote articles in Collier's promoting space travel to Americans
   source: Dark Mission
   location: ch12:103039-103201
   claim_id: 1bf87eb5-4c4a-40b8-84d1-abdade7bcb95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1bf87eb5-4c4a-40b8-84d1-abdade7bcb95
+  copyright_status: restricted
 - text: Walt Disney hired him to produce and star in three space television films
   source: Dark Mission
   location: ch12:103209-103312
   claim_id: ddb559b1-e95d-4c63-977d-3e6981ef5aa3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddb559b1-e95d-4c63-977d-3e6981ef5aa3
+  copyright_status: restricted
 - text: 'Hoagland: the Disney films established him as America''s most notable space
     expert'
   source: Dark Mission
@@ -465,6 +513,7 @@ references:
   claim_id: 68b21d5d-e13b-434c-917f-b0b2e1d0d5ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68b21d5d-e13b-434c-917f-b0b2e1d0d5ff
+  copyright_status: restricted
 - text: 'Man in Space: fictional rocket takes five days to the Moon, one pass around
     the far side'
   source: Dark Mission
@@ -472,6 +521,7 @@ references:
   claim_id: e1efc6a9-38ae-450a-b325-8f5038a029f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e1efc6a9-38ae-450a-b325-8f5038a029f7
+  copyright_status: restricted
 - text: 'Man in Space: astronauts make no comment on the artificial-looking lunar
     formation'
   source: Dark Mission
@@ -479,6 +529,7 @@ references:
   claim_id: bd53072b-2f77-450e-a1ae-d372e56b37aa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bd53072b-2f77-450e-a1ae-d372e56b37aa
+  copyright_status: restricted
 - text: 'Hoagland: film intended to portray the Moon as previously inhabited, homage
     to ''33'''
   source: Dark Mission
@@ -486,6 +537,7 @@ references:
   claim_id: 83ca83ab-ae92-45da-8a99-9de355c7b377
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83ca83ab-ae92-45da-8a99-9de355c7b377
+  copyright_status: restricted
 - text: 'Hoagland: White Sands'' only launch pad, used for his first US V-2 tests,
     was Complex 33'
   source: Dark Mission
@@ -493,6 +545,7 @@ references:
   claim_id: 9354eed6-5d0c-4ce3-a4da-0f177aaa13f4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9354eed6-5d0c-4ce3-a4da-0f177aaa13f4
+  copyright_status: restricted
 - text: NASA was staffed at all levels by Paperclip scientists, including former Nazis
     and SS members
   source: Dark Mission
@@ -500,6 +553,7 @@ references:
   claim_id: d1e2d0dc-43af-4bc9-940b-20f2515cd7ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d1e2d0dc-43af-4bc9-940b-20f2515cd7ec
+  copyright_status: restricted
 - text: 'July 1960: appointed director of Marshall Space Flight Center, tasked with
     NASA rockets'
   source: Dark Mission
@@ -507,30 +561,35 @@ references:
   claim_id: 779ff451-52d2-4410-a5eb-31cd4ae4cf95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-779ff451-52d2-4410-a5eb-31cd4ae4cf95
+  copyright_status: restricted
 - text: 'Hoagland: placed old Nazi colleagues into key NASA positions'
   source: Dark Mission
   location: ch12:116270-116424
   claim_id: f75d4d6b-41df-4114-a027-8c619877afb5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f75d4d6b-41df-4114-a027-8c619877afb5
+  copyright_status: restricted
 - text: At his behest, Kurt Debus was made first Director of the Kennedy Space Center
   source: Dark Mission
   location: ch12:116432-116567
   claim_id: 46c64ba3-3edb-421f-aeb7-7ab673848b8a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46c64ba3-3edb-421f-aeb7-7ab673848b8a
+  copyright_status: restricted
 - text: Debus had been his colleague during World War II
   source: Dark Mission
   location: ch12:116455-116514
   claim_id: 39c580df-c0ca-4e06-ab49-d7e0cab9e901
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39c580df-c0ca-4e06-ab49-d7e0cab9e901
+  copyright_status: restricted
 - text: Parsons and Forman had early contact with Oberth and von Braun
   source: Dark Mission
   location: ch12:76319-76531
   claim_id: 32094487-a93c-4830-9da3-681950163f0a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32094487-a93c-4830-9da3-681950163f0a
+  copyright_status: restricted
 - text: Parsons sought solid-fuel alternatives to Goddard's and von Braun's liquid-fuelled
     rockets
   source: Dark Mission
@@ -538,6 +597,7 @@ references:
   claim_id: a99da1da-1e8e-444f-8018-6e00a71d8b5b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a99da1da-1e8e-444f-8018-6e00a71d8b5b
+  copyright_status: restricted
 - text: Von Braun and von Karman named Parsons among the three most important rocket
     pioneers
   source: Dark Mission
@@ -545,12 +605,14 @@ references:
   claim_id: e0d5b8ea-4d3a-4055-aef4-5ea07de08d9f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e0d5b8ea-4d3a-4055-aef4-5ea07de08d9f
+  copyright_status: restricted
 - text: Hoagland speculates he may have discovered a private, parallel space programme
   source: Dark Mission
   location: ch6:46027-46219
   claim_id: d8dd2569-ddd5-4502-b096-be21117daddd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d8dd2569-ddd5-4502-b096-be21117daddd
+  copyright_status: restricted
 - text: Hoagland speculates he may not have known NASA was excluded from hyperdimensional
     physics
   source: Dark Mission
@@ -558,6 +620,7 @@ references:
   claim_id: 8bd02532-b7c2-41cf-8275-cf9eb9803f63
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8bd02532-b7c2-41cf-8275-cf9eb9803f63
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

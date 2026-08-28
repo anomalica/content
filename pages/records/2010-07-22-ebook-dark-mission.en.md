@@ -25,6 +25,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-44732038-90df-4c77-ab6e-9e3fbae83082
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-44732038-90df-4c77-ab6e-9e3fbae83082
+  copyright_status: restricted
 - text: The Face on Mars, the Fortress, the City, the Tholus, the Cliff and the Crater
     Pyramid were collectively called the Cydonia Complex.
   source: Dark Mission
@@ -34,6 +35,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b14daf0f-bfd6-49f5-87ab-57dae9eac66e
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-b14daf0f-bfd6-49f5-87ab-57dae9eac66e
+  copyright_status: restricted
 - text: Hoagland interpreted MRO image PSP_008427_1380 as showing an ancient Martian
     arcology.
   source: Dark Mission
@@ -43,6 +45,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-85669563-2625-4c44-9be9-46c7ed8f05bb
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-85669563-2625-4c44-9be9-46c7ed8f05bb
+  copyright_status: restricted
 - text: The Shard was described as a vertical lunar feature extending at least 2.4
     kilometres above the surface.
   source: Dark Mission
@@ -52,6 +55,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8a22f0ab-ed58-4db1-b9ac-761a573c63a5
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-8a22f0ab-ed58-4db1-b9ac-761a573c63a5
+  copyright_status: restricted
 - text: The Tower/Cube was presented as a second lunar anomaly beyond the horizon.
   source: Dark Mission
   location: ch11:159679-159977
@@ -60,6 +64,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d596bf3-2975-4321-9fc0-a391144f1dda
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-6d596bf3-2975-4321-9fc0-a391144f1dda
+  copyright_status: restricted
 - text: Hoagland interpreted LCROSS thermal imagery as evidence of remnants of ancient
     lunar domes.
   source: Dark Mission
@@ -69,6 +74,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8842b222-84d0-40ac-a7fc-794ea51aa6b7
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-8842b222-84d0-40ac-a7fc-794ea51aa6b7
+  copyright_status: restricted
 - text: Hoagland and Bara considered the first round of new Cydonia imaging to support
     both the artificiality hypothesis and the Ritual Alignment Model.
   source: Dark Mission
@@ -78,6 +84,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-281d5f09-876a-4daa-84f0-e12837fef6f6
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-281d5f09-876a-4daa-84f0-e12837fef6f6
+  copyright_status: restricted
 - text: The source presents the hyperdimensional model as one rejected by most modern
     physicists.
   source: Dark Mission
@@ -87,6 +94,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b7877ad-f280-46eb-ae9a-909b6386dfa7
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-7b7877ad-f280-46eb-ae9a-909b6386dfa7
+  copyright_status: restricted
 - text: Hoagland said that five of eight predictions in the Hoagland–Torun model had
     been confirmed or supported by initial observations.
   source: Dark Mission
@@ -96,6 +104,7 @@ references:
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-af5789c9-1a2f-4142-af5f-6df83fec9a48
   inspection_url: /records/2010-07-22-ebook-dark-mission#claim-af5789c9-1a2f-4142-af5f-6df83fec9a48
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

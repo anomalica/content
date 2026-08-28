@@ -30,6 +30,7 @@ references:
   claim_id: d09a9f0a-7fa6-4a08-bc55-006212fcaca8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d09a9f0a-7fa6-4a08-bc55-006212fcaca8
+  copyright_status: public_domain
 - text: A memo dated 2009-07-24 outlined Reid's request and reasoning for AATIP to
     be given Special Access Program status, addressed to Lynn.
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -41,6 +42,7 @@ references:
   claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+  copyright_status: publicly_accessible
 - text: Reid told Lynn that much progress had been made identifying sensitive, unconventional
     aerospace-related findings, and asked that AATIP be designated a restricted Special
     Access Program limited to a few named officials.
@@ -54,6 +56,7 @@ references:
   claim_id: 031cf298-4ac8-4b8f-b903-7200eb54a203
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-031cf298-4ac8-4b8f-b903-7200eb54a203
+  copyright_status: publicly_accessible
 - text: Reid's request was denied.
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -62,6 +65,7 @@ references:
   claim_id: c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
+  copyright_status: publicly_accessible
 - text: Lynn declined to designate AAWSAP/AATIP a DoD Special Access Program, based
     on the recommendation of James R. Clapper that such a designation was not justified.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -73,6 +77,7 @@ references:
   claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -59,6 +59,7 @@ references:
   claim_id: 924f1852-0130-4a15-96e1-dd0f84c41c79
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-924f1852-0130-4a15-96e1-dd0f84c41c79
+  copyright_status: publicly_accessible
 - text: Richard Drain of the CIA Intelligence Advisory Committee wrote to James Lay,
     secretary of the NSC
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -70,6 +71,7 @@ references:
   claim_id: 5d13d6f4-2bee-40bb-b345-3ed687a00c82
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-5d13d6f4-2bee-40bb-b345-3ed687a00c82
+  copyright_status: publicly_accessible
 - text: Another individual on the Contractor bigot list held an NSC post and a Pentagon
     SES role
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -78,12 +80,14 @@ references:
   claim_id: 1bc8dcce-bef6-4b5a-82d3-bdd77f297a7f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1bc8dcce-bef6-4b5a-82d3-bdd77f297a7f
+  copyright_status: public_domain
 - text: Joseph McMoneagle provided intelligence support to the NSC during his career
   source: Remote Viewing Secrets
   location: ch4:1504-1683
   claim_id: 085145c9-1e6e-4683-a159-d715e28154b9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-085145c9-1e6e-4683-a159-d715e28154b9
+  copyright_status: restricted
 - text: Elizondo's testimony states he managed a Special Access Program for the White
     House and NSC
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -94,6 +98,7 @@ references:
   claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
+  copyright_status: public_domain
 - text: Elizondo's programme managed national-level special-access programs for the
     NSC and White House
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -101,12 +106,14 @@ references:
   claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
+  copyright_status: restricted
 - text: Elizondo held the clearances needed to work for the White House and NSC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:3050-3146
   claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
+  copyright_status: restricted
 - text: Around 2014 Elizondo worked on a programme at Guantanamo Bay for the White
     House and NSC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -114,6 +121,7 @@ references:
   claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
+  copyright_status: restricted
 - text: Jay Stratton received NSC briefing requests that led to Trump being briefed
     on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -121,6 +129,7 @@ references:
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
+  copyright_status: restricted
 - text: Kirby said Biden created an interagency team after three objects were shot
     down in February 2023
   source: In Plain Sight
@@ -128,6 +137,7 @@ references:
   claim_id: dabeefe8-a5d2-4be0-952b-c08deca275d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dabeefe8-a5d2-4be0-952b-c08deca275d0
+  copyright_status: restricted
 - text: The interagency team was tasked with studying policy implications for unidentified
     aerial objects
   source: In Plain Sight
@@ -135,6 +145,7 @@ references:
   claim_id: 3f84d51d-c04b-40a5-8de7-1f2bac3ec945
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f84d51d-c04b-40a5-8de7-1f2bac3ec945
+  copyright_status: restricted
 - text: Jean-Pierre and Kirby gave a White House press briefing on the shot-down objects
     on 2023-02-13
   source: In Plain Sight
@@ -142,12 +153,14 @@ references:
   claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
+  copyright_status: restricted
 - text: Kirby told reporters to ask the Pentagon about gun-camera footage of the shoot-downs
   source: In Plain Sight
   location: ch29:7970-8161
   claim_id: 51019ec9-63ef-4d6f-8d24-109a8ee9968a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-51019ec9-63ef-4d6f-8d24-109a8ee9968a
+  copyright_status: restricted
 - text: UAP Gerb said a data set for Avi Loeb's council is alleged to derive from
     Immaculate Constellation, established 2017
   source: 'Episode 73: Science vs. Secrecy'
@@ -158,6 +171,7 @@ references:
   claim_id: 56e2a900-5cc8-4861-b0a4-dd85ee076981
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-56e2a900-5cc8-4861-b0a4-dd85ee076981
+  copyright_status: publicly_accessible
 - text: UAP Gerb believes Immaculate Constellation is a repository for imagery and
     signals intelligence
   source: 'Episode 73: Science vs. Secrecy'
@@ -170,6 +184,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-39052f6b-54da-4662-b726-c6b92929b9b7
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-39052f6b-54da-4662-b726-c6b92929b9b7
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

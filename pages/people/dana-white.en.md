@@ -30,6 +30,7 @@ references:
   claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
+  copyright_status: publicly_accessible
 - text: White, a Trump administration political appointee, resigned in 2019 amid an
     internal misconduct probe
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -40,6 +41,7 @@ references:
   claim_id: 5d7c906b-2cd6-46da-9fc6-28ef08504a14
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5d7c906b-2cd6-46da-9fc6-28ef08504a14
+  copyright_status: publicly_accessible
 - text: Pentagon spokesperson Christopher Sherwood said he could not confirm White's
     statement
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -50,6 +52,7 @@ references:
   claim_id: c9a6069b-9da7-4b8b-9621-ae66d3a22deb
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
+  copyright_status: publicly_accessible
 - text: Politico reported that Pentagon spokesperson Dana White confirmed Elizondo's
     role in AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -57,6 +60,7 @@ references:
   claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

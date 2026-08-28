@@ -29,6 +29,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-649a2fda-fd6f-4118-bd69-6a341aa5efc0
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-649a2fda-fd6f-4118-bd69-6a341aa5efc0
+  copyright_status: public_domain
 - text: The crew reported several objects at the start of the second orbital revolution.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:00:04.0-00:00:12.2
@@ -39,6 +40,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-ca8f5f0c-c590-441e-967e-8c9433793ada
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-ca8f5f0c-c590-441e-967e-8c9433793ada
+  copyright_status: public_domain
 - text: The objects were reported in the area of Antigua.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:00:12.7-00:00:14.6
@@ -48,6 +50,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-addfcb75-1463-40cd-82f0-76e076fc6fe9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-addfcb75-1463-40cd-82f0-76e076fc6fe9
+  copyright_status: public_domain
 - text: A mechanical breakdown meant that the relevant portion of the tape was unavailable
     for release.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -59,6 +62,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-2cc9f885-dbb0-4e68-a567-c31cf9b78ce9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-2cc9f885-dbb0-4e68-a567-c31cf9b78ce9
+  copyright_status: public_domain
 - text: The breakdown was described as a line failure between Building 30 and the
     NASA news centre in Building 6.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -70,6 +74,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-15b64ea4-f10b-4cf6-af7b-b27efbf7b83d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-15b64ea4-f10b-4cf6-af7b-b27efbf7b83d
+  copyright_status: public_domain
 - text: NASA Mission Control dubbed a copy from the master tape for release.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:00:33.3-00:00:41.7
@@ -80,6 +85,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-83ed19bf-7302-43f6-a477-a360e7ab7f85
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-83ed19bf-7302-43f6-a477-a360e7ab7f85
+  copyright_status: public_domain
 - text: The released tape refers to particles, an unidentified object and the Titan
     II GLV booster.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -91,6 +97,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-46f372a2-56f4-4ce8-b716-6a66e736b2cb
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-46f372a2-56f4-4ce8-b716-6a66e736b2cb
+  copyright_status: public_domain
 - text: Frank Borman reported a bogey at 10 o'clock high to NASA Mission Control.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:01:04.0-00:01:05.2
@@ -100,6 +107,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-b723d5ad-7872-471e-bf24-e70e6d3a2348
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-b723d5ad-7872-471e-bf24-e70e6d3a2348
+  copyright_status: public_domain
 - text: Mission Control asked whether the object was the Titan II GLV booster or an
     actual sighting.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -110,6 +118,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-d39a82d5-589e-491e-957f-b08f7f197c81
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-d39a82d5-589e-491e-957f-b08f7f197c81
+  copyright_status: public_domain
 - text: Borman described several objects as debris and called the report an actual
     sighting.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -120,6 +129,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-e6e2ed12-6583-46fd-a059-a28a4aba27db
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-e6e2ed12-6583-46fd-a059-a28a4aba27db
+  copyright_status: public_domain
 - text: Borman also reported the Titan II GLV booster in sight.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:01:52.5-00:01:54.0
@@ -129,6 +139,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-66cc45ee-66eb-428a-a291-661be3c6c243
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-66cc45ee-66eb-428a-a291-661be3c6c243
+  copyright_status: public_domain
 - text: Borman estimated hundreds of particles at approximately 5 to 6.5 kilometres
     from Gemini 7.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -140,6 +151,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-f9b082a2-6254-4913-82e7-41f6ff088219
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-f9b082a2-6254-4913-82e7-41f6ff088219
+  copyright_status: public_domain
 - text: Borman said the object looked like a vehicle that had disintegrated.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:02:21.6-00:02:27.8
@@ -149,6 +161,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-e16ed030-fa0c-4f70-8d55-0a8b11cfd048
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-e16ed030-fa0c-4f70-8d55-0a8b11cfd048
+  copyright_status: public_domain
 - text: Mission Control confirmed the particles were approximately 5 to 6.5 kilometres
     away.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -159,6 +172,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-de00c0bc-eb1c-4d42-a301-c9b15e044cb4
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-de00c0bc-eb1c-4d42-a301-c9b15e044cb4
+  copyright_status: public_domain
 - text: Mission Control asked whether the particles were additional to the booster
     and the bogey.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -170,6 +184,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-290172d2-b406-45b2-81db-16473bf64488
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-290172d2-b406-45b2-81db-16473bf64488
+  copyright_status: public_domain
 - text: Jim Lovell reported the booster as a brilliant body against the Sun, with
     particles around it.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -181,6 +196,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-760c2628-e966-4582-a91d-0e2d355d8352
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-760c2628-e966-4582-a91d-0e2d355d8352
+  copyright_status: public_domain
 - text: Lovell placed the booster at his 2 o'clock position, ahead of Gemini 7 and
     slowly tumbling.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -191,6 +207,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-ec7f1ced-82dc-4e03-a072-90f0014721ce
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-ec7f1ced-82dc-4e03-a072-90f0014721ce
+  copyright_status: public_domain
 - text: The third unidentified object in the conversation was identified as the sighting's
     bogey.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
@@ -202,6 +219,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-e4d87fde-bdb7-4d97-96bb-58db04d01695
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-e4d87fde-bdb7-4d97-96bb-58db04d01695
+  copyright_status: public_domain
 - text: The particles were described as appearing to head into a polar orbit.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:05:41.4-00:05:53.6
@@ -213,6 +231,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-54fa0987-e4e7-43fc-b5bd-079a0c9e7105
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-54fa0987-e4e7-43fc-b5bd-079a0c9e7105
+  copyright_status: public_domain
 - text: The record states that Frank Borman reported the bogey.
   source: NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965
   location: 00:05:54.7-00:05:57.9
@@ -222,6 +241,7 @@ references:
   record_hash: ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606
   workbench_url: https://workbench.anomalica.is/ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f20534735606#claim-94e34c05-b965-4cb9-b282-b848c3474ea1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965#claim-94e34c05-b965-4cb9-b282-b848c3474ea1
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -50,6 +50,7 @@ references:
   claim_id: cb5c5ad2-c975-43f6-904e-586dd1a083db
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cb5c5ad2-c975-43f6-904e-586dd1a083db
+  copyright_status: restricted
 - text: Ian Stevenson argued that previous lives might be a third factor, alongside
     genetics and environment, in personality development.
   source: Surviving Death
@@ -57,6 +58,7 @@ references:
   claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-27554e94-a31d-4dd6-baca-a4c0bc8e64e1
+  copyright_status: restricted
 - text: Cases of children with past-life memories were easiest to find in cultures
     with a belief in reincarnation.
   source: Surviving Death
@@ -64,6 +66,7 @@ references:
   claim_id: 9336952e-9627-4b72-a247-fb2c90f0455c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9336952e-9627-4b72-a247-fb2c90f0455c
+  copyright_status: restricted
 - text: Jim Tucker considers reincarnation cases as contributing to evidence that
     consciousness can survive death.
   source: Surviving Death
@@ -71,6 +74,7 @@ references:
   claim_id: 0d306a09-6784-4af9-8dce-8253c1f2eb9d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0d306a09-6784-4af9-8dce-8253c1f2eb9d
+  copyright_status: restricted
 - text: Jim Tucker said the idea of reincarnation can be judged on its merits, in
     an NPR interview aired on Weekend Edition.
   source: Surviving Death
@@ -78,6 +82,7 @@ references:
   claim_id: 86bb1288-be8e-492c-86b2-0d367b9d60ee
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-86bb1288-be8e-492c-86b2-0d367b9d60ee
+  copyright_status: restricted
 - text: Kevin Hammons reacted with anger at the suggestion of reincarnation, throwing
     a book across the bed.
   source: Surviving Death
@@ -85,12 +90,14 @@ references:
   claim_id: 77869e57-d42e-4106-b57a-7166b1b20d4b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-77869e57-d42e-4106-b57a-7166b1b20d4b
+  copyright_status: restricted
 - text: Neither Cyndi Hammons nor Kevin Hammons came from a religion supporting reincarnation.
   source: Surviving Death
   location: ch13:18848-18925
   claim_id: 70d32caa-c9a2-4112-85ef-76fd38c527aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-70d32caa-c9a2-4112-85ef-76fd38c527aa
+  copyright_status: restricted
 - text: Bruce Leininger's Christian faith did not accept reincarnation, and he initially
     rejected it as an explanation for his son's statements.
   source: Surviving Death
@@ -98,6 +105,7 @@ references:
   claim_id: 97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
+  copyright_status: restricted
 - text: Intermission memories arise more often in stronger reincarnation cases, where
     more statements were verified.
   source: Surviving Death
@@ -105,6 +113,7 @@ references:
   claim_id: d711ddd9-4dfd-4a80-af84-ee3572a2b1de
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d711ddd9-4dfd-4a80-af84-ee3572a2b1de
+  copyright_status: restricted
 - text: Poonam Sharma and Jim Tucker found intermission memories arise in stronger
     cases, in a 2004 paper.
   source: Surviving Death
@@ -112,6 +121,7 @@ references:
   claim_id: fd5b51ef-1499-41e2-8459-f10307bf98d9
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fd5b51ef-1499-41e2-8459-f10307bf98d9
+  copyright_status: restricted
 - text: Erlendur Haraldsson said violent death features predominantly in apparitions,
     reincarnation cases, and mediumship, including drop-in communicators.
   source: Surviving Death
@@ -119,6 +129,7 @@ references:
   claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
+  copyright_status: restricted
 - text: Michael Horn said Billy Meier has written about reincarnation, rebirth, death
     and dying, fluidal forces and swinging waves.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -128,6 +139,7 @@ references:
   claim_id: a4a5b3b7-f7af-438b-b966-0a74dbe83960
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a4a5b3b7-f7af-438b-b966-0a74dbe83960
+  copyright_status: publicly_accessible
 - text: In the Meier teaching, a creation energy form may already have had as many
     as two million incarnations.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -137,6 +149,7 @@ references:
   claim_id: 2371ab5c-8424-4527-b219-f861946c922c
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-2371ab5c-8424-4527-b219-f861946c922c
+  copyright_status: publicly_accessible
 - text: Reincarnation is real but a person is never the same person again and does
     not remember past lives.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -147,6 +160,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
+  copyright_status: publicly_accessible
 - text: A spirit form that dies on a given planet reincarnates as a new personality
     on that same planet.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -156,6 +170,7 @@ references:
   claim_id: 515ca985-a524-4102-aff6-e44e87b851b8
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-515ca985-a524-4102-aff6-e44e87b851b8
+  copyright_status: publicly_accessible
 - text: A spirit form dying in space or on a lifeless planet is attracted to the next
     inhabited planet at a commensurate evolutionary level, none of which are in our
     solar system.
@@ -167,6 +182,7 @@ references:
   claim_id: bd208d0c-24e1-47af-8d37-ad621d696df5
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-bd208d0c-24e1-47af-8d37-ad621d696df5
+  copyright_status: publicly_accessible
 - text: The reincarnation process is governed by the destination planet's evolutionary
     level, not its electromagnetic field.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -176,6 +192,7 @@ references:
   claim_id: dea64545-916b-4e26-9d20-d807e904cf13
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-dea64545-916b-4e26-9d20-d807e904cf13
+  copyright_status: publicly_accessible
 - text: Human evolution proceeds through countless millions of lifetimes towards a
     refined creation-energy form, until incarnation is no longer physical.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -187,6 +204,7 @@ references:
   claim_id: b49a4faf-a48f-44bb-8365-c96ab33c973a
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b49a4faf-a48f-44bb-8365-c96ab33c973a
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

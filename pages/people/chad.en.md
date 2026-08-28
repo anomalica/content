@@ -28,6 +28,7 @@ references:
   claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-283250af-5d12-4789-9b40-15a4af0f937d
+  copyright_status: publicly_accessible
 - text: Fravor grew up with cousins Chad and Ray, plus two other family members, and
     considers them like brothers
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -38,6 +39,7 @@ references:
   claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-33645fc1-b5b0-49ed-b109-28ea8ac3d806
+  copyright_status: publicly_accessible
 - text: Fravor said he would drop everything and travel immediately if Ray or Chad
     ever needed him
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -49,6 +51,7 @@ references:
   claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-86343c7a-0100-42cc-803d-37a9c0d48668
+  copyright_status: publicly_accessible
 - text: Chad, who took the video of the Tic Tac object, reviewed electro-optical and
     infrared imaging modes and found no visual signs of propulsion
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -59,6 +62,7 @@ references:
   claim_id: 0457f9df-392e-4aef-9f4f-1e62dbdbb400
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0457f9df-392e-4aef-9f4f-1e62dbdbb400
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

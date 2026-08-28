@@ -113,6 +113,7 @@ references:
   claim_id: daf1800e-183a-4baa-991e-af32f21bbd35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-daf1800e-183a-4baa-991e-af32f21bbd35
+  copyright_status: restricted
 - text: NIDS conducted investigations across the United States from 1995 to 2004,
     most remaining confidential.
   source: In Plain Sight
@@ -120,6 +121,7 @@ references:
   claim_id: be608b6d-4237-4a45-8b29-17cf5a49076e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be608b6d-4237-4a45-8b29-17cf5a49076e
+  copyright_status: restricted
 - text: George Knapp's congressional testimony dated NIDS's creation to 1996.
   source: Statement to Congress
   location: char:3770-3863
@@ -129,6 +131,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  copyright_status: public_domain
 - text: NIDS's science advisory board included PhD academics, two former astronauts,
     and military/intelligence-linked scientists.
   source: Statement to Congress
@@ -139,6 +142,7 @@ references:
   claim_id: 53152143-b62f-4628-a3e6-735e647a5d46
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-53152143-b62f-4628-a3e6-735e647a5d46
+  copyright_status: public_domain
 - text: Bigelow founded NIDS and once owned Skinwalker Ranch, site of multiple UAP
     sightings.
   source: In Plain Sight
@@ -146,12 +150,14 @@ references:
   claim_id: 90b27c48-92ff-429b-a0c6-6ebf84fa1430
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90b27c48-92ff-429b-a0c6-6ebf84fa1430
+  copyright_status: restricted
 - text: Colm Kelleher was a biochemist and administrator of NIDS.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26254-26377
   claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
+  copyright_status: restricted
 - text: Knapp informed Harry Reid about NIDS and arranged an introduction.
   source: Statement to Congress
   location: char:4341-4458
@@ -160,6 +166,7 @@ references:
   claim_id: 35e5bb1a-5a40-476e-8f53-60684432d7ad
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-35e5bb1a-5a40-476e-8f53-60684432d7ad
+  copyright_status: public_domain
 - text: Knapp said Reid attended an early NIDS board meeting and was impressed by
     the advisory board's pedigree.
   source: Statement to Congress
@@ -170,6 +177,7 @@ references:
   claim_id: c152502c-a25f-47f0-bc70-71a878f55d0f
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-c152502c-a25f-47f0-bc70-71a878f55d0f
+  copyright_status: public_domain
 - text: Russia's interest in UFOs was a topic of interest to Reid, Bigelow, and NIDS.
   source: Statement to Congress
   location: char:4806-4905
@@ -178,18 +186,21 @@ references:
   claim_id: 091269bb-ce73-4706-ac1f-3a06a224d0d7
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-091269bb-ce73-4706-ac1f-3a06a224d0d7
+  copyright_status: public_domain
 - text: Bigelow invited Edgar Mitchell to serve on the NIDS science advisory board.
   source: In Plain Sight
   location: ch25:5021-5183
   claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  copyright_status: restricted
 - text: Mitchell sat on the board while NIDS conducted still-secret research for Bigelow.
   source: In Plain Sight
   location: ch25:14912-15142
   claim_id: 8b9a0dbc-7978-47de-ba78-35427c03740e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b9a0dbc-7978-47de-ba78-35427c03740e
+  copyright_status: restricted
 - text: Mitchell, a long-standing UAP research proponent, retained confidential NIDS
     reports on Skinwalker and other sites.
   source: In Plain Sight
@@ -197,6 +208,7 @@ references:
   claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
+  copyright_status: restricted
 - text: Mitchell was sent a copy of Harold Puthoff's notes because he sat on the NIDS
     board.
   source: In Plain Sight
@@ -204,12 +216,14 @@ references:
   claim_id: 28e44829-a046-4df3-9b99-aa934dacea34
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28e44829-a046-4df3-9b99-aa934dacea34
+  copyright_status: restricted
 - text: Bigelow funded full-time surveillance of Skinwalker Ranch as part of NIDS.
   source: In Plain Sight
   location: ch15:8738-8873
   claim_id: 968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
+  copyright_status: restricted
 - text: John Alexander was a retired Army special-forces/intelligence colonel who
     had worked on a US Department of Defense remote viewing programme.
   source: In Plain Sight
@@ -217,6 +231,7 @@ references:
   claim_id: 2f109b6c-36fe-4847-aa3d-402eb5447178
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2f109b6c-36fe-4847-aa3d-402eb5447178
+  copyright_status: restricted
 - text: Alexander said he was one of the first NIDS employees on watch at Skinwalker
     Ranch and that extraordinary events occurred there.
   source: In Plain Sight
@@ -224,6 +239,7 @@ references:
   claim_id: af518ba0-5acb-43c1-8701-1ab3c74bbdd6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af518ba0-5acb-43c1-8701-1ab3c74bbdd6
+  copyright_status: restricted
 - text: Alexander described a dim light growing into a 1.2-metre tunnel-like shape
     near a road in August 1997.
   source: In Plain Sight
@@ -231,6 +247,7 @@ references:
   claim_id: 94b0622c-3463-4328-aa77-d6e07104a56f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94b0622c-3463-4328-aa77-d6e07104a56f
+  copyright_status: restricted
 - text: Alexander described a humanoid creature, about 1.8 metres tall and 180 kilograms,
     emerging from the tunnel.
   source: In Plain Sight
@@ -238,6 +255,7 @@ references:
   claim_id: 953bf87a-6932-42b5-8c8f-394ff59179be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-953bf87a-6932-42b5-8c8f-394ff59179be
+  copyright_status: restricted
 - text: Hunt for the Skinwalker describes NIDS investigators witnessing a faceless
     black creature emerge from a light tunnel.
   source: In Plain Sight
@@ -245,6 +263,7 @@ references:
   claim_id: e7cfa696-32eb-4a73-92a7-682b8ec85acb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7cfa696-32eb-4a73-92a7-682b8ec85acb
+  copyright_status: restricted
 - text: Publicly revealed NIDS data did not support the most extraordinary claims
     about Skinwalker Ranch.
   source: In Plain Sight
@@ -252,12 +271,14 @@ references:
   claim_id: cfdc6e0c-d181-4ca6-993e-0137a9307aec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cfdc6e0c-d181-4ca6-993e-0137a9307aec
+  copyright_status: restricted
 - text: NIDS's investigations went beyond Skinwalker Ranch and much remains confidential.
   source: In Plain Sight
   location: ch15:18104-18232
   claim_id: 5181a9dd-4c77-4edb-94bb-6691e65a40b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5181a9dd-4c77-4edb-94bb-6691e65a40b5
+  copyright_status: restricted
 - text: Edgar Mitchell archive documents shed light on NIDS's early work on UFOs and
     cattle mutilations.
   source: In Plain Sight
@@ -265,6 +286,7 @@ references:
   claim_id: 58282492-15cb-4dd8-895f-f6eea80bb0b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-58282492-15cb-4dd8-895f-f6eea80bb0b1
+  copyright_status: restricted
 - text: NIDS investigated suspected UAP-related cattle mutilations across Utah, Nevada,
     and New Mexico in August 1997.
   source: In Plain Sight
@@ -272,6 +294,7 @@ references:
   claim_id: cdf17093-8dd7-4d40-9052-8305af23b390
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cdf17093-8dd7-4d40-9052-8305af23b390
+  copyright_status: restricted
 - text: NIDS suggested the cow's haemorrhaging was caused by being dropped from a
     height.
   source: In Plain Sight
@@ -279,6 +302,7 @@ references:
   claim_id: a9bf97f9-bca5-420b-92cc-60b2cf78f64d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9bf97f9-bca5-420b-92cc-60b2cf78f64d
+  copyright_status: restricted
 - text: A September 1997 NIDS report detailed Dulce UFO interviews and a Los Brasos
     cow mutilation.
   source: In Plain Sight
@@ -286,6 +310,7 @@ references:
   claim_id: 117db451-d498-4827-a744-864ca1630244
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-117db451-d498-4827-a744-864ca1630244
+  copyright_status: restricted
 - text: The Los Brasos cow had missing teats and an excised anus and tongue, with
     no unusual electromagnetic readings.
   source: In Plain Sight
@@ -293,6 +318,7 @@ references:
   claim_id: 08645c92-00a7-4607-b1bd-a970187a75b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-08645c92-00a7-4607-b1bd-a970187a75b9
+  copyright_status: restricted
 - text: Overturned cow pats at Los Brasos were displaced up to six metres along a
     76-metre line.
   source: In Plain Sight
@@ -300,6 +326,7 @@ references:
   claim_id: e983a92c-84aa-40fa-b806-d44977e0e375
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e983a92c-84aa-40fa-b806-d44977e0e375
+  copyright_status: restricted
 - text: NIDS concluded strong wind may explain the displaced cow pats after testing
     how far a kick could move one.
   source: In Plain Sight
@@ -307,6 +334,7 @@ references:
   claim_id: f2e6fca9-ad5c-4422-948d-c525dc281842
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2e6fca9-ad5c-4422-948d-c525dc281842
+  copyright_status: restricted
 - text: Merl Elote told the NIDS team he saw a hovering, rotating craft about 23 metres
     in diameter.
   source: In Plain Sight
@@ -314,6 +342,7 @@ references:
   claim_id: aca4f023-7a55-48a2-b682-2db66d808cd8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aca4f023-7a55-48a2-b682-2db66d808cd8
+  copyright_status: restricted
 - text: Gabe Valdez, linked to the Jicarilla Apache Tribe, worked with Colm Kelleher
     on the 1997 investigation.
   source: In Plain Sight
@@ -321,6 +350,7 @@ references:
   claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
+  copyright_status: restricted
 - text: NIDS's files suggested investigators suspected US government activity in the
     hills around Dulce.
   source: In Plain Sight
@@ -328,6 +358,7 @@ references:
   claim_id: b91f1cd0-6f01-425e-8e41-6426a0579cb6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b91f1cd0-6f01-425e-8e41-6426a0579cb6
+  copyright_status: restricted
 - text: Kelleher's report includes Jicarilla Apache accounts of hovering UAP and a
     ventilation shaft in Mount Archuleta.
   source: In Plain Sight
@@ -335,18 +366,21 @@ references:
   claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
+  copyright_status: restricted
 - text: Hoyt Velarde said he saw an egg-shaped craft on his father's farm in 1964.
   source: In Plain Sight
   location: ch15:21374-21532
   claim_id: 3c6d9bcf-4c8c-4e07-bcd7-fe895ad99589
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c6d9bcf-4c8c-4e07-bcd7-fe895ad99589
+  copyright_status: restricted
 - text: NIDS investigated a 1997 burning-brush incident on Velarde's ranch.
   source: In Plain Sight
   location: ch15:22041-22153
   claim_id: e9426a78-bd45-4da7-bf60-b1a4d0c7cb6f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9426a78-bd45-4da7-bf60-b1a4d0c7cb6f
+  copyright_status: restricted
 - text: NIDS confirmed the mutilation of three dead, shrivelled cows on Velarde's
     ranch in 1997.
   source: In Plain Sight
@@ -354,6 +388,7 @@ references:
   claim_id: fa88ce5d-3ffa-4c3f-82bd-0392f813f70b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fa88ce5d-3ffa-4c3f-82bd-0392f813f70b
+  copyright_status: restricted
 - text: NIDS supported analysis of the Gary Lowrey claw sample, later examined by
     APEG biochemists.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -361,12 +396,14 @@ references:
   claim_id: 0f553e26-543d-433a-b6d0-e4bde863c231
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0f553e26-543d-433a-b6d0-e4bde863c231
+  copyright_status: restricted
 - text: The full Gary Lowrey report and data were made accessible on the NIDS website.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:43331-43405
   claim_id: 47595b32-17db-4894-aae4-856d59a11d41
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-47595b32-17db-4894-aae4-856d59a11d41
+  copyright_status: restricted
 - text: NIDS conducted implant analyses at a New Mexico Tech laboratory using X-ray
     methods.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -374,12 +411,14 @@ references:
   claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0b19e62e-6636-4bae-b7a5-04564bcd729d
+  copyright_status: restricted
 - text: Eric Davis started working for Bigelow's NIDS in July 1996.
   source: In Plain Sight
   location: ch15:9194-9283
   claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-173a406c-abae-40b6-b34c-eed7d5a602a3
+  copyright_status: restricted
 - text: Davis investigated a supposed alien attack and landing in Montana for NIDS
     and concluded it was a hoax.
   source: In Plain Sight
@@ -387,6 +426,7 @@ references:
   claim_id: 5f002bf0-986a-4bd1-a5ce-e2b4638d335b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f002bf0-986a-4bd1-a5ce-e2b4638d335b
+  copyright_status: restricted
 - text: Bigelow hired former NIDS scientists for the Bigelow Aerospace Advanced Space
     Studies programme.
   source: In Plain Sight
@@ -394,18 +434,21 @@ references:
   claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
+  copyright_status: restricted
 - text: Davis was brought into the Bigelow team working on AATIP.
   source: In Plain Sight
   location: ch17:9960-10143
   claim_id: cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
+  copyright_status: restricted
 - text: William Livingston was a medical advisor to AAWSAP/AATIP and to NIDS.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:25278-25341
   claim_id: d481722a-d6fb-4768-9d9a-a3a174bea5d9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d481722a-d6fb-4768-9d9a-a3a174bea5d9
+  copyright_status: restricted
 - text: Elizondo described NIDS as having studied UAP and the paranormal during the
     1990s.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -413,6 +456,7 @@ references:
   claim_id: 0201cb46-cf65-432f-a523-bfc954b27a76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0201cb46-cf65-432f-a523-bfc954b27a76
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

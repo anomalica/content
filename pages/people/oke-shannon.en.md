@@ -60,6 +60,7 @@ references:
   claim_id: 4e02e319-a5b1-45e3-b0f6-85168df762f9
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4e02e319-a5b1-45e3-b0f6-85168df762f9
+  copyright_status: public_domain
 - text: Shannon spoke to Wilson for two hours attempting to convince him to talk to
     Davis about what Shannon had told Miller in April and June 1997.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -70,6 +71,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
+  copyright_status: public_domain
 - text: Subject discussed between Shannon and Miller related to a Boston Globe story
     by Leslie Kean, UFO crash retrieval, and an MJ-12-like group.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -80,6 +82,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  copyright_status: public_domain
 - text: Wilson recalled a phone call with Shannon in the fall of 1999.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:807-930
@@ -89,6 +92,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-dc1fa588-ec14-4d0c-9dc4-4578f9d56e79
+  copyright_status: public_domain
 - text: Wilson gave serious thought to meeting Davis, recalling Shannon's 1999 phone
     call and his strong support for Davis.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -98,6 +102,7 @@ references:
   claim_id: a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a3e8b21f-26db-4d75-a6ef-0fcdc4117f08
+  copyright_status: public_domain
 - text: Wilson said he was taking a risk talking to Davis, trusting Shannon's word.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10320-10395
@@ -107,6 +112,7 @@ references:
   claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-60de4d37-4d58-4f1b-9e07-fe9b58806357
+  copyright_status: public_domain
 - text: Shannon told Wilson Davis was a team player with no media connections, not
     in government, no clearances, but excellent references.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -117,6 +123,7 @@ references:
   claim_id: 529f68de-d459-4070-b2aa-47cf5d0bbacc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-529f68de-d459-4070-b2aa-47cf5d0bbacc
+  copyright_status: public_domain
 - text: Shannon briefed Wilson on the whole BDM matter, including his own role and
     who attended, referencing a book by Blum.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -128,6 +135,7 @@ references:
   claim_id: 4eee19fb-cf07-456e-9d5d-986277de4bf0
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4eee19fb-cf07-456e-9d5d-986277de4bf0
+  copyright_status: public_domain
 - text: Shannon talked to Wilson about the Remote Viewing programme for ten minutes.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:2663-2760
@@ -136,6 +144,7 @@ references:
   claim_id: d545eca9-3443-4a17-b773-0ba11e766ca9
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d545eca9-3443-4a17-b773-0ba11e766ca9
+  copyright_status: public_domain
 - text: Shannon told Wilson about 'JA' and said he does not trust JA, calling JA a
     liar.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -144,6 +153,7 @@ references:
   claim_id: 10be65f9-cf40-4dc0-81b5-121a028ac1e3
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-10be65f9-cf40-4dc0-81b5-121a028ac1e3
+  copyright_status: public_domain
 - text: Davis noted NIDS was not mentioned in the background discussion, and that
     Shannon had mentioned NIDS, JA, and Davis together only in 1999.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -153,6 +163,7 @@ references:
   claim_id: 892cc30e-8ba7-4de6-b51e-17214e2c6acb
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-892cc30e-8ba7-4de6-b51e-17214e2c6acb
+  copyright_status: public_domain
 - text: Shannon argued Davis would not talk to press or UFO groups, including Miller
     and Greer, having no interest in publicity, money, fame, or notoriety.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -163,6 +174,7 @@ references:
   claim_id: 52c5c388-dfac-4d1c-8ae6-148bdca55d60
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-52c5c388-dfac-4d1c-8ae6-148bdca55d60
+  copyright_status: public_domain
 - text: Wilson and Shannon should have met Davis together face-to-face but Shannon's
     health problems prevented that.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -172,6 +184,7 @@ references:
   claim_id: fadf9347-0547-42fa-8ee0-3f0f365d32f9
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-fadf9347-0547-42fa-8ee0-3f0f365d32f9
+  copyright_status: public_domain
 - text: Shannon had become too difficult to contact, was in and out of hospital, and
     extremely sensitive to stress and heart sick.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -181,6 +194,7 @@ references:
   claim_id: d7e36f53-c55d-452a-a934-7e2f6705c2e8
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d7e36f53-c55d-452a-a934-7e2f6705c2e8
+  copyright_status: public_domain
 - text: When Wilson tried calling Shannon, Linda took messages that were not returned,
     not wanting to add to Shannon's plate.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -190,6 +204,7 @@ references:
   claim_id: 1b3f7d58-d169-4d94-8b92-e7d371ad840f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1b3f7d58-d169-4d94-8b92-e7d371ad840f
+  copyright_status: public_domain
 - text: Wilson told Shannon it was a bad time and he was too busy to talk to Davis.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:7210-7276
@@ -197,6 +212,7 @@ references:
   claim_id: deedbd87-ad44-4eed-a6c7-dd1f77113453
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-deedbd87-ad44-4eed-a6c7-dd1f77113453
+  copyright_status: public_domain
 - text: Wilson said in 2020 that people named in the memo, including Shannon and Crawford,
     were unknown to him, as were the described SAP conversations.
   source: In Plain Sight
@@ -204,6 +220,7 @@ references:
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
+  copyright_status: restricted
 - text: In his interview with Billy Cox, Shannon gave the impression he actually knew
     Wilson well.
   source: In Plain Sight
@@ -211,6 +228,7 @@ references:
   claim_id: 90ef622c-9b1d-4e47-803d-6e23c24c3e5a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90ef622c-9b1d-4e47-803d-6e23c24c3e5a
+  copyright_status: restricted
 - text: Shannon told Cox he did not know the document's provenance, knew both Wilson
     and Davis, called Wilson honourable, and apologised if it embarrassed him.
   source: In Plain Sight
@@ -218,6 +236,7 @@ references:
   claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
+  copyright_status: restricted
 - text: Shannon did not deny to Cox that he had facilitated a meeting between Wilson
     and Davis, or that it happened.
   source: In Plain Sight
@@ -225,6 +244,7 @@ references:
   claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

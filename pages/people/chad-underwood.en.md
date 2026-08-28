@@ -123,6 +123,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a0e9092a-0b43-4515-904d-33f52265bb33
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a0e9092a-0b43-4515-904d-33f52265bb33
+  copyright_status: public_domain
 - text: His crew formed the second F/A-18F section from VFA-41 airborne on 2004-11-14.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23414-23488
@@ -131,6 +132,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c0913cbc-0ca6-481b-bf86-aab7c9143f51
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c0913cbc-0ca6-481b-bf86-aab7c9143f51
+  copyright_status: public_domain
 - text: The flight launched after David Fravor's FASTEAGLE flight.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23492-23538
@@ -138,6 +140,7 @@ references:
   claim_id: 69bf8fe3-d41e-4dfb-a389-85e94b681835
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-69bf8fe3-d41e-4dfb-a389-85e94b681835
+  copyright_status: public_domain
 - text: Fravor's flight met Underwood's flight in the paraloft and passed on what
     they had seen.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -148,6 +151,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a6eb8cc8-018b-40a9-b09e-11d4d2605076
+  copyright_status: public_domain
 - text: Fravor's crew asked Underwood's crew to try to see and record the object.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23679-23776
@@ -157,6 +161,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-33474f15-47fa-4c5f-b3ac-87db91eabebe
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-33474f15-47fa-4c5f-b3ac-87db91eabebe
+  copyright_status: public_domain
 - text: Underwood recorded the FLIR video during the encounter.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -166,12 +171,14 @@ references:
   claim_id: f5a8d539-2e80-465c-838a-11b189ecd1eb
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f5a8d539-2e80-465c-838a-11b189ecd1eb
+  copyright_status: publicly_accessible
 - text: Underwood captured video footage of the Tic Tac using ATFLIR.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8325-8496
   claim_id: 389db6d5-bb12-4649-904c-66c223a446f5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-389db6d5-bb12-4649-904c-66c223a446f5
+  copyright_status: restricted
 - text: The flight departed, climbed to altitude, and separated to begin training.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23825-23948
@@ -180,6 +187,7 @@ references:
   claim_id: a8ea57c5-bf6f-4075-b84d-1a62afd3b764
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8ea57c5-bf6f-4075-b84d-1a62afd3b764
+  copyright_status: public_domain
 - text: Underwood recalled a clear day with a discernible blue horizon.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:23956-24056
@@ -189,6 +197,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-36dfa761-5541-435b-8136-478aa4be35a5
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-36dfa761-5541-435b-8136-478aa4be35a5
+  copyright_status: public_domain
 - text: The FLIR tracking event occurred at approximately 15:00 local time.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:24065-24092
@@ -197,6 +206,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7281e02e-fc58-42a3-bb3f-c1bf03040675
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-7281e02e-fc58-42a3-bb3f-c1bf03040675
+  copyright_status: public_domain
 - text: The flight checked in with the E-2C Hawkeye before proceeding south.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:24099-24189
@@ -205,6 +215,7 @@ references:
   claim_id: 52a6431d-4a41-42f8-a998-c49d66248ffb
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-52a6431d-4a41-42f8-a998-c49d66248ffb
+  copyright_status: public_domain
 - text: The flight flew at approximately 6,100 metres at approximately 560 km/h ground
     speed.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -214,6 +225,7 @@ references:
   claim_id: 3336443c-4194-4f2e-bd33-828cdd3fc06f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3336443c-4194-4f2e-bd33-828cdd3fc06f
+  copyright_status: public_domain
 - text: All onboard systems were functioning normally, radar in RWS, FLIR in L+S slave
     mode.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -224,6 +236,7 @@ references:
   claim_id: 7945a439-24a9-4967-89a4-27b9788b1a8c
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7945a439-24a9-4967-89a4-27b9788b1a8c
+  copyright_status: public_domain
 - text: No radio interference; the aircraft had Link-16 network entry.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:24496-24582
@@ -232,6 +245,7 @@ references:
   claim_id: 3d2d690d-3ec5-4eff-bd1c-619e3218af93
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3d2d690d-3ec5-4eff-bd1c-619e3218af93
+  copyright_status: public_domain
 - text: Initial radar tracks placed the object approximately 55-74 km to the south.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:24591-24744
@@ -242,6 +256,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-485d474e-ba37-4428-aa25-4c001c746fa8
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-485d474e-ba37-4428-aa25-4c001c746fa8
+  copyright_status: public_domain
 - text: Underwood attempted multiple times to get a Single Target Track lock; the
     radar could not lock.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -255,12 +270,14 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-1c606bf9-b4eb-4621-b467-0ad7e8ca5ec8
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-1c606bf9-b4eb-4621-b467-0ad7e8ca5ec8
+  copyright_status: public_domain
 - text: The object defied the crew's attempt to obtain a good radar lock.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8606-8670
   claim_id: b786031d-3806-4731-86fd-2c2564551573
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b786031d-3806-4731-86fd-2c2564551573
+  copyright_status: restricted
 - text: Underwood observed no jamming cues or electronic-attack indications on radar.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:25087-25257
@@ -271,6 +288,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-95319938-ccbe-4569-92bc-6e13560a760a
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-95319938-ccbe-4569-92bc-6e13560a760a
+  copyright_status: public_domain
 - text: The radar could not gather enough information for a single target track file.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:25262-25340
@@ -279,6 +297,7 @@ references:
   claim_id: 0aa671a1-1622-42e3-8076-6fb45c8f63de
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0aa671a1-1622-42e3-8076-6fb45c8f63de
+  copyright_status: public_domain
 - text: FLIR showed the object at 0 degrees azimuth and approximately -5 degrees elevation.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:25447-25524
@@ -287,6 +306,7 @@ references:
   claim_id: ff007904-a164-4c2e-b2ac-606b396d17cb
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ff007904-a164-4c2e-b2ac-606b396d17cb
+  copyright_status: public_domain
 - text: Underwood estimated the object co-altitude or a few thousand feet below, between
     approximately 4,600 and 6,100 metres.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -297,6 +317,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-72ee278c-b8ed-4271-9016-667bfd6c7df3
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-72ee278c-b8ed-4271-9016-667bfd6c7df3
+  copyright_status: public_domain
 - text: The object appeared stationary on FLIR aside from closure from the aircraft's
     own movement.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -308,6 +329,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-f827146f-317a-4178-b676-fbe40f5432f8
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-f827146f-317a-4178-b676-fbe40f5432f8
+  copyright_status: public_domain
 - text: The object moved out of the FLIR field of view to the left; Underwood did
     not slew the sensor and lost situational awareness.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -319,6 +341,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-831a197b-8752-4416-9976-ad14842f4b2c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-831a197b-8752-4416-9976-ad14842f4b2c
+  copyright_status: public_domain
 - text: The AAV appeared solid white, smooth, with no edges, uniform colour, and no
     nacelles, pylons, or wings.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -329,6 +352,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a34d9585-4ba0-4418-b3fe-e43ff8648da2
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a34d9585-4ba0-4418-b3fe-e43ff8648da2
+  copyright_status: public_domain
 - text: A White Hot Mode FLIR image showed a faint bright object against a dark background.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26168-26276
@@ -337,6 +361,7 @@ references:
   claim_id: dff89283-a273-4b8d-b7b5-380315a2d7f9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dff89283-a273-4b8d-b7b5-380315a2d7f9
+  copyright_status: public_domain
 - text: A Black Hot mode FLIR image showed a faint dark object against a lighter background.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26306-26415
@@ -345,6 +370,7 @@ references:
   claim_id: d3260375-ffc2-4851-8c4a-4a554e3b04a4
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d3260375-ffc2-4851-8c4a-4a554e3b04a4
+  copyright_status: public_domain
 - text: Underwood could not confirm the object he tracked was the same one Fravor's
     flight described, having only seen it via FLIR.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -356,6 +382,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-55992ae1-2f3e-417f-b7a7-50c11e8840c0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-55992ae1-2f3e-417f-b7a7-50c11e8840c0
+  copyright_status: public_domain
 - text: Underwood reaffirmed all systems on his aircraft were functional during the
     encounter.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -364,6 +391,7 @@ references:
   claim_id: 46883e7f-7df9-4868-8c0e-986532932b30
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-46883e7f-7df9-4868-8c0e-986532932b30
+  copyright_status: public_domain
 - text: The flight continued its training mission with no further contact with the
     object.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -372,6 +400,7 @@ references:
   claim_id: 65b1a617-7c1c-4859-a6a2-e008f7c413b5
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-65b1a617-7c1c-4859-a6a2-e008f7c413b5
+  copyright_status: public_domain
 - text: The section returned to the carrier for a normal approach, landing, and shutdown.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26640-26754
@@ -380,12 +409,14 @@ references:
   claim_id: ceb0c54a-4993-464e-acbb-d70cbad48c75
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ceb0c54a-4993-464e-acbb-d70cbad48c75
+  copyright_status: public_domain
 - text: Underwood's aircraft was fitted with an ATFLIR targeting pod.
   source: In Plain Sight
   location: ch16:16657-16902
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
+  copyright_status: restricted
 - text: The crew reached the point where Fravor's flight had last seen the object,
     and it was still there.
   source: In Plain Sight
@@ -393,6 +424,7 @@ references:
   claim_id: 6ef6b9fe-dfd3-462c-9175-cfba15eb6362
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
+  copyright_status: restricted
 - text: Fravor said there were clear indications of deliberate jamming when the crew's
     radar tried to lock on, which could be perceived as an act of war.
   source: In Plain Sight
@@ -400,6 +432,7 @@ references:
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
+  copyright_status: restricted
 - text: The crew locked onto the object using the ATFLIR pod's infrared mode, showing
     it as white against black.
   source: In Plain Sight
@@ -407,6 +440,7 @@ references:
   claim_id: 96f1038c-a53c-4628-8546-dbdc57e78dfd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96f1038c-a53c-4628-8546-dbdc57e78dfd
+  copyright_status: restricted
 - text: Underwood said the object's erratic changes in altitude, air speed, and aspect
     stood out most to him.
   source: In Plain Sight
@@ -414,6 +448,7 @@ references:
   claim_id: e528ea22-117f-4d38-b7d4-84339851e512
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e528ea22-117f-4d38-b7d4-84339851e512
+  copyright_status: restricted
 - text: Underwood said the object's behaviour was not physically normal, lacking apparent
     lift or propulsion.
   source: In Plain Sight
@@ -421,6 +456,7 @@ references:
   claim_id: 21a4df57-ba92-406b-9a41-6cf6fded21c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21a4df57-ba92-406b-9a41-6cf6fded21c4
+  copyright_status: restricted
 - text: Underwood said the object dropped from approximately 15,000 metres to approximately
     30 metres in seconds.
   source: In Plain Sight
@@ -428,6 +464,7 @@ references:
   claim_id: bee41ebd-8b26-4e99-bb1e-6fae269c9066
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bee41ebd-8b26-4e99-bb1e-6fae269c9066
+  copyright_status: restricted
 - text: Underwood's crew debriefed in CVIC aboard USS Nimitz.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26764-26789
@@ -435,6 +472,7 @@ references:
   claim_id: 2834e316-123a-4f09-8302-5be197dba09a
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2834e316-123a-4f09-8302-5be197dba09a
+  copyright_status: public_domain
 - text: Underwood said CVIC personnel tried to collect his tapes but he refused.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26800-26878
@@ -444,6 +482,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-0913be71-82d1-4666-a330-02e7fbc4d0f7
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-0913be71-82d1-4666-a330-02e7fbc4d0f7
+  copyright_status: public_domain
 - text: Underwood's crew debriefed with Fravor and his flight in the ready room.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:26887-26967
@@ -452,6 +491,7 @@ references:
   claim_id: d8d72a7f-33b0-41cb-8123-e38d0d1176b1
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d8d72a7f-33b0-41cb-8123-e38d0d1176b1
+  copyright_status: public_domain
 - text: Both Underwood and Fravor's flight, including Jim Slaight, reported the object's
     instant disappearance over the horizon.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -459,6 +499,7 @@ references:
   claim_id: 3f811714-a60f-4724-b9fb-00bc7504d1ce
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce
+  copyright_status: restricted
 - text: The pilot of the aircraft carrying Underwood did not vividly recall the event
     and did not consider it a big deal at the time.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -470,6 +511,7 @@ references:
   claim_id: be77cd0e-1789-4c71-94fc-cf802cce51ff
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-be77cd0e-1789-4c71-94fc-cf802cce51ff
+  copyright_status: publicly_accessible
 - text: For about two days, the air wing's flight schedule carried joke comics naming
     Fravor and Underwood as protecting the battle group.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -482,6 +524,7 @@ references:
   claim_id: d124ce50-faac-471e-8c4c-1d2ce787cd5d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d124ce50-faac-471e-8c4c-1d2ce787cd5d
+  copyright_status: publicly_accessible
 - text: The FLIR video was downloaded on return to the carrier, and conspiracy theories
     abounded among crewmen who saw it at sea.
   source: In Plain Sight
@@ -489,6 +532,7 @@ references:
   claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
+  copyright_status: restricted
 - text: Underwood was not asked to sign an NDA and was unsure how far up the chain
     of command the reporting went.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -499,6 +543,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5308dc1a-d26f-4614-989a-145e641414ca
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5308dc1a-d26f-4614-989a-145e641414ca
+  copyright_status: public_domain
 - text: Underwood could not confirm unusual physiological or psychological feelings,
     only confusion.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -509,6 +554,7 @@ references:
   claim_id: ad20581f-cd2a-4930-865b-bf391843a304
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ad20581f-cd2a-4930-865b-bf391843a304
+  copyright_status: public_domain
 - text: Underwood answered questions in a phone call with someone from NORAD soon
     after landing.
   source: In Plain Sight
@@ -516,6 +562,7 @@ references:
   claim_id: c2bcf71f-bedf-488c-8658-240a74dac981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2bcf71f-bedf-488c-8658-240a74dac981
+  copyright_status: restricted
 - text: Elizondo said a NORAD investigator questioned Underwood and no other agency
     investigated.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -523,6 +570,7 @@ references:
   claim_id: 77396a58-95de-467d-b079-c6bbf56cb7d6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
+  copyright_status: restricted
 - text: Elizondo described Underwood as a serious, focused pilot who never indulged
     in flights of fancy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -530,6 +578,7 @@ references:
   claim_id: a8ffb2b8-7110-4957-827a-8cdb2560175e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8ffb2b8-7110-4957-827a-8cdb2560175e
+  copyright_status: restricted
 - text: Coulthart said the filmed manoeuvres implied a technological breakthrough
     had been achieved somewhere.
   source: In Plain Sight
@@ -537,6 +586,7 @@ references:
   claim_id: b9785ae4-de98-425e-b86d-259b1ce2f645
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b9785ae4-de98-425e-b86d-259b1ce2f645
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

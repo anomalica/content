@@ -424,150 +424,175 @@ references:
   claim_id: 22f9ddc2-57c2-4c34-8f00-4d109b46796c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
+  copyright_status: restricted
 - text: Mitchell was part of the Apollo 14 mission
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:7949-8009
   claim_id: ee99af1a-aa13-4804-a966-3fde3cd78d49
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee99af1a-aa13-4804-a966-3fde3cd78d49
+  copyright_status: restricted
 - text: Piloted the lunar module 1971-02-05, sixth man to walk on the Moon
   source: In Plain Sight
   location: ch14:8412-8552
   claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
+  copyright_status: restricted
 - text: PhD in aeronautics and astronautics from MIT
   source: American Cosmic
   location: ch6:28474-28573
   claim_id: d582d423-3526-4809-a543-b3dcaa109cfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d582d423-3526-4809-a543-b3dcaa109cfc
+  copyright_status: restricted
 - text: Presidential Medal of Freedom honoree
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8211-8243
   claim_id: efa8606b-7f3c-4890-ab59-2050d869f092
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-efa8606b-7f3c-4890-ab59-2050d869f092
+  copyright_status: restricted
 - text: Grew up in Roswell, New Mexico, site of the 1947 crash
   source: American Cosmic
   location: ch6:23239-23335
   claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f34c3dae-548f-4b87-926d-08eb26ae2f56
+  copyright_status: restricted
 - text: Family among Roswell families threatened by the FBI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8451-8587
   claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
+  copyright_status: restricted
 - text: Saw Earth, Moon, Sun and heavens through cockpit window on return journey
   source: American Cosmic
   location: ch6:28996-29171
   claim_id: 1261e21e-9186-45b9-9907-84ef4cdcbdfe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1261e21e-9186-45b9-9907-84ef4cdcbdfe
+  copyright_status: restricted
 - text: Realised his body's molecules were formed in ancient stars, sense of oneness
   source: American Cosmic
   location: ch6:29183-29521
   claim_id: 6705136a-4d62-492a-92d7-8f7d3e564f44
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6705136a-4d62-492a-92d7-8f7d3e564f44
+  copyright_status: restricted
 - text: Experience of oneness accompanied by ecstasy, described as epiphany
   source: American Cosmic
   location: ch6:29528-29614
   claim_id: b97db49c-37f9-44a4-8703-fdb28d2d9cb1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b97db49c-37f9-44a4-8703-fdb28d2d9cb1
+  copyright_status: restricted
 - text: Experience changed the direction of his life
   source: American Cosmic
   location: ch6:29626-29695
   claim_id: 3a0ba574-a75b-47e2-bc7a-5e026f4067fb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3a0ba574-a75b-47e2-bc7a-5e026f4067fb
+  copyright_status: restricted
 - text: Read extensively on consciousness after returning
   source: American Cosmic
   location: ch6:29701-29822
   claim_id: ee91ddf0-341e-4b9e-9430-9f8ee60c03d4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ee91ddf0-341e-4b9e-9430-9f8ee60c03d4
+  copyright_status: restricted
 - text: Found the experience described in Sanskrit literature of ancient India
   source: American Cosmic
   location: ch6:30002-30249
   claim_id: 23b84a78-8121-4461-9da6-48ce0d9b9f73
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-23b84a78-8121-4461-9da6-48ce0d9b9f73
+  copyright_status: restricted
 - text: Concluded experience matched descriptions of samadhi
   source: American Cosmic
   location: ch6:30256-30458
   claim_id: 0f11ea99-ad0b-4970-8c28-e80b158c9441
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0f11ea99-ad0b-4970-8c28-e80b158c9441
+  copyright_status: restricted
 - text: Founded the Institute of Noetic Sciences
   source: American Cosmic
   location: ch6:28579-28682
   claim_id: fe066487-0a5b-4e32-a2f5-ccdbc26fea2f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fe066487-0a5b-4e32-a2f5-ccdbc26fea2f
+  copyright_status: restricted
 - text: Founded Quantrek
   source: American Cosmic
   location: ch6:28697-28784
   claim_id: efdaf31e-375c-4f79-b06d-e867a2fcfd75
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-efdaf31e-375c-4f79-b06d-e867a2fcfd75
+  copyright_status: restricted
 - text: Founded both organisations after his transcendent experience
   source: American Cosmic
   location: ch6:28799-28951
   claim_id: bc263e7f-cdf8-496b-8fbb-b74db8db55ac
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bc263e7f-cdf8-496b-8fbb-b74db8db55ac
+  copyright_status: restricted
 - text: Developed the quantum hologram theory of physics and consciousness
   source: American Cosmic
   location: ch6:22662-22720
   claim_id: 3d469317-bb0f-411b-b6ed-799799b3d0e3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3d469317-bb0f-411b-b6ed-799799b3d0e3
+  copyright_status: restricted
 - text: Dyadic model intended to explain remote viewing, telepathy and mystical experience
   source: American Cosmic
   location: ch6:37067-37339
   claim_id: 48b8a081-6975-4e57-9693-f7f79c1a657a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-48b8a081-6975-4e57-9693-f7f79c1a657a
+  copyright_status: restricted
 - text: Mitchell was a practitioner of remote viewing
   source: American Cosmic
   location: ch6:31550-31587
   claim_id: 44545086-3298-4617-bf8c-b1ebe847736d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-44545086-3298-4617-bf8c-b1ebe847736d
+  copyright_status: restricted
 - text: Conducted remote-viewing experiments in space during the Apollo mission
   source: American Cosmic
   location: ch6:31596-31713
   claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8acd5d8a-bab2-41ab-8993-79923dfcdc0d
+  copyright_status: restricted
 - text: Experiments were unsanctioned by NASA and secret
   source: American Cosmic
   location: ch6:31722-31800
   claim_id: 9befa664-4ec0-4724-95c2-38b726a53d2a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9befa664-4ec0-4724-95c2-38b726a53d2a
+  copyright_status: restricted
 - text: Pasulka met Mitchell on two occasions
   source: American Cosmic
   location: ch6:31126-31145
   claim_id: 3671bad8-7193-4e46-8c0f-117a80d1b31d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3671bad8-7193-4e46-8c0f-117a80d1b31d
+  copyright_status: restricted
 - text: Pasulka invited Mitchell to a Skype session with researchers in California
   source: American Cosmic
   location: ch6:31156-31333
   claim_id: 9a87b2da-f266-49f4-a453-e01634bb6852
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9a87b2da-f266-49f4-a453-e01634bb6852
+  copyright_status: restricted
 - text: Pasulka found Mitchell had been involved with the Stanford Research Institute
   source: American Cosmic
   location: ch6:31340-31544
   claim_id: 7392b45a-a0c1-43d2-ac31-7271b022a683
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7392b45a-a0c1-43d2-ac31-7271b022a683
+  copyright_status: restricted
 - text: Transition back to Earth was difficult, a feeling also expressed by Tyler
     D.
   source: American Cosmic
@@ -575,6 +600,7 @@ references:
   claim_id: fae3357c-f6af-4cc6-a745-33cd3b75f1bf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fae3357c-f6af-4cc6-a745-33cd3b75f1bf
+  copyright_status: restricted
 - text: Pasulka considered Mitchell part of a hidden history of the space program
     alongside Tyler D.
   source: American Cosmic
@@ -582,54 +608,63 @@ references:
   claim_id: 1da16a75-d9dc-4401-97d0-a18df0a7b5b2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1da16a75-d9dc-4401-97d0-a18df0a7b5b2
+  copyright_status: restricted
 - text: Co-founded FREE with Hernandez, Schild and Rodwell
   source: American Cosmic
   location: ch6:1326-1555
   claim_id: c94c3625-8c78-40df-9da7-f314078ad8a1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c94c3625-8c78-40df-9da7-f314078ad8a1
+  copyright_status: restricted
 - text: Schild gave Hernandez Mitchell's phone number
   source: American Cosmic
   location: ch6:22822-22911
   claim_id: c6281328-043a-4d31-9585-f968efc06f25
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c6281328-043a-4d31-9585-f968efc06f25
+  copyright_status: restricted
 - text: Hernandez phoned Mitchell; they lived close and met
   source: American Cosmic
   location: ch6:22919-23008
   claim_id: b813aeba-fd7d-4110-b039-51f3bae34f1e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b813aeba-fd7d-4110-b039-51f3bae34f1e
+  copyright_status: restricted
 - text: Mitchell told Hernandez about his 'awakening' in space
   source: American Cosmic
   location: ch6:23197-23335
   claim_id: a9f24506-6846-43bb-a087-c5f02bba10c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a9f24506-6846-43bb-a087-c5f02bba10c2
+  copyright_status: restricted
 - text: Mitchell and Schild helped Hernandez understand the quantum hologram theory
   source: American Cosmic
   location: ch6:36430-36493
   claim_id: a86e9e6c-4670-4417-9a61-2d38dd28dedd
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a86e9e6c-4670-4417-9a61-2d38dd28dedd
+  copyright_status: restricted
 - text: Mitchell offered to help Hernandez form the organisation
   source: American Cosmic
   location: ch6:24442-24504
   claim_id: 7c4f2b90-e6f8-4770-8573-63e75d9a6faa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7c4f2b90-e6f8-4770-8573-63e75d9a6faa
+  copyright_status: restricted
 - text: FREE's motto 'Disclosure from the Bottom Up'
   source: American Cosmic
   location: ch6:25810-25956
   claim_id: d410fb79-379f-4979-a541-ee293e220bc7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d410fb79-379f-4979-a541-ee293e220bc7
+  copyright_status: restricted
 - text: Renown opened way to briefing with Admiral Thomas Wilson, April 1997
   source: In Plain Sight
   location: ch14:8565-8758
   claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
+  copyright_status: restricted
 - text: Greer, Miller and Mitchell gave talk in Pentagon conference room, April 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:1217-1381
@@ -639,18 +674,21 @@ references:
   claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+  copyright_status: public_domain
 - text: Presented Wilson with witness evidence of alleged cover-up, 1997-04-10
   source: In Plain Sight
   location: ch14:14003-14350
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
+  copyright_status: restricted
 - text: Mitchell confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
+  copyright_status: restricted
 - text: Mitchell told Eric Davis about the episode only in 1999
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:9748-9803
@@ -658,78 +696,91 @@ references:
   claim_id: 1e2d3bd5-de5d-4672-81fe-49ee6e97541b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1e2d3bd5-de5d-4672-81fe-49ee6e97541b
+  copyright_status: public_domain
 - text: Lovekin, Adamiak, Mitchell and Miller backed Greer's account
   source: In Plain Sight
   location: ch14:23846-23991
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
+  copyright_status: restricted
 - text: Mitchell wrote a fax to Strom Thurmond, 1997-06
   source: In Plain Sight
   location: ch25:21612-21856
   claim_id: b2e27efe-1398-41c8-920c-8080a71f0142
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e27efe-1398-41c8-920c-8080a71f0142
+  copyright_status: restricted
 - text: Told Thurmond he was convinced Corso's Roswell account was true
   source: In Plain Sight
   location: ch25:22626-22719
   claim_id: 107a25a3-a891-4597-a349-786c0e2df703
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107a25a3-a891-4597-a349-786c0e2df703
+  copyright_status: restricted
 - text: Served on NIDS science advisory board, retained confidential reports
   source: In Plain Sight
   location: ch15:18514-18748
   claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
+  copyright_status: restricted
 - text: Bigelow invited Mitchell to serve on the NIDS advisory board
   source: In Plain Sight
   location: ch25:5021-5183
   claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  copyright_status: restricted
 - text: Mitchell knew Hoagland from his NASA days
   source: Dark Mission
   location: ch11:141889-141954
   claim_id: 4cd035f2-5797-4b8f-9f25-8aa21cc7e39f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4cd035f2-5797-4b8f-9f25-8aa21cc7e39f
+  copyright_status: restricted
 - text: Hoagland considered lunar ruins might be faint, filtered by gold visors
   source: Dark Mission
   location: ch11:150096-150388
   claim_id: 9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
+  copyright_status: restricted
 - text: Hoagland promised further material; Mitchell agreed to a follow-up
   source: Dark Mission
   location: ch11:142220-142377
   claim_id: ffe75167-11e8-4cbb-8024-d670062aa73c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ffe75167-11e8-4cbb-8024-d670062aa73c
+  copyright_status: restricted
 - text: Material sent, but Mitchell never responded and follow-up never occurred
   source: Dark Mission
   location: ch11:142387-142501
   claim_id: e0188e0d-82ca-4e92-bd11-d89c01c290ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e0188e0d-82ca-4e92-bd11-d89c01c290ac
+  copyright_status: restricted
 - text: AS14-66-9301 shows Shepard photographing Mitchell deploying the TV camera
   source: Dark Mission
   location: ch19:39378-39574
   claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
+  copyright_status: restricted
 - text: Golf-shot photograph published in Alan Shepard's Moon Shot
   source: Dark Mission
   location: ch19:36340-36568
   claim_id: 16f24297-18aa-4260-8446-766ada69d340
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16f24297-18aa-4260-8446-766ada69d340
+  copyright_status: restricted
 - text: Hoagland found the golf-shot image cut out and reversed from AS14-66-9301
   source: Dark Mission
   location: ch19:37374-37555
   claim_id: edf546b5-403c-4dba-9db6-19b24d913dad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-edf546b5-403c-4dba-9db6-19b24d913dad
+  copyright_status: restricted
 - text: Described light-flash streaks moving across his field of view
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:02:31.5-00:02:35.0
@@ -738,6 +789,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
+  copyright_status: public_domain
 - text: Described a 'nova' phenomenon as an expanding, diffusing blob
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:05:33.6-00:05:44.0
@@ -747,6 +799,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
+  copyright_status: public_domain
 - text: Reported 12 light flashes in right eye, 6 in left
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:09:02.1-00:09:04.6
@@ -755,6 +808,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5f81748e-787b-4077-9b40-66143757e3cc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-5f81748e-787b-4077-9b40-66143757e3cc
+  copyright_status: public_domain
 - text: Saw one flash, silver blue-white, like a blue diamond
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:29:24.4-00:29:35.7
@@ -765,6 +819,7 @@ references:
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-fc934658-370a-447c-8487-dece2cd38949
   inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-fc934658-370a-447c-8487-dece2cd38949
+  copyright_status: public_domain
 - text: Hardly any night without light flashes, except possibly on the lunar surface
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
   location: 00:12:20.3-00:12:28.1
@@ -773,78 +828,91 @@ references:
   claim_id: 057ab682-3651-4293-9bf0-1b0fc2d95ca7
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-057ab682-3651-4293-9bf0-1b0fc2d95ca7
+  copyright_status: public_domain
 - text: Publicly maintained he never saw a UFO
   source: In Plain Sight
   location: ch25:6797-6897
   claim_id: 7b67b464-3917-448b-a73b-e37373157574
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b67b464-3917-448b-a73b-e37373157574
+  copyright_status: restricted
 - text: Privately confided seeing anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
   claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
+  copyright_status: restricted
 - text: Saw well-defined blue lights with structure behind them
   source: In Plain Sight
   location: ch25:7434-7577
   claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
+  copyright_status: restricted
 - text: Dismissed lens flare, reflection and camera-glitch explanations
   source: In Plain Sight
   location: ch25:10159-10385
   claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
+  copyright_status: restricted
 - text: Told no one about the blue lights until confiding in The Spaceman
   source: In Plain Sight
   location: ch25:10391-10476
   claim_id: eb7410fa-4b58-489f-bb45-0c26548afe01
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb7410fa-4b58-489f-bb45-0c26548afe01
+  copyright_status: restricted
 - text: Replied only 'Treason' when asked why he denied seeing UFOs
   source: In Plain Sight
   location: ch25:10599-10842
   claim_id: cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
+  copyright_status: restricted
 - text: Believed every Apollo mission was watched by intelligently guided craft
   source: In Plain Sight
   location: ch25:7054-7400
   claim_id: 93aef464-d0e3-4ebb-8a56-955d4674e2ca
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-93aef464-d0e3-4ebb-8a56-955d4674e2ca
+  copyright_status: restricted
 - text: Died of cancer in Florida, 2016-02-04, day before 45th landing anniversary
   source: In Plain Sight
   location: ch25:2688-2962
   claim_id: 38940afc-3fdc-4358-a951-cb14f101301e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-38940afc-3fdc-4358-a951-cb14f101301e
+  copyright_status: restricted
 - text: Nephew Mitch Harkins took possession of Mitchell's research files
   source: In Plain Sight
   location: ch25:12203-12432
   claim_id: 5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
+  copyright_status: restricted
 - text: Harkins ensured sensitive files were preserved and passed to The Spaceman
   source: In Plain Sight
   location: ch25:12703-12820
   claim_id: 8351d15f-b57d-4aac-94e3-b80959754cfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8351d15f-b57d-4aac-94e3-b80959754cfb
+  copyright_status: restricted
 - text: James Rigney briefly met Mitchell in 2012 at Apollo 17's 40th anniversary
   source: In Plain Sight
   location: ch25:1743-1852
   claim_id: 41ad01d6-f221-4719-abf8-431a4b3f5f24
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
+  copyright_status: restricted
 - text: Rigney clashed with colleagues over criticism of Mitchell's post-NASA work
   source: In Plain Sight
   location: ch25:1601-1732
   claim_id: 0db0d688-c386-4ee2-80ac-58ef70bd54cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0db0d688-c386-4ee2-80ac-58ef70bd54cf
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

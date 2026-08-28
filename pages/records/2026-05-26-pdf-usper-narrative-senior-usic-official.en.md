@@ -21,6 +21,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-7915becf-95cb-424c-bd2b-b2c810ce9af8
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-7915becf-95cb-424c-bd2b-b2c810ce9af8
+  copyright_status: public_domain
 - text: Mission purpose was to investigate loud thuds heard in the mountains on the
     test range
   source: USPER Narrative, Senior USIC Official
@@ -32,6 +33,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-84f4ffd5-36f2-47f5-977f-eb934775eec5
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-84f4ffd5-36f2-47f5-977f-eb934775eec5
+  copyright_status: public_domain
 - text: The thuds coincided with UAP sightings reported over preceding nights
   source: USPER Narrative, Senior USIC Official
   location: char:298-400
@@ -41,6 +43,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-3cd7f990-94d0-4647-8bc7-3561a6e285b7
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-3cd7f990-94d0-4647-8bc7-3561a6e285b7
+  copyright_status: public_domain
 - text: Crew searched remote mountain areas for debris that might explain the orb
     sightings
   source: USPER Narrative, Senior USIC Official
@@ -51,6 +54,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-8578ef43-cf3c-48c0-a448-29cb03628759
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-8578ef43-cf3c-48c0-a448-29cb03628759
+  copyright_status: public_domain
 - text: Flew a low-altitude nap-of-the-earth route through the mountains for several
     hours
   source: USPER Narrative, Senior USIC Official
@@ -61,6 +65,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-b8992afb-e49a-472f-be99-2362e402f49f
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-b8992afb-e49a-472f-be99-2362e402f49f
+  copyright_status: public_domain
 - text: Repeatedly found and inspected ground debris, identified as remnants of rockets
     and other test-range projectiles
   source: USPER Narrative, Senior USIC Official
@@ -72,6 +77,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-98532723-8ef1-4093-9a02-25abe4b5c9fd
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-98532723-8ef1-4093-9a02-25abe4b5c9fd
+  copyright_status: public_domain
 - text: Discovered a large cave entrance with no visible end
   source: USPER Narrative, Senior USIC Official
   location: char:1315-1437
@@ -81,6 +87,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-be87d0dc-24c8-42a7-9441-74d9272d2730
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-be87d0dc-24c8-42a7-9441-74d9272d2730
+  copyright_status: public_domain
 - text: Orbited the cave entrance for observation since no safe landing spot was available
   source: USPER Narrative, Senior USIC Official
   location: char:1444-1562
@@ -90,6 +97,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-edde6683-fbe7-4f5b-8c6e-484f2cdd464f
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-edde6683-fbe7-4f5b-8c6e-484f2cdd464f
+  copyright_status: public_domain
 - text: Running low on fuel, headed to a rendezvous point to drop off the colleague
   source: USPER Narrative, Senior USIC Official
   location: char:1619-1727
@@ -99,6 +107,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-914f4fef-02bb-4419-9f1a-9d9e6bccd970
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-914f4fef-02bb-4419-9f1a-9d9e6bccd970
+  copyright_status: public_domain
 - text: After drop-off, proceeded to a prepositioned tanker on the range to refuel
   source: USPER Narrative, Senior USIC Official
   location: char:1738-1859
@@ -108,6 +117,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-29fa1030-5170-483c-975d-1a20b6aea7d9
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-29fa1030-5170-483c-975d-1a20b6aea7d9
+  copyright_status: public_domain
 - text: The JOC radioed a request to search a mountain for debris spotted by a ground
     team
   source: USPER Narrative, Senior USIC Official
@@ -118,6 +128,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-e6155f09-de53-4c58-9fae-e72f4b33e83a
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-e6155f09-de53-4c58-9fae-e72f4b33e83a
+  copyright_status: public_domain
 - text: After sunset, pilots switched to FLIR and NVG while the officer continued
     with the naked eye
   source: USPER Narrative, Senior USIC Official
@@ -129,6 +140,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-b08a24ba-c76e-472a-b037-c0d3bdf2ebf4
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-b08a24ba-c76e-472a-b037-c0d3bdf2ebf4
+  copyright_status: public_domain
 - text: A brief search of the mountain found nothing, so the crew began heading back
     to the JOC
   source: USPER Narrative, Senior USIC Official
@@ -139,6 +151,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-23a64e44-dd45-44c3-8bea-a79c75826d7b
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-23a64e44-dd45-44c3-8bea-a79c75826d7b
+  copyright_status: public_domain
 - text: The JOC reported radar hits several miles up range, in the same area as prior
     UAP activity
   source: USPER Narrative, Senior USIC Official
@@ -150,6 +163,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-0fdd9ace-6347-437a-b912-61e38e75a0be
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-0fdd9ace-6347-437a-b912-61e38e75a0be
+  copyright_status: public_domain
 - text: The helicopter altered course to intercept, beginning close encounters lasting
     over an hour
   source: USPER Narrative, Senior USIC Official
@@ -160,6 +174,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-5ef16d82-da47-458b-aea5-96eec2ab6a04
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-5ef16d82-da47-458b-aea5-96eec2ab6a04
+  copyright_status: public_domain
 - text: Ground teams reported a 'super-hot' FLIR contact moving low and fast, east
     then south
   source: USPER Narrative, Senior USIC Official
@@ -170,6 +185,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-32d31875-6fb5-4d41-acc0-26a00dad4d34
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-32d31875-6fb5-4d41-acc0-26a00dad4d34
+  copyright_status: public_domain
 - text: The object split into two and changed direction
   source: USPER Narrative, Senior USIC Official
   location: char:2734-2777
@@ -178,6 +194,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-be40771e-d34f-4ace-b03a-16bc6a99305f
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-be40771e-d34f-4ace-b03a-16bc6a99305f
+  copyright_status: public_domain
 - text: On arrival, the crew scanned the area with NVG, FLIR, and the naked eye
   source: USPER Narrative, Senior USIC Official
   location: char:2788-2853
@@ -186,6 +203,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-a4944c44-a6f2-4c12-83f9-e4e3e062dd98
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-a4944c44-a6f2-4c12-83f9-e4e3e062dd98
+  copyright_status: public_domain
 - text: Ground team radioed that the object rose, approached to within about 3 metres,
     dropped below the helicopter, and sped away
   source: USPER Narrative, Senior USIC Official
@@ -197,6 +215,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-92c015de-a22c-40f5-ad27-f21a016028cd
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-92c015de-a22c-40f5-ad27-f21a016028cd
+  copyright_status: public_domain
 - text: Via NVG, pilots saw the object split into two, with a smaller object emerging
     before accelerating away
   source: USPER Narrative, Senior USIC Official
@@ -207,6 +226,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-d23cfabe-f2f7-4acd-ab56-c01b66ba831b
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-d23cfabe-f2f7-4acd-ab56-c01b66ba831b
+  copyright_status: public_domain
 - text: The crew briefly pursued but broke off, unable to match its speed
   source: USPER Narrative, Senior USIC Official
   location: char:3168-3222
@@ -215,6 +235,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-2dde16a8-a1e5-4ecc-b4f4-af575820447e
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-2dde16a8-a1e5-4ecc-b4f4-af575820447e
+  copyright_status: public_domain
 - text: The JOC reported fighter jets launching nearby on a training mission and requested
     help identifying the UAP
   source: USPER Narrative, Senior USIC Official
@@ -226,6 +247,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-6851fe22-c12e-46ff-a59d-ea7834a76455
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-6851fe22-c12e-46ff-a59d-ea7834a76455
+  copyright_status: public_domain
 - text: The crew took up a hover at approximately 210 metres above ground level near
     further radar detections
   source: USPER Narrative, Senior USIC Official
@@ -236,6 +258,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-d39b6692-c283-4a22-9ae7-c2447b1e3258
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-d39b6692-c283-4a22-9ae7-c2447b1e3258
+  copyright_status: public_domain
 - text: Countless orange orbs swarmed in all directions against the mountain backdrop
     for several minutes before fading
   source: USPER Narrative, Senior USIC Official
@@ -247,6 +270,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-0e4cdf37-2dd9-45c6-adaf-fec4aa48e976
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-0e4cdf37-2dd9-45c6-adaf-fec4aa48e976
+  copyright_status: public_domain
 - text: On fresh radar hits, the crew was redirected and hovered again at approximately
     210 metres
   source: USPER Narrative, Senior USIC Official
@@ -258,6 +282,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-68f88b6a-dbbd-4dcb-97dd-3846d5845b8d
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-68f88b6a-dbbd-4dcb-97dd-3846d5845b8d
+  copyright_status: public_domain
 - text: Two large orbs flared up side-by-side, stationary just above the rotor disk
   source: USPER Narrative, Senior USIC Official
   location: char:3885-4059
@@ -268,6 +293,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-418bf63a-45da-4c8d-9ea8-c5ffd113fee7
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-418bf63a-45da-4c8d-9ea8-c5ffd113fee7
+  copyright_status: public_domain
 - text: The orbs were oval-shaped, orange with a white or yellow centre, emitting
     light in all directions
   source: USPER Narrative, Senior USIC Official
@@ -278,6 +304,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-51593587-9406-452b-b658-e89623465b10
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-51593587-9406-452b-b658-e89623465b10
+  copyright_status: public_domain
 - text: A third and fourth orb appeared, forming a total of four or five orbs in a
     'T' formation
   source: USPER Narrative, Senior USIC Official
@@ -289,6 +316,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-e90196b0-7fe2-42d4-9041-54ed791fd86f
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-e90196b0-7fe2-42d4-9041-54ed791fd86f
+  copyright_status: public_domain
 - text: The orbs dimmed in reverse order and vanished; the event lasted 10-15 seconds
   source: USPER Narrative, Senior USIC Official
   location: char:4332-4459
@@ -298,6 +326,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-804f63f7-5df2-4c0a-b8eb-53f3f2311678
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-804f63f7-5df2-4c0a-b8eb-53f3f2311678
+  copyright_status: public_domain
 - text: No photographs were taken, as the officer focused on assessing the objects
     and any threat
   source: USPER Narrative, Senior USIC Official
@@ -308,6 +337,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-69b8e112-17f8-4bf0-b96f-40d537048aff
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-69b8e112-17f8-4bf0-b96f-40d537048aff
+  copyright_status: public_domain
 - text: Pilots briefly considered landing but chose to keep hovering at approximately
     210 metres
   source: USPER Narrative, Senior USIC Official
@@ -318,6 +348,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-0474f721-d31c-4760-b555-d6ba7d1c36d2
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-0474f721-d31c-4760-b555-d6ba7d1c36d2
+  copyright_status: public_domain
 - text: Fighter jets entered visual range at approximately 700 metres above ground
     level, identifiable by blinking navigation lights
   source: USPER Narrative, Senior USIC Official
@@ -328,6 +359,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-712a0d67-27a3-4ee9-94d4-d3cb8776bdd5
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-712a0d67-27a3-4ee9-94d4-d3cb8776bdd5
+  copyright_status: public_domain
 - text: Orbs of the same type appeared above the fighters, flaring in a horizontal
     formation matching their speed and path
   source: USPER Narrative, Senior USIC Official
@@ -339,6 +371,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-ca277cf6-acda-48f0-9503-67462bada55d
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-ca277cf6-acda-48f0-9503-67462bada55d
+  copyright_status: public_domain
 - text: The orbs dimmed and disappeared after 10-15 seconds, repeating as the jets
     transited and landed
   source: USPER Narrative, Senior USIC Official
@@ -349,6 +382,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-71c8c8a8-693d-4372-8b8f-780e6fa3fddc
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-71c8c8a8-693d-4372-8b8f-780e6fa3fddc
+  copyright_status: public_domain
 - text: The officer's impression was that the orbs appeared to be 'chasing' the fighter
     jets
   source: USPER Narrative, Senior USIC Official
@@ -359,6 +393,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-935391d1-b84c-45a4-8193-285eebbf22b4
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-935391d1-b84c-45a4-8193-285eebbf22b4
+  copyright_status: public_domain
 - text: Orange orbs flared around the helicopter for several minutes, forming a triangle
     before vanishing
   source: USPER Narrative, Senior USIC Official
@@ -369,6 +404,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-21ad8f34-01bd-40fc-bc81-b4ca6750f9f2
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-21ad8f34-01bd-40fc-bc81-b4ca6750f9f2
+  copyright_status: public_domain
 - text: Low on fuel, the pilots returned to the JOC, ending the encounter
   source: USPER Narrative, Senior USIC Official
   location: char:5416-5465
@@ -377,6 +413,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-a83568e7-28e9-49b7-aa0c-81dacb2eb5dd
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-a83568e7-28e9-49b7-aa0c-81dacb2eb5dd
+  copyright_status: public_domain
 - text: After landing, the officer briefly spoke with the pilots, who were virtually
     speechless
   source: USPER Narrative, Senior USIC Official
@@ -387,6 +424,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-540dc138-1a8f-4c8b-a826-c912c12d6518
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-540dc138-1a8f-4c8b-a826-c912c12d6518
+  copyright_status: public_domain
 - text: The officer entered the JOC for a quick debrief before driving home
   source: USPER Narrative, Senior USIC Official
   location: char:5594-5652
@@ -395,6 +433,7 @@ references:
   record_hash: bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64
   workbench_url: https://workbench.anomalica.is/bef126d8702b94e760041d065bf4d6611443815a0e1ea671809bfd64#claim-9ce5ed46-53f0-4ff8-b680-0fb04630ad48
   inspection_url: /records/2026-05-26-pdf-usper-narrative-senior-usic-official#claim-9ce5ed46-53f0-4ff8-b680-0fb04630ad48
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

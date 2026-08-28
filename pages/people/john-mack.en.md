@@ -86,6 +86,7 @@ references:
   claim_id: 0aa414c1-da08-42a8-8438-ac52b211d886
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-0aa414c1-da08-42a8-8438-ac52b211d886
+  copyright_status: publicly_accessible
 - text: Mack concluded that something real is occurring in the experiences reported,
     and that it is not psychosomatic or a mental health condition
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -95,6 +96,7 @@ references:
   claim_id: a17c6419-3325-497b-a139-8dd8496d6103
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a17c6419-3325-497b-a139-8dd8496d6103
+  copyright_status: publicly_accessible
 - text: Mack claimed the experiencers he studied were psychologically healthy and
     that the experiences they described were common
   source: American Cosmic
@@ -102,6 +104,7 @@ references:
   claim_id: 9c8b9f93-a3a3-4309-bac8-5d824238a99e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9c8b9f93-a3a3-4309-bac8-5d824238a99e
+  copyright_status: restricted
 - text: Mack saw alien abduction experiences as a significant cultural development
     demanding serious scholarly attention
   source: American Cosmic
@@ -109,6 +112,7 @@ references:
   claim_id: 494c94df-6542-4519-b535-e5e227b84dfe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-494c94df-6542-4519-b535-e5e227b84dfe
+  copyright_status: restricted
 - text: Mack approached Thomas Kuhn, who argued scientific revolutions came about
     through attention to anomalies
   source: American Cosmic
@@ -116,6 +120,7 @@ references:
   claim_id: 3aeb6a0d-d6ad-485e-abbd-5542ce34c920
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3aeb6a0d-d6ad-485e-abbd-5542ce34c920
+  copyright_status: restricted
 - text: Kuhn advised Mack to focus on raw data and persist in collecting it even where
     it did not fit conventional frameworks
   source: American Cosmic
@@ -123,6 +128,7 @@ references:
   claim_id: 2d148825-f76b-4a9c-9a92-a31340b48b09
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2d148825-f76b-4a9c-9a92-a31340b48b09
+  copyright_status: restricted
 - text: Budd Hopkins and John Mack provided circumstantial evidence for alien abduction
     in the form of landing-site traces, biopsy scars, alleged implants, and testimonies
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -130,6 +136,7 @@ references:
   claim_id: 642ae09f-c1d4-4d38-9819-34e11b9f65f9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-642ae09f-c1d4-4d38-9819-34e11b9f65f9
+  copyright_status: restricted
 - text: In 1991, after a flurry of works on alien abductions by Mack, Hopkins and
     others, the practice of hypnotic regression came under scrutiny
   source: American Cosmic
@@ -137,6 +144,7 @@ references:
   claim_id: 6a0eee1d-932e-4278-a46f-4dcf89bacf4e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6a0eee1d-932e-4278-a46f-4dcf89bacf4e
+  copyright_status: restricted
 - text: Daniel Sheehan defended Harvard Professor John E. Mack in 1994 after the Dean
     of Harvard Medical School appointed a committee to confidentially review his clinical
     care and investigation of alleged alien abduction experiencers
@@ -145,12 +153,14 @@ references:
   claim_id: 72e83127-3a53-43fe-913a-0cd70f411d59
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72e83127-3a53-43fe-913a-0cd70f411d59
+  copyright_status: restricted
 - text: Mack's tenure as a Harvard professor was under threat during the 1994 review
   source: In Plain Sight
   location: ch11:23700-23739
   claim_id: 953fb93e-d11a-4629-b9fc-d475b4af21c0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-953fb93e-d11a-4629-b9fc-d475b4af21c0
+  copyright_status: restricted
 - text: Sheehan's support for Mack during the review was funded by billionaire Laurance
     Rockefeller
   source: In Plain Sight
@@ -158,6 +168,7 @@ references:
   claim_id: b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
+  copyright_status: restricted
 - text: After a 14-month investigation, Harvard University declared Mack's freedom
     to study what he wished and state his opinions without impediment
   source: In Plain Sight
@@ -165,6 +176,7 @@ references:
   claim_id: e102c489-72a1-412d-aa19-c06b1184a549
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e102c489-72a1-412d-aa19-c06b1184a549
+  copyright_status: restricted
 - text: Khoury believes Mack was drawn to him because he did not push his own story
     onto Mack, unlike other witnesses
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -176,6 +188,7 @@ references:
   claim_id: 177eeb28-6c7f-4c07-8230-c3c2bd4c5834
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-177eeb28-6c7f-4c07-8230-c3c2bd4c5834
+  copyright_status: publicly_accessible
 - text: Ralph Blumenthal was quietly working on a biography of the late John Mack,
     a Harvard psychiatrist who treated and extensively interviewed people claiming
     abduction or encounter experiences
@@ -184,6 +197,7 @@ references:
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
+  copyright_status: restricted
 - text: 'James Master''s encounter with Mack''s book Abduction: Human Encounters with
     Aliens, picked up believing it science fiction, read like his own biography'
   source: American Cosmic
@@ -191,6 +205,7 @@ references:
   claim_id: 3384b8ae-2f47-410a-8d3a-44bb186d5608
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3384b8ae-2f47-410a-8d3a-44bb186d5608
+  copyright_status: restricted
 - text: Edward Carlos felt Mack was attentive to his feelings but never grasped the
     real phenomenon
   source: American Cosmic
@@ -198,12 +213,14 @@ references:
   claim_id: 164bbe11-d057-4f12-8e27-09ef221334fd
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-164bbe11-d057-4f12-8e27-09ef221334fd
+  copyright_status: restricted
 - text: Mack visited Australia in 1996 to research alien abduction
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:13541-13796
   claim_id: 8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
+  copyright_status: restricted
 - text: Mack took the opportunity during his 1996 visit to regress Peter Khoury under
     hypnosis to clarify the 1988 experience beyond the blankness after the needle
     was inserted
@@ -212,6 +229,7 @@ references:
   claim_id: c3410914-6f26-4858-8d58-e0dfd43612c2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c3410914-6f26-4858-8d58-e0dfd43612c2
+  copyright_status: restricted
 - text: During the regression, Mack observed a difference in Khoury's demeanour recalling
     scary/evil-looking beings versus scientist-like beings
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -225,6 +243,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-73bdaa65-169f-4307-be13-7d7ce8c390dc
+  copyright_status: publicly_accessible
 - text: A female psychiatrist was also present observing one of the sessions
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -234,6 +253,7 @@ references:
   claim_id: b922b87b-ee5d-4299-930c-ccb613f7acc8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b922b87b-ee5d-4299-930c-ccb613f7acc8
+  copyright_status: publicly_accessible
 - text: Khoury was sweating heavily then abruptly became calm the moment he described
     looking into the eyes of a gold-coloured being
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -246,6 +266,7 @@ references:
   claim_id: 9bf9d08e-3062-4913-9e4a-ffcf8fff1717
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9bf9d08e-3062-4913-9e4a-ffcf8fff1717
+  copyright_status: publicly_accessible
 - text: Mack and the observing psychiatrist agreed the sudden physiological shift
     could not have been faked
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -256,6 +277,7 @@ references:
   claim_id: b96654e5-3987-424c-b4b9-38eb8db64b8b
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b96654e5-3987-424c-b4b9-38eb8db64b8b
+  copyright_status: publicly_accessible
 - text: Khoury underwent hypnotic regression sessions with both Mack and Frank Wilkes,
     one of the first hypnotherapists in his support group
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -266,6 +288,7 @@ references:
   claim_id: 359407f6-e34e-4eed-a36d-5bd668ab3102
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-359407f6-e34e-4eed-a36d-5bd668ab3102
+  copyright_status: publicly_accessible
 - text: Mack told Khoury, after a workshop while driving home, that he admired and
     respected how Khoury dealt with his own experience while helping others
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -278,6 +301,7 @@ references:
   claim_id: b5eccae2-2967-44bf-adb8-dcee8627262d
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b5eccae2-2967-44bf-adb8-dcee8627262d
+  copyright_status: publicly_accessible
 - text: Credo Mutwa was painting alien-themed images as early as 1983, before Mack,
     Stephen Larsen and others began recording his stories
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -285,6 +309,7 @@ references:
   claim_id: 982d12df-e990-4212-9e7c-294e03c824d4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-982d12df-e990-4212-9e7c-294e03c824d4
+  copyright_status: restricted
 - text: Mack reported a rapid healing of a hand injury following a 1976 encounter
     between the Mantindane and Credo Mutwa
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -292,6 +317,7 @@ references:
   claim_id: b4e20547-3e77-4397-bc23-44a2745e7ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4e20547-3e77-4397-bc23-44a2745e7ee3
+  copyright_status: restricted
 - text: Like Mack, Roger Leir's licence to practise medicine was challenged, and he
     had to deal with a nuisance lawsuit that harmed his practice
   source: The Fourth Mind
@@ -299,6 +325,7 @@ references:
   claim_id: 19331b2c-7286-4a4f-a980-ed5cefc0b522
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-19331b2c-7286-4a4f-a980-ed5cefc0b522
+  copyright_status: restricted
 - text: Tom DeLonge said Mack almost lost his job because he started writing books
     about UFOs and people getting abducted
   source: In Plain Sight
@@ -306,6 +333,7 @@ references:
   claim_id: 37b2832b-2568-4a08-99bf-60c572770515
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37b2832b-2568-4a08-99bf-60c572770515
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

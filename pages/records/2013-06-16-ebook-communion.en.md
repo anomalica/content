@@ -23,6 +23,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
   inspection_url: /records/2013-06-16-ebook-communion#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
+  copyright_status: restricted
 - text: Whitley Strieber states that Communion is a true story as far as he knows
     how to describe it.
   source: Communion (2013-06-16)
@@ -32,6 +33,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d536e371-1d43-4c34-a015-9407e6af91e0
   inspection_url: /records/2013-06-16-ebook-communion#claim-d536e371-1d43-4c34-a015-9407e6af91e0
+  copyright_status: restricted
 - text: Whitley Strieber reports an elaborate personal encounter with intelligent
     nonhuman beings.
   source: Communion (2013-06-16)
@@ -41,6 +43,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-055b5052-8ce4-4c5e-9efa-1b70095629b0
   inspection_url: /records/2013-06-16-ebook-communion#claim-055b5052-8ce4-4c5e-9efa-1b70095629b0
+  copyright_status: restricted
 - text: The primary visitor experiences of Whitley and Anne Strieber occurred at their
     secluded log cabin in Ulster County, New York.
   source: Communion (2013-06-16)
@@ -50,6 +53,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
   inspection_url: /records/2013-06-16-ebook-communion#claim-a848a977-ff98-4378-abba-315bdc8f2fd1
+  copyright_status: restricted
 - text: Whitley Strieber recalls December 26 events from journal material written
     before hypnosis or discussion with others.
   source: Communion (2013-06-16)
@@ -59,6 +63,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-56165cdd-3678-47d7-900c-58504251fbf0
   inspection_url: /records/2013-06-16-ebook-communion#claim-56165cdd-3678-47d7-900c-58504251fbf0
+  copyright_status: restricted
 - text: Before seeking help, Whitley Strieber remembered only a strange disturbance
     on October 4, 1985.
   source: Communion (2013-06-16)
@@ -68,6 +73,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b4f51626-23ba-41f9-9e9d-de76fc3bf1d1
   inspection_url: /records/2013-06-16-ebook-communion#claim-b4f51626-23ba-41f9-9e9d-de76fc3bf1d1
+  copyright_status: restricted
 - text: The work contains transcripts of hypnotic regressions concerning the October
     4 and December 26, 1985 experiences.
   source: Communion (2013-06-16)
@@ -77,6 +83,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb102de0-5337-46be-8442-c0b56f417cb2
   inspection_url: /records/2013-06-16-ebook-communion#claim-cb102de0-5337-46be-8442-c0b56f417cb2
+  copyright_status: restricted
 - text: Whitley Strieber underwent a three-hour pre-interview in Dr. Donald Klein's
     office before hypnosis.
   source: Communion (2013-06-16)
@@ -86,6 +93,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
   inspection_url: /records/2013-06-16-ebook-communion#claim-57181f11-0b26-4d64-9401-d7c451812048
+  copyright_status: restricted
 - text: Budd Hopkins was present at both hypnosis sessions and could ask questions
     only at their conclusion.
   source: Communion (2013-06-16)
@@ -95,6 +103,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
   inspection_url: /records/2013-06-16-ebook-communion#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
+  copyright_status: restricted
 - text: The hypnosis session concerning October 4 memories took place on March 1,
     1986.
   source: Communion (2013-06-16)
@@ -104,6 +113,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
   inspection_url: /records/2013-06-16-ebook-communion#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
+  copyright_status: restricted
 - text: Dr. Donald Klein examined Whitley Strieber and found no psychosis.
   source: Communion (2013-06-16)
   location: ch16:97-172
@@ -112,6 +122,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-52160a96-893b-4245-a706-779e90d2bad3
   inspection_url: /records/2013-06-16-ebook-communion#claim-52160a96-893b-4245-a706-779e90d2bad3
+  copyright_status: restricted
 - text: Whitley Strieber was polygraphed by Ned Laurendi on October 31, 1986.
   source: Communion (2013-06-16)
   location: ch17:80-240
@@ -120,6 +131,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-32dd6271-1fd3-4a7f-9ada-3229f5f4063a
   inspection_url: /records/2013-06-16-ebook-communion#claim-32dd6271-1fd3-4a7f-9ada-3229f5f4063a
+  copyright_status: restricted
 - text: Whitley Strieber says the polygraph was intended to reassure readers that
     he sincerely believed his account and that Communion was not fiction.
   source: Communion (2013-06-16)
@@ -129,6 +141,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
   inspection_url: /records/2013-06-16-ebook-communion#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
+  copyright_status: restricted
 - text: Whitley Strieber states that the polygraph did not prove his recollections
     correct, but showed that he described what he saw to the best of his ability.
   source: Communion (2013-06-16)
@@ -138,6 +151,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d5ce8047-ddd7-43a5-a087-45381da4269e
   inspection_url: /records/2013-06-16-ebook-communion#claim-d5ce8047-ddd7-43a5-a087-45381da4269e
+  copyright_status: restricted
 - text: Eleven people met at Budd Hopkins' home on April 13, 1986.
   source: Communion (2013-06-16)
   location: ch14:59262-59433
@@ -146,6 +160,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f4c8daea-9d9f-4535-a3df-a077a73393a0
   inspection_url: /records/2013-06-16-ebook-communion#claim-f4c8daea-9d9f-4535-a3df-a077a73393a0
+  copyright_status: restricted
 - text: The purpose of the April 13 colloquy was primarily to discuss coping with
     the experience rather than the details of being taken.
   source: Communion (2013-06-16)
@@ -155,6 +170,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-67653355-c6e5-4eab-b248-7786973b6526
   inspection_url: /records/2013-06-16-ebook-communion#claim-67653355-c6e5-4eab-b248-7786973b6526
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

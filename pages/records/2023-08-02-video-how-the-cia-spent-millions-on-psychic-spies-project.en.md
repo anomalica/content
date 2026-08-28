@@ -33,6 +33,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
+  copyright_status: publicly_accessible
 - text: The documentary describes Project Stargate as beginning in a Californian research
     laboratory before moving to a Maryland army base.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -45,6 +46,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
+  copyright_status: publicly_accessible
 - text: The documentary reports that the CIA, United States Army and DIA recruited
     people who claimed to have ESP.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -58,6 +60,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  copyright_status: publicly_accessible
 - text: The documentary says that the Soviet Union, including the KGB, spent millions
     of dollars annually on ESP phenomena.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -70,6 +73,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-879e75d8-2488-415d-9eee-2298cb76995e
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-879e75d8-2488-415d-9eee-2298cb76995e
+  copyright_status: publicly_accessible
 - text: The documentary says that the CIA secretly funded research at SRI in Menlo
     Park.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -82,6 +86,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-b01ab687-c383-4643-a06e-e08c420cad48
+  copyright_status: publicly_accessible
 - text: The documentary attributes the declassification of approximately 12 million
     pages of programme records to the CIA in 2017.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -94,6 +99,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
+  copyright_status: publicly_accessible
 - text: The documentary reports remote viewers being used in hostage-location operations.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -105,6 +111,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
+  copyright_status: publicly_accessible
 - text: The documentary reports remote viewers tracing fugitive criminals in the United
     States.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -116,6 +123,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
+  copyright_status: publicly_accessible
 - text: The documentary credits Ingo Swann with developing a systematic approach to
     remote viewing.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -128,6 +136,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
+  copyright_status: publicly_accessible
 - text: The documentary says that Swann was approached by SRI scientists and worked
     with Hal Puthoff and Russell Targ.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -140,6 +149,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
+  copyright_status: publicly_accessible
 - text: The documentary describes Swann's Coordinate Remote Viewing method as a structured
     process using visual sensory impressions.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -152,6 +162,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  copyright_status: publicly_accessible
 - text: The documentary says that Swann described Jupiter's atmospheric patterns and
     a previously unknown ring.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -164,6 +175,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-028163cf-995a-45b4-becd-070d7d5ef489
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-028163cf-995a-45b4-becd-070d7d5ef489
+  copyright_status: publicly_accessible
 - text: The documentary says that NASA's Pioneer 10 later confirmed Swann's Jupiter
     findings.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -176,6 +188,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-219b853c-04ea-410c-939f-e756e2515773
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-219b853c-04ea-410c-939f-e756e2515773
+  copyright_status: publicly_accessible
 - text: The documentary reports that Swann provided descriptions of a suspected Soviet
     nuclear-weapons facility later confirmed by satellite imagery.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -188,6 +201,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-22eb2139-6070-42ab-99cf-3680a73e283b
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-22eb2139-6070-42ab-99cf-3680a73e283b
+  copyright_status: publicly_accessible
 - text: The documentary identifies Joseph McMoneagle as remote viewer number 001 and
     reports his participation in approximately 450 missions between 1978 and 1984.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -200,6 +214,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-7a05553e-e4c2-46a2-95ca-0030814269f2
+  copyright_status: publicly_accessible
 - text: The documentary says that the programme moved to Fort Meade and was then funded
     by the DIA.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -211,6 +226,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-0f64cf8f-62f7-41f1-bf67-5b1b8ac5c9e7
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-0f64cf8f-62f7-41f1-bf67-5b1b8ac5c9e7
+  copyright_status: publicly_accessible
 - text: The documentary reports a Pentagon denial of spending on psychic research.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -222,6 +238,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
+  copyright_status: publicly_accessible
 - text: The documentary says that Congress continued approving funds for almost two
     decades.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -234,6 +251,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4d0a32c4-82b0-4006-ae75-e6fc5e85f45e
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4d0a32c4-82b0-4006-ae75-e6fc5e85f45e
+  copyright_status: publicly_accessible
 - text: The documentary says that the CIA released a 1995 report acknowledging government
     work involving remote viewing.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -246,6 +264,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-80b4dac8-65d6-4570-82ac-c07463eaca62
+  copyright_status: publicly_accessible
 - text: The documentary reports Ed Dames's involvement in Project Stargate and his
     claim that Ingo Swann trained him in the 1980s.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -259,6 +278,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
+  copyright_status: publicly_accessible
 - text: Ed Dames said that he was selected as one of five prototype Army members trained
     by Swann during 1983 and 1984.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -272,6 +292,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
+  copyright_status: publicly_accessible
 - text: The documentary reports Dames's remote-viewing session attempting to locate
     Jason Derrick Brown.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -283,6 +304,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-af89bcd9-2fa1-4a07-b767-4e95da22b78e
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-af89bcd9-2fa1-4a07-b767-4e95da22b78e
+  copyright_status: publicly_accessible
 - text: The documentary says that the session did not locate Brown, although Dames
     believed the identified location was his hiding place.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -295,6 +317,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4c00ace1-6155-4d2c-a144-4eda2a48bddf
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4c00ace1-6155-4d2c-a144-4eda2a48bddf
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

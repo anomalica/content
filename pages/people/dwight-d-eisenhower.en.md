@@ -70,6 +70,7 @@ references:
   claim_id: 80c26e04-971b-437d-80c1-439ad5baca2f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-80c26e04-971b-437d-80c1-439ad5baca2f
+  copyright_status: public_domain
 - text: Made the WS-117L satellite reconnaissance programme a high priority after
     Sputnik
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -80,6 +81,7 @@ references:
   claim_id: e20227df-6fc2-46ef-894d-db6f625bdd73
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e20227df-6fc2-46ef-894d-db6f625bdd73
+  copyright_status: public_domain
 - text: Gave the CIA the lead role in the WS-117L/CORONA programme in February 1958
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -90,6 +92,7 @@ references:
   claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a981e9c9-720e-4314-aa44-87c364723d8e
+  copyright_status: public_domain
 - text: Approved the CIA-led Project OXCART programme in 1958
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -99,6 +102,7 @@ references:
   claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+  copyright_status: public_domain
 - text: Passed over Hugh L. Dryden and named T. Keith Glennan NASA Administrator in
     1958
   source: Dark Mission
@@ -106,6 +110,7 @@ references:
   claim_id: 27428509-5275-40c7-a46d-26cb1255227d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-27428509-5275-40c7-a46d-26cb1255227d
+  copyright_status: restricted
 - text: Gerald Light's account of Eisenhower secretly meeting aliens at Muroc Air
     Base, April 1954
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -113,6 +118,7 @@ references:
   claim_id: 15d2fef0-5959-4d79-90ff-d44ceb73e3e6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-15d2fef0-5959-4d79-90ff-d44ceb73e3e6
+  copyright_status: restricted
 - text: Jesse Mitchells' rumour of a 1954 alien deal permitting medical experiments
     on humans
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -122,6 +128,7 @@ references:
   claim_id: 00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
+  copyright_status: publicly_accessible
 - text: Erik Nanstiel's account of a legend involving a Greys deal offered to Eisenhower
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -135,6 +142,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-968ad903-a5a6-4f76-b72b-808843a3d587
+  copyright_status: publicly_accessible
 - text: Erik Nanstiel's account of a second, Nordic deal offered to Eisenhower
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -146,6 +154,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
+  copyright_status: publicly_accessible
 - text: 1984 microfilm mailed to Jaime Shandera appeared to be a top-secret memo to
     President-elect Eisenhower
   source: Dark Mission
@@ -153,6 +162,7 @@ references:
   claim_id: 51fa37da-d42e-453f-bd8e-0ff694ae7154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-51fa37da-d42e-453f-bd8e-0ff694ae7154
+  copyright_status: restricted
 - text: Jonathan Caplan on Majestic 12 documents corroborated by Truman, Forrestal
     and Eisenhower diaries
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -164,6 +174,7 @@ references:
   claim_id: a5149600-7099-45f0-8d34-3063aaa21202
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a5149600-7099-45f0-8d34-3063aaa21202
+  copyright_status: publicly_accessible
 - text: Caplan on Truman and Eisenhower fearing craft arriving in numbers signalled
     imminent attack
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -175,6 +186,7 @@ references:
   claim_id: 2a01f082-2423-4579-9244-500bd103a8f9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2a01f082-2423-4579-9244-500bd103a8f9
+  copyright_status: publicly_accessible
 - text: Caplan on Truman and Eisenhower wanting increased atomic weapons production
     for a war in space
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -186,6 +198,7 @@ references:
   claim_id: 3a03cb60-2de6-4937-9730-2a27f3451f22
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3a03cb60-2de6-4937-9730-2a27f3451f22
+  copyright_status: publicly_accessible
 - text: Caplan used the Truman and Eisenhower diaries to corroborate the MJ-12 documents'
     provenance
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -196,6 +209,7 @@ references:
   claim_id: 663855c6-1333-4331-bcd7-e5165acb56da
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-663855c6-1333-4331-bcd7-e5165acb56da
+  copyright_status: publicly_accessible
 - text: The Blair House meeting of 1949-07-14 recorded in Truman, Eisenhower and Lilienthal
     diaries
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -206,6 +220,7 @@ references:
   claim_id: ff46b514-7430-45fe-a823-765b13a4cf14
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff46b514-7430-45fe-a823-765b13a4cf14
+  copyright_status: publicly_accessible
 - text: Caplan doubts a 1980s forger could have accessed the Truman and Eisenhower
     diaries
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -218,6 +233,7 @@ references:
   claim_id: 36fbd220-c37d-4a0b-a9a3-325e1f7a6ea9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-36fbd220-c37d-4a0b-a9a3-325e1f7a6ea9
+  copyright_status: publicly_accessible
 - text: Luis Elizondo's belief that Eisenhower was among the presidents briefed on
     UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -225,6 +241,7 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  copyright_status: restricted
 - text: David Fravor on Eisenhower warning of the military-industrial complex around
     1962
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -235,6 +252,7 @@ references:
   claim_id: a424116c-e603-49fb-8cac-eebc12be05b8
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a424116c-e603-49fb-8cac-eebc12be05b8
+  copyright_status: publicly_accessible
 - text: Fravor's view that the military-industrial complex became everything Eisenhower
     warned about
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -244,6 +262,7 @@ references:
   claim_id: 97877221-8da9-49e0-aad9-a2bb73a3df8b
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-97877221-8da9-49e0-aad9-a2bb73a3df8b
+  copyright_status: publicly_accessible
 - text: Jacques Vallée on the London Controlling Section being known only to a handful
     of leaders including Eisenhower
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -251,6 +270,7 @@ references:
   claim_id: b7942d85-da22-421a-9099-baa6f053942e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7942d85-da22-421a-9099-baa6f053942e
+  copyright_status: restricted
 - text: Robert Monroe's account of realising Eisenhower was no longer President during
     an out-of-body experience
   source: Journeys Out of the Body
@@ -258,6 +278,7 @@ references:
   claim_id: 9797cb4e-c278-47e4-97da-d043f9cade2d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9797cb4e-c278-47e4-97da-d043f9cade2d
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

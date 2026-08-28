@@ -77,6 +77,7 @@ references:
   claim_id: 8b0a9a42-d5aa-447d-97bd-922cc98ce41b
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
+  copyright_status: publicly_accessible
 - text: Oberg dismissed the STS-80 disk-like object event as identical to STS-48 and
     numerous other shuttle-flight scenes
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -88,6 +89,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
+  copyright_status: publicly_accessible
 - text: Asked by Oberg about the STS-80 objects, Musgrave said he saw nothing unusual
     on the flight
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -99,6 +101,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
+  copyright_status: publicly_accessible
 - text: Oberg described Musgrave as not shy about talking about anomalies of any kind
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1983-2059
@@ -107,6 +110,7 @@ references:
   claim_id: f83c91d6-908e-4a98-a0aa-94ad2e43df90
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-f83c91d6-908e-4a98-a0aa-94ad2e43df90
+  copyright_status: publicly_accessible
 - text: Oberg attempted a rebuttal of the STS-48 footage, suggesting the objects were
     ice particles from the shuttle's thrusters
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -119,6 +123,7 @@ references:
   claim_id: ca174e0c-7265-4a6f-9bf3-7b213b7090d9
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-ca174e0c-7265-4a6f-9bf3-7b213b7090d9
+  copyright_status: publicly_accessible
 - text: Derakhshani considers Oberg's ice-particle explanation a plausible first guess
     but finds the STS-48 data do not fit it well
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -130,6 +135,7 @@ references:
   claim_id: 004dac5c-f4ae-4161-8490-23e7475edb06
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-004dac5c-f4ae-4161-8490-23e7475edb06
+  copyright_status: publicly_accessible
 - text: Oberg claimed the flash in the STS-48 video was from a thruster firing
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:3637-3707
@@ -137,6 +143,7 @@ references:
   claim_id: 7a9e9827-91ac-4d95-915e-1a41290bb5ea
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-7a9e9827-91ac-4d95-915e-1a41290bb5ea
+  copyright_status: publicly_accessible
 - text: Oberg had back-and-forth exchanges with Mark Carlotto and Jack Kasher over
     STS-48, not officially on behalf of NASA
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -149,6 +156,7 @@ references:
   claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-0f63e416-be58-40c7-b227-5668e16084dc
+  copyright_status: publicly_accessible
 - text: NASA commissioned Oberg to write an official NASA book on why the Moon Hoax
     theory is unfounded
   source: Dark Mission
@@ -156,6 +164,7 @@ references:
   claim_id: 97fbbabd-748b-422f-87db-335178e24745
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97fbbabd-748b-422f-87db-335178e24745
+  copyright_status: restricted
 - text: Another part of NASA abruptly cancelled Oberg's contract and withdrew from
     publishing the book
   source: Dark Mission
@@ -163,6 +172,7 @@ references:
   claim_id: 371d215c-5590-4f15-956c-471264a4995b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-371d215c-5590-4f15-956c-471264a4995b
+  copyright_status: restricted
 - text: Days before Young's report, Oberg published a story via United Press International
     accusing JPL employees of knowing the Mars Polar Lander was doomed
   source: Dark Mission
@@ -170,6 +180,7 @@ references:
   claim_id: 8148aac3-0cac-480d-b0af-7c92e8905e4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
+  copyright_status: restricted
 - text: JPL employees denied Oberg's report, calling it bunk, complete nonsense, and
     wacko
   source: Dark Mission
@@ -177,6 +188,7 @@ references:
   claim_id: 8e972af6-9930-40e4-937f-192186bc52b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
+  copyright_status: restricted
 - text: Goldin flew to JPL to address personnel following Oberg's UPI accusation and
     the Young Report's release
   source: Dark Mission
@@ -184,6 +196,7 @@ references:
   claim_id: 8412c745-ebba-4c91-8a2b-42ab3e02c277
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
+  copyright_status: restricted
 - text: Oberg's intervention led to Ken Johnston's dismissal from his unpaid JPL Solar
     System Ambassador position
   source: Dark Mission
@@ -191,12 +204,14 @@ references:
   claim_id: 53a14b17-7848-48c9-a029-3164bb6d8257
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53a14b17-7848-48c9-a029-3164bb6d8257
+  copyright_status: restricted
 - text: Oberg of NBC News made an assault on the integrity of Ken Johnston
   source: Dark Mission
   location: ch5:614-689
   claim_id: 0c15234c-49ad-479a-b5bb-f932119605db
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c15234c-49ad-479a-b5bb-f932119605db
+  copyright_status: restricted
 - text: Oberg dismissed John Glenn's 2001 Frasier comments as simple humour given
     their comedic context
   source: Dark Mission
@@ -204,6 +219,7 @@ references:
   claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
+  copyright_status: restricted
 - text: Mansmann backed Jacobs' account after reading that Oberg and Klass were attacking
     Jacobs' 1964 Vandenberg sighting as fanciful and uncorroborated
   source: In Plain Sight
@@ -211,6 +227,7 @@ references:
   claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
+  copyright_status: restricted
 - text: Oberg was doubtful about AATIP, citing prosaic events and human perceptual
     traits as explanations
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -221,6 +238,7 @@ references:
   claim_id: fd6369cc-93c0-41d3-9afc-58c8e4436f24
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
+  copyright_status: publicly_accessible
 - text: Oberg said many people are active in the air and don't want others to know,
     happy to lurk unrecognised or stir up noise as camouflage
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -232,6 +250,7 @@ references:
   claim_id: 1865e771-b7ed-48c8-98a3-269a93349144
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1865e771-b7ed-48c8-98a3-269a93349144
+  copyright_status: publicly_accessible
 - text: Oberg said he welcomed UFO research and considered there could well be a 'pearl
     there'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -242,6 +261,7 @@ references:
   claim_id: 9140ebaf-97bc-404b-b75a-2736be5ce077
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

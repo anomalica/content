@@ -88,6 +88,7 @@ references:
   claim_id: 345d9e36-b740-4f02-9686-ab67d066322b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-345d9e36-b740-4f02-9686-ab67d066322b
+  copyright_status: restricted
 - text: Kaluza wrote to Einstein in 1919 proposing a fifth dimension to unify gravity
     and electromagnetism
   source: Dark Mission
@@ -95,6 +96,7 @@ references:
   claim_id: 28b7a83a-2d32-44c5-b54f-1f9cb1484e27
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-28b7a83a-2d32-44c5-b54f-1f9cb1484e27
+  copyright_status: restricted
 - text: Kaluza specified a fifth dimension since Einstein had already made time the
     fourth
   source: Dark Mission
@@ -102,12 +104,14 @@ references:
   claim_id: 04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
+  copyright_status: restricted
 - text: Cartan's 1913 refinement of general relativity introduced spacetime torsion
   source: Dark Mission
   location: ch9:93688-94032
   claim_id: 17a45403-03f2-472e-93d9-569fd7169d7a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-17a45403-03f2-472e-93d9-569fd7169d7a
+  copyright_status: restricted
 - text: Einstein called quantum mechanics 'sorcery' over the proliferation of particles
     from atom-smasher experiments
   source: Dark Mission
@@ -115,6 +119,7 @@ references:
   claim_id: 60fbb4d7-100c-4b17-b13b-f7b959b87f2b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60fbb4d7-100c-4b17-b13b-f7b959b87f2b
+  copyright_status: restricted
 - text: Einstein remained sceptical quantum mechanics fully answered the questions
     posed by the physical universe
   source: Dark Mission
@@ -122,6 +127,7 @@ references:
   claim_id: 30a9a987-a413-4644-b682-d523b38b6381
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-30a9a987-a413-4644-b682-d523b38b6381
+  copyright_status: restricted
 - text: Anonymous correspondent said McCampbell's UFOLOGY chapter reinforced their
     belief Einstein was pursuing a unified field theory
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -134,12 +140,14 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
+  copyright_status: public_domain
 - text: In 1932 Einstein said nuclear energy would probably never be obtainable
   source: Communion
   location: ch15:3622-3800
   claim_id: cb8eaa64-a0e5-41f8-8980-3fa53fba1780
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb8eaa64-a0e5-41f8-8980-3fa53fba1780
+  copyright_status: restricted
 - text: Einstein's letter to Roosevelt started the United States toward the atomic
     bomb
   source: Communion
@@ -147,6 +155,7 @@ references:
   claim_id: 27604bc0-92f9-4608-9fde-c4662dbf79a1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-27604bc0-92f9-4608-9fde-c4662dbf79a1
+  copyright_status: restricted
 - text: 'Ramsay: Einstein''s refusal to join the Manhattan Project probably marked
     him as untrustworthy to the US government'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -156,6 +165,7 @@ references:
   claim_id: cd177844-d475-44c5-a5f6-f4746eed1015
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-cd177844-d475-44c5-a5f6-f4746eed1015
+  copyright_status: publicly_accessible
 - text: 'Ramsay: Oppenheimer possibly more involved in the UAP/UFO subject than Einstein'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:35:58.9-00:36:12.0
@@ -164,6 +174,7 @@ references:
   claim_id: 378a0776-7bf7-40c3-a21e-8f5cfa3e00fe
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-378a0776-7bf7-40c3-a21e-8f5cfa3e00fe
+  copyright_status: publicly_accessible
 - text: '1920 Daily Mail interview: Einstein said Mars and other planets are likely
     inhabited'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -173,6 +184,7 @@ references:
   claim_id: a98acf2f-dcf1-4ad8-8492-a90b2236a3f2
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a98acf2f-dcf1-4ad8-8492-a90b2236a3f2
+  copyright_status: publicly_accessible
 - text: Einstein said light rays, not radio, would be the likelier first method of
     interstellar contact
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -184,6 +196,7 @@ references:
   claim_id: 87995137-4edd-4080-8b62-94f3e48fafc2
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-87995137-4edd-4080-8b62-94f3e48fafc2
+  copyright_status: publicly_accessible
 - text: 'Ramsay: Einstein''s 1920 remarks were a response to Marconi''s claimed Mars
     signals'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -194,6 +207,7 @@ references:
   claim_id: 183cbb19-a101-446d-a000-329b10904489
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-183cbb19-a101-446d-a000-329b10904489
+  copyright_status: publicly_accessible
 - text: 'Irish Times: Einstein declined comment on the Roswell reports'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:06:24.4-00:06:30.9
@@ -202,6 +216,7 @@ references:
   claim_id: 4da013bd-4a3a-44fe-8727-26465f1e0672
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4da013bd-4a3a-44fe-8727-26465f1e0672
+  copyright_status: publicly_accessible
 - text: Reverend Gardner asked Einstein whether flying saucers were extraterrestrial
     or military
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -213,6 +228,7 @@ references:
   claim_id: dff5cd39-a375-41c1-864f-9197878cce3c
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-dff5cd39-a375-41c1-864f-9197878cce3c
+  copyright_status: publicly_accessible
 - text: 'Einstein''s 1952 reply to Gardner: ''those people have seen something'''
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:07:29.5-00:07:46.8
@@ -222,6 +238,7 @@ references:
   claim_id: 6e98d6d6-4791-4437-ba0e-9aa040eb5fcf
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-6e98d6d6-4791-4437-ba0e-9aa040eb5fcf
+  copyright_status: publicly_accessible
 - text: 'Edwards: Einstein warned Truman his UFO shoot-down policy was unwise'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:08:40.5-00:08:54.2
@@ -231,6 +248,7 @@ references:
   claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-2692579f-295f-44c3-af8f-05a20f269bc5
+  copyright_status: publicly_accessible
 - text: Edwards's quoted text of Einstein's warning message to Truman
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:08:55.3-00:09:08.6
@@ -240,6 +258,7 @@ references:
   claim_id: ca577fb1-275c-4677-a085-3d18202af3bf
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-ca577fb1-275c-4677-a085-3d18202af3bf
+  copyright_status: publicly_accessible
 - text: Shirley Wright's confession tape describing a Roswell crash-site tour
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:09:12.0-00:09:34.7
@@ -251,6 +270,7 @@ references:
   claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-05c80664-5109-486c-a318-4c8b7ef1fd18
+  copyright_status: publicly_accessible
 - text: 'Ramsay: records show Wright studied under Einstein but not as his official
     assistant'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -261,6 +281,7 @@ references:
   claim_id: 1399b704-030f-4679-96e3-860eef9a8239
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-1399b704-030f-4679-96e3-860eef9a8239
+  copyright_status: publicly_accessible
 - text: The Relationships with Inhabitants of Celestial Bodies allegedly written by
     Einstein and Oppenheimer, June 1947
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -273,6 +294,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
+  copyright_status: publicly_accessible
 - text: Document signed by Oppenheimer and Einstein, both of Princeton
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:34:22.1-00:34:28.5
@@ -281,6 +303,7 @@ references:
   claim_id: fe4802d5-2e4c-4724-963b-bed7dce381af
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-fe4802d5-2e4c-4724-963b-bed7dce381af
+  copyright_status: publicly_accessible
 - text: 'Ramsay: the document''s claim of de facto military acceptance is bold, if
     true'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -289,6 +312,7 @@ references:
   claim_id: 6f59dab2-bdc8-481c-8d30-bd6b14bc2a9a
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-6f59dab2-bdc8-481c-8d30-bd6b14bc2a9a
+  copyright_status: publicly_accessible
 - text: 'Balducci: Einstein said a war after a third world war would be fought with
     bows and arrows'
   source: The Fatima Secret
@@ -296,6 +320,7 @@ references:
   claim_id: 3345f4e7-6b6f-4b58-96d3-20bbae3c7d93
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3345f4e7-6b6f-4b58-96d3-20bbae3c7d93
+  copyright_status: restricted
 - text: 'Hesemann: the Medjugorje prophecy may echo Einstein''s predicted return to
     a primitive state'
   source: The Fatima Secret
@@ -303,6 +328,7 @@ references:
   claim_id: 2caad48b-2a5e-4ace-bac0-258568e47bd7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2caad48b-2a5e-4ace-bac0-258568e47bd7
+  copyright_status: restricted
 - text: 'Wilber: the holographic universe concept was also proposed by Planck and
     Einstein'
   source: The Fatima Secret
@@ -310,6 +336,7 @@ references:
   claim_id: 33f8b670-66e3-49cf-8569-4771269b18c6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-33f8b670-66e3-49cf-8569-4771269b18c6
+  copyright_status: restricted
 - text: 'Einstein: the most beautiful experience is the mysterious, the source of
     true art and science'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -320,6 +347,7 @@ references:
   claim_id: ae130d49-7a85-467c-ae02-8e598e800be5
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-ae130d49-7a85-467c-ae02-8e598e800be5
+  copyright_status: publicly_accessible
 - text: 'Fravor: some of Einstein''s once-fanciful theories have since been experimentally
     proven'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -330,6 +358,7 @@ references:
   claim_id: a95ea89d-a9a3-4b3f-af1b-385123d3260c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a95ea89d-a9a3-4b3f-af1b-385123d3260c
+  copyright_status: publicly_accessible
 - text: 'Fravor: gravity bending light has been experimentally confirmed'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -339,6 +368,7 @@ references:
   claim_id: 006264d6-7cc7-43fc-8491-12530978f201
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-006264d6-7cc7-43fc-8491-12530978f201
+  copyright_status: publicly_accessible
 - text: 'Fravor: leading physicists initially dismissed Einstein''s theories before
     he was proven correct'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -350,6 +380,7 @@ references:
   claim_id: 0c596c5f-79ee-4138-8ebb-3078cbb530af
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0c596c5f-79ee-4138-8ebb-3078cbb530af
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -223,6 +223,7 @@ references:
   claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
+  copyright_status: restricted
 - text: Knapp's interest in UFO secrecy began in 1987
   source: Statement to Congress
   location: char:774-827
@@ -231,6 +232,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
   inspection_url: /records/undated-pdf-statement-to-congress#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
+  copyright_status: public_domain
 - text: Knapp has written hundreds of UFO-related news stories and series
   source: Statement to Congress
   location: char:858-914
@@ -239,6 +241,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
   inspection_url: /records/undated-pdf-statement-to-congress#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
+  copyright_status: public_domain
 - text: Knapp says he began hearing accounts of crashed saucers and secret Nevada
     desert programmes in 1989
   source: Statement to Congress
@@ -249,6 +252,7 @@ references:
   claim_id: f8580dc8-9eb9-4534-97cc-7e2d5b938219
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f8580dc8-9eb9-4534-97cc-7e2d5b938219
+  copyright_status: public_domain
 - text: 1989 interview in which Lazar asserted work on a recovered saucer at the purported
     S-4 facility
   source: In Plain Sight
@@ -256,6 +260,7 @@ references:
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
+  copyright_status: restricted
 - text: Knapp rebutted denials that Lazar worked at Los Alamos, citing Lazar sneaking
     him into the facility
   source: In Plain Sight
@@ -263,6 +268,7 @@ references:
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
+  copyright_status: restricted
 - text: Knapp was the first outside his newsroom to tell Harry Reid about the accounts,
     in 1989
   source: Statement to Congress
@@ -273,6 +279,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
+  copyright_status: public_domain
 - text: Reid said he wanted to hear more, beginning a private conversation lasting
     three decades
   source: Statement to Congress
@@ -282,6 +289,7 @@ references:
   claim_id: df3f5a3a-491b-46ce-91a2-0475ae6e8d97
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-df3f5a3a-491b-46ce-91a2-0475ae6e8d97
+  copyright_status: public_domain
 - text: Knapp kept Reid informed about his reporting, and Reid helped him obtain information
   source: Statement to Congress
   location: char:2926-3095
@@ -291,6 +299,7 @@ references:
   claim_id: 763f1947-5052-4c7c-bddb-ef1dc573f7e2
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-763f1947-5052-4c7c-bddb-ef1dc573f7e2
+  copyright_status: public_domain
 - text: In 1989 Knapp also met billionaire businessman Robert Bigelow
   source: Statement to Congress
   location: char:3359-3529
@@ -300,6 +309,7 @@ references:
   claim_id: 543f9f7f-615c-4e37-9622-857cb58f9a14
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-543f9f7f-615c-4e37-9622-857cb58f9a14
+  copyright_status: public_domain
 - text: Bigelow spent tens of millions of dollars on UFO investigations, more than
     anyone in history
   source: Statement to Congress
@@ -309,6 +319,7 @@ references:
   claim_id: 0e09290a-07f1-47ce-b6dd-60fbd2a11eb2
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-0e09290a-07f1-47ce-b6dd-60fbd2a11eb2
+  copyright_status: public_domain
 - text: In 1996 Bigelow founded the National Institute for Discovery Science
   source: Statement to Congress
   location: char:3770-3863
@@ -318,6 +329,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  copyright_status: public_domain
 - text: The institute's science advisory board included PhD academics, former astronauts,
     and military-linked scientists
   source: Statement to Congress
@@ -328,6 +340,7 @@ references:
   claim_id: 53152143-b62f-4628-a3e6-735e647a5d46
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-53152143-b62f-4628-a3e6-735e647a5d46
+  copyright_status: public_domain
 - text: Knapp informed Reid about the institute and arranged an introduction
   source: Statement to Congress
   location: char:4341-4458
@@ -336,6 +349,7 @@ references:
   claim_id: 35e5bb1a-5a40-476e-8f53-60684432d7ad
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-35e5bb1a-5a40-476e-8f53-60684432d7ad
+  copyright_status: public_domain
 - text: Russia's ongoing interest in UFOs was a subject of interest to Reid, Bigelow
     and the institute
   source: Statement to Congress
@@ -345,6 +359,7 @@ references:
   claim_id: 091269bb-ce73-4706-ac1f-3a06a224d0d7
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-091269bb-ce73-4706-ac1f-3a06a224d0d7
+  copyright_status: public_domain
 - text: In 1993, the Glasnost-era window allowed Western researchers to investigate
     off-limits Soviet subjects
   source: Statement to Congress
@@ -356,6 +371,7 @@ references:
   claim_id: ea1a4375-84d2-4b53-b64e-d362533cc59f
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-ea1a4375-84d2-4b53-b64e-d362533cc59f
+  copyright_status: public_domain
 - text: Knapp met Russian physicist and security adviser Nikolai Kapranov with the
     help of Jim Bilbray
   source: Statement to Congress
@@ -367,6 +383,7 @@ references:
   claim_id: fbc608b2-49e1-42ff-a055-adac51676099
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-fbc608b2-49e1-42ff-a055-adac51676099
+  copyright_status: public_domain
 - text: Knapp asked Kapranov to identify high-ranking figures who could discuss secret
     Russian UFO programmes
   source: Statement to Congress
@@ -378,6 +395,7 @@ references:
   claim_id: 40b18bc7-dcf4-4d26-aa2c-6bd20487792d
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-40b18bc7-dcf4-4d26-aa2c-6bd20487792d
+  copyright_status: public_domain
 - text: In spring 1993 Knapp travelled to Moscow and interviewed more than a dozen
     officials
   source: Statement to Congress
@@ -390,6 +408,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
   inspection_url: /records/undated-pdf-statement-to-congress#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
+  copyright_status: public_domain
 - text: Knapp said the Russian military's UFO investigation was directed by Colonel
     Boris Sokolov
   source: Statement to Congress
@@ -400,6 +419,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
   inspection_url: /records/undated-pdf-statement-to-congress#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
+  copyright_status: public_domain
 - text: Sokolov told Knapp of 45 incidents of Russian warplanes engaging UFOs
   source: Statement to Congress
   location: char:6721-6834
@@ -409,6 +429,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
   inspection_url: /records/undated-pdf-statement-to-congress#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
+  copyright_status: public_domain
 - text: Knapp's Russia information impressed Reid and became a key factor in a later
     secretive programme
   source: Statement to Congress
@@ -418,6 +439,7 @@ references:
   claim_id: 3600aedd-ab76-42ea-a0bf-b2fe12e3a10c
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-3600aedd-ab76-42ea-a0bf-b2fe12e3a10c
+  copyright_status: public_domain
 - text: The 22 million US dollars Reid secured did not fund AATIP but a separate DIA
     effort
   source: Statement to Congress
@@ -427,6 +449,7 @@ references:
   claim_id: 6803435a-e722-408c-8927-aec17b1adc11
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-6803435a-e722-408c-8927-aec17b1adc11
+  copyright_status: public_domain
 - text: That effort was dubbed the Advanced Aerospace Weapon System Applications Program
   source: Statement to Congress
   location: char:9748-9828
@@ -435,6 +458,7 @@ references:
   claim_id: 9e3b5bd8-fdf0-46d7-8c14-2269128a9958
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-9e3b5bd8-fdf0-46d7-8c14-2269128a9958
+  copyright_status: public_domain
 - text: AATIP was launched from the Office of the Undersecretary of Defense for Intelligence,
     managed by Elizondo
   source: Statement to Congress
@@ -446,6 +470,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
   inspection_url: /records/undated-pdf-statement-to-congress#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
+  copyright_status: public_domain
 - text: New York Times reporting on AATIP led to Congress creating the Unidentified
     Aerospace Phenomena Task Force
   source: Statement to Congress
@@ -455,6 +480,7 @@ references:
   claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-195f907f-3606-4e92-9c5c-4094b1bd32f9
+  copyright_status: public_domain
 - text: The first case investigated under the Bigelow-run programme was the 2004 USS
     Nimitz Tic Tac incident
   source: Statement to Congress
@@ -465,6 +491,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-65d88cba-4964-4404-8317-4d894accebdf
   inspection_url: /records/undated-pdf-statement-to-congress#claim-65d88cba-4964-4404-8317-4d894accebdf
+  copyright_status: public_domain
 - text: The programme lasted 27 months rather than the five years originally planned
   source: Statement to Congress
   location: char:12104-12206
@@ -474,6 +501,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
   inspection_url: /records/undated-pdf-statement-to-congress#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
+  copyright_status: public_domain
 - text: By mid-2019 Knapp had for two years defended Elizondo and DeLonge against
     TTSA critics
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -484,6 +512,7 @@ references:
   claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
+  copyright_status: publicly_accessible
 - text: Knapp purchased TTSA stock, not always disclosed in his reporting
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -493,6 +522,7 @@ references:
   claim_id: 1d432dd3-1930-467f-8d43-4ea795a19b4e
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-1d432dd3-1930-467f-8d43-4ea795a19b4e
+  copyright_status: publicly_accessible
 - text: Knapp acknowledged buying 400 TTSA shares in 2018 as support rather than investment
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -503,6 +533,7 @@ references:
   claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-60c27c86-b087-4a81-b759-66b26eb0b951
+  copyright_status: publicly_accessible
 - text: Knapp placed the shares in a charitable trust and believes he now owns none
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -513,6 +544,7 @@ references:
   claim_id: 09e7fa8b-93f3-4d60-a72b-268459968f43
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
+  copyright_status: publicly_accessible
 - text: Eric Davis told Knapp on Coast to Coast AM that 'Threat' in AATIP referred
     to interference with operations
   source: In Plain Sight
@@ -520,6 +552,7 @@ references:
   claim_id: cffc1cf2-fa69-4090-a306-b89b30de2c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffc1cf2-fa69-4090-a306-b89b30de2c6b
+  copyright_status: restricted
 - text: Davis cited the 5 December 1950 Del Rio, Texas case of an alleged recovered
     craft
   source: In Plain Sight
@@ -527,6 +560,7 @@ references:
   claim_id: f1fc926f-a775-4b8b-aafe-14683d8de82a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f1fc926f-a775-4b8b-aafe-14683d8de82a
+  copyright_status: restricted
 - text: Davis told Knapp that recovered extra-terrestrial craft existed, though not
     yet publicly revealed
   source: In Plain Sight
@@ -534,6 +568,7 @@ references:
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
+  copyright_status: restricted
 - text: DeLonge told Knapp of a secret US anti-gravity propulsion breakthrough, March
     2016
   source: In Plain Sight
@@ -541,12 +576,14 @@ references:
   claim_id: 06d15060-3d73-4e11-8a77-a67f2d7285e2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06d15060-3d73-4e11-8a77-a67f2d7285e2
+  copyright_status: restricted
 - text: DeLonge said the US was building machinery with anti-gravity capability
   source: In Plain Sight
   location: ch22:22118-22225
   claim_id: d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
+  copyright_status: restricted
 - text: DeLonge described his first meeting with 'The General' and claims about a
     recovered alien lifeform
   source: In Plain Sight
@@ -554,12 +591,14 @@ references:
   claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
+  copyright_status: restricted
 - text: DeLonge was at pains to describe 'The General' as well-intentioned
   source: In Plain Sight
   location: ch19:3375-3503
   claim_id: 8199b521-0783-4755-9c11-13a18781bf8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8199b521-0783-4755-9c11-13a18781bf8c
+  copyright_status: restricted
 - text: Knapp asked DeLonge why officials would confide in a rock musician, suggesting
     plausible deniability
   source: In Plain Sight
@@ -567,12 +606,14 @@ references:
   claim_id: df5f5d82-80f6-485b-b91e-769db4334e6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
+  copyright_status: restricted
 - text: DeLonge replied officials could discredit anybody, even presidents
   source: In Plain Sight
   location: ch19:5035-5330
   claim_id: a39f8857-f663-47ed-8a61-34af002a0c3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
+  copyright_status: restricted
 - text: Knapp told viewers an Art's Parts sample was engineered in layers thinner
     than microns
   source: In Plain Sight
@@ -580,6 +621,7 @@ references:
   claim_id: 1308ea60-9503-405e-a9b0-97e8ec63b3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1308ea60-9503-405e-a9b0-97e8ec63b3e7
+  copyright_status: restricted
 - text: Knapp called Lazar and arranged to meet at the Union Plaza Hotel after Lazar
     went public
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -589,6 +631,7 @@ references:
   claim_id: 8b5ae965-ab9a-460f-a0b2-5613ca42e423
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-8b5ae965-ab9a-460f-a0b2-5613ca42e423
+  copyright_status: publicly_accessible
 - text: The meeting came relatively soon after Lazar came forward, not months later
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:13:09.3-00:13:15.8
@@ -597,6 +640,7 @@ references:
   claim_id: 9f7410f0-9e41-40f3-875b-6143773424f9
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-9f7410f0-9e41-40f3-875b-6143773424f9
+  copyright_status: publicly_accessible
 - text: Lazar had never mentioned Chuck Payne's name to anyone, including Knapp, before
     a later interview
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -605,6 +649,7 @@ references:
   claim_id: 11c2ca20-06bb-4226-ad53-91ed8b06fb3c
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-11c2ca20-06bb-4226-ad53-91ed8b06fb3c
+  copyright_status: publicly_accessible
 - text: Samosa says Knapp, like Jacques Vallee, has long used the term Collins Elite
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:16:17.3-00:16:27.6
@@ -615,6 +660,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
+  copyright_status: publicly_accessible
 - text: Knapp and Jeremy Corbell received UAP videos and worked to provide them to
     Congress
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -625,6 +671,7 @@ references:
   claim_id: 6733cb31-67f8-4b98-a67f-0eaa330136d2
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-6733cb31-67f8-4b98-a67f-0eaa330136d2
+  copyright_status: publicly_accessible
 - text: Coulthart said Corbell and Knapp were careful to vet sources and secure proper
     redactions
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -637,6 +684,7 @@ references:
   claim_id: 0534f98f-f33a-4a10-8e2c-d159dfe39931
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-0534f98f-f33a-4a10-8e2c-d159dfe39931
+  copyright_status: publicly_accessible
 - text: Coulthart said around 46 videos went to Congress via the Congressional UAP
     Caucus
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -649,6 +697,7 @@ references:
   claim_id: 5c536172-652d-437a-8d98-9ac2de2ffbc4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5c536172-652d-437a-8d98-9ac2de2ffbc4
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -43,6 +43,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
+  copyright_status: public_domain
 - text: AATIP was initially largely funded at Reid's request while he was Senate majority
     leader
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -53,6 +54,7 @@ references:
   claim_id: e230f3dd-513f-4716-9596-d8fc3ba43ece
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
+  copyright_status: publicly_accessible
 - text: AATIP was part of a $22 million programme Reid sponsored to investigate UFOs
   source: Navy pilots describe encounters with UFOs
   location: 00:01:52.4-00:02:00.4
@@ -61,6 +63,7 @@ references:
   claim_id: cfe47eb0-03db-43be-b6f5-52926463edcc
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-cfe47eb0-03db-43be-b6f5-52926463edcc
+  copyright_status: publicly_accessible
 - text: Ted Stevens and Daniel K. Inouye, senior subcommittee members, supported AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -71,6 +74,7 @@ references:
   claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
+  copyright_status: publicly_accessible
 - text: None of Reid, Stevens or Inouye wanted a public Senate floor debate on the
     funding
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -81,6 +85,7 @@ references:
   claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
+  copyright_status: publicly_accessible
 - text: Grusch said his PPD-19 complaint faced routing problems to the Armed Services
     Committees
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -95,6 +100,7 @@ references:
   claim_id: 150ad8f7-3f76-4549-a913-6e6845a35612
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-150ad8f7-3f76-4549-a913-6e6845a35612
+  copyright_status: public_domain
 - text: Grothman said Kirkpatrick testified AARO found no evidence of extraterrestrial
     activity
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -107,6 +113,7 @@ references:
   claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
+  copyright_status: public_domain
 - text: Rubio said some Senate colleagues are very interested in UAP, others dismissive
   source: Navy pilots describe encounters with UFOs
   location: 00:13:01.1-00:13:06.5
@@ -115,6 +122,7 @@ references:
   claim_id: 2df63575-aa18-444b-806a-e69ce0ce18d3
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-2df63575-aa18-444b-806a-e69ce0ce18d3
+  copyright_status: publicly_accessible
 - text: Fravor said senators told him mentioning UAP pre-2017 would get someone laughed
     off Capitol Hill
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -126,6 +134,7 @@ references:
   claim_id: ff4d3d12-d804-4a90-a324-06d7366cdb92
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ff4d3d12-d804-4a90-a324-06d7366cdb92
+  copyright_status: public_domain
 - text: The Senate was taking up an amendment creating a commission with declassification
     authority
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -136,6 +145,7 @@ references:
   claim_id: 6343500e-eb9f-4316-8a5e-bdbf05a2476a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6343500e-eb9f-4316-8a5e-bdbf05a2476a
+  copyright_status: public_domain
 - text: The UAP Disclosure Act was pushed back again by Senator Mitch McConnell in
     2024
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -146,6 +156,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
+  copyright_status: publicly_accessible
 - text: A UAP forum was held in the Kennedy Caucus Room of the Senate
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:01:50.2-00:01:59.2
@@ -155,6 +166,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
+  copyright_status: publicly_accessible
 - text: The Kennedy Caucus Room forum took place in June 2026
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:02:15.7-00:02:19.7
@@ -163,6 +175,7 @@ references:
   claim_id: afc5e83a-564b-4d25-b188-cf547222d1f9
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-afc5e83a-564b-4d25-b188-cf547222d1f9
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

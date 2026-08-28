@@ -50,24 +50,28 @@ references:
   claim_id: 67fdaf08-e23f-417f-acc3-bd110d99dfad
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-67fdaf08-e23f-417f-acc3-bd110d99dfad
+  copyright_status: restricted
 - text: Hubbard married Sara Northrup before founding the Church
   source: Dark Mission
   location: ch. 12
   claim_id: 4bde6a83-7d48-437d-aedf-1ad63d0f6358
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4bde6a83-7d48-437d-aedf-1ad63d0f6358
+  copyright_status: restricted
 - text: Hubbard was Parsons' compatriot in occult rites before founding the Church
   source: Dark Mission
   location: ch. 12
   claim_id: ead61858-187f-4be6-badf-20bf04939405
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ead61858-187f-4be6-badf-20bf04939405
+  copyright_status: restricted
 - text: 'Vallée: Hubbard is said to have practised ritual magic with Parsons'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch. 4
   claim_id: d1872e72-d885-47b3-96e3-15eb776002eb
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d1872e72-d885-47b3-96e3-15eb776002eb
+  copyright_status: restricted
 - text: Vallée links Parsons and Hubbard to the same extraterrestrial-superiority
     belief process
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -75,6 +79,7 @@ references:
   claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
+  copyright_status: restricted
 - text: Church claims Hubbard was sent by the US Navy to infiltrate a black magic
     cult
   source: Dark Mission
@@ -82,6 +87,7 @@ references:
   claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
+  copyright_status: restricted
 - text: Hoagland finds plausible the premise that Hubbard was an ONI informant sent
     to infiltrate the OTO and FAS
   source: Dark Mission
@@ -89,12 +95,14 @@ references:
   claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-630b43e8-dd36-4538-8c53-5db1a973caa7
+  copyright_status: restricted
 - text: FAS described as a group of disaffected Manhattan Project veterans
   source: Dark Mission
   location: ch. 5
   claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23c47feb-7214-4c6f-afc3-a45df43a8bdc
+  copyright_status: restricted
 - text: Hoagland now holds the evidence favours the Church's account of Hubbard's
     role at the OTO temple
   source: Dark Mission
@@ -102,12 +110,14 @@ references:
   claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e75a06c-1766-4b67-82ac-399c975489de
+  copyright_status: restricted
 - text: Bara invited to the L. Ron Hubbard Life Exhibition, October 2008
   source: Dark Mission
   location: ch. 5
   claim_id: 5e304e29-0dff-47f1-a73c-e00bbb5377b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5e304e29-0dff-47f1-a73c-e00bbb5377b2
+  copyright_status: restricted
 - text: Church members sought to correct mischaracterisations in Dark Mission's Hubbard/Parsons
     section
   source: Dark Mission
@@ -115,42 +125,49 @@ references:
   claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b36ea45-237d-4158-b88d-09ac34b727ff
+  copyright_status: restricted
 - text: Church most concerned to convey its teachings are not based on Crowley's Thelema
   source: Dark Mission
   location: ch. 5
   claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fbd98f3-786c-4ba6-9e77-9b394206a763
+  copyright_status: restricted
 - text: Bara considers the Church deserving of the benefit of the doubt on that point
   source: Dark Mission
   location: ch. 5
   claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-676beb92-8657-4bac-8b1a-1e4e3359b8ca
+  copyright_status: restricted
 - text: Church argued Hubbard was sent to infiltrate, not a willing OTO participant
   source: Dark Mission
   location: ch. 5
   claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d7865d7-6307-4398-9e8d-760aada2de21
+  copyright_status: restricted
 - text: Church documents inclined Bara toward the infiltration interpretation
   source: Dark Mission
   location: ch. 5
   claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
+  copyright_status: restricted
 - text: Bill of Sale shows Parsons sold the boat Harpoon to Hubbard
   source: Dark Mission
   location: ch. 5
   claim_id: 2423a791-723b-4afb-9c15-c1117d298e24
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2423a791-723b-4afb-9c15-c1117d298e24
+  copyright_status: restricted
 - text: 'Hoagland: the Church remains a major influence in Hollywood today'
   source: Dark Mission
   location: ch. 12
   claim_id: 99194bf7-cfe7-4d71-b5df-752d16cb634c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99194bf7-cfe7-4d71-b5df-752d16cb634c
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

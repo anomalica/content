@@ -34,6 +34,7 @@ references:
   claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
+  copyright_status: publicly_accessible
 - text: Under the cognisance of the Office of the Under Secretary of Defense for Intelligence
     and Security, the Department of the Navy was asked to lead the UAP Task Force
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -45,6 +46,7 @@ references:
   claim_id: 9d4cb255-01b9-4cf5-8513-793eb12b53e1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d4cb255-01b9-4cf5-8513-793eb12b53e1
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

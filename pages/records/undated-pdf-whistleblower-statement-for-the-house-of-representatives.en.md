@@ -25,6 +25,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-3d41e24a-3fa9-42ed-9a61-1534e80a98cc
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-3d41e24a-3fa9-42ed-9a61-1534e80a98cc
+  copyright_status: public_domain
 - text: Dylan Borland says he worked as a Senior Analyst for BAE Systems.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:583-648
@@ -34,6 +35,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-5fca41fc-9847-4c6d-9ac1-998d73834b3e
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-5fca41fc-9847-4c6d-9ac1-998d73834b3e
+  copyright_status: public_domain
 - text: Dylan Borland says he worked as a Senior Analyst for Intrepid Solutions and
     Services.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -44,6 +46,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-4d01c51b-f244-412c-ad22-fcc2da5a2bbf
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-4d01c51b-f244-412c-ad22-fcc2da5a2bbf
+  copyright_status: public_domain
 - text: Dylan Borland describes his experience analysing video, radar and advanced
     electro-optical imagery.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -55,6 +58,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-c8ae3441-acdd-4e63-8e33-d53e01f98849
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-c8ae3441-acdd-4e63-8e33-d53e01f98849
+  copyright_status: public_domain
 - text: Dylan Borland says he testified to the ICIG and AARO about craft and technologies
     commonly known as UFO or UAP.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -68,6 +72,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-9da8a21c-0067-428a-9240-01b247ed3272
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-9da8a21c-0067-428a-9240-01b247ed3272
+  copyright_status: public_domain
 - text: Dylan Borland says such craft and technologies reportedly operate without
     Congressional oversight.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -79,6 +84,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-b1963836-4946-457e-a421-da01c35a55b7
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-b1963836-4946-457e-a421-da01c35a55b7
+  copyright_status: public_domain
 - text: Dylan Borland describes his 2011–2013 stationing at Langley Air Force Base
     and UAV operations supporting the Global War on Terror.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -91,6 +97,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-c4ab3d14-0248-43b4-af41-5d8dad1d2721
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-c4ab3d14-0248-43b4-af41-5d8dad1d2721
+  copyright_status: public_domain
 - text: Dylan Borland describes seeing an approximately 30-metre-long triangular craft
     at Langley Air Force Base in summer 2012.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -104,6 +111,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-0d5cf6b7-52f4-46da-bc56-24e45165a73c
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-0d5cf6b7-52f4-46da-bc56-24e45165a73c
+  copyright_status: public_domain
 - text: Dylan Borland says the craft interfered with his telephone.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:1893-1923
@@ -113,6 +121,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-c8f4c12c-ea0b-4695-9569-6522b9ee4c34
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-c8f4c12c-ea0b-4695-9569-6522b9ee4c34
+  copyright_status: public_domain
 - text: Dylan Borland says the craft made no sound.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:1934-1951
@@ -122,6 +131,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-8c4de97e-6ac0-495b-b795-68c604dabfcc
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-8c4de97e-6ac0-495b-b795-68c604dabfcc
+  copyright_status: public_domain
 - text: Dylan Borland says the craft's material appeared fluid or dynamic.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:1962-2008
@@ -131,6 +141,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-406c1577-e0d9-44ed-a928-825a95f1abc5
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-406c1577-e0d9-44ed-a928-825a95f1abc5
+  copyright_status: public_domain
 - text: Dylan Borland says the craft ascended to commercial jet altitude in seconds
     after remaining overhead for a few minutes.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -142,6 +153,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-e9d6f209-463b-4c3c-abea-b4870d9dcf8d
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-e9d6f209-463b-4c3c-abea-b4870d9dcf8d
+  copyright_status: public_domain
 - text: Dylan Borland says the ascent produced no kinetic disturbance, sound or wind
     displacement.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -152,6 +164,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-e82aaf08-5e33-4912-9690-70684c217ce8
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-e82aaf08-5e33-4912-9690-70684c217ce8
+  copyright_status: public_domain
 - text: Dylan Borland says he later encountered classified information from the UAP
     legacy crash retrieval program through a sensitive SAP position.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -164,6 +177,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-b92efa31-6eea-45b8-bd43-146da7cc2992
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-b92efa31-6eea-45b8-bd43-146da7cc2992
+  copyright_status: public_domain
 - text: Dylan Borland says retaliation and related experiences led him to become a
     whistleblower in March 2023.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -175,6 +189,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-39b9017f-c02d-4d4f-aa5d-ac79a96e866a
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-39b9017f-c02d-4d4f-aa5d-ac79a96e866a
+  copyright_status: public_domain
 - text: Dylan Borland says he met AARO at the end of March 2023.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:3357-3509
@@ -185,6 +200,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-7c5ea02f-2555-453e-a570-a6d6e9accd08
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-7c5ea02f-2555-453e-a570-a6d6e9accd08
+  copyright_status: public_domain
 - text: Dylan Borland says he went to the ICIG in August 2023 after David Grusch's
     testimony.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -195,6 +211,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-86b39734-c409-41e2-84c4-73d4715a7fda
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-86b39734-c409-41e2-84c4-73d4715a7fda
+  copyright_status: public_domain
 - text: Dylan Borland says his ICIG intake interview was video recorded under oath.
   source: Whistleblower Statement for the House of Representatives Task Force
   location: char:4080-4166
@@ -205,6 +222,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-28cfbac8-da20-4661-af64-6faa42c63ba2
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-28cfbac8-da20-4661-af64-6faa42c63ba2
+  copyright_status: public_domain
 - text: Dylan Borland says he was prevented from resuming prior employment and remained
     blacklisted from certain intelligence agencies.
   source: Whistleblower Statement for the House of Representatives Task Force
@@ -217,6 +235,7 @@ references:
   record_hash: 27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2
   workbench_url: https://workbench.anomalica.is/27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f2#claim-b89a2e82-d48c-4ee8-a91d-db2959ed4a80
   inspection_url: /records/undated-pdf-whistleblower-statement-for-the-house-of-representatives#claim-b89a2e82-d48c-4ee8-a91d-db2959ed4a80
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -68,6 +68,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  copyright_status: publicly_accessible
 - text: CRV entails prompting the viewer with specific geographic coordinates for
     a target site
   source: Remote Viewing Secrets
@@ -75,6 +76,7 @@ references:
   claim_id: c18c1dee-394f-4c3a-bfeb-5b114fabc828
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c18c1dee-394f-4c3a-bfeb-5b114fabc828
+  copyright_status: restricted
 - text: CRV gathers information through a structured process using visual sensory
     impressions
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -85,6 +87,7 @@ references:
   claim_id: 61e23ef9-725a-4296-a210-845275fb2ef8
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-61e23ef9-725a-4296-a210-845275fb2ef8
+  copyright_status: publicly_accessible
 - text: CRV begins with establishing a target and proceeds through structured steps
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -95,12 +98,14 @@ references:
   claim_id: 75e749fe-9123-4656-a264-00658f98c632
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-75e749fe-9123-4656-a264-00658f98c632
+  copyright_status: publicly_accessible
 - text: Targets are identified using a numeric or alpha/numeric series
   source: Remote Viewing Secrets
   location: ch14:8923-9012
   claim_id: 4b0a590b-d264-4256-99c6-7104755f1c4f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4b0a590b-d264-4256-99c6-7104755f1c4f
+  copyright_status: restricted
 - text: Controlled Remote Viewing is sometimes used interchangeably with Coordinate
     Remote Viewing
   source: Remote Viewing Secrets
@@ -108,6 +113,7 @@ references:
   claim_id: 4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
+  copyright_status: restricted
 - text: ERV, CRV, SRV and TRV are named methods; TRV is a variation on Controlled
     Remote Viewing
   source: Remote Viewing Secrets
@@ -116,6 +122,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9c974499-911c-488e-bb66-fdb4c9977b25
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-9c974499-911c-488e-bb66-fdb4c9977b25
+  copyright_status: restricted
 - text: Swann suggested using map coordinates to identify targets, giving rise to
     the coordinate system
   source: Remote Viewing Secrets
@@ -123,30 +130,35 @@ references:
   claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
+  copyright_status: restricted
 - text: Initial targets were large geographic features identified by map coordinates
   source: Remote Viewing Secrets
   location: ch17:10330-10489
   claim_id: ebf83b05-7724-4cb4-9838-e3166865d98e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ebf83b05-7724-4cb4-9838-e3166865d98e
+  copyright_status: restricted
 - text: Sceptics theorised viewers memorised topographical maps by gridlines
   source: Remote Viewing Secrets
   location: ch17:10680-10970
   claim_id: e4a7a7d2-e505-40ee-b187-10c53da1a5d4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e4a7a7d2-e505-40ee-b187-10c53da1a5d4
+  copyright_status: restricted
 - text: Military side of STARGATE used a different, changing map coordinate system
   source: Remote Viewing Secrets
   location: ch17:11119-11361
   claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4602e95f-a749-450f-83e2-aa4365e1b70c
+  copyright_status: restricted
 - text: Real coordinates were sealed in envelopes with false identifiers written outside
   source: Remote Viewing Secrets
   location: ch17:11790-12135
   claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c57b12c7-d9fd-4670-8ecb-1457e1e28a18
+  copyright_status: restricted
 - text: Coordinate targets use sealed-envelope information with no relation to the
     target
   source: Remote Viewing Secrets
@@ -154,6 +166,7 @@ references:
   claim_id: 7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
+  copyright_status: restricted
 - text: Only differences from Outbounder RV are the outbounder's absence and feedback
     method
   source: Remote Viewing Secrets
@@ -161,36 +174,42 @@ references:
   claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
+  copyright_status: restricted
 - text: Feedback in CRV is provided by the person controlling the target information
   source: Remote Viewing Secrets
   location: ch17:13535-13943
   claim_id: 4180bfa9-4af1-466d-866e-887ac9521c68
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4180bfa9-4af1-466d-866e-887ac9521c68
+  copyright_status: restricted
 - text: Mobile targets can be tasked via Outbounder RV, CRV, or sealed-envelope protocols
   source: Remote Viewing Secrets
   location: ch17:21208-21388
   claim_id: 102b7e7f-f680-409a-bf02-ab63d9f62b0d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-102b7e7f-f680-409a-bf02-ab63d9f62b0d
+  copyright_status: restricted
 - text: Abstract concepts can be targeted via coordinates or illustrative photographs
   source: Remote Viewing Secrets
   location: ch17:21739-21906
   claim_id: 5ad48822-f160-42c5-b4f1-867dffe2f460
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5ad48822-f160-42c5-b4f1-867dffe2f460
+  copyright_status: restricted
 - text: Associative RV uses two targets, A and B, rather than one random target
   source: Remote Viewing Secrets
   location: ch17:27746-28079
   claim_id: c5edb116-f4bb-40f3-8845-ea1260d304b2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c5edb116-f4bb-40f3-8845-ea1260d304b2
+  copyright_status: restricted
 - text: Sub-atomic targets use the coordinate protocol but pose framing difficulties
   source: Remote Viewing Secrets
   location: ch17:38768-39031
   claim_id: 7cd679d4-ba1b-421e-8257-94a3186a982d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7cd679d4-ba1b-421e-8257-94a3186a982d
+  copyright_status: restricted
 - text: Swann developed the structure used to train the STARGATE prototype team
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -199,6 +218,7 @@ references:
   claim_id: 1484491c-9df4-47f0-8239-538988885b5e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1484491c-9df4-47f0-8239-538988885b5e
+  copyright_status: publicly_accessible
 - text: Dames's process for locating a target proceeds through four stages
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -207,6 +227,7 @@ references:
   claim_id: 469f0dcb-f055-460d-af00-716fb7433f37
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-469f0dcb-f055-460d-af00-716fb7433f37
+  copyright_status: publicly_accessible
 - text: Target reference numbers are encased in square brackets
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -216,6 +237,7 @@ references:
   claim_id: 2caa4923-14be-4899-81e8-e9ba2a8e6f34
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-2caa4923-14be-4899-81e8-e9ba2a8e6f34
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

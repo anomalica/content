@@ -82,6 +82,7 @@ references:
   claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
+  copyright_status: restricted
 - text: Shepard underwent secret inner-ear surgery enabling him to command Apollo
     14
   source: Dark Mission
@@ -89,6 +90,7 @@ references:
   claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c45e53aa-b1bf-4fd7-8228-ca0408a0d814
+  copyright_status: restricted
 - text: Mitchell piloted the lunar module on 5 February 1971, the sixth man to walk
     on the Moon
   source: In Plain Sight
@@ -96,6 +98,7 @@ references:
   claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
+  copyright_status: restricted
 - text: Shepard took the first golf shot on the Moon during the last extra-vehicular
     activity
   source: Dark Mission
@@ -103,12 +106,14 @@ references:
   claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d7a03f8c-b796-4237-9c59-a16e5f9e7d78
+  copyright_status: restricted
 - text: Shepard's live radio boast that the ball 'went miles and miles'
   source: Dark Mission
   location: ch19:36976-37014
   claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-61287fc3-812c-4c3d-8045-4a0a4dd70685
+  copyright_status: restricted
 - text: Mitchell erected a TV camera two days before the golf shot, broadcasting to
     Earth
   source: Dark Mission
@@ -116,36 +121,42 @@ references:
   claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2aaa09b3-55dd-4b26-86f9-311caaa19463
+  copyright_status: restricted
 - text: AS14-66-9301 shows Mitchell setting up the TV camera, taken by Shepard
   source: Dark Mission
   location: ch19:39378-39574
   claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
+  copyright_status: restricted
 - text: The Spaceman was a close friend of Edgar Mitchell
   source: In Plain Sight
   location: ch25:2064-2211
   claim_id: 5b679c65-a7fe-4865-baed-cbdeecabc868
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
+  copyright_status: restricted
 - text: Mitchell privately confided he saw anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
   claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
+  copyright_status: restricted
 - text: Mitchell saw well-defined blue lights with structure behind them
   source: In Plain Sight
   location: ch25:7434-7577
   claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
+  copyright_status: restricted
 - text: A photograph shows Mitchell with a blue light hovering behind him
   source: In Plain Sight
   location: ch25:7592-7792
   claim_id: 43b17135-ff09-4478-bf70-f4c211ae90a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
+  copyright_status: restricted
 - text: Mitchell said critics would call the light a flare but he saw it with his
     own eyes
   source: In Plain Sight
@@ -153,12 +164,14 @@ references:
   claim_id: 9685e0a5-0402-4267-b92a-228d34e216e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9685e0a5-0402-4267-b92a-228d34e216e1
+  copyright_status: restricted
 - text: Mitchell ruled out flares, reflections and glitches, confirmed on film
   source: In Plain Sight
   location: ch25:10159-10385
   claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
+  copyright_status: restricted
 - text: Return-journey film shows a triangular group of three blue lights near the
     command module
   source: In Plain Sight
@@ -166,36 +179,42 @@ references:
   claim_id: abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
+  copyright_status: restricted
 - text: Mitchell noted the same anomaly on two separate films from two cameras
   source: In Plain Sight
   location: ch25:8762-8965
   claim_id: e430d028-bfdb-4680-a795-a3a1b0c79b4f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e430d028-bfdb-4680-a795-a3a1b0c79b4f
+  copyright_status: restricted
 - text: The camera that photographed Mitchell on the surface remained on the Moon
   source: In Plain Sight
   location: ch25:8974-9097
   claim_id: 5bd209b4-54d0-460e-964c-2ed64e2ad452
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5bd209b4-54d0-460e-964c-2ed64e2ad452
+  copyright_status: restricted
 - text: The camera that filmed the lights near the command module returned with Mitchell
   source: In Plain Sight
   location: ch25:9103-9215
   claim_id: aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
+  copyright_status: restricted
 - text: No blue lights existed inside the lunar module to cause a reflection
   source: In Plain Sight
   location: ch25:9225-9337
   claim_id: a310ac0c-e354-4a52-a88b-8d7ffc29679f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a310ac0c-e354-4a52-a88b-8d7ffc29679f
+  copyright_status: restricted
 - text: Mitchell saw an object with a blue light before docking
   source: In Plain Sight
   location: ch37:3772-3914
   claim_id: 5872a681-b95e-498e-91eb-bdc06694e0a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5872a681-b95e-498e-91eb-bdc06694e0a6
+  copyright_status: restricted
 - text: Mitchell publicly denied seeing a UFO but told The Spaceman he saw strange
     objects throughout the mission
   source: In Plain Sight
@@ -203,36 +222,42 @@ references:
   claim_id: e26da3fe-db13-421b-bad6-ace2ba1dbaf3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e26da3fe-db13-421b-bad6-ace2ba1dbaf3
+  copyright_status: restricted
 - text: Johnston organised a private viewing of the Apollo 14 film for Thornton Page
   source: Dark Mission
   location: ch11:78934-79231
   claim_id: c2dbbe9a-23d5-4e2b-9182-ccefd688b2c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2dbbe9a-23d5-4e2b-9182-ccefd688b2c2
+  copyright_status: restricted
 - text: Johnston set up the film in a reversible sequence projector
   source: Dark Mission
   location: ch11:79243-79482
   claim_id: dfbf7bfb-a969-434e-9864-4aa0eb80d0c4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dfbf7bfb-a969-434e-9864-4aa0eb80d0c4
+  copyright_status: restricted
 - text: A cluster of five or six lights was visible inside a shadowed crater
   source: Dark Mission
   location: ch11:79492-79794
   claim_id: acb09157-919c-4118-b0d6-bfafcae36685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-acb09157-919c-4118-b0d6-bfafcae36685
+  copyright_status: restricted
 - text: The sun angle left about half the crater in shadow
   source: Dark Mission
   location: ch11:79609-79932
   claim_id: 95c2ab93-66a5-41d7-8c38-2341af42e231
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-95c2ab93-66a5-41d7-8c38-2341af42e231
+  copyright_status: restricted
 - text: Most prints in Johnston's collection were from Apollo 12 and Apollo 14
   source: Dark Mission
   location: ch11:91735-91906
   claim_id: fd72b636-ce0d-41e3-a8d3-7c624aaee29d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fd72b636-ce0d-41e3-a8d3-7c624aaee29d
+  copyright_status: restricted
 - text: Apollo 12 and 14 landing sites, 196 km apart in Oceanus Procellarum, were
     the closest of any two Apollo sites
   source: Dark Mission
@@ -240,6 +265,7 @@ references:
   claim_id: fc765127-3627-43b5-94eb-5e8f151ad58b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fc765127-3627-43b5-94eb-5e8f151ad58b
+  copyright_status: restricted
 - text: Computer scanning of Johnston's C-prints revealed geometric detail invisible
     to the naked eye
   source: Dark Mission
@@ -247,6 +273,7 @@ references:
   claim_id: 4a578788-0f16-45b5-b3ac-882c9fc2c3af
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4a578788-0f16-45b5-b3ac-882c9fc2c3af
+  copyright_status: restricted
 - text: Hoagland found two untouched Apollo 14 landing-site panoramas among Johnston's
     photographs
   source: Dark Mission
@@ -254,6 +281,7 @@ references:
   claim_id: 9420adcb-eaf3-456f-8f55-8562561b5e5f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9420adcb-eaf3-456f-8f55-8562561b5e5f
+  copyright_status: restricted
 - text: Hoagland grew more convinced of his lunar dome theory after matching crystalline
     geometry across Apollo 14 and Apollo 12
   source: Dark Mission
@@ -261,6 +289,7 @@ references:
   claim_id: 9389b618-91af-4eeb-8c80-e5f38f09bba5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9389b618-91af-4eeb-8c80-e5f38f09bba5
+  copyright_status: restricted
 - text: Hoagland suggested the ruins might be faint and filtered further by astronauts'
     gold visors
   source: Dark Mission
@@ -268,6 +297,7 @@ references:
   claim_id: 9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

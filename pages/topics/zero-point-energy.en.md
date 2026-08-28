@@ -57,6 +57,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-79646744-ab52-44cd-be49-6183654cf506
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-79646744-ab52-44cd-be49-6183654cf506
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin raised the topic of zero-point energy during a conversation with
     Clarke
   source: Clarke's Believe It or Not
@@ -67,6 +68,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
+  copyright_status: publicly_accessible
 - text: Zero-point energy is theorised by some physicists as a powerful energy source
     in the vacuum of space
   source: Clarke's Believe It or Not
@@ -77,6 +79,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-93fa281f-307b-4ed2-8b6d-6fe2e43126ce
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-93fa281f-307b-4ed2-8b6d-6fe2e43126ce
+  copyright_status: publicly_accessible
 - text: Buzz Aldrin believes it may take 200 to 400 years, but zero-point energy will
     be needed to reach Alpha Centauri
   source: Clarke's Believe It or Not
@@ -87,6 +90,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
+  copyright_status: publicly_accessible
 - text: Arthur C. Clarke said he was glad Aldrin raised the controversial question
     of zero-point energy
   source: Clarke's Believe It or Not
@@ -97,6 +101,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  copyright_status: publicly_accessible
 - text: Richard C. Hoagland regards Quantum Electrodynamics Zero Point Energy as Maxwell's
     hyperdimensional physics under another name
   source: Dark Mission
@@ -104,6 +109,7 @@ references:
   claim_id: 3f6fc901-43c5-4311-9066-0c7a187ebde8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3f6fc901-43c5-4311-9066-0c7a187ebde8
+  copyright_status: restricted
 - text: According to Dark Mission, current quantum mechanics models hold that the
     vacuum possesses a staggering amount of zero-point energy per cubic inch of empty
     space
@@ -112,6 +118,7 @@ references:
   claim_id: de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
+  copyright_status: restricted
 - text: Paul Murad cites a comment that the torsion field is identical to the transverse
     spin polarisation of the physical vacuum
   source: Dark Mission
@@ -119,6 +126,7 @@ references:
   claim_id: e023559c-d7ca-47d0-9530-8c2c2987c4f9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e023559c-d7ca-47d0-9530-8c2c2987c4f9
+  copyright_status: restricted
 - text: Tom DeLonge claimed the US government already knew the secrets of free energy,
     so-called zero-point energy
   source: In Plain Sight
@@ -126,6 +134,7 @@ references:
   claim_id: c5da5a00-587b-4135-aff3-ebd18432bca8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5da5a00-587b-4135-aff3-ebd18432bca8
+  copyright_status: restricted
 - text: Tom DeLonge said one inch of air could power the United States for hundreds
     of years
   source: In Plain Sight
@@ -133,6 +142,7 @@ references:
   claim_id: ae2363ed-3860-43dc-a74f-32e209f64e6f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae2363ed-3860-43dc-a74f-32e209f64e6f
+  copyright_status: restricted
 - text: When pressed by Joe Rogan, DeLonge said Rogan did not know what he knew and
     he could not tell him
   source: In Plain Sight
@@ -140,6 +150,7 @@ references:
   claim_id: 4bd0fdaf-487e-4698-b3cb-713e7599dfcf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bd0fdaf-487e-4698-b3cb-713e7599dfcf
+  copyright_status: restricted
 - text: Gordon Novel's book quoted 'Wally Katz' on funding Puthoff's zero-point energy
     research while keeping the antigravity system a 'Supreme Cosmic Secret'
   source: In Plain Sight
@@ -147,6 +158,7 @@ references:
   claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b8354c6-110a-4284-9c52-9fa70bbda8e6
+  copyright_status: restricted
 - text: Harold Puthoff is an expert on the theory of zero-point energy, positing free
     energy exists in the vacuum of space
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -154,6 +166,7 @@ references:
   claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
+  copyright_status: restricted
 - text: Puthoff proposed the energy to warp space-time might originate from vacuum
     fluctuations, based on zero-point energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -161,6 +174,7 @@ references:
   claim_id: 9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
+  copyright_status: restricted
 - text: Whitley Strieber considers zero-point energy the one known force that might
     enable limitless propulsion in small UFOs
   source: The Fourth Mind
@@ -168,6 +182,7 @@ references:
   claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6aeb81a1-2084-409a-a078-2415a5a27fda
+  copyright_status: restricted
 - text: Zero-point energy is energy drawn from the quantum vacuum, offering unlimited
     energy through science not yet fully explained publicly
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -180,6 +195,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28e703f2-e708-487c-980a-3494dcf86df4
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-28e703f2-e708-487c-980a-3494dcf86df4
+  copyright_status: publicly_accessible
 - text: Coulthart considers development of zero-point energy would be an ontological
     shock, wiping out top companies on the American stock exchange
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -191,6 +207,7 @@ references:
   claim_id: 9d3dbba9-2aba-4875-a322-042329e0387f
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9d3dbba9-2aba-4875-a322-042329e0387f
+  copyright_status: publicly_accessible
 - text: Coulthart considers many wealthy business people do not want the public to
     have free energy
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -201,6 +218,7 @@ references:
   claim_id: b7a062ad-3a5f-4856-ac9c-6ea08dcec89e
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-b7a062ad-3a5f-4856-ac9c-6ea08dcec89e
+  copyright_status: publicly_accessible
 - text: Chris Ramsay equates the oneness measured in quantum physics observed in the
     zero-point field with unconditional love
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -214,6 +232,7 @@ references:
   claim_id: 2aff2fb8-c3c7-4098-b483-3669450e2cd8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-2aff2fb8-c3c7-4098-b483-3669450e2cd8
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

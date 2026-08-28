@@ -23,6 +23,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1f7d66d1-1824-4f5b-bd2d-d088054a182e
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-1f7d66d1-1824-4f5b-bd2d-d088054a182e
+  copyright_status: restricted
 - text: Jacques Vallée conducted research into occult groups in California by joining
     some as a participant-observer.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -32,6 +33,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-35c8a1f0-fcee-43a5-8e33-bd14f271659d
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-35c8a1f0-fcee-43a5-8e33-bd14f271659d
+  copyright_status: restricted
 - text: Jacques Vallée found no consistent belief system among the occult groups he
     studied, but found that all claimed contact with an alien intelligence.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -41,6 +43,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8fd68633-29c4-4fe7-a495-2db99d3cbae3
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-8fd68633-29c4-4fe7-a495-2db99d3cbae3
+  copyright_status: restricted
 - text: Jacques Vallée defined direct contactees as people who claim to have witnessed
     an unexplained physical phenomenon and developed a personal relationship with
     its supposed intelligence.
@@ -51,6 +54,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5dde945c-f793-4240-8e5f-6c24d18a8026
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-5dde945c-f793-4240-8e5f-6c24d18a8026
+  copyright_status: restricted
 - text: Jacques Vallée defined indirect contactees as people who have not witnessed
     unexplained phenomena but believe they have a personal link to an intelligent
     cause.
@@ -61,6 +65,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-65b99830-9823-41ec-ada5-06a74b1a3e79
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-65b99830-9823-41ec-ada5-06a74b1a3e79
+  copyright_status: restricted
 - text: Jacques Vallée concluded that UFOs may be physical devices used to affect
     human consciousness and social change.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -70,6 +75,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6ed200f1-26b2-4d63-a9d5-6565e82c5a37
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6ed200f1-26b2-4d63-a9d5-6565e82c5a37
+  copyright_status: restricted
 - text: The group later known as Heaven's Gate was referred to at the time as Human
     Individual Metamorphosis and urged followers to abandon earthly possessions.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -79,6 +85,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-becc28e2-31bb-4d17-b6f5-dd964011429c
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-becc28e2-31bb-4d17-b6f5-dd964011429c
+  copyright_status: restricted
 - text: According to the source, members of Heaven's Gate committed collective suicide
     in March 1997.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -88,6 +95,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-594640e6-2e1d-4c91-87c2-a349cbe1d335
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-594640e6-2e1d-4c91-87c2-a349cbe1d335
+  copyright_status: restricted
 - text: According to the source, members of the Order of the Solar Temple were killed
     in mass killings in Canada, France and Switzerland in 1994.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -97,6 +105,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a27b238f-e0b7-4ef4-9af1-b8c9d5714efe
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-a27b238f-e0b7-4ef4-9af1-b8c9d5714efe
+  copyright_status: restricted
 - text: Jacques Vallée considered the Order of the Solar Temple killings an example
     of dangerous mind control and simulated extraterrestrial contact.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -106,6 +115,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bcab7d10-f7d4-4aa5-a2be-507a6ac737af
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-bcab7d10-f7d4-4aa5-a2be-507a6ac737af
+  copyright_status: restricted
 - text: Jacques Vallée reported that cattle mutilations are often associated with
     UFO sightings in the western United States.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -115,6 +125,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
+  copyright_status: restricted
 - text: According to the source, 700 cattle mutilations were reported across 15 western
     US states during an 18-month period before January 1977.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -124,6 +135,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
+  copyright_status: restricted
 - text: The imaginary abductees hypnosis study found that many aspects of abduction
     experiences may originate in the witness's mind.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -133,6 +145,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-713dc730-3dd4-48b9-bfb7-7a4c885739e0
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-713dc730-3dd4-48b9-bfb7-7a4c885739e0
+  copyright_status: restricted
 - text: Jacques Vallée stated that he had found no evidence that UFOs represented
     visitors from outer space, despite considering the phenomenon real.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -142,6 +155,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a8729e4c-b4fd-4d55-b361-47c714a445a8
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-a8729e4c-b4fd-4d55-b361-47c714a445a8
+  copyright_status: restricted
 - text: Jacques Vallée described the UFO phenomenon as physical, psycho-physiological
     and social.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -151,6 +165,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
+  copyright_status: restricted
 - text: Jacques Vallée warned that contactees' unquestioning faith in extraterrestrial
     salvation could expose believers to manipulation.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -160,6 +175,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8bed8fc4-01da-4e77-8e31-9f67862b6f9b
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-8bed8fc4-01da-4e77-8e31-9f67862b6f9b
+  copyright_status: restricted
 - text: Jacques Vallée considered the expectation of space visitors to be creating
     new religious, cultural and political concepts.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -169,6 +185,7 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-20be5423-1d7b-4f1b-b0d1-5e2f02ac4919
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-20be5423-1d7b-4f1b-b0d1-5e2f02ac4919
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

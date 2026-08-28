@@ -97,6 +97,7 @@ references:
   claim_id: a21d3788-a3fe-46be-ae06-0070cf820071
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a21d3788-a3fe-46be-ae06-0070cf820071
+  copyright_status: publicly_accessible
 - text: Weapon systems operators are not pilots, a distinct role
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -105,6 +106,7 @@ references:
   claim_id: 840ddb54-e82a-42eb-b3f5-e85b979dbd5d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-840ddb54-e82a-42eb-b3f5-e85b979dbd5d
+  copyright_status: publicly_accessible
 - text: WSO handles most radio communications
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -114,6 +116,7 @@ references:
   claim_id: fbfd233a-2b71-4f09-a0c7-6a3e5c6ba436
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-fbfd233a-2b71-4f09-a0c7-6a3e5c6ba436
+  copyright_status: publicly_accessible
 - text: Legacy F/A-18 Hornet carries less fuel than the Super Hornet
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -123,6 +126,7 @@ references:
   claim_id: 9031b8e1-00b9-4574-b91c-d9baac8abd83
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9031b8e1-00b9-4574-b91c-d9baac8abd83
+  copyright_status: publicly_accessible
 - text: Introduction of the WSO back seat created friction at Lemoore
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -133,6 +137,7 @@ references:
   claim_id: a707cd0f-1e9b-443f-93aa-28288f16448c
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-a707cd0f-1e9b-443f-93aa-28288f16448c
+  copyright_status: publicly_accessible
 - text: Fravor shifted to flying Super Hornets after 2001
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -141,6 +146,7 @@ references:
   claim_id: d4161bf8-1e93-4860-b49d-b6327cadabb4
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d4161bf8-1e93-4860-b49d-b6327cadabb4
+  copyright_status: publicly_accessible
 - text: Fravor flew the two-seat variant while commanding VFA-41
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -149,6 +155,7 @@ references:
   claim_id: 79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
+  copyright_status: publicly_accessible
 - text: Fravor visited the Boeing factory in St. Louis after his first Super Hornet
     cruise
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -159,6 +166,7 @@ references:
   claim_id: 8b4829dc-9fc8-4b29-8a37-22e1033aa679
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8b4829dc-9fc8-4b29-8a37-22e1033aa679
+  copyright_status: publicly_accessible
 - text: Fravor signed the inside of an aircraft's wing during assembly
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -168,6 +176,7 @@ references:
   claim_id: ffc8ea23-c493-4acb-8573-b12347549e9a
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ffc8ea23-c493-4acb-8573-b12347549e9a
+  copyright_status: publicly_accessible
 - text: Situational awareness display linked to all other aircraft in the network
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -177,6 +186,7 @@ references:
   claim_id: 90e76de5-fae8-4d69-bf2a-201c18c880f6
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-90e76de5-fae8-4d69-bf2a-201c18c880f6
+  copyright_status: publicly_accessible
 - text: Networked digital link fuses sensor data across aircraft in real time
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -187,6 +197,7 @@ references:
   claim_id: 2382913d-74a3-4df0-90d5-28cbc7b93247
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-2382913d-74a3-4df0-90d5-28cbc7b93247
+  copyright_status: publicly_accessible
 - text: Block two WSO display ~20x25cm, pilot display ~15x15cm
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -197,6 +208,7 @@ references:
   claim_id: e5fcdf7e-0403-4270-93cd-cb25919c1430
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e5fcdf7e-0403-4270-93cd-cb25919c1430
+  copyright_status: publicly_accessible
 - text: Boeing was planning to redesign the pilot's display
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -205,6 +217,7 @@ references:
   claim_id: 9a2bdc28-7e4b-4287-a079-ff2812971c61
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-9a2bdc28-7e4b-4287-a079-ff2812971c61
+  copyright_status: publicly_accessible
 - text: Helmet-mounted cueing system maps the cockpit's magnetic field
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -214,6 +227,7 @@ references:
   claim_id: 3ba13736-4d20-4270-93a7-e744cae1ebcd
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-3ba13736-4d20-4270-93a7-e744cae1ebcd
+  copyright_status: publicly_accessible
 - text: Turning the pilot's head slews the radar and targeting pod
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -223,6 +237,7 @@ references:
   claim_id: 37ed27f4-f94c-4b8a-8298-aa2dad8305bf
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-37ed27f4-f94c-4b8a-8298-aa2dad8305bf
+  copyright_status: publicly_accessible
 - text: WSO's helmet can independently slew whichever sensor he controls
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -233,6 +248,7 @@ references:
   claim_id: ae76954b-62fb-4bf5-9efc-93c7164ebaba
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ae76954b-62fb-4bf5-9efc-93c7164ebaba
+  copyright_status: publicly_accessible
 - text: Phased-array radar does not need to mechanically scan
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -241,6 +257,7 @@ references:
   claim_id: e16e37ac-2fa9-4c2b-8173-954c739beb41
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e16e37ac-2fa9-4c2b-8173-954c739beb41
+  copyright_status: publicly_accessible
 - text: Gimbal video aircraft equipped with AN/APG-79 radar made by Raytheon
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -250,6 +267,7 @@ references:
   claim_id: bf86aeab-838c-4b05-8ec6-b2040285ab3f
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-bf86aeab-838c-4b05-8ec6-b2040285ab3f
+  copyright_status: publicly_accessible
 - text: 'Fravor: helmet cueing plus JDAM cut targeting time from minutes to seconds'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -260,6 +278,7 @@ references:
   claim_id: f8f950c7-f1d4-45d5-b756-69ae7082d672
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-f8f950c7-f1d4-45d5-b756-69ae7082d672
+  copyright_status: publicly_accessible
 - text: Rated for 7.5 G, does not overstress until 8.1 G depending on fuel weight
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -269,6 +288,7 @@ references:
   claim_id: 1ba0c3d6-2aff-4995-8f07-531728db1c65
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1ba0c3d6-2aff-4995-8f07-531728db1c65
+  copyright_status: publicly_accessible
 - text: Fravor routinely experienced around 8 G in the aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -277,6 +297,7 @@ references:
   claim_id: b6ffa9a7-6679-467c-80ae-e84a2edea4f8
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b6ffa9a7-6679-467c-80ae-e84a2edea4f8
+  copyright_status: publicly_accessible
 - text: Split-S manoeuvre completed in approximately 760 metres
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -286,6 +307,7 @@ references:
   claim_id: ffe50373-966c-4068-80c0-e63a5ec273c0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-ffe50373-966c-4068-80c0-e63a5ec273c0
+  copyright_status: publicly_accessible
 - text: Speed brakes stop functioning at high supersonic speed as flight controls
     deform
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -296,6 +318,7 @@ references:
   claim_id: 779837eb-f82a-4a66-abc9-e7aff7162978
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-779837eb-f82a-4a66-abc9-e7aff7162978
+  copyright_status: publicly_accessible
 - text: Fravor's Mach 1.78 flight was unarmed with no external pylons or pods
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -305,6 +328,7 @@ references:
   claim_id: 1260e19c-c38e-47e7-be4a-d3f565b462a7
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1260e19c-c38e-47e7-be4a-d3f565b462a7
+  copyright_status: publicly_accessible
 - text: At Mach 1.78 ejection would have been fatal; no safety margin
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -314,6 +338,7 @@ references:
   claim_id: 0289a0a6-3967-45ab-bc62-b15619a24ff8
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0289a0a6-3967-45ab-bc62-b15619a24ff8
+  copyright_status: publicly_accessible
 - text: Fravor and three crew flew two Super Hornets after training mission cancelled,
     2004
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -324,6 +349,7 @@ references:
   claim_id: 1bd21bee-7cce-46da-9f7d-e19d6616cd2e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1bd21bee-7cce-46da-9f7d-e19d6616cd2e
+  copyright_status: publicly_accessible
 - text: AATIP released video of whitish oval object chased by two Super Hornets from
     USS Nimitz off San Diego, 2004
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -335,6 +361,7 @@ references:
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
+  copyright_status: publicly_accessible
 - text: AATIP collected footage of Super Hornet encounter with glowing-aura object
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -345,6 +372,7 @@ references:
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
+  copyright_status: publicly_accessible
 - text: Defense officials declined to release location and date of the glowing-aura
     incident
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -354,6 +382,7 @@ references:
   claim_id: e3fba71b-74a3-4946-8db4-85ff858c0891
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e3fba71b-74a3-4946-8db4-85ff858c0891
+  copyright_status: publicly_accessible
 - text: Graves was a Super Hornet pilot in VFA-11 at NAS Oceana, Virginia Beach, 2014
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -363,6 +392,7 @@ references:
   claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
+  copyright_status: public_domain
 - text: Two Super Hornets split apart by a UAP in Warning Area W-72
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -372,6 +402,7 @@ references:
   claim_id: 63a416b2-3a51-4242-be1e-cf61f391fb01
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
+  copyright_status: public_domain
 - text: Mission commander terminated the flight and returned to base
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -380,6 +411,7 @@ references:
   claim_id: 86627e17-620d-4516-84d6-9779498444a4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-86627e17-620d-4516-84d6-9779498444a4
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

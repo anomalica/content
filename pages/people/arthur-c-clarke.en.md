@@ -60,6 +60,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-940a04b1-c77f-4e4a-bde4-695a1d1e0d7f
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-940a04b1-c77f-4e4a-bde4-695a1d1e0d7f
+  copyright_status: publicly_accessible
 - text: At the end of the novel, David Bowman finds himself in a hotel room with a
     television above the bed, replaced by the monolith in the film
   source: American Cosmic
@@ -67,6 +68,7 @@ references:
   claim_id: e1196d31-e64d-4e54-b0b9-957e3b364b9b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e1196d31-e64d-4e54-b0b9-957e3b364b9b
+  copyright_status: restricted
 - text: Clarke told Space.com he was fairly convinced life had been discovered on
     Mars
   source: Clarke's Believe It or Not
@@ -77,6 +79,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-042c1ccb-0001-4227-a733-1a881c96809e
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-042c1ccb-0001-4227-a733-1a881c96809e
+  copyright_status: publicly_accessible
 - text: Clarke made the remarks while Buzz Aldrin listened
   source: Clarke's Believe It or Not
   location: char:308-330
@@ -85,6 +88,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
+  copyright_status: publicly_accessible
 - text: Clarke considered JPL photographs convincing proof of large forms of life
     on Mars
   source: Clarke's Believe It or Not
@@ -96,6 +100,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-0fd37e23-7ff8-48c4-8434-3d16278aae71
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-0fd37e23-7ff8-48c4-8434-3d16278aae71
+  copyright_status: publicly_accessible
 - text: Aldrin did not comment, instead raising zero-point energy
   source: Clarke's Believe It or Not
   location: char:566-667
@@ -105,6 +110,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
+  copyright_status: publicly_accessible
 - text: Aldrin asked Clarke to confirm zero-point energy would be needed to reach
     Alpha Centauri
   source: Clarke's Believe It or Not
@@ -114,6 +120,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1ea62656-0eb1-411b-94fb-617dc313159b
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1ea62656-0eb1-411b-94fb-617dc313159b
+  copyright_status: publicly_accessible
 - text: Clarke said he was glad Aldrin raised the question of zero-point energy
   source: Clarke's Believe It or Not
   location: char:993-1067
@@ -123,6 +130,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  copyright_status: publicly_accessible
 - text: Clarke said many scientist friends think zero-point energy is crazy
   source: Clarke's Believe It or Not
   location: char:1074-1145
@@ -131,6 +139,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-79646744-ab52-44cd-be49-6183654cf506
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-79646744-ab52-44cd-be49-6183654cf506
+  copyright_status: publicly_accessible
 - text: Clarke said the idea of new energy forms started with cold fusion, laughed
     out of court
   source: Clarke's Believe It or Not
@@ -141,6 +150,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-5acc57db-abaf-4b23-b586-a21412d14c16
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-5acc57db-abaf-4b23-b586-a21412d14c16
+  copyright_status: publicly_accessible
 - text: Clarke convinced new forms of energy make nuclear energy trivial by comparison
   source: Clarke's Believe It or Not
   location: char:1242-1372
@@ -150,6 +160,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8f1a9140-b18d-41b3-8b17-d7443a6ff26e
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8f1a9140-b18d-41b3-8b17-d7443a6ff26e
+  copyright_status: publicly_accessible
 - text: Clarke believes controlling new energy forms will open up the universe
   source: Clarke's Believe It or Not
   location: char:1384-1449
@@ -158,6 +169,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8447e1de-a2c2-4871-a469-492f80421625
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8447e1de-a2c2-4871-a469-492f80421625
+  copyright_status: publicly_accessible
 - text: Clarke rebutted people who refuse to believe well-documented Apollo missions
   source: Clarke's Believe It or Not
   location: char:1464-1587
@@ -167,6 +179,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-6995966b-7f39-4a82-8266-e859e1af6ade
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-6995966b-7f39-4a82-8266-e859e1af6ade
+  copyright_status: publicly_accessible
 - text: Clarke considered it inconceivable Apollo could have been faked
   source: Clarke's Believe It or Not
   location: char:1694-1899
@@ -177,6 +190,7 @@ references:
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-5ee33a9b-2dae-4e7d-aea5-6ac92ecf71ab
   inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-5ee33a9b-2dae-4e7d-aea5-6ac92ecf71ab
+  copyright_status: publicly_accessible
 - text: In December 2000, after seeing glass tube images on Hoagland's website, Clarke
     raised them at a Planetary Society event
   source: Dark Mission
@@ -184,6 +198,7 @@ references:
   claim_id: 3f6248e1-a97d-4919-80b2-e565482c6f7e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3f6248e1-a97d-4919-80b2-e565482c6f7e
+  copyright_status: restricted
 - text: Clarke believed the glass tube images were evidence of life, possibly fossil
     remains
   source: Dark Mission
@@ -191,12 +206,14 @@ references:
   claim_id: 40373828-fcc6-4d51-936d-e2311928ce59
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40373828-fcc6-4d51-936d-e2311928ce59
+  copyright_status: restricted
 - text: Louis Friedman abruptly ended the video conference
   source: Dark Mission
   location: ch14:37137-37266
   claim_id: 394a80f4-3885-4f9a-8b9f-78e390b12abd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-394a80f4-3885-4f9a-8b9f-78e390b12abd
+  copyright_status: restricted
 - text: Clarke said he was fairly convinced life on Mars had been discovered, citing
     JPL photographs
   source: Dark Mission
@@ -204,12 +221,14 @@ references:
   claim_id: d16c11d1-c03e-4491-b7f2-c1588234fc0f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d16c11d1-c03e-4491-b7f2-c1588234fc0f
+  copyright_status: restricted
 - text: NASA staff geologists attacked Clarke personally
   source: Dark Mission
   location: ch14:38283-38358
   claim_id: c21c00b3-e67f-4de5-b562-c5e2a6304a40
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c21c00b3-e67f-4de5-b562-c5e2a6304a40
+  copyright_status: restricted
 - text: Hoagland noted a Cydonia tunnel feature's similarity to the Glass Tunnels
     of Mars, which excited Clarke in 2001
   source: Dark Mission
@@ -217,6 +236,7 @@ references:
   claim_id: ddfc45f2-a076-4b25-8d2e-0ce727f49847
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddfc45f2-a076-4b25-8d2e-0ce727f49847
+  copyright_status: restricted
 - text: Clarke stated any sufficiently advanced technology is indistinguishable from
     magic
   source: American Cosmic
@@ -224,6 +244,7 @@ references:
   claim_id: 2af41cc1-79d7-420b-a7e2-bd7362861dfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2af41cc1-79d7-420b-a7e2-bd7362861dfc
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

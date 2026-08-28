@@ -38,12 +38,14 @@ references:
   claim_id: 661177b7-7703-49db-9802-432de87cb4cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-661177b7-7703-49db-9802-432de87cb4cc
+  copyright_status: restricted
 - text: TRW was eventually purchased by Northrop Grumman.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:1719-1791
   claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
+  copyright_status: restricted
 - text: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing the big
     three US defence companies.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -54,6 +56,7 @@ references:
   claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-43130faf-5eb5-42b4-8861-c28b2737d2a0
+  copyright_status: publicly_accessible
 - text: By spring 2006 signs pointed to Northrop Grumman and Boeing winning the initial
     CEV contract.
   source: Dark Mission
@@ -61,6 +64,7 @@ references:
   claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+  copyright_status: restricted
 - text: NASA told Lockheed Martin to redesign its CEV proposal to resemble Northrop
     Grumman's Apollo-style concept.
   source: Dark Mission
@@ -68,6 +72,7 @@ references:
   claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35472f81-4786-4edc-a01b-01b1a7f92436
+  copyright_status: restricted
 - text: Lockheed Martin's avionics proposal needed extensive development, while Northrop
     Grumman's used proven electronics.
   source: Dark Mission
@@ -75,6 +80,7 @@ references:
   claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5036a5ea-d555-42f0-be8f-fa95c1da950a
+  copyright_status: restricted
 - text: On submitting final 2006 CEV designs, Northrop Grumman officials were confident
     theirs surpassed Lockheed Martin's.
   source: Dark Mission
@@ -82,6 +88,7 @@ references:
   claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25cd09e2-4179-4144-b7c5-519ca13ee8c2
+  copyright_status: restricted
 - text: The Northrop Grumman-built RQ-4 Global Hawk is the largest UAS operated by
     the USAF.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -92,6 +99,7 @@ references:
   claim_id: d0708ea5-ccbc-48bf-96de-e6520c0c7110
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d0708ea5-ccbc-48bf-96de-e6520c0c7110
+  copyright_status: public_domain
 - text: 'Elizondo: senior officials named Northrop Grumman and others as Legacy Program
     firms involved in crash-material retrieval.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -99,6 +107,7 @@ references:
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  copyright_status: restricted
 - text: 'UAP Gerb: allegations that Lockheed Martin Space Systems Company and Northrop
     Grumman ran self-funded retrieval activities.'
   source: 'Episode 73: Science vs. Secrecy'
@@ -109,6 +118,7 @@ references:
   claim_id: 31626a94-6157-4424-9461-695aaaf77fc7
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-31626a94-6157-4424-9461-695aaaf77fc7
+  copyright_status: publicly_accessible
 - text: Puthoff has come across similar allegations about the two companies' self-funded
     retrieval activities.
   source: 'Episode 73: Science vs. Secrecy'
@@ -118,6 +128,7 @@ references:
   claim_id: de48055e-72ce-417d-bec1-f8c675938df8
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-de48055e-72ce-417d-bec1-f8c675938df8
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

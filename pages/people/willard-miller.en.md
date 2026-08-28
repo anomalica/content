@@ -117,12 +117,14 @@ references:
   claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
+  copyright_status: restricted
 - text: Previously served as a navy reservist on Admiral Thomas Wilson's staff
   source: In Plain Sight
   location: ch14, char 9689-9759
   claim_id: 3c5a1c3c-1117-46f5-b7af-522b3e5231df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c5a1c3c-1117-46f5-b7af-522b3e5231df
+  copyright_status: restricted
 - text: Presented Wilson with evidence supporting a belief in a government cover-up
     of alien visitation
   source: In Plain Sight
@@ -130,6 +132,7 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
+  copyright_status: restricted
 - text: April 1997 Pentagon briefing held with Crawford and Hughes present
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1217-1381
@@ -139,18 +142,21 @@ references:
   claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+  copyright_status: public_domain
 - text: Miller corroborated Greer's account of Wilson's frustration at the briefing
   source: In Plain Sight
   location: ch14, char 15145-15234
   claim_id: ade03666-fb02-471b-91e5-44b987726c58
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
+  copyright_status: restricted
 - text: Adamiak, Lovekin, Mitchell and Miller backed Greer's account of the meeting
   source: In Plain Sight
   location: ch14, char 23846-23991
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
+  copyright_status: restricted
 - text: Private two-hour conversation between Miller and Wilson after the briefing
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1412-1527
@@ -159,36 +165,42 @@ references:
   claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-fc4bd834-e0b6-4596-b0df-d2d4f30718d7
+  copyright_status: public_domain
 - text: Miller said an aide to Wilson admitted the MJ-12 conspiracy was real
   source: In Plain Sight
   location: ch14, char 15247-15454
   claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-029cf75f-82ce-49d6-a5ab-6143ef4334fa
+  copyright_status: restricted
 - text: 1998 DIA briefing of Lieutenant General Hughes on UFOs
   source: In Plain Sight
   location: ch14, char 18395-18635
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
+  copyright_status: restricted
 - text: Greer and Miller invited back months later to discuss UAPs
   source: In Plain Sight
   location: ch14, char 23223-23369
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
+  copyright_status: restricted
 - text: The Admiral Wilson Memo supports what the group said they were told
   source: In Plain Sight
   location: ch26, char 2846-3151
   claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
+  copyright_status: restricted
 - text: Wilson, colleagues and Miller cast doubt on the memo's authenticity
   source: In Plain Sight
   location: ch26, char 24177-24303
   claim_id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
+  copyright_status: restricted
 - text: Miller spoke to Leslie Kean; Boston Globe articles referenced Wilson
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9814-9929
@@ -198,6 +210,7 @@ references:
   claim_id: f667379a-0653-48c9-a3ba-3b807a133b4d
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f667379a-0653-48c9-a3ba-3b807a133b4d
+  copyright_status: public_domain
 - text: Wilson was visibly angry about Miller in a 2002 meeting
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9358-9429
@@ -206,6 +219,7 @@ references:
   claim_id: 33b0402e-38e2-4600-83bd-82d58633a6d1
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-33b0402e-38e2-4600-83bd-82d58633a6d1
+  copyright_status: public_domain
 - text: Wilson considered Miller had violated professional trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9438-9580
@@ -216,6 +230,7 @@ references:
   claim_id: 12562420-45b9-4777-9916-02d408cd9c84
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-12562420-45b9-4777-9916-02d408cd9c84
+  copyright_status: public_domain
 - text: Wilson told Miller he had been right about a MJ-12-like organisation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1738-1852
@@ -224,6 +239,7 @@ references:
   claim_id: 7e453fb5-de9c-4569-8caf-e3413a2627ce
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-7e453fb5-de9c-4569-8caf-e3413a2627ce
+  copyright_status: public_domain
 - text: Miller told Greer about his conversation with Wilson
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9668-9692
@@ -231,6 +247,7 @@ references:
   claim_id: 60bdf326-c23d-4319-b016-e78a06211b34
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-60bdf326-c23d-4319-b016-e78a06211b34
+  copyright_status: public_domain
 - text: Miller told Mitchell, who told Davis in 1999
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9748-9803
@@ -238,6 +255,7 @@ references:
   claim_id: 1e2d3bd5-de5d-4672-81fe-49ee6e97541b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1e2d3bd5-de5d-4672-81fe-49ee6e97541b
+  copyright_status: public_domain
 - text: Wilson said he had not told Miller everything
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 2079-2182
@@ -246,6 +264,7 @@ references:
   claim_id: f5293487-4dbd-43e8-8235-846c7ef7b0fc
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5293487-4dbd-43e8-8235-846c7ef7b0fc
+  copyright_status: public_domain
 - text: Wilson's investigation began about a week after parting with Miller
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 11209-11359
@@ -254,6 +273,7 @@ references:
   claim_id: 0f2d1479-b28c-4be4-bd72-41b1d5340be1
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-0f2d1479-b28c-4be4-bd72-41b1d5340be1
+  copyright_status: public_domain
 - text: 'Davis: Miller and Greer said Wilson nearly ''got busted'' over the investigation'
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 21991-22028
@@ -261,6 +281,7 @@ references:
   claim_id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d51ad4a3-e752-4f4e-b487-3462b8af9b78
+  copyright_status: public_domain
 - text: Wilson said the Senior Review Group chairman threatened his DIA directorship,
     via Miller
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -270,6 +291,7 @@ references:
   claim_id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d1f3d976-9ff0-4e77-8033-90c748bcf11f
+  copyright_status: public_domain
 - text: Oke Shannon tried to persuade Wilson to speak to Davis
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 941-1055
@@ -279,6 +301,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-3ddc8db7-a6dd-42ba-8547-313e76df4702
+  copyright_status: public_domain
 - text: Shannon and Miller discussed the Kean story, UFOs, crash retrieval and MJ-12
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1063-1183
@@ -288,6 +311,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  copyright_status: public_domain
 - text: Davis showed Wilson Miller's 25 April 2002 letter for evaluation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 2006-2063
@@ -295,6 +319,7 @@ references:
   claim_id: 26012c8b-7fa8-4112-986a-28a99b86c8ff
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-26012c8b-7fa8-4112-986a-28a99b86c8ff
+  copyright_status: public_domain
 - text: Miller apologised for the delayed reply
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 3159-3347
@@ -304,6 +329,7 @@ references:
   claim_id: 80f1e65a-c6ac-41c3-b481-7fb8fe69e182
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-80f1e65a-c6ac-41c3-b481-7fb8fe69e182
+  copyright_status: public_domain
 - text: Miller offered to assist with UFO crash-retrieval research
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 3984-4191
@@ -313,6 +339,7 @@ references:
   claim_id: 27dc18f0-c35d-41a8-bb8a-628d118bba6d
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-27dc18f0-c35d-41a8-bb8a-628d118bba6d
+  copyright_status: public_domain
 - text: Miller required anonymity from any association with the work
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 4201-4394
@@ -322,6 +349,7 @@ references:
   claim_id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d04441ba-6292-498e-9d6e-1b33b1eb84b2
+  copyright_status: public_domain
 - text: Miller described his former Top Secret/SCI clearances
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 4834-5085
@@ -331,6 +359,7 @@ references:
   claim_id: f46e5a2c-ca2a-4391-a11a-58c41cc4dc9b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f46e5a2c-ca2a-4391-a11a-58c41cc4dc9b
+  copyright_status: public_domain
 - text: Miller offered details of a special crashed-craft recovery team, including
     the F-117
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -342,6 +371,7 @@ references:
   claim_id: 0f935c79-b8f5-4507-a1f9-91f1c14f5cc1
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-0f935c79-b8f5-4507-a1f9-91f1c14f5cc1
+  copyright_status: public_domain
 - text: Miller offered a contact with knowledge of alien reproduction vehicles at
     Area 51
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -352,6 +382,7 @@ references:
   claim_id: be3d69de-51e6-448c-bd5f-1ddeaed25965
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-be3d69de-51e6-448c-bd5f-1ddeaed25965
+  copyright_status: public_domain
 - text: Miller offered a contact with knowledge of an east-coast UFO event
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 5988-6352
@@ -363,6 +394,7 @@ references:
   claim_id: aa19e904-0347-4fd5-8008-b577741eb985
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-aa19e904-0347-4fd5-8008-b577741eb985
+  copyright_status: public_domain
 - text: Miller offered a list of contractors involved in alien-derived technology
     work
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -375,6 +407,7 @@ references:
   claim_id: f180801f-58a0-453c-bfd9-dff01761037a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f180801f-58a0-453c-bfd9-dff01761037a
+  copyright_status: public_domain
 - text: Miller proposed a meeting with Bob Beckwith in Tallahassee
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 3356-3478
@@ -383,6 +416,7 @@ references:
   claim_id: d71bc675-739d-47e5-bb39-c7805b500f39
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71bc675-739d-47e5-bb39-c7805b500f39
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

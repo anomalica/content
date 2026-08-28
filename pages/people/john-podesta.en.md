@@ -122,30 +122,35 @@ references:
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
+  copyright_status: restricted
 - text: Served as Counsellor to President Obama, 2014-2015
   source: In Plain Sight
   location: ch14:26387-26451
   claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32dcefba-6c4b-4670-bda6-117e2884eaee
+  copyright_status: restricted
 - text: Described as a confidant of Presidents Clinton and Obama
   source: In Plain Sight
   location: ch28:28552-28606
   claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f87020e-0b71-4a5c-96c1-665a4085bc5a
+  copyright_status: restricted
 - text: Campaign manager for Hillary Clinton's 2016 presidential campaign
   source: In Plain Sight
   location: ch20:109-274
   claim_id: 1263b350-d4f5-404a-bbcb-2c54db2015be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1263b350-d4f5-404a-bbcb-2c54db2015be
+  copyright_status: restricted
 - text: Held top-secret/SCI clearances under both administrations
   source: In Plain Sight
   location: ch20:17002-17135
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+  copyright_status: restricted
 - text: Founder of the Center for American Progress
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:36.3-00:40:40.7
@@ -154,6 +159,7 @@ references:
   claim_id: 78164429-37f8-4257-812c-e5b39b0bd895
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-78164429-37f8-4257-812c-e5b39b0bd895
+  copyright_status: publicly_accessible
 - text: Secured Executive Order 12958, declassifying millions of pages including UAP
     files
   source: In Plain Sight
@@ -161,30 +167,35 @@ references:
   claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d18570b9-0086-4346-ba6a-ef8f49fbcca9
+  copyright_status: restricted
 - text: Supported 2002 lawsuit for release of Kecksburg UAP records
   source: In Plain Sight
   location: ch14:26457-26619
   claim_id: c5d92a41-e368-42fe-b2fb-763f561d9c5e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d92a41-e368-42fe-b2fb-763f561d9c5e
+  copyright_status: restricted
 - text: Told press conference it was time to open the books on government UFO investigations
   source: In Plain Sight
   location: ch14:26699-27066
   claim_id: 7a71b0e5-d681-4601-b492-f500b1afa137
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a71b0e5-d681-4601-b492-f500b1afa137
+  copyright_status: restricted
 - text: 2015 tweet regretting failure to secure UFO file disclosure
   source: In Plain Sight
   location: ch18:3396-3613
   claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9612f758-1801-4bbc-b62c-cd638445e523
+  copyright_status: restricted
 - text: Said the American people could handle the truth about the issue
   source: In Plain Sight
   location: ch20:16344-16443
   claim_id: f7811dfd-a60c-4100-b341-cdd39434440a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f7811dfd-a60c-4100-b341-cdd39434440a
+  copyright_status: restricted
 - text: 'March 2016: said he''d discussed UAP files with Clinton, that classified
     files remained'
   source: In Plain Sight
@@ -192,12 +203,14 @@ references:
   claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
+  copyright_status: restricted
 - text: Regrets not insisting on disclosure of UAP evidence in the White House
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13252-13371
   claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
+  copyright_status: restricted
 - text: Fish contacted Podesta out of frustration that no one sought evidence he knew
     existed
   source: In Plain Sight
@@ -205,6 +218,7 @@ references:
   claim_id: d30cf669-3b94-4750-8c39-299ff05be108
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d30cf669-3b94-4750-8c39-299ff05be108
+  copyright_status: restricted
 - text: Podesta's 2015-03-05 reply saying he would keep Fish's details
   source: 'Re: Leslie Kean book comment'
   location: char:121-205
@@ -214,6 +228,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
+  copyright_status: publicly_accessible
 - text: Fish offered to arrange a call or meeting to share programme names
   source: 'Re: Leslie Kean book comment'
   location: char:1318-1471
@@ -223,6 +238,7 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-519b41cc-4aca-451e-8355-1b88f9089a36
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-519b41cc-4aca-451e-8355-1b88f9089a36
+  copyright_status: publicly_accessible
 - text: Fish stressed the exchange was private and unrelated to the USS Hornet Museum
   source: 'Re: Leslie Kean book comment'
   location: char:1627-1723
@@ -232,24 +248,28 @@ references:
   record_hash: b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b
   workbench_url: https://workbench.anomalica.is/b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46b#claim-a98c932b-4885-46c0-8666-5cc6cc982700
   inspection_url: /records/2015-03-05-web-re-leslie-kean-book-comment#claim-a98c932b-4885-46c0-8666-5cc6cc982700
+  copyright_status: publicly_accessible
 - text: Fish said 'Fast Walkers' were routinely detected by DSP satellites
   source: In Plain Sight
   location: ch13:27336-27523
   claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf183d17-c213-4e7c-bcb7-ba289fda07a7
+  copyright_status: restricted
 - text: Fish said he was briefed on an object by a DSP operator in California
   source: In Plain Sight
   location: ch13:27535-27719
   claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3c66516-8e1d-4dfa-a0be-83281086b8d5
+  copyright_status: restricted
 - text: Object recorded passing a satellite during the run-up to the Iraq War, 1991
   source: In Plain Sight
   location: ch13:27731-27809
   claim_id: 3cdcad52-1f3d-4190-a46f-25b8c2e9c138
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3cdcad52-1f3d-4190-a46f-25b8c2e9c138
+  copyright_status: restricted
 - text: Object appeared under control, manned or robotic unclear; suggested requesting
     data
   source: In Plain Sight
@@ -257,6 +277,7 @@ references:
   claim_id: 75a61b45-f17f-4b19-b981-e83ce6b8ae22
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75a61b45-f17f-4b19-b981-e83ce6b8ae22
+  copyright_status: restricted
 - text: Fish relayed account of a US Air Force NCO flying RC-135 missions monitoring
     Cuba
   source: In Plain Sight
@@ -264,6 +285,7 @@ references:
   claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a435b2f6-7f4b-4095-8056-c427837c9419
+  copyright_status: restricted
 - text: Officer said missions diverted to track UFOs off Florida, with a sea landing
     point
   source: In Plain Sight
@@ -271,24 +293,28 @@ references:
   claim_id: 7187a038-7743-46bd-9105-c829f81a71fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7187a038-7743-46bd-9105-c829f81a71fb
+  copyright_status: restricted
 - text: Fish said high-quality UFO film is 'out there'
   source: In Plain Sight
   location: ch13:29362-29396
   claim_id: 2a1a0bbd-58a8-4d56-b54a-63ea892302eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a1a0bbd-58a8-4d56-b54a-63ea892302eb
+  copyright_status: restricted
 - text: Fish's view that UFO hunters look in the wrong places; hard data needed
   source: In Plain Sight
   location: ch13:28121-28577
   claim_id: d3e3ac24-6eda-4f87-a933-756f65362bce
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3e3ac24-6eda-4f87-a933-756f65362bce
+  copyright_status: restricted
 - text: Tom DeLonge exchanged emails with Podesta
   source: In Plain Sight
   location: ch28:28543-28606
   claim_id: 5106d413-3c38-4732-bf2e-684a55009176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5106d413-3c38-4732-bf2e-684a55009176
+  copyright_status: restricted
 - text: Emails show DeLonge in contact with an aerospace CEO, a Clinton campaign manager,
     two generals
   source: In Plain Sight
@@ -296,6 +322,7 @@ references:
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+  copyright_status: restricted
 - text: 'Mid-2015: staffer suggested a candidate for ''the UFO project'''
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:42.2-00:41:01.2
@@ -306,6 +333,7 @@ references:
   claim_id: b36ea81b-d988-4d65-b78d-c1b0debe365b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b36ea81b-d988-4d65-b78d-c1b0debe365b
+  copyright_status: publicly_accessible
 - text: 'Proposed Google Hangout attendees: DeLonge, Podesta, Weiss, a campaign assistant,
     Carey'
   source: In Plain Sight
@@ -313,6 +341,7 @@ references:
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
+  copyright_status: restricted
 - text: DeLonge said 'the General' spoke every other day and expected DOD to embrace
     the project
   source: In Plain Sight
@@ -320,12 +349,14 @@ references:
   claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-482877fc-950a-4d57-8cdf-f157a3d5eaeb
+  copyright_status: restricted
 - text: DeLonge planned September 2015 dinner with Air Force Space Command officers
   source: In Plain Sight
   location: ch20:15554-15746
   claim_id: 4a13d97d-08e8-471d-b3cf-2a33b203a90b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a13d97d-08e8-471d-b3cf-2a33b203a90b
+  copyright_status: restricted
 - text: DeLonge wanted to bring two senior classified-science/DOD figures to meet
     Podesta
   source: In Plain Sight
@@ -333,18 +364,21 @@ references:
   claim_id: d201f92a-9710-4b9b-8891-9dd12649082c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d201f92a-9710-4b9b-8891-9dd12649082c
+  copyright_status: restricted
 - text: Podesta was DeLonge's anonymous 'top man' contact in government
   source: In Plain Sight
   location: ch20:5048-5101
   claim_id: c5222691-32cd-4b42-87cc-4499ef323986
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5222691-32cd-4b42-87cc-4499ef323986
+  copyright_status: restricted
 - text: '2016-01-24 email: ''Neil Mcc'' confirming a Google Hangout time'
   source: In Plain Sight
   location: ch20:7199-7370
   claim_id: fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
+  copyright_status: restricted
 - text: Correspondence describes a meeting involving McCasland, Carey, Weiss and Podesta
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:10.4-00:40:19.3
@@ -354,6 +388,7 @@ references:
   claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0d828226-9b96-46eb-aa06-83df347c5b0a
+  copyright_status: publicly_accessible
 - text: Roughly 35 messages exchanged between DeLonge and Podesta's team
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:05.4-00:40:09.2
@@ -363,6 +398,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+  copyright_status: publicly_accessible
 - text: Many correspondents connected to the Center for American Progress
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:35.1-00:40:41.0
@@ -371,6 +407,7 @@ references:
   claim_id: 4d408db9-1336-4123-b042-a613a70280df
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4d408db9-1336-4123-b042-a613a70280df
+  copyright_status: publicly_accessible
 - text: Vallee's journals corroborate the DeLonge-Podesta conversations occurred
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:41:10.4-00:41:14.7
@@ -379,6 +416,7 @@ references:
   claim_id: b9bcc60e-568b-406f-8e88-e61654e62876
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b9bcc60e-568b-406f-8e88-e61654e62876
+  copyright_status: publicly_accessible
 - text: Nothing in the emails proves claims of alien visitation, crashes, or recovered
     bodies
   source: In Plain Sight
@@ -386,30 +424,35 @@ references:
   claim_id: ee296dab-5dc5-4be0-9751-55f7c6f58dc6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee296dab-5dc5-4be0-9751-55f7c6f58dc6
+  copyright_status: restricted
 - text: Podesta had never heard of Netyksho before 2016
   source: In Plain Sight
   location: ch20:224-355
   claim_id: a9c46c3c-46fa-422c-96a4-ee2ade0343a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9c46c3c-46fa-422c-96a4-ee2ade0343a3
+  copyright_status: restricted
 - text: Netyksho and Fancy Bear turned hacking efforts on Podesta from a GRU building
   source: In Plain Sight
   location: ch20:1295-1398
   claim_id: 77404a1f-ef4d-49fe-9030-f0202a4f2e63
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-77404a1f-ef4d-49fe-9030-f0202a4f2e63
+  copyright_status: restricted
 - text: New hacking efforts against the Democrats followed Trump's 2016-07-28 comments
   source: In Plain Sight
   location: ch20:2577-2721
   claim_id: b113536b-243f-434d-a734-f60fc9cf9b62
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b113536b-243f-434d-a734-f60fc9cf9b62
+  copyright_status: restricted
 - text: Podesta re-entered his Gmail password via a phishing prompt, October 2016
   source: In Plain Sight
   location: ch20:1408-1538
   claim_id: 0920676b-7dc3-435f-9e54-2ec948c886c1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0920676b-7dc3-435f-9e54-2ec948c886c1
+  copyright_status: restricted
 - text: Communications streamed to Netyksho and colleagues at GRU headquarters within
     minutes
   source: In Plain Sight
@@ -417,12 +460,14 @@ references:
   claim_id: 2482e74d-1538-42d6-85eb-b0c947a073ea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2482e74d-1538-42d6-85eb-b0c947a073ea
+  copyright_status: restricted
 - text: Thousands of emails leaked on WikiLeaks within days
   source: In Plain Sight
   location: ch20:4391-4486
   claim_id: 3a8bf1d6-9c20-485c-816b-d5c0691d850f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a8bf1d6-9c20-485c-816b-d5c0691d850f
+  copyright_status: restricted
 - text: Podesta and Hillary Clinton talked a great deal about UFOs around the 2016
     election
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -433,6 +478,7 @@ references:
   claim_id: c5d33659-5a64-4132-8b78-67ae62fda6c5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c5d33659-5a64-4132-8b78-67ae62fda6c5
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

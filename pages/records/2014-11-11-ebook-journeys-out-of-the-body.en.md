@@ -24,6 +24,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2404f05a-19dd-4009-925d-e6bcc4663f33
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-2404f05a-19dd-4009-925d-e6bcc4663f33
+  copyright_status: restricted
 - text: The Beginning Stage ran from September 1958 to July 1959.
   source: Journeys Out of the Body
   location: ch26:13644-13682
@@ -32,6 +33,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-eb2262c1-4c1b-450c-ac47-e4b396c073ae
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-eb2262c1-4c1b-450c-ac47-e4b396c073ae
+  copyright_status: restricted
 - text: Monroe called the condition of leaving the physical body the Second State
     and the non-physical body the Second Body.
   source: Journeys Out of the Body
@@ -41,6 +43,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-56f740a9-7d8c-42ab-be0a-8361cbef410a
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-56f740a9-7d8c-42ab-be0a-8361cbef410a
+  copyright_status: restricted
 - text: Locale I was identified as one of three Second State environments.
   source: Journeys Out of the Body
   location: ch12:194-361
@@ -49,6 +52,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-bc1c3439-6c0a-4941-bf67-1b293de236a6
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-bc1c3439-6c0a-4941-bf67-1b293de236a6
+  copyright_status: restricted
 - text: Monroe described Locale II as a non-material environment with laws of motion
     and matter unlike those of the physical world.
   source: Journeys Out of the Body
@@ -58,6 +62,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6210f4b4-1a1f-4166-8029-28ee942421a3
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-6210f4b4-1a1f-4166-8029-28ee942421a3
+  copyright_status: restricted
 - text: Monroe described Locale III as a physical-matter world almost identical to
     Earth.
   source: Journeys Out of the Body
@@ -67,6 +72,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e408dcad-6a75-437e-8b85-034d6bd8c1a2
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-e408dcad-6a75-437e-8b85-034d6bd8c1a2
+  copyright_status: restricted
 - text: Charles T. Tart conducted laboratory studies with Monroe between September
     1965 and August 1966.
   source: Journeys Out of the Body
@@ -76,6 +82,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d6bb67d4-f06f-48f4-9442-aa2288d0a7ca
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-d6bb67d4-f06f-48f4-9442-aa2288d0a7ca
+  copyright_status: restricted
 - text: On the eighth laboratory night, Monroe produced two very brief out-of-the-body
     experiences.
   source: Journeys Out of the Body
@@ -85,6 +92,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
+  copyright_status: restricted
 - text: During one of those experiences, Monroe correctly described the technician's
     absence from the room and the presence of her husband in a corridor.
   source: Journeys Out of the Body
@@ -94,6 +102,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-678bc207-ee83-4160-a6f8-c7de75d30656
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-678bc207-ee83-4160-a6f8-c7de75d30656
+  copyright_status: restricted
 - text: The EEG-5 experiment involved electrodes attached to Monroe while he reclined
     on a cot in a semi-darkened room.
   source: Journeys Out of the Body
@@ -103,6 +112,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
+  copyright_status: restricted
 - text: Tart stated that the EEG recording showed unusual and unique tracings during
     Monroe's out-of-body activity.
   source: Journeys Out of the Body
@@ -112,6 +122,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-06e0a806-ddab-4ad5-bf02-a539685a8a71
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-06e0a806-ddab-4ad5-bf02-a539685a8a71
+  copyright_status: restricted
 - text: Monroe identified fear as a major obstacle to investigating the Second Body
     and its environment.
   source: Journeys Out of the Body
@@ -121,6 +132,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c8eae9e0-364b-4327-b9a6-faea0b16fe56
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-c8eae9e0-364b-4327-b9a6-faea0b16fe56
+  copyright_status: restricted
 - text: Monroe developed a return-to-physical-body technique after analysing hundreds
     of his own tests.
   source: Journeys Out of the Body
@@ -130,6 +142,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3c0b4130-de2c-44a5-b979-415abbef6426
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-3c0b4130-de2c-44a5-b979-415abbef6426
+  copyright_status: restricted
 - text: Monroe proposed that humanity might be equivalent to laboratory animals used
     in an experiment by more advanced beings.
   source: Journeys Out of the Body
@@ -139,6 +152,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c4f5dc72-b29d-477c-9af1-f16cd265e677
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-c4f5dc72-b29d-477c-9af1-f16cd265e677
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

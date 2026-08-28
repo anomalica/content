@@ -22,6 +22,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c09ee344-2051-44fe-aa15-03b3b6c54d8d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-c09ee344-2051-44fe-aa15-03b3b6c54d8d
+  copyright_status: publicly_accessible
 - text: Horn says Meier is claimed to have taken roughly 1,200 authenticated UFO photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:00:47.9-00:01:00.7
@@ -30,6 +31,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f27de13-dc82-4670-bb4a-3b176f5793ab
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9f27de13-dc82-4670-bb4a-3b176f5793ab
+  copyright_status: publicly_accessible
 - text: Ramsay says Bob Lazar and Billy Meier are two of the most contentious names
     in ufology
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -40,6 +42,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
+  copyright_status: publicly_accessible
 - text: Ramsay says Lazar identified the Meier sports-model beam ship as a one-for-one
     match to craft he knew
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -51,6 +54,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
+  copyright_status: publicly_accessible
 - text: Ramsay says he and Lazar both regard the later Meier material as questionable
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:03:53.9-00:03:59.6
@@ -59,6 +63,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-44964627-c9e9-421b-9769-df2b17f5534b
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-44964627-c9e9-421b-9769-df2b17f5534b
+  copyright_status: publicly_accessible
 - text: Ramsay says there are over a thousand Meier contact reports
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:04:03.4-00:04:19.1
@@ -68,6 +73,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-faeac008-2d39-495a-b63d-62ee958b3a2d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-faeac008-2d39-495a-b63d-62ee958b3a2d
+  copyright_status: publicly_accessible
 - text: Ramsay says the 'I Want to Believe' poster is a cropped Meier photograph
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:05:37.4-00:05:52.6
@@ -78,6 +84,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-81f6f416-9fcc-4d17-be98-00e770a7fc09
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-81f6f416-9fcc-4d17-be98-00e770a7fc09
+  copyright_status: publicly_accessible
 - text: Horn describes Meier, 89, as claiming contact with beings from another star
     system since age five
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -89,6 +96,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-ca5cacdd-513f-4abd-bfd9-491d2f7035ac
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-ca5cacdd-513f-4abd-bfd9-491d2f7035ac
+  copyright_status: publicly_accessible
 - text: Horn has made about 22 trips to Switzerland to meet Meier
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:06:49.2-00:07:20.0
@@ -99,6 +107,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1eabedf8-0efe-42f2-b3ca-76000fbd2ca8
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-1eabedf8-0efe-42f2-b3ca-76000fbd2ca8
+  copyright_status: publicly_accessible
 - text: Horn says threats and attempts on Meier's life now total 28
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:07:55.5-00:08:02.6
@@ -108,6 +117,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-313a24aa-f330-45a2-ab6f-4f610515626c
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-313a24aa-f330-45a2-ab6f-4f610515626c
+  copyright_status: publicly_accessible
 - text: Ramsay says Meier is one-armed but very capable
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:32:14.4-00:32:17.4
@@ -116,6 +126,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-a3467a3c-2a72-4b55-8250-d8b77647857e
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-a3467a3c-2a72-4b55-8250-d8b77647857e
+  copyright_status: publicly_accessible
 - text: Ramsay says the initial iconic Meier craft photo was taken in Switzerland
     around 1975
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -125,6 +136,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-15bbd097-9d0f-4339-93ef-c32bad1bbe14
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-15bbd097-9d0f-4339-93ef-c32bad1bbe14
+  copyright_status: publicly_accessible
 - text: Ramsay assessed forced-perspective inconsistencies in the wedding cake UFO
     photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -136,6 +148,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
+  copyright_status: publicly_accessible
 - text: Skeptics said the nighttime wedding cake photographs used a gold-painted model
     against a black curtain
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -146,6 +159,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f2e401f5-9177-4975-836b-34e68dd003ed
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-f2e401f5-9177-4975-836b-34e68dd003ed
+  copyright_status: publicly_accessible
 - text: Ramsay concluded a close-up nighttime wedding cake car photo depicted a toy-sized
     object and was a hoax
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -157,6 +171,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5634cb7d-9239-434b-8910-4608973e8163
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5634cb7d-9239-434b-8910-4608973e8163
+  copyright_status: publicly_accessible
 - text: Horn was interrogated over roughly five to six months by a retired AFOSI/DOD
     investigator
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -168,6 +183,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
+  copyright_status: publicly_accessible
 - text: The investigator concluded the case was 100% ironclad authentic
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:38:41.0-00:38:54.9
@@ -177,6 +193,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8d9454f7-e88a-4047-874e-536fddd07d8c
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8d9454f7-e88a-4047-874e-536fddd07d8c
+  copyright_status: publicly_accessible
 - text: Horn says Meier is claimed to have taken about 1,200 photographs, eight surviving
     films and a video
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -187,6 +204,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1d72373f-aac0-4053-96a5-a65227b95c4e
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-1d72373f-aac0-4053-96a5-a65227b95c4e
+  copyright_status: publicly_accessible
 - text: Horn says astronaut Gordon Cooper examined the photographs and judged them
     real
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -198,6 +216,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-28ad313b-6792-4598-8ce0-153221521c32
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-28ad313b-6792-4598-8ce0-153221521c32
+  copyright_status: publicly_accessible
 - text: Marcel Vogel, an IBM scientist, said he could not replicate the metal samples
     with available technology, calling them a cold fusion product
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -208,6 +227,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-03826cd6-5b8c-4387-b00f-59543c950244
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-03826cd6-5b8c-4387-b00f-59543c950244
+  copyright_status: publicly_accessible
 - text: Vogel detected fine laser cuttings and unusual elemental composition in the
     metal samples at high magnification
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -219,6 +239,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-65b0adaa-fc0d-4891-ba87-2b802e67f35f
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-65b0adaa-fc0d-4891-ba87-2b802e67f35f
+  copyright_status: publicly_accessible
 - text: Investigators including Wendell Stevens tested a model craft made at MGM studios
     against Meier's photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -230,6 +251,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-70cb077a-6439-478f-9ad8-80f9c4bc2c53
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-70cb077a-6439-478f-9ad8-80f9c4bc2c53
+  copyright_status: publicly_accessible
 - text: Computer analysis showed the dangled model photographs had no energy fields
     around the object
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -240,6 +262,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-0ae472c1-67ea-489e-97dd-ff1c0944852b
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-0ae472c1-67ea-489e-97dd-ff1c0944852b
+  copyright_status: publicly_accessible
 - text: In 1964 Meier was interviewed in an Indian newspaper showing an album of 80
     UFO photographs
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -251,6 +274,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f4293752-dad7-4f92-89eb-80db00019553
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-f4293752-dad7-4f92-89eb-80db00019553
+  copyright_status: publicly_accessible
 - text: Meier took the 1964 India photographs with an early Kodak box camera
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:51:18.4-00:51:54.9
@@ -261,6 +285,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-6ca002ae-d729-4246-a3de-d46a774748fd
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-6ca002ae-d729-4246-a3de-d46a774748fd
+  copyright_status: publicly_accessible
 - text: Asket was Meier's second alleged contact person
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:52:59.9-00:53:08.7
@@ -270,6 +295,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-57c8fcd8-904c-43f4-8177-d1f99d748830
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-57c8fcd8-904c-43f4-8177-d1f99d748830
+  copyright_status: publicly_accessible
 - text: Horn talked to 14 eyewitnesses in the case and saw bullet holes and investigative
     reports
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -280,6 +306,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-39fc496b-4ca8-4183-8d67-d805d02c4669
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-39fc496b-4ca8-4183-8d67-d805d02c4669
+  copyright_status: publicly_accessible
 - text: As early as 1953 Asket told Meier that John Fitzgerald Kennedy would be assassinated
     in Dallas, Texas
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -291,6 +318,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
+  copyright_status: publicly_accessible
 - text: In 1987 Meier was given the Henoch Prophecies, containing about 300 specific
     predictions
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -301,6 +329,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-fb90c280-3916-4250-9e09-b261f4bd2926
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-fb90c280-3916-4250-9e09-b261f4bd2926
+  copyright_status: publicly_accessible
 - text: The Henoch Prophecies describe the destruction of the World Trade Center,
     which occurred in 2001
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -312,6 +341,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1c860092-f3d4-414b-b9cb-06f845574a4d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-1c860092-f3d4-414b-b9cb-06f845574a4d
+  copyright_status: publicly_accessible
 - text: In 1989 Meier was told terrorists would fly airplanes into the World Trade
     Center, killing about 3,000 people
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -323,6 +353,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-f6c56a83-101b-4918-a333-12147400a0b8
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-f6c56a83-101b-4918-a333-12147400a0b8
+  copyright_status: publicly_accessible
 - text: The 1987 Henoch document mentions Russian troops moving to Arkhangelsk ahead
     of attacks on Scandinavia
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -333,6 +364,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-0611f102-44f8-4b31-a454-b8c901f5fe54
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-0611f102-44f8-4b31-a454-b8c901f5fe54
+  copyright_status: publicly_accessible
 - text: Norway, Sweden and Finland joining NATO brought the alliance to Russia's borders
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:22:04.8-01:22:16.0
@@ -342,6 +374,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-91b6a59c-52e5-48cb-b803-acf618ac400d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-91b6a59c-52e5-48cb-b803-acf618ac400d
+  copyright_status: publicly_accessible
 - text: In 2011 Russia moved and created military bases in Arkhangelsk
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:22:27.9-01:22:42.1
@@ -351,6 +384,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9a1f113f-081e-4e0d-a79c-3d160e7545d0
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9a1f113f-081e-4e0d-a79c-3d160e7545d0
+  copyright_status: publicly_accessible
 - text: Asket and Meier visited an underground chamber beneath the Great Pyramid of
     Giza
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -362,6 +396,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-241ded3a-000c-4f7d-9002-61afff528c9b
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-241ded3a-000c-4f7d-9002-61afff528c9b
+  copyright_status: publicly_accessible
 - text: In the chamber Meier saw crucifixion-associated relics that Asket said were
     fabricated by the Befath
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -374,6 +409,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9b02fe6d-e45b-43ff-98cf-b38bd899f842
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9b02fe6d-e45b-43ff-98cf-b38bd899f842
+  copyright_status: publicly_accessible
 - text: The Giza Intelligences are described as a splinter group from the same source
     as the Pleiaren, originating in Lyra
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -384,6 +420,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-bcef4913-8027-478d-b936-bcbe481e4085
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-bcef4913-8027-478d-b936-bcbe481e4085
+  copyright_status: publicly_accessible
 - text: The Befath had around 745 political and religious leaders under their influence
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:15:43.9-01:15:57.2
@@ -393,6 +430,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5209858a-770c-41e6-afd3-25416223fef0
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5209858a-770c-41e6-afd3-25416223fef0
+  copyright_status: publicly_accessible
 - text: The Befath sent a robotically controlled ship in a sonic attack toward Meier's
     centre around 1975-1978
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -405,6 +443,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-beaa9b33-89cb-4a7f-823a-e938d4ea8fad
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-beaa9b33-89cb-4a7f-823a-e938d4ea8fad
+  copyright_status: publicly_accessible
 - text: The Pleiaren eliminated the Befath ship and removed the group from beneath
     the pyramid
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -417,6 +456,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-925273b1-28c1-4e59-85ca-9c595e78d2c4
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-925273b1-28c1-4e59-85ca-9c595e78d2c4
+  copyright_status: publicly_accessible
 - text: Meier had his arm ripped off and his teeth smashed, and was delirious for
     30 days after amputation without anaesthetic
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -428,6 +468,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-7b93baa3-32e8-4b46-b233-fa90c7810dc3
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-7b93baa3-32e8-4b46-b233-fa90c7810dc3
+  copyright_status: publicly_accessible
 - text: Meier declined a Pleiaren offer of a replacement arm, citing risk of military
     kidnapping and dissection
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -439,6 +480,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5fbc5501-b6d1-4b0c-845f-e7a9d58dc49d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5fbc5501-b6d1-4b0c-845f-e7a9d58dc49d
+  copyright_status: publicly_accessible
 - text: In the 1982 Swiss radio interview Meier said a third world war was a certainty
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:45:55.4-01:46:12.4
@@ -448,6 +490,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-d6093536-0b45-427c-9c85-b43c51c4da49
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-d6093536-0b45-427c-9c85-b43c51c4da49
+  copyright_status: publicly_accessible
 - text: The interview described conflict involving the United Kingdom, Russia, Iran,
     Israel, Iraq and the Falklands
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -459,6 +502,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4bee362a-b568-4d66-beec-a1fda51dfeae
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-4bee362a-b568-4d66-beec-a1fda51dfeae
+  copyright_status: publicly_accessible
 - text: As early as 1946 and 1948 Meier's teacher described a future incompetent,
     self-important US dictator figure
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -471,6 +515,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-cf777043-e80d-4126-b93e-1875832aaa26
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-cf777043-e80d-4126-b93e-1875832aaa26
+  copyright_status: publicly_accessible
 - text: Around 1963-1964 Meier and Isa Rashid dug up scrolls at an ancient tomb near
     Jerusalem
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -483,6 +528,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-473eef4b-fa59-450c-a9b6-4715180f6e55
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-473eef4b-fa59-450c-a9b6-4715180f6e55
+  copyright_status: publicly_accessible
 - text: Isa Rashid and his family were machine-gunned to death in Baghdad around 1974,
     ostensibly by Mossad
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -493,6 +539,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3f20abef-4c80-4304-beb3-cfc120f049a5
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-3f20abef-4c80-4304-beb3-cfc120f049a5
+  copyright_status: publicly_accessible
 - text: The real man crucified and falsely named Jesus Christ was, per the material,
     named Jmmanuel
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -503,6 +550,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-c1b3309e-1c86-4c33-9793-7708670029f2
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-c1b3309e-1c86-4c33-9793-7708670029f2
+  copyright_status: publicly_accessible
 - text: In the Talmud of Jmmanuel, Jmmanuel foretold that a prophet named Muhammad
     would come in 500 years
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -515,6 +563,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4c8be9b8-1dc3-4f31-bd70-7434241aa4c8
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-4c8be9b8-1dc3-4f31-bd70-7434241aa4c8
+  copyright_status: publicly_accessible
 - text: Meier is described as the seventh and final prophet in a lineage including
     Enoch, Elijah, Isaiah, Jeremiah, Jmmanuel and Muhammad
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -525,6 +574,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8977fa2b-2ec7-4793-879f-c67f354fa83d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8977fa2b-2ec7-4793-879f-c67f354fa83d
+  copyright_status: publicly_accessible
 - text: The creation energy teaching holds there are no deities and no religion is
     founded on a true creator deity
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -535,6 +585,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-608603e5-f87d-4366-82d4-32058f107f7e
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-608603e5-f87d-4366-82d4-32058f107f7e
+  copyright_status: publicly_accessible
 - text: Meier said the meaning of life is the evolution of consciousness
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 02:14:24.8-02:14:55.6
@@ -543,6 +594,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-373f2f25-a26e-4a94-b852-90a48ee0906b
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-373f2f25-a26e-4a94-b852-90a48ee0906b
+  copyright_status: publicly_accessible
 - text: In the teaching, reincarnation is real but a person never remembers past lives
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 02:30:31.7-02:30:40.2
@@ -552,6 +604,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
+  copyright_status: publicly_accessible
 - text: Horn helped create Ed Dames's first remote viewing home study course over
     more than a year
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -562,6 +615,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-ca531174-305c-456a-a87e-c156c5a7b98d
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-ca531174-305c-456a-a87e-c156c5a7b98d
+  copyright_status: publicly_accessible
 - text: Horn spent about a year with Dames and saw nothing accurate from his remote
     viewing
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -572,6 +626,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-1644e4b5-b2f0-4fe9-8eb4-a96a03b0aaa6
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-1644e4b5-b2f0-4fe9-8eb4-a96a03b0aaa6
+  copyright_status: publicly_accessible
 - text: Ramsay noted Ed Dames died shortly before this episode was recorded
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 02:21:29.9-02:21:32.9
@@ -580,6 +635,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-4a6882ca-eef9-4471-a32b-3d4645bd8054
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-4a6882ca-eef9-4471-a32b-3d4645bd8054
+  copyright_status: publicly_accessible
 - text: A 1976 Meier prophecy foretold seven-foot-tall giants emerging from hiding
     in Peru
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -592,6 +648,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8c01606e-adcb-440c-a0ef-ec198551da9e
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8c01606e-adcb-440c-a0ef-ec198551da9e
+  copyright_status: publicly_accessible
 - text: Horn says the reported 2023 Peru giants event matched the location and size
     details of the prophecy roughly 47 years later
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -602,6 +659,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-24e210ee-9057-42da-afc5-34334a2c8d5c
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-24e210ee-9057-42da-afc5-34334a2c8d5c
+  copyright_status: publicly_accessible
 - text: In approximately August 2023 it was reported in Peru that seven-foot giants
     were abducting and harming people
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -613,6 +671,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-676b5c1b-e5c3-4e90-b2b8-4763e55f5d87
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-676b5c1b-e5c3-4e90-b2b8-4763e55f5d87
+  copyright_status: publicly_accessible
 - text: Horn does not believe in Meier or UFOs, saying he instead has evidence from
     his own experience
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -624,6 +683,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-2b200a24-2b5e-41da-9072-b5436b4509ab
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-2b200a24-2b5e-41da-9072-b5436b4509ab
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

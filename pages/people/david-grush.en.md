@@ -49,6 +49,7 @@ references:
   claim_id: e500810b-6342-4fd4-9bd0-20be6e4788d2
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-e500810b-6342-4fd4-9bd0-20be6e4788d2
+  copyright_status: publicly_accessible
 - text: Grush testified before Congress as a UFO whistleblower in July 2023.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:05:18.3-00:05:23.3
@@ -58,6 +59,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+  copyright_status: publicly_accessible
 - text: Grush never mentioned Immaculate Constellation.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -66,6 +68,7 @@ references:
   claim_id: 0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
+  copyright_status: publicly_accessible
 - text: US military and intelligence community hold extensive visual and sensor data
     on UAP.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -77,6 +80,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
+  copyright_status: publicly_accessible
 - text: Some of the material is high resolution, unlike previously released blurry
     footage.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -87,6 +91,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
+  copyright_status: publicly_accessible
 - text: Grush says he was told of hundreds, possibly thousands, of UAP visuals held
     by government.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -97,6 +102,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-d0adec43-6124-4d70-9358-e18967fb910d
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-d0adec43-6124-4d70-9358-e18967fb910d
+  copyright_status: publicly_accessible
 - text: Grush denied familiarity with a rumoured DoD human-genetic hybridisation programme
     when questioned by Lauren Boebert.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -106,6 +112,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-419ef8d3-faff-4abe-9999-c7506496fd69
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-419ef8d3-faff-4abe-9999-c7506496fd69
+  copyright_status: publicly_accessible
 - text: 'Ramsay: Grush gave up his pension and staked his credibility on claims of
     recovered non-human biologics and craft.'
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -116,6 +123,7 @@ references:
   claim_id: 4bb04f26-7fab-4596-a2ca-2dc809daa046
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-4bb04f26-7fab-4596-a2ca-2dc809daa046
+  copyright_status: publicly_accessible
 - text: Bob Lazar says he respects Grush for coming forward publicly.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:24:41.8-00:24:46.4
@@ -123,6 +131,7 @@ references:
   claim_id: 82308765-3656-4371-b69a-506bd46711a8
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-82308765-3656-4371-b69a-506bd46711a8
+  copyright_status: publicly_accessible
 - text: No one else from the programme Grush described has come forward publicly.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:24:50.2-00:24:53.1
@@ -130,6 +139,7 @@ references:
   claim_id: 41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
+  copyright_status: publicly_accessible
 - text: 'Coulthart: Grush found it highly significant that the 1971 US-Soviet UAP
     hotline document was declassified, letting him discuss it publicly.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -142,6 +152,7 @@ references:
   claim_id: 1ed83cec-a268-43c8-82ff-370db5e339aa
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1ed83cec-a268-43c8-82ff-370db5e339aa
+  copyright_status: publicly_accessible
 - text: 'Coulthart: at his Capitol steps presentation, Grush mentioned sentient plasmoids
     among the life forms he was aware of.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -153,6 +164,7 @@ references:
   claim_id: 65180e68-0486-4a6c-b1c8-5d0fd8c45a58
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-65180e68-0486-4a6c-b1c8-5d0fd8c45a58
+  copyright_status: publicly_accessible
 - text: 'Coulthart: Britain''s Condign Report inferred similar plasma findings 20-30
     years earlier.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -163,6 +175,7 @@ references:
   claim_id: c8f71409-7b37-419f-81e2-07555a603aea
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-c8f71409-7b37-419f-81e2-07555a603aea
+  copyright_status: publicly_accessible
 - text: 'Coulthart: Grush discussed DOPSR-cleared agreements possibly involving foreign
     powers or non-human intelligence.'
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -174,6 +187,7 @@ references:
   claim_id: cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
+  copyright_status: publicly_accessible
 - text: 'Mitchells: the US government has run covert UFO reverse-engineering programmes
     for roughly 70-80 years.'
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -183,6 +197,7 @@ references:
   claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

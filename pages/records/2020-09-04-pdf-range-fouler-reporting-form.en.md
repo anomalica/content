@@ -23,6 +23,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-8c1232f2-3cd5-4c77-9948-10c82b11ba57
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-8c1232f2-3cd5-4c77-9948-10c82b11ba57
+  copyright_status: public_domain
 - text: The form records no identifying information for aircrew or squadron for analysis.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:806-889
@@ -33,6 +34,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-cc1fa4bb-2501-426e-975c-93d8695ee20c
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-cc1fa4bb-2501-426e-975c-93d8695ee20c
+  copyright_status: public_domain
 - text: An aircrew member involved in the contact held the rank of O-3.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:643-665
@@ -44,6 +46,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-c5a645d1-773f-4906-a615-93373eac4613
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-c5a645d1-773f-4906-a615-93373eac4613
+  copyright_status: public_domain
 - text: The aircrew member's crew position was listed as Other.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:689-703
@@ -53,6 +56,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-577d243d-54dc-4c82-a92b-a73e885bfe58
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-577d243d-54dc-4c82-a92b-a73e885bfe58
+  copyright_status: public_domain
 - text: The contact occurred at night.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:966-978
@@ -62,6 +66,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-f0ce221d-e0bd-4583-aa80-4b15d089e04a
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-f0ce221d-e0bd-4583-aa80-4b15d089e04a
+  copyright_status: public_domain
 - text: The mission was an Intelligence, Surveillance and Reconnaissance mission.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:998-1034
@@ -71,6 +76,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-45b03c17-0d7b-4ff8-a536-df4dc9acf6db
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-45b03c17-0d7b-4ff8-a536-df4dc9acf6db
+  copyright_status: public_domain
 - text: The contact was detected on 2020-09-04 at 21:09:00 Zulu.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:901-963
@@ -82,6 +88,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-5ebf3412-936c-4ca2-9fdd-7615e1d7c822
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-5ebf3412-936c-4ca2-9fdd-7615e1d7c822
+  copyright_status: public_domain
 - text: The aircrew tracked a round, cold object in infrared at approximately 7,260
     metres Height Above Terrain.
   source: Range Fouler Reporting Form (2020-09-04)
@@ -93,6 +100,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-2091ad5e-a262-4845-981b-52835f2d0ef3
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-2091ad5e-a262-4845-981b-52835f2d0ef3
+  copyright_status: public_domain
 - text: The object was detected and tracked from 21:09 to 21:17 Zulu.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2363-2391
@@ -102,6 +110,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-c5ddec0a-cd65-439b-8f16-38eb1e001fe2
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-c5ddec0a-cd65-439b-8f16-38eb1e001fe2
+  copyright_status: public_domain
 - text: The object made a few abrupt directional changes during the eight-minute contact.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2609-2670
@@ -111,6 +120,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-a9c109ce-c4e2-4e21-b205-a9a05a84e2d5
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-a9c109ce-c4e2-4e21-b205-a9a05a84e2d5
+  copyright_status: public_domain
 - text: The sensor was aimed 39 degrees below the aircraft's altitude.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2679-2782
@@ -121,6 +131,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-02ae3f66-d72d-4f87-858a-8f7a58fddaf8
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-02ae3f66-d72d-4f87-858a-8f7a58fddaf8
+  copyright_status: public_domain
 - text: The slant range was approximately 11.4 kilometres.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2731-2782
@@ -130,6 +141,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-77acec77-6c50-4d87-9625-0b3ebcaaeb99
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-77acec77-6c50-4d87-9625-0b3ebcaaeb99
+  copyright_status: public_domain
 - text: The ground range was approximately 8.81 kilometres.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2731-2782
@@ -139,6 +151,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-ed739109-a62f-4379-8608-b818a5bd8112
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-ed739109-a62f-4379-8608-b818a5bd8112
+  copyright_status: public_domain
 - text: The infrared sensor was set to black hot and the object appeared bright white.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:2788-2863
@@ -149,6 +162,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-aac8f655-eeb8-4954-90a6-c36eb8171aad
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-aac8f655-eeb8-4954-90a6-c36eb8171aad
+  copyright_status: public_domain
 - text: The object was tracked on a bearing of 168 degrees at approximately 446 kilometres
     per hour.
   source: Range Fouler Reporting Form (2020-09-04)
@@ -159,6 +173,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-d0b7c8f9-2fdf-42a1-a775-24381e63d834
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-d0b7c8f9-2fdf-42a1-a775-24381e63d834
+  copyright_status: public_domain
 - text: The trackfile characterised the object as round.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:1796-1851
@@ -172,6 +187,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-340556e2-e5ef-4d7b-bede-157415902c6f
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-340556e2-e5ef-4d7b-bede-157415902c6f
+  copyright_status: public_domain
 - text: The recorded group contained one contact.
   source: Range Fouler Reporting Form (2020-09-04)
   location: char:1863-1887
@@ -181,6 +197,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-a6d1d9c2-f9e9-47f6-a838-cf72b2fcecdb
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-a6d1d9c2-f9e9-47f6-a838-cf72b2fcecdb
+  copyright_status: public_domain
 - text: The form recommends using Joint Mission Planning System to derive latitude
     and longitude from sensor bearing and range.
   source: Range Fouler Reporting Form (2020-09-04)
@@ -192,6 +209,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-83d83168-986d-4adb-900a-68ba2d0e190b
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-83d83168-986d-4adb-900a-68ba2d0e190b
+  copyright_status: public_domain
 - text: The contact's location was recorded as MGRS grid 38P LT, with specific coordinates
     redacted.
   source: Range Fouler Reporting Form (2020-09-04)
@@ -203,6 +221,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-6d6af9c4-5692-462f-aaa1-c44069137196
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-6d6af9c4-5692-462f-aaa1-c44069137196
+  copyright_status: public_domain
 - text: Squadron intelligence personnel are instructed to upload complete interaction
     display-tape recordings as .wmv files to a designated repository.
   source: Range Fouler Reporting Form (2020-09-04)
@@ -215,6 +234,7 @@ references:
   record_hash: 2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a
   workbench_url: https://workbench.anomalica.is/2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a#claim-55721250-b355-42cf-a4f9-76e9ee6cf403
   inspection_url: /records/2020-09-04-pdf-range-fouler-reporting-form#claim-55721250-b355-42cf-a4f9-76e9ee6cf403
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

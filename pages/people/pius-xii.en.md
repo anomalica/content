@@ -128,306 +128,357 @@ references:
   claim_id: 008d7607-449d-44eb-ac83-964cad39c350
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-008d7607-449d-44eb-ac83-964cad39c350
+  copyright_status: restricted
 - text: The Prophecy of the Popes described Pius XII (1939-1958) as 'Pastor angelicus'
   source: The Fatima Secret
   location: ch21:10575-10650
   claim_id: 7a05ead6-7dbc-4f23-a41e-f02546ce14dc
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7a05ead6-7dbc-4f23-a41e-f02546ce14dc
+  copyright_status: restricted
 - text: Lúcia felt hope on learning of the new pope
   source: The Fatima Secret
   location: ch15:5117-5236
   claim_id: f987a6fc-0e21-45fc-acfb-edd87715109e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f987a6fc-0e21-45fc-acfb-edd87715109e
+  copyright_status: restricted
 - text: Lúcia decided to write directly to Pius XII, 1940-08-18
   source: The Fatima Secret
   location: ch15:5243-5300
   claim_id: 6989986e-185f-485e-a8d1-8a92a99aefb3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6989986e-185f-485e-a8d1-8a92a99aefb3
+  copyright_status: restricted
 - text: Lúcia's 1940-10-24 letter relaying Jesus's warning about Russia
   source: The Fatima Secret
   location: ch15:5310-5600
   claim_id: d2f5ea77-43be-4316-9c4d-d9593a7065d3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d2f5ea77-43be-4316-9c4d-d9593a7065d3
+  copyright_status: restricted
 - text: First letter censored by the bishop of Leiria as too long
   source: The Fatima Secret
   location: ch15:5607-5755
   claim_id: e4a20bac-9044-458a-898a-cf978ec509dd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e4a20bac-9044-458a-898a-cf978ec509dd
+  copyright_status: restricted
 - text: Second version of the letter sent 1940-12-02
   source: The Fatima Secret
   location: ch15:5709-5755
   claim_id: 7061d03e-c65d-4b7d-a2d4-f1424c61b2bb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7061d03e-c65d-4b7d-a2d4-f1424c61b2bb
+  copyright_status: restricted
 - text: Two years before Pius XII paid attention to the message
   source: The Fatima Secret
   location: ch15:5761-5824
   claim_id: ea7c78e7-4fab-433f-8fcb-d68ecc72f0b9
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ea7c78e7-4fab-433f-8fcb-d68ecc72f0b9
+  copyright_status: restricted
 - text: '1942 radio message: heaven intervened, Communist danger of 1936'
   source: The Fatima Secret
   location: ch15:8394-8806
   claim_id: df78860f-2549-49b6-b4c6-ef91874b8ef3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-df78860f-2549-49b6-b4c6-ef91874b8ef3
+  copyright_status: restricted
 - text: '1942 radio message: war in its fourth year, call for Mary''s help'
   source: The Fatima Secret
   location: ch15:8815-8987
   claim_id: 81867a3b-aed8-4f1c-9da1-17c152cfe48c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-81867a3b-aed8-4f1c-9da1-17c152cfe48c
+  copyright_status: restricted
 - text: '1942 radio message: subtle reference to Russia'
   source: The Fatima Secret
   location: ch15:8993-9280
   claim_id: e59e1b41-96bf-4a97-a41b-88eefa6c285a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e59e1b41-96bf-4a97-a41b-88eefa6c285a
+  copyright_status: restricted
 - text: Repetition of consecration, 1942-12-08, coincides with start of Stalingrad
   source: The Fatima Secret
   location: ch15:9991-10184
   claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
+  copyright_status: restricted
 - text: Announced feast of the Immaculate Heart of Mary, 1944-05-04
   source: The Fatima Secret
   location: ch15:11613-11767
   claim_id: fa8928a0-0169-4f65-bc41-06010aea057d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fa8928a0-0169-4f65-bc41-06010aea057d
+  copyright_status: restricted
 - text: Feast set as a major worldwide feast at Lúcia's request
   source: The Fatima Secret
   location: ch15:11430-11604
   claim_id: de63a1d6-f710-40f6-b5bc-da3035c70f1d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-de63a1d6-f710-40f6-b5bc-da3035c70f1d
+  copyright_status: restricted
 - text: 1946 crowning of the statue and radio message of thanks
   source: The Fatima Secret
   location: ch15:12613-12822
   claim_id: 450b032d-a18c-40e1-84c0-f556a2aebd29
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-450b032d-a18c-40e1-84c0-f556a2aebd29
+  copyright_status: restricted
 - text: Described the 1947 statue pilgrimage as a 'pilgrimage of miracles'
   source: The Fatima Secret
   location: ch15:13831-13878
   claim_id: b39dfc58-004a-413a-8c6d-d7efa0ff0954
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b39dfc58-004a-413a-8c6d-d7efa0ff0954
+  copyright_status: restricted
 - text: Granted Lúcia permission to enter a Carmelite convent
   source: The Fatima Secret
   location: ch15:14035-14272
   claim_id: 77d9584a-3592-48d7-9d95-9f269e909a0e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-77d9584a-3592-48d7-9d95-9f269e909a0e
+  copyright_status: restricted
 - text: The sun miracle repeated for him in the Vatican gardens
   source: The Fatima Secret
   location: ch21:10657-10729
   claim_id: fb4805f2-1c37-444e-808d-e83530a5dcc6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fb4805f2-1c37-444e-808d-e83530a5dcc6
+  copyright_status: restricted
 - text: 1950-10-30 vision of the 'dance of the sun' in the Vatican garden
   source: The Fatima Secret
   location: ch15:17048-17161
   claim_id: 23e70044-c39c-4546-87b5-e330dbaf9218
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-23e70044-c39c-4546-87b5-e330dbaf9218
+  copyright_status: restricted
 - text: Account of his walk in the Vatican gardens before the vision
   source: The Fatima Secret
   location: ch15:17171-17453
   claim_id: bef25278-a74e-46bc-870c-3361da344f42
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-bef25278-a74e-46bc-870c-3361da344f42
+  copyright_status: restricted
 - text: Description of the solar phenomenon he witnessed
   source: The Fatima Secret
   location: ch15:17462-17924
   claim_id: f07ac91b-0478-4f79-b1e4-5b2c1c20846c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f07ac91b-0478-4f79-b1e4-5b2c1c20846c
+  copyright_status: restricted
 - text: Phenomenon repeated on further dates through 1950-11-08
   source: The Fatima Secret
   location: ch15:17935-18064
   claim_id: 914ce561-c3b1-4c3e-84b4-e737d4a2f809
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-914ce561-c3b1-4c3e-84b4-e737d4a2f809
+  copyright_status: restricted
 - text: Vatican Observatory reported nothing unusual
   source: The Fatima Secret
   location: ch15:18071-18189
   claim_id: 1f9d8c64-f000-470f-93ef-eece818710c6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1f9d8c64-f000-470f-93ef-eece818710c6
+  copyright_status: restricted
 - text: Lúcia's failed attempts to personally brief him on the Third Secret
   source: The Fatima Secret
   location: ch16:3838-3991
   claim_id: 4eacd9fa-933d-4501-a0fc-343f778806fc
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4eacd9fa-933d-4501-a0fc-343f778806fc
+  copyright_status: restricted
 - text: Wanted the Third Secret under his own control
   source: The Fatima Secret
   location: ch16:6055-6174
   claim_id: 980a22cb-8da9-4f35-87e0-24ed8513c235
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-980a22cb-8da9-4f35-87e0-24ed8513c235
+  copyright_status: restricted
 - text: Envelope kept in his private quarters, the most secure part of the Vatican
   source: The Fatima Secret
   location: ch16:6184-6280
   claim_id: 43340122-1ded-4e9a-963e-93736136eff4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-43340122-1ded-4e9a-963e-93736136eff4
+  copyright_status: restricted
 - text: Serrou photographed the safe marked 'Secret of the Holy Office'
   source: The Fatima Secret
   location: ch16:6285-6512
   claim_id: e6f009ba-1cdf-4a3e-97e1-97a9fdb8a7d3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e6f009ba-1cdf-4a3e-97e1-97a9fdb8a7d3
+  copyright_status: restricted
 - text: Housekeeper confirmed the safe held the Third Secret
   source: The Fatima Secret
   location: ch16:6523-6609
   claim_id: 1d92a93d-3f58-449d-8119-02e67d7f5993
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1d92a93d-3f58-449d-8119-02e67d7f5993
+  copyright_status: restricted
 - text: Hesemann's assessment that Pius XII probably never read the document
   source: The Fatima Secret
   location: ch16:6693-6839
   claim_id: 422a4b51-72bf-4f2c-bbb0-c27f9b2b2481
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-422a4b51-72bf-4f2c-bbb0-c27f9b2b2481
+  copyright_status: restricted
 - text: Father Schweigl's 1952 interview of Lúcia on Pius XII's instructions
   source: The Fatima Secret
   location: ch18:4748-4915
   claim_id: 96970f78-0f3c-4987-b1d6-54d521909edb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-96970f78-0f3c-4987-b1d6-54d521909edb
+  copyright_status: restricted
 - text: Restricted Lúcia's visitors to those with Vatican permission
   source: The Fatima Secret
   location: ch15:18885-19089
   claim_id: e3723880-a260-488b-a7f4-72121fd6f069
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e3723880-a260-488b-a7f4-72121fd6f069
+  copyright_status: restricted
 - text: Rumour that the pope did not want to hear more about Fatima
   source: The Fatima Secret
   location: ch15:15600-15689
   claim_id: 8fac96b6-3a5f-4a5e-8f19-d77d6171cb0e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8fac96b6-3a5f-4a5e-8f19-d77d6171cb0e
+  copyright_status: restricted
 - text: His indignant denial of indifference to Fatima
   source: The Fatima Secret
   location: ch15:15699-16055
   claim_id: 94568054-1790-4281-8bcb-2e2c3e184ffb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-94568054-1790-4281-8bcb-2e2c3e184ffb
+  copyright_status: restricted
 - text: '''That''s me!'' remark at a 1951 papal audience'
   source: The Fatima Secret
   location: ch15:16069-16193
   claim_id: 81f19627-5177-4dfb-b282-dbafa25ea905
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-81f19627-5177-4dfb-b282-dbafa25ea905
+  copyright_status: restricted
 - text: Did not overcome Vatican opposition to the consecration act
   source: The Fatima Secret
   location: ch15:16199-16330
   claim_id: ac7f1a44-a95b-4f68-9594-5565ac9057f2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ac7f1a44-a95b-4f68-9594-5565ac9057f2
+  copyright_status: restricted
 - text: Described as a man of compromise, undone by his confrontation with Hitler
   source: The Fatima Secret
   location: ch15:16339-16598
   claim_id: 3771f05f-ffbf-4129-bcb5-b453263d1bd8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3771f05f-ffbf-4129-bcb5-b453263d1bd8
+  copyright_status: restricted
 - text: Helped Jews escape but never spoke out openly against anti-Semitism
   source: The Fatima Secret
   location: ch15:16604-16794
   claim_id: 5c90c1b1-9901-4152-afa3-b4249f88f8e6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5c90c1b1-9901-4152-afa3-b4249f88f8e6
+  copyright_status: restricted
 - text: Same 'adaptability' applied to the Fatima consecration request
   source: The Fatima Secret
   location: ch15:16805-16929
   claim_id: 12008b96-8034-43f9-a02c-e3dbd5c6ca26
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12008b96-8034-43f9-a02c-e3dbd5c6ca26
+  copyright_status: restricted
 - text: 1952 pastoral letter to Russia condemning Communism
   source: The Fatima Secret
   location: ch15:18529-18710
   claim_id: 8271764e-7b01-48db-b1c2-892873a5100f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8271764e-7b01-48db-b1c2-892873a5100f
+  copyright_status: restricted
 - text: Declared 1954 a Marian year without mentioning Fatima
   source: The Fatima Secret
   location: ch15:18771-18877
   claim_id: fb132cd2-7318-40ee-bd1e-925448cbc879
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fb132cd2-7318-40ee-bd1e-925448cbc879
+  copyright_status: restricted
 - text: 'Hesemann: did his best on the consecration of Russia but fell short'
   source: The Fatima Secret
   location: ch23:12701-12796
   claim_id: 65f2743c-7f60-462f-8bf1-d8b7c6162076
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-65f2743c-7f60-462f-8bf1-d8b7c6162076
+  copyright_status: restricted
 - text: Death of Pius XII, 1958-10-09, a year after Bishop da Silva's death
   source: The Fatima Secret
   location: ch16:6868-6946
   claim_id: 51ccdd3e-93a9-4a96-8a38-e7a47df1d982
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-51ccdd3e-93a9-4a96-8a38-e7a47df1d982
+  copyright_status: restricted
 - text: John XXIII opened the Third Secret envelope in 1959, unlike Pius XII
   source: The Fatima Secret
   location: ch16:9559-9879
   claim_id: cbdd3aea-579f-498d-b1fc-ba205e9d4469
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cbdd3aea-579f-498d-b1fc-ba205e9d4469
+  copyright_status: restricted
 - text: Five popes kept the Third Secret under lock and key
   source: The Fatima Secret
   location: ch18:3861-3985
   claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-22d9a161-c1d4-45a7-85b9-32bbb274ab96
+  copyright_status: restricted
 - text: Seer children did not know which pope was shown in the vision
   source: The Fatima Secret
   location: ch24:16144-16366
   claim_id: adb1df6a-4569-4baf-97e1-8d1bd597b3a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-adb1df6a-4569-4baf-97e1-8d1bd597b3a6
+  copyright_status: restricted
 - text: John Paul II regarded himself as heir to the 'Fatima pope' title
   source: The Fatima Secret
   location: ch19:6373-6493
   claim_id: b5d67698-14ee-455c-86a9-22509d0b2184
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b5d67698-14ee-455c-86a9-22509d0b2184
+  copyright_status: restricted
 - text: 'Hesemann: Fatima influenced Vatican secret policy from Pius XII onward'
   source: The Fatima Secret
   location: ch5:5613-5803
   claim_id: 6a1e3361-222e-4961-8dc9-202b6947bce0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6a1e3361-222e-4961-8dc9-202b6947bce0
+  copyright_status: restricted
 - text: 'Hesemann: every twentieth-century pope from Pius XII was aware of Fatima'
   source: The Fatima Secret
   location: ch7:5611-5718
   claim_id: 6d6bcbc5-434b-44e6-ac0a-e32404103f0b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6d6bcbc5-434b-44e6-ac0a-e32404103f0b
+  copyright_status: restricted
 - text: Hesemann's speculation on 'channelling mental energy'
   source: The Fatima Secret
   location: ch15:10683-10929
   claim_id: f4744d86-007a-439f-b86a-401e22f19d70
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f4744d86-007a-439f-b86a-401e22f19d70
+  copyright_status: restricted
 - text: Godinho's 1954 letter requesting official convent status
   source: The Fatima Secret
   location: ch13:9311-9478
   claim_id: 98960f14-b1f8-4bf4-86ed-833cfdd5e5ea
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98960f14-b1f8-4bf4-86ed-833cfdd5e5ea
+  copyright_status: restricted
 - text: Godinho relayed Jacinta's warning about 1972
   source: The Fatima Secret
   location: ch13:9487-9674
   claim_id: 83173755-0581-4a06-83ad-736e7e7c374d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-83173755-0581-4a06-83ad-736e7e7c374d
+  copyright_status: restricted
 - text: Magenta UFO crash information back-channelled to Roosevelt
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:22:56.4-02:23:02.2
@@ -436,6 +487,7 @@ references:
   claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-86ca639a-0b26-4e25-ae60-cf7535396729
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

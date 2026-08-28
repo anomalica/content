@@ -89,24 +89,28 @@ references:
   claim_id: bbba4027-fd65-49de-b91b-9aa7a77bc753
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bbba4027-fd65-49de-b91b-9aa7a77bc753
+  copyright_status: restricted
 - text: Mystic whose books on the Virgin Mary were popular and remain widely read
   source: American Cosmic
   location: ch7:2966-3076
   claim_id: b87612a8-a7db-469f-86ef-58139cf0bf68
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b87612a8-a7db-469f-86ef-58139cf0bf68
+  copyright_status: restricted
 - text: Best known as author of Mystical City of God
   source: American Cosmic
   location: ch7:34034-34123
   claim_id: 7b50cbc0-6629-405d-ac2e-05a575d7a7c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b50cbc0-6629-405d-ac2e-05a575d7a7c2
+  copyright_status: restricted
 - text: Never canonised despite her cause being proposed many times
   source: American Cosmic
   location: ch7:5252-5402
   claim_id: aa481527-654b-4258-ab27-c15bc24aee25
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-aa481527-654b-4258-ab27-c15bc24aee25
+  copyright_status: restricted
 - text: Claimed she flew through space and over the ocean to New Mexico with angelic
     help
   source: American Cosmic
@@ -114,12 +118,14 @@ references:
   claim_id: 9e5717c5-27b6-43d6-bd08-f73c79ffcca9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9e5717c5-27b6-43d6-bd08-f73c79ffcca9
+  copyright_status: restricted
 - text: Sister nuns said they saw her rise off the floor surrounded by brilliant light
   source: American Cosmic
   location: ch7:32319-32467
   claim_id: 89669e79-2d7c-4701-9544-908599d08084
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89669e79-2d7c-4701-9544-908599d08084
+  copyright_status: restricted
 - text: Biographers reported her body levitated while she experienced soaring on angels'
     wings to the New World
   source: American Cosmic
@@ -127,24 +133,28 @@ references:
   claim_id: 4c20a021-870f-4381-8120-e17fe33d0a95
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4c20a021-870f-4381-8120-e17fe33d0a95
+  copyright_status: restricted
 - text: Benavides questioned her closely about her alleged bilocations
   source: American Cosmic
   location: ch7:32941-33023
   claim_id: c78b43f6-b245-4e7c-8258-2afc7348539c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c78b43f6-b245-4e7c-8258-2afc7348539c
+  copyright_status: restricted
 - text: Benavides was impressed and reported her account to King Philip IV
   source: American Cosmic
   location: ch7:33030-33204
   claim_id: 5afe2c08-ff09-4638-8915-8fa9838e01a6
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5afe2c08-ff09-4638-8915-8fa9838e01a6
+  copyright_status: restricted
 - text: Her claims were used to justify Spanish imperial funding
   source: American Cosmic
   location: ch7:33273-33366
   claim_id: 616c2041-ca33-47a6-afca-a6da88b22c94
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-616c2041-ca33-47a6-afca-a6da88b22c94
+  copyright_status: restricted
 - text: 'Pasulka: the voyages helped missionaries secure funding to convert indigenous
     Americans'
   source: American Cosmic
@@ -152,6 +162,7 @@ references:
   claim_id: 919e3750-f401-4435-9934-9b6747e2c088
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-919e3750-f401-4435-9934-9b6747e2c088
+  copyright_status: restricted
 - text: Uncertain whether she truly travelled in the body, but affirmed the events
     happened
   source: American Cosmic
@@ -159,6 +170,7 @@ references:
   claim_id: 3eeb8d02-a597-4306-8b35-3391dcac2f2c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3eeb8d02-a597-4306-8b35-3391dcac2f2c
+  copyright_status: restricted
 - text: Criticised Benavides for being too literal while insisting the bilocations
     really happened
   source: American Cosmic
@@ -166,18 +178,21 @@ references:
   claim_id: 1dda7df1-4e83-41c5-83ed-63837c9f39c4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1dda7df1-4e83-41c5-83ed-63837c9f39c4
+  copyright_status: restricted
 - text: Said the travels required the assistance of angels
   source: American Cosmic
   location: ch7:37015-37128
   claim_id: 8a81e68d-b4ca-4f95-8ded-c7149cf3eb39
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8a81e68d-b4ca-4f95-8ded-c7149cf3eb39
+  copyright_status: restricted
 - text: Earliest cosmographies were later burned by nuns of her own convent
   source: American Cosmic
   location: ch7:3082-3144
   claim_id: 0ee48d35-d23b-46f7-821c-93235dc57310
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ee48d35-d23b-46f7-821c-93235dc57310
+  copyright_status: restricted
 - text: Cosmographies described astral journeys recorded as topographies of other
     lands and of space
   source: American Cosmic
@@ -185,6 +200,7 @@ references:
   claim_id: 6e7bc25d-66e0-4af5-b80f-2abf0bac8bd3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6e7bc25d-66e0-4af5-b80f-2abf0bac8bd3
+  copyright_status: restricted
 - text: Described seeing the earth from space as a spinning sphere; only a few copies
     survive
   source: American Cosmic
@@ -192,6 +208,7 @@ references:
   claim_id: 542204d5-8233-4af1-966e-ac00781f6148
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-542204d5-8233-4af1-966e-ac00781f6148
+  copyright_status: restricted
 - text: Attracted suspicion as a woman who dared to write, and had to answer to the
     Inquisition
   source: American Cosmic
@@ -199,6 +216,7 @@ references:
   claim_id: 33c9cfb0-b866-4da8-bbc2-23f8aeec6f0b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-33c9cfb0-b866-4da8-bbc2-23f8aeec6f0b
+  copyright_status: restricted
 - text: Later claimed she was pressured to answer to Benavides as he wished, and writings
     were burned
   source: American Cosmic
@@ -206,12 +224,14 @@ references:
   claim_id: 8140d8f5-2511-4786-8669-7f0d6e81e81e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8140d8f5-2511-4786-8669-7f0d6e81e81e
+  copyright_status: restricted
 - text: Recanted her recantations and rewrote earlier works from memory
   source: American Cosmic
   location: ch7:37619-37698
   claim_id: 315fc318-1eb8-4ae6-8e11-63df8691a606
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-315fc318-1eb8-4ae6-8e11-63df8691a606
+  copyright_status: restricted
 - text: Bilocation story still mentioned in textbooks on the history of the western
     United States
   source: American Cosmic
@@ -219,54 +239,63 @@ references:
   claim_id: 05af5784-e3a7-4d21-871d-2d6cec1f2370
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-05af5784-e3a7-4d21-871d-2d6cec1f2370
+  copyright_status: restricted
 - text: Witnesses said she and other mystics appeared dead while levitating
   source: The Fourth Mind
   location: ch22:22010-22168
   claim_id: f795b775-3b6e-45e4-848b-57aa73a28a78
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f795b775-3b6e-45e4-848b-57aa73a28a78
+  copyright_status: restricted
 - text: Noted as a bilocator
   source: The Fourth Mind
   location: ch22:22077-22120
   claim_id: a0ce024f-e117-43bd-9036-4fd2618c5f93
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0ce024f-e117-43bd-9036-4fd2618c5f93
+  copyright_status: restricted
 - text: Body became so light in levitation that nuns could move it by blowing on it
   source: The Fourth Mind
   location: ch22:23498-23594
   claim_id: 47d18638-5c7d-44b1-971e-e86f08af21ad
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-47d18638-5c7d-44b1-971e-e86f08af21ad
+  copyright_status: restricted
 - text: Tortured while levitating, without effect
   source: The Fourth Mind
   location: ch22:23602-23651
   claim_id: dde499ca-c48f-49a7-90b9-7c419f341768
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dde499ca-c48f-49a7-90b9-7c419f341768
+  copyright_status: restricted
 - text: Sisters floated her into public where visitors could move her by blowing
   source: The Fourth Mind
   location: ch22:23711-23907
   claim_id: 36876512-da70-4b08-a8a5-7e8a3d04c158
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-36876512-da70-4b08-a8a5-7e8a3d04c158
+  copyright_status: restricted
 - text: Became furious on learning she was used as a paid public amusement
   source: The Fourth Mind
   location: ch22:23919-24024
   claim_id: 529ca62e-37a0-4e14-9d3f-84e4c083f9f9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-529ca62e-37a0-4e14-9d3f-84e4c083f9f9
+  copyright_status: restricted
 - text: Pasulka regards her as a meta-experiencer
   source: American Cosmic
   location: ch7:2772-2863
   claim_id: faf7d106-290f-4f3d-be6b-764cd66f83fb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-faf7d106-290f-4f3d-be6b-764cd66f83fb
+  copyright_status: restricted
 - text: Funded trip to Rome to study the canonisation trial records
   source: American Cosmic
   location: ch7:4403-4559
   claim_id: b47e619c-d304-4dae-9fba-1d472c1b7cb4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b47e619c-d304-4dae-9fba-1d472c1b7cb4
+  copyright_status: restricted
 - text: Her bilocation claims concerned the same New Mexico region as a supposed UFO
     crash site
   source: American Cosmic
@@ -274,6 +303,7 @@ references:
   claim_id: 2e03b18d-055d-48db-b15f-fc6cee9eeb71
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2e03b18d-055d-48db-b15f-fc6cee9eeb71
+  copyright_status: restricted
 - text: 'Tyler D.: his understanding of the beings was shaped by her case among other
     influences'
   source: American Cosmic
@@ -281,6 +311,7 @@ references:
   claim_id: 412a5a6f-0b41-4918-8ae7-447389e5b200
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-412a5a6f-0b41-4918-8ae7-447389e5b200
+  copyright_status: restricted
 - text: Tyler D. felt a kinship to her and vowed to a new ministry after his Rome
     trip
   source: American Cosmic
@@ -288,12 +319,14 @@ references:
   claim_id: d23232a0-3eb4-46db-8a00-0f22ab957644
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d23232a0-3eb4-46db-8a00-0f22ab957644
+  copyright_status: restricted
 - text: Tyler D. believed the beings he contacted were similar to the angels she described
   source: American Cosmic
   location: ch7:41845-42014
   claim_id: bab43e10-df14-407d-9458-b6428a3780bf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bab43e10-df14-407d-9458-b6428a3780bf
+  copyright_status: restricted
 - text: 'Kripal: consider her claims within a both/and framework rather than reducing
     them to imagination or politics'
   source: American Cosmic
@@ -301,6 +334,7 @@ references:
   claim_id: bbf5d24d-0321-4a38-9a9a-3d8f5b271163
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bbf5d24d-0321-4a38-9a9a-3d8f5b271163
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -31,6 +31,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
+  copyright_status: publicly_accessible
 - text: The Space Shuttle Columbia began the 17-day STS-80 mission on 1996-11-19.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
   location: char:1579-1720
@@ -41,6 +42,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-5100687b-8697-4546-8245-fadb3b67423b
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-5100687b-8697-4546-8245-fadb3b67423b
+  copyright_status: publicly_accessible
 - text: The payload-bay camera recorded disk-like objects near the shuttle at about
     07:57 GMT on 1996-12-02.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -52,6 +54,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-7b4f4770-7b1e-4d7e-943e-e9d8c0ade430
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-7b4f4770-7b1e-4d7e-943e-e9d8c0ade430
+  copyright_status: publicly_accessible
 - text: Event F1 appears, crosses the camera’s field of view and is followed by a
     camera zoom-out.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -64,6 +67,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-e50794c0-ce8e-4e19-ab48-305c11d622c3
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-e50794c0-ce8e-4e19-ab48-305c11d622c3
+  copyright_status: publicly_accessible
 - text: Event F1 has an estimated speed of over approximately 800 kilometres per second.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
   location: char:1274-1321
@@ -73,6 +77,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
+  copyright_status: publicly_accessible
 - text: Event F1 occurred before sunrise and away from thunderstorm activity.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
   location: char:1206-1260
@@ -82,6 +87,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
+  copyright_status: publicly_accessible
 - text: Foreshortening-corrected lights in the video were matched with Puerto Rico,
     placing F1 near Vieques.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -94,6 +100,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
+  copyright_status: publicly_accessible
 - text: Ten fast-moving streaks, designated S1 to S10, were selected for study.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
   location: char:7827-7875
@@ -103,6 +110,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-15750b76-ff92-41f4-bc3a-020d3a1677f2
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-15750b76-ff92-41f4-bc3a-020d3a1677f2
+  copyright_status: publicly_accessible
 - text: Analysis of the streaks was said to imply that they were not shuttle debris
     or meteors.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -114,6 +122,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-83c1272f-58e7-4202-b28c-523c6fdaf5ef
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-83c1272f-58e7-4202-b28c-523c6fdaf5ef
+  copyright_status: publicly_accessible
 - text: Carlotto considered the shape and motion of F1 inconsistent with typical orbiting
     debris.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -124,6 +133,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-4467868d-9ecb-4252-a81e-afc433acb719
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-4467868d-9ecb-4252-a81e-afc433acb719
+  copyright_status: publicly_accessible
 - text: Story Musgrave reportedly saw nothing unusual during the relevant part of
     STS-80.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -136,6 +146,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-137cc196-db0b-46f2-9200-d2489d4eb8fb
+  copyright_status: publicly_accessible
 - text: James Oberg dismissed the STS-80 disk-like-object event as having the same
     origin as scenes in STS-48.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -148,6 +159,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
+  copyright_status: publicly_accessible
 - text: Oberg attributed similar shuttle-video objects to particles illuminated as
     the orbiter entered sunlight.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -161,6 +173,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-d5b6e54e-5d7c-4c8d-90eb-f8a8a8f61431
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-d5b6e54e-5d7c-4c8d-90eb-f8a8a8f61431
+  copyright_status: publicly_accessible
 - text: Carlotto proposed that U1 and U2 were probably ice particles or other small
     objects close to the orbiter.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -172,6 +185,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
+  copyright_status: publicly_accessible
 - text: Carlotto proposed that F1 might represent a new atmospheric phenomenon observed
     from space.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
@@ -183,6 +197,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-2028c640-4099-4f1a-ac5e-37e7a8d47441
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-2028c640-4099-4f1a-ac5e-37e7a8d47441
+  copyright_status: publicly_accessible
 - text: The document states that no mention of F1 was found in the mission record.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (2005)
   location: char:29067-29112
@@ -192,6 +207,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-142ed72a-162f-41c4-a206-c33ee6c5185a
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-142ed72a-162f-41c4-a206-c33ee6c5185a
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

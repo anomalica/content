@@ -73,12 +73,14 @@ references:
   claim_id: 552fdbba-5552-42dc-a737-ef8a72edc346
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-552fdbba-5552-42dc-a737-ef8a72edc346
+  copyright_status: restricted
 - text: The Monroe Institute research facility was formed and became active in 1972.
   source: Journeys Out of the Body
   location: ch7:4626-4683
   claim_id: caa04f53-9987-462a-b0a4-18d7b391a9e3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-caa04f53-9987-462a-b0a4-18d7b391a9e3
+  copyright_status: restricted
 - text: Joseph McMoneagle, remote viewer 001, lived in Nelliesford, Virginia, the
     same location as the Monroe Institute.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -89,6 +91,7 @@ references:
   claim_id: 355e889c-1821-47af-a08f-484a9c83c15a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-355e889c-1821-47af-a08f-484a9c83c15a
+  copyright_status: publicly_accessible
 - text: The Monroe Institute is internationally known for its work on the effects
     of sound wave forms on human behaviour.
   source: Journeys Out of the Body
@@ -96,12 +99,14 @@ references:
   claim_id: d0d6b83a-bc5f-41ec-b392-c66f54b6a245
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d0d6b83a-bc5f-41ec-b392-c66f54b6a245
+  copyright_status: restricted
 - text: Robert Monroe plays an active part in the work of the Monroe Institute.
   source: Journeys Out of the Body
   location: ch2:803-861
   claim_id: e635f2f3-9217-41f8-8755-377a9d570f9a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e635f2f3-9217-41f8-8755-377a9d570f9a
+  copyright_status: restricted
 - text: The Institute's work attracted physicists, psychologists, biochemists, engineers,
     educators, psychiatrists, corporate presidents and statisticians, many serving
     on its board of advisers.
@@ -110,12 +115,14 @@ references:
   claim_id: 412c3941-84ba-401e-b50a-dd0f94871cb2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-412c3941-84ba-401e-b50a-dd0f94871cb2
+  copyright_status: restricted
 - text: The Institute had received over eleven thousand pieces of mail.
   source: Journeys Out of the Body
   location: ch7:4905-4995
   claim_id: 2ec427b5-087e-49f1-83d7-74fc346206f4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2ec427b5-087e-49f1-83d7-74fc346206f4
+  copyright_status: restricted
 - text: Over seven hundred people had participated in the Institute's research and
     experimental training programme.
   source: Journeys Out of the Body
@@ -123,6 +130,7 @@ references:
   claim_id: 7b15ec5e-e001-427c-b1f1-7a36e9dbd8d3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7b15ec5e-e001-427c-b1f1-7a36e9dbd8d3
+  copyright_status: restricted
 - text: Around fifty more people were awaiting completion of their final indoctrination
     at the facility.
   source: Journeys Out of the Body
@@ -130,6 +138,7 @@ references:
   claim_id: 8998d5f5-2296-46ec-9b83-8024b14835e5
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8998d5f5-2296-46ec-9b83-8024b14835e5
+  copyright_status: restricted
 - text: Training programmes at the Institute may qualify for college and university-level
     credit.
   source: Journeys Out of the Body
@@ -137,12 +146,14 @@ references:
   claim_id: 91ecf65c-8cf2-406a-98ad-d340b45ac8c8
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-91ecf65c-8cf2-406a-98ad-d340b45ac8c8
+  copyright_status: restricted
 - text: The Monroe Institute Explorer Team had six members.
   source: Journeys Out of the Body
   location: ch7:5219-5251
   claim_id: 2242037a-5429-4671-bbf3-6d9d56151e84
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2242037a-5429-4671-bbf3-6d9d56151e84
+  copyright_status: restricted
 - text: The six-member Explorer Team was bringing back data faster than the Institute
     could process it.
   source: Journeys Out of the Body
@@ -150,6 +161,7 @@ references:
   claim_id: b3cd50e8-6b4f-40f8-b5ca-3182b5567021
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b3cd50e8-6b4f-40f8-b5ca-3182b5567021
+  copyright_status: restricted
 - text: The Monroe Institute championed a particular type of Hemi-Sync meditation
     intended to connect with something else.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -160,6 +172,7 @@ references:
   claim_id: 5fe4b355-8cdd-4959-b145-492f74e71924
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5fe4b355-8cdd-4959-b145-492f74e71924
+  copyright_status: publicly_accessible
 - text: In autumn 1983 Joseph McMoneagle attended a Gateway Voyage seminar and asked
     Robert Monroe for help controlling his out-of-body experiences.
   source: Remote Viewing Secrets
@@ -167,6 +180,7 @@ references:
   claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a65a29f4-2a39-4e68-bf7d-c23b534bb304
+  copyright_status: restricted
 - text: Ed Dames used Robert Monroe's altered-states and out-of-body-experience programme
     to evaluate potential Project STARGATE recruits.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -178,6 +192,7 @@ references:
   claim_id: 41f89d54-ed22-4bae-8511-601c81902457
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-41f89d54-ed22-4bae-8511-601c81902457
+  copyright_status: publicly_accessible
 - text: 'Chris Ramsay: McMoneagle was sent on weekend retreats to the Institute during
     the Stargate Project to test whether leaving his body improved remote-viewing
     accuracy.'
@@ -191,6 +206,7 @@ references:
   claim_id: 6d6628a4-30a2-48f0-9505-950ee2722661
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-6d6628a4-30a2-48f0-9505-950ee2722661
+  copyright_status: publicly_accessible
 - text: 'Chris Ramsay: McMoneagle travelled from Fort Meade to the Institute at weekends
     for out-of-body training during the Stargate Project.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -201,6 +217,7 @@ references:
   claim_id: 23dd5ec0-79c7-4414-9e3f-276f88b19a65
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-23dd5ec0-79c7-4414-9e3f-276f88b19a65
+  copyright_status: publicly_accessible
 - text: Nelson Delis signed up for the Institute's Gateway Experience programme.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:22:14.7-00:22:20.7
@@ -210,6 +227,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
+  copyright_status: publicly_accessible
 - text: Nelson Delis performed a take-home 45-minute guided meditation exercise from
     the Gateway Experience programme.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -220,6 +238,7 @@ references:
   claim_id: a456562a-a393-429f-a496-cc9d4596615a
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-a456562a-a393-429f-a496-cc9d4596615a
+  copyright_status: publicly_accessible
 - text: On 2024-08-07 Graham Nichols used the Institute's Expand app, featuring binaural
     beats and Monroe sound science technology.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -231,6 +250,7 @@ references:
   claim_id: d7dedc4e-2979-4bda-9d4b-ceac02765000
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-d7dedc4e-2979-4bda-9d4b-ceac02765000
+  copyright_status: publicly_accessible
 - text: Jesse Mitchells attended the Monroe Institute prior to 2024-11-13.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:02:03.6-00:02:10.7
@@ -240,6 +260,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
+  copyright_status: publicly_accessible
 - text: Whitley Strieber never met Robert Monroe but attended a Gateway programme
     at the Institute many years before 2026.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -250,6 +271,7 @@ references:
   claim_id: 15d5d728-94ca-4807-ab25-b9fc6888228a
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-15d5d728-94ca-4807-ab25-b9fc6888228a
+  copyright_status: publicly_accessible
 - text: An individual underwent one week of intensive training under Institute instructors
     as part of an evaluation of the Gateway process.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -260,6 +282,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
+  copyright_status: publicly_accessible
 - text: Julia Mossbridge said the Institute does great things helping people and that
     its work can be very healing.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -270,6 +293,7 @@ references:
   claim_id: 0f4a901c-ff04-445e-b2c4-eb99dabb4884
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0f4a901c-ff04-445e-b2c4-eb99dabb4884
+  copyright_status: publicly_accessible
 - text: Chris Ramsay's first out-of-body experiences happened at home, not at the
     Institute.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -280,6 +304,7 @@ references:
   claim_id: ce74fe32-8a20-4699-99d9-97af5cb78cb8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ce74fe32-8a20-4699-99d9-97af5cb78cb8
+  copyright_status: publicly_accessible
 - text: Ramsay could not push his hand through a window as taught at the Institute,
     so he opened it instead.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -291,6 +316,7 @@ references:
   claim_id: c20b0f60-16f0-4be5-a301-b9ea8c696251
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c20b0f60-16f0-4be5-a301-b9ea8c696251
+  copyright_status: publicly_accessible
 - text: Ramsay described a talk at the Institute about meditating on past trauma to
     reach a different, better outcome.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -304,6 +330,7 @@ references:
   claim_id: d75cb72f-dd3e-420e-9cf9-4cf958ce1a32
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-d75cb72f-dd3e-420e-9cf9-4cf958ce1a32
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -38,6 +38,7 @@ references:
   claim_id: f9ee5e0d-0616-47b4-8a1e-7581249d08ca
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f9ee5e0d-0616-47b4-8a1e-7581249d08ca
+  copyright_status: publicly_accessible
 - text: Greenewald grew sceptical of Elizondo's AATIP claims after being unable to
     verify them via FOIA requests and Pentagon conversations
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -49,6 +50,7 @@ references:
   claim_id: ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+  copyright_status: publicly_accessible
 - text: Elizondo declined Greenewald's interview requests
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He? (2019-06-01)
@@ -57,6 +59,7 @@ references:
   claim_id: 0c202e09-6af9-4061-b72e-e0be3ef37047
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0c202e09-6af9-4061-b72e-e0be3ef37047
+  copyright_status: publicly_accessible
 - text: Greenewald contacted TTSA spokesperson Kari DeLonge for information on Elizondo's
     AATIP role
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -67,6 +70,7 @@ references:
   claim_id: 2f5610d4-c62b-4a94-abdf-4f48c77099db
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2f5610d4-c62b-4a94-abdf-4f48c77099db
+  copyright_status: publicly_accessible
 - text: Greenewald asked DeLonge specifically where within the DoD Elizondo worked
     while running AATIP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -77,6 +81,7 @@ references:
   claim_id: f12b4bdf-9ae9-4f34-b626-60a352113648
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-f12b4bdf-9ae9-4f34-b626-60a352113648
+  copyright_status: publicly_accessible
 - text: By the time of DeLonge's reply, Greenewald was frustrated at the lack of tangible
     information about AATIP
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -87,6 +92,7 @@ references:
   claim_id: c9ea7def-d7f3-4238-a727-d895ecc2b2e5
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9ea7def-d7f3-4238-a727-d895ecc2b2e5
+  copyright_status: publicly_accessible
 - text: Tim McMillan, like Greenewald a longtime UFO researcher, had come to doubt
     Elizondo's government UFO programme involvement
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -97,6 +103,7 @@ references:
   claim_id: 86220c1a-8014-4594-ae13-ee72c1ba8c2c
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-86220c1a-8014-4594-ae13-ee72c1ba8c2c
+  copyright_status: publicly_accessible
 - text: OUSDI located eight pages responsive to two parts of Greenewald's FOIA request
     on AATIP and Elizondo
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents (2022-08-17)'
@@ -109,6 +116,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
+  copyright_status: public_domain
 - text: A Greenewald FOIA request returned information indicating either about 3,000
     or about 30,000 references in Obama's presidential documents
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event (2026-07-14)
@@ -119,6 +127,7 @@ references:
   claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
+  copyright_status: publicly_accessible
 - text: Greenewald reported via The Black Vault that the Navy released the dates of
     three officially acknowledged encounters
   source: In Plain Sight (2021)
@@ -126,6 +135,7 @@ references:
   claim_id: f66c86f4-cc07-4c4b-a267-7decee52d115
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f66c86f4-cc07-4c4b-a267-7decee52d115
+  copyright_status: restricted
 - text: Greenewald reported via The Black Vault that the Army released its CRADA agreement
     with TTSA
   source: In Plain Sight (2021)
@@ -133,6 +143,7 @@ references:
   claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbe357d8-af29-4fa1-b676-e4819f6eb946
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

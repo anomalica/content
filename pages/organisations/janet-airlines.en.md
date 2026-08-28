@@ -26,6 +26,7 @@ references:
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
+  copyright_status: restricted
 - text: Venditelli said an EG&G co-pilot who flew Janet Airlines into Groom Lake between
     roughly 1987 and 1991 reached out to Chris Ramsay
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -35,6 +36,7 @@ references:
   claim_id: c0bdd844-f16c-4555-9aa5-fa80648bffd5
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-c0bdd844-f16c-4555-9aa5-fa80648bffd5
+  copyright_status: publicly_accessible
 - text: Venditelli said the co-pilot told him he knew Dennis Mariani
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:11:31.8-00:11:33.4
@@ -42,6 +44,7 @@ references:
   claim_id: e82dc86c-f4f6-4603-9add-29cc038a3843
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-e82dc86c-f4f6-4603-9add-29cc038a3843
+  copyright_status: publicly_accessible
 - text: Ramsay said the co-pilot met Mariani over a dozen times and later learned
     of his death
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -52,6 +55,7 @@ references:
   claim_id: 73b59f4d-6385-44b1-a655-b0b5d1a01841
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-73b59f4d-6385-44b1-a655-b0b5d1a01841
+  copyright_status: publicly_accessible
 - text: Venditelli said the co-pilot's testimony establishes Mariani was real and
     flew Janet Airlines to Groom Lake
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -61,6 +65,7 @@ references:
   claim_id: bd6e225a-1470-414f-8195-0abd5df98d9b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-bd6e225a-1470-414f-8195-0abd5df98d9b
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

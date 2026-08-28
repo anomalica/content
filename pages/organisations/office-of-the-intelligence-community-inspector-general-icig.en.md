@@ -38,6 +38,7 @@ references:
   claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3a22fa3f-9847-41c9-9713-18526071d93e
+  copyright_status: public_domain
 - text: The complaint was found credible and urgent for reporting to the Congressional
     intelligence committees
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -48,6 +49,7 @@ references:
   claim_id: 26813151-57c3-44c8-a598-b4fba1eac080
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-26813151-57c3-44c8-a598-b4fba1eac080
+  copyright_status: public_domain
 - text: The managing partner of Compass Rose Legal Group reportedly co-signed the
     complaint
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -59,6 +61,7 @@ references:
   claim_id: 0845bc30-b347-4697-bc88-919fba54365f
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-0845bc30-b347-4697-bc88-919fba54365f
+  copyright_status: publicly_accessible
 - text: The ICIG found the whistleblower's assertion that UFO-related information
     was inappropriately concealed from Congress to be 'urgent and credible'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -70,6 +73,7 @@ references:
   claim_id: 9a512374-dbec-4552-b5c8-b501926e0ba5
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-9a512374-dbec-4552-b5c8-b501926e0ba5
+  copyright_status: publicly_accessible
 - text: Compass Rose Legal Group clarified it took no position on the substance of
     Grusch's information
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -82,6 +86,7 @@ references:
   claim_id: 964786a4-8fe7-4942-a770-9baf33bc1e60
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-964786a4-8fe7-4942-a770-9baf33bc1e60
+  copyright_status: publicly_accessible
 - text: Von Rennenkampff's view that Grusch and other interviewees had little incentive
     to lie given the legal risk involved
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -92,6 +97,7 @@ references:
   claim_id: 80f79f09-211f-41b0-8b33-376fb0119537
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-80f79f09-211f-41b0-8b33-376fb0119537
+  copyright_status: publicly_accessible
 - text: False statements to the ICIG carry the risk of financial penalties and imprisonment
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
@@ -101,6 +107,7 @@ references:
   claim_id: 52428234-ec1c-4463-9128-70f0339b7597
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-52428234-ec1c-4463-9128-70f0339b7597
+  copyright_status: publicly_accessible
 - text: Luis Elizondo and former colleagues have provided classified testimony to
     the DoD and the ICIG
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -111,6 +118,7 @@ references:
   claim_id: fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
+  copyright_status: public_domain
 - text: Elizondo states colleagues who gave such testimony have subsequently faced
     threats to their careers, clearances, and lives
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -121,6 +129,7 @@ references:
   claim_id: 412478e3-782b-4049-ab68-05e092c736d3
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-412478e3-782b-4049-ab68-05e092c736d3
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

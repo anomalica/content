@@ -31,6 +31,7 @@ references:
   record_hash: 15cd159e1ee6ca947ca72c3517c7b92792a0e6fcb2992b846495afa7
   workbench_url: https://workbench.anomalica.is/15cd159e1ee6ca947ca72c3517c7b92792a0e6fcb2992b846495afa7#claim-2b5b9882-70ba-4132-a72b-83ece976a48a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d014-mercury-redstone-4-july-21-1961#claim-2b5b9882-70ba-4132-a72b-83ece976a48a
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

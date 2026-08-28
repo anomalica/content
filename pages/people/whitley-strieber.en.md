@@ -418,6 +418,7 @@ references:
   claim_id: dac24791-7f78-4e04-8300-8c954ee14039
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-dac24791-7f78-4e04-8300-8c954ee14039
+  copyright_status: publicly_accessible
 - text: Communion, Strieber's 1987 account of his claimed encounters with aliens,
     sold millions of copies.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -425,6 +426,7 @@ references:
   claim_id: 8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
+  copyright_status: restricted
 - text: Strieber calls the non-human beings he describes encountering 'the visitors'.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -434,6 +436,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
+  copyright_status: publicly_accessible
 - text: Coulthart calls Strieber a controversial and leading figure in the study of
     alleged experiencer close encounters.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -444,6 +447,7 @@ references:
   claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5a0eab6f-974b-483f-8351-cf0dfcdeadc5
+  copyright_status: publicly_accessible
 - text: Strieber has written over 30 novels and non-fiction works.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -453,6 +457,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d2d87689-3e29-4383-84e5-96697063e07a
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-d2d87689-3e29-4383-84e5-96697063e07a
+  copyright_status: publicly_accessible
 - text: Communion and Breakthrough are described as Strieber's bestselling books.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -462,6 +467,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8c8f0325-e7a4-4f84-a2d8-bf4ddb2d186c
+  copyright_status: publicly_accessible
 - text: Communion was a New York Times bestseller.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -472,6 +478,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
+  copyright_status: publicly_accessible
 - text: After Communion's publication, Strieber received thousands of letters from
     readers reporting similar encounters.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -479,6 +486,7 @@ references:
   claim_id: c62d5b18-9913-45ec-8801-ed0b276f99b8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c62d5b18-9913-45ec-8801-ed0b276f99b8
+  copyright_status: restricted
 - text: The cover painting of the alien visitor on Communion helped entrench the gray
     alien stereotype in public consciousness.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -486,6 +494,7 @@ references:
   claim_id: 7c2a3f90-bc61-4021-9b30-b352b8f5069d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c2a3f90-bc61-4021-9b30-b352b8f5069d
+  copyright_status: restricted
 - text: Coulthart has met many people whose encounter experiences were triggered by
     the cover image of the grey alien on Communion's original edition.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -497,6 +506,7 @@ references:
   claim_id: 39bbf813-b4b3-4dc8-8dd8-1caccd943490
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-39bbf813-b4b3-4dc8-8dd8-1caccd943490
+  copyright_status: publicly_accessible
 - text: Strieber's accounts of his own abduction experiences began at his cabin in
     upstate New York in December 1985.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -508,6 +518,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3f0c5ae3-2f73-40be-ad1e-3102858cd58e
+  copyright_status: publicly_accessible
 - text: Strieber initially believed he had been assaulted by people wearing masks
     and did not connect the experience with aliens.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -519,6 +530,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-b0388b86-ee66-4b8a-b343-376b94de79d0
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-b0388b86-ee66-4b8a-b343-376b94de79d0
+  copyright_status: publicly_accessible
 - text: Strieber was severely injured in some areas during the 1985 encounter and
     the injuries took him to a doctor.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -530,6 +542,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-5e05d0af-d66e-4356-ad2b-28c0a9314165
+  copyright_status: publicly_accessible
 - text: Strieber involved the New York State Criminal Investigation Division, but
     they could do nothing because he had no evidence.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -540,6 +553,7 @@ references:
   claim_id: d6b0c55c-7ab3-425c-a27d-7fcd2d78d811
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-d6b0c55c-7ab3-425c-a27d-7fcd2d78d811
+  copyright_status: publicly_accessible
 - text: Strieber telephoned Budd Hopkins after reading Science and the UFOs.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -549,6 +563,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6d807211-f8d7-47ef-9ea0-7bc26f5cc3ba
+  copyright_status: publicly_accessible
 - text: Hopkins wanted to hypnotise Strieber, who refused because Hopkins displayed
     no professional degrees.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -560,6 +575,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4de79e48-185d-4516-85b2-256206147d95
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-4de79e48-185d-4516-85b2-256206147d95
+  copyright_status: publicly_accessible
 - text: Strieber chose not to approach any hypnotist to whom Hopkins had made previous
     referrals.
   source: Communion
@@ -567,6 +583,7 @@ references:
   claim_id: 9453789c-df50-4e1e-8cbb-7f56bbeb3275
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9453789c-df50-4e1e-8cbb-7f56bbeb3275
+  copyright_status: restricted
 - text: Hopkins put Strieber in touch with Donald Klein, who then hypnotised him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -577,6 +594,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8a00c3b0-8e53-4b8f-bc74-1367dd01a141
+  copyright_status: publicly_accessible
 - text: Dr. Donald Klein induced hypnosis using an eye-fixation technique followed
     by relaxation and warmth suggestions.
   source: Communion
@@ -584,6 +602,7 @@ references:
   claim_id: a67edea8-5973-4968-834f-cff7f02e769f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a67edea8-5973-4968-834f-cff7f02e769f
+  copyright_status: restricted
 - text: Strieber underwent a three-hour pre-interview in Klein's office before hypnosis.
   source: Communion
   location: ch10:1838-1914
@@ -591,6 +610,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
   inspection_url: /records/2013-06-16-ebook-communion#claim-57181f11-0b26-4d64-9401-d7c451812048
+  copyright_status: restricted
 - text: Strieber provided Klein with a document outlining all his memories related
     to the visitor experiences.
   source: Communion
@@ -598,6 +618,7 @@ references:
   claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cae8e9f-89c9-4bf5-a969-ba80c05fe498
+  copyright_status: restricted
 - text: Budd Hopkins was present at both hypnosis sessions, recording them and permitted
     to ask questions only at the end.
   source: Communion
@@ -606,6 +627,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
   inspection_url: /records/2013-06-16-ebook-communion#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
+  copyright_status: restricted
 - text: Under hypnosis, Strieber recalled appearing to have been abducted by aliens
     rather than assaulted by people in masks.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -618,6 +640,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-116d5684-c0d2-418c-8c29-a63842866719
+  copyright_status: publicly_accessible
 - text: The hypnosis session recalling the October 4, 1985 memories took place on
     March 1, 1986, with Klein as psychiatrist.
   source: Communion
@@ -626,6 +649,7 @@ references:
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
   inspection_url: /records/2013-06-16-ebook-communion#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
+  copyright_status: restricted
 - text: Strieber recalled waking to see something pass an octagonal window beneath
     the peak of his living room's cathedral ceiling.
   source: Communion
@@ -633,6 +657,7 @@ references:
   claim_id: f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
+  copyright_status: restricted
 - text: Strieber recalled a dark shape about one metre tall in the far corner of his
     bedroom.
   source: Communion
@@ -640,12 +665,14 @@ references:
   claim_id: 2a6312ee-f925-42a9-93af-baad578769c9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2a6312ee-f925-42a9-93af-baad578769c9
+  copyright_status: restricted
 - text: Strieber recalled the figure as hooded with no visible head.
   source: Communion
   location: ch10:13951-14054
   claim_id: 6b60ef4b-262f-4c93-b28c-16e624b39e82
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6b60ef4b-262f-4c93-b28c-16e624b39e82
+  copyright_status: restricted
 - text: Strieber recalled the figure making a sucking, smacking, squeaking sound as
     if pressing something into his mind.
   source: Communion
@@ -653,6 +680,7 @@ references:
   claim_id: 7f4ad424-18d1-449b-8001-ed72b7426d26
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7f4ad424-18d1-449b-8001-ed72b7426d26
+  copyright_status: restricted
 - text: Strieber recalled planning to take Jacques Sandulescu and his girlfriend Annie
     Gottlieb to the country for the weekend.
   source: Communion
@@ -660,6 +688,7 @@ references:
   claim_id: b320165b-8cb3-4157-9546-fdb2a715c596
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b320165b-8cb3-4157-9546-fdb2a715c596
+  copyright_status: restricted
 - text: Strieber recalled a small being holding a silver-tipped, ruler-like object
     that touched his head and produced visions of a nuclear blast.
   source: Communion
@@ -667,12 +696,14 @@ references:
   claim_id: aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
+  copyright_status: restricted
 - text: Strieber recalled hearing a voice tell him 'That's your home'.
   source: Communion
   location: ch10:19154-19231
   claim_id: d987aa80-12b9-4c6a-9392-50c5a5df9c0c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d987aa80-12b9-4c6a-9392-50c5a5df9c0c
+  copyright_status: restricted
 - text: Strieber screamed for a prolonged twenty seconds before spontaneously emerging
     from hypnosis.
   source: Communion
@@ -680,6 +711,7 @@ references:
   claim_id: 62a2f613-39d1-4650-bde6-deb95465bcdf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-62a2f613-39d1-4650-bde6-deb95465bcdf
+  copyright_status: restricted
 - text: During the December 26 experience, Strieber found himself in a messy, round
     room, overwhelmed by dread and a sense his personality had evaporated.
   source: Communion
@@ -687,6 +719,7 @@ references:
   claim_id: 8d095b8b-f767-4741-a47e-5a03d022882c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8d095b8b-f767-4741-a47e-5a03d022882c
+  copyright_status: restricted
 - text: Under hypnosis, Strieber recalled asking to go home and wanting to remain
     with his mother, his wife and his son.
   source: Communion
@@ -694,6 +727,7 @@ references:
   claim_id: d2bb5b10-3448-4d84-a06b-dce58e0d5e43
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d2bb5b10-3448-4d84-a06b-dce58e0d5e43
+  copyright_status: restricted
 - text: Strieber recalled his father standing up, appearing terrified, and making
     a convulsive mouth movement as though trying to get something out of his throat.
   source: Communion
@@ -701,6 +735,7 @@ references:
   claim_id: 158c77e5-3ff7-49bf-b202-2842d6443c35
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-158c77e5-3ff7-49bf-b202-2842d6443c35
+  copyright_status: restricted
 - text: By mid-1986 Strieber and Anne Strieber were discussing whether to re-establish
     contact with the visitors or leave the cabin permanently.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -711,6 +746,7 @@ references:
   claim_id: 37384042-dc01-4a58-8dbd-4ea97cf06b45
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-37384042-dc01-4a58-8dbd-4ea97cf06b45
+  copyright_status: publicly_accessible
 - text: Anne Strieber urged him to go back to the woods where the first encounter
     happened, to show the visitors he was interested.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -721,6 +757,7 @@ references:
   claim_id: fdb0e667-5c35-4082-8376-e3f52a1dc75a
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-fdb0e667-5c35-4082-8376-e3f52a1dc75a
+  copyright_status: publicly_accessible
 - text: Anne Strieber declined to go into the woods herself because she had to care
     for their young son.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -731,6 +768,7 @@ references:
   claim_id: 0f5ad2be-91cc-4953-8524-10d30cda8254
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-0f5ad2be-91cc-4953-8524-10d30cda8254
+  copyright_status: publicly_accessible
 - text: After three or four attempts Strieber went alone into the woods at night,
     and the visitors appeared within a few days and began coming to the house.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -741,6 +779,7 @@ references:
   claim_id: 13df3478-b289-49b9-8db5-9431650bf472
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-13df3478-b289-49b9-8db5-9431650bf472
+  copyright_status: publicly_accessible
 - text: Within a year, the visitors were coming to the cabin while gathered friends
     and correspondents were present.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -752,6 +791,7 @@ references:
   claim_id: 1dff40a3-acc5-4f68-930d-66157cc692a1
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-1dff40a3-acc5-4f68-930d-66157cc692a1
+  copyright_status: publicly_accessible
 - text: Strieber's book Transformation names 31 witnesses, many of whom had experiences
     at his cabin.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -762,6 +802,7 @@ references:
   claim_id: bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-bb6ba2a2-0c97-4a5b-a890-6d7eb2dd773d
+  copyright_status: publicly_accessible
 - text: Strieber does not believe any of the witnesses saw the visitors engaging with
     him personally; they had their own encounters.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -774,6 +815,7 @@ references:
   claim_id: e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e22cdbbd-3686-412f-8de2-71e3ef2bf4fe
+  copyright_status: publicly_accessible
 - text: In January 1987 Strieber had been going nightly to the clearing where the
     visitors first appeared, after asking them for a meeting.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -786,6 +828,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-3d0ff878-e53c-4c8c-9736-3fc373f86e9a
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-3d0ff878-e53c-4c8c-9736-3fc373f86e9a
+  copyright_status: publicly_accessible
 - text: Just before dawn, Strieber heard a low, mournful, horn-like sound from the
     woods near his cabin.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -796,6 +839,7 @@ references:
   claim_id: e34f5428-9099-42ea-8dda-a4b4df7438a2
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e34f5428-9099-42ea-8dda-a4b4df7438a2
+  copyright_status: publicly_accessible
 - text: From a hill above the clearing, Strieber saw a dark object with figures standing
     in front of it.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -806,6 +850,7 @@ references:
   claim_id: f961dc8f-33a5-439b-bc0e-4663efa85388
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-f961dc8f-33a5-439b-bc0e-4663efa85388
+  copyright_status: publicly_accessible
 - text: Strieber heard a harsh voice in his head saying 'come on, come on', frightening
     him into turning back.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -816,6 +861,7 @@ references:
   claim_id: 84c0b566-7185-4194-822f-a14b6edb8c47
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-84c0b566-7185-4194-822f-a14b6edb8c47
+  copyright_status: publicly_accessible
 - text: Strieber turned back because he feared he might not return and could not disappear
     on his wife and son.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -826,6 +872,7 @@ references:
   claim_id: 690ee754-a8e9-4229-9f09-d692115f927f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-690ee754-a8e9-4229-9f09-d692115f927f
+  copyright_status: publicly_accessible
 - text: As he touched the doorknob, Strieber heard three cries above the forest that
     sounded like disappointment, which he describes as not of this world.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -837,6 +884,7 @@ references:
   claim_id: 99e39740-c17c-4115-96cb-aa8113b9327f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-99e39740-c17c-4115-96cb-aa8113b9327f
+  copyright_status: publicly_accessible
 - text: For a year afterwards, classical music sounded muddy and indistinct to Strieber.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -847,6 +895,7 @@ references:
   claim_id: dcd97eb8-384e-4714-a796-c9570d65c2fc
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-dcd97eb8-384e-4714-a796-c9570d65c2fc
+  copyright_status: publicly_accessible
 - text: Sitting on his bedside, Strieber felt an invisible presence directly in front
     of him.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -857,6 +906,7 @@ references:
   claim_id: cdd6bd0c-c9d3-4c1b-9951-e48f07863f34
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cdd6bd0c-c9d3-4c1b-9951-e48f07863f34
+  copyright_status: publicly_accessible
 - text: Strieber believes the visitors took his adult consciousness back into his
     infant body at the moment he first walked, breaking through childhood amnesia.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -869,6 +919,7 @@ references:
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-8200f835-b09b-40a3-8342-2206f4cbadaf
   inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-8200f835-b09b-40a3-8342-2206f4cbadaf
+  copyright_status: publicly_accessible
 - text: In 1988, while making the Communion film, Strieber and Anne Strieber travelled
     to Roswell to meet surviving witnesses of the 1947 Roswell UFO incident.
   source: The Fourth Mind
@@ -876,12 +927,14 @@ references:
   claim_id: 63df11cb-d372-4f21-8974-20791f0d823b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-63df11cb-d372-4f21-8974-20791f0d823b
+  copyright_status: restricted
 - text: Strieber sent a letter to Senator Strom Thurmond on 1997-06-16.
   source: In Plain Sight
   location: ch34:57725-57809
   claim_id: 0b8eed27-e42c-4a63-9737-e804e864e73d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
+  copyright_status: restricted
 - text: Strieber told Strom Thurmond that Brigadier General Arthur Exon had told him
     personally in 1989 of a 'completely unequivocal cover-up' of a retrieved craft
     at Roswell that 'went from Truman on down'.
@@ -890,6 +943,7 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
+  copyright_status: restricted
 - text: Strieber wrote that the US Department of Defense ensures nobody outside a
     small security-cleared group has definite knowledge concerning nonhuman visitors.
   source: The Fourth Mind
@@ -897,6 +951,7 @@ references:
   claim_id: 68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
+  copyright_status: restricted
 - text: Strieber considers that every US presidential administration since Harry Truman
     in 1947 has kept the secret of nonhuman visitors.
   source: The Fourth Mind
@@ -904,6 +959,7 @@ references:
   claim_id: 080a72f9-28f2-4a49-8e6d-051f117a3260
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-080a72f9-28f2-4a49-8e6d-051f117a3260
+  copyright_status: restricted
 - text: The United States government classifies between 60 million and 70 million
     documents a year.
   source: The Fourth Mind
@@ -911,6 +967,7 @@ references:
   claim_id: eff9d015-d7fe-415f-9f04-7d272f4b68c0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-eff9d015-d7fe-415f-9f04-7d272f4b68c0
+  copyright_status: restricted
 - text: Strieber considers that much is known about UAP and some of their occupants
     within the US defence establishment, concentrated on materials and biology rather
     than aims or motives.
@@ -919,6 +976,7 @@ references:
   claim_id: 714a9560-6407-480d-a990-bc73f962f9d2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-714a9560-6407-480d-a990-bc73f962f9d2
+  copyright_status: restricted
 - text: An alleged whistleblower described in a Reddit document referenced in one
     of Strieber's recent books was a biologist and geneticist who examined the blood,
     organs, eyes and fingers of the beings.
@@ -934,6 +992,7 @@ references:
   claim_id: ff5998b9-ca6d-409a-a0b4-9b94b91640e4
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ff5998b9-ca6d-409a-a0b4-9b94b91640e4
+  copyright_status: publicly_accessible
 - text: Strieber considers the contact experience with non-human beings to be primarily
     about the human soul rather than the body.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -944,6 +1003,7 @@ references:
   claim_id: c070f0ef-4ead-4374-b5ed-e9fc5d32d552
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-c070f0ef-4ead-4374-b5ed-e9fc5d32d552
+  copyright_status: publicly_accessible
 - text: Strieber believes the non-human beings he encountered understand the soul
     and the afterlife, while humans do not.
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -954,6 +1014,7 @@ references:
   claim_id: e1181a66-3811-490a-bffd-0d4d55f3890c
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-e1181a66-3811-490a-bffd-0d4d55f3890c
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

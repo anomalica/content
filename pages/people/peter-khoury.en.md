@@ -422,6 +422,7 @@ references:
   claim_id: bbe058fd-cc0b-4511-89a5-9f9e65b8dbf4
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-bbe058fd-cc0b-4511-89a5-9f9e65b8dbf4
+  copyright_status: publicly_accessible
 - text: Family migrated to Australia in 1973, following his father who had already
     moved there
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -432,6 +433,7 @@ references:
   claim_id: 39e77cea-1cee-4dde-915e-035bfdf57f77
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-39e77cea-1cee-4dde-915e-035bfdf57f77
+  copyright_status: publicly_accessible
 - text: Father worked overseas; Khoury hardly knew him until about age seven
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -441,6 +443,7 @@ references:
   claim_id: bdbbc0d4-6a34-4e2b-b674-82114b7d095d
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-bdbbc0d4-6a34-4e2b-b674-82114b7d095d
+  copyright_status: publicly_accessible
 - text: Khoury family are Maronite Christian
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -449,6 +452,7 @@ references:
   claim_id: 0790a5c7-56e9-4abd-8d34-0abe08a5a702
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-0790a5c7-56e9-4abd-8d34-0abe08a5a702
+  copyright_status: publicly_accessible
 - text: Khoury currently works at a church
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -457,6 +461,7 @@ references:
   claim_id: 49dabca2-895d-47ae-9eb0-6c456b837096
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-49dabca2-895d-47ae-9eb0-6c456b837096
+  copyright_status: publicly_accessible
 - text: Known Vivian since 1981, when they dated at school
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -466,6 +471,7 @@ references:
   claim_id: cc605da1-be06-4263-a529-fadc54eee9eb
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-cc605da1-be06-4263-a529-fadc54eee9eb
+  copyright_status: publicly_accessible
 - text: Reconnected with Vivian around 1988
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -475,6 +481,7 @@ references:
   claim_id: f6ac95f3-c106-46a5-bf4e-9307ffad27f0
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-f6ac95f3-c106-46a5-bf4e-9307ffad27f0
+  copyright_status: publicly_accessible
 - text: Mother breastfeeding him at 3am, aged 22 days, saw an alien in the window
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -485,6 +492,7 @@ references:
   claim_id: 900745eb-eebf-4dae-85a9-85dd709476e8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-900745eb-eebf-4dae-85a9-85dd709476e8
+  copyright_status: publicly_accessible
 - text: Mother said the being was looking at her infant son, not at her
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -494,6 +502,7 @@ references:
   claim_id: b1be3eff-78fb-4a3b-866c-e60d932c61b4
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b1be3eff-78fb-4a3b-866c-e60d932c61b4
+  copyright_status: publicly_accessible
 - text: 1972 rooftop encounter dated to late 1971 or early 1972
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -503,6 +512,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
+  copyright_status: publicly_accessible
 - text: Rooftop in neighbourhood where children regularly played
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -513,6 +523,7 @@ references:
   claim_id: d52eee47-7600-4194-9774-2d976da716fd
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d52eee47-7600-4194-9774-2d976da716fd
+  copyright_status: publicly_accessible
 - text: Families used flat rooftops for cubby houses and summer sleeping
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -523,6 +534,7 @@ references:
   claim_id: 1d327210-fe54-4f8b-a0b9-8bd5882458dd
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1d327210-fe54-4f8b-a0b9-8bd5882458dd
+  copyright_status: publicly_accessible
 - text: Group of seven or eight children, including George Farduis, invited onto the
     roof
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -534,6 +546,7 @@ references:
   claim_id: 8907d94f-2763-43c8-9aa2-019ca8cd505c
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8907d94f-2763-43c8-9aa2-019ca8cd505c
+  copyright_status: publicly_accessible
 - text: Heavy stairwell door stayed open the whole time
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -543,6 +556,7 @@ references:
   claim_id: 3d0940e4-e6d8-42dc-b17d-d7cb28c9ba56
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3d0940e4-e6d8-42dc-b17d-d7cb28c9ba56
+  copyright_status: publicly_accessible
 - text: Other children froze motionless mid-movement
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -553,6 +567,7 @@ references:
   claim_id: fb1451d0-3292-4ac6-9cf7-c7e0aa6e86d8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-fb1451d0-3292-4ac6-9cf7-c7e0aa6e86d8
+  copyright_status: publicly_accessible
 - text: Khoury was the only child able to move and look up
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -562,6 +577,7 @@ references:
   claim_id: c2f4b2b6-9d03-419f-b8a8-658e4a9910db
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-c2f4b2b6-9d03-419f-b8a8-658e4a9910db
+  copyright_status: publicly_accessible
 - text: Egg-shaped silver craft hovering approximately 30 metres above the group
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -571,6 +587,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
+  copyright_status: publicly_accessible
 - text: Craft was silver with a large, darkly tinted windscreen
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -582,6 +599,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
+  copyright_status: publicly_accessible
 - text: No landing gear, propeller or doors
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -593,6 +611,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
+  copyright_status: publicly_accessible
 - text: Craft similar in size to a neighbour's Volkswagen Beetle
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -603,6 +622,7 @@ references:
   claim_id: 8b40f804-6bfe-4bd4-96b7-e7ebde3f1fe8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8b40f804-6bfe-4bd4-96b7-e7ebde3f1fe8
+  copyright_status: publicly_accessible
 - text: Two thin, tall figures visible only as silhouettes inside the craft
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -612,6 +632,7 @@ references:
   claim_id: 1a3371e5-49ce-4e76-8945-ecd449d982f8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1a3371e5-49ce-4e76-8945-ecd449d982f8
+  copyright_status: publicly_accessible
 - text: Craft dropped altitude twice, by about five metres each time
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -623,6 +644,7 @@ references:
   claim_id: dd49c609-55f6-4a24-b624-589d55a62010
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-dd49c609-55f6-4a24-b624-589d55a62010
+  copyright_status: publicly_accessible
 - text: After the second drop the craft was about 20 metres above the children
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -632,6 +654,7 @@ references:
   claim_id: ed646b85-b751-4393-bd5e-16616e0d90c8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-ed646b85-b751-4393-bd5e-16616e0d90c8
+  copyright_status: publicly_accessible
 - text: Next memory was the group at the bottom of the stairs, with no recollection
     of getting there
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -645,6 +668,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
+  copyright_status: publicly_accessible
 - text: Children grounded for one to two weeks afterwards
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -655,6 +679,7 @@ references:
   claim_id: 29493b42-803a-476f-a3f2-e45ae1b598f1
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-29493b42-803a-476f-a3f2-e45ae1b598f1
+  copyright_status: publicly_accessible
 - text: Back living at parents' home for about nine months by 1988
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -663,6 +688,7 @@ references:
   claim_id: db918991-5a21-40c8-ad41-a2ba46f49825
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-db918991-5a21-40c8-ad41-a2ba46f49825
+  copyright_status: publicly_accessible
 - text: Sat on the bed with the television on before the 1988 encounter
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -673,6 +699,7 @@ references:
   claim_id: b783c835-9345-4dc9-af96-3bdbb951377c
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b783c835-9345-4dc9-af96-3bdbb951377c
+  copyright_status: publicly_accessible
 - text: Something gripped his ankles just before his head touched the pillow
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -684,6 +711,7 @@ references:
   claim_id: 861c9d1e-1a69-4c09-b58a-36b7be4b4511
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-861c9d1e-1a69-4c09-b58a-36b7be4b4511
+  copyright_status: publicly_accessible
 - text: Pins-and-needles sensation spread from ankles to scalp
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -695,6 +723,7 @@ references:
   claim_id: 95586e33-8fc6-40e4-b255-214176039821
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-95586e33-8fc6-40e4-b255-214176039821
+  copyright_status: publicly_accessible
 - text: Became paralysed and unable to move
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -704,6 +733,7 @@ references:
   claim_id: 919a0e47-ffc7-4de1-8f34-3235580c28a8
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-919a0e47-ffc7-4de1-8f34-3235580c28a8
+  copyright_status: publicly_accessible
 - text: Could not move except his eyes, which stayed open because he had not been
     asleep
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -716,6 +746,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
+  copyright_status: publicly_accessible
 - text: Khoury maintains the paralysis began before he fell asleep, ruling out a sleep-related
     explanation
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -728,6 +759,7 @@ references:
   claim_id: 637aa896-a0d1-4868-9792-bfa5f09dd5af
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-637aa896-a0d1-4868-9792-bfa5f09dd5af
+  copyright_status: publicly_accessible
 - text: Hooded figure approximately 1.2 metres tall at the foot of the bed
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -738,6 +770,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
+  copyright_status: publicly_accessible
 - text: Figure described as horrific and evil-looking, robe and hood enlarging its
     head
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -749,6 +782,7 @@ references:
   claim_id: e7201b74-e225-4304-bcf0-d78ec26abfce
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-e7201b74-e225-4304-bcf0-d78ec26abfce
+  copyright_status: publicly_accessible
 - text: Two further identical hooded beings on the right side of the bed
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -759,6 +793,7 @@ references:
   claim_id: 83c6432e-cf34-41e2-befc-b5981366e994
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-83c6432e-cf34-41e2-befc-b5981366e994
+  copyright_status: publicly_accessible
 - text: Female being had large, black, almond-shaped eyes
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -768,6 +803,7 @@ references:
   claim_id: 86bd5be3-9a46-489b-a2f8-42b986dbe8f5
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-86bd5be3-9a46-489b-a2f8-42b986dbe8f5
+  copyright_status: publicly_accessible
 - text: Female being wore a thin mask held by a fishing-line-like band
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -779,6 +815,7 @@ references:
   claim_id: 7eb94c73-2c10-4047-9be3-3e10c320b912
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-7eb94c73-2c10-4047-9be3-3e10c320b912
+  copyright_status: publicly_accessible
 - text: Blacked out for about 15 minutes before regaining movement
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -790,6 +827,7 @@ references:
   claim_id: b568e79c-06cd-44e1-813e-9151983c05fd
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b568e79c-06cd-44e1-813e-9151983c05fd
+  copyright_status: publicly_accessible
 - text: Burn mark on shin resembling a bullet hole, with three prong marks
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -801,6 +839,7 @@ references:
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
   inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
+  copyright_status: publicly_accessible
 - text: Sam Khoury described witnessing Peter floated through the hallway by three
     beings
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -811,6 +850,7 @@ references:
   claim_id: b3bef33f-c971-4a18-abf9-3faaee614aab
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b3bef33f-c971-4a18-abf9-3faaee614aab
+  copyright_status: publicly_accessible
 - text: Khoury only learned of the account when Sam told Chalker directly
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -820,6 +860,7 @@ references:
   claim_id: 8d6a2994-59e6-4cb5-a79d-85660849d7ee
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8d6a2994-59e6-4cb5-a79d-85660849d7ee
+  copyright_status: publicly_accessible
 - text: 'October 1991: Asian woman took his hand to her breast, then cupped his head
     to it'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -827,6 +868,7 @@ references:
   claim_id: 11bf8eca-3df8-4103-b200-34de125a6b07
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-11bf8eca-3df8-4103-b200-34de125a6b07
+  copyright_status: restricted
 - text: Woke two hours after Oct 1991 event; called Vivian under an hour after July
     1992 event
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -834,6 +876,7 @@ references:
   claim_id: eb79d3c3-11ac-4f57-923b-5e3c7ede10ba
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eb79d3c3-11ac-4f57-923b-5e3c7ede10ba
+  copyright_status: restricted
 - text: Blond woman described as mid-thirties, hair blown back, protruding cheeks,
     large eyes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -841,36 +884,42 @@ references:
   claim_id: bf782562-d407-412e-8d8c-a5f9497de9d6
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bf782562-d407-412e-8d8c-a5f9497de9d6
+  copyright_status: restricted
 - text: Face longer and narrower than human, with a pointed, witch-like chin
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: '110'
   claim_id: 26733d89-7081-4a6e-bf31-29fe9e1ce897
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-26733d89-7081-4a6e-bf31-29fe9e1ce897
+  copyright_status: restricted
 - text: Bit her nipple, swallowing a piece stuck in his throat for three days
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: '144'
   claim_id: 14a7e43b-2999-4224-a3f1-e5fac70bf46a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-14a7e43b-2999-4224-a3f1-e5fac70bf46a
+  copyright_status: restricted
 - text: Khoury and Vivian certain the episode occurred after the May 1992 head injury
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:11053-11411
   claim_id: 8073f7bc-577c-48a3-90a4-026836fcfaf5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8073f7bc-577c-48a3-90a4-026836fcfaf5
+  copyright_status: restricted
 - text: Needle-like device inserted something into his head during the 1988 encounter
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:2702-2855
   claim_id: 0928d1bb-084a-40b2-8d0b-33512f6b36ae
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0928d1bb-084a-40b2-8d0b-33512f6b36ae
+  copyright_status: restricted
 - text: Doughnut-shaped lump persisted for nearly four years
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:2923-3151
   claim_id: c5b6e40e-1561-4d90-99e9-385459396790
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c5b6e40e-1561-4d90-99e9-385459396790
+  copyright_status: restricted
 - text: Dark brown, match-head-sized object popped from the site and fell into the
     carpet
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -878,72 +927,84 @@ references:
   claim_id: f96e4eae-93fb-4fbe-890f-6ef82f2059f4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f96e4eae-93fb-4fbe-890f-6ef82f2059f4
+  copyright_status: restricted
 - text: 'Diary entry, 26 August 1992: ''lack of help from committee'''
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:4662-4764
   claim_id: f6504be7-c8da-4610-9d9f-9d94f0308e0e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f6504be7-c8da-4610-9d9f-9d94f0308e0e
+  copyright_status: restricted
 - text: 'Diary entry, 27 August 1992: ''do not discuss experience'''
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:4776-4916
   claim_id: 65ddf112-8dc7-4a4b-84c0-97a80a054cbb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-65ddf112-8dc7-4a4b-84c0-97a80a054cbb
+  copyright_status: restricted
 - text: Chalker first heard of the hair sample in 1996
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:3129-3260
   claim_id: 4536e7a7-05ce-48e6-a986-36842cd28af3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4536e7a7-05ce-48e6-a986-36842cd28af3
+  copyright_status: restricted
 - text: Chalker worked with a group of specialists referred to as an 'invisible college'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:35032-35292
   claim_id: 39685a98-49dd-41f8-bcb0-0a954bd45f3e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-39685a98-49dd-41f8-bcb0-0a954bd45f3e
+  copyright_status: restricted
 - text: Forensic investigation of the hair conducted late 1998 to early 1999
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:6066-6188
   claim_id: 0c8daca7-ff9c-44d6-9233-e3ba0b19960b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0c8daca7-ff9c-44d6-9233-e3ba0b19960b
+  copyright_status: restricted
 - text: PCR amplification and sequencing used on the hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:4689-4915
   claim_id: 94ca98f2-f656-4339-b107-18947433df33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
+  copyright_status: restricted
 - text: Control hair samples cut from Khoury and Vivian in Chalker's presence
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:7669-7812
   claim_id: ee78455a-5269-4bb1-83fb-1568c6982b27
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ee78455a-5269-4bb1-83fb-1568c6982b27
+  copyright_status: restricted
 - text: Three hair samples easily distinguishable to the eye and under a microscope
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:7823-7908
   claim_id: 1749846e-3ab9-4df7-a9e3-827bf8d95050
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1749846e-3ab9-4df7-a9e3-827bf8d95050
+  copyright_status: restricted
 - text: Khoury's hair thick and black; Vivian's normal thickness and brown
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:8051-8162
   claim_id: a8d8c6a5-5dcd-4376-b2cb-2278df347940
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a8d8c6a5-5dcd-4376-b2cb-2278df347940
+  copyright_status: restricted
 - text: DNA profile showed five substitutions, three common, two rare
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:10896-11092
   claim_id: e79d61d2-4dd5-45e7-9ef1-5a2a9c94cd9c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e79d61d2-4dd5-45e7-9ef1-5a2a9c94cd9c
+  copyright_status: restricted
 - text: Blond hair would suggest Scandinavian racial types, but DNA indicated otherwise
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:12015-12130
   claim_id: e1f6f876-ab11-4331-bb31-e05f498cbd6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e1f6f876-ab11-4331-bb31-e05f498cbd6d
+  copyright_status: restricted
 - text: Further blood samples taken from Khoury, Vivian and a Chinese biochemical
     analyst
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -951,12 +1012,14 @@ references:
   claim_id: bcdc7b06-236b-4604-977b-76af16f2f135
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bcdc7b06-236b-4604-977b-76af16f2f135
+  copyright_status: restricted
 - text: Chinese analyst had no prior contact with the Khourys or the hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:13758-13874
   claim_id: c1078126-12bb-4910-9442-9fe61e534e93
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c1078126-12bb-4910-9442-9fe61e534e93
+  copyright_status: restricted
 - text: 'Biochemist: DNA rules out a fair-skinned donor, fits only a Chinese Mongoloid
     donor'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -964,6 +1027,7 @@ references:
   claim_id: 9ad45189-4712-4889-8a13-f2631fb10e6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9ad45189-4712-4889-8a13-f2631fb10e6d
+  copyright_status: restricted
 - text: 'Biochemist: most probable donor remains a tall, blond woman needing little
     pigmentation'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -971,18 +1035,21 @@ references:
   claim_id: 1d4e3efd-f3f3-45f0-88ca-3e080bdafbc4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1d4e3efd-f3f3-45f0-88ca-3e080bdafbc4
+  copyright_status: restricted
 - text: Joined UFO Research New South Wales in November 1991
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:417-637
   claim_id: dac57570-38e2-4712-a323-69f2e37b2c67
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-dac57570-38e2-4712-a323-69f2e37b2c67
+  copyright_status: restricted
 - text: Became UFO Research New South Wales's de facto abduction coordinator
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:1355-1524
   claim_id: d18cd134-18f3-4ecc-9cd3-01e81f0f0224
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d18cd134-18f3-4ecc-9cd3-01e81f0f0224
+  copyright_status: restricted
 - text: After Hopkins's October 1992 lecture, the group sought to take over Khoury's
     support group
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -990,24 +1057,28 @@ references:
   claim_id: e73d779d-2c43-4145-b426-17c934cfb1d8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e73d779d-2c43-4145-b426-17c934cfb1d8
+  copyright_status: restricted
 - text: Resigned from UFO Research New South Wales at the end of March 1993
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:7003-7061
   claim_id: cd24552f-5665-448f-9c8a-824b26ba84ea
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cd24552f-5665-448f-9c8a-824b26ba84ea
+  copyright_status: restricted
 - text: Co-founded the UFO Experience Support Association, formalised 14 April 1993
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:7067-7254
   claim_id: 1e74cedd-3b57-4da8-8f75-9fb099b1f904
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1e74cedd-3b57-4da8-8f75-9fb099b1f904
+  copyright_status: restricted
 - text: John Mack regressed Khoury under hypnosis during a 1996 visit
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:13649-13796
   claim_id: c3410914-6f26-4858-8d58-e0dfd43612c2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c3410914-6f26-4858-8d58-e0dfd43612c2
+  copyright_status: restricted
 - text: Under regression, described a lit white room, a table, and an entity speaking
     in bird-like chirps
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -1015,24 +1086,28 @@ references:
   claim_id: 5315506c-84eb-4670-9361-b00ab0f5b939
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5315506c-84eb-4670-9361-b00ab0f5b939
+  copyright_status: restricted
 - text: Khoury not fully satisfied with the 1996 regression results
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:14288-14465
   claim_id: 8275abd0-a4e2-43cd-94f9-72873c861608
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8275abd0-a4e2-43cd-94f9-72873c861608
+  copyright_status: restricted
 - text: Chalker wrote to Moira McGhee and Bryan Dickeson requesting the taped interview
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:1207-1352
   claim_id: 5ae8cd0c-b171-4efe-bb46-10e2fbc93670
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5ae8cd0c-b171-4efe-bb46-10e2fbc93670
+  copyright_status: restricted
 - text: Chalker told Khoury the tape omits any mention of the hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:11041-11209
   claim_id: 69c253e1-e83b-4386-b5b2-c36a20c19b0f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-69c253e1-e83b-4386-b5b2-c36a20c19b0f
+  copyright_status: restricted
 - text: Hypnosis session monitored by a psychologist friend and videotaped, 6 November
     2003
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -1040,30 +1115,35 @@ references:
   claim_id: 50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-50dd7987-5100-4dd5-a0fe-07d1b71d5b4e
+  copyright_status: restricted
 - text: Recalled driving Vivian to the station while feeling very sick
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:15081-15236
   claim_id: 5a2b0379-e3c7-4519-ae9b-05ffe83677c8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5a2b0379-e3c7-4519-ae9b-05ffe83677c8
+  copyright_status: restricted
 - text: Recalled pulling the car over to vomit before reaching the station
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:15642-15806
   claim_id: ee389522-9dd7-4637-91f6-3d93877371fb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ee389522-9dd7-4637-91f6-3d93877371fb
+  copyright_status: restricted
 - text: Recalled Vivian telling him he might need to see a doctor
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:16004-16164
   claim_id: 1c5222b9-2b1c-4ba3-a59d-44d8d078d71f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1c5222b9-2b1c-4ba3-a59d-44d8d078d71f
+  copyright_status: restricted
 - text: 'Chalker: found Khoury a friendly and reliable person'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:10052-10165
   claim_id: 04f69211-6f06-4b0f-adbc-90191c2e3dbc
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-04f69211-6f06-4b0f-adbc-90191c2e3dbc
+  copyright_status: restricted
 - text: 'Chalker: Khoury remains open but insists on serious, ethical research and
     support for abductees'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -1071,6 +1151,7 @@ references:
   claim_id: eaf97217-179f-4d98-adde-e7122fc431f3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eaf97217-179f-4d98-adde-e7122fc431f3
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

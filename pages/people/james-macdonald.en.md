@@ -262,6 +262,7 @@ references:
   claim_id: 3415b74d-ffa9-4a5d-beb1-a1f7a2d89fdd
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3415b74d-ffa9-4a5d-beb1-a1f7a2d89fdd
+  copyright_status: publicly_accessible
 - text: He held the title of professor at the University of Arizona
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -270,6 +271,7 @@ references:
   claim_id: 94655dee-c68c-449f-b866-0e8140f3401f
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-94655dee-c68c-449f-b866-0e8140f3401f
+  copyright_status: publicly_accessible
 - text: He worked for the US Navy while investigating Australian UFO reports in his
     spare time
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -279,6 +281,7 @@ references:
   claim_id: 2d33ecec-0269-41e3-8c4e-c9f75ee44201
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2d33ecec-0269-41e3-8c4e-c9f75ee44201
+  copyright_status: publicly_accessible
 - text: His aim was to determine whether UFO reports from different countries tallied
     and constituted a global phenomenon
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -288,6 +291,7 @@ references:
   claim_id: a71d1822-c01d-4a22-99a5-c9824bbd3fad
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-a71d1822-c01d-4a22-99a5-c9824bbd3fad
+  copyright_status: publicly_accessible
 - text: During the tour he interviewed witnesses face-to-face and by telephone to
     assess events and credibility
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -299,6 +303,7 @@ references:
   claim_id: 8afb305e-92e7-41d9-9b35-385879bfb796
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-8afb305e-92e7-41d9-9b35-385879bfb796
+  copyright_status: publicly_accessible
 - text: He had spent 12 to 13 months in the US interviewing witnesses before the tour
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -308,6 +313,7 @@ references:
   claim_id: c7cde16f-747e-41d0-81a9-25c653594f31
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-c7cde16f-747e-41d0-81a9-25c653594f31
+  copyright_status: publicly_accessible
 - text: He investigated approximately 50 to 60 cases in New Zealand and Australia
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:54:33.4-00:54:38.8
@@ -316,6 +322,7 @@ references:
   claim_id: 23506c2e-47e6-410b-b0ef-78ea7decc416
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-23506c2e-47e6-410b-b0ef-78ea7decc416
+  copyright_status: publicly_accessible
 - text: He recorded approximately 3,000 metres of interview tape
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -325,6 +332,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-04a0a630-cead-4964-bf3f-d366e5df718b
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-04a0a630-cead-4964-bf3f-d366e5df718b
+  copyright_status: publicly_accessible
 - text: He interviewed about 70 Australians or New Zealanders
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -334,6 +342,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-5e44f15e-ec9b-4475-8e60-8dfcad45a062
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-5e44f15e-ec9b-4475-8e60-8dfcad45a062
+  copyright_status: publicly_accessible
 - text: He was sent to interview Barry Greenwood about the 1966 Westall sighting as
     part of a presidentially authorised inquiry
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -343,6 +352,7 @@ references:
   claim_id: 5a22d703-fa74-4c5e-9b2d-a386834f6d1d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-5a22d703-fa74-4c5e-9b2d-a386834f6d1d
+  copyright_status: publicly_accessible
 - text: In Melbourne he spoke with Brian King about UFO investigations
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:54:27.2-00:54:28.5
@@ -350,6 +360,7 @@ references:
   claim_id: 29d0bc0b-d85b-4e9b-9f52-8dcd36a017d6
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-29d0bc0b-d85b-4e9b-9f52-8dcd36a017d6
+  copyright_status: publicly_accessible
 - text: Barry Jones's Melbourne talkback radio programme took listener calls during
     his appearance
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -361,6 +372,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-cb56082b-26ea-423b-99a3-cfd70ec51e73
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-cb56082b-26ea-423b-99a3-cfd70ec51e73
+  copyright_status: publicly_accessible
 - text: He travelled to Hobart, Tasmania, and found extremely interesting cases there
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -369,6 +381,7 @@ references:
   claim_id: 89f5a00b-876c-4146-874d-4ce9c2528227
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-89f5a00b-876c-4146-874d-4ce9c2528227
+  copyright_status: publicly_accessible
 - text: The picture of sightings in Australia, New Zealand and Tasmania was not appreciably
     different from that in the US
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -382,6 +395,7 @@ references:
   claim_id: fe570b0c-4bb3-46a0-85b2-22a9a605a22b
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-fe570b0c-4bb3-46a0-85b2-22a9a605a22b
+  copyright_status: publicly_accessible
 - text: Many people report lights moving, hovering and manoeuvring in ways that do
     not match meteors
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -393,6 +407,7 @@ references:
   claim_id: 50309e7f-9d1f-4b89-a08f-12fa775266bb
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-50309e7f-9d1f-4b89-a08f-12fa775266bb
+  copyright_status: publicly_accessible
 - text: Many cases involve animals present and reacting
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -402,6 +417,7 @@ references:
   claim_id: b2890f71-1c5e-44b5-b8bf-1280b514f1b5
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b2890f71-1c5e-44b5-b8bf-1280b514f1b5
+  copyright_status: publicly_accessible
 - text: He found witnesses of high credibility reported discs and cigar-shaped objects
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:54:48.2-00:54:55.7
@@ -410,6 +426,7 @@ references:
   claim_id: 43f631fd-84f6-4c40-a6dd-6935a3dfab33
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-43f631fd-84f6-4c40-a6dd-6935a3dfab33
+  copyright_status: publicly_accessible
 - text: He found the objects frequently reported at very low elevation
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:54:56.0-00:54:57.0
@@ -417,6 +434,7 @@ references:
   claim_id: dbbc64ed-7ebf-4102-9a63-d1dcec9b9ebf
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-dbbc64ed-7ebf-4102-9a63-d1dcec9b9ebf
+  copyright_status: publicly_accessible
 - text: He found objects reported hovering over urban areas
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:54:58.7-00:55:00.5
@@ -424,6 +442,7 @@ references:
   claim_id: f3369162-f1e6-452e-b09b-66ace476bbe2
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-f3369162-f1e6-452e-b09b-66ace476bbe2
+  copyright_status: publicly_accessible
 - text: He found objects reported hovering over or following cars
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:55:00.8-00:55:02.2
@@ -431,6 +450,7 @@ references:
   claim_id: 0dd725e0-bf38-487f-83cd-93cb9d065e11
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0dd725e0-bf38-487f-83cd-93cb9d065e11
+  copyright_status: publicly_accessible
 - text: He found a little evidence of more sightings per head of population in Australia
     than the US
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -442,6 +462,7 @@ references:
   claim_id: 1ea31908-7f0d-4226-b0d9-2b37010db43f
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-1ea31908-7f0d-4226-b0d9-2b37010db43f
+  copyright_status: publicly_accessible
 - text: He travelled to Moe, Gippsland, Victoria, to interview farmer Brew
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -451,6 +472,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9edb7d2a-bedb-47cc-92d8-9d154e37c02b
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-9edb7d2a-bedb-47cc-92d8-9d154e37c02b
+  copyright_status: publicly_accessible
 - text: He visited the site again a few days before his Melbourne radio appearance
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -459,6 +481,7 @@ references:
   claim_id: 42b5fd1e-d01c-4966-9849-71d90a4b9ae2
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-42b5fd1e-d01c-4966-9849-71d90a4b9ae2
+  copyright_status: publicly_accessible
 - text: Brew was milking at 07:00 in February 1963 when a disc hovered over a tree
     about 90 metres away
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -471,6 +494,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-528d3565-2923-4124-99f9-655cfcbdca49
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-528d3565-2923-4124-99f9-655cfcbdca49
+  copyright_status: publicly_accessible
 - text: Brew described cattle stampeding, dogs barking and horses breaking loose
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -481,6 +505,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-745281d1-5dd5-4a05-bcf3-72315cb6e242
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-745281d1-5dd5-4a05-bcf3-72315cb6e242
+  copyright_status: publicly_accessible
 - text: McDonald said the animals' panic reaction was not unrepresentative of such
     cases
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -491,6 +516,7 @@ references:
   claim_id: 9d4632b7-b03c-48d9-a300-d03b6ce5ba42
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9d4632b7-b03c-48d9-a300-d03b6ce5ba42
+  copyright_status: publicly_accessible
 - text: The 1955-11-17 date is close to a New Zealand airline pilot sighting McDonald
     checked in Auckland
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -501,6 +527,7 @@ references:
   claim_id: 73e0d241-4c2a-4a78-9085-9d6a4636baed
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-73e0d241-4c2a-4a78-9085-9d6a4636baed
+  copyright_status: publicly_accessible
 - text: The objects appeared semi-circular, spinning at terrific speed
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -510,6 +537,7 @@ references:
   claim_id: b5c1655d-4c4f-4ac5-98ce-d634b368800d
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b5c1655d-4c4f-4ac5-98ce-d634b368800d
+  copyright_status: publicly_accessible
 - text: The objects were not terribly far away and could be seen clearly
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -520,6 +548,7 @@ references:
   claim_id: c4108b7f-700f-48e1-98af-12ccc5c01580
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-c4108b7f-700f-48e1-98af-12ccc5c01580
+  copyright_status: publicly_accessible
 - text: The East Preston object moved rapidly and disappeared shortly after binoculars
     were focused on it
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -531,6 +560,7 @@ references:
   claim_id: 986f45e1-f6c7-495c-a93f-aca1af8da45d
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-986f45e1-f6c7-495c-a93f-aca1af8da45d
+  copyright_status: publicly_accessible
 - text: Through binoculars the object appeared metallic and iridescent blue
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -541,6 +571,7 @@ references:
   claim_id: 67ae7dcc-3f2a-4a12-9f87-40b99e2d865c
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-67ae7dcc-3f2a-4a12-9f87-40b99e2d865c
+  copyright_status: publicly_accessible
 - text: McDonald considered the East Preston case moderately interesting
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -550,6 +581,7 @@ references:
   claim_id: 38f95302-c154-4c32-9a36-2dde3ea47abd
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-38f95302-c154-4c32-9a36-2dde3ea47abd
+  copyright_status: publicly_accessible
 - text: Wairakei's steam bores roared so loudly no sound from the object could have
     been heard
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -562,6 +594,7 @@ references:
   claim_id: 28c9cad9-7c12-4568-af8a-a31d9f048bf5
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-28c9cad9-7c12-4568-af8a-a31d9f048bf5
+  copyright_status: publicly_accessible
 - text: The Wairakei sighting was never reported to any air force
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -571,6 +604,7 @@ references:
   claim_id: 4c2f618e-6cd2-4654-993d-05717cdce154
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4c2f618e-6cd2-4654-993d-05717cdce154
+  copyright_status: publicly_accessible
 - text: McDonald considered the clear, non-thundery conditions to rule out ball-lightning
     plasmoids for the Hawthorn case
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -581,6 +615,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-6ead1557-512f-487d-bb5d-23ba18f6d66e
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-6ead1557-512f-487d-bb5d-23ba18f6d66e
+  copyright_status: publicly_accessible
 - text: McDonald considered the object's stationary character to rule out a meteoric
     fireball
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -592,6 +627,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-0f4baed6-6eb8-4e0a-8747-cfcf0bf466f5
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-0f4baed6-6eb8-4e0a-8747-cfcf0bf466f5
+  copyright_status: publicly_accessible
 - text: McDonald said the East Melbourne case being reported by two people is not
     the same as being seen by only two
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -601,6 +637,7 @@ references:
   claim_id: 87055e2c-8137-4378-9396-1810ff392624
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-87055e2c-8137-4378-9396-1810ff392624
+  copyright_status: publicly_accessible
 - text: McDonald said experienced private groups worked in Sydney, Melbourne and Tasmania,
     unlike official groups
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -613,6 +650,7 @@ references:
   claim_id: 6dad5000-716d-432a-ba79-921e0ca8bb12
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-6dad5000-716d-432a-ba79-921e0ca8bb12
+  copyright_status: publicly_accessible
 - text: McDonald said Jung's archetype explanation did not address the real UFO problem
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -623,6 +661,7 @@ references:
   claim_id: a82367ef-61ce-4d63-899e-a07316835093
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-a82367ef-61ce-4d63-899e-a07316835093
+  copyright_status: publicly_accessible
 - text: McDonald argued Jung's theory required identical animal archetypes and could
     not explain cattle stampedes
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -635,6 +674,7 @@ references:
   claim_id: 4aebdf44-e29d-4a14-9fb7-f5ede92f1300
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4aebdf44-e29d-4a14-9fb7-f5ede92f1300
+  copyright_status: publicly_accessible
 - text: He had worked through psychological, technological, hoax and geophysical hypotheses
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -646,6 +686,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2ff0b138-4cad-4a6e-aa68-d501ec955b1e
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-2ff0b138-4cad-4a6e-aa68-d501ec955b1e
+  copyright_status: publicly_accessible
 - text: He concluded the extraterrestrial hypothesis was what remained after eliminating
     the others
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -657,6 +698,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3af2c9bf-4990-47a1-b194-ddcda0d37725
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-3af2c9bf-4990-47a1-b194-ddcda0d37725
+  copyright_status: publicly_accessible
 - text: He concluded UFOs boiled down to machine-like craft of some kind
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -667,6 +709,7 @@ references:
   claim_id: 2526f0a5-2d76-40b8-8433-bb8b096e5652
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2526f0a5-2d76-40b8-8433-bb8b096e5652
+  copyright_status: publicly_accessible
 - text: The USAF's official position was that UFOs were nonsense and a burdensome
     duty
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -677,6 +720,7 @@ references:
   claim_id: b9de2c1f-5288-4d59-8eaa-59315cf144e2
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b9de2c1f-5288-4d59-8eaa-59315cf144e2
+  copyright_status: publicly_accessible
 - text: Expertise existed but had not been used by the USAF for 15 years
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -687,6 +731,7 @@ references:
   claim_id: 3169520c-7675-422f-a8c8-e9d2cd54b0d9
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3169520c-7675-422f-a8c8-e9d2cd54b0d9
+  copyright_status: publicly_accessible
 - text: Project Blue Book had been running about 14 years as of 1967
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -696,6 +741,7 @@ references:
   claim_id: 1ec3566f-8d5a-4ae8-b231-213f9a6a843a
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-1ec3566f-8d5a-4ae8-b231-213f9a6a843a
+  copyright_status: publicly_accessible
 - text: Project Blue Book consisted of a major, a sergeant and a secretary in 1967
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -705,6 +751,7 @@ references:
   claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
+  copyright_status: publicly_accessible
 - text: McDonald said the USAF claimed only two to three per cent of cases were unknowns
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -716,6 +763,7 @@ references:
   claim_id: 54cf5294-9333-4a92-aeae-2b53d77833aa
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-54cf5294-9333-4a92-aeae-2b53d77833aa
+  copyright_status: publicly_accessible
 - text: He concluded Blue Book's investigation was superficial and essentially not
     scientific
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -727,6 +775,7 @@ references:
   claim_id: 10f08821-6b30-4e7e-8cba-b2eb292f2400
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-10f08821-6b30-4e7e-8cba-b2eb292f2400
+  copyright_status: publicly_accessible
 - text: On 1967-06-07 McDonald addressed the UN Outer Space Affairs Group, submitting
     a formal statement
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -738,6 +787,7 @@ references:
   claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+  copyright_status: publicly_accessible
 - text: His appointment with U Thant was prevented by the Middle East crisis
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -746,6 +796,7 @@ references:
   claim_id: f281f617-9e23-47ed-a02e-3fd4feed3167
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f281f617-9e23-47ed-a02e-3fd4feed3167
+  copyright_status: publicly_accessible
 - text: He intended to try again to meet U Thant
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -754,6 +805,7 @@ references:
   claim_id: 9a79b5de-ce8b-4a81-8157-0723d230e24b
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9a79b5de-ce8b-4a81-8157-0723d230e24b
+  copyright_status: publicly_accessible
 - text: McDonald said U Thant told Drew Pearson the UFO problem was probably the most
     important international problem after the Vietnam War
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -766,6 +818,7 @@ references:
   claim_id: e59dc170-7140-4746-8afd-c4f59f36b5ea
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-e59dc170-7140-4746-8afd-c4f59f36b5ea
+  copyright_status: publicly_accessible
 - text: McDonald said he cabled U Thant endorsing the statement but ranking the UFO
     problem of even greater importance than Vietnam
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -777,6 +830,7 @@ references:
   claim_id: f970b7c2-3ed9-48ad-be1c-de2ae1343b0c
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f970b7c2-3ed9-48ad-be1c-de2ae1343b0c
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

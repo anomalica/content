@@ -33,6 +33,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-09f1a182-3d1f-4e6e-b458-412acb7c1ede
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-09f1a182-3d1f-4e6e-b458-412acb7c1ede
+  copyright_status: publicly_accessible
 - text: Mart Sander said that the Merivalja object was first dug up in 1969.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
     | Reality Check'
@@ -44,6 +45,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-e6bfef14-8231-459d-ab78-0f5f6910b0df
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-e6bfef14-8231-459d-ab78-0f5f6910b0df
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Soviet scientists, researchers, KGB agents and military
     personnel investigated the object for around ten years.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -56,6 +58,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-6eda2d84-b9d0-4b82-adeb-1df74b1d497c
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-6eda2d84-b9d0-4b82-adeb-1df74b1d497c
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Soviet investigators concluded the object was an
     oval metal object about 15 metres long and weighing 200 tonnes.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -68,6 +71,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-cfe68258-fbe2-4db6-8e54-a92fa8b824d5
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-cfe68258-fbe2-4db6-8e54-a92fa8b824d5
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that the 1980s excavation was stopped after a worker reportedly
     received a blow from the object.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -81,6 +85,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-df7c4c89-621e-4ad3-9fef-ba6fb808e099
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-df7c4c89-621e-4ad3-9fef-ba6fb808e099
+  copyright_status: publicly_accessible
 - text: Mart Sander said that only fragments of the object's outer layer had been
     recovered.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -93,6 +98,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-f7739e81-455d-48ee-92c0-79de2f7fe036
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-f7739e81-455d-48ee-92c0-79de2f7fe036
+  copyright_status: publicly_accessible
 - text: Mart Sander said that later tests produced results different from the 1980s
     tests, and researchers could not be sure they had tested the original pieces.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -106,6 +112,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-96b8f70a-66cd-4b23-8bba-01d2f8ced684
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-96b8f70a-66cd-4b23-8bba-01d2f8ced684
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that the KGB became involved and classified its files
     as completely secret.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -118,6 +125,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-89abbca9-b81d-4752-b367-a323de5bcffc
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-89abbca9-b81d-4752-b367-a323de5bcffc
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Alexander Deyev was an aviation engineer with ties
     to the Soviet Defense Ministry.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -129,6 +137,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-2c770357-37b2-4a09-9430-6c31bef476f1
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-2c770357-37b2-4a09-9430-6c31bef476f1
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that Deyev established a laboratory above the object and
     allegedly used D-generators to lure it to the surface.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -140,6 +149,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-87b95eec-c710-4ff0-9b42-fa948b1d05ab
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-87b95eec-c710-4ff0-9b42-fa948b1d05ab
+  copyright_status: publicly_accessible
 - text: Mart Sander said that Deyev was described as claiming telepathic contact with
     the object.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -153,6 +163,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-1d6d9c69-ffb8-4535-b154-18b674f6b36f
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-1d6d9c69-ffb8-4535-b154-18b674f6b36f
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that no photograph of the actual object had been produced
     and that the Soviet team never reached it.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -165,6 +176,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-98630342-0d9f-4d19-b594-66f1fe686485
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-98630342-0d9f-4d19-b594-66f1fe686485
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that the 1991 Japanese team used ground-penetrating radar
     and electromagnetic sensing.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -177,6 +189,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-ad6f30d3-9d42-4295-8126-f2d279b67d48
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-ad6f30d3-9d42-4295-8126-f2d279b67d48
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said that there is no published record of what the Japanese
     team found.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -189,6 +202,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-d8a18922-138b-43fd-8af3-9080cafd43aa
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-d8a18922-138b-43fd-8af3-9080cafd43aa
+  copyright_status: publicly_accessible
 - text: Mart Sander said that different research groups proposed natural, man-made
     and intermediate explanations.
   source: 'Object M: The buried Estonian mystery the KGB spent years trying to reach
@@ -203,6 +217,7 @@ references:
   record_hash: 52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03
   workbench_url: https://workbench.anomalica.is/52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b03#claim-161105ba-5578-4ae1-9ff7-def05f93dc0d
   inspection_url: /records/2026-08-11-video-object-m-the-buried-estonian-mystery-the-kgb-spent-years#claim-161105ba-5578-4ae1-9ff7-def05f93dc0d
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

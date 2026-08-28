@@ -103,6 +103,7 @@ references:
   claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-67c9f2d3-4014-4e69-b97f-03236794c497
+  copyright_status: restricted
 - text: Covers approximately 604,000 square metres, until recently the largest office
     building in the world
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -110,12 +111,14 @@ references:
   claim_id: ce6300dd-5b77-4d41-8f6d-58429dc10171
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
+  copyright_status: restricted
 - text: Approximately twenty-two thousand people work in the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:332-408
   claim_id: a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
+  copyright_status: restricted
 - text: Eleven corridors arranged like spokes of a wheel, any location reachable on
     foot in five minutes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -123,6 +126,7 @@ references:
   claim_id: 599150e2-22a7-43d5-b01b-f13635ca0df3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-599150e2-22a7-43d5-b01b-f13635ca0df3
+  copyright_status: restricted
 - text: Central courtyard large enough to fit the US Capitol with room to run laps
     around it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -130,6 +134,7 @@ references:
   claim_id: dc584512-c483-4cb9-ba69-42fb1cc49a35
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dc584512-c483-4cb9-ba69-42fb1cc49a35
+  copyright_status: restricted
 - text: DoD discovered the Soviet Union had targeted a courtyard structure as a nuclear
     war objective
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -137,18 +142,21 @@ references:
   claim_id: 5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
+  copyright_status: restricted
 - text: Soviets believed the structure was an elevator to a secret underground bunker
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1503-1639
   claim_id: 01594bb9-5257-4ef9-805b-04a3e975c25b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01594bb9-5257-4ef9-805b-04a3e975c25b
+  copyright_status: restricted
 - text: After the Berlin Wall fell, it was determined to be a hot dog stand
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1799-1885
   claim_id: 92ef3c56-40db-4fda-9320-664c4000eff7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-92ef3c56-40db-4fda-9320-664c4000eff7
+  copyright_status: restricted
 - text: In 1967 the Pentagon funded Edward Condon's University of Colorado UFO Project
     with 512,000 US dollars
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -156,6 +164,7 @@ references:
   claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-18e7f387-896e-43d7-8305-214c6e8f1c99
+  copyright_status: restricted
 - text: Major Murphy says Doolittle's 1946 Sweden investigation conclusions have never
     been revealed
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -163,6 +172,7 @@ references:
   claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-205b7915-e34b-42a4-b68b-546fdd0bf778
+  copyright_status: restricted
 - text: 1976 Komsomolskaya Pravda article implied UFO believers were manipulated by
     the Pentagon
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -170,6 +180,7 @@ references:
   claim_id: e1de3359-7261-4a15-9976-d60bd3c565fc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1de3359-7261-4a15-9976-d60bd3c565fc
+  copyright_status: restricted
 - text: 'Vallée: FOIA lawsuits against the government may serve the phenomenon''s
     manipulators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -177,6 +188,7 @@ references:
   claim_id: b7309023-4006-45e4-9837-ba64dde969df
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7309023-4006-45e4-9837-ba64dde969df
+  copyright_status: restricted
 - text: AATIP was run by Luis Elizondo from the fifth floor of the Pentagon's C Ring
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -186,6 +198,7 @@ references:
   claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
+  copyright_status: publicly_accessible
 - text: AATIP's funding was kept difficult to find within the DoD budget
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -194,6 +207,7 @@ references:
   claim_id: ca009abc-6bac-44bb-9218-299ce16cf0ff
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ca009abc-6bac-44bb-9218-299ce16cf0ff
+  copyright_status: publicly_accessible
 - text: '2009 briefing summary: ''science fiction is now science fact'', US unable
     to defend against some technologies found'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -206,6 +220,7 @@ references:
   claim_id: f0561d20-d166-4d65-8b3f-923674e03047
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f0561d20-d166-4d65-8b3f-923674e03047
+  copyright_status: publicly_accessible
 - text: Pentagon officials acknowledged AATIP's existence to the New York Times in
     December 2017, begun under the DIA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -217,6 +232,7 @@ references:
   claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
+  copyright_status: publicly_accessible
 - text: Pentagon officials said AATIP ended after five years, in 2012
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -225,6 +241,7 @@ references:
   claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
+  copyright_status: publicly_accessible
 - text: 'Thomas Crosson: other higher-priority issues merited funding instead'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -235,6 +252,7 @@ references:
   claim_id: 55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
+  copyright_status: publicly_accessible
 - text: AATIP backers said the programme continued despite the 2012 funding end
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -244,6 +262,7 @@ references:
   claim_id: f30963ca-3688-43c7-a116-9240d6480a50
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f30963ca-3688-43c7-a116-9240d6480a50
+  copyright_status: publicly_accessible
 - text: 'Harry Reid on ''black money'': Stevens and Inouye knew, ''that''s how we
     wanted it'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -255,6 +274,7 @@ references:
   claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+  copyright_status: publicly_accessible
 - text: The Pentagon publicly denied spending money on psychic research
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -265,6 +285,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
+  copyright_status: publicly_accessible
 - text: Elizondo resigned in October 2017, protesting excessive secrecy and internal
     opposition
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -276,6 +297,7 @@ references:
   claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
+  copyright_status: publicly_accessible
 - text: Elizondo's parking spot at the River Entrance, alongside the Joint Chiefs
     chairman and Secretary of Defense
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -283,6 +305,7 @@ references:
   claim_id: 18fc8638-0404-4146-b35c-cb8317742af0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-18fc8638-0404-4146-b35c-cb8317742af0
+  copyright_status: restricted
 - text: Elizondo often gave personal tours to areas outside the standard Pentagon
     tour
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -290,12 +313,14 @@ references:
   claim_id: 008a9ca0-1315-4ac5-bf09-32510257f504
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-008a9ca0-1315-4ac5-bf09-32510257f504
+  copyright_status: restricted
 - text: In February 2012 Elizondo was giving a tour to a Japanese VIP delegation
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:19782-19912
   claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
+  copyright_status: restricted
 - text: Elizondo was an hour and a half away at the Pentagon when Jennifer was hit
     by a vehicle
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -303,6 +328,7 @@ references:
   claim_id: 266ff356-ebe8-4c72-b2d1-007bc00af5af
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-266ff356-ebe8-4c72-b2d1-007bc00af5af
+  copyright_status: restricted
 - text: The Pentagon posting brought a period of stability after years as military
     nomads
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -310,18 +336,21 @@ references:
   claim_id: 1edefc25-ff16-4b90-967c-b0539f42faf7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1edefc25-ff16-4b90-967c-b0539f42faf7
+  copyright_status: restricted
 - text: James Mattis accepted Secretary of Defense in the incoming Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:21603-21740
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+  copyright_status: restricted
 - text: Puthoff suggested to Stratton that they meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
+  copyright_status: restricted
 - text: 'Elizondo: Semivan had heard rumblings of a real UAP programme run out of
     the Pentagon'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -329,6 +358,7 @@ references:
   claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
+  copyright_status: restricted
 - text: Elizondo considered Bender a shrewd reporter who knew the Pentagon's workings
     well
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -336,6 +366,7 @@ references:
   claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-097c2173-2164-4fa4-a132-75bec74e479f
+  copyright_status: restricted
 - text: 'Elizondo: Bender seemed interested in an undisclosed Pentagon programme,
     not in believing'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -343,6 +374,7 @@ references:
   claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fb5f84b-2e87-4e83-98d3-30699c510c71
+  copyright_status: restricted
 - text: 'Politico article: Pentagon spokesperson Dana White confirmed Elizondo''s
     AATIP role'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -350,6 +382,7 @@ references:
   claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
+  copyright_status: restricted
 - text: Clapper told Elizondo he was surprised the Pentagon admitted the programme
     and was proud of him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -357,12 +390,14 @@ references:
   claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
+  copyright_status: restricted
 - text: OUSDI authorised deletion of Elizondo's files, per a Pentagon FOIA response
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:27894-28163
   claim_id: 10e36531-a250-4832-9d33-d971309aa8db
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10e36531-a250-4832-9d33-d971309aa8db
+  copyright_status: restricted
 - text: May 2022 hearing revealed the Pentagon was unaware of UAP incursions near
     nuclear facilities, ICBMs taken offline
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -370,12 +405,14 @@ references:
   claim_id: a274584d-4cdd-4515-a79c-68649db65e3a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a274584d-4cdd-4515-a79c-68649db65e3a
+  copyright_status: restricted
 - text: 'Elizondo: a records review would have found the Pentagon''s own prior reports'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34656-34797
   claim_id: 96724a0b-4cd7-444c-84e6-77bf212d9003
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-96724a0b-4cd7-444c-84e6-77bf212d9003
+  copyright_status: restricted
 - text: 'Elizondo: Pentagon spokesperson confirmed his advisory role for the Space
     Force'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -383,6 +420,7 @@ references:
   claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735
+  copyright_status: restricted
 - text: 'Elizondo: the White House, CIA, NASA, Pentagon and DOE all play a role, no
     single entity in charge'
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -394,6 +432,7 @@ references:
   claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+  copyright_status: public_domain
 - text: 'Coulthart: a briefing slide says the phenomenon can manipulate human perception'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -404,6 +443,7 @@ references:
   claim_id: ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -121,6 +121,7 @@ references:
   claim_id: 374893ac-76a5-4ca2-a365-f2cd2d6f62e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-374893ac-76a5-4ca2-a365-f2cd2d6f62e1
+  copyright_status: restricted
 - text: South-eastern New Mexico as a test area for US aerospace technology since
     the 1930s
   source: In Plain Sight
@@ -128,66 +129,77 @@ references:
   claim_id: 87333893-6e9a-4232-9480-010907b2ae24
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87333893-6e9a-4232-9480-010907b2ae24
+  copyright_status: restricted
 - text: White Sands testing ground two hours west of the crash site
   source: In Plain Sight
   location: ch7:9314-9537
   claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf4bf759-8ebf-4025-afbf-0331ff4eebf4
+  copyright_status: restricted
 - text: Robert Goddard's correspondence with Jack Parsons while working near Roswell
   source: Dark Mission
   location: ch12:76538-76664
   claim_id: d2c09148-4a1d-48f5-8867-2199141bbe93
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d2c09148-4a1d-48f5-8867-2199141bbe93
+  copyright_status: restricted
 - text: Annual four-day UFO festival in Roswell
   source: American Cosmic
   location: ch1:1882-1920
   claim_id: 6ee54ec1-c071-4131-a791-597983587129
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6ee54ec1-c071-4131-a791-597983587129
+  copyright_status: restricted
 - text: Newspaper reports of odd lights throughout 1947
   source: Communion
   location: ch14:13566-13642
   claim_id: e7d3e503-c3d8-44ae-b38f-0191ccf2a7ac
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e7d3e503-c3d8-44ae-b38f-0191ccf2a7ac
+  copyright_status: restricted
 - text: Disc-shaped object seen zigzagging over New Mexico, 1 July 1947
   source: In Plain Sight
   location: ch7:7151-7222
   claim_id: ac0754c2-4de7-47b5-9707-fc7c7761e17c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac0754c2-4de7-47b5-9707-fc7c7761e17c
+  copyright_status: restricted
 - text: Brightly lit object over Roswell, evening of 2 July 1947
   source: Communion
   location: ch14:13947-14135
   claim_id: 8981523e-1132-431f-a55d-d8560b578966
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8981523e-1132-431f-a55d-d8560b578966
+  copyright_status: restricted
 - text: Mac Brazel's account of finding crash debris, 5 July 1947
   source: In Plain Sight
   location: ch7:8249-8384
   claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
+  copyright_status: restricted
 - text: Brazel drove into Roswell to report the find
   source: In Plain Sight
   location: ch7:8722-8765
   claim_id: 0494cac5-669f-4ace-8a20-3d71aaecc62f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0494cac5-669f-4ace-8a20-3d71aaecc62f
+  copyright_status: restricted
 - text: July 8, 1947 Roswell Army Air Field press release account
   source: Communion
   location: ch14:14700-14972
   claim_id: 3f427259-2777-4b14-8bd5-0e352e991f5e
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3f427259-2777-4b14-8bd5-0e352e991f5e
+  copyright_status: restricted
 - text: Later report attributing the debris to a weather balloon
   source: Communion
   location: ch14:15172-15249
   claim_id: f278d11d-745c-48ac-93aa-04083021b7d9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f278d11d-745c-48ac-93aa-04083021b7d9
+  copyright_status: restricted
 - text: Irish Times report on War Department statement, 9 July 1947
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:06:10.4-00:06:23.4
@@ -197,36 +209,42 @@ references:
   claim_id: 7ff8eac5-9c49-4962-96f7-09e813d662a7
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-7ff8eac5-9c49-4962-96f7-09e813d662a7
+  copyright_status: publicly_accessible
 - text: 'Jacobsen: Signal Corps tracked two anomalous objects, July 1947'
   source: In Plain Sight
   location: ch18:1408-1599
   claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-933c7ef0-7d69-4eb6-a6ca-c052edd99b50
+  copyright_status: restricted
 - text: 'Jacobsen: Joint Chiefs of Staff recovery of airframe and propulsion equipment'
   source: In Plain Sight
   location: ch18:1603-1850
   claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52a9876c-b751-49e9-bd11-917b0ca90206
+  copyright_status: restricted
 - text: Jacobsen's description of the craft's shape
   source: In Plain Sight
   location: ch18:1860-2050
   claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3439fe37-96d0-47ee-8949-f0e416bb3503
+  copyright_status: restricted
 - text: 1994-declassified Army memos calling the object a flying disc
   source: In Plain Sight
   location: ch18:1977-2050
   claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233f477a-b1cd-40e7-8cc1-bb2bda18153b
+  copyright_status: restricted
 - text: 'Elizondo: crash near a government test facility, two crash sites'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:15179-15284
   claim_id: 2758071a-b28c-44e8-8682-25fcfd22e1d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2758071a-b28c-44e8-8682-25fcfd22e1d5
+  copyright_status: restricted
 - text: 2024 historical review assessment linking early claims to a Project Mogul
     balloon
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -237,30 +255,35 @@ references:
   claim_id: 98e7ecf4-e2d7-45cd-a353-883dfa077e22
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-98e7ecf4-e2d7-45cd-a353-883dfa077e22
+  copyright_status: public_domain
 - text: Edgar Mitchell's upbringing in Roswell
   source: American Cosmic
   location: ch6:23239-23335
   claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f34c3dae-548f-4b87-926d-08eb26ae2f56
+  copyright_status: restricted
 - text: Elizondo on Mitchell's Roswell-area upbringing shaping his UAP advocacy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8252-8440
   claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd282559-5186-46bd-86bc-762f62edbcfb
+  copyright_status: restricted
 - text: Jesse Marcel's later claim of being ordered into a cover-up
   source: In Plain Sight
   location: ch37:260-422
   claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
+  copyright_status: restricted
 - text: Strieber's letter to Thurmond relaying Exon's 1989 remarks
   source: In Plain Sight
   location: ch25:22926-23176
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
+  copyright_status: restricted
 - text: Exon's alleged involvement in the 1947 retrieval
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -270,18 +293,21 @@ references:
   claim_id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-fa3ec85a-ffc4-42bb-af29-76ba81870b48
+  copyright_status: publicly_accessible
 - text: Corso's assertion of an alien craft recovered by the US government
   source: In Plain Sight
   location: ch25:22089-22200
   claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
+  copyright_status: restricted
 - text: Elizondo on FBI warnings delivered to local ranchers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8596-8738
   claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b109f646-8c09-4d39-b776-4530fd5719c2
+  copyright_status: restricted
 - text: Clinton's remarks on the 1947 crash claims
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -292,60 +318,70 @@ references:
   claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e523c48c-aed3-4378-8039-aa38622d3a42
+  copyright_status: public_domain
 - text: Time magazine report on rumoured recoveries, January 1950
   source: In Plain Sight
   location: ch8:3847-4020
   claim_id: 4bad59c8-349b-4c83-bd70-1d6f88776cee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bad59c8-349b-4c83-bd70-1d6f88776cee
+  copyright_status: restricted
 - text: 1950 Guy Hottel FBI memo to Hoover
   source: In Plain Sight
   location: ch8:4028-4267
   claim_id: 0ab17aff-9022-4237-b04b-d928a830360a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0ab17aff-9022-4237-b04b-d928a830360a
+  copyright_status: restricted
 - text: Behind the Flying Saucers' claims of multiple New Mexico crashes
   source: In Plain Sight
   location: ch8:6906-6995
   claim_id: 5628ddab-cce3-4da2-b69e-b66aca767b46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5628ddab-cce3-4da2-b69e-b66aca767b46
+  copyright_status: restricted
 - text: Hoagland's alternative date for the crash
   source: Dark Mission
   location: ch12:101084-101155
   claim_id: 0fd1d09f-713e-49d9-a306-7968e8508295
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0fd1d09f-713e-49d9-a306-7968e8508295
+  copyright_status: restricted
 - text: Memo mailed to Jaime Shandera describing the crash and cover-up
   source: Dark Mission
   location: ch12:70522-70692
   claim_id: 76ad3e6a-d2f9-4bda-bf41-e9442230e69a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76ad3e6a-d2f9-4bda-bf41-e9442230e69a
+  copyright_status: restricted
 - text: 'Jacobsen''s Area 51: claim of a Russian-built craft'
   source: In Plain Sight
   location: ch18:2057-2220
   claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
+  copyright_status: restricted
 - text: 'Jacobsen''s Area 51: description of the recovered bodies'
   source: In Plain Sight
   location: ch18:2232-2421
   claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cbac31ff-d273-4148-aede-fbd2671cd9cd
+  copyright_status: restricted
 - text: 'Jacobsen''s source: children comatose but alive'
   source: In Plain Sight
   location: ch18:2766-2844
   claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1dd588aa-e84b-499d-a8e8-1bf3c724f57c
+  copyright_status: restricted
 - text: 'Jacobsen''s Area 51: Stalin''s alleged intent'
   source: In Plain Sight
   location: ch18:2655-2759
   claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1afaeda5-e619-46d5-a742-917a46fd2196
+  copyright_status: restricted
 - text: Nanstiel's radar-interference theory of the crash cause
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -357,6 +393,7 @@ references:
   claim_id: ae875f28-de12-47d2-aa3b-27757a1172c3
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-ae875f28-de12-47d2-aa3b-27757a1172c3
+  copyright_status: publicly_accessible
 - text: Ramsey's account of oil workers finding a lenticular craft, March 1948
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:58:33.1-00:58:42.5
@@ -365,30 +402,35 @@ references:
   claim_id: d97d7530-ce7e-43d5-9066-5a89ad358d53
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d97d7530-ce7e-43d5-9066-5a89ad358d53
+  copyright_status: publicly_accessible
 - text: Hernandez on the Mitchell family's farm supply stores
   source: American Cosmic
   location: ch6:23448-23611
   claim_id: d83dfe53-343d-4cc9-93f6-bf78bec76715
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d83dfe53-343d-4cc9-93f6-bf78bec76715
+  copyright_status: restricted
 - text: Hernandez on Mitchell's local connections through the family stores
   source: American Cosmic
   location: ch6:23517-23611
   claim_id: feb44c45-9458-4c54-a687-5a9384e4ce76
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-feb44c45-9458-4c54-a687-5a9384e4ce76
+  copyright_status: restricted
 - text: Hernandez on Mitchell's hero status after his Moon return
   source: American Cosmic
   location: ch6:23619-23727
   claim_id: f14748cb-c02b-4261-afd6-32ce79118734
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f14748cb-c02b-4261-afd6-32ce79118734
+  copyright_status: restricted
 - text: Hernandez on local residents' stories told to Mitchell
   source: American Cosmic
   location: ch6:23736-23894
   claim_id: e06d2874-9f20-4428-b858-379781b35588
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e06d2874-9f20-4428-b858-379781b35588
+  copyright_status: restricted
 - text: Shirley Wright's confession-tape account
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:09:12.0-00:09:34.7
@@ -400,18 +442,21 @@ references:
   claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-05c80664-5109-486c-a318-4c8b7ef1fd18
+  copyright_status: publicly_accessible
 - text: Tyler D. on Roswell/Area 51 as a cover narrative
   source: American Cosmic
   location: ch2:47788-48016
   claim_id: 510ce15e-9cbf-4860-b665-72850d4778e0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-510ce15e-9cbf-4860-b665-72850d4778e0
+  copyright_status: restricted
 - text: Tyler D. on deliberate confusion around the topic
   source: American Cosmic
   location: ch2:49532-49757
   claim_id: a6b472a7-4925-47d6-8a91-92e6e04393c3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a6b472a7-4925-47d6-8a91-92e6e04393c3
+  copyright_status: restricted
 - text: David Marler's collection of declassified files
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:05:18.0-00:05:32.3
@@ -421,6 +466,7 @@ references:
   claim_id: ef05f67b-fc60-4e9d-9cd6-80b17ada9108
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-ef05f67b-fc60-4e9d-9cd6-80b17ada9108
+  copyright_status: publicly_accessible
 - text: Coulthart's trip to Exmouth as 'Australia's Roswell'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:20:59.3-00:21:16.0
@@ -430,6 +476,7 @@ references:
   claim_id: 4d3d3762-a1fb-4b97-8287-fb3addfab5dd
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d3d3762-a1fb-4b97-8287-fb3addfab5dd
+  copyright_status: publicly_accessible
 - text: Anonymous source telling Coulthart of a Roswell-origin recovery
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:57:48.2-00:57:50.0
@@ -437,12 +484,14 @@ references:
   claim_id: fc5d72e4-5c72-4a19-a61e-d8b85d2a58fa
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-fc5d72e4-5c72-4a19-a61e-d8b85d2a58fa
+  copyright_status: publicly_accessible
 - text: 1947 Australian sightings preceding the Roswell event
   source: In Plain Sight
   location: ch7:4853-5026
   claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9764c4e-d543-418b-ab8e-ff7074caf647
+  copyright_status: restricted
 - text: Patricia Carroll's 2007 horseshoe-object sighting
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
   location: 00:13:29.6-00:13:43.7
@@ -453,6 +502,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-5a971661-10b4-47ae-916c-906ee8ade654
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-5a971661-10b4-47ae-916c-906ee8ade654
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

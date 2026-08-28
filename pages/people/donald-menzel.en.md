@@ -75,6 +75,7 @@ references:
   record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
   workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
   inspection_url: /records/-audio-the-hypnotist-who-unlocked-betty-barney-hill-s-alien#claim-a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
+  copyright_status: publicly_accessible
 - text: Bush and Menzel worked together on the differential analyzer before the Second
     World War
   source: Dark Mission
@@ -82,6 +83,7 @@ references:
   claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
+  copyright_status: restricted
 - text: Bush's 1950 loyalty-hearing testimony on first knowing Menzel in 1934 or 1935
     at MIT
   source: Dark Mission
@@ -89,6 +91,7 @@ references:
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
+  copyright_status: restricted
 - text: Menzel was then an assistant or associate professor of astronomy at Harvard,
     interested in applying the analyzer to astrophysical problems
   source: Dark Mission
@@ -96,6 +99,7 @@ references:
   claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
+  copyright_status: restricted
 - text: In Flying Saucers (1953), Menzel explained a major sighting as an atmospheric
     lensing effect
   source: Communion
@@ -103,6 +107,7 @@ references:
   claim_id: 9003adec-38d2-4df2-85bd-10e21cee5402
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9003adec-38d2-4df2-85bd-10e21cee5402
+  copyright_status: restricted
 - text: Menzel claimed the observers saw a mirage of the balloon moving downward and
     to one side of it
   source: Communion
@@ -110,6 +115,7 @@ references:
   claim_id: 8cc0ee9f-4a9f-4c1d-919f-c81db99f5b1d
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cc0ee9f-4a9f-4c1d-919f-c81db99f5b1d
+  copyright_status: restricted
 - text: Bruce Maccabee said Menzel made critical errors comparing his lensing theory
     with observers' data from the April 24, 1949 sighting
   source: Communion
@@ -117,6 +123,7 @@ references:
   claim_id: d764fab1-39f3-46ca-a9c1-6538b4f89f38
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d764fab1-39f3-46ca-a9c1-6538b4f89f38
+  copyright_status: restricted
 - text: Whitley Strieber found Menzel's account of the sighting in Flying Saucers
     did not match the official report
   source: Communion
@@ -124,6 +131,7 @@ references:
   claim_id: 69293e61-de83-4261-a5d0-9ab730e6067c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-69293e61-de83-4261-a5d0-9ab730e6067c
+  copyright_status: restricted
 - text: Menzel did not mention the sighting angles reported by Charles B. Moore anywhere
     in Flying Saucers
   source: Communion
@@ -131,6 +139,7 @@ references:
   claim_id: 00fdc63c-0e86-4cfc-97bb-3087ae6e46c3
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-00fdc63c-0e86-4cfc-97bb-3087ae6e46c3
+  copyright_status: restricted
 - text: Menzel poured benzine over acetone on a televised documentary to demonstrate
     mirage effects and argue UFOs were mirages
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -139,18 +148,21 @@ references:
   claim_id: 9b8b532a-c4c1-4019-93a4-7601d77513da
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9b8b532a-c4c1-4019-93a4-7601d77513da
+  copyright_status: restricted
 - text: Menzel led public attacks on Immanuel Velikovsky
   source: Dark Mission
   location: ch12:71103-71262
   claim_id: 890d919f-581d-40df-8c28-0daf835ca409
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-890d919f-581d-40df-8c28-0daf835ca409
+  copyright_status: restricted
 - text: Menzel served as Carl Sagan's mentor at Harvard
   source: Dark Mission
   location: ch12:71270-71366
   claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b11d725-295f-4d0e-8d9c-70b376dab1ba
+  copyright_status: restricted
 - text: Bush and Menzel were both listed as founding members of MJ-12 in the memo
     mailed to Jaime Shandera
   source: Dark Mission
@@ -158,6 +170,7 @@ references:
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
+  copyright_status: restricted
 - text: Debunkers initially used Menzel's presence on the MJ-12 list as evidence the
     documents were forgeries, given his record as a public UFO debunker
   source: Dark Mission
@@ -165,6 +178,7 @@ references:
   claim_id: 2b5d7616-bab2-476e-8b26-1069b00fcd66
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5d7616-bab2-476e-8b26-1069b00fcd66
+  copyright_status: restricted
 - text: Stanton Friedman went through Menzel's papers and found he had led an elaborate
     double life
   source: Dark Mission
@@ -172,6 +186,7 @@ references:
   claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
+  copyright_status: restricted
 - text: Friedman found references to Menzel's participation in top-secret weapons
     programmes and intelligence committees
   source: Dark Mission
@@ -179,6 +194,7 @@ references:
   claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c88887e-d711-4ed6-a300-f370dd92e4a1
+  copyright_status: restricted
 - text: It emerged after his death that Menzel had a clandestine association with
     the NSA, CIA, and US Navy, holding a top-secret-ultra clearance
   source: In Plain Sight
@@ -186,12 +202,14 @@ references:
   claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49032c1d-f626-4c65-bb29-74a20a51363a
+  copyright_status: restricted
 - text: Menzel never disclosed this relationship, even to his own university
   source: In Plain Sight
   location: ch7:22861-22922
   claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
+  copyright_status: restricted
 - text: Friedman accused Menzel of being a deep-cover disinformation agent tasked
     with shutting down UAP stories
   source: In Plain Sight
@@ -199,6 +217,7 @@ references:
   claim_id: 482de68a-2d9c-4950-a617-a06f3a3379f0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-482de68a-2d9c-4950-a617-a06f3a3379f0
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

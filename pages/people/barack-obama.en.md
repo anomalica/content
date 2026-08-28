@@ -67,6 +67,7 @@ references:
   claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32dcefba-6c4b-4670-bda6-117e2884eaee
+  copyright_status: restricted
 - text: Podesta served as Clinton's chief of staff, Obama's counselor, and Hillary
     Clinton's campaign manager.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -74,12 +75,14 @@ references:
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
+  copyright_status: restricted
 - text: Podesta held top-secret/SCI clearances under both Obama and Clinton.
   source: In Plain Sight
   location: ch20:17002-17135
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+  copyright_status: restricted
 - text: On his final day as Counsellor, Podesta tweeted his biggest failure of 2014
     was again failing to secure disclosure of the UFO files.
   source: In Plain Sight
@@ -87,12 +90,14 @@ references:
   claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9612f758-1801-4bbc-b62c-cd638445e523
+  copyright_status: restricted
 - text: Obama asked James Clapper to become the new Director of National Intelligence.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49232-49286
   claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
+  copyright_status: restricted
 - text: Clapper took a phone call from Obama during a meeting with Elizondo, shortly
     before becoming DNI.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -100,6 +105,7 @@ references:
   claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
+  copyright_status: restricted
 - text: Jesse Mitchells recounting that Obama later walked back his comments, saying
     he knew nothing the public did not know, framed around the Fermi paradox.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -111,6 +117,7 @@ references:
   claim_id: 78fadad8-379c-4e0d-b2cc-e927aaaa8eb3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-78fadad8-379c-4e0d-b2cc-e927aaaa8eb3
+  copyright_status: publicly_accessible
 - text: Asked by Jimmy Kimmel if he had sought the Area 51 and UFO files on becoming
     president, Obama said the aliens would not allow it because he would reveal their
     secrets.
@@ -119,6 +126,7 @@ references:
   claim_id: 345a268c-769b-4cbf-84e5-2560f8059f15
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-345a268c-769b-4cbf-84e5-2560f8059f15
+  copyright_status: restricted
 - text: Pressed further on whether he had looked into UFO files, Obama said he could
     not reveal anything.
   source: In Plain Sight
@@ -126,6 +134,7 @@ references:
   claim_id: b2eaa265-5755-4ff1-a1d1-f0e9dcf1bac8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2eaa265-5755-4ff1-a1d1-f0e9dcf1bac8
+  copyright_status: restricted
 - text: Told that Clinton said he checked and found nothing, Obama replied that saying
     there was nothing is what presidents are instructed to say.
   source: In Plain Sight
@@ -133,6 +142,7 @@ references:
   claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c8ff4cf-926d-48ca-b2d8-182d91584074
+  copyright_status: restricted
 - text: Jesse Mitchells's testimony that Obama is producing a documentary about the
     Betty and Barney Hill abduction.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -141,6 +151,7 @@ references:
   claim_id: bba7c117-50bc-4977-adc6-e9c4602dbb8f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bba7c117-50bc-4977-adc6-e9c4602dbb8f
+  copyright_status: publicly_accessible
 - text: Jesse Mitchells recounting that, on James Corden's programme, Obama said there
     are things in the sky that cannot be identified and are not understood.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -150,6 +161,7 @@ references:
   claim_id: 55c158b5-2933-462c-8067-d1edb52a31ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-55c158b5-2933-462c-8067-d1edb52a31ea
+  copyright_status: publicly_accessible
 - text: Jesse Mitchells's account that Obama publicly dismissed as a myth the idea
     of beings held captive in a basement at Area 51.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -160,6 +172,7 @@ references:
   claim_id: 21c3db96-9c00-428b-9567-7ff1c5249ab6
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-21c3db96-9c00-428b-9567-7ff1c5249ab6
+  copyright_status: publicly_accessible
 - text: Jesse Mitchells's view that Obama's UFO remarks were a deliberately staged
     litmus test of public reaction.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -170,6 +183,7 @@ references:
   claim_id: b6543b22-3cb0-4fac-90c7-3a8908ec5d66
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b6543b22-3cb0-4fac-90c7-3a8908ec5d66
+  copyright_status: publicly_accessible
 - text: Obama said there is footage and records of objects in the sky whose movement
     and trajectory cannot be explained.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -177,6 +191,7 @@ references:
   claim_id: a293778b-0a30-4ecd-ae44-0ff38b2727fc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a293778b-0a30-4ecd-ae44-0ff38b2727fc
+  copyright_status: restricted
 - text: Obama said it is worthwhile for people to seriously investigate what unexplained
     aerial objects are.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -184,6 +199,7 @@ references:
   claim_id: b8540bfe-0c83-4236-9007-36869aff271d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8540bfe-0c83-4236-9007-36869aff271d
+  copyright_status: restricted
 - text: John Brennan was Obama's CIA director and James Clapper his director of national
     intelligence.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -193,6 +209,7 @@ references:
   claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c8caf19-6411-4f96-a5d8-d2563aaee6c2
+  copyright_status: publicly_accessible
 - text: Jason Samosa's view that Clinton and Obama came into office unconnected to
     the US establishment, unlike Reagan, Nixon and the Bush family.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -204,6 +221,7 @@ references:
   claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7be64312-c7b5-4528-af89-1659f36042a5
+  copyright_status: publicly_accessible
 - text: Jason Samosa's account of a Freedom of Information Act request by John Greenewald
     returning roughly 3,000 or 30,000 references in Obama's presidential documents.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -214,6 +232,7 @@ references:
   claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
+  copyright_status: publicly_accessible
 - text: The openly discussed UFO programmes comprise the 2017 New York Times reporting,
     what Obama discussed and investigated, and what Harry Reid set up from 2007 to
     2012.
@@ -225,6 +244,7 @@ references:
   claim_id: 07340c35-9a54-492b-ab79-d52fd404edf3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-07340c35-9a54-492b-ab79-d52fd404edf3
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

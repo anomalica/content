@@ -48,6 +48,7 @@ references:
   claim_id: 430f80ae-ba00-41b8-b360-9eadc60c4192
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-430f80ae-ba00-41b8-b360-9eadc60c4192
+  copyright_status: restricted
 - text: MIT physicist David Pritchard described identifying a small foreign item recovered
     from abductee Richard Price
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -55,24 +56,28 @@ references:
   claim_id: 0038f7f3-69c9-4abc-bde2-9c2a2af5904e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0038f7f3-69c9-4abc-bde2-9c2a2af5904e
+  copyright_status: restricted
 - text: Edgar Mitchell earned a PhD in aeronautics and astronautics from MIT
   source: American Cosmic
   location: ch6:28474-28573
   claim_id: d582d423-3526-4809-a543-b3dcaa109cfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d582d423-3526-4809-a543-b3dcaa109cfc
+  copyright_status: restricted
 - text: Luis Elizondo described Edgar Mitchell as an engineer trained at MIT
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8135-8201
   claim_id: ae9adecc-9b7a-4535-a962-fd341cc0dd63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
+  copyright_status: restricted
 - text: Guy Consolmagno holds degrees from MIT and the University of Arizona
   source: American Cosmic
   location: ch7:24020-24089
   claim_id: b1285c2d-949b-4bbc-b701-57f4b809b2da
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b1285c2d-949b-4bbc-b701-57f4b809b2da
+  copyright_status: restricted
 - text: Sara Seager cautioned that not knowing an object's origin does not mean it
     is extraterrestrial
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -84,6 +89,7 @@ references:
   claim_id: ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
+  copyright_status: publicly_accessible
 - text: Facilities associated with the Department of Defense, NASA and MIT gave warp
     drive serious consideration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -91,6 +97,7 @@ references:
   claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
+  copyright_status: restricted
 - text: Craig McPherson attended MIT
   source: Project Serpo
   location: char:2578-2658
@@ -99,12 +106,14 @@ references:
   claim_id: 1de3c8bf-81e5-47e4-b273-aa1a94328218
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-1de3c8bf-81e5-47e4-b273-aa1a94328218
+  copyright_status: publicly_accessible
 - text: Ron Levin, Gilbert Levin's son, is a physicist at MIT
   source: Dark Mission
   location: ch18:15603-15649
   claim_id: 7690e020-75f8-4d26-81ec-6d8525767792
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7690e020-75f8-4d26-81ec-6d8525767792
+  copyright_status: restricted
 - text: David Fravor said Chris Sato holds a senior position at Apple Inc. and graduated
     from MIT
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -114,6 +123,7 @@ references:
   claim_id: 970e5052-ce31-4a50-a2aa-f8d308bb8522
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-970e5052-ce31-4a50-a2aa-f8d308bb8522
+  copyright_status: publicly_accessible
 - text: Lex Fridman said his podcast's listeners include MIT faculty and other major
     universities
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -124,6 +134,7 @@ references:
   claim_id: 5ef72f30-9a79-4f13-b97c-ffa5b1537ba9
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-5ef72f30-9a79-4f13-b97c-ffa5b1537ba9
+  copyright_status: publicly_accessible
 - text: David Fravor named MIT among the top-tier universities producing leading-edge
     technology research
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -135,6 +146,7 @@ references:
   claim_id: e24fc0b9-c93f-4edc-9169-d03a9047ecc0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e24fc0b9-c93f-4edc-9169-d03a9047ecc0
+  copyright_status: publicly_accessible
 - text: Hoagland connected Cydonia's geometry to hyperspatial physics via researchers
     including MIT physicist Bruce DePalma
   source: Dark Mission
@@ -142,6 +154,7 @@ references:
   claim_id: 3a7795b8-deee-4fd3-8535-e12412539e49
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a7795b8-deee-4fd3-8535-e12412539e49
+  copyright_status: restricted
 - text: Vannevar Bush testified he first knew Donald Menzel while building the differential
     analyzer at MIT
   source: Dark Mission
@@ -149,6 +162,7 @@ references:
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
+  copyright_status: restricted
 - text: Brookings Report contributors included Curtis H. Barker of MIT, Jack C. Oppenheimer
     of NASA, and Margaret Mead
   source: Dark Mission
@@ -156,6 +170,7 @@ references:
   claim_id: d38d4761-5cfc-4ccf-916e-55329f593739
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d38d4761-5cfc-4ccf-916e-55329f593739
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

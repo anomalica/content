@@ -425,12 +425,14 @@ references:
   claim_id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
+  copyright_status: restricted
 - text: Wilson served as Director of Intelligence for the United States Atlantic Command
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:191-251
   claim_id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
+  copyright_status: restricted
 - text: Wilson served as Associate Director of Central Intelligence for Military Support
     at the CIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -438,12 +440,14 @@ references:
   claim_id: 5754f9d2-d959-4031-ba37-567ab2448803
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5754f9d2-d959-4031-ba37-567ab2448803
+  copyright_status: restricted
 - text: Wilson later became the 13th Director of the Defense Intelligence Agency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:260-326
   claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
+  copyright_status: restricted
 - text: In 1997 Wilson was Deputy Director of the DIA and Assistant J-2, reporting
     to Director Patrick Hughes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -453,6 +457,7 @@ references:
   claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
+  copyright_status: public_domain
 - text: As Vice Admiral in 1997, Wilson briefed generals advising the president and
     Joint Chiefs of Staff
   source: In Plain Sight
@@ -460,6 +465,7 @@ references:
   claim_id: ac8e4aa1-3fcc-4e54-a82b-38546be1567c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
+  copyright_status: restricted
 - text: Mitchell's renown as an astronaut opened the way for an April 1997 briefing
     with Wilson
   source: In Plain Sight
@@ -467,6 +473,7 @@ references:
   claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
+  copyright_status: restricted
 - text: Greer sent Wilson's staff a leaked NRO document listing SAP codenames ahead
     of the April 1997 visit
   source: In Plain Sight
@@ -474,6 +481,7 @@ references:
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
+  copyright_status: restricted
 - text: Greer, Miller and Mitchell gave a talk in a Pentagon conference room with
     Crawford and Hughes present, April 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -484,12 +492,14 @@ references:
   claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+  copyright_status: public_domain
 - text: Wilson met with UAP researchers at the Pentagon in 1997
   source: In Plain Sight
   location: ch26:7957-8068
   claim_id: a75906a3-36eb-4985-95df-d37722088e7f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a75906a3-36eb-4985-95df-d37722088e7f
+  copyright_status: restricted
 - text: Greer, Miller and Mitchell believed they presented strong witness evidence
     of a cover-up
   source: In Plain Sight
@@ -497,12 +507,14 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
+  copyright_status: restricted
 - text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
+  copyright_status: restricted
 - text: In 1998 Greer and Miller were invited back to brief DIA Director Hughes on
     UFOs
   source: In Plain Sight
@@ -510,6 +522,7 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
+  copyright_status: restricted
 - text: A document known as the Admiral Wilson Memo purports to detail what Wilson
     admitted to Davis in Las Vegas in 2002
   source: In Plain Sight
@@ -517,6 +530,7 @@ references:
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
+  copyright_status: restricted
 - text: Davis claims to have met the recently retired DIA Director in a car in Las
     Vegas on 2002-10-16
   source: In Plain Sight
@@ -524,6 +538,7 @@ references:
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
+  copyright_status: restricted
 - text: Wilson arrived ten minutes late to the EG&G building meeting with two uniformed
     Navy officers, in civilian clothes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -537,6 +552,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  copyright_status: public_domain
 - text: Wilson said he was taking a risk talking to Davis, trusting Oke Shannon's
     word
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -547,6 +563,7 @@ references:
   claim_id: 60de4d37-4d58-4f1b-9e07-fe9b58806357
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-60de4d37-4d58-4f1b-9e07-fe9b58806357
+  copyright_status: public_domain
 - text: Rich and Doug vouched for Davis; the AFIO connection mattered for trust
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:10532-10661
@@ -555,6 +572,7 @@ references:
   claim_id: 6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6f3d5bb5-eec6-47fd-9fab-fc2b45b0178f
+  copyright_status: public_domain
 - text: Subject discussed between Shannon and Miller included a Boston Globe story,
     crashed craft and bodies, and an MJ-12-like organisation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -565,6 +583,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  copyright_status: public_domain
 - text: Wilson was told in 1994 of a special record group organised outside usual
     SAPs by William Perry
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -577,6 +596,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-6b81ff82-0030-43b5-bb9d-87ba44604433
+  copyright_status: public_domain
 - text: General M. Ward suggested Wilson search the OUSDAT records group files
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11389-11564
@@ -587,6 +607,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-f5dac99f-3bd4-4aca-9490-5eba1345de3f
+  copyright_status: public_domain
 - text: Perry gave Wilson the same advice when he raised it in May 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11578-11661
@@ -595,6 +616,7 @@ references:
   claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-68c7a6ae-e100-4ba4-a871-8a208015dfbe
+  copyright_status: public_domain
 - text: Wilson talked to Paul Kaminski, then USDAT, and Michael Kostelnik
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:11976-12048
@@ -603,6 +625,7 @@ references:
   claim_id: 4adf89e5-79f4-4a60-b311-da7c1a81b31a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-4adf89e5-79f4-4a60-b311-da7c1a81b31a
+  copyright_status: public_domain
 - text: Kostelnik was director of special programmes in OUSDAT as reorganised by Perry
     in 1994
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -614,6 +637,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  copyright_status: public_domain
 - text: At end of May 1997 Wilson called Kaminski, Kostelnik and Perry to confirm
     the contractor and programme manager
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -629,6 +653,7 @@ references:
   claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-f9736829-e823-4c7b-a7e3-5958371fd07a
+  copyright_status: public_domain
 - text: Wilson flew out in mid-June 1997 to meet three people in a secure vault conference
     room
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -645,6 +670,7 @@ references:
   claim_id: 96ce9937-d09c-4e7b-b509-628f9102ee62
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-96ce9937-d09c-4e7b-b509-628f9102ee62
+  copyright_status: public_domain
 - text: The three - security director, programme director, attorney - called themselves
     the watch committee
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -659,6 +685,7 @@ references:
   claim_id: 9de8dbae-e9af-47f9-9e75-d0937aa77193
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-9de8dbae-e9af-47f9-9e75-d0937aa77193
+  copyright_status: public_domain
 - text: The Watch Committee produced a 1990/1993 bigot list to argue Wilson's authority
     was not relevant
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -671,6 +698,7 @@ references:
   claim_id: 447c8fd9-9d25-497d-bb47-dce0dd9ba23c
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-447c8fd9-9d25-497d-bb47-dce0dd9ba23c
+  copyright_status: public_domain
 - text: The contractor was an aerospace technology firm, one of the top in the United
     States
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -693,6 +721,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-75712e51-5c10-47db-b1e9-4f90136a1c2e
+  copyright_status: public_domain
 - text: The programme was built around technological hardware recovered years earlier
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:20860-20976
@@ -702,18 +731,21 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-ef1fee62-0d3e-4cd0-80c8-d783f9d9cb31
+  copyright_status: public_domain
 - text: Gansler reportedly told Wilson UFOs are real but alien abductions are not
   source: In Plain Sight
   location: ch26:20491-20681
   claim_id: e432db08-8382-45d4-bcb7-378bea035b61
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e432db08-8382-45d4-bcb7-378bea035b61
+  copyright_status: restricted
 - text: Wilson complained to Senior Review Group members inside the Pentagon
   source: In Plain Sight
   location: ch26:22371-22596
   claim_id: 6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
+  copyright_status: restricted
 - text: The Senior Review Group would sustain the contractor's access denial
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21364-21434
@@ -721,6 +753,7 @@ references:
   claim_id: 0f7f3bef-b48a-4198-be1e-34a5b928063b
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-0f7f3bef-b48a-4198-be1e-34a5b928063b
+  copyright_status: public_domain
 - text: Wilson confirmed he came close to being disciplined over the investigation
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22041-22050
@@ -729,6 +762,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-b27f5d2f-ce7e-49de-a9ee-8983ad80f752
+  copyright_status: public_domain
 - text: Wilson became very angry and started yelling during the Senior Review Group
     meeting
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -737,6 +771,7 @@ references:
   claim_id: de117bc8-f450-4f63-9382-008719814064
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-de117bc8-f450-4f63-9382-008719814064
+  copyright_status: public_domain
 - text: Wilson was warned he would not see promotion to DIA Director
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22059-22175
@@ -745,6 +780,7 @@ references:
   claim_id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-d1f3d976-9ff0-4e77-8033-90c748bcf11f
+  copyright_status: public_domain
 - text: Wilson was threatened with losing one or two stars in rank
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:22208-22236
@@ -752,12 +788,14 @@ references:
   claim_id: 165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
+  copyright_status: public_domain
 - text: For over a year after the memo was published online, Wilson made no comment
   source: In Plain Sight
   location: ch26:1587-1805
   claim_id: 09f77fb1-e637-41d7-816f-d286d3770264
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09f77fb1-e637-41d7-816f-d286d3770264
+  copyright_status: restricted
 - text: Puthoff, asked about the memo in February 2020, said Wilson was interviewed
     by Davis but declined further comment
   source: In Plain Sight
@@ -765,6 +803,7 @@ references:
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
+  copyright_status: restricted
 - text: In June 2020 Wilson issued a strong denial that the meeting with Davis ever
     happened
   source: In Plain Sight
@@ -772,18 +811,21 @@ references:
   claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
+  copyright_status: restricted
 - text: Wilson's denial letter called the entire memo pure fiction
   source: In Plain Sight
   location: ch26:11719-11879
   claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
+  copyright_status: restricted
 - text: Wilson denied visiting Las Vegas in 2002 and denied meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
+  copyright_status: restricted
 - text: Wilson said his only Las Vegas visit was a Carrier Air Wing Three deployment
     to Nellis AFB in 1979 or 1980
   source: In Plain Sight
@@ -791,6 +833,7 @@ references:
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
+  copyright_status: restricted
 - text: Coulthart found no one prepared to confirm the memo's authenticity on the
     record
   source: In Plain Sight
@@ -798,6 +841,7 @@ references:
   claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
+  copyright_status: restricted
 - text: Coulthart concluded the memo's claims should be treated as a hoax document
     until proved otherwise
   source: In Plain Sight
@@ -805,6 +849,7 @@ references:
   claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
+  copyright_status: restricted
 - text: Wilson has categorically denied the meeting described in the memo ever took
     place
   source: In Plain Sight
@@ -812,6 +857,7 @@ references:
   claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

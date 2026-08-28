@@ -31,6 +31,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-9bc2b0e8-051b-40db-9736-2fb8b9a29c3f
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-9bc2b0e8-051b-40db-9736-2fb8b9a29c3f
+  copyright_status: publicly_accessible
 - text: Dozens of unidentified drones reportedly flew over Langley Air Force Base
     for 17 days shortly after dusk.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -43,6 +44,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-455ac94d-2231-4ff3-8834-b76928a14e66
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-455ac94d-2231-4ff3-8834-b76928a14e66
+  copyright_status: publicly_accessible
 - text: The Pentagon had not publicly stated what the drones observed over Langley
     were.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -55,6 +57,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-647da6f7-cf14-4ea8-9a2c-bb6ddd13ff8f
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-647da6f7-cf14-4ea8-9a2c-bb6ddd13ff8f
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that a top-secret parent program called Immaculate Constellation
     had recently been divulged in the news.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -67,6 +70,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-661f0385-1662-4765-954e-e6b7878a3a47
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-661f0385-1662-4765-954e-e6b7878a3a47
+  copyright_status: publicly_accessible
 - text: Michael Schellenberger described a new whistleblower who was either a government
     employee or contractor and had written a report.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -80,6 +84,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
+  copyright_status: publicly_accessible
 - text: Schellenberger said he interviewed the whistleblower in person several times
     and checked their credentials.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -92,6 +97,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7a797692-183d-4039-9889-d70a240c0220
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-7a797692-183d-4039-9889-d70a240c0220
+  copyright_status: publicly_accessible
 - text: The whistleblower reportedly provided the report to members of Congress.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -102,6 +108,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
+  copyright_status: publicly_accessible
 - text: The report allegedly claimed that the Pentagon was illegally withholding information
     about a secret UAP program from Congress.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -114,6 +121,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-4c95df5a-a713-459c-afb0-2a616b3074f0
+  copyright_status: publicly_accessible
 - text: According to Schellenberger's report, Immaculate Constellation tracks, retrieves
     and archives data on UFO sightings and encounters.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -126,6 +134,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-c0a75204-29a0-411e-8667-ad595d9b6fdf
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-c0a75204-29a0-411e-8667-ad595d9b6fdf
+  copyright_status: publicly_accessible
 - text: The reported collection includes infrared, FLIR, full-motion video and other
     surveillance footage.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -139,6 +148,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-9f19bce2-6b1a-44d2-af68-ba7f3da92de3
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-9f19bce2-6b1a-44d2-af68-ba7f3da92de3
+  copyright_status: publicly_accessible
 - text: An unnamed whistleblower reportedly described orbs swarming an F-22 Raptor.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -149,6 +159,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-3453c90b-9f56-47b1-a56c-372210a089e7
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-3453c90b-9f56-47b1-a56c-372210a089e7
+  copyright_status: publicly_accessible
 - text: Chris Ramsey speculated that the whistleblower might be revealed at the 2024-11-13
     congressional UAP hearing.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -161,6 +172,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-a1e74a4d-d92d-4836-88a1-d789b2a628bf
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-a1e74a4d-d92d-4836-88a1-d789b2a628bf
+  copyright_status: publicly_accessible
 - text: The whistleblower document reportedly mentions the term Alien Reproduction
     Vehicle.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -173,6 +185,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-b322947b-13d2-42e4-a56a-0a5c2a925ae2
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-b322947b-13d2-42e4-a56a-0a5c2a925ae2
+  copyright_status: publicly_accessible
 - text: Luis Elizondo reportedly alluded to angel hair as metallic spherical orbs
     shedding an outer layer.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -185,6 +198,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-c7d55f84-9418-4b47-9ab0-4cfc030877e4
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-c7d55f84-9418-4b47-9ab0-4cfc030877e4
+  copyright_status: publicly_accessible
 - text: Angel hair was described as a sloughed outer layer that drips onto the ground
     and leaves a molten-metal-like residue.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -199,6 +213,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-fe84b2a4-4aa9-44bf-b83e-3618da1764e7
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-fe84b2a4-4aa9-44bf-b83e-3618da1764e7
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that UAP shedding angel hair leave behind a type of metamaterial.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -210,6 +225,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7416462d-41ef-4ffa-b091-6f61730ef97f
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-7416462d-41ef-4ffa-b091-6f61730ef97f
+  copyright_status: publicly_accessible
 - text: Chris Bledsoe's book was said to describe an orb dripping an unknown substance
     onto his driveway.
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -222,6 +238,7 @@ references:
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
   inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

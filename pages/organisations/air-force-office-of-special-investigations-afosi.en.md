@@ -89,6 +89,7 @@ references:
   claim_id: c14fa12e-e0c0-4a55-a3a8-6db9737925fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c14fa12e-e0c0-4a55-a3a8-6db9737925fd
+  copyright_status: restricted
 - text: AFOSI confidentially reported that recurring unexplained phenomena near sensitive
     installations was cause for concern
   source: In Plain Sight
@@ -96,6 +97,7 @@ references:
   claim_id: a513f266-bb01-47b6-ad2a-30b820e29307
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a513f266-bb01-47b6-ad2a-30b820e29307
+  copyright_status: restricted
 - text: Harry Turner said AFOSI persuaded the USAF to use Project Blue Book to publicly
     debunk UFOs
   source: In Plain Sight
@@ -103,6 +105,7 @@ references:
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
+  copyright_status: restricted
 - text: AFOSI attacked the credibility of Charles Halt's sighting during the 1980
     Rendlesham Forest incident
   source: In Plain Sight
@@ -110,6 +113,7 @@ references:
   claim_id: ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
+  copyright_status: restricted
 - text: Servicemen who witnessed the Rendlesham incident were called to the base AFOSI
     office the next day
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -117,6 +121,7 @@ references:
   claim_id: 21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
+  copyright_status: restricted
 - text: A speaker said a CIA representative was present with AFOSI during questioning
     of Rendlesham witnesses
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -124,6 +129,7 @@ references:
   claim_id: ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
+  copyright_status: restricted
 - text: AFOSI provides investigative support to the Office of the Secretary of Defense,
     including investigation of assigned personnel
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -134,6 +140,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
+  copyright_status: public_domain
 - text: Garry Reid requested an informal AFOSI review of Elizondo's conduct after
     the YouTube video surfaced
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -146,6 +153,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
+  copyright_status: public_domain
 - text: In late November 2017 Reid said AFOSI lacked enough information to open a
     case on Elizondo
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -156,6 +164,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-7576f4ee-f8e5-4627-bcf1-55172f77e3d9
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-7576f4ee-f8e5-4627-bcf1-55172f77e3d9
+  copyright_status: public_domain
 - text: OUSDI referred the timing and circumstances of Elizondo's resignation to AFOSI
     for immediate counterintelligence review
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -166,6 +175,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+  copyright_status: public_domain
 - text: On 2017-12-21 Reid met with AFOSI agents to initiate a formal inquiry into
     possible mishandling of classified materials
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -176,6 +186,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
+  copyright_status: public_domain
 - text: Reid said AFOSI's informal assessment found no wrongdoing and, absent misconduct
     indicators, could not open a formal investigation
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -186,6 +197,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
+  copyright_status: public_domain
 - text: Two AFOSI agents told Elizondo a walk-in contractor claiming he could make
     planes invisible actually worked on a sensitive Air Force technology
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -193,6 +205,7 @@ references:
   claim_id: df2b0c30-9cb6-421e-916f-507732850e7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-df2b0c30-9cb6-421e-916f-507732850e7b
+  copyright_status: restricted
 - text: Garry Reid initiated an AFOSI inquiry to determine how the UAP videos had
     been released
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -200,6 +213,7 @@ references:
   claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
+  copyright_status: restricted
 - text: The AFOSI inquiry into the video release drew on into the following spring
     and found no impropriety by Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -207,6 +221,7 @@ references:
   claim_id: c501feec-7b82-4dee-a32a-f66b113ded4e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c501feec-7b82-4dee-a32a-f66b113ded4e
+  copyright_status: restricted
 - text: Colleagues told Elizondo that Reid planned to launch a criminal inquiry with
     AFOSI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -214,12 +229,14 @@ references:
   claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-41f64a5e-8363-4963-a189-a8ac6b46cd23
+  copyright_status: restricted
 - text: Within the Pentagon, AFOSI investigates internal matters pertaining to counterintelligence
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6735-6806
   claim_id: a733e5a3-5d69-4e6c-8a81-df73efb176b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a733e5a3-5d69-4e6c-8a81-df73efb176b9
+  copyright_status: restricted
 - text: In Philadelphia, Elizondo believed two individuals watching him and Leslie
     Kean were most likely an AFOSI surveillance team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -227,6 +244,7 @@ references:
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
+  copyright_status: restricted
 - text: AFOSI had investigated and adjudicated favourably the allegation that Elizondo
     improperly declassified the UAP videos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -234,6 +252,7 @@ references:
   claim_id: e366de8e-c734-456d-a492-801ab58f5a7f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e366de8e-c734-456d-a492-801ab58f5a7f
+  copyright_status: restricted
 - text: The MDCOs - Army Counterintelligence, NCIS, and AFOSI - provide counterintelligence
     support to their respective services and combatant commands
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -246,6 +265,7 @@ references:
   claim_id: 4347fd04-31ce-4dc6-bb4d-a7f2c1cdb03d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4347fd04-31ce-4dc6-bb4d-a7f2c1cdb03d
+  copyright_status: public_domain
 - text: The DOD Inspector General requested UAP-related data and policy from OUSDI,
     AARO, the Military Services, and the Military Department Counterintelligence Organizations
     among others
@@ -261,6 +281,7 @@ references:
   claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
+  copyright_status: public_domain
 - text: Michael Horn said his retired investigator was a former AFOSI and DOD case
     supervisor who first identified himself only as Joe
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -272,6 +293,7 @@ references:
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
   inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
+  copyright_status: publicly_accessible
 - text: Jesse Mitchells said AFOSI recurs in UFO lore, arriving after sightings at
     nuclear bases to seize radar data and silence witnesses
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -282,6 +304,7 @@ references:
   claim_id: c04e6a14-7418-41a8-a227-59169f0fa228
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c04e6a14-7418-41a8-a227-59169f0fa228
+  copyright_status: publicly_accessible
 - text: AFOSI's founding director, Joseph F. Carroll, had intended to enter the seminary
     before moving into intelligence
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -292,6 +315,7 @@ references:
   claim_id: 006e6b9f-82af-4d5b-92a1-13c5b8583bf8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-006e6b9f-82af-4d5b-92a1-13c5b8583bf8
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

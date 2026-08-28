@@ -51,6 +51,7 @@ references:
   claim_id: de3ff492-ce39-439d-a46e-1951886776b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de3ff492-ce39-439d-a46e-1951886776b7
+  copyright_status: restricted
 - text: Even senior officials with top-secret clearance are barred from SAP/SCI details
     unless formally read into the programme
   source: In Plain Sight
@@ -58,12 +59,14 @@ references:
   claim_id: d52efcdf-a24a-423a-8e1f-7f02b01e8795
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
+  copyright_status: restricted
 - text: A SCIF blocks sound, radio, and electromagnetic waves
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:457-504
   claim_id: ee1f691b-d332-4e00-942e-9156c7be205a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee1f691b-d332-4e00-942e-9156c7be205a
+  copyright_status: restricted
 - text: Mellon's Senate Intelligence Committee staff role required him to review top-secret
     SCI projects inside SAPs
   source: In Plain Sight
@@ -71,12 +74,14 @@ references:
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
+  copyright_status: restricted
 - text: Podesta held top-secret/SCI clearances under Presidents Obama and Clinton
   source: In Plain Sight
   location: ch20:17002-17135
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+  copyright_status: restricted
 - text: Sources with top-secret and compartmented clearances say no senior official
     with TS-SCI clearance should be surprised at being refused information by a contractor
   source: In Plain Sight
@@ -84,18 +89,21 @@ references:
   claim_id: 39039e6e-dc99-46fc-8b81-82f6f6b4266e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39039e6e-dc99-46fc-8b81-82f6f6b4266e
+  copyright_status: restricted
 - text: Stratton and Lacatski briefed Elizondo on AAWSAP/AATIP in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:245-295
   claim_id: 8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
+  copyright_status: restricted
 - text: Puthoff visited the Pentagon and met Elizondo's team in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:102-275
   claim_id: 0bbb1f27-0179-432e-838b-8deb80f0b49f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0bbb1f27-0179-432e-838b-8deb80f0b49f
+  copyright_status: restricted
 - text: Elizondo and Puthoff discussed UAP propulsion theories in a SCIF for several
     hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -103,6 +111,7 @@ references:
   claim_id: b2856dd5-7785-4f6c-a521-eda209f3201c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b2856dd5-7785-4f6c-a521-eda209f3201c
+  copyright_status: restricted
 - text: The group identified a possible explanation for elevated UAP activity around
     nuclear sites during the SCIF discussion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -110,6 +119,7 @@ references:
   claim_id: 77602d32-e0e9-4ade-a8f5-5cfa4f5dc8c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77602d32-e0e9-4ade-a8f5-5cfa4f5dc8c9
+  copyright_status: restricted
 - text: Elizondo shared reports, photographs, data and intelligence on legacy UAP
     efforts with Mellon for three hours in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -117,12 +127,14 @@ references:
   claim_id: 85942a3a-ae62-41a6-a9da-e60e2c6f79e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
+  copyright_status: restricted
 - text: Mellon visited Elizondo's SCIF unannounced and offered to help AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:613-675
   claim_id: f857fd9d-d07b-4a06-9193-cc294b27a769
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f857fd9d-d07b-4a06-9193-cc294b27a769
+  copyright_status: restricted
 - text: NSA and CIA offered assets for Operation Plan Interloper; weekly meetings
     were held in SCIF spaces at the Pentagon and other agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -130,6 +142,7 @@ references:
   claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9068dff4-55d0-482f-b78b-6cf064438682
+  copyright_status: restricted
 - text: Elizondo envisioned declassifying some UAP videos via a secure server rather
     than requiring SCIF viewing
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -137,6 +150,7 @@ references:
   claim_id: 4487391b-4f0b-4690-bfe0-c361a313fb5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4487391b-4f0b-4690-bfe0-c361a313fb5a
+  copyright_status: restricted
 - text: Elizondo spent many hours in a SCIF with Senate leaders on the UAP Disclosure
     Act in 2023
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -144,6 +158,7 @@ references:
   claim_id: 9585c33d-b12c-4976-851f-b57c3bc2033c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9585c33d-b12c-4976-851f-b57c3bc2033c
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

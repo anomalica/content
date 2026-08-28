@@ -25,6 +25,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e33fa5f4-f438-4af7-b7d7-e4758ff1aed9
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-e33fa5f4-f438-4af7-b7d7-e4758ff1aed9
+  copyright_status: restricted
 - text: A remote viewing protocol is a detailed plan for an experiment, treatment,
     or procedure.
   source: Remote Viewing Secrets
@@ -34,6 +35,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-dceb4e1d-522d-43ee-a2af-3bd0ca330276
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-dceb4e1d-522d-43ee-a2af-3bd0ca330276
+  copyright_status: restricted
 - text: Several named methods, including Extended, Controlled, Scientific, and Technical
     Remote Viewing, are used in remote viewing.
   source: Remote Viewing Secrets
@@ -43,6 +45,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9c974499-911c-488e-bb66-fdb4c9977b25
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-9c974499-911c-488e-bb66-fdb4c9977b25
+  copyright_status: restricted
 - text: Front-loading can introduce overlay and inventive creation, making psychic
     information difficult to distinguish from logical inference.
   source: Remote Viewing Secrets
@@ -52,6 +55,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5b2a5c9c-b4d6-4359-a7dd-f604db8b0049
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-5b2a5c9c-b4d6-4359-a7dd-f604db8b0049
+  copyright_status: restricted
 - text: Joseph McMoneagle describes himself as one of the original remote viewers
     recruited into Project STARGATE.
   source: Remote Viewing Secrets
@@ -61,6 +65,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-89143734-1d5f-4192-9d95-2e00e30542cc
+  copyright_status: restricted
 - text: The Cognitive Sciences Laboratory at SRI International conducted experimentation
     and supported intelligence operations from 1972 through 1995.
   source: Remote Viewing Secrets
@@ -70,6 +75,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e01eb761-53da-4919-83e6-c6be5538af2b
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-e01eb761-53da-4919-83e6-c6be5538af2b
+  copyright_status: restricted
 - text: An existing database of 1,468 free-response anomalous cognition trials showed
     a 340% effect-size increase near 13.5 hours local sidereal time.
   source: Remote Viewing Secrets
@@ -79,6 +85,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ca51de99-0b7f-4618-901b-276eb01a331d
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-ca51de99-0b7f-4618-901b-276eb01a331d
+  copyright_status: restricted
 - text: An independent database of 1,015 trials showed a 450% effect-size increase
     near 13.5 hours local sidereal time.
   source: Remote Viewing Secrets
@@ -88,6 +95,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
+  copyright_status: restricted
 - text: A database of 2,879 trials produced a small overall correlation between the
     ap geomagnetic index and anomalous cognition.
   source: Remote Viewing Secrets
@@ -97,6 +105,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4eba2e4b-9b2f-4606-a09b-d5e832ecd3b9
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-4eba2e4b-9b2f-4606-a09b-d5e832ecd3b9
+  copyright_status: restricted
 - text: Joseph McMoneagle considers UFOs and similar targets generally poor remote-viewing
     targets.
   source: Remote Viewing Secrets
@@ -106,6 +115,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
+  copyright_status: restricted
 - text: Joseph McMoneagle states that the chance of a UFO-related statement obtained
     through remote viewing being correct is very close to zero in his experience.
   source: Remote Viewing Secrets
@@ -115,6 +125,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
+  copyright_status: restricted
 - text: Joseph McMoneagle's proposed explanation of the Tunguska event is conjectural
     and unverified.
   source: Remote Viewing Secrets
@@ -124,6 +135,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-949a63a0-1576-4962-a4ea-626c626b9654
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-949a63a0-1576-4962-a4ea-626c626b9654
+  copyright_status: restricted
 - text: Research data produced during a remote viewing session is logged and stored,
     including material considered inaccurate or irrelevant.
   source: Remote Viewing Secrets
@@ -133,6 +145,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ab8d3c28-8c6d-493a-90f4-2b77842ae368
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-ab8d3c28-8c6d-493a-90f4-2b77842ae368
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -25,6 +25,7 @@ references:
   claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
+  copyright_status: restricted
 - text: Vallée and Janine Vallée investigated the Carteret UFO sighting during a research
     trip through western France in December 1973
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -33,6 +34,7 @@ references:
   claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+  copyright_status: restricted
 - text: Janine Vallée went to Carteret within ten days of the sighting and interviewed
     a witness and police investigators, while Jacques Vallée checked other information
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -41,6 +43,7 @@ references:
   claim_id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
+  copyright_status: restricted
 - text: Grace Hooper Pettipher told her audience, including Jacques and Janine Vallée,
     that some present had come from outside the planet
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -48,6 +51,7 @@ references:
   claim_id: 79ff8cde-bcbc-49dc-b2d6-dbb29e089c95
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79ff8cde-bcbc-49dc-b2d6-dbb29e089c95
+  copyright_status: restricted
 - text: As Uri Geller gave instructions to a subject, Jacques Vallée wrote a number
     on his notepad and showed it to Janine Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -56,6 +60,7 @@ references:
   claim_id: 610c9482-63ec-4ae6-b674-7776a3eabca5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-610c9482-63ec-4ae6-b674-7776a3eabca5
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

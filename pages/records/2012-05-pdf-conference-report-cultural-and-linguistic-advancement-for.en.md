@@ -31,6 +31,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-a53a0b53-941f-4fce-ba85-96be630bcea2
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-a53a0b53-941f-4fce-ba85-96be630bcea2
+  copyright_status: public_domain
 - text: marcus evans organised the conference.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
     Enhancing Language, Regional and Cultural Capabilities Across Whole of Government
@@ -42,6 +43,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-cb0db0f4-1bb5-4a53-bfa1-31ad000013ac
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-cb0db0f4-1bb5-4a53-bfa1-31ad000013ac
+  copyright_status: public_domain
 - text: The Department of Defense developed programmes addressing the need for deploying
     personnel to receive linguistic, regional and cultural training.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -57,6 +59,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-91871df0-aff0-4f62-9501-2639c198f982
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-91871df0-aff0-4f62-9501-2639c198f982
+  copyright_status: public_domain
 - text: The conference aimed to increase the prominence of linguistic, regional and
     cultural skills in military training programmes.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -69,6 +72,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-3dee6824-c8aa-491f-9fd3-19090a0c04b5
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-3dee6824-c8aa-491f-9fd3-19090a0c04b5
+  copyright_status: public_domain
 - text: The conference aimed to create a unified LRC strategy across the Department
     of Defense.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -81,6 +85,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-b678d0cf-f593-4397-bf65-06a9420a6032
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-b678d0cf-f593-4397-bf65-06a9420a6032
+  copyright_status: public_domain
 - text: The conference aimed to develop a strategy using cultural and linguistic expertise
     to overcome insurgency.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -94,6 +99,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-b1fc2723-0d94-469a-808c-ed8bb5adc7a3
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-b1fc2723-0d94-469a-808c-ed8bb5adc7a3
+  copyright_status: public_domain
 - text: The conference aimed to establish a long-term governmental knowledge bank
     for linguistic, regional and cultural expertise.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -107,6 +113,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-0eabc802-b4db-455a-a7e4-e3880e98f096
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-0eabc802-b4db-455a-a7e4-e3880e98f096
+  copyright_status: public_domain
 - text: Lee Johnson was Director of the United States Navy Foreign Language Office.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
     Enhancing Language, Regional and Cultural Capabilities Across Whole of Government
@@ -118,6 +125,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-dcced81d-1ac0-40d4-9f61-cdee32dbe168
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-dcced81d-1ac0-40d4-9f61-cdee32dbe168
+  copyright_status: public_domain
 - text: Lee Johnson presented on defining language requirements across military branches.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
     Enhancing Language, Regional and Cultural Capabilities Across Whole of Government
@@ -129,6 +137,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-22d73883-12d8-4e35-bd47-824a40f3e8c5
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-22d73883-12d8-4e35-bd47-824a40f3e8c5
+  copyright_status: public_domain
 - text: Lee Johnson distinguished LRC requirements from capabilities and described
     the challenge of connecting capability with personnel who need training.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -143,6 +152,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-617793de-a9dc-4101-88d4-597eacd6c5e9
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-617793de-a9dc-4101-88d4-597eacd6c5e9
+  copyright_status: public_domain
 - text: Lee Johnson emphasised distinctions among interpreters, cryptologists, interrogators
     and conversationalists.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -157,6 +167,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-1bbd730a-b309-4caa-add7-1ce2203127b7
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-1bbd730a-b309-4caa-add7-1ce2203127b7
+  copyright_status: public_domain
 - text: Karl Prinslow presented the Cultural Knowledge Consortium and international
     collaboration for socio-cultural analysis.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -170,6 +181,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-50643e0f-856d-4850-ad60-cc63eda10378
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-50643e0f-856d-4850-ad60-cc63eda10378
+  copyright_status: public_domain
 - text: Karl Prinslow described the Cultural Knowledge Consortium as a forum connecting
     the socio-cultural knowledge community through a single point of data access.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -185,6 +197,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-131c6e93-f64a-4ae0-a067-f8249dd5b8d0
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-131c6e93-f64a-4ae0-a067-f8249dd5b8d0
+  copyright_status: public_domain
 - text: The Cultural Knowledge Consortium's efforts included data brokering and community
     building across academic, military, governmental, private and non-government communities.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -200,6 +213,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-12327e98-8aa8-4313-ad78-e79bc6c9e80d
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-12327e98-8aa8-4313-ad78-e79bc6c9e80d
+  copyright_status: public_domain
 - text: Mahir J. Ibrahimov presented on expanding the Army Culture and Foreign Language
     Program.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -212,6 +226,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-b14e0661-f66a-4a4f-a0f5-ced7c5684858
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-b14e0661-f66a-4a4f-a0f5-ced7c5684858
+  copyright_status: public_domain
 - text: Mahir J. Ibrahimov said the Army Culture and Foreign Language Program addressed
     capability gaps in conducting operations with other cultures over an extended
     period.
@@ -227,6 +242,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-ba2bd89b-f68c-4d54-8eea-233a039020c0
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-ba2bd89b-f68c-4d54-8eea-233a039020c0
+  copyright_status: public_domain
 - text: Mahir J. Ibrahimov said the desired end state was an Army with the combination
     of cultural and foreign-language capabilities required for full-spectrum operations.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -241,6 +257,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-b6225013-4d8a-4261-9af1-f583b8fd8be1
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-b6225013-4d8a-4261-9af1-f583b8fd8be1
+  copyright_status: public_domain
 - text: Emily Spencer presented on the importance of Cultural Intelligence to mission
     success.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -254,6 +271,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-b0a158c7-9ee3-4da6-909b-ca9080d14977
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-b0a158c7-9ee3-4da6-909b-ca9080d14977
+  copyright_status: public_domain
 - text: Emily Spencer associated Cultural Intelligence with information on local and
     regional cultural, economic, demographic and social conditions.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -267,6 +285,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-522befeb-4b94-408a-a14a-f7a72462a14a
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-522befeb-4b94-408a-a14a-f7a72462a14a
+  copyright_status: public_domain
 - text: Emily Spencer associated Cultural Intelligence with support and participation
     in local security initiatives.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -279,6 +298,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-28483890-e530-4785-b868-8fb6b789e568
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-28483890-e530-4785-b868-8fb6b789e568
+  copyright_status: public_domain
 - text: Amy Zalman, Craig Hayden and Kevin King presented a panel on analytic efficiencies
     and cultural-linguistic insight.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -292,6 +312,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-4fb2ebb9-9d37-4dd3-a522-0ab0ff8a4714
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-4fb2ebb9-9d37-4dd3-a522-0ab0ff8a4714
+  copyright_status: public_domain
 - text: The panel discussed culture as dynamic and fluid rather than stable and autonomous.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
     Enhancing Language, Regional and Cultural Capabilities Across Whole of Government
@@ -304,6 +325,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-eb092862-a77d-4b93-b60e-3b8d0025d1a1
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-eb092862-a77d-4b93-b60e-3b8d0025d1a1
+  copyright_status: public_domain
 - text: The panel identified real-time awareness of cultural practice and analysis
     of meaning-making as complements to quantitative data.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -318,6 +340,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-5aedc986-59cb-4512-ade8-e21d03b1bae9
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-5aedc986-59cb-4512-ade8-e21d03b1bae9
+  copyright_status: public_domain
 - text: The panel noted that manual review remained necessary because automated sentiment
     analysis could not identify sarcasm or slang.
   source: 'Conference Report: Cultural and Linguistic Advancement for Mission Success:
@@ -331,6 +354,7 @@ references:
   record_hash: be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b
   workbench_url: https://workbench.anomalica.is/be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b#claim-7dfa665b-bc6e-4a2f-8298-393acd25a82e
   inspection_url: /records/2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for#claim-7dfa665b-bc6e-4a2f-8298-393acd25a82e
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

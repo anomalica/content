@@ -29,6 +29,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-b1e71e7f-39a9-4160-88dd-5a2d638d9047
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-b1e71e7f-39a9-4160-88dd-5a2d638d9047
+  copyright_status: publicly_accessible
 - text: The mission was proposed jointly by the Mars Institute, Optech Inc., and MDA
     Space Systems.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -40,6 +41,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-1dd2b7a9-5f82-4ea2-a11f-cf3c38596cdd
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-1dd2b7a9-5f82-4ea2-a11f-cf3c38596cdd
+  copyright_status: publicly_accessible
 - text: The Canadian Space Agency selected PRIME for conceptual study in 2007.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
   location: char:677-741
@@ -49,6 +51,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-cd05398b-4698-4c72-a5b7-3fdd48987776
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-cd05398b-4698-4c72-a5b7-3fdd48987776
+  copyright_status: publicly_accessible
 - text: A 2007 conference at NASA Ames Research Center reiterated the importance of
     determining Phobos's origin.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -61,6 +64,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-ddafab5c-ecba-4de5-9dd8-cf36d6a98cc7
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-ddafab5c-ecba-4de5-9dd8-cf36d6a98cc7
+  copyright_status: publicly_accessible
 - text: The source divides proposed explanations of Phobos's origin into circum-Mars
     formation and capture.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -71,6 +75,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-77abd56c-221c-4d30-af57-1ca2d398bdd9
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-77abd56c-221c-4d30-af57-1ca2d398bdd9
+  copyright_status: publicly_accessible
 - text: The circum-Mars formation hypothesis describes Phobos as formed around Mars
     or as a remnant of a larger body formed there.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -82,6 +87,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-4f27e6fc-5d29-4ac6-b145-c4b2530a37b1
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-4f27e6fc-5d29-4ac6-b145-c4b2530a37b1
+  copyright_status: publicly_accessible
 - text: The capture hypothesis describes Phobos as a captured asteroid, comet, or
     collisional remnant.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -93,6 +99,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-bdee94dc-2b8b-4dc0-b3ef-5895f9387aa5
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-bdee94dc-2b8b-4dc0-b3ef-5895f9387aa5
+  copyright_status: publicly_accessible
 - text: The PRIME Lander's central scientific goal is to determine Phobos's nature
     and origin.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -104,6 +111,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-05f9f411-7bfc-4dc0-bd49-ba2e2fb448bb
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-05f9f411-7bfc-4dc0-bd49-ba2e2fb448bb
+  copyright_status: publicly_accessible
 - text: Secondary goals concern Phobos's evolution and present condition.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
   location: char:2503-2679
@@ -115,6 +123,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-47cfabd8-8795-4cea-a434-3d10bd3a2682
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-47cfabd8-8795-4cea-a434-3d10bd3a2682
+  copyright_status: publicly_accessible
 - text: The source identifies bulk composition as the most reliable measurement for
     investigating Phobos's origin.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -126,6 +135,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-f354f51b-f95e-44ea-8bee-910778d7fe4b
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-f354f51b-f95e-44ea-8bee-910778d7fe4b
+  copyright_status: publicly_accessible
 - text: Remote sensing measures surface regolith, which may not represent the bulk
     composition.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -138,6 +148,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-b2633c9b-4d65-4476-859e-20c5d2da4e69
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-b2633c9b-4d65-4476-859e-20c5d2da4e69
+  copyright_status: publicly_accessible
 - text: The source says that an unambiguous determination requires a representative
     bulk sample.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -149,6 +160,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-18ba272c-479d-423f-9e76-5e5d948e4e7d
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-18ba272c-479d-423f-9e76-5e5d948e4e7d
+  copyright_status: publicly_accessible
 - text: The PRIME Lander would survey sites from pseudo-orbits, land using CAMELOT-2,
     and conduct in situ measurements.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -161,6 +173,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-6d6e994f-b596-4027-8a66-74a5ed7f4db0
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-6d6e994f-b596-4027-8a66-74a5ed7f4db0
+  copyright_status: publicly_accessible
 - text: The baseline payload includes GRS/NDL, CHAMP, APXS, PASCAL, and MAG.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
   location: char:4592-5103
@@ -172,6 +185,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-94f16812-2f98-4660-ac80-57c239388289
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-94f16812-2f98-4660-ac80-57c239388289
+  copyright_status: publicly_accessible
 - text: Optech Inc.'s CAMELOT-2 lidar was intended to enable a landing within less
     than 0.5 metres of a selected block or outcrop.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -184,6 +198,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-c3302ff1-dc75-40e9-9c59-a3d8c67ec1a5
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-c3302ff1-dc75-40e9-9c59-a3d8c67ec1a5
+  copyright_status: publicly_accessible
 - text: Mars Global Surveyor imagery identified a 90-metre-wide discrete positive
     relief feature near Crater Stickney.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -195,6 +210,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-2f88d844-aa36-4ba2-8db2-814d98568130
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-2f88d844-aa36-4ba2-8db2-814d98568130
+  copyright_status: publicly_accessible
 - text: Brett Gladman considered large discrete positive relief features possible
     samples of Phobos's bulk.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -207,6 +223,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-a956243c-b952-43c1-be65-955cfbb0161f
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-a956243c-b952-43c1-be65-955cfbb0161f
+  copyright_status: publicly_accessible
 - text: The PRIME team selected a boulder near Crater Stickney as a candidate landing
     site.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -218,6 +235,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-1ad8738a-353a-4d9d-9cf6-7c451f36f0eb
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-1ad8738a-353a-4d9d-9cf6-7c451f36f0eb
+  copyright_status: publicly_accessible
 - text: The Rock-Dock capability was intended to land within 1 metre of the boulder,
     expose fresh material, and analyse it in situ.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -230,6 +248,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-ee924ad6-ebb4-47b4-a636-058c4966de54
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-ee924ad6-ebb4-47b4-a636-058c4966de54
+  copyright_status: publicly_accessible
 - text: The mission would develop technologies relevant to Mars Sample Return, including
     orbital rendezvous, hazard avoidance, and precision landing.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -243,6 +262,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-38c27e13-8f17-486d-914f-0ba45bf993b8
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-38c27e13-8f17-486d-914f-0ba45bf993b8
+  copyright_status: publicly_accessible
 - text: The team was examining an enhanced Phobos Sample Return version called PRIME
     PSR.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -255,6 +275,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-9901642d-cc8e-4237-bbca-e08005ed1883
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-9901642d-cc8e-4237-bbca-e08005ed1883
+  copyright_status: publicly_accessible
 - text: PRIME PSR could test Mars sample return procedures while minimising planetary
     protection risks.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -267,6 +288,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-592fd288-6826-4be0-8028-e983006a920e
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-592fd288-6826-4be0-8028-e983006a920e
+  copyright_status: publicly_accessible
 - text: Pascal Lee, Alan Hildebrand, and Robert Richards held principal investigator,
     deputy principal investigator, and project manager roles respectively.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -277,6 +299,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-5b26d367-e555-45f2-8db8-bbd1749fbf91
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-5b26d367-e555-45f2-8db8-bbd1749fbf91
+  copyright_status: publicly_accessible
 - text: The Mars Institute and NASA Ames were associated with Pascal Lee, the University
     of Calgary with Alan Hildebrand, and Optech Inc. with Robert Richards.
   source: The PRIME (Phobos Reconnaissance and International Mars Sample Return)
@@ -287,6 +310,7 @@ references:
   record_hash: 47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656
   workbench_url: https://workbench.anomalica.is/47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb656#claim-96f099dc-d8f3-4906-9154-659a529713dc
   inspection_url: /records/2008-pdf-the-prime-phobos-reconnaissance-and-international-mars#claim-96f099dc-d8f3-4906-9154-659a529713dc
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

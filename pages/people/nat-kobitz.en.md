@@ -191,6 +191,7 @@ references:
   claim_id: 42b9f2e3-5462-49b9-84c2-db5946d19857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42b9f2e3-5462-49b9-84c2-db5946d19857
+  copyright_status: restricted
 - text: Phoned Ross Coulthart unprompted in early 2020 after receiving a letter from
     him
   source: In Plain Sight (2021)
@@ -198,18 +199,21 @@ references:
   claim_id: 3c789778-16b5-4476-b6a5-37ffe0d4eacb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c789778-16b5-4476-b6a5-37ffe0d4eacb
+  copyright_status: restricted
 - text: Left the Navy role in 1994 and set up NKA Science
   source: In Plain Sight (2021)
   location: ch27:16888-17005
   claim_id: c98c12c1-f605-4356-950d-22b74e70ce8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
+  copyright_status: restricted
 - text: Worked on the Gemini launch vehicle airframe (Kobitz's own account)
   source: In Plain Sight (2021)
   location: ch27:11318-11496
   claim_id: 94dbffca-9718-4dfd-bc42-4cee0f53f338
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94dbffca-9718-4dfd-bc42-4cee0f53f338
+  copyright_status: restricted
 - text: Worked on numerous Navy surface ship and submarine projects over nearly 30
     years (Kobitz's own account)
   source: In Plain Sight (2021)
@@ -217,12 +221,14 @@ references:
   claim_id: f2d96753-56c5-4d6a-a678-23dd90595ad6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d96753-56c5-4d6a-a678-23dd90595ad6
+  copyright_status: restricted
 - text: Involved in developing the Sea Scout unmanned aerial vehicle project
   source: In Plain Sight (2021)
   location: ch27:11581-11707
   claim_id: be23951b-f549-4fb1-838c-ec13a1ea6b55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be23951b-f549-4fb1-838c-ec13a1ea6b55
+  copyright_status: restricted
 - text: Sea Scout prototype lost when it flew too near a presidential family wedding
     in Texas and was jammed by security
   source: In Plain Sight (2021)
@@ -230,6 +236,7 @@ references:
   claim_id: 9e57fc8a-6903-49d3-be72-7017c2fc1dae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e57fc8a-6903-49d3-be72-7017c2fc1dae
+  copyright_status: restricted
 - text: Sea Scout cost a million dollars to build, and the program ended after the
     crash
   source: In Plain Sight (2021)
@@ -237,6 +244,7 @@ references:
   claim_id: a07c07dd-e5e9-4e2e-8eb8-0c0203b77cd3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a07c07dd-e5e9-4e2e-8eb8-0c0203b77cd3
+  copyright_status: restricted
 - text: Confirmed working on anti-gravity/field propulsion research for the Navy,
     describing his own work as unexciting
   source: In Plain Sight (2021)
@@ -244,18 +252,21 @@ references:
   claim_id: 5c817205-d557-4f48-aafd-687ac99993da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c817205-d557-4f48-aafd-687ac99993da
+  copyright_status: restricted
 - text: Described his propulsion research as a low-energy ion propulsion system
   source: In Plain Sight (2021)
   location: ch27:12329-12435
   claim_id: 28dfd24a-d92a-4577-b03d-4b7aec1012bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28dfd24a-d92a-4577-b03d-4b7aec1012bd
+  copyright_status: restricted
 - text: Did not believe the US had cracked anti-gravity despite years of secret research
   source: In Plain Sight (2021)
   location: ch27:12443-12616
   claim_id: df642a3a-01de-4baa-8908-1ecc551bf44e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df642a3a-01de-4baa-8908-1ecc551bf44e
+  copyright_status: restricted
 - text: Confirmed meeting Gordon Novel and his son at a Pentagon meeting in July 1993,
     a year before leaving the Navy
   source: In Plain Sight (2021)
@@ -263,12 +274,14 @@ references:
   claim_id: fb0dc3b1-848a-46e5-98ba-e8fd880859d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb0dc3b1-848a-46e5-98ba-e8fd880859d4
+  copyright_status: restricted
 - text: Sur Novel confirmed 'Wally Katz' in his father's book was Nat Kobitz
   source: In Plain Sight (2021)
   location: ch27:7442-7605
   claim_id: 763b16c6-afd4-4d8e-9d93-187a09920ac3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-763b16c6-afd4-4d8e-9d93-187a09920ac3
+  copyright_status: restricted
 - text: Sur Novel recalled his father showing McCandlish's ARV drawing to Kobitz in
     his Pentagon office
   source: In Plain Sight (2021)
@@ -276,6 +289,7 @@ references:
   claim_id: d91d3008-64f4-4b74-b2d6-892b86baddd9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d91d3008-64f4-4b74-b2d6-892b86baddd9
+  copyright_status: restricted
 - text: Sur Novel described Kobitz's reaction to the drawing as surprise, as if recognising
     it, not alarm
   source: In Plain Sight (2021)
@@ -283,6 +297,7 @@ references:
   claim_id: a27a2822-d617-4f37-9a46-41e05813114e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a27a2822-d617-4f37-9a46-41e05813114e
+  copyright_status: restricted
 - text: Ross Coulthart's sceptical hunch that Novel embellished what Kobitz said to
     lure readers into funding his anti-gravity project
   source: In Plain Sight (2021)
@@ -290,12 +305,14 @@ references:
   claim_id: 233601f6-f420-4744-bcc3-b001daacd399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233601f6-f420-4744-bcc3-b001daacd399
+  copyright_status: restricted
 - text: Said he only recalled 'it rings a bell' regarding the Fluxliner ARV story
   source: In Plain Sight (2021)
   location: ch27:13121-13208
   claim_id: 17ae87c5-2b58-4d2b-ae93-41b50c51af26
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17ae87c5-2b58-4d2b-ae93-41b50c51af26
+  copyright_status: restricted
 - text: After being shown McCandlish's detailed ARV graphic, said he recognised it
     and concluded it was a hoax
   source: In Plain Sight (2021)
@@ -303,6 +320,7 @@ references:
   claim_id: c5e2bf65-cdc6-46de-8cc3-91967408986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5e2bf65-cdc6-46de-8cc3-91967408986b
+  copyright_status: restricted
 - text: Confirmed he had been read into programs involving crashed UFOs/UAP and never
     read out, but could not speak about it
   source: In Plain Sight (2021)
@@ -310,6 +328,7 @@ references:
   claim_id: 7e9a1c89-c977-4578-9ca2-c07cc471f847
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e9a1c89-c977-4578-9ca2-c07cc471f847
+  copyright_status: restricted
 - text: Said he had only hearsay information on any recovered alien spacecraft and
     was careful not to speculate
   source: In Plain Sight (2021)
@@ -317,6 +336,7 @@ references:
   claim_id: af30c200-7776-45bd-afc0-39fd886b43a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af30c200-7776-45bd-afc0-39fd886b43a2
+  copyright_status: restricted
 - text: Laughed dismissively at the official Project Mogul explanation for the Roswell
     debris
   source: In Plain Sight (2021)
@@ -324,6 +344,7 @@ references:
   claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54a8fbd7-770d-46f6-bc88-42a499f8a4f9
+  copyright_status: restricted
 - text: Confirmed to Coulthart that the US has been trying to develop recovered alien
     technology
   source: In Plain Sight (2021)
@@ -331,6 +352,7 @@ references:
   claim_id: 04a399a8-34b0-42b7-b4f8-9016e2dbf1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-04a399a8-34b0-42b7-b4f8-9016e2dbf1d9
+  copyright_status: restricted
 - text: Made clear he would never breach his national security oath to reveal full
     details
   source: In Plain Sight (2021)
@@ -338,6 +360,7 @@ references:
   claim_id: 695ca04c-e13f-4f6e-9dd5-30e0472a861c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-695ca04c-e13f-4f6e-9dd5-30e0472a861c
+  copyright_status: restricted
 - text: Was invited to visit Wright-Patterson Air Force Base during his time at NKA
     Science to examine strange metal pieces held under high security
   source: In Plain Sight (2021)
@@ -345,6 +368,7 @@ references:
   claim_id: effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
+  copyright_status: restricted
 - text: Was read into a program working with recovered UAP technology during his Navy
     career
   source: In Plain Sight (2021)
@@ -352,6 +376,7 @@ references:
   claim_id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
+  copyright_status: restricted
 - text: Saw a piece of material reported to him as a titanium alloy unknown to the
     Air Force
   source: In Plain Sight (2021)
@@ -359,12 +384,14 @@ references:
   claim_id: 4064203b-e546-4d7e-9a84-b488efb1b13f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
+  copyright_status: restricted
 - text: The fragment was approximately 0.9 by 1.2 metres in size
   source: In Plain Sight (2021)
   location: ch27:20982-21023
   claim_id: 6098f0e9-2745-4866-9def-14f31a44cbd6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6098f0e9-2745-4866-9def-14f31a44cbd6
+  copyright_status: restricted
 - text: Showed no attachment except something that appeared welded but was not actually
     welded
   source: In Plain Sight (2021)
@@ -372,6 +399,7 @@ references:
   claim_id: 45e80627-637e-4d9e-8658-9a67a8cc0687
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45e80627-637e-4d9e-8658-9a67a8cc0687
+  copyright_status: restricted
 - text: Was integral with the surrounding skin, comparable to being integral with
     a bulkhead
   source: In Plain Sight (2021)
@@ -379,6 +407,7 @@ references:
   claim_id: 6cca885a-f09d-4d4b-837a-9f537b19c701
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6cca885a-f09d-4d4b-837a-9f537b19c701
+  copyright_status: restricted
 - text: Did not think the joint looked like typical electron beam welding despite
     manufacturing staff's initial belief
   source: In Plain Sight (2021)
@@ -386,6 +415,7 @@ references:
   claim_id: bcc31a53-984b-40c2-ac78-51e1049a7ede
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcc31a53-984b-40c2-ac78-51e1049a7ede
+  copyright_status: restricted
 - text: Observed the fragment appeared cast in place with no interruption, unlike
     typical electron beam welds
   source: In Plain Sight (2021)
@@ -393,6 +423,7 @@ references:
   claim_id: 3ecc2fc4-9de6-4642-8623-0fe905487dc8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3ecc2fc4-9de6-4642-8623-0fe905487dc8
+  copyright_status: restricted
 - text: His expert opinion was that no known industrial process could replicate the
     bond
   source: In Plain Sight (2021)
@@ -400,12 +431,14 @@ references:
   claim_id: 9bd8669e-e655-4ed8-b916-a224fd85b72b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
+  copyright_status: restricted
 - text: Reserved judgement on whether the fragment was from a craft not of this world
   source: In Plain Sight (2021)
   location: ch27:21966-22125
   claim_id: 0258e888-2bf7-4198-bd45-e65456b26dc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0258e888-2bf7-4198-bd45-e65456b26dc1
+  copyright_status: restricted
 - text: Called Coulthart from Baltimore at age 92, over a quarter of a century after
     the Pentagon meeting
   source: In Plain Sight (2021)
@@ -413,18 +446,21 @@ references:
   claim_id: 52808f84-cf68-4a4a-80ec-96339e54f582
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52808f84-cf68-4a4a-80ec-96339e54f582
+  copyright_status: restricted
 - text: Was fighting a terminal illness when he spoke with Coulthart
   source: In Plain Sight (2021)
   location: ch27:10773-10914
   claim_id: 718d5679-1153-4a1d-94b0-54d79ba79110
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-718d5679-1153-4a1d-94b0-54d79ba79110
+  copyright_status: restricted
 - text: His daughter is named Celia Kobitz
   source: In Plain Sight (2021)
   location: ch27:10829-10914
   claim_id: bc8032ec-7b6a-4925-b874-2545c58031f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc8032ec-7b6a-4925-b874-2545c58031f4
+  copyright_status: restricted
 - text: Made inquiries with Navy colleagues about Salvatore Pais's patents on Coulthart's
     behalf, and none had information on him or working prototypes
   source: In Plain Sight (2021)
@@ -432,6 +468,7 @@ references:
   claim_id: 0850e108-9710-4a09-9323-2b500d8873c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0850e108-9710-4a09-9323-2b500d8873c4
+  copyright_status: restricted
 - text: Coulthart is in no doubt Kobitz told him the truth of what he knew and saw
     about the alleged crash retrieval program
   source: In Plain Sight (2021)
@@ -439,6 +476,7 @@ references:
   claim_id: e01193d2-07d7-4368-9a54-8819cda61089
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e01193d2-07d7-4368-9a54-8819cda61089
+  copyright_status: restricted
 - text: Was one of the most senior US Defense Department insiders ever to go public
     with claims of retrieved alien technology
   source: In Plain Sight (2021)
@@ -446,6 +484,7 @@ references:
   claim_id: af9b37f6-0a36-40e4-8f9c-b9cb7af54731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af9b37f6-0a36-40e4-8f9c-b9cb7af54731
+  copyright_status: restricted
 - text: Received a reply letter from Kobitz and subsequently had phone calls and online
     meetings with him
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -456,6 +495,7 @@ references:
   claim_id: 0d65f061-e318-4465-85c5-19efcf3676a3
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-0d65f061-e318-4465-85c5-19efcf3676a3
+  copyright_status: publicly_accessible
 - text: Lived in Baltimore
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -464,6 +504,7 @@ references:
   claim_id: 18dd0780-5c05-4cb6-b4f5-060ac99f0ecd
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-18dd0780-5c05-4cb6-b4f5-060ac99f0ecd
+  copyright_status: publicly_accessible
 - text: Was dying slowly from cancer and staying with his daughter when Coulthart
     spoke with him
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -474,6 +515,7 @@ references:
   claim_id: 4793018d-81cd-4561-9263-fa5c646b3aae
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-4793018d-81cd-4561-9263-fa5c646b3aae
+  copyright_status: publicly_accessible
 - text: Passed away while he and Coulthart were still talking extensively
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -483,6 +525,7 @@ references:
   claim_id: 6278c3b5-12ac-4d42-9bc6-ddac11e2d2c2
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-6278c3b5-12ac-4d42-9bc6-ddac11e2d2c2
+  copyright_status: publicly_accessible
 - text: Introduced Coulthart to people with direct knowledge of the Legacy Program
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -491,6 +534,7 @@ references:
   claim_id: 9875f0ef-1d17-45ea-a318-a9fef93515be
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-9875f0ef-1d17-45ea-a318-a9fef93515be
+  copyright_status: publicly_accessible
 - text: Told Coulthart he had been read into the Legacy Program
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -500,6 +544,7 @@ references:
   claim_id: 758239a6-4474-4928-9325-7cd20b18e532
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-758239a6-4474-4928-9325-7cd20b18e532
+  copyright_status: publicly_accessible
 - text: Was an expert on electron beam welding, an almost invisible weld
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -509,6 +554,7 @@ references:
   claim_id: 5780a5c4-1b73-46fc-a5a2-7ec5cc6faa23
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-5780a5c4-1b73-46fc-a5a2-7ec5cc6faa23
+  copyright_status: publicly_accessible
 - text: Was invited to Wright-Patterson after leaving the Navy, though Coulthart suspects
     he still held a clearance
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -520,6 +566,7 @@ references:
   claim_id: 96f32df5-0401-4374-9fc9-4fcd131357b5
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-96f32df5-0401-4374-9fc9-4fcd131357b5
+  copyright_status: publicly_accessible
 - text: Told Coulthart he was taken deep underground at Wright-Patterson to a highly
     secure installation
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -530,6 +577,7 @@ references:
   claim_id: db89b775-24d3-4bf5-870e-2b378655a687
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-db89b775-24d3-4bf5-870e-2b378655a687
+  copyright_status: publicly_accessible
 - text: Was one of the top scientists in the United States Navy
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart (2026-08-11)
@@ -538,6 +586,7 @@ references:
   claim_id: ee834dfb-a57f-4f9f-b5c9-7667822499ae
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-ee834dfb-a57f-4f9f-b5c9-7667822499ae
+  copyright_status: publicly_accessible
 - text: Had worked at China Lake and had been inside top secret facilities buried
     in hillsides across the US
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -549,6 +598,7 @@ references:
   claim_id: 559042fe-fa1e-4981-97ca-8fedf78e99d8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-559042fe-fa1e-4981-97ca-8fedf78e99d8
+  copyright_status: publicly_accessible
 - text: Through his instigation, Coulthart met people inside the Legacy Program who
     put everything on the line to talk
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -560,6 +610,7 @@ references:
   claim_id: 28d33981-4d2f-4fa0-855f-3a223f7d446a
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-28d33981-4d2f-4fa0-855f-3a223f7d446a
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

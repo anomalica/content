@@ -436,6 +436,7 @@ references:
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
+  copyright_status: public_domain
 - text: Air Force personnel investigated 243 reported UAP sightings between 1947 and
     1949
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -444,6 +445,7 @@ references:
   claim_id: 447d013a-77f2-4f73-a343-741ae02dda20
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-447d013a-77f2-4f73-a343-741ae02dda20
+  copyright_status: public_domain
 - text: Air Force Director of Intelligence initiated Project Blue Book in 1952 to
     investigate UFOs
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -453,6 +455,7 @@ references:
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
+  copyright_status: public_domain
 - text: Air Force personnel investigated over 12,000 reported UFO sightings between
     1952 and 1969
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -462,6 +465,7 @@ references:
   claim_id: a38255b6-11cf-4643-850e-28567b670f7a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
+  copyright_status: public_domain
 - text: Of the more than 12,000 sightings investigated, 701 remained unexplained
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:6818-6840
@@ -469,6 +473,7 @@ references:
   claim_id: 9b40366f-7bfc-4e5f-86fc-accc9528032f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
+  copyright_status: publicly_accessible
 - text: The Air Force publicly announced termination of Project Blue Book on 1969-12-17,
     while covertly continuing to investigate better civilian sightings under JANAP
     146
@@ -483,6 +488,7 @@ references:
   claim_id: c8006b06-843a-4738-83af-8cc16f737b0e
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-c8006b06-843a-4738-83af-8cc16f737b0e
+  copyright_status: publicly_accessible
 - text: The Air Force Secretary announced in December 1969 that Project Blue Book
     had been terminated
   source: In Plain Sight
@@ -490,6 +496,7 @@ references:
   claim_id: 84890d08-c552-4355-b806-a179d2225b6a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84890d08-c552-4355-b806-a179d2225b6a
+  copyright_status: restricted
 - text: J. Allen Hynek was the lead scientist in charge of Project Blue Book, the
     Air Force's official UAP investigation team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -497,6 +504,7 @@ references:
   claim_id: 0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
+  copyright_status: restricted
 - text: J. Allen Hynek said the Air Force expected him to perform the role of debunker
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
@@ -506,6 +514,7 @@ references:
   claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
+  copyright_status: public_domain
 - text: Edward Ruppelt, first chief of Project Blue Book, wrote he was expected to
     explain away every report and that the Air Force sought to produce aligned press
     stories
@@ -518,6 +527,7 @@ references:
   claim_id: 3e8086b0-e0e0-4c6a-9376-5a482a7347e1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
+  copyright_status: public_domain
 - text: The Air Force subsequently implemented a public affairs campaign to persuade
     the public UFOs were nothing unusual, to alleviate public anxiety
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
@@ -529,6 +539,7 @@ references:
   claim_id: 7cb8586a-65a8-48b0-a7f9-57bb0101277a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7cb8586a-65a8-48b0-a7f9-57bb0101277a
+  copyright_status: public_domain
 - text: Edward Condon and his team were recruited by the Air Force to conduct an independent
     investigation into UAP that became the Condon Report
   source: In Plain Sight
@@ -536,6 +547,7 @@ references:
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
+  copyright_status: restricted
 - text: The Condon Report gave the Air Force the justification it was seeking to end
     Project Blue Book
   source: In Plain Sight
@@ -543,6 +555,7 @@ references:
   claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df697174-c6da-413d-86bb-2e929fc78fcc
+  copyright_status: restricted
 - text: David Grusch was a US Air Force intelligence officer for 14 years, reaching
     the rank of Major
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -556,6 +569,7 @@ references:
   claim_id: 01d50f41-2216-452f-862d-01ee552943fa
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-01d50f41-2216-452f-862d-01ee552943fa
+  copyright_status: public_domain
 - text: David Grusch was a member of the UAP Task Force from 2019 to 2021 in a National
     Reconnaissance Office reservist capacity within the Air Force
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -566,6 +580,7 @@ references:
   claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
+  copyright_status: public_domain
 - text: The Air Force unsuccessfully tried to file an Espionage Act unauthorised disclosure
     complaint against Grusch when he went public
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -576,6 +591,7 @@ references:
   claim_id: 019a1a79-241e-4aff-9dc5-4428aa94d72f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-019a1a79-241e-4aff-9dc5-4428aa94d72f
+  copyright_status: publicly_accessible
 - text: Grusch resigned his Air Force officer commission because he foresaw an attack
     of that nature
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -585,6 +601,7 @@ references:
   claim_id: 7c06b84d-4f76-4ff3-bf9a-677f5b75213b
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7c06b84d-4f76-4ff3-bf9a-677f5b75213b
+  copyright_status: publicly_accessible
 - text: From the moment Elizondo joined the team, the Air Force was stubbornly and
     mysteriously uncooperative on the topic of UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -592,6 +609,7 @@ references:
   claim_id: 8215a43e-8dc3-4109-be41-9527592bb49c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8215a43e-8dc3-4109-be41-9527592bb49c
+  copyright_status: restricted
 - text: Elizondo's team sent carefully crafted emails to Air Force liaisons requesting
     information on UAP incidents, and the requests were repeatedly denied or ignored
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -599,6 +617,7 @@ references:
   claim_id: 324d401c-3c7e-4d4b-b06c-e0f8c224e18e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-324d401c-3c7e-4d4b-b06c-e0f8c224e18e
+  copyright_status: restricted
 - text: The Air Force and Navy have been at the forefront of developing policies,
     procedures and mechanisms for reporting UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -608,6 +627,7 @@ references:
   claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  copyright_status: public_domain
 - text: The Air Force designated UAP a 'Special Interest Item', requiring aircrews
     to document and report UAP observations within 24 hours of engine shutdown, using
     the Marauder system
@@ -621,6 +641,7 @@ references:
   claim_id: f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+  copyright_status: public_domain
 - text: As of 2023, the Air Force has been less forthcoming than other agencies regarding
     UAP
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -630,6 +651,7 @@ references:
   claim_id: 4c7385be-d2df-4f2c-b91a-c11acc0989ce
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4c7385be-d2df-4f2c-b91a-c11acc0989ce
+  copyright_status: publicly_accessible
 - text: For many decades, the Air Force carried out a disinformation campaign to discredit
     reported sightings of unexplained objects
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -639,6 +661,7 @@ references:
   claim_id: ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ce2a2f6f-1d31-4879-9d34-e79dd9cbe07d
+  copyright_status: publicly_accessible
 - text: David Grusch is a veteran of the Air Force with numerous awards and decorations
     for participation in covert and clandestine operations
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -648,6 +671,7 @@ references:
   claim_id: 5a666128-d919-4640-a07c-8f9212bc4241
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-5a666128-d919-4640-a07c-8f9212bc4241
+  copyright_status: publicly_accessible
 - text: The chief of staff for intelligence of the Air Force did not believe Project
     Stargate's remote viewers could do what they claimed
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE'
@@ -657,6 +681,7 @@ references:
   claim_id: 78da8186-b6cb-4ffd-be55-ce4b2cada464
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-78da8186-b6cb-4ffd-be55-ce4b2cada464
+  copyright_status: publicly_accessible
 - text: The 4602d Air Intelligence Service Squadron ran a secret project deploying
     covert quick reaction intelligence teams around the world to recover unidentified
     objects and debris
@@ -665,6 +690,7 @@ references:
   claim_id: 1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
+  copyright_status: restricted
 - text: James E. McDonald said the official Air Force position on UFOs is that the
     subject is nonsense and a burdensome duty it cannot get away from
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -675,6 +701,7 @@ references:
   claim_id: b9de2c1f-5288-4d59-8eaa-59315cf144e2
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b9de2c1f-5288-4d59-8eaa-59315cf144e2
+  copyright_status: publicly_accessible
 - text: McDonald found that expertise to examine the UFO problem existed at the Air
     Force's disposal but had not been used for 15 years
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -686,6 +713,7 @@ references:
   claim_id: 3169520c-7675-422f-a8c8-e9d2cd54b0d9
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3169520c-7675-422f-a8c8-e9d2cd54b0d9
+  copyright_status: publicly_accessible
 - text: 'In 1967, Project Blue Book consisted of three people: a major, a sergeant
     and a secretary'
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -696,12 +724,14 @@ references:
   claim_id: 3944d563-3e5f-42ee-8e15-bfcd195d2055
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3944d563-3e5f-42ee-8e15-bfcd195d2055
+  copyright_status: publicly_accessible
 - text: J. Allen Hynek was the Air Force's expert on UFO matters
   source: THE INVISIBLE COLLEGE
   location: ch8:22310-22365
   claim_id: b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
+  copyright_status: restricted
 - text: The files of Project Blue Book were transferred into Air Force archives; though
     unclassified, the building holding them requires a security clearance to enter
   source: THE INVISIBLE COLLEGE
@@ -709,6 +739,7 @@ references:
   claim_id: d00225bd-2b46-4183-bc1b-86235f9a2f03
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d00225bd-2b46-4183-bc1b-86235f9a2f03
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -118,6 +118,7 @@ references:
   claim_id: 30364433-6d8a-4bf1-abcf-aa43cfe054f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30364433-6d8a-4bf1-abcf-aa43cfe054f7
+  copyright_status: restricted
 - text: Vallée visited the Foreign Technology Division, where the USAF centralised
     its official UFO data
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -126,6 +127,7 @@ references:
   claim_id: cef02576-17a6-41f9-aca9-9837fec0bc4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cef02576-17a6-41f9-aca9-9837fec0bc4e
+  copyright_status: restricted
 - text: Vallée visited the Foreign Technology Division; a MIG interceptor hung in
     the building lobby
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -133,6 +135,7 @@ references:
   claim_id: d9c6d560-2e30-462d-a8a9-4e7f100d4589
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d9c6d560-2e30-462d-a8a9-4e7f100d4589
+  copyright_status: restricted
 - text: Base historically studied foreign technology, including Russian and Chinese
     aerospace craft and space debris
   source: In Plain Sight
@@ -140,6 +143,7 @@ references:
   claim_id: 2fc7ad82-7736-4631-823a-0356db769002
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fc7ad82-7736-4631-823a-0356db769002
+  copyright_status: restricted
 - text: Project Blue Book was based at Wright-Patterson near Dayton, Ohio
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -148,6 +152,7 @@ references:
   claim_id: 29899d23-8304-45af-ac3d-01b0230882e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-29899d23-8304-45af-ac3d-01b0230882e8
+  copyright_status: public_domain
 - text: National Air and Space Intelligence Center headquartered at Wright-Patterson
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:14479-14530
@@ -155,18 +160,21 @@ references:
   claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-abf0e9da-8693-4761-ab8b-af418e3758b4
+  copyright_status: publicly_accessible
 - text: Conspiracy theory alleges Roswell wreckage taken to Wright Field in 1947
   source: In Plain Sight
   location: ch27:17819-17994
   claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
+  copyright_status: restricted
 - text: Alien corpses from Roswell allegedly sent to Wright-Patterson
   source: In Plain Sight
   location: ch23:1206-1324
   claim_id: aea2b7f1-cb61-4be9-90f9-8934c7c2432e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aea2b7f1-cb61-4be9-90f9-8934c7c2432e
+  copyright_status: restricted
 - text: 'Ramsay: crashed Roswell craft reportedly dragged to Wright-Patterson'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -176,6 +184,7 @@ references:
   claim_id: 1b8d57da-86b6-4f45-acf5-d60b14f16261
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-1b8d57da-86b6-4f45-acf5-d60b14f16261
+  copyright_status: publicly_accessible
 - text: 'Ramsay: base''s historic reputation for allegedly housing Roswell craft'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -185,6 +194,7 @@ references:
   claim_id: de5b1435-d2ca-45d9-a876-ac8aa548bcad
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-de5b1435-d2ca-45d9-a876-ac8aa548bcad
+  copyright_status: publicly_accessible
 - text: 'Coulthart: Roswell wreckage allegedly taken to base where Exon was a former
     commanding general'
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -195,6 +205,7 @@ references:
   claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-7ee501b6-23a3-4c72-be64-b52448e0e1c6
+  copyright_status: publicly_accessible
 - text: McCasland commanded the Air Force Research Laboratory at Wright-Patterson
     until July 2013
   source: In Plain Sight
@@ -202,6 +213,7 @@ references:
   claim_id: 692be948-667e-47a5-a940-0cc9d7161f21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-692be948-667e-47a5-a940-0cc9d7161f21
+  copyright_status: restricted
 - text: Air Force Research Laboratory is where Roswell wreckage was rumoured to have
     been taken
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -212,6 +224,7 @@ references:
   claim_id: ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
+  copyright_status: publicly_accessible
 - text: 'DeLonge''s 2016 email: Roswell wreckage shipped to the Wright-Patterson lab
     McCasland had run'
   source: In Plain Sight
@@ -219,12 +232,14 @@ references:
   claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bae97258-0aac-4690-b461-502f1b8a7df7
+  copyright_status: restricted
 - text: Exon assigned commander of Wright-Patterson in 1964
   source: The Fourth Mind
   location: ch8:9436-9504
   claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cfd13814-89be-4a68-adbf-c7b13c866448
+  copyright_status: restricted
 - text: Strieber's uncle stationed at the base in the late 1940s
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -234,6 +249,7 @@ references:
   claim_id: 4d3d3678-a129-4944-9414-e6761b7b675f
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-4d3d3678-a129-4944-9414-e6761b7b675f
+  copyright_status: publicly_accessible
 - text: Exon, friend of Strieber's uncle, later became general and commanding officer
     at the base
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -244,12 +260,14 @@ references:
   claim_id: 2f8637d3-0b7f-42d1-a997-053f021ba985
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2f8637d3-0b7f-42d1-a997-053f021ba985
+  copyright_status: publicly_accessible
 - text: Exon told Strieber (1988) he was still consulting on the nonhuman bodies question
   source: The Fourth Mind
   location: ch8:9510-9600
   claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d08d8b59-df40-4913-8d9e-b1b56bb9de73
+  copyright_status: restricted
 - text: Exon (1988) still going to the base to brief staff on classified matters
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -260,36 +278,42 @@ references:
   claim_id: dda337af-b2ac-45cf-a717-35607b756f9b
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-dda337af-b2ac-45cf-a717-35607b756f9b
+  copyright_status: publicly_accessible
 - text: Goldwater denied access to secret UFO documents (1975)
   source: Communion
   location: ch14:20971-21131
   claim_id: 9ce0e5f4-7a0c-4505-8037-2b7873b75ae5
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9ce0e5f4-7a0c-4505-8037-2b7873b75ae5
+  copyright_status: restricted
 - text: Goldwater (1994) told Larry King about secret places at the base
   source: In Plain Sight
   location: ch27:18658-18818
   claim_id: d55dc692-b39c-4fe4-a1af-e1cf2cd75499
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d55dc692-b39c-4fe4-a1af-e1cf2cd75499
+  copyright_status: restricted
 - text: 'Goldwater (1994): spaceship hushed up, called LeMay about a secret room'
   source: In Plain Sight
   location: ch27:18825-19012
   claim_id: 8a4f8ce9-51da-429f-bbd3-49086f288c6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a4f8ce9-51da-429f-bbd3-49086f288c6e
+  copyright_status: restricted
 - text: LeMay angry at Goldwater's request, told him never to ask again
   source: In Plain Sight
   location: ch27:19020-19137
   claim_id: ee13d4a0-bccb-4a00-82d7-d51057726c51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee13d4a0-bccb-4a00-82d7-d51057726c51
+  copyright_status: restricted
 - text: Kobitz invited to Wright-Patterson via NKA Science to examine strange metal
   source: In Plain Sight
   location: ch27:17313-17524
   claim_id: effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
+  copyright_status: restricted
 - text: 'Coulthart: Kobitz invited after leaving the Navy, may still have held a clearance'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -300,12 +324,14 @@ references:
   claim_id: 96f32df5-0401-4374-9fc9-4fcd131357b5
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-96f32df5-0401-4374-9fc9-4fcd131357b5
+  copyright_status: publicly_accessible
 - text: Kobitz was shown a strange piece of metal at the base
   source: In Plain Sight
   location: ch27:20312-20400
   claim_id: 2797929f-fa20-4a30-b883-6d7669da6328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2797929f-fa20-4a30-b883-6d7669da6328
+  copyright_status: restricted
 - text: 'Coulthart: Kobitz taken deep underground to a highly secure installation'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -315,12 +341,14 @@ references:
   claim_id: db89b775-24d3-4bf5-870e-2b378655a687
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-db89b775-24d3-4bf5-870e-2b378655a687
+  copyright_status: publicly_accessible
 - text: Kobitz saw material reported as a titanium alloy not known to the USAF
   source: In Plain Sight
   location: ch27:20804-20977
   claim_id: 4064203b-e546-4d7e-9a84-b488efb1b13f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
+  copyright_status: restricted
 - text: 'Kobitz: item was a feather-light piece of broken bulkhead'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -330,6 +358,7 @@ references:
   claim_id: 3cdaceee-1d10-4736-b492-68858dfa92dd
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-3cdaceee-1d10-4736-b492-68858dfa92dd
+  copyright_status: publicly_accessible
 - text: Kobitz asked to examine how two metals in the bulkhead were joined
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -339,6 +368,7 @@ references:
   claim_id: 774f79cb-21bb-4127-acd2-71868868c416
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-774f79cb-21bb-4127-acd2-71868868c416
+  copyright_status: publicly_accessible
 - text: Join thought to be electron beam welding, but was not
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -348,6 +378,7 @@ references:
   claim_id: e11a6eae-bf88-4f01-aa62-cdc6e9fca55e
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e11a6eae-bf88-4f01-aa62-cdc6e9fca55e
+  copyright_status: publicly_accessible
 - text: Metals bonded at atomic level, defied Kobitz's understanding as a scientist
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -359,6 +390,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-147ab155-ee82-42e6-840b-5045038bde1c
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-147ab155-ee82-42e6-840b-5045038bde1c
+  copyright_status: publicly_accessible
 - text: Kobitz acknowledged the item was probably pieces of an alien spacecraft
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -368,12 +400,14 @@ references:
   claim_id: aa91216d-9ab5-4b55-83b9-8f2d4251a1d6
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-aa91216d-9ab5-4b55-83b9-8f2d4251a1d6
+  copyright_status: publicly_accessible
 - text: 'Kobitz: no known industrial process could replicate the bond he saw'
   source: In Plain Sight
   location: ch27:21808-21955
   claim_id: 9bd8669e-e655-4ed8-b916-a224fd85b72b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
+  copyright_status: restricted
 - text: 'Coulthart: Wright-Patterson is the most mythologised air force base in US
     UFO history'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -384,6 +418,7 @@ references:
   claim_id: 7ab74238-89f4-4f3c-9b91-35befcfe8ac3
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-7ab74238-89f4-4f3c-9b91-35befcfe8ac3
+  copyright_status: publicly_accessible
 - text: Vallée alerted Hynek to the March 1966 Michigan sightings; Hynek called Blue
     Book
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -392,6 +427,7 @@ references:
   claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
+  copyright_status: restricted
 - text: Blue Book officer initially uninterested, per Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -399,6 +435,7 @@ references:
   claim_id: ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
+  copyright_status: restricted
 - text: Operation Blue Fly proposed to deliver recovered objects to the Foreign Technology
     Division
   source: In Plain Sight
@@ -406,6 +443,7 @@ references:
   claim_id: 8e0d8781-d634-4990-b713-58afff5960f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e0d8781-d634-4990-b713-58afff5960f4
+  copyright_status: restricted
 - text: Eric Henry Wang ran special projects at Wright-Patterson
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:32:23.2-01:32:26.0
@@ -413,6 +451,7 @@ references:
   claim_id: e22118d8-b0e5-40c7-a6c1-c107717b114f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e22118d8-b0e5-40c7-a6c1-c107717b114f
+  copyright_status: publicly_accessible
 - text: 'Elizondo: Davis and colleagues familiar with a rumoured TRW crash-retrieval
     programme'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -420,18 +459,21 @@ references:
   claim_id: 53cadf97-5e8c-4d12-84dc-9e262df25d59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53cadf97-5e8c-4d12-84dc-9e262df25d59
+  copyright_status: restricted
 - text: Wright-Patterson laboratory formerly known as the Foreign Technology Division
   source: In Plain Sight
   location: ch20:8119-8216
   claim_id: 5097414c-ff8d-4470-bfc2-eacb1dfd09c6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5097414c-ff8d-4470-bfc2-eacb1dfd09c6
+  copyright_status: restricted
 - text: Whistleblowers claim laboratory houses recovered alien craft; military denies
   source: In Plain Sight
   location: ch20:8226-8437
   claim_id: 36f6a1b5-451f-4e64-b8ab-a09105a60315
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36f6a1b5-451f-4e64-b8ab-a09105a60315
+  copyright_status: restricted
 - text: Fowler's character check on a GTE Sylvania manager traced to Wright Field
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -443,12 +485,14 @@ references:
   claim_id: 8d4f57f7-6a0b-4fa1-a5b8-74d065b38a8c
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-8d4f57f7-6a0b-4fa1-a5b8-74d065b38a8c
+  copyright_status: publicly_accessible
 - text: Wright-Patterson recipient of 1956 Takala UAP landing cables
   source: In Plain Sight
   location: ch9:3948-4018
   claim_id: a76b00d8-a8fb-42e6-b924-de31b0d72c5e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a76b00d8-a8fb-42e6-b924-de31b0d72c5e
+  copyright_status: restricted
 - text: 'Ramsay: Google Trends spike for ''Immaculate Constellation'' near the base,
     June 2023'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -460,6 +504,7 @@ references:
   claim_id: a3b7adb7-87e7-4923-9868-8aaf47cbeaff
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-a3b7adb7-87e7-4923-9868-8aaf47cbeaff
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

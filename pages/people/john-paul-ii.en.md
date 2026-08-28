@@ -369,42 +369,49 @@ references:
   claim_id: 002c1430-d9b8-4630-92d1-13614eb3ec3a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-002c1430-d9b8-4630-92d1-13614eb3ec3a
+  copyright_status: restricted
 - text: Chose the papal name John Paul II to follow his predecessor
   source: The Fatima Secret
   location: ch18:864-955
   claim_id: a57d889f-cbe6-4c9a-8ef2-f33c8a760501
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a57d889f-cbe6-4c9a-8ef2-f33c8a760501
+  copyright_status: restricted
 - text: Born 1920-05-18 during a solar eclipse
   source: The Fatima Secret
   location: ch21:11598-11637
   claim_id: a5bb7aff-dbac-4476-870e-662e4e26d41d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a5bb7aff-dbac-4476-870e-662e4e26d41d
+  copyright_status: restricted
 - text: Declared he wanted to become a Marian pope
   source: The Fatima Secret
   location: ch18:968-1014
   claim_id: 86075c6f-fee3-4bfd-abab-9b32ab383e54
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-86075c6f-fee3-4bfd-abab-9b32ab383e54
+  copyright_status: restricted
 - text: Announced he would use the letter M for Mary on his papal seal
   source: The Fatima Secret
   location: ch18:1023-1074
   claim_id: 46b96198-e3dc-45c7-a180-0198c52626eb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-46b96198-e3dc-45c7-a180-0198c52626eb
+  copyright_status: restricted
 - text: One of five popes who kept the Third Secret of Fatima locked away
   source: The Fatima Secret
   location: ch18:3861-3985
   claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-22d9a161-c1d4-45a7-85b9-32bbb274ab96
+  copyright_status: restricted
 - text: Said he regarded himself as the Fatima pope, a title once given to Pius XII
   source: The Fatima Secret
   location: ch19:6373-6493
   claim_id: b5d67698-14ee-455c-86a9-22509d0b2184
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b5d67698-14ee-455c-86a9-22509d0b2184
+  copyright_status: restricted
 - text: Shot in St Peter's Square on 1981-05-13, the anniversary of the first Fatima
     apparition
   source: The Fatima Secret
@@ -412,42 +419,49 @@ references:
   claim_id: 449736fe-aeb2-494f-8c4e-f5fee3cd5d7b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-449736fe-aeb2-494f-8c4e-f5fee3cd5d7b
+  copyright_status: restricted
 - text: Over forty thousand people waiting in St Peter's Square
   source: The Fatima Secret
   location: ch19:947-1033
   claim_id: 6f8f170e-d107-40c0-9e3a-0481b36f21aa
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6f8f170e-d107-40c0-9e3a-0481b36f21aa
+  copyright_status: restricted
 - text: Shots fired at exactly 5:17 PM
   source: The Fatima Secret
   location: ch19:1649-1711
   claim_id: b71813ab-0b9a-43b8-a5da-174475b018c4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b71813ab-0b9a-43b8-a5da-174475b018c4
+  copyright_status: restricted
 - text: Struck, white robe stained with blood
   source: The Fatima Secret
   location: ch19:1774-1886
   claim_id: 53ce9a84-3b6f-4eb9-9a57-caab87add4c0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-53ce9a84-3b6f-4eb9-9a57-caab87add4c0
+  copyright_status: restricted
 - text: Ağca aimed from a squatting position
   source: The Fatima Secret
   location: ch19:3341-3416
   claim_id: 956d8888-9fd0-4cf0-92cd-5b13d04af90c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-956d8888-9fd0-4cf0-92cd-5b13d04af90c
+  copyright_status: restricted
 - text: Ağca announced intention to kill the pope during 1980 Turkey visit
   source: The Fatima Secret
   location: ch19:4171-4256
   claim_id: 73932c44-d154-42e0-bd8d-bcd74e52b6ee
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-73932c44-d154-42e0-bd8d-bcd74e52b6ee
+  copyright_status: restricted
 - text: Ambulance took him to hospital ten minutes after first aid
   source: The Fatima Secret
   location: ch19:2072-2230
   claim_id: ae17f2f8-de01-402b-a362-c90afe4b12fe
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ae17f2f8-de01-402b-a362-c90afe4b12fe
+  copyright_status: restricted
 - text: Three surgeons operated for five hours twenty minutes; blood pressure very
     low
   source: The Fatima Secret
@@ -455,30 +469,35 @@ references:
   claim_id: e16a7f63-87db-40fa-86d1-8c3ca06dee8f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e16a7f63-87db-40fa-86d1-8c3ca06dee8f
+  copyright_status: restricted
 - text: Carotid artery escaped damage by a small margin; no vital organs hurt
   source: The Fatima Secret
   location: ch19:2696-2828
   claim_id: 98c1cdde-2f2b-4817-8b04-c38b41f06dad
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98c1cdde-2f2b-4817-8b04-c38b41f06dad
+  copyright_status: restricted
 - text: 'First words on regaining consciousness: ''I forgive him'''
   source: The Fatima Secret
   location: ch19:3060-3188
   claim_id: 1d7d007e-dade-4162-a9b9-7c97d81a55c1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1d7d007e-dade-4162-a9b9-7c97d81a55c1
+  copyright_status: restricted
 - text: Believed the Mother of God saved him by causing him to move
   source: The Fatima Secret
   location: ch19:4733-4960
   claim_id: 11befa5b-4c10-4860-81e7-9254f40fda22
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-11befa5b-4c10-4860-81e7-9254f40fda22
+  copyright_status: restricted
 - text: 'KGB files: Russia''s attitude toward the pope in 1979 was severe'
   source: The Fatima Secret
   location: ch19:13881-14070
   claim_id: 82e20924-3a8f-46e1-b506-450ad01d3c02
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-82e20924-3a8f-46e1-b506-450ad01d3c02
+  copyright_status: restricted
 - text: 1979-11-13 memorandum advised the KGB to take all possible measures against
     the pope
   source: The Fatima Secret
@@ -486,18 +505,21 @@ references:
   claim_id: 1f7c7ee5-e20a-4808-84d6-2e0e9077c984
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1f7c7ee5-e20a-4808-84d6-2e0e9077c984
+  copyright_status: restricted
 - text: Released from hospital 1981-08-14
   source: The Fatima Secret
   location: ch19:4968-5128
   claim_id: 0250e38b-39f1-46b9-a980-805a7f0ae592
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0250e38b-39f1-46b9-a980-805a7f0ae592
+  copyright_status: restricted
 - text: Went first to the Crypt of St Peter's Basilica to pray
   source: The Fatima Secret
   location: ch19:5037-5128
   claim_id: 9e6b4c9a-f905-4ca4-9691-050c8e904780
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-9e6b4c9a-f905-4ca4-9691-050c8e904780
+  copyright_status: restricted
 - text: Put the bullet that nearly killed him into the crown of a statue of Our Lady
     of Fatima
   source: American Cosmic
@@ -505,18 +527,21 @@ references:
   claim_id: 1781f7ce-6be6-43d2-b29b-d85fe858d3e4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1781f7ce-6be6-43d2-b29b-d85fe858d3e4
+  copyright_status: restricted
 - text: Asked Bishop Pavel Hnilica for the complete Fatima documentation
   source: The Fatima Secret
   location: ch19:5439-5611
   claim_id: 233302ed-026e-4dfd-a50d-0cdd26726337
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-233302ed-026e-4dfd-a50d-0cdd26726337
+  copyright_status: restricted
 - text: Hnilica brought the documentation, which the pope read carefully
   source: The Fatima Secret
   location: ch19:5620-5775
   claim_id: 5e4bd8f9-4ca6-467b-b868-fd50aeedbcd0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5e4bd8f9-4ca6-467b-b868-fd50aeedbcd0
+  copyright_status: restricted
 - text: Ordered a church built in a forest bordering the Soviet Union with a statue
     facing it
   source: The Fatima Secret
@@ -524,12 +549,14 @@ references:
   claim_id: 6e6d1074-c5d1-4d49-b87c-6a3d10e3676e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6e6d1074-c5d1-4d49-b87c-6a3d10e3676e
+  copyright_status: restricted
 - text: Told Hnilica only the conversion of Russia could save the world from war
   source: The Fatima Secret
   location: ch19:6203-6363
   claim_id: d7df1013-cb29-45a2-88f1-4d92011df31f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d7df1013-cb29-45a2-88f1-4d92011df31f
+  copyright_status: restricted
 - text: Had the Third Secret brought to him and opened the envelope in Ratzinger's
     presence
   source: The Fatima Secret
@@ -537,24 +564,28 @@ references:
   claim_id: 335da2e4-8d7d-43cb-86f9-c52cb5f087c7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-335da2e4-8d7d-43cb-86f9-c52cb5f087c7
+  copyright_status: restricted
 - text: Decided to go on pilgrimage to Fatima to meet Sister Lúcia on the first anniversary
   source: The Fatima Secret
   location: ch19:6591-6714
   claim_id: 280d2e96-d908-4e48-8597-8585b8e9d2d1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-280d2e96-d908-4e48-8597-8585b8e9d2d1
+  copyright_status: restricted
 - text: Arrived in Lisbon in the early afternoon of 1982-05-12
   source: The Fatima Secret
   location: ch19:7209-7274
   claim_id: c8efac64-71f0-42af-8146-5cf70c48186c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c8efac64-71f0-42af-8146-5cf70c48186c
+  copyright_status: restricted
 - text: Met President Eanes at Belém Palace before leaving for Fatima by helicopter
   source: The Fatima Secret
   location: ch19:7516-7594
   claim_id: 4cbc957e-9155-4fa1-a234-94e14c99381d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4cbc957e-9155-4fa1-a234-94e14c99381d
+  copyright_status: restricted
 - text: Said he came because a year earlier, on the anniversary of the first apparition,
     he was nearly assassinated
   source: The Fatima Secret
@@ -562,48 +593,56 @@ references:
   claim_id: 8f51253f-9af3-4307-a59d-21dd0deaeb7e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8f51253f-9af3-4307-a59d-21dd0deaeb7e
+  copyright_status: restricted
 - text: Spoke to Sister Lúcia alone for almost half an hour
   source: The Fatima Secret
   location: ch19:10465-10512
   claim_id: 187b7d68-07c4-46a2-95b1-30ff8fa728c9
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-187b7d68-07c4-46a2-95b1-30ff8fa728c9
+  copyright_status: restricted
 - text: Lúcia said the consecration he had performed was not valid
   source: The Fatima Secret
   location: ch19:10518-10724
   claim_id: c710e82c-444e-40c7-8e11-66ccca8e7248
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c710e82c-444e-40c7-8e11-66ccca8e7248
+  copyright_status: restricted
 - text: Promised to perform the correct consecration ceremony
   source: The Fatima Secret
   location: ch19:10731-10820
   claim_id: 8f77971f-fdf6-4ca3-9d0d-f46d4a2037ae
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8f77971f-fdf6-4ca3-9d0d-f46d4a2037ae
+  copyright_status: restricted
 - text: 1983-12-08 letter inviting bishops to join the 1984-03-25 consecration
   source: The Fatima Secret
   location: ch19:10827-11051
   claim_id: e5e04233-7b4b-478e-b859-4f64909ed5ad
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e5e04233-7b4b-478e-b859-4f64909ed5ad
+  copyright_status: restricted
 - text: Letter contained the consecration prayer, composed with Lúcia
   source: The Fatima Secret
   location: ch19:11057-11166
   claim_id: de886704-abcc-4d48-9ac6-c5f191b875dd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-de886704-abcc-4d48-9ac6-c5f191b875dd
+  copyright_status: restricted
 - text: Consecration prayer added 'particularly Russia' almost inaudibly
   source: The Fatima Secret
   location: ch19:11494-11679
   claim_id: 7bde78c8-d831-4234-9949-5632e81c8c5d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7bde78c8-d831-4234-9949-5632e81c8c5d
+  copyright_status: restricted
 - text: Prayer asked for protection from atomic war
   source: The Fatima Secret
   location: ch19:11890-11973
   claim_id: b4801c71-251a-40af-aede-0837334e2805
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b4801c71-251a-40af-aede-0837334e2805
+  copyright_status: restricted
 - text: Performed the consecration of Russia to the Immaculate Heart of Mary
   source: The Fatima Secret
   location: ch25:906-971
@@ -611,84 +650,98 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-64972a11-b345-474e-8a72-3e81dde7a218
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-64972a11-b345-474e-8a72-3e81dde7a218
+  copyright_status: restricted
 - text: Eventually carried out the consecration, first in secret then openly
   source: The Fatima Secret
   location: ch24:21581-21752
   claim_id: 1e5addc1-31c2-4bd9-9bdf-a50eebf6f4f3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1e5addc1-31c2-4bd9-9bdf-a50eebf6f4f3
+  copyright_status: restricted
 - text: Held ceremony at the Roman Coliseum honouring 'new martyrs'
   source: The Fatima Secret
   location: ch24:4807-5025
   claim_id: f4e5e9d0-6900-4a3b-9701-131b721a0ff3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f4e5e9d0-6900-4a3b-9701-131b721a0ff3
+  copyright_status: restricted
 - text: Said final prayer after three hours, in heavy rain
   source: The Fatima Secret
   location: ch24:5618-5743
   claim_id: d5a6b451-2cdb-4f39-9c20-01b1232cc062
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d5a6b451-2cdb-4f39-9c20-01b1232cc062
+  copyright_status: restricted
 - text: Arrived at Fatima on the evening of 2000-05-12, appearing exhausted
   source: The Fatima Secret
   location: ch24:6028-6220
   claim_id: ad124bff-577a-4c75-a08a-328f475ac36f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ad124bff-577a-4c75-a08a-328f475ac36f
+  copyright_status: restricted
 - text: Met by President Jorge Sampaio at Lisbon Airport
   source: The Fatima Secret
   location: ch24:6228-6289
   claim_id: c8acdb55-655a-4c7e-aeb6-73209de43154
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c8acdb55-655a-4c7e-aeb6-73209de43154
+  copyright_status: restricted
 - text: Children from the hospital where Jacinta Marto died greeted him
   source: The Fatima Secret
   location: ch24:6298-6454
   claim_id: 3f8813e6-d388-4128-88be-c69e5e229848
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3f8813e6-d388-4128-88be-c69e5e229848
+  copyright_status: restricted
 - text: Half a million people gathered at Fatima
   source: The Fatima Secret
   location: ch24:6463-6727
   claim_id: 3bc03b2d-b6fe-4842-9e0c-203f25b05aa5
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3bc03b2d-b6fe-4842-9e0c-203f25b05aa5
+  copyright_status: restricted
 - text: Beatified Jacinta and Francisco Marto in 2000
   source: The Fatima Secret
   location: ch18:15798-15831
   claim_id: 95ee8420-87a4-4762-a1fb-36016cf6c60d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-95ee8420-87a4-4762-a1fb-36016cf6c60d
+  copyright_status: restricted
 - text: Met the 93-year-old Lúcia in the sacristy an hour before the ceremony
   source: The Fatima Secret
   location: ch24:8486-8698
   claim_id: 7cfbcc46-f64f-4415-8f2d-cf88d40cb555
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7cfbcc46-f64f-4415-8f2d-cf88d40cb555
+  copyright_status: restricted
 - text: Statue carried in procession; John Paul II and Lúcia entered to the crowd
   source: The Fatima Secret
   location: ch24:9461-9627
   claim_id: 873c7657-f1ff-446c-9235-09dca3920acd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-873c7657-f1ff-446c-9235-09dca3920acd
+  copyright_status: restricted
 - text: Over 600,000 people packed the rotunda at 8:30 a.m.
   source: The Fatima Secret
   location: ch24:8347-8473
   claim_id: 4ddd4b0a-d5b8-4373-8c5b-2e9b6afb2841
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4ddd4b0a-d5b8-4373-8c5b-2e9b6afb2841
+  copyright_status: restricted
 - text: Sodano announced the pope's order to reveal the Third Secret
   source: The Fatima Secret
   location: ch24:10379-10721
   claim_id: 333bf916-5772-4ffa-b63e-f243f73ce420
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-333bf916-5772-4ffa-b63e-f243f73ce420
+  copyright_status: restricted
 - text: Onlookers saw a look of satisfaction on the pope's face
   source: The Fatima Secret
   location: ch24:11095-11251
   claim_id: 6fc91f77-acba-40a1-80e5-2ef8d841754f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6fc91f77-acba-40a1-80e5-2ef8d841754f
+  copyright_status: restricted
 - text: Third Secret published 2000-06-26 as ordered
   source: The Fatima Secret
   location: ch24:13920-14054
@@ -696,48 +749,56 @@ references:
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
   inspection_url: /records/2000-11-28-ebook-the-fatima-secret#claim-49811d1e-2d1b-45e1-af0a-8ad01fbcbab5
+  copyright_status: restricted
 - text: Informed Ratzinger of the plan to release the Secret with commentary
   source: The Fatima Secret
   location: ch24:14589-14788
   claim_id: 13ac8d53-bdb0-4f8f-9765-9287f4674c0f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-13ac8d53-bdb0-4f8f-9765-9287f4674c0f
+  copyright_status: restricted
 - text: Ağca pardoned by Italy's president on 2000-06-14
   source: The Fatima Secret
   location: ch24:17001-17099
   claim_id: 83b5ae9b-f087-4da3-83e9-f63cd202f745
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-83b5ae9b-f087-4da3-83e9-f63cd202f745
+  copyright_status: restricted
 - text: Pardon discussed with the Vatican beforehand, supported by the pope
   source: The Fatima Secret
   location: ch24:17106-17174
   claim_id: c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
+  copyright_status: restricted
 - text: 'Hesemann: end of the Soviet Union began within a year of his election'
   source: The Fatima Secret
   location: ch7:9373-9513
   claim_id: 7dcc4c3b-7bdc-4975-820b-461aedc54732
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7dcc4c3b-7bdc-4975-820b-461aedc54732
+  copyright_status: restricted
 - text: His eyes filled with tears seeing pictures from Moscow on 1991-12-31
   source: The Fatima Secret
   location: ch19:23853-23926
   claim_id: 353525f8-a934-4525-a9d8-2188e8733da4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-353525f8-a934-4525-a9d8-2188e8733da4
+  copyright_status: restricted
 - text: Considered that the Virgin Mary had kept her promise when the Soviet era ended
   source: The Fatima Secret
   location: ch24:13623-13756
   claim_id: 60a35151-c54b-428e-88c6-b65f4027b32c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-60a35151-c54b-428e-88c6-b65f4027b32c
+  copyright_status: restricted
 - text: During his Mexico City visit, thousands filmed formations of luminous craft
   source: The Fatima Secret
   location: ch5:4660-4841
   claim_id: 7e9fc104-851a-4a1c-99fc-170a23f49e5f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7e9fc104-851a-4a1c-99fc-170a23f49e5f
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

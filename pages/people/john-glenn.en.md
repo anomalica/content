@@ -43,6 +43,7 @@ references:
   claim_id: bfc06456-e363-460a-9041-aa06a24ff81f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bfc06456-e363-460a-9041-aa06a24ff81f
+  copyright_status: restricted
 - text: Glenn died in 2016
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -51,6 +52,7 @@ references:
   claim_id: 06ab15c0-0f45-44df-b3a8-777cd37a3966
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-06ab15c0-0f45-44df-b3a8-777cd37a3966
+  copyright_status: publicly_accessible
 - text: Glenn said he was uncomfortable being asked to say and deny things during
     the early space programme
   source: Dark Mission
@@ -58,6 +60,7 @@ references:
   claim_id: eed2b36e-d8e0-42c2-997d-0aa5a0030e43
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eed2b36e-d8e0-42c2-997d-0aa5a0030e43
+  copyright_status: restricted
 - text: Glenn said astronauts never gave the real answer about being alone, having
     seen strange things
   source: Dark Mission
@@ -65,42 +68,49 @@ references:
   claim_id: 40dae2d7-e31a-47a2-9006-c145e64cca83
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40dae2d7-e31a-47a2-9006-c145e64cca83
+  copyright_status: restricted
 - text: Glenn said NASA's bosses feared a War of the Worlds-type panic
   source: Dark Mission
   location: ch19:26835-26980
   claim_id: b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
+  copyright_status: restricted
 - text: Glenn said astronauts now only see those things in nightmares or films
   source: Dark Mission
   location: ch19:26987-27110
   claim_id: 50d2012e-b082-4fbb-bf51-8a947ffa6eaa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-50d2012e-b082-4fbb-bf51-8a947ffa6eaa
+  copyright_status: restricted
 - text: Glenn appeared on NBC's Frasier in March 2001, making not-so-subtle comments
   source: Dark Mission
   location: ch19:26343-26487
   claim_id: 4c5a70de-65bd-4705-b7c3-041fcd30e154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c5a70de-65bd-4705-b7c3-041fcd30e154
+  copyright_status: restricted
 - text: Oberg dismissed the comments as humour given the comedic context
   source: Dark Mission
   location: ch19:27202-27361
   claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
+  copyright_status: restricted
 - text: 'Hoagland: appearance had the earmarks of a straightforward Brookings revelation'
   source: Dark Mission
   location: ch19:27570-27657
   claim_id: 0cc95878-d679-4d20-806e-5fbb81e6bb21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0cc95878-d679-4d20-806e-5fbb81e6bb21
+  copyright_status: restricted
 - text: 'Hoagland: remarks a scathing indictment of NASA''s integrity'
   source: Dark Mission
   location: ch19:28164-28258
   claim_id: 7ce707c7-e147-4a72-b731-ceab20d0eaee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ce707c7-e147-4a72-b731-ceab20d0eaee
+  copyright_status: restricted
 - text: 'Reid: Glenn told him the federal government should look seriously into UFOs'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -112,6 +122,7 @@ references:
   claim_id: 75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
+  copyright_status: publicly_accessible
 - text: 'Reid: Glenn said the federal government should talk to pilots who saw unidentified
     aircraft'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -122,6 +133,7 @@ references:
   claim_id: a93673f9-3f0c-435c-84e0-66d263ff878f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a93673f9-3f0c-435c-84e0-66d263ff878f
+  copyright_status: publicly_accessible
 - text: 'Interview excerpt: Glenn doubted the Glenn effect was caused by frost off
     the capsule'
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -131,6 +143,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

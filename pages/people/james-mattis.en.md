@@ -99,24 +99,28 @@ references:
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+  copyright_status: restricted
 - text: Mattis was referred to within the Pentagon as SECDEF.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:18676-18770
   claim_id: 5be3b332-4dcb-4eed-ac71-1327179dbfd5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5be3b332-4dcb-4eed-ac71-1327179dbfd5
+  copyright_status: restricted
 - text: Mattis was nicknamed 'Mad Dog' and, by friends, 'Chaos'.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:18972-19086
   claim_id: 6846ce3d-ae5d-437c-b11d-85d04041b6d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6846ce3d-ae5d-437c-b11d-85d04041b6d3
+  copyright_status: restricted
 - text: Elizondo first met Mattis in 2001 in Kandahar, Afghanistan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:19219-19258
   claim_id: 9c54a59d-a8e5-478b-94fe-5c7b0582ca03
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9c54a59d-a8e5-478b-94fe-5c7b0582ca03
+  copyright_status: restricted
 - text: Elizondo served in Kandahar with Mattis during Operation Enduring Freedom,
     when Mattis was Marine Expeditionary Unit Commander.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -124,6 +128,7 @@ references:
   claim_id: 9aabac02-284f-4fcb-8389-b107a40b5999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aabac02-284f-4fcb-8389-b107a40b5999
+  copyright_status: restricted
 - text: Elizondo introduced Mattis to John Robert, who became one of Mattis's key
     aides.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -131,12 +136,14 @@ references:
   claim_id: 2001f5b3-7159-4a54-83ec-60ea3410e6a0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2001f5b3-7159-4a54-83ec-60ea3410e6a0
+  copyright_status: restricted
 - text: Elizondo became one of Mattis's off-the-books intelligence advisors.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:19526-19578
   claim_id: 5897c7dd-68d4-44fd-9974-ac57996f0241
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5897c7dd-68d4-44fd-9974-ac57996f0241
+  copyright_status: restricted
 - text: Elizondo, with John Robert, worked to ensure Mattis had the right information
     to make decisions.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -144,6 +151,7 @@ references:
   claim_id: 2bb6ab9d-ab1e-4992-b54b-3e2cba1af180
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2bb6ab9d-ab1e-4992-b54b-3e2cba1af180
+  copyright_status: restricted
 - text: Mattis commanded troops in a firefight in which his LAV convoy responded to
     rescue pinned-down soldiers.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -151,30 +159,35 @@ references:
   claim_id: f7229929-fc10-4c1a-a970-37b13c2c1f87
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f7229929-fc10-4c1a-a970-37b13c2c1f87
+  copyright_status: restricted
 - text: The LAV convoy led by Mattis was equipped with a 25 mm Bushmaster gun.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:20961-21064
   claim_id: 852c0600-9a5e-4cbc-8e7e-b46a5d0537c1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-852c0600-9a5e-4cbc-8e7e-b46a5d0537c1
+  copyright_status: restricted
 - text: Elizondo credits Mattis with saving many lives, including his own.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:21486-21537
   claim_id: d1feeb24-251c-488a-b70a-9d9e59b471c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1feeb24-251c-488a-b70a-9d9e59b471c2
+  copyright_status: restricted
 - text: Elizondo considers Mattis one of only five people he would follow into war.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:18884-18965
   claim_id: 4c2e4ddc-80d9-465d-a6bf-c3129097295e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4c2e4ddc-80d9-465d-a6bf-c3129097295e
+  copyright_status: restricted
 - text: Elizondo considers Mattis a man who wants more information rather than less.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:2834-2920
   claim_id: b11dae0b-bdb9-4a8f-aa4e-6e5e002c3266
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b11dae0b-bdb9-4a8f-aa4e-6e5e002c3266
+  copyright_status: restricted
 - text: Elizondo considered seeking a letter from the Secretary of Defense to compel
     an aerospace firm to grant access to nonhuman-origin materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -182,6 +195,7 @@ references:
   claim_id: dae923e5-e17c-4ed2-890c-a7aacda37723
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dae923e5-e17c-4ed2-890c-a7aacda37723
+  copyright_status: restricted
 - text: Elizondo wanted a letter from Mattis to secure access to the Legacy Program's
     UAP materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -189,6 +203,7 @@ references:
   claim_id: 87872273-febe-43e4-93c2-b0827b7bb85d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87872273-febe-43e4-93c2-b0827b7bb85d
+  copyright_status: restricted
 - text: Elizondo sought Mattis's clarity, as Secretary of Defense, on UAP incursions
     and range-safety issues.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -196,6 +211,7 @@ references:
   claim_id: c06a563c-5255-4bb5-a052-3e81ea22a44c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c06a563c-5255-4bb5-a052-3e81ea22a44c
+  copyright_status: restricted
 - text: Elizondo directed the Guantanamo Bay portfolio, with routine access to the
     Secretary of Defense's senior staff but not the secretary himself.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -203,6 +219,7 @@ references:
   claim_id: 2503cc17-3877-44e6-a458-76c493df4d7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2503cc17-3877-44e6-a458-76c493df4d7b
+  copyright_status: restricted
 - text: Mellon and Elizondo said F/A-18 pilots had testified about the Tic Tac UFO
     before very senior DoD staff in Mattis's suite.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -210,6 +227,7 @@ references:
   claim_id: 2165b97e-3fed-4a73-b6f8-cfb9b89e6136
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2165b97e-3fed-4a73-b6f8-cfb9b89e6136
+  copyright_status: restricted
 - text: A SECDEF liaison handling Elizondo's efforts to brief Mattis deferred to Brad
     Byers and Shari Smith.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -217,6 +235,7 @@ references:
   claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-93270cf4-8b2b-4173-a414-496de12b86b5
+  copyright_status: restricted
 - text: Byers was hesitant to brief Mattis until OUSD(I) had a permanent, Senate-confirmed
     appointee after Michael Vickers departed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -224,6 +243,7 @@ references:
   claim_id: 8d38261f-f9bd-4082-8855-60dfb2c1b6a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8d38261f-f9bd-4082-8855-60dfb2c1b6a1
+  copyright_status: restricted
 - text: Byers and Smith did not want Mattis put in a position where the press could
     ask him directly whether he had been briefed on UAP.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -231,6 +251,7 @@ references:
   claim_id: 2c49e05a-891c-4c3c-820f-2e27e7b1ca51
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2c49e05a-891c-4c3c-820f-2e27e7b1ca51
+  copyright_status: restricted
 - text: Mellon worked directly to help Elizondo get an audience with the Secretary
     of Defense.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -238,6 +259,7 @@ references:
   claim_id: 88320f97-81c4-46d5-b32a-dc5ab2dbc313
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-88320f97-81c4-46d5-b32a-dc5ab2dbc313
+  copyright_status: restricted
 - text: Mellon was friends with two men who worked directly with Mattis on a near
     daily basis.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -245,6 +267,7 @@ references:
   claim_id: 39b7f379-66de-479a-8f84-475a346ba65d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-39b7f379-66de-479a-8f84-475a346ba65d
+  copyright_status: restricted
 - text: Elizondo authorised Mellon to share his name with officials who could help
     Jay Stratton and Elizondo reach Mattis.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -252,6 +275,7 @@ references:
   claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd8add8d-8ec2-4651-89ef-0484ca06d58c
+  copyright_status: restricted
 - text: Nothing about the UAP briefing effort reached Mattis despite the extensive
     information gathering.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -259,6 +283,7 @@ references:
   claim_id: 79060c59-456c-4d72-a73f-9570fe90e969
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79060c59-456c-4d72-a73f-9570fe90e969
+  copyright_status: restricted
 - text: Elizondo believed personally calling Mattis to bypass the chain of command
     would have been insubordinate given Mattis's focus on chain-of-command authority.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -266,12 +291,14 @@ references:
   claim_id: 3f4f715c-cf6c-4985-b5ee-bd47689c9b54
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f4f715c-cf6c-4985-b5ee-bd47689c9b54
+  copyright_status: restricted
 - text: Elizondo's aim was to save Mattis.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:20253-20270
   claim_id: 9d946fa3-8df1-42dd-9ea6-ac3c66f482b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d946fa3-8df1-42dd-9ea6-ac3c66f482b5
+  copyright_status: restricted
 - text: Elizondo submitted his formal resignation letter, addressed to Mattis, by
     handing a paper copy to a colleague to deliver to the secretary's office.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -279,6 +306,7 @@ references:
   claim_id: 0e4e852f-1fe6-4a64-bf2c-50d96e6b2358
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0e4e852f-1fe6-4a64-bf2c-50d96e6b2358
+  copyright_status: restricted
 - text: 'Elizondo wrote two resignation letters: one for his chain of command and
     one addressed directly to Mattis.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -286,6 +314,7 @@ references:
   claim_id: 300d1e6a-9527-46a7-a7a6-e05a7b66b1c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-300d1e6a-9527-46a7-a7a6-e05a7b66b1c2
+  copyright_status: restricted
 - text: Elizondo deliberately addressed his resignation letter to Mattis so that no
     one in the Pentagon would be able to keep it from him.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -293,6 +322,7 @@ references:
   claim_id: e000ac63-ccad-4603-aac6-902c983d796f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e000ac63-ccad-4603-aac6-902c983d796f
+  copyright_status: restricted
 - text: Elizondo provided reporters with his resignation letter to Mattis, bearing
     the apparent seal of the Office of the Under Secretary of Defense.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -305,6 +335,7 @@ references:
   claim_id: 4944fd17-2c01-4a8c-94d1-9b32589c8341
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4944fd17-2c01-4a8c-94d1-9b32589c8341
+  copyright_status: publicly_accessible
 - text: Elizondo told Mattis there remained a vital need to ascertain capability and
     intent of unusual aerial phenomena for the benefit of the armed forces and the
     nation.
@@ -317,6 +348,7 @@ references:
   claim_id: 0d306054-7b43-42f1-8ddc-f66319f089b1
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-0d306054-7b43-42f1-8ddc-f66319f089b1
+  copyright_status: publicly_accessible
 - text: 'Elizondo wrote to Mattis: ''Why aren''t we spending more time and effort
     on this issue?'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -327,6 +359,7 @@ references:
   claim_id: 60521076-768a-4452-96e0-f18e2c70f4cd
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-60521076-768a-4452-96e0-f18e2c70f4cd
+  copyright_status: publicly_accessible
 - text: Elizondo's resignation memo to Mattis highlighted the urgent need to address
     UAP as it relates to US national security and nuclear weapons and technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -334,6 +367,7 @@ references:
   claim_id: 9076018a-ddcf-48d6-a909-bbcf1a90cdb8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9076018a-ddcf-48d6-a909-bbcf1a90cdb8
+  copyright_status: restricted
 - text: Aides told Mattis at the Pentagon's Christmas party that the New York Times
     was running a front-page story on a secret DoD UAP program and asking why Elizondo
     had resigned.
@@ -342,18 +376,21 @@ references:
   claim_id: 030b95ac-99f2-4d21-ac06-d32915135efd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-030b95ac-99f2-4d21-ac06-d32915135efd
+  copyright_status: restricted
 - text: Mattis was surprised to learn Elizondo had resigned two months earlier.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19303-19372
   claim_id: adc68570-9e06-4d89-8c57-d4d79070ef92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adc68570-9e06-4d89-8c57-d4d79070ef92
+  copyright_status: restricted
 - text: Garry Reid had withheld Elizondo's resignation from Mattis.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19379-19495
   claim_id: 0d1b40fa-2cfc-4abd-afd0-a9007250508d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d1b40fa-2cfc-4abd-afd0-a9007250508d
+  copyright_status: restricted
 - text: Mattis resigned as Secretary of Defense in January 2019 due to differences
     with the Trump administration.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -361,6 +398,7 @@ references:
   claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
+  copyright_status: restricted
 - text: After Mattis left the Pentagon, the AATIP narrative was reframed to portray
     Elizondo as a fabricator, and the Pentagon gave false information about his employment
     record.
@@ -369,6 +407,7 @@ references:
   claim_id: e3a5c7af-f647-4282-a10d-9320eca3f49d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e3a5c7af-f647-4282-a10d-9320eca3f49d
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

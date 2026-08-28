@@ -48,6 +48,7 @@ references:
   claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
+  copyright_status: restricted
 - text: Elizondo believes Truman, Eisenhower, Kennedy, Johnson, Carter, Reagan, Bush
     and Trump were each briefed in some way on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -55,6 +56,7 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  copyright_status: restricted
 - text: Elizondo has reason to believe the Strategic Defense Initiative was concerned
     with UAP, not just nuclear weapons
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -62,6 +64,7 @@ references:
   claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48e38691-af41-4320-8f3b-b20e58bf35bf
+  copyright_status: restricted
 - text: Reagan suggested to Gorbachev that the US and USSR should cooperate in the
     event of an alien invasion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -69,6 +72,7 @@ references:
   claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
+  copyright_status: restricted
 - text: In a UN speech, Reagan mused on how quickly differences would vanish facing
     an alien threat, and asked whether such a force might already be among us
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -76,6 +80,7 @@ references:
   claim_id: 45a56889-5bfc-4532-b859-7651e5213e1b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-45a56889-5bfc-4532-b859-7651e5213e1b
+  copyright_status: restricted
 - text: Coulthart said Robert Fish worked on classified programmes including Reagan's
     'Trust but Verify' treaty with the Soviets
   source: In Plain Sight
@@ -83,6 +88,7 @@ references:
   claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
+  copyright_status: restricted
 - text: James Baker was staff director in the Reagan administration
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:19:06.7-00:19:10.8
@@ -91,6 +97,7 @@ references:
   claim_id: 57a729b0-4a12-43a3-b116-5febab9549e3
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-57a729b0-4a12-43a3-b116-5febab9549e3
+  copyright_status: publicly_accessible
 - text: Samosa, citing Nick Redfern, said Baker was involved in a UFO briefing given
     to Reagan
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -102,6 +109,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
+  copyright_status: publicly_accessible
 - text: Samosa said the briefing included attendees from CIA DS&T, presumed to be
     Christopher Green's staff, plus the Collins Elite and a third group
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -112,6 +120,7 @@ references:
   claim_id: 9a46ae9f-96a6-421b-be1c-877c43e424f8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9a46ae9f-96a6-421b-be1c-877c43e424f8
+  copyright_status: publicly_accessible
 - text: Samosa's research indicates Nixon, Carter, Reagan and Bush all appear to have
     received UFO briefings
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -120,6 +129,7 @@ references:
   claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e72be749-9bc0-467a-b699-0ac87d60a67f
+  copyright_status: publicly_accessible
 - text: Samosa said Clinton and Obama lacked establishment ties that Reagan, Nixon
     and the Bush family had
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -131,6 +141,7 @@ references:
   claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7be64312-c7b5-4528-af89-1659f36042a5
+  copyright_status: publicly_accessible
 - text: Samosa said The Family (The Fellowship) kept a consistent presence at the
     centre of executive power through the Carter-to-Reagan transition
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -140,6 +151,7 @@ references:
   claim_id: 1c426333-5774-4174-bded-a0af4b6383c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1c426333-5774-4174-bded-a0af4b6383c4
+  copyright_status: publicly_accessible
 - text: Coulthart said an unnamed person present in the room confirmed Reagan's remark
     about Close Encounters of the Third Kind
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -150,6 +162,7 @@ references:
   claim_id: 693137a4-17ed-493b-8506-92619e8e8cf4
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-693137a4-17ed-493b-8506-92619e8e8cf4
+  copyright_status: publicly_accessible
 - text: Coulthart related that during a White House screening with Spielberg present,
     Reagan said a few people knew the film was true
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -162,6 +175,7 @@ references:
   claim_id: d5f5efd4-942f-47b1-9ee4-4109e115f591
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5f5efd4-942f-47b1-9ee4-4109e115f591
+  copyright_status: publicly_accessible
 - text: Mitchells said treating Reagan as UFO-focused ignores that the subject was
     under one per cent of his attention
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -172,6 +186,7 @@ references:
   claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-711f3e12-8676-4b21-8a84-879de4b93360
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

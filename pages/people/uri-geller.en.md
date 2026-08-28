@@ -182,6 +182,7 @@ references:
   claim_id: 279296ef-75e7-4469-a5b6-60a0ccf10062
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-279296ef-75e7-4469-a5b6-60a0ccf10062
+  copyright_status: restricted
 - text: Puharich, an American parapsychologist, brought Geller to the United States
     in 1971 and arranged for laboratory study at several institutions
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -190,6 +191,7 @@ references:
   claim_id: 0c42c55f-7f5d-4d4b-905c-037a1ad7d206
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c42c55f-7f5d-4d4b-905c-037a1ad7d206
+  copyright_status: restricted
 - text: Geller told SRI scientists SPECTRA's computers were fed millions of light-years
     in the future
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -198,6 +200,7 @@ references:
   claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7f75b7c-4b54-498c-b4c5-2c9434cf257f
+  copyright_status: restricted
 - text: Vallée had been in touch with Geller, an Israeli psychic, for over a year
     before meeting a similar contactee
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -206,6 +209,7 @@ references:
   claim_id: 2b06eb52-fed2-42d7-859c-a6c1b0e75981
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2b06eb52-fed2-42d7-859c-a6c1b0e75981
+  copyright_status: restricted
 - text: Geller said that at age three in Tel Aviv he saw a large shining bowl-shaped
     light in the sky
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -214,6 +218,7 @@ references:
   claim_id: 8ed0caee-592a-4279-9edb-27f6de6ed976
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8ed0caee-592a-4279-9edb-27f6de6ed976
+  copyright_status: restricted
 - text: Geller recalled a huge bright faceless figure holding the sun between its
     arms, whose brightness caused him to pass out
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -222,6 +227,7 @@ references:
   claim_id: 1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
+  copyright_status: restricted
 - text: Geller traces his paranormal abilities to exposure to a beam of light he says
     came from the sky
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -230,12 +236,14 @@ references:
   claim_id: b23c94d1-196e-48cc-88f1-dd85b0097232
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b23c94d1-196e-48cc-88f1-dd85b0097232
+  copyright_status: restricted
 - text: Geller has said his powers come from a form of consciousness he calls Hoova
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:26349-26437
   claim_id: 26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
+  copyright_status: restricted
 - text: Contacts between Puharich and SPECTRA/Hoova began when Puharich first hypnotised
     Geller on 1971-11-30
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -244,6 +252,7 @@ references:
   claim_id: 10463795-d081-4d39-a962-77d4e7e85f41
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10463795-d081-4d39-a962-77d4e7e85f41
+  copyright_status: restricted
 - text: Under hypnosis Geller said he found himself in a cave in Cyprus and had come
     there for learning
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -252,6 +261,7 @@ references:
   claim_id: 6675e9d3-bb81-4e34-bf86-9b1e00102308
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6675e9d3-bb81-4e34-bf86-9b1e00102308
+  copyright_status: restricted
 - text: A hypnosis-session voice said it revealed itself because of war plans by Egypt
     around the Six-Day War
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -260,6 +270,7 @@ references:
   claim_id: 789e570d-6af6-40e6-afc3-1d8e3bc28ef8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-789e570d-6af6-40e6-afc3-1d8e3bc28ef8
+  copyright_status: restricted
 - text: Puharich sometimes received messages from SPECTRA when Geller was not present
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -267,6 +278,7 @@ references:
   claim_id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6a8f477-a89b-4064-bdef-c4574cc7b03e
+  copyright_status: restricted
 - text: SPECTRA communicated in 1972 that it was a spacecraft stationed above the
     earth for eight hundred years
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -275,6 +287,7 @@ references:
   claim_id: f8a262a4-584d-4698-a862-085269ba7e02
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8a262a4-584d-4698-a862-085269ba7e02
+  copyright_status: restricted
 - text: Geller and Puharich took literally SPECTRA's taped messages about dematerialised
     atoms and a mass landing
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -283,6 +296,7 @@ references:
   claim_id: 84e78942-afcd-40ae-b66f-314175277e5f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-84e78942-afcd-40ae-b66f-314175277e5f
+  copyright_status: restricted
 - text: Geller and Puharich received SPECTRA messages predicting mass landings visible
     only to themselves
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -291,6 +305,7 @@ references:
   claim_id: ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
+  copyright_status: restricted
 - text: Geller and Puharich forecast massive flying saucer landings
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -298,6 +313,7 @@ references:
   claim_id: 4525f8ae-dd94-438e-9400-d6a2590c1c67
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4525f8ae-dd94-438e-9400-d6a2590c1c67
+  copyright_status: restricted
 - text: The magnetic tape of the 1972 SPECTRA communications disappeared after transcription
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -305,6 +321,7 @@ references:
   claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
+  copyright_status: restricted
 - text: Puharich wrote that a Prophet such as Geller is created to serve as intermediary
     between a divine intelligence and man
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -313,6 +330,7 @@ references:
   claim_id: c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
+  copyright_status: restricted
 - text: Puharich stated the relationship between the superior beings and himself and
     Geller continued to grow deeper
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -321,6 +339,7 @@ references:
   claim_id: 597e7465-548a-4f8d-b902-f4368e8d7e4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-597e7465-548a-4f8d-b902-f4368e8d7e4e
+  copyright_status: restricted
 - text: Puharich was committed to the idea that he and Geller were guided by a high
     source of wisdom
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -329,6 +348,7 @@ references:
   claim_id: 28413dcc-399a-4d98-8ea4-aba13c926696
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28413dcc-399a-4d98-8ea4-aba13c926696
+  copyright_status: restricted
 - text: Geller began receiving information through automatic writing in the form of
     tensor equations
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -337,6 +357,7 @@ references:
   claim_id: 057e1f3d-a37f-4c48-81bc-d4cbb5c45769
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e1f3d-a37f-4c48-81bc-d4cbb5c45769
+  copyright_status: restricted
 - text: Vallée argued both believers and sceptics were wrong, including Puharich's
     tapes and the Rhombus 4-D computer messages
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -345,6 +366,7 @@ references:
   claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
+  copyright_status: restricted
 - text: Vallée considered the cult around Puharich and Geller similar to other belief
     structures of the period
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -353,6 +375,7 @@ references:
   claim_id: 27185691-355b-439d-843f-23bf7485784b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-27185691-355b-439d-843f-23bf7485784b
+  copyright_status: restricted
 - text: The network of Geller devotees aroused the interest of several leading physicists
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -360,6 +383,7 @@ references:
   claim_id: e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
+  copyright_status: restricted
 - text: Jim Hurtak, a friend of Puharich, became involved in the Geller affair and
     claimed his own psychic and UFO experiences
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -367,6 +391,7 @@ references:
   claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
+  copyright_status: restricted
 - text: Dr. Armstrong, a leader of the sect around Mrs. Keech, later became involved
     in the Geller affair
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -375,6 +400,7 @@ references:
   claim_id: acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
+  copyright_status: restricted
 - text: Puharich described his latest experiences with Geller at a panel discussion
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -382,6 +408,7 @@ references:
   claim_id: ac973420-faad-48a0-acce-a3c0fe814497
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
+  copyright_status: restricted
 - text: Ira Einhorn gave the floor to Charles Muses to comment on Geller at the panel
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -389,6 +416,7 @@ references:
   claim_id: a3ec1f1a-df8d-4322-bda9-338197c98915
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3ec1f1a-df8d-4322-bda9-338197c98915
+  copyright_status: restricted
 - text: Professor Miklos, a Romanian researcher, offered Vallée a theory to help understand
     Geller
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -397,6 +425,7 @@ references:
   claim_id: b84b2660-e49c-4120-8d21-d309cc32211a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b84b2660-e49c-4120-8d21-d309cc32211a
+  copyright_status: restricted
 - text: Vallée and Geller had lunch in December 1972, and Vallée showed him Phoenician
     seals depicting a flying disk ritual
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -405,6 +434,7 @@ references:
   claim_id: 31a51f43-f6e7-49c1-8347-5849eb33ee1e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-31a51f43-f6e7-49c1-8347-5849eb33ee1e
+  copyright_status: restricted
 - text: Geller told Vallée, in confidence, details of his own close UFO encounters
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -412,6 +442,7 @@ references:
   claim_id: 432b561f-18c0-4f6f-b965-cb73a5241592
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-432b561f-18c0-4f6f-b965-cb73a5241592
+  copyright_status: restricted
 - text: Geller believed himself a secret contactee with an alien entity he did not
     want to name publicly
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -420,6 +451,7 @@ references:
   claim_id: fa132188-3bfd-4fe6-873e-18cea6d23f5a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fa132188-3bfd-4fe6-873e-18cea6d23f5a
+  copyright_status: restricted
 - text: Vallée asked whether Geller could contact the entity again to obtain a close
     observation as a test case
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -428,6 +460,7 @@ references:
   claim_id: 24499a5a-eb42-4c59-8995-50077def1cc7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-24499a5a-eb42-4c59-8995-50077def1cc7
+  copyright_status: restricted
 - text: Geller replied that the initiative for contact always came from the other
     side, not from him
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -436,6 +469,7 @@ references:
   claim_id: accec093-042f-4cd3-8c7a-210968ee3f5c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-accec093-042f-4cd3-8c7a-210968ee3f5c
+  copyright_status: restricted
 - text: Geller proposed conducting telepathic experiments with Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -443,6 +477,7 @@ references:
   claim_id: 2a52523e-33ae-4f25-893e-da240a1cd741
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2a52523e-33ae-4f25-893e-da240a1cd741
+  copyright_status: restricted
 - text: A physicist colleague handed Vallée a sealed envelope with a card depicting
     a whale target
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -451,6 +486,7 @@ references:
   claim_id: 5049b5ba-f019-429c-a44c-6d3c2992ad46
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5049b5ba-f019-429c-a44c-6d3c2992ad46
+  copyright_status: restricted
 - text: Geller received no clear image on the first telepathy attempt
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -458,6 +494,7 @@ references:
   claim_id: c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
+  copyright_status: restricted
 - text: In a second attempt Geller drew both a fish and a fountain, matching the two
     images Vallée sent
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -466,6 +503,7 @@ references:
   claim_id: 5895c4f4-8767-445b-99c8-2759171b232e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5895c4f4-8767-445b-99c8-2759171b232e
+  copyright_status: restricted
 - text: Vallée found the two-target test convincing since he alone knew two targets
     had been sent
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -474,6 +512,7 @@ references:
   claim_id: 3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
+  copyright_status: restricted
 - text: Geller asked a subject to select a three-digit number and write it on a board
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -481,6 +520,7 @@ references:
   claim_id: def8128b-bafe-40fc-b178-f71b56a1fa92
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-def8128b-bafe-40fc-b178-f71b56a1fa92
+  copyright_status: restricted
 - text: The subject wrote the digits 7, 2, and 5 on the board
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -488,6 +528,7 @@ references:
   claim_id: 6d722af5-63e0-4993-986e-187b9fbbb927
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6d722af5-63e0-4993-986e-187b9fbbb927
+  copyright_status: restricted
 - text: Geller, hidden by a screen, spelled out the same three digits he said he was
     mentally picking up
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -496,6 +537,7 @@ references:
   claim_id: 7bd265fc-cfb3-4ccc-b40d-a74024879c71
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7bd265fc-cfb3-4ccc-b40d-a74024879c71
+  copyright_status: restricted
 - text: Vallée independently wrote 726 on his own notepad and showed it to Janine
     Vallée
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -504,6 +546,7 @@ references:
   claim_id: 610c9482-63ec-4ae6-b674-7776a3eabca5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-610c9482-63ec-4ae6-b674-7776a3eabca5
+  copyright_status: restricted
 - text: Vallée privately asked whether Geller had played a word-forcing game, and
     Geller denied it
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -512,6 +555,7 @@ references:
   claim_id: 1cf4c868-4b56-48ff-88ac-945491aeadd3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1cf4c868-4b56-48ff-88ac-945491aeadd3
+  copyright_status: restricted
 - text: Vallée wrote the digits 8, 9, 2 and asked Geller to send only the last, which
     Geller wrote
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -520,6 +564,7 @@ references:
   claim_id: c036d66e-334d-4e8b-8576-3c9d92996d63
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c036d66e-334d-4e8b-8576-3c9d92996d63
+  copyright_status: restricted
 - text: Geller's hand-drawn 2 had the same unusual flat base as Vallée's own when
     the tracings were superimposed
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -528,6 +573,7 @@ references:
   claim_id: 12613c8e-3c1f-4faf-a40a-723a474e9ec7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-12613c8e-3c1f-4faf-a40a-723a474e9ec7
+  copyright_status: restricted
 - text: Geller told Vallée his specialty was producing phenomena with physical objects,
     citing a spoon
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -536,6 +582,7 @@ references:
   claim_id: 5916a906-5d84-453d-af49-0eca626a6f96
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5916a906-5d84-453d-af49-0eca626a6f96
+  copyright_status: restricted
 - text: Geller touched a spoon and it bent three times, folded back against the handle
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -543,6 +590,7 @@ references:
   claim_id: a6b10f89-6645-44e8-9e8c-e263bfbf483e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a6b10f89-6645-44e8-9e8c-e263bfbf483e
+  copyright_status: restricted
 - text: In a colour test Vallée switched his target from blue to yellow, and Geller
     reported yellow with one signal as blue
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -551,6 +599,7 @@ references:
   claim_id: 4d646bdb-20df-40df-a203-dc09357b0668
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4d646bdb-20df-40df-a203-dc09357b0668
+  copyright_status: restricted
 - text: At a Parapsychology Research Group of Palo Alto meeting, Geller did not bend
     metal to anyone's satisfaction
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -559,6 +608,7 @@ references:
   claim_id: bf22d449-86bf-4eec-991b-2e3191f4fd2b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf22d449-86bf-4eec-991b-2e3191f4fd2b
+  copyright_status: restricted
 - text: No demonstration of Geller's metal-bending had been done under strict laboratory
     control, though anecdotal evidence existed
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -567,6 +617,7 @@ references:
   claim_id: 595df9ed-8e8b-410f-8a33-c4d3a58ddfca
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-595df9ed-8e8b-410f-8a33-c4d3a58ddfca
+  copyright_status: restricted
 - text: Geller appeared capable of forcing subjects to pick certain numbers or words
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -574,6 +625,7 @@ references:
   claim_id: d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
+  copyright_status: restricted
 - text: A short series of telepathic tests convinced Vallée that Geller's abilities
     were genuine
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -582,6 +634,7 @@ references:
   claim_id: 99eac439-f12d-4ff1-beba-a6d9ce429ec4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-99eac439-f12d-4ff1-beba-a6d9ce429ec4
+  copyright_status: restricted
 - text: Vallée considered that although Geller used trickery at times, some phenomena
     around him were genuine
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -590,6 +643,7 @@ references:
   claim_id: 74451da5-3e23-4330-a259-d537ac26b2af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-74451da5-3e23-4330-a259-d537ac26b2af
+  copyright_status: restricted
 - text: Vallée classifies Joan of Arc, Joseph Smith, Edgar Cayce, and Geller as historical
     direct contactees
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -597,6 +651,7 @@ references:
   claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-195b98b9-8c81-48b0-889a-dfbebe0538d6
+  copyright_status: restricted
 - text: Rogerson noted that childhood stories like Cayce's and Geller's were common
     among accounts of mediums
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -605,6 +660,7 @@ references:
   claim_id: e445f3f2-babd-457c-875e-008ed61c0d68
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e445f3f2-babd-457c-875e-008ed61c0d68
+  copyright_status: restricted
 - text: Vallée proposed the Geller phenomenon was neither ordinary spiritualism nor
     necessarily space visitors, but a control system
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -613,6 +669,7 @@ references:
   claim_id: 3bb60852-7f05-469c-94da-023226673ab9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3bb60852-7f05-469c-94da-023226673ab9
+  copyright_status: restricted
 - text: Vallée suggested the 1899 Victor Hugo séance phenomena and those around Puharich
     and Geller share the same explanation
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -621,6 +678,7 @@ references:
   claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
+  copyright_status: restricted
 - text: Some of Geller's followers suggested he might be a Messiah
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -628,6 +686,7 @@ references:
   claim_id: 19b35acb-7c2d-437d-b494-9daeaff0ab83
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-19b35acb-7c2d-437d-b494-9daeaff0ab83
+  copyright_status: restricted
 - text: Vallée did not believe Geller to be a new Messiah
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -635,6 +694,7 @@ references:
   claim_id: 80f202d2-2fac-4ed2-aee3-994d0211c7b1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-80f202d2-2fac-4ed2-aee3-994d0211c7b1
+  copyright_status: restricted
 - text: Vallée discussed Geller's abilities with Gordon Creighton while driving through
     London in winter 1973
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -643,6 +703,7 @@ references:
   claim_id: 5b7a2bb8-e127-4728-93ce-dbdc2609bfb5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5b7a2bb8-e127-4728-93ce-dbdc2609bfb5
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

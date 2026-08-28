@@ -30,6 +30,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-943788f6-cbf0-4452-82d0-b42108a8530b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-943788f6-cbf0-4452-82d0-b42108a8530b
+  copyright_status: public_domain
 - text: Schmitt considered splitting the logging pages in the Flight Plan supplement
     a mistake.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -41,6 +42,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-63b71956-fc81-4cf9-a086-151be7f64599
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-63b71956-fc81-4cf9-a086-151be7f64599
+  copyright_status: public_domain
 - text: Schmitt found that the split pages were too thin and tended to fall out.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
   location: 00:01:02.8-00:01:10.4
@@ -51,6 +53,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-59de21e1-a33b-4c54-a2fa-aa802100a4fd
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-59de21e1-a33b-4c54-a2fa-aa802100a4fd
+  copyright_status: public_domain
 - text: Schmitt recommended avoiding the split or using heavier paper.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
   location: 00:01:11.1-00:01:18.4
@@ -61,6 +64,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-83d2d2e1-708c-409a-afd5-1c8d21fbf23c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-83d2d2e1-708c-409a-afd5-1c8d21fbf23c
+  copyright_status: public_domain
 - text: Schmitt considered the Apollo 17 Cuff Checklist excellent and said its photo
     maps were useful for identifying the crew's position.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -71,6 +75,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-41413de4-4cea-4060-bffc-8cdf58b0590f
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-41413de4-4cea-4060-bffc-8cdf58b0590f
+  copyright_status: public_domain
 - text: Schmitt said that the Cuff Checklist became more a learning item than a surface
     reference.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -85,6 +90,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-8f88b24d-d321-4a99-ae15-ea6774420dcc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-8f88b24d-d321-4a99-ae15-ea6774420dcc
+  copyright_status: public_domain
 - text: Schmitt praised the Apollo 17 Timeline Book and reported no problems with
     it.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -95,6 +101,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-7829018f-f715-4d79-9a9b-9cfb499c54d9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-7829018f-f715-4d79-9a9b-9cfb499c54d9
+  copyright_status: public_domain
 - text: Schmitt said Ronald Evans carried the burden of general flight planning for
     Cernan and Schmitt.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -105,6 +112,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-d9686b1d-a568-4bf9-9229-d511a8f4890e
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-d9686b1d-a568-4bf9-9229-d511a8f4890e
+  copyright_status: public_domain
 - text: Schmitt considered the Apollo 17 Flight Plan excellent and said its many requirements
     and experiments were integrated competently.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -116,6 +124,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-a4df525b-c6f9-441c-8c24-26df3e85a4a1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-a4df525b-c6f9-441c-8c24-26df3e85a4a1
+  copyright_status: public_domain
 - text: Schmitt experienced light flashes almost continuously during Apollo 17 when
     dark-adapted.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -127,6 +136,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-265263e7-bddd-43b2-953f-37869243d776
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-265263e7-bddd-43b2-953f-37869243d776
+  copyright_status: public_domain
 - text: Schmitt may have seen a light flash on the lunar surface during Apollo 17's
     first revolution.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -138,6 +148,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-1d4e0684-ba5b-4e66-acc1-3de386d82b3b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-1d4e0684-ba5b-4e66-acc1-3de386d82b3b
+  copyright_status: public_domain
 - text: No visible light flashes occurred during the crew's ALPMET blindfold period,
     and Schmitt noticed their return that evening.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -149,6 +160,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-e6a2adfc-4f11-4185-b85c-5d22d4ecedff
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-e6a2adfc-4f11-4185-b85c-5d22d4ecedff
+  copyright_status: public_domain
 - text: Schmitt said the light-flash phenomenon was absent for all three crewmen only
     during the interval around the ALPMET experiment.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -160,6 +172,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-0c5448a4-d511-4589-8a43-80890ee159dd
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-0c5448a4-d511-4589-8a43-80890ee159dd
+  copyright_status: public_domain
 - text: Schmitt reported losing weight during Apollo 17, with his weight still below
     pre-flight levels at the time of recording.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -172,6 +185,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-b7f38b42-7ccf-4271-94f1-f9482c6d5555
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-b7f38b42-7ccf-4271-94f1-f9482c6d5555
+  copyright_status: public_domain
 - text: Schmitt believed his medical log reports were generally valid and showed five
     and a half to six hours of sleep per night.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -185,6 +199,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-e9166eb9-0272-4089-aa0e-31a7190ac249
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-e9166eb9-0272-4089-aa0e-31a7190ac249
+  copyright_status: public_domain
 - text: Schmitt described reduced sensory perception of limb position in zero gravity
     when his limbs were static.
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -198,6 +213,7 @@ references:
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-69be9a50-9997-4070-9b3d-b26da40afe29
   inspection_url: /records/2026-07-11-audio-nasa-uap-d029-apollo-17-crew-medical-debriefing-continued#claim-69be9a50-9997-4070-9b3d-b26da40afe29
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

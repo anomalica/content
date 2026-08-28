@@ -67,6 +67,7 @@ references:
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9d673ad9-e774-4b7d-8315-6daae823096a
   inspection_url: /records/2019-ebook-american-cosmic#claim-9d673ad9-e774-4b7d-8315-6daae823096a
+  copyright_status: restricted
 - text: Pasulka's closed conference brought ufologists and scientists together with
     humanities scholars; Tyler D. was not invited
   source: American Cosmic
@@ -74,6 +75,7 @@ references:
   claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3ec14aeb-c155-4b86-bbcb-63a9e8e85438
+  copyright_status: restricted
 - text: The code of conduct for scientist-ufologists requires secrecy of sources and
     oaths, unlike academic norms
   source: American Cosmic
@@ -81,6 +83,7 @@ references:
   claim_id: 3e741d83-e0ee-49f8-b40a-4abdb4fb248c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3e741d83-e0ee-49f8-b40a-4abdb4fb248c
+  copyright_status: restricted
 - text: 'Ufology has two main schools of thought: material issues and subjective/spiritual
     issues'
   source: American Cosmic
@@ -88,6 +91,7 @@ references:
   claim_id: d5c7faf0-5a69-4bac-9ffa-50c672b5a168
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d5c7faf0-5a69-4bac-9ffa-50c672b5a168
+  copyright_status: restricted
 - text: 'The materialist school focuses on empirical effects: radiation burns, radar
     blips, sightings'
   source: American Cosmic
@@ -95,6 +99,7 @@ references:
   claim_id: 60487237-e780-4ee7-8524-cb78a7116a80
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-60487237-e780-4ee7-8524-cb78a7116a80
+  copyright_status: restricted
 - text: The other school arose with hypnotic regression and the contactee/abduction
     movements, focusing on experiencers
   source: American Cosmic
@@ -102,6 +107,7 @@ references:
   claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
+  copyright_status: restricted
 - text: Budd Hopkins was an American artist, author and ufologist
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 308
@@ -109,6 +115,7 @@ references:
   claim_id: 7a13c02e-cc4a-473b-ba16-6ebc4c24ecba
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a13c02e-cc4a-473b-ba16-6ebc4c24ecba
+  copyright_status: publicly_accessible
 - text: James Master said Jacques Vallée infuriates most ufologists by refusing a
     single explanation
   source: American Cosmic
@@ -116,6 +123,7 @@ references:
   claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
+  copyright_status: restricted
 - text: Massimo Teodorani and Eric Davis confirmed a parallel research tradition within
     ufology
   source: American Cosmic
@@ -123,12 +131,14 @@ references:
   claim_id: 2dd4645e-1949-44e3-8a49-6a91ff784eb5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2dd4645e-1949-44e3-8a49-6a91ff784eb5
+  copyright_status: restricted
 - text: Rey Hernandez said FREE is not an organisation devoted to ufology
   source: American Cosmic
   location: ch6:25345-25451
   claim_id: 0bbe09d2-9db9-4e26-bcad-d671da6fbadf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0bbe09d2-9db9-4e26-bcad-d671da6fbadf
+  copyright_status: restricted
 - text: Hernandez said the ufology paradigm has revealed little in sixty years; a
     Consciousness Paradigm is needed
   source: American Cosmic
@@ -136,6 +146,7 @@ references:
   claim_id: 0ed47736-5788-444b-8db6-831e63e3f052
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ed47736-5788-444b-8db6-831e63e3f052
+  copyright_status: restricted
 - text: Disclosure means UFOs have revealed themselves, or public awareness of their
     presence
   source: American Cosmic
@@ -143,6 +154,7 @@ references:
   claim_id: d76c9f47-c3ec-4b03-9a43-5b18edc54313
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d76c9f47-c3ec-4b03-9a43-5b18edc54313
+  copyright_status: restricted
 - text: Vatican Observatory Jesuit scientists are not searching for UFOs or engaged
     in ufology
   source: American Cosmic
@@ -150,6 +162,7 @@ references:
   claim_id: eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
+  copyright_status: restricted
 - text: Samosa said the Vatican's role in the UFO subject is hinted at by researchers,
     then dropped
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -160,6 +173,7 @@ references:
   claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bc81cc5-32d4-4081-9ea1-ce240f1152a2
+  copyright_status: publicly_accessible
 - text: Pasulka related Denzler's finding that ufology is overwhelmingly white, male
     and over 90% Anglo-American
   source: American Cosmic
@@ -167,6 +181,7 @@ references:
   claim_id: a28466e4-1bea-4ee1-b339-2536b7550be9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a28466e4-1bea-4ee1-b339-2536b7550be9
+  copyright_status: restricted
 - text: Pasulka said historians of ufology overlook African American and Indigenous
     UFO traditions predating 1947
   source: American Cosmic
@@ -174,6 +189,7 @@ references:
   claim_id: 058c4153-c84b-4a97-9947-e2a6cd4b1db1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-058c4153-c84b-4a97-9947-e2a6cd4b1db1
+  copyright_status: restricted
 - text: 'Samosa: running a researcher as a source turns them passive rather than analytical'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:54:39.2-01:54:46.1
@@ -182,6 +198,7 @@ references:
   claim_id: 49b6a5b3-13a9-4741-b599-efd48f4935f8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-49b6a5b3-13a9-4741-b599-efd48f4935f8
+  copyright_status: publicly_accessible
 - text: 'Samosa: cultivating sources is cheap and, combined with disinformation, damaging'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:54:59.7-01:55:09.4
@@ -191,6 +208,7 @@ references:
   claim_id: d2dc7aae-f9bc-4a5d-8a8c-27a763799e57
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d2dc7aae-f9bc-4a5d-8a8c-27a763799e57
+  copyright_status: publicly_accessible
 - text: 'Samosa: neutralising a researcher works by building trust then feeding in
     untrue material'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -203,6 +221,7 @@ references:
   claim_id: 3030db14-5100-44c8-9d8f-f90e8c4d67b0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3030db14-5100-44c8-9d8f-f90e8c4d67b0
+  copyright_status: publicly_accessible
 - text: 'Samosa: researchers turning against each other is the easiest way to destroy
     the community'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -212,6 +231,7 @@ references:
   claim_id: ce0c8817-c392-455a-9c14-8f444b3f939c
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ce0c8817-c392-455a-9c14-8f444b3f939c
+  copyright_status: publicly_accessible
 - text: 'Mitchells: infighting makes the field look crazy and is itself manufactured
     division'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -221,6 +241,7 @@ references:
   claim_id: 3c3db63f-53a0-4edf-b84a-aafcc4635ee9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3c3db63f-53a0-4edf-b84a-aafcc4635ee9
+  copyright_status: publicly_accessible
 - text: 'Samosa: the disclosure movement has a life cycle needing different evangelists
     per stage'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -232,6 +253,7 @@ references:
   claim_id: 47f150d7-65f8-4abd-8814-9ad282b590a2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-47f150d7-65f8-4abd-8814-9ad282b590a2
+  copyright_status: publicly_accessible
 - text: 'Samosa: few people in the UK talk publicly about the UFO topic'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:58:23.2-01:58:26.8
@@ -240,6 +262,7 @@ references:
   claim_id: 01b2f048-4356-4270-895e-05e5b3d7f3cc
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-01b2f048-4356-4270-895e-05e5b3d7f3cc
+  copyright_status: publicly_accessible
 - text: Samosa worries about the religious component of the UFO subject and about
     dogma
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -249,6 +272,7 @@ references:
   claim_id: 013d9f15-86a6-4e0f-a520-649ec70aabb5
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-013d9f15-86a6-4e0f-a520-649ec70aabb5
+  copyright_status: publicly_accessible
 - text: 'Mitchells: cult creation around a single contactee, with prophecy, is a recurring
     pattern'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -259,6 +283,7 @@ references:
   claim_id: 23c255c7-50ed-4c23-835a-c5bd4e8660a0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-23c255c7-50ed-4c23-835a-c5bd4e8660a0
+  copyright_status: publicly_accessible
 - text: 'Mitchells: treating figures like Reagan as UFO-focused is a fallacy; the
     subject was under 1% of their attention'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -269,6 +294,7 @@ references:
   claim_id: 711f3e12-8676-4b21-8a84-879de4b93360
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-711f3e12-8676-4b21-8a84-879de4b93360
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

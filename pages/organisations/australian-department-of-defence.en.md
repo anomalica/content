@@ -175,12 +175,16 @@ references:
   location: Chapter 4, Australia DoD report section
   claim_id: 98dce38f-5aab-4702-990a-83e35e3db204
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
+  copyright_status: restricted
 - text: The Australian government holds thousands of UFO sighting reports going back
     decades, many once classified secret or top secret.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:45:18.1-00:45:31.1
   claim_id: 5d80c1a2-12e4-4602-9a61-afd68a009829
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
+  quote: The Australian government holds thousands of UFO sightings reports going
+    back decades, many of them once classified secret or top secret.
+  copyright_status: publicly_accessible
 - text: Ross Coulthart believes something anomalous is still happening at Northwest
     Cape near Exmouth, witnessed by people including personnel in the Australian Defence
     Department.
@@ -188,6 +192,10 @@ references:
   location: 00:31:45.7-00:32:12.4
   claim_id: f18ba371-24ca-449d-863a-8dc0037922ee
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
+  quote: I think that something extremely anomalous and unusual is still happening
+    up at Northwest Cape.... it has also been seen on multiple occasions by people
+    in our Defence Department.
+  copyright_status: publicly_accessible
 - text: When the 7NEWS team tried to film around the Northwest Cape base, the Australian
     Defence Department made them leave and pull back to a hill about 10 kilometres
     distant.
@@ -195,6 +203,10 @@ references:
   location: 00:36:16.1-00:36:49.8
   claim_id: 7ea382c7-63c7-4cb9-b392-3de4e156f8bb
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
+  quote: When we tried to go there and film around the base, the Defence Department
+    kicked us off.... I think we had to pull back to a hill which was about 10 kilometres
+    distant.
+  copyright_status: publicly_accessible
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

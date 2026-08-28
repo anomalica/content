@@ -418,6 +418,7 @@ references:
   claim_id: dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
+  copyright_status: restricted
 - text: Kean won a court case against NASA over documents relating to the 1965 Kecksburg,
     Pennsylvania UAP incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -425,6 +426,7 @@ references:
   claim_id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
+  copyright_status: restricted
 - text: Kean was one of three reporters on the 2017 New York Times story about Luis
     Elizondo, meeting him in a Washington, D.C. hotel
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -436,6 +438,7 @@ references:
   claim_id: 4ca93e5e-7af9-4227-b64b-6034322e896b
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4ca93e5e-7af9-4227-b64b-6034322e896b
+  copyright_status: publicly_accessible
 - text: Kean was summoned to a Washington, D.C. hotel lobby meeting to be introduced
     to Elizondo
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -445,6 +448,7 @@ references:
   claim_id: 3225efc5-1fc3-47b6-b908-9bc20b50f42d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-3225efc5-1fc3-47b6-b908-9bc20b50f42d
+  copyright_status: publicly_accessible
 - text: Christopher Mellon, Jim Semivan and Harold Puthoff were also present, in a
     hotel lobby near the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -452,12 +456,14 @@ references:
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+  copyright_status: restricted
 - text: The meeting with Elizondo, Mellon, Semivan and Puthoff lasted four hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
+  copyright_status: restricted
 - text: Kean was shown documents at the meeting that she found astonishing
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:12.7-00:13:15.2
@@ -465,6 +471,7 @@ references:
   claim_id: 2c137756-c87b-4c20-8950-770ba9b61786
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2c137756-c87b-4c20-8950-770ba9b61786
+  copyright_status: publicly_accessible
 - text: Kean reported a secret program studying unidentified objects had operated
     within the Pentagon for ten years from 2007, prior to the December 2017 NYT disclosure
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -475,12 +482,14 @@ references:
   claim_id: 4d09f78e-0621-4903-92bf-ca675bc55918
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-4d09f78e-0621-4903-92bf-ca675bc55918
+  copyright_status: publicly_accessible
 - text: That meeting was the first time Kean learned of the existence of AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8794-8855
   claim_id: 1771e972-7fca-40ad-8485-cc38b98f3f26
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
+  copyright_status: restricted
 - text: Elizondo later travelled to Philadelphia to meet Kean again, joined by Ralph
     Blumenthal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -488,6 +497,7 @@ references:
   claim_id: a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
+  copyright_status: restricted
 - text: The three noticed two men with military-style haircuts watching them, believed
     to be an AFOSI surveillance team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -495,6 +505,7 @@ references:
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
+  copyright_status: restricted
 - text: Kean photographed one of the surveillance men after he discovered them watching
     him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -502,6 +513,7 @@ references:
   claim_id: e328bde1-ead1-4f0e-8da7-0354d65c946a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
+  copyright_status: restricted
 - text: David Charles Grusch provided DOPSR with the information he intended to disclose
     to Kean and Blumenthal
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -512,6 +524,7 @@ references:
   claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
+  copyright_status: publicly_accessible
 - text: Grusch's on-the-record statements were cleared for open publication on 2023-04-04
     and 2023-04-06
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -521,6 +534,7 @@ references:
   claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-d49ccf7a-403b-40a3-b189-65144609fca4
+  copyright_status: publicly_accessible
 - text: A House Permanent Select Committee on Intelligence representative told Kean
     and Blumenthal in March 2023 that members could not comment on a complaint or
     confirm a complainant's identity
@@ -532,6 +546,7 @@ references:
   claim_id: 93762162-d016-4241-8d1d-5757a48b3ca5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-93762162-d016-4241-8d1d-5757a48b3ca5
+  copyright_status: publicly_accessible
 - text: Kean said covering UFO crash retrievals has been particularly difficult to
     get published in the NYT
   source: In Plain Sight
@@ -539,6 +554,7 @@ references:
   claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
+  copyright_status: restricted
 - text: Ross Coulthart said Kean and Blumenthal indicated they believe there is substance
     to allegations the US government has recovered alien spacecraft
   source: In Plain Sight
@@ -546,6 +562,7 @@ references:
   claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32
+  copyright_status: restricted
 - text: Kean wrote that veridical out-of-body experiences indicate aware minds exist
     independently of the brain and body
   source: Surviving Death
@@ -553,6 +570,7 @@ references:
   claim_id: 806d2154-63ec-4c24-a842-c52db8b0df80
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-806d2154-63ec-4c24-a842-c52db8b0df80
+  copyright_status: restricted
 - text: In 2014 Kean travelled to Charlottesville, Virginia to review case files with
     Jim Tucker at the Division of Perceptual Studies
   source: Surviving Death
@@ -560,12 +578,14 @@ references:
   claim_id: fdd9e345-b2dc-491d-85d1-d63286c87b4c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fdd9e345-b2dc-491d-85d1-d63286c87b4c
+  copyright_status: restricted
 - text: James Leininger began exhibiting past-life statements before he turned two
   source: Surviving Death
   location: ch10:9996-10074
   claim_id: e40fa56b-1f61-462d-8de3-b0c060a2e10a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e40fa56b-1f61-462d-8de3-b0c060a2e10a
+  copyright_status: restricted
 - text: Leininger's memories matched the life of James M. Huston Jr., a WWII pilot
     who died in Japan in 1945
   source: Surviving Death
@@ -573,12 +593,14 @@ references:
   claim_id: 2019f215-8dfe-4582-801b-dc6048cefb6f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2019f215-8dfe-4582-801b-dc6048cefb6f
+  copyright_status: restricted
 - text: There was no connection between the Leininger and Huston families
   source: Surviving Death
   location: ch10:482-533
   claim_id: 13625a67-7bde-4328-a1a5-fed8a373f4b2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13625a67-7bde-4328-a1a5-fed8a373f4b2
+  copyright_status: restricted
 - text: Kean considers the evidence points toward Leininger remembering a previous
     existence rather than ESP
   source: Surviving Death
@@ -586,6 +608,7 @@ references:
   claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0291600-ed14-48be-bdaf-7d47a0606bf6
+  copyright_status: restricted
 - text: Kean agrees with Tucker's conclusion the case warrants serious consideration
     as evidence of continuity of consciousness
   source: Surviving Death
@@ -593,12 +616,14 @@ references:
   claim_id: 9d737208-c12f-4f6a-aa41-bbd053322931
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9d737208-c12f-4f6a-aa41-bbd053322931
+  copyright_status: restricted
 - text: Kean met Ryan Hammons in Warner, Oklahoma, when he was ten
   source: Surviving Death
   location: ch13:108-183
   claim_id: 0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
+  copyright_status: restricted
 - text: After returning to New York, Kean went through Cyndi Hammons's journal noting
     Ryan's statements from February 2010
   source: Surviving Death
@@ -606,30 +631,35 @@ references:
   claim_id: bfb1646f-f18b-42e7-b942-20a072a4fa3c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bfb1646f-f18b-42e7-b942-20a072a4fa3c
+  copyright_status: restricted
 - text: Kean verified each of Hammons's key statements using public records
   source: Surviving Death
   location: ch13:4728-4927
   claim_id: d4379b37-af5b-4dd0-965f-25bcb1887e04
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d4379b37-af5b-4dd0-965f-25bcb1887e04
+  copyright_status: restricted
 - text: Hammons made fifty-five accurate statements about Marty Martyn's life in total
   source: Surviving Death
   location: ch13:9127-9230
   claim_id: 02329896-cd27-44fc-bcd0-c24e5ac2b87f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-02329896-cd27-44fc-bcd0-c24e5ac2b87f
+  copyright_status: restricted
 - text: Hammons's claim about when Martyn's father died was incorrect
   source: Surviving Death
   location: ch13:10201-10318
   claim_id: 762a7574-585f-4fe2-b81c-9a4fdfe54b9c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-762a7574-585f-4fe2-b81c-9a4fdfe54b9c
+  copyright_status: restricted
 - text: Kean wrote that strict controls in mediumship readings can rule out cold reading
   source: Surviving Death
   location: ch23:5426-5708
   claim_id: 09e65c9b-4944-4c13-b3a7-b590a59e41d6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-09e65c9b-4944-4c13-b3a7-b590a59e41d6
+  copyright_status: restricted
 - text: Kean arranged a reading with Laura Lynne Jackson two months after emailing
     her, without giving her last name
   source: Surviving Death
@@ -637,6 +667,7 @@ references:
   claim_id: 553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
+  copyright_status: restricted
 - text: Jackson told Kean details about a male spirit that Kean says matched her late
     friend Budd Hopkins
   source: Surviving Death
@@ -644,24 +675,28 @@ references:
   claim_id: 024b2a6f-efe8-493c-a050-49cc15dd31cc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-024b2a6f-efe8-493c-a050-49cc15dd31cc
+  copyright_status: restricted
 - text: Jackson recognised a male on Kean's father's side as her brother
   source: Surviving Death
   location: ch23:16598-16715
   claim_id: 3ff93790-2676-466c-b0fd-d487ce456ee6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3ff93790-2676-466c-b0fd-d487ce456ee6
+  copyright_status: restricted
 - text: The brother thanked Kean, through Jackson, for keeping his secret
   source: Surviving Death
   location: ch23:18499-18926
   claim_id: 2c02b7f3-7c90-407e-8847-3cb84c544abb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2c02b7f3-7c90-407e-8847-3cb84c544abb
+  copyright_status: restricted
 - text: Kean adopted the pseudonym Lesley Lay for her reading with Sandra O'Hara
   source: Surviving Death
   location: ch24:478-610
   claim_id: 9c011543-d94b-4d76-88cc-48d5b3afc40f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9c011543-d94b-4d76-88cc-48d5b3afc40f
+  copyright_status: restricted
 - text: O'Hara had no phone number, email, location or real name for Kean before the
     reading
   source: Surviving Death
@@ -669,12 +704,14 @@ references:
   claim_id: d833b7bf-7c45-4916-96bc-1678cd844f73
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d833b7bf-7c45-4916-96bc-1678cd844f73
+  copyright_status: restricted
 - text: Sandy Ingham whispered to Kean, "You kept my secret"
   source: Surviving Death
   location: ch24:13204-13344
   claim_id: ec7e2ed9-60ae-4a96-b21e-c79a3bc11e35
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ec7e2ed9-60ae-4a96-b21e-c79a3bc11e35
+  copyright_status: restricted
 - text: Kean received the message "Thank you for keeping my secret" from three mediums
     who had never spoken to each other
   source: Surviving Death
@@ -682,6 +719,7 @@ references:
   claim_id: dd9e6bdd-f134-4d5a-ac7e-a42833a08257
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd9e6bdd-f134-4d5a-ac7e-a42833a08257
+  copyright_status: restricted
 - text: During an apparition experience at her family's summer house, Kean said the
     figure dissolved into shimmering particles
   source: Surviving Death
@@ -689,6 +727,7 @@ references:
   claim_id: 4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
+  copyright_status: restricted
 - text: Kean said there is no scientifically viable way to resolve the LAP versus
     survival hypothesis debate for mental mediumship
   source: Surviving Death
@@ -697,6 +736,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

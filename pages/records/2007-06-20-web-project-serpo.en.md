@@ -28,6 +28,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
   inspection_url: /records/2007-06-20-web-project-serpo#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
+  copyright_status: publicly_accessible
 - text: The record describes Craig McPherson as a scientist and former employee of
     Area 51.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -40,6 +41,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
   inspection_url: /records/2007-06-20-web-project-serpo#claim-0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
+  copyright_status: publicly_accessible
 - text: A written agreement prevented the interview contents from being made public.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -51,6 +53,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3ac25e82-232c-421b-8a14-ff846d88768c
   inspection_url: /records/2007-06-20-web-project-serpo#claim-3ac25e82-232c-421b-8a14-ff846d88768c
+  copyright_status: publicly_accessible
 - text: A United States government source recorded the interview.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -61,6 +64,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-b219444b-7077-4d3f-8e9d-0cde5020364c
   inspection_url: /records/2007-06-20-web-project-serpo#claim-b219444b-7077-4d3f-8e9d-0cde5020364c
+  copyright_status: publicly_accessible
 - text: McPherson said he was hired by the United States Air Force as an Applied Physics
     Specialist in May 1956.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -72,6 +76,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-119d0de4-b742-46ad-820f-81c5278aeccd
   inspection_url: /records/2007-06-20-web-project-serpo#claim-119d0de4-b742-46ad-820f-81c5278aeccd
+  copyright_status: publicly_accessible
 - text: The source says McPherson worked at Area 51 from May 1956 until September
     1988.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -83,6 +88,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-911dc195-5a41-4d4e-86f7-32a73ab56ad8
   inspection_url: /records/2007-06-20-web-project-serpo#claim-911dc195-5a41-4d4e-86f7-32a73ab56ad8
+  copyright_status: publicly_accessible
 - text: His first assignment was at the Nellis Air Force Base test facility.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -93,6 +99,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-77bb57b4-5ea9-4342-9e36-a9205920d346
   inspection_url: /records/2007-06-20-web-project-serpo#claim-77bb57b4-5ea9-4342-9e36-a9205920d346
+  copyright_status: publicly_accessible
 - text: He worked at Indian Springs Air Force Base for his first seven months in the
     Air Force.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -104,6 +111,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-be928cc9-757c-4145-ac88-16c9002f0075
   inspection_url: /records/2007-06-20-web-project-serpo#claim-be928cc9-757c-4145-ac88-16c9002f0075
+  copyright_status: publicly_accessible
 - text: His early work examined Soviet and Chinese equipment, including tanks, electronics
     and weapon systems.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -115,6 +123,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-0dfe4b94-7c44-47b6-8de8-be91e63a5548
   inspection_url: /records/2007-06-20-web-project-serpo#claim-0dfe4b94-7c44-47b6-8de8-be91e63a5548
+  copyright_status: publicly_accessible
 - text: McPherson said he worked in the Foreign Technology Applications Studies Division.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -125,6 +134,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-6f069ee5-5650-4524-8d9f-4feb82879244
   inspection_url: /records/2007-06-20-web-project-serpo#claim-6f069ee5-5650-4524-8d9f-4feb82879244
+  copyright_status: publicly_accessible
 - text: The division had two facilities at Groom Lake and one at Indian Springs.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -136,6 +146,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-cbeeff48-62a2-448f-aab8-68d38b4b3ea0
   inspection_url: /records/2007-06-20-web-project-serpo#claim-cbeeff48-62a2-448f-aab8-68d38b4b3ea0
+  copyright_status: publicly_accessible
 - text: The division moved into the Groom Lake underground facility in early 1960.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -147,6 +158,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-407d691d-4328-4cc8-b7f4-1386bfb5fb1e
   inspection_url: /records/2007-06-20-web-project-serpo#claim-407d691d-4328-4cc8-b7f4-1386bfb5fb1e
+  copyright_status: publicly_accessible
 - text: McPherson said he transferred to the Advance Studies Group in summer 1969.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -158,6 +170,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-963973d0-2a45-4ce6-ba5e-e7559936c7fe
   inspection_url: /records/2007-06-20-web-project-serpo#claim-963973d0-2a45-4ce6-ba5e-e7559936c7fe
+  copyright_status: publicly_accessible
 - text: The Advance Studies Group was located on the second level of Area 51, Complex
     III.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -170,6 +183,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-86080df8-e6c2-4afa-a6c5-812e8c053a77
   inspection_url: /records/2007-06-20-web-project-serpo#claim-86080df8-e6c2-4afa-a6c5-812e8c053a77
+  copyright_status: publicly_accessible
 - text: He was told during his in-briefing that the group conducted advanced research
     involving nonconventional flying devices.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -182,6 +196,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-0535f45e-9615-47a7-b39c-d10012bb4d7f
   inspection_url: /records/2007-06-20-web-project-serpo#claim-0535f45e-9615-47a7-b39c-d10012bb4d7f
+  copyright_status: publicly_accessible
 - text: McPherson said he never saw a UFO at the Groom Lake Test Facility.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -193,6 +208,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-f99b89ff-95a8-4fad-b320-cd0bd57fc117
   inspection_url: /records/2007-06-20-web-project-serpo#claim-f99b89ff-95a8-4fad-b320-cd0bd57fc117
+  copyright_status: publicly_accessible
 - text: He also said he did not see extraterrestrials or hear anyone mention reverse
     engineering an extraterrestrial device.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -204,6 +220,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-7ab27903-3289-47f6-b1e9-6b06caba5980
   inspection_url: /records/2007-06-20-web-project-serpo#claim-7ab27903-3289-47f6-b1e9-6b06caba5980
+  copyright_status: publicly_accessible
 - text: The device he described was the Atlas-Tank, which he called a flying saucer.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -214,6 +231,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-dd4c9fd9-fac8-4a06-9086-141c5073c64e
   inspection_url: /records/2007-06-20-web-project-serpo#claim-dd4c9fd9-fac8-4a06-9086-141c5073c64e
+  copyright_status: publicly_accessible
 - text: McPherson said the Atlas-Tank was manufactured over eight years and could
     not be made to fly.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -225,6 +243,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-e89b994e-0499-4986-8475-9bdb69eb0ea9
   inspection_url: /records/2007-06-20-web-project-serpo#claim-e89b994e-0499-4986-8475-9bdb69eb0ea9
+  copyright_status: publicly_accessible
 - text: He described Blue Chariot as another flying saucer with a similar shape to
     the Atlas-Tank.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -237,6 +256,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-75025432-58f0-4420-a60c-ebc8ebd4c50c
   inspection_url: /records/2007-06-20-web-project-serpo#claim-75025432-58f0-4420-a60c-ebc8ebd4c50c
+  copyright_status: publicly_accessible
 - text: McPherson said an activation of Blue Chariot's propulsion system caused an
     accident that killed six technicians.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -249,6 +269,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-f0fab4ae-c246-4023-a76e-9b39566a8d34
   inspection_url: /records/2007-06-20-web-project-serpo#claim-f0fab4ae-c246-4023-a76e-9b39566a8d34
+  copyright_status: publicly_accessible
 - text: He considered the event a bolt or plasma ball rather than an explosion.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -260,6 +281,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-2478edd5-e209-4ebd-a72d-b187e3c86f8e
   inspection_url: /records/2007-06-20-web-project-serpo#claim-2478edd5-e209-4ebd-a72d-b187e3c86f8e
+  copyright_status: publicly_accessible
 - text: He said the propulsion system could generate energy equivalent to between
     0.1 and 350 kilotons without residual radiation.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -272,6 +294,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-bac56feb-f315-4812-89b0-81f7985e8a4e
   inspection_url: /records/2007-06-20-web-project-serpo#claim-bac56feb-f315-4812-89b0-81f7985e8a4e
+  copyright_status: publicly_accessible
 - text: McPherson considered the propulsion system to operate on unknown scientific
     principles.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -283,6 +306,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-7489c892-7b95-400a-88cf-69100f248eb9
   inspection_url: /records/2007-06-20-web-project-serpo#claim-7489c892-7b95-400a-88cf-69100f248eb9
+  copyright_status: publicly_accessible
 - text: He described a third atomic bonding principle beyond ionic and covalent bonding.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -295,6 +319,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-f5ba38f6-f9a3-443c-8f9c-789f58144845
   inspection_url: /records/2007-06-20-web-project-serpo#claim-f5ba38f6-f9a3-443c-8f9c-789f58144845
+  copyright_status: publicly_accessible
 - text: The account describes two metal plates inside a perfect vacuum chamber.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -307,6 +332,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-b29d92cb-5af3-4ee9-9d3d-9feb4f59a301
   inspection_url: /records/2007-06-20-web-project-serpo#claim-b29d92cb-5af3-4ee9-9d3d-9feb4f59a301
+  copyright_status: publicly_accessible
 - text: McPherson said the gases mixed to create energy by an unknown method.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -318,6 +344,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-daacbf69-71be-4924-a492-d55228717ccb
   inspection_url: /records/2007-06-20-web-project-serpo#claim-daacbf69-71be-4924-a492-d55228717ccb
+  copyright_status: publicly_accessible
 - text: The source says the strips' hardness was measured using the Mohs scale.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
     51
@@ -329,6 +356,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-e4f4e1c9-ab10-4cdc-9fd4-9e5e0436f549
   inspection_url: /records/2007-06-20-web-project-serpo#claim-e4f4e1c9-ab10-4cdc-9fd4-9e5e0436f549
+  copyright_status: publicly_accessible
 - text: The document compiler considered it unclear whether the reported hardness
     values referred to the Mohs or Absolute hardness scale.
   source: Interview with Dr Craig McPherson, scientist and former employee of Area
@@ -341,6 +369,7 @@ references:
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-42913312-bf48-4d32-a1f0-1b6bed5e3bbf
   inspection_url: /records/2007-06-20-web-project-serpo#claim-42913312-bf48-4d32-a1f0-1b6bed5e3bbf
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

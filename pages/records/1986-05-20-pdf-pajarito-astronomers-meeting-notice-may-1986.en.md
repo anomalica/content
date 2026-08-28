@@ -24,6 +24,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-a476289a-bc3b-46a6-b44e-de7fb9903ce4
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-a476289a-bc3b-46a6-b44e-de7fb9903ce4
+  copyright_status: public_domain
 - text: The next Pajarito Astronomers meeting was scheduled for 1986-05-29 in the
     Ranch Room at Fuller Lodge at 7:30 p.m.
   source: Pajarito Astronomers Meeting Notice - May 1986
@@ -35,6 +36,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-cc0a4af9-0933-4efb-a77e-68f1a9fe8617
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-cc0a4af9-0933-4efb-a77e-68f1a9fe8617
+  copyright_status: public_domain
 - text: John Warren, of AT-6, was scheduled to address the group on the topic 'Why
     Should a Scientist be Concerned about UFO's?'
   source: Pajarito Astronomers Meeting Notice - May 1986
@@ -46,6 +48,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-3adb99b7-6f27-4b7c-8182-b1cbca38df6e
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-3adb99b7-6f27-4b7c-8182-b1cbca38df6e
+  copyright_status: public_domain
 - text: John Warren was affiliated with AT-6.
   source: Pajarito Astronomers Meeting Notice - May 1986
   location: char:420-444
@@ -55,6 +58,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-d1226113-6f61-41af-8f83-4b11ce570499
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-d1226113-6f61-41af-8f83-4b11ce570499
+  copyright_status: public_domain
 - text: The Pajarito Astronomers organisation was sponsored by Club 1663.
   source: Pajarito Astronomers Meeting Notice - May 1986
   location: char:219-237
@@ -64,6 +68,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-7a28fc0f-7bd4-4bb3-9f5f-25c266264145
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-7a28fc0f-7bd4-4bb3-9f5f-25c266264145
+  copyright_status: public_domain
 - text: The Pajarito Astronomers organisation was located at P.O. Box 1092, Los Alamos,
     New Mexico, 87544.
   source: Pajarito Astronomers Meeting Notice - May 1986
@@ -74,6 +79,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-6082886a-62ac-4c46-b71a-6da7382e2c1b
+  copyright_status: public_domain
 - text: The Ranch Room was at the south end of Fuller Lodge, facing Central Avenue,
     and was reached by going outside and upstairs.
   source: Pajarito Astronomers Meeting Notice - May 1986
@@ -85,6 +91,7 @@ references:
   record_hash: 89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76
   workbench_url: https://workbench.anomalica.is/89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e76#claim-5e2625df-8425-49b9-ba21-f1d41ec8abee
   inspection_url: /records/1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986#claim-5e2625df-8425-49b9-ba21-f1d41ec8abee
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

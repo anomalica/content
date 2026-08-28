@@ -31,6 +31,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5126d446-0098-467c-bae4-f8375bc43c2c
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-5126d446-0098-467c-bae4-f8375bc43c2c
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the object was pointed at both ends, white, apparently
     without propulsion and moving without a wavy motion.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -42,6 +43,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-28379281-963b-4694-8bfe-e65b47f6acca
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-28379281-963b-4694-8bfe-e65b47f6acca
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the object travelled at approximately 1,100 to 1,300
     kilometres per hour.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -52,6 +54,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-097d10d8-ffd3-4ccc-bbbc-aafba2035d88
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-097d10d8-ffd3-4ccc-bbbc-aafba2035d88
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the alleged document was written in June 1947 by Albert
     Einstein and J. Robert Oppenheimer.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -65,6 +68,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-99ba3719-4c3a-4646-a143-5f1c35988b67
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the document's origin is unknown and that it surfaced
     online without a known provenance.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -76,6 +80,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-123d3ef5-cf2f-4b00-945b-eb80f9f49779
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-123d3ef5-cf2f-4b00-945b-eb80f9f49779
+  copyright_status: publicly_accessible
 - text: According to the source record, the document states that relationships with
     extraterrestrial beings would require communication and possibly a human-like
     psychology.
@@ -90,6 +95,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-4f616b7f-3e15-4fd4-93f6-ba712f39e9e6
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-4f616b7f-3e15-4fd4-93f6-ba712f39e9e6
+  copyright_status: publicly_accessible
 - text: According to the source record, the document proposes a law among planetary
     peoples and recognition of suitably organised extraterrestrial peoples as sovereign.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -102,6 +108,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-8a550c6d-8041-417c-a775-96cc4a1224ca
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-8a550c6d-8041-417c-a775-96cc4a1224ca
+  copyright_status: publicly_accessible
 - text: According to the source record, the document defines res nullius as something
     belonging to no one and describes occupation as appropriation by a state.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -112,6 +119,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-947fada7-f8c3-403d-8bb7-7077cb27610c
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-947fada7-f8c3-403d-8bb7-7077cb27610c
+  copyright_status: publicly_accessible
 - text: According to the source record, the document considers the Moon an example
     of res nullius.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -122,6 +130,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-f9064840-b4dc-41c3-9950-3e5ee6868e25
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-f9064840-b4dc-41c3-9950-3e5ee6868e25
+  copyright_status: publicly_accessible
 - text: According to the source record, the document proposes that celestial peoples
     might be internationalised through a treaty preventing exploitation and applying
     to UN member states.
@@ -135,6 +144,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
+  copyright_status: publicly_accessible
 - text: According to the source record, Eleanor Roosevelt asked J. Robert Oppenheimer
     what he knew about materials sent with her letter.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -146,6 +156,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-71d8774d-6263-41cd-b7eb-73000fc1fe00
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-71d8774d-6263-41cd-b7eb-73000fc1fe00
+  copyright_status: publicly_accessible
 - text: According to the source record, J. Robert Oppenheimer said that the Borderland
     Sciences Research Associates papers assumed the existence of flying disks without
     credible evidence.
@@ -159,6 +170,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-42e3dfee-753c-4e96-af00-630ac1391a05
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-42e3dfee-753c-4e96-af00-630ac1391a05
+  copyright_status: publicly_accessible
 - text: Chris Ramsey said that the document was written in June 1947 and that at least
     one, possibly two, crashes occurred at Roswell, New Mexico, one month later.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -169,6 +181,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-c08ef0c2-2c00-4e74-9f2a-a8bc8fbb5465
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-c08ef0c2-2c00-4e74-9f2a-a8bc8fbb5465
+  copyright_status: publicly_accessible
 - text: According to the source record, the document links unidentified spacecraft
     and atomic weapons to risks of conflict and mistaken identification.
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -181,6 +194,7 @@ references:
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-bd72346e-fbeb-41f9-86a9-58e9080e3713
   inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-bd72346e-fbeb-41f9-86a9-58e9080e3713
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

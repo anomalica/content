@@ -31,6 +31,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cd4566ea-5292-427e-b7b2-6227ab8d9b27
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-cd4566ea-5292-427e-b7b2-6227ab8d9b27
+  copyright_status: publicly_accessible
 - text: Jason Samosa describes Jacques Vallee's approach as examining the cultural
     effects of UFOs and inferring the phenomenon's motivations.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -43,6 +44,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-7a505eb5-df7a-442e-ad07-45e1d0828556
+  copyright_status: publicly_accessible
 - text: Jason Samosa characterises the UFO phenomenon as deceptive.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:09:31.9-00:09:39.9
@@ -53,6 +55,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8f2f219d-e8ed-4f31-a909-04e73a93e480
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8f2f219d-e8ed-4f31-a909-04e73a93e480
+  copyright_status: publicly_accessible
 - text: Jason Samosa says the term Collins Elite is used for several different things.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:16:17.3-00:16:27.6
@@ -64,6 +67,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
+  copyright_status: publicly_accessible
 - text: Jason Samosa says the Collins Elite traces back to the period after the 1947
     Roswell crash.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -75,6 +79,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-05246a1d-7d42-4e9d-a1ae-70f7e2e22bb1
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-05246a1d-7d42-4e9d-a1ae-70f7e2e22bb1
+  copyright_status: publicly_accessible
 - text: According to Nick Redfern's sources, Collins Elite funding was unlocked in
     1952 through the CIA Directorate of Plans.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -87,6 +92,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c3238ecb-c7ac-4198-b0dc-85dd6f4eca62
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-c3238ecb-c7ac-4198-b0dc-85dd6f4eca62
+  copyright_status: publicly_accessible
 - text: Jason Samosa says The Family created an invisible network of Protestant Christians
     throughout the United States government.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -98,6 +104,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d203bd2c-daee-4578-929c-13642a0cb919
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-d203bd2c-daee-4578-929c-13642a0cb919
+  copyright_status: publicly_accessible
 - text: According to Nick Redfern, James Baker was involved in a UFO briefing given
     to Ronald Reagan.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -110,6 +117,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-97e81e7e-aac3-4cf2-8c3d-37fccc5bec05
+  copyright_status: publicly_accessible
 - text: Jason Samosa says Tom DeLonge's contact with William Neal McCasland and associated
     advisers occurred in 2015 and 2016.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -120,6 +128,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-bf1548e7-3b1b-48fa-a690-4470155d05f8
+  copyright_status: publicly_accessible
 - text: Jason Samosa says Tom DeLonge was flown to the Pentagon and then directed
     to NASA.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -131,6 +140,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b6bfd3d2-4319-41ef-b7b1-c86eb40be8ec
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-b6bfd3d2-4319-41ef-b7b1-c86eb40be8ec
+  copyright_status: publicly_accessible
 - text: The leaked correspondence is described as containing roughly 35 messages between
     Tom DeLonge and John Podesta's team.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -142,6 +152,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8268d82d-c79d-434e-be2b-f935d62819a6
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-8268d82d-c79d-434e-be2b-f935d62819a6
+  copyright_status: publicly_accessible
 - text: Jason Samosa says Jacques Vallee's journals record rumours of a 2013 programme
     called 'confirmation, not disclosure'.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -154,6 +165,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9de7e6db-d243-46b6-a902-3f04d59ce480
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-9de7e6db-d243-46b6-a902-3f04d59ce480
+  copyright_status: publicly_accessible
 - text: The source says the scientists discussing a potentially harmful event with
     Jacques Vallee were associated with AAWSAP.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -164,6 +176,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c183202d-b2dd-4831-a411-bb534e13454b
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-c183202d-b2dd-4831-a411-bb534e13454b
+  copyright_status: publicly_accessible
 - text: According to Jason Samosa, AAWSAP was funded through the DIA and run using
     Bigelow Aerospace.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -175,6 +188,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
+  copyright_status: publicly_accessible
 - text: Jason Samosa says Jacques Vallee's journals hint that an unspecified existential
     threat may have been detected.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -187,6 +201,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1f26b1ee-c6e9-4e19-8b4b-b9d3997c0a81
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-1f26b1ee-c6e9-4e19-8b4b-b9d3997c0a81
+  copyright_status: publicly_accessible
 - text: Jesse Michels says AAWSAP later became the slimmer AATIP.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:54:55.4-00:55:02.9
@@ -197,6 +212,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-36bb5d98-88c1-4d84-9bbd-e03d4f4ed399
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-36bb5d98-88c1-4d84-9bbd-e03d4f4ed399
+  copyright_status: publicly_accessible
 - text: Jesse Michels says the publicly known Pentagon UFO programmes had a budget
     of about 22 million United States dollars.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -207,6 +223,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
+  copyright_status: publicly_accessible
 - text: Jesse Michels says a 22 million United States dollar budget would be inadequate
     for reverse engineering a recovered craft.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -218,6 +235,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
+  copyright_status: publicly_accessible
 - text: Jesse Michels says the alleged legacy programme described by David Grusch
     would involve hundreds of billions or trillions of United States dollars.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -229,6 +247,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
+  copyright_status: publicly_accessible
 - text: Jesse Michels says the Maynard Consortium resembles the international corporate
     board described by Ben Rich and the Caroline Group associated with Thomas Townsend
     Brown.
@@ -241,6 +260,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
+  copyright_status: publicly_accessible
 - text: Jason Samosa says the World Commerce Corporation had between 250 and 500 subsidiaries
     within a couple of years of its founding.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -252,6 +272,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-719c687a-e05f-42e7-8c06-c51d92b5ed23
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-719c687a-e05f-42e7-8c06-c51d92b5ed23
+  copyright_status: publicly_accessible
 - text: Jason Samosa says the World Commerce Corporation matches the Maynard Consortium
     in personnel, while acknowledging no direct evidence of a UFO connection.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -264,6 +285,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-70417a26-bbe6-445c-b1b9-49777de9a30d
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-70417a26-bbe6-445c-b1b9-49777de9a30d
+  copyright_status: publicly_accessible
 - text: Jason Samosa says Moneyrex was a single entity connected to 850 banks.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:38:25.8-01:38:30.7
@@ -274,6 +296,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-09684750-b3d6-4444-8718-1550770dbf79
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-09684750-b3d6-4444-8718-1550770dbf79
+  copyright_status: publicly_accessible
 - text: Jesse Michels says the modern disclosure push contains competing factions
     and cynical motives.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -285,6 +308,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0d138ea2-4564-4ccb-a72e-ebf81f26ce23
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-0d138ea2-4564-4ccb-a72e-ebf81f26ce23
+  copyright_status: publicly_accessible
 - text: Jason Samosa regards human-alien hybridisation as a late-stage disclosure
     topic that could destabilise religion.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -298,6 +322,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
+  copyright_status: publicly_accessible
 - text: Jason Samosa says the Holy See knows more about UFOs than it discloses and
     has tried to reinterpret events.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -309,6 +334,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
+  copyright_status: publicly_accessible
 - text: Jesse Michels says opposing groups either seek to immanentise the eschaton
     or restrain it.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -321,6 +347,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

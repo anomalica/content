@@ -68,12 +68,14 @@ references:
   claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d058f296-0f9b-437d-aa6c-c3b05f621384
+  copyright_status: restricted
 - text: The object appeared to detect the DHS helicopter and rapidly moved away
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:20785-20880
   claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
+  copyright_status: restricted
 - text: Elizondo deemed the DHS Aguadilla video too sensitive to release, citing its
     sister-agency origin
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -81,6 +83,7 @@ references:
   claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-34cce20e-1547-47e2-8b3e-5ff722ba5616
+  copyright_status: restricted
 - text: Elizondo would not confirm the leaked footage was a US government video without
     DHS's agreement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -88,6 +91,7 @@ references:
   claim_id: 86accb75-cf3c-4673-9547-5a1949c8bb5e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-86accb75-cf3c-4673-9547-5a1949c8bb5e
+  copyright_status: restricted
 - text: Elizondo worked at OUSDI on an information-sharing operation between DoD,
     DHS, and local law enforcement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -95,6 +99,7 @@ references:
   claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a85d80d-06cd-475c-91c5-66490a3bd7a0
+  copyright_status: restricted
 - text: Elizondo said he led classified investigations worldwide with FBI, CIA, and
     DHS partners
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -102,6 +107,7 @@ references:
   claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4d1a24ed-c8be-4d09-a5fa-9dd24272674a
+  copyright_status: restricted
 - text: KONA BLUE described as a DHS Prospective Special Access Program material-transfer
     effort
   source: 'Episode 73: Science vs. Secrecy'
@@ -111,6 +117,7 @@ references:
   claim_id: 9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
+  copyright_status: publicly_accessible
 - text: After DIA cancelled AAWSAP/AATIP, supporters proposed DHS fund a successor
     as a special access programme, KONA BLUE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -123,6 +130,7 @@ references:
   claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
+  copyright_status: public_domain
 - text: KONA BLUE was supported by individuals who believed the US government was
     hiding off-world technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -134,6 +142,7 @@ references:
   claim_id: 2a867a89-5ae3-47e4-8844-4c2c06c4de9d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2a867a89-5ae3-47e4-8844-4c2c06c4de9d
+  copyright_status: public_domain
 - text: A PSAP request was formally submitted to stand up KONA BLUE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -144,6 +153,7 @@ references:
   claim_id: c4e57e68-02ae-49d8-8d6d-bbe9c2f86f7b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c4e57e68-02ae-49d8-8d6d-bbe9c2f86f7b
+  copyright_status: public_domain
 - text: The request was rejected by DHS leadership for lacking merit
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -152,6 +162,7 @@ references:
   claim_id: 73a81550-6f3a-4147-920f-6e725091bd2b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-73a81550-6f3a-4147-920f-6e725091bd2b
+  copyright_status: public_domain
 - text: KONA BLUE was never approved and supporters never provided empirical evidence
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -161,6 +172,7 @@ references:
   claim_id: d34fdac7-a5f1-4875-bc75-4e1918c4a8fc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d34fdac7-a5f1-4875-bc75-4e1918c4a8fc
+  copyright_status: public_domain
 - text: No data or material was ever transferred to DHS
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -170,6 +182,7 @@ references:
   claim_id: 8f0eb21b-58fe-4933-8c07-412536e2e523
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8f0eb21b-58fe-4933-8c07-412536e2e523
+  copyright_status: public_domain
 - text: Many people behind later reverse-engineering claims were tied to the cancelled
     DIA programme and the failed DHS attempt
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -181,6 +194,7 @@ references:
   claim_id: 2f08c4b1-a303-478c-976d-c997c5a0f454
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2f08c4b1-a303-478c-976d-c997c5a0f454
+  copyright_status: public_domain
 - text: 'Puthoff: tremendous enthusiasm for KONA BLUE from DS&T and DHS security personnel'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:14:47.9-00:14:56.1
@@ -189,6 +203,7 @@ references:
   claim_id: b49d7058-c317-4b8c-b8d6-7a7a93ec2c80
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b49d7058-c317-4b8c-b8d6-7a7a93ec2c80
+  copyright_status: publicly_accessible
 - text: Puthoff and colleagues spent at least two years developing programme plans
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:14:24.7-00:14:47.0
@@ -199,6 +214,7 @@ references:
   claim_id: a54f18d0-28b0-4437-8b93-11ee669645bb
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a54f18d0-28b0-4437-8b93-11ee669645bb
+  copyright_status: publicly_accessible
 - text: The effort ultimately failed after funding pressure from unnamed individuals
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:15:05.3-00:15:18.2
@@ -207,6 +223,7 @@ references:
   claim_id: a0de6c1e-f6a5-419c-9259-3bed121e8d3e
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-a0de6c1e-f6a5-419c-9259-3bed121e8d3e
+  copyright_status: publicly_accessible
 - text: DHS security officers found Legacy Program gatekeepers but could not gain
     access
   source: 'Episode 73: Science vs. Secrecy'
@@ -218,6 +235,7 @@ references:
   claim_id: 985a5023-3786-4990-80a0-692010d1f18a
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-985a5023-3786-4990-80a0-692010d1f18a
+  copyright_status: publicly_accessible
 - text: Puthoff suggests returning to DHS to talk to security personnel as an unexplored
     avenue
   source: 'Episode 73: Science vs. Secrecy'
@@ -227,6 +245,7 @@ references:
   claim_id: 5f88a4da-3647-48fa-bf2b-e59bcd561284
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-5f88a4da-3647-48fa-bf2b-e59bcd561284
+  copyright_status: publicly_accessible
 - text: AARO sent NDA-review requests to DoD, IC, DoE, and DHS under Section 1673
     of the FY2023 NDAA
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -239,6 +258,7 @@ references:
   claim_id: d1763776-36ad-47a9-8b43-398f8243145f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d1763776-36ad-47a9-8b43-398f8243145f
+  copyright_status: public_domain
 - text: AARO partnered with SAP Control Offices at DoD, IC, and DHS to correlate reported
     programmes
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -251,6 +271,7 @@ references:
   claim_id: 47e2758a-1ab3-41b5-bca9-466f3392e6f7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47e2758a-1ab3-41b5-bca9-466f3392e6f7
+  copyright_status: public_domain
 - text: Interviewees told AARO KONA BLUE was a DHS compartment covering up non-human
     biologics
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -262,6 +283,7 @@ references:
   claim_id: 9fdfa9ac-03d5-457c-aa51-f5988d0b69ad
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9fdfa9ac-03d5-457c-aa51-f5988d0b69ad
+  copyright_status: public_domain
 - text: Stinnett said DHS personnel were present at Kruse's house alongside orb-sighting
     visitors
   source: American Cosmic
@@ -269,6 +291,7 @@ references:
   claim_id: b665bd43-2644-4c7d-96c2-5718d11ea355
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b665bd43-2644-4c7d-96c2-5718d11ea355
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

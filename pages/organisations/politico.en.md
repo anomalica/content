@@ -40,6 +40,7 @@ references:
   claim_id: 10987c5e-0261-4def-849f-1a0418370e38
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-10987c5e-0261-4def-849f-1a0418370e38
+  copyright_status: publicly_accessible
 - text: The New York Times broke the AATIP story online on 2017-12-16, followed seconds
     later by Politico and then the Washington Post.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -47,6 +48,7 @@ references:
   claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d5d0286-272e-4904-b5dc-914d633d3389
+  copyright_status: restricted
 - text: Dana White confirmed to Politico that AATIP existed and was run by Luis Elizondo.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -56,12 +58,14 @@ references:
   claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
+  copyright_status: publicly_accessible
 - text: White gave that confirmation to Politico before she left the Pentagon.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:4398-4515
   claim_id: 24ab5866-164f-4e22-8474-1ebedb0af4a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24ab5866-164f-4e22-8474-1ebedb0af4a1
+  copyright_status: restricted
 - text: TTSA posted the first two DOD UAP videos in mid-December 2017, timed to coincide
     with the Politico, Washington Post and New York Times AATIP story.
   source: In Plain Sight
@@ -69,12 +73,14 @@ references:
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
+  copyright_status: restricted
 - text: Bender reported that the US Navy was drafting new UFO reporting guidelines.
   source: In Plain Sight
   location: ch34:48339-48430
   claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
+  copyright_status: restricted
 - text: Bender reported that military and intelligence agencies had been accused of
     stiff-arming UFO investigators.
   source: In Plain Sight
@@ -82,12 +88,14 @@ references:
   claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-708e7f7f-e5d6-47b0-92a0-2f45d9854889
+  copyright_status: restricted
 - text: Bender said UFOs were now on the agenda.
   source: In Plain Sight
   location: ch28:26990-27051
   claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f6c60a4-d0b2-4236-a200-10df34c1b65a
+  copyright_status: restricted
 - text: Mark Walker told Politico he was frustrated by the lack of answers about the
     threat posed by superior aircraft in US airspace.
   source: In Plain Sight
@@ -95,6 +103,7 @@ references:
   claim_id: 34f7d5bf-2a5f-4062-9184-2edcb3590621
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34f7d5bf-2a5f-4062-9184-2edcb3590621
+  copyright_status: restricted
 - text: A Politico story by Bob Fish raised the theory that a foreign power, perhaps
     China or Russia, had developed threatening next-generation technologies.
   source: In Plain Sight
@@ -102,6 +111,7 @@ references:
   claim_id: e750fbc7-e29d-4e03-aed8-20b3a35ba394
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e750fbc7-e29d-4e03-aed8-20b3a35ba394
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

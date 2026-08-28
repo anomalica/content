@@ -100,6 +100,7 @@ references:
   claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
+  copyright_status: restricted
 - text: Controlled Remote Viewing was originally developed by Swann while working
     at SRI International.
   source: Remote Viewing Secrets
@@ -107,6 +108,7 @@ references:
   claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c0f915c-2a1a-4bf2-9f19-f3de36065f92
+  copyright_status: restricted
 - text: Swann did not distribute an all-inclusive document describing the training
     system, according to Joseph McMoneagle.
   source: Remote Viewing Secrets
@@ -114,6 +116,7 @@ references:
   claim_id: 461ebe13-3d8e-42d6-a107-6174145dbe13
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-461ebe13-3d8e-42d6-a107-6174145dbe13
+  copyright_status: restricted
 - text: Swann was a well-known psychic and remote viewer who worked with the SRI International
     laboratory.
   source: Remote Viewing Secrets
@@ -121,6 +124,7 @@ references:
   claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8964ec41-9270-4b8e-b2db-066f57ddcbdf
+  copyright_status: restricted
 - text: Swann was one of the original participants in CIA evaluations of remote viewing
     in the early 1970s.
   source: Remote Viewing Secrets
@@ -128,6 +132,7 @@ references:
   claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
+  copyright_status: restricted
 - text: Swann is credited with developing the first systematic approach to remote
     viewing in the 1970s and is described as a renowned artist and psychic.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -139,6 +144,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-3d6fe272-ef51-4445-bd2a-ae8052852e81
+  copyright_status: publicly_accessible
 - text: Swann was approached by scientists at SRI to participate in research on psychic
     phenomena.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -150,6 +156,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
+  copyright_status: publicly_accessible
 - text: Swann worked with Hal Puthoff and Russell Targ, two leading researchers in
     the field of parapsychology.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -160,6 +167,7 @@ references:
   claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3f74a70d-1e63-437a-9074-2c875c7ad747
+  copyright_status: publicly_accessible
 - text: At SRI, Swann developed a unique approach to remote viewing called Coordinate
     Remote Viewing.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -171,6 +179,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  copyright_status: publicly_accessible
 - text: In 1973, Swann began working with SRI scientists to explore the possibility
     of remote viewing planetary objects.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -181,6 +190,7 @@ references:
   claim_id: 36373393-2754-4358-b2e2-fca1754bbc45
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-36373393-2754-4358-b2e2-fca1754bbc45
+  copyright_status: publicly_accessible
 - text: Swann was tasked with remote viewing the planet Jupiter.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -190,6 +200,7 @@ references:
   claim_id: 07c3c705-48c7-4582-87c7-fe20ffca4fd3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-07c3c705-48c7-4582-87c7-fe20ffca4fd3
+  copyright_status: publicly_accessible
 - text: Swann described a previously unknown ring around Jupiter during his 1973 session.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -200,6 +211,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-028163cf-995a-45b4-becd-070d7d5ef489
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-028163cf-995a-45b4-becd-070d7d5ef489
+  copyright_status: publicly_accessible
 - text: Swann was Ed Dames's mentor, and Dames later became his protege.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -208,6 +220,7 @@ references:
   claim_id: d0753966-2e69-4be9-a6b0-84bea8ac0e56
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d0753966-2e69-4be9-a6b0-84bea8ac0e56
+  copyright_status: publicly_accessible
 - text: NASA's Pioneer 10 spacecraft later confirmed Swann's remote-viewing findings
     about Jupiter when it flew past the planet in the 1970s.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -219,6 +232,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-219b853c-04ea-410c-939f-e756e2515773
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-219b853c-04ea-410c-939f-e756e2515773
+  copyright_status: publicly_accessible
 - text: Swann recalled that Hal Puthoff told him he was the first to find a ring around
     Jupiter.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -229,6 +243,7 @@ references:
   claim_id: 4c9120b0-56cd-4f5a-9304-d99632dd6bf6
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4c9120b0-56cd-4f5a-9304-d99632dd6bf6
+  copyright_status: publicly_accessible
 - text: Swann was asked by the CIA to remote view a secret facility in the Soviet
     Union believed to be used for manufacturing nuclear weapons.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -239,6 +254,7 @@ references:
   claim_id: 12a1abe9-44f8-4e72-87f6-235a95798b3f
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-12a1abe9-44f8-4e72-87f6-235a95798b3f
+  copyright_status: publicly_accessible
 - text: Swann's descriptions of a suspected Soviet nuclear-weapons facility were later
     confirmed by satellite imagery.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -248,6 +264,7 @@ references:
   claim_id: cd0e288c-0813-441a-b8f6-5b13359c06db
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-cd0e288c-0813-441a-b8f6-5b13359c06db
+  copyright_status: publicly_accessible
 - text: Ed Dames was selected as one of five prototype Army members to be trained
     by Swann in Project Stargate during 1983 and 1984.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -260,6 +277,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
+  copyright_status: publicly_accessible
 - text: Swann asked Hal Puthoff who was funding his remote-viewing training because
     it was classified.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -270,6 +288,7 @@ references:
   claim_id: 41d28bca-00f2-4381-8129-6aede0dc38f3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-41d28bca-00f2-4381-8129-6aede0dc38f3
+  copyright_status: publicly_accessible
 - text: Swann had Ed Dames remote view the Washington Monument as one of his first
     training targets in Project Stargate.
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -280,6 +299,7 @@ references:
   claim_id: d73b2b6b-ec69-4281-a0f3-90de1c68740b
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d73b2b6b-ec69-4281-a0f3-90de1c68740b
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said Swann claimed to have remote viewed Jupiter and described
     its thin rings before they were confirmed by unmanned space probes years later.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -287,6 +307,7 @@ references:
   claim_id: 64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
+  copyright_status: restricted
 - text: Eric Davis told Thomas Wilson about Swann's story.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:24155-24162
@@ -294,6 +315,7 @@ references:
   claim_id: 721e1e48-e798-4c00-b8de-0bd911502e83
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-721e1e48-e798-4c00-b8de-0bd911502e83
+  copyright_status: public_domain
 - text: Swann's memoir describes covert meetings between 1975 and 1977 that led to
     his participation in remote-viewing evidence of intelligence on the moon, according
     to the source record.
@@ -302,6 +324,7 @@ references:
   claim_id: 036a7d61-7839-4513-b415-008948231ccf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-036a7d61-7839-4513-b415-008948231ccf
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

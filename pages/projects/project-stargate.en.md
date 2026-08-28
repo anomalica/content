@@ -140,6 +140,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-89143734-1d5f-4192-9d95-2e00e30542cc
+  copyright_status: restricted
 - text: The US sought a 'mind reading' weapon to gain an advantage over the Soviet
     Union
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -152,6 +153,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
+  copyright_status: publicly_accessible
 - text: Began as a classified California lab project before moving to a Maryland army
     base
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -163,6 +165,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
+  copyright_status: publicly_accessible
 - text: A CIA-funded remote viewing programme ran at Stanford Research Institute from
     1972
   source: The Fourth Mind
@@ -170,24 +173,28 @@ references:
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+  copyright_status: restricted
 - text: Terminated in November 1995
   source: Remote Viewing Secrets
   location: ch26:17103-17147
   claim_id: 9fa9f0bc-7d66-4fbb-844d-19ee9e85843c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa9f0bc-7d66-4fbb-844d-19ee9e85843c
+  copyright_status: restricted
 - text: Cancelled in 1995, allegedly due to unreliable results
   source: The Fourth Mind
   location: ch22:13444-13495
   claim_id: 078ff853-7fa8-47de-9709-2ae2a0f53f18
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-078ff853-7fa8-47de-9709-2ae2a0f53f18
+  copyright_status: restricted
 - text: No known training method existed when the programme was organised
   source: Remote Viewing Secrets
   location: ch16:919-1088
   claim_id: 1f84dd06-32f0-4758-bfc1-bd3f4619137a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1f84dd06-32f0-4758-bfc1-bd3f4619137a
+  copyright_status: restricted
 - text: Founders turned to SRI International, where remote viewing had been studied
     for nearly five years
   source: Remote Viewing Secrets
@@ -195,42 +202,49 @@ references:
   claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f84226f6-b364-44eb-a6b9-efff18d89434
+  copyright_status: restricted
 - text: The Army decided to find, train, and use remote viewers
   source: Remote Viewing Secrets
   location: ch16:788-912
   claim_id: 907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
+  copyright_status: restricted
 - text: Braud's 'Psi Conducive States' paper was used to identify possible subjects
   source: Remote Viewing Secrets
   location: ch16:6126-6366
   claim_id: 34300682-2fbe-4514-94cc-af8b33023e84
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-34300682-2fbe-4514-94cc-af8b33023e84
+  copyright_status: restricted
 - text: Military personnel compiled their own list of indicators to identify psychics
   source: Remote Viewing Secrets
   location: ch16:9411-9677
   claim_id: b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
+  copyright_status: restricted
 - text: 'Indicator: consistent success whatever the task'
   source: Remote Viewing Secrets
   location: ch16:9582-9622
   claim_id: 1ce81f56-68ae-4b25-af50-bbca83edf7ac
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1ce81f56-68ae-4b25-af50-bbca83edf7ac
+  copyright_status: restricted
 - text: 'Indicator: liked by peers but considered different from the norm'
   source: Remote Viewing Secrets
   location: ch16:9629-9681
   claim_id: 30cef02f-3b65-4cec-8da2-989fc47972ec
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-30cef02f-3b65-4cec-8da2-989fc47972ec
+  copyright_status: restricted
 - text: 'Indicator: willing to pursue new avenues of approach'
   source: Remote Viewing Secrets
   location: ch16:9738-9774
   claim_id: 2c635ae1-2580-487f-b6c4-11a15af53c5e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2c635ae1-2580-487f-b6c4-11a15af53c5e
+  copyright_status: restricted
 - text: 'McMoneagle''s 1984-1995 consultancy: protocol design, R&D evaluations, thousands
     of trials'
   source: Remote Viewing Secrets
@@ -238,6 +252,7 @@ references:
   claim_id: c832d5ea-7222-4768-ba54-b5bb770e10eb
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c832d5ea-7222-4768-ba54-b5bb770e10eb
+  copyright_status: restricted
 - text: McMoneagle performed applications remote viewing until the programme closed
     in November 1995
   source: Remote Viewing Secrets
@@ -245,12 +260,14 @@ references:
   claim_id: 40db8ff5-9190-4236-8662-1971b9dada75
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-40db8ff5-9190-4236-8662-1971b9dada75
+  copyright_status: restricted
 - text: Early concern about participants' psychological stability
   source: Remote Viewing Secrets
   location: ch15:488-641
   claim_id: 360f75de-d565-4523-9e7f-55cc1eb43ba9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-360f75de-d565-4523-9e7f-55cc1eb43ba9
+  copyright_status: restricted
 - text: Vetting involved testing, interviews, and gradual exposure to admit only stable
     individuals
   source: Remote Viewing Secrets
@@ -258,48 +275,56 @@ references:
   claim_id: 0e9645e7-e151-47b5-a624-62a73b4d2e4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0e9645e7-e151-47b5-a624-62a73b4d2e4d
+  copyright_status: restricted
 - text: Vetting later dropped to reduce costs
   source: Remote Viewing Secrets
   location: ch15:12383-12524
   claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
+  copyright_status: restricted
 - text: Dropping vetting left some previously stable individuals unstable
   source: Remote Viewing Secrets
   location: ch16:34511-34812
   claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
+  copyright_status: restricted
 - text: No one considered a remote viewer until training was complete
   source: Remote Viewing Secrets
   location: ch22:492-567
   claim_id: ec5b8052-5c0a-4271-bf40-d478acc02646
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ec5b8052-5c0a-4271-bf40-d478acc02646
+  copyright_status: restricted
 - text: Training typically took three to eighteen months
   source: Remote Viewing Secrets
   location: ch22:582-758
   claim_id: e508e249-afa1-4443-8bec-54e51458ce29
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e508e249-afa1-4443-8bec-54e51458ce29
+  copyright_status: restricted
 - text: Talented trainees could become productive within ninety days
   source: Remote Viewing Secrets
   location: ch22:764-849
   claim_id: 0da4cc40-ece6-4ce4-b095-2c42848c289c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0da4cc40-ece6-4ce4-b095-2c42848c289c
+  copyright_status: restricted
 - text: Less talented trainees used the full term or failed to complete it
   source: Remote Viewing Secrets
   location: ch22:855-967
   claim_id: 720c69a9-34ce-4029-a70b-b76b0df91e78
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-720c69a9-34ce-4029-a70b-b76b0df91e78
+  copyright_status: restricted
 - text: Early evaluation methods were tuned to drawings
   source: Remote Viewing Secrets
   location: ch16:18779-18884
   claim_id: 63df4ec4-d207-4b0e-bc56-a99088738252
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63df4ec4-d207-4b0e-bc56-a99088738252
+  copyright_status: restricted
 - text: Military maps used varying coordinate combinations to counter scepticism about
     eidetic memory
   source: Remote Viewing Secrets
@@ -307,12 +332,14 @@ references:
   claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4602e95f-a749-450f-83e2-aa4365e1b70c
+  copyright_status: restricted
 - text: Real coordinates sealed in envelopes marked with false, incomplete coordinates
   source: Remote Viewing Secrets
   location: ch17:11790-12135
   claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c57b12c7-d9fd-4670-8ecb-1457e1e28a18
+  copyright_status: restricted
 - text: 'Protocols extended to target categories: ideas, concepts, plans, thoughts,
     feelings, emotions'
   source: Remote Viewing Secrets
@@ -320,12 +347,14 @@ references:
   claim_id: 17cf6ee0-2197-4333-84b1-27a220a4fef3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-17cf6ee0-2197-4333-84b1-27a220a4fef3
+  copyright_status: restricted
 - text: McMoneagle trained in dowsing while assigned to the programme at Fort Meade
   source: Remote Viewing Secrets
   location: ch17:36051-36131
   claim_id: 1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
+  copyright_status: restricted
 - text: Ed Dames was part of the programme in the 1980s
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -334,6 +363,7 @@ references:
   claim_id: 248633cf-cf94-493a-bada-76d75f25ec90
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-248633cf-cf94-493a-bada-76d75f25ec90
+  copyright_status: publicly_accessible
 - text: Dames selected as one of five prototype Army members trained by Swann, 1983-1984
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -345,6 +375,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
+  copyright_status: publicly_accessible
 - text: Swann developed the remote-viewing structure used to train the prototype team
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -353,6 +384,7 @@ references:
   claim_id: 1484491c-9df4-47f0-8239-538988885b5e
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1484491c-9df4-47f0-8239-538988885b5e
+  copyright_status: publicly_accessible
 - text: Swann had Dames remote-view the Washington Monument as an early training target
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -362,6 +394,7 @@ references:
   claim_id: d73b2b6b-ec69-4281-a0f3-90de1c68740b
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d73b2b6b-ec69-4281-a0f3-90de1c68740b
+  copyright_status: publicly_accessible
 - text: Dames claims he was trained by Swann while serving in the Army in the 1980s
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -373,6 +406,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
+  copyright_status: publicly_accessible
 - text: Dames was the operations and training officer for the DOD's Project Stargate
     program
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -383,6 +417,7 @@ references:
   claim_id: e8a36c0e-bef2-4548-a6a6-189e68f69773
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-e8a36c0e-bef2-4548-a6a6-189e68f69773
+  copyright_status: publicly_accessible
 - text: Dames used Bob Monroe's programme on altered states and out-of-body experiences
     to evaluate recruits
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -394,6 +429,7 @@ references:
   claim_id: 41f89d54-ed22-4bae-8511-601c81902457
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-41f89d54-ed22-4bae-8511-601c81902457
+  copyright_status: publicly_accessible
 - text: The USAF chief of staff for intelligence did not believe the viewers could
     do what they claimed
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -404,6 +440,7 @@ references:
   claim_id: 78da8186-b6cb-4ffd-be55-ce4b2cada464
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-78da8186-b6cb-4ffd-be55-ce4b2cada464
+  copyright_status: publicly_accessible
 - text: Edwin C. May and colleagues responsible for the Cognitive Sciences Laboratory's
     work, 1986-1995
   source: Remote Viewing Secrets
@@ -411,6 +448,7 @@ references:
   claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-42a1e688-629a-4f67-b440-b62ef6ac89c5
+  copyright_status: restricted
 - text: CSL findings were shared with the operational unit at Fort Meade for most
     of its existence
   source: Remote Viewing Secrets
@@ -418,12 +456,14 @@ references:
   claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e74a0e85-b437-4e01-9e67-d3bd94306800
+  copyright_status: restricted
 - text: CSL findings were sometimes dismissed or discarded by Fort Meade project managers
   source: Remote Viewing Secrets
   location: ch9:9090-9364
   claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-03ab0d79-abbb-4414-82e9-789754dd07da
+  copyright_status: restricted
 - text: Large discrepancy between good and bad managers; full responsibility rested
     at Fort Meade
   source: Remote Viewing Secrets
@@ -431,6 +471,7 @@ references:
   claim_id: b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
+  copyright_status: restricted
 - text: Viewers took part in operations to locate hostages kidnapped by Islamic terrorist
     groups
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -442,6 +483,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
+  copyright_status: publicly_accessible
 - text: Viewers took part in operations tracing fugitive criminals within the United
     States
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -452,6 +494,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
+  copyright_status: publicly_accessible
 - text: 2017 CIA declassification released roughly 12 million pages of records
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -462,12 +505,14 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
+  copyright_status: publicly_accessible
 - text: As of 2013, 99% of Fort Meade operational material remained undeclassified
   source: Remote Viewing Secrets
   location: ch9:12963-13101
   claim_id: 5238c66b-a9f5-4778-8e30-ea34350a5640
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5238c66b-a9f5-4778-8e30-ea34350a5640
+  copyright_status: restricted
 - text: Since closure, McMoneagle has dealt with media companies, writers, and radio
     hosts
   source: Remote Viewing Secrets
@@ -475,18 +520,21 @@ references:
   claim_id: 1da01218-ad52-42c9-8e13-8320a0f317b1
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1da01218-ad52-42c9-8e13-8320a0f317b1
+  copyright_status: restricted
 - text: Roughly 80-85 people were involved over the programme's eighteen years
   source: Remote Viewing Secrets
   location: ch9:2589-2786
   claim_id: f81a036c-730b-4082-a39d-f7a602572282
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f81a036c-730b-4082-a39d-f7a602572282
+  copyright_status: restricted
 - text: Probably fewer than three dozen were remote viewers
   source: Remote Viewing Secrets
   location: ch9:2887-2931
   claim_id: f79243f7-6c87-4c80-a8ca-0dcf78c79e04
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f79243f7-6c87-4c80-a8ca-0dcf78c79e04
+  copyright_status: restricted
 - text: About half of non-viewer staff were scientists, the rest performed support
     functions
   source: Remote Viewing Secrets
@@ -494,18 +542,21 @@ references:
   claim_id: 7538a6df-66e1-44a3-930a-0ea547e263ed
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7538a6df-66e1-44a3-930a-0ea547e263ed
+  copyright_status: restricted
 - text: Dozens of targets produced successful predictions 90 to 365 days out
   source: Remote Viewing Secrets
   location: ch23:12195-12389
   claim_id: 2ebc91db-42a1-4da0-914d-cbc98615e51a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2ebc91db-42a1-4da0-914d-cbc98615e51a
+  copyright_status: restricted
 - text: Opinion divided on whether remote viewing could be taught
   source: Remote Viewing Secrets
   location: ch9:3779-3945
   claim_id: 70416c1d-2370-4af9-ae46-d9c401d808b6
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-70416c1d-2370-4af9-ae46-d9c401d808b6
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

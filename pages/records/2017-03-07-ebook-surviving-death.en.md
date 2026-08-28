@@ -18,6 +18,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ea06aeef-a14c-47d3-bce0-9dcba908980c
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-ea06aeef-a14c-47d3-bce0-9dcba908980c
+  copyright_status: restricted
 - text: More than 2,500 cases of children reporting past-life memories have been documented.
   source: Surviving Death
   location: ch10:1015-1112
@@ -26,6 +27,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7fd59429-cf37-427c-a99a-fdf0b4ddb756
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-7fd59429-cf37-427c-a99a-fdf0b4ddb756
+  copyright_status: restricted
 - text: The James Leininger case had records made before the identity of the alleged
     previous personality was discovered.
   source: Surviving Death
@@ -35,6 +37,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9928ce87-92c1-4c26-942e-0f8abc01eef6
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-9928ce87-92c1-4c26-942e-0f8abc01eef6
+  copyright_status: restricted
 - text: More than fifty details given by Ryan Hammons were verified as accurate.
   source: Surviving Death
   location: ch11:18445-18555
@@ -43,6 +46,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-599e5a35-e20f-4e43-81da-64ad969cbe13
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-599e5a35-e20f-4e43-81da-64ad969cbe13
+  copyright_status: restricted
 - text: The AWARE study investigated cardiac-arrest survivors at fifteen hospitals.
   source: Surviving Death
   location: ch16:9571-9741
@@ -51,6 +55,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2d3e8340-737d-4213-ba96-2d7d0ddb1cd5
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-2d3e8340-737d-4213-ba96-2d7d0ddb1cd5
+  copyright_status: restricted
 - text: The AWARE study included nine reports of near-death experiences, two containing
     detailed memories of the physical environment.
   source: Surviving Death
@@ -60,6 +65,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8e94d7bc-c456-4551-9b13-d4aaabbac51b
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-8e94d7bc-c456-4551-9b13-d4aaabbac51b
+  copyright_status: restricted
 - text: The Dutch prospective study involved 344 consecutive cardiac-arrest survivors.
   source: Surviving Death
   location: ch18:8580-8653
@@ -68,6 +74,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d91ec0a4-3aca-425f-a197-b65d8a99be0b
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-d91ec0a4-3aca-425f-a197-b65d8a99be0b
+  copyright_status: restricted
 - text: The living-agent psi hypothesis offers a counter-explanation to the survival
     hypothesis.
   source: Surviving Death
@@ -77,6 +84,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-449e54d2-9912-4036-94e9-327a871480b8
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-449e54d2-9912-4036-94e9-327a871480b8
+  copyright_status: restricted
 - text: Leslie Kean considers the debate between the two hypotheses scientifically
     unresolvable.
   source: Surviving Death
@@ -86,6 +94,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-80b6dc66-861c-401c-8dc6-31c252c0f250
+  copyright_status: restricted
 - text: The Emil Jensen communicator was identified as a person who had lived and
     died before the séances.
   source: Surviving Death
@@ -95,6 +104,7 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
   inspection_url: /records/2017-03-07-ebook-surviving-death#claim-d0b9bb1f-7243-4c6d-89bf-2d9c65867f07
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

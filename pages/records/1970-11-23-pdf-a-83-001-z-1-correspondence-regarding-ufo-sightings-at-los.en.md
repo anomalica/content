@@ -26,6 +26,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-3be0bd54-0014-4a56-a43b-c13e9f0a119a
+  copyright_status: public_domain
 - text: The reported sightings usually occurred between 21:00 and 23:00.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:280-385
@@ -36,6 +37,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-8052789c-0ade-4e38-92be-9d214f6eccb2
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-8052789c-0ade-4e38-92be-9d214f6eccb2
+  copyright_status: public_domain
 - text: The reported sightings usually occurred in the Jemez Mountains.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:280-385
@@ -46,6 +48,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-46e8f053-1bc9-44f7-98b6-a30ac82b13df
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-46e8f053-1bc9-44f7-98b6-a30ac82b13df
+  copyright_status: public_domain
 - text: The correspondent recalled green lights weaving in and out of mountain peaks.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:397-475
@@ -56,6 +59,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-273c2a2b-8cd2-42fb-980c-1ad288a5e695
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-273c2a2b-8cd2-42fb-980c-1ad288a5e695
+  copyright_status: public_domain
 - text: The sightings were reportedly notified to Protective Force Headquarters and
     expected to appear in its logs.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -67,6 +71,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-6c7e26b7-0c28-489b-a2e3-36229bc259c1
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-6c7e26b7-0c28-489b-a2e3-36229bc259c1
+  copyright_status: public_domain
 - text: The correspondent recalled five objects flying over Los Alamos in the afternoon.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:590-663
@@ -77,6 +82,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-47828b07-ea37-4470-96ca-75255619955f
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-47828b07-ea37-4470-96ca-75255619955f
+  copyright_status: public_domain
 - text: The five objects reportedly travelled from south-east to north-west in formation.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:674-748
@@ -87,6 +93,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-27643c78-c103-42d5-84b0-e5f510817552
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-27643c78-c103-42d5-84b0-e5f510817552
+  copyright_status: public_domain
 - text: The correspondent suggested that Protective Force personnel on the Hill in
     the early 1950s might recall the sightings.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -98,6 +105,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-ab6df278-9916-449b-975b-4823a8d86ff4
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-ab6df278-9916-449b-975b-4823a8d86ff4
+  copyright_status: public_domain
 - text: James L. Tuck wrote to the U.S. Army Engineering School concerning the recipe
     for simulated atomic bomb demonstrations.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -109,6 +117,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-8a4a4a02-011d-42bb-978f-b7c7306e08d5
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-8a4a4a02-011d-42bb-978f-b7c7306e08d5
+  copyright_status: public_domain
 - text: The record says that James L. Tuck wrote a report on ball lightning.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:2014-2156
@@ -119,6 +128,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-ca74f9da-92ad-4ae8-a519-797fc3ebe9cb
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-ca74f9da-92ad-4ae8-a519-797fc3ebe9cb
+  copyright_status: public_domain
 - text: An anonymous correspondent described James M. McCampbell as a UFO believer.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
   location: char:2068-2128
@@ -128,6 +138,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-220089a0-5e01-4aad-81e6-97f287ffeae4
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-220089a0-5e01-4aad-81e6-97f287ffeae4
+  copyright_status: public_domain
 - text: A copy of James M. McCampbell’s UFOLOGY was listed at Mesa Public Library
     under call number 629.1338 M125u.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -139,6 +150,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-2d5ae697-3d53-41d8-af9d-33d42578a2b9
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-2d5ae697-3d53-41d8-af9d-33d42578a2b9
+  copyright_status: public_domain
 - text: The correspondent considered McCampbell’s chapter “Flight and Propulsion”
     relevant to Albert Einstein and unified field theory.
   source: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
@@ -152,6 +164,7 @@ references:
   record_hash: 324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572
   workbench_url: https://workbench.anomalica.is/324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
   inspection_url: /records/1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los#claim-2da96f0f-d395-47a6-ac02-06bfe959c462
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

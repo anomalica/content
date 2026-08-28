@@ -87,6 +87,7 @@ references:
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
+  copyright_status: public_domain
 - text: Nathan Twining recommended a detailed study of UAPs, which became known as
     Project Sign
   source: In Plain Sight
@@ -94,6 +95,7 @@ references:
   claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
+  copyright_status: restricted
 - text: Project SAUCER was formalised into an official, high-priority programme named
     Project SIGN
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -104,6 +106,7 @@ references:
   claim_id: 5272ceb4-83f0-40a9-86c5-0a0e4035e9b3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5272ceb4-83f0-40a9-86c5-0a0e4035e9b3
+  copyright_status: public_domain
 - text: ATIC assumed control of Project SIGN on 1948-01-23
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -113,6 +116,7 @@ references:
   claim_id: 3f5a1312-4839-4879-9aaa-6823c1093f3d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3f5a1312-4839-4879-9aaa-6823c1093f3d
+  copyright_status: public_domain
 - text: An employee interviewed by AARO claimed the project began a year earlier,
     in 1946, under the Project SAUCER name
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -124,6 +128,7 @@ references:
   claim_id: ac62cbd0-e319-4d58-9ee4-f7c768d9b76d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ac62cbd0-e319-4d58-9ee4-f7c768d9b76d
+  copyright_status: public_domain
 - text: Impetus was to determine whether objects were Soviet secret weapons or extra-planetary
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -133,6 +138,7 @@ references:
   claim_id: ea3ea9d3-b623-48e6-83ef-c847aedd6082
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ea3ea9d3-b623-48e6-83ef-c847aedd6082
+  copyright_status: public_domain
 - text: Staff reviewed intelligence on German weaponry to check for Soviet possession
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -143,6 +149,7 @@ references:
   claim_id: 83d711a1-8b87-4afd-b4ef-54bc0be5d4aa
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-83d711a1-8b87-4afd-b4ef-54bc0be5d4aa
+  copyright_status: public_domain
 - text: Between 1947 and 1949, USAF personnel investigated 243 reported UAP sightings
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -151,12 +158,14 @@ references:
   claim_id: 447d013a-77f2-4f73-a343-741ae02dda20
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-447d013a-77f2-4f73-a343-741ae02dda20
+  copyright_status: public_domain
 - text: J. Allen Hynek had previously worked as an advisor for Project Sign
   source: In Plain Sight
   location: ch8:11805-11857
   claim_id: d5123701-5106-4f8c-800d-79c3d4cd3731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d5123701-5106-4f8c-800d-79c3d4cd3731
+  copyright_status: restricted
 - text: Hynek said the whole issue 'seems utterly ridiculous' in his first year on
     the project
   source: In Plain Sight
@@ -164,12 +173,14 @@ references:
   claim_id: 25989dbe-e0cf-4289-84ab-cefa36a563b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25989dbe-e0cf-4289-84ab-cefa36a563b6
+  copyright_status: restricted
 - text: Edward Ruppelt was a US Air Force officer privy to the Project Sign investigations
   source: In Plain Sight
   location: ch8:1378-1466
   claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b6c1dde-c122-4963-bdb5-c22d7a45ee96
+  copyright_status: restricted
 - text: In 1949-02 Project SIGN concluded no definite evidence proved or disproved
     the objects as real aircraft of unknown configuration
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -181,6 +192,7 @@ references:
   claim_id: 7c2b249b-c511-472b-94ac-a55b65c1d047
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7c2b249b-c511-472b-94ac-a55b65c1d047
+  copyright_status: public_domain
 - text: Nearly all sightings were attributed to misinterpretation, hysteria, hallucination,
     or hoax
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -191,6 +203,7 @@ references:
   claim_id: 9511da36-d1dc-4fe1-b777-8ae900fe2db7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9511da36-d1dc-4fe1-b777-8ae900fe2db7
+  copyright_status: public_domain
 - text: Project SIGN recommended continued military intelligence control over UFO
     investigations
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -201,6 +214,7 @@ references:
   claim_id: d92f0a36-784b-49c1-8b6c-b2341cb0de4d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d92f0a36-784b-49c1-8b6c-b2341cb0de4d
+  copyright_status: public_domain
 - text: Findings were inconclusive but open to the possibility of extraterrestrial
     origins
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -208,6 +222,7 @@ references:
   claim_id: 3c6a7780-f5d1-4b64-af32-3f2843e4e221
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c6a7780-f5d1-4b64-af32-3f2843e4e221
+  copyright_status: restricted
 - text: Staff allegedly drafted and sent the Estimate of the Situation report concluding
     UFOs were interplanetary
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -219,6 +234,7 @@ references:
   claim_id: 3d22e6c9-0bab-445a-8150-a229d38f8597
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3d22e6c9-0bab-445a-8150-a229d38f8597
+  copyright_status: public_domain
 - text: Staff who leaned towards the interplanetary explanation were reportedly purged
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -228,6 +244,7 @@ references:
   claim_id: 3ac27daf-5c26-4b31-9cb6-7bb714d9f16b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3ac27daf-5c26-4b31-9cb6-7bb714d9f16b
+  copyright_status: public_domain
 - text: Rejection of the report may have caused Pentagon leadership's loss of confidence,
     leading to Project GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -239,6 +256,7 @@ references:
   claim_id: e984df86-4539-467a-8a19-1d2ece79ac6f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e984df86-4539-467a-8a19-1d2ece79ac6f
+  copyright_status: public_domain
 - text: Project SIGN was renamed Project GRUDGE in approximately 1949-02
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -247,18 +265,21 @@ references:
   claim_id: 6c49323d-2552-4b92-8403-073fb6b8cf75
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6c49323d-2552-4b92-8403-073fb6b8cf75
+  copyright_status: public_domain
 - text: The air force-controlled Project Sign investigation ran for one year
   source: In Plain Sight
   location: ch8:1320-1371
   claim_id: ca8ce4dd-73b6-41a1-b017-926ef93a487b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ca8ce4dd-73b6-41a1-b017-926ef93a487b
+  copyright_status: restricted
 - text: USAF studied UAP in 1948 and 1949 under Project Sign and Project Grudge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:27859-27984
   claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
+  copyright_status: restricted
 - text: Ruppelt sought to correct the mistakes of Project SIGN and the former Project
     GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -269,6 +290,7 @@ references:
   claim_id: 6b01fcf7-8c6a-4532-9941-e4e51335c363
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6b01fcf7-8c6a-4532-9941-e4e51335c363
+  copyright_status: public_domain
 - text: The reestablished Project GRUDGE reviewed all previous cases from Project
     SIGN, the original Project GRUDGE, and the ATIC interim period
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -279,6 +301,7 @@ references:
   claim_id: acaf2b07-3d2b-4f35-8fd2-7c54cef6ed99
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-acaf2b07-3d2b-4f35-8fd2-7c54cef6ed99
+  copyright_status: public_domain
 - text: A. Ray Gordon led the CIA Special Study Group, reviewing ATIC's data from
     Projects SIGN through GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -289,6 +312,7 @@ references:
   claim_id: d8dbcd58-dfbf-4b6a-8471-d9b86c7bceae
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d8dbcd58-dfbf-4b6a-8471-d9b86c7bceae
+  copyright_status: public_domain
 - text: Elizondo conducted a review of records including Project Blue Book and its
     predecessors, Project Sign and Project Grudge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -296,6 +320,7 @@ references:
   claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -32,6 +32,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-f314c11c-0310-403e-b9b2-ee1e5aaa9a0c
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-f314c11c-0310-403e-b9b2-ee1e5aaa9a0c
+  copyright_status: publicly_accessible
 - text: Coulthart said NASA lunar and shuttle imagery appeared to be outside the study
     team's remit.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -45,6 +46,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-3f1e375f-208d-492e-9e9e-9ef185939714
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-3f1e375f-208d-492e-9e9e-9ef185939714
+  copyright_status: publicly_accessible
 - text: Derakhshani said the war.gov/UFOs release included NASA files.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -56,6 +58,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-59dbf528-cbb9-426c-898c-b37fce0b15b3
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-59dbf528-cbb9-426c-898c-b37fce0b15b3
+  copyright_status: publicly_accessible
 - text: Derakhshani said other similar anomalies were omitted from the release.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -67,6 +70,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-81a8ced5-3234-44db-9d52-e05fe11fa6f3
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-81a8ced5-3234-44db-9d52-e05fe11fa6f3
+  copyright_status: publicly_accessible
 - text: The release included an Apollo 17 image showing three blue lights in a triangular
     arrangement.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -80,6 +84,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-79100e7b-36ac-4cfa-8b52-b76e8b5145b3
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-79100e7b-36ac-4cfa-8b52-b76e8b5145b3
+  copyright_status: publicly_accessible
 - text: The March to the Moon Archive was described as holding higher-resolution Apollo
     film scans.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -93,6 +98,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-cd31734d-45bf-40a5-8af8-9b3833ce119a
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-cd31734d-45bf-40a5-8af8-9b3833ce119a
+  copyright_status: publicly_accessible
 - text: The archive offers a 1.3 gigabyte TIF file of the Apollo 17 blue-lights image.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -106,6 +112,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-0bee9c25-e7d4-4853-87e8-a11987e4736e
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-0bee9c25-e7d4-4853-87e8-a11987e4736e
+  copyright_status: publicly_accessible
 - text: Multiple archival scans were said to show the lights in the same configuration
     and location.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -119,6 +126,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-2d12d0c3-be04-434a-b8fe-5d34000dcdbe
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-2d12d0c3-be04-434a-b8fe-5d34000dcdbe
+  copyright_status: publicly_accessible
 - text: NASA and the Department of War were said to have acquired the original Apollo
     17 film for further analysis.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -132,6 +140,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-9df814bc-4062-4b6f-b0fd-359e531799ca
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-9df814bc-4062-4b6f-b0fd-359e531799ca
+  copyright_status: publicly_accessible
 - text: The STS-48 and STS-80 videos were described as showing objects interpreted
     by some viewers as bogeys.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -146,6 +155,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-abfc2045-8c7a-4dd8-afb4-e8564de0580f
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-abfc2045-8c7a-4dd8-afb4-e8564de0580f
+  copyright_status: publicly_accessible
 - text: The STS-48 object's movement included a flash followed by an apparent departure
     through the airglow.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -160,6 +170,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-31edd3b7-626a-43ba-bddc-f7c838096f88
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-31edd3b7-626a-43ba-bddc-f7c838096f88
+  copyright_status: publicly_accessible
 - text: Jack Kasher's analysis was said to identify a half-second stop before the
     object's apparent acceleration.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -173,6 +184,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-c57548f9-3bb4-4a7c-8a60-37a4f5df2cf9
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-c57548f9-3bb4-4a7c-8a60-37a4f5df2cf9
+  copyright_status: publicly_accessible
 - text: NASA's official statement attributed the objects to orbiter-generated debris
     illuminated by sunlight.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -184,6 +196,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-5d3546dc-5843-468f-9adf-c79712c418b2
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-5d3546dc-5843-468f-9adf-c79712c418b2
+  copyright_status: publicly_accessible
 - text: NASA's statement attributed the flash and abrupt particle movements to attitude-thruster
     activity.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -197,6 +210,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-92b0f1cf-a249-4732-949b-c2fb30f6d380
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-92b0f1cf-a249-4732-949b-c2fb30f6d380
+  copyright_status: publicly_accessible
 - text: Tom Jones explained STS-80 as small ice and debris particles illuminated after
     leaving the orbiter's shadow.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -211,6 +225,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-25828c53-cbe2-4bbe-8a6b-4c5d5c27bbaa
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-25828c53-cbe2-4bbe-8a6b-4c5d5c27bbaa
+  copyright_status: publicly_accessible
 - text: Derakhshani said Jones's explanation did not fit the STS-80 footage.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -222,6 +237,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-db818bbe-7eca-434b-9e57-be0d042946c9
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-db818bbe-7eca-434b-9e57-be0d042946c9
+  copyright_status: publicly_accessible
 - text: Carlotto's 2005 paper analysed the propulsive capabilities of the STS-80 F1
     object.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -235,6 +251,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
+  copyright_status: publicly_accessible
 - text: The paper's calculated speed for F1 was approximately 800 kilometres per second.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -245,6 +262,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-c6eaa4a3-01c8-4abd-9aeb-b10edf5258c9
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-c6eaa4a3-01c8-4abd-9aeb-b10edf5258c9
+  copyright_status: publicly_accessible
 - text: Coulthart considered it confirmed that astronauts saw objects associated with
     lunar anomalies during the 1960s and 1970s.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -257,6 +275,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-11fc7fe8-acf8-42b0-a08e-e29227b39319
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-11fc7fe8-acf8-42b0-a08e-e29227b39319
+  copyright_status: publicly_accessible
 - text: Derakhshani said NASA's archives contain unexplained and undiscussed anomalous
     images.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -269,6 +288,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-ec3b4014-95de-4bdb-b648-5dd2d1cfdb9d
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-ec3b4014-95de-4bdb-b648-5dd2d1cfdb9d
+  copyright_status: publicly_accessible
 - text: Coulthart called for congressional questioning of astronauts about what they
     witnessed and were told to keep quiet about.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -280,6 +300,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-bddf6cac-4dbb-4e42-8f96-623dcf1490bc
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-bddf6cac-4dbb-4e42-8f96-623dcf1490bc
+  copyright_status: publicly_accessible
 - text: Coulthart wanted astronauts to testify under oath before a congressional oversight
     committee.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -294,6 +315,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-756e794e-38c1-479e-b02c-2121229b237f
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-756e794e-38c1-479e-b02c-2121229b237f
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

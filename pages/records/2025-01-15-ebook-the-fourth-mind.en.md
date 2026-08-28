@@ -24,6 +24,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-82792c00-c8f2-48fe-9521-bb82fa86bd53
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-82792c00-c8f2-48fe-9521-bb82fa86bd53
+  copyright_status: restricted
 - text: The first part analyses the physical bodies of one class of beings called
     visitors.
   source: The Fourth Mind (2025-01-15)
@@ -33,6 +34,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-03991d5f-55da-41c6-b666-8991d09be1bd
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-03991d5f-55da-41c6-b666-8991d09be1bd
+  copyright_status: restricted
 - text: The first part covers the visitors' anatomy, genetics, brains and mental functioning.
   source: The Fourth Mind (2025-01-15)
   location: ch8:355-488
@@ -41,6 +43,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b42af03c-731e-4dec-bd9f-968e7cca307d
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-b42af03c-731e-4dec-bd9f-968e7cca307d
+  copyright_status: restricted
 - text: The second part concerns human beings and an earlier human condition involving
     similar mental powers.
   source: The Fourth Mind (2025-01-15)
@@ -50,6 +53,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1af5cc77-7d85-4711-940b-63f47f000173
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-1af5cc77-7d85-4711-940b-63f47f000173
+  copyright_status: restricted
 - text: The title refers to relearning a fourth-dimensional mind that is dormant in
     humans but active in visitors.
   source: The Fourth Mind (2025-01-15)
@@ -59,6 +63,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3cc1cc30-4cf9-45f7-8eb8-7fa7c0299ea8
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-3cc1cc30-4cf9-45f7-8eb8-7fa7c0299ea8
+  copyright_status: restricted
 - text: An anonymous Reddit document sent to Whitley Strieber in 2024 contains a detail
     also present in his private observations.
   source: The Fourth Mind (2025-01-15)
@@ -68,6 +73,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c3dd5b53-d073-4368-9644-857a081b9ddf
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-c3dd5b53-d073-4368-9644-857a081b9ddf
+  copyright_status: restricted
 - text: Whitley Strieber regards the correspondence between the document and his observations
     as giving it significant credibility.
   source: The Fourth Mind (2025-01-15)
@@ -77,6 +83,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-7c4bcebd-59a1-4922-9d50-12e021b64508
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-7c4bcebd-59a1-4922-9d50-12e021b64508
+  copyright_status: restricted
 - text: The document's anonymous author claimed to have worked in an Exo-Biospheric-Organisms
     programme.
   source: The Fourth Mind (2025-01-15)
@@ -86,6 +93,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b1e9ef4f-f30b-42fe-a795-b947ffa0b316
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-b1e9ef4f-f30b-42fe-a795-b947ffa0b316
+  copyright_status: restricted
 - text: The source notes that the document does not identify its examined bodies as
     those recovered at Roswell.
   source: The Fourth Mind (2025-01-15)
@@ -95,6 +103,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-55df2a28-2755-4680-9969-420d25f9f09f
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-55df2a28-2755-4680-9969-420d25f9f09f
+  copyright_status: restricted
 - text: Paragraph 13 of the Walter Haut affidavit describes bodies visible beneath
     a tarpaulin in Building 84.
   source: The Fourth Mind (2025-01-15)
@@ -104,6 +113,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c05ada3a-30ae-4ac8-b7d5-60d3e39f66b5
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-c05ada3a-30ae-4ac8-b7d5-60d3e39f66b5
+  copyright_status: restricted
 - text: The affidavit describes unusually large heads and bodies approximately the
     size indicated by a 10-year-old child.
   source: The Fourth Mind (2025-01-15)
@@ -113,6 +123,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-662a5f6b-6db8-4174-934e-878cfcc81d9e
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-662a5f6b-6db8-4174-934e-878cfcc81d9e
+  copyright_status: restricted
 - text: The source identifies the 1996 Varginha interview as the only earlier anatomical
     description before the Reddit document appeared.
   source: The Fourth Mind (2025-01-15)
@@ -122,6 +133,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2d7aeef8-891d-4b8d-8e3e-f9cf80abd438
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-2d7aeef8-891d-4b8d-8e3e-f9cf80abd438
+  copyright_status: restricted
 - text: The Varginha interview and Reddit document agree on a narrow neck.
   source: The Fourth Mind (2025-01-15)
   location: ch13:21313-21385
@@ -130,6 +142,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2347abc9-c175-4fee-9596-d88e79352929
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-2347abc9-c175-4fee-9596-d88e79352929
+  copyright_status: restricted
 - text: The two sources give radically different descriptions of the head.
   source: The Fourth Mind (2025-01-15)
   location: ch13:21396-21523
@@ -138,6 +151,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f0dfe9d3-f090-4ec5-8dcb-1a42592d0bb5
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-f0dfe9d3-f090-4ec5-8dcb-1a42592d0bb5
+  copyright_status: restricted
 - text: The anonymous Reddit document attributes ultra-fast travel, unlimited propulsion
     and gravity control to the visitors.
   source: The Fourth Mind (2025-01-15)
@@ -147,6 +161,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-52782d64-2c64-4fd2-b120-b80400f3afe5
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-52782d64-2c64-4fd2-b120-b80400f3afe5
+  copyright_status: restricted
 - text: The document attributes invisibility, levitation, self-healing and form changing
     to the visitors.
   source: The Fourth Mind (2025-01-15)
@@ -156,6 +171,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0f805d9e-fd51-4c51-b71f-e9979c98f114
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-0f805d9e-fd51-4c51-b71f-e9979c98f114
+  copyright_status: restricted
 - text: The document attributes telepathy, mind control, removal of souls and false-memory
     creation to the visitors.
   source: The Fourth Mind (2025-01-15)
@@ -165,6 +181,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-89a23547-2104-404d-937f-e29b139fe96c
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-89a23547-2104-404d-937f-e29b139fe96c
+  copyright_status: restricted
 - text: Whitley Strieber considers unusual abilities to be side effects of addressing
     the universe from outside time.
   source: The Fourth Mind (2025-01-15)
@@ -174,6 +191,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
+  copyright_status: restricted
 - text: Whitley Strieber believes levitation, mind control and telepathy are human
     capabilities that people do not realise they possess.
   source: The Fourth Mind (2025-01-15)
@@ -183,6 +201,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-eebfe108-ec99-4c62-9c99-93020dc77eed
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-eebfe108-ec99-4c62-9c99-93020dc77eed
+  copyright_status: restricted
 - text: Whitley Strieber links human memory problems to the Younger Dryas.
   source: The Fourth Mind (2025-01-15)
   location: ch20:23156-23330
@@ -191,6 +210,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e1abace0-3be1-43a6-be8d-786a89e397fd
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-e1abace0-3be1-43a6-be8d-786a89e397fd
+  copyright_status: restricted
 - text: Whitley Strieber says personal experience gives him reason to believe the
     soul exists and is primary reality for humans and visitors.
   source: The Fourth Mind (2025-01-15)
@@ -200,6 +220,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-23790c3b-609f-4e49-b607-aed9d960182e
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-23790c3b-609f-4e49-b607-aed9d960182e
+  copyright_status: restricted
 - text: The book explores Strieber's relationship with visitors, their aims and possible
     human responses.
   source: The Fourth Mind (2025-01-15)
@@ -209,6 +230,7 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3c68e8a4-bf8e-4e12-9c14-f94d34baafe0
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-3c68e8a4-bf8e-4e12-9c14-f94d34baafe0
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

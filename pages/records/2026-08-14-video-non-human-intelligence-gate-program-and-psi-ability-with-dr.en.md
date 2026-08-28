@@ -33,6 +33,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4653351c-4d52-40c2-809a-e3dd224f0c04
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-4653351c-4d52-40c2-809a-e3dd224f0c04
+  copyright_status: publicly_accessible
 - text: Ramsay said that Mossbridge had been in the Students on Active Research gifted
     programme.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -44,6 +45,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c234cdd5-3555-45df-855e-3789702c8291
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c234cdd5-3555-45df-855e-3789702c8291
+  copyright_status: publicly_accessible
 - text: Mossbridge said that some gifted-programme testing did not appear to concern
     giftedness or benefit pupils and may have involved deliberate memory removal.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -57,6 +59,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-540f8906-8c54-4203-a652-8fd9738ca2aa
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-540f8906-8c54-4203-a652-8fd9738ca2aa
+  copyright_status: publicly_accessible
 - text: Mossbridge distinguished remote viewing from an out-of-body experience and
     said that the body acts as a sensor.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -70,6 +73,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-b920ad76-b26a-4733-b09f-972a7f6bd559
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-b920ad76-b26a-4733-b09f-972a7f6bd559
+  copyright_status: publicly_accessible
 - text: Mossbridge reported that participants who rated themselves higher in unconditional
     love performed better at precognitive remote viewing in an in-person experiment
     with 36 participants.
@@ -84,6 +88,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-d24b06ad-21ed-4ecd-a6b6-5d2f382072c1
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-d24b06ad-21ed-4ecd-a6b6-5d2f382072c1
+  copyright_status: publicly_accessible
 - text: Mossbridge said that the unconditional-love and precognitive-remote-viewing
     finding remained visible in an online replication with 305 participants.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -95,6 +100,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-f5ce6772-cda4-427c-8651-5940e2438e64
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-f5ce6772-cda4-427c-8651-5940e2438e64
+  copyright_status: publicly_accessible
 - text: Mossbridge said that recent work used large language models to judge remote-viewing
     responses and found larger effects.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -108,6 +114,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-723eca9d-6eba-4775-8fee-d16f7af60e23
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-723eca9d-6eba-4775-8fee-d16f7af60e23
+  copyright_status: publicly_accessible
 - text: Mossbridge said that artificial-intelligence judging removes positional bias
     but does not remove human bias embedded in the model.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -120,6 +127,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7b98e636-19b5-46d1-90a0-424617e0a7e2
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-7b98e636-19b5-46d1-90a0-424617e0a7e2
+  copyright_status: publicly_accessible
 - text: Mossbridge described the informational substrate as timeless and spaceless,
     containing information about the universe.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -135,6 +143,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5b1bc890-2207-4b99-bfd1-95f94b370a2a
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-5b1bc890-2207-4b99-bfd1-95f94b370a2a
+  copyright_status: publicly_accessible
 - text: Mossbridge said that the Scientific Coalition for UAP Studies had agreed to
     study consciousness as well as craft.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -148,6 +157,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-22179427-6554-495f-9424-6662a413d4f0
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-22179427-6554-495f-9424-6662a413d4f0
+  copyright_status: publicly_accessible
 - text: Ramsay described waking out-of-body experiences, including one after meditation
     during which he walked around his room and returned after hearing a female voice.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -163,6 +173,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c5aa6a2c-4aa5-46b9-b036-69956b49dd6a
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c5aa6a2c-4aa5-46b9-b036-69956b49dd6a
+  copyright_status: publicly_accessible
 - text: Mossbridge proposed that an out-of-body experience might involve movement
     within the brain's construction of the body and room.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -176,6 +187,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
+  copyright_status: publicly_accessible
 - text: Mossbridge divided time travel into mental, informational and physical forms.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -188,6 +200,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ef0ffcdc-0882-41c3-ada2-6b619f28769e
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-ef0ffcdc-0882-41c3-ada2-6b619f28769e
+  copyright_status: publicly_accessible
 - text: Mossbridge said that American Electrodynamics was developing an informational
     time machine and that Applied Love Labs was developing technology to help people
     experience unconditional love.
@@ -201,6 +214,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-68b3a314-43db-48cf-b6e4-640dbae5c849
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-68b3a314-43db-48cf-b6e4-640dbae5c849
+  copyright_status: publicly_accessible
 - text: Mossbridge said that Time Machine was available at timemachine.love and that
     its study had participants use it for 10 days.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -212,6 +226,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c745fae9-c83e-417b-baa9-c8742e87ce52
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c745fae9-c83e-417b-baa9-c8742e87ce52
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

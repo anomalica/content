@@ -53,6 +53,7 @@ references:
   claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f60a097b-1c0b-4280-a8c0-cfef0017d988
+  copyright_status: restricted
 - text: The company is a space technology company based in Las Vegas, Nevada, founded
     in 1998
   source: In Plain Sight
@@ -60,6 +61,7 @@ references:
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
+  copyright_status: restricted
 - text: NASA and other space companies use its habitats and equipment for their reliability
     and safety
   source: American Cosmic
@@ -67,6 +69,7 @@ references:
   claim_id: bb4e5adf-57b9-4b3e-a180-71035c55bf36
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bb4e5adf-57b9-4b3e-a180-71035c55bf36
+  copyright_status: restricted
 - text: Bigelow Aerospace was the contractor that ran the Pentagon's UFO programme
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 78
@@ -74,6 +77,7 @@ references:
   claim_id: 233590ec-fa47-49d4-af3f-565329bd7de8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-233590ec-fa47-49d4-af3f-565329bd7de8
+  copyright_status: publicly_accessible
 - text: The AAWSAP contract was awarded to a Bigelow Aerospace subsidiary owned by
     Robert Bigelow
   source: Statement to Congress
@@ -84,6 +88,7 @@ references:
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
   inspection_url: /records/undated-pdf-statement-to-congress#claim-d314c627-a752-43d3-a286-835241ddff40
+  copyright_status: public_domain
 - text: AAWSAP was funded through the DIA and run using Bigelow Aerospace to investigate
     the UFO phenomenon
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -94,6 +99,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-81abc27c-22f7-45ef-8f3c-1a3bf124e852
+  copyright_status: publicly_accessible
 - text: AATIP funding went to Bigelow Aerospace, which hired subcontractors and solicited
     research
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -104,6 +110,7 @@ references:
   claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
+  copyright_status: publicly_accessible
 - text: Puthoff was a senior scientist for Bigelow Aerospace working on AATIP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:09:33.4-00:09:46.9
@@ -114,6 +121,7 @@ references:
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
   inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
+  copyright_status: publicly_accessible
 - text: Puthoff commissioned about 36 forecasting papers for Bigelow Aerospace without
     disclosing a UAP connection
   source: 'Episode 73: Science vs. Secrecy'
@@ -125,6 +133,7 @@ references:
   claim_id: 65232dd7-cf3f-41f1-84be-70127118b855
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-65232dd7-cf3f-41f1-84be-70127118b855
+  copyright_status: publicly_accessible
 - text: During an unfunded period, the follow-on programme's participants had support
     from Bigelow Aerospace and other places
   source: 'Episode 73: Science vs. Secrecy'
@@ -133,6 +142,7 @@ references:
   claim_id: cdcf1211-1073-4e9e-b0ab-d7852b0543ed
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-cdcf1211-1073-4e9e-b0ab-d7852b0543ed
+  copyright_status: publicly_accessible
 - text: The contract required the Las Vegas plant be engineered to accept, store,
     and study exotic materials
   source: Statement to Congress
@@ -143,12 +153,14 @@ references:
   claim_id: 761022c7-f81c-479f-b0c6-5c3bfec1942d
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
   workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-761022c7-f81c-479f-b0c6-5c3bfec1942d
+  copyright_status: public_domain
 - text: An alien logo is painted on the exterior of the Las Vegas building
   source: In Plain Sight
   location: ch17:5779-5906
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  copyright_status: restricted
 - text: Buildings were modified to store metal alloys said by Elizondo and AATIP contractors
     to have been recovered from UAP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -160,6 +172,7 @@ references:
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
+  copyright_status: publicly_accessible
 - text: Several attempts were made to divest materials to AAWSAP or to Bigelow Aerospace
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:12:52.7-00:12:57.2
@@ -167,6 +180,7 @@ references:
   claim_id: 21cd8e31-9e61-4a9b-b467-bf048283d04e
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-21cd8e31-9e61-4a9b-b467-bf048283d04e
+  copyright_status: publicly_accessible
 - text: A plan for Bigelow Aerospace to build facilities to house Lockheed Martin
     Space Systems Company materials never materialised
   source: 'Episode 73: Science vs. Secrecy'
@@ -175,6 +189,7 @@ references:
   claim_id: e4fb1fa3-936e-465d-8e40-8976d51107ff
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e4fb1fa3-936e-465d-8e40-8976d51107ff
+  copyright_status: publicly_accessible
 - text: Under the Kona Blue proposal, assets were to move from Lockheed Martin to
     Bigelow Aerospace
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -184,12 +199,14 @@ references:
   claim_id: 0738e5c7-54c4-42af-98a5-102be9d49043
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0738e5c7-54c4-42af-98a5-102be9d49043
+  copyright_status: publicly_accessible
 - text: Blumenthal later said he had learned no materials were in fact provided
   source: In Plain Sight
   location: ch21:18231-18380
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

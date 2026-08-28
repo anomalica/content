@@ -56,6 +56,7 @@ references:
   claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
+  copyright_status: publicly_accessible
 - text: Daniel K. Inouye died in 2012
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -64,12 +65,14 @@ references:
   claim_id: 8853b14e-db3f-4564-b1ba-76cc75e678d0
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8853b14e-db3f-4564-b1ba-76cc75e678d0
+  copyright_status: publicly_accessible
 - text: Inouye was a World War Two war hero who died in 2012
   source: In Plain Sight
   location: ch17:3833-3896
   claim_id: 13457c3c-0544-42d7-a59d-ded1a977cf8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13457c3c-0544-42d7-a59d-ded1a977cf8d
+  copyright_status: restricted
 - text: Inouye received the Medal of Honor, the highest US military award, for conspicuous
     gallantry
   source: In Plain Sight
@@ -77,12 +80,14 @@ references:
   claim_id: 28b303c0-ff23-4f0b-951a-2c809980290a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28b303c0-ff23-4f0b-951a-2c809980290a
+  copyright_status: restricted
 - text: Inouye lost an arm while serving in the US military during World War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18564-18619
   claim_id: 74181370-53a1-4f80-b2f8-310b87b5d908
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-74181370-53a1-4f80-b2f8-310b87b5d908
+  copyright_status: restricted
 - text: Inouye was well known for warning of the risks posed by covert government
     power
   source: In Plain Sight
@@ -90,6 +95,7 @@ references:
   claim_id: c9cde423-2073-41fd-ac8b-4dd724d2a565
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c9cde423-2073-41fd-ac8b-4dd724d2a565
+  copyright_status: restricted
 - text: During the Iran-Contra Senate investigations, Inouye was very critical of
     those he held culpable for the scandal
   source: In Plain Sight
@@ -97,6 +103,7 @@ references:
   claim_id: 05aa27d7-6a48-4bcd-8015-dd64d30430b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05aa27d7-6a48-4bcd-8015-dd64d30430b6
+  copyright_status: restricted
 - text: Inouye decried the notion of a shadowy government free from checks and balances
     and the law itself
   source: In Plain Sight
@@ -104,6 +111,7 @@ references:
   claim_id: 8c630c86-7a92-4891-acab-ba7ed39658a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c630c86-7a92-4891-acab-ba7ed39658a6
+  copyright_status: restricted
 - text: Reid summoned Stevens and Inouye to a secure room in the Capitol
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -113,6 +121,7 @@ references:
   claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
+  copyright_status: publicly_accessible
 - text: Reid said the meeting was one of the easiest he ever had
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -122,6 +131,7 @@ references:
   claim_id: 7b9e3b16-62b1-4d9d-88de-0076232201d8
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-7b9e3b16-62b1-4d9d-88de-0076232201d8
+  copyright_status: publicly_accessible
 - text: None of Reid, Stevens or Inouye wanted a public Senate floor debate about
     the AATIP funding
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -132,6 +142,7 @@ references:
   claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
+  copyright_status: publicly_accessible
 - text: 'Reid: ''This was so-called black money. Stevens knows about it, Inouye knows
     about it...'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -143,6 +154,7 @@ references:
   claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+  copyright_status: publicly_accessible
 - text: Reid approached Inouye and Stevens to secure $22 million in funding for a
     UAP study
   source: In Plain Sight
@@ -150,6 +162,7 @@ references:
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  copyright_status: restricted
 - text: AAWSAP was supported by DIA Director Michael D. Maples and funded through
     the efforts of Reid, Stevens and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -157,6 +170,7 @@ references:
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
+  copyright_status: restricted
 - text: Reid, Stevens and Inouye together controlled congressional spending for black-budget
     Pentagon programs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -164,6 +178,7 @@ references:
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

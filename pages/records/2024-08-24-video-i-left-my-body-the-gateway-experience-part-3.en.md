@@ -30,6 +30,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-54cee47d-9452-4930-8bdd-7b5d1dd8541e
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-54cee47d-9452-4930-8bdd-7b5d1dd8541e
+  copyright_status: publicly_accessible
 - text: Graham Nichols was described as a leading figure in out-of-body-experience
     study.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -40,6 +41,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
+  copyright_status: publicly_accessible
 - text: Nichols was described as having explored consciousness and developed technology
     to assist out-of-body experiences.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -52,6 +54,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-a82eaf4d-00ee-479a-a351-4e9d0d37acc0
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-a82eaf4d-00ee-479a-a351-4e9d0d37acc0
+  copyright_status: publicly_accessible
 - text: Nichols developed the infraliminal sound device.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:09.9-00:06:17.8
@@ -62,6 +65,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-a6ede444-049f-408d-b13e-d8364ed0901e
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-a6ede444-049f-408d-b13e-d8364ed0901e
+  copyright_status: publicly_accessible
 - text: The source recounts Nichols witnessing an explosion five days before it occurred.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:19.0-00:06:31.4
@@ -73,6 +77,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
+  copyright_status: publicly_accessible
 - text: Five other people were said to have witnessed Nichols's precognitive experience.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:32.4-00:06:37.5
@@ -83,6 +88,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
+  copyright_status: publicly_accessible
 - text: Nichols described finding himself at Moore Street and Old Compton Street.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:07:57.5-00:08:03.5
@@ -93,6 +99,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-7979e262-8e73-499a-a6e2-52039b5effaf
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-7979e262-8e73-499a-a6e2-52039b5effaf
+  copyright_status: publicly_accessible
 - text: Nichols described seeing an explosion and a man running towards it.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:08:13.2-00:08:28.8
@@ -104,6 +111,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-aac23d50-9253-454c-bf69-372f3bf127c0
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-aac23d50-9253-454c-bf69-372f3bf127c0
+  copyright_status: publicly_accessible
 - text: The bombing target was identified as the Admiral Duncan pub on Old Compton
     Street.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -114,6 +122,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-39f2c4f2-47ef-467d-9023-d9d38b66c1c8
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-39f2c4f2-47ef-467d-9023-d9d38b66c1c8
+  copyright_status: publicly_accessible
 - text: The bombing was said to have injured approximately 30 people and eventually
     killed three.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -125,6 +134,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-dd85c7d1-c164-4c76-9a81-5fd2c287fd79
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-dd85c7d1-c164-4c76-9a81-5fd2c287fd79
+  copyright_status: publicly_accessible
 - text: Remote-viewing research was described as producing clearer targets where entropy
     and risk to human life were higher.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -137,6 +147,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-24deef41-5e81-4025-a33e-64f0480100c7
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-24deef41-5e81-4025-a33e-64f0480100c7
+  copyright_status: publicly_accessible
 - text: Nichols regarded his 1999 experience as an unusually strong remote-viewing
     session.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -148,6 +159,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-92a54f95-936a-470b-8a83-bffbb99d637f
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-92a54f95-936a-470b-8a83-bffbb99d637f
+  copyright_status: publicly_accessible
 - text: Nichols identified emotional connection as important to precognition and telepathy.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:16:15.8-00:16:37.4
@@ -160,6 +172,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
+  copyright_status: publicly_accessible
 - text: Nichols began developing his technology after researching sensory deprivation
     and John Zubek.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -171,6 +184,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-1d80c210-e8ba-46ea-b54b-b3928228cd32
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-1d80c210-e8ba-46ea-b54b-b3928228cd32
+  copyright_status: publicly_accessible
 - text: Zubek's research was described as involving more than 500 people over 15 years
     at the University of Manitoba.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -182,6 +196,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-3f31fe03-056a-4e5b-8d4e-46e4fcb7ad95
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-3f31fe03-056a-4e5b-8d4e-46e4fcb7ad95
+  copyright_status: publicly_accessible
 - text: Nelson Delis signed up for a Gateway Experience programme at the Monroe Institute.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:22:14.7-00:22:20.7
@@ -192,6 +207,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
+  copyright_status: publicly_accessible
 - text: Delis described experimenting with Focus 12 after learning about Focus 10.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:22:28.3-00:22:37.3
@@ -203,6 +219,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-5c1d2d9b-cb64-430c-b6db-78c272d7610a
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-5c1d2d9b-cb64-430c-b6db-78c272d7610a
+  copyright_status: publicly_accessible
 - text: Delis described a four-digit number-guessing exercise.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:23:25.3-00:23:37.5
@@ -214,6 +231,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-59538850-bd72-4f24-803c-e4298ad9f1cc
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-59538850-bd72-4f24-803c-e4298ad9f1cc
+  copyright_status: publicly_accessible
 - text: Delis perceived 1736, while the written number was 1734 and matched the first
     three digits.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -226,6 +244,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-fdc84fb7-7d99-48ab-883e-e2deef31f9fa
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-fdc84fb7-7d99-48ab-883e-e2deef31f9fa
+  copyright_status: publicly_accessible
 - text: Delis reported that the room's wood wall, scattered items and desk matched
     his perceptions.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -236,6 +255,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-ed583c79-afdc-4920-bba8-1dd67ad27f5f
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-ed583c79-afdc-4920-bba8-1dd67ad27f5f
+  copyright_status: publicly_accessible
 - text: The source reports an evaluation involving Monroe Institute instructors, Hemi-Sync
     and remote viewing.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -247,6 +267,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-1d451c78-1e40-42be-99c9-9b4421e1e7fd
+  copyright_status: publicly_accessible
 - text: The evaluation reportedly found reduced stress, increased focus and no adverse
     physical effects.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -258,6 +279,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-b591d547-c24a-45e1-b4b3-de86a2d851e0
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-b591d547-c24a-45e1-b4b3-de86a2d851e0
+  copyright_status: publicly_accessible
 - text: Recommendations included longer-term research and assessing intelligence applications.
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:37:21.0-00:37:44.6
@@ -268,6 +290,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-4f6cf7a1-91ec-4e7c-9df7-44dda69f83fb
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-4f6cf7a1-91ec-4e7c-9df7-44dda69f83fb
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

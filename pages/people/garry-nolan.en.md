@@ -74,6 +74,7 @@ references:
   claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-82b2198c-9671-459d-86f6-1b8c5136182b
+  copyright_status: publicly_accessible
 - text: Nolan holds a chaired position and runs his own laboratory investigating human
     genetics with postdocs and graduate students
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -81,6 +82,7 @@ references:
   claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
+  copyright_status: restricted
 - text: Nolan is a renowned inventor and entrepreneur with more than 300 published
     papers and has started over half a dozen companies from his laboratory's technologies
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -91,12 +93,14 @@ references:
   claim_id: 02172998-08c1-4cd0-974b-43930d8e654f
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-02172998-08c1-4cd0-974b-43930d8e654f
+  copyright_status: publicly_accessible
 - text: Nolan has published more than 300 research articles and developed 40 patents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12771-12919
   claim_id: a34e9a52-1ae9-4e4c-8dc6-d61691f6222a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a34e9a52-1ae9-4e4c-8dc6-d61691f6222a
+  copyright_status: restricted
 - text: Nolan applied his laboratory's technologies to exotic materials analysis,
     publishing the first peer-reviewed paper on such materials
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -106,6 +110,7 @@ references:
   claim_id: 64754560-a95f-4718-a0ed-522c39feb810
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-64754560-a95f-4718-a0ed-522c39feb810
+  copyright_status: publicly_accessible
 - text: Nolan said human civilisation was transformed by something as small as a grain
     of silicon or germanium, underlying integrated circuits and AI
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -116,6 +121,7 @@ references:
   claim_id: cf767440-c71f-427d-8f4c-55b89e15c98f
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-cf767440-c71f-427d-8f4c-55b89e15c98f
+  copyright_status: publicly_accessible
 - text: Nolan said studying small samples of purported anomalous material could lead
     to currently inconceivable benefits for humanity
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -125,6 +131,7 @@ references:
   claim_id: 9dbd6da9-4989-44b7-a16d-67e33d25ec6d
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-9dbd6da9-4989-44b7-a16d-67e33d25ec6d
+  copyright_status: publicly_accessible
 - text: Nolan's quote about 'hundreds of technology revolutions ahead of us' and 'a
     grain of knowledge'
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -136,18 +143,21 @@ references:
   claim_id: f4969222-7afa-4fc8-be1b-45d9c0d45c94
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-f4969222-7afa-4fc8-be1b-45d9c0d45c94
+  copyright_status: publicly_accessible
 - text: Colleagues have nominated Nolan for the Nobel Prize
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12924-12970
   claim_id: 259c23a8-0fb0-4be2-96ff-803bc46f448c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-259c23a8-0fb0-4be2-96ff-803bc46f448c
+  copyright_status: restricted
 - text: Through Nolan, Elizondo met Sean Parker and Lady Gaga, who fund cancer research
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:13678-13864
   claim_id: 8c24143f-0659-4c03-afc2-0f7e7d600289
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8c24143f-0659-4c03-afc2-0f7e7d600289
+  copyright_status: restricted
 - text: Livingston flew to California with a team including Kelleher and Vallée to
     meet Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -155,6 +165,7 @@ references:
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
+  copyright_status: restricted
 - text: Livingston's team brought MRI images of UAP experiencers' brains to Nolan's
     office at Stanford
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -162,6 +173,7 @@ references:
   claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
+  copyright_status: restricted
 - text: Nolan concurred with Livingston that experiencers had brain scarring known
     as white-matter disease
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -169,12 +181,14 @@ references:
   claim_id: 4e7bf743-b7f2-4020-8096-a5f57cf594a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e7bf743-b7f2-4020-8096-a5f57cf594a8
+  copyright_status: restricted
 - text: All 105 patients in the study were high-functioning with high IQs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15828-15887
   claim_id: fd9110d3-165c-4e4a-a579-81265948a013
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fd9110d3-165c-4e4a-a579-81265948a013
+  copyright_status: restricted
 - text: All 105 patients had an overdeveloped caudate-putamen, linked by some researchers
     to intuition
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -182,6 +196,7 @@ references:
   claim_id: e468572f-6b6f-4bd1-9213-a8f73aea5e60
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e468572f-6b6f-4bd1-9213-a8f73aea5e60
+  copyright_status: restricted
 - text: 'Livingston identified a second patient subset: military employees recruited
     for a programme originally run by the CIA'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -189,6 +204,7 @@ references:
   claim_id: 75cb5790-ff9a-47ce-b5be-7a36fa579d3d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-75cb5790-ff9a-47ce-b5be-7a36fa579d3d
+  copyright_status: restricted
 - text: Second-group patients were tied to the military remote-viewing programme;
     Army psychic spies shared the hyperdeveloped caudate-putamen
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -196,6 +212,7 @@ references:
   claim_id: 63ab8169-c960-4870-a766-9e2d7880fef9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63ab8169-c960-4870-a766-9e2d7880fef9
+  copyright_status: restricted
 - text: Nolan worked with Livingston to develop a programme studying the questions
     raised by his patients
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -203,6 +220,7 @@ references:
   claim_id: ce3d56ff-1efd-44c7-868c-1ccef2c84850
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce3d56ff-1efd-44c7-868c-1ccef2c84850
+  copyright_status: restricted
 - text: Nolan never briefed the Pentagon-based AATIP team, working instead directly
     for Livingston
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -210,6 +228,7 @@ references:
   claim_id: 4c3a9cb4-6134-4b3f-936e-b5fbb9988240
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4c3a9cb4-6134-4b3f-936e-b5fbb9988240
+  copyright_status: restricted
 - text: Nolan set up a graduate student project comparing caudate-putamen scans across
     control, autism, and schizophrenia groups
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -217,6 +236,7 @@ references:
   claim_id: ce91b7c3-f6ec-438f-92d1-a59645d462be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce91b7c3-f6ec-438f-92d1-a59645d462be
+  copyright_status: restricted
 - text: The team found slight pathological caudate-putamen differences in the autistic
     and schizophrenic groups
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -224,12 +244,14 @@ references:
   claim_id: 53aee1c9-0cc1-4703-8f67-a5939c759d81
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53aee1c9-0cc1-4703-8f67-a5939c759d81
+  copyright_status: restricted
 - text: Nolan theorised that psychic ability, if real, would connect to the caudate-putamen
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:8756-8864
   claim_id: 8f835955-93c0-4a4f-beef-8fd2de96708b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f835955-93c0-4a4f-beef-8fd2de96708b
+  copyright_status: restricted
 - text: Nolan considered the caudate-putamen the 'hardware' for intuitive or psychic
     function, with DNA as its blueprint
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -237,6 +259,7 @@ references:
   claim_id: f089850e-6e85-4662-8f15-3c4d4dc7893b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f089850e-6e85-4662-8f15-3c4d4dc7893b
+  copyright_status: restricted
 - text: Nolan kept instruments in his lab intended to help Vallée analyse the 1977
     Council Bluffs, Iowa material sample
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -244,6 +267,7 @@ references:
   claim_id: 82f6a432-e4b0-4df7-b899-f6f99a45264c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82f6a432-e4b0-4df7-b899-f6f99a45264c
+  copyright_status: restricted
 - text: Nolan and Vallée analysed the elemental and isotopic composition of the molten
     metal aggregate from the Iowa incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -251,6 +275,7 @@ references:
   claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
+  copyright_status: restricted
 - text: Nolan was a friend and colleague of Elizondo and was included on Tom DeLonge's
     advisory board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -258,6 +283,7 @@ references:
   claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2863f5c1-c383-448b-9c58-6587ca071baf
+  copyright_status: restricted
 - text: Nolan is a professor at Stanford's medical school; the Iowa UAP materials
     paper was his first in an aerospace journal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -265,6 +291,7 @@ references:
   claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af50dfe6-97b1-492d-bc35-325d72bd153a
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

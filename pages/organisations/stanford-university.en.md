@@ -50,6 +50,7 @@ references:
   claim_id: 146b2af1-c483-4d97-b4a9-55b35017ca0d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-146b2af1-c483-4d97-b4a9-55b35017ca0d
+  copyright_status: restricted
 - text: Contrary to the sociologists' expectation, some of Keech's followers reinterpreted
     the failed prediction in a way that reinforced their faith in her.
   source: American Cosmic
@@ -57,12 +58,14 @@ references:
   claim_id: 5485556d-d77f-415c-a615-32a1077d5b1f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5485556d-d77f-415c-a615-32a1077d5b1f
+  copyright_status: restricted
 - text: Harold Puthoff earned his PhD from Stanford University in 1967.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2368-2415
   claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
+  copyright_status: restricted
 - text: The remote viewing technique used in Project Stargate was pioneered at Stanford
     in the late 1960s, led by Harold Puthoff.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -70,6 +73,7 @@ references:
   claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
+  copyright_status: restricted
 - text: Puthoff was a Stanford researcher and NSA employee when he and Russell Targ
     were approached by the CIA and told Russia had a remote viewing programme.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -77,6 +81,7 @@ references:
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
+  copyright_status: restricted
 - text: Puthoff's career spanned General Electric, Sperry Corporation, the NSA, Stanford,
     and SRI International.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -84,6 +89,7 @@ references:
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
+  copyright_status: restricted
 - text: Stanford's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial
     origin of UFO/UAP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -94,6 +100,7 @@ references:
   claim_id: 725407aa-339e-485b-a96d-db25bd0a0241
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-725407aa-339e-485b-a96d-db25bd0a0241
+  copyright_status: public_domain
 - text: Elisabeth Targ spent a decade at Stanford, becoming a certified Russian translator
     before earning her medical degree.
   source: Surviving Death
@@ -101,6 +108,7 @@ references:
   claim_id: 2577a673-8f57-4df3-9f5c-5cdc9d7ddbed
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2577a673-8f57-4df3-9f5c-5cdc9d7ddbed
+  copyright_status: restricted
 - text: By 1982, Florenze Mansmann held a doctorate in biomedical engineering and
     worked at Stanford.
   source: In Plain Sight
@@ -108,6 +116,7 @@ references:
   claim_id: 5b387560-94a6-415c-90da-39d5a2ea5377
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b387560-94a6-415c-90da-39d5a2ea5377
+  copyright_status: restricted
 - text: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:18165-18237
@@ -115,6 +124,7 @@ references:
   claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-82b2198c-9671-459d-86f6-1b8c5136182b
+  copyright_status: publicly_accessible
 - text: Nolan held a chaired position and his own laboratory at Stanford, where postdocs
     and graduate students studied human genetics.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -122,6 +132,7 @@ references:
   claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
+  copyright_status: restricted
 - text: Livingston's team brought MRI images of the brains of UAP experiencers, all
     servicemen and intelligence officials, to Nolan's office.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -129,6 +140,7 @@ references:
   claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
+  copyright_status: restricted
 - text: Nolan was a friend and colleague of Luis Elizondo and was included on Tom
     DeLonge's advisory board.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -136,6 +148,7 @@ references:
   claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2863f5c1-c383-448b-9c58-6587ca071baf
+  copyright_status: restricted
 - text: Nolan is a professor at Stanford's medical school; the Nolan/Vallée Iowa UAP
     materials paper was his first aerospace-journal publication.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -143,6 +156,7 @@ references:
   claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af50dfe6-97b1-492d-bc35-325d72bd153a
+  copyright_status: restricted
 - text: A Stanford analysis and Robert Powell's 2020 analysis found no evidence the
     Ubatuba samples were extra-terrestrial or unusually pure magnesium.
   source: In Plain Sight
@@ -150,6 +164,7 @@ references:
   claim_id: 6b9636bc-f8ee-4a69-9494-74baea2ed4b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b9636bc-f8ee-4a69-9494-74baea2ed4b9
+  copyright_status: restricted
 - text: David Fravor named Stanford among the top-tier universities from which leading-edge
     technology research typically emerges.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -161,6 +176,7 @@ references:
   claim_id: e24fc0b9-c93f-4edc-9169-d03a9047ecc0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e24fc0b9-c93f-4edc-9169-d03a9047ecc0
+  copyright_status: publicly_accessible
 - text: Philip Zimbardo conducted the Stanford Prison Experiment at Stanford University.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:11:54.9-00:11:59.6
@@ -169,6 +185,7 @@ references:
   claim_id: 8c6104a5-0220-4830-b57a-fb18031fcb76
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-8c6104a5-0220-4830-b57a-fb18031fcb76
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

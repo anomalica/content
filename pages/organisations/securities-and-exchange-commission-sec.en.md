@@ -33,12 +33,14 @@ references:
   claim_id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
+  copyright_status: restricted
 - text: TTSA was structured as a public benefit corporation as prescribed by the SEC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:12495-12617
   claim_id: 0877e6f1-5c28-424d-b9ad-1c3d0c9baefc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0877e6f1-5c28-424d-b9ad-1c3d0c9baefc
+  copyright_status: restricted
 - text: It took Tom DeLonge several months to formally disclose to the SEC that Mellon,
     Elizondo and Justice had departed TTSA
   source: In Plain Sight
@@ -46,6 +48,7 @@ references:
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+  copyright_status: restricted
 - text: A 2018 TTSA disclosure to the SEC revealed the retention of Hal Puthoff's
     EarthTech International for materials analysis and beamed energy propulsion launch
     system plans
@@ -54,6 +57,7 @@ references:
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
+  copyright_status: restricted
 - text: A 2019 TTSA disclosure to the SEC revealed Tom DeLonge sold the six Art's
     Parts samples to the company for $35,000, with Hal Puthoff to analyse them
   source: In Plain Sight
@@ -61,6 +65,7 @@ references:
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

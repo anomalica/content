@@ -74,6 +74,7 @@ references:
   claim_id: 514965f3-95de-4c2a-9731-4a4a519a9e76
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-514965f3-95de-4c2a-9731-4a4a519a9e76
+  copyright_status: restricted
 - text: In 1973 a journalist met a French Air Force intelligence officer for lunch
     in Paris to discuss UFOs.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -81,6 +82,7 @@ references:
   claim_id: cd22259e-7f51-4d35-8720-893189cc9b8d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd22259e-7f51-4d35-8720-893189cc9b8d
+  copyright_status: restricted
 - text: The officer said he consulted American contacts rather than the French government,
     which knew nothing.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -88,6 +90,7 @@ references:
   claim_id: 624808a0-5c2c-44ef-b670-668eda1e5b0c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-624808a0-5c2c-44ef-b670-668eda1e5b0c
+  copyright_status: restricted
 - text: The officer said there was no organised cover-up, just general avoidance of
     the subject.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -95,6 +98,7 @@ references:
   claim_id: 03840629-768d-41b0-8b7e-6a6aa7bd9168
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-03840629-768d-41b0-8b7e-6a6aa7bd9168
+  copyright_status: restricted
 - text: Vallée found a Paris Métro message reading 'The Lord is an Extraterrestrial',
     attributed to the Order of Melchizedek.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -102,12 +106,14 @@ references:
   claim_id: 8401d87b-eb2b-42e0-ba24-6ef7446bdc57
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8401d87b-eb2b-42e0-ba24-6ef7446bdc57
+  copyright_status: restricted
 - text: The message was written in black felt-tip marker across several subway tunnels.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch8:10443-10568
   claim_id: 0ba4caf6-2b35-4e65-9212-f65d471d82f3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0ba4caf6-2b35-4e65-9212-f65d471d82f3
+  copyright_status: restricted
 - text: Vallée found a Urantia organisation and an Order of Melchizedek branch based
     in France.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -115,6 +121,7 @@ references:
   claim_id: 0dbf349a-ce23-4590-b0c3-d1ecc2394a72
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0dbf349a-ce23-4590-b0c3-d1ecc2394a72
+  copyright_status: restricted
 - text: Ivan wrote to Vallée from Paris claiming responsibility for the order across
     five regions.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -122,6 +129,7 @@ references:
   claim_id: 0bb29f69-cd55-4628-b957-d9c961d51049
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0bb29f69-cd55-4628-b957-d9c961d51049
+  copyright_status: restricted
 - text: A leaflet announced seven flying saucers landing on the Radio and Television
     Building in Paris.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -129,18 +137,21 @@ references:
   claim_id: db8662a9-ac54-460c-8e5f-ebc6e035b023
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-db8662a9-ac54-460c-8e5f-ebc6e035b023
+  copyright_status: restricted
 - text: Ivan said the saucers had appeared in December as predicted.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:48776-48891
   claim_id: d230d34b-d9c3-4df2-b0e2-d515c85a0226
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d230d34b-d9c3-4df2-b0e2-d515c85a0226
+  copyright_status: restricted
 - text: Raymond Bernard lived near Paris, in Villeneuve-St.-Georges.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:63872-63916
   claim_id: fca235c6-9dca-44b3-8dfc-44af085718c5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-fca235c6-9dca-44b3-8dfc-44af085718c5
+  copyright_status: restricted
 - text: Vallée visited Paris occultists who claimed to meet extraterrestrials preparing
     a social revolution.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -148,6 +159,7 @@ references:
   claim_id: cd615bdb-0893-4550-9a5b-7c6f7a10ed89
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd615bdb-0893-4550-9a5b-7c6f7a10ed89
+  copyright_status: restricted
 - text: Jacques Bordas received a 1971 phone call from Paris he believed was from
     a being met at Canigou.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -155,6 +167,7 @@ references:
   claim_id: 7340ccbb-f472-4ff2-a199-a551926e543f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7340ccbb-f472-4ff2-a199-a551926e543f
+  copyright_status: restricted
 - text: Vallée said a dozen conspiracies fought for control of government when de
     Gaulle returned to power in 1958.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -162,6 +175,7 @@ references:
   claim_id: 1482e295-1992-4e08-b912-78676a322b4e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1482e295-1992-4e08-b912-78676a322b4e
+  copyright_status: restricted
 - text: Geley and Richet held eleven séances with Franek Kluski at the IMI in Paris
     in 1920.
   source: Surviving Death
@@ -169,12 +183,14 @@ references:
   claim_id: fb98cf8b-d93c-4d67-937b-20c4569e3665
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb98cf8b-d93c-4d67-937b-20c4569e3665
+  copyright_status: restricted
 - text: Plaster molds from Kluski's paraffin experiments remain at the IMI.
   source: Surviving Death
   location: ch37:10213-10288
   claim_id: f0ee4bf5-27ac-4bd8-8b91-2cb4a99eac0c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f0ee4bf5-27ac-4bd8-8b91-2cb4a99eac0c
+  copyright_status: restricted
 - text: Brynjolfur Thorlaksson recounted sitters later identifying 'Madame Malibran'
     as singer Maria Felicia Malibran.
   source: Surviving Death
@@ -182,48 +198,56 @@ references:
   claim_id: 383ae981-2283-4d5b-b1ca-a4786be890ee
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-383ae981-2283-4d5b-b1ca-a4786be890ee
+  copyright_status: restricted
 - text: Malibran sang leading roles in Paris, Naples, London and New York.
   source: Surviving Death
   location: ch36:18515-18758
   claim_id: 79ff3145-a47a-4903-a87d-8c318e859f5a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-79ff3145-a47a-4903-a87d-8c318e859f5a
+  copyright_status: restricted
 - text: Malibran was born in Paris to one of Rossini's favourite tenors.
   source: Surviving Death
   location: ch36:18767-18873
   claim_id: 1ec5fd79-9132-4322-84db-4de3e26993d4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1ec5fd79-9132-4322-84db-4de3e26993d4
+  copyright_status: restricted
 - text: Marty Martyn's sister lived and danced in Paris.
   source: Surviving Death
   location: ch12:23260-23318
   claim_id: 186c830f-3e43-4b16-bce6-13a72e1ffa9b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-186c830f-3e43-4b16-bce6-13a72e1ffa9b
+  copyright_status: restricted
 - text: Photographs showed Martyn at Paris landmarks.
   source: Surviving Death
   location: ch12:23327-23402
   claim_id: b13c4f43-c561-465d-b614-88d7c59d82f2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b13c4f43-c561-465d-b614-88d7c59d82f2
+  copyright_status: restricted
 - text: A 1929 passenger list gives Martyn's birth date under the alias Marty Kolinsky.
   source: Surviving Death
   location: ch13:23383-23530
   claim_id: fc4ca0b2-65ea-4e77-9b5d-21451d9f998e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fc4ca0b2-65ea-4e77-9b5d-21451d9f998e
+  copyright_status: restricted
 - text: Ryan Hammons said Martyn saw the Eiffel Tower in Paris.
   source: Surviving Death
   location: ch13:8286-8319
   claim_id: 1dbfd6e3-f6ec-4432-a48f-7858df0f9828
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1dbfd6e3-f6ec-4432-a48f-7858df0f9828
+  copyright_status: restricted
 - text: The Striebers went to Paris in 1994 and rented a flat in Montparnasse.
   source: The Fourth Mind
   location: ch20:11380-11569
   claim_id: b2129db9-57d9-4ba7-99b5-483482493e24
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b2129db9-57d9-4ba7-99b5-483482493e24
+  copyright_status: restricted
 - text: Two men claiming to be French intelligence officers came to Strieber's door
     in Paris.
   source: The Fourth Mind
@@ -231,6 +255,7 @@ references:
   claim_id: 6f7f7ab9-47cb-4700-bd87-03576ec94098
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6f7f7ab9-47cb-4700-bd87-03576ec94098
+  copyright_status: restricted
 - text: Jean Gabriel Greslé and six pupils witnessed a craft near Paris in November
     1990.
   source: In Plain Sight
@@ -238,6 +263,7 @@ references:
   claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d57c1c5-3477-418e-a95d-dcee17eecbd0
+  copyright_status: restricted
 - text: Martin Bormann assembled German industry leaders at the Maison Rouge meeting
     in Paris.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -247,6 +273,7 @@ references:
   claim_id: 4da42691-6cdf-45e9-8d1e-7da742fd8758
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4da42691-6cdf-45e9-8d1e-7da742fd8758
+  copyright_status: publicly_accessible
 - text: Chris Ramsay used a hypothetical Paris pickpocketing as an example of a good
     story.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -258,6 +285,7 @@ references:
   claim_id: cc153bdd-8521-449f-9267-114e271ed002
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-cc153bdd-8521-449f-9267-114e271ed002
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

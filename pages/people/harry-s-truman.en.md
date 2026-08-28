@@ -81,6 +81,7 @@ references:
   claim_id: 62824b3f-ff27-49a9-baf9-7beb4a93b7fd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62824b3f-ff27-49a9-baf9-7beb4a93b7fd
+  copyright_status: restricted
 - text: Operation Majestic-12 is described as a secret cabal formed in 1947 by Truman
     to facilitate recovery and investigation of alien spacecraft
   source: In Plain Sight
@@ -88,6 +89,7 @@ references:
   claim_id: a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
+  copyright_status: restricted
 - text: Whitley Strieber said Arthur Exon told him in 1989 that there was an unequivocal
     cover-up of a retrieved craft at Roswell that went 'from Truman on down'
   source: In Plain Sight
@@ -95,6 +97,7 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
+  copyright_status: restricted
 - text: The 1952 Washington DC UFO flap was front-page news worldwide, and Truman
     demanded answers
   source: In Plain Sight
@@ -102,6 +105,7 @@ references:
   claim_id: 693b161a-8ce8-44f1-9233-077d83cf7663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-693b161a-8ce8-44f1-9233-077d83cf7663
+  copyright_status: restricted
 - text: In July 1952, multiple UAP resembling lights penetrated downtown Washington
     DC and buzzed the White House over two consecutive weekends while Truman was president
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -109,6 +113,7 @@ references:
   claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
+  copyright_status: restricted
 - text: Luis Elizondo believes Truman was among the presidents briefed in some way
     on UAP, alongside Eisenhower, Kennedy, Johnson, Carter, Reagan, Bush and Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -116,6 +121,7 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
+  copyright_status: restricted
 - text: General Arthur Exon told Whitley Strieber, after Strieber published Communion
     in 1987, that everybody from Truman on down knew within 24 hours that what had
     been found was not of this world
@@ -124,6 +130,7 @@ references:
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
+  copyright_status: restricted
 - text: Frank Edwards, in a 1956 lecture, maintained that Einstein had delivered an
     urgent message to Truman in 1952 warning that his shoot-down policy toward UFOs
     over Washington DC was unwise
@@ -135,6 +142,7 @@ references:
   claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-2692579f-295f-44c3-af8f-05a20f269bc5
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan considers the connection between Forrestal's directive from
     Truman and his speedy meetings with Henry Tizard and others a very significant
     development
@@ -147,6 +155,7 @@ references:
   claim_id: 42233311-ac21-42b3-916f-cd65e22967d3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-42233311-ac21-42b3-916f-cd65e22967d3
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan believes Truman and his military staff were very concerned
     about reports that non-human craft had crashed, presenting a new threat
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -156,6 +165,7 @@ references:
   claim_id: b089973d-413c-4502-8a72-c899422a5603
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-b089973d-413c-4502-8a72-c899422a5603
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan finds the detail of the Majestic 12 documents corroborates
     contemporary diaries not released at the time, including those of Truman, Forrestal
     and Eisenhower
@@ -168,6 +178,7 @@ references:
   claim_id: a5149600-7099-45f0-8d34-3063aaa21202
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a5149600-7099-45f0-8d34-3063aaa21202
+  copyright_status: publicly_accessible
 - text: According to David Lilienthal's diary, Truman referred at the Blair House
     meeting of 14 July 1949 to a report so unusual that only one copy existed, with
     no access to an associated agreement
@@ -181,6 +192,7 @@ references:
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
   inspection_url: /records/2026-06-18-video-watergate-the-jfk-assassination-and-a-ufo-secret-at-the#claim-8fef9300-a47c-490c-b5fc-6aea2c868679
+  copyright_status: publicly_accessible
 - text: According to David Lilienthal's diary, Truman said the agreement referenced
     at the Blair House meeting was staying in his safe and nobody was to have access
     to it
@@ -192,6 +204,7 @@ references:
   claim_id: 05de839e-ce53-475a-8cee-de6aeb8458a3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-05de839e-ce53-475a-8cee-de6aeb8458a3
+  copyright_status: publicly_accessible
 - text: Truman and Eisenhower wanted to increase atomic weapons production, feeling
     there might be a war fought in space requiring delivery of weapons in or near
     space
@@ -204,6 +217,7 @@ references:
   claim_id: 3a03cb60-2de6-4937-9730-2a27f3451f22
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-3a03cb60-2de6-4937-9730-2a27f3451f22
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan considers it likely that the agreement referenced by Truman
     at the Blair House meeting relates to Majestic 12
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -214,6 +228,7 @@ references:
   claim_id: 1285567e-077c-478b-8462-43ca6e3d32d9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-1285567e-077c-478b-8462-43ca6e3d32d9
+  copyright_status: publicly_accessible
 - text: A forged typescript document among the Majestic 12 material, headed 'Truman
     and Congress', purports to show Truman being called to give evidence before Congress
     in 1963 or 1964 about Majestic 12
@@ -227,6 +242,7 @@ references:
   claim_id: a38f38d0-3468-4af9-9d3a-b48bdfe1d776
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-a38f38d0-3468-4af9-9d3a-b48bdfe1d776
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan checked with the Eisenhower Library and confirmed Truman was
     never in Washington at the time the forged 'Truman and Congress' document claims
     he testified before Congress
@@ -238,6 +254,7 @@ references:
   claim_id: e0f8ad74-dffe-4656-a0ba-11a22b438953
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-e0f8ad74-dffe-4656-a0ba-11a22b438953
+  copyright_status: publicly_accessible
 - text: The newly disclosed page of the Blair House meeting annex discusses Truman
     wanting to share some of the Majestic 12 material with US allies
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -248,6 +265,7 @@ references:
   claim_id: 40019184-f387-46c9-9b18-655431c70861
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-40019184-f387-46c9-9b18-655431c70861
+  copyright_status: publicly_accessible
 - text: Truman and Eisenhower felt that craft arriving in numbers with an unknown
     agenda might mean an imminent attack was being faced
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -259,6 +277,7 @@ references:
   claim_id: 2a01f082-2423-4579-9244-500bd103a8f9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-2a01f082-2423-4579-9244-500bd103a8f9
+  copyright_status: publicly_accessible
 - text: Ross Coulthart said Jonathan Caplan used Truman's and Eisenhower's diaries
     to help corroborate the provenance of the newly found Majestic 12 documents
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -269,6 +288,7 @@ references:
   claim_id: 663855c6-1333-4331-bcd7-e5165acb56da
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-663855c6-1333-4331-bcd7-e5165acb56da
+  copyright_status: publicly_accessible
 - text: The Blair House meeting of 14 July 1949 is recorded in Truman's, Eisenhower's
     and Lilienthal's diaries
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -279,6 +299,7 @@ references:
   claim_id: ff46b514-7430-45fe-a823-765b13a4cf14
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-ff46b514-7430-45fe-a823-765b13a4cf14
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan does not believe a forger of the Majestic 12 documents released
     in the 1980s would have had access to Truman's and Eisenhower's diaries, since
     those were only released later and kept in secure conditions
@@ -292,6 +313,7 @@ references:
   claim_id: 36fbd220-c37d-4a0b-a9a3-325e1f7a6ea9
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-36fbd220-c37d-4a0b-a9a3-325e1f7a6ea9
+  copyright_status: publicly_accessible
 - text: A week after the John F. Kennedy assassination, Truman wrote a Washington
     Post article critical of the CIA, saying it was not the organisation he had set
     up and had got completely out of hand
@@ -305,6 +327,7 @@ references:
   claim_id: d11dfddf-f09b-4d54-8791-5849045eeff0
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-d11dfddf-f09b-4d54-8791-5849045eeff0
+  copyright_status: publicly_accessible
 - text: UAP Gerb said that in 1948 Truman is alleged to have established classified
     presidential executive orders, referred to by Eric Davis as Presidential Emergency
     Action Documents, relegating custody of recovered disks to Atomic Energy Commission
@@ -321,6 +344,7 @@ references:
   claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-aba985af-7ac6-4601-8b1c-24495a9218df
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

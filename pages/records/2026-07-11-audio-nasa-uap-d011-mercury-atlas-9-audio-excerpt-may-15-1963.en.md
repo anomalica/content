@@ -30,6 +30,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-503c430f-5608-491c-a5f4-f570f128b89d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-503c430f-5608-491c-a5f4-f570f128b89d
+  copyright_status: public_domain
 - text: Cooper described small brilliant-white luminescent particles drifting away
     from the spacecraft.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -41,6 +42,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-1246da9d-31e7-462f-bb45-4c317c209ce9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-1246da9d-31e7-462f-bb45-4c317c209ce9
+  copyright_status: public_domain
 - text: Cooper said that he had not seen the recovery beacon.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:01:43.4-00:01:46.8
@@ -51,6 +53,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-81fbc5c9-9e2c-4d8f-9166-182a0a0c92bd
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-81fbc5c9-9e2c-4d8f-9166-182a0a0c92bd
+  copyright_status: public_domain
 - text: Cooper reported considerable noise resembling something departing from the
     spacecraft.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -61,6 +64,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-a9a25fcf-001f-4ded-8e57-795641db4f5c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-a9a25fcf-001f-4ded-8e57-795641db4f5c
+  copyright_status: public_domain
 - text: Cooper inferred that a recovery beacon had departed after hearing doors that
     sounded as though they had blown open.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -72,6 +76,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-dc818a31-8e22-427b-82d3-f288831435c1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-dc818a31-8e22-427b-82d3-f288831435c1
+  copyright_status: public_domain
 - text: The source record reports that ground control considered the telemetry readings
     good on the ground.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -82,6 +87,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-e0d4ecb5-ca00-4b0e-ad06-ea532dfa9487
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-e0d4ecb5-ca00-4b0e-ad06-ea532dfa9487
+  copyright_status: public_domain
 - text: Cooper confirmed that the television control switch was off.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:47.8-00:02:52.3
@@ -91,6 +97,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-b8621de8-e85b-474a-9e87-72003c575e8b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-b8621de8-e85b-474a-9e87-72003c575e8b
+  copyright_status: public_domain
 - text: Cooper reported a Direct Current main-bus reading of 24 volts.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:03:17.7-00:03:18.4
@@ -100,6 +107,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-1aa6a18a-7cdd-48f8-93f3-4c9d2b7570e3
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-1aa6a18a-7cdd-48f8-93f3-4c9d2b7570e3
+  copyright_status: public_domain
 - text: Cooper reported an isolated Direct Current reading of 28.5 volts.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:03:18.7-00:03:21.0
@@ -109,6 +117,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-7ddb2bd2-577e-46df-b894-731fdf7ea323
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-7ddb2bd2-577e-46df-b894-731fdf7ea323
+  copyright_status: public_domain
 - text: Walter Schirra reported 88 percent fuel on automatic control from calculations
     at Hawaii.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -120,6 +129,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-619475ee-2c5c-4fba-988c-3900223425e7
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-619475ee-2c5c-4fba-988c-3900223425e7
+  copyright_status: public_domain
 - text: Walter Schirra reported 98 percent fuel on manual control from calculations
     at Hawaii.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -131,6 +141,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-6fa71bfc-ac57-4aed-8db7-b229d8c10cf1
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-6fa71bfc-ac57-4aed-8db7-b229d8c10cf1
+  copyright_status: public_domain
 - text: Cooper's onboard instruments indicated 96 percent fuel on automatic control.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:04:14.2-00:04:16.6
@@ -140,6 +151,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-26e6429b-f09a-4c4a-b8da-a1400868a8be
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-26e6429b-f09a-4c4a-b8da-a1400868a8be
+  copyright_status: public_domain
 - text: Cooper's onboard instruments indicated 102 percent fuel on manual control.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:04:14.2-00:04:16.6
@@ -149,6 +161,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-af907c7a-0851-4011-8b6c-c121f1b93145
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-af907c7a-0851-4011-8b6c-c121f1b93145
+  copyright_status: public_domain
 - text: Cooper described a clear orbital view of the entire state of Florida.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:04:43.4-00:04:51.0
@@ -159,6 +172,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-32b57aa2-0f58-4c8d-bef8-2ad6f0a852db
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-32b57aa2-0f58-4c8d-bef8-2ad6f0a852db
+  copyright_status: public_domain
 - text: Cooper described a brownish or reddish-brown light below the spacecraft.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:07:19.7-00:07:26.5
@@ -168,6 +182,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-81d16d7c-099a-4335-a220-2b5204844866
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-81d16d7c-099a-4335-a220-2b5204844866
+  copyright_status: public_domain
 - text: Cooper said that the light appeared to be at considerable altitude above the
     ground.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -178,6 +193,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-c9a7eb0a-b195-4bdc-b2ff-db2aa69deee0
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-c9a7eb0a-b195-4bdc-b2ff-db2aa69deee0
+  copyright_status: public_domain
 - text: Cooper observed firefly-like particles after firing the pitch-down thruster.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:07:33.0-00:07:37.8
@@ -187,6 +203,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-93598793-ac04-4d76-af3f-f34bf2e4a8bd
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-93598793-ac04-4d76-af3f-f34bf2e4a8bd
+  copyright_status: public_domain
 - text: Cooper described the reddish-brown light as flashing, bright and discernible.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:07:40.0-00:07:44.8
@@ -196,6 +213,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-98a40e3e-6cb3-4849-a349-f9240bb4c2cf
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-98a40e3e-6cb3-4849-a349-f9240bb4c2cf
+  copyright_status: public_domain
 - text: Cooper estimated that the flashing light was approximately 16 to 19 kilometres
     away.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -206,6 +224,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-8110e892-5e07-4155-8f0e-f35fae1ede56
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-8110e892-5e07-4155-8f0e-f35fae1ede56
+  copyright_status: public_domain
 - text: Cooper estimated the light's brightness as being on the order of a second-magnitude
     star.
   source: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -216,6 +235,7 @@ references:
   record_hash: ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37
   workbench_url: https://workbench.anomalica.is/ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37#claim-f7b458a5-a03a-438e-a0bc-59ab02c1d169
   inspection_url: /records/2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963#claim-f7b458a5-a03a-438e-a0bc-59ab02c1d169
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

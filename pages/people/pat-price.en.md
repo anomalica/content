@@ -40,6 +40,7 @@ references:
   claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
+  copyright_status: restricted
 - text: Vallée said the SRI experiments with Swann and Price suggest remote viewing
     follows an addressing scheme
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -47,6 +48,7 @@ references:
   claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-df72ab9c-594b-4c7f-aed0-926606b21c24
+  copyright_status: restricted
 - text: Chalker said Puthoff was uncertain what to make of the notes but confident
     of Price's psychic skill
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -54,30 +56,35 @@ references:
   claim_id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1afcba14-41a3-4e0b-9a65-abe9851f645f
+  copyright_status: restricted
 - text: One base lay just west of Pine Gap in central Australia
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31044-31158
   claim_id: 8e38f7aa-401b-4c72-9902-027951f2015e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8e38f7aa-401b-4c72-9902-027951f2015e
+  copyright_status: restricted
 - text: Chalker said Puthoff was intrigued the Australian site was Mt. Zeil
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31503-31596
   claim_id: cf93ff54-d6ea-4730-919f-db3ed81bf535
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cf93ff54-d6ea-4730-919f-db3ed81bf535
+  copyright_status: restricted
 - text: The four alleged bases were at Mt. Zeil, Mt. Hayes, Mt. Perdido and Mt. Inyangani
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:32077-32236
   claim_id: 77cbd21a-7a00-476c-9b50-e01b0db11960
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-77cbd21a-7a00-476c-9b50-e01b0db11960
+  copyright_status: restricted
 - text: Mt. Perdido was identified as near the Basque territories
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:54044-54286
   claim_id: 6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
+  copyright_status: restricted
 - text: By the early 1980s Price's notes had reached Skip Atwater, used blind in training
     army remote viewers
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -85,6 +92,7 @@ references:
   claim_id: 56fd6d72-f7f9-4518-9b55-6225be3ae50e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-56fd6d72-f7f9-4518-9b55-6225be3ae50e
+  copyright_status: restricted
 - text: Atwater's viewers, working blind, reported similar facilities at the same
     four localities
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -92,6 +100,7 @@ references:
   claim_id: f4c0f543-8660-4d81-9fbf-ace10434e311
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f4c0f543-8660-4d81-9fbf-ace10434e311
+  copyright_status: restricted
 - text: Elizondo said Price remote-viewed an NSA site in West Virginia and described
     file-cabinet labels
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -99,6 +108,7 @@ references:
   claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
+  copyright_status: restricted
 - text: Mossbridge recalled a story that Russians told Americans 'you killed all your
     psychics', referring to Price
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -110,6 +120,7 @@ references:
   claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-baef5e12-eeda-4d54-a79f-54a60695c2fb
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -28,6 +28,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-2d692f8b-7a41-4766-92a8-702a5c4a964d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-2d692f8b-7a41-4766-92a8-702a5c4a964d
+  copyright_status: public_domain
 - text: Carpenter said the particles appeared to travel at exactly his own speed.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:00:09.2-00:00:12.0
@@ -37,6 +38,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-ad4c75f3-aa4c-4708-9374-d16d6cc45728
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-ad4c75f3-aa4c-4708-9374-d16d6cc45728
+  copyright_status: public_domain
 - text: One particle drifted away and moved faster than the spacecraft.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:00:12.3-00:00:21.8
@@ -46,6 +48,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-157aeee2-4ee8-4273-836a-596e4bd9f1e9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-157aeee2-4ee8-4273-836a-596e4bd9f1e9
+  copyright_status: public_domain
 - text: Carpenter reported seeing a few particles rather than great numbers.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:00:28.9-00:00:34.2
@@ -56,6 +59,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-1ed686f5-e9d7-4ffe-a2e4-9b6972839f79
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-1ed686f5-e9d7-4ffe-a2e4-9b6972839f79
+  copyright_status: public_domain
 - text: Carpenter described the particles' motion as random.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:00:34.7-00:00:35.7
@@ -65,6 +69,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-c80e818f-747b-4036-a93d-b1e3f64902bb
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-c80e818f-747b-4036-a93d-b1e3f64902bb
+  copyright_status: public_domain
 - text: Carpenter considered the particles to look exactly like snowflakes.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:00:37.1-00:00:39.6
@@ -74,6 +79,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-696b7002-6708-4552-8ec1-5b822ac9b936
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-696b7002-6708-4552-8ec1-5b822ac9b936
+  copyright_status: public_domain
 - text: Ground Control asked whether Carpenter had tried a return, and he replied
     that he needed to get within scanner limits first.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
@@ -85,6 +91,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-a04c5d32-0686-4532-ba1e-17f260b8811f
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-a04c5d32-0686-4532-ba1e-17f260b8811f
+  copyright_status: public_domain
 - text: Carpenter said that he needed to adjust the spacecraft's attitude within scanner
     limits.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
@@ -95,6 +102,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-9366be24-0de1-4d6c-8909-fa51c7054bf7
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-9366be24-0de1-4d6c-8909-fa51c7054bf7
+  copyright_status: public_domain
 - text: Carpenter observed more particles that definitely looked like snowflakes.
   source: NASA-UAP-D013, Mercury Atlas 7, May 24, 1962
   location: 00:01:31.6-00:01:37.4
@@ -105,6 +113,7 @@ references:
   record_hash: 0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6
   workbench_url: https://workbench.anomalica.is/0c03506ed65c04bc8dd08bc22de65a6a0fc2e923b8aecc30a20f7ea6#claim-63c0c5ed-47df-4e00-b48f-e0f2d2f6677c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d013-mercury-atlas-7-may-24-1962#claim-63c0c5ed-47df-4e00-b48f-e0f2d2f6677c
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

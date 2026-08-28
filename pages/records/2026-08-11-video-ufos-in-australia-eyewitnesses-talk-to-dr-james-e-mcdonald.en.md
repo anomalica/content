@@ -29,6 +29,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2eb45115-f57f-4763-a04c-7c974abec922
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-2eb45115-f57f-4763-a04c-7c974abec922
+  copyright_status: publicly_accessible
 - text: McDonald came to Australia to interview witnesses directly and assess individual
     cases and witness credibility.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -43,6 +44,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-173ab31d-1357-4099-ba6f-a7fb61b84149
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-173ab31d-1357-4099-ba6f-a7fb61b84149
+  copyright_status: publicly_accessible
 - text: McDonald recorded approximately 3,000 metres of interview tape during the
     tour.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -54,6 +56,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-04a0a630-cead-4964-bf3f-d366e5df718b
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-04a0a630-cead-4964-bf3f-d366e5df718b
+  copyright_status: publicly_accessible
 - text: McDonald interviewed about 70 Australians or New Zealanders.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -64,6 +67,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-5e44f15e-ec9b-4475-8e60-8dfcad45a062
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-5e44f15e-ec9b-4475-8e60-8dfcad45a062
+  copyright_status: publicly_accessible
 - text: Barry Jones's Melbourne talkback programme took calls during McDonald's appearance.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -75,6 +79,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-cb56082b-26ea-423b-99a3-cfd70ec51e73
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-cb56082b-26ea-423b-99a3-cfd70ec51e73
+  copyright_status: publicly_accessible
 - text: Peter Surrey recorded callers' telephone numbers for later follow-up.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -86,6 +91,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-ae83c05d-4a4a-4e49-ae36-6f7717687c10
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-ae83c05d-4a4a-4e49-ae36-6f7717687c10
+  copyright_status: publicly_accessible
 - text: Mrs Smith of South Caulfield reported seeing a cigar-shaped object over Hawthorn
     around 1949.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -99,6 +105,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-43d53781-eee5-4d0e-a95d-cc2d5b4d0ce1
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-43d53781-eee5-4d0e-a95d-cc2d5b4d0ce1
+  copyright_status: publicly_accessible
 - text: Mrs Smith said the object was perfectly stationary.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -109,6 +116,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-e030319d-7376-482b-8330-d83565921282
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-e030319d-7376-482b-8330-d83565921282
+  copyright_status: publicly_accessible
 - text: She described a dull internal light moving continuously from top to bottom.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -120,6 +128,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-10e0d828-2109-489f-b292-2099c5dcade4
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-10e0d828-2109-489f-b292-2099c5dcade4
+  copyright_status: publicly_accessible
 - text: She said the weather was clear and almost cloudless, without thunderstorms.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -133,6 +142,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-711a331b-fdee-48fb-9e84-13b0e8a222f9
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-711a331b-fdee-48fb-9e84-13b0e8a222f9
+  copyright_status: publicly_accessible
 - text: McDonald considered the reported conditions to rule out ball-lightning-type
     plasmoids.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -144,6 +154,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-6ead1557-512f-487d-bb5d-23ba18f6d66e
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-6ead1557-512f-487d-bb5d-23ba18f6d66e
+  copyright_status: publicly_accessible
 - text: McDonald considered the object's stationary character to rule out a meteoric
     fireball.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -156,6 +167,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-0f4baed6-6eb8-4e0a-8747-cfcf0bf466f5
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-0f4baed6-6eb8-4e0a-8747-cfcf0bf466f5
+  copyright_status: publicly_accessible
 - text: Mrs Smith said the object made no sound.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -167,6 +179,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-738ac5f0-603a-441f-9ce1-22b1ea60282e
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-738ac5f0-603a-441f-9ce1-22b1ea60282e
+  copyright_status: publicly_accessible
 - text: The Victorian Flying Saucer Society took McDonald into the Victorian countryside
     to interview witnesses.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -179,6 +192,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4952a728-1063-4b27-bb5a-eb0001581902
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-4952a728-1063-4b27-bb5a-eb0001581902
+  copyright_status: publicly_accessible
 - text: McDonald travelled to Moe to interview farmer Brew.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -189,6 +203,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-9edb7d2a-bedb-47cc-92d8-9d154e37c02b
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-9edb7d2a-bedb-47cc-92d8-9d154e37c02b
+  copyright_status: publicly_accessible
 - text: Brew reported that a large disc-like object emerged from overcast conditions
     and hovered about 90 metres away.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -202,6 +217,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-528d3565-2923-4124-99f9-655cfcbdca49
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-528d3565-2923-4124-99f9-655cfcbdca49
+  copyright_status: publicly_accessible
 - text: Brew described cattle stamping, barking dogs and horses breaking loose.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -213,6 +229,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-745281d1-5dd5-4a05-bcf3-72315cb6e242
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-745281d1-5dd5-4a05-bcf3-72315cb6e242
+  copyright_status: publicly_accessible
 - text: Two witnesses independently reported a grey saucer-shaped object rising vertically
     from the Wairakei steam bores.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -226,6 +243,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-63158cb1-0d1f-4b78-a383-b41a420b6df6
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-63158cb1-0d1f-4b78-a383-b41a420b6df6
+  copyright_status: publicly_accessible
 - text: The Wairakei witness reported broken cloud and repeated appearances behind
     and beyond clouds.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -239,6 +257,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-5198b743-488d-42b1-ac0d-22639ae488e9
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-5198b743-488d-42b1-ac0d-22639ae488e9
+  copyright_status: publicly_accessible
 - text: The Wairakei witnesses were ridiculed by fellow engineers after reporting
     the sighting.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -251,6 +270,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-eff7368f-7f8f-4da7-b05f-2d0c955a7438
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-eff7368f-7f8f-4da7-b05f-2d0c955a7438
+  copyright_status: publicly_accessible
 - text: The anonymous engineer subsequently discussed the sighting only with interested
     people.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -263,6 +283,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-b03df661-2829-488b-84a8-cf8eabebe2c5
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-b03df661-2829-488b-84a8-cf8eabebe2c5
+  copyright_status: publicly_accessible
 - text: McDonald said he had examined psychological, technological, hoax, fraud and
     geophysical explanations.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -276,6 +297,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2ff0b138-4cad-4a6e-aa68-d501ec955b1e
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-2ff0b138-4cad-4a6e-aa68-d501ec955b1e
+  copyright_status: publicly_accessible
 - text: McDonald said an origin from elsewhere was the hypothesis remaining after
     other explanations were eliminated.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
@@ -288,6 +310,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3af2c9bf-4990-47a1-b194-ddcda0d37725
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-3af2c9bf-4990-47a1-b194-ddcda0d37725
+  copyright_status: publicly_accessible
 - text: McDonald advocated immediate global scientific investigation.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -300,6 +323,7 @@ references:
   record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
   workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-4e593abb-332d-4747-8cea-121ba5b3ae5b
   inspection_url: /records/2026-08-11-video-ufos-in-australia-eyewitnesses-talk-to-dr-james-e-mcdonald#claim-4e593abb-332d-4747-8cea-121ba5b3ae5b
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

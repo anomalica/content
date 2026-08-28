@@ -47,30 +47,35 @@ references:
   claim_id: f8ed4759-38e1-45d9-803a-f6363f1b4ba1
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-f8ed4759-38e1-45d9-803a-f6363f1b4ba1
+  copyright_status: publicly_accessible
 - text: Marine Corps veteran
   source: In Plain Sight
   location: ch8:2935-2963
   claim_id: c5f1048d-e83e-4092-8a3a-5cbf50fff505
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f1048d-e83e-4092-8a3a-5cbf50fff505
+  copyright_status: restricted
 - text: Retired Marine aviator and head of NICAP, a civilian research organisation
   source: American Cosmic
   location: ch4:43149-43284
   claim_id: e3d751cf-efbf-439a-9a50-f8a21f6aecf5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3d751cf-efbf-439a-9a50-f8a21f6aecf5
+  copyright_status: restricted
 - text: Co-founder of NICAP
   source: In Plain Sight
   location: ch8:14300-14398
   claim_id: ab0f8e65-e4a8-4f76-8c52-71a859d7b376
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab0f8e65-e4a8-4f76-8c52-71a859d7b376
+  copyright_status: restricted
 - text: Published the article 'Flying Saucers Are Real' in True magazine in late 1949
   source: In Plain Sight
   location: ch8:2970-3072
   claim_id: 20762c32-caf6-4ca0-b049-7110c54f9a7e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20762c32-caf6-4ca0-b049-7110c54f9a7e
+  copyright_status: restricted
 - text: Released the book The Flying Saucers Are Real in January 1950
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:10:48.8-00:10:57.4
@@ -79,6 +84,7 @@ references:
   claim_id: 26be7206-7feb-4676-8326-74167e320511
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-26be7206-7feb-4676-8326-74167e320511
+  copyright_status: publicly_accessible
 - text: Claimed the USAF knew the objects were extra-terrestrial but downplayed reports
     to avoid panic
   source: In Plain Sight
@@ -86,6 +92,7 @@ references:
   claim_id: 994493a8-70e4-4b3c-a61b-ec95bb4e8332
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-994493a8-70e4-4b3c-a61b-ec95bb4e8332
+  copyright_status: restricted
 - text: Suggested the government was hiding the truth and that officials had retrieved
     crashed alien vehicles
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -95,18 +102,21 @@ references:
   claim_id: 8b48f5b7-a8d1-4727-94aa-94a31028ce05
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-8b48f5b7-a8d1-4727-94aa-94a31028ce05
+  copyright_status: publicly_accessible
 - text: Contended more technologically advanced alien beings existed
   source: American Cosmic
   location: ch4:43333-43502
   claim_id: aec8d1f0-098d-47cc-a71e-0769637bdc62
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-aec8d1f0-098d-47cc-a71e-0769637bdc62
+  copyright_status: restricted
 - text: Contended the Department of Defense was keeping evidence of alien beings secret
   source: American Cosmic
   location: ch4:43449-43502
   claim_id: 9dec7b03-6d63-45b9-bc6a-c7bed9fdf8a7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9dec7b03-6d63-45b9-bc6a-c7bed9fdf8a7
+  copyright_status: restricted
 - text: Said Dan Kimball told him the 1952 Pacific sighting discs flew at up to ~3,200
     km/h
   source: In Plain Sight
@@ -114,6 +124,7 @@ references:
   claim_id: 9842b1a1-4966-49c4-92a1-460bf896a8fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9842b1a1-4966-49c4-92a1-460bf896a8fd
+  copyright_status: restricted
 - text: 'Vallée: the Hills told Keyhoe and later their therapist a story of nonhuman
     beings'
   source: American Cosmic
@@ -121,12 +132,14 @@ references:
   claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ab8d589-9486-4efc-ab61-f5aaaeeb4074
+  copyright_status: restricted
 - text: Australian DAFI dismissed Turner's findings for quoting Keyhoe
   source: In Plain Sight
   location: ch9:9728-10016
   claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
+  copyright_status: restricted
 - text: Australia's Director of Air Force Intelligence said Turner erred in quoting
     Keyhoe
   source: In Plain Sight
@@ -134,6 +147,7 @@ references:
   claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

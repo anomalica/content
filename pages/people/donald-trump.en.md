@@ -148,12 +148,14 @@ references:
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
+  copyright_status: restricted
 - text: Hillary Clinton lost the 2016 election to Trump
   source: In Plain Sight
   location: ch20:23537-23620
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
+  copyright_status: restricted
 - text: During the 2016 election Hillary Clinton was doing very well and promising
     to release UFO information
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -164,6 +166,7 @@ references:
   claim_id: 4b93f4df-5776-4fe1-93d6-075ed81fe368
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4b93f4df-5776-4fe1-93d6-075ed81fe368
+  copyright_status: publicly_accessible
 - text: A non-state intelligence network leaked the Podesta emails, decisive in putting
     Trump into office
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -174,6 +177,7 @@ references:
   claim_id: 0e4f514f-b924-4241-b8f6-eacbc55d3505
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e4f514f-b924-4241-b8f6-eacbc55d3505
+  copyright_status: publicly_accessible
 - text: Trump expressed scepticism about UFO sightings, saying 'Not particularly'
     when asked if he believed people who report seeing them
   source: In Plain Sight
@@ -181,6 +185,7 @@ references:
   claim_id: bef03c69-0eb9-432e-8ebd-501c029f8522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
+  copyright_status: restricted
 - text: Trump made a comment about the Roswell incident in an interview with his son
     Don Trump Jr.
   source: In Plain Sight
@@ -188,6 +193,7 @@ references:
   claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
+  copyright_status: restricted
 - text: Trump said he would not talk about what he knows about Roswell, but that it
     is very interesting
   source: In Plain Sight
@@ -195,18 +201,21 @@ references:
   claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
+  copyright_status: restricted
 - text: Trump described the released Pentagon UFO footage as 'a hell of a video'
   source: In Plain Sight
   location: ch34:40062-40150
   claim_id: 547dace0-9751-4016-b5ac-a625a86224d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-547dace0-9751-4016-b5ac-a625a86224d7
+  copyright_status: restricted
 - text: Trump said he has heard 'interesting' things about the Roswell incident
   source: In Plain Sight
   location: ch34:66515-66620
   claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
+  copyright_status: restricted
 - text: Former President Trump said on a talk show that several airline pilots came
     into his office to speak about spheres flying around jets
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -218,6 +227,7 @@ references:
   claim_id: ab6d1283-d314-4ad4-a851-d7358bcebe9e
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-ab6d1283-d314-4ad4-a851-d7358bcebe9e
+  copyright_status: publicly_accessible
 - text: A pilot told Trump a round object was travelling four times faster than his
     F-22 Raptor
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -228,6 +238,7 @@ references:
   claim_id: 7275452d-2690-41ea-b22e-ae28c4345f60
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-7275452d-2690-41ea-b22e-ae28c4345f60
+  copyright_status: publicly_accessible
 - text: James Mattis accepted the position of Secretary of Defense in the incoming
     Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -235,6 +246,7 @@ references:
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+  copyright_status: restricted
 - text: Mattis resigned as Secretary of Defense in January 2019 due to differences
     with the Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -242,6 +254,7 @@ references:
   claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
+  copyright_status: restricted
 - text: Jay Stratton received NSC briefing requests and briefed Trump on some level
     regarding UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -249,6 +262,7 @@ references:
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
+  copyright_status: restricted
 - text: Trump attended Fordham University
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:29:02.4-02:29:03.7
@@ -256,6 +270,7 @@ references:
   claim_id: c36f4f9f-eeca-47a0-834f-e60b7910b014
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c36f4f9f-eeca-47a0-834f-e60b7910b014
+  copyright_status: publicly_accessible
 - text: Trump became the controller of Resorts International in the mid-1970s for
     about a year
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -267,6 +282,7 @@ references:
   claim_id: 1ba14143-4d37-4b30-ad48-7b18ba047998
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1ba14143-4d37-4b30-ad48-7b18ba047998
+  copyright_status: publicly_accessible
 - text: Jesse Michels believes Trump is not thinking deeply about UFOs, but finds
     the Resorts International connection fascinating
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -277,6 +293,7 @@ references:
   claim_id: 4037f13b-0f79-4cea-b57a-7755386ba934
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4037f13b-0f79-4cea-b57a-7755386ba934
+  copyright_status: publicly_accessible
 - text: McCasland disappeared days after Trump announced there would be some form
     of UFO disclosure
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -285,6 +302,7 @@ references:
   claim_id: d935b6d5-261a-428f-8c94-d0046203cb4d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-d935b6d5-261a-428f-8c94-d0046203cb4d
+  copyright_status: publicly_accessible
 - text: In a recent podcast appearance Trump said aliens are real, and the interviewer
     did not follow up
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -295,6 +313,7 @@ references:
   claim_id: e1c61248-5a89-4c00-ba2c-a3440327a855
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e1c61248-5a89-4c00-ba2c-a3440327a855
+  copyright_status: publicly_accessible
 - text: Jonathan Caplan does not believe UAP disclosure is coming through Trump's
     presidency
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -305,6 +324,7 @@ references:
   claim_id: 76c26bc8-3df3-46ba-b3da-3ed7f5f46fa3
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-76c26bc8-3df3-46ba-b3da-3ed7f5f46fa3
+  copyright_status: publicly_accessible
 - text: Caplan considers full disclosure not on the table, though Trump may allow
     acknowledgement that some video or craft is anomalous
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -318,6 +338,7 @@ references:
   claim_id: 9b26be1e-b978-4fb5-b313-eb69979c439b
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-9b26be1e-b978-4fb5-b313-eb69979c439b
+  copyright_status: publicly_accessible
 - text: Jesse Michels wants Trump to release UFO documents to shift the Overton window
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:31:29.2-00:31:40.9
@@ -327,6 +348,7 @@ references:
   claim_id: 9a8fb5f3-fb13-44db-83ab-46f995718ff0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9a8fb5f3-fb13-44db-83ab-46f995718ff0
+  copyright_status: publicly_accessible
 - text: Phil McGraw says those controlling UFO information treat the President as
     a temporary employee not given full candour
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -339,6 +361,7 @@ references:
   claim_id: f306f25a-ca43-4d25-96c3-484414dab022
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-f306f25a-ca43-4d25-96c3-484414dab022
+  copyright_status: publicly_accessible
 - text: Ross Coulthart says people inside the cover-up regard the President as a temporary
     employee
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -349,6 +372,7 @@ references:
   claim_id: 2ede72f4-086e-41fc-b564-ca9252cc3ecb
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2ede72f4-086e-41fc-b564-ca9252cc3ecb
+  copyright_status: publicly_accessible
 - text: Trump signed an executive order to declassify and disclose UFO-related information
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check
@@ -358,6 +382,7 @@ references:
   claim_id: e68d2a8f-fb60-4834-8612-79a5c21ecc5e
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-e68d2a8f-fb60-4834-8612-79a5c21ecc5e
+  copyright_status: publicly_accessible
 - text: Trump made his remarks about releasing extraterrestrial information at a cabinet
     meeting with Marco Rubio seated on one side
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -368,6 +393,7 @@ references:
   claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+  copyright_status: publicly_accessible
 - text: Trump said the administration is releasing a lot of information on extraterrestrial
     things and people are fascinated
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -379,6 +405,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-8fc54bb2-c316-4395-8ecc-dd2c8407b993
+  copyright_status: publicly_accessible
 - text: In the week of the episode, the President of the United States used the word
     extraterrestrial
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -388,6 +415,7 @@ references:
   claim_id: 48509f23-c900-42c7-adfd-f5940fbaa0a8
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-48509f23-c900-42c7-adfd-f5940fbaa0a8
+  copyright_status: publicly_accessible
 - text: Phil McGraw believes the degraded releases are not coming from Trump but become
     garbled in the bureaucracy
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -398,6 +426,7 @@ references:
   claim_id: e757895a-dd97-4169-82ef-4999734284fa
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e757895a-dd97-4169-82ef-4999734284fa
+  copyright_status: publicly_accessible
 - text: Coulthart considers the initiative a positive sign, and says the files could
     have been released much earlier
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -411,6 +440,7 @@ references:
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-e488957b-d09d-47cd-857c-5327e132f318
   inspection_url: /records/2026-08-11-video-ross-coulthart-answers-your-biggest-uap-questions-reality#claim-e488957b-d09d-47cd-857c-5327e132f318
+  copyright_status: publicly_accessible
 - text: Grusch knows what Trump was briefed on during his previous term and what Rubio
     was briefed on regarding UAP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -421,6 +451,7 @@ references:
   claim_id: ab7d7970-5547-469b-bddc-d9e45bd94c6d
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ab7d7970-5547-469b-bddc-d9e45bd94c6d
+  copyright_status: publicly_accessible
 - text: David Grusch is worried UAP recovery programme information is being destroyed
     absent a preservation hold from Trump
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -432,6 +463,7 @@ references:
   claim_id: 1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
+  copyright_status: publicly_accessible
 - text: Grusch considers mishandling UAP disclosure would damage Trump's legacy
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:27:51.5-00:27:56.7
@@ -440,6 +472,7 @@ references:
   claim_id: d55a705a-4023-450e-96b9-8c19a8914de6
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d55a705a-4023-450e-96b9-8c19a8914de6
+  copyright_status: publicly_accessible
 - text: Phil McGraw has discussed UAP with Trump, Stephen Miller, Tim Burchett and
     Anna Paulina Luna
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -449,6 +482,7 @@ references:
   claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+  copyright_status: publicly_accessible
 - text: Grusch hopes Trump delivers on his promise regarding UAP disclosure
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:51:07.8-00:51:10.9
@@ -456,6 +490,7 @@ references:
   claim_id: b8b57842-44d9-4f91-bfd7-f3cdec8109e5
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-b8b57842-44d9-4f91-bfd7-f3cdec8109e5
+  copyright_status: publicly_accessible
 - text: Coulthart considers this the first time a US president has publicly talked
     about potentially disclosing on the phenomenon
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -466,6 +501,7 @@ references:
   claim_id: 1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-1edf7ce0-6c7b-4980-8417-8c4376fcd0d6
+  copyright_status: publicly_accessible
 - text: Coulthart does not expect a significant disclosure, considering Trump intimidated
     by the national security state
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -478,6 +514,7 @@ references:
   claim_id: 2e864102-c203-406f-8b5d-fc297dbd0abd
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-2e864102-c203-406f-8b5d-fc297dbd0abd
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

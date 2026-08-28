@@ -25,6 +25,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-9b8aee01-5088-4a6c-9d98-07af18ecd1c8
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-9b8aee01-5088-4a6c-9d98-07af18ecd1c8
+  copyright_status: public_domain
 - text: The detection was logged at 2020-05-14T20:40:00Z during a night ISR mission.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:835-859
@@ -34,6 +35,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-32fbbb1f-5a5c-4181-a2d3-52a4209e2ba2
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-32fbbb1f-5a5c-4181-a2d3-52a4209e2ba2
+  copyright_status: public_domain
 - text: The mission was designated a low flying event.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:973-1007
@@ -43,6 +45,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-067b1519-230d-4587-9d35-aa8b575859a5
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-067b1519-230d-4587-9d35-aa8b575859a5
+  copyright_status: public_domain
 - text: The recorded contact altitude was approximately 6,100 metres.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1112-1134
@@ -52,6 +55,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-a5e01a76-2de7-4673-a904-31f2e35fc426
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-a5e01a76-2de7-4673-a904-31f2e35fc426
+  copyright_status: public_domain
 - text: The sensor operator assessed that the contact was moving.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1621-1645
@@ -61,6 +65,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-60763339-00b7-4257-8d85-67b748da905d
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-60763339-00b7-4257-8d85-67b748da905d
+  copyright_status: public_domain
 - text: The trackfile was intermittent.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1701-1720
@@ -70,6 +75,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-e43fba36-eaa1-43a5-a2f7-4bf1468967da
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-e43fba36-eaa1-43a5-a2f7-4bf1468967da
+  copyright_status: public_domain
 - text: The crew recorded a single contact in the group.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1736-1760
@@ -79,6 +85,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-75f6993b-2b92-4162-8bc6-935dd1885e4f
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-75f6993b-2b92-4162-8bc6-935dd1885e4f
+  copyright_status: public_domain
 - text: The AIM-9X Sidewinder self-track function was not indicated as achieved.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1763-1775
@@ -88,6 +95,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-7af3bbb8-42f4-4133-a260-3d21be961689
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-7af3bbb8-42f4-4133-a260-3d21be961689
+  copyright_status: public_domain
 - text: The ATFLIR autotrack function was not indicated as achieved.
   source: Range Fouler Debrief Form (2020-05-14)
   location: line 42
@@ -97,6 +105,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-b44b02ac-32aa-4091-af1f-4b7c827e0614
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-b44b02ac-32aa-4091-af1f-4b7c827e0614
+  copyright_status: public_domain
 - text: The aircrew checked the contact's shape as round.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:1869-1869
@@ -106,6 +115,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-3a400a79-ea13-447d-9656-c72e8d7ebb2a
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-3a400a79-ea13-447d-9656-c72e8d7ebb2a
+  copyright_status: public_domain
 - text: The aircrew observed a solid white object pass through the sensor's field
     of view during an ISR tasking.
   source: Range Fouler Debrief Form (2020-05-14)
@@ -117,6 +127,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-1502766e-bd15-4f70-88ff-1df7c46e2af4
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-1502766e-bd15-4f70-88ff-1df7c46e2af4
+  copyright_status: public_domain
 - text: The crew temporarily lost the object and then re-acquired it shortly afterwards.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:2470-2543
@@ -127,6 +138,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-fa85b2c4-68f3-496f-986b-c622b3a60c8c
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-fa85b2c4-68f3-496f-986b-c622b3a60c8c
+  copyright_status: public_domain
 - text: The object appeared to make erratic movements above the water.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:2550-2638
@@ -137,6 +149,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-30debf63-809e-47f3-8bb8-f254860150de
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-30debf63-809e-47f3-8bb8-f254860150de
+  copyright_status: public_domain
 - text: The crew obtained 4x zoom before losing the object because of poor track placement.
   source: Range Fouler Debrief Form (2020-05-14)
   location: char:2645-2748
@@ -147,6 +160,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-fcc5b98f-0ca2-4ae6-ab4d-2329c472aa91
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-fcc5b98f-0ca2-4ae6-ab4d-2329c472aa91
+  copyright_status: public_domain
 - text: The sensor operator continuously manipulated the sensor to maintain eyes on
     the object.
   source: Range Fouler Debrief Form (2020-05-14)
@@ -158,6 +172,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-878449fa-0bf5-41f7-af14-5788ff40b128
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-878449fa-0bf5-41f7-af14-5788ff40b128
+  copyright_status: public_domain
 - text: The continuous sensor manipulation was apparent from waves in the water background
     alternately becoming visible and not visible.
   source: Range Fouler Debrief Form (2020-05-14)
@@ -169,6 +184,7 @@ references:
   record_hash: 90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38
   workbench_url: https://workbench.anomalica.is/90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc38#claim-51e6b23a-f190-406a-9ea9-92ec3e21476a
   inspection_url: /records/2020-05-14-pdf-range-fouler-debrief-form#claim-51e6b23a-f190-406a-9ea9-92ec3e21476a
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

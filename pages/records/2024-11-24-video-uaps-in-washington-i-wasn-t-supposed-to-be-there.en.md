@@ -28,6 +28,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-f7d445bd-0ae8-41a7-b46a-05da3681d194
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-f7d445bd-0ae8-41a7-b46a-05da3681d194
+  copyright_status: publicly_accessible
 - text: Many high-ranking military and intelligence figures believe UAP demand greater
     attention.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -39,6 +40,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b2c6ab0f-f671-4119-927f-d17eb1a60d7c
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-b2c6ab0f-f671-4119-927f-d17eb1a60d7c
+  copyright_status: publicly_accessible
 - text: The 2024 congressional hearing was described as the second congressional UAP
     hearing held in Washington, D.C.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -50,6 +52,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-8ae92692-3bd9-4069-a995-4810989e11bb
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-8ae92692-3bd9-4069-a995-4810989e11bb
+  copyright_status: publicly_accessible
 - text: Jesse Michaels attended the Monroe Institute before 2024-11-13.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:02:03.6-00:02:10.7
@@ -60,6 +63,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
+  copyright_status: publicly_accessible
 - text: David Grush testified before Congress in summer 2023 as a UFO whistleblower.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:05:18.3-00:05:23.3
@@ -70,6 +74,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+  copyright_status: publicly_accessible
 - text: The 2023 congressional hearing occurred on 2023-07-26.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:07:13.4-00:07:20.9
@@ -80,6 +85,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-c814924c-1084-41ba-b02b-682e7133ddf8
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-c814924c-1084-41ba-b02b-682e7133ddf8
+  copyright_status: publicly_accessible
 - text: Jesse Michaels's YouTube channel received a strike after the video featuring
     David Grush was removed.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -91,6 +97,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
+  copyright_status: publicly_accessible
 - text: The 2024 hearing was held at the Rayburn House Office Building and hosted
     by the Oversight Committee.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -102,6 +109,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-0b98d3b5-f7bf-4024-b3ce-c48c82d4531c
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-0b98d3b5-f7bf-4024-b3ce-c48c82d4531c
+  copyright_status: publicly_accessible
 - text: Members of Congress were asked whether the technology involved came from private
     companies or represented non-human intelligence.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -112,6 +120,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-fbdf8369-9b0a-4ab9-a59d-f55dd498f988
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-fbdf8369-9b0a-4ab9-a59d-f55dd498f988
+  copyright_status: publicly_accessible
 - text: Lou Elizondo declined to discuss technologies he termed 'Blue Force technologies'.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:10:27.8-00:10:30.1
@@ -121,6 +130,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-b7d6fc21-ad50-4530-addf-0f96f90a7b57
+  copyright_status: publicly_accessible
 - text: Lou Elizondo said the United States government had conducted secret UAP crash-retrieval
     programmes.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -132,6 +142,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-1682029b-e987-431b-acc6-0876d4ba78b0
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-1682029b-e987-431b-acc6-0876d4ba78b0
+  copyright_status: publicly_accessible
 - text: Lou Elizondo said the programmes were designed to identify and reverse engineer
     alien craft.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -143,6 +154,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-b434f355-e2cb-483a-b910-110502c2c241
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-b434f355-e2cb-483a-b910-110502c2c241
+  copyright_status: publicly_accessible
 - text: David Grush said the military and intelligence community held substantial
     visual and other sensor information on UAP.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -155,6 +167,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
+  copyright_status: publicly_accessible
 - text: David Grush said some held UAP material was high resolution.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:11:28.2-00:11:32.8
@@ -165,6 +178,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
+  copyright_status: publicly_accessible
 - text: David Grush said he had been told of hundreds, possibly thousands, of government-held
     UAP visuals.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -176,6 +190,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-d0adec43-6124-4d70-9358-e18967fb910d
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-d0adec43-6124-4d70-9358-e18967fb910d
+  copyright_status: publicly_accessible
 - text: Anna Paulina Luna asked whether non-human biologics piloting aircraft might
     be connected through a mind-body connection.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -188,6 +203,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-aac17227-c68e-4bd7-84c6-db38d114f85f
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-aac17227-c68e-4bd7-84c6-db38d114f85f
+  copyright_status: publicly_accessible
 - text: Lauren Boebert said rumours had reached Congress about a DoD project involving
     human and non-human genetic material.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -201,6 +217,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-282d7b37-246f-4a3a-b47f-c3903ea38983
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-282d7b37-246f-4a3a-b47f-c3903ea38983
+  copyright_status: publicly_accessible
 - text: David Grush denied familiarity with the rumoured DoD human-genetic hybridisation
     programme.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -211,6 +228,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-419ef8d3-faff-4abe-9999-c7506496fd69
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-419ef8d3-faff-4abe-9999-c7506496fd69
+  copyright_status: publicly_accessible
 - text: Members of Congress received the Immaculate Constellation document minutes
     before the hearing.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -222,6 +240,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-eb204f81-feac-452c-87d8-566d5d0c20ba
+  copyright_status: publicly_accessible
 - text: The Immaculate Constellation document was said not to contain material about
     hybridisation.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -232,6 +251,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-fd85e1d8-7d79-41bb-8a35-5906aaa2a001
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-fd85e1d8-7d79-41bb-8a35-5906aaa2a001
+  copyright_status: publicly_accessible
 - text: Lou Elizondo was asked about Lockheed Martin's involvement with underwater
     projects.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -243,6 +263,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
+  copyright_status: publicly_accessible
 - text: Lou Elizondo denied saying that Lockheed Martin would not conduct submerged
     operations.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -253,6 +274,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
+  copyright_status: publicly_accessible
 - text: Lockheed Martin's stated expertise was described as aerospace within the UAP
     space.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -263,6 +285,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
+  copyright_status: publicly_accessible
 - text: The narrator described backstage access alongside Ryan Graves, Lou Elizondo,
     and members of Congress.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -274,6 +297,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-e2cf8310-e1af-4ac5-9688-16d3a5aa30ea
+  copyright_status: publicly_accessible
 - text: Kozlowski was identified as head of AARO.
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:21:13.3-00:21:19.5
@@ -283,6 +307,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-dc14e454-5ecf-4733-a20e-2cb5183180a4
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-dc14e454-5ecf-4733-a20e-2cb5183180a4
+  copyright_status: publicly_accessible
 - text: The 2024 Senate hearing on UAP took place several days after the congressional
     hearing and featured Kozlowski.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -294,6 +319,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-6e9f2c24-34a4-41b0-bc71-5d42810f1f61
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-6e9f2c24-34a4-41b0-bc71-5d42810f1f61
+  copyright_status: publicly_accessible
 - text: The narrator considered the 2024 Senate hearing to have contained essentially
     nothing of substance.
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -304,6 +330,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-6eacf0bf-bf31-46b9-b9bc-370d3c8d7e69
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-6eacf0bf-bf31-46b9-b9bc-370d3c8d7e69
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -37,6 +37,7 @@ references:
   claim_id: 984824c5-a5bb-4f39-bee1-33946875563a
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-984824c5-a5bb-4f39-bee1-33946875563a
+  copyright_status: public_domain
 - text: Thomas Wilson testified that Patrick Hughes was his boss.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: 2002-10-16, char:1288-1347
@@ -44,6 +45,7 @@ references:
   claim_id: 2d6febb4-5676-4b2b-a2f1-85138b3c300d
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-2d6febb4-5676-4b2b-a2f1-85138b3c300d
+  copyright_status: public_domain
 - text: Greer, Miller and Mitchell gave a talk in a Pentagon conference room with
     Crawford and Hughes present, April 1997.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -54,6 +56,7 @@ references:
   claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-3df64293-e6b6-484f-aa25-a4d074b69359
+  copyright_status: public_domain
 - text: Greer and Miller were invited back to the DIA in 1998 to brief Lieutenant
     General Hughes on UFOs.
   source: In Plain Sight
@@ -61,12 +64,14 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
+  copyright_status: restricted
 - text: The invitation to return came months after the April 1997 Pentagon meeting.
   source: In Plain Sight
   location: 2021, ch14:23223-23369
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
+  copyright_status: restricted
 - text: Greer recounts Hughes producing an E.T. doll and saying he could get no answers
     from his own agency.
   source: In Plain Sight
@@ -74,6 +79,7 @@ references:
   claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
+  copyright_status: restricted
 - text: Coulthart says naming Wilson and Hughes publicly discouraged other officials
     from trusting Greer with disclosure.
   source: In Plain Sight
@@ -81,6 +87,7 @@ references:
   claim_id: 6d895de9-4223-4e93-88df-575e62b21cec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d895de9-4223-4e93-88df-575e62b21cec
+  copyright_status: restricted
 - text: Coulthart suspects the two DIA officials were more interested in UAPs than
     they publicly admitted.
   source: In Plain Sight
@@ -88,6 +95,7 @@ references:
   claim_id: 29adc409-eabf-47fb-98a1-8150112c2289
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29adc409-eabf-47fb-98a1-8150112c2289
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

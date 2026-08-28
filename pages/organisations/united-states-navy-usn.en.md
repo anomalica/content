@@ -386,6 +386,7 @@ references:
   claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+  copyright_status: restricted
 - text: Fravor was the senior pilot in the air and considered one of the best Navy
     pilots
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -393,6 +394,7 @@ references:
   claim_id: 9659319f-4ea5-4889-9c64-6de4cca851ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
+  copyright_status: restricted
 - text: Fravor had commanded his squadron for one month and was the most junior O5
     commanding officer in the Navy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -405,12 +407,14 @@ references:
   claim_id: 7dff5ba0-4f25-4035-87fa-271c84010d62
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-7dff5ba0-4f25-4035-87fa-271c84010d62
+  copyright_status: publicly_accessible
 - text: Alex Dietrich piloted the other F/A-18 Super Hornet involved
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4687-4804
   claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
+  copyright_status: restricted
 - text: The cap point lay approximately 97 kilometres away and was known only to a
     handful of Navy personnel and pilots
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -420,6 +424,7 @@ references:
   claim_id: 67f2e083-f7a7-4edb-933d-a721b7394c80
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-67f2e083-f7a7-4edb-933d-a721b7394c80
+  copyright_status: publicly_accessible
 - text: Fravor said there were clear indications of deliberate jamming when Underwood's
     jet tried to lock on
   source: In Plain Sight
@@ -427,6 +432,7 @@ references:
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
+  copyright_status: restricted
 - text: Object recorded on pilots' cameras and USS Princeton radar; event confirmed
     anomalous by the Navy
   source: The Fourth Mind
@@ -434,6 +440,7 @@ references:
   claim_id: 9fc08090-35e4-4082-998a-15869b238440
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9fc08090-35e4-4082-998a-15869b238440
+  copyright_status: restricted
 - text: The objects resumed tracking south at approximately 185 km/h following the
     dogfight
   source: In Plain Sight
@@ -441,6 +448,7 @@ references:
   claim_id: 322a08a7-1c97-40dc-816b-9afcdc766717
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-322a08a7-1c97-40dc-816b-9afcdc766717
+  copyright_status: restricted
 - text: After 2012 Elizondo worked with Navy and CIA officials on AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -450,6 +458,7 @@ references:
   claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
+  copyright_status: publicly_accessible
 - text: OUSDI located a classified Elizondo email requesting a Navy employee's help
     declassifying videos
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -461,6 +470,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
+  copyright_status: public_domain
 - text: Jay Stratton was skilled at getting fellow Navy members to talk about UAP
     encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -468,12 +478,14 @@ references:
   claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
+  copyright_status: restricted
 - text: Navy intelligence tasked Stratton with building an interagency UAP task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4612-4909
   claim_id: b8373943-84a1-48f6-8d54-bcb239ce88bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
+  copyright_status: restricted
 - text: Elizondo attended a meeting with Navy, CIA and NSA officials where Go-Fast
     and Gimbal were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -481,6 +493,7 @@ references:
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+  copyright_status: restricted
 - text: Go-Fast video was captured by a Navy F/A-18 using its ATFLIR pod, with little
     other context
   source: In Plain Sight
@@ -488,6 +501,7 @@ references:
   claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
+  copyright_status: restricted
 - text: Gimbal object initially described only as seen and videoed by Navy fighter
     pilots, location unspecified
   source: In Plain Sight
@@ -495,6 +509,7 @@ references:
   claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
+  copyright_status: restricted
 - text: 'September 2019: Navy acknowledged it could not explain the UAP its pilots
     were witnessing'
   source: In Plain Sight
@@ -502,6 +517,7 @@ references:
   claim_id: 9822d0ce-80a0-495a-ac55-f3efd95a78ff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
+  copyright_status: restricted
 - text: Gradisher said the Navy had not released characterisations or conclusions
     on the videos
   source: In Plain Sight
@@ -509,6 +525,7 @@ references:
   claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
+  copyright_status: restricted
 - text: DoD authorised release of three unclassified Navy videos
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -518,6 +535,7 @@ references:
   claim_id: a7e6afb1-9b57-4265-b351-6a15eca3a219
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-a7e6afb1-9b57-4265-b351-6a15eca3a219
+  copyright_status: public_domain
 - text: One video was taken in November 2004
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -526,6 +544,7 @@ references:
   claim_id: 7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-7b4f23a4-fa1f-400f-8178-7eaf5042ebb7
+  copyright_status: public_domain
 - text: Two videos were taken in January 2015
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -534,6 +553,7 @@ references:
   claim_id: 276c7d71-414d-463e-9688-f4b0927ad16b
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-276c7d71-414d-463e-9688-f4b0927ad16b
+  copyright_status: public_domain
 - text: Videos had circulated publicly after unauthorised releases in 2007 and 2017
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -543,6 +563,7 @@ references:
   claim_id: 828feb31-4e4d-497b-90f2-bacde3dbaa6b
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-828feb31-4e4d-497b-90f2-bacde3dbaa6b
+  copyright_status: public_domain
 - text: Graves is a former Navy F/A-18 Hornet pilot, decade of service, two combat
     deployments
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -554,6 +575,7 @@ references:
   claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
+  copyright_status: public_domain
 - text: Graves was trained as an aviation safety officer by the Navy
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -562,6 +584,7 @@ references:
   claim_id: 40cf93fd-9c76-4eaa-acb1-967992b4a17e
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-40cf93fd-9c76-4eaa-acb1-967992b4a17e
+  copyright_status: public_domain
 - text: Graves' squadron filed a safety report to the Navy after the translucent object
     encounter but never heard back
   source: In Plain Sight
@@ -569,6 +592,7 @@ references:
   claim_id: 87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
+  copyright_status: restricted
 - text: Navy implemented a Range Fouler Report for pilot UAP encounters on training
     ranges
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -579,12 +603,14 @@ references:
   claim_id: d66378d7-f3a2-4754-97ed-7e2be8a7fcd6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d66378d7-f3a2-4754-97ed-7e2be8a7fcd6
+  copyright_status: public_domain
 - text: Walker wrote to the Secretary of the Navy on 2019-07-16 regarding UFO sightings
   source: In Plain Sight
   location: ch34:47367-47457
   claim_id: f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
+  copyright_status: restricted
 - text: Walker asked what resources the Navy dedicated to UAP investigation and about
     evidence/foreign origin
   source: In Plain Sight
@@ -592,6 +618,7 @@ references:
   claim_id: 7767d417-796b-420b-96ea-2890e2f526de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7767d417-796b-420b-96ea-2890e2f526de
+  copyright_status: restricted
 - text: Modly told Walker the Department of the Navy took UAP reports seriously and
     logged/investigated them
   source: In Plain Sight
@@ -599,6 +626,7 @@ references:
   claim_id: 63add907-4914-4ef1-b520-f40dd58f56e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63add907-4914-4ef1-b520-f40dd58f56e0
+  copyright_status: restricted
 - text: Mellon said UAP seen by Navy pilots were more impressive than objects the
     USAF shot down in Feb 2023
   source: In Plain Sight
@@ -606,18 +634,21 @@ references:
   claim_id: 402cc7a6-d6ae-488e-9449-45e978d92b63
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-402cc7a6-d6ae-488e-9449-45e978d92b63
+  copyright_status: restricted
 - text: USAF F-22 Raptors in the same training areas had superior sensor systems
   source: In Plain Sight
   location: ch29:22307-22447
   claim_id: 431bdb4c-7314-4a1a-9117-8cb5db605562
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431bdb4c-7314-4a1a-9117-8cb5db605562
+  copyright_status: restricted
 - text: Mellon arranged for Navy aviators to brief the Senate Armed Services Committee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:22535-22618
   claim_id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
+  copyright_status: restricted
 - text: Mellon found the Air Force unhelpful, if not hostile, facilitating meetings
     with Navy pilots
   source: In Plain Sight
@@ -625,12 +656,14 @@ references:
   claim_id: 75e73ea1-13a2-4506-b3f1-67a04e9cf81e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75e73ea1-13a2-4506-b3f1-67a04e9cf81e
+  copyright_status: restricted
 - text: Bender reported the Navy was drafting new UFO-reporting guidelines
   source: In Plain Sight
   location: ch34:48339-48430
   claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
+  copyright_status: restricted
 - text: Navy gave briefings by senior naval intelligence officials and aviators to
     Congressional staff
   source: In Plain Sight
@@ -638,36 +671,42 @@ references:
   claim_id: 2207fbaa-60b6-42bd-be87-0933d1053bd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2207fbaa-60b6-42bd-be87-0933d1053bd4
+  copyright_status: restricted
 - text: Navy was assignee on a series of Pais patents filed over three years
   source: In Plain Sight
   location: ch28:2759-2865
   claim_id: 24a28fa0-b050-47fb-9131-c25b871fe648
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24a28fa0-b050-47fb-9131-c25b871fe648
+  copyright_status: restricted
 - text: 'April 2016: Pais filed a patent for a gravity-wave-driven spacecraft'
   source: In Plain Sight
   location: ch28:1487-1758
   claim_id: ae55a433-f3dc-45a6-9746-04db031c17e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae55a433-f3dc-45a6-9746-04db031c17e7
+  copyright_status: restricted
 - text: Navy vouched for Pais's hybrid craft patent in an appeal letter after rejection
   source: In Plain Sight
   location: ch28:12868-13064
   claim_id: 7426bc13-cb28-479c-81a3-04a2e7bfd5ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7426bc13-cb28-479c-81a3-04a2e7bfd5ae
+  copyright_status: restricted
 - text: Navy secured Pais's Electro-magnetic Forcefield Generator patent as operable
   source: In Plain Sight
   location: ch28:16040-16110
   claim_id: 5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
+  copyright_status: restricted
 - text: Navy did not seek secrecy orders on Pais's patents despite being able to
   source: In Plain Sight
   location: ch28:17539-17794
   claim_id: ce065ee1-1e0c-4117-848b-a6b36f468503
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce065ee1-1e0c-4117-848b-a6b36f468503
+  copyright_status: restricted
 - text: Coulthart suggests the Navy filed the patents to block China/Russia claims
     and royalties
   source: In Plain Sight
@@ -675,12 +714,14 @@ references:
   claim_id: d697f7df-9f43-4eab-b53f-8e286e2015a5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d697f7df-9f43-4eab-b53f-8e286e2015a5
+  copyright_status: restricted
 - text: Kobitz was the Navy's former Director of Science and Technology Development
   source: In Plain Sight
   location: ch27:628-742
   claim_id: 42b9f2e3-5462-49b9-84c2-db5946d19857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42b9f2e3-5462-49b9-84c2-db5946d19857
+  copyright_status: restricted
 - text: Kobitz confirmed he worked on anti-gravity/field propulsion research for the
     Navy
   source: In Plain Sight
@@ -688,18 +729,21 @@ references:
   claim_id: 5c817205-d557-4f48-aafd-687ac99993da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c817205-d557-4f48-aafd-687ac99993da
+  copyright_status: restricted
 - text: Kobitz left the role in 1994 and set up NKA Science
   source: In Plain Sight
   location: ch27:16888-17005
   claim_id: c98c12c1-f605-4356-950d-22b74e70ce8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
+  copyright_status: restricted
 - text: Kobitz was read into a programme working with recovered UAP technology
   source: In Plain Sight
   location: ch27:20450-20594
   claim_id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
+  copyright_status: restricted
 - text: Admiral Thomas Wilson arrived late to a 2002 meeting with Eric Davis, accompanied
     by two Navy officers
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -713,6 +757,7 @@ references:
   record_hash: 88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7
   workbench_url: https://workbench.anomalica.is/88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
   inspection_url: /records/2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson#claim-1746e369-1f5c-4540-8be9-bdccb11ac3cc
+  copyright_status: public_domain
 - text: Navy operated the experimental 'flying flapjack' V-173 in the early 1940s,
     now in a museum
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -723,6 +768,7 @@ references:
   claim_id: 9880e7ac-e461-4cc2-9c95-63b318c726c7
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9880e7ac-e461-4cc2-9c95-63b318c726c7
+  copyright_status: publicly_accessible
 - text: V-173/XF5U-1 'Flying Pancake' design aimed for low-speed handling without
     losing high-speed performance
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -735,6 +781,7 @@ references:
   claim_id: 619f4f4f-058f-41be-b8b5-e8f1ee216a0e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-619f4f4f-058f-41be-b8b5-e8f1ee216a0e
+  copyright_status: public_domain
 - text: Navy cancelled the Flying Pancake project in 1948 in favour of turbojet engines
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -743,6 +790,7 @@ references:
   claim_id: 3cc3f167-00cf-42c5-adf4-773f36275029
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3cc3f167-00cf-42c5-adf4-773f36275029
+  copyright_status: public_domain
 - text: Church of Scientology claims Hubbard was sent by the Navy to infiltrate a
     black magic cult
   source: Dark Mission
@@ -750,18 +798,21 @@ references:
   claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
+  copyright_status: restricted
 - text: Navy documents show Hubbard assigned to intelligence duties in July 1941
   source: Dark Mission
   location: ch5:19571-19670
   claim_id: 3285d470-0a62-4dbc-9bb5-b4c3ac293c64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3285d470-0a62-4dbc-9bb5-b4c3ac293c64
+  copyright_status: restricted
 - text: Hubbard remained in the Navy reserves until October 1950
   source: Dark Mission
   location: ch5:19676-19953
   claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-69259146-3c29-4f27-afc1-06890b2b729d
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

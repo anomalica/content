@@ -183,18 +183,21 @@ references:
   claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
+  copyright_status: restricted
 - text: The initial press release referred specifically to a recovered 'flying disc'
   source: In Plain Sight
   location: ch7:15472-15560
   claim_id: 0d000272-c680-4ae9-87ce-aa496e3be833
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d000272-c680-4ae9-87ce-aa496e3be833
+  copyright_status: restricted
 - text: The Army never called it a 'flying saucer', only ever a 'disc'
   source: In Plain Sight
   location: ch7:12377-12460
   claim_id: 334d0cb9-3756-4a41-bf09-c556d63c8b6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-334d0cb9-3756-4a41-bf09-c556d63c8b6d
+  copyright_status: restricted
 - text: The Army was forced to admit in 1947 it had no idea what the flying discs
     were
   source: In Plain Sight
@@ -202,6 +205,7 @@ references:
   claim_id: e93865cd-c1f5-4801-a8ae-6916d0dd3d0b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e93865cd-c1f5-4801-a8ae-6916d0dd3d0b
+  copyright_status: restricted
 - text: Secret Army memos declassified in 1994 referred to the Roswell object as a
     'flying disc'
   source: In Plain Sight
@@ -209,6 +213,7 @@ references:
   claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233f477a-b1cd-40e7-8cc1-bb2bda18153b
+  copyright_status: restricted
 - text: Investigators assumed the craft was foreign; the Army determined within hours
     it was not made by humans
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -216,12 +221,14 @@ references:
   claim_id: f39e7f6f-dc6a-488f-b154-7965a0714503
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f39e7f6f-dc6a-488f-b154-7965a0714503
+  copyright_status: restricted
 - text: The Aztec craft was claimed to have been retrieved by the US military in secrecy
   source: In Plain Sight
   location: ch17:14545-14621
   claim_id: 4be5fb85-36d7-4813-bb73-7cc1b2f408fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4be5fb85-36d7-4813-bb73-7cc1b2f408fc
+  copyright_status: restricted
 - text: The Army conducted the first Trinity nuclear detonation at White Sands on
     1945-07-16
   source: In Plain Sight
@@ -229,6 +236,7 @@ references:
   claim_id: 863ee149-dab3-44ce-a30a-9eb766283745
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-863ee149-dab3-44ce-a30a-9eb766283745
+  copyright_status: restricted
 - text: The Army and USAF took over the Avrocar project in 1958, renamed Project Silver
     Bug
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -239,6 +247,7 @@ references:
   claim_id: 0683b7a3-bd68-490e-8f93-9288e092cfb5
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0683b7a3-bd68-490e-8f93-9288e092cfb5
+  copyright_status: public_domain
 - text: The CIA, Army and DIA recruited people claiming ESP to uncover intelligence
     secrets
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -251,6 +260,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  copyright_status: publicly_accessible
 - text: The CIA's ESP work ended in the late 1970s; the programme moved to the Army's
     Fort Meade base
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -261,12 +271,14 @@ references:
   claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+  copyright_status: publicly_accessible
 - text: The Army decided to find, train and use remote viewers for Project STARGATE
   source: Remote Viewing Secrets
   location: ch16:788-912
   claim_id: 907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
+  copyright_status: restricted
 - text: The Stargate Project studied remote viewing, funded by the US military with
     SRI International
   source: American Cosmic
@@ -274,30 +286,35 @@ references:
   claim_id: 76440ccc-aa0f-422f-9243-b14dc0e0a200
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-76440ccc-aa0f-422f-9243-b14dc0e0a200
+  copyright_status: restricted
 - text: 'Indicator: consistent success whatever the task'
   source: Remote Viewing Secrets
   location: ch16:9582-9622
   claim_id: 1ce81f56-68ae-4b25-af50-bbca83edf7ac
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1ce81f56-68ae-4b25-af50-bbca83edf7ac
+  copyright_status: restricted
 - text: 'Indicator: liked by peers but considered different from the norm'
   source: Remote Viewing Secrets
   location: ch16:9629-9681
   claim_id: 30cef02f-3b65-4cec-8da2-989fc47972ec
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-30cef02f-3b65-4cec-8da2-989fc47972ec
+  copyright_status: restricted
 - text: McMoneagle's background in Army Intelligence technical collection systems
   source: Remote Viewing Secrets
   location: ch4:287-448
   claim_id: 359297e3-ec36-4d63-a511-7b9b1e30266b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-359297e3-ec36-4d63-a511-7b9b1e30266b
+  copyright_status: restricted
 - text: McMoneagle held the rank of CW2 in the Army, retired
   source: Remote Viewing Secrets
   location: ch4:73-115
   claim_id: e71833f6-78e3-4ef8-b83d-6c38e85ca8c0
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e71833f6-78e3-4ef8-b83d-6c38e85ca8c0
+  copyright_status: restricted
 - text: McMoneagle was one of the original remote viewers recruited into Project STARGATE
   source: Remote Viewing Secrets
   location: ch9:1518-1738
@@ -305,6 +322,7 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-89143734-1d5f-4192-9d95-2e00e30542cc
+  copyright_status: restricted
 - text: McMoneagle helped the Army locate hostages in Iran
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -313,6 +331,7 @@ references:
   claim_id: 1243990d-fdaa-4615-82d8-e94b476d05b3
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-1243990d-fdaa-4615-82d8-e94b476d05b3
+  copyright_status: publicly_accessible
 - text: Ed Dames is a retired Army major
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -321,6 +340,7 @@ references:
   claim_id: dfc3201e-9e0e-43cc-a35a-1635c0618418
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-dfc3201e-9e0e-43cc-a35a-1635c0618418
+  copyright_status: publicly_accessible
 - text: Dames selected as one of five prototype Army members trained by Swann in 1983-84
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -332,6 +352,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
+  copyright_status: publicly_accessible
 - text: Puthoff told Swann the Army was funding the remote-viewing training
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -340,6 +361,7 @@ references:
   claim_id: 65f3c0ba-593f-4e5b-8b1c-869c090f0941
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65f3c0ba-593f-4e5b-8b1c-869c090f0941
+  copyright_status: publicly_accessible
 - text: Lyn Buchanan, retired Army remote viewer, was part of the Stargate Project
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -349,6 +371,7 @@ references:
   claim_id: 80d52e8e-0eaf-44e1-901a-7d504374cd44
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-80d52e8e-0eaf-44e1-901a-7d504374cd44
+  copyright_status: publicly_accessible
 - text: Paul H. Smith, former Army major, was a principal of the Stargate Project
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -358,6 +381,7 @@ references:
   claim_id: cd496a07-2cf3-4961-b633-183e222b1f2a
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-cd496a07-2cf3-4961-b633-183e222b1f2a
+  copyright_status: publicly_accessible
 - text: 'Nolan study: some Army psychic spies shared the hyperdeveloped caudate-putamen
     seen in UAP experiencers'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -365,6 +389,7 @@ references:
   claim_id: 63ab8169-c960-4870-a766-9e2d7880fef9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63ab8169-c960-4870-a766-9e2d7880fef9
+  copyright_status: restricted
 - text: McPherson served in the Army Infantry in Europe from June 1944 to October
     1946
   source: Project Serpo
@@ -374,6 +399,7 @@ references:
   claim_id: 25567689-ad82-4d4a-b77c-6515b287acc9
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-25567689-ad82-4d4a-b77c-6515b287acc9
+  copyright_status: publicly_accessible
 - text: McPherson obtained the rank of sergeant at discharge
   source: Project Serpo
   location: char:2496-2567
@@ -381,12 +407,14 @@ references:
   claim_id: 3b202717-6076-4261-9f04-ac31d072b691
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3b202717-6076-4261-9f04-ac31d072b691
+  copyright_status: publicly_accessible
 - text: October 2019 TTSA-Army metamaterials research partnership announced
   source: In Plain Sight
   location: ch23:12310-12513
   claim_id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+  copyright_status: restricted
 - text: Art's Parts samples sent to an Army lab to test whether they were from an
     alien spacecraft
   source: In Plain Sight
@@ -394,12 +422,14 @@ references:
   claim_id: 2e94126a-478b-435a-aa1b-f73b9f5c6915
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e94126a-478b-435a-aa1b-f73b9f5c6915
+  copyright_status: restricted
 - text: The TTSA-Army Art's Parts agreement was secured under a CRADA
   source: In Plain Sight
   location: ch23:13884-14022
   claim_id: 904c1482-da7d-4a58-b305-819b773def07
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-904c1482-da7d-4a58-b305-819b773def07
+  copyright_status: restricted
 - text: The Army allowed use of its historical data, labs and scientists under the
     CRADA
   source: In Plain Sight
@@ -407,12 +437,14 @@ references:
   claim_id: 91934634-abe5-4050-be97-c921f0ff53a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91934634-abe5-4050-be97-c921f0ff53a2
+  copyright_status: restricted
 - text: 'Army PR officer: materials research is of key interest to Army research'
   source: In Plain Sight
   location: ch23:14033-14244
   claim_id: 64c604c6-1e76-4e01-9cac-334d699db1e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64c604c6-1e76-4e01-9cac-334d699db1e9
+  copyright_status: restricted
 - text: Army supplied expertise/facilities, TTSA supplied materials, no financial
     compensation either way
   source: In Plain Sight
@@ -420,18 +452,21 @@ references:
   claim_id: 06c100ff-b8ca-4629-bbbe-748422c0b004
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06c100ff-b8ca-4629-bbbe-748422c0b004
+  copyright_status: restricted
 - text: Joint ownership of any invention resulting from a major breakthrough
   source: In Plain Sight
   location: ch23:19046-19210
   claim_id: 23e98b34-094c-4ede-adf9-326322ec7bd6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23e98b34-094c-4ede-adf9-326322ec7bd6
+  copyright_status: restricted
 - text: Greenewald/Black Vault reported the Army released its TTSA agreement on 2019-10-18
   source: In Plain Sight
   location: ch34:51759-51881
   claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbe357d8-af29-4fa1-b676-e4819f6eb946
+  copyright_status: restricted
 - text: Army in-house analysis; AARO agreed generally but found the structure not
     purely magnesium alloy and bismuth
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -443,6 +478,7 @@ references:
   claim_id: cbf6e493-cdfa-472d-bc0d-6319d0df0d97
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cbf6e493-cdfa-472d-bc0d-6319d0df0d97
+  copyright_status: public_domain
 - text: AARO concluded the sample was a manufactured, terrestrial alloy, not off-world
     technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -455,24 +491,28 @@ references:
   claim_id: 7e5a44c6-8caa-4cc2-941b-b53acae30caa
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
+  copyright_status: public_domain
 - text: Elizondo joined the Army after college
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:18361-18451
   claim_id: 492fab40-a43c-412f-aa69-9e3692da7395
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-492fab40-a43c-412f-aa69-9e3692da7395
+  copyright_status: restricted
 - text: Elizondo's career began at an Army recruiter's office in Miami in 1995
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:307-373
   claim_id: 6f78b7b7-14e5-4330-b73a-6f30fe156256
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6f78b7b7-14e5-4330-b73a-6f30fe156256
+  copyright_status: restricted
 - text: Elizondo underwent Army basic training in 1995
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:872-896
   claim_id: bc8f0767-1189-44e2-9e1f-0f78467e8962
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bc8f0767-1189-44e2-9e1f-0f78467e8962
+  copyright_status: restricted
 - text: Elizondo enlisted as a grunt rather than take an officer commission, to avoid
     the medical corps
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -480,18 +520,21 @@ references:
   claim_id: d92284f8-a4d1-42c7-9e74-0e1b83b6e126
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d92284f8-a4d1-42c7-9e74-0e1b83b6e126
+  copyright_status: restricted
 - text: Elizondo trained as an Army counterintelligence special agent (97-Bravo)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:19045-19166
   claim_id: a3c1b9b2-31ea-45a7-a3f2-82e6f90a3e37
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a3c1b9b2-31ea-45a7-a3f2-82e6f90a3e37
+  copyright_status: restricted
 - text: Elizondo recommended by Lt Col Michael Seage for the Great Skills programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:22235-22398
   claim_id: 401e3469-162b-4ef8-b007-d932ff6cb9f6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401e3469-162b-4ef8-b007-d932ff6cb9f6
+  copyright_status: restricted
 - text: The Great Skills programme recruited young soldiers with special talents as
     soldier spies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -499,18 +542,21 @@ references:
   claim_id: aa34a830-e004-4b5f-b758-503a61671cb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aa34a830-e004-4b5f-b758-503a61671cb7
+  copyright_status: restricted
 - text: Eugene Lessman was the lead recruiter for classified Army activities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:22783-22893
   claim_id: b8df682b-996e-4d42-8491-60057821e705
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8df682b-996e-4d42-8491-60057821e705
+  copyright_status: restricted
 - text: Lessman was a MICACP civilian case officer for the Army
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:24285-24441
   claim_id: e8c070d5-4ac6-44ba-819c-23c27a5ae0a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e8c070d5-4ac6-44ba-819c-23c27a5ae0a1
+  copyright_status: restricted
 - text: Elizondo's career crossed Puthoff's early on; they met in person at a Roslyn,
     Virginia dinner
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -518,6 +564,7 @@ references:
   claim_id: eb786960-c8ff-47d8-b141-4763bf7634a7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eb786960-c8ff-47d8-b141-4763bf7634a7
+  copyright_status: restricted
 - text: Karl Nell, retired Army colonel, was the Army's UAP Task Force liaison 2021-2022,
     working with Grusch
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -528,18 +575,21 @@ references:
   claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
+  copyright_status: publicly_accessible
 - text: Neill Tipton previously served in the Army
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:20875-20899
   claim_id: 25393fca-285a-4178-b591-06616dfa1a2c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-25393fca-285a-4178-b591-06616dfa1a2c
+  copyright_status: restricted
 - text: Elizondo shared Predator UAV video with Tipton, an Army ISR Task Force liaison
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:20930-21110
   claim_id: b7b52b6e-ef15-415c-a455-e5b3632ae3d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7b52b6e-ef15-415c-a455-e5b3632ae3d5
+  copyright_status: restricted
 - text: The Predator UAV began as a joint Army/Navy project, transitioned to USAF
     in 1996
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -550,12 +600,14 @@ references:
   claim_id: ae1df897-03ee-4353-b4a9-732f817a7ddd
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ae1df897-03ee-4353-b4a9-732f817a7ddd
+  copyright_status: public_domain
 - text: 'Elizondo: 2014 Army Patriot missile battery tracked objects at ~9,700 km/h'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:8943-9114
   claim_id: 9cc673a4-a488-4759-87b3-44631dbeb1fc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9cc673a4-a488-4759-87b3-44631dbeb1fc
+  copyright_status: restricted
 - text: Elizondo aware of a report on the incident, later opened by the Army under
     counterintelligence oversight
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -563,6 +615,7 @@ references:
   claim_id: 382dcf86-b61b-4f12-b1aa-f04c6c4e9d05
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-382dcf86-b61b-4f12-b1aa-f04c6c4e9d05
+  copyright_status: restricted
 - text: Army personnel use USAF's Marauder system to report UAP since the Army lacks
     its own process
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -573,6 +626,7 @@ references:
   claim_id: 161228c9-a9aa-400d-b773-71535b27d3e0
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-161228c9-a9aa-400d-b773-71535b27d3e0
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

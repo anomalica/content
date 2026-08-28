@@ -215,12 +215,14 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
+  copyright_status: restricted
 - text: More than 180 cattle mutilation cases occurred in Colorado in 1975 alone
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:6889-6939
   claim_id: e352aceb-b2d3-4535-ad36-31a76ccbed76
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e352aceb-b2d3-4535-ad36-31a76ccbed76
+  copyright_status: restricted
 - text: Mutilations often reported at the same time and place as UFO sightings
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:1504-1661
@@ -228,162 +230,189 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
+  copyright_status: restricted
 - text: Vallée's three positions on the cause of mutilations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:2015-2321
   claim_id: 9045af37-8ed9-4bd8-b75a-df7475a1d5c1
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9045af37-8ed9-4bd8-b75a-df7475a1d5c1
+  copyright_status: restricted
 - text: 'James Stewart: belief in mutilations is collective delusion'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:13177-13353
   claim_id: 73c2077b-8f17-4a70-aa15-c7e22457104e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-73c2077b-8f17-4a70-aa15-c7e22457104e
+  copyright_status: restricted
 - text: Carcasses showed no evidence of struggle
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22895-22932
   claim_id: a8f00c17-41ed-460a-8238-61d782cbf2d8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a8f00c17-41ed-460a-8238-61d782cbf2d8
+  copyright_status: restricted
 - text: No tracks or blood; circular depressions and pod-marks sometimes reported
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22942-23056
   claim_id: e8577fb8-dd1b-402b-aae8-3c741ca8eb95
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e8577fb8-dd1b-402b-aae8-3c741ca8eb95
+  copyright_status: restricted
 - text: 'Organs most often removed: eyes, ears, tongue, genitals'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:43889-44004
   claim_id: e71dc686-51e9-4083-8a62-b85be79df52c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e71dc686-51e9-4083-8a62-b85be79df52c
+  copyright_status: restricted
 - text: Evidence the Rokitansky autopsy technique had been used
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:25141-25312
   claim_id: 641b3f0e-2706-419d-bc5d-7075674d3046
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-641b3f0e-2706-419d-bc5d-7075674d3046
+  copyright_status: restricted
 - text: Military-surplus scalpel left behind at one scene
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:29197-29284
   claim_id: e368b8a3-ed6e-43ac-b2bc-1e68e9df3b8b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e368b8a3-ed6e-43ac-b2bc-1e68e9df3b8b
+  copyright_status: restricted
 - text: 'Whiteside: sex-organ removal definitely not made by predators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22677-22839
   claim_id: c7d279ba-0d75-4134-82a5-366152603ae8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c7d279ba-0d75-4134-82a5-366152603ae8
+  copyright_status: restricted
 - text: 'Whiteside: catching the culprits was like chasing a ghost'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:35900-36028
   claim_id: 0cffd8c7-3b13-4a39-b35e-e9d0c10e66b0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0cffd8c7-3b13-4a39-b35e-e9d0c10e66b0
+  copyright_status: restricted
 - text: Some carcasses appeared airlifted and dropped to be found
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23067-23166
   claim_id: 4ed6d860-1653-4276-93a1-3eddd80b38e5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4ed6d860-1653-4276-93a1-3eddd80b38e5
+  copyright_status: restricted
 - text: 'Jim Hileman: never seen anything like it in his life around livestock'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23654-23809
   claim_id: 66ca8f76-76a0-401e-a587-0c777a0c3e82
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-66ca8f76-76a0-401e-a587-0c777a0c3e82
+  copyright_status: restricted
 - text: 'Hart: Hereford cow found missing sex organs, rectum, ear, 1975-09-13'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23817-24006
   claim_id: cd8dd05f-895b-42ce-940d-6637b5f59de9
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd8dd05f-895b-42ce-940d-6637b5f59de9
+  copyright_status: restricted
 - text: 'George Yarnell: udder cleaned out and packed with sand'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:28838-29069
   claim_id: 50e60b78-2c7b-4909-bcf4-f2d228400332
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-50e60b78-2c7b-4909-bcf4-f2d228400332
+  copyright_status: restricted
 - text: 'Baron Hankes: as if someone wanted the carcasses found'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:7292-7484
   claim_id: ea7cc246-b6cf-4944-8f7e-e4bea5633e7e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ea7cc246-b6cf-4944-8f7e-e4bea5633e7e
+  copyright_status: restricted
 - text: Holstein calf found mutilated, 1975-10-28, near Middleton, Idaho
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:77-153
   claim_id: ecbde2c6-1c2c-4168-b7bf-575ee323fd8c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ecbde2c6-1c2c-4168-b7bf-575ee323fd8c
+  copyright_status: restricted
 - text: Sexual organs, rectum, tongue removed from the Middleton calf
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:160-252
   claim_id: 34a1bfbc-13d4-4bc1-a5a7-495e4f509603
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-34a1bfbc-13d4-4bc1-a5a7-495e4f509603
+  copyright_status: restricted
 - text: Elbert County cluster of incidents near military installations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:25388-25851
   claim_id: b5b4c796-ce38-4bc0-8402-088b1ec7593e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b5b4c796-ce38-4bc0-8402-088b1ec7593e
+  copyright_status: restricted
 - text: Cow mutilated next to the NORAD entrance gate, 1975-07-06
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:27435-27603
   claim_id: 6ae562bc-3d5f-474d-9dc1-b164b4802106
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6ae562bc-3d5f-474d-9dc1-b164b4802106
+  copyright_status: restricted
 - text: Buffalo mutilated at Cheyenne Mountain Zoo, 1975-10-21
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:26675-26839
   claim_id: 610889ec-0174-409d-ba04-843440a52998
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-610889ec-0174-409d-ba04-843440a52998
+  copyright_status: restricted
 - text: Smith's book describes a mutilation overlooking the NORAD facility
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:799-1076
   claim_id: abd87b42-2824-49e6-9ecb-6462b702020f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-abd87b42-2824-49e6-9ecb-6462b702020f
+  copyright_status: restricted
 - text: 'Vallée: NORAD-gate cow may signal calling the government''s bluff'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:30681-30796
   claim_id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6e549edd-d81c-4ccd-b99f-4927287ba0af
+  copyright_status: restricted
 - text: Largest Colorado law-enforcement deployment, Sept 1975, identified no suspect
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:21953-22087
   claim_id: 91f10e83-4d38-4f1a-9cc8-6ca85d72ef12
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-91f10e83-4d38-4f1a-9cc8-6ca85d72ef12
+  copyright_status: restricted
 - text: 60 officers met in Fort Morgan, Colorado to coordinate
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22126-22224
   claim_id: 5d451247-a41d-4e9b-864b-85b2c5570a55
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5d451247-a41d-4e9b-864b-85b2c5570a55
+  copyright_status: restricted
 - text: Haskell discussed mutilations with FBI Director Kelley
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23258-23441
   claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43b8ca14-9eec-4b9c-82a5-8f2ef229f069
+  copyright_status: restricted
 - text: FBI concluded no jurisdiction; no evidence of interstate movement
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23461-23565
   claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4177bf86-f094-4cd3-b337-2b4fecdfd79e
+  copyright_status: restricted
 - text: 'National Enquirer panel: UFO-mutilation link an idea whose time had not come'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:39246-39485
   claim_id: 7073e995-ff6a-4531-ad69-99aa774346d8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7073e995-ff6a-4531-ad69-99aa774346d8
+  copyright_status: restricted
 - text: FBI told an interviewer of 10,000 unsolved cases
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:15:50.9-01:16:08.1
@@ -393,6 +422,7 @@ references:
   claim_id: e124a23e-64ec-42b4-b2d7-0b561158cad9
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-e124a23e-64ec-42b4-b2d7-0b561158cad9
+  copyright_status: publicly_accessible
 - text: Congressmen demanded federal investigations
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:16:09.1-01:16:14.1
@@ -401,6 +431,7 @@ references:
   claim_id: 81546d16-a356-408a-9ed0-aec26d06ba2a
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-81546d16-a356-408a-9ed0-aec26d06ba2a
+  copyright_status: publicly_accessible
 - text: Federal law enforcement never properly explained the deaths
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:16:15.1-01:16:20.5
@@ -409,72 +440,84 @@ references:
   claim_id: af591b06-dec2-462f-9c66-cacfeaf2a708
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-af591b06-dec2-462f-9c66-cacfeaf2a708
+  copyright_status: publicly_accessible
 - text: Bankston's letters claiming knowledge of a Satanic cult
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:33341-33612
   claim_id: 9f052667-444d-4aa8-bfef-28e06c2f6502
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9f052667-444d-4aa8-bfef-28e06c2f6502
+  copyright_status: restricted
 - text: 'Bankston: ''the Occult'' responsible, used organs in rituals'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:34062-34172
   claim_id: fab9c727-1922-4afe-81c3-7b035e7dc0a3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-fab9c727-1922-4afe-81c3-7b035e7dc0a3
+  copyright_status: restricted
 - text: 'Dugan: the cult used tranquilizer pellets and avoided tracks'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:35379-35577
   claim_id: 5193a7da-45d9-4e5a-8724-a4bbbbcf9a25
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5193a7da-45d9-4e5a-8724-a4bbbbcf9a25
+  copyright_status: restricted
 - text: Dugan's list of names, including a Bell Helicopter employee
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:36084-36351
   claim_id: 87c157a2-168a-4c8c-8a4b-8db210c4b658
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-87c157a2-168a-4c8c-8a4b-8db210c4b658
+  copyright_status: restricted
 - text: Investigators agreed cult involvement was the exception, not the rule
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:39516-39711
   claim_id: 02bbe611-2a8a-465c-bdc8-81aaf13236a8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-02bbe611-2a8a-465c-bdc8-81aaf13236a8
+  copyright_status: restricted
 - text: Ranchers blamed the military after seeing helicopter-like objects at night
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:39770-39943
   claim_id: 4072fa02-14b9-4a6d-b35a-f91655799c74
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4072fa02-14b9-4a6d-b35a-f91655799c74
+  copyright_status: restricted
 - text: Ranchers fired on helicopters near Fort Carson
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40489-40651
   claim_id: caa20e70-3f5e-415b-8b57-a7dae9b806e7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-caa20e70-3f5e-415b-8b57-a7dae9b806e7
+  copyright_status: restricted
 - text: Never explained how one group could cause hundreds of incidents
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40876-40978
   claim_id: cc70285a-da29-4317-83f7-c78bd4b12bb7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cc70285a-da29-4317-83f7-c78bd4b12bb7
+  copyright_status: restricted
 - text: Mutilations continued in weather that would have grounded helicopters
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:41108-41212
   claim_id: bf36120c-31ef-4360-8c4b-170caa7990b0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bf36120c-31ef-4360-8c4b-170caa7990b0
+  copyright_status: restricted
 - text: Ranchers kept nightly vigils on hilltops using CB radios
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40987-41101
   claim_id: 31d990c4-ba31-49b6-9818-0c7b7b00bb75
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-31d990c4-ba31-49b6-9818-0c7b7b00bb75
+  copyright_status: restricted
 - text: Major Murphy told Vallée the causes were not usually so simple
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:1379-1433
   claim_id: f752831a-d54a-453d-9e83-c3b6d5bd39a3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f752831a-d54a-453d-9e83-c3b6d5bd39a3
+  copyright_status: restricted
 - text: 'Dolan/Lamm: mutilations one of the greatest outrages in the cattle industry''s
     history'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -482,18 +525,21 @@ references:
   claim_id: 1fa7cf9f-ba79-4e91-bd60-d647635109c2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1fa7cf9f-ba79-4e91-bd60-d647635109c2
+  copyright_status: restricted
 - text: 'Dolan/Lamm: no longer possible to blame predators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:21806-21891
   claim_id: 5914e459-0116-4ab6-9d84-65c985e4560a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5914e459-0116-4ab6-9d84-65c985e4560a
+  copyright_status: restricted
 - text: 1975 intelligence report on occult activities linked to mutilations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:31892-32181
   claim_id: 4e234217-4808-4ae3-aebd-3ee60313fa32
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4e234217-4808-4ae3-aebd-3ee60313fa32
+  copyright_status: restricted
 - text: Mick Cook found a cow with ear and jowl removed, no blood
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:00.4-01:14:10.4
@@ -502,6 +548,7 @@ references:
   claim_id: a57fc9a7-91b1-4ccd-83b3-da58d65731c8
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-a57fc9a7-91b1-4ccd-83b3-da58d65731c8
+  copyright_status: publicly_accessible
 - text: 'Cook: doesn''t know anyone able to do this without blood everywhere'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:10.8-01:14:16.4
@@ -510,6 +557,7 @@ references:
   claim_id: 71ad7620-81e3-4d41-a477-cb017867ce1d
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-71ad7620-81e3-4d41-a477-cb017867ce1d
+  copyright_status: publicly_accessible
 - text: Cook observed no struggle marks at the site
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:18.0-01:14:20.0
@@ -517,6 +565,7 @@ references:
   claim_id: 2eeea421-e956-43bc-8c5a-600904d9cdc0
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-2eeea421-e956-43bc-8c5a-600904d9cdc0
+  copyright_status: publicly_accessible
 - text: 'Judy Cook: absence of struggle marks/blood is unexplained'
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:21.4-01:14:25.4
@@ -525,6 +574,7 @@ references:
   claim_id: 7eb6876c-fa34-40c7-8681-6026fc630a56
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-7eb6876c-fa34-40c7-8681-6026fc630a56
+  copyright_status: publicly_accessible
 - text: 15 of the Cooks' cattle died similarly since the first case
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:27.2-01:14:34.2
@@ -533,6 +583,7 @@ references:
   claim_id: 385a3b7b-a2c1-452d-9617-d162d6acaf17
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-385a3b7b-a2c1-452d-9617-d162d6acaf17
+  copyright_status: publicly_accessible
 - text: Judy Cook believes the mutilations are alien in origin
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:14:40.7-01:14:41.8
@@ -540,6 +591,7 @@ references:
   claim_id: 843877a9-378b-4bf5-b13c-cdd8fcc113ed
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-843877a9-378b-4bf5-b13c-cdd8fcc113ed
+  copyright_status: publicly_accessible
 - text: Surgically precise cuts reported on animals across Australia
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 01:17:02.7-01:17:14.7
@@ -549,30 +601,35 @@ references:
   claim_id: 69dbb9a5-0a45-4707-9b7d-fcd1f0afcb99
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-69dbb9a5-0a45-4707-9b7d-fcd1f0afcb99
+  copyright_status: publicly_accessible
 - text: The liver, high in copper, is often found missing
   source: The Fourth Mind
   location: ch11:34211-34272
   claim_id: 10e5c16d-199c-4ce0-9543-e4f717efdb9b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-10e5c16d-199c-4ce0-9543-e4f717efdb9b
+  copyright_status: restricted
 - text: Bovine blood is rich in copper
   source: The Fourth Mind
   location: ch11:34034-34058
   claim_id: 22b37e95-5bbb-4647-a0a6-2181c5f60e64
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-22b37e95-5bbb-4647-a0a6-2181c5f60e64
+  copyright_status: restricted
 - text: 'Strieber: human blood higher in copper; visitors said to use livestock instead'
   source: The Fourth Mind
   location: ch11:33043-33211
   claim_id: 13efa03f-f78c-42df-9f5f-bb05eb13f048
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-13efa03f-f78c-42df-9f5f-bb05eb13f048
+  copyright_status: restricted
 - text: 'Vallée: the phenomenon remains unsolved'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch3:835-877
   claim_id: 8c9774f8-a4a5-48b0-8294-59664d203e22
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8c9774f8-a4a5-48b0-8294-59664d203e22
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

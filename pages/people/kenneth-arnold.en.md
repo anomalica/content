@@ -59,6 +59,7 @@ references:
   claim_id: 0bb146cf-7ea7-4d36-b2d5-4774e9fa33da
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0bb146cf-7ea7-4d36-b2d5-4774e9fa33da
+  copyright_status: restricted
 - text: Arnold was a businessman whose sighting became known in the press as 'flying
     saucers'
   source: In Plain Sight
@@ -66,6 +67,7 @@ references:
   claim_id: e2c49e97-893e-4c67-9ec1-e9cf7de380af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2c49e97-893e-4c67-9ec1-e9cf7de380af
+  copyright_status: restricted
 - text: Arnold was a private pilot searching for a downed US military transport aircraft
     for a $5,000 reward
   source: In Plain Sight
@@ -73,12 +75,14 @@ references:
   claim_id: 79f7538f-d978-48c0-a237-a76adfe2786b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-79f7538f-d978-48c0-a237-a76adfe2786b
+  copyright_status: restricted
 - text: Arnold first saw a brilliant flashing light, worried it might be another aircraft
   source: In Plain Sight
   location: ch7:6256-6402
   claim_id: edda2fc9-6a32-4540-bde0-c62668b0ae4a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edda2fc9-6a32-4540-bde0-c62668b0ae4a
+  copyright_status: restricted
 - text: Arnold noticed bright flashes north of Mount Rainier from 30 to 40 kilometres
     away
   source: In Plain Sight
@@ -86,6 +90,7 @@ references:
   claim_id: d19e940e-d680-4693-a524-c91a27f1567c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d19e940e-d680-4693-a524-c91a27f1567c
+  copyright_status: restricted
 - text: Arnold watched the objects fly toward Mount Rainier and pass in front of its
     snow-covered slopes
   source: In Plain Sight
@@ -93,12 +98,14 @@ references:
   claim_id: b48c3f84-5b68-4615-bf63-b09da5870e95
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48c3f84-5b68-4615-bf63-b09da5870e95
+  copyright_status: restricted
 - text: Arnold described the objects' shape as convex, with one crescent-shaped
   source: In Plain Sight
   location: ch7:6634-6709
   claim_id: c4d1177b-6f78-4423-b78e-8282c2c38291
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d1177b-6f78-4423-b78e-8282c2c38291
+  copyright_status: restricted
 - text: On 23 June 1947, Arnold saw nine large circular objects flying in formation
     that periodically flipped
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -110,6 +117,7 @@ references:
   claim_id: e77dc0ef-10b3-40e6-a50a-6f31acf510ce
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e77dc0ef-10b3-40e6-a50a-6f31acf510ce
+  copyright_status: public_domain
 - text: Arnold was experienced in approximating the speed of distant objects as a
     pilot
   source: In Plain Sight
@@ -117,6 +125,7 @@ references:
   claim_id: 3e15c754-c0b8-44f2-a84e-f26fbcece129
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e15c754-c0b8-44f2-a84e-f26fbcece129
+  copyright_status: restricted
 - text: Arnold estimated the objects were travelling at approximately 2,700 kilometres
     per hour
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -126,6 +135,7 @@ references:
   claim_id: 69d6fed5-eeda-4d5b-8e7f-45bc3939b807
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-69d6fed5-eeda-4d5b-8e7f-45bc3939b807
+  copyright_status: public_domain
 - text: Arnold compared the objects' flight to the 'tail of a Chinese kite'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -134,6 +144,7 @@ references:
   claim_id: 7878e11d-8aa7-4233-bc1c-c9c20bb791ac
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7878e11d-8aa7-4233-bc1c-c9c20bb791ac
+  copyright_status: public_domain
 - text: Arnold described the objects as 'saucer-like aircraft'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -142,6 +153,7 @@ references:
   claim_id: 5e2629b2-fee8-4ff7-81d1-d3c6c0e66645
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5e2629b2-fee8-4ff7-81d1-d3c6c0e66645
+  copyright_status: public_domain
 - text: Asked by a reporter, Arnold said the objects' motion was like saucers skipping
     over water
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -151,6 +163,7 @@ references:
   claim_id: c9804a50-8c02-48cc-8652-d9d1bdb23fbf
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-c9804a50-8c02-48cc-8652-d9d1bdb23fbf
+  copyright_status: publicly_accessible
 - text: Arnold's account was picked up by several media outlets, and the term 'flying
     saucer' emerged from it
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -161,6 +174,7 @@ references:
   claim_id: 37328d83-7957-4064-8003-3ef2d921bd87
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-37328d83-7957-4064-8003-3ef2d921bd87
+  copyright_status: public_domain
 - text: Project SAUCER investigated the account provided by Arnold
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -170,6 +184,7 @@ references:
   claim_id: 3cc5f6c4-8956-46ff-9f64-ff653bb88a94
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3cc5f6c4-8956-46ff-9f64-ff653bb88a94
+  copyright_status: public_domain
 - text: American public interest in the UFO/UAP topic dates from the term 'flying
     saucer' emerging after Arnold's sighting
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -180,6 +195,7 @@ references:
   claim_id: 72dc9b60-6c7e-483f-9b98-9eb2e2bd59cf
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-72dc9b60-6c7e-483f-9b98-9eb2e2bd59cf
+  copyright_status: public_domain
 - text: 'Ramsay: Roswell, the Arnold sighting and the Aztec crash led to Project Grudge,
     later Project Blue Book'
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -190,6 +206,7 @@ references:
   claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-5cf33c62-1a47-4179-af3f-1dd976071aae
+  copyright_status: publicly_accessible
 - text: 'Murphy: Doolittle''s 1946 Sweden involvement showed top-brass interest before
     the Air Force existed'
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -197,6 +214,7 @@ references:
   claim_id: 39e50285-c66b-464c-a675-c8b2d223eb78
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-39e50285-c66b-464c-a675-c8b2d223eb78
+  copyright_status: restricted
 - text: 'Elizondo: after the sighting, Arnold and his family allegedly had balls of
     light appear in their home'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -204,6 +222,7 @@ references:
   claim_id: f14cba03-5b02-422b-8b43-c1d566982d92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f14cba03-5b02-422b-8b43-c1d566982d92
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

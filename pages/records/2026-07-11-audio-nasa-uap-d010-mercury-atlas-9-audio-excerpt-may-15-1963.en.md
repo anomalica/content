@@ -30,6 +30,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-bf445bb9-7937-4b6c-9980-1a97ef75256f
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-bf445bb9-7937-4b6c-9980-1a97ef75256f
+  copyright_status: public_domain
 - text: Cooper described particles departing from Faith 7.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:00:21.7-00:00:26.6
@@ -39,6 +40,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-411ba6d1-d90d-41e8-b4da-1748522937b4
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-411ba6d1-d90d-41e8-b4da-1748522937b4
+  copyright_status: public_domain
 - text: Cooper described particles drifting towards the rear of Faith 7, with some
     visible at a considerable distance.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -53,6 +55,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-faff3c7b-dcd4-4fb0-9661-f5e1baecae23
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-faff3c7b-dcd4-4fb0-9661-f5e1baecae23
+  copyright_status: public_domain
 - text: Cooper described the particles as white to whitish, with an almost green tint,
     resembling fireflies on Earth.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -64,6 +67,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-68e86b7a-9f14-46e0-9e78-45005b1c5451
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-68e86b7a-9f14-46e0-9e78-45005b1c5451
+  copyright_status: public_domain
 - text: Cooper described the Sun coming up behind him and a glow appearing on the
     clouds.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
@@ -76,6 +80,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-8d3f0234-0b04-4655-b546-df40a59e9219
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-8d3f0234-0b04-4655-b546-df40a59e9219
+  copyright_status: public_domain
 - text: Cooper described the clouds on Earth changing colour and becoming lighter.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:01:45.8-00:01:51.4
@@ -85,6 +90,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-995313d8-5140-4680-b0a9-ab7cd4c73a8d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-995313d8-5140-4680-b0a9-ab7cd4c73a8d
+  copyright_status: public_domain
 - text: Cooper reported being on the day side of Earth.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:39.3-00:02:41.9
@@ -94,6 +100,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-16670ffc-ca5f-475f-94c4-fa033ce37f0c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-16670ffc-ca5f-475f-94c4-fa033ce37f0c
+  copyright_status: public_domain
 - text: Cooper said that the Sun was not yet fully up and that he could observe stars.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:42.3-00:02:45.7
@@ -103,6 +110,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-6b1bd6d3-0c3d-4661-b083-da2dcd20d728
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-6b1bd6d3-0c3d-4661-b083-da2dcd20d728
+  copyright_status: public_domain
 - text: Cooper described the Earth as appearing light below him.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:48.0-00:02:49.6
@@ -112,6 +120,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-25b6d9bb-1297-49b7-9e9b-c686c61517d6
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-25b6d9bb-1297-49b7-9e9b-c686c61517d6
+  copyright_status: public_domain
 - text: Cooper said that the Sun was still behind him.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:51.0-00:02:52.3
@@ -121,6 +130,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-547d5c5d-c8f7-4eca-ba09-a0574595dff2
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-547d5c5d-c8f7-4eca-ba09-a0574595dff2
+  copyright_status: public_domain
 - text: Cooper described a dark sky above him, with stars visible very distinctly.
   source: NASA-UAP-D010, Mercury Atlas 9 Audio Excerpt, May 15, 1963
   location: 00:02:52.5-00:02:57.8
@@ -130,6 +140,7 @@ references:
   record_hash: 98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e
   workbench_url: https://workbench.anomalica.is/98b47387f2f88393a662c9c201d354cae3724738b1111ebc9775dd4e#claim-cf0f8b6a-a1a9-4259-afbb-da4abf97e876
   inspection_url: /records/2026-07-11-audio-nasa-uap-d010-mercury-atlas-9-audio-excerpt-may-15-1963#claim-cf0f8b6a-a1a9-4259-afbb-da4abf97e876
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -29,6 +29,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-0ba41b2d-a92a-4d02-ae5e-fa1b657972cb
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-0ba41b2d-a92a-4d02-ae5e-fa1b657972cb
+  copyright_status: publicly_accessible
 - text: Bruce Erion describes Paul Brown as a lay minister.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -40,6 +41,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-58048b12-c4fb-4193-8231-c907eecbdaea
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-58048b12-c4fb-4193-8231-c907eecbdaea
+  copyright_status: publicly_accessible
 - text: Bruce Erion describes Paul Brown as a businessman.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -51,6 +53,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-77abcde8-42ab-435d-bc81-59a581d70692
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-77abcde8-42ab-435d-bc81-59a581d70692
+  copyright_status: publicly_accessible
 - text: Bruce Erion describes Paul Brown as a husband and father.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -62,6 +65,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-9065721b-0ed6-43c1-ad31-525c4226a299
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-9065721b-0ed6-43c1-ad31-525c4226a299
+  copyright_status: publicly_accessible
 - text: Bruce Erion describes Paul Brown as an American Legion baseball coach.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -73,6 +77,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-768f0d35-dbe6-494e-a781-8e5ff388719f
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-768f0d35-dbe6-494e-a781-8e5ff388719f
+  copyright_status: publicly_accessible
 - text: The report dates the encounter to the night of 1973-10-16.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -83,6 +88,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-2e4f27af-0402-4bc9-b9a3-730ae66faaa7
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-2e4f27af-0402-4bc9-b9a3-730ae66faaa7
+  copyright_status: publicly_accessible
 - text: The report says Brown was driving home along a deserted stretch of Highway
     29 near Athens.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -94,6 +100,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-bd3b80db-de93-4543-ba26-611df60e9b60
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-bd3b80db-de93-4543-ba26-611df60e9b60
+  copyright_status: publicly_accessible
 - text: Paul Brown says he has vivid memories of the encounter.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -104,6 +111,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-213397fb-1a1b-417d-b7d7-4a669f53fa4f
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-213397fb-1a1b-417d-b7d7-4a669f53fa4f
+  copyright_status: publicly_accessible
 - text: Paul Brown reports that everything around him lit up and that he saw bright
     lights through his windscreen.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -117,6 +125,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-b43fa89b-f2dc-42b8-b22f-a9aa19ac1aa6
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-b43fa89b-f2dc-42b8-b22f-a9aa19ac1aa6
+  copyright_status: publicly_accessible
 - text: Paul Brown says that an object landed in front of him on the road.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -128,6 +137,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-bf369a46-2aa8-425d-9061-14acb8247bc1
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-bf369a46-2aa8-425d-9061-14acb8247bc1
+  copyright_status: publicly_accessible
 - text: Paul Brown says that his car stopped and its engine died.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -139,6 +149,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-432c7133-0ac9-4141-a2c3-474cf58b86f1
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-432c7133-0ac9-4141-a2c3-474cf58b86f1
+  copyright_status: publicly_accessible
 - text: Paul Brown says that two figures emerged from the craft and approached.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -151,6 +162,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-262561c8-c28e-4eaa-a34d-0e6f2b97e3d2
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-262561c8-c28e-4eaa-a34d-0e6f2b97e3d2
+  copyright_status: publicly_accessible
 - text: Paul Brown says that the figures turned around after he raised a gun.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -162,6 +174,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-e221a04c-b006-405d-a0ce-8d944ffe0c0d
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-e221a04c-b006-405d-a0ce-8d944ffe0c0d
+  copyright_status: publicly_accessible
 - text: Paul Brown says that he heard no door shut as the figures disappeared behind
     a bright light.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -173,6 +186,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-d1783adb-8b5b-48f0-ade7-baaa18bf09f5
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-d1783adb-8b5b-48f0-ade7-baaa18bf09f5
+  copyright_status: publicly_accessible
 - text: Paul Brown says that the light went out after the figures disappeared.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -183,6 +197,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-d1ba1f4c-e112-499f-bcfc-1a56f000de92
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-d1ba1f4c-e112-499f-bcfc-1a56f000de92
+  copyright_status: publicly_accessible
 - text: The report says the encounter brought Brown reluctantly into the national
     spotlight, which he was still dealing with in 1988.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -195,6 +210,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-1f88056b-dfa1-4866-9f75-4eba9622d36a
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-1f88056b-dfa1-4866-9f75-4eba9622d36a
+  copyright_status: publicly_accessible
 - text: Paul Brown says that people ask whether he was the person who saw the UFO.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -206,6 +222,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-a694b97d-80ec-4518-a2c7-13de9d0139e6
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-a694b97d-80ec-4518-a2c7-13de9d0139e6
+  copyright_status: publicly_accessible
 - text: Paul Brown says that such questions are asked with a sceptical air.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -216,6 +233,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-a684fa20-45a0-421d-95f5-890e20ed4188
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-a684fa20-45a0-421d-95f5-890e20ed4188
+  copyright_status: publicly_accessible
 - text: The report says that many experts do not find accounts like Brown's preposterous.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -227,6 +245,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-f67846fb-f5a1-4053-a2fe-39ca65250ef6
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-f67846fb-f5a1-4053-a2fe-39ca65250ef6
+  copyright_status: publicly_accessible
 - text: David Finkelstein expects beings not very different from humans wherever similar
     conditions exist in other solar systems.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -239,6 +258,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-c4931655-9f69-4dd6-ba2c-490bf86651c6
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-c4931655-9f69-4dd6-ba2c-490bf86651c6
+  copyright_status: publicly_accessible
 - text: J. Allen Hynek says that life and intelligence may exist elsewhere, while
     treating their connection with UFOs as an open question.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -251,6 +271,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-290eacdc-c9bd-4be2-b0e6-14e84e4b8768
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-290eacdc-c9bd-4be2-b0e6-14e84e4b8768
+  copyright_status: publicly_accessible
 - text: The report says that the UFO question has been clouded by natural phenomena
     and fakes.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -263,6 +284,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-c77baa7f-ff44-48a2-b06b-84ea96802d33
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-c77baa7f-ff44-48a2-b06b-84ea96802d33
+  copyright_status: publicly_accessible
 - text: The report describes SETI as a government-sponsored project scanning the heavens
     from the Mojave Desert with large radio telescopes.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -276,6 +298,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-50dc3394-07d3-4476-9123-283a0da2f806
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-50dc3394-07d3-4476-9123-283a0da2f806
+  copyright_status: publicly_accessible
 - text: The report says that a SETI message would do little to settle the UFO controversy.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -287,6 +310,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-6db72cda-68c3-48bc-9a60-04a5efd6e73f
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-6db72cda-68c3-48bc-9a60-04a5efd6e73f
+  copyright_status: publicly_accessible
 - text: The report places Alpha Centauri approximately 39 trillion kilometres from
     Earth.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -299,6 +323,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-7b523f7f-0151-4747-91e7-87c501348fe5
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-7b523f7f-0151-4747-91e7-87c501348fe5
+  copyright_status: publicly_accessible
 - text: Paul Brown says that he regrets making the encounter public.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -310,6 +335,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-9d76f87d-49f9-43ee-aaf3-d61c025a501e
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-9d76f87d-49f9-43ee-aaf3-d61c025a501e
+  copyright_status: publicly_accessible
 - text: Paul Brown says that many people think he is crazy because of his account.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -320,6 +346,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-b78aa3d2-c1ab-45c3-8cf8-783d7e01cfd7
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-b78aa3d2-c1ab-45c3-8cf8-783d7e01cfd7
+  copyright_status: publicly_accessible
 - text: The report says that Brown stands by his recollection despite the personal
     price.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
@@ -333,6 +360,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-5a83b70c-1688-4530-8e1a-7add004385c5
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-5a83b70c-1688-4530-8e1a-7add004385c5
+  copyright_status: publicly_accessible
 - text: Paul Brown regards the encounter as still unsolved in his own mind.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -344,6 +372,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-9f6997d4-9a54-4305-a2d3-129480ded6c9
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-9f6997d4-9a54-4305-a2d3-129480ded6c9
+  copyright_status: publicly_accessible
 - text: Bruce Erion considers Brown's experience one of Georgia's great unsolved mysteries.
   source: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News
     Report
@@ -355,6 +384,7 @@ references:
   record_hash: 95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358
   workbench_url: https://workbench.anomalica.is/95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b2358#claim-5b0a3523-744a-4d73-8d6b-bdbb466bd1bb
   inspection_url: /records/2026-08-13-video-paul-brown-recounts-his-1973-ufo-encounter-with-two#claim-5b0a3523-744a-4d73-8d6b-bdbb466bd1bb
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

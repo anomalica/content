@@ -59,12 +59,14 @@ references:
   claim_id: a692b189-1226-41ca-9540-c4445d57fa01
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-a692b189-1226-41ca-9540-c4445d57fa01
+  copyright_status: publicly_accessible
 - text: Five vessels formed the carrier strike group off San Diego ahead of the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1129-1248
   claim_id: bd4ed419-95d2-490a-a9a3-95f7f8c34563
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd4ed419-95d2-490a-a9a3-95f7f8c34563
+  copyright_status: restricted
 - text: USS Nimitz planned to launch up to 30 aircraft within hours of the initial
     radar contact
   source: In Plain Sight
@@ -72,6 +74,7 @@ references:
   claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+  copyright_status: restricted
 - text: 'Encounter location: north-eastern Pacific, ~100 km off the coast, midway
     between San Diego and Ensenada'
   source: In Plain Sight
@@ -79,6 +82,7 @@ references:
   claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
+  copyright_status: restricted
 - text: Fravor's squadron conducting a work-up off San Diego on 2004-11-14
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -88,6 +92,7 @@ references:
   claim_id: d627804e-93ed-4079-b8dc-0d416a218f7f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
+  copyright_status: public_domain
 - text: 'Weather off San Diego that day: clear, light winds, no whitecaps, no clouds'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -96,6 +101,7 @@ references:
   claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
+  copyright_status: public_domain
 - text: Objects first tracked at altitude over ~24,000 m, heading south from San Clemente
     Island
   source: In Plain Sight
@@ -103,6 +109,7 @@ references:
   claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-721494c9-7f6d-4a0d-9af9-acdddc267a51
+  copyright_status: restricted
 - text: Fravor flew an F/A-18 Hornet and circled down to confront the Tic Tac-shaped
     object
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -110,6 +117,7 @@ references:
   claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95240f23-2f22-4843-95fa-116c48ba9070
+  copyright_status: restricted
 - text: Fravor's crew observed whitewater disturbance on the ocean surface
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -118,6 +126,7 @@ references:
   claim_id: 3e683cf6-566b-4c9a-95e6-28f71619e079
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3e683cf6-566b-4c9a-95e6-28f71619e079
+  copyright_status: public_domain
 - text: 'Mellon: USS Nimitz was operating off San Diego, escorted by USS Princeton'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:41.9-00:13:48.0
@@ -127,6 +136,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
+  copyright_status: publicly_accessible
 - text: Fravor flew an A-6 Intruder with Chris Sato aboard USS Ranger, night landing
     off San Diego
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -138,6 +148,7 @@ references:
   claim_id: 983b9e52-942f-4fb3-a3f1-3d60297195ce
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-983b9e52-942f-4fb3-a3f1-3d60297195ce
+  copyright_status: publicly_accessible
 - text: Fravor on the marine layer cloud ceiling off San Diego and that night's weather
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -149,12 +160,14 @@ references:
   claim_id: d6453ca0-17dd-4012-ac89-8c60f622c4a0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-d6453ca0-17dd-4012-ac89-8c60f622c4a0
+  copyright_status: publicly_accessible
 - text: Bruce Leininger attended a Natoma Bay reunion in San Diego, September 2002
   source: Surviving Death
   location: ch9:19303-19443
   claim_id: b65feea6-3e04-47fe-800a-a3139ab4f65e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b65feea6-3e04-47fe-800a-a3139ab4f65e
+  copyright_status: restricted
 - text: FLIR video leaked online 2008-2009, after Fravor retired and was working in
     San Diego
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -164,6 +177,7 @@ references:
   claim_id: 00ffd9c5-4a3d-4675-8f5a-f10337214346
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-00ffd9c5-4a3d-4675-8f5a-f10337214346
+  copyright_status: publicly_accessible
 - text: AATIP released the FLIR video of the object off San Diego, August 2017
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -174,24 +188,28 @@ references:
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
+  copyright_status: publicly_accessible
 - text: Egg-shaped UAP form from Socorro echoed in the 2004 San Diego sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23962-24108
   claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b6856481-ac2a-4a83-9363-333839eaa2b8
+  copyright_status: restricted
 - text: TTSA's planned location in Encinitas, north of San Diego
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15232-15374
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
+  copyright_status: restricted
 - text: Elizondo family move to California; daughters Taylor and Alex Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:18610-18719
   claim_id: 3c7ab0d3-c53e-4b35-9254-a6696bb3b451
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c7ab0d3-c53e-4b35-9254-a6696bb3b451
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

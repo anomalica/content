@@ -30,6 +30,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-5936a2c1-b75c-4079-aaec-6db10615c9bc
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that his YouTube channel focuses on recording wildlife with
     trail cameras.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -41,6 +42,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-41a2467d-5d36-450b-894f-fd760d614f9a
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-41a2467d-5d36-450b-894f-fd760d614f9a
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that he filmed the May 2024 Quebec drone UAP encounter with
     a DJI Mini 3 Pro.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -51,6 +53,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-279ee541-811e-494b-9de2-895e427b2ef6
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-279ee541-811e-494b-9de2-895e427b2ef6
+  copyright_status: publicly_accessible
 - text: Chris said that the footage was recorded in 4K resolution at 30 frames per
     second.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -61,6 +64,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-40690d56-f3d8-440d-ad0e-5e3511036d8f
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that he filmed the encounter just after 20:00 on 2024-05-19.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
   location: 00:06:42.0-00:06:44.8
@@ -70,6 +74,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-d7994d23-b6dc-4ba7-935a-c8c000b8ac9c
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-d7994d23-b6dc-4ba7-935a-c8c000b8ac9c
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that the object descended from the sky into a field and
     then moved erratically near the ground.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -81,6 +86,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-5e809ec9-478a-45bc-aec6-8c4b91cf45d5
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-5e809ec9-478a-45bc-aec6-8c4b91cf45d5
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that the object appeared unlike a bird because it did not
     show flapping wings or bird-like movement.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -92,6 +98,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-3779b669-b44e-4c6c-b433-0386233e23b3
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-3779b669-b44e-4c6c-b433-0386233e23b3
+  copyright_status: publicly_accessible
 - text: Chris compared the object's low-level movement with that of an insect rather
     than a bird.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -104,6 +111,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-1755a0da-5106-42b5-8f06-4591a55d1de0
+  copyright_status: publicly_accessible
 - text: Chris said that the object travelled from approximately 400–500 metres away
     to beside the drone in about two seconds.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -115,6 +123,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-7d8e1926-8a48-42de-bcaf-2d6be5df6846
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that he tried and failed to reproduce the object's swooping
     manoeuvre with his own drone.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -126,6 +135,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-8c6d644e-fd81-4b79-8a6b-2e9e5c341a80
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-8c6d644e-fd81-4b79-8a6b-2e9e5c341a80
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that he had previously seen a round, bright object while
     camping at the Papineau-Labelle Wildlife Reserve.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -139,6 +149,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-d11b7548-ca14-4d78-83c8-c5b6bca2b6e3
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-d11b7548-ca14-4d78-83c8-c5b6bca2b6e3
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that Sean considered an iridium flare a possible explanation
     for the light seen during the May 2024 encounter.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -150,6 +161,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-f5f97209-fc49-45d2-9533-7ef20485b319
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-f5f97209-fc49-45d2-9533-7ef20485b319
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that Jim believed the filmed object was something rather
     than a bug.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -160,6 +172,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-625b2a06-a9c5-4af4-926f-4d4a2c374570
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-625b2a06-a9c5-4af4-926f-4d4a2c374570
+  copyright_status: publicly_accessible
 - text: Jesse DeLuca said that footage from the Utah drone UAP encounter showed similar
     flight but movement towards the drone.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -171,6 +184,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-a7a2ce07-93f8-49ca-bfd5-c16f2a6fda20
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-a7a2ce07-93f8-49ca-bfd5-c16f2a6fda20
+  copyright_status: publicly_accessible
 - text: According to the source record, the Utah footage was recorded in 4K using
     a drone.
   source: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
@@ -181,6 +195,7 @@ references:
   record_hash: aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027
   workbench_url: https://workbench.anomalica.is/aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027#claim-60901357-29c0-4fd9-834b-432afe3e6079
   inspection_url: /records/2024-09-05-video-uap-caught-on-drone-in-4k-debriefed-ep-5#claim-60901357-29c0-4fd9-834b-432afe3e6079
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

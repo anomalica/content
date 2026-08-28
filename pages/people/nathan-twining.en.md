@@ -12,18 +12,21 @@ references:
   claim_id: 2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
+  copyright_status: restricted
 - text: Twining was head of the United States Army Air Materiel Command.
   source: In Plain Sight
   location: ch8:673-716
   claim_id: d2515ba4-200b-4ae5-b855-b6b4bba980e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
+  copyright_status: restricted
 - text: Twining commanded the 15th Air Force.
   source: The Fourth Mind
   location: ch22:18043-18112
   claim_id: ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ff7a15d4-cb4b-4a5a-8695-2fc2e9672d61
+  copyright_status: restricted
 - text: Padre Pio reputedly appeared above San Giovanni Rotondo and turned back 15th
     Air Force bombers.
   source: The Fourth Mind
@@ -31,6 +34,7 @@ references:
   claim_id: 54444357-ad98-4e4f-b0e3-89ee1e984807
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-54444357-ad98-4e4f-b0e3-89ee1e984807
+  copyright_status: restricted
 - text: Twining's September 1947 letter called the phenomenon 'something real and
     not visionary or fictitious'.
   source: In Plain Sight
@@ -38,6 +42,7 @@ references:
   claim_id: 212f8aec-ad2a-4dba-901e-7a9bf594acfd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
+  copyright_status: restricted
 - text: The letter described the metallic discs' extreme rate of climb, manoeuvrability
     and evasive behaviour.
   source: In Plain Sight
@@ -45,6 +50,7 @@ references:
   claim_id: 7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
+  copyright_status: restricted
 - text: Twining wrote that the capabilities suggested the objects might be manually
     or remotely controlled.
   source: In Plain Sight
@@ -52,6 +58,7 @@ references:
   claim_id: 2b1f662f-115e-4816-8795-e10148594d81
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2b1f662f-115e-4816-8795-e10148594d81
+  copyright_status: restricted
 - text: The September 23, 1947 Twining Memo described extraordinary manoeuvrability
     and high speed.
   source: The Fourth Mind
@@ -59,6 +66,7 @@ references:
   claim_id: efefa49f-2a39-4aec-b069-1f3214e5646c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-efefa49f-2a39-4aec-b069-1f3214e5646c
+  copyright_status: restricted
 - text: Twining told the Army Air Forces the phenomenon was 'something real and not
     visionary or fictitious'.
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -70,12 +78,14 @@ references:
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
   inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
+  copyright_status: publicly_accessible
 - text: Twining recommended a detailed study that became Project Sign.
   source: In Plain Sight
   location: ch8:1148-1223
   claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
+  copyright_status: restricted
 - text: Twining established Project SAUCER on 1947-12-30 to evaluate UFO reports of
     national security concern.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -88,6 +98,7 @@ references:
   claim_id: b0841f7c-bafd-486b-a81c-8f4a676bbe99
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
+  copyright_status: public_domain
 - text: Twining's son said his father privately stated that bodies were delivered
     along with the Roswell debris.
   source: The Fourth Mind
@@ -95,6 +106,7 @@ references:
   claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-c7733738-e5d3-4be1-8d2b-879fa38664f7
+  copyright_status: restricted
 ai_usage:
 - stage: digest
   model: claude-sonnet-5

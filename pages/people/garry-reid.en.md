@@ -136,6 +136,7 @@ references:
   claim_id: a53c3d27-b1e9-42b8-be29-d425a3163942
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53c3d27-b1e9-42b8-be29-d425a3163942
+  copyright_status: restricted
 - text: Reid controlled security clearances across the Department of Defense, including
     Elizondo's
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -143,6 +144,7 @@ references:
   claim_id: 01c42881-cb71-4262-ba78-652a71917453
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01c42881-cb71-4262-ba78-652a71917453
+  copyright_status: restricted
 - text: Reid replaced Michael Higgins, arriving from the special operations community;
     not related to Senator Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -150,6 +152,7 @@ references:
   claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-900dd4a3-9342-437d-9180-a6de8346dbad
+  copyright_status: restricted
 - text: Elizondo was assigned to OUSDI from 2008-09-28 to 2017-10-04
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4801-4874
@@ -159,6 +162,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b277f3c3-8e17-43d6-952f-784797ba9cb5
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b277f3c3-8e17-43d6-952f-784797ba9cb5
+  copyright_status: public_domain
 - text: Elizondo served as an action officer in Partner Engagement
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4880-5035
@@ -169,6 +173,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ddec9833-fd27-4352-881f-28ecab0ed8c7
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-ddec9833-fd27-4352-881f-28ecab0ed8c7
+  copyright_status: public_domain
 - text: Elizondo became a branch chief supporting the Office of Military Commissions
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4880-5035
@@ -179,6 +184,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
+  copyright_status: public_domain
 - text: Reid said Elizondo had no job responsibilities related to AATIP, to the best
     of his knowledge
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -189,6 +195,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-17ebb920-9e1e-4503-a10d-55185df50fcb
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-17ebb920-9e1e-4503-a10d-55185df50fcb
+  copyright_status: public_domain
 - text: AATIP was terminated in 2012
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5130-5158
@@ -197,6 +204,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-19ef963a-8b51-41db-891c-9e1ca0491c42
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-19ef963a-8b51-41db-891c-9e1ca0491c42
+  copyright_status: public_domain
 - text: Reid said Elizondo aggrandised his role in AATIP in public statements
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4347-4536
@@ -207,12 +215,14 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f884219b-bd8b-4f8a-9d1d-3090fff0b55b
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f884219b-bd8b-4f8a-9d1d-3090fff0b55b
+  copyright_status: public_domain
 - text: Elizondo had kept Reid out of the loop on anything pertaining to AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:4203-4309
   claim_id: 699599cb-01ac-461d-a853-8e12d70f5e35
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-699599cb-01ac-461d-a853-8e12d70f5e35
+  copyright_status: restricted
 - text: On 2017-10-03 Elizondo submitted a resignation letter requesting immediate
     termination
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -223,6 +233,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-777cea01-50aa-48e1-bc07-b7267c7b7027
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-777cea01-50aa-48e1-bc07-b7267c7b7027
+  copyright_status: public_domain
 - text: Elizondo told his supervisor he was resigning for a fleeting job opportunity
     requiring immediate availability, according to Reid
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -233,6 +244,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
+  copyright_status: public_domain
 - text: Elizondo completed out-processing, including SAP/SCI debriefs, within 24 hours
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:19877-19996
@@ -242,6 +254,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-84a722e2-7d82-4891-b8f9-b0effb92214f
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-84a722e2-7d82-4891-b8f9-b0effb92214f
+  copyright_status: public_domain
 - text: Elizondo was cleared out of OUSDI the day after submitting his resignation
     letter
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -251,6 +264,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8e1d3010-def9-431d-b6cd-b8fcf9546671
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8e1d3010-def9-431d-b6cd-b8fcf9546671
+  copyright_status: public_domain
 - text: Reid said Elizondo gave no reason for the sudden departure
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5398-5435
@@ -259,6 +273,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c8d9f03f-09b0-481a-b139-a4cc24a0008f
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-c8d9f03f-09b0-481a-b139-a4cc24a0008f
+  copyright_status: public_domain
 - text: Elizondo told Reid by phone on 2017-10-06 the job had been too stressful on
     his family, according to Reid
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -269,6 +284,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+  copyright_status: public_domain
 - text: Reid's second memorandum states Elizondo gave three different explanations
     for the resignation
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -278,6 +294,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
+  copyright_status: public_domain
 - text: John Garrity called Elizondo after his resignation to say Reid wanted to see
     him immediately
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -285,12 +302,14 @@ references:
   claim_id: f43085fc-6f19-4978-9f96-6f19f7ba3bd4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f43085fc-6f19-4978-9f96-6f19f7ba3bd4
+  copyright_status: restricted
 - text: Reid asked Elizondo what he was supposed to do with the resignation letter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:4334-4441
   claim_id: 0c765668-436e-4dec-abbc-2f0912c4bb9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c765668-436e-4dec-abbc-2f0912c4bb9c
+  copyright_status: restricted
 - text: Reid warned Elizondo he would tell people he was acting crazy and that it
     could affect his security clearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -298,6 +317,7 @@ references:
   claim_id: 88fb4bff-98d9-41dd-a3bf-02312f368ba4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-88fb4bff-98d9-41dd-a3bf-02312f368ba4
+  copyright_status: restricted
 - text: A second resignation letter was delivered to the OUSDI Chief of Staff's office
     around 2017-10-04, after Elizondo had left
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -308,6 +328,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-83165e49-47c2-40e5-ae2e-199ea9f683ec
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-83165e49-47c2-40e5-ae2e-199ea9f683ec
+  copyright_status: public_domain
 - text: The second letter was hand-delivered by someone other than Elizondo
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20167-20257
@@ -317,6 +338,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
+  copyright_status: public_domain
 - text: The second letter was inconsistent with the first, which Elizondo had personally
     handed to his supervisor
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -327,6 +349,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
+  copyright_status: public_domain
 - text: The second letter was formatted as a Memorandum for Record but used the salutation
     'Mr. Secretary'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -338,6 +361,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
+  copyright_status: public_domain
 - text: Given its uncertain provenance, OUSDI retained a copy but did not forward
     the letter to the Secretary of Defense's office
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -348,6 +372,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11c06711-00b9-4eff-a26c-2ae94a732f39
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11c06711-00b9-4eff-a26c-2ae94a732f39
+  copyright_status: public_domain
 - text: On 2017-12-18 OUSDI located a classified August 2017 email from Elizondo requesting
     help declassifying videos
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -359,6 +384,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
+  copyright_status: public_domain
 - text: The video attached was the same footage broadcast on national news on 2017-12-17
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:8620-8711
@@ -368,6 +394,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2c65246e-426c-4cec-8603-17f00dbd7c1e
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2c65246e-426c-4cec-8603-17f00dbd7c1e
+  copyright_status: public_domain
 - text: OUSDI had not determined whether the video was properly declassified or how
     it reached the media
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -379,6 +406,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-28641d91-ce38-4499-878f-511ec87bd404
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-28641d91-ce38-4499-878f-511ec87bd404
+  copyright_status: public_domain
 - text: On 2017-12-15 Reid notified the OUSDI Security Officer, based on a New York
     Times inquiry, that Elizondo may have misused government systems
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -391,6 +419,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
+  copyright_status: public_domain
 - text: OUSDI referred Elizondo's resignation to AFOSI for immediate counterintelligence
     review
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -401,6 +430,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+  copyright_status: public_domain
 - text: Reid requested an informal AFOSI review of Elizondo's conduct after a YouTube
     video surfaced
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -413,6 +443,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
+  copyright_status: public_domain
 - text: AFOSI provides investigative support to the Office of the Secretary of Defense,
     including investigating assigned personnel
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -423,6 +454,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
+  copyright_status: public_domain
 - text: Reid was pursuing options to investigate Elizondo's possible mishandling of
     sensitive information
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -434,6 +466,7 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4cd5f123-5578-41a2-88d5-608d0bdc3f88
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4cd5f123-5578-41a2-88d5-608d0bdc3f88
+  copyright_status: public_domain
 - text: On 2017-12-21 Reid met AFOSI agents to initiate a formal inquiry
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:8972-9096
@@ -443,18 +476,21 @@ references:
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
   inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
+  copyright_status: public_domain
 - text: Reid initiated an AFOSI inquiry into how the UAP videos had been released
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26003-26120
   claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
+  copyright_status: restricted
 - text: Reid seized Elizondo's computers and files and questioned his former employees
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6828-6921
   claim_id: f99ab138-7484-403e-a69f-ef784f2cf6a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f99ab138-7484-403e-a69f-ef784f2cf6a8
+  copyright_status: restricted
 - text: Elizondo received a call from a DCSA agent, an agency overseen by Reid, over
     the video declassification allegations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -462,12 +498,14 @@ references:
   claim_id: 69523cbf-2b32-4908-8f0b-c5e9a0215a70
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-69523cbf-2b32-4908-8f0b-c5e9a0215a70
+  copyright_status: restricted
 - text: Employees filed complaints about Reid's conduct with the DoD Inspector General
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11288-11371
   claim_id: c7a7e9ca-5253-4925-84f0-7e926b8e93c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
+  copyright_status: restricted
 - text: The DoD Inspector General investigated Reid over a litany of issues after
     a complaint from a female employee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -475,6 +513,7 @@ references:
   claim_id: f0ff397d-5044-43b8-8881-bb72020c6863
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0ff397d-5044-43b8-8881-bb72020c6863
+  copyright_status: restricted
 - text: Elizondo said the investigation examined allegations of a sexual relationship
     with a subordinate, sexual harassment and a hostile work environment
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -482,6 +521,7 @@ references:
   claim_id: 28ffe871-723f-460d-8b76-adbea35c6df2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-28ffe871-723f-460d-8b76-adbea35c6df2
+  copyright_status: restricted
 - text: Elizondo said the investigation concluded Reid violated Joint Ethics Regulations
     over an inappropriate relationship and mishandling Controlled Unclassified Information
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -489,6 +529,7 @@ references:
   claim_id: 1cb05220-f4c8-4ec3-9a39-974c573b6d7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1cb05220-f4c8-4ec3-9a39-974c573b6d7b
+  copyright_status: restricted
 - text: Elizondo said Reid withheld his resignation from Secretary of Defense James
     Mattis, hoping never to reveal it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -496,18 +537,21 @@ references:
   claim_id: 0d1b40fa-2cfc-4abd-afd0-a9007250508d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d1b40fa-2cfc-4abd-afd0-a9007250508d
+  copyright_status: restricted
 - text: Reid was reassigned from OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40978-41023
   claim_id: 3c440f66-1d63-4144-8ea6-79d9d831935b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
+  copyright_status: restricted
 - text: Reid was reassigned to DIA as a 'special advisor'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40073-40112
   claim_id: f40a9557-d26a-4529-a458-45b635e4c62f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f40a9557-d26a-4529-a458-45b635e4c62f
+  copyright_status: restricted
 - text: The inspector general investigation into the allegations against Reid had
     concluded
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -515,6 +559,7 @@ references:
   claim_id: b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

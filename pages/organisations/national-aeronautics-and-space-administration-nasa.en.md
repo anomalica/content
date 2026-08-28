@@ -436,6 +436,7 @@ references:
   claim_id: 2c6a01b7-d0c9-4c4a-a305-1c08a371ce0a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c6a01b7-d0c9-4c4a-a305-1c08a371ce0a
+  copyright_status: restricted
 - text: Jacques Vallée questioned why NASA, rather than the Department of Energy or
     NIH, was chosen for UFO inquiries.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -443,6 +444,7 @@ references:
   claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2b096ce7-9ebf-47e6-83be-034037d7c85a
+  copyright_status: restricted
 - text: Dr. Schneider told Vallée NASA was appropriate because the public associates
     the UFO problem with space.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -450,6 +452,7 @@ references:
   claim_id: 6f8552da-0e91-4439-bc8f-21f8298c1ece
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6f8552da-0e91-4439-bc8f-21f8298c1ece
+  copyright_status: restricted
 - text: 'Fowler: Gordon Cooper testified before the UN that other astronauts and NASA
     personnel would testify if permitted.'
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -463,12 +466,14 @@ references:
   claim_id: 2c2be39a-7948-4389-b6f6-853d8c8eb5ca
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
   workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-2c2be39a-7948-4389-b6f6-853d8c8eb5ca
+  copyright_status: publicly_accessible
 - text: Frank Press asked NASA to consider investigating public UFO inquiries.
   source: In Plain Sight
   location: ch11:26304-26526
   claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
+  copyright_status: restricted
 - text: Press wrote to NASA Administrator Robert Frosch suggesting a panel review
     findings since the Condon Report.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -481,6 +486,7 @@ references:
   claim_id: d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
+  copyright_status: public_domain
 - text: Frosch proposed NASA take no steps to establish a UFO research activity or
     symposium.
   source: In Plain Sight
@@ -488,6 +494,7 @@ references:
   claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
+  copyright_status: restricted
 - text: Five months later, NASA responded that such an activity was not warranted.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -497,6 +504,7 @@ references:
   claim_id: ca368f37-1004-4dca-9451-399ba652e857
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ca368f37-1004-4dca-9451-399ba652e857
+  copyright_status: public_domain
 - text: No explanation exists for why Carter did not simply order NASA to conduct
     the inquiry.
   source: In Plain Sight
@@ -504,18 +512,21 @@ references:
   claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
+  copyright_status: restricted
 - text: NASA delivered the Brookings Report to Congress six days after Gagarin's spaceflight.
   source: Dark Mission
   location: ch10:60053-60205
   claim_id: 8555a5e1-e862-407e-9560-754b9e9527a6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8555a5e1-e862-407e-9560-754b9e9527a6
+  copyright_status: restricted
 - text: The report had been sitting on the NASA Administrator's desk since 1960-11-30.
   source: Dark Mission
   location: ch10:60215-60352
   claim_id: 2746979c-a0ff-4e6b-b5be-7a077c061d9c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2746979c-a0ff-4e6b-b5be-7a077c061d9c
+  copyright_status: restricted
 - text: McDaniel featured the Brookings Report as indicating a long-standing potential
     NASA cover-up policy.
   source: Dark Mission
@@ -523,6 +534,7 @@ references:
   claim_id: 09c66cc9-3488-4adc-85f4-d33598601c5d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09c66cc9-3488-4adc-85f4-d33598601c5d
+  copyright_status: restricted
 - text: Hoagland interprets the report as concluding artefacts are likely to be found
     by NASA on the Moon or Mars.
   source: Dark Mission
@@ -530,6 +542,7 @@ references:
   claim_id: 17e766cc-0a98-4926-9ede-a039ac9876fa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-17e766cc-0a98-4926-9ede-a039ac9876fa
+  copyright_status: restricted
 - text: Hoagland considers Kennedy's speech a direct response to the report's suppression
     suggestion.
   source: Dark Mission
@@ -537,6 +550,7 @@ references:
   claim_id: 1b3fb756-bcb7-4b1d-8740-ff34f748a73e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b3fb756-bcb7-4b1d-8740-ff34f748a73e
+  copyright_status: restricted
 - text: Hoagland believes NASA has suppressed evidence of Viking-era microbial life
     findings.
   source: Dark Mission
@@ -544,30 +558,35 @@ references:
   claim_id: 77d04910-c0c4-4737-89f5-89068788998a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-77d04910-c0c4-4737-89f5-89068788998a
+  copyright_status: restricted
 - text: Throughout the 1980s NASA's official position on Cydonia was uniformly caustic.
   source: Dark Mission
   location: ch10:289-577
   claim_id: 782b76c3-f389-4e4a-a9ae-dc0cd363bb97
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-782b76c3-f389-4e4a-a9ae-dc0cd363bb97
+  copyright_status: restricted
 - text: Hoagland was invited on five occasions by NASA facilities to present on Cydonia.
   source: Dark Mission
   location: ch10:2137-2274
   claim_id: 3452daef-d9d5-4ebf-9289-6a5da3b72641
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3452daef-d9d5-4ebf-9289-6a5da3b72641
+  copyright_status: restricted
 - text: His first NASA/Lewis presentation took place on 1990-03-20.
   source: Dark Mission
   location: ch10:2886-2979
   claim_id: a2b8a5bb-7fa0-45b5-9bea-a0773892077c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2b8a5bb-7fa0-45b5-9bea-a0773892077c
+  copyright_status: restricted
 - text: The presentation was videotaped and released as Hoagland's Mars, Vol. 1.
   source: Dark Mission
   location: ch10:2283-2426
   claim_id: dfff48f5-360c-414f-bacd-3ed148d4d97d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dfff48f5-360c-414f-bacd-3ed148d4d97d
+  copyright_status: restricted
 - text: Squyres said at the 1988 Nightwatch debate that Cydonia did not meet unpublished
     NASA artificiality standards.
   source: Dark Mission
@@ -575,6 +594,7 @@ references:
   claim_id: 4ffcb3db-7543-4e0d-9d57-bae5a7da0b3c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4ffcb3db-7543-4e0d-9d57-bae5a7da0b3c
+  copyright_status: restricted
 - text: Per Gary Posner, John Kleinberg said Hoagland's NASA appearances were nothing
     out of the ordinary.
   source: Dark Mission
@@ -582,6 +602,7 @@ references:
   claim_id: e7b618be-c790-4f88-9072-eb5a8bbf8116
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7b618be-c790-4f88-9072-eb5a8bbf8116
+  copyright_status: restricted
 - text: Hoagland identified an Apollo 10 photograph frame and sought related data
     from outside NASA.
   source: Dark Mission
@@ -589,6 +610,7 @@ references:
   claim_id: adec54ca-6f36-40dd-8a10-07c439285d99
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-adec54ca-6f36-40dd-8a10-07c439285d99
+  copyright_status: restricted
 - text: John Stevens drove film-viewing equipment 16,000 km round trip to Goddard
     to transfer Apollo films for the research.
   source: Dark Mission
@@ -596,6 +618,7 @@ references:
   claim_id: 6f2dc432-95b9-4e19-a11b-1822adf26798
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f2dc432-95b9-4e19-a11b-1822adf26798
+  copyright_status: restricted
 - text: NASA sought to refine Apollo 12 landing procedures after Apollo 11's location
     uncertainty.
   source: Dark Mission
@@ -603,6 +626,7 @@ references:
   claim_id: f82b146a-cf2b-4299-a5c0-210f62ca3563
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f82b146a-cf2b-4299-a5c0-210f62ca3563
+  copyright_status: restricted
 - text: By 1992, McDaniel pressured NASA and JPL to explain why Cydonia could not
     be targeted before Mars Observer's launch.
   source: Dark Mission
@@ -610,6 +634,7 @@ references:
   claim_id: ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
+  copyright_status: restricted
 - text: Researchers found neither NASA nor Congress had authority over where Malin
     pointed the camera.
   source: Dark Mission
@@ -617,12 +642,14 @@ references:
   claim_id: 57cb3e6f-4d0e-4283-b0c1-e93cf741a561
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57cb3e6f-4d0e-4283-b0c1-e93cf741a561
+  copyright_status: restricted
 - text: NASA sold exclusive Mars Observer data rights to Malin.
   source: Dark Mission
   location: ch10:25725-25976
   claim_id: fe162671-3014-4020-9ea1-8c8b08727150
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fe162671-3014-4020-9ea1-8c8b08727150
+  copyright_status: restricted
 - text: This was the first time NASA data from an unmanned probe would not be seen
     live.
   source: Dark Mission
@@ -630,6 +657,7 @@ references:
   claim_id: ea5301dc-ddc9-49bc-9097-44db9d5a48dd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ea5301dc-ddc9-49bc-9097-44db9d5a48dd
+  copyright_status: restricted
 - text: NASA said the exclusive-rights arrangement was needed to attract contractor
     bids.
   source: Dark Mission
@@ -637,24 +665,28 @@ references:
   claim_id: 40ade504-81b3-4c71-80d4-4e98e253528b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40ade504-81b3-4c71-80d4-4e98e253528b
+  copyright_status: restricted
 - text: NASA technicians found shroud contamination on Mars Observer in August 1992.
   source: Dark Mission
   location: ch10:30070-30306
   claim_id: 6d269a9b-9181-4a1e-a08b-77ab8cb44188
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d269a9b-9181-4a1e-a08b-77ab8cb44188
+  copyright_status: restricted
 - text: NASA never cited a specific cause for the contamination.
   source: Dark Mission
   location: ch10:30576-30668
   claim_id: add72d55-e7c1-45a7-9d76-2e5d30c8dbb1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-add72d55-e7c1-45a7-9d76-2e5d30c8dbb1
+  copyright_status: restricted
 - text: NASA changed its data-embargo and imaging plans weeks before the orbital burn.
   source: Dark Mission
   location: ch10:36194-36586
   claim_id: 6d3ca638-5008-410d-bd48-3d79e7980c68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d3ca638-5008-410d-bd48-3d79e7980c68
+  copyright_status: restricted
 - text: The plan was a "power in" manoeuvre placing Mars Observer in orbit twenty-one
     days early.
   source: Dark Mission
@@ -662,6 +694,7 @@ references:
   claim_id: da47419a-e950-4525-a70f-5e5d095ba83a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da47419a-e950-4525-a70f-5e5d095ba83a
+  copyright_status: restricted
 - text: NASA ordered Mars Observer's primary data stream shut off before its pre-orbital
     burn.
   source: Dark Mission
@@ -669,6 +702,7 @@ references:
   claim_id: 16e5c561-6782-4fbe-8022-92ec304a79f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16e5c561-6782-4fbe-8022-92ec304a79f0
+  copyright_status: restricted
 - text: With the radio off, no data existed from the spacecraft's final moments and
     no cause was determined.
   source: Dark Mission
@@ -676,6 +710,7 @@ references:
   claim_id: 4a6bfe12-3748-443a-88e6-41219b8e36cf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4a6bfe12-3748-443a-88e6-41219b8e36cf
+  copyright_status: restricted
 - text: David Laverty organised a demonstration against NASA's Cydonia censorship
     outside JPL's Mars Observer Control Center.
   source: Dark Mission
@@ -683,6 +718,7 @@ references:
   claim_id: b6256cc2-8c51-483a-9aff-0d93587387da
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6256cc2-8c51-483a-9aff-0d93587387da
+  copyright_status: restricted
 - text: Coverage of the demonstration dominated television coverage of the missing
     spacecraft story.
   source: Dark Mission
@@ -690,6 +726,7 @@ references:
   claim_id: 68bcbd29-1396-4077-bed9-2b2466b3575f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68bcbd29-1396-4077-bed9-2b2466b3575f
+  copyright_status: restricted
 - text: The McDaniel Report pressured NASA to abandon its principal-investigator data-rights
     policy.
   source: Dark Mission
@@ -697,6 +734,7 @@ references:
   claim_id: b3ee466d-ff9b-440e-92c9-d5d86c1a6027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b3ee466d-ff9b-440e-92c9-d5d86c1a6027
+  copyright_status: restricted
 - text: On 2022-06-09 NASA announced it was commissioning a study to examine UAP.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -706,6 +744,7 @@ references:
   claim_id: ae8629b6-3341-4665-b217-76dee93c6104
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ae8629b6-3341-4665-b217-76dee93c6104
+  copyright_status: public_domain
 - text: NASA's independent study team comprised scientists, former astronauts and
     pilots.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -716,6 +755,7 @@ references:
   claim_id: 286c0b58-1a7e-4bfc-95fb-b69d8ecaeefe
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-286c0b58-1a7e-4bfc-95fb-b69d8ecaeefe
+  copyright_status: public_domain
 - text: The team was established under NASA's Earth Science Advisory Committee, itself
     formed under the Federal Advisory Committee Act.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -727,6 +767,7 @@ references:
   claim_id: 377a2c14-b8a8-4cbb-97b6-74717fa59448
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-377a2c14-b8a8-4cbb-97b6-74717fa59448
+  copyright_status: public_domain
 - text: The team examined UAP scientifically, focused on how NASA could use data and
     tools to understand it.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -737,6 +778,7 @@ references:
   claim_id: f274ff67-0af1-4905-be9d-dedf244b0b61
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f274ff67-0af1-4905-be9d-dedf244b0b61
+  copyright_status: public_domain
 - text: The team held its first public meeting on 2023-05-01, including DoD and intelligence
     perspectives.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -748,6 +790,7 @@ references:
   claim_id: 51c14b58-135e-426e-9c84-2526af171ede
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-51c14b58-135e-426e-9c84-2526af171ede
+  copyright_status: public_domain
 - text: NASA released the study team's report in September 2023.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -756,6 +799,7 @@ references:
   claim_id: cc762b5e-74dd-4bbc-9620-293fd3b06798
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cc762b5e-74dd-4bbc-9620-293fd3b06798
+  copyright_status: public_domain
 - text: NASA established a UAP Research Director position.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -764,6 +808,7 @@ references:
   claim_id: e6f79f14-a35d-407b-b4dc-2d7ba6e76789
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e6f79f14-a35d-407b-b4dc-2d7ba6e76789
+  copyright_status: public_domain
 - text: Carlotto reported NASA's assessment of the STS-48 objects as thruster-illuminated
     debris.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -774,6 +819,7 @@ references:
   claim_id: a969c168-3156-4a14-8994-205b026862ef
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a969c168-3156-4a14-8994-205b026862ef
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

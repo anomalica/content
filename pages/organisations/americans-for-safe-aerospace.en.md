@@ -40,6 +40,7 @@ references:
   claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab2f212d-3754-4c55-8ea2-97288d736b40
+  copyright_status: restricted
 - text: Ryan Graves founded Americans for Safe Aerospace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -49,6 +50,7 @@ references:
   claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d0f715d-89eb-4654-81fd-ff8b58be1317
+  copyright_status: public_domain
 - text: Ryan Graves is the Executive Director of Americans for Safe Aerospace
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -57,6 +59,7 @@ references:
   claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+  copyright_status: public_domain
 - text: ASA supports military and civilian pilots and others in aerospace who report
     UAP, demanding more disclosure from public officials
   source: In Plain Sight
@@ -64,6 +67,7 @@ references:
   claim_id: ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
+  copyright_status: restricted
 - text: More than thirty witnesses have come forward to ASA, and almost 5,000 Americans
     have joined the push for transparency
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -74,6 +78,7 @@ references:
   claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5f634167-7d07-4560-a064-cd12ac2fb826
+  copyright_status: public_domain
 - text: Ryan Graves testified at the 2023-07-26 House hearing as Executive Director
     of ASA
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -83,6 +88,7 @@ references:
   claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  copyright_status: public_domain
 - text: The majority of witnesses coming forward to ASA are commercial pilots at major
     airlines, often veterans with decades of experience
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -93,6 +99,7 @@ references:
   claim_id: 1b232bf5-f526-4510-88e4-4d9768f5d0d3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1b232bf5-f526-4510-88e4-4d9768f5d0d3
+  copyright_status: public_domain
 - text: Commercial pilots reached out to Graves through ASA because they felt they
     had no other way to report UAP safety issues
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -104,6 +111,7 @@ references:
   claim_id: e65da470-625f-4bee-a9e6-f715c3665756
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e65da470-625f-4bee-a9e6-f715c3665756
+  copyright_status: public_domain
 - text: Graves considers the most compelling accounts those involving multiple witnesses
     and sensor systems
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -114,6 +122,7 @@ references:
   claim_id: 5ee9271a-8e09-4bb9-a30f-3eb40fdeb817
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5ee9271a-8e09-4bb9-a30f-3eb40fdeb817
+  copyright_status: public_domain
 - text: A witness who approached Graves at ASA described objects at Vandenberg approaching
     security guards before darting off
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -125,6 +134,7 @@ references:
   claim_id: 3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

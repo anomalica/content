@@ -55,6 +55,7 @@ references:
   claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
+  copyright_status: restricted
 - text: The Act proposed eminent domain over nonhuman biological evidence and recovered
     technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -62,6 +63,7 @@ references:
   claim_id: 485f26c2-e6f5-4b26-9229-a92c6ab66139
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-485f26c2-e6f5-4b26-9229-a92c6ab66139
+  copyright_status: restricted
 - text: The Act creates a presidential review board to plan controlled disclosure
     to the American people.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -69,12 +71,14 @@ references:
   claim_id: 3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
+  copyright_status: restricted
 - text: The Act pulls funding from UAP activity not approved by congressional committees.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7152-7258
   claim_id: f0cc10b5-0ced-45d4-b487-b579560c7753
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0cc10b5-0ced-45d4-b487-b579560c7753
+  copyright_status: restricted
 - text: Elizondo said the Act bars taxpayer-funded UAP activity without Congress's
     approval.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -82,12 +86,14 @@ references:
   claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
+  copyright_status: restricted
 - text: The Act directs the National Archives to collect UAP-related government documents.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7492-7657
   claim_id: 2dc9c087-4b56-4a6c-ae66-725119807e9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2dc9c087-4b56-4a6c-ae66-725119807e9c
+  copyright_status: restricted
 - text: The Act requires undisclosed UAP records to be made public within 25 years,
     unless the president classifies them for national security.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -95,6 +101,7 @@ references:
   claim_id: 66c65384-1288-4b82-92ac-2ab177a2ba9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66c65384-1288-4b82-92ac-2ab177a2ba9a
+  copyright_status: restricted
 - text: Elizondo said the Act's language stems from whistleblower briefings to Congress
     about NHI and the Legacy Program.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -102,6 +109,7 @@ references:
   claim_id: 5303835b-b843-4604-96e3-61a11063937d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
+  copyright_status: restricted
 - text: Elizondo said the Act shows Congress is aware of the Legacy Program's possession
     of nonhuman bodies and technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -109,6 +117,7 @@ references:
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
+  copyright_status: restricted
 - text: Senate leadership asked Elizondo to help clarify facts while refining the
     Act.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -116,24 +125,28 @@ references:
   claim_id: 7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
+  copyright_status: restricted
 - text: Mike Turner opposed the Act and blocked much of what it sought to enact.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6902-6986
   claim_id: 7feab3e4-6466-48be-aec8-0165a236a9f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7feab3e4-6466-48be-aec8-0165a236a9f2
+  copyright_status: restricted
 - text: Schumer and Rounds fought for the Act's passage, with some historic wins.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6999-7079
   claim_id: 6340b994-e401-4601-a3d1-e49044dcf716
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6340b994-e401-4601-a3d1-e49044dcf716
+  copyright_status: restricted
 - text: The presidential review board proposal was removed before the Act passed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7905-7958
   claim_id: 5095999d-d448-4b11-8605-31b6c4aa7053
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5095999d-d448-4b11-8605-31b6c4aa7053
+  copyright_status: restricted
 - text: Schumer called it an outrage that the House had not adopted the review board
     proposal.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -141,12 +154,14 @@ references:
   claim_id: a659a8ca-9c90-4023-8586-e6d646818d56
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a659a8ca-9c90-4023-8586-e6d646818d56
+  copyright_status: restricted
 - text: Biden signed the UAP Disclosure Act into law in late December 2023.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7089-7132
   claim_id: 76e8c6c2-a112-4164-9f68-cb723b8843c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
+  copyright_status: restricted
 - text: Schumer continues pushing for the Act's declassification requirements, compared
     to the JFK files.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -157,6 +172,7 @@ references:
   claim_id: c850b26b-8936-4a1d-a2ee-16a4efd85b05
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c850b26b-8936-4a1d-a2ee-16a4efd85b05
+  copyright_status: publicly_accessible
 - text: The Act was pushed back again in 2024 by Mitch McConnell.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
   location: 2024-10-02, 00:19:59.4-00:20:07.5
@@ -166,6 +182,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
+  copyright_status: publicly_accessible
 - text: If passed, the Act would allow disclosure of past UAP events, similar to the
     JFK assassination records.
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
@@ -176,6 +193,7 @@ references:
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
   inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-cbbc563e-ca4d-48b6-a994-2c0377490b73
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

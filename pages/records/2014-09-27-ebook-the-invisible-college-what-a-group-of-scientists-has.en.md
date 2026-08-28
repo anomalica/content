@@ -27,6 +27,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-08ad77b3-f946-438b-8765-139ad9269a06
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-08ad77b3-f946-438b-8765-139ad9269a06
+  copyright_status: restricted
 - text: Vallee described the Invisible College as comprising about a hundred scientists
     in five or six countries.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -37,6 +38,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d7d829c7-1578-472b-848a-2f9933ba3dec
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-d7d829c7-1578-472b-848a-2f9933ba3dec
+  copyright_status: restricted
 - text: The group investigated UFO cases, interviewed witnesses and exchanged data
     through an informal international network.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -47,6 +49,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da0c7917-e746-4749-bfe9-64fac65dc806
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-da0c7917-e746-4749-bfe9-64fac65dc806
+  copyright_status: restricted
 - text: J. Allen Hynek called the informal network the Invisible College.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -56,6 +59,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3da97800-4c78-49f5-a8c0-6f8cbe223623
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-3da97800-4c78-49f5-a8c0-6f8cbe223623
+  copyright_status: restricted
 - text: J. Allen Hynek invited Vallee to apply computer science to the statistical
     procedures used by Project Blue Book.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -66,6 +70,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1a04b161-714c-491b-8c30-1dc2dff1bd94
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-1a04b161-714c-491b-8c30-1dc2dff1bd94
+  copyright_status: restricted
 - text: Vallee examined 10,000 UFO reports in United States Air Force files.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -75,6 +80,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8510410e-ddb1-42d1-a76a-f05b5158fdda
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-8510410e-ddb1-42d1-a76a-f05b5158fdda
+  copyright_status: restricted
 - text: Vallee approached his inquiry through descriptive phenomenology.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -84,6 +90,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4fd547cf-2c0e-46ee-9a78-2973f65746f4
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4fd547cf-2c0e-46ee-9a78-2973f65746f4
+  copyright_status: restricted
 - text: The Case of Dr. X concerned a medical doctor in southern France and was extensively
     investigated.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -94,6 +101,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
+  copyright_status: restricted
 - text: Dr. X reportedly observed two disk-shaped objects with beams of light during
     the 1968 sighting.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -104,6 +112,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f95a3632-1488-4d42-abfa-e8e51e639430
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-f95a3632-1488-4d42-abfa-e8e51e639430
+  copyright_status: restricted
 - text: The Dr. X follow-up reported recurring triangular pigmentation on both the
     doctor and his son.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -114,6 +123,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5b69a871-abd5-4a52-b6e5-169e830e8b29
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-5b69a871-abd5-4a52-b6e5-169e830e8b29
+  copyright_status: restricted
 - text: Ronald Johnson described a multicoloured mushroom-shaped object hovering about
     0.6 metres above the ground at Delphos.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -124,6 +134,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-093ce10d-4cea-4d48-b5b6-6f02729a1051
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-093ce10d-4cea-4d48-b5b6-6f02729a1051
+  copyright_status: restricted
 - text: The Delphos witnesses observed a glowing ring at the near-landing site.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -133,6 +144,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4c978b46-883a-4cf6-9b6f-6e0e855b568b
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4c978b46-883a-4cf6-9b6f-6e0e855b568b
+  copyright_status: restricted
 - text: The source record states that no one identified the white substance at the
     Delphos ring site and that soil analyses found no significant difference inside
     and outside the ring.
@@ -144,6 +156,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9a2a94d3-998a-439f-9efc-1b068a769154
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-9a2a94d3-998a-439f-9efc-1b068a769154
+  copyright_status: restricted
 - text: Vallee proposed that UFOs may constitute a control system.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -153,6 +166,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-813b7456-399b-4ab6-868b-9bf66d554aa7
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-813b7456-399b-4ab6-868b-9bf66d554aa7
+  copyright_status: restricted
 - text: Vallee distinguished technological and psychological approaches among scientists
     studying UFOs.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -163,6 +177,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+  copyright_status: restricted
 - text: Vallee's Hilltop Theory included psychic effects, reactions and cover-up,
     belief patterns, and exploitation by groups such as UMMO.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -173,6 +188,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-60fe377d-fef1-4cd2-abb4-383affcf1a50
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-60fe377d-fef1-4cd2-abb4-383affcf1a50
+  copyright_status: restricted
 - text: Vallee suggested that UFO reports might involve a complex technology structured
     through time and space rather than visits from space travellers.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -183,6 +199,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-77061365-5b7d-4bb3-886e-8ca9ab6638b7
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-77061365-5b7d-4bb3-886e-8ca9ab6638b7
+  copyright_status: restricted
 - text: Vallee considered contact with the phenomenon to occur under conditions controlled
     by the phenomenon itself, with an element of absurdity.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -193,6 +210,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4c0493a7-e6d9-4619-94e1-4b85f344d329
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4c0493a7-e6d9-4619-94e1-4b85f344d329
+  copyright_status: restricted
 - text: The Condon Committee report stated that UFO study could not be justified by
     the expectation of advancing science.
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -203,6 +221,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

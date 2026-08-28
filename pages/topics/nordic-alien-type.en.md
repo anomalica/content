@@ -56,6 +56,7 @@ references:
   claim_id: 7461a2e7-ee82-4580-bb85-fc0459cb3d37
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-7461a2e7-ee82-4580-bb85-fc0459cb3d37
+  copyright_status: publicly_accessible
 - text: Tall Nordic-type beings with hair reported frequently in abduction cases,
     notably Travis Walton, 1975
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -63,6 +64,7 @@ references:
   claim_id: 55b9e1c4-d59d-4560-bf18-495175f3e744
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-55b9e1c4-d59d-4560-bf18-495175f3e744
+  copyright_status: restricted
 - text: Nordic-type beings appear in the accounts of Peter Khoury (1992) and Travis
     Walton (1975)
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -70,6 +72,7 @@ references:
   claim_id: a713c2cb-d131-47ad-bf14-ab8d9e30b110
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a713c2cb-d131-47ad-bf14-ab8d9e30b110
+  copyright_status: restricted
 - text: Nordic-type aliens most conspicuous in contactee accounts describing benevolent
     interactions
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -77,6 +80,7 @@ references:
   claim_id: 34abe91c-b6d9-4566-a258-068adb880e11
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34abe91c-b6d9-4566-a258-068adb880e11
+  copyright_status: restricted
 - text: Bill Chalker on Vicki Klein's account paralleling Budd Hopkins's 1987 breakthrough
     case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -84,6 +88,7 @@ references:
   claim_id: 447d0e8d-4573-418b-9986-46625fb4f064
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-447d0e8d-4573-418b-9986-46625fb4f064
+  copyright_status: restricted
 - text: 1970 Imjarvi case featured a Nordic female entity with a hand-held ball artefact
     and implant suggestions
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -91,6 +96,7 @@ references:
   claim_id: 2c5ad927-ad1d-431f-ac85-2eaa7dab9592
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2c5ad927-ad1d-431f-ac85-2eaa7dab9592
+  copyright_status: restricted
 - text: '1968 Villa Carlos Paz encounter: Nordic entity manipulating solid light confronted
     Maria Elodia Pretzel'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -98,18 +104,21 @@ references:
   claim_id: 4fc92029-9d7d-4e23-83e5-e3ed3183b8f9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4fc92029-9d7d-4e23-83e5-e3ed3183b8f9
+  copyright_status: restricted
 - text: Credo Mutwa's description of the Wazungu beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:31326-31633
   claim_id: 32992201-e75a-470b-bdc0-4dfe8b34e3e0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32992201-e75a-470b-bdc0-4dfe8b34e3e0
+  copyright_status: restricted
 - text: Bill Chalker on Mutwa's Wazungu account describing Nordic-type beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:32950-33057
   claim_id: 2cf10648-c212-448f-bdb1-bd2121198def
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2cf10648-c212-448f-bdb1-bd2121198def
+  copyright_status: restricted
 - text: Richard Thompson drawing parallels between Vedic Devas and Nordic-type UFO
     entities
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -117,6 +126,7 @@ references:
   claim_id: 7ebed348-b570-48d3-8340-22522adefc2f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ebed348-b570-48d3-8340-22522adefc2f
+  copyright_status: restricted
 - text: Bill Chalker on Tuatha de Danann and fairy folklore parallels with Nordics
     and grays
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -124,12 +134,14 @@ references:
   claim_id: 7e116f5e-7573-435e-93e0-46b0c18a57c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7e116f5e-7573-435e-93e0-46b0c18a57c1
+  copyright_status: restricted
 - text: Bill Chalker on the Xinjiang Taklimakan mummies and Nordic-type beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch20:2134-2478
   claim_id: 0c063271-9473-481b-a898-42b1ae5b0c3f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0c063271-9473-481b-a898-42b1ae5b0c3f
+  copyright_status: restricted
 - text: Account of two entity types claiming to be one people, one Nordic-resembling,
     one dog-faced
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -137,12 +149,14 @@ references:
   claim_id: d8bd1127-1abd-428c-9dee-947ed98caa3a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d8bd1127-1abd-428c-9dee-947ed98caa3a
+  copyright_status: restricted
 - text: Alvin Guerra's account of a reward encounter with a Nordic commander
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:19597-19719
   claim_id: 9b24f858-bc98-41d7-907b-9de816a24aaa
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9b24f858-bc98-41d7-907b-9de816a24aaa
+  copyright_status: restricted
 - text: Coulthart on Jorjani's claim about CIA screening of consumer DNA databases
     for Nordic markers
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -154,6 +168,7 @@ references:
   claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-d5165563-8893-4491-ba4d-7854d779a4f0
+  copyright_status: publicly_accessible
 - text: Coulthart on Nordic aliens said to favour the Rocky Mountains, Colorado
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -162,6 +177,7 @@ references:
   claim_id: 11c0685e-2a27-4666-a22a-3e542f16b7fd
   record_hash: ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae
   workbench_url: https://workbench.anomalica.is/ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752ae#claim-11c0685e-2a27-4666-a22a-3e542f16b7fd
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -17,6 +17,7 @@ references:
   quote: My name is David Fravor and I am a retired Commander in the U.S Navy.
   claim_id: 379b0aa1-a35f-4cd3-ac1e-8e9bc6011a22
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: In November 2004, Fravor was the Commanding Officer of VFA-41, known as the
     Black Aces
   source: David Fravor Statement for the House Oversight Committee
@@ -25,6 +26,7 @@ references:
     the World Famous Black Aces!
   claim_id: 2c2f5663-5018-4ae7-967b-a341870b3af9
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: VFA-41 was attached to CVW-11 and stationed aboard USS Nimitz
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 2
@@ -32,6 +34,7 @@ references:
     Nimitz (CVN-68).
   claim_id: c52bb3e9-9126-4ac0-bba0-bffc54c37dff
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The squadron was preparing for a combat deployment to the Persian Gulf
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 2
@@ -40,12 +43,14 @@ references:
     in Iraq.
   claim_id: 80b2cd12-c549-4ae4-9f3b-ee0fb813b404
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor was scheduled to lead a two-versus-two air-to-air training exercise
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 3
   quote: I was scheduled to lead a 2 V 2 Air to Air training exercise.
   claim_id: 7e087609-ab6c-4c19-ba97-3301df36f6d7
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor's flight of two F/A-18F Super Hornets was being controlled by USS Princeton
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 3
@@ -53,12 +58,14 @@ references:
     controlled by the USS Princeton, CG-59.
   claim_id: 6b3aa3e5-99ef-4f05-8608-7c39ec76e352
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The Red Air opposing force was flown by VMFA-232
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 3
   quote: The Red Air was being flown by our Marine F/A-18 squadron VMFA-232.
   claim_id: 303ec9ad-3a4d-4dda-8249-61d016a098a3
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: After launch, the Princeton controller suspended training for real-world tasking
   source: David Fravor Statement for the House Oversight Committee
   location: page 1, paragraph 4
@@ -67,6 +74,7 @@ references:
     real world tasking.
   claim_id: 974e8a33-2c1c-430d-8c76-20be2186295d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor and his wingman proceeded towards a contact roughly 64 kilometres south
     of the ship
   source: David Fravor Statement for the House Oversight Committee
@@ -76,6 +84,7 @@ references:
     roughly 40 miles South of the ship.
   claim_id: 916daeef-8f0f-47ef-9378-a5c42081da26
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor's flight had nothing on their radars as they proceeded west toward
     the contact
   source: David Fravor Statement for the House Oversight Committee
@@ -84,6 +93,7 @@ references:
     when we arrived.
   claim_id: 3d84949d-c421-4fc8-a0e8-28b9a3aabb2d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The air controller had been observing the objects on the Aegis Combat System
     for two weeks
   source: David Fravor Statement for the House Oversight Committee
@@ -92,6 +102,7 @@ references:
     objects on their Aegis combat system for the previous 2 weeks.
   claim_id: 376a0655-4e9c-4372-80b8-d0fe1a00756b
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Objects had been descending from above approximately 24,000 metres to approximately
     6,000 metres, staying for hours then going straight back up
   source: David Fravor Statement for the House Oversight Committee
@@ -100,6 +111,7 @@ references:
     would stay for hours and then go straight back up.
   claim_id: 4b08bdb0-4ab4-4698-a085-dcebdaa0a9a4
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor saw a small white Tic Tac shaped object with its longitudinal axis
     pointing north-south, moving abruptly over white water
   source: David Fravor Statement for the House Oversight Committee
@@ -108,6 +120,7 @@ references:
     N/S and moving very abruptly over the white water.
   claim_id: de489eda-e7df-4089-82ee-447063f38c75
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The object had no rotors, no rotor wash, and no visible flight control surfaces
     such as wings
   source: David Fravor Statement for the House Oversight Committee
@@ -116,6 +129,7 @@ references:
     like wings.
   claim_id: a9ee2c0e-5dec-40ea-8119-298308cc85ac
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: As Fravor descended, the object shifted its axis to align with his aircraft
     and began a clockwise climbing turn
   source: David Fravor Statement for the House Oversight Committee
@@ -124,6 +138,7 @@ references:
     and began to climb in a clockwise climbing turn.
   claim_id: f4e0b28f-d340-4cac-9010-b01008261f37
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: At approximately 0.8 kilometres range, the object rapidly accelerated and
     disappeared
   source: David Fravor Statement for the House Oversight Committee
@@ -133,6 +148,7 @@ references:
     front of our aircraft. Our wingman, roughly 8,000ft above us, also lost visual.
   claim_id: c94f8933-ea00-476a-a297-cf3d3efed6c6
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor's altitude was approximately 4,600 metres and the object was at about
     3,700 metres when he pulled nose onto it
   source: David Fravor Statement for the House Oversight Committee
@@ -141,6 +157,7 @@ references:
     about 12,000ft.
   claim_id: 3e8e882e-515a-4fed-9253-92b2413d53d3
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: After the object disappeared, the white water was also gone
   source: David Fravor Statement for the House Oversight Committee
   location: page 2, paragraph 1
@@ -148,6 +165,7 @@ references:
     was also gone.
   claim_id: eb8ee487-a0df-48bc-b42d-913d0ad9a44f
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The object reappeared on Princeton's AN/SPY-1 radar at the CAP point roughly
     97 kilometres east
   source: David Fravor Statement for the House Oversight Committee
@@ -156,6 +174,7 @@ references:
     Aegis SPY 1 radar at our CAP point.
   claim_id: 817903a6-9951-41d5-85ee-b728d2d2c61a
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The object travelled approximately 97 kilometres in less than a minute
   source: David Fravor Statement for the House Oversight Committee
   location: page 2, paragraph 1
@@ -163,6 +182,7 @@ references:
     time (less than a minute)
   claim_id: 3234eefa-5e24-45b2-96e8-39ee4e01b98f
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The object was far superior in performance to the F/A-18F and did not operate
     by known aerodynamic principles
   source: David Fravor Statement for the House Oversight Committee
@@ -172,6 +192,7 @@ references:
     in our atmosphere.
   claim_id: 0d6ede26-09da-4cca-a05d-008d0a2724a9
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: A crew from Fravor's squadron took the approximately 90-second video released
     by the US government in 2017
   source: David Fravor Statement for the House Oversight Committee
@@ -180,6 +201,7 @@ references:
     was released by the USG in 2017.
   claim_id: 0a4fbae7-3a47-4a00-a5ab-c9f71c828a18
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: A radar tape showed jamming of the AN/APG-73 radar and is not part of the
     released video
   source: David Fravor Statement for the House Oversight Committee
@@ -188,6 +210,7 @@ references:
     radar in the aircraft
   claim_id: c34c2f7c-954f-4cef-86cb-425b476280d9
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The targeting pod video shows the object does not emit any infrared plume
     from a normal propulsion system
   source: David Fravor Statement for the House Oversight Committee
@@ -196,6 +219,7 @@ references:
     (infrared) plume from a normal propulsion system that we would expect.
   claim_id: 94d12415-b72f-485d-bdf5-0fbc84314d5f
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The encounter was never investigated, no crew were questioned, and tapes were
     never taken
   source: David Fravor Statement for the House Oversight Committee
@@ -205,12 +229,14 @@ references:
     it turned into a great story to tell friends.
   claim_id: c17c01c0-e366-4a6d-b5e3-2fcf06d03ca8
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Jay Stratton contacted Fravor in 2009 to investigate the encounter
   source: David Fravor Statement for the House Oversight Committee
   location: page 2, paragraph 3
   quote: Not until 2009 did Jay Stratton contact me to investigate what we observed.
   claim_id: a7ab1ae9-e159-4781-93e6-2ebeaeeb8eb7
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Stratton was part of the Anomalous Threat Identification Program led by Luis
     Elizondo out of the DoD
   source: David Fravor Statement for the House Oversight Committee
@@ -219,6 +245,7 @@ references:
     Program) program led by Lue Elizondo out of the DOD.
   claim_id: d0277556-947c-4585-b58a-b4aa539b6e53
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Alex Dietrich contacted Fravor to ask whether he had been contacted about
     the incident after 2009
   source: David Fravor Statement for the House Oversight Committee
@@ -227,6 +254,7 @@ references:
     asking if I had ever been contacted about the incident after 2009.
   claim_id: 9f04594a-d408-49a9-95ec-2fc472138dfe
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Dietrich had been invited to the Pentagon multiple times to discuss the encounter
     and view other UAP videos
   source: David Fravor Statement for the House Oversight Committee
@@ -235,6 +263,7 @@ references:
     the event and view other videos of UAPs.
   claim_id: de9f0f51-1fac-4a19-8ffa-3625122f8366
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor was contacted by Luis Elizondo in 2016 shortly after speaking with
     Dietrich
   source: David Fravor Statement for the House Oversight Committee
@@ -242,6 +271,7 @@ references:
   quote: I was contacted by Mr Elizondo shortly after talking with Alex in 2016.
   claim_id: d6614f09-fa9f-47fd-947e-66647b8458bf
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Elizondo left the Pentagon in protest and joined DeLonge, Mellon, Justice
     and others to form To The Stars Academy
   source: David Fravor Statement for the House Oversight Committee
@@ -251,6 +281,7 @@ references:
     Academy.
   claim_id: dffe2ea0-a965-433a-9f97-5849902cf9c3
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The December 2017 New York Times articles led to interest from elected officials
     in understanding what the craft are
   source: David Fravor Statement for the House Oversight Committee
@@ -260,6 +291,7 @@ references:
     from, the technology they possess, and how do they operate.
   claim_id: 2c1d6e66-d082-49f6-821f-4d5ada77b8ff
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: The New York Times coverage led to whistleblower protection provisions in
     the NDAA
   source: David Fravor Statement for the House Oversight Committee
@@ -268,6 +300,7 @@ references:
     brings us too today.
   claim_id: 39deb1f8-1977-43ed-8d0a-cb5dd2bb2521
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Multiple witnesses are coming forward with first-hand knowledge, which David
     Grusch would discuss
   source: David Fravor Statement for the House Oversight Committee
@@ -276,6 +309,7 @@ references:
     knowledge, that I'm sure Mr Grusch will or already has discussed.
   claim_id: e01838c8-44e0-4b29-9f01-f71b521df01b
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor expressed concern about lack of congressional oversight on government
     programmes involving craft not believed to be from this world
   source: David Fravor Statement for the House Oversight Committee
@@ -285,6 +319,7 @@ references:
     we believe are not from this world.
   claim_id: 3b4ff5fe-203a-4307-9662-4fecc1b8b58e
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 - text: Fravor considered the Tic Tac object far superior to anything the US had at
     the time or is looking to develop in ten or more years
   source: David Fravor Statement for the House Oversight Committee
@@ -294,6 +329,7 @@ references:
     years.
   claim_id: e0f1ba05-3c98-4731-a7cb-a6e7903d7eb5
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
+  copyright_status: public_domain
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

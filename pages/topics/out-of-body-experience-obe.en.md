@@ -414,30 +414,35 @@ references:
   claim_id: c6146ce4-65c8-4c11-b390-39cbfb53d8b2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c6146ce4-65c8-4c11-b390-39cbfb53d8b2
+  copyright_status: restricted
 - text: Robert Monroe was a pioneer in exploring the OOBE
   source: Journeys Out of the Body
   location: ch2:2-67
   claim_id: 6397e88c-fe01-4309-af66-806fa708a0f7
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6397e88c-fe01-4309-af66-806fa708a0f7
+  copyright_status: restricted
 - text: Monroe's research spanned hundreds of experiments over twelve years
   source: Journeys Out of the Body
   location: ch10:24543-24698
   claim_id: dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
+  copyright_status: restricted
 - text: Monroe classified approximately 589 out-of-the-body experiments
   source: Journeys Out of the Body
   location: ch27:3195-3297
   claim_id: 741ffbbe-5b6b-4e40-9196-8639b536747e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-741ffbbe-5b6b-4e40-9196-8639b536747e
+  copyright_status: restricted
 - text: The State of Vibration beginning partway through relaxation, 1960-04-18
   source: Journeys Out of the Body
   location: ch18:603-770
   claim_id: fba35c89-f8e1-417d-aacb-7f75aaa06ad1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-fba35c89-f8e1-417d-aacb-7f75aaa06ad1
+  copyright_status: restricted
 - text: Monroe separated from his body about eight inches (twenty centimetres) above
     it
   source: Journeys Out of the Body
@@ -445,72 +450,84 @@ references:
   claim_id: 5af25ca4-88b0-4d99-bf69-a46c901d9e81
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5af25ca4-88b0-4d99-bf69-a46c901d9e81
+  copyright_status: restricted
 - text: Description of the small humanoid entity, 1960-04-18
   source: Journeys Out of the Body
   location: ch18:1183-1408
   claim_id: 4c8bbc48-0d5f-463b-83cf-cd8ba55b7426
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4c8bbc48-0d5f-463b-83cf-cd8ba55b7426
+  copyright_status: restricted
 - text: The entity climbed onto Monroe's back and wrapped its legs around his waist
   source: Journeys Out of the Body
   location: ch18:1506-1711
   claim_id: d5d2eb21-99ac-44e7-be08-905ba2c5bb50
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d5d2eb21-99ac-44e7-be08-905ba2c5bb50
+  copyright_status: restricted
 - text: Monroe retreated into his body rather than confront the entity
   source: Journeys Out of the Body
   location: ch18:2214-2432
   claim_id: 427a1997-bc98-49df-8839-a1247f911de0
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-427a1997-bc98-49df-8839-a1247f911de0
+  copyright_status: restricted
 - text: Monroe considered the entity more animal-like than human despite its form
   source: Journeys Out of the Body
   location: ch18:2584-2738
   claim_id: c39f0965-da65-426d-b5a0-e3e6ea0a420e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c39f0965-da65-426d-b5a0-e3e6ea0a420e
+  copyright_status: restricted
 - text: Attack by an unseen entity in a Durham hotel room, 1960-07-13
   source: Journeys Out of the Body
   location: ch18:11084-11321
   claim_id: 60aa3e63-3fc6-4a33-8162-b3164d26978d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-60aa3e63-3fc6-4a33-8162-b3164d26978d
+  copyright_status: restricted
 - text: Monroe ejected the entity through a window, estimating its size
   source: Journeys Out of the Body
   location: ch18:11624-11853
   claim_id: 6e5f3808-52e1-43ea-9ebf-83b4007a405b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6e5f3808-52e1-43ea-9ebf-83b4007a405b
+  copyright_status: restricted
 - text: Monroe's hand passed through the closed window, confirming non-physical state
   source: Journeys Out of the Body
   location: ch18:11861-12050
   claim_id: 02718845-9943-4ecb-a836-9ded53dde787
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-02718845-9943-4ecb-a836-9ded53dde787
+  copyright_status: restricted
 - text: Monroe's letter to Richard Gordon describing OOB technique
   source: Journeys Out of the Body
   location: 60-66
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
+  copyright_status: restricted
 - text: Monroe considered the 1963-08-23 episode might represent true death
   source: Journeys Out of the Body
   location: ch20:1418-1547
   claim_id: 30b0a99c-1beb-4d62-8492-ca1e137ecb5c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-30b0a99c-1beb-4d62-8492-ca1e137ecb5c
+  copyright_status: restricted
 - text: Eight laboratory attempts at the University of Virginia Medical School
   source: Journeys Out of the Body
   location: ch8:12393-12526
   claim_id: 0017413f-c38b-46e0-8d18-ac8c8226e6a2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0017413f-c38b-46e0-8d18-ac8c8226e6a2
+  copyright_status: restricted
 - text: Unsuccessful on the first seven laboratory nights
   source: Journeys Out of the Body
   location: ch8:13301-13392
   claim_id: 70102fc3-c550-4b95-ab23-ab6e1c9cf8a4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-70102fc3-c550-4b95-ab23-ab6e1c9cf8a4
+  copyright_status: restricted
 - text: Two brief OOBEs on the eighth laboratory night
   source: Journeys Out of the Body
   location: ch8:13404-13519
@@ -518,6 +535,7 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
+  copyright_status: restricted
 - text: Monroe correctly described the technician out of the room and her husband
     in the corridor
   source: Journeys Out of the Body
@@ -526,78 +544,91 @@ references:
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-678bc207-ee83-4160-a6f8-c7de75d30656
   inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-678bc207-ee83-4160-a6f8-c7de75d30656
+  copyright_status: restricted
 - text: Two brief OOBEs under improved conditions, California 1968
   source: Journeys Out of the Body
   location: ch8:14785-14850
   claim_id: a5045ed2-11a0-4b8f-823a-a4709884a93c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a5045ed2-11a0-4b8f-823a-a4709884a93c
+  copyright_status: restricted
 - text: Tart and Crawford observed Monroe on closed-circuit television
   source: Journeys Out of the Body
   location: ch8:15543-15735
   claim_id: d1f8ae5f-7bf0-4972-b64f-6c9f25b8e4dd
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d1f8ae5f-7bf0-4972-b64f-6c9f25b8e4dd
+  copyright_status: restricted
 - text: McMoneagle's spontaneous, uncontrolled OBEs after his 1970 near-death experience
   source: Remote Viewing Secrets
   location: ch25:16077-16174
   claim_id: 7a8d6e70-1b2a-472e-a44c-0866098aa3fc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7a8d6e70-1b2a-472e-a44c-0866098aa3fc
+  copyright_status: restricted
 - text: By 1983 McMoneagle regarded Monroe as able to control the experience
   source: Remote Viewing Secrets
   location: ch25:16180-16300
   claim_id: fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
+  copyright_status: restricted
 - text: McMoneagle worked in Monroe's lab for nearly fourteen months
   source: Remote Viewing Secrets
   location: ch25:16550-16710
   claim_id: 63fceb6b-f794-4524-873a-38d3674cddbf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fceb6b-f794-4524-873a-38d3674cddbf
+  copyright_status: restricted
 - text: McMoneagle and Monroe visited targets both OOB and via remote viewing
   source: Remote Viewing Secrets
   location: ch25:16714-16805
   claim_id: 7f793e6b-5000-4608-b761-17d72a08da57
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7f793e6b-5000-4608-b761-17d72a08da57
+  copyright_status: restricted
 - text: OBE training produced increased control over remote viewing
   source: Remote Viewing Secrets
   location: ch25:16938-17046
   claim_id: d2a44173-7920-4c9b-95ec-79398b60c33f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d2a44173-7920-4c9b-95ec-79398b60c33f
+  copyright_status: restricted
 - text: 'McMoneagle: impossible to confirm OOB travel versus ordinary psychic functioning'
   source: Remote Viewing Secrets
   location: ch18:21833-21989
   claim_id: d3b4a171-a092-4acc-b95f-7c366c11d930
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d3b4a171-a092-4acc-b95f-7c366c11d930
+  copyright_status: restricted
 - text: Pam Reynolds felt no pain and could move at will by thought
   source: Surviving Death
   location: '31'
   claim_id: b4ca0279-76ac-497b-b553-d0b6935a353a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b4ca0279-76ac-497b-b553-d0b6935a353a
+  copyright_status: restricted
 - text: Maria told Sharp she watched her resuscitation from the ceiling
   source: Surviving Death
   location: ch15:4293-4445
   claim_id: 72d2b3a7-82c1-4302-a5ec-6916a2bd2a16
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72d2b3a7-82c1-4302-a5ec-6916a2bd2a16
+  copyright_status: restricted
 - text: Maria's veridical perception of a tennis shoe on a window ledge
   source: Surviving Death
   location: ch15:7289-7618
   claim_id: 7df20c2a-e749-4890-bceb-a6fb61245018
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7df20c2a-e749-4890-bceb-a6fb61245018
+  copyright_status: restricted
 - text: 'Van Lommel: 25 percent of near-death experiencers reported an OBE'
   source: Surviving Death
   location: ch18:10353-10391
   claim_id: dc4e775c-e29f-4b0f-95e6-189f5516f598
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dc4e775c-e29f-4b0f-95e6-189f5516f598
+  copyright_status: restricted
 - text: Van Lommel regarded Maria's case as the strongest evidence for consciousness
     apart from the body
   source: Surviving Death
@@ -605,6 +636,7 @@ references:
   claim_id: 63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
+  copyright_status: restricted
 - text: 'Van Lommel: corroborated OBEs suggest consciousness need not coincide with
     brain function'
   source: Surviving Death
@@ -612,12 +644,14 @@ references:
   claim_id: 66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
+  copyright_status: restricted
 - text: 'Holden''s report: 8 percent minor errors, 2 percent false, in about 100 OBEs'
   source: Surviving Death
   location: ch18:16399-16452
   claim_id: dee0a6a9-3e6d-4cd8-a839-0af59f753ea4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dee0a6a9-3e6d-4cd8-a839-0af59f753ea4
+  copyright_status: restricted
 - text: Gateway training used Hemi-Sync audio technology to facilitate OBEs
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:36:11.2-00:36:24.1
@@ -627,6 +661,7 @@ references:
   claim_id: c844a2b8-00b8-4682-936e-45c3de115f3b
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-c844a2b8-00b8-4682-936e-45c3de115f3b
+  copyright_status: publicly_accessible
 - text: Graham Nichols is a leading figure in the study of OBEs
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:05:56.5-00:05:59.3
@@ -635,6 +670,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
+  copyright_status: publicly_accessible
 - text: Nichols developed the G Technique
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:48.0-00:06:55.4
@@ -643,6 +679,7 @@ references:
   claim_id: be161c2d-d5c4-4dc3-bb84-6f198e2dd846
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-be161c2d-d5c4-4dc3-bb84-6f198e2dd846
+  copyright_status: publicly_accessible
 - text: Nichols entered a deep state and an OBE while demonstrating the technique,
     1999
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -653,6 +690,7 @@ references:
   claim_id: ebef2ccd-66fa-4de7-9cfc-15f9a5b28a93
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-ebef2ccd-66fa-4de7-9cfc-15f9a5b28a93
+  copyright_status: publicly_accessible
 - text: Nichols witnessed an explosion that occurred five days later
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:06:19.0-00:06:31.4
@@ -663,6 +701,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
+  copyright_status: publicly_accessible
 - text: Framed as an unusually strong remote-viewing session resulting in an OBE
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:15:52.7-00:16:02.2
@@ -672,6 +711,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-92a54f95-936a-470b-8a83-bffbb99d637f
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-92a54f95-936a-470b-8a83-bffbb99d637f
+  copyright_status: publicly_accessible
 - text: Nichols felt physical pressure strike his chest after witnessing the explosion
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:08:31.9-00:08:53.7
@@ -683,6 +723,7 @@ references:
   claim_id: 2be32a30-ad9b-4051-8f30-5d2dc17efa80
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-2be32a30-ad9b-4051-8f30-5d2dc17efa80
+  copyright_status: publicly_accessible
 - text: Delis's OBE occurred on a red-eye flight after a 40-mile ultramarathon
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:30:05.9-00:30:16.3
@@ -692,6 +733,7 @@ references:
   claim_id: 1ab05995-60c5-41df-8afa-91b8848632f4
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-1ab05995-60c5-41df-8afa-91b8848632f4
+  copyright_status: publicly_accessible
 - text: Delis confirmed his eyes were physically closed while seeing clearly
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:02:44-00:02:53
@@ -701,6 +743,7 @@ references:
   claim_id: 5556f27f-8fc1-4a73-a2fe-e2e4e06a9a40
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-5556f27f-8fc1-4a73-a2fe-e2e4e06a9a40
+  copyright_status: publicly_accessible
 - text: Nichols and Delis had OBEs about a week apart after the Gateway Experience
     program
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -710,6 +753,7 @@ references:
   claim_id: 9a7b224d-1ec1-4997-94fa-9714038037e7
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9a7b224d-1ec1-4997-94fa-9714038037e7
+  copyright_status: publicly_accessible
 - text: Ramsay's first OBEs happened at home, not at the Monroe Institute
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -719,6 +763,7 @@ references:
   claim_id: ce74fe32-8a20-4699-99d9-97af5cb78cb8
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ce74fe32-8a20-4699-99d9-97af5cb78cb8
+  copyright_status: publicly_accessible
 - text: Ramsay had never heard of OBEs before his first one
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -727,6 +772,7 @@ references:
   claim_id: dd9d09a8-4607-4502-a128-89fcc0c2f8e3
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-dd9d09a8-4607-4502-a128-89fcc0c2f8e3
+  copyright_status: publicly_accessible
 - text: Ramsay considered his OBE state objectively different from a lucid dream
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -736,6 +782,7 @@ references:
   claim_id: 69dbd269-a71e-49e5-a62b-80eeb756b28f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-69dbd269-a71e-49e5-a62b-80eeb756b28f
+  copyright_status: publicly_accessible
 - text: 'Mossbridge: deliberately inducing OBEs unsafe if not done well'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -746,6 +793,7 @@ references:
   claim_id: e6448808-5bcd-4e9f-8dc8-e7fcc15886ad
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-e6448808-5bcd-4e9f-8dc8-e7fcc15886ad
+  copyright_status: publicly_accessible
 - text: Ramsay's understanding of the GATE program's goal, per Jordan Jozak
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -757,6 +805,7 @@ references:
   claim_id: 224e1c21-355c-4182-b44e-789f228c92bb
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-224e1c21-355c-4182-b44e-789f228c92bb
+  copyright_status: publicly_accessible
 - text: 'Mossbridge: veridical information doesn''t prove leaving the body'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -768,6 +817,7 @@ references:
   claim_id: 0a1eb87a-dc41-4e12-a27f-cf5870077ec1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0a1eb87a-dc41-4e12-a27f-cf5870077ec1
+  copyright_status: publicly_accessible
 - text: 'Mossbridge: possibly wandering within the brain''s own construction'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -779,6 +829,7 @@ references:
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
   inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
+  copyright_status: publicly_accessible
 - text: Ramsay raises bilocation as an alternative explanation
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -788,6 +839,7 @@ references:
   claim_id: 30c135bf-fc50-4ea8-9bae-ba0bdcb77bdf
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-30c135bf-fc50-4ea8-9bae-ba0bdcb77bdf
+  copyright_status: publicly_accessible
 - text: Strieber taken out of his body by the visitors
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -796,6 +848,7 @@ references:
   claim_id: cde0c0ce-78de-4dd0-9d6a-1bb59c02b949
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cde0c0ce-78de-4dd0-9d6a-1bb59c02b949
+  copyright_status: publicly_accessible
 - text: People suggested to Strieber his experience while writing Communion may have
     been an OBE
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -806,6 +859,7 @@ references:
   claim_id: cebff2bd-113a-46b5-84a0-5fbcb85e3984
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-cebff2bd-113a-46b5-84a0-5fbcb85e3984
+  copyright_status: publicly_accessible
 - text: Strieber moved through his bedroom and out through the wall and window
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -816,6 +870,7 @@ references:
   claim_id: db53b8f4-80aa-4743-a4b3-b27c2007f5d3
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-db53b8f4-80aa-4743-a4b3-b27c2007f5d3
+  copyright_status: publicly_accessible
 - text: Strieber gliding in his mother's office in the family house in San Antonio
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -825,6 +880,7 @@ references:
   claim_id: 53995f67-dacf-48db-b984-874f052b35b0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-53995f67-dacf-48db-b984-874f052b35b0
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

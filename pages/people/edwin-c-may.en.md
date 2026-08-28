@@ -50,6 +50,7 @@ references:
   claim_id: 28a9a275-a5a5-4b56-8eb3-80867756a320
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28a9a275-a5a5-4b56-8eb3-80867756a320
+  copyright_status: restricted
 - text: May and colleagues were responsible for the laboratory's accomplishments from
     1986 until Project STARGATE was terminated in November 1995
   source: Remote Viewing Secrets
@@ -57,6 +58,7 @@ references:
   claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-42a1e688-629a-4f67-b440-b62ef6ac89c5
+  copyright_status: restricted
 - text: May was a director of the Stargate Project
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 334
@@ -64,6 +66,7 @@ references:
   claim_id: 562322e5-80c5-4603-bf88-3b49bc1013a7
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-562322e5-80c5-4603-bf88-3b49bc1013a7
+  copyright_status: publicly_accessible
 - text: 'McMoneagle: in his Put to the Test interview, May noted a near-perfect match
     between some of McMoneagle''s drawings and the target'
   source: Remote Viewing Secrets
@@ -71,6 +74,7 @@ references:
   claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
+  copyright_status: restricted
 - text: 'McMoneagle: May''s statements in the interview reflected a 60-65% target
     hit rate for McMoneagle''s remote viewing'
   source: Remote Viewing Secrets
@@ -78,6 +82,7 @@ references:
   claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
+  copyright_status: restricted
 - text: 'McMoneagle: May said he provides spectacular detail about 20% of the time,
     calling it as close to a miracle as scientists can get'
   source: Remote Viewing Secrets
@@ -85,6 +90,7 @@ references:
   claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
+  copyright_status: restricted
 - text: 'McMoneagle: that 20% comment specifically referred to near-perfect drawings,
     which rarely happen in remote viewing'
   source: Remote Viewing Secrets
@@ -92,6 +98,7 @@ references:
   claim_id: c88a627d-d64d-4666-a56a-8f7b49de3d87
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c88a627d-d64d-4666-a56a-8f7b49de3d87
+  copyright_status: restricted
 - text: 'McMoneagle: out-of-context editing of May''s ABC Special interview caused
     a strongly negative reaction among other remote viewers, which he considered unfair
     to both'
@@ -100,6 +107,7 @@ references:
   claim_id: 7f9ad841-47dc-4448-81cb-30c3d542ef53
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7f9ad841-47dc-4448-81cb-30c3d542ef53
+  copyright_status: restricted
 - text: 'Mossbridge: May frequently discusses precognitive remote viewing, with a
     large effect size among gifted viewers'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -110,6 +118,7 @@ references:
   claim_id: 3d446bac-f938-49f3-9f4d-452adb7304de
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-3d446bac-f938-49f3-9f4d-452adb7304de
+  copyright_status: publicly_accessible
 - text: 'Documentary account: in May and McMoneagle''s research, higher entropy and
     greater risk to human life made a target clearer to the viewer'
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -121,6 +130,7 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-24deef41-5e81-4025-a33e-64f0480100c7
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-24deef41-5e81-4025-a33e-64f0480100c7
+  copyright_status: publicly_accessible
 - text: Ramsay expects May would attribute the strongest remote-viewing signal to
     physical contrast, via high target entropy
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -131,6 +141,7 @@ references:
   claim_id: 46f2cd91-606e-4c25-9071-71bdc6885ec7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-46f2cd91-606e-4c25-9071-71bdc6885ec7
+  copyright_status: publicly_accessible
 - text: 'Ramsay: session described by McMoneagle and May using ping-pong balls for
     a Ganzfeld effect to induce an out-of-body state before McMoneagle viewed a picture
     in a sealed envelope'
@@ -147,6 +158,7 @@ references:
   claim_id: ad38163b-07ff-442a-8548-1f64f720686a
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ad38163b-07ff-442a-8548-1f64f720686a
+  copyright_status: publicly_accessible
 - text: 'Mossbridge: a story, believed heard from May or possibly McMoneagle, that
     Russians told Americans ''you killed all your psychics'', referring to Pat Price'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -158,6 +170,7 @@ references:
   claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-baef5e12-eeda-4d54-a79f-54a60695c2fb
+  copyright_status: publicly_accessible
 - text: Jesse Michels suggested May may also have been part of the Lone Stars group
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:02:40.1-02:02:41.4
@@ -165,6 +178,7 @@ references:
   claim_id: f5044396-108e-4dbc-b0d9-0faade075a4a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f5044396-108e-4dbc-b0d9-0faade075a4a
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

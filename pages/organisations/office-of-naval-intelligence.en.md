@@ -44,12 +44,14 @@ references:
   claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddab5ae8-7296-41f6-86dc-4278233fe0f3
+  copyright_status: restricted
 - text: A 1940 memo indicates Parsons' occult activities drew FBI and ONI scrutiny
   source: Dark Mission
   location: ch5:20181-20378
   claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da5e1265-1c04-4fad-8bc8-f328d3811c89
+  copyright_status: restricted
 - text: An FBI memo indicates ONI had an informant inside the OTO/Federation of American
     Scientists group
   source: Dark Mission
@@ -57,6 +59,7 @@ references:
   claim_id: a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
+  copyright_status: restricted
 - text: Hoagland considers it plausible Hubbard was an ONI informant sent to infiltrate
     the OTO/FAS
   source: Dark Mission
@@ -64,6 +67,7 @@ references:
   claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-630b43e8-dd36-4538-8c53-5db1a973caa7
+  copyright_status: restricted
 - text: Talman and Friend met with CIA and ONI representatives to review the case
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -71,24 +75,28 @@ references:
   claim_id: ff816bfd-add8-439e-819d-46ed876652b5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ff816bfd-add8-439e-819d-46ed876652b5
+  copyright_status: restricted
 - text: Christian Lambright filed a FOIA request with ONI over the Nimitz encounter
   source: In Plain Sight
   location: ch22:19078-19280
   claim_id: 9303c476-64f9-4867-8047-a925e45064f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
+  copyright_status: restricted
 - text: Chierici's account confirmed ONI investigated the Nimitz encounter
   source: In Plain Sight
   location: ch22:19525-19603
   claim_id: 2c17b620-697b-4571-84f4-995bee4388f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c17b620-697b-4571-84f4-995bee4388f7
+  copyright_status: restricted
 - text: ONI admitted holding Top Secret records and a Secret video on the Nimitz incident
   source: In Plain Sight
   location: ch34:48917-49107
   claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
+  copyright_status: restricted
 - text: Senators received a classified Pentagon briefing, including ONI, on UAV sightings
     in 2019
   source: In Plain Sight
@@ -96,6 +104,7 @@ references:
   claim_id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
+  copyright_status: restricted
 - text: Mellon was an unpaid ONI consultant in 2017 after retiring from the Pentagon
     and Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -103,12 +112,14 @@ references:
   claim_id: 133a35c0-c743-4489-a717-4db5420c0bfd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-133a35c0-c743-4489-a717-4db5420c0bfd
+  copyright_status: restricted
 - text: Stratton's 32-year military career culminated at ONI
   source: In Plain Sight
   location: ch30:12162-12350
   claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
+  copyright_status: restricted
 - text: Grusch testified that the CIA, ONI and FFRDCs analysed recovered UAP material
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:06:53.9-00:07:02.9
@@ -118,6 +129,7 @@ references:
   claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-63a078d6-f871-4426-b241-45238c93ff2e
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

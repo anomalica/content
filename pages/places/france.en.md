@@ -78,6 +78,7 @@ references:
   claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
+  copyright_status: restricted
 - text: In 1964, Jacques Vallée established that UFO landings tended to occur in desolate
     places, a fact first apparent in the computer analysis of French cases
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -86,6 +87,7 @@ references:
   claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
+  copyright_status: restricted
 - text: A 1966 rumour about the Air Force seeking a negative report was taken seriously
     enough in Paris to prevent the creation of a French investigation committee similar
     to the American one
@@ -95,6 +97,7 @@ references:
   claim_id: 9afa7506-013b-4e78-8dd4-e16e73c1c405
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9afa7506-013b-4e78-8dd4-e16e73c1c405
+  copyright_status: restricted
 - text: When the USAF released the negative conclusions of the Condon Committee, French
     scientists and military personnel who had quietly accumulated their own UFO data
     were not convinced
@@ -104,6 +107,7 @@ references:
   claim_id: 1fd62255-1043-4ad5-a471-6aa0f6cb9b40
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1fd62255-1043-4ad5-a471-6aa0f6cb9b40
+  copyright_status: restricted
 - text: Some French military and technical experts had joined UFO research groups
     in Paris, while others in high positions at the French Space Agency worked alone
     and secretly on the subject
@@ -113,6 +117,7 @@ references:
   claim_id: 5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
+  copyright_status: restricted
 - text: French scientists heard of the UMMO documents through private channels, obtained
     copies, and had them translated with care
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -121,6 +126,7 @@ references:
   claim_id: 0659468a-0a26-4ed3-b30a-4c5aeb975de3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0659468a-0a26-4ed3-b30a-4c5aeb975de3
+  copyright_status: restricted
 - text: French scientists reacted to manoeuvrable, 'impossible' tracked objects by
     seeking to suppress their manifestation rather than investigating whether they
     represented advanced technology
@@ -130,6 +136,7 @@ references:
   claim_id: 62d509fc-ded2-43b8-8942-664a878daa1b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-62d509fc-ded2-43b8-8942-664a878daa1b
+  copyright_status: restricted
 - text: French scientists suppressed observations of unexplained aerial objects by
     denying them, blaming airplanes even against unassailable documentation, and destroying
     data when no airplane could explain the behaviour
@@ -139,6 +146,7 @@ references:
   claim_id: 835516c4-43fe-4a9f-a923-cdcf1c2cd841
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-835516c4-43fe-4a9f-a923-cdcf1c2cd841
+  copyright_status: restricted
 - text: The Case of Dr. X involved a medical doctor holding an important official
     position in southern France, one of the most thoroughly investigated accounts
     of interaction between human percipients and the UFO phenomenon
@@ -149,6 +157,7 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
   inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
+  copyright_status: restricted
 - text: The Project Blue Book files at Northwestern University were augmented by UFO
     sighting data Jacques Vallée brought from Europe when he emigrated from France
     in 1962
@@ -158,6 +167,7 @@ references:
   claim_id: e515c217-e772-41af-a087-618c730738ad
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e515c217-e772-41af-a087-618c730738ad
+  copyright_status: restricted
 - text: Some of the military officers on the COMETA panel were serving with the French
     Institute of Higher Studies for National Defense, a government-financed strategic
     planning agency
@@ -166,6 +176,7 @@ references:
   claim_id: 74a89855-207d-47dd-bbd0-7f25b6f72468
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-74a89855-207d-47dd-bbd0-7f25b6f72468
+  copyright_status: restricted
 - text: The COMETA Report was not a government-sanctioned study but was undertaken
     independently and then presented to the highest levels of government in France
   source: Surviving Death
@@ -173,6 +184,7 @@ references:
   claim_id: a50588e9-a273-4029-b454-a15e913749cf
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a50588e9-a273-4029-b454-a15e913749cf
+  copyright_status: restricted
 - text: The COMETA Report's authors were thirteen retired generals, scientists, and
     space experts working independently of the French government
   source: Surviving Death
@@ -180,6 +192,7 @@ references:
   claim_id: 888148f3-471b-4d4d-9199-28bdd5eda954
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-888148f3-471b-4d4d-9199-28bdd5eda954
+  copyright_status: restricted
 - text: The COMETA Report's authors recommended that France establish sectorial cooperation
     agreements with interested European and foreign countries on the matter of UFOs
   source: Surviving Death
@@ -187,6 +200,7 @@ references:
   claim_id: 7f592be4-1f00-43d2-aad7-e259fc22c489
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f592be4-1f00-43d2-aad7-e259fc22c489
+  copyright_status: restricted
 - text: Great Britain and France declared war on Germany after Hitler ignored their
     ultimatum, officially beginning the Second World War
   source: The Fatima Secret
@@ -194,6 +208,7 @@ references:
   claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
+  copyright_status: restricted
 - text: Great Britain and France sent Hitler an ultimatum demanding the end of all
     military action by 1939-09-03
   source: The Fatima Secret
@@ -201,6 +216,7 @@ references:
   claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cb006f68-f2cb-45d0-8457-c6099d512b12
+  copyright_status: restricted
 - text: At the outbreak of World War I, Germany marched against France, causing Britain
     to declare war on the German Reich
   source: The Fatima Secret
@@ -208,6 +224,7 @@ references:
   claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98a67d15-1f49-4a99-ab63-50eb78109af1
+  copyright_status: restricted
 - text: Police traced Mehmet Ali Ağca's travels through Germany, East Germany, Hungary,
     Bulgaria, France, Spain, Switzerland, and finally Italy before the assassination
     attempt on John Paul II
@@ -216,12 +233,14 @@ references:
   claim_id: 223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
+  copyright_status: restricted
 - text: Marcel Clément is a French professor of philosophy
   source: The Fatima Secret
   location: ch19:21326-21381
   claim_id: ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
+  copyright_status: restricted
 - text: Catholic priests at the end of the nineteenth century discouraged many French
     families from experimenting with tables that tipped and tapped uncanny messages
     from Beyond
@@ -231,12 +250,14 @@ references:
   claim_id: 4ecf3920-55bf-4e91-bcba-190f2c727bfc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ecf3920-55bf-4e91-bcba-190f2c727bfc
+  copyright_status: restricted
 - text: According to official documents, George Draper died in France on 1916-07-16
   source: Surviving Death
   location: ch27:1668-1731
   claim_id: 17dd33fd-3239-47dc-b657-6412dcef7671
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17dd33fd-3239-47dc-b657-6412dcef7671
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

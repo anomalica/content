@@ -25,6 +25,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-52c6c0ee-6e52-4403-a3fb-3894774110db
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-52c6c0ee-6e52-4403-a3fb-3894774110db
+  copyright_status: restricted
 - text: Peter Khoury said the hair was collected in Sydney in July 1992 after an encounter
     with two almost-human females.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -34,6 +35,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-80a2b931-cc5d-4579-848f-793568eab403
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-80a2b931-cc5d-4579-848f-793568eab403
+  copyright_status: restricted
 - text: A standard forensic investigation was conducted on the hair shaft and control
     samples from Peter and Vivian Khoury.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -43,6 +45,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25d4fae9-d10f-4153-92fa-4916c1cc4c66
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-25d4fae9-d10f-4153-92fa-4916c1cc4c66
+  copyright_status: restricted
 - text: The analysis targeted mitochondrial hypervariable region I, spanning nucleotides
     16,000 to 16,400.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -52,6 +55,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-10c4b977-5e51-45c9-b277-7a36c3a2ebc9
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-10c4b977-5e51-45c9-b277-7a36c3a2ebc9
+  copyright_status: restricted
 - text: A two-centimetre section of shaft above the root was excised for extraction.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:5227-5433
@@ -60,6 +64,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-078d2a3f-ed0d-452b-a5fe-8ac03041b6ed
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-078d2a3f-ed0d-452b-a5fe-8ac03041b6ed
+  copyright_status: restricted
 - text: Microscopy distinguished the thin, nearly clear sample from Peter Khoury's
     black hair and Vivian Khoury's brown hair.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -69,6 +74,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-aa5d4526-b5da-4b63-b789-b4d007141b55
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-aa5d4526-b5da-4b63-b789-b4d007141b55
+  copyright_status: restricted
 - text: The blond-hair clones showed five consistent substitutions relative to the
     human consensus.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -78,6 +84,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ec385875-b02b-47aa-bf85-2ba21d689557
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-ec385875-b02b-47aa-bf85-2ba21d689557
+  copyright_status: restricted
 - text: The rare substitution pattern was found in four people described as having
     Mongoloid Chinese ancestry and dark hair.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -87,6 +94,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-44af78b3-5f92-44bf-ab8c-b7d726eac5df
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-44af78b3-5f92-44bf-ab8c-b7d726eac5df
+  copyright_status: restricted
 - text: The Anomaly Physical Evidence Group concluded that the DNA ruled out a fair-skinned,
     nearly albino Sydney woman as the source.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -96,6 +104,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8cc0750e-d29a-446d-9219-b1a1d48f1194
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-8cc0750e-d29a-446d-9219-b1a1d48f1194
+  copyright_status: restricted
 - text: The root and shaft appeared to contain different mitochondrial DNA types.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:15829-15954
@@ -104,6 +113,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e9feefca-5f03-47c3-99b7-b9028f33e798
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-e9feefca-5f03-47c3-99b7-b9028f33e798
+  copyright_status: restricted
 - text: The biochemists reported having no explanation for the two mitochondrial DNA
     types.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -113,6 +123,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d520cc91-e84d-464c-8db2-70f45b26f22a
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-d520cc91-e84d-464c-8db2-70f45b26f22a
+  copyright_status: restricted
 - text: The sample's poor condition limited the genetic analysis.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:40463-40610
@@ -121,6 +132,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4cfb6819-7ede-410e-8faf-f57fa5436608
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-4cfb6819-7ede-410e-8faf-f57fa5436608
+  copyright_status: restricted
 - text: The book discusses contamination and error as important concerns in increasingly
     sensitive DNA testing.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -130,6 +142,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-477c049b-1bfe-4750-8bf1-b72f0e86bc5b
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-477c049b-1bfe-4750-8bf1-b72f0e86bc5b
+  copyright_status: restricted
 - text: Bill Chalker argues that more legitimate samples would be needed to validate
     unusual DNA findings.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -139,6 +152,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
+  copyright_status: restricted
 - text: Bill Chalker describes the DNA findings as subject to continuing review and
     debate.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -148,6 +162,7 @@ references:
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
   inspection_url: /records/2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
+  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -417,48 +417,56 @@ references:
   claim_id: 3a90b9d8-b978-4599-81fb-ee54ef340ce1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3a90b9d8-b978-4599-81fb-ee54ef340ce1
+  copyright_status: restricted
 - text: Interest in physical mediumship began in 1968 aged twenty-two
   source: Surviving Death
   location: ch38:1398-1440
   claim_id: 6740b329-1a33-46de-ad70-1b51822aeb2a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6740b329-1a33-46de-ad70-1b51822aeb2a
+  copyright_status: restricted
 - text: Lived as a part-time medium, running a business and raising two children
   source: Surviving Death
   location: ch38:5670-5843
   claim_id: 17625289-0e02-4251-8ee1-3ee85555fd67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17625289-0e02-4251-8ee1-3ee85555fd67
+  copyright_status: restricted
 - text: Spends time with his two grandchildren
   source: Surviving Death
   location: ch38:5853-5911
   claim_id: 2707dfa3-7a28-4305-96a2-c67b6f7188c4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2707dfa3-7a28-4305-96a2-c67b6f7188c4
+  copyright_status: restricted
 - text: Sons unaware of his mediumship until given his 2010 book
   source: Surviving Death
   location: ch38:5926-6121
   claim_id: fbea1999-10c8-4bb1-9785-18340e13e678
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fbea1999-10c8-4bb1-9785-18340e13e678
+  copyright_status: restricted
 - text: Remains a private person despite publishing his memoir
   source: Surviving Death
   location: ch38:7447-7560
   claim_id: 31a1cde7-b9cf-4ae5-ae93-07120e3c4024
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-31a1cde7-b9cf-4ae5-ae93-07120e3c4024
+  copyright_status: restricted
 - text: Worked as a design engineer at an international engineering company
   source: Surviving Death
   location: ch39:3076-3215
   claim_id: 8aeb2a9e-023e-476a-833a-78a8fbf23a00
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8aeb2a9e-023e-476a-833a-78a8fbf23a00
+  copyright_status: restricted
 - text: Did not seek to become a medium, only to help create conditions for phenomena
   source: Surviving Death
   location: ch38:1901-2032
   claim_id: e8659893-9e55-4ec5-8be1-10bde623fc90
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e8659893-9e55-4ec5-8be1-10bde623fc90
+  copyright_status: restricted
 - text: First experienced White Feather at a sitting with only his brother and sister-in-law,
     after months without phenomena
   source: Surviving Death
@@ -466,6 +474,7 @@ references:
   claim_id: 7564b6b3-bc3d-43d3-afa4-de5a46b49472
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7564b6b3-bc3d-43d3-afa4-de5a46b49472
+  copyright_status: restricted
 - text: Entranced without warning by White Feather, who became his principal spirit
     guide
   source: Surviving Death
@@ -473,6 +482,7 @@ references:
   claim_id: 1a0cbbbd-1ef0-4303-bb37-d5a65e44f3dc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a0cbbbd-1ef0-4303-bb37-d5a65e44f3dc
+  copyright_status: restricted
 - text: White Feather was his longtime spirit guide and first control to make himself
     known
   source: Surviving Death
@@ -480,6 +490,7 @@ references:
   claim_id: 9db498d2-5fcb-48dd-9563-734814630310
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9db498d2-5fcb-48dd-9563-734814630310
+  copyright_status: restricted
 - text: Felt his body twitch and something enter him when the red light was switched
     off
   source: Surviving Death
@@ -487,24 +498,28 @@ references:
   claim_id: 124e793c-a703-46d7-8feb-6907ba187ccc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-124e793c-a703-46d7-8feb-6907ba187ccc
+  copyright_status: restricted
 - text: Heard himself speak the words 'I come, speak, brother, sister'
   source: Surviving Death
   location: ch39:2578-2654
   claim_id: 46c81f0b-ab09-49fc-8419-3f852ea75757
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-46c81f0b-ab09-49fc-8419-3f852ea75757
+  copyright_status: restricted
 - text: His left hand becomes almost deformed when controlled by White Feather
   source: Surviving Death
   location: ch39:3677-3879
   claim_id: 4883e8ff-4cf8-467e-8f1f-72ee092aa550
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4883e8ff-4cf8-467e-8f1f-72ee092aa550
+  copyright_status: restricted
 - text: White Feather developed the ability to speak through him in trance over months
   source: Surviving Death
   location: ch38:2196-2305
   claim_id: 2ba1a0da-fb71-45b9-aedf-3b3bb9ffd303
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2ba1a0da-fb71-45b9-aedf-3b3bb9ffd303
+  copyright_status: restricted
 - text: It took over ten years for White Feather to speak independently through a
     levitated trumpet
   source: Surviving Death
@@ -512,24 +527,28 @@ references:
   claim_id: ec0ff687-0877-4114-835e-1ed518c11239
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ec0ff687-0877-4114-835e-1ed518c11239
+  copyright_status: restricted
 - text: Christopher arrived, saying he had died as a young boy
   source: Surviving Death
   location: ch38:2865-3029
   claim_id: 81b6807f-8079-47fd-93e4-5b60353aae9a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-81b6807f-8079-47fd-93e4-5b60353aae9a
+  copyright_status: restricted
 - text: Christopher's job is relaxing sitters and making them laugh
   source: Surviving Death
   location: ch38:4871-4954
   claim_id: 847aef23-d6e8-4020-8182-4cb7cc92968f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-847aef23-d6e8-4020-8182-4cb7cc92968f
+  copyright_status: restricted
 - text: Walter Stinson joined the spirit team in 1992 to develop the physical phenomena
   source: Surviving Death
   location: ch38:4348-4455
   claim_id: 8a813953-45cb-4af1-a010-13ecf1c3379b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8a813953-45cb-4af1-a010-13ecf1c3379b
+  copyright_status: restricted
 - text: Walter Stinson had worked with his sister Margery Crandon and intended to
     continue through Stewart Alexander
   source: Surviving Death
@@ -537,12 +556,14 @@ references:
   claim_id: ade066fc-cf42-4c1b-b225-b6e99aae7510
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ade066fc-cf42-4c1b-b225-b6e99aae7510
+  copyright_status: restricted
 - text: Freda completed the spirit team in 1996
   source: Surviving Death
   location: ch38:4748-4865
   claim_id: 8efc947b-5f85-4050-a833-30f8122fe231
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8efc947b-5f85-4050-a833-30f8122fe231
+  copyright_status: restricted
 - text: Dr. Barnett has served as a physical healer and materialised fully during
     séances
   source: Surviving Death
@@ -550,48 +571,56 @@ references:
   claim_id: 969ea61b-7241-4bbd-b992-7669b76c696e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-969ea61b-7241-4bbd-b992-7669b76c696e
+  copyright_status: restricted
 - text: Describes his spirit team as close friends who took part in weekly sittings
   source: Surviving Death
   location: ch39:8507-8680
   claim_id: 13000a6d-33d3-432f-97ed-af2cb7ec33ba
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13000a6d-33d3-432f-97ed-af2cb7ec33ba
+  copyright_status: restricted
 - text: Current home circle formed in 1988
   source: Surviving Death
   location: ch38:3354-3397
   claim_id: a45831e3-82df-478c-bca0-17c7ff1cbf77
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a45831e3-82df-478c-bca0-17c7ff1cbf77
+  copyright_status: restricted
 - text: Has sat with the same small group for almost thirty years
   source: Surviving Death
   location: ch38:6496-6589
   claim_id: 8cebc7d5-81ac-40b6-9e52-ad94342c74a6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cebc7d5-81ac-40b6-9e52-ad94342c74a6
+  copyright_status: restricted
 - text: Gave his first public séance in 1992
   source: Surviving Death
   location: ch38:3520-3555
   claim_id: 1f27585f-042f-40d9-a6b2-53a0cb0d5e7b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1f27585f-042f-40d9-a6b2-53a0cb0d5e7b
+  copyright_status: restricted
 - text: Sitters invited to test him in the light at public séances
   source: Surviving Death
   location: ch38:3653-3780
   claim_id: 8ee4ea2e-47e3-458c-b4a2-dea09eedf340
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8ee4ea2e-47e3-458c-b4a2-dea09eedf340
+  copyright_status: restricted
 - text: Manifestations rest on ectoplasm, used to manipulate objects and materialise
   source: Surviving Death
   location: ch39:9350-9529
   claim_id: c2e7fe76-6f7b-4d52-aa29-cf0afbfaa8bc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c2e7fe76-6f7b-4d52-aa29-cf0afbfaa8bc
+  copyright_status: restricted
 - text: Doubts about the voices were relieved after a séance with Leslie Flint
   source: Surviving Death
   location: ch39:4942-5064
   claim_id: 392871a7-7630-4162-9a55-81a478c95d66
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-392871a7-7630-4162-9a55-81a478c95d66
+  copyright_status: restricted
 - text: Leslie Flint was internationally celebrated as one of the finest direct-voice
     mediums
   source: Surviving Death
@@ -599,12 +628,14 @@ references:
   claim_id: 36937fcd-7d2d-42e5-bac6-f201c4bb5150
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-36937fcd-7d2d-42e5-bac6-f201c4bb5150
+  copyright_status: restricted
 - text: Leslie Flint was a stranger who knew nothing of his mediumistic development
   source: Surviving Death
   location: ch39:8037-8231
   claim_id: 7be7fb11-4049-49f5-9164-ecb8f83b97b0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7be7fb11-4049-49f5-9164-ecb8f83b97b0
+  copyright_status: restricted
 - text: His grandmother raised him and his siblings after their parents' marriage
     collapsed
   source: Surviving Death
@@ -612,72 +643,84 @@ references:
   claim_id: 33b4ed0b-8324-419c-9795-29b605f74788
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-33b4ed0b-8324-419c-9795-29b605f74788
+  copyright_status: restricted
 - text: Sat alone with his dying grandmother, holding her hand
   source: Surviving Death
   location: ch39:6332-6488
   claim_id: a1e3b002-874e-4c66-ab17-4c091411297a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a1e3b002-874e-4c66-ab17-4c091411297a
+  copyright_status: restricted
 - text: Grandmother died two or three weeks before the séance
   source: Surviving Death
   location: ch39:6228-6373
   claim_id: bd34172a-b24e-401b-8df7-e42d6c224cf8
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bd34172a-b24e-401b-8df7-e42d6c224cf8
+  copyright_status: restricted
 - text: The voice mentioned the private hospital-bedside moment
   source: Surviving Death
   location: ch39:6494-6647
   claim_id: ab39a083-7e86-404d-864c-17c32c3a27aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ab39a083-7e86-404d-864c-17c32c3a27aa
+  copyright_status: restricted
 - text: Asked White Feather, via Flint, whether he had had a physical deformity
   source: Surviving Death
   location: ch39:7739-7910
   claim_id: 22fbbe32-6115-4dd3-8236-5fb8c508f907
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-22fbbe32-6115-4dd3-8236-5fb8c508f907
+  copyright_status: restricted
 - text: White Feather replied 'Do you mean my left hand?'
   source: Surviving Death
   location: ch39:7921-7965
   claim_id: 70c9bc05-30b0-476b-aaf5-5aeb83069f0a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-70c9bc05-30b0-476b-aaf5-5aeb83069f0a
+  copyright_status: restricted
 - text: Leslie Kean attended two séances in April 2015 and two more in August 2015
   source: Surviving Death
   location: ch38:11560-11648
   claim_id: 75c0390f-62bc-4e4b-95a8-f1d8c0e695dd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-75c0390f-62bc-4e4b-95a8-f1d8c0e695dd
+  copyright_status: restricted
 - text: Secured to his chair with cable ties removable only with a wire cutter
   source: Surviving Death
   location: ch38:13369-13589
   claim_id: f7bf5de1-b2a2-4aea-a934-9fa16398a101
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f7bf5de1-b2a2-4aea-a934-9fa16398a101
+  copyright_status: restricted
 - text: Kean confirmed the ties were locked tightly
   source: Surviving Death
   location: ch38:13699-13807
   claim_id: 17604005-4271-49c2-b211-b7298d2764cf
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17604005-4271-49c2-b211-b7298d2764cf
+  copyright_status: restricted
 - text: Kean felt the locked cable tie holding him to the chair
   source: Surviving Death
   location: ch38:16366-16542
   claim_id: 8e109cf2-c44e-457e-85a0-4d1ec968724e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8e109cf2-c44e-457e-85a0-4d1ec968724e
+  copyright_status: restricted
 - text: His arm suddenly moved upward, carrying Kean's hand, with a snapping sound
   source: Surviving Death
   location: ch38:16661-16884
   claim_id: 16cf232d-458f-4371-8b75-8b202af4cd26
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-16cf232d-458f-4371-8b75-8b202af4cd26
+  copyright_status: restricted
 - text: The cable tie remained locked and unbroken on the chair arm
   source: Surviving Death
   location: ch38:16892-17173
   claim_id: 4123e04a-db91-4bc3-af15-cddd59f816ef
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4123e04a-db91-4bc3-af15-cddd59f816ef
+  copyright_status: restricted
 - text: Walter Stinson passed the closed tie through the solid chair arm and gave
     it to Kean
   source: Surviving Death
@@ -685,30 +728,35 @@ references:
   claim_id: 7798d270-2e66-4687-9a0e-77b30f882581
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7798d270-2e66-4687-9a0e-77b30f882581
+  copyright_status: restricted
 - text: Ectoplasm formed a hand shape and banged three times on the table
   source: Surviving Death
   location: ch38:25804-26213
   claim_id: 80810edc-b24b-476f-bc85-0069f9751c65
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80810edc-b24b-476f-bc85-0069f9751c65
+  copyright_status: restricted
 - text: His arms remained locked to the chair, too far to reach the hand
   source: Surviving Death
   location: ch38:26978-27073
   claim_id: 26203ce2-f3fc-47af-acf6-2621e64213b0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-26203ce2-f3fc-47af-acf6-2621e64213b0
+  copyright_status: restricted
 - text: On 2015-08-20, Kean witnessed the full materialisation of Dr. Barnett
   source: Surviving Death
   location: ch38:30723-30893
   claim_id: f214213c-1eac-4c25-8aad-30c0e585eb7c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f214213c-1eac-4c25-8aad-30c0e585eb7c
+  copyright_status: restricted
 - text: Kean asked to videotape the materialisation of Walter Stinson's hand
   source: Surviving Death
   location: ch39:10448-10667
   claim_id: c609f94a-3a93-4dfb-a0f5-479a644c9e67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c609f94a-3a93-4dfb-a0f5-479a644c9e67
+  copyright_status: restricted
 - text: Stewart Alexander decided against being filmed, fearing turmoil for his life
     and family
   source: Surviving Death
@@ -716,48 +764,56 @@ references:
   claim_id: be4f4e40-ebc2-4a52-b50a-59f20609abd6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-be4f4e40-ebc2-4a52-b50a-59f20609abd6
+  copyright_status: restricted
 - text: Whitley Strieber witnessed the levitation of spirit trumpets
   source: The Fourth Mind
   location: ch22:28923-29046
   claim_id: 208599b4-f106-427e-8fb3-54ec17bef66f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-208599b4-f106-427e-8fb3-54ec17bef66f
+  copyright_status: restricted
 - text: A trumpet rubbed against Strieber's nose
   source: The Fourth Mind
   location: ch22:29057-29241
   claim_id: 399490a3-fa1e-41f8-b40b-e1e8ac7670e9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-399490a3-fa1e-41f8-b40b-e1e8ac7670e9
+  copyright_status: restricted
 - text: Strieber examined the room and trumpet, seeing it in the dim red light
   source: The Fourth Mind
   location: ch22:29250-29397
   claim_id: d95d726c-42a1-4025-a057-62dec2cfb07c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d95d726c-42a1-4025-a057-62dec2cfb07c
+  copyright_status: restricted
 - text: The paper trumpet had no wires and could not be moved by magnets
   source: The Fourth Mind
   location: ch22:29406-29502
   claim_id: 3f831313-e01a-45a2-b90b-2b2a0aa19816
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3f831313-e01a-45a2-b90b-2b2a0aa19816
+  copyright_status: restricted
 - text: Strieber said there was no trickery, since no motive for it
   source: The Fourth Mind
   location: ch22:30081-30166
   claim_id: 5c71ea65-86c4-4a63-bc7b-cebf68a426ca
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5c71ea65-86c4-4a63-bc7b-cebf68a426ca
+  copyright_status: restricted
 - text: A vase of flowers toppled, spilling water onto the carpet
   source: Surviving Death
   location: ch39:18332-18595
   claim_id: 779e103e-20c7-47ee-bae8-956f9ec5a217
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-779e103e-20c7-47ee-bae8-956f9ec5a217
+  copyright_status: restricted
 - text: The carpet was found totally dry
   source: Surviving Death
   location: ch39:18603-18858
   claim_id: f5607170-35de-4976-be43-7d27ee2bf676
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f5607170-35de-4976-be43-7d27ee2bf676
+  copyright_status: restricted
 - text: Reville Mohr flew from Australia with his sister Leone Holdsworth to attend
     a sitting
   source: Surviving Death
@@ -765,36 +821,42 @@ references:
   claim_id: 6ede02aa-3840-4793-926f-83ceb6f1a1ea
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6ede02aa-3840-4793-926f-83ceb6f1a1ea
+  copyright_status: restricted
 - text: Kevin Kussow emailed Stewart Alexander for advice in 2016
   source: Surviving Death
   location: ch38:42264-42315
   claim_id: d222d60d-96ca-4bbd-b48c-0fd39f2ac599
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d222d60d-96ca-4bbd-b48c-0fd39f2ac599
+  copyright_status: restricted
 - text: Had never met Kussow and knew nothing of his home
   source: Surviving Death
   location: ch38:44269-44324
   claim_id: c53c6fcb-8eb6-46e5-b23d-6a3c66c7f938
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c53c6fcb-8eb6-46e5-b23d-6a3c66c7f938
+  copyright_status: restricted
 - text: A woman travelled over 320 kilometres to attend the séance
   source: Surviving Death
   location: ch39:21812-21991
   claim_id: cdb95c1b-1403-4a7f-8de8-0f3f85d2770d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cdb95c1b-1403-4a7f-8de8-0f3f85d2770d
+  copyright_status: restricted
 - text: She came into communication with her deceased partner about two hours in
   source: Surviving Death
   location: ch39:22232-22386
   claim_id: 421c7a82-0f3b-439f-b952-38696792d65d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-421c7a82-0f3b-439f-b952-38696792d65d
+  copyright_status: restricted
 - text: She told him 'Thank you for saving my life'
   source: Surviving Death
   location: ch39:22949-23027
   claim_id: c8b719e7-d8af-44c4-82f9-0a56dc215372
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c8b719e7-d8af-44c4-82f9-0a56dc215372
+  copyright_status: restricted
 - text: Interviewed people who sat with mediums Alec Harris, Minnie Harrison, and
     Helen Duncan
   source: Surviving Death
@@ -802,18 +864,21 @@ references:
   claim_id: 3a8d58fb-dac0-44de-badc-3b202f643e5f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3a8d58fb-dac0-44de-badc-3b202f643e5f
+  copyright_status: restricted
 - text: Kath Matthews was a medium who became his first mentor
   source: Surviving Death
   location: ch39:19426-19528
   claim_id: b9f2eba4-70ba-43ed-95e8-9f7e694f4864
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b9f2eba4-70ba-43ed-95e8-9f7e694f4864
+  copyright_status: restricted
 - text: David Fontana said his career was largely free of doubt-casting attempts
   source: Surviving Death
   location: ch38:11293-11546
   claim_id: ae901b8b-a833-4f93-998f-268291a4e287
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ae901b8b-a833-4f93-998f-268291a4e287
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

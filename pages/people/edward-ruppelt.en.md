@@ -67,12 +67,14 @@ references:
   claim_id: c1b23519-6a5f-46ca-a4f3-c89236f6faf9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c1b23519-6a5f-46ca-a4f3-c89236f6faf9
+  copyright_status: public_domain
 - text: Ruppelt was a USAF officer privy to the Project Sign investigations.
   source: In Plain Sight
   location: ch8:1378-1466
   claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b6c1dde-c122-4963-bdb5-c22d7a45ee96
+  copyright_status: restricted
 - text: Ruppelt said he had seen the classified 1948 Project Sign Estimate of the
     Situation report.
   source: In Plain Sight
@@ -80,12 +82,14 @@ references:
   claim_id: 94b1b41f-8928-43e1-a0d9-a87655ca181a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94b1b41f-8928-43e1-a0d9-a87655ca181a
+  copyright_status: restricted
 - text: Ruppelt said the Estimate of the Situation concluded the craft were extra-terrestrial.
   source: In Plain Sight
   location: ch8:1742-1919
   claim_id: 05cfc5b9-7d76-49c6-99e5-7a607440887c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05cfc5b9-7d76-49c6-99e5-7a607440887c
+  copyright_status: restricted
 - text: Ruppelt said Project SAUCER was the informal name of Project Sign, designated
     high priority.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -96,6 +100,7 @@ references:
   claim_id: fde445ac-828e-47ad-97fc-01db680f2c9a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-fde445ac-828e-47ad-97fc-01db680f2c9a
+  copyright_status: public_domain
 - text: In October 1951, the USAF's UFO mission was reorganised into a new Project
     GRUDGE, led by Ruppelt.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -107,6 +112,7 @@ references:
   claim_id: 22d34974-e75d-4f7e-a9bb-8e6bbfb0ae27
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-22d34974-e75d-4f7e-a9bb-8e6bbfb0ae27
+  copyright_status: public_domain
 - text: Ruppelt sought to correct the mistakes of Project Sign and the former Project
     GRUDGE.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -117,6 +123,7 @@ references:
   claim_id: 6b01fcf7-8c6a-4532-9941-e4e51335c363
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6b01fcf7-8c6a-4532-9941-e4e51335c363
+  copyright_status: public_domain
 - text: Ruppelt's goal was 'no wild speculation' and removing overly pro/con staff.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -127,6 +134,7 @@ references:
   claim_id: c6aa08fb-4ec4-4a3c-a75f-9cc2602f8018
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c6aa08fb-4ec4-4a3c-a75f-9cc2602f8018
+  copyright_status: public_domain
 - text: Ruppelt said there was a widespread view Project GRUDGE was directed to debunk
     sightings.
   source: In Plain Sight
@@ -134,6 +142,7 @@ references:
   claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0249af1f-6fd2-4452-aa20-a78d88b0fd89
+  copyright_status: restricted
 - text: Ruppelt said he fired three staff members from Project GRUDGE.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -142,6 +151,7 @@ references:
   claim_id: 0a459fa8-ac38-42dd-9639-30bac37a07f1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0a459fa8-ac38-42dd-9639-30bac37a07f1
+  copyright_status: public_domain
 - text: Ruppelt sourced scientific expertise via a contract dubbed Project BEAR.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -151,6 +161,7 @@ references:
   claim_id: b3f9ff03-e703-478a-bd76-15bdd7228508
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b3f9ff03-e703-478a-bd76-15bdd7228508
+  copyright_status: public_domain
 - text: Project BEAR was Ruppelt's informal name for a contract with the Battelle
     Memorial Institute providing scientific support.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -162,6 +173,7 @@ references:
   claim_id: f3a9fcc0-a082-4835-91db-93c1c290fce2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f3a9fcc0-a082-4835-91db-93c1c290fce2
+  copyright_status: public_domain
 - text: Ruppelt set a policy intended to foster objectivity.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -170,6 +182,7 @@ references:
   claim_id: 7b8b6201-d91b-4a48-a385-c860e5db7fc1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7b8b6201-d91b-4a48-a385-c860e5db7fc1
+  copyright_status: public_domain
 - text: Ruppelt allowed staff to use an 'unknown' case category, unlike the previous
     GRUDGE.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -181,6 +194,7 @@ references:
   claim_id: 1b9908b4-9f2e-443d-a0e4-097c5b6eefaf
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1b9908b4-9f2e-443d-a0e4-097c5b6eefaf
+  copyright_status: public_domain
 - text: Ruppelt noted sighting concentrations near Los Alamos-Albuquerque, Oak Ridge,
     White Sands, Strategic Air Command sites, ports and industrial sites.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -192,12 +206,14 @@ references:
   claim_id: 8ed631d3-3c5f-42b4-b351-aa6cfbfc25b0
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8ed631d3-3c5f-42b4-b351-aa6cfbfc25b0
+  copyright_status: public_domain
 - text: Ruppelt later headed Project Blue Book's UAP investigations.
   source: In Plain Sight
   location: ch8:1742-1792
   claim_id: 9fea55f0-6b72-4442-8eed-2972223676bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fea55f0-6b72-4442-8eed-2972223676bd
+  copyright_status: restricted
 - text: Ruppelt was the first director of Project Blue Book.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -206,6 +222,7 @@ references:
   claim_id: 461b32a1-467b-4cc6-a4bd-542453d4a483
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
+  copyright_status: public_domain
 - text: Project Blue Book was led by Capt Ruppelt, former director of the reorganised
     Project GRUDGE.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -216,6 +233,7 @@ references:
   claim_id: 53a68d95-b9a7-42f1-959f-3a3920266bcb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-53a68d95-b9a7-42f1-959f-3a3920266bcb
+  copyright_status: public_domain
 - text: Ruppelt wrote he was expected to explain away reports and that the USAF sought
     aligned press stories.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -227,6 +245,7 @@ references:
   claim_id: 3e8086b0-e0e0-4c6a-9376-5a482a7347e1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
+  copyright_status: public_domain
 - text: Ruppelt noted the inability to determine altitude, size and speed was a recurring
     obstacle.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -237,6 +256,7 @@ references:
   claim_id: 38fdfbf1-577c-43dc-944b-d802fe9b12d1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-38fdfbf1-577c-43dc-944b-d802fe9b12d1
+  copyright_status: public_domain
 - text: Ruppelt noted sighting spikes followed official press events mentioning UFOs.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -247,6 +267,7 @@ references:
   claim_id: a6889b9e-a705-459d-af6d-8a27deb1b027
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a6889b9e-a705-459d-af6d-8a27deb1b027
+  copyright_status: public_domain
 - text: Ruppelt said all but a couple of copies of the Estimate of the Situation were
     destroyed.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -257,6 +278,7 @@ references:
   claim_id: 3bfbca1d-c8ed-44e7-b66c-f878aff25fc0
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3bfbca1d-c8ed-44e7-b66c-f878aff25fc0
+  copyright_status: public_domain
 - text: AARO could not verify Ruppelt's claim or locate the Estimate of the Situation
     document.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -266,6 +288,7 @@ references:
   claim_id: 896cabe1-9171-4585-8fbe-9756f4232dd9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-896cabe1-9171-4585-8fbe-9756f4232dd9
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

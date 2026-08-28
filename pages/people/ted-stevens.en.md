@@ -56,6 +56,7 @@ references:
   claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
+  copyright_status: publicly_accessible
 - text: Harry Reid summoned Stevens and Inouye to a secure room in the Capitol
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -65,6 +66,7 @@ references:
   claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e76bde1a-361f-4952-bfc0-0d3533a88374
+  copyright_status: publicly_accessible
 - text: Reid approached Inouye and Stevens to secure $22 million in funding for a
     UAP study
   source: In Plain Sight
@@ -72,6 +74,7 @@ references:
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  copyright_status: restricted
 - text: Stevens had been a pilot in the Army's air force, flying transport missions
     over China during World War II
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -82,6 +85,7 @@ references:
   claim_id: 22fffa7b-fadd-4eb6-afab-a168fbd90680
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-22fffa7b-fadd-4eb6-afab-a168fbd90680
+  copyright_status: publicly_accessible
 - text: Reid said none of the three senators wanted a public debate on the Senate
     floor about the AATIP funding
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -92,6 +96,7 @@ references:
   claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
+  copyright_status: publicly_accessible
 - text: Reid said Stevens recounted being tailed by a strange aircraft with no known
     origin, which followed his plane for miles
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -103,6 +108,7 @@ references:
   claim_id: b040446a-65b7-41a8-8ddc-b570520d014a
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b040446a-65b7-41a8-8ddc-b570520d014a
+  copyright_status: publicly_accessible
 - text: Stevens told Reid he saw a UAP during one wartime flight and that they needed
     to take a look at this
   source: In Plain Sight
@@ -110,6 +116,7 @@ references:
   claim_id: 13b6b030-3af0-4129-abde-bc550afb2172
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13b6b030-3af0-4129-abde-bc550afb2172
+  copyright_status: restricted
 - text: Stevens said he once saw a 'foo fighter' while flying a mission during World
     War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -117,6 +124,7 @@ references:
   claim_id: 1347bdc3-1cde-4240-a44a-699fe86b49d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1347bdc3-1cde-4240-a44a-699fe86b49d7
+  copyright_status: restricted
 - text: 'Reid: ''This was so-called black money. Stevens knows about it, Inouye knows
     about it. But that was it, and that''s how we wanted it'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -128,6 +136,7 @@ references:
   claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+  copyright_status: publicly_accessible
 - text: Stevens served as a pilot in the Army Air Corps, flying US military cargo
     over the Himalayas from India to China
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -135,6 +144,7 @@ references:
   claim_id: e01e6560-d459-4eac-a43d-66ece2280527
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e01e6560-d459-4eac-a43d-66ece2280527
+  copyright_status: restricted
 - text: AAWSAP was supported by DIA director Michael D. Maples and funded through
     the efforts of Reid, Stevens, and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -142,6 +152,7 @@ references:
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
+  copyright_status: restricted
 - text: Reid, Stevens, and Inouye together controlled congressional spending for black-budget
     Pentagon programs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -149,6 +160,7 @@ references:
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  copyright_status: restricted
 - text: Stevens, Reid's other backer for the UAP funding, died in a plane crash two
     years after backing the funding
   source: In Plain Sight
@@ -156,6 +168,7 @@ references:
   claim_id: c5d330e1-1da9-49c9-a185-516ebdb88176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

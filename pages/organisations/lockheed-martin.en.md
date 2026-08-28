@@ -88,6 +88,7 @@ references:
   claim_id: 9e923040-7efd-4899-a55b-c4a85a7e1950
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e923040-7efd-4899-a55b-c4a85a7e1950
+  copyright_status: restricted
 - text: David Fravor described Northrop Grumman, Lockheed Martin, and Boeing as the
     big three US defence companies
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -98,6 +99,7 @@ references:
   claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-43130faf-5eb5-42b4-8861-c28b2737d2a0
+  copyright_status: publicly_accessible
 - text: Jim Goodall befriended Ben Rich, former director of Lockheed Martin's Skunk
     Works, the pseudonym for its Advanced Developments Projects division
   source: In Plain Sight
@@ -105,12 +107,14 @@ references:
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
+  copyright_status: restricted
 - text: The Lockheed Martin F-22 Raptor has a top speed of 2414 kilometres per hour
   source: In Plain Sight
   location: ch13:19351-19443
   claim_id: ffadaac8-8fc4-4c6c-9b29-75693736a30c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ffadaac8-8fc4-4c6c-9b29-75693736a30c
+  copyright_status: restricted
 - text: Lockheed Martin, Boeing, and DARPA developed the RQ-3 Dark Star in the mid-to-late
     1990s
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -121,6 +125,7 @@ references:
   claim_id: b5c87687-4878-4768-b435-084dc902ecea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5c87687-4878-4768-b435-084dc902ecea
+  copyright_status: public_domain
 - text: Lockheed Martin disclosed the existence of the P-175 Polecat at the Farnborough
     Airshow in 2006
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -130,6 +135,7 @@ references:
   claim_id: 817847e5-2bbf-4314-80eb-afe1192cb6c7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-817847e5-2bbf-4314-80eb-afe1192cb6c7
+  copyright_status: public_domain
 - text: Lockheed Martin was one of two aerospace consortiums working on Project Constellation
     proposals in early 2006
   source: Dark Mission
@@ -137,6 +143,7 @@ references:
   claim_id: 7946c65f-7127-49dd-80bc-406dccaa5657
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7946c65f-7127-49dd-80bc-406dccaa5657
+  copyright_status: restricted
 - text: Lockheed Martin's initial CEV proposal failed to meet NASA's Apollo-evolution
     requirement
   source: Dark Mission
@@ -144,6 +151,7 @@ references:
   claim_id: fa8961a6-6df0-4d1f-8f08-c1484a99026f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa8961a6-6df0-4d1f-8f08-c1484a99026f
+  copyright_status: restricted
 - text: In March 2006 NASA told Lockheed Martin to redesign its CEV proposal to resemble
     an Apollo-style capsule
   source: Dark Mission
@@ -151,6 +159,7 @@ references:
   claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35472f81-4786-4edc-a01b-01b1a7f92436
+  copyright_status: restricted
 - text: Lockheed Martin proposed new, unproven avionics while Northrop Grumman emphasised
     existing, proven electronics
   source: Dark Mission
@@ -158,6 +167,7 @@ references:
   claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5036a5ea-d555-42f0-be8f-fa95c1da950a
+  copyright_status: restricted
 - text: Lockheed Martin proposed its Colorado satellite division as prime design centre
     despite never having built a crewed spacecraft
   source: Dark Mission
@@ -165,6 +175,7 @@ references:
   claim_id: 12aea4c9-3670-410b-b3f9-96a4ae202e69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-12aea4c9-3670-410b-b3f9-96a4ae202e69
+  copyright_status: restricted
 - text: When final designs were submitted in May 2006, Northrop Grumman officials
     were confident they had surpassed Lockheed Martin
   source: Dark Mission
@@ -172,6 +183,7 @@ references:
   claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25cd09e2-4179-4144-b7c5-519ca13ee8c2
+  copyright_status: restricted
 - text: Lockheed Martin spent years and nearly a billion dollars on the X-33 without
     producing anything beyond quarter-scale models
   source: Dark Mission
@@ -179,6 +191,7 @@ references:
   claim_id: ec5518f6-0e8f-4291-a5a7-48d82b6f1fda
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ec5518f6-0e8f-4291-a5a7-48d82b6f1fda
+  copyright_status: restricted
 - text: In August 2006 NASA announced Lockheed Martin had been awarded the Orion CEV
     programme
   source: Dark Mission
@@ -186,6 +199,7 @@ references:
   claim_id: 03ddc761-6a26-4804-9b62-2141e7078b58
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-03ddc761-6a26-4804-9b62-2141e7078b58
+  copyright_status: restricted
 - text: NASA's stated reasons were an earlier launch promise and final assembly in
     Florida
   source: Dark Mission
@@ -193,6 +207,7 @@ references:
   claim_id: 5a0a7403-bcb8-42e9-a406-6604c857eab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a0a7403-bcb8-42e9-a406-6604c857eab6
+  copyright_status: restricted
 - text: NASA cited Orion's circular, rather than rectangular, solar panels as a technical
     factor
   source: Dark Mission
@@ -200,6 +215,7 @@ references:
   claim_id: e7f836da-6554-497d-8740-c0294a9101da
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7f836da-6554-497d-8740-c0294a9101da
+  copyright_status: restricted
 - text: The final Orion decision was made personally by NASA Administrator Mike Griffin,
     not a review committee
   source: Dark Mission
@@ -207,6 +223,7 @@ references:
   claim_id: 7b3a0465-3052-4e25-a12e-15c4bb46f759
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b3a0465-3052-4e25-a12e-15c4bb46f759
+  copyright_status: restricted
 - text: Richard C. Hoagland said he had predicted for weeks that Lockheed Martin would
     win the Orion contract
   source: Dark Mission
@@ -214,6 +231,7 @@ references:
   claim_id: 1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
+  copyright_status: restricted
 - text: Hoagland said the circular solar panels eerily resembled the belt stars of
     the constellation Orion
   source: Dark Mission
@@ -221,6 +239,7 @@ references:
   claim_id: 3a0ba265-8f35-4921-bd63-68288128ea8c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a0ba265-8f35-4921-bd63-68288128ea8c
+  copyright_status: restricted
 - text: Keoki Jackson is Lockheed Martin's chief technology officer
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -229,6 +248,7 @@ references:
   claim_id: daa5401f-95e5-42c1-b512-4bd764b87a87
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-daa5401f-95e5-42c1-b512-4bd764b87a87
+  copyright_status: publicly_accessible
 - text: David Fravor spoke with Keoki Jackson about Lockheed Skunk Works
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -237,6 +257,7 @@ references:
   claim_id: e7402742-b40c-42a0-858c-a2b62a199439
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7402742-b40c-42a0-858c-a2b62a199439
+  copyright_status: publicly_accessible
 - text: Christopher Mellon said colleagues at Lockheed Martin and Skunk Works stated
     privately that a TR3B craft, if real, is not built by Lockheed Martin
   source: In Plain Sight
@@ -244,6 +265,7 @@ references:
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
+  copyright_status: restricted
 - text: Lockheed Martin stated Tom DeLonge sought a documentary collaboration with
     Skunk Works, which it declined to join
   source: In Plain Sight
@@ -251,6 +273,7 @@ references:
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
+  copyright_status: restricted
 - text: Leaked Podesta emails described a planned Google Hangout with DeLonge, two
     Air Force generals, and Skunk Works' Rob Weiss
   source: In Plain Sight
@@ -258,6 +281,7 @@ references:
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
+  copyright_status: restricted
 - text: Jason Samosa said Jacques Vallée validated an account of DeLonge contacting
     a Skunk Works employee
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -267,6 +291,7 @@ references:
   claim_id: 48b14caa-b7f7-44b6-9625-a56f2209ee8d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-48b14caa-b7f7-44b6-9625-a56f2209ee8d
+  copyright_status: publicly_accessible
 - text: Under the Kona Blue proposal, assets held by Lockheed Martin were to be transferred
     to Bigelow Aerospace
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -276,6 +301,7 @@ references:
   claim_id: 0738e5c7-54c4-42af-98a5-102be9d49043
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0738e5c7-54c4-42af-98a5-102be9d49043
+  copyright_status: publicly_accessible
 - text: AAWSAP personnel attempted to obtain transfer of recovered material from Lockheed
     Martin
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -285,6 +311,7 @@ references:
   claim_id: 831d3715-fbe4-4101-b2fd-be624a988392
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-831d3715-fbe4-4101-b2fd-be624a988392
+  copyright_status: publicly_accessible
 - text: CIA leadership denied the request to transfer that material to AAWSAP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:48:52.4-00:48:54.9
@@ -292,6 +319,7 @@ references:
   claim_id: 9050745f-6661-482b-9bc9-a590e001a677
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9050745f-6661-482b-9bc9-a590e001a677
+  copyright_status: publicly_accessible
 - text: Chris Ramsay suggested the craft shown to Bob Lazar could have been a Lockheed
     Martin deep underground black project replica
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -301,6 +329,7 @@ references:
   claim_id: b0501e4d-6f82-4695-b6ee-e57fe69741d2
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-b0501e4d-6f82-4695-b6ee-e57fe69741d2
+  copyright_status: publicly_accessible
 - text: Luis Elizondo was asked at the 13 November 2024 hearing about Lockheed Martin's
     involvement with underwater projects
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -311,6 +340,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
+  copyright_status: publicly_accessible
 - text: Lockheed Martin's stated area of expertise is aerospace, within the UAP space
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:15:06.3-00:15:10.5
@@ -319,6 +349,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-7b969403-6bc7-423f-8b1a-3812c3277b22
+  copyright_status: publicly_accessible
 - text: Elizondo denied stating that Lockheed Martin would not conduct submerged operations
   source: UAPs in Washington - I wasn't supposed to be there..
   location: 00:15:10.7-00:15:15.0
@@ -327,6 +358,7 @@ references:
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
   inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-5bfa7c5a-94f3-4d41-bc2d-73da263197dd
+  copyright_status: publicly_accessible
 - text: Lockheed Martin's navigation team sent Mars Climate Orbiter data in imperial
     units while JPL assumed metric
   source: Dark Mission
@@ -334,6 +366,7 @@ references:
   claim_id: 5f8dd875-1bec-4da2-9b4c-83d96f28687b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5f8dd875-1bec-4da2-9b4c-83d96f28687b
+  copyright_status: restricted
 - text: Dan Goldin appointed a commission led by former Lockheed Martin figure Thomas
     Young after the Mars Climate Orbiter and Mars Polar Lander losses
   source: Dark Mission
@@ -341,6 +374,7 @@ references:
   claim_id: 6914afeb-f7d5-4dee-810d-e009c5d4dfc8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6914afeb-f7d5-4dee-810d-e009c5d4dfc8
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

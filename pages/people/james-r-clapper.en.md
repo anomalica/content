@@ -61,6 +61,7 @@ references:
   claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
+  copyright_status: restricted
 - text: Clapper was a former undersecretary of defense for intelligence, former head
     of Air Force intelligence, and former DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -68,6 +69,7 @@ references:
   claim_id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a88c5d-064d-45db-b48b-1c0bd94b8b76
+  copyright_status: restricted
 - text: Clapper was DNI from 2010 to 2017
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: line 250
@@ -75,24 +77,28 @@ references:
   claim_id: c4783358-e1e6-4d73-9e55-552209a0be12
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-c4783358-e1e6-4d73-9e55-552209a0be12
+  copyright_status: publicly_accessible
 - text: In 2008 Clapper hired Elizondo into OUSDI, overseeing DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
+  copyright_status: restricted
 - text: Clapper was Elizondo's boss at OUSDI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49102-49227
   claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
+  copyright_status: restricted
 - text: Elizondo considered Clapper one of his supervisors during OUSDI's golden era
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25357-25533
   claim_id: 6b23250c-6525-4a14-acbe-bf95108cbf1c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6b23250c-6525-4a14-acbe-bf95108cbf1c
+  copyright_status: restricted
 - text: Lynn declined to designate AAWSAP/AATIP a Special Access Program on Clapper's
     recommendation
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -104,12 +110,14 @@ references:
   claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
+  copyright_status: public_domain
 - text: Obama asked Clapper to become the new DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49232-49286
   claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
+  copyright_status: restricted
 - text: Clapper took a call from Obama during a meeting with Elizondo and became DNI
     shortly after
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -117,6 +125,7 @@ references:
   claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
+  copyright_status: restricted
 - text: McCullough reported directly to Clapper in 2011
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:10934-11033
@@ -125,30 +134,35 @@ references:
   claim_id: a9c81425-186c-44b8-9738-abba4b97fec3
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-a9c81425-186c-44b8-9738-abba4b97fec3
+  copyright_status: publicly_accessible
 - text: Woods did not get along with Clapper at the DoD
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:5031-5192
   claim_id: 7310a06e-1534-4980-a1f0-541204a4103c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7310a06e-1534-4980-a1f0-541204a4103c
+  copyright_status: restricted
 - text: Clapper offered Woods a DIA job despite their disagreements
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49291-49421
   claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
+  copyright_status: restricted
 - text: Woods accepted the DIA deputy director post after Clapper became DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:6181-6308
   claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
+  copyright_status: restricted
 - text: Clapper approached Elizondo and Jennifer in a CNN greenroom
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25015-25157
   claim_id: 98903661-01f9-4138-bbcd-398b8713311e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
+  copyright_status: restricted
 - text: Clapper told Elizondo he was surprised the Pentagon admitted its UAP programme
     and was proud of him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -156,6 +170,7 @@ references:
   claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
+  copyright_status: restricted
 - text: Brennan was Obama's CIA director while Clapper was DNI
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:53:13.6-00:53:20.2
@@ -164,6 +179,7 @@ references:
   claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2c8caf19-6411-4f96-a5d8-d2563aaee6c2
+  copyright_status: publicly_accessible
 - text: Brennan and Clapper appear in a documentary tacitly endorsing that UFOs are
     real
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -174,6 +190,7 @@ references:
   claim_id: 9fdfda7a-7008-40d8-a6d7-fad289b02366
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9fdfda7a-7008-40d8-a6d7-fad289b02366
+  copyright_status: publicly_accessible
 - text: Mitchells says Clapper spoke of helping set up UFO tracking programmes at
     Area 51
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -183,6 +200,7 @@ references:
   claim_id: 4a4ca809-e64c-4e28-b2bd-2f41736ef318
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4a4ca809-e64c-4e28-b2bd-2f41736ef318
+  copyright_status: publicly_accessible
 - text: Brennan and Clapper tacitly endorse a multi-generational crash retrieval and
     reverse engineering programme
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -192,6 +210,7 @@ references:
   claim_id: 7a38ff7d-1203-46bc-9844-0756c3a08b98
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a38ff7d-1203-46bc-9844-0756c3a08b98
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

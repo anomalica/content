@@ -28,6 +28,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
+  copyright_status: publicly_accessible
 - text: Ramsey described seeing orange orbs illuminating clouds during an overnight
     flight to Germany at approximately 9,000 metres.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -40,6 +41,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
+  copyright_status: publicly_accessible
 - text: Ramsey described a Tic Tac-shaped object seen while flying with Wes Barker
     near Nellis Air Force Base.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -52,6 +54,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-7c983780-513e-4919-9ad8-3b3b311afb6f
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-7c983780-513e-4919-9ad8-3b3b311afb6f
+  copyright_status: publicly_accessible
 - text: The footage reached Reddit's front page with approximately 15,000 upvotes.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:17:05.0-00:17:16.3
@@ -62,6 +65,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-88254b4f-4363-4614-8e97-bff50ee4fd18
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-88254b4f-4363-4614-8e97-bff50ee4fd18
+  copyright_status: publicly_accessible
 - text: Ramsey reported no discernible wings or tail on the object.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:18:21.7-00:18:39.2
@@ -73,6 +77,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-19509a04-e388-4377-b25f-958ba5fceec5
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-19509a04-e388-4377-b25f-958ba5fceec5
+  copyright_status: publicly_accessible
 - text: Wes Barker said the object did not taper and had no visible wings.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:19:24.2-00:19:27.3
@@ -82,6 +87,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-d4072ec1-430c-4b0d-9d45-fe34c236b2dd
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-d4072ec1-430c-4b0d-9d45-fe34c236b2dd
+  copyright_status: publicly_accessible
 - text: A flight attendant who viewed the footage said she did not know what the object
     was and confirmed it had no wings.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -93,6 +99,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-0f1fc8eb-b92f-4389-82cc-a641fb93fd38
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-0f1fc8eb-b92f-4389-82cc-a641fb93fd38
+  copyright_status: publicly_accessible
 - text: A pilot who viewed the footage said the object was not a plane.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:21:08.6-00:21:20.2
@@ -103,6 +110,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-80103128-deec-412c-b545-2ff02836a8e9
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-80103128-deec-412c-b545-2ff02836a8e9
+  copyright_status: publicly_accessible
 - text: Ramsey dated his black triangle sighting to November 2023.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:23:12.8-00:23:18.2
@@ -112,6 +120,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-cb989179-5179-4bb1-8589-0c4382737ffb
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-cb989179-5179-4bb1-8589-0c4382737ffb
+  copyright_status: publicly_accessible
 - text: Ramsey described the object as a black triangle with three lights, including
     a green light in the middle.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -122,6 +131,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-6b73a610-546c-4404-83d7-92a4b214809e
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-6b73a610-546c-4404-83d7-92a4b214809e
+  copyright_status: publicly_accessible
 - text: Ramsey said the object made no noise as it passed almost overhead at low altitude.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:24:46.7-00:24:50.6
@@ -131,6 +141,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-9b0e4470-492d-4a8c-bd78-8612155aaa74
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-9b0e4470-492d-4a8c-bd78-8612155aaa74
+  copyright_status: publicly_accessible
 - text: Two of the three lights went out when Ramsey began recording, and the remaining
     lights later went behind a mountain.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -141,6 +152,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-d2590660-2c5c-45ab-add7-ae7319d21941
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-d2590660-2c5c-45ab-add7-ae7319d21941
+  copyright_status: publicly_accessible
 - text: Ramsey said he considered the object definitely not a plane.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
   location: 00:28:02.7-00:28:04.7
@@ -150,6 +162,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-0a6ca3fd-ffba-4705-a1fb-7001b9df6022
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-0a6ca3fd-ffba-4705-a1fb-7001b9df6022
+  copyright_status: publicly_accessible
 - text: Justin described a triangle formation of lights phasing in above his house
     after he heard a strange noise.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -162,6 +175,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-b086b537-c74c-4381-845c-a8e2aae9101a
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-b086b537-c74c-4381-845c-a8e2aae9101a
+  copyright_status: publicly_accessible
 - text: Justin said the experience lasted approximately 20 seconds and that he filmed
     18 seconds.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -173,6 +187,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-f7c823ea-1320-4414-83e2-bc9a1fc56d56
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-f7c823ea-1320-4414-83e2-bc9a1fc56d56
+  copyright_status: publicly_accessible
 - text: Justin described a fourth object moving in lockstep beside a formation of
     three.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -185,6 +200,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-3858bc65-e09c-4546-b069-0cffda3f8c46
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-3858bc65-e09c-4546-b069-0cffda3f8c46
+  copyright_status: publicly_accessible
 - text: Justin said the objects crossed the sky too quickly for him to see how they
     disappeared.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -196,6 +212,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-27bb62b9-711d-4930-9162-4d4a416fc8e4
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-27bb62b9-711d-4930-9162-4d4a416fc8e4
+  copyright_status: publicly_accessible
 - text: Jeremy Corbell described Ramsey's footage as the clearest civilian footage
     of a Tic Tac UFO or UAP he had seen.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -207,6 +224,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-298d530c-b519-4bef-bffd-71e7fde1a9cb
+  copyright_status: publicly_accessible
 - text: Ramsey said major-city US police chiefs had received an 11-page document about
     responding to UAP sightings.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -218,6 +236,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-23ec8716-79f0-4b67-b408-7175e68db713
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-23ec8716-79f0-4b67-b408-7175e68db713
+  copyright_status: publicly_accessible
 - text: Ramsey said the guidance document covers UAP history, related programmes and
     reporting channels.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -229,6 +248,7 @@ references:
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-9514c6fb-93b4-402a-bee0-b0fc408e1d72
   inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-9514c6fb-93b4-402a-bee0-b0fc408e1d72
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -163,6 +163,7 @@ references:
   claim_id: 8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
+  copyright_status: restricted
 - text: Vatican has collected intelligence over the millennia from eyewitness reports
     and confessional anecdotes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -170,12 +171,14 @@ references:
   claim_id: 47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
+  copyright_status: restricted
 - text: Church routinely polled priests about what troubled their parishioners
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:43318-43426
   claim_id: e06d69da-6fba-44b8-a845-b0df8301dbeb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e06d69da-6fba-44b8-a845-b0df8301dbeb
+  copyright_status: restricted
 - text: Samosa certain the Vatican knows something about UFOs
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:17:50.6-02:17:55.4
@@ -184,6 +187,7 @@ references:
   claim_id: 61c54761-0969-421e-afbe-50f9304e4e8b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-61c54761-0969-421e-afbe-50f9304e4e8b
+  copyright_status: publicly_accessible
 - text: Samosa observes Vatican's role in UFO subject is hinted at then dropped by
     researchers
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -194,6 +198,7 @@ references:
   claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3bc81cc5-32d4-4081-9ea1-ce240f1152a2
+  copyright_status: publicly_accessible
 - text: Church authorities guided Lúcia toward the convent while investigating and
     controlling the Fatima cult
   source: The Fatima Secret
@@ -201,6 +206,7 @@ references:
   claim_id: 8b55606b-1a3e-4e27-865d-d5e60d92d2e9
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8b55606b-1a3e-4e27-865d-d5e60d92d2e9
+  copyright_status: restricted
 - text: After Lúcia's departure, Church-appointed priests made all proclamations at
     Cova da Iria
   source: The Fatima Secret
@@ -208,60 +214,70 @@ references:
   claim_id: 6b111f62-b93a-4c0b-964a-7024b8412be6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6b111f62-b93a-4c0b-964a-7024b8412be6
+  copyright_status: restricted
 - text: Difficult to find a priest before the apparitions were officially recognised
   source: The Fatima Secret
   location: ch13:2889-3024
   claim_id: 00d4c7f3-c54b-4217-876f-ab6f97995ed4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-00d4c7f3-c54b-4217-876f-ab6f97995ed4
+  copyright_status: restricted
 - text: Sidonio Pais established Portugal-Vatican diplomatic relations, June 1918
   source: The Fatima Secret
   location: ch14:10659-10721
   claim_id: 19329330-8be0-40fa-9a38-ff408df0b7d8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-19329330-8be0-40fa-9a38-ff408df0b7d8
+  copyright_status: restricted
 - text: Third Secret would become the Vatican's most zealously guarded secret
   source: The Fatima Secret
   location: ch15:19282-19405
   claim_id: 44a714cb-9dcf-4baa-b017-2caf633a49a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-44a714cb-9dcf-4baa-b017-2caf633a49a6
+  copyright_status: restricted
 - text: Third Secret envelope kept in Pius XII's private quarters
   source: The Fatima Secret
   location: ch16:6184-6280
   claim_id: 43340122-1ded-4e9a-963e-93736136eff4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-43340122-1ded-4e9a-963e-93736136eff4
+  copyright_status: restricted
 - text: Vatican instructed Bishop da Silva to keep the envelope at Leiria
   source: The Fatima Secret
   location: ch16:2972-3105
   claim_id: 37b52475-a103-48d1-b1a8-229ae8326c5b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-37b52475-a103-48d1-b1a8-229ae8326c5b
+  copyright_status: restricted
 - text: Pius XII restricted who could meet Sister Lúcia without Vatican permission
   source: The Fatima Secret
   location: ch15:18885-19089
   claim_id: e3723880-a260-488b-a7f4-72121fd6f069
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e3723880-a260-488b-a7f4-72121fd6f069
+  copyright_status: restricted
 - text: Vatican opposition to consecrating Russia over fears of Soviet reaction
   source: The Fatima Secret
   location: ch15:14804-15244
   claim_id: f1d49bf7-2eab-4ff1-b7e3-521d9d7dbcb8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f1d49bf7-2eab-4ff1-b7e3-521d9d7dbcb8
+  copyright_status: restricted
 - text: Pius XII, the 'pope of Fatima', did not overcome opposition to the consecration
   source: The Fatima Secret
   location: ch15:16199-16330
   claim_id: ac7f1a44-a95b-4f68-9594-5565ac9057f2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ac7f1a44-a95b-4f68-9594-5565ac9057f2
+  copyright_status: restricted
 - text: Vatican silent on 1942 petition to consecrate Russia until 1942-10-13
   source: The Fatima Secret
   location: ch15:7728-8079
   claim_id: c0d71420-1bd7-488d-a9bf-683c81bac041
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0d71420-1bd7-488d-a9bf-683c81bac041
+  copyright_status: restricted
 - text: John XXIII read the sealed envelope at Castel Gandolfo, 1959-08-21, with Cavagna
     present
   source: The Fatima Secret
@@ -269,18 +285,21 @@ references:
   claim_id: b0e259be-5678-4ddc-abda-9284b23d04a0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b0e259be-5678-4ddc-abda-9284b23d04a0
+  copyright_status: restricted
 - text: 1960 announcement said the letter might remain sealed forever
   source: The Fatima Secret
   location: ch16:12679-12969
   claim_id: dea64a11-461e-42f8-9ea4-a86afb4d510f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-dea64a11-461e-42f8-9ea4-a86afb4d510f
+  copyright_status: restricted
 - text: Vatican official silence maintained until the fiftieth anniversary of Fatima
   source: The Fatima Secret
   location: ch17:10461-10594
   claim_id: d8f24f88-a124-4d35-8836-07a72915ee8d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d8f24f88-a124-4d35-8836-07a72915ee8d
+  copyright_status: restricted
 - text: Louis Emrich said Vatican took every precaution to keep the document a papal
     secret
   source: The Fatima Secret
@@ -288,6 +307,7 @@ references:
   claim_id: 5ddbb785-b7d5-485e-b107-cd639139c5dd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5ddbb785-b7d5-485e-b107-cd639139c5dd
+  copyright_status: restricted
 - text: Diplomatic version allegedly sent to Washington, London, Moscow during Cuban
     Missile Crisis, 1962-10
   source: The Fatima Secret
@@ -295,12 +315,14 @@ references:
   claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-bb204a48-7cf7-4919-972c-1780814d51fd
+  copyright_status: restricted
 - text: 'European News: 1963 test-ban agreement attributed to Vatican intervention'
   source: The Fatima Secret
   location: ch17:463-661
   claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-56067770-abe8-4a87-8bb3-ae139e7f2f75
+  copyright_status: restricted
 - text: Mrs Emrich told Hans Bender her husband had information before the 1963-10-15
     publication
   source: The Fatima Secret
@@ -308,24 +330,28 @@ references:
   claim_id: 062351b6-a12e-4edd-91ad-3fbe5e9193fd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-062351b6-a12e-4edd-91ad-3fbe5e9193fd
+  copyright_status: restricted
 - text: 'Mrs Emrich: a Vatican priest visited Emrich unofficially'
   source: The Fatima Secret
   location: ch17:7149-7287
   claim_id: a554b116-8e15-4ba8-a2ba-7b2c35b24385
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a554b116-8e15-4ba8-a2ba-7b2c35b24385
+  copyright_status: restricted
 - text: Emrich version never confirmed or denied by the Church
   source: The Fatima Secret
   location: ch17:8818-8903
   claim_id: 698a6974-7760-4574-b029-2c0a69131aba
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-698a6974-7760-4574-b029-2c0a69131aba
+  copyright_status: restricted
 - text: Emrich admitted his version was built on rumours, not the original text
   source: The Fatima Secret
   location: ch24:26096-26313
   claim_id: 7434f671-7dda-4c79-81f0-424a7e47f703
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7434f671-7dda-4c79-81f0-424a7e47f703
+  copyright_status: restricted
 - text: Hesemann interviewed Archbishop Bertone in Rome after the Vatican's 2000 press
     conference
   source: The Fatima Secret
@@ -333,6 +359,7 @@ references:
   claim_id: babea78d-5eb5-4adb-bcbd-8f31e7ff501c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-babea78d-5eb5-4adb-bcbd-8f31e7ff501c
+  copyright_status: restricted
 - text: Bertone's research found no evidence of a leak or that the Secret was shown
     to Khrushchev/Kennedy
   source: The Fatima Secret
@@ -340,36 +367,42 @@ references:
   claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-be2754c1-18b7-4a2f-baf9-06b08b2e7714
+  copyright_status: restricted
 - text: Gruner accused the Vatican of whitewashing the Third Secret's message
   source: The Fatima Secret
   location: ch24:25504-25657
   claim_id: de6d23b5-a50e-4eaa-a6cc-62e3acfe65a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-de6d23b5-a50e-4eaa-a6cc-62e3acfe65a6
+  copyright_status: restricted
 - text: 'Gruner: Vatican''s interpretation raises more questions than it answers'
   source: The Fatima Secret
   location: ch24:25667-25742
   claim_id: 3a871815-3cfb-43f8-9abb-c83a9de6fcea
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3a871815-3cfb-43f8-9abb-c83a9de6fcea
+  copyright_status: restricted
 - text: Third Secret revealed at the end of a two-and-a-half-hour ceremony, 2000-05-13
   source: The Fatima Secret
   location: ch24:10005-10366
   claim_id: 700da108-1ae3-4dee-b9ee-b4f987beee3c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-700da108-1ae3-4dee-b9ee-b4f987beee3c
+  copyright_status: restricted
 - text: Vatican released facsimile of Lúcia's handwriting in response to sceptics
   source: The Fatima Secret
   location: ch24:24446-24662
   claim_id: 9c50611e-d0c6-4a8b-96bf-f755faad3238
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-9c50611e-d0c6-4a8b-96bf-f755faad3238
+  copyright_status: restricted
 - text: Putin visited the Vatican for a confidential meeting, 2000-06-05
   source: The Fatima Secret
   location: ch24:16436-16551
   claim_id: 8fa223ff-6fdd-4cfb-b57a-c53a6ad838b4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8fa223ff-6fdd-4cfb-b57a-c53a6ad838b4
+  copyright_status: restricted
 - text: Ağca pardon, 2000-06-14, discussed with the Vatican and supported by John
     Paul II
   source: The Fatima Secret
@@ -377,12 +410,14 @@ references:
   claim_id: c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
+  copyright_status: restricted
 - text: Hesemann travelled to Rome many times to speak with Vatican insiders
   source: The Fatima Secret
   location: ch7:4744-4868
   claim_id: 8783052e-e4d2-4454-9a65-1cf286ee0750
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8783052e-e4d2-4454-9a65-1cf286ee0750
+  copyright_status: restricted
 - text: Hesemann considers Fatima message may have influenced Vatican secret policy,
     Pius XII to John Paul II
   source: The Fatima Secret
@@ -390,6 +425,7 @@ references:
   claim_id: 6a1e3361-222e-4961-8dc9-202b6947bce0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6a1e3361-222e-4961-8dc9-202b6947bce0
+  copyright_status: restricted
 - text: Hesemann considers Fatima apparitions to have deeply impacted Vatican secret
     policies
   source: The Fatima Secret
@@ -397,18 +433,21 @@ references:
   claim_id: 5fac85f4-0a08-4eeb-a1d7-c0c14ab0ba18
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5fac85f4-0a08-4eeb-a1d7-c0c14ab0ba18
+  copyright_status: restricted
 - text: Corrado Balducci, high-ranking Vatican member for fifty-two years
   source: The Fatima Secret
   location: ch7:7589-7652
   claim_id: 6320ab77-06c4-4d08-bc0f-485e31ad8158
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6320ab77-06c4-4d08-bc0f-485e31ad8158
+  copyright_status: restricted
 - text: Balducci worked as an exorcist in the Vatican for Pope Paul VI
   source: The Fatima Secret
   location: ch7:7756-7828
   claim_id: 2ae3dbcd-56ff-4500-b3bc-315b0efa81cb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2ae3dbcd-56ff-4500-b3bc-315b0efa81cb
+  copyright_status: restricted
 - text: 'Samosa: Vatican is a vast network including the Jesuits, Knights of Malta,
     Opus Dei, Pro Deo'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -420,6 +459,7 @@ references:
   claim_id: 1b9f1fc5-049c-46f9-ba7e-bc166d776054
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1b9f1fc5-049c-46f9-ba7e-bc166d776054
+  copyright_status: publicly_accessible
 - text: Samosa attempted to compile a full list of networks under the Vatican
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:27:33.1-02:27:36.9
@@ -428,6 +468,7 @@ references:
   claim_id: 5ba948e5-0e13-4c94-ae57-99afeb76655d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5ba948e5-0e13-4c94-ae57-99afeb76655d
+  copyright_status: publicly_accessible
 - text: 'Samosa: Vatican, monarchies and Knights of Malta nearly wiped out, then colluded
     at Congress of Vienna'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -438,6 +479,7 @@ references:
   claim_id: eff7a1d3-d75f-4754-99f4-baa04a72fb26
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-eff7a1d3-d75f-4754-99f4-baa04a72fb26
+  copyright_status: publicly_accessible
 - text: Vatican and Knights of Malta attended the Congress of Vienna under Metternich
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:19:25.0-02:19:45.2
@@ -448,6 +490,7 @@ references:
   claim_id: b736bc27-407a-4e6b-be0f-df7d9ba335a1
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-b736bc27-407a-4e6b-be0f-df7d9ba335a1
+  copyright_status: publicly_accessible
 - text: 'Samosa: Vatican historically manages revolutions, conservative institutional
     personality'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -457,6 +500,7 @@ references:
   claim_id: 6bcc44fc-bb22-4443-9ece-41ce014fd1f7
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-6bcc44fc-bb22-4443-9ece-41ce014fd1f7
+  copyright_status: publicly_accessible
 - text: 'Samosa: Vatican figures in AFOSI/CIA give it a seat on the board of the UFO
     issue'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -468,6 +512,7 @@ references:
   claim_id: edf2a079-9a9f-4edd-b736-fa95faac4728
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-edf2a079-9a9f-4edd-b736-fa95faac4728
+  copyright_status: publicly_accessible
 - text: Samosa believes Vatican knows more than it discloses and has reinterpreted
     events
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -478,6 +523,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-7a9bdb5c-5cb4-437e-915c-41af68a9b19a
+  copyright_status: publicly_accessible
 - text: Holy See characterised the Miracle of the Sun as the sun flying around, not
     a disc
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -487,6 +533,7 @@ references:
   claim_id: 565a2c20-3628-4eca-bf00-77c62ac66331
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-565a2c20-3628-4eca-bf00-77c62ac66331
+  copyright_status: publicly_accessible
 - text: 'Samosa: a disc interpretation would be dangerous for the Vatican, drawing
     believers from devotion'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -497,6 +544,7 @@ references:
   claim_id: 5f81a12e-cbfe-43d2-88b7-7dd4350a0461
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5f81a12e-cbfe-43d2-88b7-7dd4350a0461
+  copyright_status: publicly_accessible
 - text: 'Mitchells: Vatican confiscated a written prophecy, believed more complex
     than the historical account'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -507,6 +555,7 @@ references:
   claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-5e7b7fe9-f609-459c-9502-a479c287d1c4
+  copyright_status: publicly_accessible
 - text: Mitchells believes Magenta UFO crash material is held by or known to the Vatican
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:22:46.8-02:22:52.6
@@ -515,6 +564,7 @@ references:
   claim_id: 43d9cdfc-e031-4720-b1c9-853b607556f4
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-43d9cdfc-e031-4720-b1c9-853b607556f4
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

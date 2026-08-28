@@ -59,30 +59,35 @@ references:
   claim_id: 69d5ae61-f507-4705-9906-660e60181526
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69d5ae61-f507-4705-9906-660e60181526
+  copyright_status: publicly_accessible
 - text: Rich died in 1995, known for hinting at a hidden US technological breakthrough.
   source: In Plain Sight
   location: ch13:13720-13896
   claim_id: 2af451f2-6080-4b71-8d7c-946f7bb866da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2af451f2-6080-4b71-8d7c-946f7bb866da
+  copyright_status: restricted
 - text: Jim Goodall befriended Rich, the former director of Skunk Works.
   source: In Plain Sight
   location: ch13:13431-13709
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
+  copyright_status: restricted
 - text: Goodall's account of Rich's last comment to him before he died.
   source: In Plain Sight
   location: ch13:13905-14290
   claim_id: 315c7144-d26f-4905-98a5-72d0b9269a3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-315c7144-d26f-4905-98a5-72d0b9269a3a
+  copyright_status: restricted
 - text: Rich addressed UCLA engineering alumni in March 1993.
   source: In Plain Sight
   location: ch13:14645-14789
   claim_id: 9428a5da-66ed-4afc-b24f-d813bc3ffb45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9428a5da-66ed-4afc-b24f-d813bc3ffb45
+  copyright_status: restricted
 - text: Harzan and Keller said Rich admitted the US had solved interstellar travel,
     with an error in the equations.
   source: In Plain Sight
@@ -90,54 +95,63 @@ references:
   claim_id: ca76d230-1abf-4304-a27c-60bcad6e7e68
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ca76d230-1abf-4304-a27c-60bcad6e7e68
+  copyright_status: restricted
 - text: Harzan recalled Rich's closing slide of a black disc flying into space.
   source: In Plain Sight
   location: ch13:15055-15165
   claim_id: 2bb3a5c6-8dbb-4106-9fdb-74198213019a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2bb3a5c6-8dbb-4106-9fdb-74198213019a
+  copyright_status: restricted
 - text: Harzan's account of Rich's closing words to the auditorium.
   source: In Plain Sight
   location: ch13:15181-15355
   claim_id: 6c598f0f-5132-4941-adb9-f8758f138cc9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c598f0f-5132-4941-adb9-f8758f138cc9
+  copyright_status: restricted
 - text: Harzan asked how the technology worked; Rich did not want to elaborate.
   source: In Plain Sight
   location: ch13:15361-15439
   claim_id: ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
+  copyright_status: restricted
 - text: Rich's ESP exchange with Harzan after the talk.
   source: In Plain Sight
   location: ch13:15646-16170
   claim_id: 614a3e7d-84fc-4e60-8038-378286cd3e73
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-614a3e7d-84fc-4e60-8038-378286cd3e73
+  copyright_status: restricted
 - text: Coulthart's disinformation theory about Rich's remarks.
   source: In Plain Sight
   location: ch13:16180-16546
   claim_id: 8d7546d8-dfb6-4b20-8341-a2143a84596d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d7546d8-dfb6-4b20-8341-a2143a84596d
+  copyright_status: restricted
 - text: Rich made a similar remark to Testor Corporation model-kit designer John Andrews.
   source: In Plain Sight
   location: ch13:16558-16724
   claim_id: 152eb8c3-6026-455f-b74e-0b815e769bb0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-152eb8c3-6026-455f-b74e-0b815e769bb0
+  copyright_status: restricted
 - text: Andrews's July 1986 letter asking Rich to clarify his views on UFOs.
   source: In Plain Sight
   location: ch13:16811-16943
   claim_id: 515b95e9-2a29-48cf-8ba1-294ec28523a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-515b95e9-2a29-48cf-8ba1-294ec28523a2
+  copyright_status: restricted
 - text: Rich's July 1986 reply to Andrews.
   source: In Plain Sight
   location: ch13:16951-17132
   claim_id: 6464fcfd-370a-4229-b423-4a22593014d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6464fcfd-370a-4229-b423-4a22593014d3
+  copyright_status: restricted
 - text: Mitchells said Rich wrote about an international corporate board dealing with
     the UFO issue.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -147,6 +161,7 @@ references:
   claim_id: 1502e9b9-d483-4cc4-8aa9-609ee78309c9
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1502e9b9-d483-4cc4-8aa9-609ee78309c9
+  copyright_status: publicly_accessible
 - text: Mitchells compared the board Rich described to the Maynard Consortium and
     the Caroline Group.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -157,6 +172,7 @@ references:
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
   inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-11a06a18-5a89-4063-967d-81b3e835a1a8
+  copyright_status: publicly_accessible
 - text: Mitchells said Rich, late in life, lamented that the UFO issue was governed
     by an international corporate board.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -168,6 +184,7 @@ references:
   claim_id: 0e79c146-5af5-4b7a-9c2a-0a50d2dc3b1b
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e79c146-5af5-4b7a-9c2a-0a50d2dc3b1b
+  copyright_status: publicly_accessible
 - text: Mitchells's characterisation of Rich building CIA reconnaissance aircraft.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:51:02.0-01:51:11.3
@@ -176,6 +193,7 @@ references:
   claim_id: 1173b646-497b-4827-b785-24d56242530a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1173b646-497b-4827-b785-24d56242530a
+  copyright_status: publicly_accessible
 - text: Mitchells said Rich described something international above him governing
     the UFO issue.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -185,6 +203,7 @@ references:
   claim_id: 775ba5c8-944a-4a54-a83b-7beeabd8a247
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-775ba5c8-944a-4a54-a83b-7beeabd8a247
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

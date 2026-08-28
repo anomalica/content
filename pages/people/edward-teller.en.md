@@ -25,6 +25,7 @@ references:
   claim_id: 98ebd24d-1add-4ee1-aff3-e03b7a8bdbb1
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-98ebd24d-1add-4ee1-aff3-e03b7a8bdbb1
+  copyright_status: publicly_accessible
 - text: Von Neumann, Szilard and Teller are among the scientists identified in recovered
     photographs marked 'MJ-12' on the back.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -34,6 +35,7 @@ references:
   claim_id: 52065f11-a138-497b-b939-291b44efe605
   record_hash: 997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073
   workbench_url: https://workbench.anomalica.is/997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc073#claim-52065f11-a138-497b-b939-291b44efe605
+  copyright_status: publicly_accessible
 - text: Lazar speculates Teller was behind his hiring at S4, having told someone to
     give the young man from Los Alamos a chance.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -43,6 +45,7 @@ references:
   claim_id: f53bf53b-6a37-4284-a10c-30e4a9b8a51b
   record_hash: 5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542
   workbench_url: https://workbench.anomalica.is/5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c39542#claim-f53bf53b-6a37-4284-a10c-30e4a9b8a51b
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -424,18 +424,21 @@ references:
   claim_id: 7cb91929-7a87-4666-be06-d345a25c1840
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7cb91929-7a87-4666-be06-d345a25c1840
+  copyright_status: restricted
 - text: Carlotto is a member of the Society for Planetary SETI Research
   source: Dark Mission
   location: ch17:60082-60119
   claim_id: 0605d08a-233f-46d1-b313-053e53d151c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0605d08a-233f-46d1-b313-053e53d151c2
+  copyright_status: restricted
 - text: Carlotto joined Hoagland's Mars Investigation Group in 1985
   source: Dark Mission
   location: ch8:9107-9235
   claim_id: 9caf2bfa-6879-40e3-a42f-9b5a8f3a258d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9caf2bfa-6879-40e3-a42f-9b5a8f3a258d
+  copyright_status: restricted
 - text: Carlotto's Cydonia research spanned almost a decade alongside Dipietro, Molenaar
     and Torun
   source: Dark Mission
@@ -443,6 +446,7 @@ references:
   claim_id: 70507fe2-6587-4acf-ade7-e3702541dae8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70507fe2-6587-4acf-ade7-e3702541dae8
+  copyright_status: restricted
 - text: Carlotto's imaging techniques extracted more detail from the Viking Face images
     than Dipietro and Molenaar's method
   source: Dark Mission
@@ -450,6 +454,7 @@ references:
   claim_id: 6c684b48-3edd-4a1d-8193-e8bc506d62ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6c684b48-3edd-4a1d-8193-e8bc506d62ba
+  copyright_status: restricted
 - text: Carlotto's enhancements of Viking frame 70A13 revealed apparent teeth, forehead
     lines and striping
   source: Dark Mission
@@ -457,12 +462,14 @@ references:
   claim_id: 2fb866e3-10dc-48f1-b1fc-5b3ff3506d96
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2fb866e3-10dc-48f1-b1fc-5b3ff3506d96
+  copyright_status: restricted
 - text: Carlotto developed a fractal analysis technique applied to the Cydonia images
   source: Dark Mission
   location: ch8:15429-15648
   claim_id: 908ee99e-9f62-4503-9528-79d50a0d34b9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-908ee99e-9f62-4503-9528-79d50a0d34b9
+  copyright_status: restricted
 - text: Carlotto and Stein's initial 3,000 sq km study found the Face and Fortress
     the most non-fractal objects
   source: Dark Mission
@@ -470,12 +477,14 @@ references:
   claim_id: b43502c0-a422-440d-8959-d594dab37855
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b43502c0-a422-440d-8959-d594dab37855
+  copyright_status: restricted
 - text: Carlotto and Stein extended the survey to 15,000 sq km with consistent results
   source: Dark Mission
   location: ch8:15872-16121
   claim_id: 9d4c97a9-c8fc-4a69-a3db-afe9ea58a521
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9d4c97a9-c8fc-4a69-a3db-afe9ea58a521
+  copyright_status: restricted
 - text: Michael Malin argued the fractal analysis only showed the Face was different,
     not artificial
   source: Dark Mission
@@ -483,12 +492,14 @@ references:
   claim_id: d47cc9ce-9897-4bdd-b405-687ba3bc746d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d47cc9ce-9897-4bdd-b405-687ba3bc746d
+  copyright_status: restricted
 - text: The Face's distinctiveness became more pronounced at the larger survey scale
   source: Dark Mission
   location: ch8:16448-16661
   claim_id: 35a29bf3-c9e6-4d6e-8fe7-8b3a993a4154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35a29bf3-c9e6-4d6e-8fe7-8b3a993a4154
+  copyright_status: restricted
 - text: Carlotto offered his fractal program to NASA for a full Mars survey; NASA
     declined
   source: Dark Mission
@@ -496,6 +507,7 @@ references:
   claim_id: a696b43d-1fe9-450a-bd36-3be394d6ef48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a696b43d-1fe9-450a-bd36-3be394d6ef48
+  copyright_status: restricted
 - text: Carlotto produced an ortho-rectification of the second Cydonia Face image
     better than NASA's
   source: Dark Mission
@@ -503,12 +515,14 @@ references:
   claim_id: cb0864d7-638b-4656-9b94-32f54d70fe8a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cb0864d7-638b-4656-9b94-32f54d70fe8a
+  copyright_status: restricted
 - text: Carlotto contended the Face might be artificial but highly eroded
   source: Dark Mission
   location: ch13:33833-33935
   claim_id: 6b1d842f-165e-40ce-983d-e5b8c6358e64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b1d842f-165e-40ce-983d-e5b8c6358e64
+  copyright_status: restricted
 - text: Carlotto's shape-from-shading analysis suggested a horizontal entrance point
     near the D&M Pyramid crater
   source: Dark Mission
@@ -516,12 +530,14 @@ references:
   claim_id: b2adaac2-9de0-477e-b976-5c780d1c5f70
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b2adaac2-9de0-477e-b976-5c780d1c5f70
+  copyright_status: restricted
 - text: Carlotto's enhancements showed the D&M Pyramid as five-sided rather than four-sided
   source: Dark Mission
   location: ch8:11745-11881
   claim_id: d767db44-dc0d-4578-95c1-b039c4823be5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d767db44-dc0d-4578-95c1-b039c4823be5
+  copyright_status: restricted
 - text: Carlotto attended a National Press Club press conference with Van Flandern,
     Webb and Fiertek
   source: Dark Mission
@@ -529,12 +545,14 @@ references:
   claim_id: dc00c892-909b-4e32-b026-a29ac83716a0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dc00c892-909b-4e32-b026-a29ac83716a0
+  copyright_status: restricted
 - text: Carlotto attended the November 1997 SPSR meeting with Carl Pilcher
   source: Dark Mission
   location: ch13:2394-2611
   claim_id: cbfa4bb7-c3ab-49e7-960d-b9d7a61b2efe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cbfa4bb7-c3ab-49e7-960d-b9d7a61b2efe
+  copyright_status: restricted
 - text: Carlotto reported NASA described two internal groups regarding the Cydonia
     objects
   source: Dark Mission
@@ -542,30 +560,35 @@ references:
   claim_id: 6f7103c8-8b41-46d9-a988-13ae8270ef69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f7103c8-8b41-46d9-a988-13ae8270ef69
+  copyright_status: restricted
 - text: Carlotto published his THEMIS Cydonia analysis on 2002-08-29
   source: Dark Mission
   location: ch17:53730-53922
   claim_id: 1ee176e5-78cc-4434-ab63-61a40bb1208f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ee176e5-78cc-4434-ab63-61a40bb1208f
+  copyright_status: restricted
 - text: The analysis cited the infrared file under an incorrect file name
   source: Dark Mission
   location: ch17:54067-54204
   claim_id: 795f9627-fb4e-43eb-a0a0-85c196188690
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-795f9627-fb4e-43eb-a0a0-85c196188690
+  copyright_status: restricted
 - text: Mike Bara emailed Carlotto to point out errors and urge withdrawal
   source: Dark Mission
   location: ch17:60456-60613
   claim_id: be96beb7-6386-4c85-aac7-d657463d514e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-be96beb7-6386-4c85-aac7-d657463d514e
+  copyright_status: restricted
 - text: Carlotto and Hoagland spoke by phone on 2002-09-04
   source: Dark Mission
   location: ch17:61062-61160
   claim_id: bbfb120c-fc01-4d25-aa7a-b411d8e68bac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bbfb120c-fc01-4d25-aa7a-b411d8e68bac
+  copyright_status: restricted
 - text: Carlotto was concerned his paper would be made obsolete by the Hoagland-Bara
     article
   source: Dark Mission
@@ -573,18 +596,21 @@ references:
   claim_id: 9b25f60c-3d39-47ee-b794-61a364b6ea3d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b25f60c-3d39-47ee-b794-61a364b6ea3d
+  copyright_status: restricted
 - text: Carlotto agreed to reprocess the image and report results to Hoagland
   source: Dark Mission
   location: ch17:61437-61615
   claim_id: e4d6b3e7-aa0a-4bcc-92cd-816669288009
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e4d6b3e7-aa0a-4bcc-92cd-816669288009
+  copyright_status: restricted
 - text: Carlotto never reported the results back
   source: Dark Mission
   location: ch17:61624-61635
   claim_id: dd377233-ea32-4db3-9576-6c53b5836ad4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dd377233-ea32-4db3-9576-6c53b5836ad4
+  copyright_status: restricted
 - text: Hoagland says Carlotto instead ran the official ASU image through contrast
     and blur filters
   source: Dark Mission
@@ -592,6 +618,7 @@ references:
   claim_id: 16b7b8f4-9220-40d6-8115-44796acbc0b6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16b7b8f4-9220-40d6-8115-44796acbc0b6
+  copyright_status: restricted
 - text: Carlotto concluded the Enterprise Mission image was an altered version of
     the ASU release
   source: Dark Mission
@@ -599,6 +626,7 @@ references:
   claim_id: 0e55149e-1d78-48dd-b363-cc26ea27e028
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e55149e-1d78-48dd-b363-cc26ea27e028
+  copyright_status: restricted
 - text: Keith Laney produced a properly band-aligned image at Hoagland's and Bara's
     request
   source: Dark Mission
@@ -606,6 +634,7 @@ references:
   claim_id: 8ab72d0c-0a13-4e08-b5bf-56835a48883d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8ab72d0c-0a13-4e08-b5bf-56835a48883d
+  copyright_status: restricted
 - text: Carlotto's own fractal method applied to Laney's image matched blocks in Carlotto's
     earlier Viking work
   source: Dark Mission
@@ -613,6 +642,7 @@ references:
   claim_id: 0adbc0c4-2419-4ef6-af37-30c0e6c81303
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0adbc0c4-2419-4ef6-af37-30c0e6c81303
+  copyright_status: restricted
 - text: Hoagland and Bara challenged Carlotto to publish the promised multispectral
     results
   source: Dark Mission
@@ -620,18 +650,21 @@ references:
   claim_id: 78b9692e-acf8-4b14-9fb0-5778412a7856
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-78b9692e-acf8-4b14-9fb0-5778412a7856
+  copyright_status: restricted
 - text: Hoagland concluded Carlotto had erred badly over the THEMIS analysis
   source: Dark Mission
   location: ch17:59503-59665
   claim_id: 938113df-3c45-464a-81a7-39228a2899ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-938113df-3c45-464a-81a7-39228a2899ad
+  copyright_status: restricted
 - text: Hoagland defended Carlotto's broader skill and professionalism
   source: Dark Mission
   location: ch17:59804-59961
   claim_id: b938573a-68b8-414b-a367-77a5ce412226
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b938573a-68b8-414b-a367-77a5ce412226
+  copyright_status: restricted
 - text: Carlotto's 2005 paper analysed three phenomena in the STS-80 video
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:169-531
@@ -644,6 +677,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
+  copyright_status: publicly_accessible
 - text: A burst of light appeared near the surface off Puerto Rico's east coast
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1057-1200
@@ -652,6 +686,7 @@ references:
   claim_id: c89af3b2-64c8-4d88-aefa-1d3d17d010a0
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-c89af3b2-64c8-4d88-aefa-1d3d17d010a0
+  copyright_status: publicly_accessible
 - text: The event occurred well before sunrise and away from thunderstorm activity
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1206-1260
@@ -660,6 +695,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a5f192ff-e798-4395-8c8a-352c28e8af17
+  copyright_status: publicly_accessible
 - text: The object's estimated speed was over approximately 800 km/s
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:1274-1321
@@ -668,6 +704,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-8e7be7c7-cf59-443f-a2b4-1cbfaf665b4a
+  copyright_status: publicly_accessible
 - text: A map of Puerto Rico matched the foreshortening-corrected light pattern, locating
     the event near Vieques
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -679,6 +716,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-a53acbb1-2efa-4844-bd3a-647b3012a9cd
+  copyright_status: publicly_accessible
 - text: Carlotto considered event F1 one of the most unusual phenomena observed by
     the shuttle
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -687,6 +725,7 @@ references:
   claim_id: 8f11a9c6-6646-4af1-a1b1-5265d033d5b4
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-8f11a9c6-6646-4af1-a1b1-5265d033d5b4
+  copyright_status: publicly_accessible
 - text: Carlotto argued the object could not be a missile given its constant speed
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:27988-28136
@@ -695,6 +734,7 @@ references:
   claim_id: aae9f4f8-9bf7-4cf2-9cce-3fd90c74fd03
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-aae9f4f8-9bf7-4cf2-9cce-3fd90c74fd03
+  copyright_status: publicly_accessible
 - text: Carlotto judged the speed too high for a missile, within the range of known
     atmospheric phenomena
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -704,6 +744,7 @@ references:
   claim_id: d0fa8104-280e-4a67-8fbe-622885ea90ab
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-d0fa8104-280e-4a67-8fbe-622885ea90ab
+  copyright_status: publicly_accessible
 - text: Disk-like objects U1 and U2 generated interest because of their shape
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:20799-20877
@@ -712,6 +753,7 @@ references:
   claim_id: 3f20d749-5b1f-46c3-a59d-3f35c0defb6d
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-3f20d749-5b1f-46c3-a59d-3f35c0defb6d
+  copyright_status: publicly_accessible
 - text: U2 attracted interest for suddenly appearing in the video
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:21029-21121
@@ -720,6 +762,7 @@ references:
   claim_id: 621f9dee-2e5e-4fdc-ab28-77a314494e5f
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-621f9dee-2e5e-4fdc-ab28-77a314494e5f
+  copyright_status: publicly_accessible
 - text: Carlotto considered ice particles the most likely explanation for U1 and U2
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:23671-23795
@@ -729,6 +772,7 @@ references:
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
   inspection_url: /records/2005-pdf-anomalous-phenomena-in-space-shuttle-mission-sts-80-video#claim-2aeeda70-bfdf-4432-91f1-52a9d44af8e7
+  copyright_status: publicly_accessible
 - text: Eight of ten streak objects moved generally north-westerly
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:24643-24750
@@ -737,6 +781,7 @@ references:
   claim_id: 137352e2-207a-43d9-b89d-3ddb79cf97dc
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-137352e2-207a-43d9-b89d-3ddb79cf97dc
+  copyright_status: publicly_accessible
 - text: Carlotto argued the streaks would need improbable retrograde orbits if they
     were satellites
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -746,6 +791,7 @@ references:
   claim_id: d5e190fa-ffdb-41fa-8845-534762e066a4
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-d5e190fa-ffdb-41fa-8845-534762e066a4
+  copyright_status: publicly_accessible
 - text: Carlotto ruled out Geminid meteors because the streaks moved the wrong way
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
   location: char:25131-25206
@@ -754,6 +800,7 @@ references:
   claim_id: aaa5be06-e80d-4445-b7b7-960a84332b2b
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-aaa5be06-e80d-4445-b7b7-960a84332b2b
+  copyright_status: publicly_accessible
 - text: STS-48 cameras captured about a dozen objects in unusual trajectories in September
     1991
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -763,6 +810,7 @@ references:
   claim_id: 6481017e-c88c-4268-a405-4be424ae1a31
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-6481017e-c88c-4268-a405-4be424ae1a31
+  copyright_status: publicly_accessible
 - text: NASA assessed the STS-48 objects as sun-illuminated debris disturbed by a
     thruster firing
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -773,6 +821,7 @@ references:
   claim_id: a969c168-3156-4a14-8994-205b026862ef
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-a969c168-3156-4a14-8994-205b026862ef
+  copyright_status: publicly_accessible
 - text: Jack Kasher produced five proofs the STS-48 objects were not disturbed ice
     particles
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -782,6 +831,7 @@ references:
   claim_id: 6e4e6d59-505b-479a-abb2-87b9848944e1
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-6e4e6d59-505b-479a-abb2-87b9848944e1
+  copyright_status: publicly_accessible
 - text: Carlotto compared STS-80 imagery with DMSP Earth-light data to confirm the
     Puerto Rico identification
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -791,6 +841,7 @@ references:
   claim_id: ff06afa7-c09a-4428-8ea7-bc9a2be164ea
   record_hash: 4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630
   workbench_url: https://workbench.anomalica.is/4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec630#claim-ff06afa7-c09a-4428-8ea7-bc9a2be164ea
+  copyright_status: publicly_accessible
 - text: Carlotto is a colleague of Derakhshani at the SPSR
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -799,6 +850,7 @@ references:
   claim_id: fbeed663-910c-4e80-a96e-0ea4a59b7904
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-fbeed663-910c-4e80-a96e-0ea4a59b7904
+  copyright_status: publicly_accessible
 - text: Carlotto has done extensive work on lunar and Mars anomalies over the decades
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -807,6 +859,7 @@ references:
   claim_id: 47cf6d7b-84e3-4c7d-baf3-19efe5de32ea
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-47cf6d7b-84e3-4c7d-baf3-19efe5de32ea
+  copyright_status: publicly_accessible
 - text: NASA has never officially addressed Carlotto's STS-48 questions
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -816,6 +869,7 @@ references:
   claim_id: 6030002c-2ff8-49e9-b612-7bec01bc26c2
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-6030002c-2ff8-49e9-b612-7bec01bc26c2
+  copyright_status: publicly_accessible
 - text: Oberg exchanged views with Carlotto and Kasher unofficially
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
     Ross Coulthart
@@ -827,6 +881,7 @@ references:
   claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-0f63e416-be58-40c7-b227-5668e16084dc
+  copyright_status: publicly_accessible
 - text: Carlotto's 2005 STS-80 paper analysed the F1 object's propulsive capabilities
     via time-lapse photographs
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -839,6 +894,7 @@ references:
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
   inspection_url: /records/2026-08-10-video-what-did-apollo-astronauts-really-see-on-the-moon-reality#claim-70c0814f-5fbc-42ab-ad76-2fdcf006996c
+  copyright_status: publicly_accessible
 - text: Carlotto's STS-48 paper noted a correlation with DSP satellite data over the
     region
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with
@@ -851,6 +907,7 @@ references:
   claim_id: 4a96c065-7f66-4997-8441-7bdd0f20eb05
   record_hash: f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984
   workbench_url: https://workbench.anomalica.is/f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984#claim-4a96c065-7f66-4997-8441-7bdd0f20eb05
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

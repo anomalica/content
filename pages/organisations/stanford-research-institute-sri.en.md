@@ -47,6 +47,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-b01ab687-c383-4643-a06e-e08c420cad48
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-b01ab687-c383-4643-a06e-e08c420cad48
+  copyright_status: publicly_accessible
 - text: Ingo Swann was approached by SRI scientists to take part in psychic phenomena
     research
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -58,6 +59,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9fbe87b3-33f5-489a-9e1e-a064be653ce5
+  copyright_status: publicly_accessible
 - text: At SRI, Swann developed Coordinate Remote Viewing (CRV)
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -68,6 +70,7 @@ references:
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
   inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
+  copyright_status: publicly_accessible
 - text: In 1973 Swann began working with SRI scientists to explore remote viewing
     of planetary objects
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -78,6 +81,7 @@ references:
   claim_id: 36373393-2754-4358-b2e2-fca1754bbc45
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-36373393-2754-4358-b2e2-fca1754bbc45
+  copyright_status: publicly_accessible
 - text: A remote viewing programme, Project Stargate, was run for the CIA at SRI from
     1972
   source: The Fourth Mind
@@ -85,6 +89,7 @@ references:
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+  copyright_status: restricted
 - text: The SRI psychic spy programme originated during the Project MKUltra period,
     prompted by Soviet ESP research
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -95,12 +100,14 @@ references:
   claim_id: 46bc8dce-753a-412a-b040-220f88e7369e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-46bc8dce-753a-412a-b040-220f88e7369e
+  copyright_status: publicly_accessible
 - text: In 1973 Pat Price gave Hal Puthoff notes describing four alleged UFO bases
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:30560-30821
   claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
+  copyright_status: restricted
 - text: Vallée's view that the SRI experiments with Swann and Price suggest remote
     viewing works via an addressing scheme
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -108,6 +115,7 @@ references:
   claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-df72ab9c-594b-4c7f-aed0-926606b21c24
+  copyright_status: restricted
 - text: Vallée's contact saw an object rise near the Stanford linear accelerator,
     February 1972
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -116,6 +124,7 @@ references:
   claim_id: c146690e-eb59-466d-be50-7288a151b081
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c146690e-eb59-466d-be50-7288a151b081
+  copyright_status: restricted
 - text: Geller told SRI scientists that SPECTRA's computers were 'fed millions of
     light-years in the future'
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -124,6 +133,7 @@ references:
   claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7f75b7c-4b54-498c-b4c5-2c9434cf257f
+  copyright_status: restricted
 - text: Hoagland secured funding for the first Independent Mars Investigation under
     SRI's auspices
   source: Dark Mission
@@ -131,6 +141,7 @@ references:
   claim_id: 4d49444b-795c-4cc8-9c40-13ae220a144d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d49444b-795c-4cc8-9c40-13ae220a144d
+  copyright_status: restricted
 - text: Parapsychologists at PEAR and SRI conducted consciousness research studies
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -140,6 +151,7 @@ references:
   claim_id: d11f0dc4-78dd-4f4f-8884-193266ac4961
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d11f0dc4-78dd-4f4f-8884-193266ac4961
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

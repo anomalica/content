@@ -29,6 +29,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-e2194c84-5594-468a-994b-e9e98232c9d9
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-e2194c84-5594-468a-994b-e9e98232c9d9
+  copyright_status: public_domain
 - text: Charles Conrad said that Buzz Neal had discussed two phenomena related to
     the astronaut light flash phenomenon in a letter.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -39,6 +40,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-35c7d031-2389-4d2b-adc5-b4c2cf10ea7a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-35c7d031-2389-4d2b-adc5-b4c2cf10ea7a
+  copyright_status: public_domain
 - text: The record states that astronauts on earlier spaceflights reported seeing
     light flashes in the spacecraft at night with their eyes closed.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -50,6 +52,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-e14c09ac-48a3-4365-bab7-28e5110035b6
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-e14c09ac-48a3-4365-bab7-28e5110035b6
+  copyright_status: public_domain
 - text: An unnamed source described the phenomenon as a known effect caused by discharge
     across the eye from gamma rays or cosmic particles.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -61,6 +64,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-0ef44c14-387c-4e8d-aac0-c53d2deb35df
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-0ef44c14-387c-4e8d-aac0-c53d2deb35df
+  copyright_status: public_domain
 - text: The record states that NASA photographed astronauts' retinas during earlier
     crewed lunar missions and found no evidence of cosmic ray strikes.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -73,6 +77,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-fee65f9b-0280-4cfe-94c1-15f63b6baf36
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-fee65f9b-0280-4cfe-94c1-15f63b6baf36
+  copyright_status: public_domain
 - text: 'Charles Conrad described two distinct types of flash: a flash-like shape
     and a streak.'
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -83,6 +88,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-7144dfe1-8312-4036-8590-b3f33dc0e62d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-7144dfe1-8312-4036-8590-b3f33dc0e62d
+  copyright_status: public_domain
 - text: Charles Conrad said that he perceived more instances in his left eye than
     in his right eye.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -94,6 +100,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-ed51ce41-1af4-4222-b7e3-362761bb1e34
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-ed51ce41-1af4-4222-b7e3-362761bb1e34
+  copyright_status: public_domain
 - text: The record suggested that Conrad's position on the left side of the spacecraft
     might explain the difference between his eyes.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -105,6 +112,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-66337d8e-d899-45bf-acdb-9bd62f1fb57b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-66337d8e-d899-45bf-acdb-9bd62f1fb57b
+  copyright_status: public_domain
 - text: Charles Conrad described a flash travelling a short distance along a handrail
     above the MVP while he was looking directly at that spot.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -117,6 +125,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-b5d4cb6a-b887-4eda-8c78-4d3bd60ae2a7
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-b5d4cb6a-b887-4eda-8c78-4d3bd60ae2a7
+  copyright_status: public_domain
 - text: Charles Conrad said that the light streaks were horizontal.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
   location: 00:05:26.2-00:05:27.9
@@ -126,6 +135,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-2d86fd5d-f03e-4c1a-8625-53a03c9c4d1a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-2d86fd5d-f03e-4c1a-8625-53a03c9c4d1a
+  copyright_status: public_domain
 - text: Charles Conrad had the impression that the streaks appeared in roughly the
     same place, slightly above the centre of his field of view, and moved from right
     to left.
@@ -140,6 +150,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-a00086be-7251-44b5-8c50-119410b44a2d
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-a00086be-7251-44b5-8c50-119410b44a2d
+  copyright_status: public_domain
 - text: Charles Conrad recalled that the streaks appeared at roughly 30 degrees from
     horizontal.
   source: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
@@ -150,6 +161,7 @@ references:
   record_hash: 5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e
   workbench_url: https://workbench.anomalica.is/5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277e#claim-2ce9de79-1ef4-4704-8956-e15cc1c43233
   inspection_url: /records/2026-07-11-audio-nasa-uap-d008-apollo-12-medical-debriefing-tape-12-1969#claim-2ce9de79-1ef4-4704-8956-e15cc1c43233
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -31,6 +31,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
+  copyright_status: publicly_accessible
 - text: Corbell said the disclosed information concerned the alleged Rubik's Cube
     programme.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -43,6 +44,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-3dfdfada-20e0-41bf-86ec-cc93fe239426
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-3dfdfada-20e0-41bf-86ec-cc93fe239426
+  copyright_status: publicly_accessible
 - text: Dylan Borland corroborated the allegation that protected testimony was disclosed
     to Corbell.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -55,6 +57,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-87216fae-3a6c-4293-ac41-12a205d9769c
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-87216fae-3a6c-4293-ac41-12a205d9769c
+  copyright_status: publicly_accessible
 - text: The source record describes Borland as a former United States Air Force geospatial
     intelligence specialist.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -68,6 +71,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-8d027eb7-f920-41cc-8d1b-e15bd30065bc
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-8d027eb7-f920-41cc-8d1b-e15bd30065bc
+  copyright_status: publicly_accessible
 - text: The source record says Borland later worked for BAE Systems as a senior analyst.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
     | Reimagining Old News
@@ -80,6 +84,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-1f76086b-db28-4608-97d9-8776f0a5e2b7
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-1f76086b-db28-4608-97d9-8776f0a5e2b7
+  copyright_status: publicly_accessible
 - text: The source record says Borland later worked for Intrepid Solutions as a senior
     analyst.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -93,6 +98,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-f6710d96-ad78-4635-8c66-6be27f11b5db
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-f6710d96-ad78-4635-8c66-6be27f11b5db
+  copyright_status: publicly_accessible
 - text: The ICIG spokesperson declined to confirm testimony or an investigation.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
     | Reimagining Old News
@@ -106,6 +112,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-4c30364b-383d-4c67-abab-06b162fd1b11
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-4c30364b-383d-4c67-abab-06b162fd1b11
+  copyright_status: publicly_accessible
 - text: The ICIG stated that unauthorised disclosure could lead to removal from federal
     service and referral to the FBI.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -119,6 +126,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-88eb8ecf-ff8d-4841-8203-a086242f825a
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-88eb8ecf-ff8d-4841-8203-a086242f825a
+  copyright_status: publicly_accessible
 - text: The DIG conducted an inquiry and met Matthew Brown at the Liberty Crossing
     Intelligence Campus.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -132,6 +140,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-290e6613-6d78-4e56-b313-db404b08729a
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-290e6613-6d78-4e56-b313-db404b08729a
+  copyright_status: publicly_accessible
 - text: Matthew Brown said the DIG sought information about his access to classified
     compartments.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -144,6 +153,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-84faebb1-208d-487f-8c6b-f8eb1475cd32
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-84faebb1-208d-487f-8c6b-f8eb1475cd32
+  copyright_status: publicly_accessible
 - text: James E. Erdman III alleged that the CIA obstructed DIG work and monitored
     communications and whistleblower contacts.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -156,6 +166,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-ab01af41-789c-41a4-9060-198550036353
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-ab01af41-789c-41a4-9060-198550036353
+  copyright_status: publicly_accessible
 - text: The ICIG said it could neither confirm nor deny a pending or ongoing investigation.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
     | Reimagining Old News
@@ -167,6 +178,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-7af20011-d481-452f-be3d-81774801d9a7
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-7af20011-d481-452f-be3d-81774801d9a7
+  copyright_status: publicly_accessible
 - text: The source record says Liberation Times did not independently substantiate
     allegations concerning Aaron Lukas.
   source: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times
@@ -179,6 +191,7 @@ references:
   record_hash: f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485
   workbench_url: https://workbench.anomalica.is/f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a4485#claim-dc20b4bf-d601-48b0-a5f1-a6f6b3dbef19
   inspection_url: /records/2026-08-11-web-ic-watchdog-responds-to-alleged-uap-whistleblower-leak#claim-dc20b4bf-d601-48b0-a5f1-a6f6b3dbef19
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

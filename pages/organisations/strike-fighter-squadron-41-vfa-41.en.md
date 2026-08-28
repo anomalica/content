@@ -61,6 +61,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9b2b33be-9320-4035-a75b-5023f5239361
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9b2b33be-9320-4035-a75b-5023f5239361
+  copyright_status: public_domain
 - text: David Fravor was commander of VFA-41, also known as the Black Aces
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -69,6 +70,7 @@ references:
   claim_id: 454cb56a-e14a-47b8-9fc6-6e4f26bcde19
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-454cb56a-e14a-47b8-9fc6-6e4f26bcde19
+  copyright_status: publicly_accessible
 - text: VFA-41 is a squadron of 12 airplanes consisting of several hundred people
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -77,6 +79,7 @@ references:
   claim_id: 122749b7-4475-4b6d-9caf-3affa7833319
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-122749b7-4475-4b6d-9caf-3affa7833319
+  copyright_status: publicly_accessible
 - text: The only participants in the events surrounding the detection and intercept
     of the AAV were USS Princeton, VAW-117, VMFA-232, and VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -87,6 +90,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-62c54f11-a6af-4fff-a758-dd84cf34bb3e
+  copyright_status: public_domain
 - text: David Fravor was the pilot of FastEagle 01, one of two F/A-18Fs of VFA-41
     involved in the intercept and visual contact with the AAV on 2004-11-14
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -97,6 +101,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+  copyright_status: public_domain
 - text: Alex Dietrich was the pilot of FastEagle 02, one of two F/A-18Fs of VFA-41
     involved in the intercept
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -107,6 +112,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
+  copyright_status: public_domain
 - text: Chad Underwood was a member of VFA-41 and was the WSO flying with another
     lieutenant
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -117,6 +123,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a0e9092a-0b43-4515-904d-33f52265bb33
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a0e9092a-0b43-4515-904d-33f52265bb33
+  copyright_status: public_domain
 - text: Chad Underwood's crew were part of the second F/A-18F section from VFA-41
     airborne on 2004-11-14
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -126,6 +133,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-c0913cbc-0ca6-481b-bf86-aab7c9143f51
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-c0913cbc-0ca6-481b-bf86-aab7c9143f51
+  copyright_status: public_domain
 - text: All AAV activity was reported to D.C. Curtis by the Commanding Officers of
     USS Princeton (CG-59) and VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -135,6 +143,7 @@ references:
   claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
+  copyright_status: public_domain
 - text: CVW-11 comprised VMFA-232 (F/A-18C), VFA-14 (F/A-18E), VFA-41 (F/A-18F), VFA-94
     (F/A-18C), VAQ-135 (EA-6B), VAW-117 (E-2C), HS-6 (H-60), and VRC-30 Det 3 (C-2A)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -146,6 +155,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8c5e314-ee6a-40f1-8e67-82b965f2030b
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a8c5e314-ee6a-40f1-8e67-82b965f2030b
+  copyright_status: public_domain
 - text: During his freshman cruise aboard USS Nimitz, Fravor observed VF-41 and VF-84,
     an F-14 Tomcat squadron, along with A-6 Intruder squadrons operating from the
     carrier
@@ -157,6 +167,7 @@ references:
   claim_id: 16508532-224d-4ee0-acba-5a1303e227bf
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-16508532-224d-4ee0-acba-5a1303e227bf
+  copyright_status: publicly_accessible
 - text: Fravor flew the two-seat variant of the F/A-18F Super Hornet when he had command
     of VFA-41
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -166,6 +177,7 @@ references:
   claim_id: 79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-79cdeaa3-fbcc-4fbf-b6cf-ab5507c588b2
+  copyright_status: publicly_accessible
 - text: In 2004-11, David Fravor was the Commanding Officer of VFA-41, nicknamed the
     Black Aces
   source: David Fravor Statement for the House Oversight Committee
@@ -175,6 +187,7 @@ references:
   claim_id: 343db81b-742c-47a6-a889-eb97edb5be6d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-343db81b-742c-47a6-a889-eb97edb5be6d
+  copyright_status: public_domain
 - text: VFA-41 (Black Aces) was attached to Carrier Airwing Eleven and stationed aboard
     USS Nimitz (CVN-68) in 2004
   source: David Fravor Statement for the House Oversight Committee
@@ -184,6 +197,7 @@ references:
   claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

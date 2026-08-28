@@ -49,6 +49,7 @@ references:
   claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81697f7d-8545-4d1e-8a38-632f67d8c68b
+  copyright_status: restricted
 - text: The Director of Central Intelligence position he held became the CIA later
     in 1947.
   source: In Plain Sight
@@ -56,18 +57,21 @@ references:
   claim_id: b1375d69-f83f-4842-abd2-3e57e8987ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b1375d69-f83f-4842-abd2-3e57e8987ef6
+  copyright_status: restricted
 - text: He had formerly commanded the battleship USS Missouri.
   source: In Plain Sight
   location: ch7:5329-5484
   claim_id: ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
+  copyright_status: restricted
 - text: He was wounded aboard a vessel during the attack on Pearl Harbor on 1941-12-07.
   source: In Plain Sight
   location: ch7:5408-5484
   claim_id: b26db7a2-3d63-41d4-b049-0cbc8784a4e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b26db7a2-3d63-41d4-b049-0cbc8784a4e4
+  copyright_status: restricted
 - text: Fixing the intelligence failures that allowed the Pearl Harbor attack to go
     undetected was a major priority in his new role.
   source: In Plain Sight
@@ -75,12 +79,14 @@ references:
   claim_id: c87ead90-11cb-46ae-b2c8-9abbc5e0210c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c87ead90-11cb-46ae-b2c8-9abbc5e0210c
+  copyright_status: restricted
 - text: He joined the Board of Directors of NICAP.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32773-32810
   claim_id: f15c72a4-ad1a-4396-8a99-2196c1221424
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f15c72a4-ad1a-4396-8a99-2196c1221424
+  copyright_status: restricted
 - text: He was one of three former navy admirals on the NICAP board, barely a year
     after leaving the CIA directorship.
   source: In Plain Sight
@@ -88,6 +94,7 @@ references:
   claim_id: 909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
+  copyright_status: restricted
 - text: Hillenkoetter said it was imperative to learn what UFOs are and where they
     come from.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -95,6 +102,7 @@ references:
   claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
+  copyright_status: restricted
 - text: In 1960 he said it was time for the truth to be brought out in open congressional
     hearings.
   source: In Plain Sight
@@ -102,6 +110,7 @@ references:
   claim_id: 6ceca9f9-2cdc-4030-9366-f12c7cf70099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ceca9f9-2cdc-4030-9366-f12c7cf70099
+  copyright_status: restricted
 - text: He told Congress that high-ranking air force officers were privately concerned
     about UFOs while secrecy and ridicule led the public to dismiss them.
   source: In Plain Sight
@@ -109,6 +118,7 @@ references:
   claim_id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
+  copyright_status: restricted
 - text: As a former CIA Director he pushed for congressional hearings while the Air
     Force publicly debunked UAP sightings but took the phenomenon seriously in private.
   source: In Plain Sight
@@ -116,6 +126,7 @@ references:
   claim_id: 6ee9a279-9c83-4c4f-8cb9-9c0866496b29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ee9a279-9c83-4c4f-8cb9-9c0866496b29
+  copyright_status: restricted
 - text: Jacques Vallée speculated that Hillenkoetter may have been lending credibility
     to the Martian Conspiracy stratagem by promoting the extraterrestrial theory of
     UFOs.
@@ -124,6 +135,7 @@ references:
   claim_id: 422238e0-ca4d-42cf-afc7-222669d1fe79
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-422238e0-ca4d-42cf-afc7-222669d1fe79
+  copyright_status: restricted
 - text: Harry Turner said intelligence officers, including Hillenkoetter, had stated
     the government knew UFOs were extraterrestrial but withheld this from the public.
   source: In Plain Sight
@@ -131,6 +143,7 @@ references:
   claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

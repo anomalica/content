@@ -421,48 +421,56 @@ references:
   claim_id: 79e7bf5f-fb9a-49a4-9e24-30c6f28b7c47
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-79e7bf5f-fb9a-49a4-9e24-30c6f28b7c47
+  copyright_status: restricted
 - text: Began researching the UFO phenomenon in January 2012
   source: American Cosmic
   location: ch1:17790-17903
   claim_id: 68470f4c-cdd2-4319-b2d7-4d76636c07b2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-68470f4c-cdd2-4319-b2d7-4d76636c07b2
+  copyright_status: restricted
 - text: Raised a born-again Christian from age eleven; attends a Catholic church
   source: American Cosmic
   location: ch3:6765-6887
   claim_id: fc32d51c-2338-4e3a-ae9e-385b5605a115
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fc32d51c-2338-4e3a-ae9e-385b5605a115
+  copyright_status: restricted
 - text: Coined the term 'meta-experiencer'
   source: American Cosmic
   location: ch1:18355-18584
   claim_id: 4e8bfae4-8dc8-4824-84f2-d9eb51251afe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4e8bfae4-8dc8-4824-84f2-d9eb51251afe
+  copyright_status: restricted
 - text: Tyler D. was an employee in the space industry
   source: American Cosmic
   location: ch1:18598-18650
   claim_id: 0253d69d-3488-4f0b-9a29-42e013713b3d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0253d69d-3488-4f0b-9a29-42e013713b3d
+  copyright_status: restricted
 - text: Tyler D. was a wealthy rocket scientist
   source: American Cosmic
   location: ch1:21715-21739
   claim_id: 63a2b88f-8a51-4c3f-a8bc-cd27a5c255ba
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63a2b88f-8a51-4c3f-a8bc-cd27a5c255ba
+  copyright_status: restricted
 - text: Tyler D. was an aeronautical engineer and biomedical entrepreneur
   source: American Cosmic
   location: ch1:21625-21701
   claim_id: 649a54b7-73da-4e77-8ca0-73aa9b7509a2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-649a54b7-73da-4e77-8ca0-73aa9b7509a2
+  copyright_status: restricted
 - text: Pasulka organised a closed conference to which Tyler D. was not invited
   source: American Cosmic
   location: ch1:12136-12408
   claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3ec14aeb-c155-4b86-bbcb-63a9e8e85438
+  copyright_status: restricted
 - text: Tyler D. phoned Pasulka the day after her conference to invite her to New
     Mexico
   source: American Cosmic
@@ -470,6 +478,7 @@ references:
   claim_id: 37fa21ee-6c14-4894-9375-21c924bc7902
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-37fa21ee-6c14-4894-9375-21c924bc7902
+  copyright_status: restricted
 - text: The three wore blindfolds for the last forty minutes of the drive to the New
     Mexico site
   source: American Cosmic
@@ -477,12 +486,14 @@ references:
   claim_id: f3e195f0-f810-4061-af1b-2ba678563123
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f3e195f0-f810-4061-af1b-2ba678563123
+  copyright_status: restricted
 - text: Tyler D. drove them for forty minutes over a gravel road to reach the site
   source: American Cosmic
   location: ch1:4190-4224
   claim_id: 7a3a5557-ec69-4883-b330-9caeb20fedad
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7a3a5557-ec69-4883-b330-9caeb20fedad
+  copyright_status: restricted
 - text: The group located a small metallic object with a metal detector, later identified
     as the artifact
   source: American Cosmic
@@ -491,54 +502,63 @@ references:
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   inspection_url: /records/2019-ebook-american-cosmic#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
+  copyright_status: restricted
 - text: James Master found it lodged in a crevice between rocks in a gully
   source: American Cosmic
   location: ch1:53224-53366
   claim_id: 3f946a0e-5792-4886-99cf-fcf0ea2a2925
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3f946a0e-5792-4886-99cf-fcf0ea2a2925
+  copyright_status: restricted
 - text: Tyler D. photographed, labelled and bagged the specimen
   source: American Cosmic
   location: ch1:52864-53061
   claim_id: 49c7208c-496f-4349-b714-3e64140de060
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49c7208c-496f-4349-b714-3e64140de060
+  copyright_status: restricted
 - text: James Master agreed to take the artifacts to study them
   source: American Cosmic
   location: ch1:54667-54729
   claim_id: 4be76785-0432-4ccc-9baa-7c32d15eafda
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4be76785-0432-4ccc-9baa-7c32d15eafda
+  copyright_status: restricted
 - text: James Master's bag caused an airport X-ray scanner to shut down
   source: American Cosmic
   location: ch1:56264-56414
   claim_id: c472de76-48f4-40c5-95fd-2e048c26a3de
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c472de76-48f4-40c5-95fd-2e048c26a3de
+  copyright_status: restricted
 - text: Security searched James Master and his belongings
   source: American Cosmic
   location: ch1:56818-56943
   claim_id: f2047c37-48d4-43ca-96d0-b5f0a4080268
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f2047c37-48d4-43ca-96d0-b5f0a4080268
+  copyright_status: restricted
 - text: James Master is one of the world's leading scientists
   source: American Cosmic
   location: ch1:2896-3008
   claim_id: c51831f9-3acc-4418-aa81-8219622c4ca7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c51831f9-3acc-4418-aa81-8219622c4ca7
+  copyright_status: restricted
 - text: James Master holds an endowed chair in molecular biology and heads a laboratory
   source: American Cosmic
   location: ch2:2810-2918
   claim_id: 60405294-1026-42b6-9ba6-66dd6234bf2c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-60405294-1026-42b6-9ba6-66dd6234bf2c
+  copyright_status: restricted
 - text: Jacques Vallée described as a researcher, astronomer and computer scientist
   source: American Cosmic
   location: ch1:55374-55454
   claim_id: 4782951a-45e6-406d-bad8-642de4c660c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
+  copyright_status: restricted
 - text: Vallée's approach addresses the physical, testimonial and social aspects of
     the UFO phenomenon
   source: American Cosmic
@@ -547,12 +567,14 @@ references:
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   inspection_url: /records/2019-ebook-american-cosmic#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
+  copyright_status: restricted
 - text: Vallée told Pasulka to trust no one, not even what she saw
   source: American Cosmic
   location: ch2:55618-55702
   claim_id: fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
+  copyright_status: restricted
 - text: Vallée and Pasulka interviewed a witness who saw a starlike object near Santa
     Cruz
   source: American Cosmic
@@ -560,6 +582,7 @@ references:
   claim_id: a65b22bb-4a67-4632-96e6-7a9d9202132e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a65b22bb-4a67-4632-96e6-7a9d9202132e
+  copyright_status: restricted
 - text: Haraway asked Pasulka to consider what was happening in the mind of someone
     viewing film images or apparitions
   source: American Cosmic
@@ -567,18 +590,21 @@ references:
   claim_id: fa2da5f0-c16d-4b30-a34d-d75a0ef2dabe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fa2da5f0-c16d-4b30-a34d-d75a0ef2dabe
+  copyright_status: restricted
 - text: Pasulka interviewed Haraway about a plan to study Marian apparitions in Medjugorje
   source: American Cosmic
   location: ch5:29959-30234
   claim_id: 21a84d5a-3cc0-4578-9348-a5228802ebcd
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-21a84d5a-3cc0-4578-9348-a5228802ebcd
+  copyright_status: restricted
 - text: Scott Browne created and moderates In the Field
   source: American Cosmic
   location: ch3:3496-3689
   claim_id: e9a4907c-07b6-418b-a183-0a65a5046363
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9a4907c-07b6-418b-a183-0a65a5046363
+  copyright_status: restricted
 - text: Pasulka joined In the Field after telling Browne she studied UFOs and worked
     with Vallée
   source: American Cosmic
@@ -586,30 +612,35 @@ references:
   claim_id: ba4d450d-059c-4598-9a7b-7a0cfeacb36d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ba4d450d-059c-4598-9a7b-7a0cfeacb36d
+  copyright_status: restricted
 - text: Browne has been called a 'debunker' and worse online
   source: American Cosmic
   location: ch3:1033-1242
   claim_id: 9cd88981-358d-4ed5-b606-17b3398d6dd4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9cd88981-358d-4ed5-b606-17b3398d6dd4
+  copyright_status: restricted
 - text: Browne received threats of bodily and emotional harm
   source: American Cosmic
   location: ch3:280-524
   claim_id: eb5158e5-eeca-4def-a54a-6fcf458e891f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb5158e5-eeca-4def-a54a-6fcf458e891f
+  copyright_status: restricted
 - text: Browne exposed viral UFO images as differently shaped balloons
   source: American Cosmic
   location: ch3:49858-50304
   claim_id: 7dc4ed09-26b5-4527-a6c0-847151331962
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7dc4ed09-26b5-4527-a6c0-847151331962
+  copyright_status: restricted
 - text: The door of Santa Sabina church depicts levitation and Christ's ascension
   source: American Cosmic
   location: 3-7
   claim_id: 042ce593-e376-43cc-9bf4-8d3c1485363b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-042ce593-e376-43cc-9bf4-8d3c1485363b
+  copyright_status: restricted
 - text: Golf-cart tour of Rome with Tyler D.; stopped by police for around twenty
     minutes before reaching the church
   source: American Cosmic
@@ -617,6 +648,7 @@ references:
   claim_id: bd98440e-ec59-40b7-90d8-80198c16b026
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bd98440e-ec59-40b7-90d8-80198c16b026
+  copyright_status: restricted
 - text: Tyler D. obtained Pasulka's agreement to reveal his identity to Vatican Secret
     Archives security
   source: American Cosmic
@@ -624,18 +656,21 @@ references:
   claim_id: f722a8e6-8472-4c26-a81a-0600ced6bb5a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f722a8e6-8472-4c26-a81a-0600ced6bb5a
+  copyright_status: restricted
 - text: Tsiolkovsky regarded as founding father of rocketry and aeronautics
   source: American Cosmic
   location: ch1:34241-34313
   claim_id: e2fb4653-f326-4053-b2a9-7442528c98e6
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e2fb4653-f326-4053-b2a9-7442528c98e6
+  copyright_status: restricted
 - text: Tsiolkovsky discovered the equations later used to develop rockets
   source: American Cosmic
   location: ch1:34849-35026
   claim_id: 7bc479e0-470a-4ef5-9b54-c2c14da99de4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7bc479e0-470a-4ef5-9b54-c2c14da99de4
+  copyright_status: restricted
 - text: Jack Parsons collaborated with Crowley and Hubbard, launching rockets and
     conducting rituals
   source: American Cosmic
@@ -643,18 +678,21 @@ references:
   claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89b8270c-54ab-4a51-8a92-3451f647b1ed
+  copyright_status: restricted
 - text: Parsons died at thirty-seven when a rocket exploded in his garage
   source: American Cosmic
   location: ch1:35603-35716
   claim_id: 2f0d3c95-90d5-45fd-b361-5395514c1396
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2f0d3c95-90d5-45fd-b361-5395514c1396
+  copyright_status: restricted
 - text: Pasulka owned a pink iPhone
   source: American Cosmic
   location: ch1:51786-51820
   claim_id: b26c98ad-91f0-4362-8876-e25c75894ffa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b26c98ad-91f0-4362-8876-e25c75894ffa
+  copyright_status: restricted
 - text: 'Pasulka wrote that the monolith in 2001: A Space Odyssey resembled a larger
     version of her iPhone'
   source: American Cosmic
@@ -662,18 +700,21 @@ references:
   claim_id: 163b6674-5ecf-4ce2-a710-78d7a89d6769
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-163b6674-5ecf-4ce2-a710-78d7a89d6769
+  copyright_status: restricted
 - text: Unable to sleep one New Year's Eve, Pasulka opened The Gay Science at random
   source: American Cosmic
   location: ch3:41335-41614
   claim_id: 51bd21e6-2e5b-4249-ae7c-0b35ebc414d9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-51bd21e6-2e5b-4249-ae7c-0b35ebc414d9
+  copyright_status: restricted
 - text: The book fell open to one of only three aphorisms devoted to New Year's Eve
   source: American Cosmic
   location: ch3:41673-41834
   claim_id: a73cb27c-f825-4f3a-bd13-746168ede675
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a73cb27c-f825-4f3a-bd13-746168ede675
+  copyright_status: restricted
 - text: Pasulka connects UFO narrative formation to Jung's concept of amplificatory
     interpretation
   source: American Cosmic
@@ -681,6 +722,7 @@ references:
   claim_id: a5d40175-45fd-44e0-9c68-3d53715d6d31
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a5d40175-45fd-44e0-9c68-3d53715d6d31
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -23,6 +23,7 @@ references:
   record_hash: 0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1
   workbench_url: https://workbench.anomalica.is/0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1#claim-b55b7784-3854-4f6e-bfa7-a426a7556b61
   inspection_url: /records/undated-pdf-uap-sighting-report#claim-b55b7784-3854-4f6e-bfa7-a426a7556b61
+  copyright_status: public_domain
 - text: The report states that the sighting was classified SECRET and releasable to
     the United States, Finland, Sweden, Five Eyes, and NATO.
   source: UAP Sighting Report
@@ -34,6 +35,7 @@ references:
   record_hash: 0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1
   workbench_url: https://workbench.anomalica.is/0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1#claim-6e4c201a-bb1d-4ba0-b5e5-767c57da05be
   inspection_url: /records/undated-pdf-uap-sighting-report#claim-6e4c201a-bb1d-4ba0-b5e5-767c57da05be
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

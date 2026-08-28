@@ -64,6 +64,7 @@ references:
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
+  copyright_status: restricted
 - text: Ingo Swann worked with Puthoff and Targ, two leading parapsychology researchers
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
     1 of 3)'
@@ -73,6 +74,7 @@ references:
   claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-3f74a70d-1e63-437a-9074-2c875c7ad747
+  copyright_status: publicly_accessible
 - text: Puthoff and Targ were directly responsible for the Cognitive Sciences Laboratory's
     accomplishments from 1972 through 1986
   source: Remote Viewing Secrets
@@ -80,6 +82,7 @@ references:
   claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4cb33f4-fcae-4d9c-ac99-b5f27a536892
+  copyright_status: restricted
 - text: The Outbounder Remote Viewing protocol was the baseline protocol that brought
     notoriety to remote viewing after Puthoff and Targ published it in the IEEE journal
     in 1976
@@ -88,6 +91,7 @@ references:
   claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28ae29f3-6fce-459c-b88b-a56ed32a6fc8
+  copyright_status: restricted
 - text: Persons with no previous exposure to remote viewing, including visiting scientists
     and contract monitors, learned to perform well under the SRI procedure
   source: Remote Viewing Secrets
@@ -95,6 +99,7 @@ references:
   claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fadb57c8-ea4e-41aa-ac48-caede7a11946
+  copyright_status: restricted
 - text: Subjects who trained over a one-year period performed excellently under a
     variety of experimental conditions
   source: Remote Viewing Secrets
@@ -102,6 +107,7 @@ references:
   claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b38c3f0f-e758-4bc5-bbca-248464eca087
+  copyright_status: restricted
 - text: Accumulated SRI data indicated both specially selected and unselected persons
     could be assisted in developing remote perceptual abilities to a useful level
   source: Remote Viewing Secrets
@@ -109,6 +115,7 @@ references:
   claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8bef8daf-91e6-4f65-bc05-f65963c367d4
+  copyright_status: restricted
 - text: McMoneagle considered that 'perform well' meant psychic functioning under
     controlled conditions at better-than-chance, not world-class remote viewing
   source: Remote Viewing Secrets
@@ -116,12 +123,14 @@ references:
   claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
+  copyright_status: restricted
 - text: Most subjects displayed some degree of remote viewing talent from the outset
   source: Remote Viewing Secrets
   location: ch16:3847-3958
   claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
+  copyright_status: restricted
 - text: Most subjects voluntarily continued their involvement out of personal interest,
     a form of self-selection
   source: Remote Viewing Secrets
@@ -129,6 +138,7 @@ references:
   claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+  copyright_status: restricted
 - text: Jane Katra coauthored two books on nonlocal consciousness and healing with
     Targ, a laser pioneer
   source: Surviving Death
@@ -136,6 +146,7 @@ references:
   claim_id: 2d7129da-8ba7-4066-a2d9-a43d43721086
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2d7129da-8ba7-4066-a2d9-a43d43721086
+  copyright_status: restricted
 - text: Elisabeth Targ, a psychiatrist, was Katra's close friend and Targ's daughter,
     and died in 2002
   source: Surviving Death
@@ -143,6 +154,7 @@ references:
   claim_id: af850541-be4c-41f6-865e-b8e827479fbb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-af850541-be4c-41f6-865e-b8e827479fbb
+  copyright_status: restricted
 - text: Elisabeth Targ's husband brought out a letter over lunch with Katra and Targ,
     and suggested Katra read it aloud
   source: Surviving Death
@@ -150,6 +162,7 @@ references:
   claim_id: 38b2aa65-f941-4ad3-96a3-a53b7bd81e36
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-38b2aa65-f941-4ad3-96a3-a53b7bd81e36
+  copyright_status: restricted
 - text: After Katra read the syllables aloud, Targ recognised the words were Russian,
     not nonsense
   source: Surviving Death
@@ -157,6 +170,7 @@ references:
   claim_id: 93a8ee42-3453-4cfc-b937-e800c315d973
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-93a8ee42-3453-4cfc-b937-e800c315d973
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

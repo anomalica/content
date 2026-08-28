@@ -133,84 +133,98 @@ references:
   claim_id: 36622a18-3d22-44e9-b092-4837c5f65a51
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-36622a18-3d22-44e9-b092-4837c5f65a51
+  copyright_status: restricted
 - text: The Living-Agent Psi (LAP) hypothesis for mediumship
   source: Surviving Death
   location: ch7:22749-23026
   claim_id: 7fee698f-b3f7-4139-bbcb-9d0655a91ad9
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7fee698f-b3f7-4139-bbcb-9d0655a91ad9
+  copyright_status: restricted
 - text: LAP-hypothesis telepathy not limited by physical distance
   source: Surviving Death
   location: ch7:23033-23102
   claim_id: 7d9737b1-772e-4298-83b6-2f03d02b43aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7d9737b1-772e-4298-83b6-2f03d02b43aa
+  copyright_status: restricted
 - text: Definition of mental mediumship
   source: Surviving Death
   location: ch23:2100-2236
   claim_id: 06dde758-f5cf-43aa-80f6-b1a38cb2507a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-06dde758-f5cf-43aa-80f6-b1a38cb2507a
+  copyright_status: restricted
 - text: Alan Gauld on a drop-in communicator case exceeding clairvoyance or telepathy
   source: Surviving Death
   location: ch28:42150-42451
   claim_id: 5323b9f7-5573-491d-8281-53184642d560
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5323b9f7-5573-491d-8281-53184642d560
+  copyright_status: restricted
 - text: Runki's grandson could not have telepathically supplied the confirming detail
   source: Surviving Death
   location: ch28:45831-46099
   claim_id: 0a131266-14c9-4018-94dc-57a45bb0c931
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0a131266-14c9-4018-94dc-57a45bb0c931
+  copyright_status: restricted
 - text: Kean on the super-ESP hypothesis requiring extreme telepathy and clairvoyance
   source: Surviving Death
   location: ch29:1790-2063
   claim_id: 32365fe4-612e-439b-832c-5ab4ef8fcc61
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-32365fe4-612e-439b-832c-5ab4ef8fcc61
+  copyright_status: restricted
 - text: Kean on the telepathic requirements of a materialised form
   source: Surviving Death
   location: ch37:26809-27245
   claim_id: 0e7c03fa-63bd-4697-8e4c-c920c65c07c1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0e7c03fa-63bd-4697-8e4c-c920c65c07c1
+  copyright_status: restricted
 - text: Haraldsson on drop-in cases and the survival hypothesis
   source: Surviving Death
   location: ch36:4511-4759
   claim_id: 998233a3-9234-4c7e-b3a9-c6c3c11d6837
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-998233a3-9234-4c7e-b3a9-c6c3c11d6837
+  copyright_status: restricted
 - text: Kean's description of her first after-death communication
   source: Surviving Death
   location: ch30:14771-14975
   claim_id: c3939194-dea4-4e85-b9a5-2a88e66627c0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c3939194-dea4-4e85-b9a5-2a88e66627c0
+  copyright_status: restricted
 - text: Auerbach on perceptual insertion and apparitions
   source: Surviving Death
   location: ch31:25780-25919
   claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b10a7f9d-7dd3-407b-95d4-71a545b7437b
+  copyright_status: restricted
 - text: Auerbach's Chris/Lois case and telepathy as an explanation
   source: Surviving Death
   location: ch31:29086-29334
   claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
+  copyright_status: restricted
 - text: The six siddhi powers including telepathy
   source: The Fourth Mind
   location: ch21:4712-4876
   claim_id: 6651215a-1a96-4bdf-a140-901f268e6102
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6651215a-1a96-4bdf-a140-901f268e6102
+  copyright_status: restricted
 - text: Levitation and telepathy among the secondary siddhis
   source: The Fourth Mind
   location: ch21:7935-8025
   claim_id: 4b960ab4-c764-43f5-986b-2374e5ab48cd
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4b960ab4-c764-43f5-986b-2374e5ab48cd
+  copyright_status: restricted
 - text: Telepathy as a side effect of addressing the universe from outside time
   source: The Fourth Mind
   location: ch21:1868-2179
@@ -218,36 +232,42 @@ references:
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
   inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
+  copyright_status: restricted
 - text: The third eye as a telepathic transceiver in Hindu tradition
   source: The Fourth Mind
   location: ch24:6530-6825
   claim_id: 738d2e9d-71c8-4e61-b454-a3ead6f0929a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-738d2e9d-71c8-4e61-b454-a3ead6f0929a
+  copyright_status: restricted
 - text: Humanity as a telepathic species before the Younger Dryas
   source: The Fourth Mind
   location: ch26:13002-13148
   claim_id: e5160acb-200e-461f-b732-2a9c28708c3e
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e5160acb-200e-461f-b732-2a9c28708c3e
+  copyright_status: restricted
 - text: Telepathic social groups contracting during the Younger Dryas
   source: The Fourth Mind
   location: ch24:4311-4478
   claim_id: 564d82f7-6a7c-4c4d-b424-5a1e04f3b11e
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-564d82f7-6a7c-4c4d-b424-5a1e04f3b11e
+  copyright_status: restricted
 - text: Ancient peoples abandoning powers including telepathy
   source: The Fourth Mind
   location: ch25:16133-16382
   claim_id: a0d749bc-0f56-478e-a14e-8fcdbf62e185
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0d749bc-0f56-478e-a14e-8fcdbf62e185
+  copyright_status: restricted
 - text: Telepathy as the lost power most needed to restore community
   source: The Fourth Mind
   location: ch25:21607-21780
   claim_id: 4455274f-bc8e-4dac-85fc-00d45fdd8421
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4455274f-bc8e-4dac-85fc-00d45fdd8421
+  copyright_status: restricted
 - text: Nichols on emotional bond as key to precognition and telepathy
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
   location: 00:16:15.8-00:16:37.4
@@ -259,48 +279,56 @@ references:
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
   inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
+  copyright_status: publicly_accessible
 - text: Strieber's experience that 'the boy' was telepathic
   source: The Fourth Mind
   location: ch14:25382-25436
   claim_id: f95bd6cd-5bf4-4bc1-912d-dde4e2921f64
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f95bd6cd-5bf4-4bc1-912d-dde4e2921f64
+  copyright_status: restricted
 - text: Klinefelter syndrome suggested as linked to the boy's telepathy
   source: The Fourth Mind
   location: ch14:25497-25681
   claim_id: 92a4e2ed-a55e-4459-83f8-da988f47d016
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-92a4e2ed-a55e-4459-83f8-da988f47d016
+  copyright_status: restricted
 - text: Strieber on flawed telepathic hybrids lacking speech
   source: The Fourth Mind
   location: ch14:29511-29684
   claim_id: cbc6a417-520f-441c-a8b3-8f73c576556a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cbc6a417-520f-441c-a8b3-8f73c576556a
+  copyright_status: restricted
 - text: Strieber on no known physical medium for telepathy
   source: The Fourth Mind
   location: ch15:6347-6439
   claim_id: 884cf667-3fb2-49af-a4f9-ba8d8c45c921
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-884cf667-3fb2-49af-a4f9-ba8d8c45c921
+  copyright_status: restricted
 - text: Strieber on telepathy requiring something outside known reality
   source: The Fourth Mind
   location: ch15:6830-6922
   claim_id: 82bdbc92-e639-4de1-9b71-7c853f420cd8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-82bdbc92-e639-4de1-9b71-7c853f420cd8
+  copyright_status: restricted
 - text: Witnesses observing visitors communicate telepathically
   source: The Fourth Mind
   location: ch24:1488-1603
   claim_id: 1446b70a-45d5-4f00-92b0-afb8ffeae078
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1446b70a-45d5-4f00-92b0-afb8ffeae078
+  copyright_status: restricted
 - text: Strieber's personal experience of telepathy with the visitors
   source: The Fourth Mind
   location: ch26:11312-11423
   claim_id: 41387c62-d23c-4011-a4e8-5485683e435b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-41387c62-d23c-4011-a4e8-5485683e435b
+  copyright_status: restricted
 - text: Ramsay on the absurdity of screen memories
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -314,6 +342,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
+  copyright_status: publicly_accessible
 - text: Nanstiel's 2020 garage grey communicating in English words
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -324,6 +353,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
+  copyright_status: publicly_accessible
 - text: Nanstiel's description of grey entrancement
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -334,6 +364,7 @@ references:
   claim_id: 1aa97fad-bad5-4ff5-84ae-67c06d95f928
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-1aa97fad-bad5-4ff5-84ae-67c06d95f928
+  copyright_status: publicly_accessible
 - text: Nanstiel's telepathy with a tall grey but not the three girls
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -344,6 +375,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
+  copyright_status: publicly_accessible
 - text: Nanstiel belligerent toward the doctor creature, hearing grey telepathy
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -355,6 +387,7 @@ references:
   claim_id: 4170cf78-9aa8-4bee-9eda-63f0d2eb5041
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4170cf78-9aa8-4bee-9eda-63f0d2eb5041
+  copyright_status: publicly_accessible
 - text: Nanstiel hearing a dozen telepathic voices as gibberish
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -366,6 +399,7 @@ references:
   claim_id: edf05411-2d27-4d02-9ba3-3800aeab8bda
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-edf05411-2d27-4d02-9ba3-3800aeab8bda
+  copyright_status: publicly_accessible
 - text: Nanstiel perceiving the doctor creature's telepathy as English
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -376,6 +410,7 @@ references:
   claim_id: 9ce82977-42b6-4a01-b2fe-6b217e3b2a63
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-9ce82977-42b6-4a01-b2fe-6b217e3b2a63
+  copyright_status: publicly_accessible
 - text: Strieber reportedly told by the Greys that telepathic species endure longer
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -388,6 +423,7 @@ references:
   claim_id: 20fa2256-c3d4-4c64-b2e8-340eb7e40909
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-20fa2256-c3d4-4c64-b2e8-340eb7e40909
+  copyright_status: publicly_accessible
 - text: Nanstiel's description of telepathic, speechless hybrids
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -401,6 +437,7 @@ references:
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-166df7e1-469a-41f2-931a-2daf2366ae04
   inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-166df7e1-469a-41f2-931a-2daf2366ae04
+  copyright_status: publicly_accessible
 - text: Nanstiel on a purely telepathic species losing human art forms
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -410,6 +447,7 @@ references:
   claim_id: 84e848d2-78f7-438d-9b2f-ca73812984a9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-84e848d2-78f7-438d-9b2f-ca73812984a9
+  copyright_status: publicly_accessible
 - text: Horn on the tele-nautic telepathic technology
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:15:17.8-01:15:43.9
@@ -420,6 +458,7 @@ references:
   claim_id: 95bb52bb-b2aa-46b7-a3b1-0e8b659c447e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-95bb52bb-b2aa-46b7-a3b1-0e8b659c447e
+  copyright_status: publicly_accessible
 - text: Horn on Asket and Meier communicating telepathically at the pyramid
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 01:27:55.3-01:28:12.6
@@ -428,6 +467,7 @@ references:
   claim_id: 3689f5bc-39d3-4bdf-9d99-1600ae20343a
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3689f5bc-39d3-4bdf-9d99-1600ae20343a
+  copyright_status: publicly_accessible
 - text: Grusch on consciousness communication with detained craft occupants
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:38:23.5-00:38:43.2
@@ -438,6 +478,7 @@ references:
   claim_id: c388e0ff-f029-4487-881e-3cf595ae167e
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-c388e0ff-f029-4487-881e-3cf595ae167e
+  copyright_status: publicly_accessible
 - text: Grusch's friends felt consciousness communication near recovered craft
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:38:43.7-00:38:53.5
@@ -447,6 +488,7 @@ references:
   claim_id: a737b3e7-042b-40ac-8fa2-4f5b81c5a307
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a737b3e7-042b-40ac-8fa2-4f5b81c5a307
+  copyright_status: publicly_accessible
 - text: Grusch has had no personal telepathic experience
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:39:04.9-00:39:11.0
@@ -455,6 +497,7 @@ references:
   claim_id: f4affbf5-0343-4ff9-a9e8-8f2e9d71f844
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f4affbf5-0343-4ff9-a9e8-8f2e9d71f844
+  copyright_status: publicly_accessible
 - text: To The Stars Academy's stated interest in ESP and telepathy
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:33:08.8-00:33:17.2
@@ -465,6 +508,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
+  copyright_status: publicly_accessible
 - text: Mossbridge on telepathy and non-speaking autistic people
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -476,12 +520,14 @@ references:
   claim_id: 5be8418e-c8dc-4d2e-bb7f-1e5b73c3abcf
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-5be8418e-c8dc-4d2e-bb7f-1e5b73c3abcf
+  copyright_status: publicly_accessible
 - text: Strieber on Diane Hennacy Powell and autistic telepathic ability
   source: The Fourth Mind
   location: ch11:21671-21806
   claim_id: 0dda1136-5e97-4e83-90f9-f3f5bc6e1cfb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0dda1136-5e97-4e83-90f9-f3f5bc6e1cfb
+  copyright_status: restricted
 - text: Mossbridge on telepathy being reframed within a decade
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -493,6 +539,7 @@ references:
   claim_id: 08481c09-b924-4953-a213-40de6d7f7142
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-08481c09-b924-4953-a213-40de6d7f7142
+  copyright_status: publicly_accessible
 - text: Mossbridge on challenges to the no-signalling theorem
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -503,6 +550,7 @@ references:
   claim_id: 230ffd99-aae0-4701-bf95-fcc98b1b9f65
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-230ffd99-aae0-4701-bf95-fcc98b1b9f65
+  copyright_status: publicly_accessible
 - text: Mossbridge on quantum entanglement as a candidate explanation
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -513,6 +561,7 @@ references:
   claim_id: 0ad8addf-43aa-4a26-9fa4-6fccd4f2ec29
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-0ad8addf-43aa-4a26-9fa4-6fccd4f2ec29
+  copyright_status: publicly_accessible
 - text: Mossbridge's AI-judged telepathy research method
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -523,6 +572,7 @@ references:
   claim_id: 4be752ee-4f23-4a06-a6dd-ea49129b084f
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-4be752ee-4f23-4a06-a6dd-ea49129b084f
+  copyright_status: publicly_accessible
 - text: Mossbridge's team researching telepathy in non-speaking autistic people
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -532,6 +582,7 @@ references:
   claim_id: bba23716-0a99-49c7-b2db-11723bbefc19
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-bba23716-0a99-49c7-b2db-11723bbefc19
+  copyright_status: publicly_accessible
 - text: Mossbridge on telepathy featuring in every abduction account
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -541,6 +592,7 @@ references:
   claim_id: 7e11d824-ca27-4dd6-a032-7a14ddf32a36
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-7e11d824-ca27-4dd6-a032-7a14ddf32a36
+  copyright_status: publicly_accessible
 - text: Mossbridge describing herself as gifted at precognition, telepathy and remote
     viewing
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -551,6 +603,7 @@ references:
   claim_id: ed9ea029-27b9-4ce2-bb83-ca27783e91a7
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-ed9ea029-27b9-4ce2-bb83-ca27783e91a7
+  copyright_status: publicly_accessible
 - text: Mossbridge's psychic hunch about a fourth-dimension question
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
     | ep. 99
@@ -561,6 +614,7 @@ references:
   claim_id: 8e448c78-1dce-4c8c-96fc-66a71273d59d
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-8e448c78-1dce-4c8c-96fc-66a71273d59d
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

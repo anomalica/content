@@ -31,6 +31,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-5d92d7ac-169a-4074-b10e-596900bc2664
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-5d92d7ac-169a-4074-b10e-596900bc2664
+  copyright_status: publicly_accessible
 - text: David Grusch said his complaint to the Inspector General was assessed as credible
     and urgent.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -41,6 +42,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-300a8fa1-7752-4831-bc3d-e1be2bb218f7
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-300a8fa1-7752-4831-bc3d-e1be2bb218f7
+  copyright_status: publicly_accessible
 - text: David Grusch said the Inspector General was required to forward his complaint
     to the Senate and House intelligence committees in summer 2022.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -52,6 +54,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-1f7ea2ec-6855-4b18-8a9c-addffa69e14b
+  copyright_status: publicly_accessible
 - text: David Grusch said he later gave 11 and a half hours of classified testimony
     to the two congressional intelligence committees.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -63,6 +66,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-9ea8ace8-0065-4fda-ad4e-74d262b0f693
+  copyright_status: publicly_accessible
 - text: David Grusch said he had seen indisputable evidence of craft on Earth that
     did not originate on Earth.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -75,6 +79,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-a971640a-9857-46eb-b7ab-5b9ea57231ce
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-a971640a-9857-46eb-b7ab-5b9ea57231ce
+  copyright_status: publicly_accessible
 - text: David Grusch said he learned about United States retrieval and reverse-engineering
     activity through foreign intelligence reporting, archives and programme documentation.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -88,6 +93,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-d86c388e-73f8-4fa9-bbcf-d083ce31dafe
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-d86c388e-73f8-4fa9-bbcf-d083ce31dafe
+  copyright_status: publicly_accessible
 - text: David Grusch said the Defense Intelligence Agency refused to release classified
     foreign intelligence reporting on retrieval and reverse engineering to Congress.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -99,6 +105,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-72e0b848-9ad6-4832-a9e4-7dda27c52f4a
+  copyright_status: publicly_accessible
 - text: David Grusch said more than 25 but fewer than 100 craft of non-human origin
     had been recovered and held.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -110,6 +117,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3ee77271-4e4e-4766-bf91-bdfd3bf66521
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-3ee77271-4e4e-4766-bf91-bdfd3bf66521
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included disc-shaped vehicles.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:16.2-00:34:20.4
@@ -119,6 +127,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-b976b6e7-58fa-476c-944c-0b4c52f7a4df
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-b976b6e7-58fa-476c-944c-0b4c52f7a4df
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included sunfish- or boot-heel-shaped vehicles.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:21.0-00:34:23.4
@@ -128,6 +137,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-9b7c42e3-2348-4b2c-b157-043811796400
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-9b7c42e3-2348-4b2c-b157-043811796400
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included boomerang-shaped vehicles.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:23.8-00:34:24.0
@@ -137,6 +147,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-2a17d5ce-112e-458c-adde-774ce3edfd32
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-2a17d5ce-112e-458c-adde-774ce3edfd32
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included crescent-moon-shaped vehicles.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:24.8-00:34:26.2
@@ -146,6 +157,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-c880b85e-156c-46b9-aa08-60561aca317a
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-c880b85e-156c-46b9-aa08-60561aca317a
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included Tic Tac-shaped UAP.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:26.8-00:34:28.3
@@ -155,6 +167,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-90b25ef9-2533-4282-a651-8c96ebe61a75
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-90b25ef9-2533-4282-a651-8c96ebe61a75
+  copyright_status: publicly_accessible
 - text: David Grusch said recovered craft included egg-shaped vehicles.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:34:29.3-00:34:31.2
@@ -164,6 +177,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fd483029-9b90-4356-9cf1-40254eb6f5ca
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-fd483029-9b90-4356-9cf1-40254eb6f5ca
+  copyright_status: publicly_accessible
 - text: David Grusch said the origin of the recovered craft was difficult to determine
     because their point in space or time was unknown.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -175,6 +189,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-2b8d6fac-7bf2-4c50-a058-74c6f0517da8
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-2b8d6fac-7bf2-4c50-a058-74c6f0517da8
+  copyright_status: publicly_accessible
 - text: David Grusch said there was great interest in the propulsion systems of retrieved
     craft as a motive for reverse engineering.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -186,6 +201,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3ac8d230-9cdc-4712-8aba-7788aeae2986
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-3ac8d230-9cdc-4712-8aba-7788aeae2986
+  copyright_status: publicly_accessible
 - text: David Grusch cautioned that the extraterrestrial hypothesis was only one part
     of the explanation.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -197,6 +213,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-c52aaae8-d3c8-484a-b3ba-78e0694c4e2b
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-c52aaae8-d3c8-484a-b3ba-78e0694c4e2b
+  copyright_status: publicly_accessible
 - text: David Grusch said some anomalous intelligences might be ultraterrestrial.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:42:57.9-00:43:10.0
@@ -208,6 +225,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-066ae2ed-06ca-4498-9ea0-cad7b245c709
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-066ae2ed-06ca-4498-9ea0-cad7b245c709
+  copyright_status: publicly_accessible
 - text: David Grusch raised a shadow biome as another possible origin of the phenomenon.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:43:11.1-00:43:24.9
@@ -219,6 +237,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e550c06c-c98d-48b1-a007-2096ecea37ab
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-e550c06c-c98d-48b1-a007-2096ecea37ab
+  copyright_status: publicly_accessible
 - text: David Grusch said he did not have full exposure to government holdings and
     analysis and did not have all the answers.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -230,6 +249,7 @@ references:
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-fd80c917-c089-4e42-b6d8-a890b4c8aa7f
   inspection_url: /records/2026-08-13-video-david-grusch-the-whistleblower-who-told-congress-we-re-not#claim-fd80c917-c089-4e42-b6d8-a890b4c8aa7f
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

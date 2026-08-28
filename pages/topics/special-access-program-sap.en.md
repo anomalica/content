@@ -85,6 +85,7 @@ references:
   claim_id: de3ff492-ce39-439d-a46e-1951886776b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de3ff492-ce39-439d-a46e-1951886776b7
+  copyright_status: restricted
 - text: SAPs are where the Defense Department hides most of its super-secret black-budget
     classified projects.
   source: In Plain Sight
@@ -92,6 +93,7 @@ references:
   claim_id: 877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
+  copyright_status: restricted
 - text: Even senior officials with top-secret clearance are forbidden from knowing
     SAP or SCI details unless 'read into' the programme.
   source: In Plain Sight
@@ -99,6 +101,7 @@ references:
   claim_id: d52efcdf-a24a-423a-8e1f-7f02b01e8795
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
+  copyright_status: restricted
 - text: Unacknowledged Special Access Programs (USAPs) are projects whose existence
     can and must be denied, with true funding hidden.
   source: In Plain Sight
@@ -106,6 +109,7 @@ references:
   claim_id: e636eb7d-e906-4d7b-b517-8841f37c90d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e636eb7d-e906-4d7b-b517-8841f37c90d2
+  copyright_status: restricted
 - text: Some black-budget SAP projects are hidden so deeply that revealing their existence
     is a crime for anyone read into them.
   source: In Plain Sight
@@ -113,6 +117,7 @@ references:
   claim_id: 700acf62-8119-4299-bb85-e7a539ff7e5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-700acf62-8119-4299-bb85-e7a539ff7e5d
+  copyright_status: restricted
 - text: Bill Sweetman wrote that an unacknowledged SAP's existence is a 'core secret'
     under US Air Force regulations, defined as information whose compromise causes
     unrecoverable failure.
@@ -121,6 +126,7 @@ references:
   claim_id: 42610ba0-c36d-49db-9af9-fd34859a7d9e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42610ba0-c36d-49db-9af9-fd34859a7d9e
+  copyright_status: restricted
 - text: Christopher Mellon's Senate Intelligence Committee role required reviewing
     top-secret SCI projects inside SAPs, most of which remain classified.
   source: In Plain Sight
@@ -128,6 +134,7 @@ references:
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
+  copyright_status: restricted
 - text: Before their April 1997 Pentagon visit, Steven Greer sent Admiral Thomas Wilson's
     staff a leaked National Reconnaissance Office document listing authentic SAP codenames.
   source: In Plain Sight
@@ -135,6 +142,7 @@ references:
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
+  copyright_status: restricted
 - text: Steven Greer said Wilson was very upset that some SAP codenames on the list
     were unknown to him.
   source: In Plain Sight
@@ -142,6 +150,7 @@ references:
   claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
+  copyright_status: restricted
 - text: Thomas Wilson recalled his 1997 visitors raised concerns about possible special
     access programs dealing with UFOs.
   source: In Plain Sight
@@ -149,6 +158,7 @@ references:
   claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
+  copyright_status: restricted
 - text: Wilson believed the visitors' objective was to solicit his assistance in gaining
     access to or knowledge of the alleged programmes.
   source: In Plain Sight
@@ -156,6 +166,7 @@ references:
   claim_id: 8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
+  copyright_status: restricted
 - text: Wilson stated he never acknowledged such programmes existed, never suggested
     he would seek access, and never had knowledge of them.
   source: In Plain Sight
@@ -163,6 +174,7 @@ references:
   claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
+  copyright_status: restricted
 - text: In June 2009, Harry Reid wrote to the Secretary of Defense requesting SAP
     status for AATIP.
   source: In Plain Sight
@@ -170,6 +182,7 @@ references:
   claim_id: 2844341e-436e-4320-8d31-8c1d298d11fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2844341e-436e-4320-8d31-8c1d298d11fc
+  copyright_status: restricted
 - text: According to the memo, Reid's reasoning and request were addressed to Deputy
     Secretary of Defense William Lynn III.
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -181,6 +194,7 @@ references:
   claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+  copyright_status: publicly_accessible
 - text: Ross Coulthart speculates that Pentagon UAP briefing slides may have prompted
     Reid's SAP request.
   source: In Plain Sight
@@ -188,12 +202,14 @@ references:
   claim_id: 61c0b829-d3e1-4887-a877-433675ece02f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61c0b829-d3e1-4887-a877-433675ece02f
+  copyright_status: restricted
 - text: The SAP status request for the AATIP investigation was rejected.
   source: In Plain Sight
   location: ch17:19003-19159
   claim_id: 025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
+  copyright_status: restricted
 - text: In a June 2020 letter, Wilson said many named contacts were unknown to him,
     as were the alleged SAP conversations.
   source: In Plain Sight
@@ -201,6 +217,7 @@ references:
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
+  copyright_status: restricted
 - text: According to the memo, Wilson was told of a special projects record group
     not belonging to usual SAP - a subset of unacknowledged/carve-out/waived programmes.
   source: In Plain Sight
@@ -208,6 +225,7 @@ references:
   claim_id: 91ac7dad-5511-4c6c-b255-26414bc9012b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91ac7dad-5511-4c6c-b255-26414bc9012b
+  copyright_status: restricted
 - text: According to the memo, Eric Davis asked Wilson which SAP compartment and codename
     the programme was hidden under.
   source: In Plain Sight
@@ -215,6 +233,7 @@ references:
   claim_id: 92954970-0fdb-4e78-a527-42cb0cf46bc3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92954970-0fdb-4e78-a527-42cb0cf46bc3
+  copyright_status: restricted
 - text: In his June 2020 letter, Wilson said the memo's accounts of his efforts to
     gain SAP access were false and that no such meetings occurred.
   source: In Plain Sight
@@ -222,6 +241,7 @@ references:
   claim_id: 9ed6f584-dc1a-4fef-8662-77afa8772545
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
+  copyright_status: restricted
 - text: The UAP provisions of the FY2023 NDAA provide protections ensuring no classified
     programmes, including all SAPs, are compromised or made public.
   source: In Plain Sight
@@ -229,6 +249,7 @@ references:
   claim_id: ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
+  copyright_status: restricted
 - text: David Grusch said multiple agencies nesting UAP activities in conventional
     SAP/CAP programmes without appropriate oversight reporting is a problem.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -241,6 +262,7 @@ references:
   claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
+  copyright_status: publicly_accessible
 - text: The two damaged M1 Abrams tanks were sent for analysis classified as a Top
     Secret SAP, and Elizondo never learned the findings.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -248,6 +270,7 @@ references:
   claim_id: c815115f-e20a-4784-9f6a-405481529f62
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c815115f-e20a-4784-9f6a-405481529f62
+  copyright_status: restricted
 - text: Jay Stratton and Elizondo told military witnesses they worked for a Special
     Access Program to encourage them to describe encounters.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -255,6 +278,7 @@ references:
   claim_id: 2972262e-04fb-4283-9706-5c6ede4769da
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2972262e-04fb-4283-9706-5c6ede4769da
+  copyright_status: restricted
 - text: Christopher Mellon oversaw all Department of Defense intelligence activities
     and Special Access Programs.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -262,6 +286,7 @@ references:
   claim_id: acc64767-dc4e-444c-a456-6030aee55704
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-acc64767-dc4e-444c-a456-6030aee55704
+  copyright_status: restricted
 - text: Mellon said he had spent years overseeing all SAPs but had zero visibility
     into the UAP topic.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -269,6 +294,7 @@ references:
   claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
+  copyright_status: restricted
 - text: Grusch said he worked on programmes purposely hidden from ODNI oversight staff
     and briefed only to the White House, kept from Congress through a shell game of
     non-reporting.
@@ -281,6 +307,7 @@ references:
   claim_id: e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
+  copyright_status: publicly_accessible
 - text: Grusch said officials described being briefed by the CIA on a classified programme,
     then hearing a different account of the same programme at another agency.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -293,6 +320,7 @@ references:
   claim_id: 263ced06-a9d7-4596-9c8f-ccf3f74aad6f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-263ced06-a9d7-4596-9c8f-ccf3f74aad6f
+  copyright_status: publicly_accessible
 - text: Grusch was told via back channel that Jake Sullivan's office instructed the
     Inspector General of the Intelligence Community to stop an investigation running
     into White House classified special access programs.
@@ -306,6 +334,7 @@ references:
   claim_id: ffc4a78b-15f9-4f6e-9ca7-118e448a675f
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-ffc4a78b-15f9-4f6e-9ca7-118e448a675f
+  copyright_status: publicly_accessible
 - text: Grusch considered some programmes he was cleared into defrauded the taxpayer,
     as Congress appropriates funds against declared programmes while a carved-out
     technology base sits outside that reporting.
@@ -318,6 +347,7 @@ references:
   claim_id: 3af5c996-f4f2-44f5-a842-eab2dd11cb21
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-3af5c996-f4f2-44f5-a842-eab2dd11cb21
+  copyright_status: publicly_accessible
 - text: Grusch said he must be careful not to identify technologies the federal government
     does not acknowledge.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -327,6 +357,7 @@ references:
   claim_id: 219f20ac-489d-49e3-8950-ad54530921c8
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-219f20ac-489d-49e3-8950-ad54530921c8
+  copyright_status: publicly_accessible
 - text: A programme protection strategy exists to relocate movable archives and materials
     if a holding location is believed exposed.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -336,6 +367,7 @@ references:
   claim_id: 69669770-34ac-4909-8b9d-47e7a9de1123
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-69669770-34ac-4909-8b9d-47e7a9de1123
+  copyright_status: publicly_accessible
 - text: Moving recovered craft to private corporations keeps funding outside congressional
     oversight, using non-appropriated dollars.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -346,6 +378,7 @@ references:
   claim_id: f07a9863-8869-426f-a69e-123e1769fd11
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-f07a9863-8869-426f-a69e-123e1769fd11
+  copyright_status: publicly_accessible
 - text: Grusch named several officials who ran such programmes and gave AARO several
     leads.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -355,6 +388,7 @@ references:
   claim_id: 782deb7f-4cac-45c2-8789-b31399132b26
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-782deb7f-4cac-45c2-8789-b31399132b26
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

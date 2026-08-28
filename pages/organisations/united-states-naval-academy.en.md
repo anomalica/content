@@ -25,6 +25,7 @@ references:
   claim_id: edb40477-b5c8-48c6-ae83-c677a2c63658
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-edb40477-b5c8-48c6-ae83-c677a2c63658
+  copyright_status: public_domain
 - text: The Marine Corps recommended Fravor to attend the Naval Academy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -33,6 +34,7 @@ references:
   claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+  copyright_status: publicly_accessible
 - text: Fravor attended and graduated from the Naval Academy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -41,6 +43,7 @@ references:
   claim_id: e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
+  copyright_status: publicly_accessible
 - text: Fravor's freshman midshipman cruise aboard USS Nimitz after his first year
     at the Academy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -51,6 +54,7 @@ references:
   claim_id: b8764618-8338-468e-8f0d-af5efcaf7eb3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-b8764618-8338-468e-8f0d-af5efcaf7eb3
+  copyright_status: publicly_accessible
 - text: It took exactly two years from Fravor's graduation until he got his wings
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -60,6 +64,7 @@ references:
   claim_id: 73c1651c-7728-4197-a310-fe2a375fbfd5
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-73c1651c-7728-4197-a310-fe2a375fbfd5
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -425,6 +425,7 @@ references:
   claim_id: 2cdb6196-16d5-459e-a776-fb92088c75f2
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2cdb6196-16d5-459e-a776-fb92088c75f2
+  copyright_status: public_domain
 - text: Fravor flew for the United States Navy for 18 years.
   source: David Fravor Statement for the House Oversight Committee
   location: char:122680-122698
@@ -432,6 +433,7 @@ references:
   claim_id: 1741c3a0-ed3e-4d5c-a6e2-f8d855902499
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1741c3a0-ed3e-4d5c-a6e2-f8d855902499
+  copyright_status: public_domain
 - text: Fravor first enlisted in the United States Marine Corps.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -440,6 +442,7 @@ references:
   claim_id: e0c19b31-1f03-4e51-857e-4df9696d5b2d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e0c19b31-1f03-4e51-857e-4df9696d5b2d
+  copyright_status: publicly_accessible
 - text: The Marine Corps recommended Fravor for the United States Naval Academy.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -448,6 +451,7 @@ references:
   claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+  copyright_status: publicly_accessible
 - text: Fravor attended and graduated from the United States Naval Academy.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -456,6 +460,7 @@ references:
   claim_id: e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
+  copyright_status: publicly_accessible
 - text: Fravor is a graduate of the United States Navy Fighter Weapons School (Top
     Gun).
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -465,6 +470,7 @@ references:
   claim_id: 893cb6f6-243a-43c3-b85d-a18ab27d9427
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-893cb6f6-243a-43c3-b85d-a18ab27d9427
+  copyright_status: publicly_accessible
 - text: Fravor went through Top Gun in Class 4 of 1997.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -473,6 +479,7 @@ references:
   claim_id: 8c512214-3cf4-41ba-a582-620ec37b0298
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8c512214-3cf4-41ba-a582-620ec37b0298
+  copyright_status: publicly_accessible
 - text: Fravor earned a Master's degree from the University of Houston.
   source: David Fravor Statement for the House Oversight Committee
   location: char:122705-122739
@@ -480,6 +487,7 @@ references:
   claim_id: 0e9d5463-0332-4bab-8b16-76c70e1f3e07
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0e9d5463-0332-4bab-8b16-76c70e1f3e07
+  copyright_status: public_domain
 - text: In November 2004, Fravor was Commanding Officer of VFA-41, the Black Aces.
   source: David Fravor Statement for the House Oversight Committee
   location: char:335-438
@@ -488,6 +496,7 @@ references:
   claim_id: 343db81b-742c-47a6-a889-eb97edb5be6d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-343db81b-742c-47a6-a889-eb97edb5be6d
+  copyright_status: public_domain
 - text: VFA-41 was attached to Carrier Airwing Eleven aboard USS Nimitz in 2004.
   source: David Fravor Statement for the House Oversight Committee
   location: char:444-529
@@ -496,6 +505,7 @@ references:
   claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
+  copyright_status: public_domain
 - text: Fravor has dreamed of flying since 1969, watching Armstrong walk on the Moon.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -504,6 +514,7 @@ references:
   claim_id: 8f9ab5f2-d85d-4793-929d-5b266d9a4403
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-8f9ab5f2-d85d-4793-929d-5b266d9a4403
+  copyright_status: publicly_accessible
 - text: Fravor was nearly five years old when he watched the Apollo 11 Moon landing.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -512,6 +523,7 @@ references:
   claim_id: c295278d-26b9-4db9-ba31-1df4848ace6d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-c295278d-26b9-4db9-ba31-1df4848ace6d
+  copyright_status: publicly_accessible
 - text: His mother told him the Apollo 11 astronauts were all pilots.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -521,6 +533,7 @@ references:
   claim_id: 719c6437-b777-40ac-991a-6f9d45f88d9f
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-719c6437-b777-40ac-991a-6f9d45f88d9f
+  copyright_status: publicly_accessible
 - text: Fravor grew up near his cousins Chad and Ray in an Italian family.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -531,6 +544,7 @@ references:
   claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-283250af-5d12-4789-9b40-15a4af0f937d
+  copyright_status: publicly_accessible
 - text: Fravor worked as a paper boy in his childhood neighbourhood.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -539,6 +553,7 @@ references:
   claim_id: dc1dcfb6-c397-4360-988f-f9b9324580ed
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-dc1dcfb6-c397-4360-988f-f9b9324580ed
+  copyright_status: publicly_accessible
 - text: At a cousin's wedding, a family friend recognised Fravor and asked about Top
     Gun.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -549,6 +564,7 @@ references:
   claim_id: eb2dd8f7-532c-4c3e-8951-4883552e40d3
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-eb2dd8f7-532c-4c3e-8951-4883552e40d3
+  copyright_status: publicly_accessible
 - text: Fravor was the pilot of FastEagle 01, one of two VFA-41 F/A-18Fs in contact
     with the AAV.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -559,6 +575,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ed2d2018-3344-49b6-bfb7-eba99d06b3d0
+  copyright_status: public_domain
 - text: On 2004-11-14, Fravor's squadron was conducting a work-up off San Diego.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -568,6 +585,7 @@ references:
   claim_id: d627804e-93ed-4079-b8dc-0d416a218f7f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
+  copyright_status: public_domain
 - text: Fravor's flight of two F/A-18F aircraft, designated Blue Air, was controlled
     by USS Princeton.
   source: David Fravor Statement for the House Oversight Committee
@@ -577,12 +595,14 @@ references:
   claim_id: 373fe1b1-3b68-4e7e-9ea3-559f0550b064
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-373fe1b1-3b68-4e7e-9ea3-559f0550b064
+  copyright_status: public_domain
 - text: Fravor was flying an FA-18F Super Hornet.
   source: In Plain Sight
   location: ch16:7704-7889
   claim_id: 092aedc7-b95e-4fff-911a-520aa08cbad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-092aedc7-b95e-4fff-911a-520aa08cbad0
+  copyright_status: restricted
 - text: Fravor and Alex Dietrich, each with a weapons systems officer, were diverted
     to investigate the contact.
   source: Navy pilots describe encounters with UFOs
@@ -592,6 +612,7 @@ references:
   claim_id: c2b231ed-ce19-4183-915c-591eb9b8830c
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-c2b231ed-ce19-4183-915c-591eb9b8830c
+  copyright_status: publicly_accessible
 - text: Jim Slaight, call sign 'Clean', was the weapons systems officer in Fravor's
     back seat.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -599,6 +620,7 @@ references:
   claim_id: 607d0bc7-7e07-4adc-82fb-8e1d585cf985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
+  copyright_status: restricted
 - text: The combat air patrol point lay roughly 64 kilometres south of the ship.
   source: David Fravor Statement for the House Oversight Committee
   location: char:1627-1733
@@ -607,6 +629,7 @@ references:
   claim_id: f46010c8-6ff5-414f-92ab-35ba48ff7794
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-f46010c8-6ff5-414f-92ab-35ba48ff7794
+  copyright_status: public_domain
 - text: The air controller had reportedly been observing the contact for the previous
     two weeks.
   source: David Fravor Statement for the House Oversight Committee
@@ -616,6 +639,7 @@ references:
   claim_id: 49c709d8-f22d-47b7-98d0-91e7f90e0121
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-49c709d8-f22d-47b7-98d0-91e7f90e0121
+  copyright_status: public_domain
 - text: The controller called Merge Plot as the flight arrived at altitude.
   source: David Fravor Statement for the House Oversight Committee
   location: char:2183-2344
@@ -625,6 +649,7 @@ references:
   claim_id: 1d898fc5-3d49-4cb3-a6d7-a17280cf5e7d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-1d898fc5-3d49-4cb3-a6d7-a17280cf5e7d
+  copyright_status: public_domain
 - text: The flight noticed white water in the ocean.
   source: David Fravor Statement for the House Oversight Committee
   location: char:2353-2416
@@ -632,6 +657,7 @@ references:
   claim_id: 3a940d2b-7aba-4f99-ae4b-acfb850320f0
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-3a940d2b-7aba-4f99-ae4b-acfb850320f0
+  copyright_status: public_domain
 - text: Weather was clear with light winds and no whitecaps.
   source: David Fravor Statement for the House Oversight Committee
   location: char:2422-2622
@@ -641,6 +667,7 @@ references:
   claim_id: 0e9e1283-aeb9-4349-bc02-963a5f68d76c
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-0e9e1283-aeb9-4349-bc02-963a5f68d76c
+  copyright_status: public_domain
 - text: Fravor worried a commercial airliner might have crashed, given the size of
     the disturbance.
   source: In Plain Sight
@@ -648,6 +675,7 @@ references:
   claim_id: b37e78c3-cd62-404c-9f1a-241cd569582e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b37e78c3-cd62-404c-9f1a-241cd569582e
+  copyright_status: restricted
 - text: Fravor discerned a giant white Tic Tac-shaped object with two appendages,
     hovering above the water.
   source: In Plain Sight
@@ -655,6 +683,7 @@ references:
   claim_id: c005d20f-fbf2-4087-908d-be0db2da7d00
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c005d20f-fbf2-4087-908d-be0db2da7d00
+  copyright_status: restricted
 - text: The object had no windows, no visible engines, no wings, no exhaust, and no
     markings.
   source: In Plain Sight
@@ -662,6 +691,7 @@ references:
   claim_id: 8e14a0c7-e313-4e89-82f4-412d12634176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e14a0c7-e313-4e89-82f4-412d12634176
+  copyright_status: restricted
 - text: A separate account described the object as about the size of his F/A-18, with
     no markings, wings, or exhaust plumes.
   source: Navy pilots describe encounters with UFOs
@@ -671,6 +701,7 @@ references:
   claim_id: d5788c67-339f-457a-993a-5464b6d58861
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-d5788c67-339f-457a-993a-5464b6d58861
+  copyright_status: publicly_accessible
 - text: Fravor said the object was 'holding like a Harrier'.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:19522-19712
@@ -681,6 +712,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-5839f33c-0e3c-4cc5-89ed-b3772677a2b0
+  copyright_status: public_domain
 - text: Fravor detached Dietrich's aircraft to hold at altitude while he descended
     further.
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -691,6 +723,7 @@ references:
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
   inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bf498b2b-1e86-4ea3-93fd-1523de6bb23c
+  copyright_status: public_domain
 - text: Pulling nose at about 0.8 kilometres range, the object rapidly accelerated
     and disappeared.
   source: David Fravor Statement for the House Oversight Committee
@@ -701,6 +734,7 @@ references:
   claim_id: eb597755-9c47-4afc-93ed-85663465c54b
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-eb597755-9c47-4afc-93ed-85663465c54b
+  copyright_status: public_domain
 - text: His wingman, roughly 2,400 metres above, also lost visual contact.
   source: David Fravor Statement for the House Oversight Committee
   location: char:3692-3741
@@ -708,6 +742,7 @@ references:
   claim_id: 2d9c0ce6-ea0a-4ad3-a702-8e67dc2dbe97
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-2d9c0ce6-ea0a-4ad3-a702-8e67dc2dbe97
+  copyright_status: public_domain
 - text: Fravor's own F/A-18 Hornet fire control radar never picked up the object.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -716,6 +751,7 @@ references:
   claim_id: d3c3bec6-4c7b-489b-b707-982fb34f865c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
+  copyright_status: public_domain
 - text: The wingman's radar briefly locked on before losing the lock.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -726,6 +762,7 @@ references:
   claim_id: 9b5fed50-ec5f-4189-bc85-a5c47b194821
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
+  copyright_status: public_domain
 - text: Fravor said the air controller reported the object had reappeared at the CAP
     point.
   source: David Fravor Statement for the House Oversight Committee
@@ -736,6 +773,7 @@ references:
   claim_id: a0c77f81-efac-4e1f-acc1-874366fbae31
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-a0c77f81-efac-4e1f-acc1-874366fbae31
+  copyright_status: public_domain
 - text: The object travelled approximately 97 kilometres in less than a minute.
   source: David Fravor Statement for the House Oversight Committee
   location: char:4019-4110
@@ -744,6 +782,7 @@ references:
   claim_id: 560728b6-a77f-4b7e-aa3f-f4bb1987c1fa
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-560728b6-a77f-4b7e-aa3f-f4bb1987c1fa
+  copyright_status: public_domain
 - text: Fravor considers the object's performance far superior to his F/A-18F and
     inconsistent with known aerodynamics.
   source: David Fravor Statement for the House Oversight Committee
@@ -754,6 +793,7 @@ references:
   claim_id: 0eca89cc-54c8-47fb-8312-1d47a2bdd3a5
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-0eca89cc-54c8-47fb-8312-1d47a2bdd3a5
+  copyright_status: public_domain
 - text: After returning to the carrier, Fravor mentioned what his flight witnessed
     to a crew preparing to launch.
   source: David Fravor Statement for the House Oversight Committee
@@ -763,6 +803,7 @@ references:
   claim_id: 9d34193e-b567-4fbc-992a-ac73dca39e85
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-9d34193e-b567-4fbc-992a-ac73dca39e85
+  copyright_status: public_domain
 - text: A second pair of aircraft launched, one flown by Chad Underwood with an ATFLIR-equipped
     jet.
   source: In Plain Sight
@@ -770,12 +811,14 @@ references:
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
+  copyright_status: restricted
 - text: Underwood's crew found the Tic Tac waiting at the same cap point.
   source: In Plain Sight
   location: ch16:17174-17369
   claim_id: 6ef6b9fe-dfd3-462c-9175-cfba15eb6362
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
+  copyright_status: restricted
 - text: Fravor said there were indications of deliberate jamming when Underwood's
     radar tried to lock on.
   source: In Plain Sight
@@ -783,6 +826,7 @@ references:
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
+  copyright_status: restricted
 - text: That crew took the approximately 90-second FLIR1 video, released by the US
     government in 2017.
   source: David Fravor Statement for the House Oversight Committee
@@ -792,6 +836,7 @@ references:
   claim_id: 336dbd4f-9afb-468b-adcd-e6d94050fcd8
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-336dbd4f-9afb-468b-adcd-e6d94050fcd8
+  copyright_status: public_domain
 - text: The encounter was never officially investigated, and no crew were questioned
     or had tapes taken.
   source: David Fravor Statement for the House Oversight Committee
@@ -802,6 +847,7 @@ references:
   claim_id: 6b096169-e34e-4ab8-860f-8a76d9215cae
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-6b096169-e34e-4ab8-860f-8a76d9215cae
+  copyright_status: public_domain
 - text: Not until 2009 did Jay Stratton contact Fravor to investigate the encounter.
   source: David Fravor Statement for the House Oversight Committee
   location: char:4961-5027
@@ -809,6 +855,7 @@ references:
   claim_id: f500daa6-dc78-4efb-9dd8-3ed024b0b42f
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-f500daa6-dc78-4efb-9dd8-3ed024b0b42f
+  copyright_status: public_domain
 - text: In July 2023, Fravor testified under oath before Congress alongside Ryan Graves
     and David Grusch.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -816,6 +863,7 @@ references:
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  copyright_status: restricted
 - text: Fravor considers the object's flight performance beyond current human material
     science.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -826,6 +874,7 @@ references:
   claim_id: 09925843-7bb6-4732-b16f-7217dbf67c1f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-09925843-7bb6-4732-b16f-7217dbf67c1f
+  copyright_status: public_domain
 - text: Fravor believes the object moved in a way that defied the laws of physics.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -835,6 +884,7 @@ references:
   claim_id: 9bcd8de2-1f0e-4826-9810-c1e79ce10390
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bcd8de2-1f0e-4826-9810-c1e79ce10390
+  copyright_status: public_domain
 - text: Fravor does not consider himself a UFO enthusiast.
   source: Navy pilots describe encounters with UFOs
   location: 00:09:38.0-00:09:38.6
@@ -842,6 +892,7 @@ references:
   claim_id: 1aa1c10d-15ca-4c4e-8df4-5b4bf59e73d9
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-1aa1c10d-15ca-4c4e-8df4-5b4bf59e73d9
+  copyright_status: publicly_accessible
 - text: Luis Elizondo considers the object to have responded intelligently to Fravor's
     actions.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -850,6 +901,7 @@ references:
   claim_id: d9a885af-cec0-4e2e-bc54-503f21ee1bf2
   record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-d9a885af-cec0-4e2e-bc54-503f21ee1bf2
+  copyright_status: publicly_accessible
 - text: Lex Fridman considers Fravor's account, corroborated by other pilots, the
     most credible UFO sighting he is aware of.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -861,6 +913,7 @@ references:
   claim_id: 0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
   record_hash: 135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19
   workbench_url: https://workbench.anomalica.is/135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19#claim-0ed1f14b-0f09-4958-b1b6-03cb1aeafaf5
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

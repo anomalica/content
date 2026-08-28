@@ -30,6 +30,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-abfb5bf5-814c-4759-b639-a812c1dfc1bc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-abfb5bf5-814c-4759-b639-a812c1dfc1bc
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported seeing two stars that appeared to remain stationary.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
   location: 00:00:37.8-00:00:39.5
@@ -39,6 +40,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-13feddc5-69b3-462b-8971-e0dfa500492f
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-13feddc5-69b3-462b-8971-e0dfa500492f
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that a white object appeared to move towards
     him but did not actually do so.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -49,6 +51,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-d6eb5d34-d18d-4178-a17f-5b7e3c5b8784
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-d6eb5d34-d18d-4178-a17f-5b7e3c5b8784
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported particles trailing after him relative to his
     position.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -60,6 +63,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-63f2ee44-8181-4767-b645-20105de21023
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-63f2ee44-8181-4767-b645-20105de21023
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that Sigma 7's rates were near zero on all
     three axes while he continued to receive light in the periscope and looked directly
     upwards.
@@ -72,6 +76,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-e36a89fc-49c8-4d82-8852-47550aa2696b
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-e36a89fc-49c8-4d82-8852-47550aa2696b
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported being almost inverted, with the spacecraft's
     nose above the horizon.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -82,6 +87,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-c71bf7bb-4229-42a1-b214-30565e9a2a79
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-c71bf7bb-4229-42a1-b214-30565e9a2a79
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that Sigma 7's periscope was rapidly becoming
     blocked at sunset.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -92,6 +98,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-2f716739-1e57-4542-9854-e586bc33651a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-2f716739-1e57-4542-9854-e586bc33651a
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that the periscope became almost completely
     blocked and unusable.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -102,6 +109,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-7fa34f15-430e-4e6a-b11d-95951f8f45f7
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-7fa34f15-430e-4e6a-b11d-95951f8f45f7
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported a burst of light in the window and said he
     did not know what it was.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -113,6 +121,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-0eaed444-01c6-4e39-9c5c-789bf63d9791
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-0eaed444-01c6-4e39-9c5c-789bf63d9791
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that Sigma 7 was approaching sunset five hours
     and fifteen minutes into the flight.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -123,6 +132,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-913fa300-0118-4d32-9c38-1e3cd211a2e2
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-913fa300-0118-4d32-9c38-1e3cd211a2e2
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. reported that the periscope went dark.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
   location: 00:03:20.9-00:03:21.6
@@ -132,6 +142,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-65f4976c-ab6c-4a20-b66b-7bf7e3cedc62
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-65f4976c-ab6c-4a20-b66b-7bf7e3cedc62
+  copyright_status: public_domain
 - text: Walter M. Schirra Jr. said he believed he was getting a last look at the horizon,
     although he was not down on it.
   source: NASA-UAP-D012, Mercury Atlas 8 Audio Excerpt, October 3, 1962
@@ -142,6 +153,7 @@ references:
   record_hash: da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead
   workbench_url: https://workbench.anomalica.is/da4406ec3ee3675697cf048a02004501a82faacaed412b09cc053ead#claim-c428b14e-f553-4085-bd48-9bbb0756fe33
   inspection_url: /records/2026-07-11-audio-nasa-uap-d012-mercury-atlas-8-audio-excerpt-october-3-1962#claim-c428b14e-f553-4085-bd48-9bbb0756fe33
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

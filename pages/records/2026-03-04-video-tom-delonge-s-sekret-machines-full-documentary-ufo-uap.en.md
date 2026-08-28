@@ -28,6 +28,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-52ff1367-7046-455a-8389-9858fcb58a8a
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-52ff1367-7046-455a-8389-9858fcb58a8a
+  copyright_status: publicly_accessible
 - text: Tom DeLonge said the academy aims to communicate historic events and ideas
     through films, involve the public in scientific discovery, and build an exotic
     craft.
@@ -42,6 +43,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-9e1e2314-01cd-49c2-aae9-4539e80be739
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-9e1e2314-01cd-49c2-aae9-4539e80be739
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said he ran AATIP for nearly the last decade, focusing on unidentified
     aerial technologies.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -53,6 +55,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-cb97e18b-ce12-454a-b811-bf334cd861e2
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-cb97e18b-ce12-454a-b811-bf334cd861e2
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said his work running AATIP led him to conclude that UAP are
     real.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -63,6 +66,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b01aea61-d3ef-4875-8e5c-5307499a3d23
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-b01aea61-d3ef-4875-8e5c-5307499a3d23
+  copyright_status: publicly_accessible
 - text: The source presents the academy as exploring UAP, ESP and telepathy.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:33:08.8-00:33:17.2
@@ -74,6 +78,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the USS Nimitz was operating off San Diego, escorted by
     the USS Princeton, during the encounter.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -85,6 +90,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-b2bb4817-61e7-4d5b-80fb-c4eec4be0539
+  copyright_status: publicly_accessible
 - text: Chris Mellon said an unidentified aircraft with a small radar cross-section
     appeared on the USS Princeton's radar heading towards the battle group.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -97,6 +103,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-cf78c0f7-196c-4705-bc27-f518481f1553
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-cf78c0f7-196c-4705-bc27-f518481f1553
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the four aviators observed that the object had no wings
     or exhaust.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -108,6 +115,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-7a8ab4aa-d541-4d4f-b197-55cda284ce0a
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-7a8ab4aa-d541-4d4f-b197-55cda284ce0a
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the object was white, oblong and approximately 12 metres
     long.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -118,6 +126,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-8d653ff5-f6e9-436a-9f3b-26b3b257b952
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-8d653ff5-f6e9-436a-9f3b-26b3b257b952
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the object reoriented towards the approaching F/A-18 and
     moved behind the aircraft through discrete tumbling manoeuvres.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -130,6 +139,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-e9c64435-ee8a-4b50-9277-8078fc7aba18
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-e9c64435-ee8a-4b50-9277-8078fc7aba18
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the pilots captured gun-camera footage and infrared imagery.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:14:50.9-00:14:57.4
@@ -140,6 +150,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-e4fb6a85-c21e-430f-aa81-8337d9eff8f0
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-e4fb6a85-c21e-430f-aa81-8337d9eff8f0
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the object remained near the USS Nimitz for hours and was
     monitored by the USS Princeton and an E-2 Hawkeye.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -151,6 +162,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-f190b1ec-1ef2-4f10-aea9-d8d8618a5904
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-f190b1ec-1ef2-4f10-aea9-d8d8618a5904
+  copyright_status: publicly_accessible
 - text: Chris Mellon said the object ascended to approximately 24,000 metres before
     descending to approximately 15 metres above the ocean.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -163,6 +175,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b84f17b5-0fe1-47d2-8877-682cbadfb52e
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-b84f17b5-0fe1-47d2-8877-682cbadfb52e
+  copyright_status: publicly_accessible
 - text: Chris Mellon said he met one of the pilots and confirmed the account.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:16:15.0-00:16:21.0
@@ -173,6 +186,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-a8c6b44c-7e2f-468d-9ab4-8c9855dbdb58
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said the academy planned tools for public detection, analysis,
     categorisation and engineering of elusive technologies.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -184,6 +198,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-3f1a3359-9838-429e-90ca-d67a5f8f08d4
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-3f1a3359-9838-429e-90ca-d67a5f8f08d4
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said the academy planned a virtual community for real-time detection
     and triangulation.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -196,6 +211,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-cd641511-5850-4dbb-b817-9660916611d7
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-cd641511-5850-4dbb-b817-9660916611d7
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said the academy planned to release previously unreleased footage
     from real US government systems.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -207,6 +223,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-d9e83125-903c-4ab0-9431-c0659a52aab1
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-d9e83125-903c-4ab0-9431-c0659a52aab1
+  copyright_status: publicly_accessible
 - text: Luis Elizondo said the academy planned an app for crowd-sourcing aerial-phenomena
     data.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -218,6 +235,7 @@ references:
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-0a38f603-d919-49dd-a8c9-8b66e574ed99
   inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-0a38f603-d919-49dd-a8c9-8b66e574ed99
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

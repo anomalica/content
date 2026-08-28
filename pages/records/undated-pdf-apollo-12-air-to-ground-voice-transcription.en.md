@@ -24,6 +24,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-a2c62543-aaec-465d-b912-c65f10186296
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-a2c62543-aaec-465d-b912-c65f10186296
+  copyright_status: public_domain
 - text: Alan Bean initially associated the light particles with the water boiler and
     considered that some might have escaped the Moon.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -36,6 +37,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-5995804b-121c-4691-bf22-c396d9429f3c
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-5995804b-121c-4691-bf22-c396d9429f3c
+  copyright_status: public_domain
 - text: Mission Control gave Intrepid a lift-off time of GET 142 hours, 3 minutes
     and 47 seconds.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -46,6 +48,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-69e6feed-49ec-4b1f-8b24-148d0c0712cd
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-69e6feed-49ec-4b1f-8b24-148d0c0712cd
+  copyright_status: public_domain
 - text: Alan Bean described an all-8's flash on the AGS registers.
   source: Apollo 12 Air-to-Ground Voice Transcription
   location: char:3711-4012
@@ -58,6 +61,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-8dda085d-6857-4b2c-a036-c09447f1d28a
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-8dda085d-6857-4b2c-a036-c09447f1d28a
+  copyright_status: public_domain
 - text: Alan Bean said that reducing the illumination made the AGS flashing phenomenon
     unnoticeable.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -68,6 +72,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-9e980e60-4b03-4d55-a472-6f78c78165cc
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-9e980e60-4b03-4d55-a472-6f78c78165cc
+  copyright_status: public_domain
 - text: Mission Control reported seeing the DEDA flashing phenomenon during Apollo
     spacecraft ground testing at Bethpage, New York, and considered EMI a probable
     cause.
@@ -81,6 +86,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-f6d7c320-dbe1-4533-880c-0aab32a75076
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-f6d7c320-dbe1-4533-880c-0aab32a75076
+  copyright_status: public_domain
 - text: Mission Control said that TRW Inc. had prepared a workup on the DEDA flashing
     problem.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -91,6 +97,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-2b4ca115-acb5-412d-bbdb-2dff43b0d6c2
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-2b4ca115-acb5-412d-bbdb-2dff43b0d6c2
+  copyright_status: public_domain
 - text: Richard Gordon reported being unable to find Intrepid's tracking light from
     Yankee Clipper because it appeared to have burned out.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -102,6 +109,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-94dfd3da-ce31-4796-a462-383b80bb5849
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-94dfd3da-ce31-4796-a462-383b80bb5849
+  copyright_status: public_domain
 - text: Charles "Pete" Conrad described debris accompanying Intrepid and the tracking
     light flashing on it during one pass but not another.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -116,6 +124,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-ebdffb06-fab2-4a7a-9fe4-4be6133b89e1
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-ebdffb06-fab2-4a7a-9fe4-4be6133b89e1
+  copyright_status: public_domain
 - text: Charles "Pete" Conrad said that Richard Gordon had prepared the television
     camera and told him it was ready.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -128,6 +137,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
+  copyright_status: public_domain
 - text: Mission Control's electrical monitoring indicated that Intrepid's tracking
     light was on, contrary to the crew's report that it had been turned off.
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -139,6 +149,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-b908092d-6e2d-4946-af0f-1935ca4f1abc
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-b908092d-6e2d-4946-af0f-1935ca4f1abc
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

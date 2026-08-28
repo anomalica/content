@@ -66,6 +66,7 @@ references:
   claim_id: e6fd2fd2-1661-463f-9a3d-19a80a9c9941
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e6fd2fd2-1661-463f-9a3d-19a80a9c9941
+  copyright_status: restricted
 - text: Hoagland explained the low viewing angle was the best that could be hoped
     for
   source: Dark Mission
@@ -73,6 +74,7 @@ references:
   claim_id: b58b0427-d94e-444a-985b-d65db37d4474
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b58b0427-d94e-444a-985b-d65db37d4474
+  copyright_status: restricted
 - text: Bell considered it a joke that the MIPL version was the only one available
     for the TV news
   source: Dark Mission
@@ -80,18 +82,21 @@ references:
   claim_id: ad3ef148-ed2e-4163-bb17-d005ca459665
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ad3ef148-ed2e-4163-bb17-d005ca459665
+  copyright_status: restricted
 - text: Bell said he'd have to conclude there was no Face on Mars
   source: Dark Mission
   location: ch13:19426-19585
   claim_id: 46987c9f-3c10-4288-9e72-db8f4b73c513
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46987c9f-3c10-4288-9e72-db8f4b73c513
+  copyright_status: restricted
 - text: Bell's litter-box comment gave the MIPL image its 'Catbox' nickname
   source: Dark Mission
   location: ch13:19591-19825
   claim_id: 2e2d2854-09f5-4884-92d9-e6fa65cb7b69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e2d2854-09f5-4884-92d9-e6fa65cb7b69
+  copyright_status: restricted
 - text: Hoagland's team e-mailed their release-time prediction to Van Flandern and
     Bell
   source: Dark Mission
@@ -99,12 +104,14 @@ references:
   claim_id: bf4d8eb8-5aec-48f6-a4e9-46972982dfca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf4d8eb8-5aec-48f6-a4e9-46972982dfca
+  copyright_status: restricted
 - text: Bell retired for family reasons; Mike Siegel replaced him as host
   source: Dark Mission
   location: ch14:24644-24768
   claim_id: e28fd767-90f5-4853-88dd-191bc269939f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e28fd767-90f5-4853-88dd-191bc269939f
+  copyright_status: restricted
 - text: Van Flandern spent nearly 90 minutes on Cydonia research already familiar
     to Bell's listeners
   source: Dark Mission
@@ -112,6 +119,7 @@ references:
   claim_id: c636e421-4c8c-438c-8f8f-4f3ae6c756bf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c636e421-4c8c-438c-8f8f-4f3ae6c756bf
+  copyright_status: restricted
 - text: Bell returned to broadcasting and campaigned with Hoagland for release of
     THEMIS data
   source: Dark Mission
@@ -119,6 +127,7 @@ references:
   claim_id: fbcac2d9-714b-4b9b-bd69-75e89e9806c9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fbcac2d9-714b-4b9b-bd69-75e89e9806c9
+  copyright_status: restricted
 - text: Laney briefed Bell and compared the THEMIS data with the Phobos 2 infrared
     image
   source: Dark Mission
@@ -126,12 +135,14 @@ references:
   claim_id: 72c7a164-328b-4142-86b4-dbe448fffd2d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-72c7a164-328b-4142-86b4-dbe448fffd2d
+  copyright_status: restricted
 - text: Bell struggled to believe Laney's THEMIS images weren't faked
   source: Dark Mission
   location: ch17:49705-49798
   claim_id: 70d11964-5d98-4c10-a905-10204160e322
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70d11964-5d98-4c10-a905-10204160e322
+  copyright_status: restricted
 - text: Bell believed Gorelick or Christensen had embedded building images into the
     THEMIS data
   source: Dark Mission
@@ -139,6 +150,7 @@ references:
   claim_id: 5241d2d4-1375-47c4-82f8-fa5338de943d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5241d2d4-1375-47c4-82f8-fa5338de943d
+  copyright_status: restricted
 - text: Anonymous sergeant 'A Friend' wrote to Bell enclosing alleged Roswell metal
     samples
   source: In Plain Sight
@@ -146,24 +158,28 @@ references:
   claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
+  copyright_status: restricted
 - text: Sergeant sent five letters with excerpts from his grandfather's diary
   source: In Plain Sight
   location: ch23:3539-3703
   claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c01931a-dd22-4d7d-805f-cb17c5a36dad
+  copyright_status: restricted
 - text: Listeners responded sceptically when Bell told the story on air
   source: In Plain Sight
   location: ch23:6971-7171
   claim_id: e2d71d2b-3037-4375-be3e-9d30ca8766d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2d71d2b-3037-4375-be3e-9d30ca8766d3
+  copyright_status: restricted
 - text: Sergeant's second letter expressed surprise at listeners' negative response
   source: In Plain Sight
   location: ch23:7176-7381
   claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
+  copyright_status: restricted
 - text: Sergeant's fourth letter admitted he was on the Joint Endeavor flight to Hungary
     during a broadcast
   source: In Plain Sight
@@ -171,6 +187,7 @@ references:
   claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
+  copyright_status: restricted
 - text: Sergeant said his pilot friend carried a Roswell sample and that C-130s don't
     normally get struck by lightning and explode
   source: In Plain Sight
@@ -178,6 +195,7 @@ references:
   claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-caaa1f88-ff17-487b-bf6c-b00cf6ed697b
+  copyright_status: restricted
 - text: The 1978 C-130 lightning crash occurred four years after the diary account
     and 18 years before the letters to Bell and Howe
   source: In Plain Sight
@@ -185,6 +203,7 @@ references:
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
+  copyright_status: restricted
 - text: 'Coulthart: the November 1996 letter appeared addressed to an LA producer
     possibly working with Howe or Bell'
   source: In Plain Sight
@@ -192,6 +211,7 @@ references:
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
+  copyright_status: restricted
 - text: Coulthart suspects the letter was forwarded to Mitchell by Howe or Bell with
     identifying details removed
   source: In Plain Sight
@@ -199,6 +219,7 @@ references:
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
+  copyright_status: restricted
 - text: Pendry began conceiving metamaterials around the same time Bell received the
     Art's Parts samples
   source: In Plain Sight
@@ -206,12 +227,14 @@ references:
   claim_id: 3d28a45d-b46a-4fd9-8dca-5bac666e0166
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d28a45d-b46a-4fd9-8dca-5bac666e0166
+  copyright_status: restricted
 - text: Mick West identified the aluminium louvered sheets as heat exchanger fins
   source: In Plain Sight
   location: ch34:49606-49718
   claim_id: 18886365-8a16-464e-ae34-a15698badaf5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18886365-8a16-464e-ae34-a15698badaf5
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

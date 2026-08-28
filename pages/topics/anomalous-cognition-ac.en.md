@@ -145,12 +145,14 @@ references:
   claim_id: 62eb53aa-d4d1-4c23-9180-787c0d73e93c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-62eb53aa-d4d1-4c23-9180-787c0d73e93c
+  copyright_status: restricted
 - text: Term used by the Cognitive Sciences Laboratory to define extrasensory perception
   source: Remote Viewing Secrets
   location: ch28:944-1053
   claim_id: ff741884-6ec7-4693-a0ca-f7a8f1c7e887
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ff741884-6ec7-4693-a0ca-f7a8f1c7e887
+  copyright_status: restricted
 - text: Original data set overall mean effect size of 0.148 (n=1,468), Stouffer's
     Z of 5.99 (p=7x10^-9)
   source: Remote Viewing Secrets
@@ -158,6 +160,7 @@ references:
   claim_id: 276ae844-b011-4ac7-bbd4-08e23bf0ae83
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-276ae844-b011-4ac7-bbd4-08e23bf0ae83
+  copyright_status: restricted
 - text: Spottiswoode concluded AC performance appears strongly dependent on Local
     Sidereal Time, assuming no unknown systematic bias
   source: Remote Viewing Secrets
@@ -165,6 +168,7 @@ references:
   claim_id: 594e2904-4768-4cfd-bbf7-023163dfac4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-594e2904-4768-4cfd-bbf7-023163dfac4d
+  copyright_status: restricted
 - text: Local sidereal time for maximum effect size found at 13.47 hours in the original
     data set
   source: Remote Viewing Secrets
@@ -172,6 +176,7 @@ references:
   claim_id: d8d3baf3-779f-460b-a289-2fcfa94cc5c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d8d3baf3-779f-460b-a289-2fcfa94cc5c5
+  copyright_status: restricted
 - text: Trials within plus or minus 1 hour of 13.47 hours LST showed effect size of
     0.507 (n=83) versus 0.148 overall, a 3.42-fold increase
   source: Remote Viewing Secrets
@@ -179,6 +184,7 @@ references:
   claim_id: 795d1bb7-5bc0-47a8-9e80-2b4a0d8ca38e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-795d1bb7-5bc0-47a8-9e80-2b4a0d8ca38e
+  copyright_status: restricted
 - text: Validation data set showed effect size increase of 450% for trials within
     1 hour of 13.5 hours LST (p=0.05), confirming the effect
   source: Remote Viewing Secrets
@@ -187,12 +193,14 @@ references:
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
   inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
+  copyright_status: restricted
 - text: Same 13.47-hour peak found independently in the validation data set
   source: Remote Viewing Secrets
   location: ch29:17085-17194
   claim_id: b4ebc4ea-b185-4433-b83f-21b7fcdfa40a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b4ebc4ea-b185-4433-b83f-21b7fcdfa40a
+  copyright_status: restricted
 - text: Monte Carlo test of 10,000 runs gave an estimated probability of 0.0014 for
     the observed peak occurring by chance at any LST value
   source: Remote Viewing Secrets
@@ -200,6 +208,7 @@ references:
   claim_id: f1cfa56d-f8c8-4544-ac29-f49a3ea4f017
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f1cfa56d-f8c8-4544-ac29-f49a3ea4f017
+  copyright_status: restricted
 - text: Increase considered likely real and replicable across laboratories, occurring
     in both Ganzfeld and remote viewing protocols
   source: Remote Viewing Secrets
@@ -207,6 +216,7 @@ references:
   claim_id: 59ab4e54-5dab-4cd5-8bf3-ee7861ea9d8f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-59ab4e54-5dab-4cd5-8bf3-ee7861ea9d8f
+  copyright_status: restricted
 - text: No evidence AC performance falls off with distance between receiver and target
     over separations up to several thousand kilometres
   source: Remote Viewing Secrets
@@ -214,6 +224,7 @@ references:
   claim_id: 650ce7bd-ba26-4746-ae3f-4fe87aa44c3d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-650ce7bd-ba26-4746-ae3f-4fe87aa44c3d
+  copyright_status: restricted
 - text: Long-range tests show no difference in performance from interposing the earth
     between receiver and target
   source: Remote Viewing Secrets
@@ -221,6 +232,7 @@ references:
   claim_id: 75ffb18b-afd2-4a01-b735-886520f74a75
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-75ffb18b-afd2-4a01-b735-886520f74a75
+  copyright_status: restricted
 - text: Spottiswoode found in 1993 that AC performance is improved during periods
     when the geomagnetic field is relatively quiescent
   source: Remote Viewing Secrets
@@ -228,6 +240,7 @@ references:
   claim_id: 870de956-7994-42bd-8220-bc890bdf57d5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-870de956-7994-42bd-8220-bc890bdf57d5
+  copyright_status: restricted
 - text: Overall correlation between ap geomagnetic index and AC effect size across
     full dataset was -0.029 (N=2,879, p=0.06, one-tailed)
   source: Remote Viewing Secrets
@@ -235,6 +248,7 @@ references:
   claim_id: 831a016c-1639-4bbd-a287-e5a3f20bd25f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-831a016c-1639-4bbd-a287-e5a3f20bd25f
+  copyright_status: restricted
 - text: Correlation within the 11.2-14.8 hour LST 'in-band' window was -0.192 (N=256,
     p=0.002), versus -0.010 outside it (N=2,623, not significant)
   source: Remote Viewing Secrets
@@ -242,6 +256,7 @@ references:
   claim_id: 6032b7c4-09ee-4025-897b-be86567374a2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6032b7c4-09ee-4025-897b-be86567374a2
+  copyright_status: restricted
 - text: Maximum magnitude correlation of -0.33 (N=134, p=0.0001) occurred at 12.9
     hours LST, approximately agreeing with the 13.3-hour peak in effect size
   source: Remote Viewing Secrets
@@ -249,6 +264,7 @@ references:
   claim_id: 8c01a517-c5d1-435b-91e5-6acfcbd87157
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c01a517-c5d1-435b-91e5-6acfcbd87157
+  copyright_status: restricted
 - text: Negative correlation peak confirmed in both the ganzfeld and remote viewing
     protocols
   source: Remote Viewing Secrets
@@ -256,6 +272,7 @@ references:
   claim_id: 679e4897-9554-4cf3-bd13-994a15eb25ae
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-679e4897-9554-4cf3-bd13-994a15eb25ae
+  copyright_status: restricted
 - text: Michael Persinger found in 1988 that anecdotal AC cases occurred on days when
     geomagnetic fluctuations were significantly lower than on surrounding days
   source: Remote Viewing Secrets
@@ -263,6 +280,7 @@ references:
   claim_id: 8f70f8e1-7cca-4ad0-a88a-c286f52728ed
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8f70f8e1-7cca-4ad0-a88a-c286f52728ed
+  copyright_status: restricted
 - text: Erlendur Haraldsson and Loftur Gissurarson did not find an association between
     high-scoring AC trials and low geomagnetic fluctuations in their 1987 work
   source: Remote Viewing Secrets
@@ -270,6 +288,7 @@ references:
   claim_id: 4a74221e-7a4c-40ab-9b05-7257e4547d13
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a74221e-7a4c-40ab-9b05-7257e4547d13
+  copyright_status: restricted
 - text: Roger Nelson and Brenda Dunne did not find such an association in their 1986
     work
   source: Remote Viewing Secrets
@@ -277,6 +296,7 @@ references:
   claim_id: c6a16fd7-587a-4a53-8248-6e77eada53ad
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c6a16fd7-587a-4a53-8248-6e77eada53ad
+  copyright_status: restricted
 - text: Effect size and confidence interval of the PEAR data fall within the range
     reported by other free-response AC investigations
   source: Remote Viewing Secrets
@@ -284,6 +304,7 @@ references:
   claim_id: b39e8dac-a8e6-4896-8657-e472d7d1881c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b39e8dac-a8e6-4896-8657-e472d7d1881c
+  copyright_status: restricted
 - text: Contact with nonhuman intelligence manifests as anomalous experiences, telepathic
     communication, or anomalous cognition, defined as knowledge of future events or
     other knowledge with no conventional explanation
@@ -292,6 +313,7 @@ references:
   claim_id: 4ab9b4a4-c599-47e9-97cd-407be49c9b10
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4ab9b4a4-c599-47e9-97cd-407be49c9b10
+  copyright_status: restricted
 - text: James Master considers anomalous cognition begins at a level beyond the physical
     world, which he suggests is a quantum level
   source: American Cosmic
@@ -299,6 +321,7 @@ references:
   claim_id: 57db9b6c-2c3e-4fe0-b01b-92f9d38aa99c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-57db9b6c-2c3e-4fe0-b01b-92f9d38aa99c
+  copyright_status: restricted
 - text: James Master studied the biological hardware of human capabilities for anomalous
     cognition, whereas Tyler D. studied the material hardware of a supposed crashed
     alien spacecraft
@@ -307,6 +330,7 @@ references:
   claim_id: f35825d1-1b8e-4d85-b2fd-4acfb67e74de
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f35825d1-1b8e-4d85-b2fd-4acfb67e74de
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

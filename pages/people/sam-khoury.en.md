@@ -42,6 +42,7 @@ references:
   claim_id: 7b5d2a68-200b-43f4-83d4-bdd6eac4fa60
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7b5d2a68-200b-43f4-83d4-bdd6eac4fa60
+  copyright_status: restricted
 - text: Sam Khoury asked Peter Khoury to watch a film in Peter's room so Sam could
     watch it in the TV room.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -49,6 +50,7 @@ references:
   claim_id: 66c703c9-75d0-4659-87d1-a1b052dac45c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-66c703c9-75d0-4659-87d1-a1b052dac45c
+  copyright_status: restricted
 - text: On the night of 1988-07-12, Peter Khoury and his father were watching television
     at about 11 p.m. while Sam Khoury slept in Peter's room.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -56,6 +58,7 @@ references:
   claim_id: 709da64f-b02d-451f-8090-252872256903
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-709da64f-b02d-451f-8090-252872256903
+  copyright_status: restricted
 - text: Before he was inserted with a device and lost consciousness, Peter Khoury
     had been fighting paralysis and trying to scream for his father and brother.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -67,6 +70,7 @@ references:
   claim_id: 538c3cb1-570c-48d8-bb40-2d1b3e3d26e7
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-538c3cb1-570c-48d8-bb40-2d1b3e3d26e7
+  copyright_status: publicly_accessible
 - text: After regaining consciousness, Peter Khoury found his father and Sam asleep
     in the TV room and had to wake Sam, who appeared dazed.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -74,6 +78,7 @@ references:
   claim_id: 79205583-d754-41ab-98bb-2a9253d12e2b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-79205583-d754-41ab-98bb-2a9253d12e2b
+  copyright_status: restricted
 - text: Sam Khoury and his father were unusually deeply asleep that night, atypical
     since Sam was normally a very light sleeper.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -81,6 +86,7 @@ references:
   claim_id: 7c3bc2a2-db7c-49a4-a99f-8e1a235b4058
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c3bc2a2-db7c-49a4-a99f-8e1a235b4058
+  copyright_status: restricted
 - text: Sam Khoury was initially sceptical but came to accept Peter's account after
     recognising an unaccounted gap of roughly four hours.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -88,6 +94,7 @@ references:
   claim_id: 7715724c-2a0b-4fec-8673-84008ac9029c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7715724c-2a0b-4fec-8673-84008ac9029c
+  copyright_status: restricted
 - text: Bill Chalker interviewed Peter Khoury's family, including Sam and their father,
     while researching a book about Peter's experiences.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -99,6 +106,7 @@ references:
   claim_id: 9bcb45b8-c87c-41f8-8f92-2e7a2ec92cf5
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9bcb45b8-c87c-41f8-8f92-2e7a2ec92cf5
+  copyright_status: publicly_accessible
 - text: Sam Khoury described witnessing Peter Khoury being floated out through the
     hallway by three beings.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -109,6 +117,7 @@ references:
   claim_id: b3bef33f-c971-4a18-abf9-3faaee614aab
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-b3bef33f-c971-4a18-abf9-3faaee614aab
+  copyright_status: publicly_accessible
 - text: Sam Khoury was frozen and unable to move to help Peter.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
     ep. 58
@@ -117,6 +126,7 @@ references:
   claim_id: d6e15821-5cff-4ee9-bf27-55fad96eddf0
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d6e15821-5cff-4ee9-bf27-55fad96eddf0
+  copyright_status: publicly_accessible
 - text: Sam Khoury believed he was witnessing Peter's soul being taken and thought
     he would never see him alive again.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -127,6 +137,7 @@ references:
   claim_id: 47e521fa-8a14-431c-bb68-ca5c9806bef2
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-47e521fa-8a14-431c-bb68-ca5c9806bef2
+  copyright_status: publicly_accessible
 - text: Sam Khoury could see the length of the hallway because the front and back
     doors were in perfect alignment, though he was paralysed in his chair.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -138,6 +149,7 @@ references:
   claim_id: d1bc2e47-4339-47d0-8886-4dcfce82f6ff
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d1bc2e47-4339-47d0-8886-4dcfce82f6ff
+  copyright_status: publicly_accessible
 - text: Peter Khoury had not known about Sam's account until Sam told Bill Chalker,
     since Sam had never told him directly.
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -148,6 +160,7 @@ references:
   claim_id: 8d6a2994-59e6-4cb5-a79d-85660849d7ee
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-8d6a2994-59e6-4cb5-a79d-85660849d7ee
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

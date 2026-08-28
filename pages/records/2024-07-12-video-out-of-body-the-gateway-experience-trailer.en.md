@@ -30,6 +30,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-bcf3dcd8-e6cc-422f-a761-c612400edf3a
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-bcf3dcd8-e6cc-422f-a761-c612400edf3a
+  copyright_status: publicly_accessible
 - text: A participant described an out-of-body experience as seeming to last thousands
     of years.
   source: Out of Body - The Gateway Experience - Trailer
@@ -40,6 +41,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-b9f64b58-0d18-42e7-9c38-87cb430ee922
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-b9f64b58-0d18-42e7-9c38-87cb430ee922
+  copyright_status: publicly_accessible
 - text: A participant described realising they were standing behind themselves during
     an out-of-body experience.
   source: Out of Body - The Gateway Experience - Trailer
@@ -51,6 +53,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-ca08d284-e601-4201-8f5c-373a8e3b3483
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-ca08d284-e601-4201-8f5c-373a8e3b3483
+  copyright_status: publicly_accessible
 - text: A participant found they could put their hand through a glass window during
     an out-of-body experience.
   source: Out of Body - The Gateway Experience - Trailer
@@ -62,6 +65,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-5a9b6aee-56d8-4a76-bcfa-71a0f653efae
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-5a9b6aee-56d8-4a76-bcfa-71a0f653efae
+  copyright_status: publicly_accessible
 - text: A participant felt their body become lighter and felt able to lift out of
     their body.
   source: Out of Body - The Gateway Experience - Trailer
@@ -73,6 +77,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-fb27906a-0633-4a5e-b735-11970116e6af
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-fb27906a-0633-4a5e-b735-11970116e6af
+  copyright_status: publicly_accessible
 - text: A participant said that something bumping their shoulder turned out to be
     the ceiling of their bedroom.
   source: Out of Body - The Gateway Experience - Trailer
@@ -84,6 +89,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-68003092-9578-40fc-936a-9bef9c5bc1b2
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-68003092-9578-40fc-936a-9bef9c5bc1b2
+  copyright_status: publicly_accessible
 - text: The trailer states that out-of-body experiences attracted the attention of
     the CIA.
   source: Out of Body - The Gateway Experience - Trailer
@@ -94,6 +100,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-7203f9d6-4a96-4249-89af-7a16f20a478e
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-7203f9d6-4a96-4249-89af-7a16f20a478e
+  copyright_status: publicly_accessible
 - text: A participant described their soul as coming out of the mould of their body.
   source: Out of Body - The Gateway Experience - Trailer
   location: 00:00:59.8-00:01:01.9
@@ -103,6 +110,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-01943459-5099-4a93-b5b9-974ad910b9b2
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-01943459-5099-4a93-b5b9-974ad910b9b2
+  copyright_status: publicly_accessible
 - text: A participant said their first out-of-body experience occurred at 3:09 a.m.
   source: Out of Body - The Gateway Experience - Trailer
   location: 00:01:05.2-00:01:08.2
@@ -112,6 +120,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-c339bb0f-a1d4-461a-a571-050d0e2b3dc0
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-c339bb0f-a1d4-461a-a571-050d0e2b3dc0
+  copyright_status: publicly_accessible
 - text: A participant considered the knowledge that they would transcend physical
     mortality to be the main thing gained from their experience.
   source: Out of Body - The Gateway Experience - Trailer
@@ -123,6 +132,7 @@ references:
   record_hash: 1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6
   workbench_url: https://workbench.anomalica.is/1b295144496cf97e53bef44245ef89e1a83d1999b6228ccdf5d59ea6#claim-72bf0013-c6da-4004-9bee-f6905dd9fe3e
   inspection_url: /records/2024-07-12-video-out-of-body-the-gateway-experience-trailer#claim-72bf0013-c6da-4004-9bee-f6905dd9fe3e
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

@@ -60,6 +60,7 @@ references:
   claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-287efd3c-a220-4ec0-b163-1fb449fe5c66
+  copyright_status: publicly_accessible
 - text: Weiss was executive vice-president and general manager of Lockheed Martin
     Skunk Works until 2019.
   source: In Plain Sight
@@ -67,6 +68,7 @@ references:
   claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
+  copyright_status: restricted
 - text: Leaked Podesta emails revealed plans for a Google Hangout meeting between
     DeLonge, two US Air Force generals, and Weiss.
   source: In Plain Sight
@@ -74,12 +76,14 @@ references:
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
+  copyright_status: restricted
 - text: Proposed attendee list for the Google Hangout meeting.
   source: In Plain Sight
   location: 29-31
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
+  copyright_status: restricted
 - text: Leaked emails show DeLonge in contact with a senior aerospace CEO, a Clinton
     campaign manager, and two retired Air Force generals, discussing UAP.
   source: In Plain Sight
@@ -87,6 +91,7 @@ references:
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
+  copyright_status: restricted
 - text: Podesta correspondence describes a meeting involving William Neal McCasland,
     Michael Carey, Robert Weiss and John Podesta.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -97,18 +102,21 @@ references:
   claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0d828226-9b96-46eb-aa06-83df347c5b0a
+  copyright_status: publicly_accessible
 - text: Coulthart says it is a fair bet the executive DeLonge met was Weiss.
   source: In Plain Sight
   location: ch18:16530-16704
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
+  copyright_status: restricted
 - text: Weiss was probably the executive DeLonge called 'BossMan'.
   source: In Plain Sight
   location: ch20:4860-5039
   claim_id: 62ab67fe-a75a-486b-9791-6af6f69bf5e5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62ab67fe-a75a-486b-9791-6af6f69bf5e5
+  copyright_status: restricted
 - text: '''BossMan'' told DeLonge Lockheed Martin could not be involved in any UAP-related
     project.'
   source: In Plain Sight
@@ -116,18 +124,21 @@ references:
   claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
+  copyright_status: restricted
 - text: DeLonge invoked Edgar Mitchell and asked for time to address credibility issues.
   source: In Plain Sight
   location: ch18:18434-18833
   claim_id: 5469aa79-f093-4aea-a702-02c08b60e360
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5469aa79-f093-4aea-a702-02c08b60e360
+  copyright_status: restricted
 - text: DeLonge asked for a five-minute meeting alone with 'BossMan'.
   source: In Plain Sight
   location: ch18:18841-18982
   claim_id: 186d086e-269e-41b8-81b1-756accd7391a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-186d086e-269e-41b8-81b1-756accd7391a
+  copyright_status: restricted
 - text: DeLonge told 'BossMan' he understood the national security implications and
     was not naive to the topic.
   source: In Plain Sight
@@ -135,6 +146,7 @@ references:
   claim_id: 75ee8e19-8c01-4976-ba60-9440b2bb7b17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75ee8e19-8c01-4976-ba60-9440b2bb7b17
+  copyright_status: restricted
 - text: DeLonge told 'BossMan' of a thirty-year programme to indoctrinate people to
     the idea UFOs/UAP might be real.
   source: In Plain Sight
@@ -142,6 +154,7 @@ references:
   claim_id: 50fc2dd4-d7dd-45db-8a10-e874e56e8830
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-50fc2dd4-d7dd-45db-8a10-e874e56e8830
+  copyright_status: restricted
 - text: DeLonge told Weiss he knew about 'some bad things' the government had done
     regarding UAP.
   source: In Plain Sight
@@ -149,18 +162,21 @@ references:
   claim_id: 1c0a9def-96f1-4822-bae6-362c7f093c0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
+  copyright_status: restricted
 - text: Weiss demanded to know what kind of bad things DeLonge meant.
   source: In Plain Sight
   location: ch18:20394-20487
   claim_id: 6c577b93-42d1-4808-9484-ffec5e9925c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
+  copyright_status: restricted
 - text: DeLonge said he would need advisers to guide his disclosure work.
   source: In Plain Sight
   location: ch18:20577-20747
   claim_id: 3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
+  copyright_status: restricted
 - text: DeLonge considers this exchange the breakthrough point in gaining access to
     gatekeepers.
   source: In Plain Sight
@@ -168,12 +184,14 @@ references:
   claim_id: b6ac7585-c645-4c09-9c60-e7861caf8963
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
+  copyright_status: restricted
 - text: DeLonge says things moved quickly for his project in the following months.
   source: In Plain Sight
   location: ch18:18989-19264
   claim_id: 9c91e433-c606-45fe-a914-a76f86b34b64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c91e433-c606-45fe-a914-a76f86b34b64
+  copyright_status: restricted
 - text: Within two weeks, DeLonge was introduced to Air Force generals, intelligence
     officials, NASA officials, and White House officials.
   source: In Plain Sight
@@ -181,6 +199,7 @@ references:
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
+  copyright_status: restricted
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

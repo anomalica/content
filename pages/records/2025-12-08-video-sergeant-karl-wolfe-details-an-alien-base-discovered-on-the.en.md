@@ -30,6 +30,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-4f3b664e-8289-4db3-a30a-9d17ced87a73
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-4f3b664e-8289-4db3-a30a-9d17ced87a73
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he was stationed at Langley Air Force Base in Virginia.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
     before being assassinated
@@ -40,6 +41,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-91302af5-f832-4554-bc10-14a50995d0f3
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-91302af5-f832-4554-bc10-14a50995d0f3
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he was loaned to the Lunar Orbiter Project at NASA at Langley
     Field in mid-1965.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -52,6 +54,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-cb3770a3-d4d8-42c2-959e-6bf18e322ebc
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-cb3770a3-d4d8-42c2-959e-6bf18e322ebc
+  copyright_status: publicly_accessible
 - text: Carl Wolf said Dr. Colley was in charge of the Lunar Orbiter Project.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
     before being assassinated
@@ -62,6 +65,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-51176098-c7e7-4be3-b1c5-c7e418a28a32
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-51176098-c7e7-4be3-b1c5-c7e418a28a32
+  copyright_status: publicly_accessible
 - text: Carl Wolf said the Lunar Orbiter Project had an electronic-equipment problem
     that was bottlenecking photographic production.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -74,6 +78,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-b0cfc67c-cc9e-4d6d-a494-3d7f4342bcb6
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-b0cfc67c-cc9e-4d6d-a494-3d7f4342bcb6
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he observed scientists from around the world at the Lunar Orbiter
     Project facility.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -86,6 +91,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-8d7dc661-b33c-48d2-b0a6-f8f39df2858d
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-8d7dc661-b33c-48d2-b0a6-f8f39df2858d
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he was an airman second class.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
     before being assassinated
@@ -96,6 +102,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-f33b37d2-e477-4e9d-9635-e2cf146ae091
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-f33b37d2-e477-4e9d-9635-e2cf146ae091
+  copyright_status: publicly_accessible
 - text: Carl Wolf said an unnamed young airman told him that a base had been discovered
     on the far side of the Moon.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -108,6 +115,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-4afffec3-6d63-43a6-b133-3337bb5c3b50
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-4afffec3-6d63-43a6-b133-3337bb5c3b50
+  copyright_status: publicly_accessible
 - text: Carl Wolf said an unnamed airman showed him photographs of mushroom-shaped,
     spherical and tower-like buildings on the far side of the Moon.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -121,6 +129,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-7967efd5-461c-4c5a-bcf8-61ebf64b17c4
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-7967efd5-461c-4c5a-bcf8-61ebf64b17c4
+  copyright_status: publicly_accessible
 - text: Carl Wolf said the Lunar Orbiter Project operated under compartmentalised
     security and that he became concerned about the alleged base.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -133,6 +142,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-48149bd9-f434-441e-a2c2-3cc09d184d1f
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-48149bd9-f434-441e-a2c2-3cc09d184d1f
+  copyright_status: publicly_accessible
 - text: Carl Wolf believed the young airman had breached security by disclosing the
     alleged base and photographs.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -145,6 +155,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-99ff7762-0a48-4c3a-95ee-0301559bd30e
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-99ff7762-0a48-4c3a-95ee-0301559bd30e
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he worked at the Lunar Orbiter Project facility for three more
     days after the incident.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -157,6 +168,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-997065da-5d81-44e5-a193-c831f0932ddd
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-997065da-5d81-44e5-a193-c831f0932ddd
+  copyright_status: publicly_accessible
 - text: Carl Wolf said he expected the alleged discovery to be reported on the evening
     news, but said it had not been reported more than 30 years later.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -168,6 +180,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-8b9a125b-f855-4430-b67e-9384160784d5
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-8b9a125b-f855-4430-b67e-9384160784d5
+  copyright_status: publicly_accessible
 - text: Carl Wolf offered to testify under oath before the United States Congress
     that his account was true.
   source: Sergeant Karl Wolfe details an alien base discovered on the moon by NASA
@@ -180,6 +193,7 @@ references:
   record_hash: 29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e
   workbench_url: https://workbench.anomalica.is/29a85e90e3d1cc46a979fd3334cc17a9ed95ffbb76fee5549f7b2b9e#claim-b0e70f89-deae-4f73-9a74-d24aa10d0190
   inspection_url: /records/2025-12-08-video-sergeant-karl-wolfe-details-an-alien-base-discovered-on-the#claim-b0e70f89-deae-4f73-9a74-d24aa10d0190
+  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

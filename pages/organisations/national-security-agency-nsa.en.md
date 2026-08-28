@@ -61,66 +61,77 @@ references:
   claim_id: 3bdba6a0-f9d0-4a3c-a909-2ccb6a5e76d0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3bdba6a0-f9d0-4a3c-a909-2ccb6a5e76d0
+  copyright_status: restricted
 - text: The 1973 redacted NSA UFO document was classified top-secret-umbra
   source: In Plain Sight
   location: ch11:12710-12788
   claim_id: 3c4bbcb3-52b4-4a62-bc5f-ac834d84d523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c4bbcb3-52b4-4a62-bc5f-ac834d84d523
+  copyright_status: restricted
 - text: Chalker speculates the document may reference the 1973 North West Cape sighting
   source: In Plain Sight
   location: ch11:12579-12915
   claim_id: db0896bb-d5d5-468d-b390-594f33645f46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0896bb-d5d5-468d-b390-594f33645f46
+  copyright_status: restricted
 - text: NSA official admitted under deposition to holding 239 UFO-related documents
   source: In Plain Sight
   location: ch11:12925-13100
   claim_id: 92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
+  copyright_status: restricted
 - text: One of the 239 documents described a 1973 sighting with location redacted
   source: In Plain Sight
   location: ch11:13045-13177
   claim_id: e4880dd8-2174-42ba-a077-cf29e74063d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4880dd8-2174-42ba-a077-cf29e74063d5
+  copyright_status: restricted
 - text: Orders to ship tapes to NSA after the Cuban MIG-21 interception
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:31528-31729
   claim_id: 1d7bf81c-d50e-40d8-b239-aa5904809120
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1d7bf81c-d50e-40d8-b239-aa5904809120
+  copyright_status: restricted
 - text: Bobby Inman was a former NSA director
   source: Dark Mission
   location: ch14:22547-22653
   claim_id: c0f2530b-bb4c-4041-ad6c-a0fb4df99549
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c0f2530b-bb4c-4041-ad6c-a0fb4df99549
+  copyright_status: restricted
 - text: Menzel's clandestine NSA/CIA/Navy association was revealed after his death
   source: In Plain Sight
   location: ch7:22632-22849
   claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49032c1d-f626-4c65-bb29-74a20a51363a
+  copyright_status: restricted
 - text: Menzel never disclosed the relationship, even to his university
   source: In Plain Sight
   location: ch7:22861-22922
   claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
+  copyright_status: restricted
 - text: Puthoff worked for the NSA and the CIA
   source: In Plain Sight
   location: ch24:8072-8107
   claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
+  copyright_status: restricted
 - text: Puthoff's career spanned GE, Sperry, NSA, Stanford, and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2421-2542
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
+  copyright_status: restricted
 - text: Puthoff served as a senior scientific advisor across DoD and intelligence-community
     agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -128,42 +139,49 @@ references:
   claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
+  copyright_status: restricted
 - text: Puthoff and Targ were told by the CIA that Russia had a remote-viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
+  copyright_status: restricted
 - text: McMoneagle provided intelligence support to the NSA
   source: Remote Viewing Secrets
   location: ch4:1504-1683
   claim_id: 2811ab47-a795-4ba4-90c3-95871cd251cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2811ab47-a795-4ba4-90c3-95871cd251cc
+  copyright_status: restricted
 - text: 'Elizondo: Pat Price remote viewed a secret NSA site in West Virginia'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:33958-34137
   claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
+  copyright_status: restricted
 - text: Clapper hired Elizondo into OUSDI, which oversees DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
+  copyright_status: restricted
 - text: NSA and CIA offered assets for Operation Plan Interloper
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:13729-13930
   claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9068dff4-55d0-482f-b78b-6cf064438682
+  copyright_status: restricted
 - text: Elizondo showed the GoFast and GIMBAL videos to Navy, CIA and NSA representatives
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+  copyright_status: restricted
 - text: 'Mellon: NRO, CIA, NGA, FBI and NSA appeared to be withholding UAP data from
     each other'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -171,6 +189,7 @@ references:
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+  copyright_status: restricted
 - text: AARO HR2 partnered with DIA, CIA, DOE, NSA and NGA archives
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -182,6 +201,7 @@ references:
   claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-03d65f79-431b-4dcb-9412-ce121509179c
+  copyright_status: public_domain
 - text: AARO concluded the alleged 1961 Special National Intelligence Estimate on
     UFOs is not authentic
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -194,6 +214,7 @@ references:
   claim_id: 6880c09a-8375-41f4-acd2-6e9e38f5cc49
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
+  copyright_status: public_domain
 - text: Neither the CIA nor the NSA possessed or knew of the alleged 1961 estimate
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -202,6 +223,7 @@ references:
   claim_id: 208e1cd5-f191-4988-bba6-4a83a5bdfda3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-208e1cd5-f191-4988-bba6-4a83a5bdfda3
+  copyright_status: public_domain
 - text: DOD Inspector General requested UAP data from OUSDI, AARO and defense intelligence
     components
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -217,6 +239,7 @@ references:
   claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
+  copyright_status: public_domain
 - text: Grusch compares the lack of congressional oversight to the 1970s Church Committee
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:03:57.3-00:04:15.0
@@ -227,6 +250,7 @@ references:
   claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
   record_hash: c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae
   workbench_url: https://workbench.anomalica.is/c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae#claim-36040736-14ae-4fe7-872a-d6c1cb3183b9
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

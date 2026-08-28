@@ -135,36 +135,42 @@ references:
   claim_id: 7124031c-feff-4c36-a43f-6ae7e957893a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7124031c-feff-4c36-a43f-6ae7e957893a
+  copyright_status: restricted
 - text: Semivan was born and raised in Ohio
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24471-24560
   claim_id: a3ba8ceb-571b-42d3-a4dc-d23ddb967178
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a3ba8ceb-571b-42d3-a4dc-d23ddb967178
+  copyright_status: restricted
 - text: Semivan attended Ohio State University
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24471-24560
   claim_id: fb449954-b926-4af4-a8dc-0a433bbd69da
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb449954-b926-4af4-a8dc-0a433bbd69da
+  copyright_status: restricted
 - text: Semivan joined the CIA in 1982
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24538-24610
   claim_id: e6382aa1-3359-41dd-bf30-c5efd8becdcf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e6382aa1-3359-41dd-bf30-c5efd8becdcf
+  copyright_status: restricted
 - text: Semivan served 25 years as an operations officer, US and internationally
   source: In Plain Sight
   location: ch21:787-952
   claim_id: 0e45d397-56fa-4bb5-bb51-20816c6e4517
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
+  copyright_status: restricted
 - text: Semivan retired from the CIA in 2007 after a 25-year career
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24538-24610
   claim_id: 086effc7-71b7-41ed-b188-6f173534ad24
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-086effc7-71b7-41ed-b188-6f173534ad24
+  copyright_status: restricted
 - text: Semivan served overseas and domestic tours and senior management posts at
     CIA headquarters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -172,6 +178,7 @@ references:
   claim_id: 48023bc5-06fa-45b3-9e37-05ad6c766287
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48023bc5-06fa-45b3-9e37-05ad6c766287
+  copyright_status: restricted
 - text: Semivan recruited high-level operatives including foreign ambassadors and
     attaches
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -179,24 +186,28 @@ references:
   claim_id: cc4ca6c0-a240-4392-9455-6ae99a3a2da2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc4ca6c0-a240-4392-9455-6ae99a3a2da2
+  copyright_status: restricted
 - text: Semivan held a top secret security clearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27598-27707
   claim_id: c3fc3f20-4115-4a41-827a-482f58fe2234
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3fc3f20-4115-4a41-827a-482f58fe2234
+  copyright_status: restricted
 - text: Semivan received the CIA's Career Intelligence Medal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24821-24960
   claim_id: cb8e0c08-21be-4084-8ba9-abf969d83566
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8e0c08-21be-4084-8ba9-abf969d83566
+  copyright_status: restricted
 - text: Semivan received Exceptional Performance Awards and Meritorious Unit Citations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24821-24960
   claim_id: f3052eb7-f6f3-4568-8d05-117fdddc1b3e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3052eb7-f6f3-4568-8d05-117fdddc1b3e
+  copyright_status: restricted
 - text: Semivan held Senior Executive Service rank, roughly two levels below the CIA
     director
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -206,18 +217,21 @@ references:
   claim_id: 9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-9dc7254c-68c4-4b6a-9c5d-ec7d7a4cf3ed
+  copyright_status: publicly_accessible
 - text: At retirement Semivan was a member of the CIA's Senior Intelligence Service
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24618-24698
   claim_id: 35c87d19-ad6b-4fb5-a094-5ee3062c138e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35c87d19-ad6b-4fb5-a094-5ee3062c138e
+  copyright_status: restricted
 - text: Semivan was a former CIA national clandestine service executive
   source: In Plain Sight
   location: ch30:25930-26150
   claim_id: 4a7dce2e-cb50-49d5-ac88-8371af707412
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a7dce2e-cb50-49d5-ac88-8371af707412
+  copyright_status: restricted
 - text: Semivan was a former senior operations officer and trainer for the CIA's Directorate
     of Clandestine Operations
   source: In Plain Sight
@@ -225,6 +239,7 @@ references:
   claim_id: 875c0b38-ec33-4c19-abb0-1d7d4612beab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-875c0b38-ec33-4c19-abb0-1d7d4612beab
+  copyright_status: restricted
 - text: Semivan described as former senior intelligence service officer, CIA Directorate
     of Operations
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -234,6 +249,7 @@ references:
   claim_id: b2fdd15b-3240-4ceb-b026-0a1442372f8c
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-b2fdd15b-3240-4ceb-b026-0a1442372f8c
+  copyright_status: publicly_accessible
 - text: After leaving the CIA, Semivan remained a CIA contractor and stayed connected
     to agency activities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -241,48 +257,56 @@ references:
   claim_id: 8dfb0e95-a115-43c1-bcd5-60b33457bec7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8dfb0e95-a115-43c1-bcd5-60b33457bec7
+  copyright_status: restricted
 - text: Semivan had heard rumblings of a real UAP programme run out of the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27396-27512
   claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
+  copyright_status: restricted
 - text: Puthoff introduced Semivan, a senior CIA figure, to Elizondo's effort
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24247-24430
   claim_id: 8402a107-a236-49bf-aceb-c31e22d92e40
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8402a107-a236-49bf-aceb-c31e22d92e40
+  copyright_status: restricted
 - text: Puthoff suggested to Jay Stratton that they meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
+  copyright_status: restricted
 - text: The meeting was the first time Elizondo's group brought in an outsider
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25349-25461
   claim_id: 8d018ca3-92dd-4414-95c1-447aa99fca71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8d018ca3-92dd-4414-95c1-447aa99fca71
+  copyright_status: restricted
 - text: First time AATIP was referenced to someone outside the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27964-28035
   claim_id: 5cb874b7-4354-44a5-8564-fd24d9d76925
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5cb874b7-4354-44a5-8564-fd24d9d76925
+  copyright_status: restricted
 - text: Semivan confided a personal UAP experience from his time as a senior CIA official
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:28099-28222
   claim_id: 076835ba-dd4f-45d8-b398-747f91bb1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-076835ba-dd4f-45d8-b398-747f91bb1e50
+  copyright_status: restricted
 - text: Elizondo considered the experience similar to other incidents he knew of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:28468-28545
   claim_id: 94c94a98-382a-437f-bfb6-449c4a7a01e1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94c94a98-382a-437f-bfb6-449c4a7a01e1
+  copyright_status: restricted
 - text: Semivan revealed he was working with a group of former senior officials and
     a rock star
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -290,18 +314,21 @@ references:
   claim_id: 7ef3bd4e-d582-46d5-8a90-2436c5c0ae14
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ef3bd4e-d582-46d5-8a90-2436c5c0ae14
+  copyright_status: restricted
 - text: The 'rock star' was Tom DeLonge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:26976-27011
   claim_id: d5d1ffcd-0e47-4a90-9d3c-aa4ed126218e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5d1ffcd-0e47-4a90-9d3c-aa4ed126218e
+  copyright_status: restricted
 - text: DeLonge described by Semivan as lead singer of Blink-182
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27053-27099
   claim_id: 39700b45-4a87-46a0-a9ef-1b8d4ad4629b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-39700b45-4a87-46a0-a9ef-1b8d4ad4629b
+  copyright_status: restricted
 - text: Semivan and Stratton invited Elizondo to a programme-team dinner in Roslyn,
     Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -309,12 +336,14 @@ references:
   claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
+  copyright_status: restricted
 - text: The programme Semivan ran was not sharing UAP data with other nations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:4318-4429
   claim_id: e8f5256a-1fa2-4f55-8867-83a90f55a6a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e8f5256a-1fa2-4f55-8867-83a90f55a6a8
+  copyright_status: restricted
 - text: Semivan introduced Elizondo to Brazilian general Paulo Roberto Yog de Miranda
     Uchoa
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -322,36 +351,42 @@ references:
   claim_id: c4ae0d79-6c65-48cd-a9b4-640693b5060d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c4ae0d79-6c65-48cd-a9b4-640693b5060d
+  copyright_status: restricted
 - text: 1099 meeting with James Lacatski on dropping paranormal cases from AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:7085-7360
   claim_id: 290aa661-6ea6-4ae5-9083-56a28d770985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-290aa661-6ea6-4ae5-9083-56a28d770985
+  copyright_status: restricted
 - text: Elizondo, Semivan and John Robert moved AATIP's remnants out of the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:16305-16509
   claim_id: 66b40ce5-fa68-4695-a91a-6df339ce165c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
+  copyright_status: restricted
 - text: Semivan, a mutual CIA friend of Mellon, brought Elizondo to Mellon's attention
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:5503-5564
   claim_id: b44a53ae-001a-4410-bb11-5d2ebf59e495
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b44a53ae-001a-4410-bb11-5d2ebf59e495
+  copyright_status: restricted
 - text: Semivan told Elizondo he had informed Mellon about AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:3309-3431
   claim_id: 94906258-39ea-419a-9ce9-96e2e138cf8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94906258-39ea-419a-9ce9-96e2e138cf8a
+  copyright_status: restricted
 - text: Semivan vouched for Mellon to Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:3435-3450
   claim_id: 6264d4b9-6391-4a09-90d2-e7690e78820a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6264d4b9-6391-4a09-90d2-e7690e78820a
+  copyright_status: restricted
 - text: Semivan told Elizondo TTSA needed his knowledge and security help, and to
     meet DeLonge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -359,12 +394,14 @@ references:
   claim_id: 1a77c8d4-f2c3-4a03-8316-771c951e13f8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a77c8d4-f2c3-4a03-8316-771c951e13f8
+  copyright_status: restricted
 - text: Semivan was one of TTSA's two co-founders
   source: In Plain Sight
   location: ch21:657-781
   claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
+  copyright_status: restricted
 - text: Semivan co-founded To The Stars Academy of Arts and Science
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:08:02.4-00:08:11.5
@@ -373,18 +410,21 @@ references:
   claim_id: 89508a4d-b7dc-41ce-bab8-607065d1e472
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-89508a4d-b7dc-41ce-bab8-607065d1e472
+  copyright_status: publicly_accessible
 - text: Semivan remains on TTSA's board as Vice President of Operations
   source: In Plain Sight
   location: ch24:7857-8060
   claim_id: e9c95a57-2c99-4867-9ca1-00b69c3e9050
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9c95a57-2c99-4867-9ca1-00b69c3e9050
+  copyright_status: restricted
 - text: TTSA pursued a triple directive of science, education, and media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10033-10494
   claim_id: 5c6c669d-c442-449d-9cb1-9c245e297d18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
+  copyright_status: restricted
 - text: Semivan was one of the advisors to TTSA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:15:35.4-01:15:38.2
@@ -392,6 +432,7 @@ references:
   claim_id: 4ef16a6f-61ae-4e3c-8879-e5a499c6b721
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-4ef16a6f-61ae-4e3c-8879-e5a499c6b721
+  copyright_status: publicly_accessible
 - text: TTSA's team involved Mellon, Elizondo, Semivan, Steve Justice and Puthoff
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:48:19.7-00:48:35.4
@@ -401,60 +442,70 @@ references:
   claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2cbb2884-5ce2-4290-9c3b-2a1cee3104df
+  copyright_status: publicly_accessible
 - text: Semivan believed the UAP topic needed to be brought to the public
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:2186-2271
   claim_id: ec0cfa97-fc92-4430-926c-2368e8fa0ae6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec0cfa97-fc92-4430-926c-2368e8fa0ae6
+  copyright_status: restricted
 - text: Semivan's team worked to move the UAP conversation out of government silos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27252-27388
   claim_id: 804c4d0f-220f-4a3e-9460-8fb1f22a5018
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-804c4d0f-220f-4a3e-9460-8fb1f22a5018
+  copyright_status: restricted
 - text: Mellon, Semivan and Puthoff met Elizondo and Leslie Kean near the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7273-7552
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
+  copyright_status: restricted
 - text: The meeting with Kean lasted four hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
+  copyright_status: restricted
 - text: Mellon, Puthoff and Semivan urged Elizondo to connect with the media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:9769-9935
   claim_id: 9af1dc84-46d0-4114-a6ff-826cb5bd925f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
+  copyright_status: restricted
 - text: Elizondo joined TTSA in 2017 in part to rejoin Puthoff, Semivan and Mellon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:12361-12535
   claim_id: 1f678633-0525-490c-b5e3-ce9aad88b69e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1f678633-0525-490c-b5e3-ce9aad88b69e
+  copyright_status: restricted
 - text: Semivan considers himself an acknowledged experiencer of the UAP phenomenon
   source: In Plain Sight
   location: ch30:26009-26059
   claim_id: 428e2119-ab81-407d-b206-d8a4fc95ed78
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-428e2119-ab81-407d-b206-d8a4fc95ed78
+  copyright_status: restricted
 - text: Semivan believes a non-human intelligence lives with humanity on Earth
   source: In Plain Sight
   location: ch30:26156-26275
   claim_id: f58119ef-ff13-428d-932a-97c4d9e30e8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f58119ef-ff13-428d-932a-97c4d9e30e8b
+  copyright_status: restricted
 - text: Semivan considers there to be a nonhuman intelligence living with humanity
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:5058-5209
   claim_id: 62c4d73d-79b9-4f18-9afb-f39ad2d5371a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-62c4d73d-79b9-4f18-9afb-f39ad2d5371a
+  copyright_status: restricted
 - text: Semivan raises a non-state hostile intelligence network re Havana syndrome
     and Pompeo
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -466,6 +517,7 @@ references:
   claim_id: 16a70dbf-a5e8-4eb6-9f2d-d76375dd351d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-16a70dbf-a5e8-4eb6-9f2d-d76375dd351d
+  copyright_status: publicly_accessible
 - text: Semivan references non-state networks re WikiLeaks
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:44:10.8-01:44:21.7
@@ -475,6 +527,7 @@ references:
   claim_id: 1432af52-b08f-47de-8d07-462d9ec60df8
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-1432af52-b08f-47de-8d07-462d9ec60df8
+  copyright_status: publicly_accessible
 - text: According to Semivan, a non-state network leaked the Podesta emails
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:44:32.3-01:44:43.4
@@ -484,6 +537,7 @@ references:
   claim_id: 0e4f514f-b924-4241-b8f6-eacbc55d3505
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-0e4f514f-b924-4241-b8f6-eacbc55d3505
+  copyright_status: publicly_accessible
 - text: Michels suggests Semivan's remark is simply about WikiLeaks and Pompeo's dislike
     of Assange
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -493,6 +547,7 @@ references:
   claim_id: e70d48a9-db7d-403f-a412-faab527e72a2
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e70d48a9-db7d-403f-a412-faab527e72a2
+  copyright_status: publicly_accessible
 - text: Samosa accepts the WikiLeaks reading but finds the Havana syndrome context
     significant
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -502,6 +557,7 @@ references:
   claim_id: 69a7c8fc-730e-4565-8c16-a9f9c11f6458
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-69a7c8fc-730e-4565-8c16-a9f9c11f6458
+  copyright_status: publicly_accessible
 - text: Ryan Bledsoe recounted Semivan telling him the Bledsoe family are thought
     to be hybrids
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -512,6 +568,7 @@ references:
   claim_id: 2641fd34-5bc3-4498-8822-fe23daade974
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-2641fd34-5bc3-4498-8822-fe23daade974
+  copyright_status: publicly_accessible
 - text: Michels notes the hybridisation anecdotes come from senior CIA figures like
     Semivan
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -521,6 +578,7 @@ references:
   claim_id: e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-e9f4e0ab-9fff-4271-b9b6-b6b6ee5bb4ea
+  copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -77,24 +77,28 @@ references:
   claim_id: 146c6978-ee59-4068-aa68-931f8e1add76
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-146c6978-ee59-4068-aa68-931f8e1add76
+  copyright_status: restricted
 - text: Monroe first met Gordon in 1942 in New York City
   source: Journeys Out of the Body
   location: ch15:594-641
   claim_id: 2381fc08-e270-4341-b0d4-fe295b7e4826
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2381fc08-e270-4341-b0d4-fe295b7e4826
+  copyright_status: restricted
 - text: Gordon became Monroe's family doctor
   source: Journeys Out of the Body
   location: ch15:698-742
   claim_id: 76a5f948-9b87-4475-96da-01c0260dc013
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-76a5f948-9b87-4475-96da-01c0260dc013
+  copyright_status: restricted
 - text: Gordon was in his fifties when he first met Monroe
   source: Journeys Out of the Body
   location: ch15:927-999
   claim_id: 43c4daee-0932-4057-b81c-1c62fae2fa42
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-43c4daee-0932-4057-b81c-1c62fae2fa42
+  copyright_status: restricted
 - text: Mrs. Gordon told Monroe that at twenty-two Gordon was active, eager, always
     in a hurry, with a big shock of blond hair
   source: Journeys Out of the Body
@@ -102,12 +106,14 @@ references:
   claim_id: 8a5c3658-c219-4107-b1d6-4e66150d740a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8a5c3658-c219-4107-b1d6-4e66150d740a
+  copyright_status: restricted
 - text: Monroe compared Agnew Bahnson's forward-looking temperament to Gordon's
   source: Journeys Out of the Body
   location: ch15:21523-21670
   claim_id: ca780964-4b30-419d-ad36-16573a294f6a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-ca780964-4b30-419d-ad36-16573a294f6a
+  copyright_status: restricted
 - text: In 1958 Monroe consulted Gordon, his longtime family physician, about vibration
     episodes
   source: Journeys Out of the Body
@@ -115,42 +121,49 @@ references:
   claim_id: 6027f06e-b896-4165-904c-04a5db2d51c4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6027f06e-b896-4165-904c-04a5db2d51c4
+  copyright_status: restricted
 - text: Gordon found nothing physically wrong, dismissed brain tumour or epilepsy
   source: Journeys Out of the Body
   location: ch9:8844-9086
   claim_id: f2b00eb3-379e-41e8-83dd-3573d25da64e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f2b00eb3-379e-41e8-83dd-3573d25da64e
+  copyright_status: restricted
 - text: Gordon ran blood tests, fluoroscopes, ECGs and a urinalysis for brain lesions
   source: Journeys Out of the Body
   location: ch9:19031-19243
   claim_id: df6b6560-e295-429a-91e5-1308cfaaabbe
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-df6b6560-e295-429a-91e5-1308cfaaabbe
+  copyright_status: restricted
 - text: Gordon arranged an EEG brain-wave analysis, which showed no unusual problem
   source: Journeys Out of the Body
   location: ch9:19335-19415
   claim_id: 04dd55df-38c1-4db0-bc13-21b1fe0e92b4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-04dd55df-38c1-4db0-bc13-21b1fe0e92b4
+  copyright_status: restricted
 - text: Gordon prescribed tranquilizers and lifestyle advice
   source: Journeys Out of the Body
   location: ch9:19492-19662
   claim_id: d1ac970e-6f2f-439a-aa49-4ee335d26849
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d1ac970e-6f2f-439a-aa49-4ee335d26849
+  copyright_status: restricted
 - text: In spring 1961 Monroe had lunch with Gordon at his office
   source: Journeys Out of the Body
   location: ch15:1897-2029
   claim_id: a9184309-8ddb-46ba-9641-feb0bbfdcc67
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a9184309-8ddb-46ba-9641-feb0bbfdcc67
+  copyright_status: restricted
 - text: Gordon and his wife sailed to Spain a week later
   source: Journeys Out of the Body
   location: ch15:3149-3202
   claim_id: 5f42d608-2c57-4668-8e6d-c263c8fea20f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5f42d608-2c57-4668-8e6d-c263c8fea20f
+  copyright_status: restricted
 - text: Mrs. Gordon phoned Monroe six weeks later to say Gordon had fallen sick and
     the trip was cut short
   source: Journeys Out of the Body
@@ -158,6 +171,7 @@ references:
   claim_id: a45170a5-7358-40bd-bf33-fbd80fe374b2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a45170a5-7358-40bd-bf33-fbd80fe374b2
+  copyright_status: restricted
 - text: Gordon refused overseas treatment, returned home, went into hospital for an
     exploratory operation
   source: Journeys Out of the Body
@@ -165,12 +179,14 @@ references:
   claim_id: aedd9566-3be6-4e38-bb1b-286811c0a629
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-aedd9566-3be6-4e38-bb1b-286811c0a629
+  copyright_status: restricted
 - text: The operation found an abdominal cancer beyond treatment
   source: Journeys Out of the Body
   location: ch15:3693-3801
   claim_id: 071d8dc6-9492-4eb3-a0c4-1af319bdef12
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-071d8dc6-9492-4eb3-a0c4-1af319bdef12
+  copyright_status: restricted
 - text: Monroe's letter describing his out-of-body experiences was read to Gordon
     in hospital
   source: Journeys Out of the Body
@@ -178,12 +194,14 @@ references:
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
+  copyright_status: restricted
 - text: Gordon fell into a coma and died without regaining consciousness
   source: Journeys Out of the Body
   location: ch15:8974-9063
   claim_id: d0c24293-f971-481e-95ad-998c938eccf5
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d0c24293-f971-481e-95ad-998c938eccf5
+  copyright_status: restricted
 - text: Gordon was the first person close to Monroe to die since Monroe's OBE ability
     developed
   source: Journeys Out of the Body
@@ -191,36 +209,42 @@ references:
   claim_id: 32c5623d-a11e-481f-a310-c2fec5bba093
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-32c5623d-a11e-481f-a310-c2fec5bba093
+  copyright_status: restricted
 - text: Months later Monroe attempted an out-of-body journey to find Gordon
   source: Journeys Out of the Body
   location: ch15:9658-9841
   claim_id: e4b92fb5-22e6-4d7a-9943-f5545e26898d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e4b92fb5-22e6-4d7a-9943-f5545e26898d
+  copyright_status: restricted
 - text: The first attempt lasted two hours and failed to find Gordon
   source: Journeys Out of the Body
   location: ch15:11981-12087
   claim_id: 1bc449ea-f6bc-4ef0-9eba-1c90bf46e837
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1bc449ea-f6bc-4ef0-9eba-1c90bf46e837
+  copyright_status: restricted
 - text: Monroe became unbearably hot waiting for Gordon and left without seeing him
   source: Journeys Out of the Body
   location: ch15:10792-10962
   claim_id: 75bafe54-bf92-4198-af1e-c92f59fb547e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-75bafe54-bf92-4198-af1e-c92f59fb547e
+  copyright_status: restricted
 - text: On a second attempt a voice asked why Monroe wanted to see Gordon again
   source: Journeys Out of the Body
   location: ch15:12138-12358
   claim_id: 19b531b6-59d3-463d-9a17-7bf40354e78a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-19b531b6-59d3-463d-9a17-7bf40354e78a
+  copyright_status: restricted
 - text: Monroe concluded a young man seen in his first visit was Gordon at twenty-two
   source: Journeys Out of the Body
   location: ch15:13004-13107
   claim_id: e84087e6-0c1f-41f3-9ed6-7d555949a348
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e84087e6-0c1f-41f3-9ed6-7d555949a348
+  copyright_status: restricted
 - text: An old photograph at Gordon's widow's home matched the young man Monroe had
     seen
   source: Journeys Out of the Body
@@ -228,12 +252,14 @@ references:
   claim_id: 0a0c3f47-e43d-4412-ba51-52e99dc47632
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0a0c3f47-e43d-4412-ba51-52e99dc47632
+  copyright_status: restricted
 - text: Monroe was taken by an unseen helper to visit Gordon in Locale II
   source: Journeys Out of the Body
   location: ch17:1759-1883
   claim_id: b87f926c-af48-4965-a800-77ee8777c806
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b87f926c-af48-4965-a800-77ee8777c806
+  copyright_status: restricted
 - text: Gordon aboard Yankee Clipper could not find Intrepid's tracking light in his
     sextant
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -244,6 +270,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-94dfd3da-ce31-4796-a462-383b80bb5849
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-94dfd3da-ce31-4796-a462-383b80bb5849
+  copyright_status: public_domain
 - text: Hickson said Gordon had set up the television camera and told Conrad it was
     ready
   source: Apollo 12 Air-to-Ground Voice Transcription
@@ -255,6 +282,7 @@ references:
   record_hash: 74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81
   workbench_url: https://workbench.anomalica.is/74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f81#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
   inspection_url: /records/undated-pdf-apollo-12-air-to-ground-voice-transcription#claim-b47ec999-4a0c-4688-9ba0-22c0d8378d5c
+  copyright_status: public_domain
 - text: Schmitt recalled Dick Gordon saying the clock is relentless once you start
     flying
   source: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
@@ -264,6 +292,7 @@ references:
   claim_id: b226c0d5-16c7-45ff-b230-b4f2d162c281
   record_hash: 63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c
   workbench_url: https://workbench.anomalica.is/63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82c#claim-b226c0d5-16c7-45ff-b230-b4f2d162c281
+  copyright_status: public_domain
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

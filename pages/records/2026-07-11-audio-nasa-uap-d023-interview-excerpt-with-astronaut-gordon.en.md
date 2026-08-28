@@ -31,6 +31,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-2f4e02b6-931d-42d7-a837-bfaecd76033a
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-2f4e02b6-931d-42d7-a837-bfaecd76033a
+  copyright_status: public_domain
 - text: Gordon Cooper considers it possible that every UFO sighting has an explanation.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
   location: 00:00:34.4-00:00:39.1
@@ -40,6 +41,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-4afcb85a-e0ed-4381-8a40-33ad76fdba8e
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-4afcb85a-e0ed-4381-8a40-33ad76fdba8e
+  copyright_status: public_domain
 - text: Gordon Cooper says that Project Mercury flights reached only a low order of
     distance into space, on the order of a hundred miles.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -54,6 +56,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-2728c1fb-22c8-4a2c-b703-204c6aab8478
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-2728c1fb-22c8-4a2c-b703-204c6aab8478
+  copyright_status: public_domain
 - text: Project Mercury spaceflights reached approximately 160 kilometres, rather
     than distances of millions of kilometres.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -64,6 +67,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-72cef6b1-c823-4c6d-b12c-ef31bb6b9b4c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-72cef6b1-c823-4c6d-b12c-ef31bb6b9b4c
+  copyright_status: public_domain
 - text: Gordon Cooper discusses the possibility of habitable planets hosting people
     or another form of human life.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -77,6 +81,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-3849bca5-8c46-4200-a114-a0145905e157
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-3849bca5-8c46-4200-a114-a0145905e157
+  copyright_status: public_domain
 - text: Gordon Cooper considers it possible that some UFO sightings could involve
     human life from other planets.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -88,6 +93,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-bd1a054c-0169-42b9-b4b4-9f1591ab6cfc
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-bd1a054c-0169-42b9-b4b4-9f1591ab6cfc
+  copyright_status: public_domain
 - text: According to the source record, Wally Schirra and Scott Carpenter considered
     the Glenn effect to be frost coming from the spacecraft capsule.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -99,6 +105,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-e38623b0-28a5-4f40-8e44-599bc6d0bbad
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-e38623b0-28a5-4f40-8e44-599bc6d0bbad
+  copyright_status: public_domain
 - text: According to the source record, John Glenn questioned whether the Glenn effect
     was caused by frost from the spacecraft capsule.
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
@@ -109,6 +116,7 @@ references:
   record_hash: 31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871
   workbench_url: https://workbench.anomalica.is/31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
   inspection_url: /records/2026-07-11-audio-nasa-uap-d023-interview-excerpt-with-astronaut-gordon#claim-818f1f82-65f4-4a26-8cf4-4e6613dd777c
+  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna
