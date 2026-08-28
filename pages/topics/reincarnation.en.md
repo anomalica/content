@@ -172,6 +172,7 @@ references:
   claim_id: 9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-9f7ed5b7-aec7-473a-bcb9-3fb09f6daeb3
 - text: A spirit form that dies on a given planet reincarnates as a new personality
     on that same planet.
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92

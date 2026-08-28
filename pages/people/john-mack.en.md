@@ -166,7 +166,6 @@ references:
   claim_id: 72e83127-3a53-43fe-913a-0cd70f411d59
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72e83127-3a53-43fe-913a-0cd70f411d59
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72e83127-3a53-43fe-913a-0cd70f411d59
 - text: Mack's tenure as a Harvard professor was under threat during the 1994 review
   source: In Plain Sight
   location: ch11:23700-23739
@@ -174,7 +173,6 @@ references:
   claim_id: 953fb93e-d11a-4629-b9fc-d475b4af21c0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-953fb93e-d11a-4629-b9fc-d475b4af21c0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-953fb93e-d11a-4629-b9fc-d475b4af21c0
 - text: Sheehan's support for Mack during the review was funded by billionaire Laurance
     Rockefeller
   source: In Plain Sight
@@ -183,7 +181,6 @@ references:
   claim_id: b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
 - text: After a 14-month investigation, Harvard University declared Mack's freedom
     to study what he wished and state his opinions without impediment
   source: In Plain Sight
@@ -193,7 +190,6 @@ references:
   claim_id: e102c489-72a1-412d-aa19-c06b1184a549
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e102c489-72a1-412d-aa19-c06b1184a549
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e102c489-72a1-412d-aa19-c06b1184a549
 - text: Khoury believes Mack was drawn to him because he did not push his own story
     onto Mack, unlike other witnesses
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -217,7 +213,6 @@ references:
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
 - text: 'James Master''s encounter with Mack''s book Abduction: Human Encounters with
     Aliens, picked up believing it science fiction, read like his own biography'
   source: American Cosmic
@@ -359,7 +354,6 @@ references:
   claim_id: 37b2832b-2568-4a08-99bf-60c572770515
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37b2832b-2568-4a08-99bf-60c572770515
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-37b2832b-2568-4a08-99bf-60c572770515
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

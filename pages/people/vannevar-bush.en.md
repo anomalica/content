@@ -304,7 +304,6 @@ references:
   claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
 - text: 'Ramsay: the 1950 memo records Bush assembling a team to investigate flying
     saucers.'
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge
@@ -324,7 +323,6 @@ references:
   claim_id: dea9ec81-7fe6-45c5-9237-81be34af98c9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dea9ec81-7fe6-45c5-9237-81be34af98c9
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-dea9ec81-7fe6-45c5-9237-81be34af98c9
 - text: The Condon Report panel found Edwards's claims most likely false.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -333,7 +331,6 @@ references:
   claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
 - text: 'UAP Gerb: Bush established the scientist-government relationship.'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:56:34

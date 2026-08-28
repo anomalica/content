@@ -340,7 +340,6 @@ references:
   claim_id: 60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
 - text: USAF Director of Intelligence initiated Blue Book in 1952 to investigate UFOs
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -350,7 +349,6 @@ references:
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
 - text: Project Grudge became Project Blue Book in 1952
   source: In Plain Sight
   location: ch8:11026-11077
@@ -358,7 +356,6 @@ references:
   claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
 - text: Major General Charles P. Cabell established Project Blue Book
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -368,7 +365,6 @@ references:
   claim_id: acbda1e4-b211-49ff-b084-38d5774d1e18
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-acbda1e4-b211-49ff-b084-38d5774d1e18
 - text: Based at Wright-Patterson Air Force Base near Dayton, Ohio
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -377,7 +373,6 @@ references:
   claim_id: 29899d23-8304-45af-ac3d-01b0230882e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-29899d23-8304-45af-ac3d-01b0230882e8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-29899d23-8304-45af-ac3d-01b0230882e8
 - text: The longest-running UFO/UAP investigation
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -386,7 +381,6 @@ references:
   claim_id: 426112bc-e7a5-4750-af7e-8a8818e27d66
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-426112bc-e7a5-4750-af7e-8a8818e27d66
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-426112bc-e7a5-4750-af7e-8a8818e27d66
 - text: Brief was to assess the national security threat and scientifically analyse
     the data
   source: In Plain Sight
@@ -396,7 +390,6 @@ references:
   claim_id: b5adefeb-cbd3-4389-92c6-1880418aeb22
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
 - text: Led by Ruppelt, former director of the reorganised Project GRUDGE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -406,7 +399,6 @@ references:
   claim_id: 53a68d95-b9a7-42f1-959f-3a3920266bcb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-53a68d95-b9a7-42f1-959f-3a3920266bcb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-53a68d95-b9a7-42f1-959f-3a3920266bcb
 - text: 'Successive directors: Hardin, Gregory, Friend, Quintanilla'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -416,7 +408,6 @@ references:
   claim_id: 5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
 - text: Ruppelt was Blue Book's first director
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -425,7 +416,6 @@ references:
   claim_id: 461b32a1-467b-4cc6-a4bd-542453d4a483
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-461b32a1-467b-4cc6-a4bd-542453d4a483
 - text: Hynek, a civilian scientist, served as consultant
   source: In Plain Sight
   location: ch8:11729-11793
@@ -433,7 +423,6 @@ references:
   claim_id: 8ca523da-f9e7-4365-8731-5b0051b86cf2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ca523da-f9e7-4365-8731-5b0051b86cf2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8ca523da-f9e7-4365-8731-5b0051b86cf2
 - text: Hynek served as Blue Book's lead scientific investigator
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -442,7 +431,6 @@ references:
   claim_id: 9672045a-825c-49b6-8296-2cdf20ff4bc9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
 - text: Hynek said the USAF expected him to perform the role of debunker
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -452,7 +440,6 @@ references:
   claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
 - text: Ruppelt wrote he was expected to explain away every report; press stories
     aligned with USAF position
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -464,7 +451,6 @@ references:
   claim_id: 3e8086b0-e0e0-4c6a-9376-5a482a7347e1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3e8086b0-e0e0-4c6a-9376-5a482a7347e1
 - text: Vallée alerted Hynek to the 1966 Michigan sightings; Hynek called Blue Book
     to propose an investigation
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -485,7 +471,6 @@ references:
   claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
 - text: 'Elizondo: Ford remained sceptical of the swamp gas finding'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17155-17186
@@ -493,7 +478,6 @@ references:
   claim_id: 24728cff-3caa-479e-860e-d2f68bd3dbee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24728cff-3caa-479e-860e-d2f68bd3dbee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-24728cff-3caa-479e-860e-d2f68bd3dbee
 - text: USAF personnel investigated more than 12,000 reported UFO sightings, 1952-1969
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -503,7 +487,6 @@ references:
   claim_id: a38255b6-11cf-4643-850e-28567b670f7a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a38255b6-11cf-4643-850e-28567b670f7a
 - text: USAF recorded 12,618 UFO sightings between 1947 and 1969
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -512,7 +495,6 @@ references:
   claim_id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
 - text: 701 of the 12,618 sightings were categorised unidentified and never solved
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -522,7 +504,6 @@ references:
   claim_id: f6761b73-b647-46d3-8ff5-16eb87945a9e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f6761b73-b647-46d3-8ff5-16eb87945a9e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f6761b73-b647-46d3-8ff5-16eb87945a9e
 - text: Cases sorted into identified, insufficient data, and unidentified
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -532,7 +513,6 @@ references:
   claim_id: 3713e98d-2250-4eb7-b34f-1c08feeed8a8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-3713e98d-2250-4eb7-b34f-1c08feeed8a8
 - text: Dismissed the vast majority of reports as misidentifications with prosaic
     explanations
   source: In Plain Sight
@@ -541,7 +521,6 @@ references:
   claim_id: 5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
 - text: Kimball ordered independent naval intelligence reports on UAP
   source: In Plain Sight
   location: ch8:14659-14773
@@ -550,7 +529,6 @@ references:
   claim_id: 7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
 - text: 'Turner: Office of Special Investigations persuaded USAF to use the project
     for public debunking, 1953'
   source: In Plain Sight
@@ -561,7 +539,6 @@ references:
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
 - text: Derided for over-zealousness in aggressively debunking almost all UAP sightings
   source: In Plain Sight
   location: ch37:1665-1755
@@ -570,7 +547,6 @@ references:
   claim_id: 88643727-247a-43b8-b190-a758d8cd48eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88643727-247a-43b8-b190-a758d8cd48eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-88643727-247a-43b8-b190-a758d8cd48eb
 - text: 'Fravor: project worked to debunk and disprove sightings, discrediting witnesses'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -591,7 +567,6 @@ references:
   claim_id: 0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0acbd2f5-a8c9-4bae-aa5e-d3f3d9bd95cf
 - text: US government maintained serious interest in UAP while explaining sightings
     as prosaic causes such as ball lightning and swamp gas
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -647,7 +622,6 @@ references:
   claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
 - text: NAS panel tasked in late 1968 to examine the Condon Report after criticism
     including from Hynek
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -660,7 +634,6 @@ references:
   claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-43c0d16a-0321-4689-8f27-edc439bd870b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-43c0d16a-0321-4689-8f27-edc439bd870b
 - text: Seamans announced Blue Book's termination on 1969-12-17
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -670,7 +643,6 @@ references:
   claim_id: 8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8cbf5fc7-2c72-4816-bd02-15cf4be92ac1
 - text: 'Seamans memorandum: ''no longer can be justified either on the ground of
     national security or in the interest of science'''
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -682,7 +654,6 @@ references:
   claim_id: 72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-72bae7a4-98a7-4f42-94c3-d5b8ffdfdffd
 - text: USAF closed the project in 1970, ending official UFO investigations without
     explanation for many incidents
   source: Surviving Death
@@ -702,7 +673,6 @@ references:
   claim_id: c31a59fe-6b19-4b30-8247-a1ed3291f275
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c31a59fe-6b19-4b30-8247-a1ed3291f275
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c31a59fe-6b19-4b30-8247-a1ed3291f275
 - text: AARO partnered with the National Archives to examine Blue Book's records,
     spanning 1947-1969
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -713,7 +683,6 @@ references:
   claim_id: 84446458-da85-4387-9fb6-4288e8fb0821
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-84446458-da85-4387-9fb6-4288e8fb0821
 - text: Documentation totalled 7,252 files holding 65,778 digital records
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -723,7 +692,6 @@ references:
   claim_id: 5960de4f-b2ad-40ca-a404-5d2ca82c42e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
 - text: Vast majority of files are USAF documentation
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -733,7 +701,6 @@ references:
   claim_id: a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a9cff36a-dad7-4500-843c-f6c6bf1b7ad2
 - text: Sighting spikes from 1952 to 1957 and again in 1960
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -743,7 +710,6 @@ references:
   claim_id: 1e97c9b0-f814-4e8f-b929-82030bf69ec2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1e97c9b0-f814-4e8f-b929-82030bf69ec2
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1e97c9b0-f814-4e8f-b929-82030bf69ec2
 - text: About a 40-year gap in UAP investigation programmes until AAWSAP/AATIP
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -753,7 +719,6 @@ references:
   claim_id: e11c6186-2c65-4452-9fd4-5ec671f39e11
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e11c6186-2c65-4452-9fd4-5ec671f39e11
 - text: AAWSAP/AATIP research included reviewing older Project Blue Book cases
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -764,7 +729,6 @@ references:
   claim_id: 1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1db0f7f7-5f0b-4b68-8d48-0b8a14ab0356
 - text: Moultrie testified AATIP and Blue Book were the only prior UAP research programmes
     he knew of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -774,7 +738,6 @@ references:
   claim_id: d18804aa-a138-4cf2-8047-0dd432dcb9c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
 - text: Sheehan viewed the secret Blue Book files in 1977
   source: In Plain Sight
   location: ch11:22659-22715
@@ -782,7 +745,6 @@ references:
   claim_id: 3b095df3-302b-4a48-89d2-41244d868076
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b095df3-302b-4a48-89d2-41244d868076
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b095df3-302b-4a48-89d2-41244d868076
 - text: Sheehan told Marcia Smith he wanted to see the classified Blue Book files
   source: In Plain Sight
   location: ch11:17952-18137
@@ -792,7 +754,6 @@ references:
   claim_id: fc25474d-726c-4b97-a150-23912742e24a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc25474d-726c-4b97-a150-23912742e24a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fc25474d-726c-4b97-a150-23912742e24a
 - text: Sheehan recalled telling Smith 'you never get if you don't ask'
   source: In Plain Sight
   location: ch11:18145-18373
@@ -803,7 +764,6 @@ references:
   claim_id: 0e091c7f-ecb4-44e3-adb9-43c608064434
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
 - text: Smith called a week later with news that permission had been granted
   source: In Plain Sight
   location: ch11:18385-18520
@@ -812,7 +772,6 @@ references:
   claim_id: c5f64182-a157-4e8f-a44e-fdba22ae775e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
 - text: Sheehan arrived at the Library of Congress's Madison wing, Washington DC
   source: In Plain Sight
   location: ch11:18528-18768
@@ -823,7 +782,6 @@ references:
   claim_id: 805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
 - text: Room set up with foldout tables, a microfiche viewer and boxes of microfiche
     canisters
   source: In Plain Sight
@@ -833,7 +791,6 @@ references:
   claim_id: 71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
 - text: Sheehan recalls being told he could not take notes
   source: In Plain Sight
   location: ch11:21063-21137
@@ -842,7 +799,6 @@ references:
   claim_id: b48f92aa-a46e-4118-be23-b0f8dac20a7d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
 - text: Sheehan says the images showed a full-scale classic saucer with a dome
   source: In Plain Sight
   location: ch11:20079-20168
@@ -851,7 +807,6 @@ references:
   claim_id: 44365c27-39ce-4a02-95ee-1a5cca7adf3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
 - text: Sheehan says the craft had crashed in a snow-covered field
   source: In Plain Sight
   location: ch11:20174-20235
@@ -859,7 +814,6 @@ references:
   claim_id: db0d6122-9c9c-4e85-bb83-2b19583cd9fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
 - text: Sheehan remains convinced the images were photographic evidence of an extra-terrestrial
     spacecraft
   source: In Plain Sight
@@ -869,7 +823,6 @@ references:
   claim_id: 734d2b09-f760-44de-a70f-c17936bcd24a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-734d2b09-f760-44de-a70f-c17936bcd24a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-734d2b09-f760-44de-a70f-c17936bcd24a
 - text: Neither of the two 1977 classified reports for President Carter mentioned
     the images
   source: In Plain Sight
@@ -879,7 +832,6 @@ references:
   claim_id: 6e8e4678-8cd7-482f-bf51-963d77028d1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
 - text: Sheehan's account has gone unchallenged by any official
   source: In Plain Sight
   location: ch11:21749-21801
@@ -887,7 +839,6 @@ references:
   claim_id: b2cc72fd-2c40-498a-8210-b5d265f47ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
 - text: No one in government or the military has ever responded to, explained or acknowledged
     the discovery or the incursion
   source: In Plain Sight
@@ -898,7 +849,6 @@ references:
   claim_id: 4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

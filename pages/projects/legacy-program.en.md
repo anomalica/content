@@ -137,7 +137,6 @@ references:
   claim_id: 7a253487-59d8-499a-acae-8cf6493d00e7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7a253487-59d8-499a-acae-8cf6493d00e7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7a253487-59d8-499a-acae-8cf6493d00e7
 - text: The program and the wider UAP issue date to 1947
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15800-15859
@@ -145,7 +144,6 @@ references:
   claim_id: 99268e97-612e-42a9-a685-e15f713337df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99268e97-612e-42a9-a685-e15f713337df
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-99268e97-612e-42a9-a685-e15f713337df
 - text: Elizondo calls it the most 'black' program he knows of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:46645-46683
@@ -153,7 +151,6 @@ references:
   claim_id: 94be4e69-8337-46a2-8e30-804a443f1900
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94be4e69-8337-46a2-8e30-804a443f1900
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-94be4e69-8337-46a2-8e30-804a443f1900
 - text: Eric Davis briefed US military branches on the program's UAP efforts
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:12870-13096
@@ -163,7 +160,6 @@ references:
   claim_id: 5d833c62-a94d-4352-bdd0-865d9762b3c4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
 - text: A legacy program existed separately from AAWSAP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:45:57.5-00:46:03.7
@@ -282,7 +278,6 @@ references:
   claim_id: 8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
 - text: 'Companies named: Lockheed, McDonnell Douglas, Northrop Grumman, Boeing, BAE
     Systems, Aerospace Corporation'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -293,7 +288,6 @@ references:
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
 - text: Monsanto, absorbed by Bayer in 2018, possibly involved with biologics
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4862-5021
@@ -303,7 +297,6 @@ references:
   claim_id: 284b3344-9ff8-4432-bace-3eb223d2c0e3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
 - text: A contractor reported to hold nonhuman-origin materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:109-297
@@ -313,7 +306,6 @@ references:
   claim_id: 047e1054-b371-4755-b426-1fe3856693ef
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-047e1054-b371-4755-b426-1fe3856693ef
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-047e1054-b371-4755-b426-1fe3856693ef
 - text: Stratton contacted the contractor, which acknowledged possession
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:305-409
@@ -322,7 +314,6 @@ references:
   claim_id: 3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
 - text: 'Elizondo: the US Air Force long a key player'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:1489-1556
@@ -330,7 +321,6 @@ references:
   claim_id: 1a956a44-71ba-4f3c-8c42-924b3343aab9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
 - text: The program blocked Congress-appropriated UAPTF funding
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26232-26383
@@ -339,7 +329,6 @@ references:
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
 - text: The program created bureaucratic hurdles for the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6381-6592
@@ -349,7 +338,6 @@ references:
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
 - text: Lacatski ran the official program; Legacy Program worked at cross-purposes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45975-46127
@@ -359,7 +347,6 @@ references:
   claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
 - text: Elizondo wanted a Mattis letter to access materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:22036-22099
@@ -367,7 +354,6 @@ references:
   claim_id: 87872273-febe-43e4-93c2-b0827b7bb85d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87872273-febe-43e4-93c2-b0827b7bb85d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87872273-febe-43e4-93c2-b0827b7bb85d
 - text: Elizondo looked into retrieval systems but did not get far
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:45:00.3-00:45:03.8
@@ -384,7 +370,6 @@ references:
   claim_id: a8344326-d848-4f7b-bef1-06ec4874a40a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
 - text: Grusch told Congress and an inspector general
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:1074-1162
@@ -393,7 +378,6 @@ references:
   claim_id: a62769f4-0642-4490-a508-8801063f88b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a62769f4-0642-4490-a508-8801063f88b9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a62769f4-0642-4490-a508-8801063f88b9
 - text: Grusch gave public interviews about the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:1175-1252
@@ -402,7 +386,6 @@ references:
   claim_id: 2c5dda95-d195-4633-8565-c69641a7548e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2c5dda95-d195-4633-8565-c69641a7548e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2c5dda95-d195-4633-8565-c69641a7548e
 - text: UAP Disclosure Act shows Congress aware of nonhuman bodies/tech
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:4211-4390
@@ -412,7 +395,6 @@ references:
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
 - text: Act's language stems from classified whistleblower briefings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:4967-5333
@@ -424,7 +406,6 @@ references:
   claim_id: 5303835b-b843-4604-96e3-61a11063937d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5303835b-b843-4604-96e3-61a11063937d
 - text: Mike Turner supported by contractors involved in the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6791-6893
@@ -433,7 +414,6 @@ references:
   claim_id: afa4ea21-0ecc-4517-9775-3c48d57ac26a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
 - text: Act bars taxpayer money on UAP matters without Congress approval
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7282-7417
@@ -442,7 +422,6 @@ references:
   claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-817b6454-ee77-494f-8ea4-458d3476a430
 - text: Presidents not briefed on all details, per Puthoff and others
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16010-16178
@@ -452,7 +431,6 @@ references:
   claim_id: a630c527-4bc1-4fd5-9ed4-7441340409a4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
 - text: 'Elizondo: existence implies a deep government conspiracy'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:5438-5564
@@ -461,7 +439,6 @@ references:
   claim_id: 9e491882-ef47-48f7-9b6e-6698c2ea5c3c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
 - text: 'Elizondo: such a programme would need huge resources, obscene security costs'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:5574-5702
@@ -470,7 +447,6 @@ references:
   claim_id: 6c65a745-e1f4-423c-9489-765ef3b7d2fe
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe
 - text: The program had access to crash material and biologics
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:00.9-00:32:01.7

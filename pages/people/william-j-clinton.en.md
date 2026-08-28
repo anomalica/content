@@ -76,7 +76,6 @@ references:
   claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
 - text: Both Bill and Hillary Clinton took a strong interest in UAP on entering the
     White House in 1993
   source: In Plain Sight
@@ -86,7 +85,6 @@ references:
   claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
 - text: Rockefeller's lobbying led Clinton to order CIA Director Woolsey to release
     more UAP files
   source: In Plain Sight
@@ -97,7 +95,6 @@ references:
   claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
 - text: Clinton admitted having aides research Area 51 to check for aliens
   source: In Plain Sight
   location: ch14:2073-2187
@@ -106,7 +103,6 @@ references:
   claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
 - text: Webster Hubbell said Clinton asked him to investigate the JFK assassination
     and whether UFOs are real
   source: In Plain Sight
@@ -117,7 +113,6 @@ references:
   claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
 - text: Ross Coulthart said Clinton dispatched Hubbell over his UAP interest
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -146,7 +141,6 @@ references:
   claim_id: 45cc9970-f422-4054-b1e7-4111983b6057
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45cc9970-f422-4054-b1e7-4111983b6057
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-45cc9970-f422-4054-b1e7-4111983b6057
 - text: Press reports said Clinton tasked Sandy Berger with determining if the US
     held aliens or alien technology
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -157,7 +151,6 @@ references:
   claim_id: c5c78cb8-b29c-4f33-ae47-44d5b2e924c2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c5c78cb8-b29c-4f33-ae47-44d5b2e924c2
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c5c78cb8-b29c-4f33-ae47-44d5b2e924c2
 - text: Clinton said on Jimmy Kimmel Live in 2014 he would tell the public if he found
     aliens existed
   source: In Plain Sight
@@ -167,7 +160,6 @@ references:
   claim_id: 107abe4e-2c1e-4796-b4b6-2afe76e93208
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107abe4e-2c1e-4796-b4b6-2afe76e93208
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-107abe4e-2c1e-4796-b4b6-2afe76e93208
 - text: 'Clinton: ''If we were visited someday, I wouldn''t be surprised'''
   source: In Plain Sight
   location: ch14:2579-2711
@@ -176,7 +168,6 @@ references:
   claim_id: c05f26ce-efbe-4db6-bdb0-b94b017c4cee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c05f26ce-efbe-4db6-bdb0-b94b017c4cee
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c05f26ce-efbe-4db6-bdb0-b94b017c4cee
 - text: Clinton said every attempt was made to learn about the 1947 Roswell UAP crash
     during his presidency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -187,7 +178,6 @@ references:
   claim_id: a0a74bb4-f626-496e-977c-7b514fc1f1b4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a0a74bb4-f626-496e-977c-7b514fc1f1b4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a0a74bb4-f626-496e-977c-7b514fc1f1b4
 - text: Clinton said he did not know of a 1947 Roswell alien spacecraft crash and
     wanted to know if the Air Force had recovered bodies
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -199,7 +189,6 @@ references:
   claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e523c48c-aed3-4378-8039-aa38622d3a42
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e523c48c-aed3-4378-8039-aa38622d3a42
 - text: Clinton said many mysteries remain unexplained and this should keep people
     humble
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -209,7 +198,6 @@ references:
   claim_id: 7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
 - text: Obama told Kimmel that saying there's nothing is what presidents are instructed
     to say, referencing Clinton's earlier answer
   source: In Plain Sight
@@ -220,7 +208,6 @@ references:
   claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c8ff4cf-926d-48ca-b2d8-182d91584074
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9c8ff4cf-926d-48ca-b2d8-182d91584074
 - text: Podesta served as Clinton's Chief of Staff, 1998-2001
   source: In Plain Sight
   location: ch14:26259-26377
@@ -229,7 +216,6 @@ references:
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12340195-1080-4fa6-94bd-8fb2123d8392
 - text: Podesta later served as counselor to Obama and campaign manager to Hillary
     Clinton
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -239,7 +225,6 @@ references:
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-79bece11-f229-43bb-832d-42c337d7c6e9
 - text: Podesta secured Executive Order 12958, declassifying UAP files, under Clinton
   source: In Plain Sight
   location: ch18:3627-3799
@@ -249,7 +234,6 @@ references:
   claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d18570b9-0086-4346-ba6a-ef8f49fbcca9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d18570b9-0086-4346-ba6a-ef8f49fbcca9
 - text: Steven Greer said a briefing response indicated Clinton feared pushing on
     UFOs after a friend warned of assassination
   source: In Plain Sight
@@ -261,7 +245,6 @@ references:
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
 - text: Jonathan Caplan said a non-human craft landed in Russia by arrangement during
     the Clinton administration
   source: Watergate, the JFK assassination and a UFO secret at the center of it all

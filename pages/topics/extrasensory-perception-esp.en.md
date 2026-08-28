@@ -111,7 +111,6 @@ references:
   claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
 - text: SRI's psychic spy program was created during MKUltra because Russia was experimenting
     with ESP
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'

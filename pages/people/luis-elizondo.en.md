@@ -437,7 +437,6 @@ references:
   claim_id: b2188469-9136-4473-8c6b-edd1ce85a6ad
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b2188469-9136-4473-8c6b-edd1ce85a6ad
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b2188469-9136-4473-8c6b-edd1ce85a6ad
 - text: Elizondo worked at AATIP at the US DoD (Pentagon)
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -457,7 +456,6 @@ references:
   claim_id: 06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
 - text: Elizondo was based in OUSDI from 2008 until his 2017 retirement
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -468,7 +466,6 @@ references:
   claim_id: 2de3e303-1874-446d-82dc-ec5e4b582e2c
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-2de3e303-1874-446d-82dc-ec5e4b582e2c
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-2de3e303-1874-446d-82dc-ec5e4b582e2c
 - text: James Clapper hired Elizondo into OUSDI in 2008
   source: In Plain Sight
   location: ch21:11763-12072
@@ -479,7 +476,6 @@ references:
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
 - text: Elizondo was tasked to join AAWSAP
   source: In Plain Sight
   location: ch21:12081-12271
@@ -489,7 +485,6 @@ references:
   claim_id: 01549d52-fdb3-4597-9642-0477737e1f05
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01549d52-fdb3-4597-9642-0477737e1f05
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-01549d52-fdb3-4597-9642-0477737e1f05
 - text: Elizondo spent 20 years in military intelligence in Afghanistan, the Middle
     East and Guantanamo
   source: Navy pilots describe encounters with UFOs
@@ -526,7 +521,6 @@ references:
   claim_id: b7e2a09e-0280-4012-a97f-e196fcace5a1
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
 - text: After 2012 Elizondo worked with US Navy and CIA officials on AATIP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:5628-5728
@@ -535,7 +529,6 @@ references:
   claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
 - text: The AATIP effort continued under a successor Elizondo declined to name
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:6039-6132
@@ -544,7 +537,6 @@ references:
   claim_id: 48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-48bf07ab-de22-4e3d-8a9e-2997cbb3c77c
 - text: AATIP staff were a loose-knit, often part-time mix of specialists
   source: Navy pilots describe encounters with UFOs
   location: 00:02:37.0-00:02:46.7
@@ -644,7 +636,6 @@ references:
   claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
 - text: Elizondo resigned in October 2017 to protest excessive secrecy and internal
     opposition
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
@@ -655,7 +646,6 @@ references:
   claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2d59bd3c-d9b0-4586-bd51-95b62c0363ee
 - text: Elizondo's 2017-10-04 memorandum cited concerns over DoD inaction on anomalous
     aerospace threats
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -677,7 +667,6 @@ references:
   claim_id: 6fc3cd3f-cc82-461e-9be1-2002937dab0b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6fc3cd3f-cc82-461e-9be1-2002937dab0b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6fc3cd3f-cc82-461e-9be1-2002937dab0b
 - text: Reid's second memorandum said Elizondo gave three different explanations for
     resigning
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -773,7 +762,6 @@ references:
   claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
 - text: Elizondo joined DeLonge, Mellon and Steve Justice to form To The Stars Academy
   source: David Fravor Statement for the House Oversight Committee
   location: char:5783-5963
@@ -782,7 +770,6 @@ references:
   claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-60718dbf-3218-4794-bc22-9b5da564d285
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-60718dbf-3218-4794-bc22-9b5da564d285
 - text: TTSA involved Mellon, Elizondo, Semivan, Justice and Puthoff
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:48:19.7-00:48:35.4
@@ -802,7 +789,6 @@ references:
   claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
 - text: Elizondo became TTSA's public face after the NYT AATIP story
   source: In Plain Sight
   location: ch21:13584-13688
@@ -811,7 +797,6 @@ references:
   claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1284d17-f24a-4cb5-ac54-a16349549048
 - text: Sherwood told Kloor Elizondo had no AATIP responsibilities while in OUSDI
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -821,7 +806,6 @@ references:
   claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
 - text: Gough said Elizondo had no assigned AATIP responsibilities while in OUSDI
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -831,7 +815,6 @@ references:
   claim_id: c9180952-4586-428d-a5f9-f32a5cecc0af
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
 - text: Gough said DIA administered AATIP and Elizondo was never assigned to DIA
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -841,7 +824,6 @@ references:
   claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
 - text: Gough said Elizondo interacted with the DIA AATIP office but did not lead
     it
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -852,7 +834,6 @@ references:
   claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
 - text: Puthoff continued as AAWSAP/AATIP contractor and senior advisor under Elizondo's
     leadership until Elizondo resigned
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -867,7 +848,6 @@ references:
   claim_id: b66416e8-dd81-4130-873d-cc9433bb7263
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b66416e8-dd81-4130-873d-cc9433bb7263
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b66416e8-dd81-4130-873d-cc9433bb7263
 - text: Puthoff said Elizondo was basically the leader of AATIP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:46:18.5-00:46:25.4
@@ -893,7 +873,6 @@ references:
   claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
 - text: Elizondo testified he had long been entrusted with protecting sensitive government
     programmes
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -904,7 +883,6 @@ references:
   claim_id: 1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
 - text: Elizondo said his last government position managed a Special Access Program
     for the White House and NSC
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -915,7 +893,6 @@ references:
   claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
 - text: Elizondo told Congress the US government has run secret UAP crash retrieval
     programmes
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -961,7 +938,6 @@ references:
   claim_id: 5aae8a50-66a5-4865-ab50-7e3a28f142bc
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-5aae8a50-66a5-4865-ab50-7e3a28f142bc
-  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-5aae8a50-66a5-4865-ab50-7e3a28f142bc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

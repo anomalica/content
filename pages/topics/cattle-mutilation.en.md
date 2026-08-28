@@ -30,7 +30,6 @@ references:
   claim_id: b39d4cce-9d1e-450d-936f-5e0599c9e9fa
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b39d4cce-9d1e-450d-936f-5e0599c9e9fa
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b39d4cce-9d1e-450d-936f-5e0599c9e9fa
 - text: Bovine samples from alleged mutilations could reportedly be found with the
     USDA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -40,7 +39,6 @@ references:
   claim_id: dc751c00-14ab-4e00-95ee-d80a09d6bf95
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dc751c00-14ab-4e00-95ee-d80a09d6bf95
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dc751c00-14ab-4e00-95ee-d80a09d6bf95
 - text: Mutilated cattle carcasses are found exsanguinated with tissue removed apparently
     by high-heat instruments
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -53,6 +51,7 @@ references:
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-58060803-f2bc-409b-b0a5-03de88065905
 - text: Nanstiel theorises the Greys consume bovine blood for its resemblance to human
     blood
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -65,6 +64,7 @@ references:
   claim_id: 7bab3765-c623-4083-a197-618f3b457ab6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7bab3765-c623-4083-a197-618f3b457ab6
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-7bab3765-c623-4083-a197-618f3b457ab6
 - text: Legend holds Eisenhower was offered a deal permitting abduction of humans
     and cattle from a set list
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -78,6 +78,7 @@ references:
   claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-968ad903-a5a6-4f76-b72b-808843a3d587
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

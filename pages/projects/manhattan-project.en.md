@@ -62,7 +62,6 @@ references:
   claim_id: b0e5fea8-5bea-478c-aff6-331c6e82f028
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0e5fea8-5bea-478c-aff6-331c6e82f028
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b0e5fea8-5bea-478c-aff6-331c6e82f028
 - text: The project unlocked the secrets of the atom, with devastating and miraculous
     effect
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -72,7 +71,6 @@ references:
   claim_id: 2e97523b-a010-417a-bd63-4147c6f5cc66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
 - text: The project took its name from the Manhattan Engineer District, whose offices
     were at 270 Broadway, Manhattan
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -83,7 +81,6 @@ references:
   claim_id: abe8e5f4-61f1-4971-8070-42d6b574a8c0
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-abe8e5f4-61f1-4971-8070-42d6b574a8c0
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-abe8e5f4-61f1-4971-8070-42d6b574a8c0
 - text: General Leslie R. Groves followed the Army Corps of Engineers' custom of naming
     districts after their location
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -95,7 +92,6 @@ references:
   claim_id: 47ad4da9-e380-4f47-b6a8-2e69c8e83849
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47ad4da9-e380-4f47-b6a8-2e69c8e83849
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-47ad4da9-e380-4f47-b6a8-2e69c8e83849
 - text: Vannevar Bush was director of the Office of Scientific Research and Development,
     which oversaw the project
   source: Dark Mission
@@ -133,7 +129,6 @@ references:
   claim_id: 48e90f8e-9f4b-4b88-a403-31a546ed9c5d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-48e90f8e-9f4b-4b88-a403-31a546ed9c5d
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-48e90f8e-9f4b-4b88-a403-31a546ed9c5d
 - text: The Department of War hid the project across multiple secret facilities, five
     years before Roswell
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -145,7 +140,6 @@ references:
   claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
 - text: There were enemy spies inside the Manhattan Project
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:17967-18025
@@ -153,7 +147,6 @@ references:
   claim_id: 9168201c-d609-48f4-a5f5-d6e490791771
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9168201c-d609-48f4-a5f5-d6e490791771
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9168201c-d609-48f4-a5f5-d6e490791771
 - text: Tim Burchett's district lay near Oak Ridge, a former secret city and site
     of UAP sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -164,7 +157,6 @@ references:
   claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
 - text: White Sands Missile Range is where the project constructed atomic bomb components
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:161-317
@@ -174,7 +166,6 @@ references:
   claim_id: 858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
 - text: Secrecy around the project probably contributed to the spike in reported UAP
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -187,7 +178,6 @@ references:
   claim_id: 0c316991-ddd6-4950-b698-02264f239552
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-0c316991-ddd6-4950-b698-02264f239552
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-0c316991-ddd6-4950-b698-02264f239552
 - text: A 1949 classified conference at Los Alamos addressed unexplained sightings
     over nuclear sites
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -210,7 +200,6 @@ references:
   claim_id: e04a3727-9905-4571-9dc0-94b580f6d00b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
 - text: The Federation of American Scientists was a group of disaffected Manhattan
     Project veterans
   source: Dark Mission

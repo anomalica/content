@@ -426,7 +426,6 @@ references:
   claim_id: 19bba9c6-a8ad-4e58-be5b-0719f3911257
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-19bba9c6-a8ad-4e58-be5b-0719f3911257
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-19bba9c6-a8ad-4e58-be5b-0719f3911257
 - text: Spent more than fifty years as chief scientist on highly classified US government
     projects
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -436,7 +435,6 @@ references:
   claim_id: 10c1dbf7-8d33-4182-a63c-0c207711dd27
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10c1dbf7-8d33-4182-a63c-0c207711dd27
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10c1dbf7-8d33-4182-a63c-0c207711dd27
 - text: Earned his PhD from Stanford University in 1967
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2368-2415
@@ -444,7 +442,6 @@ references:
   claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a204dd47-287c-48cb-b4a7-99a80528c391
 - text: Career spanned General Electric, Sperry Corporation, NSA, Stanford University,
     and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -454,7 +451,6 @@ references:
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
 - text: Senior scientific advisor to almost every US government entity, including
     DoD and NSA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -465,7 +461,6 @@ references:
   claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
 - text: Published numerous papers on quantum physics, lasers, and space propulsion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2743-2810
@@ -473,7 +468,6 @@ references:
   claim_id: 0972f2ae-6488-4ef5-92ea-d1cb7594f597
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0972f2ae-6488-4ef5-92ea-d1cb7594f597
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0972f2ae-6488-4ef5-92ea-d1cb7594f597
 - text: Held patents in the laser, energy, and communications fields
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2826-2910
@@ -482,7 +476,6 @@ references:
   claim_id: fec64ee5-a550-49a7-8d36-52f16499377c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fec64ee5-a550-49a7-8d36-52f16499377c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fec64ee5-a550-49a7-8d36-52f16499377c
 - text: Reported directly to the White House and the CIA director in various capacities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2057-2163
@@ -491,7 +484,6 @@ references:
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d267f396-9477-4118-9435-449a2ca88ffd
 - text: Conducted ESP research for the CIA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -501,7 +493,6 @@ references:
   claim_id: 03c7c248-b229-466d-a262-c931f0164bf4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-03c7c248-b229-466d-a262-c931f0164bf4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-03c7c248-b229-466d-a262-c931f0164bf4
 - text: Pioneered the remote viewing technique at Stanford in the late 1960s
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25107-25203
@@ -510,7 +501,6 @@ references:
   claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c17217b6-187a-479f-abcb-d31254a39eb7
 - text: He and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
@@ -520,7 +510,6 @@ references:
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
 - text: Puthoff previously managed the CIA's Stargate program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45073-45180
@@ -529,7 +518,6 @@ references:
   claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-401b6b38-170a-4e42-9d6e-697b04b42951
 - text: Puthoff and Targ directly responsible for the Cognitive Sciences Laboratory's
     output, 1972-1986
   source: Remote Viewing Secrets
@@ -557,7 +545,6 @@ references:
   claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
 - text: Subjects with no prior exposure learned to perform well under SRI's experimental
     procedure
   source: Remote Viewing Secrets
@@ -624,7 +611,6 @@ references:
   claim_id: 49d58839-8747-498b-9c46-21b82c9704fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49d58839-8747-498b-9c46-21b82c9704fa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-49d58839-8747-498b-9c46-21b82c9704fa
 - text: Magnesium of exceptional purity, anomalous trace composition, 6.7% denser
     than ordinary magnesium
   source: In Plain Sight
@@ -636,7 +622,6 @@ references:
   claim_id: d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
 - text: Result considered anomalous, possibly evidence of extraterrestrial manufacture
   source: In Plain Sight
   location: ch24:11479-11741
@@ -647,7 +632,6 @@ references:
   claim_id: 084db541-92b6-4855-a360-9a45aafd9fb6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-084db541-92b6-4855-a360-9a45aafd9fb6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-084db541-92b6-4855-a360-9a45aafd9fb6
 - text: No evidence anybody had made a sample like the Art's Parts bismuth/magnesium-zinc
     material
   source: In Plain Sight
@@ -658,7 +642,6 @@ references:
   claim_id: ba8529e8-7980-47d6-9312-1c5dd7138404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
 - text: '2012 letter to Linda Moulton Howe: tests did not produce an anomalous outcome'
   source: In Plain Sight
   location: ch24:3163-3486
@@ -669,7 +652,6 @@ references:
   claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
 - text: '2018 conference remark: material an excellent microscopic waveguide at terahertz
     frequencies'
   source: In Plain Sight
@@ -680,7 +662,6 @@ references:
   claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
 - text: '2019 TTSA SEC disclosure: DeLonge sold six samples for $35,000, Puthoff to
     analyse them'
   source: In Plain Sight
@@ -691,7 +672,6 @@ references:
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
 - text: '2018 TTSA SEC disclosure: EarthTech retained for materials analysis and beamed
     energy propulsion plans'
   source: In Plain Sight
@@ -703,7 +683,6 @@ references:
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
 - text: Puthoff worked for the NSA and the CIA
   source: In Plain Sight
   location: ch24:8072-8107
@@ -711,7 +690,6 @@ references:
   claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
 - text: Elizondo joined Puthoff and Mellon in new venture called TTSA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -723,7 +701,6 @@ references:
   claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
 - text: TTSA aims to raise money for research into UFOs
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -733,7 +710,6 @@ references:
   claim_id: bbfb85b0-a035-44a1-a029-dc87aaf60a29
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-bbfb85b0-a035-44a1-a029-dc87aaf60a29
 - text: Puthoff was TTSA's third co-founder
   source: In Plain Sight
   location: ch21:970-1045
@@ -742,7 +718,6 @@ references:
   claim_id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
 - text: Helped lead TTSA's campaign for government UAP disclosure
   source: In Plain Sight
   location: ch28:6667-6924
@@ -753,7 +728,6 @@ references:
   claim_id: db5a3ef1-72f5-48fb-a48d-f2e4448c761e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
 - text: TTSA involved Mellon, Elizondo, Semivan, Justice, and Puthoff
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:48:19.7-00:48:35.4
@@ -770,7 +744,6 @@ references:
   claim_id: 3858175d-54db-4ce6-bd6c-d49e54573a31
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
 - text: Puthoff transitioned to TTSA's scientific advisory board
   source: In Plain Sight
   location: ch21:24145-24301
@@ -779,7 +752,6 @@ references:
   claim_id: a9786ec9-633f-44e7-aefb-373bbf1661f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
 - text: Puthoff continued AAWSAP/AATIP work under Elizondo's leadership until his
     resignation
   source: Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP;
@@ -794,7 +766,6 @@ references:
   claim_id: b66416e8-dd81-4130-873d-cc9433bb7263
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b66416e8-dd81-4130-873d-cc9433bb7263
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b66416e8-dd81-4130-873d-cc9433bb7263
 - text: Puthoff was the programme's chief scientist
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2329-2356
@@ -802,7 +773,6 @@ references:
   claim_id: 013b3bf8-77fd-4458-9e8f-419c082aa02a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-013b3bf8-77fd-4458-9e8f-419c082aa02a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-013b3bf8-77fd-4458-9e8f-419c082aa02a
 - text: Puthoff had conceived and commissioned studies into cloaking, wormholes, antigravity,
     brain-machine interfaces, and warp drives
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -813,7 +783,6 @@ references:
   claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
 - text: Commissioned ~36 papers from experts on their field's future, without disclosing
     UAP connection
   source: 'Episode 73: Science vs. Secrecy'
@@ -889,7 +858,6 @@ references:
   claim_id: ece2b801-e4cf-4412-8370-a8315e788ef7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ece2b801-e4cf-4412-8370-a8315e788ef7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ece2b801-e4cf-4412-8370-a8315e788ef7
 - text: Puthoff told Elizondo four deceased nonhuman bodies were recovered from the
     Roswell crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -899,7 +867,6 @@ references:
   claim_id: 7d33d7a2-94cd-4fe1-8625-2d07866d6d96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d33d7a2-94cd-4fe1-8625-2d07866d6d96
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d33d7a2-94cd-4fe1-8625-2d07866d6d96
 - text: Puthoff possessed a piece of material allegedly recovered from the Roswell
     crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -908,7 +875,6 @@ references:
   claim_id: 8f15faa7-ac27-480a-9c26-69100b49678b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f15faa7-ac27-480a-9c26-69100b49678b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8f15faa7-ac27-480a-9c26-69100b49678b
 - text: Puthoff has spoken of a legacy program with access to crash material and biologics
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:32:00.9-00:32:01.7
@@ -960,7 +926,6 @@ references:
   claim_id: 407d7d41-7c3e-4e50-a022-be5969bf68a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
 - text: Willard Miller offered to assist Davis and Puthoff with crash-retrieval research
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:3984-4191
@@ -991,7 +956,6 @@ references:
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -119,7 +119,6 @@ references:
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2578240-b430-4934-ae53-5e9e9911ac02
 - text: Lazar speculates Edward Teller influenced his hiring at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 2026-05-08, 448-460

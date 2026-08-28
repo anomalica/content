@@ -52,7 +52,6 @@ references:
   claim_id: e230f3dd-513f-4716-9596-d8fc3ba43ece
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
 - text: AATIP was part of a $22 million programme Reid sponsored to investigate UFOs
   source: Navy pilots describe encounters with UFOs
   location: 00:01:52.4-00:02:00.4
@@ -71,7 +70,6 @@ references:
   claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
 - text: None of Reid, Stevens or Inouye wanted a public Senate floor debate on the
     funding
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -82,7 +80,6 @@ references:
   claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
 - text: Grusch said his PPD-19 complaint faced routing problems to the Armed Services
     Committees
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -97,7 +94,6 @@ references:
   claim_id: 150ad8f7-3f76-4549-a913-6e6845a35612
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-150ad8f7-3f76-4549-a913-6e6845a35612
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-150ad8f7-3f76-4549-a913-6e6845a35612
 - text: Grothman said Kirkpatrick testified AARO found no evidence of extraterrestrial
     activity
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -110,7 +106,6 @@ references:
   claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4a82f055-45d4-4350-ba99-fca454419dd6
 - text: Rubio said some Senate colleagues are very interested in UAP, others dismissive
   source: Navy pilots describe encounters with UFOs
   location: 00:13:01.1-00:13:06.5
@@ -130,7 +125,6 @@ references:
   claim_id: ff4d3d12-d804-4a90-a324-06d7366cdb92
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ff4d3d12-d804-4a90-a324-06d7366cdb92
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ff4d3d12-d804-4a90-a324-06d7366cdb92
 - text: The Senate was taking up an amendment creating a commission with declassification
     authority
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -141,7 +135,6 @@ references:
   claim_id: 6343500e-eb9f-4316-8a5e-bdbf05a2476a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-6343500e-eb9f-4316-8a5e-bdbf05a2476a
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-6343500e-eb9f-4316-8a5e-bdbf05a2476a
 - text: The UAP Disclosure Act was pushed back again by Senator Mitch McConnell in
     2024
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08

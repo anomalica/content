@@ -50,7 +50,6 @@ references:
   claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
 - text: Elizondo believes Truman, Eisenhower, Kennedy, Johnson, Carter, Reagan, Bush
     and Trump were each briefed in some way on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -60,7 +59,6 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: Elizondo has reason to believe the Strategic Defense Initiative was concerned
     with UAP, not just nuclear weapons
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -71,7 +69,6 @@ references:
   claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48e38691-af41-4320-8f3b-b20e58bf35bf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48e38691-af41-4320-8f3b-b20e58bf35bf
 - text: Reagan suggested to Gorbachev that the US and USSR should cooperate in the
     event of an alien invasion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -81,7 +78,6 @@ references:
   claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
 - text: In a UN speech, Reagan mused on how quickly differences would vanish facing
     an alien threat, and asked whether such a force might already be among us
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -92,7 +88,6 @@ references:
   claim_id: 45a56889-5bfc-4532-b859-7651e5213e1b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-45a56889-5bfc-4532-b859-7651e5213e1b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-45a56889-5bfc-4532-b859-7651e5213e1b
 - text: Coulthart said Robert Fish worked on classified programmes including Reagan's
     'Trust but Verify' treaty with the Soviets
   source: In Plain Sight
@@ -104,7 +99,6 @@ references:
   claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
 - text: James Baker was staff director in the Reagan administration
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:19:06.7-00:19:10.8

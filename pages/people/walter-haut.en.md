@@ -290,7 +290,6 @@ references:
   claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
 - text: Haut delivered the release to KGFL, KSWS, Roswell Daily Record, Roswell Morning
     Dispatch
   source: The Fourth Mind
@@ -578,7 +577,6 @@ references:
   claim_id: 84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
 - text: Julie Shuster employed by the Roswell UFO Museum, co-founded by Haut
   source: In Plain Sight
   location: ch7:20391-20472
@@ -587,7 +585,6 @@ references:
   claim_id: 98734dcd-1df9-499e-a94e-0eb2e4935616
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98734dcd-1df9-499e-a94e-0eb2e4935616
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-98734dcd-1df9-499e-a94e-0eb2e4935616
 - text: Haut died 15 December 2005
   source: The Fourth Mind
   location: ch11:3064-3092
@@ -604,7 +601,6 @@ references:
   claim_id: 2d24a409-e9b8-4a21-828e-79ae40bc8d0d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2d24a409-e9b8-4a21-828e-79ae40bc8d0d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2d24a409-e9b8-4a21-828e-79ae40bc8d0d
 - text: 'Sceptics: Haut may not have been of sound mind; Schmitt and Carey wrote the
     affidavit'
   source: In Plain Sight
@@ -615,7 +611,6 @@ references:
   claim_id: 12197459-edd4-4596-bc09-7ba0e4009f19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12197459-edd4-4596-bc09-7ba0e4009f19
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12197459-edd4-4596-bc09-7ba0e4009f19
 - text: 'Schmitt: no one worked on Haut more than he and Carey did'
   source: In Plain Sight
   location: ch7:18639-18759
@@ -624,7 +619,6 @@ references:
   claim_id: 9b29474e-c205-4dee-9813-93a2c64118f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b29474e-c205-4dee-9813-93a2c64118f4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b29474e-c205-4dee-9813-93a2c64118f4
 - text: 'Schmitt: drafted affidavit from what Haut told them; Haut approved every
     word'
   source: In Plain Sight
@@ -634,7 +628,6 @@ references:
   claim_id: 2cc93094-18ef-473e-b1ec-f34d2c68b429
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc93094-18ef-473e-b1ec-f34d2c68b429
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2cc93094-18ef-473e-b1ec-f34d2c68b429
 - text: 'Schmitt: statement based on years of information, read with daughter, notary,
     witness present'
   source: In Plain Sight
@@ -645,7 +638,6 @@ references:
   claim_id: bffdd553-2575-49a9-a2be-ca39ed1b65d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bffdd553-2575-49a9-a2be-ca39ed1b65d9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bffdd553-2575-49a9-a2be-ca39ed1b65d9
 - text: 'Schmitt: daughter said Haut would not have signed if he disagreed'
   source: In Plain Sight
   location: ch7:19116-19229
@@ -654,7 +646,6 @@ references:
   claim_id: 98c8f72f-f20a-473b-b271-acae8a0ac460
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98c8f72f-f20a-473b-b271-acae8a0ac460
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-98c8f72f-f20a-473b-b271-acae8a0ac460
 - text: 'Critics: Julie Shuster had a financial incentive'
   source: In Plain Sight
   location: ch7:20477-20619
@@ -663,7 +654,6 @@ references:
   claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48996f14-7c9d-4b99-b750-d2e713dec406
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48996f14-7c9d-4b99-b750-d2e713dec406
 - text: 'Schmitt: suggestion unfounded, Shuster paid near minimum wage'
   source: In Plain Sight
   location: ch7:20836-21106
@@ -673,7 +663,6 @@ references:
   claim_id: e381239e-ca37-4806-ab47-f7c433d60ef2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e381239e-ca37-4806-ab47-f7c433d60ef2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e381239e-ca37-4806-ab47-f7c433d60ef2
 - text: Schmitt considers Haut sincere and truthful
   source: In Plain Sight
   location: ch7:21113-21195
@@ -682,7 +671,6 @@ references:
   claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

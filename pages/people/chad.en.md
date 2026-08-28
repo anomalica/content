@@ -59,7 +59,6 @@ references:
   claim_id: 0457f9df-392e-4aef-9f4f-1e62dbdbb400
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0457f9df-392e-4aef-9f4f-1e62dbdbb400
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0457f9df-392e-4aef-9f4f-1e62dbdbb400
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

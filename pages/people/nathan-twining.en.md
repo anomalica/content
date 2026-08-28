@@ -14,7 +14,6 @@ references:
   claim_id: 2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2e7d818f-5bd4-42a0-8d4a-f6f4a96d59ef
 - text: Twining was head of the United States Army Air Materiel Command.
   source: In Plain Sight
   location: ch8:673-716
@@ -22,7 +21,6 @@ references:
   claim_id: d2515ba4-200b-4ae5-b855-b6b4bba980e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d2515ba4-200b-4ae5-b855-b6b4bba980e9
 - text: Twining commanded the 15th Air Force.
   source: The Fourth Mind
   location: ch22:18043-18112
@@ -50,7 +48,6 @@ references:
   claim_id: 212f8aec-ad2a-4dba-901e-7a9bf594acfd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-212f8aec-ad2a-4dba-901e-7a9bf594acfd
 - text: The letter described the metallic discs' extreme rate of climb, manoeuvrability
     and evasive behaviour.
   source: In Plain Sight
@@ -60,7 +57,6 @@ references:
   claim_id: 7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7dcf2e53-ca25-4b3e-a1e9-870af35eb3f1
 - text: Twining wrote that the capabilities suggested the objects might be manually
     or remotely controlled.
   source: In Plain Sight
@@ -70,7 +66,6 @@ references:
   claim_id: 2b1f662f-115e-4816-8795-e10148594d81
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2b1f662f-115e-4816-8795-e10148594d81
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2b1f662f-115e-4816-8795-e10148594d81
 - text: The September 23, 1947 Twining Memo described extraordinary manoeuvrability
     and high speed.
   source: The Fourth Mind
@@ -99,7 +94,6 @@ references:
   claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41df29fa-62e9-409e-82d6-024099f70f30
 - text: Twining established Project SAUCER on 1947-12-30 to evaluate UFO reports of
     national security concern.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -112,7 +106,6 @@ references:
   claim_id: b0841f7c-bafd-486b-a81c-8f4a676bbe99
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b0841f7c-bafd-486b-a81c-8f4a676bbe99
 - text: Twining's son said his father privately stated that bodies were delivered
     along with the Roswell debris.
   source: The Fourth Mind

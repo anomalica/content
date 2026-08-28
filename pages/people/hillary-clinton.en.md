@@ -59,7 +59,6 @@ references:
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
 - text: On entering the White House in 1993, both Bill and Hillary Clinton took a
     strong interest in UAPs
   source: In Plain Sight
@@ -69,7 +68,6 @@ references:
   claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
 - text: Ross Coulthart suggests Bill Clinton's UAP interest may explain Hillary Clinton's
     later pursuit of the subject
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -93,7 +91,6 @@ references:
   claim_id: 42199e36-3096-4528-b02e-402873c460ed
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42199e36-3096-4528-b02e-402873c460ed
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-42199e36-3096-4528-b02e-402873c460ed
 - text: Photograph apparently taken at Camp David shows Clinton holding Are We Alone?
     by Paul Davies
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -131,7 +128,6 @@ references:
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-79bece11-f229-43bb-832d-42c337d7c6e9
 - text: Podesta was Clinton's campaign chief of staff
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:40:20.0-00:40:21.5
@@ -159,7 +155,6 @@ references:
   claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
 - text: Clinton said she would consider a taskforce to investigate Area 51
   source: In Plain Sight
   location: ch20:17299-17522
@@ -169,7 +164,6 @@ references:
   claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
 - text: Clinton conceded aliens might have visited Earth and pledged to prioritise
     the UFO mystery
   source: In Plain Sight
@@ -180,7 +174,6 @@ references:
   claim_id: 25317738-c91a-4e4a-a7cc-8d5e8c14974e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25317738-c91a-4e4a-a7cc-8d5e8c14974e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25317738-c91a-4e4a-a7cc-8d5e8c14974e
 - text: During the 2016 campaign Clinton was doing well against Trump and promising
     to release UFO information
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -203,7 +196,6 @@ references:
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
 - text: Samosa, citing Jim Semivan, says a non-state intelligence network leaked the
     Podesta emails
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

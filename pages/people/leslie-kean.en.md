@@ -421,7 +421,6 @@ references:
   claim_id: dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
 - text: Kean won a court case against NASA over documents relating to the 1965 Kecksburg,
     Pennsylvania UAP incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -431,7 +430,6 @@ references:
   claim_id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
 - text: Kean was one of three reporters on the 2017 New York Times story about Luis
     Elizondo, meeting him in a Washington, D.C. hotel
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -443,7 +441,6 @@ references:
   claim_id: 4ca93e5e-7af9-4227-b64b-6034322e896b
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4ca93e5e-7af9-4227-b64b-6034322e896b
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4ca93e5e-7af9-4227-b64b-6034322e896b
 - text: Kean was summoned to a Washington, D.C. hotel lobby meeting to be introduced
     to Elizondo
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -464,7 +461,6 @@ references:
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
 - text: The meeting with Elizondo, Mellon, Semivan and Puthoff lasted four hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
@@ -472,7 +468,6 @@ references:
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
 - text: Kean was shown documents at the meeting that she found astonishing
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:13:12.7-00:13:15.2
@@ -497,7 +492,6 @@ references:
   claim_id: 1771e972-7fca-40ad-8485-cc38b98f3f26
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
 - text: Elizondo later travelled to Philadelphia to meet Kean again, joined by Ralph
     Blumenthal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -508,7 +502,6 @@ references:
   claim_id: a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
 - text: The three noticed two men with military-style haircuts watching them, believed
     to be an AFOSI surveillance team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -520,7 +513,6 @@ references:
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
 - text: Kean photographed one of the surveillance men after he discovered them watching
     him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -531,7 +523,6 @@ references:
   claim_id: e328bde1-ead1-4f0e-8da7-0354d65c946a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
 - text: David Charles Grusch provided DOPSR with the information he intended to disclose
     to Kean and Blumenthal
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -542,7 +533,6 @@ references:
   claim_id: c65f9177-4016-48a2-9dde-436b4c7ba614
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-c65f9177-4016-48a2-9dde-436b4c7ba614
 - text: Grusch's on-the-record statements were cleared for open publication on 2023-04-04
     and 2023-04-06
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -552,7 +542,6 @@ references:
   claim_id: d49ccf7a-403b-40a3-b189-65144609fca4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-d49ccf7a-403b-40a3-b189-65144609fca4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-d49ccf7a-403b-40a3-b189-65144609fca4
 - text: A House Permanent Select Committee on Intelligence representative told Kean
     and Blumenthal in March 2023 that members could not comment on a complaint or
     confirm a complainant's identity
@@ -564,7 +553,6 @@ references:
   claim_id: 93762162-d016-4241-8d1d-5757a48b3ca5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-93762162-d016-4241-8d1d-5757a48b3ca5
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-93762162-d016-4241-8d1d-5757a48b3ca5
 - text: Kean said covering UFO crash retrievals has been particularly difficult to
     get published in the NYT
   source: In Plain Sight
@@ -577,7 +565,6 @@ references:
   claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
 - text: Ross Coulthart said Kean and Blumenthal indicated they believe there is substance
     to allegations the US government has recovered alien spacecraft
   source: In Plain Sight
@@ -589,7 +576,6 @@ references:
   claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-01854123-0222-4ab6-b3dc-3948c3240f32
 - text: Kean wrote that veridical out-of-body experiences indicate aware minds exist
     independently of the brain and body
   source: Surviving Death

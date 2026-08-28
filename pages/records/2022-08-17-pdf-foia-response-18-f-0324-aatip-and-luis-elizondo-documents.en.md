@@ -21,6 +21,7 @@ references:
   claim_id: dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
 - text: Portions of the eight pages exempt under 5 U.S.C. § 552(b)(6)
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:946-1172
@@ -30,6 +31,7 @@ references:
   claim_id: d91f7a19-4486-443d-a603-eaa6cfe055dc
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d91f7a19-4486-443d-a603-eaa6cfe055dc
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-d91f7a19-4486-443d-a603-eaa6cfe055dc
 - text: Appeal must be postmarked within 90 calendar days
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:2723-2798
@@ -38,6 +40,7 @@ references:
   claim_id: 8252140e-9005-45bb-9c15-d779c09e6b2f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8252140e-9005-45bb-9c15-d779c09e6b2f
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8252140e-9005-45bb-9c15-d779c09e6b2f
 - text: Elizondo assigned to OUSDI from 2008-09-28 to 2017-10-04
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4801-4874
@@ -46,6 +49,7 @@ references:
   claim_id: b277f3c3-8e17-43d6-952f-784797ba9cb5
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b277f3c3-8e17-43d6-952f-784797ba9cb5
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b277f3c3-8e17-43d6-952f-784797ba9cb5
 - text: Elizondo served as action officer in Partner Engagement
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4880-5035
@@ -55,6 +59,7 @@ references:
   claim_id: ddec9833-fd27-4352-881f-28ecab0ed8c7
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ddec9833-fd27-4352-881f-28ecab0ed8c7
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-ddec9833-fd27-4352-881f-28ecab0ed8c7
 - text: Elizondo later branch chief managing classified information for Office of
     Military Commissions
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -65,6 +70,7 @@ references:
   claim_id: 55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
 - text: AATIP terminated in 2012
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5130-5158
@@ -72,6 +78,7 @@ references:
   claim_id: 19ef963a-8b51-41db-891c-9e1ca0491c42
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-19ef963a-8b51-41db-891c-9e1ca0491c42
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-19ef963a-8b51-41db-891c-9e1ca0491c42
 - text: 'Reid: to his knowledge Elizondo had no AATIP job responsibilities'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5048-5123
@@ -80,6 +87,7 @@ references:
   claim_id: 17ebb920-9e1e-4503-a10d-55185df50fcb
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-17ebb920-9e1e-4503-a10d-55185df50fcb
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-17ebb920-9e1e-4503-a10d-55185df50fcb
 - text: 'Reid: Elizondo aggrandized his AATIP role in public statements'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4347-4536
@@ -89,6 +97,7 @@ references:
   claim_id: f884219b-bd8b-4f8a-9d1d-3090fff0b55b
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f884219b-bd8b-4f8a-9d1d-3090fff0b55b
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f884219b-bd8b-4f8a-9d1d-3090fff0b55b
 - text: Reid pursuing options to investigate possible mishandling of sensitive information
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4545-4768
@@ -98,6 +107,7 @@ references:
   claim_id: 4cd5f123-5578-41a2-88d5-608d0bdc3f88
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4cd5f123-5578-41a2-88d5-608d0bdc3f88
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4cd5f123-5578-41a2-88d5-608d0bdc3f88
 - text: First resignation letter, 2017-10-03, requesting immediate termination
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5233-5345
@@ -106,6 +116,7 @@ references:
   claim_id: 777cea01-50aa-48e1-bc07-b7267c7b7027
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-777cea01-50aa-48e1-bc07-b7267c7b7027
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-777cea01-50aa-48e1-bc07-b7267c7b7027
 - text: 'First letter: resignation effective 2017-10-04 as Director, National Programs
     Special Management Staff, deferred retirement requested'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -117,6 +128,7 @@ references:
   claim_id: f8c49283-862c-44b9-a084-63f7c53745fd
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f8c49283-862c-44b9-a084-63f7c53745fd
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f8c49283-862c-44b9-a084-63f7c53745fd
 - text: Elizondo cleared out of OUSDI the day after
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5357-5393
@@ -124,6 +136,7 @@ references:
   claim_id: 8e1d3010-def9-431d-b6cd-b8fcf9546671
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8e1d3010-def9-431d-b6cd-b8fcf9546671
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8e1d3010-def9-431d-b6cd-b8fcf9546671
 - text: 'Reid: Elizondo provided no reason for sudden departure'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5398-5435
@@ -131,6 +144,7 @@ references:
   claim_id: c8d9f03f-09b0-481a-b139-a4cc24a0008f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c8d9f03f-09b0-481a-b139-a4cc24a0008f
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-c8d9f03f-09b0-481a-b139-a4cc24a0008f
 - text: Second letter delivered on/about 2017-10-04 after Elizondo had departed
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5466-5616
@@ -139,6 +153,7 @@ references:
   claim_id: 83165e49-47c2-40e5-ae2e-199ea9f683ec
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-83165e49-47c2-40e5-ae2e-199ea9f683ec
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-83165e49-47c2-40e5-ae2e-199ea9f683ec
 - text: Second letter formatted as Memorandum for Record but salutation 'Mr. Secretary'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5624-5811
@@ -148,6 +163,7 @@ references:
   claim_id: 5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
 - text: Second letter hand-delivered by someone other than Elizondo
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20167-20257
@@ -156,6 +172,7 @@ references:
   claim_id: afed40fd-5cd1-4c32-b201-4ce790e9b24b
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-afed40fd-5cd1-4c32-b201-4ce790e9b24b
 - text: Second letter inconsistent with first, which Elizondo personally handed to
     supervisor
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -165,6 +182,7 @@ references:
   claim_id: 449bfb84-09b3-4111-ad6d-8b0a18f41db2
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-449bfb84-09b3-4111-ad6d-8b0a18f41db2
 - text: OUSDI retained a copy of the second letter but did not forward it to SecDef's
     office
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -174,6 +192,7 @@ references:
   claim_id: 11c06711-00b9-4eff-a26c-2ae94a732f39
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11c06711-00b9-4eff-a26c-2ae94a732f39
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11c06711-00b9-4eff-a26c-2ae94a732f39
 - text: Second letter cites concerns over anomalous aerospace threats as basis for
     resignation
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -183,6 +202,7 @@ references:
   claim_id: 073aa6b4-66ec-4cb4-a900-d50d71bd827c
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-073aa6b4-66ec-4cb4-a900-d50d71bd827c
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-073aa6b4-66ec-4cb4-a900-d50d71bd827c
 - text: 'Elizondo: served with America''s finest men and women for over 22 years'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:9853-10112
@@ -193,6 +213,7 @@ references:
   claim_id: d30de25f-89be-4642-a207-7e5295d7d566
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d30de25f-89be-4642-a207-7e5295d7d566
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-d30de25f-89be-4642-a207-7e5295d7d566
 - text: 'Elizondo: certain DoD individuals remained opposed despite overwhelming evidence'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:10327-10616
@@ -203,6 +224,7 @@ references:
   claim_id: d9d795bf-e4b0-41d0-82e3-89d41b7584aa
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-d9d795bf-e4b0-41d0-82e3-89d41b7584aa
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-d9d795bf-e4b0-41d0-82e3-89d41b7584aa
 - text: 'Elizondo: phenomena a potential tactical and possibly existential threat'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:10491-10616
@@ -211,6 +233,7 @@ references:
   claim_id: 644be4a9-0845-4c3b-aeb4-9fa7b40f6022
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-644be4a9-0845-4c3b-aeb4-9fa7b40f6022
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-644be4a9-0845-4c3b-aeb4-9fa7b40f6022
 - text: 'Elizondo: correlation between phenomena and US nuclear/military capabilities'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:10626-10748
@@ -219,6 +242,7 @@ references:
   claim_id: 9f2718b6-b9f3-43ba-bbbb-6ddedfcff6cf
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9f2718b6-b9f3-43ba-bbbb-6ddedfcff6cf
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9f2718b6-b9f3-43ba-bbbb-6ddedfcff6cf
 - text: 'Elizondo: DoD must take seriously accounts of interference with weapon platforms'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:10762-10951
@@ -228,6 +252,7 @@ references:
   claim_id: ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-ca99b48a-f5e8-48c7-95c9-8ece9f96faa3
 - text: 'Elizondo: resignation intended to prompt SecDef to ask further questions'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:11242-11480
@@ -238,6 +263,7 @@ references:
   claim_id: 1f9abe9c-4b65-42f9-9693-6fe916d5c044
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1f9abe9c-4b65-42f9-9693-6fe916d5c044
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-1f9abe9c-4b65-42f9-9693-6fe916d5c044
 - text: 'Reid''s second memorandum: Elizondo gave three different explanations for
     resigning'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -246,6 +272,7 @@ references:
   claim_id: 4a2644c1-4600-43cb-897c-c697e3dd104d
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-4a2644c1-4600-43cb-897c-c697e3dd104d
 - text: '2017-10-03: Elizondo told supervisor he had a fleeting job opportunity'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:18934-19066
@@ -254,6 +281,7 @@ references:
   claim_id: 9980bad2-09bd-4034-8495-79b6fcd00ff5
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9980bad2-09bd-4034-8495-79b6fcd00ff5
 - text: '2017-10-04 memo: Elizondo cited DoD inaction on threats as reason'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:19080-19229
@@ -262,6 +290,7 @@ references:
   claim_id: 2e374f73-5524-4e67-a2e2-eccfc1998f6a
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2e374f73-5524-4e67-a2e2-eccfc1998f6a
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2e374f73-5524-4e67-a2e2-eccfc1998f6a
 - text: '2017-10-06 call: Elizondo said job too stressful on his family'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:19242-19340
@@ -270,6 +299,7 @@ references:
   claim_id: b8b97b7f-8c19-44c8-942a-f75c9f548ad1
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-b8b97b7f-8c19-44c8-942a-f75c9f548ad1
 - text: '2017-10-05 call: Elizondo said he had secretly been the program manager investigating
     UFOs'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -280,6 +310,7 @@ references:
   claim_id: a9fdac08-2b0f-44c1-a561-c123b6f98b2b
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a9fdac08-2b0f-44c1-a561-c123b6f98b2b
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-a9fdac08-2b0f-44c1-a561-c123b6f98b2b
 - text: Elizondo told Reid he had been secretly working for the Secretary of Defense
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20377-20470
@@ -288,6 +319,7 @@ references:
   claim_id: 2b8f0284-d740-4d28-a484-38c36244c891
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2b8f0284-d740-4d28-a484-38c36244c891
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2b8f0284-d740-4d28-a484-38c36244c891
 - text: 'Elizondo: nobody in OUSDI cleared for the secret program, would not discuss
     further'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -297,6 +329,7 @@ references:
   claim_id: a0528307-3306-4e89-8ebc-4fc8ffd1269f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0528307-3306-4e89-8ebc-4fc8ffd1269f
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-a0528307-3306-4e89-8ebc-4fc8ffd1269f
 - text: Reid discussed claims with senior officials, unable to substantiate
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:6282-6410
@@ -305,6 +338,7 @@ references:
   claim_id: 1b92d22c-f23a-4264-9b59-7f0440940c81
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1b92d22c-f23a-4264-9b59-7f0440940c81
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-1b92d22c-f23a-4264-9b59-7f0440940c81
 - text: Reid checked with two senior officials with knowledge of special access programs
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20481-20573
@@ -313,6 +347,7 @@ references:
   claim_id: e6945a2b-178e-4853-a87d-9737924084e9
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-e6945a2b-178e-4853-a87d-9737924084e9
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-e6945a2b-178e-4853-a87d-9737924084e9
 - text: Assessed collectively that Elizondo's claims were not credible
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20670-20778
@@ -321,6 +356,7 @@ references:
   claim_id: 861629de-1d09-4a17-a3e0-8d8f9553032c
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-861629de-1d09-4a17-a3e0-8d8f9553032c
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-861629de-1d09-4a17-a3e0-8d8f9553032c
 - text: Assessed that the second letter was not worthy of SecDef's personal attention
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20670-20778
@@ -329,6 +365,7 @@ references:
   claim_id: c7f5cde0-7845-46c1-be60-08b9b3e3da0a
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c7f5cde0-7845-46c1-be60-08b9b3e3da0a
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-c7f5cde0-7845-46c1-be60-08b9b3e3da0a
 - text: Elizondo completed all out-processing, including SAP/SCI debriefs, within
     24 hours
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -338,6 +375,7 @@ references:
   claim_id: 84a722e2-7d82-4891-b8f9-b0effb92214f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-84a722e2-7d82-4891-b8f9-b0effb92214f
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-84a722e2-7d82-4891-b8f9-b0effb92214f
 - text: OUSDI referred resignation circumstances to AFOSI for counterintelligence
     review
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -347,6 +385,7 @@ references:
   claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-67532264-8b2e-4625-a7db-b7ce342b5100
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-67532264-8b2e-4625-a7db-b7ce342b5100
 - text: AFOSI informal assessment found no wrongdoing, could not open formal investigation
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:19517-19663
@@ -355,6 +394,7 @@ references:
   claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f3a0eacc-cb62-4142-98f2-8cc496176525
 - text: In the YouTube video, Elizondo asserted he ran a sensitive Aerospace Threat
     Identification Program
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -364,6 +404,7 @@ references:
   claim_id: c0419a6c-6b4a-4f59-8b24-9309205de2fa
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-c0419a6c-6b4a-4f59-8b24-9309205de2fa
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-c0419a6c-6b4a-4f59-8b24-9309205de2fa
 - text: Elizondo said never-before-released footage from real government systems would
     be provided
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -373,6 +414,7 @@ references:
   claim_id: 14c0a53c-0e14-46d7-a021-74786c26bd87
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-14c0a53c-0e14-46d7-a021-74786c26bd87
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-14c0a53c-0e14-46d7-a021-74786c26bd87
 - text: Reid requested informal AFOSI review after discovering the video
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:6985-7285
@@ -383,6 +425,7 @@ references:
   claim_id: 38c72fef-5654-4931-bc67-5abb3c3c47f0
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-38c72fef-5654-4931-bc67-5abb3c3c47f0
 - text: AFOSI responsible for investigative support to OSD, including assigned personnel
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:7143-7285
@@ -391,6 +434,7 @@ references:
   claim_id: a0031e6c-3ea4-4987-8797-b2c60066d94a
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-a0031e6c-3ea4-4987-8797-b2c60066d94a
 - text: 'Late November 2017: AFOSI said insufficient information to open a case'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:7296-7446
@@ -399,6 +443,7 @@ references:
   claim_id: 7576f4ee-f8e5-4627-bcf1-55172f77e3d9
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-7576f4ee-f8e5-4627-bcf1-55172f77e3d9
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-7576f4ee-f8e5-4627-bcf1-55172f77e3d9
 - text: '2017-12-15: Reid notified OUSDI Security Officer based on NYT inquiry'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:7788-8050
@@ -409,6 +454,7 @@ references:
   claim_id: 8004f6a1-51ab-4d38-9ec4-14de5462301d
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-8004f6a1-51ab-4d38-9ec4-14de5462301d
 - text: '2017-12-17 broadcast: Elizondo affirmed his role and said ''we are not alone'''
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:8293-8402
@@ -417,6 +463,7 @@ references:
   claim_id: 45d49480-0848-4e85-a07e-d5034fe1eec5
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-45d49480-0848-4e85-a07e-d5034fe1eec5
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-45d49480-0848-4e85-a07e-d5034fe1eec5
 - text: '2017-12-18: OUSDI located August 2017 classified email requesting declassification
     help'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -427,6 +474,7 @@ references:
   claim_id: 11e5616e-a547-42ad-9d41-9c8b6a14fcf6
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-11e5616e-a547-42ad-9d41-9c8b6a14fcf6
 - text: OUSDI staff contacted the Navy civilian upon discovering the email
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:20915-20995
@@ -435,6 +483,7 @@ references:
   claim_id: 9ce1ac19-a34d-4dcd-bbed-02f2358cc202
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-9ce1ac19-a34d-4dcd-bbed-02f2358cc202
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-9ce1ac19-a34d-4dcd-bbed-02f2358cc202
 - text: Navy civilian said he told Elizondo he was not the release authority
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:21005-21122
@@ -443,6 +492,7 @@ references:
   claim_id: f04cedcf-822f-491f-8115-74df1c81c932
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-f04cedcf-822f-491f-8115-74df1c81c932
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-f04cedcf-822f-491f-8115-74df1c81c932
 - text: Navy civilian took no further action
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:21102-21122
@@ -450,6 +500,7 @@ references:
   claim_id: 37dab71b-5333-4581-9f09-719f27efac74
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-37dab71b-5333-4581-9f09-719f27efac74
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-37dab71b-5333-4581-9f09-719f27efac74
 - text: The August 2017 video was the same footage broadcast on national news on 2017-12-17
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:8620-8711
@@ -458,6 +509,7 @@ references:
   claim_id: 2c65246e-426c-4cec-8603-17f00dbd7c1e
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2c65246e-426c-4cec-8603-17f00dbd7c1e
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2c65246e-426c-4cec-8603-17f00dbd7c1e
 - text: OUSDI had not determined declassification status, process, or how it reached
     the media
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -468,6 +520,7 @@ references:
   claim_id: 28641d91-ce38-4499-878f-511ec87bd404
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-28641d91-ce38-4499-878f-511ec87bd404
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-28641d91-ce38-4499-878f-511ec87bd404
 - text: '2017-12-21: Reid met AFOSI agents to open a formal inquiry into mishandling
     classified materials'
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -477,6 +530,7 @@ references:
   claim_id: 5523afad-ef64-437d-89e3-4b1f5cc916ef
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5523afad-ef64-437d-89e3-4b1f5cc916ef
 - text: Deferred retirement defined as delayed benefit payment pending criteria
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:21199-21285
@@ -485,6 +539,7 @@ references:
   claim_id: 5828ea76-dc83-4c02-9b0e-56a77a46ea3f
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-5828ea76-dc83-4c02-9b0e-56a77a46ea3f
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-5828ea76-dc83-4c02-9b0e-56a77a46ea3f
 - text: Applies to employees with 5+ years' service departing before Minimum Retirement
     Age (55-57)
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -495,6 +550,7 @@ references:
   claim_id: 2844fb82-3be9-4e84-b0ba-7c6da11cfbc2
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2844fb82-3be9-4e84-b0ba-7c6da11cfbc2
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2844fb82-3be9-4e84-b0ba-7c6da11cfbc2
 - text: With five years' service, benefits can be collected as early as age 62
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:21492-21566
@@ -503,6 +559,7 @@ references:
   claim_id: 1e90303d-88ea-4d9a-a343-3408632a1958
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-1e90303d-88ea-4d9a-a343-3408632a1958
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-1e90303d-88ea-4d9a-a343-3408632a1958
 - text: With ten years' service, benefits collectable at Minimum Retirement Age with
     5%/year reduction under 62
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -512,6 +569,7 @@ references:
   claim_id: 2eb01062-13a6-47d5-9c35-ee3d5261e5dc
   record_hash: 871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a
   workbench_url: https://workbench.anomalica.is/871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a#claim-2eb01062-13a6-47d5-9c35-ee3d5261e5dc
+  inspection_url: /records/2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents#claim-2eb01062-13a6-47d5-9c35-ee3d5261e5dc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

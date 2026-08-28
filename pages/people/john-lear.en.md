@@ -33,7 +33,6 @@ references:
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
 - text: Lear said over a billion aliens were living in the mountains outside Las Vegas.
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:16:49.6-00:16:53.8

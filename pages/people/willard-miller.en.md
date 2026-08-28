@@ -120,7 +120,6 @@ references:
   claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
 - text: Previously served as a navy reservist on Admiral Thomas Wilson's staff
   source: In Plain Sight
   location: ch14, char 9689-9759
@@ -128,7 +127,6 @@ references:
   claim_id: 3c5a1c3c-1117-46f5-b7af-522b3e5231df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c5a1c3c-1117-46f5-b7af-522b3e5231df
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c5a1c3c-1117-46f5-b7af-522b3e5231df
 - text: Presented Wilson with evidence supporting a belief in a government cover-up
     of alien visitation
   source: In Plain Sight
@@ -141,7 +139,6 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
 - text: April 1997 Pentagon briefing held with Crawford and Hughes present
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1217-1381
@@ -159,7 +156,6 @@ references:
   claim_id: ade03666-fb02-471b-91e5-44b987726c58
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ade03666-fb02-471b-91e5-44b987726c58
 - text: Adamiak, Lovekin, Mitchell and Miller backed Greer's account of the meeting
   source: In Plain Sight
   location: ch14, char 23846-23991
@@ -168,7 +164,6 @@ references:
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-105688f2-9437-443c-8f5f-5666f6d5996e
 - text: Private two-hour conversation between Miller and Wilson after the briefing
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 1412-1527
@@ -186,7 +181,6 @@ references:
   claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-029cf75f-82ce-49d6-a5ab-6143ef4334fa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-029cf75f-82ce-49d6-a5ab-6143ef4334fa
 - text: 1998 DIA briefing of Lieutenant General Hughes on UFOs
   source: In Plain Sight
   location: ch14, char 18395-18635
@@ -197,7 +191,6 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: Greer and Miller invited back months later to discuss UAPs
   source: In Plain Sight
   location: ch14, char 23223-23369
@@ -206,7 +199,6 @@ references:
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
 - text: The Admiral Wilson Memo supports what the group said they were told
   source: In Plain Sight
   location: ch26, char 2846-3151
@@ -217,7 +209,6 @@ references:
   claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
 - text: Wilson, colleagues and Miller cast doubt on the memo's authenticity
   source: In Plain Sight
   location: ch26, char 24177-24303
@@ -226,7 +217,6 @@ references:
   claim_id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5
 - text: Miller spoke to Leslie Kean; Boston Globe articles referenced Wilson
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char 9814-9929

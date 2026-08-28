@@ -214,7 +214,6 @@ references:
   claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
 - text: In 1989 Lazar gave an anonymous interview to George Knapp on KLAS-TV describing
     work on a recovered flying saucer at S4
   source: In Plain Sight
@@ -226,7 +225,6 @@ references:
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: Jim Goodall met Lazar before he made the S4 allegation
   source: In Plain Sight
   location: ch13:19995-20095
@@ -235,7 +233,6 @@ references:
   claim_id: 121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
 - text: At their first meeting Lazar was a UFO sceptic who mocked John Lear
   source: In Plain Sight
   location: ch13:20222-20408
@@ -245,7 +242,6 @@ references:
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
 - text: Lazar once told Goodall he was a nuclear physicist who would not admit UFOs
     are real
   source: In Plain Sight
@@ -255,7 +251,6 @@ references:
   claim_id: 431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
 - text: Goodall's Area 51 source was confronted by armed security while treasure-hunting
     near the alleged S4 site
   source: In Plain Sight
@@ -269,7 +264,6 @@ references:
   claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
 - text: Lazar claimed a cover-up began after he went public, including men in black
     wiping his degree records
   source: In Plain Sight
@@ -279,7 +273,6 @@ references:
   claim_id: 706cdca3-7e30-4ba6-9845-e0569c3bdf59
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
 - text: Knapp rebutted denials that Lazar worked at Los Alamos, citing a news story
     and his own tour of the facility
   source: In Plain Sight
@@ -291,7 +284,6 @@ references:
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2578240-b430-4934-ae53-5e9e9911ac02
 - text: Jeremy Corbell located a witness Lazar said had vetted his Area 51 clearance
   source: In Plain Sight
   location: ch13:24124-24222
@@ -300,7 +292,6 @@ references:
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3f353e-2e00-45ff-945d-832286061739
 - text: Lazar speculates Edward Teller may have influenced his hiring at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 448-460
@@ -319,7 +310,6 @@ references:
   claim_id: bbb9cef6-bf38-4a8c-a209-92550070c0c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
 - text: Fravor attended the McMinnville UFO Festival with Lazar
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -389,7 +379,6 @@ references:
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
 - text: Fruehauf said Lazar's account was very accurate and sounded totally believable
   source: In Plain Sight
   location: ch13:22991-23149
@@ -399,7 +388,6 @@ references:
   claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72b4ac21-be05-4071-b16e-19dd070530cc
 - text: Fruehauf said he knew witnesses who saw Lazar at Area 51
   source: In Plain Sight
   location: ch13:23155-23221
@@ -407,7 +395,6 @@ references:
   claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
 - text: Barry trained Lazar at S4
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
   location: 00:22:45.1-00:22:46.2
@@ -770,6 +757,7 @@ references:
   claim_id: 48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
 - text: 'Ramsay: Lazar said the Meier beam ship matched craft he was familiar with'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:03:39.0-00:03:53.9
@@ -779,6 +767,7 @@ references:
   claim_id: 27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
 - text: 'Ramsay: he and Lazar agree the later Meier material is questionable'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
   location: 00:03:53.9-00:03:59.6
@@ -786,6 +775,7 @@ references:
   claim_id: 44964627-c9e9-421b-9769-df2b17f5534b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-44964627-c9e9-421b-9769-df2b17f5534b
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-44964627-c9e9-421b-9769-df2b17f5534b
 - text: 'Ramsay: the beam ship shown to Lazar matches the 1975 photo, perhaps not
     in size'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -822,6 +812,7 @@ references:
   claim_id: 4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
 - text: 'Nanstiel: military briefing papers described the Greys viewing humans as
     containers'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel

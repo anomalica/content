@@ -54,7 +54,6 @@ references:
   claim_id: c5f1048d-e83e-4092-8a3a-5cbf50fff505
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f1048d-e83e-4092-8a3a-5cbf50fff505
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5f1048d-e83e-4092-8a3a-5cbf50fff505
 - text: Retired Marine aviator and head of NICAP, a civilian research organisation
   source: American Cosmic
   location: ch4:43149-43284
@@ -71,7 +70,6 @@ references:
   claim_id: ab0f8e65-e4a8-4f76-8c52-71a859d7b376
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab0f8e65-e4a8-4f76-8c52-71a859d7b376
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ab0f8e65-e4a8-4f76-8c52-71a859d7b376
 - text: Published the article 'Flying Saucers Are Real' in True magazine in late 1949
   source: In Plain Sight
   location: ch8:2970-3072
@@ -80,7 +78,6 @@ references:
   claim_id: 20762c32-caf6-4ca0-b049-7110c54f9a7e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20762c32-caf6-4ca0-b049-7110c54f9a7e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-20762c32-caf6-4ca0-b049-7110c54f9a7e
 - text: Released the book The Flying Saucers Are Real in January 1950
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
   location: 00:10:48.8-00:10:57.4
@@ -99,7 +96,6 @@ references:
   claim_id: 994493a8-70e4-4b3c-a61b-ec95bb4e8332
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-994493a8-70e4-4b3c-a61b-ec95bb4e8332
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-994493a8-70e4-4b3c-a61b-ec95bb4e8332
 - text: Suggested the government was hiding the truth and that officials had retrieved
     crashed alien vehicles
   source: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
@@ -134,7 +130,6 @@ references:
   claim_id: 9842b1a1-4966-49c4-92a1-460bf896a8fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9842b1a1-4966-49c4-92a1-460bf896a8fd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9842b1a1-4966-49c4-92a1-460bf896a8fd
 - text: 'Vallée: the Hills told Keyhoe and later their therapist a story of nonhuman
     beings'
   source: American Cosmic
@@ -157,7 +152,6 @@ references:
   claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
 - text: Australia's Director of Air Force Intelligence said Turner erred in quoting
     Keyhoe
   source: In Plain Sight
@@ -168,7 +162,6 @@ references:
   claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

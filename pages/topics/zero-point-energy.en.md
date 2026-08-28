@@ -134,7 +134,6 @@ references:
   claim_id: c5da5a00-587b-4135-aff3-ebd18432bca8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5da5a00-587b-4135-aff3-ebd18432bca8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5da5a00-587b-4135-aff3-ebd18432bca8
 - text: Tom DeLonge said one inch of air could power the United States for hundreds
     of years
   source: In Plain Sight
@@ -143,7 +142,6 @@ references:
   claim_id: ae2363ed-3860-43dc-a74f-32e209f64e6f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae2363ed-3860-43dc-a74f-32e209f64e6f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ae2363ed-3860-43dc-a74f-32e209f64e6f
 - text: When pressed by Joe Rogan, DeLonge said Rogan did not know what he knew and
     he could not tell him
   source: In Plain Sight
@@ -154,7 +152,6 @@ references:
   claim_id: 4bd0fdaf-487e-4698-b3cb-713e7599dfcf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bd0fdaf-487e-4698-b3cb-713e7599dfcf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4bd0fdaf-487e-4698-b3cb-713e7599dfcf
 - text: Gordon Novel's book quoted 'Wally Katz' on funding Puthoff's zero-point energy
     research while keeping the antigravity system a 'Supreme Cosmic Secret'
   source: In Plain Sight
@@ -167,7 +164,6 @@ references:
   claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b8354c6-110a-4284-9c52-9fa70bbda8e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6b8354c6-110a-4284-9c52-9fa70bbda8e6
 - text: Harold Puthoff is an expert on the theory of zero-point energy, positing free
     energy exists in the vacuum of space
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -177,7 +173,6 @@ references:
   claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
 - text: Puthoff proposed the energy to warp space-time might originate from vacuum
     fluctuations, based on zero-point energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -191,7 +186,6 @@ references:
   claim_id: 9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
 - text: Whitley Strieber considers zero-point energy the one known force that might
     enable limitless propulsion in small UFOs
   source: The Fourth Mind

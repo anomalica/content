@@ -205,7 +205,6 @@ references:
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
 - text: In his interview with Billy Cox, Shannon gave the impression he actually knew
     Wilson well.
   source: In Plain Sight
@@ -215,7 +214,6 @@ references:
   claim_id: 90ef622c-9b1d-4e47-803d-6e23c24c3e5a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90ef622c-9b1d-4e47-803d-6e23c24c3e5a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90ef622c-9b1d-4e47-803d-6e23c24c3e5a
 - text: Shannon told Cox he did not know the document's provenance, knew both Wilson
     and Davis, called Wilson honourable, and apologised if it embarrassed him.
   source: In Plain Sight
@@ -227,7 +225,6 @@ references:
   claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
 - text: Shannon did not deny to Cox that he had facilitated a meeting between Wilson
     and Davis, or that it happened.
   source: In Plain Sight
@@ -237,7 +234,6 @@ references:
   claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

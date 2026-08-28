@@ -164,7 +164,6 @@ references:
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
 - text: Most subjects displayed remote-viewing talent from the outset
   source: Remote Viewing Secrets
   location: ch16:3847-3958

@@ -229,7 +229,6 @@ references:
   claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49032c1d-f626-4c65-bb29-74a20a51363a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-49032c1d-f626-4c65-bb29-74a20a51363a
 - text: Menzel never disclosed this relationship, even to his own university
   source: In Plain Sight
   location: ch7:22861-22922
@@ -237,7 +236,6 @@ references:
   claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
 - text: Friedman accused Menzel of being a deep-cover disinformation agent tasked
     with shutting down UAP stories
   source: In Plain Sight
@@ -247,7 +245,6 @@ references:
   claim_id: 482de68a-2d9c-4950-a617-a06f3a3379f0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-482de68a-2d9c-4950-a617-a06f3a3379f0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-482de68a-2d9c-4950-a617-a06f3a3379f0
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

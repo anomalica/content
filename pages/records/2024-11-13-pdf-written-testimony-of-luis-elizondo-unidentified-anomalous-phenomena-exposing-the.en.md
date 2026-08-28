@@ -20,6 +20,7 @@ references:
   claim_id: f1675da1-caf7-4371-9184-b9eeee4e327a
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-f1675da1-caf7-4371-9184-b9eeee4e327a
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-f1675da1-caf7-4371-9184-b9eeee4e327a
 - text: Elizondo asserts UAP are real
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -28,6 +29,7 @@ references:
   claim_id: e07345ec-95bd-48c0-81c2-a63b9f43dc38
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-e07345ec-95bd-48c0-81c2-a63b9f43dc38
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-e07345ec-95bd-48c0-81c2-a63b9f43dc38
 - text: Advanced technologies not made by any government are monitoring sensitive
     military installations
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -38,6 +40,7 @@ references:
   claim_id: 2f1240b1-a901-4f86-b296-48ea62073f57
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-2f1240b1-a901-4f86-b296-48ea62073f57
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-2f1240b1-a901-4f86-b296-48ea62073f57
 - text: The US and some adversaries possess UAP technologies
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -46,6 +49,7 @@ references:
   claim_id: 1715f44e-be28-4da8-998a-e0ac44fc214d
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-1715f44e-be28-4da8-998a-e0ac44fc214d
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-1715f44e-be28-4da8-998a-e0ac44fc214d
 - text: A multi-decade secretive arms race is funded by misallocated taxpayer dollars
     and hidden from elected representatives
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -57,6 +61,7 @@ references:
   claim_id: 465d1d09-e1fb-4166-b04f-e038f541fd60
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-465d1d09-e1fb-4166-b04f-e038f541fd60
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-465d1d09-e1fb-4166-b04f-e038f541fd60
 - text: Elizondo managed a Special Access Programme on behalf of the White House and
     the National Security Council
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -67,6 +72,7 @@ references:
   claim_id: 6d7481e3-431a-4762-ad7f-b8fc78f0bf0c
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-6d7481e3-431a-4762-ad7f-b8fc78f0bf0c
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-6d7481e3-431a-4762-ad7f-b8fc78f0bf0c
 - text: Consequences of excessive secrecy were most apparent after the September 11
     attacks
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -77,6 +83,7 @@ references:
   claim_id: edad8984-4bec-44d2-9c15-458f5d1bade1
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-edad8984-4bec-44d2-9c15-458f5d1bade1
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-edad8984-4bec-44d2-9c15-458f5d1bade1
 - text: UAP programmes have operated without congressional oversight, executive responsiveness,
     or an informed public
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -87,6 +94,7 @@ references:
   claim_id: 2c6e04ad-7e6b-4609-a25e-868a18fe4db7
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-2c6e04ad-7e6b-4609-a25e-868a18fe4db7
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-2c6e04ad-7e6b-4609-a25e-868a18fe4db7
 - text: Much of Elizondo's government UAP work remains classified
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -95,6 +103,7 @@ references:
   claim_id: ca32eb4d-e3cc-4981-a79f-c353b9797b8b
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ca32eb4d-e3cc-4981-a79f-c353b9797b8b
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-ca32eb4d-e3cc-4981-a79f-c353b9797b8b
 - text: A small government cadre created a culture of suppression and intimidation
     against UAP witnesses
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -107,6 +116,7 @@ references:
   claim_id: 34567013-f7e3-41d0-b2d6-e158c2c25587
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-34567013-f7e3-41d0-b2d6-e158c2c25587
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-34567013-f7e3-41d0-b2d6-e158c2c25587
 - text: The Pentagon Public Affairs Office employs a psychological operations officer
     as the sole point of contact for UAP enquiries
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -118,6 +128,7 @@ references:
   claim_id: 6a00bb53-30a2-48cb-a2a8-c92d5659d828
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-6a00bb53-30a2-48cb-a2a8-c92d5659d828
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-6a00bb53-30a2-48cb-a2a8-c92d5659d828
 - text: Elizondo and colleagues provided classified testimony to the DoD and Intelligence
     Community Inspector General
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -128,6 +139,7 @@ references:
   claim_id: ba098ca7-7487-4c04-bbfe-13d8dae56529
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ba098ca7-7487-4c04-bbfe-13d8dae56529
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-ba098ca7-7487-4c04-bbfe-13d8dae56529
 - text: Many UAP witnesses were subsequently targeted with threats to careers, clearances,
     and lives
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -139,6 +151,7 @@ references:
   claim_id: bac84a44-6471-48f8-8c8a-b49feec54ab7
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-bac84a44-6471-48f8-8c8a-b49feec54ab7
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-bac84a44-6471-48f8-8c8a-b49feec54ab7
 - text: Multiple agencies including the White House, CIA, NASA, Pentagon, and Department
     of Energy have UAP roles but no single authority is in charge
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -150,6 +163,7 @@ references:
   claim_id: 70da7ed5-263e-4cdb-81d8-7118fff139a9
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-70da7ed5-263e-4cdb-81d8-7118fff139a9
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-70da7ed5-263e-4cdb-81d8-7118fff139a9
 - text: Congress and the President should create a single UAP point of contact for
     a whole-of-government approach
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -160,6 +174,7 @@ references:
   claim_id: d69f9294-ea1c-4856-80b9-c83f26501b95
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-d69f9294-ea1c-4856-80b9-c83f26501b95
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-d69f9294-ea1c-4856-80b9-c83f26501b95
 - text: A national UAP strategy is needed to restore public trust through transparency
     and whole-of-government coordination
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -173,6 +188,7 @@ references:
   claim_id: 51808e05-0ed9-4339-87dd-59cd11a55288
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-51808e05-0ed9-4339-87dd-59cd11a55288
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-51808e05-0ed9-4339-87dd-59cd11a55288
 - text: Congress should create whistleblower protections, use subpoena power, and
     block funding for UAP efforts hidden from oversight
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -186,6 +202,7 @@ references:
   claim_id: 0b8b1789-e1db-4803-85b6-e5449211897a
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-0b8b1789-e1db-4803-85b6-e5449211897a
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-0b8b1789-e1db-4803-85b6-e5449211897a
 - text: Nancy Mace served as Chairwoman and Glenn Grothman as Chairman, with Gerald
     Connolly and Robert Garcia as Ranking Members
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -196,6 +213,7 @@ references:
   claim_id: be0cb3c8-5288-4f40-90ef-0d3d3623b154
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
   workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-be0cb3c8-5288-4f40-90ef-0d3d3623b154
+  inspection_url: /records/2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the#claim-be0cb3c8-5288-4f40-90ef-0d3d3623b154
 ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6

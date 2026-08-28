@@ -800,6 +800,7 @@ references:
   claim_id: 8ee4bcc1-6e04-4479-94e1-0147441ec243
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-8ee4bcc1-6e04-4479-94e1-0147441ec243
 - text: Nanstiel believes the beings return every 20 years for a four-year rotation
     of frequent encounters.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -832,6 +833,7 @@ references:
   claim_id: b5bbd0d5-41ad-41cf-afd6-925153f16fff
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-b5bbd0d5-41ad-41cf-afd6-925153f16fff
 - text: During encounters Nanstiel could move his head but not his body.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -928,6 +930,7 @@ references:
   claim_id: 388cea29-a282-4323-9887-20c5c6ab2035
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-388cea29-a282-4323-9887-20c5c6ab2035
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-388cea29-a282-4323-9887-20c5c6ab2035
 - text: Ramsay argues the profit-motive dismissal is invalid given the many unpublished
     tellers of the same story.
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel

@@ -139,7 +139,6 @@ references:
   claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
 - text: Coulthart's description of Novel's recurring presence at major events.
   source: In Plain Sight
   location: ch27:4322-4586
@@ -150,7 +149,6 @@ references:
   claim_id: 014e9ab4-e169-46f5-9921-d2231ab0c866
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-014e9ab4-e169-46f5-9921-d2231ab0c866
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-014e9ab4-e169-46f5-9921-d2231ab0c866
 - text: Sur Novel's recollection of his father's Watergate and black-ops ties.
   source: In Plain Sight
   location: ch27:6557-7082
@@ -164,7 +162,6 @@ references:
   claim_id: 757847a6-3bc3-47f3-9a87-207f48601acc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757847a6-3bc3-47f3-9a87-207f48601acc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757847a6-3bc3-47f3-9a87-207f48601acc
 - text: Sergei Khrushchev's recollection of his father's decision timing.
   source: Dark Mission
   location: ch10:73367-73595
@@ -235,7 +232,6 @@ references:
   claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
 - text: Greer's account of Clinton's reported fear of assassination.
   source: In Plain Sight
   location: ch14:6076-6364
@@ -246,7 +242,6 @@ references:
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
 - text: Grusch's inconclusive view on the records release and CIA/organised-crime
     involvement.
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -267,6 +262,7 @@ references:
   claim_id: 8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

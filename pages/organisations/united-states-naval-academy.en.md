@@ -25,7 +25,6 @@ references:
   claim_id: edb40477-b5c8-48c6-ae83-c677a2c63658
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-edb40477-b5c8-48c6-ae83-c677a2c63658
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-edb40477-b5c8-48c6-ae83-c677a2c63658
 - text: The Marine Corps recommended Fravor to attend the Naval Academy
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'

@@ -426,7 +426,6 @@ references:
   claim_id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
 - text: Wilson served as Director of Intelligence for the United States Atlantic Command
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:191-251
@@ -434,7 +433,6 @@ references:
   claim_id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
 - text: Wilson served as Associate Director of Central Intelligence for Military Support
     at the CIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -444,7 +442,6 @@ references:
   claim_id: 5754f9d2-d959-4031-ba37-567ab2448803
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5754f9d2-d959-4031-ba37-567ab2448803
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5754f9d2-d959-4031-ba37-567ab2448803
 - text: Wilson later became the 13th Director of the Defense Intelligence Agency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:260-326
@@ -452,7 +449,6 @@ references:
   claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
 - text: In 1997 Wilson was Deputy Director of the DIA and Assistant J-2, reporting
     to Director Patrick Hughes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -472,7 +468,6 @@ references:
   claim_id: ac8e4aa1-3fcc-4e54-a82b-38546be1567c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
 - text: Mitchell's renown as an astronaut opened the way for an April 1997 briefing
     with Wilson
   source: In Plain Sight
@@ -483,7 +478,6 @@ references:
   claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
 - text: Greer sent Wilson's staff a leaked NRO document listing SAP codenames ahead
     of the April 1997 visit
   source: In Plain Sight
@@ -495,7 +489,6 @@ references:
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
 - text: Greer, Miller and Mitchell gave a talk in a Pentagon conference room with
     Crawford and Hughes present, April 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -514,7 +507,6 @@ references:
   claim_id: a75906a3-36eb-4985-95df-d37722088e7f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a75906a3-36eb-4985-95df-d37722088e7f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a75906a3-36eb-4985-95df-d37722088e7f
 - text: Greer, Miller and Mitchell believed they presented strong witness evidence
     of a cover-up
   source: In Plain Sight
@@ -527,7 +519,6 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
 - text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
@@ -536,7 +527,6 @@ references:
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
 - text: In 1998 Greer and Miller were invited back to brief DIA Director Hughes on
     UFOs
   source: In Plain Sight
@@ -548,7 +538,6 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: A document known as the Admiral Wilson Memo purports to detail what Wilson
     admitted to Davis in Las Vegas in 2002
   source: In Plain Sight
@@ -558,7 +547,6 @@ references:
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
 - text: Davis claims to have met the recently retired DIA Director in a car in Las
     Vegas on 2002-10-16
   source: In Plain Sight
@@ -569,7 +557,6 @@ references:
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
 - text: Wilson arrived ten minutes late to the EG&G building meeting with two uniformed
     Navy officers, in civilian clothes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -750,7 +737,6 @@ references:
   claim_id: e432db08-8382-45d4-bcb7-378bea035b61
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e432db08-8382-45d4-bcb7-378bea035b61
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e432db08-8382-45d4-bcb7-378bea035b61
 - text: Wilson complained to Senior Review Group members inside the Pentagon
   source: In Plain Sight
   location: ch26:22371-22596
@@ -760,7 +746,6 @@ references:
   claim_id: 6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
 - text: The Senior Review Group would sustain the contractor's access denial
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:21364-21434
@@ -807,7 +792,6 @@ references:
   claim_id: 09f77fb1-e637-41d7-816f-d286d3770264
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09f77fb1-e637-41d7-816f-d286d3770264
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-09f77fb1-e637-41d7-816f-d286d3770264
 - text: Puthoff, asked about the memo in February 2020, said Wilson was interviewed
     by Davis but declined further comment
   source: In Plain Sight
@@ -820,7 +804,6 @@ references:
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
 - text: In June 2020 Wilson issued a strong denial that the meeting with Davis ever
     happened
   source: In Plain Sight
@@ -830,7 +813,6 @@ references:
   claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da5290a6-646b-4363-80ba-139ad6fb568e
 - text: Wilson's denial letter called the entire memo pure fiction
   source: In Plain Sight
   location: ch26:11719-11879
@@ -839,7 +821,6 @@ references:
   claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
 - text: Wilson denied visiting Las Vegas in 2002 and denied meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
@@ -848,7 +829,6 @@ references:
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
 - text: Wilson said his only Las Vegas visit was a Carrier Air Wing Three deployment
     to Nellis AFB in 1979 or 1980
   source: In Plain Sight
@@ -858,7 +838,6 @@ references:
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
 - text: Coulthart found no one prepared to confirm the memo's authenticity on the
     record
   source: In Plain Sight
@@ -869,7 +848,6 @@ references:
   claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85914fc6-ffc6-46b0-a886-099712049ef5
 - text: Coulthart concluded the memo's claims should be treated as a hoax document
     until proved otherwise
   source: In Plain Sight
@@ -881,7 +859,6 @@ references:
   claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-12d9e47e-a454-4115-a5cb-dd8834362356
 - text: Wilson has categorically denied the meeting described in the memo ever took
     place
   source: In Plain Sight
@@ -890,7 +867,6 @@ references:
   claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

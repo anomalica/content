@@ -88,7 +88,6 @@ references:
   claim_id: 7698357a-332c-49e7-94d4-e8c410476a97
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7698357a-332c-49e7-94d4-e8c410476a97
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7698357a-332c-49e7-94d4-e8c410476a97
 - text: Day was the USS Princeton's Operations Specialist Senior Chief, coordinating
     carrier-group protection systems
   source: In Plain Sight
@@ -98,7 +97,6 @@ references:
   claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
 - text: Day was manning the radar aboard USS Princeton during the encounter
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:14:20.4-00:14:23.8
@@ -116,7 +114,6 @@ references:
   claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
 - text: From 10 November, Day tracked unidentified objects with no transponder, clustering
     in groups of five to ten, at high altitude
   source: In Plain Sight
@@ -127,7 +124,6 @@ references:
   claim_id: 5685dfec-b085-4bf5-b00f-b6118b2dc58d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
 - text: Day verified the tracks using the Cooperative Engagement Capability (CEC)
     system
   source: In Plain Sight
@@ -137,7 +133,6 @@ references:
   claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d6e8aa35-cf54-4741-826b-146330acc778
 - text: Day observed a formation of unidentified objects rather than the simulated
     adversary aircraft expected
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -174,7 +169,6 @@ references:
   claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
 - text: Day confirmed USS Nimitz's radar was tracking the same cluster
   source: In Plain Sight
   location: ch16:3446-3511
@@ -182,7 +176,6 @@ references:
   claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
 - text: Day said corroborating returns from multiple systems made false readings extremely
     unlikely
   source: In Plain Sight
@@ -193,7 +186,6 @@ references:
   claim_id: d07295d5-c39e-45d6-b88b-7b43bfc09591
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
 - text: The cluster was at approximately 24,000 metres or higher, with some contacts
     at approximately 8,500 metres
   source: In Plain Sight
@@ -203,7 +195,6 @@ references:
   claim_id: b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
 - text: Day calculated the objects plummeted in about 0.78 seconds from 24,000 metres
     to hover between 8,500 and 15 metres above the sea
   source: In Plain Sight
@@ -214,7 +205,6 @@ references:
   claim_id: 223e096a-0e46-4598-afcf-9329fee3d847
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-223e096a-0e46-4598-afcf-9329fee3d847
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-223e096a-0e46-4598-afcf-9329fee3d847
 - text: At a 2019 UFO conference, Day described the objects as 'raining UFOs' making
     a repeated sound down to the water
   source: In Plain Sight
@@ -225,7 +215,6 @@ references:
   claim_id: 18b5b5b6-6955-4f5b-8e28-11d30c874670
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
 - text: Day recommended to Captain James Smith that aircraft investigate; Smith concurred
   source: In Plain Sight
   location: ch16:6428-6542
@@ -234,7 +223,6 @@ references:
   claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
 - text: Day tracked the object on radar during David Fravor's intercept
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:21.5-00:16:26.0
@@ -251,7 +239,6 @@ references:
   claim_id: d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
 - text: Day said he decided the objects posed a serious threat to air navigation
   source: In Plain Sight
   location: ch16:6212-6284
@@ -259,7 +246,6 @@ references:
   claim_id: d9fe8a87-45d2-49b5-a2de-08c78f0ff188
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
 - text: Day said he is very sure the objects were real, solid objects
   source: In Plain Sight
   location: ch16:1985-2131
@@ -268,7 +254,6 @@ references:
   claim_id: 393f153c-e3e8-4bb9-90d5-24ee2dfb499b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
 - text: Day said he believes some objects were underwater just before ascending to
     about 24,000 metres, above his radar's scan volume
   source: In Plain Sight
@@ -279,7 +264,6 @@ references:
   claim_id: a02d1ff4-c8d9-4ddf-abf4-08419751336b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
 - text: Day said he learned from Princeton anti-ballistic missile defence crewmen
     that they had tracked some objects from orbit
   source: In Plain Sight
@@ -290,7 +274,6 @@ references:
   claim_id: e3237084-21a3-4c8c-bd39-62aec0989d0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
 - text: Day said he believes some objects came from space, though he did not see them
     on his own radar
   source: In Plain Sight
@@ -300,7 +283,6 @@ references:
   claim_id: e2f6df57-3837-46aa-8f34-3677b7309d06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
 - text: Day said he considers the full video would have to be at least ten minutes,
     based on standard 'tapes on' practice before an intercept
   source: In Plain Sight
@@ -311,7 +293,6 @@ references:
   claim_id: 3b796af5-0995-4f32-a912-395466e1f818
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b796af5-0995-4f32-a912-395466e1f818
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b796af5-0995-4f32-a912-395466e1f818
 - text: The morning after, Day went to the comms room for a copy of the radio traffic
     to write an after-action report
   source: In Plain Sight
@@ -322,7 +303,6 @@ references:
   claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-922a56a4-1aba-4fed-86c2-15785656b43c
 - text: Day discovered the radio communications data had been erased from the optical
     disk, though the time stamps remained
   source: In Plain Sight
@@ -334,7 +314,6 @@ references:
   claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
 - text: Day said he considers it should not have been possible for the data to go
     missing with time stamps intact, yet it happened
   source: In Plain Sight
@@ -344,7 +323,6 @@ references:
   claim_id: cb674f5f-8ce7-4149-82d1-b902fb4038bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
 - text: Day recalled his captain telling him he thought the objects were spontaneously
     forming ice falling from space
   source: In Plain Sight
@@ -355,7 +333,6 @@ references:
   claim_id: b57d2f64-6c54-42ab-9df0-e6f14f5f4893
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
 - text: Day said he considers that explanation absurd
   source: In Plain Sight
   location: ch16:21290-21328
@@ -363,7 +340,6 @@ references:
   claim_id: 9439c998-3d90-4e23-a7ce-4eb88f4d9955
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
 - text: Day said his captain left him with the impression he knew more than he was
     letting on
   source: In Plain Sight
@@ -373,7 +349,6 @@ references:
   claim_id: 7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
 - text: According to Ross Coulthart, the encounter had a profound effect on Day, rocking
     his world view
   source: In Plain Sight
@@ -383,7 +358,6 @@ references:
   claim_id: 2fd56e58-c76d-42ab-b788-c0db94d8b876
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
 - text: Coulthart said the g-forces implied by the acceleration Day observed on radar
     would make human survival impossible
   source: In Plain Sight
@@ -393,7 +367,6 @@ references:
   claim_id: bc582bf2-38cb-4b91-98da-49d9e021cfd5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

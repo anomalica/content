@@ -180,7 +180,6 @@ references:
   claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-697c81f3-829c-482a-8d35-ca95c63e94c5
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-697c81f3-829c-482a-8d35-ca95c63e94c5
 - text: Saint John Hunt's account of his father's tape names Johnson as the 'top man'
     directing the assassination plot
   source: Dark Mission
@@ -211,7 +210,6 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

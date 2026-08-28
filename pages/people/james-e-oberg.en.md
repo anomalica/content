@@ -77,7 +77,6 @@ references:
   claim_id: 8b0a9a42-d5aa-447d-97bd-922cc98ce41b
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-8b0a9a42-d5aa-447d-97bd-922cc98ce41b
 - text: Oberg dismissed the STS-80 disk-like object event as identical to STS-48 and
     numerous other shuttle-flight scenes
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
@@ -235,7 +234,6 @@ references:
   claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c37f328-192b-410d-b232-7a7fa1bd9144
 - text: Oberg was doubtful about AATIP, citing prosaic events and human perceptual
     traits as explanations
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -246,7 +244,6 @@ references:
   claim_id: fd6369cc-93c0-41d3-9afc-58c8e4436f24
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-fd6369cc-93c0-41d3-9afc-58c8e4436f24
 - text: Oberg said many people are active in the air and don't want others to know,
     happy to lurk unrecognised or stir up noise as camouflage
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -258,7 +255,6 @@ references:
   claim_id: 1865e771-b7ed-48c8-98a3-269a93349144
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-1865e771-b7ed-48c8-98a3-269a93349144
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-1865e771-b7ed-48c8-98a3-269a93349144
 - text: Oberg said he welcomed UFO research and considered there could well be a 'pearl
     there'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -269,7 +265,6 @@ references:
   claim_id: 9140ebaf-97bc-404b-b75a-2736be5ce077
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9140ebaf-97bc-404b-b75a-2736be5ce077
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

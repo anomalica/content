@@ -82,7 +82,6 @@ references:
   claim_id: ad2420a8-5948-484e-ab71-438f009534f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad2420a8-5948-484e-ab71-438f009534f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad2420a8-5948-484e-ab71-438f009534f7
 - text: Howe says the bismuth/magnesium samples will levitate in the right magnetic
     field
   source: In Plain Sight
@@ -93,7 +92,6 @@ references:
   claim_id: cde57871-30e0-4600-8925-7e43d6192d40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde57871-30e0-4600-8925-7e43d6192d40
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde57871-30e0-4600-8925-7e43d6192d40
 - text: A university scientist found a sample sent by Howe was 99 per cent aluminium
   source: In Plain Sight
   location: ch23:6236-6381
@@ -102,7 +100,6 @@ references:
   claim_id: a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
 - text: Howe's website describes a piece as bismuth/magnesium zinc from a wedge-shaped
     UFO near White Sands
   source: In Plain Sight
@@ -112,7 +109,6 @@ references:
   claim_id: 0e8a73c4-8820-4f3b-83fc-94b67d12c25c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
 - text: New Jersey exotic metals manufacturer told Howe such layering is not industrially
     achievable
   source: In Plain Sight
@@ -123,7 +119,6 @@ references:
   claim_id: 14004d06-6025-47ca-921e-c6f250a9a0ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
 - text: Unnamed scientist quoted by Howe speculated on a fractal wave pattern in the
     layers
   source: In Plain Sight
@@ -134,7 +129,6 @@ references:
   claim_id: 6c490d29-5849-417f-8b70-cde4050412fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c490d29-5849-417f-8b70-cde4050412fd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c490d29-5849-417f-8b70-cde4050412fd
 - text: 'Puthoff''s 2012 letter: field tests produced no anomalous result'
   source: In Plain Sight
   location: ch24:3163-3486
@@ -145,7 +139,6 @@ references:
   claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
 - text: 'Puthoff''s 2012 letter: lacked equipment to test at 4.76-5.66 terahertz'
   source: In Plain Sight
   location: ch24:3932-4145
@@ -155,7 +148,6 @@ references:
   claim_id: f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
 - text: Coulthart on the 1996 letter's likely addressee and possible Howe/Bell collaborator
   source: In Plain Sight
   location: ch25:13360-13539
@@ -165,7 +157,6 @@ references:
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
 - text: Coulthart suspects the letter was forwarded to Edgar Mitchell by Howe or Bell
   source: In Plain Sight
   location: ch25:14363-14590
@@ -175,7 +166,6 @@ references:
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2248f7a6-452a-4431-9493-e12fee5807d0
 - text: Howe received a phone call from the anonymous army sergeant letter writer
   source: In Plain Sight
   location: ch23:3911-4131
@@ -185,7 +175,6 @@ references:
   claim_id: cd0cbc60-c268-46de-b5d5-7f1870cec471
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
 - text: C-130 lightning crash predates the sergeant's letters to Bell and Howe by
     18 years
   source: In Plain Sight
@@ -197,7 +186,6 @@ references:
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36d39e48-8642-4594-8f45-e75651455626
 - text: 'Strieber: Howe reported no blood found at the 1979 Elsie mutilation site'
   source: The Fourth Mind
   location: ch11:33841-33942
@@ -218,6 +206,7 @@ references:
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-58060803-f2bc-409b-b0a5-03de88065905
 - text: 'Nanstiel: big-nosed Greys as Sumerian-gods engineering emissaries, discussed
     by Howe in a documentary'
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel

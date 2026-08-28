@@ -131,6 +131,7 @@ references:
   claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
 - text: Jason Samosa said Ryan Bledsoe recounted Jim Semivan telling him the Bledsoe
     family are thought to be hybrids with non-human DNA
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

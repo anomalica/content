@@ -67,7 +67,6 @@ references:
   claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1725b8da-9347-48db-b207-3a49505ddb8c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1725b8da-9347-48db-b207-3a49505ddb8c
 - text: Condon led the Condon Committee study of UFOs at the University of Colorado
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -97,7 +96,6 @@ references:
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
 - text: In 1967 the University of Colorado UFO Project began spending 512,000 US dollars
     given to Condon by the Pentagon
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -170,7 +168,6 @@ references:
   claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
 - text: The 1968 Condon Report rejected the extra-terrestrial hypothesis
   source: In Plain Sight
   location: ch10:23018-23130
@@ -179,7 +176,6 @@ references:
   claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e237f91-124e-4e05-9646-c98cf65ca991
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4e237f91-124e-4e05-9646-c98cf65ca991
 - text: Condon's report gave the USAF the justification it sought to close Project
     Blue Book
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -189,7 +185,6 @@ references:
   claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
 - text: The Condon Committee inquiry, chaired by Condon, declared the UAP topic devoid
     of scientific merit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -200,7 +195,6 @@ references:
   claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
 - text: Harry Turner's paper criticised the 1968 Condon Committee report
   source: In Plain Sight
   location: ch11:2213-2352
@@ -209,7 +203,6 @@ references:
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
 - text: Condon fired the minority group from the committee after the internal memorandum
     was published, and ran the project without serious consideration of the phenomenon
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About

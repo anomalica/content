@@ -424,7 +424,6 @@ references:
   claim_id: 826683ed-2157-4692-85d4-8e9d9df2a863
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-826683ed-2157-4692-85d4-8e9d9df2a863
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-826683ed-2157-4692-85d4-8e9d9df2a863
 - text: FY2022 NDAA tasked AARO with coordinating UAP detection, identification and
     investigation across DoD and federal agencies
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -437,7 +436,6 @@ references:
   claim_id: 02bcfdba-d8f1-4475-a665-539a1fa9e66c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
 - text: FY2022 NDAA assigned AARO, under OUSDI, responsibility for synchronising and
     standardising UAP incident collection, analysis and identification
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -448,7 +446,6 @@ references:
   claim_id: 555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
 - text: AARO's mission is to detect, identify and characterise objects of interest
     near military areas and mitigate threats
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -462,7 +459,6 @@ references:
   claim_id: 39831d97-5619-4c9e-af0d-42ca504938d7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39831d97-5619-4c9e-af0d-42ca504938d7
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-39831d97-5619-4c9e-af0d-42ca504938d7
 - text: IG recommended the Under Secretary of Defense for Intelligence and Security,
     with AARO, issue a UAP policy
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -476,7 +472,6 @@ references:
   claim_id: b2461f07-88ad-4e00-809f-b213d1ff431c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
 - text: 'AARO organised around four functions: analysis, operations, science and technology,
     strategic communications'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -487,7 +482,6 @@ references:
   claim_id: f317a01a-094e-48b9-92dd-d1f776779b32
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f317a01a-094e-48b9-92dd-d1f776779b32
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f317a01a-094e-48b9-92dd-d1f776779b32
 - text: AARO developing IC and S&T tradecraft, standardising UAP collection/reporting
     across DoD and IC
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -500,7 +494,6 @@ references:
   claim_id: 51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-51fb0e01-1cf1-415f-ae42-4e8f52ba53b1
 - text: AARO provides quarterly reports, semiannual briefings and an annual report
     to Congress with ODNI
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -512,7 +505,6 @@ references:
   claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f4752996-d097-401d-ab3f-3d608104c9b7
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f4752996-d097-401d-ab3f-3d608104c9b7
 - text: AARO's budget remains classified
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -522,7 +514,6 @@ references:
   claim_id: 076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
 - text: NYT AATIP article largely responsible for Congress creating UAPTF, later AARO
   source: Statement to Congress
   location: char:9218-9361
@@ -558,7 +549,6 @@ references:
   claim_id: a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
 - text: AOIMSG had not reached initial operating capability before NDAA FY22 renamed
     it AARO with expanded mission
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -570,7 +560,6 @@ references:
   claim_id: 990e6858-1f5d-4b20-95f6-d16ed35b0917
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-990e6858-1f5d-4b20-95f6-d16ed35b0917
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-990e6858-1f5d-4b20-95f6-d16ed35b0917
 - text: UAPTF reorganised and expanded into AARO to include underwater objects
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1858-1994
@@ -579,7 +568,6 @@ references:
   claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
 - text: Grusch was his agency's co-lead on UAP/trans-medium analysis, reporting to
     UAPTF then AARO
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -591,7 +579,6 @@ references:
   claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
 - text: Grusch had classified conversation with Kirkpatrick in April 2022, before
     Kirkpatrick led AARO
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -602,7 +589,6 @@ references:
   claim_id: 84d3c7c3-af28-4106-99b6-89360c1331f9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-84d3c7c3-af28-4106-99b6-89360c1331f9
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-84d3c7c3-af28-4106-99b6-89360c1331f9
 - text: Grusch does not know why Kirkpatrick never followed up, wishes he had, was
     ready to advise him
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -613,7 +599,6 @@ references:
   claim_id: 41d40c84-1130-4d8f-8712-e7096b7d86c5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-41d40c84-1130-4d8f-8712-e7096b7d86c5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-41d40c84-1130-4d8f-8712-e7096b7d86c5
 - text: 'Grothman: Kirkpatrick testified to the Senate his unit found no evidence
     of extraterrestrial activity'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -626,7 +611,6 @@ references:
   claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-4a82f055-45d4-4350-ba99-fca454419dd6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-4a82f055-45d4-4350-ba99-fca454419dd6
 - text: 'Von Rennenkampff: DoD statement to NewsNation denied AARO uncovered activity
     Grusch alleged'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -637,7 +621,6 @@ references:
   claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
 - text: 'DoD (2023-06-09): AARO found no verifiable info substantiating reverse-engineering
     programme claims'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -649,7 +632,6 @@ references:
   claim_id: 06171d55-f777-4549-8338-708d3b3f6889
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-06171d55-f777-4549-8338-708d3b3f6889
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-06171d55-f777-4549-8338-708d3b3f6889
 - text: 'Mellon: potential sources do not trust AARO''s leadership'
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:4761-4936
@@ -659,7 +641,6 @@ references:
   claim_id: 68c6863e-92d9-448b-a773-e43b72b50bf0
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-68c6863e-92d9-448b-a773-e43b72b50bf0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-68c6863e-92d9-448b-a773-e43b72b50bf0
 - text: 'Grusch: Kirkpatrick mentioned ~30 individuals had come to AARO with information'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -669,7 +650,6 @@ references:
   claim_id: bd7c3f49-813c-484c-938d-113455eb998d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bd7c3f49-813c-484c-938d-113455eb998d
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bd7c3f49-813c-484c-938d-113455eb998d
 - text: Grusch personally interviewed a few of those individuals
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -678,7 +658,6 @@ references:
   claim_id: d4c94125-1870-4e19-9ee3-049ae1a08d2b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d4c94125-1870-4e19-9ee3-049ae1a08d2b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d4c94125-1870-4e19-9ee3-049ae1a08d2b
 - text: Grusch knew what information they gave Kirkpatrick's team
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -687,7 +666,6 @@ references:
   claim_id: 65630c4f-afe8-4afe-b147-96de2ff54daa
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-65630c4f-afe8-4afe-b147-96de2ff54daa
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-65630c4f-afe8-4afe-b147-96de2ff54daa
 - text: Grusch was able to evaluate that information
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -696,7 +674,6 @@ references:
   claim_id: 9bf1911a-652f-4c01-a330-0951b6184c81
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bf1911a-652f-4c01-a330-0951b6184c81
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bf1911a-652f-4c01-a330-0951b6184c81
 - text: AARO established six lines of effort for the Historical Record Report to ensure
     an accurate, complete picture
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -708,7 +685,6 @@ references:
   claim_id: e80ef5c4-6acf-4269-a2a0-9c2c9520c499
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
 - text: 'Report: AARO reviewed official US government UFO/UAP efforts since 1945'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -717,7 +693,6 @@ references:
   claim_id: 5db89d65-7e31-4a1f-bfdb-25f06b7c557b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5db89d65-7e31-4a1f-bfdb-25f06b7c557b
 - text: AARO partnered with National Archives to examine Project Blue Book records,
     1947-1969
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -728,7 +703,6 @@ references:
   claim_id: 84446458-da85-4387-9fb6-4288e8fb0821
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-84446458-da85-4387-9fb6-4288e8fb0821
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-84446458-da85-4387-9fb6-4288e8fb0821
 - text: 'Blue Book documentation: 7,252 files holding 65,778 digital records'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -738,7 +712,6 @@ references:
   claim_id: 5960de4f-b2ad-40ca-a404-5d2ca82c42e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5960de4f-b2ad-40ca-a404-5d2ca82c42e8
 - text: As of 2023-09-17, AARO had interviewed approximately 30 individuals
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -747,7 +720,6 @@ references:
   claim_id: 8177e6f2-d58e-480d-bed8-406cb25532ea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8177e6f2-d58e-480d-bed8-406cb25532ea
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8177e6f2-d58e-480d-bed8-406cb25532ea
 - text: No empirical evidence any UAP effort since 1945 uncovered verifiable info
     on recovery/existence of ET beings or craft
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -760,7 +732,6 @@ references:
   claim_id: 5674ff9d-b62b-478f-96f7-f2da59da1232
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-5674ff9d-b62b-478f-96f7-f2da59da1232
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-5674ff9d-b62b-478f-96f7-f2da59da1232
 - text: AARO's work disproved the majority of recovered-ET-technology claims using
     their own verifiable information
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -771,7 +742,6 @@ references:
   claim_id: 269cbedc-a4d4-4de7-802b-e7235359eb43
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-269cbedc-a4d4-4de7-802b-e7235359eb43
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-269cbedc-a4d4-4de7-802b-e7235359eb43
 - text: No evidence USAF had a policy to cover up extraterrestrial knowledge, material
     or interactions
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -782,7 +752,6 @@ references:
   claim_id: b97e7f46-7a60-4494-9811-40a8a5cafa3a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b97e7f46-7a60-4494-9811-40a8a5cafa3a
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b97e7f46-7a60-4494-9811-40a8a5cafa3a
 - text: After CIA and NSA discussions, AARO concluded the alleged 1961 SNIE on UFOs
     was not authentic
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -795,7 +764,6 @@ references:
   claim_id: 6880c09a-8375-41f4-acd2-6e9e38f5cc49
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-6880c09a-8375-41f4-acd2-6e9e38f5cc49
 - text: AARO found a crash-sample, from a private org and the US Army, to be a manufactured
     terrestrial alloy
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -808,7 +776,6 @@ references:
   claim_id: 7e5a44c6-8caa-4cc2-941b-b53acae30caa
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7e5a44c6-8caa-4cc2-941b-b53acae30caa
 - text: Sample composed primarily of magnesium, zinc and bismuth with trace lead
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -818,7 +785,6 @@ references:
   claim_id: 242641e5-b5ad-4284-baa5-a8cf0b29b6cc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-242641e5-b5ad-4284-baa5-a8cf0b29b6cc
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-242641e5-b5ad-4284-baa5-a8cf0b29b6cc
 - text: Under FY2023 NDAA, AARO requested UAP-related nondisclosure agreements from
     DoD, IC, DOE and DHS
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -831,7 +797,6 @@ references:
   claim_id: d1763776-36ad-47a9-8b43-398f8243145f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d1763776-36ad-47a9-8b43-398f8243145f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d1763776-36ad-47a9-8b43-398f8243145f
 - text: 'Graves: per AARO reporting, UAP detected wherever US Navy operates since
     his East Coast encounters'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -844,7 +809,6 @@ references:
   claim_id: 0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
 - text: Jon Kosloski is the director of AARO
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:18:03.3-00:18:07.5

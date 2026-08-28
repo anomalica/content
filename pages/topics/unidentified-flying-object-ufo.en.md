@@ -455,7 +455,6 @@ references:
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
 - text: USAF Director of Intelligence initiated Project Blue Book in 1952
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:1600-1716
@@ -464,7 +463,6 @@ references:
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
 - text: USAF investigated more than 12,000 claimed sightings, 1947 to 1969
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:6377-6477
@@ -473,7 +471,6 @@ references:
   claim_id: 6e26e335-a4f3-48ad-9b9c-3254e62d3504
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
 - text: Hynek called Blue Book's end the coup de grace to the UFO era
   source: In Plain Sight
   location: ch10:23747-24024
@@ -484,7 +481,6 @@ references:
   claim_id: 2fcd5bc0-b655-41e7-af63-be8942cb13b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
 - text: 1985 USAF summary said nothing warranted resuming Blue Book
   source: In Plain Sight
   location: ch10:24211-24384
@@ -494,7 +490,6 @@ references:
   claim_id: 39abe1ba-e286-4c6f-a181-57002dfaf4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-39abe1ba-e286-4c6f-a181-57002dfaf4f9
 - text: 'Since 1969, official US military position: UFOs pose no threat, unworthy
     of study'
   source: Statement to Congress
@@ -523,7 +518,6 @@ references:
   claim_id: f7fe2def-c3a4-436c-98c8-fce76b24a4fc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f7fe2def-c3a4-436c-98c8-fce76b24a4fc
 - text: AATIP investigated UFO reports for years, per DOD officials and NYT records
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program'
   location: char:665-858
@@ -533,7 +527,6 @@ references:
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
 - text: Elizondo was former head of AATIP, now known as UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch38:68-261
@@ -543,7 +536,6 @@ references:
   claim_id: fc0641b0-037d-4290-96fa-c39ae73542f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc0641b0-037d-4290-96fa-c39ae73542f7
 - text: AATIP was tasked with investigating UFOs and UAP
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -562,7 +554,6 @@ references:
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
 - text: 'Elizondo: Jay Stratton proposed ''UAP'' to ease conversation with leadership'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:935-1087
@@ -571,7 +562,6 @@ references:
   claim_id: 0acf8780-21f5-405d-93fc-e9ccff92488a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0acf8780-21f5-405d-93fc-e9ccff92488a
 - text: 'Elizondo: Pentagon leadership avoided the historical UFO stigma'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:502-571
@@ -579,7 +569,6 @@ references:
   claim_id: 5fb04c24-467d-4f82-b132-e567ce8b9cf0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5fb04c24-467d-4f82-b132-e567ce8b9cf0
 - text: DOD released infrared fighter-jet and Navy footage in 2017
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:06:16.7-00:06:42.9
@@ -597,7 +586,6 @@ references:
   claim_id: c014dca0-7c8e-48c3-87d8-d01307fd23bd
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c014dca0-7c8e-48c3-87d8-d01307fd23bd
 - text: Hill case began with a six-page NICAP sighting report
   source: The Hypnotist Who Unlocked Betty & Barney Hill's Alien Memories | Dr. Benjamin
     Simon Speaks
@@ -912,7 +900,6 @@ references:
   claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
 - text: 'Burchett: Congress members confided their own anonymous sightings'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -923,7 +910,6 @@ references:
   claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-27042e55-4a62-4a65-bcfa-258ff96cc48f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

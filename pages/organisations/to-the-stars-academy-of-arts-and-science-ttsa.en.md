@@ -334,7 +334,6 @@ references:
   claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
 - text: DeLonge announced TTSA's formation from a Seattle stage on 2017-10-11 as president
     and CEO.
   source: In Plain Sight
@@ -345,7 +344,6 @@ references:
   claim_id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
 - text: The launch event was online only, with no invited audience and no press present.
   source: In Plain Sight
   location: ch21:433-507
@@ -354,7 +352,6 @@ references:
   claim_id: 4b4aa388-ce57-4678-ad5f-e800019815a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b4aa388-ce57-4678-ad5f-e800019815a0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b4aa388-ce57-4678-ad5f-e800019815a0
 - text: Jim Semivan was one of the two co-founders of TTSA.
   source: In Plain Sight
   location: ch21:657-781
@@ -363,7 +360,6 @@ references:
   claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
 - text: Hal Puthoff was the third co-founder of TTSA.
   source: In Plain Sight
   location: ch21:970-1045
@@ -372,7 +368,6 @@ references:
   claim_id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
 - text: Steve Justice is a former Lockheed Martin Skunk Works executive affiliated
     with TTSA.
   source: In Plain Sight
@@ -381,7 +376,6 @@ references:
   claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
 - text: Steve Justice headed TTSA's aerospace division at its 2017 launch.
   source: In Plain Sight
   location: ch21:1170-1272
@@ -390,7 +384,6 @@ references:
   claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
 - text: Steve Justice was Chief Operating Officer of TTSA.
   source: In Plain Sight
   location: ch21:9242-9352
@@ -399,7 +392,6 @@ references:
   claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
 - text: DeLonge described the founding team as including a CIA intelligence officer
     and a DoD experimental physicist.
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -419,7 +411,6 @@ references:
   claim_id: e46a6f7d-124c-46ef-8a4f-a08d9377476f
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
 - text: DeLonge offered Elizondo a lower salary than at the Pentagon and required
     relocation to California.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -430,7 +421,6 @@ references:
   claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
 - text: TTSA's planned location was Encinitas, California, about thirty minutes north
     of San Diego.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -440,7 +430,6 @@ references:
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5242da16-a248-4220-93c8-a00b043f7cb6
 - text: Elizondo became TTSA's public face after the New York Times AATIP story broke.
   source: In Plain Sight
   location: ch21:13584-13688
@@ -449,7 +438,6 @@ references:
   claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1284d17-f24a-4cb5-ac54-a16349549048
 - text: TTSA is a public company soliciting investment as a public benefit corporation
     under SEC rules.
   source: In Plain Sight
@@ -460,7 +448,6 @@ references:
   claim_id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
 - text: TTSA raised more than 2 million US dollars from investors.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -469,7 +456,6 @@ references:
   claim_id: f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-f21d4efc-8e01-4e2a-bdc5-9d1d151b0f90
 - text: TTSA was originally hyped as a UFO research company exploring the 'outer edges
     of science'.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -480,7 +466,6 @@ references:
   claim_id: aa3a1f2d-4886-44fa-a87e-496072402fc4
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-aa3a1f2d-4886-44fa-a87e-496072402fc4
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-aa3a1f2d-4886-44fa-a87e-496072402fc4
 - text: TTSA's SEC filing identifies it as a 'Motion Picture & Video Tape Production'
     concern.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -491,7 +476,6 @@ references:
   claim_id: 7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-7a359b7a-5de5-4f17-b13c-b2506e8b0a9d
 - text: TTSA's stated mission was to be a vehicle for change through appreciation
     of the universe's unresolved mysteries.
   source: In Plain Sight
@@ -502,7 +486,6 @@ references:
   claim_id: 47d8d59b-4823-4c90-8d98-47e705078035
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47d8d59b-4823-4c90-8d98-47e705078035
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-47d8d59b-4823-4c90-8d98-47e705078035
 - text: 'TTSA pursued a triple directive: UAP science, public education, and entertainment
     production.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -516,7 +499,6 @@ references:
   claim_id: 5c6c669d-c442-449d-9cb1-9c245e297d18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
 - text: TTSA's Aerospace Division was dedicated to breakthroughs in propulsion, energy
     and communications.
   source: In Plain Sight
@@ -526,7 +508,6 @@ references:
   claim_id: d8dbe216-7e11-40c6-9607-7769cf1b4585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8dbe216-7e11-40c6-9607-7769cf1b4585
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d8dbe216-7e11-40c6-9607-7769cf1b4585
 - text: The Offering Circular warned investors that R&D outcomes were not guaranteed.
   source: In Plain Sight
   location: ch21:18512-18746
@@ -536,7 +517,6 @@ references:
   claim_id: 607b071f-c537-471b-b0e6-cd95dfee5ba8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-607b071f-c537-471b-b0e6-cd95dfee5ba8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-607b071f-c537-471b-b0e6-cd95dfee5ba8
 - text: Elizondo is credited with coining 'The Five Observables'.
   source: In Plain Sight
   location: ch22:12914-13088
@@ -546,7 +526,6 @@ references:
   claim_id: 76686c7e-bbbc-4060-9f15-b725804e732e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76686c7e-bbbc-4060-9f15-b725804e732e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76686c7e-bbbc-4060-9f15-b725804e732e
 - text: The History Channel show featured TTSA investigators interviewing former military
     personnel about UAP encounters.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -557,7 +536,6 @@ references:
   claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb5369fd-11e7-403b-9b58-19107da89a59
 - text: TTSA posted three Defence Department UAP videos on its website.
   source: In Plain Sight
   location: ch21:20805-20915
@@ -566,7 +544,6 @@ references:
   claim_id: 196bb9ec-5ec2-43a8-97e4-3847858b911e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-196bb9ec-5ec2-43a8-97e4-3847858b911e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-196bb9ec-5ec2-43a8-97e4-3847858b911e
 - text: The first two videos were posted mid-December 2017, timed with the AATIP press
     coverage.
   source: In Plain Sight
@@ -577,7 +554,6 @@ references:
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9898cf75-2714-46d8-bb85-c5020299e488
 - text: TTSA posted the Go-Fast video in March 2018.
   source: In Plain Sight
   location: ch21:22207-22331
@@ -586,7 +562,6 @@ references:
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61cec41b-6906-4711-a6ce-53abbf531d90
 - text: TTSA initially said the Gimbal object was filmed by Navy pilots at an unspecified
     location.
   source: In Plain Sight
@@ -596,7 +571,6 @@ references:
   claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
 - text: TTSA's website stated the Gimbal object had low observability on video and
     radar.
   source: In Plain Sight
@@ -606,7 +580,6 @@ references:
   claim_id: 219f9ae8-2444-476e-92d8-303b5f51f594
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-219f9ae8-2444-476e-92d8-303b5f51f594
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-219f9ae8-2444-476e-92d8-303b5f51f594
 - text: The Gimbal object had no distinguishable flight surfaces, per TTSA's website.
   source: In Plain Sight
   location: ch21:21950-22056
@@ -615,7 +588,6 @@ references:
   claim_id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
 - text: The Gimbal object had no obvious propulsion system, per TTSA's website.
   source: In Plain Sight
   location: ch21:21998-22021
@@ -623,7 +595,6 @@ references:
   claim_id: 85b1ea24-960c-475f-aab1-de65883a4426
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85b1ea24-960c-475f-aab1-de65883a4426
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85b1ea24-960c-475f-aab1-de65883a4426
 - text: The Gimbal object exhibited never-before-seen flight capabilities, per TTSA's
     website.
   source: In Plain Sight
@@ -632,7 +603,6 @@ references:
   claim_id: cee21df8-0645-4916-8354-60ea159ac53f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cee21df8-0645-4916-8354-60ea159ac53f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cee21df8-0645-4916-8354-60ea159ac53f
 - text: TTSA speculated a shimmer on the object suggested an energy or resonance field.
   source: In Plain Sight
   location: ch21:22075-22197
@@ -641,7 +611,6 @@ references:
   claim_id: 8723e6e1-6842-496d-b1da-5345512fffe1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8723e6e1-6842-496d-b1da-5345512fffe1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8723e6e1-6842-496d-b1da-5345512fffe1
 - text: TTSA announced an October 2019 partnership with the US Army on alleged metamaterials.
   source: In Plain Sight
   location: ch23:12310-12513
@@ -651,7 +620,6 @@ references:
   claim_id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
 - text: The arrangement was formalised through a CRADA.
   source: In Plain Sight
   location: ch23:13884-14022
@@ -660,7 +628,6 @@ references:
   claim_id: 904c1482-da7d-4a58-b305-819b773def07
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-904c1482-da7d-4a58-b305-819b773def07
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-904c1482-da7d-4a58-b305-819b773def07
 - text: Dr Joseph Cannon called the partnership a non-traditional source for novel
     materials.
   source: In Plain Sight
@@ -671,7 +638,6 @@ references:
   claim_id: 54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
 - text: A 2019 SEC disclosure states DeLonge sold six Art's Parts samples to TTSA
     for $35,000.
   source: In Plain Sight
@@ -682,7 +648,6 @@ references:
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
 - text: An earlier 2018 disclosure states TTSA retained EarthTech International for
     materials analysis planning.
   source: In Plain Sight
@@ -694,7 +659,6 @@ references:
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
 - text: TTSA's 2019 tweet quoted Steve Justice on the materials' unmatched composition.
   source: In Plain Sight
   location: ch23:18158-18459
@@ -705,7 +669,6 @@ references:
   claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
 - text: The photograph used was a stock image of the mineral malachite.
   source: In Plain Sight
   location: ch24:9295-9508
@@ -715,7 +678,6 @@ references:
   claim_id: 76de335b-5cac-4c56-a8a9-919557f5359d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76de335b-5cac-4c56-a8a9-919557f5359d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76de335b-5cac-4c56-a8a9-919557f5359d
 - text: Greenewald grew sceptical after being unable to verify Elizondo's AATIP claims
     via FOIA.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -727,7 +689,6 @@ references:
   claim_id: ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
 - text: Kloor noted Fox & Friends omitted Mellon's TTSA employment and the show's
     TTSA production.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -739,7 +700,6 @@ references:
   claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b01c62bc-0b61-4884-8704-2b340d60b2bc
 - text: Knapp defended Elizondo and DeLonge against critics for two years.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -749,7 +709,6 @@ references:
   claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
 - text: Knapp bought 400 shares of TTSA stock in 2018 to support the company.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -760,7 +719,6 @@ references:
   claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-60c27c86-b087-4a81-b759-66b26eb0b951
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-60c27c86-b087-4a81-b759-66b26eb0b951
 - text: Knapp made the purchase public and informed his employer.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -770,7 +728,6 @@ references:
   claim_id: 5b34a3c7-f445-456a-a54e-396af2bb500e
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-5b34a3c7-f445-456a-a54e-396af2bb500e
 - text: Knapp placed his shares in a charitable trust, leaving him with no stock.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -781,7 +738,6 @@ references:
   claim_id: 09e7fa8b-93f3-4d60-a72b-268459968f43
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
 - text: TTSA underwent a major internal collapse in late 2020.
   source: In Plain Sight
   location: ch21:23348-23459
@@ -790,7 +746,6 @@ references:
   claim_id: 5cd0019f-d8d7-4d99-aa45-cf1720230349
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cd0019f-d8d7-4d99-aa45-cf1720230349
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cd0019f-d8d7-4d99-aa45-cf1720230349
 - text: Speculation mounted that Mellon, Elizondo and Justice were leaving TTSA.
   source: In Plain Sight
   location: ch21:23469-23624
@@ -800,7 +755,6 @@ references:
   claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
 - text: DeLonge formally disclosed the departures to the SEC.
   source: In Plain Sight
   location: ch21:23699-23837
@@ -809,7 +763,6 @@ references:
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
 - text: A week later, DeLonge disclosed Puthoff's resignation as director.
   source: In Plain Sight
   location: ch21:23850-23908
@@ -817,7 +770,6 @@ references:
   claim_id: 3858175d-54db-4ce6-bd6c-d49e54573a31
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
 - text: DeLonge said he was refocusing TTSA toward its entertainment business.
   source: In Plain Sight
   location: ch21:23918-24135
@@ -827,7 +779,6 @@ references:
   claim_id: 47b0a5ce-2faf-45bb-82d9-cb9f36266a94
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47b0a5ce-2faf-45bb-82d9-cb9f36266a94
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-47b0a5ce-2faf-45bb-82d9-cb9f36266a94
 - text: Puthoff moved from director to TTSA's scientific advisory board.
   source: In Plain Sight
   location: ch21:24145-24301
@@ -836,7 +787,6 @@ references:
   claim_id: a9786ec9-633f-44e7-aefb-373bbf1661f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
 - text: Investors who backed TTSA on anti-gravity propulsion would be disappointed
     by Puthoff's exit.
   source: In Plain Sight
@@ -846,7 +796,6 @@ references:
   claim_id: 3eba7266-76f9-487d-887f-12f495e7b711
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3eba7266-76f9-487d-887f-12f495e7b711
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3eba7266-76f9-487d-887f-12f495e7b711
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

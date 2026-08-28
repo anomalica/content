@@ -70,7 +70,6 @@ references:
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
 - text: Mack visited Australia in 1996 to research alien abduction
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:13541-13796
@@ -116,7 +115,6 @@ references:
   claim_id: a0b24021-7993-4160-be7e-fbdaa1ec5b41
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a0b24021-7993-4160-be7e-fbdaa1ec5b41
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a0b24021-7993-4160-be7e-fbdaa1ec5b41
 - text: Elizondo met with Harvard students in Galileo Project seminars
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:37840-37991
@@ -125,7 +123,6 @@ references:
   claim_id: b978c751-ab3a-4696-8d7e-7164b2b78be3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b978c751-ab3a-4696-8d7e-7164b2b78be3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b978c751-ab3a-4696-8d7e-7164b2b78be3
 - text: Bush worked with Menzel on the differential analyzer
   source: Dark Mission
   location: ch12:68352-68549

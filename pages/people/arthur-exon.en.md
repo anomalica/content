@@ -176,7 +176,6 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: 'Strieber: as late as 1988 Exon still consulting on the question of nonhuman
     bodies'
   source: The Fourth Mind

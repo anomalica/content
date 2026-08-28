@@ -156,7 +156,6 @@ references:
   claim_id: dc2696b2-c1f7-44fe-85e6-75b7a60b0274
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dc2696b2-c1f7-44fe-85e6-75b7a60b0274
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-dc2696b2-c1f7-44fe-85e6-75b7a60b0274
 - text: told to remain above ~3,000 metres due to other fighter traffic at low altitude
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:14393-14519
@@ -165,7 +164,6 @@ references:
   claim_id: 6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
 - text: at ~28 km from the AAV descending through ~4,600 metres, saw a water disturbance
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:14524-14665
@@ -182,7 +180,6 @@ references:
   claim_id: d00b8d52-5850-41fa-91c1-7a8748c2cc58
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d00b8d52-5850-41fa-91c1-7a8748c2cc58
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d00b8d52-5850-41fa-91c1-7a8748c2cc58
 - text: at ~9-19 km away, controller told him to 'skip it' and return to his area
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:14721-14830
@@ -191,7 +188,6 @@ references:
   claim_id: 308722df-bdd7-44a7-a7aa-4ffacadb874f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-308722df-bdd7-44a7-a7aa-4ffacadb874f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-308722df-bdd7-44a7-a7aa-4ffacadb874f
 - text: elected to fly over the disturbance since he was already close
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:14836-14932
@@ -200,7 +196,6 @@ references:
   claim_id: da1b8f07-afeb-4235-a913-38fe7722fbef
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-da1b8f07-afeb-4235-a913-38fe7722fbef
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-da1b8f07-afeb-4235-a913-38fe7722fbef
 - text: disturbance appeared ~50-100 metres in diameter, close to round
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:14937-15010
@@ -220,7 +215,6 @@ references:
   claim_id: 79aa9be7-5707-4473-801e-bdd46fbce79d
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-79aa9be7-5707-4473-801e-bdd46fbce79d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-79aa9be7-5707-4473-801e-bdd46fbce79d
 - text: considered it could be shoal water breaking over a barely submerged reef or
     island
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -230,7 +224,6 @@ references:
   claim_id: 6017905e-7a59-439d-a86c-16c2f76f0265
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-6017905e-7a59-439d-a86c-16c2f76f0265
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-6017905e-7a59-439d-a86c-16c2f76f0265
 - text: overflew the disturbance, turned northwest, and it cleared and became unidentifiable
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:15319-15489
@@ -240,7 +233,6 @@ references:
   claim_id: 41db5f8c-bfaa-4343-9207-377f4b1b97e5
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-41db5f8c-bfaa-4343-9207-377f4b1b97e5
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-41db5f8c-bfaa-4343-9207-377f4b1b97e5
 - text: did not see any object or vessel associated with the disturbance
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:15499-15622
@@ -267,7 +259,6 @@ references:
   claim_id: 4b32214e-9b86-404e-86f0-88ed67f3cda9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-4b32214e-9b86-404e-86f0-88ed67f3cda9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-4b32214e-9b86-404e-86f0-88ed67f3cda9
 - text: recovered aboard Nimitz at ~1200 local time
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: char:15870-15944
@@ -294,7 +285,6 @@ references:
   claim_id: 3ef376fd-7b3a-42f0-b5df-554467f95ba0
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-3ef376fd-7b3a-42f0-b5df-554467f95ba0
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-3ef376fd-7b3a-42f0-b5df-554467f95ba0
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

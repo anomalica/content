@@ -153,7 +153,6 @@ references:
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
 - text: Hillary Clinton lost the 2016 election to Trump
   source: In Plain Sight
   location: ch20:23537-23620
@@ -162,7 +161,6 @@ references:
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
 - text: During the 2016 election Hillary Clinton was doing very well and promising
     to release UFO information
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -192,7 +190,6 @@ references:
   claim_id: bef03c69-0eb9-432e-8ebd-501c029f8522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
 - text: Trump made a comment about the Roswell incident in an interview with his son
     Don Trump Jr.
   source: In Plain Sight
@@ -203,7 +200,6 @@ references:
   claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
 - text: Trump said he would not talk about what he knows about Roswell, but that it
     is very interesting
   source: In Plain Sight
@@ -213,7 +209,6 @@ references:
   claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7583bcb5-6046-4d23-97aa-00c90f672143
 - text: Trump described the released Pentagon UFO footage as 'a hell of a video'
   source: In Plain Sight
   location: ch34:40062-40150
@@ -222,7 +217,6 @@ references:
   claim_id: 547dace0-9751-4016-b5ac-a625a86224d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-547dace0-9751-4016-b5ac-a625a86224d7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-547dace0-9751-4016-b5ac-a625a86224d7
 - text: Trump said he has heard 'interesting' things about the Roswell incident
   source: In Plain Sight
   location: ch34:66515-66620
@@ -231,7 +225,6 @@ references:
   claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
 - text: Former President Trump said on a talk show that several airline pilots came
     into his office to speak about spheres flying around jets
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
@@ -262,7 +255,6 @@ references:
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
 - text: Mattis resigned as Secretary of Defense in January 2019 due to differences
     with the Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -272,7 +264,6 @@ references:
   claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
 - text: Jay Stratton received NSC briefing requests and briefed Trump on some level
     regarding UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -284,7 +275,6 @@ references:
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af73f27e-6d01-4702-86f0-925398868a92
 - text: Trump attended Fordham University
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:29:02.4-02:29:03.7

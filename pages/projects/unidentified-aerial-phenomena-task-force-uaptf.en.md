@@ -123,7 +123,6 @@ references:
   claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0ea18651-8df3-4a40-9448-c475da9f5895
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0ea18651-8df3-4a40-9448-c475da9f5895
 - text: The task force investigated objects once called UFOs, now officially UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1541-1718
@@ -133,7 +132,6 @@ references:
   claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
 - text: The task force was led by the Department of the Navy under OUSDI.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1723-1848
@@ -142,7 +140,6 @@ references:
   claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
 - text: Deputy Secretary of Defense David L. Norquist approved the task force's establishment.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -152,7 +149,6 @@ references:
   claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d81d92c7-b50c-4425-92eb-be9d94981ae3
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d81d92c7-b50c-4425-92eb-be9d94981ae3
 - text: The task force was intended to improve understanding of the nature and origins
     of UAP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -163,7 +159,6 @@ references:
   claim_id: d498a840-1ca2-47a4-85fa-cdf6f2c5175d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d498a840-1ca2-47a4-85fa-cdf6f2c5175d
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d498a840-1ca2-47a4-85fa-cdf6f2c5175d
 - text: The task force's mission was to detect, analyse and catalogue UAP threats
     to national security.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -174,7 +169,6 @@ references:
   claim_id: 12cabeea-5319-458d-a281-825af6a9d67b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-12cabeea-5319-458d-a281-825af6a9d67b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-12cabeea-5319-458d-a281-825af6a9d67b
 - text: Service members were encouraged to report strange aerial encounters to the
     task force.
   source: Navy pilots describe encounters with UFOs
@@ -210,7 +204,6 @@ references:
   claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
 - text: Elizondo became a Space Force contractor to help build its UAP effort and
     support Stratton's task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -221,7 +214,6 @@ references:
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
 - text: The Secretary of Defense announced the task force and named Stratton its first
     director.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -232,7 +224,6 @@ references:
   claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
 - text: From the moment it became official, the Legacy Program quietly created bureaucratic
     hurdles for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -243,7 +234,6 @@ references:
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
 - text: The Legacy Program and its associates blocked funding Congress had appropriated
     for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -253,7 +243,6 @@ references:
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
 - text: Elizondo said OUSD(I) was the same organisation that had previously underplayed
     and tried to kill AATIP and then the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -263,7 +252,6 @@ references:
   claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
 - text: Puthoff said Stratton encountered gatekeepers controlling access to the legacy
     program.
   source: 'Episode 73: Science vs. Secrecy'
@@ -290,7 +278,6 @@ references:
   claim_id: 6d18c064-8cd7-49a5-a49d-3818b03a0da2
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-6d18c064-8cd7-49a5-a49d-3818b03a0da2
 - text: Grusch's task force membership was in an NRO reservist capacity within the
     US Air Force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -301,7 +288,6 @@ references:
   claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
 - text: Grusch helped author the task force's 2019 Security Classification Guide.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -311,7 +297,6 @@ references:
   claim_id: 9ca636fc-22a1-4537-a5c8-e778812c130d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9ca636fc-22a1-4537-a5c8-e778812c130d
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9ca636fc-22a1-4537-a5c8-e778812c130d
 - text: From late 2021 to July 2022 Grusch was the NGA's co-lead for UAP analysis
     and its task force representative.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -321,7 +306,6 @@ references:
   claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
 - text: Grusch reported to the task force and eventually to AARO as his agency's co-lead.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -332,7 +316,6 @@ references:
   claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c90b0e17-1e52-4e0f-aa60-927b537972d3
 - text: Grusch spent four years corroborating evidence and vetting individuals while
     with the task force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -344,7 +327,6 @@ references:
   claim_id: bdef50bb-774f-482d-b545-50ee47d5eab6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bdef50bb-774f-482d-b545-50ee47d5eab6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bdef50bb-774f-482d-b545-50ee47d5eab6
 - text: In 2019 the task force director asked Grusch to identify special/controlled
     access programs, reporting to the Deputy Secretary of Defense.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -357,7 +339,6 @@ references:
   claim_id: e777450f-6f8c-4117-858f-257d1d69fedc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-e777450f-6f8c-4117-858f-257d1d69fedc
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-e777450f-6f8c-4117-858f-257d1d69fedc
 - text: Grusch sat on the task force created by the 2020 NDAA.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -367,7 +348,6 @@ references:
   claim_id: 2f97144c-bde9-4334-8cbe-51f3d40bd568
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2f97144c-bde9-4334-8cbe-51f3d40bd568
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-2f97144c-bde9-4334-8cbe-51f3d40bd568
 - text: Karl E. Nell was the Army's liaison to the task force from 2021 to 2022, working
     with Grusch.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -378,7 +358,6 @@ references:
   claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-42eb3f4a-2e73-42ea-b624-5474223256e1
 - text: The task force was refused access to a broader programme that had retrieved
     non-human-origin vehicles that had landed or crashed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -389,7 +368,6 @@ references:
   claim_id: 87ccdf24-ffeb-46c1-a562-208927df7e38
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87ccdf24-ffeb-46c1-a562-208927df7e38
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-87ccdf24-ffeb-46c1-a562-208927df7e38
 - text: At the May 2022 hearing, Gallagher asked Moultrie and Bray about DOD UAP technology
     programs; both said they knew of nothing beyond the Navy UAP Task Force.
   source: In Plain Sight
@@ -404,7 +382,6 @@ references:
   claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf1d136-d3ae-441f-b9ad-49b04020d3be
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-abf1d136-d3ae-441f-b9ad-49b04020d3be
 - text: In June 2021 the task force and ODNI issued the congressionally mandated Preliminary
     Assessment on UAP.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -417,7 +394,6 @@ references:
   claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
 - text: Senate Report 116-233 directed ODNI to assess the UAP threat and report on
     the task force's progress.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -431,7 +407,6 @@ references:
   claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-88f21ca9-0b1e-4f7f-a587-95a20c388204
 - text: In May 2022 Charles McCullough III filed a whistleblower disclosure on Grusch's
     behalf concerning information gathered since 2019 at the task force.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -442,7 +417,6 @@ references:
   claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-b8f5797b-b025-41ec-88c0-6d7b33671345
 - text: Grusch testified at the July 2023 House hearing, identified as a former NRO
     representative to the task force.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -453,7 +427,6 @@ references:
   claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
 - text: A November 2021 memorandum directed OUSDI to establish AOIMSG as the task
     force's successor.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -467,7 +440,6 @@ references:
   claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
 - text: The task force was reorganised and expanded into AARO, extending its remit
     to underwater objects.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -477,7 +449,6 @@ references:
   claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-aa66c486-2ae7-4966-adee-1d2a5a33b229
 - text: The task force helped standardise, destigmatise and increase the volume of
     UAP reporting.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -488,7 +459,6 @@ references:
   claim_id: 9accd6d1-41b0-47d0-859b-164aa5f4f952
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9accd6d1-41b0-47d0-859b-164aa5f4f952
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9accd6d1-41b0-47d0-859b-164aa5f4f952
 - text: The task force helped calibrate sensors to improve the quality of UAP data
     collected.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -498,7 +468,6 @@ references:
   claim_id: 78e0cf87-de92-4da5-9dec-ef4f8deac16c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-78e0cf87-de92-4da5-9dec-ef4f8deac16c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-78e0cf87-de92-4da5-9dec-ef4f8deac16c
 - text: The task force's methods directly led to identifying Chinese high-altitude
     balloons over the continental US.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -510,7 +479,6 @@ references:
   claim_id: 117b0a79-31dd-4820-bd1e-66b4dc96f27d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-117b0a79-31dd-4820-bd1e-66b4dc96f27d
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-117b0a79-31dd-4820-bd1e-66b4dc96f27d
 - text: AAWSAP once employed 50 full-time investigators, more than Blue Book, the
     task force, or AARO.
   source: Statement to Congress

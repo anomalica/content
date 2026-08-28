@@ -360,7 +360,6 @@ references:
   claim_id: 31af2454-4b64-4af5-87b8-2676b2601982
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-31af2454-4b64-4af5-87b8-2676b2601982
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-31af2454-4b64-4af5-87b8-2676b2601982
 - text: The Mars Pathfinder landing site was named Sagan Memorial Station
   source: Dark Mission
   location: ch12:154170-154254

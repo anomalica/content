@@ -119,7 +119,6 @@ references:
   claim_id: fae26fbd-46df-4160-a4a4-c3c86d7cc42a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fae26fbd-46df-4160-a4a4-c3c86d7cc42a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fae26fbd-46df-4160-a4a4-c3c86d7cc42a
 - text: Guy Hottel headed the FBI's Washington DC field office when he wrote the 1950
     memo.
   source: In Plain Sight
@@ -129,7 +128,6 @@ references:
   claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bda76c77-8f53-4fae-969b-f4f841e94a4c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bda76c77-8f53-4fae-969b-f4f841e94a4c
 - text: The Hottel memo remains the most controversial and popular file in the FBI's
     archive, according to In Plain Sight.
   source: In Plain Sight
@@ -138,7 +136,6 @@ references:
   claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d8fef51-4615-46fc-b29e-f7c58f0996a6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d8fef51-4615-46fc-b29e-f7c58f0996a6
 - text: The FBI's website states the Hottel report was never confirmed or investigated
     and does not prove the existence of aliens.
   source: In Plain Sight
@@ -149,7 +146,6 @@ references:
   claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce17cad1-c452-4f60-ac5f-2b56b1cad793
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ce17cad1-c452-4f60-ac5f-2b56b1cad793
 - text: The FBI investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New
     Mexico.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -159,7 +155,6 @@ references:
   claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
 - text: David Marler said the USAF, FBI and CIA maintained an official policy of denying,
     dispelling and debunking the UFO subject.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -209,7 +204,6 @@ references:
   claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9591521-8b12-4e92-842b-8da9721c6b48
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f9591521-8b12-4e92-842b-8da9721c6b48
 - text: A 100-agent FBI investigation into suspected human involvement, demanded by
     three US State Attorneys-General, failed to solve the mystery.
   source: In Plain Sight
@@ -219,7 +213,6 @@ references:
   claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7ba807c7-051e-4207-b833-5e8c54f96e55
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7ba807c7-051e-4207-b833-5e8c54f96e55
 - text: The FBI told an interviewer there are 10,000 unsolved cattle mutilation cases
     across the United States.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -242,7 +235,6 @@ references:
   claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab0d8ddd-9e7d-4c62-b454-d1355da6c018
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ab0d8ddd-9e7d-4c62-b454-d1355da6c018
 - text: The FBI and some UAP researchers have dismissed the Majestic-12 documents
     as an elaborate hoax.
   source: In Plain Sight
@@ -252,7 +244,6 @@ references:
   claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a57dade-5e71-4555-8cdb-83d5530d7df4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3a57dade-5e71-4555-8cdb-83d5530d7df4
 - text: Ross Coulthart said the provenance of the Majestic 12 documents is officially
     disputed by the FBI and the US military.
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
@@ -272,7 +263,6 @@ references:
   claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b109f646-8c09-4d39-b776-4530fd5719c2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b109f646-8c09-4d39-b776-4530fd5719c2
 - text: Luis Elizondo said Edgar Mitchell's family was among the Roswell families
     threatened by the FBI after the 1947 crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -282,7 +272,6 @@ references:
   claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
 - text: The CIA and FBI have sometimes posted unclassified UAP documents on their
     websites for public search and download, Luis Elizondo said.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -292,7 +281,6 @@ references:
   claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
 - text: Luis Elizondo led classified investigations worldwide with partners including
     the FBI, CIA and the Department of Homeland Security.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -303,7 +291,6 @@ references:
   claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4d1a24ed-c8be-4d09-a5fa-9dd24272674a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4d1a24ed-c8be-4d09-a5fa-9dd24272674a
 - text: Jay Stratton and Luis Elizondo worked their network of friends in the US military
     branches, FBI, CIA and the Department of Energy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -313,7 +300,6 @@ references:
   claim_id: 862a7909-f591-481f-ae3d-c99172c44870
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-862a7909-f591-481f-ae3d-c99172c44870
 - text: Jay Stratton handpicked members for the new UAP task force from agencies including
     the FBI, National Reconnaissance Office, NASA and FAA.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -324,7 +310,6 @@ references:
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
 - text: As part of Task Force Dagger, Elizondo met FBI Director Robert Mueller in
     Kandahar, Afghanistan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -335,7 +320,6 @@ references:
   claim_id: 37a07c59-551e-4275-a93c-e33b725eaeee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37a07c59-551e-4275-a93c-e33b725eaeee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-37a07c59-551e-4275-a93c-e33b725eaeee
 - text: Task Force Dagger worked with the FBI and other US organisations to locate
     terrorist cells operating in Afghanistan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -345,7 +329,6 @@ references:
   claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-97f691b9-cf05-47e6-b77d-93284b49fd93
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-97f691b9-cf05-47e6-b77d-93284b49fd93
 - text: Christopher K. Mellon said thousands of lives lost in the September 11 attacks
     might have been spared had the CIA and FBI shared information.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -355,7 +338,6 @@ references:
   claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ba97adc-5bbf-44dc-a31d-8d140da6c376
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0ba97adc-5bbf-44dc-a31d-8d140da6c376
 - text: Christopher K. Mellon said the NRO, CIA, NGA, FBI and NSA appeared to hold
     important UAP data they were not sharing with each other.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -367,7 +349,6 @@ references:
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
 - text: Witnesses to the 2013 White Sands orb sighting included an FBI special agent
     assigned to the Albuquerque Field Office, Elizondo said.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -377,7 +358,6 @@ references:
   claim_id: c39091df-6c5b-4177-8274-2c40bef3aebb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c39091df-6c5b-4177-8274-2c40bef3aebb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c39091df-6c5b-4177-8274-2c40bef3aebb
 - text: David Grusch considers it wrong that Congress lacked oversight of UAP matters
     comparable to the 1970s Church Committee investigations into the CIA, NSA and
     FBI.

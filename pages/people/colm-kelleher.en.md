@@ -64,7 +64,6 @@ references:
   claim_id: 09e2e5e9-383f-4f98-b691-72f38a58d328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
 - text: Kelleher was deputy administrator for Bigelow Aerospace Advanced Space Studies
     (BAASS) during AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -74,7 +73,6 @@ references:
   claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
 - text: AAWSAP's Las Vegas database drew on civilian and foreign-government reports
     plus teams Kelleher dispatched
   source: Statement to Congress
@@ -94,7 +92,6 @@ references:
   claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
 - text: Eric Davis and Kelleher watched a lit craft execute a sharp 90-degree turn
     above the ranch house, November 1996
   source: In Plain Sight
@@ -105,7 +102,6 @@ references:
   claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-006ce987-fc23-4530-b9f5-89232b1c8552
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-006ce987-fc23-4530-b9f5-89232b1c8552
 - text: Davis, Kelleher and Terry Sherman all saw a huge creature, larger than any
     wildcat
   source: In Plain Sight
@@ -116,7 +112,6 @@ references:
   claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
 - text: Kelleher said he witnessed anomalous phenomena at the ranch never captured
     on camera
   source: In Plain Sight
@@ -126,7 +121,6 @@ references:
   claim_id: b7201cf5-f4cd-4f90-9b63-15aa525653d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
 - text: Kelleher worked with Gabe Valdez, a New Mexico State Police officer linked
     to the Jicarilla Apache Tribe in Dulce
   source: In Plain Sight
@@ -137,7 +131,6 @@ references:
   claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
 - text: Kelleher's report contains Jicarilla Apache interviews describing hovering
     UAP and a shaft dug into Mount Archuleta
   source: In Plain Sight
@@ -149,7 +142,6 @@ references:
   claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
 - text: Kelleher said information indicated pieces of technology had certainly been
     recovered
   source: In Plain Sight
@@ -159,7 +151,6 @@ references:
   claim_id: f01f42bb-9eae-495f-9105-b1ee26a861a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
 - text: Livingston flew to California with a team including Kelleher and Vallée to
     meet Garry Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -171,7 +162,6 @@ references:
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
 - text: Kelleher agreed to look into the Gary Lowrey alien claw case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: 37-37

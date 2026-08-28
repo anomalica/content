@@ -76,7 +76,6 @@ references:
   claim_id: ae9adecc-9b7a-4535-a962-fd341cc0dd63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
 - text: Guy Consolmagno holds degrees from MIT and the University of Arizona
   source: American Cosmic
   location: ch7:24020-24089
@@ -95,7 +94,6 @@ references:
   claim_id: ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
 - text: Facilities associated with the Department of Defense, NASA and MIT gave warp
     drive serious consideration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -105,7 +103,6 @@ references:
   claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
 - text: Craig McPherson attended MIT
   source: Project Serpo
   location: char:2578-2658

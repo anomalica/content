@@ -136,7 +136,6 @@ references:
   claim_id: 3af1b87d-8aee-4450-862a-35c0c3bbda74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3af1b87d-8aee-4450-862a-35c0c3bbda74
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3af1b87d-8aee-4450-862a-35c0c3bbda74
 - text: Greer created the Disclosure Project in 1992
   source: In Plain Sight
   location: ch14:3132-3299
@@ -146,7 +145,6 @@ references:
   claim_id: 7c7c9e96-a789-40ba-b4b1-6610674c01d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7c7c9e96-a789-40ba-b4b1-6610674c01d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7c7c9e96-a789-40ba-b4b1-6610674c01d8
 - text: Daniel Sheehan worked with Greer vetting witnesses for the 2001 National Press
     Club event
   source: In Plain Sight
@@ -157,7 +155,6 @@ references:
   claim_id: a9681dc8-e450-444e-9ef6-ed56ce06c518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9681dc8-e450-444e-9ef6-ed56ce06c518
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a9681dc8-e450-444e-9ef6-ed56ce06c518
 - text: Greer says he has personally briefed presidents and a CIA Director about the
     'UFO reality'
   source: In Plain Sight
@@ -167,7 +164,6 @@ references:
   claim_id: 03620066-c756-47e8-9fd7-6cd11ea4cdb7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-03620066-c756-47e8-9fd7-6cd11ea4cdb7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-03620066-c756-47e8-9fd7-6cd11ea4cdb7
 - text: John Petersen invited Woolsey and Greer to dinner in 1993
   source: In Plain Sight
   location: ch14:4071-4215
@@ -176,7 +172,6 @@ references:
   claim_id: 929e4040-f933-4cd0-be03-1f3fec12c3eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-929e4040-f933-4cd0-be03-1f3fec12c3eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-929e4040-f933-4cd0-be03-1f3fec12c3eb
 - text: Greer describes the 1993 meeting on his website as a covert UFO briefing disguised
     as a dinner party
   source: In Plain Sight
@@ -187,7 +182,6 @@ references:
   claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
 - text: Woolsey denied the 1993 dinner was a briefing
   source: In Plain Sight
   location: ch14:3659-3703
@@ -195,7 +189,6 @@ references:
   claim_id: 05fa65d4-92e8-4078-a050-4eff824f0fb5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05fa65d4-92e8-4078-a050-4eff824f0fb5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-05fa65d4-92e8-4078-a050-4eff824f0fb5
 - text: Petersen organised for Greer and Stanton Friedman to compile a list of 20
     significant redacted documents
   source: In Plain Sight
@@ -205,7 +198,6 @@ references:
   claim_id: d9b7742e-2c51-45e6-83ef-110f401a63f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9b7742e-2c51-45e6-83ef-110f401a63f2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9b7742e-2c51-45e6-83ef-110f401a63f2
 - text: Petersen denied the CIA reached out to Greer or that Woolsey requested the
     dinner
   source: In Plain Sight
@@ -217,7 +209,6 @@ references:
   claim_id: 329eff05-c536-499d-b77a-841a4700de02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-329eff05-c536-499d-b77a-841a4700de02
 - text: 'Coulthart: Woolsey likely felt obliged to deny the meeting if embarrassed'
   source: In Plain Sight
   location: ch14:3705-3879
@@ -227,7 +218,6 @@ references:
   claim_id: b6556c56-1465-479e-83a6-2c7a45c825d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6556c56-1465-479e-83a6-2c7a45c825d5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b6556c56-1465-479e-83a6-2c7a45c825d5
 - text: 'Coulthart: possible Woolsey was genuinely motivated to investigate Greer''s
     claims'
   source: In Plain Sight
@@ -239,7 +229,6 @@ references:
   claim_id: c0be1f3d-52c5-45fc-a919-9f481eb9f1b0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c0be1f3d-52c5-45fc-a919-9f481eb9f1b0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c0be1f3d-52c5-45fc-a919-9f481eb9f1b0
 - text: 'Coulthart: Greer''s outing of Woolsey damaged prospects of officials speaking
     out'
   source: In Plain Sight
@@ -250,7 +239,6 @@ references:
   claim_id: 2f5cc626-40ee-4c33-8987-eff55fc41c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2f5cc626-40ee-4c33-8987-eff55fc41c6b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2f5cc626-40ee-4c33-8987-eff55fc41c6b
 - text: Greer entered the Pentagon in April 1997, escorted to the DIA Deputy Director's
     offices
   source: In Plain Sight
@@ -262,7 +250,6 @@ references:
   claim_id: 3b4b6352-274c-4bd5-bae5-79f4b49b2c41
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
 - text: Miller told Greer about his conversation with Wilson
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:9668-9692
@@ -279,7 +266,6 @@ references:
   claim_id: d0e2eefe-7e4f-4153-b53a-70c6c872ed02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d0e2eefe-7e4f-4153-b53a-70c6c872ed02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d0e2eefe-7e4f-4153-b53a-70c6c872ed02
 - text: Greer held a Georgetown hotel briefing for congressmen on 9 April 1997
   source: In Plain Sight
   location: ch14:8767-8910
@@ -288,7 +274,6 @@ references:
   claim_id: 73ebff84-c6dd-468e-8e88-f3568894d70a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-73ebff84-c6dd-468e-8e88-f3568894d70a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-73ebff84-c6dd-468e-8e88-f3568894d70a
 - text: Greer sent Wilson's staff a leaked NRO document listing SAP codenames
   source: In Plain Sight
   location: ch14:9972-10214
@@ -299,7 +284,6 @@ references:
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
 - text: The leaked document related to the July 1991 Nellis AFB lockdown
   source: In Plain Sight
   location: ch14:12366-12488
@@ -308,7 +292,6 @@ references:
   claim_id: b3b22453-88de-4282-8abe-c289607fe19d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3b22453-88de-4282-8abe-c289607fe19d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b3b22453-88de-4282-8abe-c289607fe19d
 - text: Greer says Wilson was upset codenames were unknown to him
   source: In Plain Sight
   location: ch14:12137-12352
@@ -318,7 +301,6 @@ references:
   claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
 - text: The alleged cover-up was said to be secret even from the DIA's second-highest
     official
   source: In Plain Sight
@@ -331,7 +313,6 @@ references:
   claim_id: d71594d4-6b32-4c72-a87a-5f04d66bcfcb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d71594d4-6b32-4c72-a87a-5f04d66bcfcb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d71594d4-6b32-4c72-a87a-5f04d66bcfcb
 - text: Greer, Miller and Mitchell gave a talk with Crawford and Hughes present, April
     1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -350,7 +331,6 @@ references:
   claim_id: b2b48e82-7670-4798-aa90-f73fcb46f08c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2b48e82-7670-4798-aa90-f73fcb46f08c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2b48e82-7670-4798-aa90-f73fcb46f08c
 - text: Greer, Miller and Mitchell presented what they believed was strong witness
     evidence of a cover-up
   source: In Plain Sight
@@ -363,7 +343,6 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
 - text: 'Greer: Wilson recognised a codename, was told ''you don''t have a need to
     know'', line blocked'
   source: In Plain Sight
@@ -376,7 +355,6 @@ references:
   claim_id: 672c4936-34c3-4b7f-ba71-940f39a64eab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-672c4936-34c3-4b7f-ba71-940f39a64eab
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-672c4936-34c3-4b7f-ba71-940f39a64eab
 - text: 'Greer: Wilson began cancelling other appointments during the briefing'
   source: In Plain Sight
   location: ch14:14450-14574
@@ -385,7 +363,6 @@ references:
   claim_id: 94f565f5-4115-4176-b4de-fc3dec1167ab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94f565f5-4115-4176-b4de-fc3dec1167ab
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-94f565f5-4115-4176-b4de-fc3dec1167ab
 - text: 'Greer: MJ-12 discussed; aide said ''we know it exists'' but Joint Staff had
     no need to know'
   source: In Plain Sight
@@ -398,7 +375,6 @@ references:
   claim_id: 97e71932-9336-475b-9c9b-320b2f0e8228
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97e71932-9336-475b-9c9b-320b2f0e8228
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97e71932-9336-475b-9c9b-320b2f0e8228
 - text: 'Greer: Wilson reacted with horror at not having known'
   source: In Plain Sight
   location: ch14:16792-17105
@@ -409,7 +385,6 @@ references:
   claim_id: b79323bc-807d-4c02-8888-dbd9e34bd663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b79323bc-807d-4c02-8888-dbd9e34bd663
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b79323bc-807d-4c02-8888-dbd9e34bd663
 - text: 'Greer: Wilson angry at the illegality and risk posed by the rogue group'
   source: In Plain Sight
   location: ch14:17317-17564
@@ -420,7 +395,6 @@ references:
   claim_id: dd01e1a8-054f-4770-bd64-936d1c61d019
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd01e1a8-054f-4770-bd64-936d1c61d019
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dd01e1a8-054f-4770-bd64-936d1c61d019
 - text: 'Greer: told Wilson the group had ARV technology able to circle a B-2 bomber'
   source: In Plain Sight
   location: ch14:17579-17746
@@ -431,7 +405,6 @@ references:
   claim_id: 3c928d17-0863-4732-a576-3b91f2357b35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c928d17-0863-4732-a576-3b91f2357b35
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c928d17-0863-4732-a576-3b91f2357b35
 - text: 'Greer: Wilson gave him permission to go to the media, calling the group illegal'
   source: In Plain Sight
   location: ch14:17755-17994
@@ -441,7 +414,6 @@ references:
   claim_id: 69a61d8d-c680-46a5-84a6-8eef1fd1db17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-69a61d8d-c680-46a5-84a6-8eef1fd1db17
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-69a61d8d-c680-46a5-84a6-8eef1fd1db17
 - text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
@@ -450,7 +422,6 @@ references:
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
 - text: Miller supported Greer's account of Wilson's frustration
   source: In Plain Sight
   location: ch14:15145-15234
@@ -459,7 +430,6 @@ references:
   claim_id: ade03666-fb02-471b-91e5-44b987726c58
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ade03666-fb02-471b-91e5-44b987726c58
 - text: Adamiak, Lovekin, Mitchell and Miller backed Greer's account of the meeting
   source: In Plain Sight
   location: ch14:23846-23991
@@ -468,7 +438,6 @@ references:
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-105688f2-9437-443c-8f5f-5666f6d5996e
 - text: 'Coulthart: Wilson confirmed the meeting to Richard Dolan over a decade later'
   source: In Plain Sight
   location: ch14:20976-21102
@@ -477,7 +446,6 @@ references:
   claim_id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
 - text: Wilson called the rest of Greer's account 'poppycock' and hung up on Dolan
   source: In Plain Sight
   location: ch14:21243-21350
@@ -486,7 +454,6 @@ references:
   claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
 - text: 'Coulthart: something about Greer''s briefing accounts does not ring wholly
     plausible'
   source: In Plain Sight
@@ -497,7 +464,6 @@ references:
   claim_id: df89bcbb-fa26-4798-874a-440007152f19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df89bcbb-fa26-4798-874a-440007152f19
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df89bcbb-fa26-4798-874a-440007152f19
 - text: Coulthart suspects this stems from how Greer casts himself as better informed
     than officials
   source: In Plain Sight
@@ -508,7 +474,6 @@ references:
   claim_id: 2c53d2c3-18ef-4582-ad1c-f756a0468923
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c53d2c3-18ef-4582-ad1c-f756a0468923
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2c53d2c3-18ef-4582-ad1c-f756a0468923
 - text: 'Coulthart: remarkable Greer briefed DIA twice, but the confirmation claim
     strains credibility'
   source: In Plain Sight
@@ -521,7 +486,6 @@ references:
   claim_id: 6370b973-8d9b-46e7-9c43-8a3113f236e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6370b973-8d9b-46e7-9c43-8a3113f236e4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6370b973-8d9b-46e7-9c43-8a3113f236e4
 - text: 'Coulthart: outing Wilson and Hughes sent an unhelpful message to other officials'
   source: In Plain Sight
   location: ch14:19319-19573
@@ -532,7 +496,6 @@ references:
   claim_id: 6d895de9-4223-4e93-88df-575e62b21cec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d895de9-4223-4e93-88df-575e62b21cec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6d895de9-4223-4e93-88df-575e62b21cec
 - text: 'Coulthart: hard to escape the conclusion Wilson felt improperly blocked'
   source: In Plain Sight
   location: ch14:23600-23760
@@ -542,7 +505,6 @@ references:
   claim_id: bf6a0798-7fad-42a8-9f4e-65f066fd8924
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf6a0798-7fad-42a8-9f4e-65f066fd8924
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf6a0798-7fad-42a8-9f4e-65f066fd8924
 - text: Hughes invited Greer and Miller back months after the April 1997 meeting
   source: In Plain Sight
   location: ch14:23223-23369
@@ -551,7 +513,6 @@ references:
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
 - text: In 1998 Greer was invited back to the DIA to brief Hughes on UFOs
   source: In Plain Sight
   location: ch14:18395-18635
@@ -562,7 +523,6 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: 'Greer: Hughes produced an alien doll, saying inquiries yielded nothing else'
   source: In Plain Sight
   location: ch14:18642-18969
@@ -574,7 +534,6 @@ references:
   claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
 - text: The Admiral Wilson Memo supports what Greer's group said Wilson told them
   source: In Plain Sight
   location: ch26:2846-3151
@@ -585,7 +544,6 @@ references:
   claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
 - text: The memo asserted Wilson searched for the Pentagon's 'UFO files' after the
     briefing
   source: In Plain Sight
@@ -595,7 +553,6 @@ references:
   claim_id: ba123bd0-11eb-42e0-b1f8-d0ba8be8e7f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba123bd0-11eb-42e0-b1f8-d0ba8be8e7f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba123bd0-11eb-42e0-b1f8-d0ba8be8e7f7
 - text: If authentic, the memo indicates Wilson found a secret group and was blocked
     from learning more
   source: In Plain Sight
@@ -607,7 +564,6 @@ references:
   claim_id: eb17d750-9b2b-4fc1-a7d7-69c676a47745
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb17d750-9b2b-4fc1-a7d7-69c676a47745
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb17d750-9b2b-4fc1-a7d7-69c676a47745
 - text: Greer has claimed dark forces were trying to kill him or his colleagues
   source: In Plain Sight
   location: ch14:5898-6064
@@ -617,7 +573,6 @@ references:
   claim_id: 2900458d-a351-4934-a940-eccff267dc89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2900458d-a351-4934-a940-eccff267dc89
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2900458d-a351-4934-a940-eccff267dc89
 - text: Greer says Clinton's office cited fear of assassination like JFK as a reason
     not to push
   source: In Plain Sight
@@ -629,7 +584,6 @@ references:
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
 - text: Greer's book claims he and Adamiak had cancers caused by an EM weapon in Utah
   source: In Plain Sight
   location: ch14:6595-6893
@@ -640,7 +594,6 @@ references:
   claim_id: aafb39a3-132d-4589-ae2b-2ad0cf726e8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aafb39a3-132d-4589-ae2b-2ad0cf726e8c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aafb39a3-132d-4589-ae2b-2ad0cf726e8c
 - text: 'Coulthart: no evidence supports the EM weapon claim'
   source: In Plain Sight
   location: ch14:6895-6927
@@ -648,7 +601,6 @@ references:
   claim_id: f5ae349a-80c4-4624-9113-f097959ab7ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5ae349a-80c4-4624-9113-f097959ab7ee
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f5ae349a-80c4-4624-9113-f097959ab7ee
 - text: Greer claims William Colby was assassinated for planning to help his organisation
   source: In Plain Sight
   location: ch14:6934-7133
@@ -658,7 +610,6 @@ references:
   claim_id: 352bcef9-3e73-4c31-8c1a-d6fcb191dbcf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-352bcef9-3e73-4c31-8c1a-d6fcb191dbcf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-352bcef9-3e73-4c31-8c1a-d6fcb191dbcf
 - text: 'Coulthart: no evidence supports the Colby assassination claim'
   source: In Plain Sight
   location: ch14:6934-7133
@@ -668,7 +619,6 @@ references:
   claim_id: d96ac246-9bc0-4918-84b3-a15f6fe75aa8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d96ac246-9bc0-4918-84b3-a15f6fe75aa8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d96ac246-9bc0-4918-84b3-a15f6fe75aa8
 - text: Greer says his dog Yami absorbed some of the EM weapon's effect
   source: In Plain Sight
   location: ch14:7190-7359
@@ -678,7 +628,6 @@ references:
   claim_id: cb606ff5-427b-4878-9157-892d9827e24d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb606ff5-427b-4878-9157-892d9827e24d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cb606ff5-427b-4878-9157-892d9827e24d
 - text: Greer calls the UAP-as-alien-threat narrative a 'false threat narrative'
   source: In Plain Sight
   location: ch25:20552-20652
@@ -687,7 +636,6 @@ references:
   claim_id: f2850bd8-39e9-4ce3-8a8d-ccff6be7d485
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2850bd8-39e9-4ce3-8a8d-ccff6be7d485
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2850bd8-39e9-4ce3-8a8d-ccff6be7d485
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

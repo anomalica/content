@@ -106,7 +106,6 @@ references:
   claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
 - text: Former director of Advanced Systems Development at Lockheed Martin's Skunk
     Works division
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -116,7 +115,6 @@ references:
   claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
 - text: Headed TTSA's aerospace division at its 2017 launch
   source: In Plain Sight
   location: ch21:1170-1272
@@ -125,7 +123,6 @@ references:
   claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
 - text: Finished as director of advanced systems at Skunk Works a month before the
     October 2017 launch
   source: In Plain Sight
@@ -135,7 +132,6 @@ references:
   claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
 - text: Was Chief Operating Officer of To The Stars Academy of Arts & Sciences
   source: In Plain Sight
   location: ch21:9242-9352
@@ -144,7 +140,6 @@ references:
   claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
 - text: During the announcement, described the aerospace division's role harvesting
     technologies from the science division to build prototypes
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
@@ -166,7 +161,6 @@ references:
   claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f36be07b-772b-495e-bf18-61a2d52681bb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f36be07b-772b-495e-bf18-61a2d52681bb
 - text: Said the vehicle mimics UAP capabilities via a drive system altering the space-time
     metric
   source: In Plain Sight
@@ -176,7 +170,6 @@ references:
   claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5709d803-d1ad-43f8-89c6-fb29dafc18ad
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5709d803-d1ad-43f8-89c6-fb29dafc18ad
 - text: Elizondo tells Justice, then Director of the aerospace division, that the
     company has multiple metamaterials samples
   source: In Plain Sight
@@ -188,7 +181,6 @@ references:
   claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae288279-4321-4651-ad08-654c6e8ebf02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ae288279-4321-4651-ad08-654c6e8ebf02
 - text: Quote attached to a 2019 TTSA tweet on the Art's Parts sample's structure
     and composition
   source: In Plain Sight
@@ -200,7 +192,6 @@ references:
   claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
 - text: Stated in the tweet they were working to develop independent scientific proof
     of the materials' properties
   source: In Plain Sight
@@ -210,7 +201,6 @@ references:
   claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4d2ca8f-3957-444d-b666-f57a1be3c4e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b4d2ca8f-3957-444d-b666-f57a1be3c4e6
 - text: Said the expectations placed on him over the metamaterials work were huge
   source: In Plain Sight
   location: ch24:7121-7270
@@ -220,7 +210,6 @@ references:
   claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c9764af-1fb0-432f-a6bc-ef91aa3f3502
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2c9764af-1fb0-432f-a6bc-ef91aa3f3502
 - text: Left the TTSA project
   source: In Plain Sight
   location: ch24:7444-7537
@@ -229,7 +218,6 @@ references:
   claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
 - text: Coulthart considers it possible Justice's departure meant the Advanced Electromagnetic
     Vehicle project was shut down
   source: In Plain Sight
@@ -239,7 +227,6 @@ references:
   claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-361f3868-e1a1-4004-bcc5-9b28cf83901d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-361f3868-e1a1-4004-bcc5-9b28cf83901d
 - text: Speculation mounted that Mellon, Elizondo, and Justice were leaving TTSA
   source: In Plain Sight
   location: ch21:23469-23624
@@ -249,7 +236,6 @@ references:
   claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
 - text: DeLonge took months to formally admit to the SEC that Mellon, Elizondo, and
     Justice had departed
   source: In Plain Sight
@@ -259,7 +245,6 @@ references:
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
 - text: Mellon, Puthoff, and Justice moved on from TTSA after Elizondo did
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:12930-12984
@@ -267,7 +252,6 @@ references:
   claim_id: 322abff2-064d-4715-854d-a05b5bdb15ea
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-322abff2-064d-4715-854d-a05b5bdb15ea
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-322abff2-064d-4715-854d-a05b5bdb15ea
 - text: Is part of the group working with Elizondo on UAP disclosure efforts
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -288,7 +272,6 @@ references:
   claim_id: 5f155a23-b54a-4d82-adbb-33675b47e448
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-5f155a23-b54a-4d82-adbb-33675b47e448
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-5f155a23-b54a-4d82-adbb-33675b47e448
 - text: TTSA involved Mellon, Elizondo, Semivan, Justice, and Puthoff
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:48:19.7-00:48:35.4
@@ -307,7 +290,6 @@ references:
   claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf86b2a2-94a5-4368-a500-7a138736fc72
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf86b2a2-94a5-4368-a500-7a138736fc72
 - text: Believes there is no such thing as impossible, only something one has not
     seen yet
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -317,7 +299,6 @@ references:
   claim_id: 068bc415-c79a-4396-ad2c-1541d693edf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-068bc415-c79a-4396-ad2c-1541d693edf5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-068bc415-c79a-4396-ad2c-1541d693edf5
 - text: Read a 1976 US Air Force magazine article about flying the U-2
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:26:29.3-00:26:32.0

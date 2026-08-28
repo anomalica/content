@@ -58,7 +58,6 @@ references:
   claim_id: cfbf5455-4e9a-438c-ac60-1a546fe62e57
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cfbf5455-4e9a-438c-ac60-1a546fe62e57
 - text: Fravor moved to the F/A-18 Hornet from the A-6 Intruder and had to learn dogfighting.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -104,7 +103,6 @@ references:
   claim_id: d3c3bec6-4c7b-489b-b707-982fb34f865c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d3c3bec6-4c7b-489b-b707-982fb34f865c
 - text: The wingman's radar briefly locked onto the object before losing the lock,
     prompting a switch to the targeting pod.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -116,7 +114,6 @@ references:
   claim_id: 9b5fed50-ec5f-4189-bc85-a5c47b194821
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9b5fed50-ec5f-4189-bc85-a5c47b194821
 - text: The object took evasive manoeuvres to maintain distance from Fravor's closing
     F/A-18 Super Hornet.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -136,7 +133,6 @@ references:
   claim_id: fa7cefb6-4223-4a02-9bb5-e9b605118d1d
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-fa7cefb6-4223-4a02-9bb5-e9b605118d1d
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-fa7cefb6-4223-4a02-9bb5-e9b605118d1d
 - text: Fravor estimated the object's length at about 12 metres, comparing it to the
     size of an F/A-18 Hornet.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -167,7 +163,6 @@ references:
   claim_id: 85f16f6e-52b5-480d-a3de-785caf1e3b07
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

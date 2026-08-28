@@ -61,7 +61,6 @@ references:
   claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9725d5f4-e744-4876-a353-c6064d8da600
 - text: If not for Gaetz's involvement, the group would still be at Eglin trying to
     get answers
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -73,7 +72,6 @@ references:
   claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-771089ea-4d90-4e9c-979c-a78b450716cc
 - text: Grothman waived Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez, and Ogles
     onto the Subcommittee for the hearing
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -86,7 +84,6 @@ references:
   claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
 - text: Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez
     were present at the hearing
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -97,7 +94,6 @@ references:
   claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
 - text: Burlison announced David Grusch as a Special Advisor
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -108,7 +104,6 @@ references:
   claim_id: 759ea0cb-9454-40d6-a5cf-253703128ea5
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-759ea0cb-9454-40d6-a5cf-253703128ea5
 - text: Grusch will contribute expertise to Burlison's transparency efforts on UAP
     and the Task Force on the Declassification of Federal Secrets
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -120,7 +115,6 @@ references:
   claim_id: aca2c343-62fc-4a9b-a375-d55eb5e1488e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-aca2c343-62fc-4a9b-a375-d55eb5e1488e
 - text: Burlison said the American people deserve answers about UAP
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -129,7 +123,6 @@ references:
   claim_id: 3dc20078-d173-4aae-8334-3f378c4aa134
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3dc20078-d173-4aae-8334-3f378c4aa134
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3dc20078-d173-4aae-8334-3f378c4aa134
 - text: Burlison said Grusch has risked his career to expose critical information
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -138,7 +131,6 @@ references:
   claim_id: f13877ef-b5f2-4f6a-9404-af14301f7784
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-f13877ef-b5f2-4f6a-9404-af14301f7784
 - text: Burlison said he considers Grusch's expertise vital to uncovering the truth
     about UAP and holding the government accountable
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -149,7 +141,6 @@ references:
   claim_id: bbfdcf11-0549-4c24-b17a-68d8fa3022d4
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-bbfdcf11-0549-4c24-b17a-68d8fa3022d4
 - text: Grusch said he was honoured to join Burlison's team in pushing for government
     transparency
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -161,7 +152,6 @@ references:
   claim_id: 166a21c8-313a-4461-b5d6-75968472d2b1
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-166a21c8-313a-4461-b5d6-75968472d2b1
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-166a21c8-313a-4461-b5d6-75968472d2b1
 - text: Grusch said he would use his expertise to help Congress hold accountable those
     who lied to Congress, the ODNI, and the DOJ
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
@@ -175,7 +165,6 @@ references:
   claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-45334181-cfe9-4519-b7d2-5cbc55e0418d
 - text: Burlison was briefed about plasmoid-type phenomena observed at a Western United
     States military installation
   source: 'Episode 73: Science vs. Secrecy'

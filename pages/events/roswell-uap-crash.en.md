@@ -131,6 +131,7 @@ references:
   claim_id: 890868b7-e305-4fe7-a90e-16ae0f1f211c
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   workbench_url: https://workbench.anomalica.is/49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-890868b7-e305-4fe7-a90e-16ae0f1f211c
 - text: On 8 July 1947, Colonel William Blanchard ordered Walter Haut to issue a press
     release announcing that the US Army had recovered a flying disc.
   source: In Plain Sight (2021)

@@ -299,7 +299,6 @@ references:
   claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d57c1c5-3477-418e-a95d-dcee17eecbd0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6d57c1c5-3477-418e-a95d-dcee17eecbd0
 - text: Martin Bormann assembled German industry leaders at the Maison Rouge meeting
     in Paris.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

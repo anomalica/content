@@ -170,7 +170,6 @@ references:
   claim_id: 59a69afa-687d-4de2-a351-0ca77a473a40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a69afa-687d-4de2-a351-0ca77a473a40
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-59a69afa-687d-4de2-a351-0ca77a473a40
 - text: Elizondo told CNN's Erin Burnett he wanted the data to speak for itself on
     whether the objects were aliens.
   source: In Plain Sight
@@ -184,7 +183,6 @@ references:
   claim_id: 04988731-ea44-4ccb-abb0-09a14e7eaf57
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-04988731-ea44-4ccb-abb0-09a14e7eaf57
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-04988731-ea44-4ccb-abb0-09a14e7eaf57
 - text: Neil DeGrasse Tyson told CNN he was not convinced by the UAP evidence.
   source: In Plain Sight
   location: ch21:17056-17199
@@ -193,7 +191,6 @@ references:
   claim_id: bce2ad04-0841-4e5a-84c9-7369f82348ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bce2ad04-0841-4e5a-84c9-7369f82348ac
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bce2ad04-0841-4e5a-84c9-7369f82348ac
 - text: Calls flooded Elizondo's home from major networks, including CNN, after December
     2017 coverage.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -202,7 +199,6 @@ references:
   claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e913fdc-268f-4405-adf7-41005f83a22b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1e913fdc-268f-4405-adf7-41005f83a22b
 - text: Elizondo and Jennifer were approached by James Clapper in CNN's greenroom.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25015-25157
@@ -211,7 +207,6 @@ references:
   claim_id: 98903661-01f9-4138-bbcd-398b8713311e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-98903661-01f9-4138-bbcd-398b8713311e
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -92,7 +92,6 @@ references:
   claim_id: 9303c476-64f9-4867-8047-a925e45064f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9303c476-64f9-4867-8047-a925e45064f1
 - text: Chierici's account confirmed ONI investigated the Nimitz encounter
   source: In Plain Sight
   location: ch22:19525-19603
@@ -101,7 +100,6 @@ references:
   claim_id: 2c17b620-697b-4571-84f4-995bee4388f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c17b620-697b-4571-84f4-995bee4388f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2c17b620-697b-4571-84f4-995bee4388f7
 - text: ONI admitted holding Top Secret records and a Secret video on the Nimitz incident
   source: In Plain Sight
   location: ch34:48917-49107
@@ -111,7 +109,6 @@ references:
   claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
 - text: Senators received a classified Pentagon briefing, including ONI, on UAV sightings
     in 2019
   source: In Plain Sight
@@ -123,7 +120,6 @@ references:
   claim_id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
 - text: Mellon was an unpaid ONI consultant in 2017 after retiring from the Pentagon
     and Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -134,7 +130,6 @@ references:
   claim_id: 133a35c0-c743-4489-a717-4db5420c0bfd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-133a35c0-c743-4489-a717-4db5420c0bfd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-133a35c0-c743-4489-a717-4db5420c0bfd
 - text: Stratton's 32-year military career culminated at ONI
   source: In Plain Sight
   location: ch30:12162-12350
@@ -144,7 +139,6 @@ references:
   claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
 - text: Grusch testified that the CIA, ONI and FFRDCs analysed recovered UAP material
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:06:53.9-00:07:02.9

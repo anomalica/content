@@ -268,7 +268,6 @@ references:
   claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e59c0f57-d34c-4691-b499-4cc425233baf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e59c0f57-d34c-4691-b499-4cc425233baf
 - text: Elizondo's Arlington office building also housed Boeing Aerospace departments,
     including Phantom Works.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -281,7 +280,6 @@ references:
   claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
 - text: Boeing Phantom Works is the division developing Boeing's future technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:2036-2184
@@ -290,7 +288,6 @@ references:
   claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
 - text: Elizondo said Boeing and other named firms were involved in the Legacy Program
     to retrieve and reverse-engineer crash materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -301,7 +298,6 @@ references:
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
 - text: Graves said Boeing contractors near Vandenberg saw a roughly 90-metre red
     square object approach from the sea in 2003.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -314,7 +310,6 @@ references:
   claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-406b4c0a-9bbe-4be1-8d8f-bb00c035c258
 - text: Graves said his account came from a witness and he had no further detail on
     that relationship.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -325,7 +320,6 @@ references:
   claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-a85682b5-4712-4b84-8f6b-044b8eb77b69
 - text: Lockheed Martin, Boeing, and DARPA developed the RQ-3 Dark Star in the mid-to-late
     1990s.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -336,7 +330,6 @@ references:
   claim_id: b5c87687-4878-4768-b435-084dc902ecea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5c87687-4878-4768-b435-084dc902ecea
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5c87687-4878-4768-b435-084dc902ecea
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -166,7 +166,6 @@ references:
   claim_id: 8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
 - text: Vatican has collected intelligence over the millennia from eyewitness reports
     and confessional anecdotes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -177,7 +176,6 @@ references:
   claim_id: 47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
 - text: Church routinely polled priests about what troubled their parishioners
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:43318-43426
@@ -186,7 +184,6 @@ references:
   claim_id: e06d69da-6fba-44b8-a845-b0df8301dbeb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e06d69da-6fba-44b8-a845-b0df8301dbeb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e06d69da-6fba-44b8-a845-b0df8301dbeb
 - text: Samosa certain the Vatican knows something about UFOs
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 02:17:50.6-02:17:55.4

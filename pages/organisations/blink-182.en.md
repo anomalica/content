@@ -43,7 +43,6 @@ references:
   claim_id: 22410738-59ee-43df-81ef-6c4638747374
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22410738-59ee-43df-81ef-6c4638747374
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22410738-59ee-43df-81ef-6c4638747374
 - text: By 1999, as lead singer, DeLonge was a megastar filling stadiums worldwide
   source: In Plain Sight
   location: ch18:9536-9656
@@ -52,7 +51,6 @@ references:
   claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
 - text: In June 1999 the band released Enema of the State, its cover featuring Janine
     Lindemulder
   source: In Plain Sight
@@ -63,7 +61,6 @@ references:
   claim_id: 2751925b-97fc-44d0-8113-5d80a1de3981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2751925b-97fc-44d0-8113-5d80a1de3981
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2751925b-97fc-44d0-8113-5d80a1de3981
 - text: John Lydon dismissed Blink-182 as 'a bunch of silly boys'
   source: In Plain Sight
   location: ch18:9715-9818
@@ -72,7 +69,6 @@ references:
   claim_id: 0c6d475c-5c9a-4028-8322-210ad8deaa30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c6d475c-5c9a-4028-8322-210ad8deaa30
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c6d475c-5c9a-4028-8322-210ad8deaa30
 - text: DeLonge developed an interest in the UFO subject from a young age, possibly
     predating the band's formation
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -101,7 +97,6 @@ references:
   claim_id: 0fe34a35-e9ef-4e50-9430-a38aa76a983f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
 - text: DeLonge's relationship with the band went on indefinite hiatus, partly to
     focus on UAP research
   source: In Plain Sight
@@ -112,7 +107,6 @@ references:
   claim_id: f8f05b75-00f1-485a-9bb7-aafcd60935e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8f05b75-00f1-485a-9bb7-aafcd60935e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f8f05b75-00f1-485a-9bb7-aafcd60935e6
 - text: Shortly before leaving, DeLonge served as master of ceremonies at a defence
     aerospace contractor's family open house
   source: In Plain Sight
@@ -124,7 +118,6 @@ references:
   claim_id: 7822dcc3-ea39-4a9c-a637-9be738869008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7822dcc3-ea39-4a9c-a637-9be738869008
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7822dcc3-ea39-4a9c-a637-9be738869008
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

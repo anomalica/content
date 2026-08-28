@@ -176,7 +176,6 @@ references:
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
 - text: DoD Instruction 5240.22 authorises OUSD(I&S) to set counterintelligence policy
     for counterterrorism and force protection
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -187,7 +186,6 @@ references:
   claim_id: cc7edb7a-daff-4be0-8243-5a44542aeced
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-cc7edb7a-daff-4be0-8243-5a44542aeced
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-cc7edb7a-daff-4be0-8243-5a44542aeced
 - text: Elizondo assigned to OUSDI 2008-09-28 to 2017-10-04
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4801-4874
@@ -216,7 +214,6 @@ references:
   claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a85d80d-06cd-475c-91c5-66490a3bd7a0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6a85d80d-06cd-475c-91c5-66490a3bd7a0
 - text: Elizondo accepted a new position as Director of National Programs, Special
     Management Staff, within OSD
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -227,7 +224,6 @@ references:
   claim_id: bc152a7e-b967-4224-8676-4e9574525224
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bc152a7e-b967-4224-8676-4e9574525224
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bc152a7e-b967-4224-8676-4e9574525224
 - text: AATIP launched from OUSDI, managed by Elizondo
   source: Statement to Congress
   location: char:8712-8867
@@ -246,7 +242,6 @@ references:
   claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
 - text: Sherwood based this on conversations with OUSDI leadership present when Elizondo
     started
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -257,7 +252,6 @@ references:
   claim_id: 0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
 - text: Susan Gough said Elizondo had no assigned AATIP responsibilities while at
     OUSD(I)
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP
@@ -267,7 +261,6 @@ references:
   claim_id: c9180952-4586-428d-a5f9-f32a5cecc0af
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
 - text: Elizondo's alleged AATIP leadership began 2010 at OUSDI when the programme
     transferred there
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP
@@ -277,7 +270,6 @@ references:
   claim_id: 8b282c45-efaf-4670-bdd1-a10228f053d6
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-8b282c45-efaf-4670-bdd1-a10228f053d6
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-8b282c45-efaf-4670-bdd1-a10228f053d6
 - text: Question raised over Puthoff working under Elizondo given AAWSAP/AATIP began
     2008 at DIA, Elizondo's leadership 2010 at OUSDI
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP
@@ -288,7 +280,6 @@ references:
   claim_id: c69b7a94-6fe1-42b9-b60d-8b1606552a29
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c69b7a94-6fe1-42b9-b60d-8b1606552a29
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c69b7a94-6fe1-42b9-b60d-8b1606552a29
 - text: First resignation letter dated 2017-10-03, effective 2017-10-04, Director
     National Programs Special Management Staff, deferred retirement requested
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -313,7 +304,6 @@ references:
   claim_id: 4944fd17-2c01-4a8c-94d1-9b32589c8341
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4944fd17-2c01-4a8c-94d1-9b32589c8341
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4944fd17-2c01-4a8c-94d1-9b32589c8341
 - text: Elizondo cleared out of OUSDI the day after submitting the letter
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5357-5393
@@ -439,7 +429,6 @@ references:
   claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
 - text: Garry Reid replaced Michael Higgins, came from special operations community,
     unrelated to Senator Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -450,7 +439,6 @@ references:
   claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-900dd4a3-9342-437d-9180-a6de8346dbad
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-900dd4a3-9342-437d-9180-a6de8346dbad
 - text: Neill Tipton was among the top three senior officials in OUSD(I), rank equivalent
     to a three-star general
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -460,7 +448,6 @@ references:
   claim_id: 053ffe93-45e1-4e36-9d2a-e634b5ee142c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-053ffe93-45e1-4e36-9d2a-e634b5ee142c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-053ffe93-45e1-4e36-9d2a-e634b5ee142c
 - text: Elizondo gave Tipton a full briefing, UAP reports, and access to OUSD(I)'s
     classified share drive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -471,7 +458,6 @@ references:
   claim_id: d59a96b7-d0f2-4e24-b5ed-3c964044fe10
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d59a96b7-d0f2-4e24-b5ed-3c964044fe10
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d59a96b7-d0f2-4e24-b5ed-3c964044fe10
 - text: Brad Byers was hesitant to brief Mattis until OUSD(I) had a permanent Senate-confirmed
     appointee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -483,7 +469,6 @@ references:
   claim_id: 8d38261f-f9bd-4082-8855-60dfb2c1b6a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8d38261f-f9bd-4082-8855-60dfb2c1b6a1
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8d38261f-f9bd-4082-8855-60dfb2c1b6a1
 - text: Stratton and Elizondo submitted Operation Plan Interloper via ACCM process,
     bypassing OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -495,7 +480,6 @@ references:
   claim_id: 37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
 - text: Employees filed charges with the DoD Inspector General about Reid's conduct
     at OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -505,7 +489,6 @@ references:
   claim_id: c7a7e9ca-5253-4925-84f0-7e926b8e93c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
 - text: Garry Reid was reassigned from OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40978-41023
@@ -513,7 +496,6 @@ references:
   claim_id: 3c440f66-1d63-4144-8ea6-79d9d831935b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
 - text: Elizondo says colleagues told him Reid planned a criminal inquiry with AFOSI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6566-6727
@@ -523,7 +505,6 @@ references:
   claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-41f64a5e-8363-4963-a189-a8ac6b46cd23
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-41f64a5e-8363-4963-a189-a8ac6b46cd23
 - text: Elizondo says someone at OUSD(I) authorised deletion of all his electronic
     files per a Pentagon FOIA response
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -535,7 +516,6 @@ references:
   claim_id: 10e36531-a250-4832-9d33-d971309aa8db
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10e36531-a250-4832-9d33-d971309aa8db
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10e36531-a250-4832-9d33-d971309aa8db
 - text: Elizondo characterises OUSD(I) as the organisation that underplayed and tried
     to kill AATIP and the UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -545,7 +525,6 @@ references:
   claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
 - text: UAPTF was led by the Department of the Navy under OUSD(I&S)
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1723-1848
@@ -554,7 +533,6 @@ references:
   claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
 - text: Nov 2021 memo directed OUSD(I&S) to establish AOIMSG as successor to UAPTF
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:6946-7315
@@ -566,7 +544,6 @@ references:
   claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
 - text: Deputy SecDef and DNI directed OUSD(I&S) to establish AOIMSG to succeed the
     Navy's UAPTF
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -578,7 +555,6 @@ references:
   claim_id: 71d963fc-908f-4c3e-bc86-537e69954eb9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-71d963fc-908f-4c3e-bc86-537e69954eb9
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-71d963fc-908f-4c3e-bc86-537e69954eb9
 - text: In response to NDAA FY22, AOIMSG renamed AARO with expanded scope, still under
     OUSD(I&S)
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -590,7 +566,6 @@ references:
   claim_id: 2c4213ce-0bfe-4e5d-be37-93f6574588cd
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2c4213ce-0bfe-4e5d-be37-93f6574588cd
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-2c4213ce-0bfe-4e5d-be37-93f6574588cd
 - text: NDAA FY22 assigned AARO, under OUSD(I&S), responsibility for synchronising
     UAP incident collection and analysis
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -600,7 +575,6 @@ references:
   claim_id: 555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
 - text: USD(I&S) noted the IG's findings largely predated AARO's establishment on
     2022-07-20
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -611,7 +585,6 @@ references:
   claim_id: e7de462d-cd47-4bb7-8b3d-62f1fba04ffb
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-e7de462d-cd47-4bb7-8b3d-62f1fba04ffb
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-e7de462d-cd47-4bb7-8b3d-62f1fba04ffb
 - text: DoD Inspector General interviewed senior officials at OUSD(I&S) and others
     on UAP detection and reporting
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -622,7 +595,6 @@ references:
   claim_id: af2385bf-f4de-47a0-bdac-6463416c2c9a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-af2385bf-f4de-47a0-bdac-6463416c2c9a
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-af2385bf-f4de-47a0-bdac-6463416c2c9a
 - text: IG will close Recommendation 1 once OUSD(I&S) and AARO issue a DoD UAP policy
   source: Unclassified Summary of Report No. DODIG-2023-109
   location: char:19290-19576
@@ -633,7 +605,6 @@ references:
   claim_id: 39332310-b5c2-424a-a18c-404db8904819
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39332310-b5c2-424a-a18c-404db8904819
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-39332310-b5c2-424a-a18c-404db8904819
 - text: USD(I&S), for OUSD(I&S) and AARO, agreed with the recommendation to issue
     such a policy
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -643,7 +614,6 @@ references:
   claim_id: f4d062e5-0642-42fd-8e21-0e1d94fefea5
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f4d062e5-0642-42fd-8e21-0e1d94fefea5
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-f4d062e5-0642-42fd-8e21-0e1d94fefea5
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

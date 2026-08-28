@@ -425,7 +425,6 @@ references:
   claim_id: 22f9ddc2-57c2-4c34-8f00-4d109b46796c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-22f9ddc2-57c2-4c34-8f00-4d109b46796c
 - text: Mitchell was part of the Apollo 14 mission
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:7949-8009
@@ -433,7 +432,6 @@ references:
   claim_id: ee99af1a-aa13-4804-a966-3fde3cd78d49
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee99af1a-aa13-4804-a966-3fde3cd78d49
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ee99af1a-aa13-4804-a966-3fde3cd78d49
 - text: Piloted the lunar module 1971-02-05, sixth man to walk on the Moon
   source: In Plain Sight
   location: ch14:8412-8552
@@ -442,7 +440,6 @@ references:
   claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
 - text: PhD in aeronautics and astronautics from MIT
   source: American Cosmic
   location: ch6:28474-28573
@@ -458,7 +455,6 @@ references:
   claim_id: efa8606b-7f3c-4890-ab59-2050d869f092
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-efa8606b-7f3c-4890-ab59-2050d869f092
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-efa8606b-7f3c-4890-ab59-2050d869f092
 - text: Grew up in Roswell, New Mexico, site of the 1947 crash
   source: American Cosmic
   location: ch6:23239-23335
@@ -475,7 +471,6 @@ references:
   claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
 - text: Saw Earth, Moon, Sun and heavens through cockpit window on return journey
   source: American Cosmic
   location: ch6:28996-29171
@@ -714,7 +709,6 @@ references:
   claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
 - text: Greer, Miller and Mitchell gave talk in Pentagon conference room, April 1997
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:1217-1381
@@ -735,7 +729,6 @@ references:
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
 - text: Mitchell confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
@@ -744,7 +737,6 @@ references:
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
 - text: Mitchell told Eric Davis about the episode only in 1999
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:9748-9803
@@ -760,7 +752,6 @@ references:
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-105688f2-9437-443c-8f5f-5666f6d5996e
 - text: Mitchell wrote a fax to Strom Thurmond, 1997-06
   source: In Plain Sight
   location: ch25:21612-21856
@@ -770,7 +761,6 @@ references:
   claim_id: b2e27efe-1398-41c8-920c-8080a71f0142
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e27efe-1398-41c8-920c-8080a71f0142
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b2e27efe-1398-41c8-920c-8080a71f0142
 - text: Told Thurmond he was convinced Corso's Roswell account was true
   source: In Plain Sight
   location: ch25:22626-22719
@@ -779,7 +769,6 @@ references:
   claim_id: 107a25a3-a891-4597-a349-786c0e2df703
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107a25a3-a891-4597-a349-786c0e2df703
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-107a25a3-a891-4597-a349-786c0e2df703
 - text: Served on NIDS science advisory board, retained confidential reports
   source: In Plain Sight
   location: ch15:18514-18748
@@ -789,7 +778,6 @@ references:
   claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9d08c98d-8100-4893-a12e-efb1204490f2
 - text: Bigelow invited Mitchell to serve on the NIDS advisory board
   source: In Plain Sight
   location: ch25:5021-5183
@@ -799,7 +787,6 @@ references:
   claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
 - text: Mitchell knew Hoagland from his NASA days
   source: Dark Mission
   location: ch11:141889-141954
@@ -907,7 +894,6 @@ references:
   claim_id: 7b67b464-3917-448b-a73b-e37373157574
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7b67b464-3917-448b-a73b-e37373157574
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7b67b464-3917-448b-a73b-e37373157574
 - text: Privately confided seeing anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
@@ -916,7 +902,6 @@ references:
   claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c60b194-cb19-4631-910b-68ce15bc269a
 - text: Saw well-defined blue lights with structure behind them
   source: In Plain Sight
   location: ch25:7434-7577
@@ -925,7 +910,6 @@ references:
   claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72407e94-cf18-498f-972b-8494ace077e6
 - text: Dismissed lens flare, reflection and camera-glitch explanations
   source: In Plain Sight
   location: ch25:10159-10385
@@ -935,7 +919,6 @@ references:
   claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
 - text: Told no one about the blue lights until confiding in The Spaceman
   source: In Plain Sight
   location: ch25:10391-10476
@@ -944,7 +927,6 @@ references:
   claim_id: eb7410fa-4b58-489f-bb45-0c26548afe01
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb7410fa-4b58-489f-bb45-0c26548afe01
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb7410fa-4b58-489f-bb45-0c26548afe01
 - text: Replied only 'Treason' when asked why he denied seeing UFOs
   source: In Plain Sight
   location: ch25:10599-10842
@@ -955,7 +937,6 @@ references:
   claim_id: cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cfdffb5a-0c3a-46ac-bd99-b7a250fe5a01
 - text: Believed every Apollo mission was watched by intelligently guided craft
   source: In Plain Sight
   location: ch25:7054-7400
@@ -967,7 +948,6 @@ references:
   claim_id: 93aef464-d0e3-4ebb-8a56-955d4674e2ca
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-93aef464-d0e3-4ebb-8a56-955d4674e2ca
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-93aef464-d0e3-4ebb-8a56-955d4674e2ca
 - text: Died of cancer in Florida, 2016-02-04, day before 45th landing anniversary
   source: In Plain Sight
   location: ch25:2688-2962
@@ -978,7 +958,6 @@ references:
   claim_id: 38940afc-3fdc-4358-a951-cb14f101301e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-38940afc-3fdc-4358-a951-cb14f101301e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-38940afc-3fdc-4358-a951-cb14f101301e
 - text: Nephew Mitch Harkins took possession of Mitchell's research files
   source: In Plain Sight
   location: ch25:12203-12432
@@ -988,7 +967,6 @@ references:
   claim_id: 5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cc3a645-0811-4e0f-a25d-bd15cdd4fec8
 - text: Harkins ensured sensitive files were preserved and passed to The Spaceman
   source: In Plain Sight
   location: ch25:12703-12820
@@ -997,7 +975,6 @@ references:
   claim_id: 8351d15f-b57d-4aac-94e3-b80959754cfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8351d15f-b57d-4aac-94e3-b80959754cfb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8351d15f-b57d-4aac-94e3-b80959754cfb
 - text: James Rigney briefly met Mitchell in 2012 at Apollo 17's 40th anniversary
   source: In Plain Sight
   location: ch25:1743-1852
@@ -1006,7 +983,6 @@ references:
   claim_id: 41ad01d6-f221-4719-abf8-431a4b3f5f24
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41ad01d6-f221-4719-abf8-431a4b3f5f24
 - text: Rigney clashed with colleagues over criticism of Mitchell's post-NASA work
   source: In Plain Sight
   location: ch25:1601-1732
@@ -1015,7 +991,6 @@ references:
   claim_id: 0db0d688-c386-4ee2-80ac-58ef70bd54cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0db0d688-c386-4ee2-80ac-58ef70bd54cf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0db0d688-c386-4ee2-80ac-58ef70bd54cf
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

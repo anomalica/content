@@ -120,7 +120,6 @@ references:
   claim_id: 30364433-6d8a-4bf1-abcf-aa43cfe054f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30364433-6d8a-4bf1-abcf-aa43cfe054f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-30364433-6d8a-4bf1-abcf-aa43cfe054f7
 - text: Vallée visited the Foreign Technology Division, where the USAF centralised
     its official UFO data
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -150,7 +149,6 @@ references:
   claim_id: 2fc7ad82-7736-4631-823a-0356db769002
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fc7ad82-7736-4631-823a-0356db769002
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fc7ad82-7736-4631-823a-0356db769002
 - text: Project Blue Book was based at Wright-Patterson near Dayton, Ohio
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -159,7 +157,6 @@ references:
   claim_id: 29899d23-8304-45af-ac3d-01b0230882e8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-29899d23-8304-45af-ac3d-01b0230882e8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-29899d23-8304-45af-ac3d-01b0230882e8
 - text: National Air and Space Intelligence Center headquartered at Wright-Patterson
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:14479-14530
@@ -167,7 +164,6 @@ references:
   claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-abf0e9da-8693-4761-ab8b-af418e3758b4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-abf0e9da-8693-4761-ab8b-af418e3758b4
 - text: Conspiracy theory alleges Roswell wreckage taken to Wright Field in 1947
   source: In Plain Sight
   location: ch27:17819-17994
@@ -177,7 +173,6 @@ references:
   claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
 - text: Alien corpses from Roswell allegedly sent to Wright-Patterson
   source: In Plain Sight
   location: ch23:1206-1324
@@ -186,7 +181,6 @@ references:
   claim_id: aea2b7f1-cb61-4be9-90f9-8934c7c2432e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aea2b7f1-cb61-4be9-90f9-8934c7c2432e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aea2b7f1-cb61-4be9-90f9-8934c7c2432e
 - text: 'Ramsay: crashed Roswell craft reportedly dragged to Wright-Patterson'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10
@@ -224,7 +218,6 @@ references:
   claim_id: 692be948-667e-47a5-a940-0cc9d7161f21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-692be948-667e-47a5-a940-0cc9d7161f21
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-692be948-667e-47a5-a940-0cc9d7161f21
 - text: Air Force Research Laboratory is where Roswell wreckage was rumoured to have
     been taken
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -251,7 +244,6 @@ references:
   claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bae97258-0aac-4690-b461-502f1b8a7df7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bae97258-0aac-4690-b461-502f1b8a7df7
 - text: Exon assigned commander of Wright-Patterson in 1964
   source: The Fourth Mind
   location: ch8:9436-9504
@@ -314,7 +306,6 @@ references:
   claim_id: d55dc692-b39c-4fe4-a1af-e1cf2cd75499
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d55dc692-b39c-4fe4-a1af-e1cf2cd75499
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d55dc692-b39c-4fe4-a1af-e1cf2cd75499
 - text: 'Goldwater (1994): spaceship hushed up, called LeMay about a secret room'
   source: In Plain Sight
   location: ch27:18825-19012
@@ -324,7 +315,6 @@ references:
   claim_id: 8a4f8ce9-51da-429f-bbd3-49086f288c6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a4f8ce9-51da-429f-bbd3-49086f288c6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8a4f8ce9-51da-429f-bbd3-49086f288c6e
 - text: LeMay angry at Goldwater's request, told him never to ask again
   source: In Plain Sight
   location: ch27:19020-19137
@@ -333,7 +323,6 @@ references:
   claim_id: ee13d4a0-bccb-4a00-82d7-d51057726c51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee13d4a0-bccb-4a00-82d7-d51057726c51
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ee13d4a0-bccb-4a00-82d7-d51057726c51
 - text: Kobitz invited to Wright-Patterson via NKA Science to examine strange metal
   source: In Plain Sight
   location: ch27:17313-17524
@@ -343,7 +332,6 @@ references:
   claim_id: effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
 - text: 'Coulthart: Kobitz invited after leaving the Navy, may still have held a clearance'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -362,7 +350,6 @@ references:
   claim_id: 2797929f-fa20-4a30-b883-6d7669da6328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2797929f-fa20-4a30-b883-6d7669da6328
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2797929f-fa20-4a30-b883-6d7669da6328
 - text: 'Coulthart: Kobitz taken deep underground to a highly secure installation'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -381,7 +368,6 @@ references:
   claim_id: 4064203b-e546-4d7e-9a84-b488efb1b13f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
 - text: 'Kobitz: item was a feather-light piece of broken bulkhead'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
     Coulthart
@@ -436,7 +422,6 @@ references:
   claim_id: 9bd8669e-e655-4ed8-b916-a224fd85b72b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
 - text: 'Coulthart: Wright-Patterson is the most mythologised air force base in US
     UFO history'
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -475,7 +460,6 @@ references:
   claim_id: 8e0d8781-d634-4990-b713-58afff5960f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e0d8781-d634-4990-b713-58afff5960f4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8e0d8781-d634-4990-b713-58afff5960f4
 - text: Eric Henry Wang ran special projects at Wright-Patterson
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:32:23.2-01:32:26.0
@@ -493,7 +477,6 @@ references:
   claim_id: 53cadf97-5e8c-4d12-84dc-9e262df25d59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53cadf97-5e8c-4d12-84dc-9e262df25d59
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-53cadf97-5e8c-4d12-84dc-9e262df25d59
 - text: Wright-Patterson laboratory formerly known as the Foreign Technology Division
   source: In Plain Sight
   location: ch20:8119-8216
@@ -502,7 +485,6 @@ references:
   claim_id: 5097414c-ff8d-4470-bfc2-eacb1dfd09c6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5097414c-ff8d-4470-bfc2-eacb1dfd09c6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5097414c-ff8d-4470-bfc2-eacb1dfd09c6
 - text: Whistleblowers claim laboratory houses recovered alien craft; military denies
   source: In Plain Sight
   location: ch20:8226-8437
@@ -512,7 +494,6 @@ references:
   claim_id: 36f6a1b5-451f-4e64-b8ab-a09105a60315
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36f6a1b5-451f-4e64-b8ab-a09105a60315
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36f6a1b5-451f-4e64-b8ab-a09105a60315
 - text: Fowler's character check on a GTE Sylvania manager traced to Wright Field
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -531,7 +512,6 @@ references:
   claim_id: a76b00d8-a8fb-42e6-b924-de31b0d72c5e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a76b00d8-a8fb-42e6-b924-de31b0d72c5e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a76b00d8-a8fb-42e6-b924-de31b0d72c5e
 - text: 'Ramsay: Google Trends spike for ''Immaculate Constellation'' near the base,
     June 2023'
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.

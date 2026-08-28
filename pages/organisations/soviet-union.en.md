@@ -103,7 +103,6 @@ references:
   claim_id: db33ec70-57f5-4c0b-8ef4-287755e879ad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db33ec70-57f5-4c0b-8ef4-287755e879ad
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db33ec70-57f5-4c0b-8ef4-287755e879ad
 - text: Fravor's account of Soviet forces shooting down a UFO and being ordered to
     stop
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -125,7 +124,6 @@ references:
   claim_id: 2e7f72c3-b586-4b6f-9021-87b965483339
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7f72c3-b586-4b6f-9021-87b965483339
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2e7f72c3-b586-4b6f-9021-87b965483339
 - text: 'Sokolov: 40 cases of Soviet pilots chasing and firing on UFOs, three crashes,
     two deaths'
   source: In Plain Sight
@@ -137,7 +135,6 @@ references:
   claim_id: d72772c6-42c3-412a-9d2b-57e8b357cfbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d72772c6-42c3-412a-9d2b-57e8b357cfbf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d72772c6-42c3-412a-9d2b-57e8b357cfbf
 - text: Project Condign concluded Russians regarded UAP as a clear threat
   source: In Plain Sight
   location: ch12:20676-20765
@@ -146,7 +143,6 @@ references:
   claim_id: d9c81ed7-9db6-470c-862c-0815e5ba196a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9c81ed7-9db6-470c-862c-0815e5ba196a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9c81ed7-9db6-470c-862c-0815e5ba196a
 - text: Post-collapse revelations of Soviet UAP incursions over military facilities
   source: In Plain Sight
   location: ch12:18160-18383
@@ -156,7 +152,6 @@ references:
   claim_id: 37e6fabf-2f86-4ea0-97dc-c9c494a6fea6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37e6fabf-2f86-4ea0-97dc-c9c494a6fea6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-37e6fabf-2f86-4ea0-97dc-c9c494a6fea6
 - text: 13-year dual Soviet civilian/military UAP investigation programmes
   source: In Plain Sight
   location: ch12:19351-19475
@@ -165,7 +160,6 @@ references:
   claim_id: 9db7f924-3ab2-40d4-8cce-35f1fa71225c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9db7f924-3ab2-40d4-8cce-35f1fa71225c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9db7f924-3ab2-40d4-8cce-35f1fa71225c
 - text: September 1977 Scandinavia/USSR sightings coinciding with Petrozavodsk
   source: In Plain Sight
   location: ch12:19200-19343
@@ -174,7 +168,6 @@ references:
   claim_id: 4945d552-0b90-43f3-8a45-205c77d839f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4945d552-0b90-43f3-8a45-205c77d839f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4945d552-0b90-43f3-8a45-205c77d839f1
 - text: Kecksburg 1965 crash suggested to be a Russian or US satellite
   source: In Plain Sight
   location: ch10:9159-9287
@@ -183,7 +176,6 @@ references:
   claim_id: c571ddf2-6108-4253-8223-d0da1df90a97
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c571ddf2-6108-4253-8223-d0da1df90a97
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c571ddf2-6108-4253-8223-d0da1df90a97
 - text: 'Jacobsen''s Area 51 book: Roswell wreckage was a Russian craft'
   source: In Plain Sight
   location: ch18:2057-2220
@@ -193,7 +185,6 @@ references:
   claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
 - text: '1994 USAF report: Roswell wreckage was Project Mogul, a Soviet-nuclear-test-monitoring
     balloon'
   source: In Plain Sight
@@ -204,7 +195,6 @@ references:
   claim_id: 6e816170-67af-4d4f-9e7c-3404b917ba25
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e816170-67af-4d4f-9e7c-3404b917ba25
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6e816170-67af-4d4f-9e7c-3404b917ba25
 - text: December 1948 air intelligence report suggested strange craft possibly Soviet
   source: In Plain Sight
   location: ch8:2068-2271
@@ -214,7 +204,6 @@ references:
   claim_id: dde4e28e-1192-4426-9526-ffc6381ab295
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dde4e28e-1192-4426-9526-ffc6381ab295
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-dde4e28e-1192-4426-9526-ffc6381ab295
 - text: '1946 Swedish Ghost Rockets: Soviet-rocket-test theory dismissed on physical
     grounds'
   source: In Plain Sight
@@ -225,7 +214,6 @@ references:
   claim_id: 694036f5-26c2-4375-a0d3-a5dd44614a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-694036f5-26c2-4375-a0d3-a5dd44614a0f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-694036f5-26c2-4375-a0d3-a5dd44614a0f
 - text: 'Turner: ridicule facade aimed partly at denying Soviets exploitation of UFO
     sightings'
   source: In Plain Sight
@@ -237,7 +225,6 @@ references:
   claim_id: 8aa4a6a2-2468-42f0-a56b-c1eec9517369
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aa4a6a2-2468-42f0-a56b-c1eec9517369
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8aa4a6a2-2468-42f0-a56b-c1eec9517369
 - text: 'Sheehan: UAP suppression as an extension of Cold War against USSR and China'
   source: In Plain Sight
   location: ch11:23125-23230
@@ -246,7 +233,6 @@ references:
   claim_id: fd89fba0-b4e1-4e04-85bb-65af5e2b1e1b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd89fba0-b4e1-4e04-85bb-65af5e2b1e1b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fd89fba0-b4e1-4e04-85bb-65af5e2b1e1b
 - text: 'Fish: revealing UFO electromagnetic signature would let Soviets/Chinese counter
     it'
   source: In Plain Sight
@@ -258,7 +244,6 @@ references:
   claim_id: 5336ba12-0f0b-4b71-899a-ed710533e639
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5336ba12-0f0b-4b71-899a-ed710533e639
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5336ba12-0f0b-4b71-899a-ed710533e639
 - text: 'Coulthart: Fish''s classified work included Reagan''s ''Trust but Verify''
     treaty with the Soviets'
   source: In Plain Sight
@@ -270,7 +255,6 @@ references:
   claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
 - text: Pine Gap originally tracked telemetry of Soviet missile launches
   source: In Plain Sight
   location: ch13:26061-26148
@@ -279,7 +263,6 @@ references:
   claim_id: ee46a576-58ff-40ca-a734-0e8060d592ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee46a576-58ff-40ca-a734-0e8060d592ac
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ee46a576-58ff-40ca-a734-0e8060d592ac
 - text: White House feared Soviet troop deployment on the Syria-Israel Golan Heights
     border
   source: In Plain Sight
@@ -289,7 +272,6 @@ references:
   claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
 - text: Soviet influence in Afghanistan from 1954 via military assistance
   source: In Plain Sight
   location: ch9:4443-4545
@@ -298,7 +280,6 @@ references:
   claim_id: b3221e63-c2cd-485c-8bd0-e90df1dcb848
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3221e63-c2cd-485c-8bd0-e90df1dcb848
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b3221e63-c2cd-485c-8bd0-e90df1dcb848
 - text: 'Mellon: October 2017 marked 60 years since Sputnik''s launch'
   source: In Plain Sight
   location: ch21:2308-2505
@@ -308,7 +289,6 @@ references:
   claim_id: 757604df-81f7-41b5-8d1b-61c86a4ffd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
 - text: 'Mellon: Sputnik prompted a US science/engineering spending boost and the
     space race'
   source: In Plain Sight
@@ -318,7 +298,6 @@ references:
   claim_id: c43f1b18-4347-449c-9414-f6b8eb512994
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c43f1b18-4347-449c-9414-f6b8eb512994
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c43f1b18-4347-449c-9414-f6b8eb512994
 - text: 'Hastings: doubts the Pentagon, USSR or Russia understand the nuclear-tampering
     UAP'
   source: In Plain Sight
@@ -334,7 +313,6 @@ references:
   claim_id: 5403e3c2-ede2-4a1e-beb9-78e852299e7c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5403e3c2-ede2-4a1e-beb9-78e852299e7c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5403e3c2-ede2-4a1e-beb9-78e852299e7c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

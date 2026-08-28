@@ -430,7 +430,6 @@ references:
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
 - text: The programme began in 2007, with parts remaining classified
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -442,7 +441,6 @@ references:
   claim_id: e6432116-9e60-4cdf-b9fa-2ea63aecc9c4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e6432116-9e60-4cdf-b9fa-2ea63aecc9c4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e6432116-9e60-4cdf-b9fa-2ea63aecc9c4
 - text: AAWSAP's scope was broader than AATIP's military-only focus
   source: Statement to Congress
   location: char:10069-10163
@@ -476,7 +474,6 @@ references:
   claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e8b66203-41b2-4870-a6c0-36be7b16b0b6
 - text: Programme was funded largely at Harry Reid's request as Senate majority leader
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -486,7 +483,6 @@ references:
   claim_id: e230f3dd-513f-4716-9596-d8fc3ba43ece
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e230f3dd-513f-4716-9596-d8fc3ba43ece
 - text: Most funding went to Robert Bigelow's aerospace research company
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -497,7 +493,6 @@ references:
   claim_id: 13146c89-f9d8-4175-8bc7-3f8c990e9f9c
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-13146c89-f9d8-4175-8bc7-3f8c990e9f9c
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-13146c89-f9d8-4175-8bc7-3f8c990e9f9c
 - text: $22 million was almost impossible to find in the $600 billion DoD budget
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -508,7 +503,6 @@ references:
   claim_id: da1593c1-4826-4eba-86e9-8d3a3ee95ead
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-da1593c1-4826-4eba-86e9-8d3a3ee95ead
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-da1593c1-4826-4eba-86e9-8d3a3ee95ead
 - text: By 2009 Reid argued for heightened security given extraordinary discoveries
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -518,7 +512,6 @@ references:
   claim_id: 79187ba0-57bb-476e-9f64-809330532790
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-79187ba0-57bb-476e-9f64-809330532790
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-79187ba0-57bb-476e-9f64-809330532790
 - text: '2009 briefing summary: ''science fiction is now science fact'', US incapable
     of defending itself'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -531,7 +524,6 @@ references:
   claim_id: f0561d20-d166-4d65-8b3f-923674e03047
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-f0561d20-d166-4d65-8b3f-923674e03047
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-f0561d20-d166-4d65-8b3f-923674e03047
 - text: 2009-07-24 memo to William Lynn III requested Special Access Program status
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -542,7 +534,6 @@ references:
   claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
 - text: Reid's letter cited sensitive findings, requested access limited to few officials
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -554,7 +545,6 @@ references:
   claim_id: 031cf298-4ac8-4b8f-b903-7200eb54a203
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-031cf298-4ac8-4b8f-b903-7200eb54a203
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-031cf298-4ac8-4b8f-b903-7200eb54a203
 - text: The SAP request was denied
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -563,7 +553,6 @@ references:
   claim_id: c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
 - text: 'Reid: request tied to being refused access to alleged retrieved materials'
   source: In Plain Sight
   location: ch17:21686-21863
@@ -573,7 +562,6 @@ references:
   claim_id: 4c4b68b3-679f-497f-a9a8-1528e334b4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
 - text: Elizondo described as former senior DoD intelligence officer who led AATIP
   source: In Plain Sight
   location: ch37:9360-9531
@@ -583,7 +571,6 @@ references:
   claim_id: 8337fa99-92d9-47a9-ac73-c5086c2c203d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8337fa99-92d9-47a9-ac73-c5086c2c203d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8337fa99-92d9-47a9-ac73-c5086c2c203d
 - text: 'Sherwood: Elizondo had no responsibilities regarding AATIP in OUSDI'
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -593,7 +580,6 @@ references:
   claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-0164fcb9-e959-43f2-a715-de7ca67dd7f2
 - text: Dana White confirmed to Politico AATIP existed, run by Elizondo
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -603,7 +589,6 @@ references:
   claim_id: b5d84c79-a65d-447c-ad4f-e771b168b50d
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b5d84c79-a65d-447c-ad4f-e771b168b50d
 - text: Sherwood said he could not confirm White's statement
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -613,7 +598,6 @@ references:
   claim_id: c9a6069b-9da7-4b8b-9621-ae66d3a22deb
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-c9a6069b-9da7-4b8b-9621-ae66d3a22deb
 - text: 'Susan Gough: no assigned responsibilities for AATIP while in OUSD(I)'
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -623,7 +607,6 @@ references:
   claim_id: c9180952-4586-428d-a5f9-f32a5cecc0af
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-c9180952-4586-428d-a5f9-f32a5cecc0af
 - text: 'Gough: DIA administered AATIP, Elizondo never assigned to DIA'
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -633,7 +616,6 @@ references:
   claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
 - text: 'Gough: Elizondo interacted with DIA office but did not lead it'
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -643,7 +625,6 @@ references:
   claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
 - text: 'Kloor: Elizondo supplied no documents connecting him to AATIP'
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -655,7 +636,6 @@ references:
   claim_id: b4b174ea-aaa3-4ae4-bfd9-1ce1b5d5fec2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-b4b174ea-aaa3-4ae4-bfd9-1ce1b5d5fec2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-b4b174ea-aaa3-4ae4-bfd9-1ce1b5d5fec2
 - text: 'Kloor: Elizondo''s resignation letter made no mention of AATIP'
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -664,7 +644,6 @@ references:
   claim_id: 51247b1f-b8b4-40ca-a6a9-3e680906e858
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-51247b1f-b8b4-40ca-a6a9-3e680906e858
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-51247b1f-b8b4-40ca-a6a9-3e680906e858
 - text: 'Puthoff: continued under Elizondo''s leadership as AAWSAP/AATIP contractor'
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -678,7 +657,6 @@ references:
   claim_id: b66416e8-dd81-4130-873d-cc9433bb7263
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b66416e8-dd81-4130-873d-cc9433bb7263
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b66416e8-dd81-4130-873d-cc9433bb7263
 - text: 'Black Vault: memo predates Elizondo''s claimed directorship by five months'
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -688,7 +666,6 @@ references:
   claim_id: 3a22b042-5ed5-4227-9c90-24b4bc617ad6
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-3a22b042-5ed5-4227-9c90-24b4bc617ad6
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-3a22b042-5ed5-4227-9c90-24b4bc617ad6
 - text: AATIP's mission was to collect and analyse AAV information
   source: Navy pilots describe encounters with UFOs
   location: 00:01:24.1-00:01:33.3
@@ -745,7 +722,6 @@ references:
   claim_id: c5df4a0a-2e48-4460-ba85-31013633631e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5df4a0a-2e48-4460-ba85-31013633631e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5df4a0a-2e48-4460-ba85-31013633631e
 - text: AATIP collected video/audio, incl. F/A-18 footage of glowing-aura object
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -756,7 +732,6 @@ references:
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
 - text: August 2017 release of 2004 USS Nimitz video, whitish oval object
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -767,7 +742,6 @@ references:
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
 - text: Stratton changed acronym from UFO to UAP at Skinwalker Ranch
   source: In Plain Sight
   location: ch30:12508-12702
@@ -777,7 +751,6 @@ references:
   claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d8741fe-a48a-4616-9b3a-225433de1082
 - text: AATIP staff were a loose-knit, often part-time mix of specialists
   source: Navy pilots describe encounters with UFOs
   location: 00:02:37.0-00:02:46.7
@@ -809,7 +782,6 @@ references:
   claim_id: 7dae73b0-7950-42e4-8c47-f9893b4d942d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7dae73b0-7950-42e4-8c47-f9893b4d942d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7dae73b0-7950-42e4-8c47-f9893b4d942d
 - text: John Robert experienced similar symptoms working around the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch14:5467-5580
@@ -818,7 +790,6 @@ references:
   claim_id: 3170ac7c-ba5c-4f4c-af78-475e54b2a3a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3170ac7c-ba5c-4f4c-af78-475e54b2a3a8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3170ac7c-ba5c-4f4c-af78-475e54b2a3a8
 - text: Neill Tipton helped build AAWSAP/AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:21899-21942
@@ -826,7 +797,6 @@ references:
   claim_id: 0a3a9874-c39f-484c-94c3-f353ce5fb4c5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a3a9874-c39f-484c-94c3-f353ce5fb4c5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a3a9874-c39f-484c-94c3-f353ce5fb4c5
 - text: Stratton secured $10 million in new funding from Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:23014-23130
@@ -835,7 +805,6 @@ references:
   claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
 - text: Funds were redirected to another DoD programme via ambiguous bill language
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:23181-23434
@@ -845,7 +814,6 @@ references:
   claim_id: a7ea9e3c-624d-43da-b671-83e853d1783d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7ea9e3c-624d-43da-b671-83e853d1783d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7ea9e3c-624d-43da-b671-83e853d1783d
 - text: Eric Davis, astrophysicist, worked as contractor with Puthoff
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:6336-6498
@@ -855,7 +823,6 @@ references:
   claim_id: 271695f2-2f93-4103-9532-36a12d5aba5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-271695f2-2f93-4103-9532-36a12d5aba5f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-271695f2-2f93-4103-9532-36a12d5aba5f
 - text: Elizondo's later office was 3C503A, Pentagon C-ring
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:128-228
@@ -864,7 +831,6 @@ references:
   claim_id: 4773b457-f14a-4809-9860-5674b47b7dca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4773b457-f14a-4809-9860-5674b47b7dca
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4773b457-f14a-4809-9860-5674b47b7dca
 - text: Pentagon officials told NYT AATIP had ended after five years, in 2012
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -873,7 +839,6 @@ references:
   claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
 - text: 'Elizondo: only the funding ended in 2012, effort continued'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -883,7 +848,6 @@ references:
   claim_id: b7e2a09e-0280-4012-a97f-e196fcace5a1
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-b7e2a09e-0280-4012-a97f-e196fcace5a1
 - text: Elizondo worked with Navy and CIA officials after 2012
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -893,7 +857,6 @@ references:
   claim_id: 9d9fac66-3851-4d10-adcb-9ae860d18d93
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9d9fac66-3851-4d10-adcb-9ae860d18d93
 - text: Garry Reid stated AATIP was terminated in 2012
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:5130-5158
@@ -912,7 +875,6 @@ references:
   claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
 - text: First two DoD UAP videos posted mid-December 2017, timed with press coverage
   source: In Plain Sight
   location: ch21:20924-21123
@@ -922,7 +884,6 @@ references:
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9898cf75-2714-46d8-bb85-c5020299e488
 - text: Elizondo's disclosure was a factor in creating the task force and later AARO
   source: Statement to Congress
   location: char:13315-13434
@@ -949,7 +910,6 @@ references:
   claim_id: 418e24af-f41f-40cd-b9d6-30af0f930d9c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-418e24af-f41f-40cd-b9d6-30af0f930d9c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-418e24af-f41f-40cd-b9d6-30af0f930d9c
 - text: 'AARO: DIA/OUSDI stood up AAWSAP in 2009, also known as AATIP'
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -959,7 +919,6 @@ references:
   claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
 - text: AAWSAP/AATIP terminated 2012 upon completion of deliverables
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -969,7 +928,6 @@ references:
   claim_id: 630de01c-0f3f-418d-9450-07e4d982059e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-630de01c-0f3f-418d-9450-07e4d982059e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-630de01c-0f3f-418d-9450-07e4d982059e
 - text: AARO found no substantive case work beyond Blue Book review, interviews, Utah
     paranormal work
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -983,7 +941,6 @@ references:
   claim_id: a01a2cc6-3be1-4b11-b0ff-4be66553e61b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a01a2cc6-3be1-4b11-b0ff-4be66553e61b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a01a2cc6-3be1-4b11-b0ff-4be66553e61b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

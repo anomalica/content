@@ -87,7 +87,6 @@ references:
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
 - text: Condon, former Director of the National Bureau of Standards, was scientific
     director of an 18-month study under a $325,000 USAF contract to the University
     of Colorado
@@ -100,7 +99,6 @@ references:
   claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1725b8da-9347-48db-b207-3a49505ddb8c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1725b8da-9347-48db-b207-3a49505ddb8c
 - text: In August 1966 Robert Low wrote a memorandum to two university officials setting
     out a proposed strategy for the university's role
   source: In Plain Sight
@@ -111,7 +109,6 @@ references:
   claim_id: c13b65bf-44b1-497a-a9e0-932e7a1103c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c13b65bf-44b1-497a-a9e0-932e7a1103c4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c13b65bf-44b1-497a-a9e0-932e7a1103c4
 - text: The study's remit centred on whether UFOs merited formal scientific research
     and excluded national security risk assessment
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -125,7 +122,6 @@ references:
   claim_id: f008c76e-9524-49a3-a3c2-bb599335ea61
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f008c76e-9524-49a3-a3c2-bb599335ea61
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f008c76e-9524-49a3-a3c2-bb599335ea61
 - text: The panel closely examined 59 specific case studies
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -134,7 +130,6 @@ references:
   claim_id: c97acf4d-c116-41c7-bfb0-39b6bcf0405c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c97acf4d-c116-41c7-bfb0-39b6bcf0405c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c97acf4d-c116-41c7-bfb0-39b6bcf0405c
 - text: The report cautioned against scientific papers on UFOs and recommended against
     giving students credit for reading UFO literature
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -146,7 +141,6 @@ references:
   claim_id: 880fdac3-b09d-4070-a428-045dae31701a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-880fdac3-b09d-4070-a428-045dae31701a
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-880fdac3-b09d-4070-a428-045dae31701a
 - text: The panel found ordinary explanations for a small number of alleged physical-evidence
     cases
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -160,7 +154,6 @@ references:
   claim_id: 17d23280-22a2-4cd0-aeb4-72375dd8e161
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-17d23280-22a2-4cd0-aeb4-72375dd8e161
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-17d23280-22a2-4cd0-aeb4-72375dd8e161
 - text: Some physical-evidence cases originated in Brazil, Norway, and Washington,
     D.C.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -170,7 +163,6 @@ references:
   claim_id: 8e6e7f69-ed0c-4499-8c29-3ee319d004db
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8e6e7f69-ed0c-4499-8c29-3ee319d004db
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8e6e7f69-ed0c-4499-8c29-3ee319d004db
 - text: The panel investigated Frank Edwards's 1966 claim of a UFO fragment near Washington,
     D.C. in summer 1952 and found no supporting records
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -183,7 +175,6 @@ references:
   claim_id: f230d62b-d3ce-46da-86a3-d4eff8df607c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f230d62b-d3ce-46da-86a3-d4eff8df607c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f230d62b-d3ce-46da-86a3-d4eff8df607c
 - text: The panel judged Edwards's claim and Vannevar Bush's alleged involvement most
     likely false
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -193,7 +184,6 @@ references:
   claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c0b94ac9-4985-4b42-9af8-eeb13438b84e
 - text: The final report declared nothing had come from twenty-one years of UFO study
     that added to scientific knowledge
   source: In Plain Sight
@@ -204,7 +194,6 @@ references:
   claim_id: 3c4ddf8c-f232-443d-ade5-e76454c33b8f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c4ddf8c-f232-443d-ade5-e76454c33b8f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c4ddf8c-f232-443d-ade5-e76454c33b8f
 - text: The report concluded further study could not be justified
   source: In Plain Sight
   location: ch10:23018-23130
@@ -213,7 +202,6 @@ references:
   claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
 - text: The report rejected the extra-terrestrial hypothesis for UAP
   source: In Plain Sight
   location: ch10:23018-23130
@@ -222,7 +210,6 @@ references:
   claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e237f91-124e-4e05-9646-c98cf65ca991
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4e237f91-124e-4e05-9646-c98cf65ca991
 - text: The report acknowledged the 1956 RAF Bentwaters-Lakenheath UAP incident as
     very likely a 'genuine UFO'
   source: In Plain Sight
@@ -233,7 +220,6 @@ references:
   claim_id: b58eac6f-0cd6-4421-97bc-94ca682cb470
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b58eac6f-0cd6-4421-97bc-94ca682cb470
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b58eac6f-0cd6-4421-97bc-94ca682cb470
 - text: The report gave the USAF the justification it sought to end Project Blue Book
   source: In Plain Sight
   location: ch10:23334-23432
@@ -242,7 +228,6 @@ references:
   claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df697174-c6da-413d-86bb-2e929fc78fcc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df697174-c6da-413d-86bb-2e929fc78fcc
 - text: A National Academy of Sciences panel was tasked in late 1968 to examine the
     report's rigour, methodology and conclusions
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -255,7 +240,6 @@ references:
   claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-43c0d16a-0321-4689-8f27-edc439bd870b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-43c0d16a-0321-4689-8f27-edc439bd870b
 - text: In November 1968 the National Academy of Sciences reviewed and endorsed the
     report's conclusions
   source: In Plain Sight
@@ -265,7 +249,6 @@ references:
   claim_id: 67082648-7c49-4de9-bbed-97007f8d9890
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67082648-7c49-4de9-bbed-97007f8d9890
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67082648-7c49-4de9-bbed-97007f8d9890
 - text: The National Academy of Sciences review found the report a very credible effort
     to apply science to the UFO problem
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -277,7 +260,6 @@ references:
   claim_id: d93d6b8c-d06c-4480-ac3c-d5459c6c47f9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d93d6b8c-d06c-4480-ac3c-d5459c6c47f9
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d93d6b8c-d06c-4480-ac3c-d5459c6c47f9
 - text: It took nearly ten years for serious researchers to begin challenging the
     report
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -295,7 +277,6 @@ references:
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
 - text: Turner considered the report's conclusions conflicted with its own contents
     and had been discredited by many reputable scientists
   source: In Plain Sight
@@ -306,7 +287,6 @@ references:
   claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fe60a4f0-944f-4aa3-b476-3e38c92462dc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fe60a4f0-944f-4aa3-b476-3e38c92462dc
 - text: Coulthart finds it hard to escape the impression the report's true purpose
     was to shut down public scrutiny of UAP sightings
   source: In Plain Sight
@@ -317,7 +297,6 @@ references:
   claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
 - text: Vallée says the National Academy of Sciences' approval left UFO research open
     to charlatans and hoaxers
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -339,7 +318,6 @@ references:
   claim_id: d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

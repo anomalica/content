@@ -90,7 +90,6 @@ references:
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
 - text: 'Sheehan: Carter sought a meeting with CIA Director Bush before his inauguration'
   source: In Plain Sight
   location: ch11:15229-15554
@@ -102,7 +101,6 @@ references:
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused Carter a UFO briefing, citing no ''need to know'''
   source: In Plain Sight
   location: ch11:15437-15554
@@ -111,7 +109,6 @@ references:
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
 - text: 'Sheehan: Bush suggested Carter seek a briefing via the Congressional Research
     Service'
   source: In Plain Sight
@@ -121,7 +118,6 @@ references:
   claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f88beec4-39ca-4842-8255-1a52b419f62e
 - text: Bush announced the SEI on the 20th anniversary of the Apollo 11 Moon landing
   source: Dark Mission
   location: ch19:6933-7077
@@ -346,7 +342,6 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: 'Samosa: Nixon, Carter, Reagan and Bush appear to have received UFO briefings'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:46:04.1-00:46:07.3

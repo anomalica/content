@@ -420,7 +420,6 @@ references:
   claim_id: 4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
 - text: Began researching Peter Khoury's alleged alien experiences the same year he
     learned of the Kelly Cahill case (1993)
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
@@ -791,7 +790,6 @@ references:
   claim_id: f8ed4d11-1ea0-4bce-a73e-cb30e0254ed3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8ed4d11-1ea0-4bce-a73e-cb30e0254ed3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f8ed4d11-1ea0-4bce-a73e-cb30e0254ed3
 - text: Chalker befriended Harry Turner late in Turner's life
   source: In Plain Sight
   location: ch9:11388-11427
@@ -799,7 +797,6 @@ references:
   claim_id: 4150be47-e9c1-47b2-919f-e5a8719b786f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4150be47-e9c1-47b2-919f-e5a8719b786f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4150be47-e9c1-47b2-919f-e5a8719b786f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

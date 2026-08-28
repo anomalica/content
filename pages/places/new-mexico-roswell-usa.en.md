@@ -124,7 +124,6 @@ references:
   claim_id: 374893ac-76a5-4ca2-a365-f2cd2d6f62e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-374893ac-76a5-4ca2-a365-f2cd2d6f62e1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-374893ac-76a5-4ca2-a365-f2cd2d6f62e1
 - text: South-eastern New Mexico as a test area for US aerospace technology since
     the 1930s
   source: In Plain Sight
@@ -134,7 +133,6 @@ references:
   claim_id: 87333893-6e9a-4232-9480-010907b2ae24
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87333893-6e9a-4232-9480-010907b2ae24
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-87333893-6e9a-4232-9480-010907b2ae24
 - text: White Sands testing ground two hours west of the crash site
   source: In Plain Sight
   location: ch7:9314-9537
@@ -144,7 +142,6 @@ references:
   claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf4bf759-8ebf-4025-afbf-0331ff4eebf4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cf4bf759-8ebf-4025-afbf-0331ff4eebf4
 - text: Robert Goddard's correspondence with Jack Parsons while working near Roswell
   source: Dark Mission
   location: ch12:76538-76664
@@ -175,7 +172,6 @@ references:
   claim_id: ac0754c2-4de7-47b5-9707-fc7c7761e17c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac0754c2-4de7-47b5-9707-fc7c7761e17c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ac0754c2-4de7-47b5-9707-fc7c7761e17c
 - text: Brightly lit object over Roswell, evening of 2 July 1947
   source: Communion
   location: ch14:13947-14135
@@ -193,7 +189,6 @@ references:
   claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
 - text: Brazel drove into Roswell to report the find
   source: In Plain Sight
   location: ch7:8722-8765
@@ -201,7 +196,6 @@ references:
   claim_id: 0494cac5-669f-4ace-8a20-3d71aaecc62f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0494cac5-669f-4ace-8a20-3d71aaecc62f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0494cac5-669f-4ace-8a20-3d71aaecc62f
 - text: July 8, 1947 Roswell Army Air Field press release account
   source: Communion
   location: ch14:14700-14972
@@ -238,7 +232,6 @@ references:
   claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-933c7ef0-7d69-4eb6-a6ca-c052edd99b50
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-933c7ef0-7d69-4eb6-a6ca-c052edd99b50
 - text: 'Jacobsen: Joint Chiefs of Staff recovery of airframe and propulsion equipment'
   source: In Plain Sight
   location: ch18:1603-1850
@@ -249,7 +242,6 @@ references:
   claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52a9876c-b751-49e9-bd11-917b0ca90206
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-52a9876c-b751-49e9-bd11-917b0ca90206
 - text: Jacobsen's description of the craft's shape
   source: In Plain Sight
   location: ch18:1860-2050
@@ -259,7 +251,6 @@ references:
   claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3439fe37-96d0-47ee-8949-f0e416bb3503
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3439fe37-96d0-47ee-8949-f0e416bb3503
 - text: 1994-declassified Army memos calling the object a flying disc
   source: In Plain Sight
   location: ch18:1977-2050
@@ -268,7 +259,6 @@ references:
   claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233f477a-b1cd-40e7-8cc1-bb2bda18153b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-233f477a-b1cd-40e7-8cc1-bb2bda18153b
 - text: 'Elizondo: crash near a government test facility, two crash sites'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:15179-15284
@@ -277,7 +267,6 @@ references:
   claim_id: 2758071a-b28c-44e8-8682-25fcfd22e1d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2758071a-b28c-44e8-8682-25fcfd22e1d5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2758071a-b28c-44e8-8682-25fcfd22e1d5
 - text: 2024 historical review assessment linking early claims to a Project Mogul
     balloon
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -288,7 +277,6 @@ references:
   claim_id: 98e7ecf4-e2d7-45cd-a353-883dfa077e22
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-98e7ecf4-e2d7-45cd-a353-883dfa077e22
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-98e7ecf4-e2d7-45cd-a353-883dfa077e22
 - text: Edgar Mitchell's upbringing in Roswell
   source: American Cosmic
   location: ch6:23239-23335
@@ -306,7 +294,6 @@ references:
   claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd282559-5186-46bd-86bc-762f62edbcfb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dd282559-5186-46bd-86bc-762f62edbcfb
 - text: Jesse Marcel's later claim of being ordered into a cover-up
   source: In Plain Sight
   location: ch37:260-422
@@ -316,7 +303,6 @@ references:
   claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
 - text: Strieber's letter to Thurmond relaying Exon's 1989 remarks
   source: In Plain Sight
   location: ch25:22926-23176
@@ -327,7 +313,6 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: Exon's alleged involvement in the 1947 retrieval
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
     Check Rewind
@@ -345,7 +330,6 @@ references:
   claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
 - text: Elizondo on FBI warnings delivered to local ranchers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8596-8738
@@ -354,7 +338,6 @@ references:
   claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b109f646-8c09-4d39-b776-4530fd5719c2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b109f646-8c09-4d39-b776-4530fd5719c2
 - text: Clinton's remarks on the 1947 crash claims
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -365,7 +348,6 @@ references:
   claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e523c48c-aed3-4378-8039-aa38622d3a42
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e523c48c-aed3-4378-8039-aa38622d3a42
 - text: Time magazine report on rumoured recoveries, January 1950
   source: In Plain Sight
   location: ch8:3847-4020
@@ -375,7 +357,6 @@ references:
   claim_id: 4bad59c8-349b-4c83-bd70-1d6f88776cee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bad59c8-349b-4c83-bd70-1d6f88776cee
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4bad59c8-349b-4c83-bd70-1d6f88776cee
 - text: 1950 Guy Hottel FBI memo to Hoover
   source: In Plain Sight
   location: ch8:4028-4267
@@ -385,7 +366,6 @@ references:
   claim_id: 0ab17aff-9022-4237-b04b-d928a830360a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0ab17aff-9022-4237-b04b-d928a830360a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0ab17aff-9022-4237-b04b-d928a830360a
 - text: Behind the Flying Saucers' claims of multiple New Mexico crashes
   source: In Plain Sight
   location: ch8:6906-6995
@@ -394,7 +374,6 @@ references:
   claim_id: 5628ddab-cce3-4da2-b69e-b66aca767b46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5628ddab-cce3-4da2-b69e-b66aca767b46
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5628ddab-cce3-4da2-b69e-b66aca767b46
 - text: Hoagland's alternative date for the crash
   source: Dark Mission
   location: ch12:101084-101155
@@ -420,7 +399,6 @@ references:
   claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
 - text: 'Jacobsen''s Area 51: description of the recovered bodies'
   source: In Plain Sight
   location: ch18:2232-2421
@@ -430,7 +408,6 @@ references:
   claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cbac31ff-d273-4148-aede-fbd2671cd9cd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cbac31ff-d273-4148-aede-fbd2671cd9cd
 - text: 'Jacobsen''s source: children comatose but alive'
   source: In Plain Sight
   location: ch18:2766-2844
@@ -439,7 +416,6 @@ references:
   claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1dd588aa-e84b-499d-a8e8-1bf3c724f57c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1dd588aa-e84b-499d-a8e8-1bf3c724f57c
 - text: 'Jacobsen''s Area 51: Stalin''s alleged intent'
   source: In Plain Sight
   location: ch18:2655-2759
@@ -448,7 +424,6 @@ references:
   claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1afaeda5-e619-46d5-a742-917a46fd2196
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1afaeda5-e619-46d5-a742-917a46fd2196
 - text: Nanstiel's radar-interference theory of the crash cause
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -565,7 +540,6 @@ references:
   claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9764c4e-d543-418b-ab8e-ff7074caf647
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e9764c4e-d543-418b-ab8e-ff7074caf647
 - text: Patricia Carroll's 2007 horseshoe-object sighting
   source: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
   location: 00:13:29.6-00:13:43.7

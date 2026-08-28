@@ -63,7 +63,6 @@ references:
   claim_id: 6979ceb6-416d-4e5a-93a2-5176dfb45438
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6979ceb6-416d-4e5a-93a2-5176dfb45438
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6979ceb6-416d-4e5a-93a2-5176dfb45438
 - text: Josip Terelya was released on Gorbachev's orders shortly before the Hrushiv
     apparitions
   source: The Fatima Secret
@@ -189,7 +188,6 @@ references:
   claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
 - text: Gorbachev wore makeup to obscure a birthmark called the mark of the beast
   source: Communion
   location: ch15:1334-1491

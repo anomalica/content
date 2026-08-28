@@ -64,7 +64,6 @@ references:
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
 - text: NASA and other space companies use its habitats and equipment for their reliability
     and safety
   source: American Cosmic
@@ -110,7 +109,6 @@ references:
   claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2a1c80fa-d06f-4a26-a52b-031fae1b808f
 - text: Puthoff was a senior scientist for Bigelow Aerospace working on AATIP
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:09:33.4-00:09:46.9
@@ -157,7 +155,6 @@ references:
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
 - text: Buildings were modified to store metal alloys said by Elizondo and AATIP contractors
     to have been recovered from UAP
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -169,7 +166,6 @@ references:
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-94b6de85-512f-4359-9da1-d796a1895ec9
 - text: Several attempts were made to divest materials to AAWSAP or to Bigelow Aerospace
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:12:52.7-00:12:57.2
@@ -202,7 +198,6 @@ references:
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -102,7 +102,6 @@ references:
   claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
 - text: Shepard took the first golf shot on the Moon during the last extra-vehicular
     activity
   source: Dark Mission
@@ -149,7 +148,6 @@ references:
   claim_id: 5b679c65-a7fe-4865-baed-cbdeecabc868
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
 - text: Mitchell privately confided he saw anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
@@ -158,7 +156,6 @@ references:
   claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3c60b194-cb19-4631-910b-68ce15bc269a
 - text: Mitchell saw well-defined blue lights with structure behind them
   source: In Plain Sight
   location: ch25:7434-7577
@@ -167,7 +164,6 @@ references:
   claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72407e94-cf18-498f-972b-8494ace077e6
 - text: A photograph shows Mitchell with a blue light hovering behind him
   source: In Plain Sight
   location: ch25:7592-7792
@@ -177,7 +173,6 @@ references:
   claim_id: 43b17135-ff09-4478-bf70-f4c211ae90a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
 - text: Mitchell said critics would call the light a flare but he saw it with his
     own eyes
   source: In Plain Sight
@@ -187,7 +182,6 @@ references:
   claim_id: 9685e0a5-0402-4267-b92a-228d34e216e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9685e0a5-0402-4267-b92a-228d34e216e1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9685e0a5-0402-4267-b92a-228d34e216e1
 - text: Mitchell ruled out flares, reflections and glitches, confirmed on film
   source: In Plain Sight
   location: ch25:10159-10385
@@ -197,7 +191,6 @@ references:
   claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
 - text: Return-journey film shows a triangular group of three blue lights near the
     command module
   source: In Plain Sight
@@ -211,7 +204,6 @@ references:
   claim_id: abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
 - text: Mitchell noted the same anomaly on two separate films from two cameras
   source: In Plain Sight
   location: ch25:8762-8965
@@ -221,7 +213,6 @@ references:
   claim_id: e430d028-bfdb-4680-a795-a3a1b0c79b4f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e430d028-bfdb-4680-a795-a3a1b0c79b4f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e430d028-bfdb-4680-a795-a3a1b0c79b4f
 - text: The camera that photographed Mitchell on the surface remained on the Moon
   source: In Plain Sight
   location: ch25:8974-9097
@@ -230,7 +221,6 @@ references:
   claim_id: 5bd209b4-54d0-460e-964c-2ed64e2ad452
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5bd209b4-54d0-460e-964c-2ed64e2ad452
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5bd209b4-54d0-460e-964c-2ed64e2ad452
 - text: The camera that filmed the lights near the command module returned with Mitchell
   source: In Plain Sight
   location: ch25:9103-9215
@@ -239,7 +229,6 @@ references:
   claim_id: aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
 - text: No blue lights existed inside the lunar module to cause a reflection
   source: In Plain Sight
   location: ch25:9225-9337
@@ -248,7 +237,6 @@ references:
   claim_id: a310ac0c-e354-4a52-a88b-8d7ffc29679f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a310ac0c-e354-4a52-a88b-8d7ffc29679f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a310ac0c-e354-4a52-a88b-8d7ffc29679f
 - text: Mitchell saw an object with a blue light before docking
   source: In Plain Sight
   location: ch37:3772-3914
@@ -257,7 +245,6 @@ references:
   claim_id: 5872a681-b95e-498e-91eb-bdc06694e0a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5872a681-b95e-498e-91eb-bdc06694e0a6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5872a681-b95e-498e-91eb-bdc06694e0a6
 - text: Mitchell publicly denied seeing a UFO but told The Spaceman he saw strange
     objects throughout the mission
   source: In Plain Sight
@@ -267,7 +254,6 @@ references:
   claim_id: e26da3fe-db13-421b-bad6-ace2ba1dbaf3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e26da3fe-db13-421b-bad6-ace2ba1dbaf3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e26da3fe-db13-421b-bad6-ace2ba1dbaf3
 - text: Johnston organised a private viewing of the Apollo 14 film for Thornton Page
   source: Dark Mission
   location: ch11:78934-79231

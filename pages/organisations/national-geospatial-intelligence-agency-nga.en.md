@@ -61,7 +61,6 @@ references:
   claim_id: 2bd95216-2d22-4aca-90f8-f636cfc55a39
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2bd95216-2d22-4aca-90f8-f636cfc55a39
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-2bd95216-2d22-4aca-90f8-f636cfc55a39
 - text: Grusch described as a veteran of the NGA and the NRO
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:1052-1158
@@ -70,7 +69,6 @@ references:
   claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-81d83ea0-cc7e-467e-a06d-022af4365189
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-81d83ea0-cc7e-467e-a06d-022af4365189
 - text: Grusch later worked as a senior intelligence officer at the NGA and the NRO
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -80,7 +78,6 @@ references:
   claim_id: 24f37c8b-c898-4c03-bf64-d6de2e0a19c3
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-24f37c8b-c898-4c03-bf64-d6de2e0a19c3
 - text: Grusch was Senior GEOINT Capabilities Requirements Officer, Nov 2021-Apr 2023
   source: The Fourth Mind
   location: ch11:4025-4175
@@ -98,7 +95,6 @@ references:
   claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
 - text: Grusch was Senior Intelligence Capabilities Integration Officer, TS/SCI cleared
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:5652-5832
@@ -108,7 +104,6 @@ references:
   claim_id: 525277fd-4fb5-495b-afd4-e0da449b90e5
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-525277fd-4fb5-495b-afd4-e0da449b90e5
 - text: Grusch was NGA's Senior Technical Advisor for UAP analysis and Trans-Medium
     Issues
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -118,7 +113,6 @@ references:
   claim_id: e916bc85-ed91-4cab-b8a7-81c5f21130ee
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-e916bc85-ed91-4cab-b8a7-81c5f21130ee
 - text: 'Elizondo: Grusch worked for the NGA'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:869-925
@@ -126,7 +120,6 @@ references:
   claim_id: 856a972e-b1a5-4d6e-9981-846e91ca5372
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-856a972e-b1a5-4d6e-9981-846e91ca5372
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-856a972e-b1a5-4d6e-9981-846e91ca5372
 - text: 'Elizondo: Grusch was NRO and NGA''s representative on the UAP Task Force'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:931-974
@@ -134,7 +127,6 @@ references:
   claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b61036ef-78da-4966-9953-d63cb1cd578d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b61036ef-78da-4966-9953-d63cb1cd578d
 - text: 'Grusch''s 14-year career: USAF Major, then NGA at GS-15, equivalent to full
     colonel'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -148,7 +140,6 @@ references:
   claim_id: 01d50f41-2216-452f-862d-01ee552943fa
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-01d50f41-2216-452f-862d-01ee552943fa
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-01d50f41-2216-452f-862d-01ee552943fa
 - text: Grusch said he tried to personally review every UAP report during his NGA
     leadership role
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -159,7 +150,6 @@ references:
   claim_id: c08f49a5-3537-4ae6-b1de-6ce862e3830a
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c08f49a5-3537-4ae6-b1de-6ce862e3830a
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c08f49a5-3537-4ae6-b1de-6ce862e3830a
 - text: Grusch personally reviewed multiple cases of UAP-related satellite imagery
     at NGA
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -171,7 +161,6 @@ references:
   claim_id: 47d17cc4-45af-4243-b1ed-b4c4a9c071ff
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-47d17cc4-45af-4243-b1ed-b4c4a9c071ff
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-47d17cc4-45af-4243-b1ed-b4c4a9c071ff
 - text: In 2022, while at NGA, Grusch filed a whistleblower complaint with the ICIG
   source: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special
     Advisor
@@ -181,7 +170,6 @@ references:
   claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
   record_hash: ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e
   workbench_url: https://workbench.anomalica.is/ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e#claim-3a22fa3f-9847-41c9-9713-18526071d93e
-  inspection_url: /records/2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david#claim-3a22fa3f-9847-41c9-9713-18526071d93e
 - text: Grusch left the NGA in April
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -190,7 +178,6 @@ references:
   claim_id: bcf246aa-cf08-4c0a-b560-8b28a5871fcb
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bcf246aa-cf08-4c0a-b560-8b28a5871fcb
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bcf246aa-cf08-4c0a-b560-8b28a5871fcb
 - text: Grusch returned to work at NGA after administrative reprisals
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
   location: 00:14:09.1-00:14:18.0
@@ -220,7 +207,6 @@ references:
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
 - text: AARO HR2 line of effort partnered with DIA, CIA, DOE, NSA, and NGA archives
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -232,7 +218,6 @@ references:
   claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-03d65f79-431b-4dcb-9412-ce121509179c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-03d65f79-431b-4dcb-9412-ce121509179c
 - text: DOD IG requested UAP data from OUSDI, AARO, military services, and defense
     intelligence agencies
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -248,7 +233,6 @@ references:
   claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
 - text: 'UAP Gerb: Immaculate Constellation data would be held in the NGA'
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:52:19.0-00:52:22.0

@@ -479,7 +479,6 @@ references:
   claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
 - text: Press wrote to NASA Administrator Robert Frosch suggesting a panel review
     findings since the Condon Report.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -492,7 +491,6 @@ references:
   claim_id: d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d9a0de92-f2b0-4e8a-92d5-c1b354457f9d
 - text: Frosch proposed NASA take no steps to establish a UFO research activity or
     symposium.
   source: In Plain Sight
@@ -504,7 +502,6 @@ references:
   claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8f637a11-b477-47af-b927-82cda6c3451f
 - text: Five months later, NASA responded that such an activity was not warranted.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -514,7 +511,6 @@ references:
   claim_id: ca368f37-1004-4dca-9451-399ba652e857
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-ca368f37-1004-4dca-9451-399ba652e857
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-ca368f37-1004-4dca-9451-399ba652e857
 - text: No explanation exists for why Carter did not simply order NASA to conduct
     the inquiry.
   source: In Plain Sight
@@ -524,7 +520,6 @@ references:
   claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
 - text: NASA delivered the Brookings Report to Congress six days after Gagarin's spaceflight.
   source: Dark Mission
   location: ch10:60053-60205
@@ -814,7 +809,6 @@ references:
   claim_id: ae8629b6-3341-4665-b217-76dee93c6104
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ae8629b6-3341-4665-b217-76dee93c6104
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ae8629b6-3341-4665-b217-76dee93c6104
 - text: NASA's independent study team comprised scientists, former astronauts and
     pilots.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -825,7 +819,6 @@ references:
   claim_id: 286c0b58-1a7e-4bfc-95fb-b69d8ecaeefe
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-286c0b58-1a7e-4bfc-95fb-b69d8ecaeefe
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-286c0b58-1a7e-4bfc-95fb-b69d8ecaeefe
 - text: The team was established under NASA's Earth Science Advisory Committee, itself
     formed under the Federal Advisory Committee Act.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -837,7 +830,6 @@ references:
   claim_id: 377a2c14-b8a8-4cbb-97b6-74717fa59448
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-377a2c14-b8a8-4cbb-97b6-74717fa59448
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-377a2c14-b8a8-4cbb-97b6-74717fa59448
 - text: The team examined UAP scientifically, focused on how NASA could use data and
     tools to understand it.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -848,7 +840,6 @@ references:
   claim_id: f274ff67-0af1-4905-be9d-dedf244b0b61
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f274ff67-0af1-4905-be9d-dedf244b0b61
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f274ff67-0af1-4905-be9d-dedf244b0b61
 - text: The team held its first public meeting on 2023-05-01, including DoD and intelligence
     perspectives.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -860,7 +851,6 @@ references:
   claim_id: 51c14b58-135e-426e-9c84-2526af171ede
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-51c14b58-135e-426e-9c84-2526af171ede
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-51c14b58-135e-426e-9c84-2526af171ede
 - text: NASA released the study team's report in September 2023.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -869,7 +859,6 @@ references:
   claim_id: cc762b5e-74dd-4bbc-9620-293fd3b06798
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cc762b5e-74dd-4bbc-9620-293fd3b06798
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cc762b5e-74dd-4bbc-9620-293fd3b06798
 - text: NASA established a UAP Research Director position.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -878,7 +867,6 @@ references:
   claim_id: e6f79f14-a35d-407b-b4dc-2d7ba6e76789
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e6f79f14-a35d-407b-b4dc-2d7ba6e76789
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e6f79f14-a35d-407b-b4dc-2d7ba6e76789
 - text: Carlotto reported NASA's assessment of the STS-48 objects as thruster-illuminated
     debris.
   source: Anomalous Phenomena in Space Shuttle Mission STS-80 Video

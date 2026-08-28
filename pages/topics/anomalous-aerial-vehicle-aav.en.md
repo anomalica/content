@@ -392,7 +392,6 @@ references:
   claim_id: d005bc2f-7296-4135-a80c-e966f43d0587
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d005bc2f-7296-4135-a80c-e966f43d0587
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d005bc2f-7296-4135-a80c-e966f43d0587
 - text: Fravor's first indication was a visual disturbance on the water below the
     AAV, then visual on the object
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -444,7 +443,6 @@ references:
   claim_id: 2afb37f0-7586-4024-ba22-ad8434379eaf
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2afb37f0-7586-4024-ba22-ad8434379eaf
 - text: Fravor's flight began descent from about 3,000 metres at approximately 650
     km/h
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -483,7 +481,6 @@ references:
   claim_id: fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
 - text: Fravor's flight crew told Underwood's flight crew what they had seen and asked
     them to try to record it
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -538,7 +535,6 @@ references:
   claim_id: bc089ab8-2ba9-4050-8cba-8786235ac7b9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-bc089ab8-2ba9-4050-8cba-8786235ac7b9
 - text: A former USS Louisville submarine officer said there were no unidentified
     sonar contacts during the AAV activity
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -571,7 +567,6 @@ references:
   claim_id: a22b8246-060c-4d9a-a558-04ad6080af7f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a22b8246-060c-4d9a-a558-04ad6080af7f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a22b8246-060c-4d9a-a558-04ad6080af7f
 - text: Peter Daly assumed command of CSG-11 in January 2005, after the intercept,
     with no knowledge of the incident
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -581,7 +576,6 @@ references:
   claim_id: 093c3bda-eca6-4097-9599-dc68898699a9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-093c3bda-eca6-4097-9599-dc68898699a9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-093c3bda-eca6-4097-9599-dc68898699a9
 - text: The email-based mission report, including FLIR video, was sent to Third Fleet
     Intelligence (N2)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report

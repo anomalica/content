@@ -65,7 +65,6 @@ references:
   claim_id: 9e441a3d-2bf2-46fa-b555-860f16fc39ac
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-9e441a3d-2bf2-46fa-b555-860f16fc39ac
 - text: Robert Bigelow founded Bigelow Aerospace in Las Vegas in 1998
   source: In Plain Sight
   location: ch15:27880-27993
@@ -74,7 +73,6 @@ references:
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
 - text: Knapp began hearing accounts of crashed saucers and secret reverse-engineering
     in the Nevada desert from 1989
   source: Statement to Congress
@@ -96,7 +94,6 @@ references:
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: David Fruehauf worked at Area 51 from 1979-1985, commuting from Las Vegas
     via Janet Airlines
   source: In Plain Sight
@@ -107,7 +104,6 @@ references:
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
 - text: John Lear said over a billion aliens lived in the mountains outside Las Vegas,
     per Bob Lazar
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
@@ -139,7 +135,6 @@ references:
   claim_id: 26124b69-4650-4204-b372-691609239afc
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-26124b69-4650-4204-b372-691609239afc
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-26124b69-4650-4204-b372-691609239afc
 - text: AAWSAP database included boots-on-the-ground investigations dispatched from
     Las Vegas by Colm Kelleher
   source: Statement to Congress
@@ -170,7 +165,6 @@ references:
   claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-94b6de85-512f-4359-9da1-d796a1895ec9
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-94b6de85-512f-4359-9da1-d796a1895ec9
 - text: An alien logo is painted on the exterior of the Bigelow Aerospace building
   source: In Plain Sight
   location: ch17:5779-5906
@@ -179,7 +173,6 @@ references:
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
 - text: Puthoff told a 2018 Las Vegas conference the bismuth/magnesium samples act
     as a terahertz waveguide
   source: In Plain Sight
@@ -190,7 +183,6 @@ references:
   claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
 - text: A plan for Bigelow to house Lockheed Martin materials in Las Vegas never materialised
   source: 'Episode 73: Science vs. Secrecy'
   location: 00:30:55.2-00:30:56.9
@@ -222,7 +214,6 @@ references:
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
 - text: Davis's memo describes meeting Wilson on 2002-10-16 in a car in a Las Vegas
     car park
   source: In Plain Sight
@@ -233,7 +224,6 @@ references:
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
 - text: Wilson denied visiting Las Vegas in 2002 or meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
@@ -242,7 +232,6 @@ references:
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46abfcfa-818a-478e-b610-348bceec1359
 - text: Wilson said his only time in Las Vegas was a 1979/1980 Carrier Air Wing Three
     deployment to Nellis AFB
   source: In Plain Sight
@@ -252,7 +241,6 @@ references:
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

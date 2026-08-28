@@ -68,7 +68,6 @@ references:
   claim_id: 2af451f2-6080-4b71-8d7c-946f7bb866da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2af451f2-6080-4b71-8d7c-946f7bb866da
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2af451f2-6080-4b71-8d7c-946f7bb866da
 - text: Jim Goodall befriended Rich, the former director of Skunk Works.
   source: In Plain Sight
   location: ch13:13431-13709
@@ -79,7 +78,6 @@ references:
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
 - text: Goodall's account of Rich's last comment to him before he died.
   source: In Plain Sight
   location: ch13:13905-14290
@@ -91,7 +89,6 @@ references:
   claim_id: 315c7144-d26f-4905-98a5-72d0b9269a3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-315c7144-d26f-4905-98a5-72d0b9269a3a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-315c7144-d26f-4905-98a5-72d0b9269a3a
 - text: Rich addressed UCLA engineering alumni in March 1993.
   source: In Plain Sight
   location: ch13:14645-14789
@@ -100,7 +97,6 @@ references:
   claim_id: 9428a5da-66ed-4afc-b24f-d813bc3ffb45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9428a5da-66ed-4afc-b24f-d813bc3ffb45
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9428a5da-66ed-4afc-b24f-d813bc3ffb45
 - text: Harzan and Keller said Rich admitted the US had solved interstellar travel,
     with an error in the equations.
   source: In Plain Sight
@@ -111,7 +107,6 @@ references:
   claim_id: ca76d230-1abf-4304-a27c-60bcad6e7e68
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ca76d230-1abf-4304-a27c-60bcad6e7e68
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ca76d230-1abf-4304-a27c-60bcad6e7e68
 - text: Harzan recalled Rich's closing slide of a black disc flying into space.
   source: In Plain Sight
   location: ch13:15055-15165
@@ -120,7 +115,6 @@ references:
   claim_id: 2bb3a5c6-8dbb-4106-9fdb-74198213019a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2bb3a5c6-8dbb-4106-9fdb-74198213019a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2bb3a5c6-8dbb-4106-9fdb-74198213019a
 - text: Harzan's account of Rich's closing words to the auditorium.
   source: In Plain Sight
   location: ch13:15181-15355
@@ -130,7 +124,6 @@ references:
   claim_id: 6c598f0f-5132-4941-adb9-f8758f138cc9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c598f0f-5132-4941-adb9-f8758f138cc9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c598f0f-5132-4941-adb9-f8758f138cc9
 - text: Harzan asked how the technology worked; Rich did not want to elaborate.
   source: In Plain Sight
   location: ch13:15361-15439
@@ -139,7 +132,6 @@ references:
   claim_id: ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
 - text: Rich's ESP exchange with Harzan after the talk.
   source: In Plain Sight
   location: ch13:15646-16170
@@ -153,7 +145,6 @@ references:
   claim_id: 614a3e7d-84fc-4e60-8038-378286cd3e73
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-614a3e7d-84fc-4e60-8038-378286cd3e73
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-614a3e7d-84fc-4e60-8038-378286cd3e73
 - text: Coulthart's disinformation theory about Rich's remarks.
   source: In Plain Sight
   location: ch13:16180-16546
@@ -165,7 +156,6 @@ references:
   claim_id: 8d7546d8-dfb6-4b20-8341-a2143a84596d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d7546d8-dfb6-4b20-8341-a2143a84596d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8d7546d8-dfb6-4b20-8341-a2143a84596d
 - text: Rich made a similar remark to Testor Corporation model-kit designer John Andrews.
   source: In Plain Sight
   location: ch13:16558-16724
@@ -175,7 +165,6 @@ references:
   claim_id: 152eb8c3-6026-455f-b74e-0b815e769bb0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-152eb8c3-6026-455f-b74e-0b815e769bb0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-152eb8c3-6026-455f-b74e-0b815e769bb0
 - text: Andrews's July 1986 letter asking Rich to clarify his views on UFOs.
   source: In Plain Sight
   location: ch13:16811-16943
@@ -184,7 +173,6 @@ references:
   claim_id: 515b95e9-2a29-48cf-8ba1-294ec28523a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-515b95e9-2a29-48cf-8ba1-294ec28523a2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-515b95e9-2a29-48cf-8ba1-294ec28523a2
 - text: Rich's July 1986 reply to Andrews.
   source: In Plain Sight
   location: ch13:16951-17132
@@ -194,7 +182,6 @@ references:
   claim_id: 6464fcfd-370a-4229-b423-4a22593014d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6464fcfd-370a-4229-b423-4a22593014d3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6464fcfd-370a-4229-b423-4a22593014d3
 - text: Mitchells said Rich wrote about an international corporate board dealing with
     the UFO issue.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

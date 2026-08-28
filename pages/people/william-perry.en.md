@@ -50,7 +50,6 @@ references:
   claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
 - text: The memo names Paul Kaminski, Michael Kostelnik and former Defense Secretary
     William Perry as the three people Wilson confirmed the programme's contractor
     with.
@@ -64,7 +63,6 @@ references:
   claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b
 - text: Thomas Wilson was told of a special-projects record group outside the usual
     SAP structure, organised in 1994 by William Perry.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson

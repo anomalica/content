@@ -427,7 +427,6 @@ references:
   claim_id: 39f342c1-4774-4a10-8bc8-195168189503
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39f342c1-4774-4a10-8bc8-195168189503
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-39f342c1-4774-4a10-8bc8-195168189503
 - text: Several universities declined a UFO study before the University of Colorado
     accepted it in 1966
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
@@ -449,7 +448,6 @@ references:
   claim_id: 7b527140-6627-42ac-a2de-3e550e9beb3b
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
 - text: Puthoff led earlier CIA and DoD remote-viewing research
   source: In Plain Sight
   location: ch21:1031-1161
@@ -458,7 +456,6 @@ references:
   claim_id: ab5d5883-2e8e-488d-a127-aa9c16243c28
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab5d5883-2e8e-488d-a127-aa9c16243c28
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ab5d5883-2e8e-488d-a127-aa9c16243c28
 - text: Elizondo asked to join AATIP at the Pentagon in 2008
   source: Navy pilots describe encounters with UFOs
   location: 00:01:15.6-00:01:22.8
@@ -477,7 +474,6 @@ references:
   claim_id: 418e24af-f41f-40cd-b9d6-30af0f930d9c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-418e24af-f41f-40cd-b9d6-30af0f930d9c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-418e24af-f41f-40cd-b9d6-30af0f930d9c
 - text: Reid's 2009-06-24 letter asking that AAWSAP/AATIP be made a DoD Special Access
     Program
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -488,7 +484,6 @@ references:
   claim_id: d09a9f0a-7fa6-4a08-bc55-006212fcaca8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d09a9f0a-7fa6-4a08-bc55-006212fcaca8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d09a9f0a-7fa6-4a08-bc55-006212fcaca8
 - text: Deputy Secretary of Defense declined the SAP designation on Clapper's advice
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -499,7 +494,6 @@ references:
   claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-08e3f0b0-0d12-4b28-911d-e33ed4e440da
 - text: AAWSAP/AATIP terminated in 2012 amid DIA and DoD concerns
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -509,7 +503,6 @@ references:
   claim_id: 630de01c-0f3f-418d-9450-07e4d982059e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-630de01c-0f3f-418d-9450-07e4d982059e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-630de01c-0f3f-418d-9450-07e4d982059e
 - text: $22 million AATIP spend was almost impossible to find in $600 billion DoD
     budgets
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -521,7 +514,6 @@ references:
   claim_id: da1593c1-4826-4eba-86e9-8d3a3ee95ead
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-da1593c1-4826-4eba-86e9-8d3a3ee95ead
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-da1593c1-4826-4eba-86e9-8d3a3ee95ead
 - text: AATIP investigated UFO reports for years, per DoD officials and NYT records
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -532,7 +524,6 @@ references:
   claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ff5f7362-0494-44cd-82c0-2b5ca8f410d4
 - text: 'Knapp: Elizondo kept AATIP going until frustrated by DoD leadership''s lack
     of interest'
   source: Statement to Congress
@@ -563,7 +554,6 @@ references:
   claim_id: e8066fb2-dd1b-4824-ad33-5102c278725f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e8066fb2-dd1b-4824-ad33-5102c278725f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e8066fb2-dd1b-4824-ad33-5102c278725f
 - text: Elizondo arranged Pentagon release of F/A-18 cockpit footage before quitting
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -573,7 +563,6 @@ references:
   claim_id: 4031d0d6-a4e8-48e0-aad8-576ea3708905
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4031d0d6-a4e8-48e0-aad8-576ea3708905
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4031d0d6-a4e8-48e0-aad8-576ea3708905
 - text: Elizondo joined TTSA in October 2017, days after resigning from DoD
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -583,7 +572,6 @@ references:
   claim_id: e46a6f7d-124c-46ef-8a4f-a08d9377476f
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e46a6f7d-124c-46ef-8a4f-a08d9377476f
 - text: Elizondo joined Puthoff and Mellon, a former DoD deputy assistant secretary
     for intelligence, at TTSA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -596,7 +584,6 @@ references:
   claim_id: a3bab75d-632d-4bc2-b1eb-8614ba164bd3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a3bab75d-632d-4bc2-b1eb-8614ba164bd3
 - text: Mellon was a deputy assistant secretary in DoD under the Clinton and Bush
     administrations
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -626,7 +613,6 @@ references:
   claim_id: 1e7c6906-d0c1-4bf4-b653-963e8b962c29
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-1e7c6906-d0c1-4bf4-b653-963e8b962c29
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-1e7c6906-d0c1-4bf4-b653-963e8b962c29
 - text: Pentagon issued statements addressing the 2009 Reid memo cited as proof of
     Elizondo's AATIP leadership
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -638,7 +624,6 @@ references:
   claim_id: eced2346-d2dc-4905-9fb5-29fef7b40d12
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-eced2346-d2dc-4905-9fb5-29fef7b40d12
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-eced2346-d2dc-4905-9fb5-29fef7b40d12
 - text: The 2009 memo did not alter the Pentagon's original position
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
     Senator Harry Reid's 2009 Memo Changes Nothing - The Black Vault
@@ -648,7 +633,6 @@ references:
   claim_id: b225c716-8209-4c04-ae64-4269fd7fe870
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-b225c716-8209-4c04-ae64-4269fd7fe870
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-b225c716-8209-4c04-ae64-4269fd7fe870
 - text: Senate Intelligence Committee ordered a UAP sightings report within a month
   source: Navy pilots describe encounters with UFOs
   location: 00:00:27.1-00:00:36.7
@@ -677,7 +661,6 @@ references:
   claim_id: a7e6afb1-9b57-4265-b351-6a15eca3a219
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-a7e6afb1-9b57-4265-b351-6a15eca3a219
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-a7e6afb1-9b57-4265-b351-6a15eca3a219
 - text: Review found the release revealed no sensitive capabilities or systems
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -688,7 +671,6 @@ references:
   claim_id: bfd7912f-2205-448f-9c98-21467b887ed8
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-bfd7912f-2205-448f-9c98-21467b887ed8
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-bfd7912f-2205-448f-9c98-21467b887ed8
 - text: Release did not impinge on subsequent UAP incursion investigations
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -698,7 +680,6 @@ references:
   claim_id: 59672a0f-11a4-42a9-8f73-ac5708f58a91
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
 - text: Release intended to clear up public misconceptions about the footage
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -709,7 +690,6 @@ references:
   claim_id: 7e54feb4-6b7d-4181-a965-54a3ac000ea4
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-7e54feb4-6b7d-4181-a965-54a3ac000ea4
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-7e54feb4-6b7d-4181-a965-54a3ac000ea4
 - text: TTSA posted the DoD-derived Go-Fast video in March 2018
   source: In Plain Sight
   location: ch21:22207-22331
@@ -718,7 +698,6 @@ references:
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61cec41b-6906-4711-a6ce-53abbf531d90
 - text: AOIMSG helped synchronise DoD and government efforts on airspace objects
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -730,7 +709,6 @@ references:
   claim_id: 2972261d-493b-4b71-9435-cf9c91bb00df
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2972261d-493b-4b71-9435-cf9c91bb00df
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-2972261d-493b-4b71-9435-cf9c91bb00df
 - text: FY2022 NDAA established AARO to coordinate DoD-wide UAP efforts
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -742,7 +720,6 @@ references:
   claim_id: 02bcfdba-d8f1-4475-a665-539a1fa9e66c
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-02bcfdba-d8f1-4475-a665-539a1fa9e66c
 - text: NASA's independent UAP study team's first public meeting included DoD and
     intelligence perspectives, May 2023
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -754,7 +731,6 @@ references:
   claim_id: 51c14b58-135e-426e-9c84-2526af171ede
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-51c14b58-135e-426e-9c84-2526af171ede
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-51c14b58-135e-426e-9c84-2526af171ede
 - text: 'IG: DoD lacked a coordinated approach to UAP detection and reporting'
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -764,7 +740,6 @@ references:
   claim_id: 4df2b521-90f1-4b7a-8caf-ce2517c2e51d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4df2b521-90f1-4b7a-8caf-ce2517c2e51d
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-4df2b521-90f1-4b7a-8caf-ce2517c2e51d
 - text: 'IG: DoD components largely excluded combatant commands from UAP policy development'
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -776,7 +751,6 @@ references:
   claim_id: 763e391d-aa5f-40ab-95d8-0722e737042d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-763e391d-aa5f-40ab-95d8-0722e737042d
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-763e391d-aa5f-40ab-95d8-0722e737042d
 - text: 'IG: DoD has no overarching UAP policy and lacks assurance threats are mitigated'
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -787,7 +761,6 @@ references:
   claim_id: 7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
 - text: IG recommended the Under Secretary of Defense for Intelligence and Security,
     with AARO, issue a UAP policy
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -801,7 +774,6 @@ references:
   claim_id: b2461f07-88ad-4e00-809f-b213d1ff431c
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
 - text: Historical Record Report produced under NDAA FY2023 Section 6802(j)
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -816,7 +788,6 @@ references:
   claim_id: 7646d8bf-dc34-41cc-9a58-fd49c2c178bb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7646d8bf-dc34-41cc-9a58-fd49c2c178bb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7646d8bf-dc34-41cc-9a58-fd49c2c178bb
 - text: AARO created a secure process with DoD/IC officials on alleged reverse-engineering
     programmes
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -828,7 +799,6 @@ references:
   claim_id: c8b43c74-7394-4fc5-9912-e15a5728a483
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-c8b43c74-7394-4fc5-9912-e15a5728a483
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-c8b43c74-7394-4fc5-9912-e15a5728a483
 - text: AARO's Section 1673 request to DoD, IC, DOE and DHS on UAP-related non-disclosure
     agreements
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -841,7 +811,6 @@ references:
   claim_id: d1763776-36ad-47a9-8b43-398f8243145f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d1763776-36ad-47a9-8b43-398f8243145f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d1763776-36ad-47a9-8b43-398f8243145f
 - text: 'Grusch: his testimony reflects personal views, not DoD''s; DOPSR vets only
     for security'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -852,7 +821,6 @@ references:
   claim_id: 682fde00-6f5f-4742-974f-5427ac2978d5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-682fde00-6f5f-4742-974f-5427ac2978d5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-682fde00-6f5f-4742-974f-5427ac2978d5
 - text: Grusch identified as former NRO representative to the UAP Task Force at DoD
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -862,7 +830,6 @@ references:
   claim_id: 2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-2c8762a0-57c6-48f4-a3e0-a8ea5d3b36e2
 - text: 'Von Rennenkampff: DoD denied AARO uncovered activity Grusch alleged'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
     'credible,' 'urgent'
@@ -872,7 +839,6 @@ references:
   claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-200dbe20-614e-43ee-89f2-39a5174b6c6d
 - text: 'DoD: AARO found no verifiable evidence of reverse-engineering of extraterrestrial
     materials'
   source: Claims that UFO information was inappropriately withheld from Congress deemed
@@ -884,7 +850,6 @@ references:
   claim_id: 06171d55-f777-4549-8338-708d3b3f6889
   record_hash: 90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab
   workbench_url: https://workbench.anomalica.is/90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab#claim-06171d55-f777-4549-8338-708d3b3f6889
-  inspection_url: /records/2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld#claim-06171d55-f777-4549-8338-708d3b3f6889
 - text: DoD confirmed drones flew over Langley Air Force Base
   source: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep.
     10

@@ -297,7 +297,6 @@ references:
   claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8d60814d-0fb7-4552-b897-4514a20308da
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8d60814d-0fb7-4552-b897-4514a20308da
 - text: Michael Horn said a woman from a 1964 Indian ashram later served a dozen years
     as Cambodia's UN ambassador
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92

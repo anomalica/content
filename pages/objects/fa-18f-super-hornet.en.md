@@ -335,7 +335,6 @@ references:
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
 - text: AATIP collected footage of Super Hornet encounter with glowing-aura object
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
     (Published 2017)'
@@ -346,7 +345,6 @@ references:
   claim_id: 256731ef-c86b-4e5c-a799-74579ec38f8f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
 - text: Defense officials declined to release location and date of the glowing-aura
     incident
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -356,7 +354,6 @@ references:
   claim_id: e3fba71b-74a3-4946-8db4-85ff858c0891
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-e3fba71b-74a3-4946-8db4-85ff858c0891
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-e3fba71b-74a3-4946-8db4-85ff858c0891
 - text: Graves was a Super Hornet pilot in VFA-11 at NAS Oceana, Virginia Beach, 2014
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -366,7 +363,6 @@ references:
   claim_id: 89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-89826e57-c1e3-4dd0-a3be-a7bdd00ea93b
 - text: Two Super Hornets split apart by a UAP in Warning Area W-72
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -376,7 +372,6 @@ references:
   claim_id: 63a416b2-3a51-4242-be1e-cf61f391fb01
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
 - text: Mission commander terminated the flight and returned to base
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -385,7 +380,6 @@ references:
   claim_id: 86627e17-620d-4516-84d6-9779498444a4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-86627e17-620d-4516-84d6-9779498444a4
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-86627e17-620d-4516-84d6-9779498444a4
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

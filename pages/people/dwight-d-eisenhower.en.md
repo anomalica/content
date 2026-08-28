@@ -70,7 +70,6 @@ references:
   claim_id: 80c26e04-971b-437d-80c1-439ad5baca2f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-80c26e04-971b-437d-80c1-439ad5baca2f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-80c26e04-971b-437d-80c1-439ad5baca2f
 - text: Made the WS-117L satellite reconnaissance programme a high priority after
     Sputnik
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -81,7 +80,6 @@ references:
   claim_id: e20227df-6fc2-46ef-894d-db6f625bdd73
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e20227df-6fc2-46ef-894d-db6f625bdd73
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e20227df-6fc2-46ef-894d-db6f625bdd73
 - text: Gave the CIA the lead role in the WS-117L/CORONA programme in February 1958
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -92,7 +90,6 @@ references:
   claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a981e9c9-720e-4314-aa44-87c364723d8e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a981e9c9-720e-4314-aa44-87c364723d8e
 - text: Approved the CIA-led Project OXCART programme in 1958
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -102,7 +99,6 @@ references:
   claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
 - text: Passed over Hugh L. Dryden and named T. Keith Glennan NASA Administrator in
     1958
   source: Dark Mission
@@ -145,6 +141,7 @@ references:
   claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-968ad903-a5a6-4f76-b72b-808843a3d587
 - text: Erik Nanstiel's account of a second, Nordic deal offered to Eisenhower
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -155,6 +152,7 @@ references:
   claim_id: 01402fd4-7b00-4818-b2a4-52d68fae58d2
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
 - text: 1984 microfilm mailed to Jaime Shandera appeared to be a top-secret memo to
     President-elect Eisenhower
   source: Dark Mission
@@ -239,7 +237,6 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: David Fravor on Eisenhower warning of the military-industrial complex around
     1962
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex

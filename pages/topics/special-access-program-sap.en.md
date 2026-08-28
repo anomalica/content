@@ -89,7 +89,6 @@ references:
   claim_id: de3ff492-ce39-439d-a46e-1951886776b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de3ff492-ce39-439d-a46e-1951886776b7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-de3ff492-ce39-439d-a46e-1951886776b7
 - text: SAPs are where the Defense Department hides most of its super-secret black-budget
     classified projects.
   source: In Plain Sight
@@ -99,7 +98,6 @@ references:
   claim_id: 877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
 - text: Even senior officials with top-secret clearance are forbidden from knowing
     SAP or SCI details unless 'read into' the programme.
   source: In Plain Sight
@@ -110,7 +108,6 @@ references:
   claim_id: d52efcdf-a24a-423a-8e1f-7f02b01e8795
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
 - text: Unacknowledged Special Access Programs (USAPs) are projects whose existence
     can and must be denied, with true funding hidden.
   source: In Plain Sight
@@ -122,7 +119,6 @@ references:
   claim_id: e636eb7d-e906-4d7b-b517-8841f37c90d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e636eb7d-e906-4d7b-b517-8841f37c90d2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e636eb7d-e906-4d7b-b517-8841f37c90d2
 - text: Some black-budget SAP projects are hidden so deeply that revealing their existence
     is a crime for anyone read into them.
   source: In Plain Sight
@@ -132,7 +128,6 @@ references:
   claim_id: 700acf62-8119-4299-bb85-e7a539ff7e5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-700acf62-8119-4299-bb85-e7a539ff7e5d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-700acf62-8119-4299-bb85-e7a539ff7e5d
 - text: Bill Sweetman wrote that an unacknowledged SAP's existence is a 'core secret'
     under US Air Force regulations, defined as information whose compromise causes
     unrecoverable failure.
@@ -146,7 +141,6 @@ references:
   claim_id: 42610ba0-c36d-49db-9af9-fd34859a7d9e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42610ba0-c36d-49db-9af9-fd34859a7d9e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-42610ba0-c36d-49db-9af9-fd34859a7d9e
 - text: Christopher Mellon's Senate Intelligence Committee role required reviewing
     top-secret SCI projects inside SAPs, most of which remain classified.
   source: In Plain Sight
@@ -157,7 +151,6 @@ references:
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3001af87-f811-4ab3-8454-e641775abf6d
 - text: Before their April 1997 Pentagon visit, Steven Greer sent Admiral Thomas Wilson's
     staff a leaked National Reconnaissance Office document listing authentic SAP codenames.
   source: In Plain Sight
@@ -169,7 +162,6 @@ references:
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
 - text: Steven Greer said Wilson was very upset that some SAP codenames on the list
     were unknown to him.
   source: In Plain Sight
@@ -180,7 +172,6 @@ references:
   claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
 - text: Thomas Wilson recalled his 1997 visitors raised concerns about possible special
     access programs dealing with UFOs.
   source: In Plain Sight
@@ -190,7 +181,6 @@ references:
   claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
 - text: Wilson believed the visitors' objective was to solicit his assistance in gaining
     access to or knowledge of the alleged programmes.
   source: In Plain Sight
@@ -200,7 +190,6 @@ references:
   claim_id: 8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
 - text: Wilson stated he never acknowledged such programmes existed, never suggested
     he would seek access, and never had knowledge of them.
   source: In Plain Sight
@@ -211,7 +200,6 @@ references:
   claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
 - text: In June 2009, Harry Reid wrote to the Secretary of Defense requesting SAP
     status for AATIP.
   source: In Plain Sight
@@ -222,7 +210,6 @@ references:
   claim_id: 2844341e-436e-4320-8d31-8c1d298d11fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2844341e-436e-4320-8d31-8c1d298d11fc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2844341e-436e-4320-8d31-8c1d298d11fc
 - text: According to the memo, Reid's reasoning and request were addressed to Deputy
     Secretary of Defense William Lynn III.
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -234,7 +221,6 @@ references:
   claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-911d37fc-4b7c-4d45-bd39-6dd0974d7a01
 - text: Ross Coulthart speculates that Pentagon UAP briefing slides may have prompted
     Reid's SAP request.
   source: In Plain Sight
@@ -245,7 +231,6 @@ references:
   claim_id: 61c0b829-d3e1-4887-a877-433675ece02f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61c0b829-d3e1-4887-a877-433675ece02f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61c0b829-d3e1-4887-a877-433675ece02f
 - text: The SAP status request for the AATIP investigation was rejected.
   source: In Plain Sight
   location: ch17:19003-19159
@@ -255,7 +240,6 @@ references:
   claim_id: 025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
 - text: In a June 2020 letter, Wilson said many named contacts were unknown to him,
     as were the alleged SAP conversations.
   source: In Plain Sight
@@ -267,7 +251,6 @@ references:
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
 - text: According to the memo, Wilson was told of a special projects record group
     not belonging to usual SAP - a subset of unacknowledged/carve-out/waived programmes.
   source: In Plain Sight
@@ -278,7 +261,6 @@ references:
   claim_id: 91ac7dad-5511-4c6c-b255-26414bc9012b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91ac7dad-5511-4c6c-b255-26414bc9012b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-91ac7dad-5511-4c6c-b255-26414bc9012b
 - text: According to the memo, Eric Davis asked Wilson which SAP compartment and codename
     the programme was hidden under.
   source: In Plain Sight
@@ -288,7 +270,6 @@ references:
   claim_id: 92954970-0fdb-4e78-a527-42cb0cf46bc3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92954970-0fdb-4e78-a527-42cb0cf46bc3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-92954970-0fdb-4e78-a527-42cb0cf46bc3
 - text: In his June 2020 letter, Wilson said the memo's accounts of his efforts to
     gain SAP access were false and that no such meetings occurred.
   source: In Plain Sight
@@ -302,7 +283,6 @@ references:
   claim_id: 9ed6f584-dc1a-4fef-8662-77afa8772545
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
 - text: The UAP provisions of the FY2023 NDAA provide protections ensuring no classified
     programmes, including all SAPs, are compromised or made public.
   source: In Plain Sight
@@ -313,7 +293,6 @@ references:
   claim_id: ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
 - text: David Grusch said multiple agencies nesting UAP activities in conventional
     SAP/CAP programmes without appropriate oversight reporting is a problem.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -326,7 +305,6 @@ references:
   claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d4c52db-00fb-470f-9df7-9b570e7fde39
 - text: The two damaged M1 Abrams tanks were sent for analysis classified as a Top
     Secret SAP, and Elizondo never learned the findings.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -338,7 +316,6 @@ references:
   claim_id: c815115f-e20a-4784-9f6a-405481529f62
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c815115f-e20a-4784-9f6a-405481529f62
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c815115f-e20a-4784-9f6a-405481529f62
 - text: Jay Stratton and Elizondo told military witnesses they worked for a Special
     Access Program to encourage them to describe encounters.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -351,7 +328,6 @@ references:
   claim_id: 2972262e-04fb-4283-9706-5c6ede4769da
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2972262e-04fb-4283-9706-5c6ede4769da
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2972262e-04fb-4283-9706-5c6ede4769da
 - text: Christopher Mellon oversaw all Department of Defense intelligence activities
     and Special Access Programs.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -361,7 +337,6 @@ references:
   claim_id: acc64767-dc4e-444c-a456-6030aee55704
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-acc64767-dc4e-444c-a456-6030aee55704
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-acc64767-dc4e-444c-a456-6030aee55704
 - text: Mellon said he had spent years overseeing all SAPs but had zero visibility
     into the UAP topic.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -371,7 +346,6 @@ references:
   claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3287094d-4ab9-43d5-8fb2-3def39886a64
 - text: Grusch said he worked on programmes purposely hidden from ODNI oversight staff
     and briefed only to the White House, kept from Congress through a shell game of
     non-reporting.

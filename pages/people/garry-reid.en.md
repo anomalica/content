@@ -137,7 +137,6 @@ references:
   claim_id: a53c3d27-b1e9-42b8-be29-d425a3163942
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53c3d27-b1e9-42b8-be29-d425a3163942
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a53c3d27-b1e9-42b8-be29-d425a3163942
 - text: Reid controlled security clearances across the Department of Defense, including
     Elizondo's
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -146,7 +145,6 @@ references:
   claim_id: 01c42881-cb71-4262-ba78-652a71917453
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01c42881-cb71-4262-ba78-652a71917453
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-01c42881-cb71-4262-ba78-652a71917453
 - text: Reid replaced Michael Higgins, arriving from the special operations community;
     not related to Senator Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -157,7 +155,6 @@ references:
   claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-900dd4a3-9342-437d-9180-a6de8346dbad
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-900dd4a3-9342-437d-9180-a6de8346dbad
 - text: Elizondo was assigned to OUSDI from 2008-09-28 to 2017-10-04
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
   location: char:4801-4874
@@ -223,7 +220,6 @@ references:
   claim_id: 699599cb-01ac-461d-a853-8e12d70f5e35
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-699599cb-01ac-461d-a853-8e12d70f5e35
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-699599cb-01ac-461d-a853-8e12d70f5e35
 - text: On 2017-10-03 Elizondo submitted a resignation letter requesting immediate
     termination
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -299,7 +295,6 @@ references:
   claim_id: f43085fc-6f19-4978-9f96-6f19f7ba3bd4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f43085fc-6f19-4978-9f96-6f19f7ba3bd4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f43085fc-6f19-4978-9f96-6f19f7ba3bd4
 - text: Reid asked Elizondo what he was supposed to do with the resignation letter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:4334-4441
@@ -308,7 +303,6 @@ references:
   claim_id: 0c765668-436e-4dec-abbc-2f0912c4bb9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c765668-436e-4dec-abbc-2f0912c4bb9c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0c765668-436e-4dec-abbc-2f0912c4bb9c
 - text: Reid warned Elizondo he would tell people he was acting crazy and that it
     could affect his security clearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -319,7 +313,6 @@ references:
   claim_id: 88fb4bff-98d9-41dd-a3bf-02312f368ba4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-88fb4bff-98d9-41dd-a3bf-02312f368ba4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-88fb4bff-98d9-41dd-a3bf-02312f368ba4
 - text: A second resignation letter was delivered to the OUSDI Chief of Staff's office
     around 2017-10-04, after Elizondo had left
   source: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
@@ -473,7 +466,6 @@ references:
   claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
 - text: Reid seized Elizondo's computers and files and questioned his former employees
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6828-6921
@@ -482,7 +474,6 @@ references:
   claim_id: f99ab138-7484-403e-a69f-ef784f2cf6a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f99ab138-7484-403e-a69f-ef784f2cf6a8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f99ab138-7484-403e-a69f-ef784f2cf6a8
 - text: Elizondo received a call from a DCSA agent, an agency overseen by Reid, over
     the video declassification allegations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -493,7 +484,6 @@ references:
   claim_id: 69523cbf-2b32-4908-8f0b-c5e9a0215a70
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-69523cbf-2b32-4908-8f0b-c5e9a0215a70
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-69523cbf-2b32-4908-8f0b-c5e9a0215a70
 - text: Employees filed complaints about Reid's conduct with the DoD Inspector General
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11288-11371
@@ -502,7 +492,6 @@ references:
   claim_id: c7a7e9ca-5253-4925-84f0-7e926b8e93c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
 - text: The DoD Inspector General investigated Reid over a litany of issues after
     a complaint from a female employee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -513,7 +502,6 @@ references:
   claim_id: f0ff397d-5044-43b8-8881-bb72020c6863
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0ff397d-5044-43b8-8881-bb72020c6863
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f0ff397d-5044-43b8-8881-bb72020c6863
 - text: Elizondo said the investigation examined allegations of a sexual relationship
     with a subordinate, sexual harassment and a hostile work environment
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -524,7 +512,6 @@ references:
   claim_id: 28ffe871-723f-460d-8b76-adbea35c6df2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-28ffe871-723f-460d-8b76-adbea35c6df2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-28ffe871-723f-460d-8b76-adbea35c6df2
 - text: Elizondo said the investigation concluded Reid violated Joint Ethics Regulations
     over an inappropriate relationship and mishandling Controlled Unclassified Information
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -536,7 +523,6 @@ references:
   claim_id: 1cb05220-f4c8-4ec3-9a39-974c573b6d7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1cb05220-f4c8-4ec3-9a39-974c573b6d7b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1cb05220-f4c8-4ec3-9a39-974c573b6d7b
 - text: Elizondo said Reid withheld his resignation from Secretary of Defense James
     Mattis, hoping never to reveal it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -546,7 +532,6 @@ references:
   claim_id: 0d1b40fa-2cfc-4abd-afd0-a9007250508d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d1b40fa-2cfc-4abd-afd0-a9007250508d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0d1b40fa-2cfc-4abd-afd0-a9007250508d
 - text: Reid was reassigned from OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40978-41023
@@ -554,7 +539,6 @@ references:
   claim_id: 3c440f66-1d63-4144-8ea6-79d9d831935b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
 - text: Reid was reassigned to DIA as a 'special advisor'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40073-40112
@@ -562,7 +546,6 @@ references:
   claim_id: f40a9557-d26a-4529-a458-45b635e4c62f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f40a9557-d26a-4529-a458-45b635e4c62f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f40a9557-d26a-4529-a458-45b635e4c62f
 - text: The inspector general investigation into the allegations against Reid had
     concluded
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -572,7 +555,6 @@ references:
   claim_id: b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

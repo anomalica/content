@@ -180,7 +180,6 @@ references:
   claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
 - text: Sergeant sent five letters with excerpts from his grandfather's diary
   source: In Plain Sight
   location: ch23:3539-3703
@@ -190,7 +189,6 @@ references:
   claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c01931a-dd22-4d7d-805f-cb17c5a36dad
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5c01931a-dd22-4d7d-805f-cb17c5a36dad
 - text: Listeners responded sceptically when Bell told the story on air
   source: In Plain Sight
   location: ch23:6971-7171
@@ -200,7 +198,6 @@ references:
   claim_id: e2d71d2b-3037-4375-be3e-9d30ca8766d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2d71d2b-3037-4375-be3e-9d30ca8766d3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e2d71d2b-3037-4375-be3e-9d30ca8766d3
 - text: Sergeant's second letter expressed surprise at listeners' negative response
   source: In Plain Sight
   location: ch23:7176-7381
@@ -210,7 +207,6 @@ references:
   claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
 - text: Sergeant's fourth letter admitted he was on the Joint Endeavor flight to Hungary
     during a broadcast
   source: In Plain Sight
@@ -221,7 +217,6 @@ references:
   claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
 - text: Sergeant said his pilot friend carried a Roswell sample and that C-130s don't
     normally get struck by lightning and explode
   source: In Plain Sight
@@ -232,7 +227,6 @@ references:
   claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-caaa1f88-ff17-487b-bf6c-b00cf6ed697b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-caaa1f88-ff17-487b-bf6c-b00cf6ed697b
 - text: The 1978 C-130 lightning crash occurred four years after the diary account
     and 18 years before the letters to Bell and Howe
   source: In Plain Sight
@@ -244,7 +238,6 @@ references:
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36d39e48-8642-4594-8f45-e75651455626
 - text: 'Coulthart: the November 1996 letter appeared addressed to an LA producer
     possibly working with Howe or Bell'
   source: In Plain Sight
@@ -255,7 +248,6 @@ references:
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
 - text: Coulthart suspects the letter was forwarded to Mitchell by Howe or Bell with
     identifying details removed
   source: In Plain Sight
@@ -266,7 +258,6 @@ references:
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2248f7a6-452a-4431-9493-e12fee5807d0
 - text: Pendry began conceiving metamaterials around the same time Bell received the
     Art's Parts samples
   source: In Plain Sight
@@ -277,7 +268,6 @@ references:
   claim_id: 3d28a45d-b46a-4fd9-8dca-5bac666e0166
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d28a45d-b46a-4fd9-8dca-5bac666e0166
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3d28a45d-b46a-4fd9-8dca-5bac666e0166
 - text: Mick West identified the aluminium louvered sheets as heat exchanger fins
   source: In Plain Sight
   location: ch34:49606-49718
@@ -286,7 +276,6 @@ references:
   claim_id: 18886365-8a16-464e-ae34-a15698badaf5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18886365-8a16-464e-ae34-a15698badaf5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-18886365-8a16-464e-ae34-a15698badaf5
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

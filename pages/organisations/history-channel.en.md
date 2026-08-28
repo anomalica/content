@@ -47,7 +47,6 @@ references:
   claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cb5369fd-11e7-403b-9b58-19107da89a59
 - text: Elizondo and Mellon agreed to participate on condition the show be authentic,
     with no artificial drama, no conspiracy theories, no scripts, and only current
     or former government witnesses
@@ -59,7 +58,6 @@ references:
   claim_id: 7c819735-be53-4faa-8845-34bc0b2b80d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7c819735-be53-4faa-8845-34bc0b2b80d3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7c819735-be53-4faa-8845-34bc0b2b80d3
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

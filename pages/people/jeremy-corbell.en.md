@@ -40,7 +40,6 @@ references:
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3f353e-2e00-45ff-945d-832286061739
 - text: An image in Sleeping Dog, called Caspar's Ghost by Ross Coulthart, appears
     to show a plasmatic, humanoid-shaped object moving strangely.
   source: What Did Apollo Astronauts Really See on the Moon? | Reality Check with

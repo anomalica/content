@@ -36,7 +36,6 @@ references:
   claim_id: d14119f7-7cf6-4cd8-bb81-18a1cd5e54e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d14119f7-7cf6-4cd8-bb81-18a1cd5e54e9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d14119f7-7cf6-4cd8-bb81-18a1cd5e54e9
 - text: Its Latin motto is 'Si Vis Pacem, Para Bellum'.
   source: In Plain Sight
   location: ch20:19671-19777
@@ -45,7 +44,6 @@ references:
   claim_id: f27be69c-8f40-4f2a-8845-8acfa0fceda2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f27be69c-8f40-4f2a-8845-8acfa0fceda2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f27be69c-8f40-4f2a-8845-8acfa0fceda2
 - text: Its stated vision includes building combat-ready space forces and space warfighting
     capabilities.
   source: In Plain Sight
@@ -55,7 +53,6 @@ references:
   claim_id: 1e848d9f-26ae-4829-950e-e4491478996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e848d9f-26ae-4829-950e-e4491478996e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e848d9f-26ae-4829-950e-e4491478996e
 - text: The Air Force oversees the Space Force and supports NORAD.
   source: In Plain Sight
   location: ch29:22672-22861
@@ -65,7 +62,6 @@ references:
   claim_id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
 - text: A Pentagon spokesperson confirmed Elizondo provides technical advice to the
     USSF on classified topics.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -75,7 +71,6 @@ references:
   claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-547e4e1a-db91-4538-8afb-80d259c1a735
 - text: The USSF did not yet have a UAP programme when Stratton needed a representative
     for his task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -85,7 +80,6 @@ references:
   claim_id: 2b1146f7-8532-43bd-9234-c58aaab6925b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
 - text: Elizondo became a USSF contractor to help build its UAP effort and support
     the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -96,7 +90,6 @@ references:
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
 - text: David Grusch worked with Elizondo at the USSF.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:981-1015
@@ -104,7 +97,6 @@ references:
   claim_id: daf92a2b-5dbc-4a65-a982-b051ff9b942a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-daf92a2b-5dbc-4a65-a982-b051ff9b942a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-daf92a2b-5dbc-4a65-a982-b051ff9b942a
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

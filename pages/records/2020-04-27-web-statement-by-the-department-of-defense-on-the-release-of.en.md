@@ -19,6 +19,7 @@ references:
   claim_id: ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-ee97f5f0-f7c4-4db6-8d63-1bb2056f9ee1
 - text: One of the three videos was taken in November 2004
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -27,6 +28,7 @@ references:
   claim_id: 63f902b1-7b42-4d01-96cb-69fc5d0b0b35
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-63f902b1-7b42-4d01-96cb-69fc5d0b0b35
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-63f902b1-7b42-4d01-96cb-69fc5d0b0b35
 - text: Two of the three videos were taken in January 2015
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -35,6 +37,7 @@ references:
   claim_id: edef302c-92b3-4cfa-a1e1-0b5546948225
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-edef302c-92b3-4cfa-a1e1-0b5546948225
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-edef302c-92b3-4cfa-a1e1-0b5546948225
 - text: The videos had been circulating in the public domain following unauthorised
     releases in 2007 and 2017
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -45,6 +48,7 @@ references:
   claim_id: 685fb0ac-e154-4583-8ac6-ad1331d741d6
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-685fb0ac-e154-4583-8ac6-ad1331d741d6
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-685fb0ac-e154-4583-8ac6-ad1331d741d6
 - text: The US Navy had previously acknowledged that the circulating videos were genuine
     Navy footage
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -55,6 +59,7 @@ references:
   claim_id: b5021456-9992-4483-a847-ed30c9514ad3
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-b5021456-9992-4483-a847-ed30c9514ad3
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-b5021456-9992-4483-a847-ed30c9514ad3
 - text: DoD determined after a thorough review that the release does not reveal sensitive
     capabilities or systems
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -66,6 +71,7 @@ references:
   claim_id: 602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-602b3d1d-f1ac-4deb-ac5d-bf405fcd5892
 - text: The release does not impinge on any subsequent investigations of military
     air space incursions by UAP
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -76,6 +82,7 @@ references:
   claim_id: 0433dbeb-b301-4c54-b047-ab6857957606
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-0433dbeb-b301-4c54-b047-ab6857957606
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-0433dbeb-b301-4c54-b047-ab6857957606
 - text: DoD released the videos to clear up public misconceptions about whether the
     footage was real and whether more existed
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -87,6 +94,7 @@ references:
   claim_id: 9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-9442f8cd-4a3a-4386-b8ee-37f69cb1c0bc
 - text: The aerial phenomena observed in the videos remain characterised as unidentified
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -95,6 +103,7 @@ references:
   claim_id: 65562542-1bb3-452f-bcb8-17225fd377d3
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-65562542-1bb3-452f-bcb8-17225fd377d3
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-65562542-1bb3-452f-bcb8-17225fd377d3
 ai_usage:
 - stage: assemble
   model: claude-sonnet-4-6

@@ -53,7 +53,6 @@ references:
   claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81697f7d-8545-4d1e-8a38-632f67d8c68b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-81697f7d-8545-4d1e-8a38-632f67d8c68b
 - text: The Director of Central Intelligence position he held became the CIA later
     in 1947.
   source: In Plain Sight
@@ -64,7 +63,6 @@ references:
   claim_id: b1375d69-f83f-4842-abd2-3e57e8987ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b1375d69-f83f-4842-abd2-3e57e8987ef6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b1375d69-f83f-4842-abd2-3e57e8987ef6
 - text: He had formerly commanded the battleship USS Missouri.
   source: In Plain Sight
   location: ch7:5329-5484
@@ -73,7 +71,6 @@ references:
   claim_id: ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
 - text: He was wounded aboard a vessel during the attack on Pearl Harbor on 1941-12-07.
   source: In Plain Sight
   location: ch7:5408-5484
@@ -82,7 +79,6 @@ references:
   claim_id: b26db7a2-3d63-41d4-b049-0cbc8784a4e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b26db7a2-3d63-41d4-b049-0cbc8784a4e4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b26db7a2-3d63-41d4-b049-0cbc8784a4e4
 - text: Fixing the intelligence failures that allowed the Pearl Harbor attack to go
     undetected was a major priority in his new role.
   source: In Plain Sight
@@ -92,7 +88,6 @@ references:
   claim_id: c87ead90-11cb-46ae-b2c8-9abbc5e0210c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c87ead90-11cb-46ae-b2c8-9abbc5e0210c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c87ead90-11cb-46ae-b2c8-9abbc5e0210c
 - text: He joined the Board of Directors of NICAP.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32773-32810
@@ -109,7 +104,6 @@ references:
   claim_id: 909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
 - text: Hillenkoetter said it was imperative to learn what UFOs are and where they
     come from.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -128,7 +122,6 @@ references:
   claim_id: 6ceca9f9-2cdc-4030-9366-f12c7cf70099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ceca9f9-2cdc-4030-9366-f12c7cf70099
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6ceca9f9-2cdc-4030-9366-f12c7cf70099
 - text: He told Congress that high-ranking air force officers were privately concerned
     about UFOs while secrecy and ridicule led the public to dismiss them.
   source: In Plain Sight
@@ -139,7 +132,6 @@ references:
   claim_id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
 - text: As a former CIA Director he pushed for congressional hearings while the Air
     Force publicly debunked UAP sightings but took the phenomenon seriously in private.
   source: In Plain Sight
@@ -150,7 +142,6 @@ references:
   claim_id: 6ee9a279-9c83-4c4f-8cb9-9c0866496b29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ee9a279-9c83-4c4f-8cb9-9c0866496b29
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6ee9a279-9c83-4c4f-8cb9-9c0866496b29
 - text: Jacques Vallée speculated that Hillenkoetter may have been lending credibility
     to the Martian Conspiracy stratagem by promoting the extraterrestrial theory of
     UFOs.
@@ -171,7 +162,6 @@ references:
   claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

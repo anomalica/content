@@ -736,6 +736,7 @@ references:
   claim_id: 79c0f3c9-17bb-4324-b5ce-900e6de4fac9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
 - text: Described unbadged military personnel loading people, including children,
     into reverse-engineered craft during the encounter
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -748,6 +749,7 @@ references:
   claim_id: f16c8257-7f75-4f7b-ac19-b380850fd79c
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
 - text: Found forced-perspective imperfections in the wedding cake UFO photographs,
     drawing on his background in illusion
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -758,6 +760,7 @@ references:
   claim_id: 46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
 - text: Concluded the close-up nighttime wedding cake photograph was a hoax because
     the object being out of focus indicated it was very close and very small
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -768,6 +771,7 @@ references:
   claim_id: 5634cb7d-9239-434b-8910-4608973e8163
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5634cb7d-9239-434b-8910-4608973e8163
+  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5634cb7d-9239-434b-8910-4608973e8163
 - text: Says that although coverage of the abduction phenomenon seems to have dissipated,
     many abductees he speaks to maintain it is still happening
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel

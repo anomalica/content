@@ -77,7 +77,6 @@ references:
   claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1725b8da-9347-48db-b207-3a49505ddb8c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1725b8da-9347-48db-b207-3a49505ddb8c
 - text: Robert Low was the university's business administrator at the project's inception
   source: Communion
   location: ch14:22590-22666
@@ -146,7 +145,6 @@ references:
   claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
 - text: The study cost nearly half a million dollars
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'

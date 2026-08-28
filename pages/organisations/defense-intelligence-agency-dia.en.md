@@ -209,7 +209,6 @@ references:
   claim_id: e666ef12-6a1a-4108-8812-ff20fd4c843f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e666ef12-6a1a-4108-8812-ff20fd4c843f
 - text: DIA established AAWSAP, also known as AATIP, in coordination with the Office
     of the Under Secretary of Defense for Intelligence
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -220,7 +219,6 @@ references:
   claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
 - text: AAWSAP was initiated and managed for DIA by James Lacatski
   source: Statement to Congress
   location: char:9837-9960
@@ -240,7 +238,6 @@ references:
   claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
 - text: A condition of the Bigelow contract was that its Las Vegas plant be engineered
     to accept, store, and study exotic materials
   source: Statement to Congress
@@ -270,7 +267,6 @@ references:
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
 - text: The programme reported directly to the DIA director and to Congress, according
     to Lacatski
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -280,7 +276,6 @@ references:
   claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
 - text: AATIP was initially run out of DIA, but Elizondo ran it out of OUSDI from
     2010
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
@@ -293,7 +288,6 @@ references:
   claim_id: e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-e4a2e39b-cdcc-4e71-b5d6-cd7dc77229e2
 - text: Susan Gough said DIA administered AATIP and that Elizondo was never assigned
     to DIA
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -304,7 +298,6 @@ references:
   claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-66d595f4-434f-4b7e-873c-0e9500e329bf
 - text: Gough said Elizondo interacted with the DIA office managing AATIP while it
     was ongoing, but did not lead it
   source: Pentagon Reinforces Mr. Luis Elizondo Had "No Responsibilities" on AATIP;
@@ -315,7 +308,6 @@ references:
   claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
   record_hash: b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1
   workbench_url: https://workbench.anomalica.is/b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b1#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
-  inspection_url: /records/2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no#claim-78ca86ac-7275-4292-b1e7-857a73689ebc
 - text: Pentagon officials acknowledged AATIP's existence to the New York Times in
     December 2017, saying it began as part of DIA
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -327,7 +319,6 @@ references:
   claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-2c353fc8-c99c-4494-9a8a-24384eda5479
 - text: AAWSAP/AATIP was terminated in 2012 upon completion of its deliverables due
     to DIA and DoD concerns
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -338,7 +329,6 @@ references:
   claim_id: 630de01c-0f3f-418d-9450-07e4d982059e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-630de01c-0f3f-418d-9450-07e4d982059e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-630de01c-0f3f-418d-9450-07e4d982059e
 - text: Its supporters proposed a successor programme to the Department of Homeland
     Security, codenamed KONA BLUE
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -351,7 +341,6 @@ references:
   claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
 - text: Elizondo, Semivan, and Robert moved the remnants of AATIP away from DIA into
     Elizondo's portfolio
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -362,7 +351,6 @@ references:
   claim_id: 66b40ce5-fa68-4695-a91a-6df339ce165c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
 - text: In 1997, Thomas Wilson was DIA Deputy Director and J-2, under Director Patrick
     Hughes
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
@@ -386,7 +374,6 @@ references:
   claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
 - text: In April 1997, Greer was escorted to the offices of the Deputy Director of
     DIA
   source: In Plain Sight
@@ -398,7 +385,6 @@ references:
   claim_id: 3b4b6352-274c-4bd5-bae5-79f4b49b2c41
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
 - text: In 1998, Greer was invited back with Willard Miller to brief Director Patrick
     Hughes on UFOs
   source: In Plain Sight
@@ -410,7 +396,6 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: Reid said Bigelow told him in 2007 that a DIA official had approached wanting
     to visit Bigelow's Utah ranch
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -422,7 +407,6 @@ references:
   claim_id: a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
 - text: Reid said he met with DIA officials after his meeting with Bigelow and learned
     they wanted a research programme on UFOs
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -433,7 +417,6 @@ references:
   claim_id: ffb017f9-6b4d-410b-b830-ba613d4b2533
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-ffb017f9-6b4d-410b-b830-ba613d4b2533
 - text: Reid visited Skinwalker Ranch and said what the DIA scientist saw there convinced
     him it was a real phenomenon needing investigation
   source: In Plain Sight
@@ -444,7 +427,6 @@ references:
   claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
 - text: Bigelow said the DIA scientist described a triangular object materialising
     in front of him at Skinwalker Ranch
   source: In Plain Sight
@@ -458,7 +440,6 @@ references:
   claim_id: 1ffde043-e53b-4446-884d-6bc289deeee6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1ffde043-e53b-4446-884d-6bc289deeee6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1ffde043-e53b-4446-884d-6bc289deeee6
 - text: Bobby Inman was a former vice director of DIA
   source: Dark Mission
   location: ch14:22713-22755
@@ -475,7 +456,6 @@ references:
   claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
 - text: In 2008 Clapper hired Elizondo into the office overseeing DIA and NSA among
     other agencies
   source: In Plain Sight
@@ -487,7 +467,6 @@ references:
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
 - text: In 2010, Devon Woods became a senior director at DIA after previously serving
     at ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -497,7 +476,6 @@ references:
   claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
 - text: Woods brought in CIA colleagues after moving to DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:6629-6666
@@ -505,7 +483,6 @@ references:
   claim_id: 5c6dd328-033d-4485-b5a5-76bee2fe256a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6dd328-033d-4485-b5a5-76bee2fe256a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5c6dd328-033d-4485-b5a5-76bee2fe256a
 - text: Higgins had recently taken over as DIA's Director of Operations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:18431-18506
@@ -514,7 +491,6 @@ references:
   claim_id: 3852f674-2ea8-4d32-b3f0-651513d12b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3852f674-2ea8-4d32-b3f0-651513d12b9d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3852f674-2ea8-4d32-b3f0-651513d12b9d
 - text: Elizondo called Higgins asking him to protect Lacatski from internal persecution
     within DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -526,7 +502,6 @@ references:
   claim_id: 427be487-8a34-4076-b078-fbb64dac409a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-427be487-8a34-4076-b078-fbb64dac409a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-427be487-8a34-4076-b078-fbb64dac409a
 - text: DIA leadership transition brought increasing scrutiny and detractors of AAWSAP
     at senior level
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -537,7 +512,6 @@ references:
   claim_id: 4b031331-4f65-4c05-97cc-13c42161dc1e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
 - text: Lacatski spent his time defending his efforts as senior DIA leadership tried
     to kill AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -548,7 +522,6 @@ references:
   claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
 - text: The CIA, US Army, and DIA recruited people claiming extrasensory perception
     to help uncover intelligence secrets
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -571,7 +544,6 @@ references:
   claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
 - text: Grusch said DIA has refused to release classified foreign intelligence reporting
     on UAP retrieval and reverse engineering to Congress
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -602,7 +574,6 @@ references:
   claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-63b1526c-a4b6-4214-950e-85ccce69df5f
 - text: Select members of Congress initiated and funded AAWSAP under DIA direction
     to study UAP
   source: Unclassified Summary of Report No. DODIG-2023-109
@@ -614,7 +585,6 @@ references:
   claim_id: 7b527140-6627-42ac-a2de-3e550e9beb3b
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

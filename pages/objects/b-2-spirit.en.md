@@ -74,7 +74,6 @@ references:
   claim_id: 970b8e74-cea5-4d85-a481-d35c076050d0
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-970b8e74-cea5-4d85-a481-d35c076050d0
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-970b8e74-cea5-4d85-a481-d35c076050d0
 - text: The B-2 Spirit uses reduced infrared, acoustic, and electromagnetic signatures.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -84,7 +83,6 @@ references:
   claim_id: a675d7a2-4b2f-4001-a51c-2bb5f5429112
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a675d7a2-4b2f-4001-a51c-2bb5f5429112
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a675d7a2-4b2f-4001-a51c-2bb5f5429112
 - text: HAVE Blue, F-117 Nighthawk, and TACIT Blue laid the foundations for the B-2
     Spirit's development.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -95,7 +93,6 @@ references:
   claim_id: cd03d74c-f6b0-4e80-a525-61f75ed85762
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cd03d74c-f6b0-4e80-a525-61f75ed85762
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cd03d74c-f6b0-4e80-a525-61f75ed85762
 - text: The B-2 Spirit was first publicly displayed on 1988-11-22 in Palmdale, California.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -104,7 +101,6 @@ references:
   claim_id: 37b1d76a-a851-4bd7-83f9-d2bfa9c85dcb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-37b1d76a-a851-4bd7-83f9-d2bfa9c85dcb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-37b1d76a-a851-4bd7-83f9-d2bfa9c85dcb
 - text: The B-2 Spirit conducted its first flight on 1989-07-17.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -113,7 +109,6 @@ references:
   claim_id: 28777f78-8218-4723-9b12-6958c2150b32
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-28777f78-8218-4723-9b12-6958c2150b32
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-28777f78-8218-4723-9b12-6958c2150b32
 - text: The first B-2 Spirit aircraft was delivered on 1993-12-17.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -122,7 +117,6 @@ references:
   claim_id: f6fdcb82-ccfc-488a-ada3-c3cce532c606
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-f6fdcb82-ccfc-488a-ada3-c3cce532c606
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-f6fdcb82-ccfc-488a-ada3-c3cce532c606
 - text: A single B-2 Spirit stealth bomber costs over one billion United States dollars.
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:55:32.2-00:55:37.4

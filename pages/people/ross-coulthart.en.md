@@ -436,7 +436,6 @@ references:
   claim_id: c020a973-4cfe-42f6-946e-6783498171cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c020a973-4cfe-42f6-946e-6783498171cf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c020a973-4cfe-42f6-946e-6783498171cf
 - text: Flier sent to Westall witnesses ahead of the 55th anniversary in April 2021,
     inviting interviews
   source: In Plain Sight
@@ -447,7 +446,6 @@ references:
   claim_id: bf359fd0-ece9-49b6-a8d8-f4313f96a008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
 - text: Friend's father, a Defence scientist, investigated Westall and wrote a secret
     report
   source: In Plain Sight
@@ -457,7 +455,6 @@ references:
   claim_id: f0049d4c-f607-436a-a4ea-e2724e049137
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f0049d4c-f607-436a-a4ea-e2724e049137
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f0049d4c-f607-436a-a4ea-e2724e049137
 - text: A black Humber car collected the friend's father each morning after Westall
   source: In Plain Sight
   location: ch10:16469-16634
@@ -467,7 +464,6 @@ references:
   claim_id: e1476186-821b-4df1-95ba-62655ec6a2cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
 - text: No Westall document has ever surfaced from Australian government archives
   source: In Plain Sight
   location: ch10:16846-16972
@@ -476,7 +472,6 @@ references:
   claim_id: 5fe828e4-4b73-4f6e-b491-6977fa8bc840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
 - text: Coulthart in no doubt a secret Westall report was written
   source: In Plain Sight
   location: ch10:16985-17078
@@ -485,7 +480,6 @@ references:
   claim_id: 56182c24-4122-4771-b54a-c1fda1b12bfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
 - text: Shane Ryan works at Australia's Parliament House in Canberra
   source: In Plain Sight
   location: ch10:17910-18000
@@ -494,7 +488,6 @@ references:
   claim_id: bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
 - text: Shane Ryan interviewed 122 Westall witnesses who saw a 'flying saucer'
   source: In Plain Sight
   location: ch10:17775-17901
@@ -503,7 +496,6 @@ references:
   claim_id: 59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
 - text: Coulthart travelled to Exmouth, described as Australia's own Roswell
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:20:59.3-00:21:16.0
@@ -581,7 +573,6 @@ references:
   claim_id: 3705ba2c-55df-49cc-be11-923aa23e0563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3705ba2c-55df-49cc-be11-923aa23e0563
 - text: Coulthart calls the 1985 USAF summary statement a blatant deceit
   source: In Plain Sight
   location: ch10:24387-24410
@@ -589,7 +580,6 @@ references:
   claim_id: 97361b62-ca01-4a6e-9c70-c0b674a92d83
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
 - text: MJ-12 documents allegedly established Majestic 12 as the retrieval group
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -681,7 +671,6 @@ references:
   claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb
 - text: David Grusch, a whistleblower from inside the DOD and intelligence community
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
     Check

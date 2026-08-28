@@ -56,7 +56,6 @@ references:
   claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9725d5f4-e744-4876-a353-c6064d8da600
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9725d5f4-e744-4876-a353-c6064d8da600
 - text: Gaetz sought a briefing about the Eglin Air Force Base UAP incident and brought
     Burchett and Luna
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -67,7 +66,6 @@ references:
   claim_id: b109fc08-0df9-41e8-8f67-716f6ff7dd49
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-b109fc08-0df9-41e8-8f67-716f6ff7dd49
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-b109fc08-0df9-41e8-8f67-716f6ff7dd49
 - text: Burchett said that without Gaetz's involvement, he, Luna and Burlison would
     still be at Eglin trying to get answers
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -79,7 +77,6 @@ references:
   claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-771089ea-4d90-4e9c-979c-a78b450716cc
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-771089ea-4d90-4e9c-979c-a78b450716cc
 - text: Grothman waived Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles onto
     the Subcommittee for the hearing
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -92,7 +89,6 @@ references:
   claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-935ed13e-4329-4d08-80c6-2788a588a6d6
 - text: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy,
     Raskin and Ocasio-Cortez were present at the hearing
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -103,7 +99,6 @@ references:
   claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c1ffe66f-44ad-454e-9da3-c137060f20b5
 - text: Grothman thanked Burchett and Luna for bringing UAP to the Oversight Committee's
     attention
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -114,7 +109,6 @@ references:
   claim_id: f984cfbf-a4f3-4551-9908-a6177f78c2eb
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-f984cfbf-a4f3-4551-9908-a6177f78c2eb
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-f984cfbf-a4f3-4551-9908-a6177f78c2eb
 - text: Luna, while an active-duty service member on an airfield, spoke with pilots
     afraid to report UAP sightings
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -126,7 +120,6 @@ references:
   claim_id: 9fd956f7-eb19-41b5-8a47-c0661b6bafed
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9fd956f7-eb19-41b5-8a47-c0661b6bafed
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9fd956f7-eb19-41b5-8a47-c0661b6bafed
 - text: Members of Congress were denied access to a classified SCIF briefing ahead
     of the hearing due to requirements to clear Grusch
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -138,7 +131,6 @@ references:
   claim_id: 493576cf-9e43-4417-93c8-5674b6d6b1d9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-493576cf-9e43-4417-93c8-5674b6d6b1d9
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-493576cf-9e43-4417-93c8-5674b6d6b1d9
 - text: David Grusch has knowledge of classified information
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -148,7 +140,6 @@ references:
   claim_id: 1d9857d3-4ef7-4332-9c01-ea990c6b0b1f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1d9857d3-4ef7-4332-9c01-ea990c6b0b1f
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1d9857d3-4ef7-4332-9c01-ea990c6b0b1f
 - text: 68 percent of Americans believe the government is hiding UAP information
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -159,7 +150,6 @@ references:
   claim_id: cddd0cf8-288c-402c-8a7b-413793fb1fd9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-cddd0cf8-288c-402c-8a7b-413793fb1fd9
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-cddd0cf8-288c-402c-8a7b-413793fb1fd9
 - text: Nearly half of Americans believe the federal government is doing a bad job
     handling UFO sighting reports
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -171,7 +161,6 @@ references:
   claim_id: 45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
 - text: Over 20 percent of Americans have reported seeing UFOs or UAP
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -181,7 +170,6 @@ references:
   claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-c2505fa1-a887-4c55-98bf-ea49691be6a3
 - text: Sean Kirkpatrick said on 2023-04-19 that he found no evidence of UAP
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -191,7 +179,6 @@ references:
   claim_id: 642c7c22-f37a-4ef2-a0a7-017823384ca9
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-642c7c22-f37a-4ef2-a0a7-017823384ca9
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-642c7c22-f37a-4ef2-a0a7-017823384ca9
 - text: Luna asked Elizondo whether non-human biologics piloting aircraft are connected
     via a mind-body link
   source: UAPs in Washington - I wasn't supposed to be there..

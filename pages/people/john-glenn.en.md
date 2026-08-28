@@ -53,7 +53,6 @@ references:
   claim_id: 06ab15c0-0f45-44df-b3a8-777cd37a3966
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-06ab15c0-0f45-44df-b3a8-777cd37a3966
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-06ab15c0-0f45-44df-b3a8-777cd37a3966
 - text: Glenn said he was uncomfortable being asked to say and deny things during
     the early space programme
   source: Dark Mission
@@ -133,7 +132,6 @@ references:
   claim_id: 75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-75b0d7dc-bf35-48df-b3c2-181c3ff8a71d
 - text: 'Reid: Glenn said the federal government should talk to pilots who saw unidentified
     aircraft'
   source: 'Glowing Auras and ''Black Money'': The Pentagon''s Mysterious U.F.O. Program
@@ -144,7 +142,6 @@ references:
   claim_id: a93673f9-3f0c-435c-84e0-66d263ff878f
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-a93673f9-3f0c-435c-84e0-66d263ff878f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-a93673f9-3f0c-435c-84e0-66d263ff878f
 - text: 'Interview excerpt: Glenn doubted the Glenn effect was caused by frost off
     the capsule'
   source: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962

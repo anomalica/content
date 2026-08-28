@@ -94,7 +94,6 @@ references:
   claim_id: a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
 - text: Whitley Strieber said Arthur Exon told him in 1989 that there was an unequivocal
     cover-up of a retrieved craft at Roswell that went 'from Truman on down'
   source: In Plain Sight
@@ -106,7 +105,6 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: The 1952 Washington DC UFO flap was front-page news worldwide, and Truman
     demanded answers
   source: In Plain Sight
@@ -116,7 +114,6 @@ references:
   claim_id: 693b161a-8ce8-44f1-9233-077d83cf7663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-693b161a-8ce8-44f1-9233-077d83cf7663
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-693b161a-8ce8-44f1-9233-077d83cf7663
 - text: In July 1952, multiple UAP resembling lights penetrated downtown Washington
     DC and buzzed the White House over two consecutive weekends while Truman was president
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -127,7 +124,6 @@ references:
   claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
 - text: Luis Elizondo believes Truman was among the presidents briefed in some way
     on UAP, alongside Eisenhower, Kennedy, Johnson, Carter, Reagan, Bush and Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -137,7 +133,6 @@ references:
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
 - text: General Arthur Exon told Whitley Strieber, after Strieber published Communion
     in 1987, that everybody from Truman on down knew within 24 hours that what had
     been found was not of this world

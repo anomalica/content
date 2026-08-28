@@ -188,6 +188,7 @@ references:
   claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: https://workbench.anomalica.is/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ae131adf-640a-4d03-b509-f0a9e1f04fc8
 - text: AAVs detected multiple times over the horizon, descending approximately 24,000
     metres in less than a second
   source: Navy pilots describe encounters with UFOs
@@ -198,6 +199,7 @@ references:
   claim_id: 65e79861-be56-4d79-ac97-b0f03c3c19ea
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: https://workbench.anomalica.is/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-65e79861-be56-4d79-ac97-b0f03c3c19ea
+  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-65e79861-be56-4d79-ac97-b0f03c3c19ea
 - text: USS Princeton detected multiple AAVs operating in and around the vicinity
     of the Carrier Strike Group on several occasions
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -207,7 +209,6 @@ references:
   claim_id: d8aec91b-3de5-4b40-a0c9-2bb3d73a7916
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d8aec91b-3de5-4b40-a0c9-2bb3d73a7916
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d8aec91b-3de5-4b40-a0c9-2bb3d73a7916
 - text: AAVs detected three separate times during the week operating off the western
     coast of the United States and Mexico
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -217,7 +218,6 @@ references:
   claim_id: e56d249f-a080-437a-b4bf-f99a031daf0e
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e56d249f-a080-437a-b4bf-f99a031daf0e
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e56d249f-a080-437a-b4bf-f99a031daf0e
 - text: AAVs would descend from above approximately 18,000 metres into the scan volume
     of the AN/SPY-1 radar at high velocity
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -228,7 +228,6 @@ references:
   claim_id: 9972f188-8e89-42d3-9eb4-d639f90820c4
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9972f188-8e89-42d3-9eb4-d639f90820c4
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9972f188-8e89-42d3-9eb4-d639f90820c4
 - text: AN/SPY-1 radar in air intercept mode never obtained an accurate track and
     quickly dropped AAVs as false targets
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -240,7 +239,6 @@ references:
   claim_id: 7a038a19-0bd0-4341-864a-179c59ca14ea
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-7a038a19-0bd0-4341-864a-179c59ca14ea
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-7a038a19-0bd0-4341-864a-179c59ca14ea
 - text: AAVs initially reported at approximately 4,600 to 6,100 metres; intermittent
     radar return made velocity unavailable
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -251,7 +249,6 @@ references:
   claim_id: 2d675600-a00e-48c4-9b7a-7a0c61dcd15b
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-2d675600-a00e-48c4-9b7a-7a0c61dcd15b
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-2d675600-a00e-48c4-9b7a-7a0c61dcd15b
 - text: F/A-18 pilots and weapon system operators from VFA-41 obtained visual and
     sensor contact at approximately N31 20' W117 10', about 130 kilometres south of
     the U.S./Mexico border
@@ -264,7 +261,6 @@ references:
   claim_id: 59259f23-436c-48f4-bb58-e353b459fdcc
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-59259f23-436c-48f4-bb58-e353b459fdcc
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-59259f23-436c-48f4-bb58-e353b459fdcc
 - text: USS Princeton took over control of F/A-18s from the E-2C and vectored them
     for intercept, leading to visual contact approximately 1.6 kilometres from the
     AAV
@@ -276,7 +272,6 @@ references:
   claim_id: f6dae1a0-1bf5-4ed7-837f-ec626b758ad6
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-f6dae1a0-1bf5-4ed7-837f-ec626b758ad6
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-f6dae1a0-1bf5-4ed7-837f-ec626b758ad6
 - text: AAV described as elongated egg or Tic Tac shape with discernable midline horizontal
     axis, uniformly white, approximately 14 metres in length
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -287,7 +282,6 @@ references:
   claim_id: 370acb8a-2479-4fb1-87b1-1b100cc39912
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-370acb8a-2479-4fb1-87b1-1b100cc39912
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-370acb8a-2479-4fb1-87b1-1b100cc39912
 - text: Weapon system operator described AAV as solid white, smooth, with no edges,
     no nacelles, pylons, or wings
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -299,7 +293,6 @@ references:
   claim_id: 76d1e777-e952-4a3a-b95a-14d583ad9eab
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-76d1e777-e952-4a3a-b95a-14d583ad9eab
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-76d1e777-e952-4a3a-b95a-14d583ad9eab
 - text: Fravor described AAV as holding like a Harrier, referencing the AV-8B's hovering
     capability
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -310,7 +303,6 @@ references:
   claim_id: d1aa596d-59ac-402b-9f4b-12fc1e632be3
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d1aa596d-59ac-402b-9f4b-12fc1e632be3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d1aa596d-59ac-402b-9f4b-12fc1e632be3
 - text: Fravor first noticed water disturbance below the AAV before gaining visual
     on the object
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -321,7 +313,6 @@ references:
   claim_id: 04992ee1-e63a-4ba1-9ab4-8733eaf18e80
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-04992ee1-e63a-4ba1-9ab4-8733eaf18e80
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-04992ee1-e63a-4ba1-9ab4-8733eaf18e80
 - text: Water disturbance described as frothy waves and foam, localised underneath
     the AAV, not appearing as a trail or wake
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -332,7 +323,6 @@ references:
   claim_id: a4192659-0ca2-4380-a286-8f0698f1d6ab
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a4192659-0ca2-4380-a286-8f0698f1d6ab
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a4192659-0ca2-4380-a286-8f0698f1d6ab
 - text: AAV appeared to recognise the aircraft by realigning its axis toward them;
     water disturbance ceased at this time
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -344,7 +334,6 @@ references:
   claim_id: a5c6d62b-310c-4d1d-b342-542bcf42c2e9
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a5c6d62b-310c-4d1d-b342-542bcf42c2e9
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a5c6d62b-310c-4d1d-b342-542bcf42c2e9
 - text: AAV ascended quickly and pulled lift vector on and aft of the F/A-18 at supersonic
     speed
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -354,7 +343,6 @@ references:
   claim_id: 49f52e76-fcc5-443e-99ff-1d6b695fc67d
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-49f52e76-fcc5-443e-99ff-1d6b695fc67d
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-49f52e76-fcc5-443e-99ff-1d6b695fc67d
 - text: After AAV ascended, Princeton reported it had flown to the training combat
     air patrol area and climbed to approximately 7,300 metres
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -366,7 +354,6 @@ references:
   claim_id: 37a8de8e-8300-407f-b0a6-e879c938ccae
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-37a8de8e-8300-407f-b0a6-e879c938ccae
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-37a8de8e-8300-407f-b0a6-e879c938ccae
 - text: Fravor's F/A-18F radar showed clean display with no targets; lead aircraft
     carried no FLIR pod
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -376,7 +363,6 @@ references:
   claim_id: 17c71e79-f6d7-40be-8849-7fb1f4a024f6
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-17c71e79-f6d7-40be-8849-7fb1f4a024f6
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-17c71e79-f6d7-40be-8849-7fb1f4a024f6
 - text: Fravor attempted unsuccessful helmet lock using Joint Helmet Mounted Cueing
     System
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -388,7 +374,6 @@ references:
   claim_id: a8858132-d923-4d8c-a36b-a467daf0ecf3
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-a8858132-d923-4d8c-a36b-a467daf0ecf3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-a8858132-d923-4d8c-a36b-a467daf0ecf3
 - text: Underwood's radar could not achieve Single Target Track lock; b-sweep would
     raster around hit, build initial aspect vector that never stabilised, then drop
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -401,7 +386,6 @@ references:
   claim_id: 8d6b293e-f6da-4501-8594-ec136032bd94
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-8d6b293e-f6da-4501-8594-ec136032bd94
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-8d6b293e-f6da-4501-8594-ec136032bd94
 - text: Underwood observed no jamming cues; described it as if radar could not receive
     enough information to create a single target track file
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -413,7 +397,6 @@ references:
   claim_id: dd8cfc2e-5fef-4537-8690-36ca7bcd31a3
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-dd8cfc2e-5fef-4537-8690-36ca7bcd31a3
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-dd8cfc2e-5fef-4537-8690-36ca7bcd31a3
 - text: FLIR showed AAV appearing stationary before moving out of field of view; only
     closure resulted from aircraft's own movement
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -425,7 +408,6 @@ references:
   claim_id: 62b191d7-a57f-4908-83ee-f40c22f15465
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-62b191d7-a57f-4908-83ee-f40c22f15465
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-62b191d7-a57f-4908-83ee-f40c22f15465
 - text: F/A-18F radar could not obtain lock on AAV, but it could be tracked while
     stationary and at slower speeds with FLIR
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -436,7 +418,6 @@ references:
   claim_id: d1b57c76-3352-4f71-9d89-6e82fb4d8674
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d1b57c76-3352-4f71-9d89-6e82fb4d8674
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d1b57c76-3352-4f71-9d89-6e82fb4d8674
 - text: AAV took evasive action upon intercept, demonstrating advanced acceleration,
     aerodynamic, and propulsion capability
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -446,7 +427,6 @@ references:
   claim_id: eb138b5e-68f8-48bc-b75f-4915559082be
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-eb138b5e-68f8-48bc-b75f-4915559082be
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-eb138b5e-68f8-48bc-b75f-4915559082be
 - text: VMFA-232 CO observed water disturbance approximately 50 to 100 metres in diameter,
     close to round, resembling something rapidly submerging
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -458,7 +438,6 @@ references:
   claim_id: 87a618ba-d686-4ffe-b260-fa110a1e7de0
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-87a618ba-d686-4ffe-b260-fa110a1e7de0
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-87a618ba-d686-4ffe-b260-fa110a1e7de0
 - text: AAV assessed to be no known aircraft or air vehicle in the inventory of the
     United States or any foreign nation
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -468,7 +447,6 @@ references:
   claim_id: 80d771d5-0e33-4b97-800e-85c9bc05c667
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-80d771d5-0e33-4b97-800e-85c9bc05c667
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-80d771d5-0e33-4b97-800e-85c9bc05c667
 - text: AAV exhibited advanced aerodynamic performance with no visible control surfaces
     and no visible means to generate lift
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -478,7 +456,6 @@ references:
   claim_id: fad7bd60-81b8-4ba2-a8d2-92f610aabe4f
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fad7bd60-81b8-4ba2-a8d2-92f610aabe4f
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fad7bd60-81b8-4ba2-a8d2-92f610aabe4f
 - text: AAV exhibited advanced low observable characteristics at multiple radar bands,
     rendering US radar-based engagement capabilities ineffective
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -488,7 +465,6 @@ references:
   claim_id: ce4c5534-dec0-4516-873f-82e8c51bf1a4
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ce4c5534-dec0-4516-873f-82e8c51bf1a4
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ce4c5534-dec0-4516-873f-82e8c51bf1a4
 - text: AAV possibly demonstrated ability to cloak or become invisible to the human
     eye
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -498,7 +474,6 @@ references:
   claim_id: d09b2d4a-15a6-465f-a8ca-48c4e80d2831
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-d09b2d4a-15a6-465f-a8ca-48c4e80d2831
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-d09b2d4a-15a6-465f-a8ca-48c4e80d2831
 - text: AAV possibly demonstrated highly advanced capability to operate undersea completely
     undetectable by the most advanced sensors
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -508,7 +483,6 @@ references:
   claim_id: 3ed7ea64-2b78-4b7e-b35e-3aebda21c284
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3ed7ea64-2b78-4b7e-b35e-3aebda21c284
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3ed7ea64-2b78-4b7e-b35e-3aebda21c284
 - text: Submarine officer aboard USS Louisville reported no unidentified sonar contacts
     in the vicinity of the aerial sightings
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -521,7 +495,6 @@ references:
   claim_id: 82fd3d21-d33d-40bb-9b25-f71762c2775c
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-82fd3d21-d33d-40bb-9b25-f71762c2775c
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-82fd3d21-d33d-40bb-9b25-f71762c2775c
 - text: Based on lack of sonar contacts, highly unlikely AAV operated below ocean
     surface; possible it was cloaked based on pilot reports of water disturbance with
     no visible craft
@@ -534,7 +507,6 @@ references:
   claim_id: 9273e4d4-168c-4881-a603-d2f53a0758e6
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-9273e4d4-168c-4881-a603-d2f53a0758e6
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-9273e4d4-168c-4881-a603-d2f53a0758e6
 - text: AAV did not take any offensive action against the Carrier Strike Group
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
   location: Executive Summary, p.1
@@ -542,7 +514,6 @@ references:
   claim_id: e1ff4130-d4f5-4a03-a8ff-b2cb4d549837
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-e1ff4130-d4f5-4a03-a8ff-b2cb4d549837
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-e1ff4130-d4f5-4a03-a8ff-b2cb4d549837
 - text: All AAV activity reported to Vice Admiral D.C. Curtis by CO of USS Princeton
     and CO of VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -552,7 +523,6 @@ references:
   claim_id: ab59e186-1ed0-497b-877b-8762f5b2d898
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-ab59e186-1ed0-497b-877b-8762f5b2d898
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-ab59e186-1ed0-497b-877b-8762f5b2d898
 - text: CSG-11 had no advanced knowledge of live fire events, US weapons testing,
     or experimental aircraft in the area
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -563,7 +533,6 @@ references:
   claim_id: 63fe5710-4a21-44bd-aa8a-bf848c7e2a11
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-63fe5710-4a21-44bd-aa8a-bf848c7e2a11
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-63fe5710-4a21-44bd-aa8a-bf848c7e2a11
 - text: Participants in detection and intercept were USS Princeton, VAW-117, VMFA-232,
     and VFA-41
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -573,7 +542,6 @@ references:
   claim_id: fd90bfc5-1bc0-4f76-a3b9-62cd55bf0891
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-fd90bfc5-1bc0-4f76-a3b9-62cd55bf0891
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-fd90bfc5-1bc0-4f76-a3b9-62cd55bf0891
 ai_usage:
 - stage: digest
   model: claude-opus-4-8

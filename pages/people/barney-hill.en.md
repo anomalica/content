@@ -691,6 +691,7 @@ references:
   claim_id: 85019ff3-13e1-4335-b2cd-b52dec9c3d1f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-85019ff3-13e1-4335-b2cd-b52dec9c3d1f
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-85019ff3-13e1-4335-b2cd-b52dec9c3d1f
 - text: Barney Hill died of a cerebral haemorrhage at age 46
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22816-22878

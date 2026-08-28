@@ -226,7 +226,6 @@ references:
   claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
 - text: Knapp's interest in UFO secrecy began in 1987
   source: Statement to Congress
   location: char:774-827
@@ -262,7 +261,6 @@ references:
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: Knapp rebutted denials that Lazar worked at Los Alamos, citing Lazar sneaking
     him into the facility
   source: In Plain Sight
@@ -274,7 +272,6 @@ references:
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2578240-b430-4934-ae53-5e9e9911ac02
 - text: Knapp was the first outside his newsroom to tell Harry Reid about the accounts,
     in 1989
   source: Statement to Congress
@@ -488,7 +485,6 @@ references:
   claim_id: 4e7c737a-630f-4c7d-b7e3-5c11668174ef
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-4e7c737a-630f-4c7d-b7e3-5c11668174ef
 - text: Knapp purchased TTSA stock, not always disclosed in his reporting
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -498,7 +494,6 @@ references:
   claim_id: 1d432dd3-1930-467f-8d43-4ea795a19b4e
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-1d432dd3-1930-467f-8d43-4ea795a19b4e
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-1d432dd3-1930-467f-8d43-4ea795a19b4e
 - text: Knapp acknowledged buying 400 TTSA shares in 2018 as support rather than investment
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -509,7 +504,6 @@ references:
   claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-60c27c86-b087-4a81-b759-66b26eb0b951
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-60c27c86-b087-4a81-b759-66b26eb0b951
 - text: Knapp placed the shares in a charitable trust and believes he now owns none
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
@@ -520,7 +514,6 @@ references:
   claim_id: 09e7fa8b-93f3-4d60-a72b-268459968f43
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-09e7fa8b-93f3-4d60-a72b-268459968f43
 - text: Eric Davis told Knapp on Coast to Coast AM that 'Threat' in AATIP referred
     to interference with operations
   source: In Plain Sight
@@ -532,7 +525,6 @@ references:
   claim_id: cffc1cf2-fa69-4090-a306-b89b30de2c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffc1cf2-fa69-4090-a306-b89b30de2c6b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cffc1cf2-fa69-4090-a306-b89b30de2c6b
 - text: Davis cited the 5 December 1950 Del Rio, Texas case of an alleged recovered
     craft
   source: In Plain Sight
@@ -544,7 +536,6 @@ references:
   claim_id: f1fc926f-a775-4b8b-aafe-14683d8de82a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f1fc926f-a775-4b8b-aafe-14683d8de82a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f1fc926f-a775-4b8b-aafe-14683d8de82a
 - text: Davis told Knapp that recovered extra-terrestrial craft existed, though not
     yet publicly revealed
   source: In Plain Sight
@@ -555,7 +546,6 @@ references:
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
 - text: DeLonge told Knapp of a secret US anti-gravity propulsion breakthrough, March
     2016
   source: In Plain Sight
@@ -568,7 +558,6 @@ references:
   claim_id: 06d15060-3d73-4e11-8a77-a67f2d7285e2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06d15060-3d73-4e11-8a77-a67f2d7285e2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06d15060-3d73-4e11-8a77-a67f2d7285e2
 - text: DeLonge said the US was building machinery with anti-gravity capability
   source: In Plain Sight
   location: ch22:22118-22225
@@ -577,7 +566,6 @@ references:
   claim_id: d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
 - text: DeLonge described his first meeting with 'The General' and claims about a
     recovered alien lifeform
   source: In Plain Sight
@@ -588,7 +576,6 @@ references:
   claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-da962277-5c76-4f4e-8cb1-b21897f69099
 - text: DeLonge was at pains to describe 'The General' as well-intentioned
   source: In Plain Sight
   location: ch19:3375-3503
@@ -597,7 +584,6 @@ references:
   claim_id: 8199b521-0783-4755-9c11-13a18781bf8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8199b521-0783-4755-9c11-13a18781bf8c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8199b521-0783-4755-9c11-13a18781bf8c
 - text: Knapp asked DeLonge why officials would confide in a rock musician, suggesting
     plausible deniability
   source: In Plain Sight
@@ -609,7 +595,6 @@ references:
   claim_id: df5f5d82-80f6-485b-b91e-769db4334e6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
 - text: DeLonge replied officials could discredit anybody, even presidents
   source: In Plain Sight
   location: ch19:5035-5330
@@ -620,7 +605,6 @@ references:
   claim_id: a39f8857-f663-47ed-8a61-34af002a0c3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
 - text: Knapp told viewers an Art's Parts sample was engineered in layers thinner
     than microns
   source: In Plain Sight
@@ -632,7 +616,6 @@ references:
   claim_id: 1308ea60-9503-405e-a9b0-97e8ec63b3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1308ea60-9503-405e-a9b0-97e8ec63b3e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1308ea60-9503-405e-a9b0-97e8ec63b3e7
 - text: Knapp called Lazar and arranged to meet at the Union Plaza Hotel after Lazar
     went public
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87

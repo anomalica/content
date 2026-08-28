@@ -430,7 +430,6 @@ references:
   claim_id: b5e2391d-6576-4a07-9411-2928bbfede5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
 - text: As a young researcher, worked with and organised J. Allen Hynek's Project
     Blue Book papers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -440,7 +439,6 @@ references:
   claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
 - text: Was a correspondent who supplied material to Flying Saucer Review
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -834,7 +832,6 @@ references:
   claim_id: 55351b6a-b015-4802-b42c-a00135ac39cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-55351b6a-b015-4802-b42c-a00135ac39cd
 - text: Livingston flew to California with Kelleher and Vallée to meet Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14594-14842
@@ -845,7 +842,6 @@ references:
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
 - text: Obtained material from the 1977 Council Bluffs, Iowa incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:5623-5673
@@ -853,7 +849,6 @@ references:
   claim_id: f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
 - text: Suspected the multicoloured lights came from a wobbling craft in distress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:5683-5779
@@ -862,7 +857,6 @@ references:
   claim_id: 808bfcc9-7f07-4b21-84bd-ee5532af1cd2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
 - text: Nolan and Vallée analysed a molten metal aggregate's composition
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:14224-14354
@@ -871,7 +865,6 @@ references:
   claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
 - text: The Capella database contains 260,000 cases
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 01:04:22.8-01:04:28.0

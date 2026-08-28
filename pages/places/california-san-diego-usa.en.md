@@ -67,7 +67,6 @@ references:
   claim_id: bd4ed419-95d2-490a-a9a3-95f7f8c34563
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd4ed419-95d2-490a-a9a3-95f7f8c34563
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd4ed419-95d2-490a-a9a3-95f7f8c34563
 - text: USS Nimitz planned to launch up to 30 aircraft within hours of the initial
     radar contact
   source: In Plain Sight
@@ -78,7 +77,6 @@ references:
   claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
 - text: 'Encounter location: north-eastern Pacific, ~100 km off the coast, midway
     between San Diego and Ensenada'
   source: In Plain Sight
@@ -89,7 +87,6 @@ references:
   claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
 - text: Fravor's squadron conducting a work-up off San Diego on 2004-11-14
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -99,7 +96,6 @@ references:
   claim_id: d627804e-93ed-4079-b8dc-0d416a218f7f
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-d627804e-93ed-4079-b8dc-0d416a218f7f
 - text: 'Weather off San Diego that day: clear, light winds, no whitecaps, no clouds'
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -108,7 +104,6 @@ references:
   claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-5aa8fa38-da09-452c-ac60-44e2fc1227c4
 - text: Objects first tracked at altitude over ~24,000 m, heading south from San Clemente
     Island
   source: In Plain Sight
@@ -118,7 +113,6 @@ references:
   claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-721494c9-7f6d-4a0d-9af9-acdddc267a51
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-721494c9-7f6d-4a0d-9af9-acdddc267a51
 - text: Fravor flew an F/A-18 Hornet and circled down to confront the Tic Tac-shaped
     object
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -128,7 +122,6 @@ references:
   claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95240f23-2f22-4843-95fa-116c48ba9070
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-95240f23-2f22-4843-95fa-116c48ba9070
 - text: Fravor's crew observed whitewater disturbance on the ocean surface
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -137,7 +130,6 @@ references:
   claim_id: 3e683cf6-566b-4c9a-95e6-28f71619e079
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3e683cf6-566b-4c9a-95e6-28f71619e079
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3e683cf6-566b-4c9a-95e6-28f71619e079
 - text: 'Mellon: USS Nimitz was operating off San Diego, escorted by USS Princeton'
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:13:41.9-00:13:48.0
@@ -195,7 +187,6 @@ references:
   claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-76b0d4cc-7365-4f96-8151-7d82dc791dfa
 - text: Egg-shaped UAP form from Socorro echoed in the 2004 San Diego sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23962-24108
@@ -204,7 +195,6 @@ references:
   claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b6856481-ac2a-4a83-9363-333839eaa2b8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b6856481-ac2a-4a83-9363-333839eaa2b8
 - text: TTSA's planned location in Encinitas, north of San Diego
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15232-15374
@@ -213,7 +203,6 @@ references:
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5242da16-a248-4220-93c8-a00b043f7cb6
 - text: Elizondo family move to California; daughters Taylor and Alex Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:18610-18719
@@ -222,7 +211,6 @@ references:
   claim_id: 3c7ab0d3-c53e-4b35-9254-a6696bb3b451
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c7ab0d3-c53e-4b35-9254-a6696bb3b451
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3c7ab0d3-c53e-4b35-9254-a6696bb3b451
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

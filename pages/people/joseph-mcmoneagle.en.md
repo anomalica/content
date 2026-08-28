@@ -761,7 +761,6 @@ references:
   claim_id: 5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
 - text: Mossbridge recalls a story that Russians told Americans 'you killed all your
     psychics'.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

@@ -919,7 +919,6 @@ references:
   claim_id: 0b8eed27-e42c-4a63-9737-e804e864e73d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
 - text: Strieber told Strom Thurmond that Brigadier General Arthur Exon had told him
     personally in 1989 of a 'completely unequivocal cover-up' of a retrieved craft
     at Roswell that 'went from Truman on down'.
@@ -932,7 +931,6 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: Strieber wrote that the US Department of Defense ensures nobody outside a
     small security-cleared group has definite knowledge concerning nonhuman visitors.
   source: The Fourth Mind

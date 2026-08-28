@@ -65,7 +65,6 @@ references:
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: The invitation to return came months after the April 1997 Pentagon meeting.
   source: In Plain Sight
   location: 2021, ch14:23223-23369
@@ -74,7 +73,6 @@ references:
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
 - text: Greer recounts Hughes producing an E.T. doll and saying he could get no answers
     from his own agency.
   source: In Plain Sight
@@ -87,7 +85,6 @@ references:
   claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
 - text: Coulthart says naming Wilson and Hughes publicly discouraged other officials
     from trusting Greer with disclosure.
   source: In Plain Sight
@@ -99,7 +96,6 @@ references:
   claim_id: 6d895de9-4223-4e93-88df-575e62b21cec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d895de9-4223-4e93-88df-575e62b21cec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6d895de9-4223-4e93-88df-575e62b21cec
 - text: Coulthart suspects the two DIA officials were more interested in UAPs than
     they publicly admitted.
   source: In Plain Sight
@@ -109,7 +105,6 @@ references:
   claim_id: 29adc409-eabf-47fb-98a1-8150112c2289
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29adc409-eabf-47fb-98a1-8150112c2289
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-29adc409-eabf-47fb-98a1-8150112c2289
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

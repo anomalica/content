@@ -66,7 +66,6 @@ references:
   claim_id: a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
 - text: In November 1950 he wrote a top-secret memo to the Canadian Department of
     Transport.
   source: In Plain Sight (2021)
@@ -76,7 +75,6 @@ references:
   claim_id: d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
 - text: The memo was later found in his official papers in a Canadian university archive.
   source: In Plain Sight (2021)
   location: ch8:6561-6625
@@ -84,7 +82,6 @@ references:
   claim_id: 769edf0b-26af-416a-a85f-9ac66f4502b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-769edf0b-26af-416a-a85f-9ac66f4502b2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-769edf0b-26af-416a-a85f-9ac66f4502b2
 - text: Smith worked on a separate top-secret project intercepting Soviet communications.
   source: In Plain Sight (2021)
   location: ch8:6634-6748
@@ -93,7 +90,6 @@ references:
   claim_id: e402ed0f-f5d7-48e3-a203-9052e9367ccf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e402ed0f-f5d7-48e3-a203-9052e9367ccf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e402ed0f-f5d7-48e3-a203-9052e9367ccf
 - text: In September 1950, at a conference in Washington, D.C., Smith read Frank Scully's
     newly published Behind the Flying Saucers.
   source: In Plain Sight (2021)
@@ -103,7 +99,6 @@ references:
   claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-099197f5-dd40-48bb-8c25-0dcf0ed011e3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-099197f5-dd40-48bb-8c25-0dcf0ed011e3
 - text: Smith used Canadian Embassy contacts in Washington to interview Robert Sarbacher,
     a scientist consulting for the U.S. Research and Development Board.
   source: In Plain Sight (2021)
@@ -114,7 +109,6 @@ references:
   claim_id: 7193073b-6521-410f-bcec-e66411d32d80
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7193073b-6521-410f-bcec-e66411d32d80
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7193073b-6521-410f-bcec-e66411d32d80
 - text: Smith's memo recorded Sarbacher saying flying saucers were the most highly
     classified subject in the U.S. government, rating higher than the hydrogen bomb.
   source: In Plain Sight (2021)
@@ -124,7 +118,6 @@ references:
   claim_id: 155bc58b-dacd-4774-b751-214aca08564b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-155bc58b-dacd-4774-b751-214aca08564b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-155bc58b-dacd-4774-b751-214aca08564b
 - text: Sarbacher told Smith flying saucers exist.
   source: In Plain Sight (2021)
   location: ch8:7519-7534
@@ -132,7 +125,6 @@ references:
   claim_id: 1d1dc125-f804-4cad-b34e-772f85108b71
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d1dc125-f804-4cad-b34e-772f85108b71
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1d1dc125-f804-4cad-b34e-772f85108b71
 - text: Sarbacher said the saucers' modus operandi was unknown, but a concentrated
     effort was being made by a group headed by Dr Vannevar Bush.
   source: In Plain Sight (2021)
@@ -142,7 +134,6 @@ references:
   claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
 - text: Sarbacher said the matter was considered by United States authorities to be
     of tremendous significance.
   source: In Plain Sight (2021)
@@ -152,7 +143,6 @@ references:
   claim_id: 6d274281-89ce-4f9e-927f-5362951e8f93
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d274281-89ce-4f9e-927f-5362951e8f93
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6d274281-89ce-4f9e-927f-5362951e8f93
 - text: Smith's handwritten notes recorded Sarbacher confirming the facts in Scully's
     book, including recovered aliens and spacecraft, were 'substantially correct'.
   source: In Plain Sight (2021)
@@ -163,7 +153,6 @@ references:
   claim_id: c5e7074c-2b72-40da-832c-04ebbbbc1567
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5e7074c-2b72-40da-832c-04ebbbbc1567
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5e7074c-2b72-40da-832c-04ebbbbc1567
 - text: Smith's son James Smith said his father told him he had been shown small,
     humanoid recovered bodies.
   source: In Plain Sight (2021)
@@ -174,7 +163,6 @@ references:
   claim_id: 23cb236e-3a01-40f9-8136-30d1dbfe0d4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23cb236e-3a01-40f9-8136-30d1dbfe0d4d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-23cb236e-3a01-40f9-8136-30d1dbfe0d4d
 - text: Neither the U.S. nor Canadian governments ever attempted to rebut Smith's
     record.
   source: In Plain Sight (2021)
@@ -186,7 +174,6 @@ references:
   claim_id: d7b76563-2836-422c-acda-a348b11287c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7b76563-2836-422c-acda-a348b11287c5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d7b76563-2836-422c-acda-a348b11287c5
 - text: Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert
     B. Smith.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -197,7 +184,6 @@ references:
   claim_id: cb1efc78-9424-4562-a326-650623a253c8
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-cb1efc78-9424-4562-a326-650623a253c8
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-cb1efc78-9424-4562-a326-650623a253c8
 - text: Smith assessed UFOs were extraterrestrial and flew by magnetism.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I (2024-02-01)
@@ -207,7 +193,6 @@ references:
   claim_id: 46699660-5caa-459e-8c25-4f697384c01c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-46699660-5caa-459e-8c25-4f697384c01c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-46699660-5caa-459e-8c25-4f697384c01c
 - text: Smith believed he was in telepathic contact with extraterrestrials via 'tensor
     beams'.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -218,7 +203,6 @@ references:
   claim_id: 82bc2195-49e5-4623-8653-b11af60207cb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-82bc2195-49e5-4623-8653-b11af60207cb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-82bc2195-49e5-4623-8653-b11af60207cb
 - text: Smith claimed the USAF lent him a piece of a UFO to study in 1952.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I (2024-02-01)
@@ -228,7 +212,6 @@ references:
   claim_id: 1e5afae2-61b9-4802-988a-f2be74a40c8e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1e5afae2-61b9-4802-988a-f2be74a40c8e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1e5afae2-61b9-4802-988a-f2be74a40c8e
 - text: Smith said the fragment was composed of magnesium orthosilicate.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I (2024-02-01)
@@ -237,7 +220,6 @@ references:
   claim_id: 36108e2d-f424-4030-b9ea-815db20c5976
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-36108e2d-f424-4030-b9ea-815db20c5976
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-36108e2d-f424-4030-b9ea-815db20c5976
 - text: Smith acknowledged his UFO beliefs were his own, not Canada's official position.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I (2024-02-01)
@@ -247,7 +229,6 @@ references:
   claim_id: 8b87103a-33e2-4c8d-87c1-be7d03ec03cc
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-8b87103a-33e2-4c8d-87c1-be7d03ec03cc
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-8b87103a-33e2-4c8d-87c1-be7d03ec03cc
 - text: Chris Ramsay identifies Smith, to his recollection, as having been Canada's
     Minister of Transport.
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

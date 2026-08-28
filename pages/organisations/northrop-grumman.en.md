@@ -39,7 +39,6 @@ references:
   claim_id: 661177b7-7703-49db-9802-432de87cb4cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-661177b7-7703-49db-9802-432de87cb4cc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-661177b7-7703-49db-9802-432de87cb4cc
 - text: TRW was eventually purchased by Northrop Grumman.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:1719-1791
@@ -47,7 +46,6 @@ references:
   claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
 - text: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing the big
     three US defence companies.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -105,7 +103,6 @@ references:
   claim_id: d0708ea5-ccbc-48bf-96de-e6520c0c7110
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d0708ea5-ccbc-48bf-96de-e6520c0c7110
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d0708ea5-ccbc-48bf-96de-e6520c0c7110
 - text: 'Elizondo: senior officials named Northrop Grumman and others as Legacy Program
     firms involved in crash-material retrieval.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -116,7 +113,6 @@ references:
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
 - text: 'UAP Gerb: allegations that Lockheed Martin Space Systems Company and Northrop
     Grumman ran self-funded retrieval activities.'
   source: 'Episode 73: Science vs. Secrecy'

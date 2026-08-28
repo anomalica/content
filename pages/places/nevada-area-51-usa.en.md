@@ -114,7 +114,6 @@ references:
   claim_id: 1817ad3d-0fa0-4355-baf4-b291c23f76ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1817ad3d-0fa0-4355-baf4-b291c23f76ac
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1817ad3d-0fa0-4355-baf4-b291c23f76ac
 - text: Area 51 is also known by the name Watertown
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:00:19.0-00:00:25.9
@@ -131,7 +130,6 @@ references:
   claim_id: a7e3a377-ce5d-4804-b4f5-cec165aebeec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7e3a377-ce5d-4804-b4f5-cec165aebeec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7e3a377-ce5d-4804-b4f5-cec165aebeec
 - text: After the USAF took over in the late 1980s, Area 51 was renamed Air Force
     Flight Test Center, Detachment 3
   source: Project Serpo
@@ -148,7 +146,6 @@ references:
   claim_id: b8c68d96-6fdf-468c-be13-754f5936bbda
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b8c68d96-6fdf-468c-be13-754f5936bbda
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b8c68d96-6fdf-468c-be13-754f5936bbda
 - text: Area 51's mythical status among UAP researchers, sightings of glowing objects,
     secret aircraft testing
   source: In Plain Sight
@@ -159,7 +156,6 @@ references:
   claim_id: ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
 - text: Area 51 is frequently the focus of conspiracy theories about recovered craft
     and gravity-defying UAPs
   source: In Plain Sight
@@ -169,7 +165,6 @@ references:
   claim_id: 19d32adb-ec86-47f7-b50c-bc45a4f2a588
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-19d32adb-ec86-47f7-b50c-bc45a4f2a588
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-19d32adb-ec86-47f7-b50c-bc45a4f2a588
 - text: By 1989, speculation of a super-stealthy 'Aurora' craft developed inside Area
     51
   source: In Plain Sight
@@ -180,7 +175,6 @@ references:
   claim_id: 10a95105-449a-44ec-aa8e-e7daf42e2bc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-10a95105-449a-44ec-aa8e-e7daf42e2bc0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-10a95105-449a-44ec-aa8e-e7daf42e2bc0
 - text: Christopher Mellon monitored Area 51 for the Senate Intelligence Committee
   source: In Plain Sight
   location: ch13:9266-9479
@@ -190,7 +184,6 @@ references:
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
 - text: Mellon visited Area 51 with full access to review every classified project
     onsite
   source: In Plain Sight
@@ -200,7 +193,6 @@ references:
   claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1e635035-bc66-4b80-910c-81198bf2572c
 - text: Mellon never saw technology at Area 51 equating to sighted UAPs or a captured
     alien spacecraft
   source: In Plain Sight
@@ -210,7 +202,6 @@ references:
   claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
 - text: Mellon never saw a spending line or evidence for a TR3B-type craft at Area
     51 or adjacent ranges
   source: In Plain Sight
@@ -221,7 +212,6 @@ references:
   claim_id: 233982bc-14f8-40a8-8e25-af3400571456
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233982bc-14f8-40a8-8e25-af3400571456
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-233982bc-14f8-40a8-8e25-af3400571456
 - text: Dave, Jim Goodall's SR-71 pilot source, became facility manager at Area 51
   source: In Plain Sight
   location: ch13:18778-18925
@@ -230,7 +220,6 @@ references:
   claim_id: 94e53edb-7069-4b00-b719-6bafea987d8a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94e53edb-7069-4b00-b719-6bafea987d8a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-94e53edb-7069-4b00-b719-6bafea987d8a
 - text: Dave asked whether the base had ever flown anything at 13,000-16,000 km/h;
     the answer was always no
   source: In Plain Sight
@@ -240,7 +229,6 @@ references:
   claim_id: 5cb04c0e-d28e-4a3d-9400-8a802f0720d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cb04c0e-d28e-4a3d-9400-8a802f0720d9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5cb04c0e-d28e-4a3d-9400-8a802f0720d9
 - text: Bob Lazar's claim to have worked at Area 51 reverse-engineering alien propulsion
   source: In Plain Sight
   location: ch13:19774-19967
@@ -250,7 +238,6 @@ references:
   claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
 - text: Lazar's 1989 KLAS-TV interview with George Knapp about Site 4 (S-4)
   source: In Plain Sight
   location: ch13:20633-20945
@@ -261,7 +248,6 @@ references:
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
 - text: Site 4 (S-4) is a much-rumoured, unconfirmed facility separate from Area 51
   source: In Plain Sight
   location: ch13:20099-20218
@@ -270,7 +256,6 @@ references:
   claim_id: bc25a681-ad28-4474-8f53-4f79abfec4c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc25a681-ad28-4474-8f53-4f79abfec4c5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc25a681-ad28-4474-8f53-4f79abfec4c5
 - text: Site 4 (S-4) is adjacent to Papoose Lake, south of Area 51
   source: In Plain Sight
   location: ch13:20906-20945
@@ -278,7 +263,6 @@ references:
   claim_id: f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
 - text: David Fruehauf worked at Area 51 1979-1985, commuting from Las Vegas on Janet
     Airlines
   source: In Plain Sight
@@ -289,7 +273,6 @@ references:
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
 - text: Fruehauf noticed a group boarding a bus to Site 4 (S-4), more secretive than
     Area 51
   source: In Plain Sight
@@ -300,7 +283,6 @@ references:
   claim_id: 2d47c79b-2aec-4f4b-97cf-682a646598e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2d47c79b-2aec-4f4b-97cf-682a646598e1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2d47c79b-2aec-4f4b-97cf-682a646598e1
 - text: Fruehauf did not know the work at Site 4, observed people boarding a Boeing
     737 and being bussed off separately
   source: In Plain Sight
@@ -312,7 +294,6 @@ references:
   claim_id: 9fb4c531-9333-4d72-acb0-4399ae22701b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fb4c531-9333-4d72-acb0-4399ae22701b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9fb4c531-9333-4d72-acb0-4399ae22701b
 - text: Fruehauf said Lazar was never at Area 51 the same time as him, but found his
     account believable
   source: In Plain Sight
@@ -323,7 +304,6 @@ references:
   claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-72b4ac21-be05-4071-b16e-19dd070530cc
 - text: Fruehauf said he knew witnesses who saw Lazar at Area 51
   source: In Plain Sight
   location: ch13:23155-23221
@@ -331,7 +311,6 @@ references:
   claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
 - text: Jeremy Corbell found a witness who Lazar said vetted him for Area 51 clearance
   source: In Plain Sight
   location: ch13:24124-24222
@@ -340,7 +319,6 @@ references:
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d3f353e-2e00-45ff-945d-832286061739
 - text: Goodall's source encountered armed security with no visible vehicle or building
     near Site 4
   source: In Plain Sight
@@ -354,7 +332,6 @@ references:
   claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
 - text: Harry Reid was the senator of Nevada, the state that housed Area 51
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18956-19067
@@ -363,7 +340,6 @@ references:
   claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-51a26607-4e81-4844-ac34-1800c58ac7df
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-51a26607-4e81-4844-ac34-1800c58ac7df
 - text: Reid visited the Area 51 air force base during his Senate term
   source: In Plain Sight
   location: ch17:1865-2092
@@ -373,7 +349,6 @@ references:
   claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
 - text: Bill Clinton had his aides research Area 51 to check for aliens
   source: In Plain Sight
   location: ch14:2073-2187
@@ -382,7 +357,6 @@ references:
   claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
 - text: Obama dismissed as a myth the idea of beings held captive under Area 51
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
   location: 00:52:01.5-00:52:09.8
@@ -421,7 +395,6 @@ references:
   claim_id: 00ba2512-e139-4c68-a46f-32fb900c3144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba2512-e139-4c68-a46f-32fb900c3144
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-00ba2512-e139-4c68-a46f-32fb900c3144
 - text: Hillary Clinton said she would consider a taskforce to investigate Area 51
   source: In Plain Sight
   location: ch20:17299-17522
@@ -431,7 +404,6 @@ references:
   claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
 - text: 'Mitchells: Clapper talked about helping set up UFO tracking programmes at
     Area 51'
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -452,7 +424,6 @@ references:
   claim_id: 7e3231c7-ddbc-4170-b0aa-478cead09427
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
 - text: DeLonge described being taken through a secure bunker at Area 51
   source: In Plain Sight
   location: ch18:17134-17467
@@ -464,7 +435,6 @@ references:
   claim_id: 5aedd31b-47ee-4ec2-9190-c10a67c2595d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
 - text: Eric Davis drove around the Area 51 perimeter and was confronted by Wackenhut
     guards
   source: In Plain Sight
@@ -475,7 +445,6 @@ references:
   claim_id: 57110c7c-a91b-4849-a9c3-aa7a545783fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57110c7c-a91b-4849-a9c3-aa7a545783fb
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-57110c7c-a91b-4849-a9c3-aa7a545783fb
 - text: Craig McPherson was a scientist and former employee of Area 51
   source: Project Serpo
   location: char:1469-1542
@@ -534,7 +503,6 @@ references:
   claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
 - text: Willard Miller offered to name a senior officer with knowledge of ARVs at
     Area 51
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson

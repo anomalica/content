@@ -135,7 +135,6 @@ references:
   claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
   record_hash: 6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f
   workbench_url: https://workbench.anomalica.is/6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
-  inspection_url: /records/2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report#claim-3e544ac6-3a59-4b65-a77f-bb7f2efb8663
 - text: CVW-11 comprised VMFA-232 (F/A-18C), VFA-14 (F/A-18E), VFA-41 (F/A-18F), VFA-94
     (F/A-18C), VAQ-135 (EA-6B), VAW-117 (E-2C), HS-6 (H-60), and VRC-30 Det 3 (C-2A)
   source: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
@@ -176,7 +175,6 @@ references:
   claim_id: 343db81b-742c-47a6-a889-eb97edb5be6d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-343db81b-742c-47a6-a889-eb97edb5be6d
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-343db81b-742c-47a6-a889-eb97edb5be6d
 - text: VFA-41 (Black Aces) was attached to Carrier Airwing Eleven and stationed aboard
     USS Nimitz (CVN-68) in 2004
   source: David Fravor Statement for the House Oversight Committee
@@ -186,7 +184,6 @@ references:
   claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
   record_hash: 7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944
   workbench_url: https://workbench.anomalica.is/7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b944#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
-  inspection_url: /records/2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee#claim-da07893d-2eb0-4db3-a426-f2e4842f3b2d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

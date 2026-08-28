@@ -91,7 +91,6 @@ references:
   claim_id: 9e923040-7efd-4899-a55b-c4a85a7e1950
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e923040-7efd-4899-a55b-c4a85a7e1950
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9e923040-7efd-4899-a55b-c4a85a7e1950
 - text: David Fravor described Northrop Grumman, Lockheed Martin, and Boeing as the
     big three US defence companies
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -113,7 +112,6 @@ references:
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
 - text: The Lockheed Martin F-22 Raptor has a top speed of 2414 kilometres per hour
   source: In Plain Sight
   location: ch13:19351-19443
@@ -122,7 +120,6 @@ references:
   claim_id: ffadaac8-8fc4-4c6c-9b29-75693736a30c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ffadaac8-8fc4-4c6c-9b29-75693736a30c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ffadaac8-8fc4-4c6c-9b29-75693736a30c
 - text: Lockheed Martin, Boeing, and DARPA developed the RQ-3 Dark Star in the mid-to-late
     1990s
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -133,7 +130,6 @@ references:
   claim_id: b5c87687-4878-4768-b435-084dc902ecea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-b5c87687-4878-4768-b435-084dc902ecea
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-b5c87687-4878-4768-b435-084dc902ecea
 - text: Lockheed Martin disclosed the existence of the P-175 Polecat at the Farnborough
     Airshow in 2006
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -143,7 +139,6 @@ references:
   claim_id: 817847e5-2bbf-4314-80eb-afe1192cb6c7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-817847e5-2bbf-4314-80eb-afe1192cb6c7
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-817847e5-2bbf-4314-80eb-afe1192cb6c7
 - text: Lockheed Martin was one of two aerospace consortiums working on Project Constellation
     proposals in early 2006
   source: Dark Mission
@@ -295,7 +290,6 @@ references:
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1c637488-34ff-4e19-97d8-82a393d101d7
 - text: Lockheed Martin stated Tom DeLonge sought a documentary collaboration with
     Skunk Works, which it declined to join
   source: In Plain Sight
@@ -311,7 +305,6 @@ references:
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
 - text: Leaked Podesta emails described a planned Google Hangout with DeLonge, two
     Air Force generals, and Skunk Works' Rob Weiss
   source: In Plain Sight
@@ -324,7 +317,6 @@ references:
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
 - text: Jason Samosa said Jacques Vallée validated an account of DeLonge contacting
     a Skunk Works employee
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

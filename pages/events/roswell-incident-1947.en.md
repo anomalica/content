@@ -218,7 +218,6 @@ references:
   claim_id: da4ebfb3-ac09-4a64-8f0e-dd7bef065c9a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-da4ebfb3-ac09-4a64-8f0e-dd7bef065c9a
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-da4ebfb3-ac09-4a64-8f0e-dd7bef065c9a
 - text: Mac Brazel found debris on a ranch 120 kilometres from Roswell on 1947-07-05
   source: In Plain Sight
   location: ch7:8249-8384
@@ -227,7 +226,6 @@ references:
   claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
 - text: Earliest reports described the debris as wires, foil and beams with strange
     writing
   source: In Plain Sight
@@ -238,7 +236,6 @@ references:
   claim_id: ceaefcd9-1b83-4749-9d37-aee64e1e02e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ceaefcd9-1b83-4749-9d37-aee64e1e02e9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ceaefcd9-1b83-4749-9d37-aee64e1e02e9
 - text: Blanchard ordered Haut to issue a press release announcing recovery of a flying
     disc
   source: In Plain Sight
@@ -249,7 +246,6 @@ references:
   claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
 - text: Initial press release referred to a recovered 'flying disc'
   source: In Plain Sight
   location: ch7:15472-15560
@@ -258,7 +254,6 @@ references:
   claim_id: 0d000272-c680-4ae9-87ce-aa496e3be833
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d000272-c680-4ae9-87ce-aa496e3be833
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0d000272-c680-4ae9-87ce-aa496e3be833
 - text: The Army never called it a 'flying saucer', only a 'disc'
   source: In Plain Sight
   location: ch7:12377-12460
@@ -267,7 +262,6 @@ references:
   claim_id: 334d0cb9-3756-4a41-bf09-c556d63c8b6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-334d0cb9-3756-4a41-bf09-c556d63c8b6d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-334d0cb9-3756-4a41-bf09-c556d63c8b6d
 - text: Ramey's weather balloon statement three hours after the press release
   source: In Plain Sight
   location: ch7:13144-13322
@@ -277,7 +271,6 @@ references:
   claim_id: fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
 - text: Marcel convinced the disc was extraterrestrial
   source: In Plain Sight
   location: ch7:10748-10849
@@ -286,7 +279,6 @@ references:
   claim_id: 046fea9f-435f-4841-99b5-8455c0789b32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-046fea9f-435f-4841-99b5-8455c0789b32
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-046fea9f-435f-4841-99b5-8455c0789b32
 - text: Marcel's description of the debris field's dimensions
   source: In Plain Sight
   location: ch7:10856-10936
@@ -295,7 +287,6 @@ references:
   claim_id: 3f9e2860-a5e7-41af-84df-164e1e10881d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f9e2860-a5e7-41af-84df-164e1e10881d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3f9e2860-a5e7-41af-84df-164e1e10881d
 - text: Marcel described light, tear-resistant foil
   source: In Plain Sight
   location: ch7:11197-11301
@@ -304,7 +295,6 @@ references:
   claim_id: c2fe9751-ce6a-44c1-8162-a7f5e85854a1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2fe9751-ce6a-44c1-8162-a7f5e85854a1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c2fe9751-ce6a-44c1-8162-a7f5e85854a1
 - text: Marcel described beams with hieroglyphic writing
   source: In Plain Sight
   location: ch7:11310-11386
@@ -313,7 +303,6 @@ references:
   claim_id: efffd874-ee46-40dd-af37-b6c5870d5196
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efffd874-ee46-40dd-af37-b6c5870d5196
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efffd874-ee46-40dd-af37-b6c5870d5196
 - text: Marcel did not speak publicly until 1978
   source: In Plain Sight
   location: ch7:13585-13733
@@ -322,7 +311,6 @@ references:
   claim_id: 41c4ec65-90ff-4918-8320-7bb4a8767c1f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41c4ec65-90ff-4918-8320-7bb4a8767c1f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-41c4ec65-90ff-4918-8320-7bb4a8767c1f
 - text: Marcel's 1978-1986 claims of a cover-up and substituted debris
   source: In Plain Sight
   location: ch7:13631-13914
@@ -333,7 +321,6 @@ references:
   claim_id: 27f9af84-66d9-4fcd-81aa-6cce723a6241
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-27f9af84-66d9-4fcd-81aa-6cce723a6241
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-27f9af84-66d9-4fcd-81aa-6cce723a6241
 - text: Marcel said he believed the crash was extraterrestrial
   source: In Plain Sight
   location: ch7:13927-13987
@@ -341,7 +328,6 @@ references:
   claim_id: a2edca60-4bf0-4eca-acb9-623c283dc91c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2edca60-4bf0-4eca-acb9-623c283dc91c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a2edca60-4bf0-4eca-acb9-623c283dc91c
 - text: Blanchard told a newspaper editor he'd never seen anything like it
   source: In Plain Sight
   location: ch7:17371-17534
@@ -351,7 +337,6 @@ references:
   claim_id: 3a67efe8-4e7d-4611-aa51-3209fb4624bc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a67efe8-4e7d-4611-aa51-3209fb4624bc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3a67efe8-4e7d-4611-aa51-3209fb4624bc
 - text: Haut's 2002 affidavit describing bodies under a tarpaulin
   source: In Plain Sight
   location: ch7:17570-17864
@@ -362,7 +347,6 @@ references:
   claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-55ca4a47-6961-490c-9666-a5e171e5806b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-55ca4a47-6961-490c-9666-a5e171e5806b
 - text: Haut's description of the craft's dimensions and appearance
   source: In Plain Sight
   location: ch7:17911-18135
@@ -372,7 +356,6 @@ references:
   claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4975eefe-669c-47ca-bc7c-ac006e2675b8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4975eefe-669c-47ca-bc7c-ac006e2675b8
 - text: Haut convinced it was a craft and crew from outer space
   source: In Plain Sight
   location: ch7:18146-18252
@@ -381,7 +364,6 @@ references:
   claim_id: b36edaf3-485b-4ead-baa3-c242b6e5987e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b36edaf3-485b-4ead-baa3-c242b6e5987e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b36edaf3-485b-4ead-baa3-c242b6e5987e
 - text: Haut alleged the press release was a ruse
   source: In Plain Sight
   location: ch7:18262-18407
@@ -390,7 +372,6 @@ references:
   claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbb5d4d6-9277-455b-aad9-17d756e29a83
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-fbb5d4d6-9277-455b-aad9-17d756e29a83
 - text: Critics on Haut's daughter's financial incentive
   source: In Plain Sight
   location: ch7:20477-20619
@@ -399,7 +380,6 @@ references:
   claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48996f14-7c9d-4b99-b750-d2e713dec406
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-48996f14-7c9d-4b99-b750-d2e713dec406
 - text: Don Schmitt considers Haut sincere
   source: In Plain Sight
   location: ch7:21113-21195
@@ -408,7 +388,6 @@ references:
   claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
 - text: Corso asserted a spacecraft crashed and was recovered by the government
   source: In Plain Sight
   location: ch25:22089-22200
@@ -417,7 +396,6 @@ references:
   claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
 - text: Mitchell told Thurmond he was convinced Corso's account was true
   source: In Plain Sight
   location: ch25:22626-22719
@@ -426,7 +404,6 @@ references:
   claim_id: 107a25a3-a891-4597-a349-786c0e2df703
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107a25a3-a891-4597-a349-786c0e2df703
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-107a25a3-a891-4597-a349-786c0e2df703
 - text: Thurmond said he knew of no cover-up and did not believe one existed
   source: In Plain Sight
   location: ch25:22530-22614
@@ -435,7 +412,6 @@ references:
   claim_id: bfafbf0a-97c2-464e-948c-84d77198f126
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bfafbf0a-97c2-464e-948c-84d77198f126
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bfafbf0a-97c2-464e-948c-84d77198f126
 - text: Strieber relayed Exon's alleged 'unequivocal cover-up' remark
   source: In Plain Sight
   location: ch25:22926-23176
@@ -446,7 +422,6 @@ references:
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b16cf133-6aca-486b-8091-52bd8e641c06
 - text: Mitchell's scepticism turned to amazement
   source: In Plain Sight
   location: ch25:23327-23526
@@ -456,7 +431,6 @@ references:
   claim_id: 8c81cd62-43fa-47c9-95af-b3508f95330a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c81cd62-43fa-47c9-95af-b3508f95330a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8c81cd62-43fa-47c9-95af-b3508f95330a
 - text: Mitchell's interest fired by Artesia locals
   source: In Plain Sight
   location: ch25:5197-5449
@@ -466,7 +440,6 @@ references:
   claim_id: 7ce922e2-9535-469d-ae7f-b36ca96bde91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7ce922e2-9535-469d-ae7f-b36ca96bde91
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7ce922e2-9535-469d-ae7f-b36ca96bde91
 - text: The Spaceman on Mitchell being shown a memory-metal relic
   source: In Plain Sight
   location: ch25:5717-5899
@@ -476,7 +449,6 @@ references:
   claim_id: ba9e2fae-9a38-45be-9d11-6f8dcab47daa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba9e2fae-9a38-45be-9d11-6f8dcab47daa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ba9e2fae-9a38-45be-9d11-6f8dcab47daa
 - text: Goldwater's friendship with Blanchard, 509th Bomb Group commander
   source: In Plain Sight
   location: ch27:19451-19703
@@ -486,7 +458,6 @@ references:
   claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7358ddd1-c8b0-444b-9a99-70df9693516e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7358ddd1-c8b0-444b-9a99-70df9693516e
 - text: 'Coulthart: Goldwater knew people with direct knowledge'
   source: In Plain Sight
   location: ch27:19713-19794
@@ -495,7 +466,6 @@ references:
   claim_id: 741d0f4c-434b-4370-b316-4a71ed9343b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-741d0f4c-434b-4370-b316-4a71ed9343b8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-741d0f4c-434b-4370-b316-4a71ed9343b8
 - text: Grandfather's claimed retrieval-team membership
   source: In Plain Sight
   location: ch23:803-1038
@@ -505,7 +475,6 @@ references:
   claim_id: 6f25acd6-68ae-4118-ae7e-dd79022bac52
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f25acd6-68ae-4118-ae7e-dd79022bac52
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6f25acd6-68ae-4118-ae7e-dd79022bac52
 - text: Third letter's six metal fragments
   source: In Plain Sight
   location: ch23:7499-7607
@@ -514,7 +483,6 @@ references:
   claim_id: 07c35964-697d-4966-b89f-127939120083
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07c35964-697d-4966-b89f-127939120083
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-07c35964-697d-4966-b89f-127939120083
 - text: Fifth letter's claimed crash site location
   source: In Plain Sight
   location: ch23:5603-5781
@@ -524,7 +492,6 @@ references:
   claim_id: ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
 - text: Site's proximity to the first atomic bomb test
   source: In Plain Sight
   location: ch23:5789-5875
@@ -533,7 +500,6 @@ references:
   claim_id: 893dda67-6f65-4172-b926-ba2a24b90970
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-893dda67-6f65-4172-b926-ba2a24b90970
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-893dda67-6f65-4172-b926-ba2a24b90970
 - text: Schiff's 1993 inquiries to the Department of Defense
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -543,7 +509,6 @@ references:
   claim_id: 090fe643-c417-49b4-a7b2-aa1db7ba4b6c
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-090fe643-c417-49b4-a7b2-aa1db7ba4b6c
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-090fe643-c417-49b4-a7b2-aa1db7ba4b6c
 - text: Schiff's request to the General Accounting Office
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -555,7 +520,6 @@ references:
   claim_id: 6082b1b2-8a81-47df-9ac7-40c684f855fb
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6082b1b2-8a81-47df-9ac7-40c684f855fb
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-6082b1b2-8a81-47df-9ac7-40c684f855fb
 - text: USAF's archive search for the audit
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -566,7 +530,6 @@ references:
   claim_id: 4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
 - text: 1995 report found no UFO event or cover-up
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -577,7 +540,6 @@ references:
   claim_id: 4cb34291-6511-4c38-b7c4-87d02a15cb03
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-4cb34291-6511-4c38-b7c4-87d02a15cb03
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-4cb34291-6511-4c38-b7c4-87d02a15cb03
 - text: Materials consistent with a Project Mogul balloon
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -588,7 +550,6 @@ references:
   claim_id: 074aa47b-d2ca-4231-8870-c35f7813f873
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-074aa47b-d2ca-4231-8870-c35f7813f873
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-074aa47b-d2ca-4231-8870-c35f7813f873
 - text: 1997 follow-on report, Case Closed
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -600,7 +561,6 @@ references:
   claim_id: 7b3a8d85-88b2-47df-9976-4ebf48061848
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7b3a8d85-88b2-47df-9976-4ebf48061848
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7b3a8d85-88b2-47df-9976-4ebf48061848
 - text: Alleged bodies were test dummies
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -611,7 +571,6 @@ references:
   claim_id: dd8738cf-9c4b-4400-a1af-e1c07132ca50
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-dd8738cf-9c4b-4400-a1af-e1c07132ca50
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-dd8738cf-9c4b-4400-a1af-e1c07132ca50
 - text: Recovery-unit reports were dummy-recovery personnel
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -622,7 +581,6 @@ references:
   claim_id: d4a2d429-faf3-4363-9a2d-ae2d6983210b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d4a2d429-faf3-4363-9a2d-ae2d6983210b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d4a2d429-faf3-4363-9a2d-ae2d6983210b
 - text: GAO found no surviving Roswell Army Air Field documents
   source: In Plain Sight
   location: ch7:16842-17116
@@ -633,7 +591,6 @@ references:
   claim_id: 06d980b2-1a23-41de-beb0-8e514b7eb21a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06d980b2-1a23-41de-beb0-8e514b7eb21a
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-06d980b2-1a23-41de-beb0-8e514b7eb21a
 - text: USAF has given four different explanations
   source: In Plain Sight
   location: ch7:10383-10497
@@ -642,7 +599,6 @@ references:
   claim_id: 6504de13-cc9f-49be-8a76-8ece4bbdc0cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6504de13-cc9f-49be-8a76-8ece4bbdc0cd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6504de13-cc9f-49be-8a76-8ece4bbdc0cd
 - text: 1994 admission the weather balloon story was untrue
   source: In Plain Sight
   location: ch7:14648-14860
@@ -652,7 +608,6 @@ references:
   claim_id: 3cf13962-4716-4418-8f29-2ff2ef1ce81e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3cf13962-4716-4418-8f29-2ff2ef1ce81e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3cf13962-4716-4418-8f29-2ff2ef1ce81e
 - text: DeLonge on the recovery as the reason for USAF's creation
   source: In Plain Sight
   location: ch21:4594-4860
@@ -663,7 +618,6 @@ references:
   claim_id: 151aa9a8-93d5-47e0-89d1-bbf7081fe957
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-151aa9a8-93d5-47e0-89d1-bbf7081fe957
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-151aa9a8-93d5-47e0-89d1-bbf7081fe957
 - text: DeLonge on the National Security Act and CIA
   source: In Plain Sight
   location: ch21:4866-5066
@@ -673,7 +627,6 @@ references:
   claim_id: 3e0bc770-7e7d-47ee-aff1-232b3217e646
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e0bc770-7e7d-47ee-aff1-232b3217e646
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3e0bc770-7e7d-47ee-aff1-232b3217e646
 - text: DeLonge told it was a Nazi-built Russian saucer
   source: In Plain Sight
   location: ch21:5491-5710
@@ -683,7 +636,6 @@ references:
   claim_id: b13a1157-ea8f-4a42-a2b3-7a641a87d12c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b13a1157-ea8f-4a42-a2b3-7a641a87d12c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b13a1157-ea8f-4a42-a2b3-7a641a87d12c
 - text: DeLonge's 2016 email on Wright-Patterson and McCasland
   source: In Plain Sight
   location: ch20:8997-9721
@@ -699,7 +651,6 @@ references:
   claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bae97258-0aac-4690-b461-502f1b8a7df7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bae97258-0aac-4690-b461-502f1b8a7df7
 - text: Conspiracy allegation that debris went to Wright Field
   source: In Plain Sight
   location: ch27:17819-17994
@@ -709,7 +660,6 @@ references:
   claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
 - text: Kobitz laughed at the Mogul explanation
   source: In Plain Sight
   location: ch27:14837-15066
@@ -719,7 +669,6 @@ references:
   claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54a8fbd7-770d-46f6-bc88-42a499f8a4f9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-54a8fbd7-770d-46f6-bc88-42a499f8a4f9
 - text: Kobitz said material was hard metal, not soft
   source: In Plain Sight
   location: ch27:15079-15231
@@ -728,7 +677,6 @@ references:
   claim_id: 651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
 - text: Eric Davis on radio calling Roswell a good bet
   source: In Plain Sight
   location: ch17:13030-13376
@@ -739,7 +687,6 @@ references:
   claim_id: e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
 - text: Trump's 2020 interview with Don Trump Jr. on Roswell
   source: In Plain Sight
   location: ch28:25830-25986
@@ -749,7 +696,6 @@ references:
   claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
 - text: Don Trump Jr.'s tongue-in-cheek question
   source: In Plain Sight
   location: ch28:25994-26147
@@ -758,7 +704,6 @@ references:
   claim_id: 754730b5-008c-44ec-bbae-94e0031f4686
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-754730b5-008c-44ec-bbae-94e0031f4686
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-754730b5-008c-44ec-bbae-94e0031f4686
 - text: Trump's 'very interesting' response
   source: In Plain Sight
   location: ch28:26151-26231
@@ -767,7 +712,6 @@ references:
   claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7583bcb5-6046-4d23-97aa-00c90f672143
 - text: Trump said he'd heard interesting things, reported 2020-06-19
   source: In Plain Sight
   location: ch34:66515-66620
@@ -776,7 +720,6 @@ references:
   claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
 - text: Clinton said he knew of no crashed spacecraft and wanted to know
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -787,7 +730,6 @@ references:
   claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e523c48c-aed3-4378-8039-aa38622d3a42
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-e523c48c-aed3-4378-8039-aa38622d3a42
 - text: Something crashed at Roswell in 1947
   source: In Plain Sight
   location: ch7:21309-21373
@@ -795,7 +737,6 @@ references:
   claim_id: a798d39a-7e5d-473a-9768-35490f5dd08f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a798d39a-7e5d-473a-9768-35490f5dd08f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a798d39a-7e5d-473a-9768-35490f5dd08f
 - text: As many critics within ufology as believers
   source: In Plain Sight
   location: ch7:21794-21927
@@ -804,7 +745,6 @@ references:
   claim_id: 7e706476-15ad-4454-b80e-230c5d18067b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e706476-15ad-4454-b80e-230c5d18067b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7e706476-15ad-4454-b80e-230c5d18067b
 - text: Roswell as an open question given bungled explanations
   source: In Plain Sight
   location: ch7:21943-22120
@@ -814,7 +754,6 @@ references:
   claim_id: 81cac8c3-506e-4a22-adc7-f3935385a74d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81cac8c3-506e-4a22-adc7-f3935385a74d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-81cac8c3-506e-4a22-adc7-f3935385a74d
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

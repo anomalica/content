@@ -58,7 +58,6 @@ references:
   claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
 - text: The Act proposed eminent domain over nonhuman biological evidence and recovered
     technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -70,7 +69,6 @@ references:
   claim_id: 485f26c2-e6f5-4b26-9229-a92c6ab66139
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-485f26c2-e6f5-4b26-9229-a92c6ab66139
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-485f26c2-e6f5-4b26-9229-a92c6ab66139
 - text: The Act creates a presidential review board to plan controlled disclosure
     to the American people.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -81,7 +79,6 @@ references:
   claim_id: 3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
 - text: The Act pulls funding from UAP activity not approved by congressional committees.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7152-7258
@@ -90,7 +87,6 @@ references:
   claim_id: f0cc10b5-0ced-45d4-b487-b579560c7753
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0cc10b5-0ced-45d4-b487-b579560c7753
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f0cc10b5-0ced-45d4-b487-b579560c7753
 - text: Elizondo said the Act bars taxpayer-funded UAP activity without Congress's
     approval.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -100,7 +96,6 @@ references:
   claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-817b6454-ee77-494f-8ea4-458d3476a430
 - text: The Act directs the National Archives to collect UAP-related government documents.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7492-7657
@@ -110,7 +105,6 @@ references:
   claim_id: 2dc9c087-4b56-4a6c-ae66-725119807e9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2dc9c087-4b56-4a6c-ae66-725119807e9c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2dc9c087-4b56-4a6c-ae66-725119807e9c
 - text: The Act requires undisclosed UAP records to be made public within 25 years,
     unless the president classifies them for national security.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -121,7 +115,6 @@ references:
   claim_id: 66c65384-1288-4b82-92ac-2ab177a2ba9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66c65384-1288-4b82-92ac-2ab177a2ba9a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-66c65384-1288-4b82-92ac-2ab177a2ba9a
 - text: Elizondo said the Act's language stems from whistleblower briefings to Congress
     about NHI and the Legacy Program.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -134,7 +127,6 @@ references:
   claim_id: 5303835b-b843-4604-96e3-61a11063937d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5303835b-b843-4604-96e3-61a11063937d
 - text: Elizondo said the Act shows Congress is aware of the Legacy Program's possession
     of nonhuman bodies and technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -145,7 +137,6 @@ references:
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
 - text: Senate leadership asked Elizondo to help clarify facts while refining the
     Act.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -156,7 +147,6 @@ references:
   claim_id: 7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
 - text: Mike Turner opposed the Act and blocked much of what it sought to enact.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6902-6986
@@ -165,7 +155,6 @@ references:
   claim_id: 7feab3e4-6466-48be-aec8-0165a236a9f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7feab3e4-6466-48be-aec8-0165a236a9f2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7feab3e4-6466-48be-aec8-0165a236a9f2
 - text: Schumer and Rounds fought for the Act's passage, with some historic wins.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6999-7079
@@ -174,7 +163,6 @@ references:
   claim_id: 6340b994-e401-4601-a3d1-e49044dcf716
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6340b994-e401-4601-a3d1-e49044dcf716
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6340b994-e401-4601-a3d1-e49044dcf716
 - text: The presidential review board proposal was removed before the Act passed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7905-7958
@@ -182,7 +170,6 @@ references:
   claim_id: 5095999d-d448-4b11-8605-31b6c4aa7053
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5095999d-d448-4b11-8605-31b6c4aa7053
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5095999d-d448-4b11-8605-31b6c4aa7053
 - text: Schumer called it an outrage that the House had not adopted the review board
     proposal.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -194,7 +181,6 @@ references:
   claim_id: a659a8ca-9c90-4023-8586-e6d646818d56
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a659a8ca-9c90-4023-8586-e6d646818d56
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a659a8ca-9c90-4023-8586-e6d646818d56
 - text: Biden signed the UAP Disclosure Act into law in late December 2023.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7089-7132
@@ -202,7 +188,6 @@ references:
   claim_id: 76e8c6c2-a112-4164-9f68-cb723b8843c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-76e8c6c2-a112-4164-9f68-cb723b8843c2
 - text: Schumer continues pushing for the Act's declassification requirements, compared
     to the JFK files.
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6

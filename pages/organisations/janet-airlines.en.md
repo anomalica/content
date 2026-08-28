@@ -29,7 +29,6 @@ references:
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
 - text: Venditelli said an EG&G co-pilot who flew Janet Airlines into Groom Lake between
     roughly 1987 and 1991 reached out to Chris Ramsay
   source: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87

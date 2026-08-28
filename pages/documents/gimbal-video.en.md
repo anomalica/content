@@ -144,7 +144,6 @@ references:
   claim_id: 794e8fb6-2db5-4734-bf98-b7806a1e9dfa
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-794e8fb6-2db5-4734-bf98-b7806a1e9dfa
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-794e8fb6-2db5-4734-bf98-b7806a1e9dfa
 - text: The video shows a UAP swivelling on its axis in flight, manoeuvring beyond
     known aircraft capabilities.
   source: In Plain Sight
@@ -154,7 +153,6 @@ references:
   claim_id: b52f2de3-0056-4129-afa6-939e3e4266af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b52f2de3-0056-4129-afa6-939e3e4266af
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b52f2de3-0056-4129-afa6-939e3e4266af
 - text: The video was almost certainly filmed in late 2014 or early 2015 off the US
     east coast.
   source: In Plain Sight
@@ -164,7 +162,6 @@ references:
   claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
 - text: It was posted on the TTSA website alongside the FLIR1 video.
   source: In Plain Sight
   location: ch21:21287-21396
@@ -173,7 +170,6 @@ references:
   claim_id: 9b520d9b-7aea-4521-90ec-94cab1ddea8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b520d9b-7aea-4521-90ec-94cab1ddea8c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9b520d9b-7aea-4521-90ec-94cab1ddea8c
 - text: TTSA initially disclosed only that it was filmed by US Navy fighter pilots
     at an unspecified location.
   source: In Plain Sight
@@ -183,7 +179,6 @@ references:
   claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
 - text: Elizondo chose the Go-Fast, Gimbal and FLIR1 videos for declassification because
     their low resolution would hasten approval.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -194,7 +189,6 @@ references:
   claim_id: 4e101289-de3e-48f8-9726-5a59a348ea41
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e101289-de3e-48f8-9726-5a59a348ea41
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4e101289-de3e-48f8-9726-5a59a348ea41
 - text: He described the three videos on a single DoD Form 1910.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:4167-4309
@@ -203,7 +197,6 @@ references:
   claim_id: 2223045f-db27-4a88-9e13-8e82859a59b3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2223045f-db27-4a88-9e13-8e82859a59b3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2223045f-db27-4a88-9e13-8e82859a59b3
 - text: The Defense Office of Prepublication and Security Review stamped the form
     'UNLIMITED DISTRIBUTION'.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -213,7 +206,6 @@ references:
   claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c
 - text: The DoD released the video via the TTSA vault website on 2017-12-13.
   source: In Plain Sight
   location: ch34:44333-44432
@@ -222,7 +214,6 @@ references:
   claim_id: 581aa91e-36a3-41b0-b851-79582a541961
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-581aa91e-36a3-41b0-b851-79582a541961
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-581aa91e-36a3-41b0-b851-79582a541961
 - text: Pilots had encountered a fleet of five UAP and locked their camera onto one
     object.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -233,7 +224,6 @@ references:
   claim_id: 58420205-09a3-40eb-b322-ecf759d79a2b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-58420205-09a3-40eb-b322-ecf759d79a2b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-58420205-09a3-40eb-b322-ecf759d79a2b
 - text: The object appears elongated, white and cold in the infrared footage.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:17098-17315
@@ -243,7 +233,6 @@ references:
   claim_id: fc8fd206-b54c-41b6-adf9-cd775b2500b2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fc8fd206-b54c-41b6-adf9-cd775b2500b2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fc8fd206-b54c-41b6-adf9-cd775b2500b2
 - text: A camera mode change shows a lenticular shape rendered black, indicating cold.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:17933-18198
@@ -254,7 +243,6 @@ references:
   claim_id: 8a49dd88-16d6-4784-a33c-f5a85553691c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a49dd88-16d6-4784-a33c-f5a85553691c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8a49dd88-16d6-4784-a33c-f5a85553691c
 - text: Wind of approximately 220 km/h from the west; the object was concluded not
     to be a drone.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -265,7 +253,6 @@ references:
   claim_id: c85656b0-506a-43b8-bc14-5e5249f6a7c4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c85656b0-506a-43b8-bc14-5e5249f6a7c4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c85656b0-506a-43b8-bc14-5e5249f6a7c4
 - text: 120 knots is equivalent to approximately 220 km/h.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:18866-18949
@@ -274,7 +261,6 @@ references:
   claim_id: 2baef86e-3648-433b-9ec3-3902f217f457
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2baef86e-3648-433b-9ec3-3902f217f457
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2baef86e-3648-433b-9ec3-3902f217f457
 - text: Object parked itself, shifted its bulges, and flew perpendicular to the wind
     without bending.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -286,7 +272,6 @@ references:
   claim_id: c55948d1-aec7-4610-893a-22096c8d1589
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c55948d1-aec7-4610-893a-22096c8d1589
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c55948d1-aec7-4610-893a-22096c8d1589
 - text: Heatless, wingless, no exhaust, parked at approximately 6,100 metres, flipped
     in hurricane-force winds without fluttering.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -298,7 +283,6 @@ references:
   claim_id: c23d959e-885c-4ece-b717-5b94d707a6e4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c23d959e-885c-4ece-b717-5b94d707a6e4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c23d959e-885c-4ece-b717-5b94d707a6e4
 - text: The object never lost altitude as it turned 90 degrees.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21909-22000
@@ -307,7 +291,6 @@ references:
   claim_id: 3945eb2e-6649-4d90-9038-b27d7ea8662e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3945eb2e-6649-4d90-9038-b27d7ea8662e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3945eb2e-6649-4d90-9038-b27d7ea8662e
 - text: In the video, the object rotates through a 90-degree angle while hovering.
   source: In Plain Sight
   location: ch22:5024-5203
@@ -317,7 +300,6 @@ references:
   claim_id: f2d9736e-0005-4450-ba3a-2c406d8ddea2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d9736e-0005-4450-ba3a-2c406d8ddea2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2d9736e-0005-4450-ba3a-2c406d8ddea2
 - text: TTSA's website stated the object had low observability on video and radar.
   source: In Plain Sight
   location: ch21:21868-21943
@@ -326,7 +308,6 @@ references:
   claim_id: 219f9ae8-2444-476e-92d8-303b5f51f594
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-219f9ae8-2444-476e-92d8-303b5f51f594
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-219f9ae8-2444-476e-92d8-303b5f51f594
 - text: No distinguishable flight surfaces.
   source: In Plain Sight
   location: ch21:21950-22056
@@ -335,7 +316,6 @@ references:
   claim_id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
 - text: No obvious propulsion system.
   source: In Plain Sight
   location: ch21:21998-22021
@@ -343,7 +323,6 @@ references:
   claim_id: 85b1ea24-960c-475f-aab1-de65883a4426
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85b1ea24-960c-475f-aab1-de65883a4426
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-85b1ea24-960c-475f-aab1-de65883a4426
 - text: Never-before-seen flight capabilities.
   source: In Plain Sight
   location: ch21:22031-22056
@@ -351,7 +330,6 @@ references:
   claim_id: cee21df8-0645-4916-8354-60ea159ac53f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cee21df8-0645-4916-8354-60ea159ac53f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-cee21df8-0645-4916-8354-60ea159ac53f
 - text: TTSA speculated that a shimmer suggested a possible energy or resonance field.
   source: In Plain Sight
   location: ch21:22075-22197
@@ -360,7 +338,6 @@ references:
   claim_id: 8723e6e1-6842-496d-b1da-5345512fffe1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8723e6e1-6842-496d-b1da-5345512fffe1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8723e6e1-6842-496d-b1da-5345512fffe1
 - text: Like the Nimitz object, no visible flight surfaces, propulsion, or heat signature.
   source: In Plain Sight
   location: ch22:5565-5671
@@ -369,7 +346,6 @@ references:
   claim_id: c9ab546e-672d-4274-ba57-c2e1c233b980
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c9ab546e-672d-4274-ba57-c2e1c233b980
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c9ab546e-672d-4274-ba57-c2e1c233b980
 - text: Stayed stationary against ~220 km/h wind, then accelerated well above supersonic.
   source: In Plain Sight
   location: ch22:5682-5820
@@ -378,7 +354,6 @@ references:
   claim_id: a7190c38-f0ae-4057-94e0-91fe9011e0d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7190c38-f0ae-4057-94e0-91fe9011e0d9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a7190c38-f0ae-4057-94e0-91fe9011e0d9
 - text: The cluster stayed aloft for hours, beyond conventional fuel duration.
   source: In Plain Sight
   location: ch22:5828-5960
@@ -387,7 +362,6 @@ references:
   claim_id: 616ad299-5b1d-4c0f-bbb4-f2a311d86ef3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-616ad299-5b1d-4c0f-bbb4-f2a311d86ef3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-616ad299-5b1d-4c0f-bbb4-f2a311d86ef3
 - text: Graves saw a cluster in inverted V-shape on a longer version viewed aboard
     the USS Theodore Roosevelt.
   source: In Plain Sight
@@ -397,7 +371,6 @@ references:
   claim_id: d1443675-36be-4986-a5da-ddaf0257bbea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1443675-36be-4986-a5da-ddaf0257bbea
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d1443675-36be-4986-a5da-ddaf0257bbea
 - text: The publicly released section showed only the single object, cropped from
     the wider footage.
   source: In Plain Sight
@@ -407,7 +380,6 @@ references:
   claim_id: b4102fb1-8f43-4a94-a2b6-d13b56a501ed
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4102fb1-8f43-4a94-a2b6-d13b56a501ed
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b4102fb1-8f43-4a94-a2b6-d13b56a501ed
 - text: 'Graves: ''It''s just basic airplane physics.'''
   source: In Plain Sight
   location: ch22:5211-5253
@@ -415,7 +387,6 @@ references:
   claim_id: ed0e46f5-5dfb-4910-ac20-86be0553fda3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ed0e46f5-5dfb-4910-ac20-86be0553fda3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ed0e46f5-5dfb-4910-ac20-86be0553fda3
 - text: Fravor personally knows the pilot who filmed both videos.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -498,7 +469,6 @@ references:
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
 - text: An attendee joked the object seemed to be mocking observers.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:22403-22560
@@ -508,7 +478,6 @@ references:
   claim_id: bd2ee597-1dad-49ae-995e-877c4ea8f023
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd2ee597-1dad-49ae-995e-877c4ea8f023
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bd2ee597-1dad-49ae-995e-877c4ea8f023
 - text: No one in the meeting believed the object was made by humans.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:22788-22850
@@ -516,7 +485,6 @@ references:
   claim_id: 65505fe8-b660-480d-80db-62999081af2c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-65505fe8-b660-480d-80db-62999081af2c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-65505fe8-b660-480d-80db-62999081af2c
 - text: The behaviour unnerved and mystified the experts present.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:22859-22932
@@ -525,7 +493,6 @@ references:
   claim_id: 83fb0229-5ef9-4d3c-a282-f885262ad8c3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-83fb0229-5ef9-4d3c-a282-f885262ad8c3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-83fb0229-5ef9-4d3c-a282-f885262ad8c3
 - text: A CIA representative proposed a hybrid balloon with an inducted fan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24494-24663
@@ -535,7 +502,6 @@ references:
   claim_id: ce86cd54-c104-44c1-a4f6-b176e70c261a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
 - text: A CIA representative suggested a Mylar football with its own navigation and
     propulsion.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -545,7 +511,6 @@ references:
   claim_id: 1fa03d4c-d413-47c7-acc1-9705d2008385
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
 - text: A CIA representative suggested a tether or beamed energy from a floating platform.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25108-25225
@@ -554,7 +519,6 @@ references:
   claim_id: 05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
 - text: Elizondo asked about fuel and loiter capability given the mid-ocean location.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24974-25064
@@ -563,7 +527,6 @@ references:
   claim_id: 80a83812-d5e7-4e69-a85f-2da2040f6338
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-80a83812-d5e7-4e69-a85f-2da2040f6338
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-80a83812-d5e7-4e69-a85f-2da2040f6338
 - text: The videos were planned to reinforce OPLAN Interloper.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:19980-20043
@@ -571,7 +534,6 @@ references:
   claim_id: 08f8fe74-707e-4b53-9f6c-b17dbbed5249
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
 - text: 'Gradisher: the Navy has not released characterisations or conclusions on
     the videos.'
   source: In Plain Sight
@@ -582,7 +544,6 @@ references:
   claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
 - text: The Navy admits it cannot prosaically explain the footage.
   source: In Plain Sight
   location: ch27:25269-25434
@@ -592,7 +553,6 @@ references:
   claim_id: 2c52c9e5-eba0-4486-a38a-7d556fa96cf9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c52c9e5-eba0-4486-a38a-7d556fa96cf9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2c52c9e5-eba0-4486-a38a-7d556fa96cf9
 - text: The Pentagon says the video is real and officially unexplained.
   source: In Plain Sight
   location: ch37:8537-8590
@@ -600,7 +560,6 @@ references:
   claim_id: 3ca15ddf-b83e-452c-b27f-d3a90f5cdfde
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3ca15ddf-b83e-452c-b27f-d3a90f5cdfde
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3ca15ddf-b83e-452c-b27f-d3a90f5cdfde
 - text: No public evidence proves the capabilities in the DoD briefing slide beyond
     the three encounters.
   source: In Plain Sight
@@ -612,7 +571,6 @@ references:
   claim_id: 522adbe2-3516-4be1-be29-64c20947bf85
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-522adbe2-3516-4be1-be29-64c20947bf85
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-522adbe2-3516-4be1-be29-64c20947bf85
 - text: Elizondo compared the manoeuvring to the Apollo Lunar Module's docking approach
     to the lunar orbiter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -623,7 +581,6 @@ references:
   claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
 - text: A bubble effect was recalled as consistent with Puthoff's warp theory.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:6282-6382
@@ -632,7 +589,6 @@ references:
   claim_id: 35b8b447-4d55-4c19-aec7-53fdc9169b46
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35b8b447-4d55-4c19-aec7-53fdc9169b46
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35b8b447-4d55-4c19-aec7-53fdc9169b46
 - text: 'Elizondo: behaviour consistent with an antigravity device.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25554-25610
@@ -640,7 +596,6 @@ references:
   claim_id: 4d8ae13a-7a80-414b-9619-cb76bd68dc8e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4d8ae13a-7a80-414b-9619-cb76bd68dc8e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4d8ae13a-7a80-414b-9619-cb76bd68dc8e
 - text: Compared to the Virginia formation-splitting incident; balloons incapable
     of such manoeuvres.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -651,7 +606,6 @@ references:
   claim_id: eaa7d884-dedf-41c4-acbb-81fe45d5912e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eaa7d884-dedf-41c4-acbb-81fe45d5912e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eaa7d884-dedf-41c4-acbb-81fe45d5912e
 - text: Elizondo rejects the later balloon explanation.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:22305-22396
@@ -660,7 +614,6 @@ references:
   claim_id: e0462256-7866-4553-99d8-2f6745c47fd0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0462256-7866-4553-99d8-2f6745c47fd0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e0462256-7866-4553-99d8-2f6745c47fd0
 - text: 'Davis: the propulsion is off-world vehicles not made on Earth.'
   source: In Plain Sight
   location: ch28:27597-27744
@@ -669,7 +622,6 @@ references:
   claim_id: e1e39783-195d-4cd0-b5a4-1d2b454f8ab8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1e39783-195d-4cd0-b5a4-1d2b454f8ab8
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e1e39783-195d-4cd0-b5a4-1d2b454f8ab8
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

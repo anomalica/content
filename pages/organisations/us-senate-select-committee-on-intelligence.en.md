@@ -63,7 +63,6 @@ references:
   claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b72cc0d-2659-420d-ae47-138a2023f3f3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8b72cc0d-2659-420d-ae47-138a2023f3f3
 - text: Harry Reid served for two years on the Senate Select Committee on Intelligence
   source: In Plain Sight
   location: ch17:1214-1343
@@ -72,7 +71,6 @@ references:
   claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
 - text: Christopher Mellon was a staffer to the committee in Washington DC
   source: In Plain Sight
   location: ch13:7678-7761
@@ -81,7 +79,6 @@ references:
   claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
 - text: Mellon served as the committee's Minority Staff Director
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:10:00.5-00:10:08.2
@@ -100,7 +97,6 @@ references:
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-3001af87-f811-4ab3-8454-e641775abf6d
 - text: Mellon monitored Area 51, a USAF facility in the Nevada Test and Training
     Range, for the committee
   source: In Plain Sight
@@ -111,7 +107,6 @@ references:
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
 - text: First retrieval briefing given to Senate Armed Services Committee staff on
     2019-10-21, then SSCI staff two days later
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -123,7 +118,6 @@ references:
   claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-ba82812a-2d1c-479b-9249-60187dbf5494
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-ba82812a-2d1c-479b-9249-60187dbf5494
 - text: Eric Davis briefed DoD agencies and SASC/SSCI staff on possession of off-world
     vehicles
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -134,7 +128,6 @@ references:
   claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a89e117-678f-49f7-8c52-672a96cd2e99
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8a89e117-678f-49f7-8c52-672a96cd2e99
 - text: Congressional strategy began by engaging SSCI and SASC professional staff
     and members of Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -145,7 +138,6 @@ references:
   claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
 - text: In late 2020 the committee demanded a report on all UAP data, including navy
     pilot sightings
   source: In Plain Sight
@@ -156,7 +148,6 @@ references:
   claim_id: a8496531-a608-4712-8976-2e3ce23befc7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a8496531-a608-4712-8976-2e3ce23befc7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a8496531-a608-4712-8976-2e3ce23befc7
 - text: Rubio, as committee head, asked ODNI and the Pentagon for an unclassified
     UAP report within a month (December 2020)
   source: Navy pilots describe encounters with UFOs
@@ -184,7 +175,6 @@ references:
   claim_id: 51ece265-ac9f-4fc5-8aee-a88879ae9133
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-51ece265-ac9f-4fc5-8aee-a88879ae9133
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-51ece265-ac9f-4fc5-8aee-a88879ae9133
 - text: SSCI report on the FY2021 Intelligence Authorization Act found no unified
     process for collecting UAP intelligence
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -197,7 +187,6 @@ references:
   claim_id: 6eab19e0-e876-4eba-bcb0-2369d0f54c80
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-6eab19e0-e876-4eba-bcb0-2369d0f54c80
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-6eab19e0-e876-4eba-bcb0-2369d0f54c80
 - text: Warner and Rubio publicly supported UAP legislation in the FY2023 NDAA
   source: In Plain Sight
   location: ch30:13954-14150
@@ -207,7 +196,6 @@ references:
   claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
 - text: Summary of Grusch's complaint submitted to DNI Haines, SSCI, and HPSCI
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:12634-12836
@@ -217,7 +205,6 @@ references:
   claim_id: 92ab0c63-7a26-4521-bc47-405d01d3e22a
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-92ab0c63-7a26-4521-bc47-405d01d3e22a
 - text: In summer 2022 the Intelligence Community IG was required to forward Grusch's
     complaint to SSCI and HPSCI
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'

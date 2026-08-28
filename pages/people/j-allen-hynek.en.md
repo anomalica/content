@@ -120,7 +120,6 @@ references:
   claim_id: d5123701-5106-4f8c-800d-79c3d4cd3731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d5123701-5106-4f8c-800d-79c3d4cd3731
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d5123701-5106-4f8c-800d-79c3d4cd3731
 - text: Initially extremely sceptical, calling the subject 'utterly ridiculous' in
     his first year on Project Sign
   source: In Plain Sight
@@ -130,7 +129,6 @@ references:
   claim_id: 25989dbe-e0cf-4289-84ab-cefa36a563b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25989dbe-e0cf-4289-84ab-cefa36a563b6
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-25989dbe-e0cf-4289-84ab-cefa36a563b6
 - text: Was the United States Air Force's expert on UFO matters
   source: THE INVISIBLE COLLEGE
   location: ch8:22310-22365
@@ -146,7 +144,6 @@ references:
   claim_id: 9672045a-825c-49b6-8296-2cdf20ff4bc9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9672045a-825c-49b6-8296-2cdf20ff4bc9
 - text: Observed the air force could dismiss civilian reports but not its own military
     witnesses
   source: In Plain Sight
@@ -157,7 +154,6 @@ references:
   claim_id: 581edddd-f4c5-4aee-ae38-7fb684295e85
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-581edddd-f4c5-4aee-ae38-7fb684295e85
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-581edddd-f4c5-4aee-ae38-7fb684295e85
 - text: Said the USAF expected him to perform the role of debunker
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
@@ -167,7 +163,6 @@ references:
   claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-9d8b31ae-e6ab-41b3-923c-f4eff177a37b
 - text: Described two schools of thought within the air force's approach to UAP investigations
   source: In Plain Sight
   location: ch8:12205-12466
@@ -178,7 +173,6 @@ references:
   claim_id: bc2e1826-05db-4e8e-8331-ddd0120b5193
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc2e1826-05db-4e8e-8331-ddd0120b5193
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc2e1826-05db-4e8e-8331-ddd0120b5193
 - text: Said the air force's theorem was 'It can't be, therefore it isn't'
   source: In Plain Sight
   location: ch8:12646-12811
@@ -188,7 +182,6 @@ references:
   claim_id: 4a7f72c8-e87c-49f7-980a-d7b0422d4913
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a7f72c8-e87c-49f7-980a-d7b0422d4913
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4a7f72c8-e87c-49f7-980a-d7b0422d4913
 - text: Witnessed the air force instructing investigators to stall press inquiries
   source: In Plain Sight
   location: ch8:15756-15980
@@ -198,7 +191,6 @@ references:
   claim_id: 2c47b87f-6b4e-4939-a605-f524d89b75b4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c47b87f-6b4e-4939-a605-f524d89b75b4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2c47b87f-6b4e-4939-a605-f524d89b75b4
 - text: Hynek's Northwestern team had access to Project Blue Book's files
   source: THE INVISIBLE COLLEGE
   location: ch7:944-1092
@@ -234,7 +226,6 @@ references:
   claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2ae82336-18b3-428b-8487-563fb1148e94
 - text: 'Vallée: Hynek called the network ''the Invisible College'', after the seventeenth-century
     natural philosophers'
   source: THE INVISIBLE COLLEGE
@@ -381,7 +372,6 @@ references:
   claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
 - text: Hynek concluded the Robertson Panel's role was to debunk sightings
   source: In Plain Sight
   location: ch8:18334-18547
@@ -391,7 +381,6 @@ references:
   claim_id: 2a986b38-6dc6-4301-852b-7de5c1b847e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
 - text: Hynek wrote the CIA feared UFO reports, not UFOs
   source: In Plain Sight
   location: ch8:18630-18723
@@ -400,7 +389,6 @@ references:
   claim_id: 91550b36-d328-42e3-bbd1-0da8adf50751
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91550b36-d328-42e3-bbd1-0da8adf50751
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-91550b36-d328-42e3-bbd1-0da8adf50751
 - text: Hynek and Vallée travelled to Boulder to brief the Condon Committee
   source: THE INVISIBLE COLLEGE
   location: ch10:20079-20135
@@ -420,7 +408,6 @@ references:
   claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-43c0d16a-0321-4689-8f27-edc439bd870b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-43c0d16a-0321-4689-8f27-edc439bd870b
 - text: Vallée and Hynek verified UFO landings tended to occur in desolate places
   source: THE INVISIBLE COLLEGE
   location: ch10:7139-7192
@@ -438,7 +425,6 @@ references:
   claim_id: 2fcd5bc0-b655-41e7-af63-be8942cb13b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
 - text: Hynek later regretted his role in suppressing UAP evidence under the USAF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:30419-30529
@@ -447,7 +433,6 @@ references:
   claim_id: 555eea73-f5bd-4526-bf19-5bf79c9a49a5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-555eea73-f5bd-4526-bf19-5bf79c9a49a5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-555eea73-f5bd-4526-bf19-5bf79c9a49a5
 - text: Hynek said the USAF's key goal was debunking UAP reports
   source: Report on the Historical Record of U.S. Government Involvement with UAP,
     Volume I
@@ -458,7 +443,6 @@ references:
   claim_id: 21a189e0-96f7-4b2e-8931-7e753db8b896
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-21a189e0-96f7-4b2e-8931-7e753db8b896
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-21a189e0-96f7-4b2e-8931-7e753db8b896
 - text: Hynek visited Socorro, New Mexico to investigate the 1964 Lonnie Zamora encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23043
@@ -466,7 +450,6 @@ references:
   claim_id: 32065d35-6634-41eb-b9d2-d3ccc13850a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
 - text: Harry Turner met Hynek during Hynek's visit to Australia
   source: In Plain Sight
   location: ch11:2938-3020
@@ -475,7 +458,6 @@ references:
   claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
 - text: 'Turner: Hynek did not accept the USAF''s misidentification/hysteria/hoax
     explanations'
   source: In Plain Sight
@@ -486,7 +468,6 @@ references:
   claim_id: 94962b37-fc07-46da-8a2f-17d47021a081
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94962b37-fc07-46da-8a2f-17d47021a081
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-94962b37-fc07-46da-8a2f-17d47021a081
 - text: Don Schmitt trained as an investigator under Hynek
   source: In Plain Sight
   location: ch7:20739-20829
@@ -495,7 +476,6 @@ references:
   claim_id: c3f900ca-af68-430e-b8ac-17be2892c76b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3f900ca-af68-430e-b8ac-17be2892c76b
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c3f900ca-af68-430e-b8ac-17be2892c76b
 - text: Robert Friend and Hynek held material from the 1958 Hartford, Connecticut
     crash retrieval
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event

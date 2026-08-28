@@ -93,7 +93,6 @@ references:
   claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-697c81f3-829c-482a-8d35-ca95c63e94c5
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-697c81f3-829c-482a-8d35-ca95c63e94c5
 - text: Fridman said the SR-71 still holds the speed record of any aircraft
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -130,7 +129,6 @@ references:
   claim_id: 77a80a46-3af5-4896-8f55-2f1705dd25b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-77a80a46-3af5-4896-8f55-2f1705dd25b3
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-77a80a46-3af5-4896-8f55-2f1705dd25b3
 - text: SR-71 can just about reach Mach 5, beyond which the aircraft would be incinerated
     by heat
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -141,7 +139,6 @@ references:
   claim_id: f1cc7a47-4251-4c89-98b4-f7676657da65
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f1cc7a47-4251-4c89-98b4-f7676657da65
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f1cc7a47-4251-4c89-98b4-f7676657da65
 - text: At full speed, SR-71 needs airspace roughly half the size of Ohio to complete
     a turn
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -152,7 +149,6 @@ references:
   claim_id: ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
 - text: Fravor said the U-2 and SR-71 did high-altitude reconnaissance before satellites
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -200,7 +196,6 @@ references:
   claim_id: 1aaad40b-67cd-40c1-bf11-d19fe580040d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1aaad40b-67cd-40c1-bf11-d19fe580040d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-1aaad40b-67cd-40c1-bf11-d19fe580040d
 - text: Skunk Works developed the U-2, SR-71, F-117A, F-22 and F-35
   source: In Plain Sight
   location: ch18:15942-16329
@@ -212,7 +207,6 @@ references:
   claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
 - text: Dave, a retired USAF lieutenant colonel who flew the SR-71, witnessed an unidentified
     craft at Kadena, 1972-73
   source: In Plain Sight
@@ -224,7 +218,6 @@ references:
   claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-699a3e88-07e2-431c-b5ac-ee8661c12c4e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-699a3e88-07e2-431c-b5ac-ee8661c12c4e
 - text: Dave closed on the object and saw it was not round, with shiny metallic edges
   source: In Plain Sight
   location: ch13:18354-18504
@@ -233,7 +226,6 @@ references:
   claim_id: a381a031-01cb-435d-8afb-98ea060e987e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a381a031-01cb-435d-8afb-98ea060e987e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a381a031-01cb-435d-8afb-98ea060e987e
 - text: Robert Fish shown radar tracks of a hypersonic UFO alongside a USAF SR-71
   source: In Plain Sight
   location: ch13:31185-31383
@@ -243,7 +235,6 @@ references:
   claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9eeef63-58be-4494-8af5-6b01717b10dd
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f9eeef63-58be-4494-8af5-6b01717b10dd
 - text: Two images streaking at over Mach 3, lead being the SR-71, the other unidentified
   source: In Plain Sight
   location: ch13:31400-31572
@@ -253,7 +244,6 @@ references:
   claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5df5fdb3-0df3-4406-aa0c-acdb469a219f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5df5fdb3-0df3-4406-aa0c-acdb469a219f
 - text: Unidentified object made a 90-degree turn and rapidly gained altitude while
     maintaining speed
   source: In Plain Sight
@@ -264,7 +254,6 @@ references:
   claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
 - text: Pre-Nimitz UAP tracked at ~24,000 metres, above the normal envelope except
     for aircraft like the U-2, SR-71 and Aurora
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -276,7 +265,6 @@ references:
   claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3687c3dd-7ce7-4b8b-926e-da5ac90caf80
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3687c3dd-7ce7-4b8b-926e-da5ac90caf80
 - text: UAP make right-angle turns at speeds up to ten times faster than the SR-71
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:13244-13339
@@ -285,7 +273,6 @@ references:
   claim_id: 09c962b1-af39-4fe1-af82-591778224e5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-09c962b1-af39-4fe1-af82-591778224e5f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-09c962b1-af39-4fe1-af82-591778224e5f
 - text: David Fruehauf, former SR-71 pilot, called Bob Lazar very credible in a TV
     interview
   source: In Plain Sight
@@ -296,7 +283,6 @@ references:
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

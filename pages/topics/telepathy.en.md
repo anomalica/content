@@ -391,6 +391,7 @@ references:
   claim_id: 6a18bedf-c03a-4e34-98b7-3f12332fbe38
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
 - text: Nanstiel's 2020 garage grey communicating in English words
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -400,6 +401,7 @@ references:
   claim_id: 02eb55e5-1a5b-4170-85a7-0f32ca3540ad
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
 - text: Nanstiel's description of grey entrancement
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -419,6 +421,7 @@ references:
   claim_id: 4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
 - text: Nanstiel belligerent toward the doctor creature, hearing grey telepathy
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'
@@ -475,6 +478,7 @@ references:
   claim_id: 166df7e1-469a-41f2-931a-2daf2366ae04
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-166df7e1-469a-41f2-931a-2daf2366ae04
+  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-166df7e1-469a-41f2-931a-2daf2366ae04
 - text: Nanstiel on a purely telepathic species losing human art forms
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
     | DEBRIEFED ep. 85'

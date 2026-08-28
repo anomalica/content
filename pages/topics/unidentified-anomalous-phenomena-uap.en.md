@@ -426,7 +426,6 @@ references:
   claim_id: a578a803-30df-4ff1-b2f5-4279326a98cb
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-a578a803-30df-4ff1-b2f5-4279326a98cb
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-a578a803-30df-4ff1-b2f5-4279326a98cb
 - text: The US government had publicly ignored UFOs since closing its Project Blue
     Book investigation in 1969.
   source: Navy pilots describe encounters with UFOs
@@ -588,6 +587,7 @@ references:
   claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
   record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
   workbench_url: https://workbench.anomalica.is/14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
+  inspection_url: /records/2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace#claim-8384cf1a-f01f-4fef-bbb0-876d4966c66e
 - text: Kevin Day observed on radar that the unidentified object went from approximately
     8,500 metres to the surface of the ocean in 0.78 seconds during the 2004 USS Nimitz
     encounter.
@@ -621,7 +621,6 @@ references:
   claim_id: dffba956-1633-4f08-9d2c-be07526002d5
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-dffba956-1633-4f08-9d2c-be07526002d5
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-dffba956-1633-4f08-9d2c-be07526002d5
 - text: The US Senate Select Committee on Intelligence ordered the ODNI and the Secretary
     of Defense to deliver a report on UAP sightings.
   source: Navy pilots describe encounters with UFOs
@@ -642,7 +641,6 @@ references:
   claim_id: 4d2e00fd-c4f0-403a-a026-aad371e42ae0
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-4d2e00fd-c4f0-403a-a026-aad371e42ae0
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-4d2e00fd-c4f0-403a-a026-aad371e42ae0
 - text: The FY2023 National Defense Authorization Act asks for reporting on material
     retrieval, analysis, reverse engineering, and development involving UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -653,7 +651,6 @@ references:
   claim_id: 17aaa392-8955-46b9-a761-0b17871cd57c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-17aaa392-8955-46b9-a761-0b17871cd57c
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-17aaa392-8955-46b9-a761-0b17871cd57c
 - text: David Grusch believes the US government is in possession of UAP, based on
     interviewing over 40 witnesses over four years.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -690,7 +687,6 @@ references:
   claim_id: 96c2db33-c74f-4cd3-9a77-280a0656eb2c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
   workbench_url: https://workbench.anomalica.is/829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-96c2db33-c74f-4cd3-9a77-280a0656eb2c
 - text: Joy Clarke described the Westall object's movement as incredible, going straight
     up, side, up, down, all over the place, with a hump on top like a silvery thing
     with little lights around it.
@@ -702,7 +698,6 @@ references:
   claim_id: 32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   workbench_url: https://workbench.anomalica.is/17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20#claim-32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
-  inspection_url: /records/2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight#claim-32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
 - text: Annie Farinaccio saw a diamond-shaped craft with lights at the bottom hovering
     straight above the vehicle during her 1991 Exmouth encounter.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
@@ -721,7 +716,6 @@ references:
   claim_id: ed0d4af7-7d91-4640-a8dd-1b30bd58a606
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   workbench_url: https://workbench.anomalica.is/f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0#claim-ed0d4af7-7d91-4640-a8dd-1b30bd58a606
-  inspection_url: /records/2021-05-17-video-navy-pilots-describe-encounters-with-ufos#claim-ed0d4af7-7d91-4640-a8dd-1b30bd58a606
 - text: David Fravor considers UAP a potential threat to US national security because
     the technology encountered was far superior to anything the US possessed.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -733,7 +727,6 @@ references:
   claim_id: 1920153e-e9a9-4fd3-8a81-5223fb2b30aa
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-1920153e-e9a9-4fd3-8a81-5223fb2b30aa
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-1920153e-e9a9-4fd3-8a81-5223fb2b30aa
 - text: There is a stigma attached to the UAP subject within the scientific community.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'

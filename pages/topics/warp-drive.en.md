@@ -39,7 +39,6 @@ references:
   claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
 - text: The phrase 'warp drive' was coined by a 1930s pulp fiction science-fiction
     writer
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -49,7 +48,6 @@ references:
   claim_id: aef67c61-56b8-471b-ab7a-be443e558f80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aef67c61-56b8-471b-ab7a-be443e558f80
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-aef67c61-56b8-471b-ab7a-be443e558f80
 - text: Puthoff's papers touched on warp drives, traversable wormholes and time machines
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:2637-2714
@@ -58,7 +56,6 @@ references:
   claim_id: 0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
 - text: US government research facilities linked to the DOD, NASA and MIT gave warp
     drive serious consideration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -68,7 +65,6 @@ references:
   claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
 - text: Miguel Alcubierre Moya, aged thirty, showed in his Cardiff University PhD
     thesis how warp drives could work in theory
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -79,7 +75,6 @@ references:
   claim_id: fbad143b-ef77-42a1-8c6d-e8df5029f72c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad143b-ef77-42a1-8c6d-e8df5029f72c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fbad143b-ef77-42a1-8c6d-e8df5029f72c
 - text: Physicists after Alcubierre argued warp drives might be theoretically possible
     but not practical
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -89,7 +84,6 @@ references:
   claim_id: c3025e80-6e0d-405b-a7d1-d0ebe8de6983
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3025e80-6e0d-405b-a7d1-d0ebe8de6983
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c3025e80-6e0d-405b-a7d1-d0ebe8de6983
 - text: Puthoff theorised a warp bubble for faster-than-light travel would be limited
     in size by the energy needed to sustain it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -99,7 +93,6 @@ references:
   claim_id: 898853e9-f3d6-40e4-8ffc-34c2b2afe498
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-898853e9-f3d6-40e4-8ffc-34c2b2afe498
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-898853e9-f3d6-40e4-8ffc-34c2b2afe498
 - text: Puthoff theorised that space/time-warping technology could create a bubble
     around a UAP craft
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -109,7 +102,6 @@ references:
   claim_id: 31842d70-1eb4-4850-bedd-d10e9e78f22f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31842d70-1eb4-4850-bedd-d10e9e78f22f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-31842d70-1eb4-4850-bedd-d10e9e78f22f
 - text: 'Puthoff''s view: sufficient energy could create a warp bubble compressing
     space ahead of a vehicle and stretching it behind'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -121,7 +113,6 @@ references:
   claim_id: 48da34aa-835b-4e37-85ab-c46b569ba73a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48da34aa-835b-4e37-85ab-c46b569ba73a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48da34aa-835b-4e37-85ab-c46b569ba73a
 - text: Puthoff says advances in physics mean warp drive is not out of the question
   source: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
   location: 00:32:47.9-00:32:54.4

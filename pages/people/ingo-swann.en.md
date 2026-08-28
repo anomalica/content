@@ -297,7 +297,6 @@ references:
   claim_id: 64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
 - text: Eric Davis told Thomas Wilson about Swann's story.
   source: EWD Notes - Eric Davis Meeting with Adm. Wilson
   location: char:24155-24162

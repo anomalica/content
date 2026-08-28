@@ -71,7 +71,6 @@ references:
   claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a204dd47-287c-48cb-b4a7-99a80528c391
 - text: The remote viewing technique used in Project Stargate was pioneered at Stanford
     in the late 1960s, led by Harold Puthoff.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -81,7 +80,6 @@ references:
   claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c17217b6-187a-479f-abcb-d31254a39eb7
 - text: Puthoff was a Stanford researcher and NSA employee when he and Russell Targ
     were approached by the CIA and told Russia had a remote viewing programme.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -92,7 +90,6 @@ references:
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
 - text: Puthoff's career spanned General Electric, Sperry Corporation, the NSA, Stanford,
     and SRI International.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -102,7 +99,6 @@ references:
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
 - text: Stanford's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial
     origin of UFO/UAP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -113,7 +109,6 @@ references:
   claim_id: 725407aa-339e-485b-a96d-db25bd0a0241
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-725407aa-339e-485b-a96d-db25bd0a0241
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-725407aa-339e-485b-a96d-db25bd0a0241
 - text: Elisabeth Targ spent a decade at Stanford, becoming a certified Russian translator
     before earning her medical degree.
   source: Surviving Death
@@ -132,7 +127,6 @@ references:
   claim_id: 5b387560-94a6-415c-90da-39d5a2ea5377
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b387560-94a6-415c-90da-39d5a2ea5377
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5b387560-94a6-415c-90da-39d5a2ea5377
 - text: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: char:18165-18237
@@ -140,7 +134,6 @@ references:
   claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-82b2198c-9671-459d-86f6-1b8c5136182b
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-82b2198c-9671-459d-86f6-1b8c5136182b
 - text: Nolan held a chaired position and his own laboratory at Stanford, where postdocs
     and graduate students studied human genetics.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -151,7 +144,6 @@ references:
   claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
 - text: Livingston's team brought MRI images of the brains of UAP experiencers, all
     servicemen and intelligence officials, to Nolan's office.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -162,7 +154,6 @@ references:
   claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
 - text: Nolan was a friend and colleague of Luis Elizondo and was included on Tom
     DeLonge's advisory board.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -171,7 +162,6 @@ references:
   claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2863f5c1-c383-448b-9c58-6587ca071baf
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2863f5c1-c383-448b-9c58-6587ca071baf
 - text: Nolan is a professor at Stanford's medical school; the Nolan/Vallée Iowa UAP
     materials paper was his first aerospace-journal publication.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -181,7 +171,6 @@ references:
   claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af50dfe6-97b1-492d-bc35-325d72bd153a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-af50dfe6-97b1-492d-bc35-325d72bd153a
 - text: A Stanford analysis and Robert Powell's 2020 analysis found no evidence the
     Ubatuba samples were extra-terrestrial or unusually pure magnesium.
   source: In Plain Sight
@@ -193,7 +182,6 @@ references:
   claim_id: 6b9636bc-f8ee-4a69-9494-74baea2ed4b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b9636bc-f8ee-4a69-9494-74baea2ed4b9
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6b9636bc-f8ee-4a69-9494-74baea2ed4b9
 - text: David Fravor named Stanford among the top-tier universities from which leading-edge
     technology research typically emerges.
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex

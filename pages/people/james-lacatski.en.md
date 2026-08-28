@@ -99,7 +99,6 @@ references:
   claim_id: bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
 - text: AAWSAP was nestled inside the DIA, part of the US intelligence community,
     drawing authority from Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -109,7 +108,6 @@ references:
   claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
 - text: AAWSAP was supported by DIA Director Michael D. Maples and funded through
     Senators Reid, Stevens and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -121,7 +119,6 @@ references:
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
 - text: Lacatski described AAWSAP's focus on unidentified aircraft with beyond-next-generation
     capabilities, now called UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -133,7 +130,6 @@ references:
   claim_id: 278b3d9e-3a51-460f-8d81-318ff6eb8947
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-278b3d9e-3a51-460f-8d81-318ff6eb8947
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-278b3d9e-3a51-460f-8d81-318ff6eb8947
 - text: Lacatski told Elizondo of decades of reported sightings by civilians, military
     and law enforcement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -146,7 +142,6 @@ references:
   claim_id: 75a591ed-babe-4bd3-8abc-cc61ccf0b459
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-75a591ed-babe-4bd3-8abc-cc61ccf0b459
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-75a591ed-babe-4bd3-8abc-cc61ccf0b459
 - text: Lacatski told Elizondo the phenomena did not conform to physics as currently
     understood
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -156,7 +151,6 @@ references:
   claim_id: 2da76bf1-2725-42f3-a88c-95234c1ff88d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2da76bf1-2725-42f3-a88c-95234c1ff88d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-2da76bf1-2725-42f3-a88c-95234c1ff88d
 - text: Elizondo met Lacatski at a government office building on the tenth floor in
     Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -165,7 +159,6 @@ references:
   claim_id: d6a0f326-48b7-4ced-913e-9365016bf9f8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d6a0f326-48b7-4ced-913e-9365016bf9f8
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d6a0f326-48b7-4ced-913e-9365016bf9f8
 - text: Lacatski formally asked Elizondo to handle counterintelligence and security
     for AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -175,7 +168,6 @@ references:
   claim_id: f174fbab-955b-4b77-b596-8019cad9c551
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f174fbab-955b-4b77-b596-8019cad9c551
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-f174fbab-955b-4b77-b596-8019cad9c551
 - text: Lacatski said the programme needed a senior counterintelligence agent against
     foreign adversaries
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -186,7 +178,6 @@ references:
   claim_id: 1534e40a-6b44-41b8-bc7d-2c8ac38edbff
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1534e40a-6b44-41b8-bc7d-2c8ac38edbff
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1534e40a-6b44-41b8-bc7d-2c8ac38edbff
 - text: Stratton and Lacatski briefed Elizondo on AAWSAP/AATIP in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:245-295
@@ -194,7 +185,6 @@ references:
   claim_id: 8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
 - text: At Lacatski's suggestion, Elizondo searched government systems for terms like
     'anomaly' and 'UAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -205,7 +195,6 @@ references:
   claim_id: cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
 - text: 'Elizondo: Lacatski''s team investigated Skinwalker Ranch because the science
     warranted it'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -217,7 +206,6 @@ references:
   claim_id: a0568dbf-c6aa-4c17-b076-5f5f53e59c27
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a0568dbf-c6aa-4c17-b076-5f5f53e59c27
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a0568dbf-c6aa-4c17-b076-5f5f53e59c27
 - text: 'Elizondo: Lacatski believed research at Skinwalker Ranch was worth pursuing'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:8947-9022
@@ -226,7 +214,6 @@ references:
   claim_id: 5744799d-b335-4423-8644-9eb4feb6df36
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5744799d-b335-4423-8644-9eb4feb6df36
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-5744799d-b335-4423-8644-9eb4feb6df36
 - text: A DIA scientist, likely Lacatski, sent Reid a letter about experiences at
     Skinwalker Ranch
   source: In Plain Sight (2021)
@@ -239,7 +226,6 @@ references:
   claim_id: 37be4bef-43f5-47fb-b9ae-afcb0ac75a74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
 - text: Email responses to circulated AAWSAP executive summaries were unfailingly
     positive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -249,7 +235,6 @@ references:
   claim_id: c9226745-372b-4dfa-9f3a-bb912d541b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c9226745-372b-4dfa-9f3a-bb912d541b9d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c9226745-372b-4dfa-9f3a-bb912d541b9d
 - text: After a DIA leadership transition, senior leadership actively tried to kill
     AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -260,7 +245,6 @@ references:
   claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
 - text: DIA bureaucrats killed, filed away, or ignored reports of Lacatski's work
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:48136-48348
@@ -270,7 +254,6 @@ references:
   claim_id: 6740fcd2-1c1b-45e6-81bc-ec60872ad141
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6740fcd2-1c1b-45e6-81bc-ec60872ad141
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-6740fcd2-1c1b-45e6-81bc-ec60872ad141
 - text: Within 30-45 days of Devon Woods's reassignment to DIA, attitudes toward AAWSAP
     shifted
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -282,7 +265,6 @@ references:
   claim_id: 7ef53de4-cc6d-4955-a5a2-c248f0b1292b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ef53de4-cc6d-4955-a5a2-c248f0b1292b
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ef53de4-cc6d-4955-a5a2-c248f0b1292b
 - text: In fall 2009, Elizondo, Semivan and Lacatski discussed dropping paranormal
     cases to focus on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -294,7 +276,6 @@ references:
   claim_id: 290aa661-6ea6-4ae5-9083-56a28d770985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-290aa661-6ea6-4ae5-9083-56a28d770985
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-290aa661-6ea6-4ae5-9083-56a28d770985
 - text: 'Elizondo: in spring 2010 Lacatski confided he was being pressured to stop
     AAWSAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -304,7 +285,6 @@ references:
   claim_id: 68ea8837-b63c-48b9-85a6-5f7962c06b2d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68ea8837-b63c-48b9-85a6-5f7962c06b2d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-68ea8837-b63c-48b9-85a6-5f7962c06b2d
 - text: Lacatski planned a 2010 meeting with Deputy Secretary of Defense William J.
     Lynn
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -315,7 +295,6 @@ references:
   claim_id: 0c5d5c50-2081-4a41-bc67-2ba427229517
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c5d5c50-2081-4a41-bc67-2ba427229517
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0c5d5c50-2081-4a41-bc67-2ba427229517
 - text: 'Knapp: Lacatski was rebuked and the door slammed when he pressed for access
     to exotic materials'
   source: Statement to Congress
@@ -337,7 +316,6 @@ references:
   claim_id: 427be487-8a34-4076-b078-fbb64dac409a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-427be487-8a34-4076-b078-fbb64dac409a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-427be487-8a34-4076-b078-fbb64dac409a
 - text: Higgins agreed to look into protecting Lacatski
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:18804-18863
@@ -345,7 +323,6 @@ references:
   claim_id: e6eabda3-15e9-47d4-b8be-543843522c6f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e6eabda3-15e9-47d4-b8be-543843522c6f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e6eabda3-15e9-47d4-b8be-543843522c6f
 - text: Elizondo believed Lacatski and AAWSAP/AATIP had been targeted for elimination
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:51505-51651
@@ -354,7 +331,6 @@ references:
   claim_id: e9588082-7ac7-41d6-9f8d-f4474e721849
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e9588082-7ac7-41d6-9f8d-f4474e721849
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e9588082-7ac7-41d6-9f8d-f4474e721849
 - text: Lacatski conceived a chart placing God, Angels, and Humans in a hierarchy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch13:7013-7227
@@ -364,7 +340,6 @@ references:
   claim_id: 9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
 - text: 'Elizondo: Lacatski theorised an ecosystem of divine/semidivine beings between
     angels and humans'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -376,7 +351,6 @@ references:
   claim_id: 4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
 - text: Lacatski's leadership briefing used terms including archangels, demons, and
     spiritual realm
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -386,7 +360,6 @@ references:
   claim_id: 45bd5514-9829-4c69-b4b7-2de396af42f0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-45bd5514-9829-4c69-b4b7-2de396af42f0
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-45bd5514-9829-4c69-b4b7-2de396af42f0
 - text: 'Elizondo: Lacatski''s team ran the official UAP programme while the Legacy
     Program worked at cross-purposes'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -397,7 +370,6 @@ references:
   claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
 - text: Mitchells identifies Lacatski as a DIA rocket scientist involved in AAWSAP
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event (2026-07-14)
   location: 01:01:56.5-01:02:01.8
